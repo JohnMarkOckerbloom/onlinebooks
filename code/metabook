@@ -1,0 +1,169 @@
+#!/usr/bin/perl
+
+use lib "/websites/OnlineBooks/nonpublic/lib";
+use lib "nlib";
+use OLBP;
+
+$filedir = "/websites/OnlineBooks/nonpublic/bookdb/metafiles/";
+
+$serverurl = "http://onlinebooks.library.upenn.edu/";
+$booksurl = $serverurl;
+$gutlookup = $serverurl . "webbin/gutbook/lookup?num=";
+
+$homepage  = $booksurl;
+
+my %credit = ("AUTHOR" => "", "EDITOR" => "edited",
+              "TRANSLATOR" => "translated",
+              "CONTRIBUTOR" => "contrib.", "ILLUSTRATOR" => "illustrated");
+
+sub isdatesuffix {
+  my $s = shift;
+  return (($s =~ /^[-\d\s]*$/) || ($s =~ /^\s*\d*-\d*\s+B\.\s*C\.\s*$/));
+}
+
+sub informalname {
+  my $author = shift;
+  my $str = $author;
+  if ($author =~ /^([^,]+),\s+(.+)/) {
+    $str = $1;
+    my $s2 = $2;
+    if (isdatesuffix($s2)) {
+      $s2 = "";
+    } elsif ($s2 =~ /([^,(\[]*)[,(\[]/) {
+      $s2 = $1;
+    }
+    if ($s2) {
+      $str = $s2 . " " . $str;
+    }
+  }
+  return $str;
+}
+
+sub showbanner {
+  my $recr = shift;
+  my $title = $recr->{TITLE};
+  my $str;
+  print qq^<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="$OLBP::styleurl" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style type="text/css">
+  h1 {text-align: center}
+  h2 {text-align: center}
+</style>
+^;
+  print "<title>$title</title></head>";
+  print $OLBP::bodystart;
+  print "<p style=\"text-align:center\">presents</p>\n";
+  print "<h1>$title</h1>\n";
+  foreach my $label ("AUTHOR", "EDITOR", "TRANSLATOR",
+                     "ILLUSTRATOR", "CONTRIBUTOR") {
+    my $ref = $recr->{$label};
+    if ($ref && scalar(@{$ref})) {
+      my @authors = @{$ref};
+      my $asize = scalar(@authors);
+      my $cred = "$credit{$label} by ";
+      print "<h2>";
+      for (my $i = 0; $i < $asize; $i++) {
+        my $author = $authors[$i];
+        if ($author) {
+          print $cred;
+          print informalname($author);
+          $cred = ", ";
+          if ($i == $asize - 2) {
+            $cred = " and ";
+          }
+        }
+      }
+      print "</h2>\n";
+    }
+  }
+}
+
+sub substitute {
+  my $line = shift;
+  if ($line =~ /^([a-z]+)\:(\S+)(.*)$/) {
+    my ($cmd, $arg, $val) = ($1, $2, $3);
+    $val =~ s/^\s+//;
+    if ($cmd eq "pg" && ($arg> 0)) {
+      return "<a href=\"$gutlookup$arg\">$val</a>";
+    }
+  } 
+  return $line;
+}
+
+sub print_tail {
+  print "<hr><p><em>This is a \"meta-book\", which stitches together ";
+  print "separate files elsewhere on the Web as they appeared in a ";
+  print "previously published book.  It is subject to removal if someone ";
+  print "produces an integrated edition.  If that happens, ";
+  print "<a href=\"$homepage\">The Online Books Page</a> will point ";
+  print "to the integrated version.";
+  print "</em></p>\n";
+  print "</body></html>";
+}
+
+sub getout {
+  print "Location: $homepage\n\n";
+  exit 0;
+}
+
+if (defined($ENV{"GATEWAY_INTERFACE"})) {
+  $command = $ENV{"PATH_INFO"};
+  $command = substr($command, 1);
+  $query = $ENV{"QUERY_STRING"};
+  $query =~ tr/+/ /;
+  $query =~ s/%([0-9A-Fa-f][0-9A-Fa-f])/chr(hex($1))/eg;
+} else {
+  $command = $ARGV[0];
+  $query = $ARGV[1];
+}
+
+%options = split /[&=]/, $query;
+
+$lookid = $options{id};
+if (!$lookid || !($lookid =~ /^\w+$/)) {
+  getout();
+}
+
+my $filename = $filedir . $lookid;
+
+
+open TEMPLATE, "< $filename" or getout();
+
+
+my $line;
+my $header = 1;
+my $recr = {};
+
+while ($line = <TEMPLATE>) {
+  if ($header) {
+    $header = 0;
+    if ($line =~ /^<([^>]+)>(.*)<\/\1>$/) {
+      my ($label, $value) = ($1, $2);
+      $label = uc($label);
+      if ($label eq "TITLE" || defined($credit{$label})) {
+        if ($label eq "TITLE") {
+         $recr->{$label} = $value;
+        } else {
+         push @{$recr->{$label}}, $value;
+        }
+        $header = 1;
+      }
+    }
+  }
+  next if ($header);
+  if ($recr) {
+    getout() if (!$recr->{TITLE});
+    if (defined($ENV{"GATEWAY_INTERFACE"})) {
+       print "Content-type: text/html\n\n";
+    }
+    showbanner($recr);
+    undef $recr;
+  }
+  $line =~ s/\[([a-z]+\:[^\]]+)\]/substitute($1)/ge;
+  print $line;
+}
+print_tail();
+

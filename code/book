@@ -1,0 +1,894 @@
+#!/usr/bin/perl
+
+use CGI;
+use utf8;
+
+# BEGIN LINES that change in test version (do not edit this 6-line block) 
+BEGIN {
+$OLBP::SCRIPTNAME = "book";
+}
+use lib "nlib";
+use lib "/websites/OnlineBooks/nonpublic/lib";
+# END LINES that change in test version (do not edit this 6-line block) 
+
+use OLBP;
+use OLBP::AuthorNote;
+use OLBP::SubjectHierarchyBrowser;
+use OLBP::RecordStore;
+use strict;
+use CGI::Carp qw(fatalsToBrowser);
+
+my $extradir  = $OLBP::dbdir . "exindexes/";
+
+my $failover = "<p>No results found in curated collection. " .
+               "Now checking extended shelves.<p>";
+
+my $q;
+
+my $pagestarted = 0;
+
+# How many entries should appear in a default browser listing
+my $default_browse_chunk = 25;
+
+my $hashes = {};
+
+sub gethashval {
+  my ($name, $key, $dir) = @_;
+
+  return undef if (!$name);
+  my $hashid = $name;
+  if ($dir) {
+    $hashid .= "-$dir";
+  }
+  my $hash = $hashes->{$hashid};
+  if (!$hash) {
+    my $fname = OLBP::hashfilename($name, $dir);
+    $hash = new OLBP::Hash(name=>$hashid, filename=>$fname, cache=>1);
+    return undef if (!$hash);
+    $hashes->{$hashid} = $hash;
+  }
+  return $hash->get_value(key=>$key);
+}
+
+sub pageheader {
+  my ($title) = @_;
+  my $str = qq^<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="$OLBP::styleurl" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+^;
+  $str .= "<title>$title | The Online Books Page</title>";
+  $str .= "</head>\n";
+  $str .= $OLBP::bodystart;
+  return $str;
+}
+
+sub startpage {
+  print $q->header(-type=>  'text/html', -charset => 'utf-8');
+  print pageheader(shift);
+  $pagestarted = 1;
+}
+
+sub print_seealso_links {
+  my ($type, $name) = @_;
+  return if (!$name || !$type);
+  print "<p>";
+  print "See also what's at ";
+  my $url = $OLBP::seealsourl . "?$type=" . OLBP::url_encode($name);
+  print "<a href=\"$url\">your library</a>, or ";
+  print "<a href=\"$url\&amp;library=0CHOOSE0\">elsewhere</a>.";
+  print "</p>\n";
+}
+
+sub browseit {
+  my ($browsetype, $key, $index, $chunksize, $collection, $libchoice) = @_;
+  my $browser;
+  if ($browsetype eq "author") {
+    $browser = new OLBP::AuthorBrowser(collection=>$collection);
+  } elsif ($browsetype eq "title") {
+    $browser = new OLBP::TitleBrowser(collection=>$collection);
+  } elsif ($browsetype eq "lccn") {
+    $browser = new OLBP::CallBrowser(collection=>$collection);
+  } elsif ($browsetype eq "atitle") {
+    $browser = new OLBP::AuthorTitleBrowser(collection=>$collection);
+  } elsif ($browsetype eq "lcsubc") {
+    $browser = new OLBP::SubjectHierarchyBrowser(collection=>$collection);
+  } elsif ($browsetype eq "subject") {
+    $browser = new OLBP::SubjectBrowser(collection=>$collection);
+  } else {
+    # When in doubt, browse titles from A
+    # (This shouldn't happen except for ill-formed URLs)
+    $browser = new OLBP::TitleBrowser(collection=>$collection);
+    $key = "A";   
+  }
+  $browser->display_browse(key=>$key, index=>$index,
+                          chunksize=>$chunksize, seealso=>$libchoice);
+  print OLBP::result_tips();
+}
+
+sub printbrowsealt {
+  my ($type, $key, $collection) = @_;
+  print "<li> Try ";
+  my $url = $OLBP::scripturl . "/browse?type=$type&amp;key=";
+  $url .= OLBP::url_encode($key);
+  if ($collection eq "x") {
+    $url .= "&amp;c=x";
+  }
+  print "<a href=\"$url\">browsing ${type}s near ";
+  print OLBP::html_encode($key) . "</a>";
+  print "</li>";
+}
+
+sub notfound {
+  my ($search, $collection) = @_;
+  print "<p><strong>No items were found.</strong></p>";
+  print "<p>All is not lost, though.  Here are some things you can try:</p>";
+  print "<ul>";
+  print "<li> Double-check your spelling and ";
+  print "<a href=\"$OLBP::searchpage\">try another search</a></li>";
+  if ($collection ne "x") {
+    my $str = search_url($search) . "&amp;c=x";
+    print "<li> Try your search again ";
+    print "<a href=\"$str\">on the extended shelves</a>";
+  }
+  if ($search->{titlekey}) {
+    &printbrowsealt("title", $search->{titlekey}, $collection);
+  }
+  if ($search->{authorkey}) {
+    &printbrowsealt("author", $search->{authorkey}, $collection);
+  }
+  print "<li> Or, if you were searching for an electronic book that should be listed ";
+  print "but isn't, you can ";
+  print "<a href=\"$OLBP::suggestpage\">suggest it</A> to us.</li>";
+  print "</ul>";
+  print "<hr />";
+}
+
+sub bookrefsforauthorslot {
+  my ($browser, $slot, $collection) = @_;
+  my $name = $browser->get_item_name(index=>$slot);
+  my $skey = OLBP::BookRecord::sort_key_for_name($name);
+  my $val = gethashval("authortitles", $skey);
+  if ($collection eq "x") {
+    $val .= " " . gethashval("authortitles", $skey, $extradir);
+  }  
+  return split '\s+', $val;
+}
+
+sub search_url {
+  my $search = shift;
+  my $str = "search?";
+  $str .= "author=". OLBP::url_encode($search->{authorkey});
+  $str .= "&amp;amode=". OLBP::url_encode($search->{amode});
+  $str .= "&amp;title=". OLBP::url_encode($search->{titlekey});
+  $str .= "&amp;tmode=". OLBP::url_encode($search->{tmode});
+  if ($search->{showtitles}) {
+    $str .= "&amp;showtitles=1";
+  }
+  return $str;
+}
+
+sub summarize_search {
+  my ($search, $collection) = @_;
+  my $authorkey = $search->{authorkey};
+  my $amode = $search->{amode};
+  my $titlekey = $search->{titlekey};
+  my $tmode  = $search->{tmode};
+  print "<h2 style=\"text-align:center\">SEARCH RESULTS</h2>";
+  print "<p>You requested books ";
+  if ($authorkey) {
+    print "by authors ";
+    print (($amode eq "start") ? "starting with" : "with the words");
+    print " \"<strong>" . OLBP::html_encode($authorkey) . "</strong>\"";
+    if ($titlekey) {
+      print ", and ";
+    }
+  }
+  if ($titlekey) {
+    print "with titles ";
+    print (($tmode eq "start") ? "starting with" : "with the words");
+    print " \"<strong>" . OLBP::html_encode($titlekey) . "</strong>\"";
+  }
+  my $cmd = "Include";
+  my $altstr = search_url($search);
+  if ($collection eq "x") {
+    $cmd = "Exclude";
+  } else {
+    $altstr .= "&amp;c=x";
+  }
+  print ". (<a href=\"$altstr\">$cmd extended shelves</a>)";
+  print "</p>";
+  print "<hr />";
+}
+
+sub extended {
+  my $id = shift;
+  return (!($id =~ /^(_|olbp)/));
+}
+
+sub get_titleword_hits {
+  my ($word, $collection) = @_;
+  my $dir = ($collection eq "x" ? $extradir : "");
+  my $hashname = "titlewords";
+  if ($collection eq "x") {
+     my $firstlet = lc(substr($word, 0, 1));
+     if (!($firstlet =~ /[a-z]/)) {
+        $firstlet = "MISC";
+     }
+     $hashname .= "-$firstlet";
+  } 
+  my $val = gethashval($hashname, $word, $dir);
+  return split /\s+/, $val;
+}
+
+sub narrowtitles {
+  my ($hithashref, $titlekey, $collection) = @_;
+  my %hithash = %{$hithashref};
+  my @searchwords = OLBP::search_words(string=>$titlekey, hyphens=>"split");
+  if (scalar(@searchwords)) {
+    # my $dir = ($collection eq "x" ? $extradir : "");
+    foreach my $word (@searchwords) {
+      my %matchhash = ();
+      # my $val = gethashval("titlewords", $word, $dir);
+      # my @hits = split /\s+/, $val;
+      my @hits = get_titleword_hits($word, $collection);
+      foreach my $id (@hits) { 
+        if ($id && (!%hithash || $hithash{$id})) {
+          $matchhash{$id} = ($hithash{$id} || 1);
+        }
+      }
+      %hithash = %matchhash;
+      last if (!%hithash);
+    }
+    return %hithash;
+  } else {
+    my %matchhash = ();
+    foreach my $id (keys %hithash) { 
+      if ($hithash{$id}) {
+        print "\n<!-- checking out $id -->\n";
+        if ($collection eq "x") {
+          if (extended($id)) {
+            print "\n<!-- got it in extended -->\n";
+            $matchhash{$id} = 1;
+          }
+        } elsif (!extended($id)) {
+            print "\n<!-- got it in curated -->\n";
+           $matchhash{$id} = 1;
+        }
+      }
+    }
+    return %matchhash;
+  }
+}
+
+sub normalize_search_keys {
+  my ($search) = @_;
+  if ($search->{titlekey}) {
+    $search->{titlekey} = OLBP::Entities::normalize_utf8($search->{titlekey});
+  }
+  if ($search->{authorkey}) {
+    $search->{authorkey} = OLBP::Entities::normalize_utf8($search->{authorkey});
+  }
+  return $search;
+}
+
+sub show_book_hits {
+  my ($search, $bookrefs, $collection) = @_;
+  $search = normalize_search_keys($search);
+  my $titlekey = $search->{titlekey};
+  my $tmode = $search->{tmode};
+  my %hithash;
+  my $sortbyauthors = 0;
+  if ($bookrefs && scalar(@{$bookrefs})) {
+    $sortbyauthors = 1;
+    foreach my $ref (@{$bookrefs}) {
+      if ($ref =~ /(.*):(\d+)/) {
+        if (!$hithash{$1} || $hithash{$1} > $2) {
+          $hithash{$1} = $2;
+        }
+      }
+    }
+  }
+  if ($tmode eq "start") {
+    my $browser = new OLBP::TitleBrowser(collection=>$collection);
+    my %matchhash = ();
+    my ($slot, $ignore) = $browser->find_right_slot(key=>$titlekey);
+    for (my $i = 0;
+         $browser->good_match(index=>$slot+$i, key=>$titlekey);
+         $i++) {
+      my $id = $browser->get_ref_id($slot+$i);
+      if ($id && (!%hithash || $hithash{$id})) {
+        $matchhash{$id} = ($hithash{$id} || 1);
+      }
+    }
+    %hithash = %matchhash;
+    &display_results($search, \%hithash, $sortbyauthors, $collection);
+  } else {
+    my %curatedhits = narrowtitles(\%hithash, $titlekey);
+    my %morehits = ();
+    if ($collection eq "x") {
+      %morehits = narrowtitles(\%hithash, $titlekey, $collection);
+    }
+    if ($collection eq "x") {
+      if (!%curatedhits && !%morehits) {
+        &display_results($search, {}, $sortbyauthors, $collection);
+      } else {
+        if (%curatedhits) {
+          &display_results($search, \%curatedhits, $sortbyauthors, $collection);
+        } else {
+          print $failover;
+        }
+        if (%morehits) {
+          if (%curatedhits) {
+            print "<p>Additional items in the extended shelves:</p>";
+          }
+          &display_results($search, \%morehits, $sortbyauthors, $collection);
+        } else {
+          print "<p>Nothing further found in the extended shelves.</p>";
+        }
+      }
+    } else {
+      &display_results($search, \%curatedhits, $sortbyauthors, $collection);
+    }
+  }
+}
+
+sub display_results {
+  my ($search, $hithashref, $sortbyauthors, $collection) = @_;
+  my %hithash = %{$hithashref};
+  my @hits = keys %hithash;
+  my %bookrec;
+  if (!scalar(@hits)) {
+    &notfound($search, $collection);
+  } else {
+    my $store = new OLBP::RecordStore(dir=>$OLBP::dbdir);
+    foreach my $hit (@hits) {
+      $bookrec{$hit} = $store->get_record(id=>$hit);
+      # my $str = gethashval("records", $hit);
+      # $bookrec{$hit} = new OLBP::BookRecord(string=>$str);
+    }
+    # may be more efficient to stick with recs for here on out
+    # but we'll do it this way for now for compatibility
+    my @hitrecs = map { $bookrec{$_} } @hits;
+    my @hitworkrecs = OLBP::BookRecord::substitute_works(@hitrecs);
+    @hits = map { $_->get_id() } @hitworkrecs;
+    if ($sortbyauthors) {
+      # figure out how to sort by author
+      @hits = sort {(($bookrec{$a}->get_formal_name(index=>$hithash{$a}) cmp
+                      $bookrec{$b}->get_formal_name(index=>$hithash{$b})) ||
+                     ($bookrec{$a}->get_title_sort_key() cmp
+                       $bookrec{$b}->get_title_sort_key()))
+                   } @hits;
+    } else {
+      @hits = sort {($bookrec{$a}->get_title_sort_key() cmp
+                      $bookrec{$b}->get_title_sort_key()) ||
+                    ($bookrec{$a}->get_formal_name(index=>0) cmp
+                     $bookrec{$b}->get_formal_name(index=>0))
+                   } @hits;
+    }
+    print "<ul class=\"nodot\">";
+    foreach my $hit (@hits) {
+      my $br = $bookrec{$hit};
+      if ($br) {
+        my $position = 0;
+        if ($sortbyauthors) {
+          $position = $hithash{$hit};
+        }
+        print "<li>" . $br->short_entry(useauthor=>$position) . "</li>";
+      }
+    }
+    print "</ul>";
+    print "<hr />";
+    print "<p style=\"text-align:center\">" . scalar(@hits);
+    print ((scalar(@hits) == 1) ? "  item was" : " items were");
+    print " found.</p>";
+    print OLBP::result_tips();
+    print "<hr />";
+  }
+}
+
+sub doauthorwords {
+  my ($search, $collection, $libchoice) = @_;
+  $search = normalize_search_keys($search);
+  my $authorkey = $search->{authorkey};
+  my $titlekey = $search->{titlekey};
+  my $chunksize = $search->{chunksize};
+  my $showtitles = $search->{showtitles};
+  my $hit = 0;
+  my @searchwords = OLBP::search_words(string=>$authorkey, hyphens=>"split");
+  if (!scalar(@searchwords)) {
+    print "<p>Your search didn't contain any words we could use to search.";
+    if ($authorkey =~ /\w/) {
+      print " (We eliminate common words from the search.)";
+    }
+    print "</p><p>You can ";
+    print "<a href=\"$OLBP::searchpage\">try another search</a></p>";
+    return;
+  }
+  my %allhithash;
+  my $first = 1;
+  my $dir = ($collection eq "x" ? $extradir : "");
+  foreach my $word (@searchwords) {
+    my $val = gethashval("authorwords", $word, $dir);
+    my @hits = split /\s+/, $val;
+    my %hithash = ();
+    foreach my $hit (@hits) { 
+      $hithash{$hit} = 1;
+    }
+    if ($first) {
+      %allhithash = %hithash;
+    } else {
+      foreach my $hit (keys %allhithash) {
+        if (!$hithash{$hit}) {
+          $allhithash{$hit} = 0;
+        }
+      }
+    }
+    $first = 0;
+  }
+  my @hits;
+  foreach my $hit (keys %allhithash) {
+    if ($allhithash{$hit}) {
+      push @hits, $hit;
+    }
+  }
+  if (!scalar(@hits)) {
+    if ($collection ne "x") {
+      # before assuming nothing's found, try again with extended coll.
+      print $failover;
+      doauthorwords($search, "x");
+    } else {
+      &summarize_search($search, $collection);
+      &notfound($search);
+    }
+  } else {
+    my $browser = new OLBP::AuthorBrowser(collection=>$collection);
+    my %canonhits;
+    foreach my $hit (@hits) {
+      my $canon = $browser->get_canonical_index(index=>$hit);
+      $canonhits{$canon} = 1;
+    }
+    my @canonlist = sort {$a <=> $b} keys %canonhits;
+    if (scalar(@canonlist) == 1 && !$titlekey && !$search->{showtitles}) {
+      my $name = $browser->get_item_name(index=>$canonlist[0]);
+      &showlookupname($name, $libchoice);
+    } else {
+      &summarize_search($search, $collection);
+      if ($showtitles || $titlekey) {
+        my @bookrefs;
+        foreach my $hit (@canonlist) {
+          push @bookrefs, &bookrefsforauthorslot($browser, $hit, $collection);
+        }
+        &show_book_hits($search, \@bookrefs, $collection);
+      } else {
+        print "<p>Your terms matched " . scalar(@hits) . " authors.";
+        my $url = $OLBP::scripturl . "/search?showtitles=1&amp;amode=words&amp;author=";
+        $url .= OLBP::url_encode($authorkey);
+        if ($collection eq "x") {
+          $url .= "&amp;c=x";
+        }
+        print " Select a name to see that author's titles, or ";
+        print "<a href=\"$url\">show all these authors' titles</a>.";
+        print "</p><ul>";
+        foreach my $hit (@canonlist) {
+          print "<li> " . $browser->get_item_display(index=>$hit) . "</li>\n";
+        }
+        print "</ul>";
+      }
+    }
+  }
+}
+
+sub doauthorstems {
+  my ($search, $collection, $libchoice) = @_;
+  my $authorkey = $search->{authorkey};
+  my $titlekey = $search->{titlekey};
+  my $chunksize = $search->{chunksize};
+  my $browser = new OLBP::AuthorBrowser(collection=>$collection);
+  my $hit = 0;
+  my ($slot, $error) = $browser->find_right_slot(key=>$authorkey);
+  if ($browser->good_match(index=>$slot, key=>$authorkey)) {
+    $hit = 1;
+  }
+  if (!$hit && !($authorkey =~ /,/)) {
+    # No hit and no commas?  See if inserting one helps
+    my $tempkey = $authorkey;
+    $tempkey =~ s/(\S)\s/$1, /;
+    my ($newslot, $ignore) = $browser->find_right_slot(key=>$tempkey);
+    if ($browser->good_match(index=>$newslot, key=>$tempkey)) {
+      $hit = 1;
+      $authorkey = $tempkey;
+      $slot = $newslot;
+    } else {
+      # See if inverting the name and adding a comma helps
+      # (e.g. "Louisa May Alcott" --> "Alcott, Louisa May")
+      $tempkey = $authorkey;
+      $tempkey =~ s/(.*)\s+(\S+)$/$2, $1/;
+      ($newslot, $ignore) = $browser->find_right_slot(key=>$tempkey);
+      if ($browser->good_match(index=>$newslot, key=>$tempkey)) {
+        $hit = 1;
+        $authorkey = $tempkey;
+        $slot = $newslot;
+      }
+    }
+  }
+  if ($hit) {
+    my $multiple = 0;
+    my @bookrefs;
+    my $canon = $browser->get_canonical_index(index=>$slot);
+    if ($titlekey) {
+      push @bookrefs, &bookrefsforauthorslot($browser, $canon, $collection);
+    }
+    for (my $i = 1;
+         $browser->good_match(index=>$slot+$i, key=>$authorkey);
+         $i++) {
+      my $cindex = $browser->get_canonical_index(index=>$slot+$i);
+      if ($cindex != $canon) {
+        $multiple = 1;
+        last if (!$titlekey && !$search->{showtitles});
+        push @bookrefs, &bookrefsforauthorslot($browser, $cindex, $collection);
+      }
+    }
+    if ($titlekey || $search->{showtitles}) {
+      &summarize_search($search, $collection);
+      &show_book_hits($search, \@bookrefs, $collection);
+    } elsif ($multiple) {
+      $browser->display_browse(key=>$authorkey, chunksize=>$chunksize);
+    } else {
+      my $name = $browser->get_item_name(index=>($canon || $slot));
+      &showlookupname($name, $libchoice);
+    }
+  } else {
+    if ($titlekey) {
+      if ($collection ne "x") {
+        # before assuming nothing's found, try again with extended coll.
+        print $failover;
+        doauthorstems($search, "x", $libchoice);
+      } else {
+        &summarize_search($search, $collection);
+        &notfound($search);
+      }
+    } else {
+      $browser->display_browse(key=>$authorkey, chunksize=>$chunksize);
+    }
+  }
+}
+
+# Right now, all we do is look up the title
+
+sub showcalloverview {
+  my ($key, $collection) = @_;
+  my $browser = new OLBP::CallBrowser(collection=>$collection);
+  $browser->display_overview(key=>$key);
+}
+
+sub showauthornote {
+  my ($note, $key) = @_;
+  my ($formalname, $informalname);
+  if ($note) {
+    $formalname = $note->get_formal_name();
+    $informalname = $note->get_informal_name();
+  } elsif ($key) {
+    # need to sanitize, since it may be malicious input
+    $formalname = OLBP::html_encode($key);
+    $informalname = OLBP::Name::informal($formalname);
+  } else {
+    return;
+  }
+  my $naivename = OLBP::Name::naive($formalname);
+  print "<p style=\"text-align:center\"><b>Online Books by</b></p>";
+  print "<h2 align=center>$informalname</h2>";
+  if ($naivename ne $informalname) {
+    print "<h3 align=center>($formalname)</h3>\n";
+  }
+  return if (!$note);
+  my $info = "";
+  my @aliases = $note->get_aliases();
+  if (scalar(@aliases)) {
+    foreach my $alias (@aliases) {
+      $info .= "<b>Also found under:</b> $alias<br>";
+    }
+  }
+  my $numabout = $note->num_books_about();
+  if ($numabout) {
+    my $url = $OLBP::scripturl . "/browse?type=lcsubc&amp;key=" .
+                            OLBP::url_encode($formalname);
+    my ($what, $verb);
+    if ($numabout == 1) {
+      ($what, $verb) = ("An online book", "is");
+    } else {
+      ($what, $verb) = ("Online books", "are");
+    }
+    $info .= "<a href=\"$url\">$what about this author</a> $verb available";
+  }
+  my $wikidir = $OLBP::dbdir . "wiki/";
+  my $wkey = OLBP::BookRecord::search_key_for_subject($formalname);
+  my $wikiurl = gethashval("subtowp", $wkey, $wikidir);
+  if ($wikiurl) {
+    $wikiurl = $OLBP::wpstub . $wikiurl;
+    if ($numabout) {
+      $info .= ", as is a <a href=\"$wikiurl\">Wikipedia article</a>";
+    } else {
+      $info .= "A <a href=\"$wikiurl\">Wikipedia article about " .
+               "this author</a> is available";
+    }
+  }
+  if ($numabout || $wikiurl) {
+    $info .= ".<br>";
+  }
+  if ($info) {
+    print "<p>$info</p>";
+  }
+}
+
+sub showlookupid {
+  my ($br, $store, $libchoice) = @_;
+  print "<h2 style=\"text-align:center\">" . $br->get_title() . "</h2>";
+  my $wr = 0;
+  my $wid = $br->get_work();
+  if ($wid && $store) {
+    $wr = $store->get_record(id=>$wid);
+  }
+  # Now see if we should show books about subject
+  my $tsub = 0;
+  my $sub = $br->get_title_subject();
+  if ($sub) {
+     my $key = OLBP::BookRecord::search_key_for_subject($sub);
+     my $note = gethashval("booksubnotes", $key);
+     if (defined($note)) {
+       $tsub = $sub;
+     }
+  }
+  print "\n<!-- sub is $sub tsub is $tsub -->\n";
+  print $br->long_entry(workrec=>$wr, titlesub=>$tsub, libchoice=>$libchoice);
+  print OLBP::result_tips();
+}
+
+sub showauthorhits {
+  my ($store, @refs) = @_;
+  return if (!scalar(@refs));
+  print "<ul class=\"nodot\">";
+  foreach my $ref (@refs) {
+    if ($ref =~ /(.*):(\d+)/) {
+      my ($bookid, $position) = ($1, $2);
+      my $br = $store->get_record(id=>$bookid);
+      if ($br) {
+        print "<li>" . $br->short_entry(useauthor=>$position) . "</li>";
+      }
+    }
+  }
+  print "</ul>";
+}
+
+sub showlookupname {
+  my ($key, $libchoice, $note) = @_;
+  my $skey = OLBP::BookRecord::sort_key_for_name($key);
+  if (!$note) {
+    my $notestr = gethashval("authornotes", $skey);
+    if ($notestr) {
+      $note = new OLBP::AuthorNote(string=>$notestr);
+    }
+  }
+  my $val = gethashval("authortitles", $skey);
+  my $exval = gethashval("authortitles", $skey, $extradir);
+  # $exval =~ s/olbp\d+:\d+\s*//g;
+  my $store = new OLBP::RecordStore(dir=>$OLBP::dbdir);
+  if ($val || $note || $exval) {
+    showauthornote($note, $key);
+    showauthorhits($store, (split '\s+', $val));
+    if ($exval) {
+      print ($val ? (OLBP::result_tips() . "<p>Additional b") : "<p>B");
+      print "ooks from the extended shelves:</p>";
+      showauthorhits($store, (split '\s+', $exval));
+    }
+    # if ($libchoice) {
+      # my $sakey = OLBP::BookRecord::search_key_for_name($key);
+      print_seealso_links("au", $key);
+    # }
+    print OLBP::result_tips();
+  } else {
+    # No match; just dump them into a browse at a nearby location
+    browseit("author", $key, (undef), $default_browse_chunk);
+  }
+}
+
+sub do_isindex_page {
+  my $cmd = shift;
+  my $header = ($cmd eq "titlesearch" ? "Title search" : "Author search");
+  &startpage($header);
+  if ($cmd eq "titlesearch") {
+    print "<p>Type in the title, or some words from it.</p>";
+  } else {
+    print "<p>Type in the author name, or some words from it.</p>";
+  }
+  print "\n<isindex />";
+  print qq!
+<p>This page exists for compatibility with very old (or very constrained)
+browsers.  Most users should try using our normal
+<a href="$OLBP::searchpage">search form</a> of one of the other browsing
+or searching options of <a href="$OLBP::homepage">The Online Books Page</a>.
+</p>
+<hr />
+!;
+}
+
+sub unpad {
+  my $str = shift;
+  $str =~ s/^\s+//;
+  $str =~ s/\s+$//;
+  return $str;
+}
+
+$q = new CGI;
+my $cmd = $q->url(-path_info=>1);
+my $libchoice = $q->cookie('olbp_ftl');
+$cmd =~ s/(.*)\///;
+
+my %browsedesc = ("author" => "authors",
+                  "atitle" => "authors with titles",
+                  "title" => "titles",
+                  "lccn" => "call numbers",
+                  "subject" => "subjects",
+                  "lcsubc" => "subject");   # actually subject cluster
+
+my ($browsetype, $browsekey, $browseindex);
+my $search;
+
+my $collection = $q->param('c') || "c";
+
+if ($cmd eq "browse") {
+  $browsetype = $q->param('type');
+  $browsekey = $q->param('key');
+  $browseindex = $q->param('index') || -1;
+} elsif ($cmd eq "lookupname") {
+  my $key = $q->param('key');
+  if ($key) {
+    my $skey = OLBP::BookRecord::sort_key_for_name($key);
+    my $notestr = gethashval("authornotes", $skey);
+    my $note;
+    if ($notestr) {
+      $note = new OLBP::AuthorNote(string=>$notestr);
+      my $formalname = $note->get_formal_name();
+      my $informalname = $note->get_informal_name();
+      my $naivename = OLBP::Name::naive($formalname);
+      my $str = $informalname;
+      if ($naivename ne $informalname) {
+        $str .= " ($formalname)";
+      }
+      &startpage($str);
+    } else {
+      # we encode here because the key is unvetted, to stop bad-input attacks
+      &startpage(OLBP::html_encode($key));
+    }
+    &showlookupname($key, $libchoice, $note);
+  }
+} elsif ($cmd eq "lookupid") {
+  my $key = $q->param('key');
+  my $found = 0;
+  if ($key && !($key =~ /^\d/)) {
+    # numeric-only identifiers are internal; don't let them be shown
+    my $store = new OLBP::RecordStore(dir=>$OLBP::dbdir);
+    my $br = $store->get_record(id=>$key);
+    if ($br) {
+      my $str = $br->get_title();
+      my $iname = $br->get_informal_name(index=>1);
+      if ($iname) {
+        $str .= ", by $iname";
+        if ($br->get_formal_name(index=>2)) {
+          $str .= " et al.";
+        }
+      }
+      &startpage($str);
+      &showlookupid($br, $store, $libchoice);
+      $found = 1;
+    }
+  }
+  if (!$found) {
+    print "Location: $OLBP::homepage\n\n";
+    exit 0;
+  }
+} elsif ($cmd eq "callover") {
+  &startpage("Call number overview");
+  my $key = $q->param('key');
+  showcalloverview($key, $collection);
+} elsif ($cmd =~ /^make(author|title)page/) {
+  $browsetype = $1;
+  $browseindex = 0;
+} elsif ($cmd =~ /^(author|title)start/) {
+  $browsetype = $1;
+  $browsekey = $q->param('keywords');
+  if ($browsekey =~ /^(_nonletter|_start)$/) {
+    $browsekey = "";
+  }
+  undef $browseindex;
+} elsif ($cmd eq "subjectstart") {
+  $browsetype = "lccn";
+  $browsekey = $q->param('keywords');
+  $browsekey =~ s/-.*//;
+  undef $browseindex;
+} elsif ($cmd =~ "makesubjectpage") {
+  $browsetype = "lccn";
+  $browseindex = 0;
+} elsif ($cmd eq "authorsearch") {
+  my @keywords = $q->keywords();
+  if (scalar(@keywords)) {
+    $search->{authorkey} = unpad(join ' ', @keywords);
+    $search->{chunksize} = $default_browse_chunk;
+  } else {
+    do_isindex_page($cmd);
+  }
+} elsif ($cmd eq "titlesearch") {
+  my @keywords = $q->keywords();
+  if (scalar(@keywords)) {
+    $search->{titlekey} = unpad(join ' ', @keywords);
+    $search->{chunksize} = $default_browse_chunk;
+  } else {
+    do_isindex_page($cmd);
+  }
+} elsif ($cmd eq "search") {
+  $search->{authorkey} = unpad($q->param('author'));
+  utf8::decode($search->{authorkey});
+  $search->{titlekey} = unpad($q->param('title'));
+  utf8::decode($search->{titlekey});
+  $search->{amode} = $q->param('amode');
+  $search->{tmode} = $q->param('tmode');
+  $search->{showtitles} = $q->param('showtitles');
+  $search->{chunksize} = $default_browse_chunk;
+} else {
+  # We don't recognize the command; head home
+  print "Location: $OLBP::homepage\n\n";
+}
+
+if ($browsetype) {
+  if (!$browsedesc{$browsetype}) {
+    # When in doubt, browe titles from A
+    # (This shouldn't happen except for ill-formed URLs)
+    $browsetype = "title";
+    $browsekey = "A";   
+    $browseindex = -1;
+  }
+  if ($browsedesc{$browsetype}) {
+    my $title = "Browse $browsedesc{$browsetype}";
+    if ($browsekey) {
+      utf8::decode($browsekey);
+      $browsekey = OLBP::Entities::normalize_utf8($browsekey);
+      $title .= ": " . OLBP::html_encode($browsekey);
+    }
+    &startpage($title);
+    browseit($browsetype, $browsekey, $browseindex,
+             $default_browse_chunk, $collection, $libchoice);
+  }
+} elsif ($search) {
+  my $title = "Search Results";
+  &startpage($title);
+  if ($search->{authorkey}) {
+    if ($search->{amode} eq "start") {
+      &doauthorstems($search, $collection, $libchoice);
+    } else {
+      &doauthorwords($search, $collection, $libchoice);
+    }
+  } else {
+    &summarize_search($search, $collection);
+    &show_book_hits($search, 0, $collection);
+  }
+}
+
+if (!$pagestarted) {
+  &startpage("Unrecognized command");
+  print qq!
+    <p>We've experienced an internal error, probably caused by a bad URL.
+    Click on the headline above or one of the links below, and things
+    should go back to normal.
+    </p>
+  !;
+}
+
+print OLBP::choicelist();
+
+if ($cmd eq "lookupid" && $q && $q->param('key') =~ /^olbp/) {
+  print $OLBP::cc0bodyend;
+} else {
+  print $OLBP::bodyend;
+} 
+exit 0;

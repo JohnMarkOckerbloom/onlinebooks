@@ -1,0 +1,894 @@
+#!/usr/bin/perl
+use lib "nlib";
+# This needs to be included before our use statements, so the script gets right
+BEGIN {
+$OLBP::SCRIPTNAME = "book/";
+}
+
+
+use OLBP;
+use OLBP::SubjectGraph;
+use OLBP::SubjectNode;
+
+$serverurl = "http://onlinebooks.library.upenn.edu/";
+$booksurl = $serverurl;
+
+$newname     = "new.html";
+$newrssname  = "newrss.xml";
+
+$homepage = $booksurl;
+$newpage = $booksurl . $newname;
+$rsspage = $booksurl . $newrssname;
+$xmlicon = $booksurl . "xml.gif";
+$suggestpage = $booksurl . "suggest.html";
+$scriteria = $booksurl . "serial-criteria.html";
+
+$dbdir       = "/home/ockerblo/bookdb/";
+$bookfile    = $dbdir . "bookfile";
+$newfile     = $dbdir . $newname;
+$newrssfile  = $dbdir . $newrssname;
+$serialsfile = $dbdir . "serials.html";
+$tweakfile   = $dbdir . "tweaks";
+$geofile     = $dbdir . "geoabbrev";
+
+$idxdir = "/mnt/onlinebooks/nonpublic/bookdb/indexbuild/";
+if ($ARGV[0] eq "local") {
+  $idxdir = $dbdir . "indexbuild/";
+}
+
+$rssenough = 100;
+
+my $DEFAULT = "DEFAULT";
+
+@month = ("January", "February", "March", "April", "May", "June", "July",
+          "August", "September", "October", "November", "December");
+
+$suggestadditions = "<p>To suggest additional books we should list, ".
+     "see <a href=\"$suggestpage\">this page</a>.</p>\n"; 
+
+my $COMPONENT  = 4;
+my $ASSOCIATED = 5;
+my $WORK       = 6;
+
+my $tweaks = new OLBP::SubjectTweaks(file=>$tweakfile);
+my $geo = new OLBP::SubjectGeo(file=>$geofile);
+
+my $subjectgraph = new OLBP::SubjectGraph(headingidhash=>"subjectids",
+                                         idinfohash=>"subjectnotes",
+                                         tweaks=>$tweaks, geo=>$geo);
+
+sub pageheader {
+  my ($title, $withrss) = @_;
+  my $str = qq^<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="$OLBP::styleurl" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+^;
+  $str .= "<title>$title</title>";
+  $str .= "<link rel=\"stylesheet\" " .
+                " type=\"text/css\" href=\"$OLBP::styleurl\">";
+  if ($withrss) {
+    $str .= "<link rel=\"alternate\" type=\"application/rss+xml\" " .
+            "title = \"RSS feed of new online books\" href=\"$rsspage\" />";
+  }
+  $str .= qq!<meta name="viewport" content="width=device-width, initial-scale=1.0">!;
+  $str .= "</head>\n";
+  return $str;
+}
+
+# setnewrange takes the number of months previous to this one
+# to include in the new items list
+# we expect it to be a number in the range 1..12
+
+sub setnewrange {
+  my $newmonths = shift;
+  if ($newmonths < 1 || $newmonths > 12) {
+    print "New months value out of range.";
+    exit 0;
+  }
+  my ($sec, $min, $hour, $mday, $mon, $year, @rest) = localtime(time);
+  if ($mon < $newmonths) {
+    $year -= 1;
+    $mon = (12 - $newmonths) + $mon;
+  } else {
+    $mon -= $newmonths;
+  }
+  $oldestnew = sprintf("%04d-%02d-%02d", $year+1900, $mon+1, 0);
+}
+
+# formalname shows the printable version of the name
+# presently this is just a pass-through, but we might have
+# a more elaborate version in the future
+
+sub formalname {
+  my $name = shift;
+  return $name;
+}
+
+
+sub fatalerror {
+  my $line = shift;
+  my $problem = shift;
+  print "Error, around line $line: $problem\n";
+  exit 0;
+}
+
+sub packhashtofile {
+  my ($name, $hashref) = @_;
+  my $fname = OLBP::hashfilename($name, $idxdir);
+  my $hash = new OLBP::Hash(name=>$name, filename=>$fname);
+  return $hash->pack_to_file(hash=>$hashref);
+}
+
+
+sub associate_name_with_subjects {
+   my ($name, @othersubs) = @_;
+   my $nnode = $subjectgraph->find_node(heading=>$name);
+   if ($nnode) {
+     foreach my $sub (@othersubs) {
+       if ($sub =~ /(.*) -- Biography$/) {
+         $sub = $1;
+         my $snode = $subjectgraph->find_node(heading=>$sub);
+         if ($snode) {
+           # print "I think $name is a $sub\n";
+           $subjectgraph->add_edge(node1=>$nnode, node2=>$snode,
+                                   type=>"BT", subtype=>$ASSOCIATED);
+         }
+       }
+     }
+   }
+}
+
+# TODO: Figure out where see also xrefs go (they're not in the entry files)
+
+sub addrecord {
+  my $recstring = shift;
+  my $br = new OLBP::BookRecord(string=>$recstring);
+
+  if (!$br) {
+    print "Didn't like:\n $recstring\n";
+    fatalerror $., OLBP::BookRecord::get_format_error();
+  }
+  my $id = $br->get_id();
+  my $wid = $br->get_work();
+  if ($wid) {
+    my $work = $records{$wid};
+    if (!$work) {
+      print STDERR "Reference to $wid, not yet seen in file\n";
+    } else {
+      $work->add_wref(id=>$id, heading=>"O");
+      $br->inherit(from=>$work);
+    }
+  }
+
+  $records{$id} = $br;
+
+  if ($br->is_serial()) {
+    push @serials, $br;
+  }
+
+  my $lcs = $br->get_lccn_sort_key();
+  if ($lcs) {
+    push @{$lckeys{$lcs}}, $br;
+    $numlccns++;
+  }
+
+  if ($br->get_iso_date() gt $oldestnew) {
+    push @newbooks, $br;
+  }
+
+  my @formalnames = $br->get_names();
+
+  if (@formalnames) {
+    for (my $i = 0; my $name = $formalnames[$i]; $i++) {
+      my $nom = OLBP::BookRecord::sort_key_for_name($name);
+      if ($aname{$nom}) {
+        if ($aname{$nom} ne $name) {
+          print "Name collision: $aname{$nom} and $name ";
+          print "have the same author key\n";
+          exit 0;
+        }
+      } else {
+        $aname{$nom} = $name;
+        $iname{$nom} = $br->get_informal_name(index=>$i+1);
+      }
+      push @{$akeys{$nom}}, $br;
+    }
+  }
+
+  # We add a record for books or for additional name cross-references
+
+  if ($br->get_title()) {
+    my $ti = $br->get_title_sort_key();
+    push @{$tkeys{$ti}}, $br;
+    # Note that numtkeys goes up for each tkey entry for a book,
+    # even if more than one than one book shares the title.
+    $numtkeys++;
+
+    # Add references to subject
+
+    my @subs = $br->get_subjects();
+    foreach my $sub (@subs) {
+      $sub =~ s/\s*--\s*/ -- /g;   #normalize the spacing
+      # if node already exists, this'll just return 0 and not add a new node
+      $subjectgraph->add_node(heading=>$sub);
+      my $key = OLBP::BookRecord::search_key_for_subject($sub);
+      push @{$subkeys{$key}}, $br;
+    }
+
+    # Now add cross-references for names this book is a subject for
+    my @namesubs = $br->get_subjects(type=>"LCNSUB");
+    if (scalar(@namesubs)) {
+      my $qualifier;
+      foreach my $namesub (@namesubs) {
+        my $name = $namesub;
+        $qualifier = "";
+        if ($name =~ /(.*?)\s*--\s*(.*)/) {
+          ($name, $qualifier) = ($1, $2);
+        }
+        my $nom = OLBP::BookRecord::sort_key_for_name($name);
+        push @{$nkeys{$nom}}, $br;
+        push @{$nkeytype{$nom}}, ($qualifier || $DEFAULT);
+        # need to record regular form of names that aren't authors
+        if (!$aname{$nom}) {
+          $nsname{$nom} = $name;
+        }
+      }
+      # If there's exactly 1 namesub, and it's in first position, 
+      # it might be associatable with other subjects
+      if (scalar(@namesubs) == 1 &&
+          !($namesubs[0] =~ /--/) &&
+          $namesubs[0] eq $subs[0]) {
+        associate_name_with_subjects(@subs);
+      }
+    }
+    # and keep track of books that have a title as subject as well
+    my @titlesubs = $br->get_subjects(type=>"LCTSUB");
+    if (scalar(@titlesubs)) {
+      foreach my $title (@titlesubs) {
+        $title =~ s/\s*--.*//;   # remove any extensions
+        $tsubkeys{$title} = 1;
+      }
+    }
+    my @ntsubs = $br->get_subjects(type=>"LCNTSUB");
+    if (scalar(@ntsubs)) {
+      foreach my $nt (@ntsubs) {
+        $nt =~ s/\s*--.*//;   # remove any extensions
+        $ntsubkeys{$nt} = 1;
+      }
+    }
+  } else { 
+    # No book record added, but xrefs or notes created for individual authors
+    my $note = $br->get_note();
+    if (!$note) {
+      fatalerror $., "No title or note in this record";
+    }
+    if (scalar(@formalnames) != 1) {
+      fatalerror $., "Notes or xrefs must apply to a single-author";
+    }
+    my $akey = OLBP::BookRecord::sort_key_for_name($formalnames[0]);
+    if ($note =~ /^[Ss]ee also (.*)/) {
+      push @{$anotes{$akey}}, $note;
+    } elsif ($note =~ /^[Ss]ee (.*)/) {
+      my $xref = $1;
+      my $mkey = OLBP::BookRecord::sort_key_for_name($xref);
+      $amain{$akey} = $mkey;
+      push @{$aliases{$mkey}}, $akey;
+      # We know we're just popping the item we added for this record
+      pop @{$akeys{$akey}};
+    } else {
+      push @{$anotes{$akey}}, $note;
+    }
+  }
+}
+
+sub readbooks {
+  my $recstring;
+  my $line;
+  open BOOKS, $bookfile or die "Can't open $bookfile";
+  while ($line = <BOOKS>) {
+    next if ($line =~ /^#/);
+    if ($line =~ /^\s*$/) {
+      if ($recstring) {
+        addrecord($recstring);
+      }
+      $recstring = "";
+    } elsif (!($line =~ /^[A-Z]+\+?\s+/)) {
+      fatalerror $., "Unrecognized nonplussy data line: $line";
+    } else {
+      $recstring .= $line;
+    }
+  }
+  close BOOKS;
+  if ($recstring) {
+    addrecord($recstring);
+  }
+}
+
+# Author cross-references should go to a name in use
+# and should not come from a name used for other books
+
+sub checkauthorxrefs {
+  my $akey;
+  foreach $akey (keys %amain) {
+    if (scalar(@{$akeys{$akey}})) {
+      print "Error: Listings not allowed for cross-referenced name ";
+      print "$aname{$akey}\n";
+      exit 0;
+    }
+    if (!$aname{$amain{$akey}}) {
+      print "Error: Cannot find name cross-referenced by $aname{$akey}\n";
+      exit 0;
+    }
+  }
+}
+
+# authornotes generates the information we'll
+# display when we look up the author.    It takes an author key,
+# returns the string with information.
+
+sub authornotes {
+  my $akey = shift;
+  my $str = "";
+  $str = "NAME " . formalname($aname{$akey}) . "\n";
+  if ($aliases{$akey} || $anotes{$akey}) {
+    my $thing;
+    foreach $thing (@{$aliases{$akey}}) {
+      $str .= "ALIAS " . formalname($aname{$thing}) . "\n";;
+    }
+    foreach $thing (@{$anotes{$akey}}) {
+      $str .= "NOTE " . $thing . "\n";
+    }
+  }
+  if ($iname{$akey}) {
+    $str .= "INFORMAL " . $iname{$akey} . "\n";
+  }
+  if ($nkeys{$akey}) {
+    for (my $i = 0; $nkeys{$akey}->[$i]; $i++) {
+      my $subj = $nkeys{$akey}->[$i]->get_id();
+      my $type = $nkeytype{$akey}->[$i];
+      if ($type eq $DEFAULT) {
+        $str .= "SUBIN $subj\n";
+      } else {
+        $str .= "SUBIN $type" . '|' . "$subj\n";
+      }
+    }
+  }
+  return $str;
+}
+
+sub makenewfiles {
+  my $lastdate;
+  my $itemcount;
+
+  open OUTFILE, ">$newfile" or die "Can't open $newfile";
+  open RSSFILE, ">$newrssfile" or die "Can't open $newrssfile";
+  my $dorss = 1;
+
+  print OUTFILE pageheader("New books listed on The Online Books Page", 1);
+  print OUTFILE $OLBP::bodystart;
+  print OUTFILE "<h2 style=\"text-align:center\">NEW LISTINGS</h2>\n";
+  print OUTFILE "<p>This page lists online books " .
+                "recently added to our curated collection, " .
+                "or with recently revised entries. " .
+                "For a full list of available books, try the " .
+                "<a href=\"$homepage\">main online books page.</a></p>\n";
+  print OUTFILE "<p>An RSS feed is also available: <a href=\"$rsspage\">";
+  print OUTFILE "<img style=\"border:none\" alt=\"XML\" src=\"$xmlicon\"></a></p>";
+
+  print OUTFILE $suggestadditions;
+
+  print RSSFILE "<?xml version=\"1.0\" encoding=\"iso-8859-1\"?>\n";
+  print RSSFILE "<rss version=\"2.0\">\n";
+  print RSSFILE "<channel>\n";
+  print RSSFILE "<title>New Online Books</title>\n";
+  print RSSFILE "<link>$newpage</link>\n";
+  print RSSFILE "<description>New listings of free online books from " .
+                "The Online Books Page</description>\n";
+
+  $lastdate = "";
+  foreach $br (sort {($b->get_iso_date() cmp $a->get_iso_date()) ||
+                     ($a->get_ref(0) cmp $b->get_ref(0))}
+                       @newbooks) {
+    my $brdate = $br->get_iso_date();
+    if ($brdate ne $lastdate) {
+      if ($lastdate) {
+        print OUTFILE "</ul>\n";
+      }
+      $lastdate = $brdate;
+      my ($year, $mon, $day) = split /-/, $brdate;
+      print OUTFILE "<em>$month[$mon-1] " . int($day) . ", $year</em>";
+      print OUTFILE "<ul class=\"nodot\">\n";
+      if ($itemcount >= $rssenough) {
+        $dorss = 0;
+      }
+    }
+    print OUTFILE "<li> " . $br->short_entry() . "</li>\n";
+    if ($dorss) {
+      print RSSFILE $br->rss_entries(consolidate=>1);
+    }
+    $itemcount++;
+  }
+  if ($lastdate) {
+    print OUTFILE "</ul>\n";
+  }
+  print OUTFILE "<hr>\n";
+  print OUTFILE OLBP::result_tips();
+  print OUTFILE OLBP::choicelist("New Listings");
+  print OUTFILE $OLBP::bodyend;
+  close OUTFILE;
+
+  print RSSFILE "</channel></rss>\n";
+  close RSSFILE;
+}
+
+$o1journalurl = $serverurl . "archives.html#serials";
+
+sub makeserialsfile {
+  open SERIALFILE, ">$serialsfile" or die "Can't open $serialsfile";
+  print SERIALFILE pageheader("Free online journals, magazines, newspapers, and other serials | The Online Books Page");
+  print SERIALFILE $OLBP::bodystart;
+  print SERIALFILE "<h2 style=\"text-align:center\">SERIALS</h2>\n";
+  print SERIALFILE "<p>This page lists freely accessible archives of serials " .
+                "(such as magazines, journals, newspapers, and other periodicals). " .
+                "Archives are listed according to " .
+                "<a href=\"$scriteria\">these criteria.</a>\n";
+  print SERIALFILE $suggestadditions;
+  print SERIALFILE "<p>Many more free online serials can be found at sites in our ";
+  print SERIALFILE "<a href=\"$o1journalurl\">Serials archives and indexes listings</a>.</p>";
+  print SERIALFILE "<ul class=\"nodot\">\n";
+  foreach $br (sort {($a->get_title_sort_key() cmp $b->get_title_sort_key())}
+                    @serials) {
+    print SERIALFILE "<li> " . $br->short_entry() . "</li>\n";
+  }
+  print SERIALFILE "</ul>\n";
+  print SERIALFILE "<hr>\n" . OLBP::choicelist("Serials");
+  print SERIALFILE $OLBP::bodyend;
+  close SERIALFILE;
+}
+
+sub makeserialhashfile {
+  my %refhash;
+  foreach my $ser (@serials) {
+    my $sid = "";
+    my $rline = $ser->{REF}[0];
+    if ($rline =~ /=(\w*) /) {
+      $sid = $1;
+    }
+    if ($sid) {
+      my $str = $ser->unparse();
+      if ($str) {
+        $refhash{$sid} = $str;
+      }
+    }
+  }
+  packhashtofile("serials", \%refhash);
+}
+
+sub comparebyauthorsetc {
+  # $ a and $b are passed in by sort
+  my $i;
+  my @aauthors = $a->get_names();
+  my @bauthors = $b->get_names();
+  for ($i = 0; $i < scalar(@aauthors); $i++) { 
+    if ($a[$i] cmp $b[$i]) {
+      return ($a[$i] cmp $b[$i]);
+    }
+  }
+  return (($a->{note} cmp $b->{note}) || ($a->{date} cmp $b->{date}));
+}
+
+# The title files are set up thus:
+#
+# The title entry file is simply a list of lines of title entries,
+# in alphabetical order by title.
+# The title index file is an array of lines in the same order.
+# followed by a |,
+# followed by a number that breaks ties between identical titles
+# (always 4 digits wide, to make alphabetical order match numeric order)
+#
+# The second field has two parts; first the book entry ID, followed
+# by a colon, followed by the index for seeking the corresponding
+# line in the title entry file.
+#
+# Finally the title words file is keyed by a word in
+# the title, and the value is a string of numbers,
+# where each number is as with the "second field" above
+#
+# Note that some titles may be represented more than once
+# for unusual filing characteristics (e.g. La Traviata may eventually
+# be filed under both L and T, since not everyone will omit the
+# initial article.)
+
+# maketitlefiles first generates the title index for books,
+# and then writes it out.
+
+sub maketitlefiles {
+  my $titleindex = new OLBP::Index(name=>"titles",
+                                   filename=>OLBP::indexfilename("titles",
+                                                                 $idxdir));
+  if (!$titleindex ||
+      !$titleindex->open_to_write(size=>$numtkeys,
+                                  keywidth=>$OLBP::titlesortkeylimit,
+                                  valuewidth=>20)) {
+    die "Can't open title index";
+  }
+  foreach my $tkey (sort keys %tkeys) {
+    my @trecarray = @{$tkeys{$tkey}};
+    @trecarray = sort comparebyauthorsetc @trecarray;
+    for (my $i = 0; $i < scalar(@trecarray); $i++) {
+      my $br = $trecarray[$i];
+      $titleindex->write_item(key=>$tkey, value=>$br->get_id());
+      my $idx = $br->get_id();
+
+      my $tstr = $br->get_title();
+      my @twords = OLBP::search_words(string=>$tstr,
+                                      hyphens=>"both", markup=>1);
+      my %namewds = ();
+      foreach my $word (@twords) {
+        if (!$namewds{$word}) {
+          $wordtitles{$word} .= "$idx ";
+          $namewds{$word} = 1;
+        }
+      }
+    }
+  }
+  $titleindex->close_write() or die "Error building title index file";
+  packhashtofile("titlewords", \%wordtitles);
+}
+
+$stopword{"the"} = $stopword{"a"} = $stopword{"an"} = $stopword{"of"} = 1;
+
+# A utility routine for finding the index of a key in a sorted array
+# (assumes no duplicates)
+
+sub idxinarray {
+  my ($listref, $key) = @_;
+  my $lt = scalar(@{$listref});
+  my $gt = -1;
+  while ($gt < $lt) {
+    my $midpoint = int(($lt - $gt) / 2) + $gt;
+    if ($listref->[$midpoint] eq $key) {
+      return $midpoint;
+    } elsif ($listref->[$midpoint] gt $key) {
+      $lt = $midpoint;
+    } else {              # key must be gt $thename
+      $gt = $midpoint;
+    }
+  }
+  return undef;
+}
+
+# The author files are set up thus:
+#
+# The author entry file is simply a list of author entries
+# in alphabetical order by author key.  Each entry consists
+# of an information token followed a space followed
+# by the display name to be used.
+# The only carriage returns here are between records.
+# information token:
+# C(title count)[A(aliased to author at this index)]
+#
+# The author index file is an array of lines in the same order.
+# The key field is $OLBP::authorsortkeylimit bytes wide, and consists of
+# the normalized alphabetized author entry.
+# The value field is a number specifying the index
+# for seeking the corresponding line in the author entry file.
+#
+# The files below are being revised.
+#
+# The author hash file is keyed by the author key, and 
+# at the moment just contains a list of tokens, where each
+# token is the book entry ID, followed by a colon, followed
+# by the book's title entry offset.
+#
+# The author note file is another hash keyed by the author
+# key, whose value is a string of information we insert when
+# an author is looked up.
+#
+# Finally the author words file is keyed by a word in
+# the author's name, and the value is a string of numbers,
+# where each number is the index line of the author.
+
+sub makeauthorfiles {
+  my $offset = 0;
+  my @namearray = sort keys %akeys;
+  my $akey;
+  my %atrs;
+  my %wordauthors;
+  my $index = 0;
+  my $authorrefcount = 0;
+
+  my $authorindex = new OLBP::Index(name=>"authors",
+                                    filename=>OLBP::indexfilename("authors",
+                                                                  $idxdir));
+  if (!$authorindex ||
+      !$authorindex->open_to_write(size=>scalar(@namearray),
+                                   keywidth=>$OLBP::authorsortkeylimit,
+                                   valuewidth=>8)) {
+    die "Can't open author index";
+  }
+  my $entryfilename = OLBP::authorentriesfile($idxdir);
+  open ENTRYFILE, ">$entryfilename"
+     or die "Can't open $entryfilename";
+  foreach $akey (@namearray) {
+    my $aref = $amain{$akey} || $akey;
+    my $titlecount = scalar(@{$akeys{$aref}});
+    if ($aref eq $akey) {
+      $authorrefcount += $titlecount;
+    } else {
+      # we're just putting in a cross-reference in author/title index
+      $authorrefcount += 1;
+    }
+    my $str = "C$titlecount";
+    if ($amain{$akey}) {
+      $str .= "A" . idxinarray(\@namearray, $aref);
+    }
+    $str .= " " . formalname($aname{$akey});
+    print ENTRYFILE $str . "\n";
+    $authorindex->write_item(key=>$akey, value=>$offset);
+
+    my $astr = OLBP::BookRecord::search_key_for_name(formalname($aname{$akey}));
+    my @awords = OLBP::search_words(string=>$astr,
+                                    hyphens=>"both", markup=>1);
+    my %namewds = ();
+    foreach my $word (@awords) {
+      if (!$namewds{$word}) {
+        $wordauthors{$word} .= "$index ";
+        $namewds{$word} = 1;
+      }
+    }
+
+    my $anote = authornotes($akey);
+    if ($anote) {
+      $authornote{$akey} = $anote;
+    }
+
+    $offset += length($str) + 1;
+    $index++;
+  }
+  $authorindex->close_write() or die "Error building author index file";
+  close ENTRYFILE;
+  my $arefindex = new OLBP::Index(name=>"authorrefs",
+                                  filename=>OLBP::indexfilename("authorrefs",
+                                                                $idxdir));
+  if (!$arefindex ||
+      !$arefindex->open_to_write(size=>$authorrefcount,
+                                   keywidth=>$OLBP::atsortkeylimit,
+                                   valuewidth=>20)) {
+    die "Can't open author reference index";
+  }
+  foreach $akey (@namearray) {
+    my $amainkey = $amain{$akey} || $akey;
+    my @brecs = @{$akeys{$amainkey}};
+    my @trarray = ();
+    foreach $br (sort {$a->get_title_sort_key() cmp $b->get_title_sort_key()}
+                      @brecs) {
+      my $tkey = $akey . $OLBP::authortitlesep .  $br->get_title_sort_key();
+      my @names = $br->get_names();
+      my $whichname = 1;
+      foreach my $name (@names) {
+        my $bakey = OLBP::BookRecord::sort_key_for_name($name);
+        last if ($bakey eq $amainkey);
+        $whichname++;
+      }
+      my $tvalue = $br->get_id() . ':' . $whichname;
+      if (!$amain{$akey}) {
+        $arefindex->write_item(key=>$tkey, value=>$tvalue);
+      }
+      push @trarray, $tvalue;
+    }
+    $atrs{$akey} = join ' ', @trarray;
+    if ($amain{$akey}) {
+      my $xref .= "-A" . idxinarray(\@namearray, $akey);
+      $arefindex->write_item(key=>$akey, value=>$xref);
+    }
+  }
+  $arefindex->close_write() or die "Error building author ref. index file";
+  packhashtofile("authorwords", \%wordauthors);
+  packhashtofile("authornotes", \%authornote);
+  packhashtofile("authortitles", \%atrs);
+}
+
+# this just backs up a string to an earlier form.  If it ends with
+# a period, removes it; otherwise, removes everything past the last period
+
+sub shorten_to_period {
+  my $str = shift;
+  if ($str =~ /\.$/) {
+    return substr($str, 0, -1);
+  } elsif ($str =~ /(Bible.*), [\d\-]*$/) {
+    # strip verses from the end of a Bible reference
+    return $1;
+  } elsif ($str =~ /(Bible.*) [IVXLC\d\-, ]*$/) {
+    # strip chapters and verses from the end of a Bible reference
+    return $1;
+  } elsif ($str =~ /(.*\.)/) {
+    return $1;
+  }
+  return undef;
+}
+
+sub enhance_title_subjects {
+   # this actually works on both titles alone, and author-with-title
+   foreach my $title (keys %tsubkeys) {
+     my $tnode = $subjectgraph->find_node(heading=>$title);
+     my $shortt = shorten_to_period($title);
+     while ($shortt && $tnode) {
+       if ($tsubkeys{$shortt}) {
+         my $tshortnode = $subjectgraph->find_node(heading=>$shortt);
+         if ($tshortnode) {
+           $subjectgraph->add_edge(node1=>$tnode, node2=>$tshortnode,
+                                   type=>"BT", subtype=>$COMPONENT);
+         }
+         $shortt = "";
+       } else {
+         $shortt = shorten_to_period($shortt);
+       }
+     }
+   }
+   # print "Got through title subjects\n";
+   foreach my $title (keys %ntsubkeys) {
+     my $tnode = $subjectgraph->find_node(heading=>$title);
+     my $shortt = shorten_to_period($title);
+     if ($title =~ /(.*\d\d\d\d-)[^\.]+$/) {
+        $shortt = $1;
+     }
+     my $nom = OLBP::BookRecord::sort_key_for_name($shortt);
+     while ($shortt && $tnode) {
+       # print "Trying $title vs $nom\n";
+       if ($ntsubkeys{$shortt}) {
+         my $tshortnode = $subjectgraph->find_node(heading=>$shortt);
+         if ($tshortnode) {
+           $subjectgraph->add_edge(node1=>$tnode, node2=>$tshortnode,
+                                   type=>"BT", subtype=>$COMPONENT);
+         }
+         $shortt = "";
+       } elsif ($aname{$nom}) {
+         my $tshortnode = $subjectgraph->find_node(heading=>$shortt);
+         if ($tshortnode) {
+           $subjectgraph->add_edge(node1=>$tnode, node2=>$tshortnode,
+                                   type=>"BT", subtype=>$WORK);
+         }
+         $shortt = "";
+       } else {
+         if ($shortt =~ /(.*\d\d\d\d-)[^\.]+$/) {
+           # handling the no-period case like Adams, Scott, 1957- Dilbert
+           $shortt = $1;
+         } else {
+           $shortt = shorten_to_period($shortt);
+         }
+       }
+     }
+   }
+}
+
+sub makesubjectfiles {
+  my %subhash = ();
+   
+  # First, add in new relationships that weren't there before
+  enhance_title_subjects();
+  # First, expand and write out subject graph
+  $subjectgraph->expand();
+  $subjectgraph->linkauthors(akeys=>\%akeys);
+  # Now place people in broader categories
+  # print "starting broader categorization\n";
+  foreach my $nkey (keys %nkeys) { 
+    my $heading = $aname{$nkey} || $nsname{$nkey} || $nkey;
+    # print "checking out $heading\n";
+    $subjectgraph->add_person_to_broader_categories(heading=>$heading);
+  }
+  # print "ending broader categorization\n";
+  $subjectgraph->output(outputhash=>"booksubnotes");
+
+  # Next, write out hash associating subjects with books
+  while (($key, $val) = each %subkeys) {
+    my @brecs = @{$val};
+    $subhash{$key} = join ' ',
+                        (map {$_->get_id()}
+                           (sort {$a->get_title_sort_key()
+                               cmp $b->get_title_sort_key()}
+                            @brecs));
+  }
+  packhashtofile("subjectbooks", \%subhash);
+
+  # Now compile two arrays: one of the sorted subjects (write to index)
+  # and another of the subject info with following information
+  # C(num)[+): number of entries under subject with + indicating
+  #  subcategories
+  # A[num]: indicating an alias going to the item in the other array
+  # We need the subject graph to do this
+  my $headinghash = $subjectgraph->headingshash();
+  my %headpos;
+  my @headlist = sort {OLBP::BookRecord::sort_key_for_subject($a) cmp
+                       OLBP::BookRecord::sort_key_for_subject($b)}
+                    (keys %{$headinghash});
+  for (my $i = 0; $i < scalar(@headlist); $i++) {
+    $headpos{$headlist[$i]} = $i;
+  }
+  my $subjectindex = new OLBP::Index(name=>"subjects",
+                                    filename=>OLBP::indexfilename("subjects",
+                                                                  $idxdir));
+  if (!$subjectindex ||
+      !$subjectindex->open_to_write(size=>scalar(@headlist),
+                                   keywidth=>$OLBP::subjectsortkeylimit,
+                                   valuewidth=>8)) {
+    die "Can't open subject index";
+  }
+  my $entryfilename = OLBP::subjectentriesfile($idxdir);
+  my $offset = 0;
+  open ENTRYFILE, ">$entryfilename"
+     or die "Can't open $entryfilename";
+  foreach my $heading (@headlist) {
+    my $data = "";
+    my $val = $headinghash->{$heading};
+    if (ref($val)) {
+      my @seelist = map {$headpos{$_->get_name()}} @{$val};
+      $data = "A" . join ",", @seelist;
+    } else {
+      my $skey = OLBP::BookRecord::search_key_for_subject($heading);
+      my $count = 0;
+      if ($subkeys{$skey}) {
+        $count = scalar @{$subkeys{$skey}};
+      }
+      $data = "C$count" . (($val eq '+') ? $val : "");
+    }
+    my $str = "$data $heading\n";
+    print ENTRYFILE $str;
+    my $sortkey = OLBP::BookRecord::sort_key_for_subject($heading);
+    $subjectindex->write_item(key=>$sortkey, value=>$offset);
+    $offset += length($str);
+  }
+  close ENTRYFILE;
+  $subjectindex->close_write() or die "Error building subject index file";
+}
+
+sub makelcfile {
+  my @keyarray = sort keys %lckeys;
+  my $lcindex = new OLBP::Index(name=>"lccn",
+                                filename=>OLBP::indexfilename("lccn", $idxdir));
+  if (!$lcindex ||
+      !$lcindex->open_to_write(size=>$numlccns,
+                                  keywidth=>40,
+                                  valuewidth=>20)) {
+    die "Can't open LCCN index";
+  }
+  foreach $key (@keyarray) {
+    my @brefarray = @{$lckeys{$key}};
+    foreach $br (sort {$a->get_title_sort_key() cmp $b->get_title_sort_key()}
+                       @brefarray) {
+      $lcindex->write_item(key=>$key, value=>$br->get_id());
+    }
+  }
+  $lcindex->close_write() or die "Error building LCCN index file";
+}
+
+sub makeentryfile {
+  my %recstr;
+  foreach my $id (keys %records) {
+    $recstr{$id} = $records{$id}->unparse();
+  }
+  packhashtofile("records", \%recstr);
+}
+
+# Start main program
+
+setnewrange(2);
+
+
+readbooks;
+checkauthorxrefs;
+
+makenewfiles;
+makeserialsfile;
+makeserialhashfile;
+
+makeentryfile;
+maketitlefiles;
+makeauthorfiles;
+makesubjectfiles;
+
+makelcfile;
+
+exit 0;

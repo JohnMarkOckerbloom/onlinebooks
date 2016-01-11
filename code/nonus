@@ -1,0 +1,208 @@
+#!/usr/bin/perl
+
+use lib "/websites/OnlineBooks/nonpublic/lib";
+use lib "nlib";
+use OLBP;
+use OLBP::Hash;
+
+$idxdir =  "/websites/OnlineBooks/nonpublic/bookdb/indexes/";
+
+$serverurl = "http://onlinebooks.library.upenn.edu/";
+$booksurl  = $serverurl;
+$cgiurl    = $serverurl . "webbin/";
+$scripturl = $cgiurl . "book/";
+
+$bookcount = "2 million";
+$email = "onlinebooks@&#112;obox.upenn.edu";
+
+%codes = 
+("au" => "Australia",
+ "bg" => "Bulgaria",
+ "ca" => "Canada",
+ "de" => "Germany",
+ "es" => "Spain",
+ "in" => "India",
+ "kr" => "Korea",
+ "nz" => "New Zealand",
+ "ru" => "Russia",
+ "uk" => "United Kingdom",
+ "za" => "South Africa",
+);
+
+$infolink  = $OLBP::homepage . "okbooks.html#whatpd";
+
+$explanation = qq^
+more than 50 years ago.
+Such titles are in the public domain in many countries, particularly
+those outside the US and Europe.
+However, this title most likely <strong>remains
+copyrighted</strong> under United States law, where works copyrighted
+in 1923 or later can remain under copyright
+for up to 95 years after publication.  It may also be copyrighted
+in European Union countries and other countries where copyrights can
+last longer than 50 years past the author's death.  (Europe, for
+instance, uses a life plus 70 years term.)
+<A HREF="$infolink">Follow this link</A> for
+more details on copyright laws of various countries.
+Below, we provide author death dates and other edition information,
+so that you can check this information
+against the terms of your country's copyright law.
+</p>
+<p>
+<strong>
+Do NOT download or read this book online if you or your system are in the
+United States</strong>, or in another country where copyrights for
+authors with the dates shown below have not expired.
+The author's estate and publishers still retain
+rights to control distribution and use of the work in those countries.
+</p>
+<p>
+Since the maintainer of this index resides in the United States,
+he cannot fully check these links for validity.  Please inform
+<strong>$email</strong> if any of the links do not work.
+You may also be interested in the more than $bookcount books listed on
+<A HREF="$booksurl">The Online Books Page</A>
+that <b>can</b> be legally read online or downloaded in the US.
+</p>
+^;
+
+sub gethashval {
+  my ($name, $key) = @_;
+
+  return undef if (!$name);
+  my $hash = $hashes->{$name};
+  if (!$hash) {
+    my $fname = OLBP::hashfilename($name, $idxdir);
+    $hash = new OLBP::Hash(name=>$name, filename=>$fname, cache=>1);
+    return undef if (!$hash);
+    $hashes->{name} = $hash;
+  }
+  return $hash->get_value(key=>$key);
+}
+
+sub _ref_link_encode {
+  my $str = shift;
+  $str =~ s/&gt;/>/g;
+  $str =~ s/&lt;/</g;
+  $str =~ s/&amp;/&/g;
+  return OLBP::html_encode($str);
+}
+
+sub showwarning {
+  my $rec = shift;
+  my $title = $rec->get_title();
+  my @names = $rec->get_names();
+  my @roles = $rec->get_roles();
+  my @refs = $rec->get_nonus_refs();
+  my $note  = $rec->get_note();
+  my $namecount = scalar(@names);
+  my $str;
+print qq^<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="$OLBP::styleurl" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style type="text/css">
+  h1 {text-align: center}
+</style>
+^;
+  print "<title>$title: NO US ACCESS</title></head>";
+  print $OLBP::bodystart;
+  print "<h1>Warning! Restricted Access!</h1>\n";
+  print "<p>";
+  print "The title you have selected (<cite>$title</cite>) is ";
+  print "a post-1922 publication by ";
+  if (!$namecount) { 
+    print "anonymous authors, published ";
+  } elsif ($namecount == 1) {
+    print "an author who died ";
+  } else {
+    print "authors who died ";
+  }
+  print $explanation;
+  print "<hr>\n";
+  print "<table>";
+  print "<tr><td><b>Title:</b></td><td>$title</td></tr>\n";
+  for (my $i = 0; $i < $namecount; $i++) {
+    my $name = $names[$i];
+    my $role = $roles[$i];
+    my $rolestr = ucfirst(lc($role)) . ":";
+    my $namelink = "$scripturl/lookupname?key=" . OLBP::url_encode($name);
+    my $nameelt = "<a href=\"$namelink\">$name</a>";
+    print "<tr><td><b>$rolestr</b></td><td>$nameelt</td></tr>\n";
+  }
+  if ($note) {
+    print "<tr><td><b>Note:</b></td><td>$note</td></tr>\n";
+  }
+  print "</table>\n";
+  print "<hr>\n";
+  if (scalar(@refs)) {
+    if ($refs[0] =~ /^u-/) {
+      print "<p>The US copyright status of this title is uncertain.";
+    }
+    print "<p>If you have determined that downloading the book above is ";
+    print " legal in your country, you may access it via the following ";
+    print (scalar(@refs) == 1 ? "link:" : "links:");
+    print "</p>\n";
+    print "<ul>";
+    foreach my $ref (@refs) {
+      my ($origin, $url, $comment);
+      if ($ref =~ /(\S+)\s+(\S+)\s+(.*)/) {
+        ($origin, $url, $comment) = ($1, $2, $3);
+        $origin =~ s/^u-//;
+        $origin = $codes{$origin} || $origin;
+        $url = _ref_link_encode($url);
+        print "<li> <a href=\"$url\">$comment</a>";
+        if ($origin && !($comment =~ /$origin$/)) {
+          print " ($origin)";
+        }
+        print "</li>\n";
+      }
+    }
+    print "</ul>\n";
+  }
+  print "</body></html>";
+}
+
+sub getout {
+  print "Location: $booksurl\n\n";
+  exit 0;
+}
+
+if (defined($ENV{"GATEWAY_INTERFACE"})) {
+  $query = $ENV{"QUERY_STRING"};
+  $query =~ tr/+/ /;
+  $query =~ s/%([0-9A-Fa-f][0-9A-Fa-f])/chr(hex($1))/eg;
+} else {
+  $query = $ARGV[0];
+}
+
+%options = split /[&=]/, $query;
+
+$lookid = $options{id};
+if (!$lookid) {
+  getout();
+}
+
+$str = gethashval("records", $lookid);
+if (!$str) {
+  getout();
+}
+
+$rec = new OLBP::BookRecord(string=>$str);
+if (!$rec || !$rec->get_title()) {
+  getout();
+} 
+
+my @refs = $rec->get_nonus_refs();
+if (!scalar(@refs)) {
+  my $realurl = $scripturl . "/lookupid?key=$lookid";
+  print "Location: $realurl\n\n";
+  exit 0;
+}
+
+if (defined($ENV{"GATEWAY_INTERFACE"})) {
+  print "Content-type: text/html\n\n";
+}
+
+showwarning($rec);

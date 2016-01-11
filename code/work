@@ -1,0 +1,394 @@
+#!/usr/bin/perl
+
+use CGI;
+
+# BEGIN LINES that change in test version
+BEGIN {
+$OLBP::SCRIPTNAME = "book";
+}
+
+use lib "/websites/OnlineBooks/nonpublic/lib";
+use lib "nlib";
+use OLBP;
+use OLBP::Hash;
+
+$idxdir =  "/websites/OnlineBooks/nonpublic/bookdb/indexes/";
+# $idxdir =  "/home/ockerblo/digital/nonpublic/bookdb/indexes/";
+
+$serverurl = "http://onlinebooks.library.upenn.edu/";
+$booksurl = $serverurl;
+$homepage  = $booksurl;
+
+my %credit = ("AUTHOR" => "", "EDITOR" => "edited",
+              "TRANSLATOR" => "translated",
+              "CONTRIBUTOR" => "contrib.", "ILLUSTRATOR" => "illustrated");
+
+my $UL = "<ul class=\"nodot\">";
+my $NUL = "</ul>";
+
+sub gethashval {
+  my ($name, $key) = @_;
+
+  return undef if (!$name);
+  my $hash = $hashes->{$name};
+  if (!$hash) {
+    my $fname = OLBP::hashfilename($name, $idxdir);
+    $hash = new OLBP::Hash(name=>$name, filename=>$fname, cache=>1);
+    return undef if (!$hash);
+    $hashes->{$name} = $hash;
+  }
+  return $hash->get_value(key=>$key);
+}
+
+sub get_subject_query_url {
+  my ($term) = @_;
+  if ($term) {
+    return $OLBP::scripturl
+            . "/browse?type=lcsubc&amp;key="
+            . OLBP::url_encode($term);
+  }
+  return "";
+}
+
+sub get_author_query_url {
+  my ($term) = @_;
+  if ($term) {
+    return $OLBP::scripturl
+            . "/lookupname?key="
+            . OLBP::url_encode($term);
+  }
+  return "";
+}
+
+sub get_work_url {
+  my ($id) = @_;
+  if ($id) {
+    return "?id=$id";
+  }
+  return "";
+}
+
+sub directive {
+  my $str = shift;
+  my $cmd = $str;
+  my $text = $cmd;
+  if ($cmd =~ /(.*)\|(.*)/) {
+    ($cmd, $text) = ($1, $2);
+  }
+  if ($cmd =~ /^https?:/) {
+    return qq!<a href="$cmd">$text</a>!;
+  } elsif ($cmd =~ /^su:(.*)/) {
+    my $link = get_subject_query_url($1);
+    if ($text eq $cmd) {
+      $text =~ s/^su://;
+    }
+    return qq!<a href="$link">$text</a>!;
+  } elsif ($cmd =~ /^au:(.*)/) {
+    my $link = get_author_query_url($1);
+    if ($text eq $cmd) {
+      $text =~ s/^au://;
+    }
+    return qq!<a href="$link">$text</a>!;
+  } elsif ($cmd =~ /^wk:(.*)/) {
+    my $link = get_work_url($1);
+    return qq!<a href="$link">$text</a>!;
+  }
+  return $str;
+}
+
+sub process_special {
+  my $str = shift;
+  $str =~ s/\{([^\}]*)\}/directive($1)/ge;
+  return $str;
+}
+
+sub showeditions {
+  my ($type, @edlines) = @_;
+  my $num = 1;
+  my $lasthead = "";
+  foreach my $er (@edlines) {
+    print "\n<!-- er is $er -->\n";
+    if ($er =~ /\[([^\]]*)\]\s*(.*)/) {
+      my ($heading, $rest) = ($1, $2);
+      print "\n<!-- seeing $heading -->\n";
+      $er = $rest;
+      if ($heading ne $lasthead) {
+        $lasthead = $heading;
+        if ($heading eq "O") {
+          if ($num > 1) {
+            print "$NUL<b>Other online editions and versions</b>$UL\n";
+          }
+        } else {
+          print "$NUL\n";
+          my $preface = "";
+          if ($heading =~ /([^\|]*)\|(.*)/) {
+            ($heading, $preface) = ($1, $2);
+          }
+          if ($heading) {
+            my $level = 3;
+            while ($heading =~ /^\+(.*)/ && $level < 6) {
+              $heading = $1;
+              $level++;
+            }
+            for (my $i = $level; $i > 3; $i--) {
+              print " <b>--</b> ";
+            }
+            print "<b>$heading</b>\n";
+          }
+          if ($preface) {
+            $preface = process_special($preface);
+            print "<p>$preface</p>\n";
+          }
+          print "$UL\n";
+        }
+      }
+    }
+    my $note = "";
+    if ($er =~ /(\S+)\s+(.*)/) {
+      ($er, $note) = ($1, $2);
+    }
+    my $edstr = gethashval("records", $er);
+    if ($edstr) {
+      my $rec = new OLBP::BookRecord(string=>$edstr);
+      if ($rec) {
+        my $entry = $rec->short_entry();
+        print "<li> " . $entry;
+        if ($note) {
+          $note = process_special($note);
+          if (!($entry =~ /<ul>/)) {
+            print ". ";
+          }
+          print $note;
+        }
+        print "</li>\n";
+      }
+    } else {
+    }
+    $num++;
+  }
+}
+
+sub books_exist_about {
+  my $sub = shift;
+  return 0 if (!$sub);
+  my $key = OLBP::BookRecord::search_key_for_subject($sub);
+  my $note = gethashval("booksubnotes", $key);
+  if (defined($note)) {
+    return 1;
+  }
+  return 0;
+}
+
+sub linktolibraries {
+  my $br = shift;
+  my $title = $br->get_title();
+  my @names = $br->get_names();
+  my $info = "Look for editions of this book at ";
+  my $url = $OLBP::seealsourl . "?ti=" . OLBP::url_encode($title);
+  if ($names[0]) {
+    my $akey = $names[0];
+    $url .= "&amp;au=" . OLBP::url_encode($akey);
+  }
+  $info .= "<a href=\"$url\">your library</a>, or ";
+  $info .= "<a href=\"$url\&amp;library=0CHOOSE0\">elsewhere</a>.";
+  print "<b>Editions in libraries</b>\n";
+  print "<ul> <li> $info</ul>";
+}
+
+sub showwork {
+  my $br = shift;
+  my $title = $br->get_title();
+  my $pagetitle = $title;
+  my $iname = $br->get_informal_name(index=>1);
+  if ($iname) {
+    $pagetitle .= ", by $iname";
+    if ($br->get_formal_name(index=>2)) {
+      $pagetitle .= " et al.";
+    }
+  }
+  print qq^<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="$OLBP::styleurl" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style type="text/css">
+  h1 {text-align: center}
+  h2 {text-align: center}
+  td.workinfo {width:35%; vertical-align:top}
+  td.separator {width:5%; vertical-align:top}
+  td.editions {width:60%; vertical-align:top}
+</style>
+^;
+  print "<title>$pagetitle (work) | The Online Books Page</title></head>";
+  print $OLBP::bodystart;
+  print "<h1>" . $title . "</h1>";
+  my @names = $br->get_names();
+  my @roles = $br->get_roles();
+  my $bucket = {};
+  for (my $i = 0; $i < scalar(@names); $i++) {
+    push @{$bucket->{$roles[$i]}}, $i+1;
+  }
+  foreach my $label ("AUTHOR", "EDITOR", "TRANSLATOR",
+                     "ILLUSTRATOR", "CONTRIBUTOR") {
+    my $ref = $bucket->{$label};
+    if ($ref && scalar(@{$ref})) {
+      my @authors = @{$ref};
+      my $asize = scalar(@authors);
+      my $cred = "$credit{$label} by ";
+      print "<h2>";
+      for (my $i = 0; $i < $asize; $i++) {
+        my $aname = $br->get_informal_name(index=>$authors[$i]);
+        if ($aname) {
+          print $cred;
+          print $aname;
+          $cred = ", ";
+          if ($i == $asize - 2) {
+            $cred = " and ";
+          }
+        }
+      }
+      print "</h2>\n";
+    }
+  }
+
+  print qq!<table><tr><td class="workinfo">\n!;
+  if ($br->{WDESC}) {
+    my $desc = $br->{WDESC};
+    $desc =~ s/\*THIS\*/"<cite>" . $title . "<\/cite>"/ge;
+    $desc = process_special($desc);
+    print "<p>$desc</p>\n";
+  }
+  if ($br->{WBIB}) {
+    my @bibnotes = @{$br->{WBIB}};
+    print "<b>Bibliographic notes</b>\n";
+    foreach my $note (@bibnotes) {
+      $note =~ s/\*THIS\*/"<cite>" . $title . "<\/cite>"/ge;
+      $note = process_special($note);
+      print "<p>$note</p>\n";
+    }
+  }
+  if ($br->{WREL}) {
+    print "<b>Related titles</b>\n";
+    print "$UL\n";
+    showeditions("related", @{$br->{WREL}});
+    print "$NUL\n";
+  }
+  print "<b>See also</b>\n";
+  print "<ul>\n";
+  my $sub = $br->get_title_subject();
+  if (books_exist_about($sub)) {
+    my $url = get_subject_query_url($sub);
+    print "<li> <a href=\"$url\">Online books about <cite>$title</cite></a>";
+  }
+  @names = $br->get_names();
+  if (scalar(@names)) {
+    if (scalar(@names) == 1) {
+      my $name = $names[0];
+      my $nlink = get_author_query_url($name);
+      my $iname = $br->get_informal_name(index=>1);
+      print "<li> <a href=\"$nlink\">Online books by $iname</a>";
+    } else {
+      print "<li> Online books by these authors:\n<ul>\n";
+      for (my $i = 1; $i <= scalar(@names); $i++) {
+        my $name = $br->get_formal_name($i);
+        my $iname = $br->get_informal_name($i);
+        my $nlink = get_author_query_url($name);
+        print "<li> <a href=\"$nlink\">$iname</a>";
+      }
+      print "</ul>\n";
+    }
+  }
+  my @subjects = $br->get_subjects();
+  if (scalar(@subjects)) {
+    if (scalar(@subjects) == 1) {
+      my $sub = $subjects[0];
+      my $sublink = get_subject_query_url($sub);
+      print "<li> <a href=\"$sublink\">Online books with subject \"$sub\"</a>";
+    } else {
+      print "<li> Online books filed under these subjects:\n<ul>\n";
+      foreach my $sub (@subjects) {
+        my $sublink = get_subject_query_url($sub);
+        print "<li> <a href=\"$sublink\">$sub</a>";
+      }
+      print "</ul>\n";
+    }
+  }
+
+  my $iurl = $OLBP::scripturl . "/lookupid?key=" . $br->get_id();
+  print "<li> <a href=\"$iurl\">Full catalog description</a>";
+  print "</ul>\n";
+  print qq!</td><td class="separator">&nbsp;!;
+  print qq!</td><td class="editions">!;
+  if ($br->{WREF}) {
+    print "$UL\n";
+    showeditions("editions", @{$br->{WREF}});
+    print "$NUL\n";
+  }
+  linktolibraries($br);
+  if ($br->{WPART}) {
+    print "<h2>Titles included in this work</h2>\n";
+    print "<p><i>This listing points to other Online Books Page entries ";
+    print " included in this work. ";
+    print " It should not be considered a complete table of contents.</i></p>";
+    print "$UL\n";
+    showeditions("included", @{$br->{WPART}});
+    print "$NUL\n";
+  }
+  print "</td></tr></table>";
+  print "<hr>";
+  # print "<p><em>This is an experimental feature for showing information";
+  # print " and editions about particular works. ";
+  # print " This feature may be subject to rapid ";
+  # print " changes, and may be discontinued without warning.";
+  # print "</em></p>";
+  print OLBP::result_tips();
+  print OLBP::choicelist();
+  print $OLBP::bodyend;
+}
+
+sub getout {
+  my $msg = shift;
+  print "Location: $homepage\n\n";
+  # print "Content-type: text/html\n\n";
+  # print "<title>$msg</title>\n";
+  # print "<p>Hello $msg</p>\n";
+  exit 0;
+}
+
+if (defined($ENV{"GATEWAY_INTERFACE"})) {
+  $command = $ENV{"PATH_INFO"};
+  $command = substr($command, 1);
+  $query = $ENV{"QUERY_STRING"};
+  $query =~ tr/+/ /;
+  $query =~ s/%([0-9A-Fa-f][0-9A-Fa-f])/chr(hex($1))/eg;
+} else {
+  $command = $ARGV[0];
+  $query = $ARGV[1];
+}
+
+%options = split /[&=]/, $query;
+
+$lookid = $options{id};
+if (!$lookid) {
+  getout("no id");
+}
+
+
+my $str = gethashval("records", $lookid);
+if (!$str) {
+  getout("no record for $lookid");
+}
+
+
+$rec = new OLBP::BookRecord(string=>$str);
+if (!$rec || !$rec->get_title()) {
+  getout("no parse/title");
+}
+
+if (defined($ENV{"GATEWAY_INTERFACE"})) {
+  print "Content-type: text/html\n\n";
+}
+
+showwork($rec);
+
+# print "<!-- $str -->";
