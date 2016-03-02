@@ -388,6 +388,57 @@ sub get_subjects {
   return @list;
 }
 
+# returns probable publication year or 0 if not specified
+
+sub _probable_publication_year {
+  my ($self, %params) = @_;
+  my $note = $self->{NOTE};
+  if ($note =~ /(\d\d\d\d)\s*$/) {
+    return $1;
+  }
+  if ($self->{serial} && $note =~ /(\d\d\d\d)-\s*$/) {
+    # open-ended: might be present or not. Assume 2014
+    return 2014;
+  } elsif ($self->{serial} && $self->{SREF}) {
+    my $max = 0;
+    # see if we can find out from SREFs how far things extend
+    foreach my $sref (@{$self->{SREF}}) {
+      if ($sref =~ /^\S*-present/) {
+        # let's assume present is 2015
+        return 2015;
+      } elsif ($sref =~ /\S*-recent/) {
+        # let's assume recent is 2010
+        $max = 2010 if ($max < 2010);
+      } elsif ($sref =~ /^\S*(\d\d\d\d) /) {
+        # take the last year in the SREF if later than current max
+        $max = $1 if ($max < $1);
+      }
+    }
+    return $max;
+  }
+  return 0;
+}
+
+# returns the score of the subject passed in, or 0 if not a subject
+# We'll match on either the subject or the key
+
+sub get_subject_score {
+  my ($self, %params) = @_;
+  my $subject = $params{subject};
+  my $key = $params{key};
+  return 0 if (!$self->{subject});
+  for (my $i = 0; $i < scalar(@{$self->{subject}}); $i++) {
+    if ($subject && $self->{subject}->[$i] eq $subject) {
+      return $self->{subjscore}->[$i];
+    }
+    if ($key && search_key_for_subject($self->{subject}->[$i]) eq $key) {
+      # print "$key: $self->{subjscore}->[$i]\n";
+      return $self->{subjscore}->[$i];
+    }
+  }
+  return 0;
+}
+
 sub get_title_sort_key {
   my $self = shift;
   my $key = $self->{tsortkey};
@@ -803,6 +854,57 @@ sub rss_entries {
   return OLBP::Entities::numeric_entities($str);
 }
 
+# We give various bonuses out to the subjects
+# first subject: 80
+# second subject: 50
+# third subject: 20
+# if publication year given,  -1920 + pubyear (min 0)
+# if subject includes a year, 50 - (pubyear - subyear) (max 50, min 0)
+#  though if subject includes a range it has to be within the range
+# if it's a multi-edition work, +40
+
+sub adjust_subject_scores {
+  my ($self, %params) = @_;
+  my $position_bonus = 80;
+  my $baselineyear = 1920;
+  my $pubyear = $self->_probable_publication_year();
+  return undef if (!$self->{subject});
+  for (my $i = 0; $i < scalar @{$self->{subject}}; $i++) {
+    my $bonus = 0;
+    if ($pubyear > $baselineyear && ($pubyear < $baselineyear + 150)) {
+      # someone may need to adjust the line above come 2070
+      $bonus += ($pubyear - $baselineyear);
+    }
+    my $sub = $self->{subject}->[$i];
+    if (($sub =~ /(\d\d\d\d)$/) || ($sub =~ /(\d\d\d\d) --/)) {
+      my $subyear = $1;
+      my $startyear = 0;
+      if ($sub =~ /(\d\d\d\d)-$subyear/) {  # it's an interval
+        $startyear = $1;
+      }
+      if (($pubyear >= $startyear) && ($subyear + 50 > $pubyear)) {
+        if ($pubyear < $subyear) {
+          $bonus += 50;
+        } else {
+          $bonus += (50 - ($pubyear - $subyear));
+        }
+      }
+    }
+    if ($self->{workrec}) {
+      $bonus += 40;
+    }
+    $bonus += $position_bonus;
+    $position_bonus -= 30;
+    $position_bonus = 0 if ($position_bonus < 0);
+    # if ($sub =~ /algebra, abstract/i) {
+    #   print $self->{ID} . "sub: $sub; year: $pubyear; bonus $bonus\n";
+    # }
+    if ($bonus > 0) {
+      $self->{subjscore}->[$i] += $bonus;
+    }
+  }
+}
+
 sub _readin {
   my ($self, %params) = @_;
   my $str = $params{string};
@@ -818,12 +920,15 @@ sub _readin {
       }
     } elsif ($line =~ /^(SREF|SOSC|SREL|NUREF|SERIES|WBIB|WPART|WREF|WREL)\s+(.*\S)/) {
       push @{$self->{$1}}, $2;
-    } elsif ($line =~ /^(LC[A-Z]*SUB)\+?\s+(.*\S)/) {
+    } elsif ($line =~ /^(LC[A-Z]*SUB)\+?(,[0-9\.\-]*)?\s+(.*\S)/) {
       my $which = $1;
-      my $what = $2;
+      my $score = $2;
+      my $what = $3;
       if (!($what =~ /^\[(implied|suppressed)\]/)) {
         push @{$self->{subjtype}}, $which;
         push @{$self->{subject}}, $what;
+        $score ||= 0;
+        push @{$self->{subjscore}}, $score;
       }
       if ($line =~ /^[A-Z]+\+/) {
         $self->{addedsubs} = 1;
@@ -974,6 +1079,7 @@ sub _initialize {
   $self->{NUREF} = [];
   $self->{subject} = [];
   $self->{subjtype} = [];
+  $self->{subjscore} = [];
   if ($params{string}) {
     if (!$self->_readin(%params)) {
       return 0;
