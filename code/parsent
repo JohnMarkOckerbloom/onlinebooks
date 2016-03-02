@@ -1,0 +1,532 @@
+#!/usr/bin/perl
+
+# Library of Congress SKOS NT parser
+# 2013 by John Mark Ockerbloom (ockerblo@pobox.upenn.edu)
+#  Input: an alphabetically sorted uncompressed version of
+#  the LCSH NT dump file  (currently at 
+#   http://id.loc.gov/static/data/authoritiesnames.nt.skos.gz)
+#  Output: 3 hash files with subject IDs, notes, and aliases
+
+use lib "/home/ockerblo/booksrc/nlib/";
+use Encode;
+use OLBP::Entities;
+use OLBP::Hash;
+use utf8;
+
+my $ntfile = $ARGV[0] || "subjects-sorted.nt";
+my $overridefile = "override";
+
+my $line = "";
+my $numsubs = 0;
+
+my $AUTHPREFIX = "http://id.loc.gov/authorities";
+my $FOAFPREFIX = "http://xmlns.com/foaf/0.1";
+my $RDFPREFIX  = "http://www.w3.org/1999/02/22-rdf-syntax-ns";
+my $SKOSPREFIX = "http://www.w3.org/2004/02/skos/core";
+my $DCPREFIX   = "http://purl.org/dc/terms";
+
+my $TYPEPRED    =   $RDFPREFIX  . "#type";
+
+my $ALT_PRED    =   $SKOSPREFIX . "#altLabel";
+my $PREF_PRED   =   $SKOSPREFIX . "#prefLabel";
+my $MEMBER_PRED =   $SKOSPREFIX . "#member";
+my $SKOS_NOTE   =   $SKOSPREFIX . "#note";
+my $CLOSE_MATCH =   $SKOSPREFIX . "#closeMatch";
+my $EXACT_MATCH =   $SKOSPREFIX . "#exactMatch";
+my $IN_SCHEME   =   $SKOSPREFIX . "#inScheme";
+my $NOTATION    =   $SKOSPREFIX . "#notation";
+
+my $BROADER     =   $SKOSPREFIX . "#broader";
+my $NARROWER    =   $SKOSPREFIX . "#narrower";
+
+my $FOCUS       =   $FOAFPREFIX  . "/focus";
+
+my $CONCEPTTYPE = $SKOSPREFIX . "#Concept";
+
+my $CONCEPTSCHEME  = "$AUTHPREFIX#conceptScheme";
+
+my $DELETED1 = "This authority record has been deleted";
+my $DELETED2 = "This authority has been deleted";
+
+my $COLLPREFIX = "$AUTHPREFIX/subjects/collection";
+my $NAMECPREFIX = "$AUTHPREFIX/names/collection";
+
+my %subscoll = (
+   "${COLLPREFIX}_Subdivisions" => 1,
+   "${COLLPREFIX}_GeographicSubdivisions" => 1,
+   "${COLLPREFIX}_TemporalSubdivisions" => 1,
+   "${COLLPREFIX}_TopicSubdivisions" => 1,
+);
+
+my %kidscoll = (
+   "${COLLPREFIX}_LCSH_Childrens" => 1,
+);
+
+my %genrecoll = (
+   "${COLLPREFIX}_GenreFormSubdivisions" => 1,
+);
+
+my %authcoll = (
+   "${COLLPREFIX}_LCSHAuthorizedHeadings" => 1,
+);
+
+my %misccoll = (
+   "${COLLPREFIX}_LCSH_General" => 1,
+   "${NAMECPREFIX}_FRBRWork" => 1,
+   "${COLLPREFIX}_SubdivideGeographically" => 1,
+   "${COLLPREFIX}_SubdivideGeographicalIndirect" => 1,
+);
+
+
+my %kidscheme = (
+   "$AUTHPREFIX#corporateNamesChildren" => 1,
+   "$AUTHPREFIX#geographicNamesChildren" => 1,
+   "$AUTHPREFIX#meetingsChildren" => 1,
+   "$AUTHPREFIX#topicalTermsChildren" => 1,
+   "$AUTHPREFIX#personalNamesChildren" => 1,
+   "$AUTHPREFIX#uniformTitlesChildren" => 1,
+);
+
+
+my %schemes = (
+   "$AUTHPREFIX#corporateNames" => 1,
+   "$AUTHPREFIX#geographicNames" => 1,
+   "$AUTHPREFIX#meetings" => 1,
+   "$AUTHPREFIX#personalNames" => 1,
+   "$AUTHPREFIX#topicalTerms" => 1,
+   "$AUTHPREFIX#uniformTitles" => 1,
+);
+
+sub packhashtofile {
+  my ($name, $hashref) = @_;
+  my $hash = new OLBP::Hash(name=>$name, filename=>"$name.hsh");
+  return $hash->pack_to_file(hash=>$hashref);
+}
+
+sub error {
+  my ($msg, $rec, $nonfatal) = @_;
+  if ($rec) {
+    my $id = $rec->{id};
+    print "$id: ";
+  }
+  binmode STDOUT, ":utf8";
+  print "$msg\n";
+  if (!$nonfatal) {
+    exit 0;
+  }
+}
+
+sub crosslink_notes {
+  my ($str, $labelids) = @_;
+  my @parts = split / under /, $str;
+  if (scalar(@parts) < 2) {
+    return $str;
+  }
+  # print "Looking at $str\n";
+  my @newparts;
+  my $first = 1;
+  foreach my $part (@parts) {
+    if (!$first) {
+      # print "Checking part $part\n";
+      if ($part =~ /([A-Z][^\.]*)./) {
+        my $candidate = lc(OLBP::Entities::normalize_entities($1));
+        # print "trying candidate $candidate with $labelids\n";
+        if ($labelids->{$candidate}) {
+          # print "$str: found $candidate\n";
+          $part =~ s/([A-Z][^\.]*)/\[\[$1\]\]/;
+        }
+      }
+    } else {
+      $first = 0;
+    }
+    push @newparts, $part;
+  }
+  return join " under ", @newparts;
+}
+
+sub unparse {
+  my ($rec, $recs, $labelids) = @_;
+  my $str = "";
+  if (!$rec) {
+    return $str;
+  }
+  foreach my $attr ("SN", "UF", "BT", "NT", "RT") {
+    foreach my $item (@{$rec->{$attr}}) {
+      if ($attr =~ /BT|NT|RT/) {
+        my $orec = $recs->{$item};
+        my $name;
+        # bug that topical term can point to a deleted term;
+        # report but miss for now
+        if ($orec) {
+          $name = $orec->{name};
+        } else {
+          if ($internal_label{$item}) {
+            $name = $internal_label{$item};
+          } else {
+            next;
+          }
+        }
+        # if (!$orec) {
+        #   error("couldn't find id $item", $rec);
+        # }
+        if (!$name) {
+          error("empty name for id $item", $orec);
+        }
+        $item = $name;
+      }
+      # $item = decode("utf8", $item);
+      $item =~ s/(\S)--(\w)/$1 -- $2/g;
+      $item = OLBP::Entities::entitize_utf8($item);
+      # scope notes now come with cross-refs bracketed; don't have to mark
+      # if ($attr eq "SN") {
+      #   $item = crosslink_notes($item, $labelids);
+      #  }
+      $str .= "$attr $item\n";
+    }
+  }
+  return $str;
+}
+
+my %buffered_triple;
+my %hiteof;
+
+sub get_subject_id {
+  my ($triple) = @_;
+  return $triple->[0];
+}
+
+sub get_predicate_uri {
+  my ($triple) = @_;
+  my $pred = $triple->[1];
+  if ($pred =~ /^<(.*)>$/) {
+    # may need to unescape uri; not doing for now";
+    return $1;
+  }
+  error("$pred not a brackets URI");
+}
+
+# returns the string plus some info about its content
+
+sub get_object_details {
+  my ($triple) = @_;
+  my $str = $triple->[2];
+  if ($str =~ /^<(.*)>$/) {
+    return ($1, "URI");
+  }
+  if ($str =~ /^\"(.*)\"\@([A-Za-z][A-Za-z])$/) {
+    return ($1, $2);
+  }
+  if ($str =~ /^\"(.*)\"\^\^<(.*)>$/) {
+    return ($1, $2);
+  }
+  if ($str =~ /^\"(.*)\"$/) {
+    return ($1, undef);
+  }
+  if ($str =~ /^_:/) {
+    return ($str, "INTERNAL");
+  }
+  error("don't know how to process object $str");
+}
+
+sub n3_unescape {
+  my $str = shift;
+  $str =~ s/\\u(....)/chr(hex($1))/ge;
+  return $str;
+}
+
+sub get_next_triple {
+  my ($fh) = @_;
+  my $line;
+  while (!eof($fh)) {
+    $line = <$fh>;
+    chop $line;
+    $line =~ s/^\s*//;
+    last if ($line && !($line =~ /^#/));
+  }
+  if (eof($fh)) {
+    return undef;
+  }
+  $line =~ s/\s*\.\s*$//;
+  $line = n3_unescape($line);
+  my @list = split /\s+/, $line, 3;
+  return \@list;
+}
+
+sub next_entity {
+  my ($fh) = @_;
+  my $tripleslist = [];
+  my $id = undef;
+  return undef if (!$fh || ($hiteof{$fh}));
+  my $triple = $buffered_triple{$fh};
+  if ($triple) {
+    push @{$tripleslist}, $triple;
+    $buffered_triple{$fh} = "";
+    $id = get_subject_id($triple);
+  }
+  while (1) {
+    $triple = get_next_triple($fh);
+    if (!$triple) {
+      if (!scalar(@{$tripleslist})) {
+        return undef;
+      }
+      return $tripleslist;
+    }
+    my $tid = get_subject_id($triple);
+    if (!$tid) {
+      print STDERR "Error: Could not find triple ID\n";
+      return $tripleslist;
+    }
+    if ($id && ($tid ne $id)) {
+      $buffered_triple{$fh} = $triple;
+      return $tripleslist;
+    }
+    $id = $tid;
+    push @{$tripleslist}, $triple;
+  }
+}
+
+sub entity_id {
+  my ($entity) = @_;
+  return undef if (!$entity || !($entity->[0]));
+  return get_subject_id($entity->[0]);
+}
+
+my %internal_label; 
+
+sub read_overrides {
+  my ($fname) = @_;
+  open IN, "< $fname" or return 0;
+  my $overhash;
+  while (my $line = <IN>) {
+    next if ($line =~ /^#/);
+    if ($line =~ /^(\S*)\s+(.*)/) {
+      $overhash->{$1} = $2;
+    }
+  }
+  close IN;
+  return $overhash;
+}
+
+sub n3_entity_record {
+  my ($entity, $id, $ohash) = @_;
+  my $rec = {};
+  $rec->{NT} = [];
+  $rec->{BT} = [];
+  $rec->{RT} = [];
+  $rec->{UF} = [];
+  $rec->{SN} = [];
+  if (!($id =~ /^(sh|sj)/)) {
+    error("unusual id: $id", $rec);
+  }
+  $rec->{id} = $id;
+  if ($rec->{id} =~ /^sj/) {
+    # mark this entry as for kids (we prob. won't use it therefore)
+    $rec->{kids} = 1;
+  }
+  foreach my $triple (@{$entity}) {
+    my $pred = get_predicate_uri($triple);
+    my ($obj, $objtype) = get_object_details($triple);
+    # special case: _:LL is an undefined entity; ignore all assertions w it
+    next if ($objtype eq "INTERNAL" && $obj eq "_:LL");
+    if ($pred eq $MEMBER_PRED) {
+       if ($subscoll{$obj}) {
+         # mark this entry as a subdivision (we prob. won't use it therefore)
+         $rec->{sub} = 1;
+       } elsif ($kidscoll{$obj}) {
+         # mark this entry as for kids (we prob. won't use it therefore)
+         $rec->{kids} = 1;
+       } elsif ($genrecoll{$obj}) {
+         # mark this entry as genre (we prob. won't use it therefore)
+         $rec->{genre} = 1;
+       } elsif ($obj =~ /_PatternHeading/) {
+         # ignore the PatternHeading categories
+       } elsif (!$authcoll{$obj} && !$misccoll{$obj}) {
+         error("Unexpected skos scheme: $obj\n", $rec);
+       }
+    } elsif ($pred eq $TYPEPRED) {
+      if ($obj ne $CONCEPTTYPE) {
+        error("Unrecognized type: $obj\n");
+      }
+    } elsif ($pred eq $IN_SCHEME) {
+      if ($obj ne "$AUTHPREFIX/subjects") {
+        error("Unrecognized scheme: $obj\n");
+      }
+    } elsif ($pred eq $PREF_PRED) {
+      if ($rec->{name}) {
+        if ($ohash && $ohash->{$id}) {
+          $rec->{name} = $ohash->{$id};
+          error("putting $ohash->{$id} into conflicted record", $rec, 1);
+        } else {
+          error("already had a name ($rec->{name}) when we hit $obj", $rec, 1);
+        }
+      } else {
+        $rec->{name} = $obj;
+      }
+    } elsif ($pred eq $ALT_PRED || $pred eq $SKOS_NOTE) {
+      if ($objtype && uc($objtype) ne "EN") {
+        error("unexpected language: $objtype", $rec);
+      }
+      if (!$obj) {
+        error("unexpected (blank?) altlabel: $obj", $rec);
+      }
+      if ($obj =~ /,\s*$/) {
+        # this is a truncated label; ignore it
+        # error("oddly truncated label: $label", $rec, 1);
+        next;
+      }
+      if ($pred eq $ALT_PRED) {
+        push @{$rec->{UF}}, $obj;
+      } elsif ($pred eq $SKOS_NOTE) {
+        push @{$rec->{SN}}, $obj;
+      }
+    } elsif ($pred =~ /$SKOSPREFIX#(narrower|broader|related)/) {
+      my $aid = "";
+      if ($objtype eq "INTERNAL") {
+        $aid = $obj;
+      } elsif ($objtype eq "URI") {
+        if ($obj =~ m!ubjects/(\w+)$!) {
+          $aid = $1;
+        }
+      } else {
+        error("unexpected relation to non-URI: $obj", $rec);
+      }
+      if ($aid) {
+        if ($pred =~ /core#narrower/) {
+          push @{$rec->{NT}}, $aid;
+        } elsif ($pred =~ /core#broader/) {
+          push @{$rec->{BT}}, $aid;
+        } elsif ($pred =~ /core#related/) {
+          push @{$rec->{RT}}, $aid;
+        }
+      } else {
+        error("unexpected $pred: $obj", $rec);
+      }
+    } elsif ($pred =~ /dc\/terms\/(created|modified)/) {
+      # ignore creation and modification times
+    } elsif ($pred eq $CLOSE_MATCH || $pred eq $EXACT_MATCH) {
+      # these map to other ontologies; ignore for now
+    } elsif ($pred =~ /$SKOSPREFIX#(editorialNote|example)/) {
+      # I think these are just internal notes we can ignore
+      # are searchalsoUnder directives still being omitted?
+    } elsif ($pred eq $NOTATION) {
+       # when not _:LL, this seems to map to call number (& range)
+       # this would be cool to record, but for now ignore
+    } elsif ($pred eq $FOCUS) {
+       # this seems to map to a URL showing a map of a real location
+       # this would be cool to record, but for now ignore
+    } else {
+      error("unrecognized predicate: $pred", $rec);
+    }
+  }
+  return $rec;
+}
+
+sub process_internal_entity {
+  my ($entity, $eid) = @_;
+  if (scalar(@{$entity}) != 2) {
+     error("Unexpected size of internal entity.");
+  }
+  if ((get_predicate_uri($entity->[0]) eq $TYPEPRED) &&
+      (get_predicate_uri($entity->[1]) eq $PREF_PRED)) {
+    my ($str, $lang) = get_object_details($entity->[1]);
+    if (!$lang || uc($lang) eq "EN") {
+      $internal_label{$eid} = $str;
+      # binmode(STDOUT, ":utf8");
+      # print "$eid is $str\n";
+    } else {
+       error("Unexpected language: $lang");
+    }
+  } else {
+    error("Unexpected types in internal entity.");
+  }
+}
+
+
+sub readfile {
+  my ($fname, $ohash) = @_;
+  open IN, "< $fname" or die "Cannot open $fname\n";
+  binmode(IN, ":utf8");
+  my $recs = {};
+  my $labelids = {};
+  my $icount = 0;
+  my $scount = 0;
+  while (my $entity = next_entity(IN)) {
+    my $eid = entity_id($entity);
+    if ($eid =~ /^_:(.*)/) {
+      process_internal_entity($entity, $eid);
+      $icount++;
+    } elsif ($eid =~ m!^<$AUTHPREFIX/(childrensS|s)ubjects/(\w+)>!) {
+      # print "adding a record\n";
+      $eid = $2;
+      my $rec = n3_entity_record($entity, $eid, $ohash);
+      next if (!$rec || !$rec->{id});
+      next if ($rec->{kids} || $rec->{sub} || $rec->{genre} || $rec->{deleted});
+      $scount++;
+      if (!($scount % 10000)) {
+         print "$scount\n";
+      }
+      $recs->{$rec->{id}} = $rec;
+      my $name = $rec->{name};
+      my $label = normalizelabel($name);
+      if ($labelids->{$label}) {
+        my $orec = $recs->{$labelids->{$label}};
+        my $oname = $orec->{name};
+          if ($name ne $oname) {
+            error("name collision: $name and $oname ($labelids->{$label}; $label)",
+                  $rec, 1);
+          }
+      } else {
+        $labelids->{$label} = $rec->{id};
+      }
+    } else {
+       print "didn't expect $eid as a subject\n";
+       exit 0;
+    }
+  }
+  close IN;
+  print "Got to the end\n";
+  print "found $icount internal entities.\n";
+  print "found $scount subject authorities.\n";
+  return ($recs, $labelids);
+}
+
+sub normalizelabel {
+  my ($str, $leavecaps) = @_;
+  # my $item = decode("utf8", $str);
+  my $item = $str;
+  $item=~ s/(\S)--(\w)/$1 -- $2/g;
+  # utf8::upgrade($item);
+  if (!$leavecaps) {
+    $item = lc($item);
+  }
+  $item = OLBP::Entities::normalize_utf8($item);
+  return $item;
+}
+
+my $ohash = read_overrides($overridefile);
+my ($recs, $labelids) = readfile($ntfile, $ohash);
+print "recs is $recs, labelids is $labelids\n";
+
+my %subdescs;
+my $aliases;
+
+foreach my $id (keys %{$recs}) {
+  # print "id is $id\n";
+  my $rec = $recs->{$id};
+  my $name = $rec->{name};
+  my $label = normalizelabel($name);
+  my $subst = normalizelabel($name, 1);
+  my $desc = unparse($rec, $recs, $labelids);
+  $subdescs{$id} = $desc;
+  foreach my $alias (@{$rec->{UF}}) {
+    my $key = normalizelabel($alias);
+    $aliases->{$key} .= "|$subst";
+  }
+  # print "$id: $label ($name)\n$desc\n";
+}
+
+packhashtofile("subjectids", $labelids);
+packhashtofile("subjectnotes", \%subdescs);
+packhashtofile("subjectalias", $aliases);
+
+print "done\n";
