@@ -1,0 +1,209 @@
+#!/usr/bin/perl
+
+use lib "/home/ockerblo/booksrc/nlib";
+# This needs to be included before our use statements, so the script gets right
+BEGIN {
+$OLBP::SCRIPTNAME = "giveids";
+}
+use OLBP;
+
+use utf8;
+my $rec;
+
+my $idmax   = 0;
+my $idlimit = 100000;
+my $idnum   = 10101;
+
+my $dir = "/home/ockerblo/bookdb/"; 
+my $file = $dir . "wbookfile";
+
+my %knownfields = (
+  "REF" => 1,
+  "AUTHOR" => 1,
+  "ILLUSTRATOR" => 1,
+  "EDITOR" => 1,
+  "EDOF" => 1,
+  "TRANSLATOR" => 1,
+  "CONTRIBUTOR" => 1,
+  "TITLE" => 1,
+  "ATITLE" => 1,
+  "NOTE" => 1,
+  "MNOTE" => 1,
+  "ISSN" => 1,
+  "LCCN" => 1,
+  "LCSUB" => 1,
+  "LCNSUB" => 1,
+  "LCNTSUB" => 1,
+  "LCTSUB" => 1,
+  "DATE" => 1,
+  "NUREF" => 1,
+  "PARTOF" => 1,
+  "SET" => 1,
+  "SERIES" => 1,
+  "SDESC" => 1,
+  "SHIST" => 1,
+  "SREF" => 1,
+  "SOSC" => 1,
+  "SREL" => 1,
+  "TSUB" => 1,
+  "WDESC" => 1,
+  "WBIB" => 1,
+  "WPART" => 1,
+  "WREF" => 1,
+  "WREL" => 1,
+);
+
+my $line = 0;
+my $today;
+
+my @month = ("Jan", "Feb", "Mar", "Apr", "May", "Jun",
+             "Jul", "Aug", "Sep", "Oct", "Nov", "Dec");
+
+sub get_todays_date {
+  my ($sec, $min, $hour, $mday, $mon, $year, @rest) = localtime(time);
+  $today = $mday . " " . $month[$mon] . " " . ($year+1900);
+}
+
+sub combine_entity_chars {
+  my $str = shift;
+  $str =~ s/([AEIOUaeiou])&#x0300;/\&$1grave;/g;
+  # No, I don't know why there's a &gacute; but not a &Gacute;
+  $str =~ s/([ACEILNORSUYZacegilnorsuyz])&#x0301;/\&$1acute;/g;
+  $str =~ s/([ACEGHIJOUSWYaceghijouswy])&#x0302;/\&$1circ;/g;
+  $str =~ s/([AINOUainou])&#x0303;/\&$1tilde;/g;
+  $str =~ s/([AEIOUaeiou])&#x0304;/\&$1macr;/g;
+  $str =~ s/([AGUagu])&#x0306;/\&$1breve;/g;
+  # No &idot; because lowercase i already has a dot
+  $str =~ s/([CEGIZcegz])&#x0307;/\&$1dot;/g;
+  $str =~ s/([AEIOUYaeiouy])&#x0308;/\&$1uml;/g;
+  $str =~ s/([AUau])&#x030a;/\&$1ring;/g;
+  $str =~ s/([CDELNRSTZcdelnrstz])&#x030c;/\&$1caron;/g;
+  # No, I don't know why there's a &Gcedil; but not a &gcedil;
+  $str =~ s/([CGKLNRSTcklnrst])&#x0327;/\&$1cedil;/g;
+  $str =~ s/([AEIUaeiu])&#x0328;/\&$1ogon;/g;
+  return $str;
+}
+
+sub writeout {
+  while (<INPUT>) {
+    $line++;
+    if (/[^\x00-\x7f]/) {
+      $_ = OLBP::Entities::entitize_utf8($_);
+      if (/[^\x00-\x7f]/) {
+        die "line $line: Saw non-ASCII character I couldn't replace: $_";
+      }
+      $_ = combine_entity_chars($_);
+
+    }
+
+    # some line-by-line manipulations
+    # if an [ASSIGN] block is at end of a creator line, move it to start of 
+    # the field value
+    $_ =~ s/^([A-Z]*OR)( \S.*)(\[ASSIGN\S*\].*)/$1 $3$2/;
+    # space out the hyphens in a subject line
+    if (/^[A-Z]*SUB .*--[A-Z0-9]/) {
+      s/(\S)--([A-Z0-9])/$1 -- $2/g;
+    }
+
+    if (/\S/) {
+      $rec .= $_;
+      if (!/^(#|MNOTE|SHIST)/ && /<|>/) {
+        die "line $line: Saw an angle bracket: $_";
+      }
+      if (/^LCCN\s+[A-Z][a-z]/) {
+        die "line $line: Saw a bad call number: $_";
+      }
+      if (/^REF REF/) {
+        die "line $line: Saw a double REF: $_";
+      }
+      if (/^SREF/ && !/^SREF\s+\S+\s+\S+:/) {
+        # SREF lines should include range and then a URL (with a : in it)
+        die "line $line: Saw a malformed SREF line: $_";
+      }
+      if (/^REF\s+\S*$/) {
+        die "line $line: Nothing after the URL in REF: $_";
+      }
+      if (/^SREF ht/) {
+        die "line $line: Saw URL right after SREF: $_";
+      }
+      if (/^REF\s+\S+\s*$/) {
+        die "line $line: No location note for REF: $_";
+      }
+
+      if (/^(NAME|TITLE)/) {
+        $seentitle = 1;
+      } elsif (/^REF/) {
+        $seenref = 1;
+      } elsif (/^ID/) {
+        $seenid = 1;
+      } elsif (/^DATE/) {
+        $seendate = 1;
+      } elsif (!/^#/) {
+        if (/^(\S+)\s/) {
+          my $field = $1;
+          $field =~ s/\+$//;
+          if (!$knownfields{$field}) {
+            die "line $line: Hit an unknown field: $field";
+          }
+        } elsif (/^\s.*\S/) {
+          die "line $line: Hit a badly formed line: $_";
+        }
+      }
+    } else {
+      if (!$seen{$rec}) {
+        $seen{$rec} = 1;
+        print OUTPUT $rec;
+        if ($seentitle && $seenref && !$seenid) {
+          if (!$seendate) {
+            print OUTPUT "DATE $today\n";
+          }
+          print OUTPUT "ID olbp$idnum\n";
+          $idnum++;
+        }
+        print OUTPUT "\n";
+      }
+      $rec = "";
+      ($seentitle, $seenref, $seenid, $seendate) = (0, 0, 0, 0);
+    }
+  }
+}
+
+if (int($ARGV[0]) > 0) {
+  $today = join ' ', @ARGV;
+} else {
+  get_todays_date();
+}
+
+open INPUT, "< $file" or die "Cannot open $file";
+while (<INPUT>) {
+  if (/^ID olbp(\d+)/) {
+    $idnum = $1;
+    if ($idhit{$idnum}) {
+      die "Hit a duplicate id: $idnum";
+    }
+    $idhit{$idnum} = 1;
+    if ($idnum > $idmax) {
+      $idmax = $idnum;
+    }
+    if ($idmax > $idlimit) {
+      die "Hit an overbig id: $idmax";
+    }
+  }
+}
+close INPUT;
+
+my $scratchname = "$file.SCRATCH.$$." . time();
+if (-e $scratchname) {
+  die "File to create already exists\n";
+} 
+open INPUT, "< $file" or die "Cannot open $file";
+binmode INPUT, ":utf8";
+open OUTPUT, "> $scratchname" or die "Cannot open $scratchname for output";
+
+$idnum = $idmax + 1;
+
+writeout();
+close INPUT;
+close OUTPUT;
+rename $scratchname, $file;
+
