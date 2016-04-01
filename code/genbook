@@ -258,6 +258,8 @@ sub addrecord {
         $ntsubkeys{$nt} = 1;
       }
     }
+    # Now adjust subject scoring
+    $br->adjust_subject_scores();
   } else { 
     # No book record added, but xrefs or notes created for individual authors
     my $note = $br->get_note();
@@ -783,12 +785,15 @@ sub makesubjectfiles {
   $subjectgraph->output(outputhash=>"booksubnotes");
 
   # Next, write out hash associating subjects with books
+  # They go in descending order by subject score, w title sort breaking ties
   while (($key, $val) = each %subkeys) {
     my @brecs = @{$val};
     $subhash{$key} = join ' ',
                         (map {$_->get_id()}
-                           (sort {$a->get_title_sort_key()
-                               cmp $b->get_title_sort_key()}
+                           (sort {
+     ($b->get_subject_score(key=>$key) <=> $a->get_subject_score(key=>$key)) ||
+     ($a->get_title_sort_key() cmp $b->get_title_sort_key())
+                                 }
                             @brecs));
   }
   packhashtofile("subjectbooks", \%subhash);
@@ -879,6 +884,10 @@ setnewrange(2);
 
 readbooks;
 checkauthorxrefs;
+if ($ARGV[0] eq "validate") {
+  # Don't index; just check that 
+  exit 0;
+}
 
 makenewfiles;
 makeserialsfile;

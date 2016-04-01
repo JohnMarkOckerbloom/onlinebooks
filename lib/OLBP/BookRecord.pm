@@ -619,6 +619,22 @@ sub long_entry {
     $str .= $self->_tabrow(alink=>$OLBP::calloverview, vlink=>$vlink,
                            attr=>"Call number", value=>$lccn);
   }
+  if ($self->{issn}) {
+    my @vals;
+    foreach my $key (keys %{$self->{issn}}) {
+      if ($key) {
+        my $type = $key;
+        $type = "Print" if ($key eq "P");
+        $type = "Electronic" if ($key eq "E");
+        $type = "Linking ISSN" if ($key eq "L");
+        push @vals, $self->{issn}->{$key}  . " ($type)";
+      } else {
+        push @vals, $self->{issn}->{$key};
+      }
+    }
+    my $val = join "; ", sort @vals;
+    $str .= $self->_tabrow(attr=>"ISSN", value=>$val);
+  }
   my $sub = $params{titlesub};
   if ($sub) {
     $str .= $BLANKROW;
@@ -882,7 +898,7 @@ sub adjust_subject_scores {
       if ($sub =~ /(\d\d\d\d)-$subyear/) {  # it's an interval
         $startyear = $1;
       }
-      if (($pubyear >= $startyear) && ($subyear + 50 > $pubyear)) {
+      if ($pubyear && ($pubyear >= $startyear) && ($subyear + 50 > $pubyear)) {
         if ($pubyear < $subyear) {
           $bonus += 50;
         } else {
@@ -904,6 +920,55 @@ sub adjust_subject_scores {
     }
   }
 }
+
+sub _validate_issn {
+  my $str = shift;
+  $str =~ s/\-//;
+  return 0 if (length($str) != 8);
+  return 0 if (!$str =~ /^[0-9]{7}[0-9X]$/);
+  my $sum = 0;
+  my @digits = split //, $str;
+  for (my $pos = 0; $pos < 7; $pos++) {
+    $sum += (8 - $pos) * int($digits[$pos]);
+  }
+  my $last = (11 - ($sum % 11)) % 11;
+  return (($last == 10 && $digits[7] eq "X") || ($last eq $digits[7]));
+}
+
+sub _parse_issn_line {
+  my ($value) = @_;
+  my $issns = {};
+  my @vals = split /;/, $value;
+  foreach my $val (@vals) {
+    my ($type, $issn) = ("", "");
+    if ($val =~ /(\S):\s*(\S+)/) {
+      ($type, $issn) = ($1, $2);
+    } elsif ($val =~ /(\S+)/) {
+      $issn = $1;
+    }
+    if (!_validate_issn($issn)) {
+      print STDERR "Invalid ISSN: $issn\n";
+      return undef;
+    }
+    $issns->{$type} = $issn;
+  } 
+  return $issns;
+}
+
+sub _unparse_issn_structure {
+  my ($issns) = @_;
+  return "" if (!$issns);
+  my @vals = ();
+  foreach my $key (keys %{$issns}) {
+    if ($key) {
+      push @vals, "$key: " . $issns->{$key};
+    } else {
+      push @vals, $issns->{$key};
+    }
+  }
+  return join "; ", sort @vals;
+}
+
 
 sub _readin {
   my ($self, %params) = @_;
@@ -978,6 +1043,11 @@ sub _readin {
       push @{$self->{othertitles}}, $1;
     } elsif ($line =~ /^SET\s+(.*\S)/) {
       push @{$self->{sets}}, (split / /, $1);
+    } elsif ($line =~ /^ISSN\s+(.*\S)/) {
+      if ($self->{issn}) {
+        return _formaterror("ISSN already assigned");
+      }
+      $self->{issn} = _parse_issn_line($1);
     } elsif ($line =~ /^DATE\s+(.*\S)/) {
       if ($self->{date}) {
         return _formaterror("DATE already assigned");
@@ -1059,6 +1129,12 @@ sub unparse {
   }
   if ($self->{sets} && scalar(@{$self->{sets}})) {
     $str .= "SET " . (join ' ', @{$self->{sets}}) . "\n";
+  }
+  if ($self->{issn}) {
+    my $val = _unparse_issn_structure($self->{issn});
+    if ($val) {
+      $str .= "ISSN $val\n";
+    }
   }
   if ($self->{date} =~ /(\d+)-(\d+)-(\d+)/) {
     $str .= "DATE " . int($3) . " $month[$2-1] $1\n";
