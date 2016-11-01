@@ -10,10 +10,31 @@ sub _numeric_text_tag {
   return "<$label>" . OLBP::Entities::numeric_entities($value) . "</$label>";
 }
 
+my $GENERAL_ACCESS = 
+"The editor of The Online Books Page believes that free access to this item".
+" for personal, noncommercial use is permitted in the United States" .
+" of America, and in the country of the site providing this item. " .
+" Other use and reproduction rights may also apply,  depending on the text" .
+" and its provider.";
+
+my $NONUS_ACCESS = 
+"The editor of The Online Books Page believes that this item is in the".
+" public domain in the country of the site providing this item, but".
+" that it is likely to still be copyrighted, and access restricted,".
+" in the United States of America.";
+
 # Returns an OAI-compliant Dublin Core record
 # If "celebration" parameter is set, we're generating for the Celebration
 # and we assume we're only being fed Celebration records
 # and the celebration value should be that site's base URL
+
+sub _celebration_access {
+  my $womenurl = shift;
+  return 
+   "Personal, noncommercial use of this item is permitted in the ".
+   "United States of America.  Please see $womenurl ".
+   "for other rights and restrictions that may apply to this resource.";
+}
 
 sub oai_dc {
   my ($self, %params) = @_;
@@ -76,29 +97,17 @@ sub oai_dc {
   if ($date) {
     $str .= "<dc:date>$date</dc:date>";
   }
+  $str .= "<dc:rights>";
+  if ($womenurl && $refs[0] =~ /$womenurl/) {
+    $str .= _celebration_access($womenurl);
+  } elsif (scalar($br->get_nonus_refs())) {
+    $str .= $NONUS_ACCESS;
+  } else {
+    $str .= $GENERAL_ACCESS;
+  }
+  $str .= "</dc:rights>\n";
   $str .= "<dc:type>Text</dc:type>\n";
   return $str;
-}
-
-my $GENERAL_ACCESS = 
-"The editor of The Online Books Page believes that free access to this item".
-" for personal, noncommercial use is permitted in the United States" .
-" of America, and in the country of the site providing this item. " .
-" Other use and reproduction rights may also apply,  depending on the text" .
-" and its provider.";
-
-my $NONUS_ACCESS = 
-"The editor of The Online Books Page believes that this item is in the".
-" public domain in the country of the site providing this item, but".
-" that it is likely to still be copyrighted, and access restricted,".
-" in the United States of America.";
-
-sub _celebration_access {
-  my $womenurl = shift;
-  return 
-   "Personal, noncommercial use of this item is permitted in the ".
-   "United States of America.  Please see $womenurl ".
-   "for other rights and restrictions that may apply to this resource.";
 }
 
 sub _english {
