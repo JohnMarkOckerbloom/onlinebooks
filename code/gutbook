@@ -1,0 +1,684 @@
+#!/usr/bin/perl
+
+# Configuration options go here
+
+$datadir = "/websites/OnlineBooks/nonpublic/bookdb/";
+use lib "/websites/OnlineBooks/nonpublic/lib";
+use OLBP::Hash;
+use OLBP::Name;
+
+$bfhash  = $datadir . "gutbooks.hsh";
+$auhash  = $datadir . "gutauthors.hsh";
+$srhash  = $datadir . "gutserials.hsh";
+
+$extrabfhash  = $datadir . "newgutbooks.hsh";
+$extraauhash  = $datadir . "newgutauthors.hsh";
+
+$rawsuff = "=~RAW~=";
+$NEWSTYLE = "NEW";
+
+@sites = (
+  {name => "Main site",
+   full => "Gutenberg.org (North Carolina, USA)",
+   stub => "http://www.gutenberg.org/dirs/",},
+# {name => "Sailor",
+#   full => "Sailor.gutenberg.org (Maryland, USA)",
+#   stub => "ftp://sailor.gutenberg.org/pub/gutenberg/",},
+  {name => "Readingrooms",
+   full => "Project Gutenberg Reading Rooms (Washington State, USA)",
+   stub => "http://gutenberg.readingroo.ms/",},
+#  {name => "Archive.org",
+#   full => "The Internet Archive (California, USA)",
+#   stub => "ftp://ftp.archive.org/pub/etext/",},
+  {name => "UK Mirror",
+   full => "Mirrorservice.org (UK)",
+   stub => "http://www.mirrorservice.org/sites/ftp.ibiblio.org/pub/docs/books/gutenberg/",},
+#  {name => "Alaska",
+#   full => "Arctic Region Supercomputing Center (Alaska, USA)",
+#   stub => "http://snowy.arsc.alaska.edu/gutenberg/",},
+  {name => "Minho",
+   full => "Universidade do Minho (Portugal)",
+   stub => "http://eremita.di.uminho.pt/gutenberg/",},
+#  {name => "Tiscali",
+#   full => "Tiscali mirror (Germany)",
+#   stub => "http://pandemonium.tiscali.de/pub/gutenberg/",},
+#  {name => "Adelaide",
+#   full => "University of Adelaide Library (Australia)",
+#   stub => "http://etext.library.adelaide.edu.au/pg/",},
+  {name => "Pacific",
+   full => "Pacific Internet (Australia)",
+   stub => "http://mirror.pacific.net.au/gutenberg/",},
+#  {name => "AARNet",
+#   full => "Australian Academic Network mirror (only available from Australasia)",
+#   stub => "ftp://mirror.aarnet.edu.au/pub/gutenberg/",},
+);
+
+$sitespace = "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;";
+
+$olbp = "http://onlinebooks.library.upenn.edu/";
+$olbpcss = $olbp . "olbp.css";
+$scriptstem = "http://onlinebooks.library.upenn.edu/webbin/gutbook";
+$numstem = $scriptstem . "/lookup?num=";
+$namestem = $scriptstem . "/author?name=";
+$serialstem = $scriptstem . "/serial?name=";
+$asearch = $olbp . "webbin/book/search?amode=start&amp;author=";
+$tsearch = $olbp . "webbin/book/search?tmode=start&amp;title=";
+
+$gutmain = "http://www.gutenberg.org/";
+$gutlink = "<a href=\"$gutmain\">Project Gutenberg</a>";
+$gutprefix = $gutmain . "ebooks/";
+
+
+$bodystart =  "<body>";
+
+%fmtname = ("8.txt" => "Accented text",
+            "8.zip" => "Zipped accented text",
+            "h/h.htm" => "Web presentation",
+            "h/h.html" => "Web presentation",
+            "7txt" => "Plain text",
+            "8txt" => "Accented text",
+            "7zip" => "Zipped plain text",
+            "8zip" => "Zipped accented text",
+            "7h.htm" => "HTML",
+            "7h.zip" => "zipped HTML",
+            "8h.htm" => "HTML",
+            "8h.zip" => "zipped HTML",
+            "0.txt" => "Unicode",
+            "0.zip" => "zipped Unicode",
+            "doc.doc" => "Microsoft Word",
+            "doc.zip" => "zipped Microsoft Word",
+            "w.doc" => "Microsoft Word",
+            "w.zip" => "zipped Microsoft Word",
+            "htm" => "HTML",
+            "html" => "Illustrated HTML",
+            "h.htm" => "HTML",
+            "h.zip" => "Zipped HTML",
+            "lit" => "Microsoft Reader",
+            "l.lit" => "Microsoft Reader",
+            "l.zip" => "Zipped Microsoft Reader",
+            "ly.ly" => "LilyPond",
+            "ly.zip" => "Zipped LilyPond",
+            "mp3" => "MP3",
+            "m.mpg" => "MPEG",
+            "m.zip" => "zipped MPEG",
+            "nfo" => "Folio",
+            "f.nfo" => "Folio",
+            "f.zip" => "zipped Folio",
+            "p.pdb" => "Palm database",
+            "p.prc" => "Palm resource",
+            "p.pdf" => "PDF",
+            "p.zip" => "Zipped Palm file",
+            "page-images.zip" => "Zipped page images",
+            "pdf" => "PDF",
+            "pdf.pdf" => "PDF",
+            "pdf.zip" => "Zipped PDF",
+            "ps" => "Postscript",
+            $rawsuff => "Etext directory",
+            "r.rtf" => "Rich text format",
+            "rtf.rtf" => "Rich text format",
+            "r.zip" => "Zipped RTF",
+            "rtf.zip" => "Zipped RTF",
+            "rst.rst" => "RST",
+            "rst/rst.rst" => "RST",
+            "rst.zip" => "Zipped RST",
+            "tei/tei.tei" => "TEI",
+            "tei.zip" => "Zipped TEI",
+            "tif" => "TIFF",
+            "txt" => "Text",
+            "t/t.tex" => "LaTeX",
+            "t.tex" => "LaTeX",
+            "t.zip" => "Zipped LaTeX",
+            "u.txt" => "Unicode",
+            "u.zip" => "Zipped Unicode",
+            "wav" => "WAV file",
+            "Xh.htm" => "HTML",
+            "Xh.zip" => "Zipped HTML",
+            "xml" => "XML",
+            "x/x.xml" => "XML",
+            "x.xml" => "XML",
+            "x.zip" => "Zipped XML",
+            "zip" => "Zip");
+
+# End of configuration options -- don't modify below unless you
+# know what you're doing
+
+sub gethashval {
+  my ($fname, $key) = @_;
+
+  return undef if (!$fname);
+  my $hash = $hashes->{$fname};
+  if (!$hash) {
+    $hash = new OLBP::Hash(name=>$fname, filename=>$fname, cache=>1);
+    return undef if (!$hash);
+    $hashes->{$fname} = $hash;
+  }
+  return $hash->get_value(key=>$key);
+}
+
+sub url_encode {
+  my $str = shift;
+  $str =~ s/(\W)/"%".sprintf("%lx", ord($1))/eg;
+  $str =~ s/ /+/g;
+  return $str;
+}
+
+sub url_decode {
+  my $str = shift;
+  $str =~ s/\+/ /g;
+  $str =~ s/%([a-fA-F0-9][a-fA-F0-9])/chr(hex($1))/eg;
+  return $str;
+}
+
+sub readrecord {
+  my $str = shift;
+  my @lines = split /\n/, $str;
+  my $line;
+  my %myrec;
+  my ($attr, $val);
+  while ($line = shift @lines) {
+    if (!($line =~ /\S/)) {
+      return %myrec;
+    }
+    if (!($line =~ /^#/)) {
+      ($attr, $val) = split / /, $line, 2;
+      if (($attr eq "AUTHOR") || ($attr eq "TRANSLATOR") ||
+          ($attr eq "EDITOR") || ($attr eq "CONTRIBUTOR") ||
+          ($attr eq "ILLUSTRATOR") || 
+          ($attr eq "SREF") || ($attr eq "PREF")) {
+        push @{$myrec{$attr}}, $val;
+      } elsif ($attr eq "FMT") {
+        $myrec{$attr} .=  '*' . $val;   # | is already taken
+      } else {
+        $myrec{$attr} = $val;
+      }
+    }
+  }
+  return %myrec;
+}
+
+sub maketail {
+  my $extranum = shift;
+  print "<hr><p style=\"text-align:center\">This catalog page is provided by ";
+  print "<a href=\"$olbp\">";
+  print "The Online Books Page</a>";
+  if ($extranum) {
+    print ", using information provided by ";
+  } else {
+    print ", and the literature by ";
+  }
+  print $gutlink . ".";
+  print "</p></body></html>\n";
+}
+
+sub mungename {
+  my $stem = shift;
+  my $fmt = shift;
+  while ($stem =~ /\?/) {
+    my $first;
+    if ($fmt =~ /(.)(.*)/) {
+      $first = $1;
+      $fmt = $2;
+    }
+    else {
+      $first = "";
+    }
+    if ($first eq 'X') {
+      $first = "";
+    }
+    $stem =~ s/\?/$first/;
+  }
+  if ($fmt =~ /\./) {
+    return "$stem$fmt";
+  }
+  return "$stem.$fmt";
+}
+
+sub munge10000name {
+  my $num = shift;
+  my $fmtsuff = shift;
+  my $str = int($num / 10);
+  $str =~ s/(\d)/$1\//g;
+  $str .= "$num/";
+  if ($fmtsuff ne $rawsuff) {
+    if ($fmtsuff =~ /^\==(.*)/) {
+      $fmtsuff = substr($fmtsuff, 1);    # == means don't even include number
+    } else {
+      $str .= "$num";
+    }
+    if ($fmtsuff =~ /^\=(.*)/) {   
+      $str .= $1;                      # = means put it in literally
+    } else {
+      if (!($fmtsuff =~ /[\.\/]/)) {
+        $fmtsuff = ".$fmtsuff";
+      } else {
+        $fmtsuff = "-$fmtsuff";
+      }
+      $fmtsuff =~ s#/#/$num-#g;
+      $str .= $fmtsuff;
+    }
+  }
+  return $str;
+}
+
+sub lookup {
+  my ($bookref, $extra) = @_;
+  my %rec = %$bookref;
+  my $fmtstr = $rec{FMT} ? $rec{FMT} : "txt 0 zip 0";
+  $fmtstr =~ s/^\*//;
+  $fmtstr =~ s/\*/ /g;
+  my @fmtar = split /\s+/, $fmtstr;
+  my $seenname = 0;
+  my $bookhere = 0;
+  printhead($rec{TITLE} . " from Project Gutenberg");
+  print $bodystart;
+  print "<h3>Project Gutenberg Presents</h3>";
+  print "<h1>", $rec{TITLE}, "</h1>\n";
+  if ($rec{AUTHOR}) {
+    $seenname = 1;
+    print "<h2>";
+    doauthors($rec{AUTHOR});
+    print "</h2>";
+  }
+  if ($rec{TRANSLATOR}) {
+    $seenname = 1;
+    print "<h2>";
+    doauthors($rec{TRANSLATOR}, "translated");
+    print "</h2>";
+  }
+  if ($rec{EDITOR}) {
+    $seenname = 1;
+    print "<h2>";
+    doauthors($rec{EDITOR}, "edited");
+    print "</h2>";
+  }
+  if ($rec{CONTRIBUTOR}) {
+    $seenname = 1;
+    print "<h2>";
+    doauthors($rec{CONTRIBUTOR}, "contrib.");
+    print "</h2>";
+  }
+  if ($rec{ILLUSTRATOR}) {
+    $seenname = 1;
+    print "<h2>";
+    doauthors($rec{ILLUSTRATOR}, "illustrated");
+    print "</h2>";
+  }
+  if ($rec{NUMBER}) {
+    print "<p class=\"ctr\">";
+    if ($rec{NUMBER} == int($rec{NUMBER})) {
+      print "$gutlink Release #", $rec{NUMBER};
+    } else {
+      print "A $gutlink Release";
+    }
+    if ($rec{DATE} && $rec{GREF} && ($rec{GREF} ne $NEWSTYLE)) {
+      print " (", $rec{DATE}, ")";
+    }
+    if ($seenname) {
+      print "<br>Select author names above for additional information and titles";
+    }
+    if ($rec{SERIAL}) {
+      my $title = $rec{SERIAL};
+      if ($title =~ /(\d+) (.*)/) {
+        $title = $2;
+        print "<br>Additional issues of ";
+        print "<a href=\"$serialstem" . url_encode($title) . "\">";
+        print "$title</a> are available.\n";
+      }
+    }
+    print "</p>\n\n";
+  }
+  if ($rec{EREF}) {
+    ($url, $desc) = split / /, $rec{EREF}, 2;
+    print "<p><hr><p><b>View an enhanced version</b> of this book:<br>\n";
+    print "(Except as noted, these editions were not produced by Project Gutenberg):<br>\n";
+    print "<ul>\n";
+    print "<li> <a href=\"", $url, "\">", $desc, "</a></li>";
+    print "</ul>\n";
+  }
+  if ($rec{GREF} || ($rec{NUMBER} > 10000)) {
+    $mainsite = $sites[0];
+    $bookhere = 1;
+    print "<hr><p><b>Download</b> the ebook in a format below. ";
+    print " <a href=\"$gutprefix" . int($rec{NUMBER});
+    print "\">Additional formats</a> may also ";
+    print " be available from the main Gutenberg site.\n";
+    print "<table>\n";
+    print "<tr><td><b>Format</b></td>\n";
+    print "<td>$sitespace $sitespace</td>\n";
+    # print "<td align=center><b>Alternate Sites</b></td></tr>\n";
+    print "<td style=\"text-align:center\"><b>Alternate Sites</b></td></tr>\n";
+    for ($i = 0; $i < @fmtar; $i++) {
+      my ($fmtsuff, $fmtkey);
+      $fmt = $fmtar[$i++];
+      if ($fmt =~ /(.*)\|(.*)/) {
+        $fmtsuff = $1;
+        $fmtkey = $2;
+      } else {
+        $fmtsuff = $fmtkey = $fmt; 
+      }
+      print "<tr><td>";
+      my $path;
+      if (($rec{GREF} eq $NEWSTYLE) || ($rec{NUMBER} > 10000)) {
+        $path = munge10000name($rec{NUMBER}, $fmtsuff);
+      } else {
+        $path = mungename($rec{GREF}, $fmtsuff);
+      }
+      print "<A HREF=\"", $$mainsite{stub}, $path, "\">";
+      if ($fmtname{$fmtkey}) {
+        print $fmtname{$fmtkey};
+      } else {
+        $fmtkey =~ s/_/ /g;
+        print $fmtkey;
+      }
+      if ($fmtar[$i]) {
+        if ($fmtar[$i] =~ /K|M/) {
+          print " ($fmtar[$i])";
+        }
+        else {
+          print " (", int($fmtar[$i]/1000), "K)";
+        }
+      }
+      print "</A>";
+      print "</td><td>$sitespace $sitespace</td><td>\n";
+      foreach $site (@sites) {
+        print "<A HREF=\"", $$site{stub} , $path, "\">",
+              $$site{name}, "</A>", $sitespace;
+      }
+      print "</td></tr>";
+    }
+    print "</table>\n";
+  }
+  if ($rec{PREF}) {
+    print "<p><hr><p><b>This etext can " . ($bookhere ? "also " : "");
+    print "be downloaded in shorter sections:</b><br>\n";
+    doseealso($rec{PREF});
+  }
+  if ($rec{SREF}) {
+    print "<p><hr><p><b>See" . ($bookhere ? " also" : "") . "</b><br>\n";
+    doseealso($rec{SREF});
+  }
+  if ($bookhere) {
+    print "<hr><p>Key to sites:<ul>\n";
+    foreach $site (@sites) {
+      print "<LI> ", $$site{name}, " : ", $$site{full};
+    }
+    print "</ul>\n";
+  }
+  maketail($extra);
+  exit 0;
+}
+
+sub showserialtitles {
+  my $serial = shift;
+  my @tlist = split /\n/, shift;
+  printhead("$serial issues at Project Gutenberg");
+  print $bodystart;
+  print "<h3>Project Gutenberg Issues of</h3>";
+  print "<h1>$serial</h1>\n";
+  print "<hr>\n";
+  print "<table>\n";
+  foreach my $stitle (@tlist) {
+    my ($num, $what);
+    if ($stitle =~ /(\d+)\s+(.*)/) {
+      ($num, $what) = ($1, $2);
+    } else {
+      next;
+    }
+    print "<tr><td><a href=\"$numstem$num\">$what</a></td></tr>\n";
+  }
+  print "</table>\n";
+  print "<hr>\n";
+  # Before trying The Online Books Page, remove articles
+  $serial =~ s/^(A |An |The )//;
+  print "You can also <a href=\"$tsearch" . url_encode($serial);
+  print "\">look up this serial on ";
+  print "The Online Books Page</a>, which may list additional issues ";
+  print "from other sites.";
+  maketail;
+  exit 0;
+}
+
+sub showtitlerows {
+  my $data = shift;
+  my @tlist = split /\n/, $data;
+  my %ttitle = ();
+  my %thash = ();
+  foreach my $t (@tlist) {
+    if ($t) {
+      my ($number, $title) = split / /, $t, 2;
+      my $sortit = $title;
+      $sortit =~ s/^(A |An |The )//;
+      if ((!$thash{$sortit}) && int($number)) {
+        $thash{$sortit} = $number;
+        $ttitle{$sortit} = $title;
+      }
+    }
+  }
+  foreach $stitle (sort keys %thash) {
+    print "<tr><td><a href=\"$numstem$thash{$stitle}\">";
+    print "$ttitle{$stitle}</a></td></tr>\n";
+  }
+}
+
+sub showauthortitles {
+  my ($author, $data, $moredata) = @_;
+  my $iname = OLBP::Name::informal($author);
+  my $nname = OLBP::Name::naive($author);
+  my $fname = OLBP::Name::formal($author);
+  if ($data =~ /^\|([^\|]*)\|(.*)/s) {
+    ($iname, $data) = ($1, $2);
+  }
+  my $titlestr = "Project Gutenberg Titles by ";
+  if ($iname eq $nname) {
+    $titlestr .= "$iname";
+  } else {
+    $titlestr .= "$iname ($fname)";
+  }
+  printhead($titlestr);
+  print $bodystart;
+  print "<h3>Project Gutenberg Titles by</h3>";
+  print "<h1>$iname</h1>\n";
+  if ($iname ne $nname) {
+    print "<h2>($fname)</h2>\n";
+  }
+  print "<hr>\n";
+  print "<table>\n";
+  showtitlerows($data);
+  print "</table>\n";
+  if ($moredata) {
+    if ($moredata =~ /^\|([^\|]*)\|(.*)/s) {
+      ($iname, $moredata) = ($1, $2);
+    }
+    print "<p class=\"ctr\"><i>The Online Books Page hasn't yet cataloged the following titles:</i></p>";
+    print "<table>\n";
+    showtitlerows($moredata);
+    print "</table>\n";
+  }
+  print "<hr>\n";
+  print "You can also <a href=\"$asearch" . url_encode($author);
+  print "\">look up this author on ";
+  print "The Online Books Page</a>, which may list additional titles ";
+  print "from other sites.";
+  maketail;
+  exit 0;
+}
+
+sub doauthors {
+  my $arg = shift;
+  my @authors = @{$arg};
+  my $cred = shift;
+  my $i;
+  my $asize = scalar(@authors);
+  $cred .= " by ";
+  for ($i = 0; $i < scalar(@authors); $i++) {
+    my $author = $authors[$i];
+    if ($author) {
+      print $cred;
+      print "<a href=\"$namestem";
+      print url_encode(OLBP::Name::formal($author));
+      print "\">" . OLBP::Name::informal($author);
+      print "</a>\n";
+      $cred = ", ";
+      if ($i == $asize - 2) {
+        $cred = " and ";
+      }
+    }
+  }
+}
+
+sub doseealso {
+  my $val = shift;
+  my @srefs = @{$val};
+  print "<ul>\n";
+  foreach $sref (@srefs) {
+    next if (!$sref);
+    ($url, $desc) = split / /, $sref, 2;
+    if (!($url =~ /:/)) {
+      $url = $numstem . $url;
+    }
+    print "<li> <a href=\"", $url, "\">", $desc, "</a></li>";
+  }
+  print "</ul>\n";
+}
+
+sub douncat {
+  my $num = shift;
+  my %rec;
+  $rec{TITLE} = "[An etext not yet cataloged at this site]";
+  $rec{NUMBER} = $num;
+  $rec{FMT} = "$rawsuff 0";
+  lookup(\%rec);
+}
+
+sub getout {
+  print "Location: $olbp\n\n";
+  exit 0;
+}
+
+sub printhead {
+  my ($title) = @_;
+  print "<!DOCTYPE html>\n";
+  print qq!<html lang="en"><head>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="$olbpcss" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style type="text/css">
+  h1 {text-align: center}
+  h2 {text-align: center}
+  h3 {text-align: center}
+  table {margin-left: auto; margin-right: auto}
+  p.ctr {text-align: center}
+</style>
+!;
+  print "<title>$title</title>\n";
+  print "</head>\n";
+}
+
+if (defined($ENV{"GATEWAY_INTERFACE"})) {
+  $command = $ENV{"PATH_INFO"};
+  $command = substr($command, 1);
+  $query = $ENV{"QUERY_STRING"};
+#  $query =~ tr/+/ /;
+#  $query =~ s/%([0-9A-Fa-f][0-9A-Fa-f])/chr(hex($1))/eg;
+} else {
+  $command = $ARGV[0];
+  $query = $ARGV[1];
+}   
+
+foreach my $op (split /[&=]/, $query) {
+  $op =~ tr/+/ /;
+  $op =~ s/%([0-9A-Fa-f][0-9A-Fa-f])/chr(hex($1))/eg;
+  push @oplist, $op;
+}
+
+%options = @oplist;
+
+# print "Command is $command, query is $query\n";
+
+if ($command eq "lookup") {
+  $looknum = $options{num};
+  if (!$looknum) {
+    getout();
+  }
+  if (!($looknum =~ /^[\d\.]*$/)) {   # divert anything not a number
+    getout();                        # (digits and decimals only)
+  }
+} elsif ($command eq "author" || $command eq "serial") {
+  $arg = url_decode($options{name});
+  if (!$arg) {
+    getout();
+  }
+  $arg =~ s/^\s+//;
+  $arg =~ s/\s+$//;
+  $arg =~ s/[<>]//;   # markup shouldn't be in the arg; strip it out
+                      # to fend off baddies trying to get it onto the page
+} else {
+  getout();
+}
+
+if (defined($ENV{"GATEWAY_INTERFACE"})) {
+  print "Content-type: text/html\n\n";
+}
+
+if ($command eq "author") {
+  $str = gethashval($auhash, $arg);
+  $xstr = gethashval($extraauhash, $arg);
+  if ($str || $xstr) {
+    showauthortitles($arg, $str, $xstr);
+  } else {
+    printhead("Cannot find Project Gutenberg Author $arg");
+    print $bodystart;
+    print "<p class=\"ctr\">Sorry, we don't know of any Gutenberg titles ";
+    print "by $arg</p>";
+    print "<p>If you'd like a broader search, try ";
+    print "<a href=\"$asearch" . url_encode($arg);
+    print "\">looking up this author on ";
+    print "The Online Books Page</a>, which is a little more ";
+    print " flexible with its search terms, and may list additional titles ";
+    print "from other sites.</p>";
+    maketail;
+  }
+  exit 0;
+}
+
+if ($command eq "serial") {
+  $str = gethashval($srhash, $arg);
+  if ($str) {
+    showserialtitles($arg, $str);
+  } else {
+    printhead("Cannot find Project Gutenberg Serial $arg");
+    print $bodystart;
+    print "<p class=\"ctr\">Sorry, we don't know of any Gutenberg serial ";
+    print "named $arg</p>";
+    maketail;
+  }
+  exit 0;
+}
+
+$str = gethashval($bfhash, $looknum);
+if (!$str && (int($looknum) != $looknum)) {
+  $str = gethashval($bfhash, int($looknum));
+}
+if (!$str) {
+  if (int($looknum) > 10000 && int($looknum) < 100000) {
+    douncat(int($looknum));
+  } else {
+    printhead("Cannot find Project Gutenberg Etext #" . $looknum);
+    print $bodystart;
+    print "<p class=\"ctr\">Sorry, we don't know of any Gutenberg etext ";
+    print "numbered $looknum</p>";
+    maketail;
+    exit 0;
+  }
+}
+
+my $extra = 0;
+%rec = readrecord($str);
+if (!$rec{TITLE}) {
+  $extra = $looknum;
+  my $newstr = gethashval($extrabfhash, $looknum);
+  if ($newstr) {
+    %rec = readrecord($newstr);
+  }
+}
+lookup(\%rec, $extra);
