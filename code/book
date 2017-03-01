@@ -736,6 +736,10 @@ my ($browsetype, $browsekey, $browseindex);
 my $search;
 
 my $collection = $q->param('c') || "c";
+# Sanitize collection input to avoid XSS; only valid values "x" and "c"
+if ($collection ne "x" && $collection ne "c") {
+   $collection = "c";
+}
 
 if ($cmd eq "browse") {
   $browsetype = $q->param('type');
