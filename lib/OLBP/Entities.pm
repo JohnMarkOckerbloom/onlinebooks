@@ -205,6 +205,7 @@ $uecode{"zdot"}   = 0x017c;
 $uecode{"Zcaron"} = 0x017d;
 $uecode{"zcaron"} = 0x017e;
 $uecode{"gacute"} = 0x01f5;
+$uecode{"flat"}   = 0x266d;
 
 #$uecode{"Alpha"}  = 0x0391;
 #$uecode{"Beta"}   = 0x0392;
@@ -255,18 +256,20 @@ $uecode{"gacute"} = 0x01f5;
 #$uecode{"psi"}    = 0x03c8;
 #$uecode{"omega"}  = 0x03c9;
 
-$uecode{"ndash"}  = 0x2013;
-$uecode{"mdash"}  = 0x2014;
-$uecode{"ldquo"}  = 0x201c;
-$uecode{"rdquo"}  = 0x201d;
-$uecode{"dagger"} = 0x2020;
-$uecode{"bull"}   = 0x2022;
-$uecode{"hellip"} = 0x2026;
-$uecode{"prime"}  = 0x2032;
-$uecode{"Prime"}  = 0x2033;
-$uecode{"euro"}   = 0x20ac;
-$uecode{"trade"}  = 0x2122;
-$uecode{"minus"}  = 0x2212;
+$uecode{"ndash"}   = 0x2013;
+$uecode{"mdash"}   = 0x2014;
+$uecode{"ldquo"}   = 0x201c;
+$uecode{"rdquo"}   = 0x201d;
+$uecode{"ldquor"}  = 0x201e;
+$uecode{"dagger"}  = 0x2020;
+$uecode{"ddagger"} = 0x2021;
+$uecode{"bull"}    = 0x2022;
+$uecode{"hellip"}  = 0x2026;
+$uecode{"prime"}   = 0x2032;
+$uecode{"Prime"}   = 0x2033;
+$uecode{"euro"}    = 0x20ac;
+$uecode{"trade"}   = 0x2122;
+$uecode{"minus"}   = 0x2212;
 
 my $_codes = {
   '0' => [0x2070, 0x2080, 0x3007],
@@ -424,7 +427,7 @@ my $_codes = {
          0x0400 .. 0x04ff,    # and Cyrillic
          0x0590 .. 0x05f4,    # and Hebrew
          0x0600 .. 0x06ff,    # and Arabic
-         0x200c, 0x200d, 0x200f,
+         0x200c, 0x200d, 0x200e, 0x200f,
          0x25a1, 
          0x3040 .. 0x30ff,    # and Hiragana and Katakana
         # CJK (anything 4e00 - 9fcf) is taken care of by function
@@ -454,7 +457,9 @@ my %_normalized = ("acute" => "'",
                    "cedil" => " ",
                    "curren" => '$',
                    "dagger" => "+",
+                   "ddagger" => "+",
                    "euro" => "Euro",
+                   "flat" => "flat",
                    "frac14" => "1/4",
                    "frac12" => "1/2",
                    "frac34" => "3/4",
@@ -474,6 +479,7 @@ my %_normalized = ("acute" => "'",
                    "deg" => "o",
                    "laquo" => "<<",
                    "ldquo" => "\"",
+                   "ldquor" => "\"",
                    "nbsp" => " ",
                    "para" => "P",
                    "plusmn" => "+/-",
