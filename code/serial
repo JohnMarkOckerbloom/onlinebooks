@@ -1,11 +1,13 @@
 #!/usr/bin/perl
 
 use lib "/websites/OnlineBooks/nonpublic/lib";
-#use lib "nlib";
+use lib "nlib";
 use OLBP;
 use OLBP::Hash;
+use OLBP::CopyrightInfo;
 
-$idxdir =  "/websites/OnlineBooks/nonpublic/bookdb/indexes/";
+$cinfodir  =  "/websites/OnlineBooks/nonpublic/bookdb/cinfo/";
+$idxdir    =  "/websites/OnlineBooks/nonpublic/bookdb/indexes/";
 
 $booksurl = $OLBP::homepage;
 
@@ -49,7 +51,7 @@ sub readrecord {
 }
 
 sub showmag {
-  my $recr = shift;
+  my ($recr, $id) = @_;
   my $name = $recr->{TITLE};
   my $str;
   print qq^<!DOCTYPE html>
@@ -76,6 +78,11 @@ sub showmag {
   if ($recr->{SHIST}) {
     $str = $recr->{SHIST};
     print "<h3>Publication History</h3>\n";
+    if ($str =~ /\*COPYRIGHT\*/) {
+      my $cinfo = new OLBP::CopyrightInfo(dir=>$cinfodir);
+      my $summary = $cinfo->serial_copyright_summary(filename=>$id);
+      $str =~ s/\*COPYRIGHT\*/$summary/;
+    }
     $str =~ s/\*THIS\*/"<cite>" . $name . "<\/cite>"/ge;
     $str =~ s/\*TODAY\*/It is still published today./;
     print "<p>$str</p>\n";
@@ -179,7 +186,7 @@ if (defined($ENV{"GATEWAY_INTERFACE"})) {
   print "Content-type: text/html\n\n";
 }
 
-showmag($recr);
+showmag($recr, $lookid);
 
 
 

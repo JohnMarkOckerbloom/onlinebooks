@@ -1,0 +1,47 @@
+#!/usr/bin/perl
+
+use lib "nlib";
+use lib "/websites/OnlineBooks/nonpublic/lib";
+use CGI;
+use OLBP;
+use OLBP::CopyrightInfo;
+use OLBP::AuthorRights;
+use CGI::Carp qw(fatalsToBrowser);
+use strict;
+
+my $default = "http://onlinebooks.library.upenn.edu/cce/";
+my $cinfodir  = $OLBP::dbdir . "cinfo/";
+my $contactfile = $cinfodir . "contacts";
+
+sub getout {
+  print "Location: $default\n\n";
+  exit 0;
+}
+
+my $q = new CGI;
+my $arg = $q->url(-path_info=>1);
+$arg =~ s/(.*)\///;
+my $format = $q->param("format");
+
+
+my $contacts = new OLBP::AuthorRights(path=>$contactfile);
+my $info = new OLBP::CopyrightInfo(dir=>$cinfodir, arfile=>$contacts);
+
+# validate inputs
+if (!$arg || $arg =~ /[^a-zA-Z0-9\-]/) {
+  getout();
+}
+
+my $fname = $cinfodir . $arg . ".json";
+if (!-e $fname) {
+  getout();
+}
+
+if ($format eq "json") {
+  print "Content-type: application/json\n\n";
+  $info->display_json(filename=>$arg);
+  exit 0;
+}
+
+print "Content-type: text/html\n\n";
+$info->display_page(filename=>$arg);
