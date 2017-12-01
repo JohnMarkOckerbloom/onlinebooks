@@ -1646,7 +1646,7 @@
       },
       {"issue": {"issuedate": "1957-10", "volume": "14", "number": "6"},
         "title": "For Your Information: Hunting Down the Dodo",
-        "note": "A 1985 renewal registration for Hunting the Dodo/Other Islands, Other Dodos, the title of an essay published in the 1969 book Another Look At Atlantis and Fifteen Other Essays, is likely to cover this article, which I suspect is the original version of that essay's first part. I should be able to verify this shortly.",
+        "note": "A 1985 renewal registration for Hunting the Dodo/Other Islands, Other Dodos, the title of an essay published in the 1969 book Another Look At Atlantis and Fifteen Other Essays, is likely to cover this article, which is the original version of that essay's first part.",
         "author": {
           "authorized": "Ley, Willy, 1906-1969",
           "lcna": "n50049955"
@@ -1690,7 +1690,7 @@
       },
       {"issue": {"issuedate": "1957-11", "volume": "15", "number": "1"},
         "title": "For Your Information: On With the Dodo Hunt!",
-        "note": "A 1985 renewal registration for Hunting the Dodo/Other Islands, Other Dodos, the title of an essay published in the 1969 book Another Look At Atlantis and Fifteen Other Essays, is likely to cover this article, which I suspect is the original version of that essay's second part. I should be able to verify this shortly.",
+        "note": "A 1985 renewal registration for Hunting the Dodo/Other Islands, Other Dodos, the title of an essay published in the 1969 book Another Look At Atlantis and Fifteen Other Essays, is likely to cover this article, which is the original version of that essay's second part.",
         "author": {
           "authorized": "Ley, Willy, 1906-1969",
           "lcna": "n50049955"
@@ -2738,6 +2738,20 @@
           "lcna": "n79021250"
        }
       },
+      {"issue": {"issuedate": "1964-04", "volume": "22", "number": "4"}, 
+        "title": "The Boy Who Bought Old Earth",
+        "author": {
+          "authorized": "Smith, Cordwainer, 1913-1966",
+          "lcna": "n81083063"
+       }
+      },
+      {"issue": {"issuedate": "1964-04", "volume": "22", "number": "4"}, 
+        "title": "The Blasphemers",
+        "author": {
+         "authorized": "Farmer, Philip José",
+         "lcna": "n80090608"
+       }
+      },
       {"issue": {"issuedate": "1966-02", "volume": "24", "number": "3"}, 
        "title": "The Wreck of La Lutine",
         "note": "Renewal registration says this was published in the March 1957 issue, but as far as I can tell it was not published until the February 1966 issue. The renewal is dated July 16, 1985, too early for a 1966 publication, but a 1966 copyright would automatically renew in any case.",
@@ -2751,5 +2765,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2017-11-01"
+   "last-updated": "2017-11-03"
 }

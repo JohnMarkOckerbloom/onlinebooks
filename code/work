@@ -290,8 +290,8 @@ sub showwork {
     } else {
       print "<li> Online books by these authors:\n<ul>\n";
       for (my $i = 1; $i <= scalar(@names); $i++) {
-        my $name = $br->get_formal_name($i);
-        my $iname = $br->get_informal_name($i);
+        my $name = $br->get_formal_name(index=>$i);
+        my $iname = $br->get_informal_name(index=>$i);
         my $nlink = get_author_query_url($name);
         print "<li> <a href=\"$nlink\">$iname</a>";
       }

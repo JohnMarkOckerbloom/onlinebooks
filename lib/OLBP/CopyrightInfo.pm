@@ -83,7 +83,7 @@ sub _date_string {
   if ($date =~ /^(\d\d\d\d)-(\d\d)$/) {
     return $month[$2-1] . " $1";
   }
-  if ($date =~ /^(\d\d\d\d)-(\.*)$/) {
+  if ($date =~ /^(\d\d\d\d)-(.*)$/) {
     return "$2 $1";
   }
   return $date;
@@ -158,6 +158,10 @@ sub _display_issue {
   if ($issue->{"cdate"}) {
     $str .= ", " if ($hasdate || $issue->{"volume"} || $issue->{"number"});
     $str .= "&copy; " . OLBP::html_encode(_date_string($issue->{"cdate"}));
+  }
+  if ($issue->{"note"}) {
+    $str .= "; " if ($str);
+    $str .= OLBP::html_encode($issue->{"note"});
   }
   return $str;
 }
@@ -289,14 +293,16 @@ sub _get_source_note {
 sub _print_completeness_note {
   my ($note) = @_;
   my $str = "";
-  if ($note eq "active/autorenewals") {
+  if ($note =~ /^active\/auto(matic|renewals)$/) {
     $str = "This includes all active renewals prior to " .
            " 1964, when automatic renewals began.  It might not show all" .
            " renewals from 1964 onward."
+  } elsif ($note eq "active/end") {
+    $str = "This includes all active renewals.";
   } elsif ($note =~ m!active/(.*)!) {
     $str = "This includes all active renewals through " .
            _date_string($1) .
-           ".  It might not show all renewals past that date."
+           ".  It might not show all renewals past that date.";
   } else {
     $str = "This listing shows selected renewals, and should not ".
            "be considered complete.";
@@ -362,6 +368,10 @@ sub _more_details_warranted {
   return 1 if ($json->{"contents"});
   return 1 if ($json->{"renewedissues"});
   return 1 if ($json->{"renewedcontributions"});
+  return 1 if ($json->{"additional-note"});
+  return 1 if ($json->{"first-issue"});
+  return 1 if ($json->{"first-autorenewed-issue"});
+  return 1 if ($json->{"website"});
   return 0;
 }
 
@@ -530,6 +540,13 @@ sub display_page {
      my $link = qq!<a href="$uri">$note</a>!;
      print $self->_tabrow(attr=>"Online content", value=>$link);
   }
+  if ($json->{"website"} && $json->{"website"}->{"url"}) {
+    my $note = $json->{"website"}->{"note"} || "Official site";
+    $note = OLBP::html_encode($note);
+    my $uri = $json->{"website"}->{"url"};
+    my $link = qq!<a href="$uri">$note</a>!;
+    print $self->_tabrow(attr=>"Web site", value=>$link);
+  }
   if ($json->{"contents"}) {
     my @links = _tables_of_contents($json->{"contents"});
     if (@links) {
@@ -578,7 +595,12 @@ sub display_page {
                                "first-renewedcontribution");
     print $self->_tabrow(attr=>$label, value=>$value);
   }
-  if ($json->{"renewedissues"} || $json->{"renewedcontributions"}) {
+  if ($json->{"last-issue"}) {
+    print $self->_tabrow(attr=>"Last issue",
+                        value=>_display_issue(issue=>$json->{"last-issue"}));
+  }
+  if ($json->{"renewedissues"} || $json->{"renewedcontributions"}
+      || $json->{"additional-note"}) {
     print "</table>";
     if ($json->{"renewedissues"}) {
        print "<h3>Renewed issues</h3>\n";
@@ -629,6 +651,10 @@ sub display_page {
          print "<li> $str";
        }
        print "</ul>\n";
+    }
+    if ($json->{"additional-note"}) {
+       print "<h3>Additional note</h3>\n";
+       print "<p>" . OLBP::html_encode($json->{"additional-note"}) . "</p>\n";
     }
   }
   $self->_print_citation_info($json,
