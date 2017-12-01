@@ -1,0 +1,44 @@
+{
+   "title": "Archives of Ophthalmology",
+   "online": "1",
+   "aka": ["Archives of Opthalmology and Otology", "A.M.A. Archives of Ophthalmology", "JAMA Ophthalmology"],
+   "first-renewedissue": {"issuedate": "1960-03",
+                          "volume": "63", "number": "3"},
+   "first-renewedissue-source": "database",
+   "first-autorenewed-issue": {
+    "issuedate": "1964-01", "cdate": "1964-01-03", "volume": "71", "number": "1"
+   }, 
+   "renewedissues": [
+       {"issuedate": "1960-03", "volume": "63", "number": "3"},
+       {"issuedate": "1960-04", "volume": "63", "number": "4"},
+       {"issuedate": "1960-05", "volume": "63", "number": "5"},
+       {"issuedate": "1960-06", "volume": "63", "number": "6"},
+       {"issuedate": "1960-07", "volume": "64", "number": "1"},
+       {"issuedate": "1960-08", "volume": "64", "number": "2"},
+       {"issuedate": "1960-09", "volume": "64", "number": "3"},
+       {"issuedate": "1960-10", "volume": "64", "number": "4"},
+       {"issuedate": "1960-11", "volume": "64", "number": "5"},
+       {"issuedate": "1960-12", "volume": "64", "number": "6"}
+   ],
+   "renewedissue-completeness": "active/autorenewals",
+   "first-renewedcontribution": {
+       "issue": {"issuedate": "1939-04", 
+                 "volume": "21", "number": "4"}
+   },
+   "first-renewedcontribution-source": "1966-JanJun",
+   "renewedcontribution-completeness": "active/autorenewals",
+   "renewedcontributions": [
+       {"issue": {"issuedate": "1939-04", "volume": "21", "number": "4"}, 
+        "title": "A Combination of the Snellen and the Landolt Test Types",
+        "note": "renewal record gives title as A Combination of Snellen and Landolt Test Types",
+        "author": {
+         "name": "David D. Waugh"
+        }
+       }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2017-11-30"
+}

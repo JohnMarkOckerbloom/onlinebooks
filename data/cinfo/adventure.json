@@ -1,0 +1,23 @@
+{
+   "title": "Adventure",
+   "online": "1",
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/GFI/b1.htm#A1",
+       "note": "General Fiction Magazine Index"}
+   ],
+   "first-issue": {"issuedate": "1910-11", "volume": "1", "number": "1"},
+   "first-renewedissue": {"issuedate": "1923-02-10", "cdate": "1923-01-02",
+                          "volume": "39", "number": "1"},
+   "first-renewedissue-source": "1950-JulDec",
+   "renewedissue-completeness": "active/1923-02-10",
+   "first-renewedcontribution": {
+       "issue": {"issuedate": "1923-02-10",
+                 "volume": "39", "number": "1"}
+   },
+   "first-renewedcontribution-source": "1950-JulDec",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2017-11-17"
+}

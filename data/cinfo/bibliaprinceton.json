@@ -1,0 +1,36 @@
+{
+   "title": "Biblia",
+   "online": "1",
+   "first-issue": 
+        {"issuedate": "1930-06", "volume": "1", "number": "1"}, 
+   "last-issue": 
+        {"issuedate": "1938-12", "volume": "10", "number": "1"}, 
+   "first-renewedissue": "none",
+   "renewedissue-completeness": "active/end",
+   "first-renewedcontribution": {
+       "issue": {"issuedate": "1938-02", "volume": "9", "number": "1"}
+   },
+   "first-renewedcontribution-source": "1966-JanJun",
+   "renewedcontribution-completeness": "active/end",
+   "renewedcontributions": [
+       {"issue": {"issuedate": "1938-02", "volume": "9", "number": "1"}, 
+        "title": "Poverty and Poetry",
+        "author": {
+         "authorized": "Frost, Robert, 1874-1963",
+         "lcna": "n79005644"
+        }
+       },
+       {"issue": {"issuedate": "1938-02", "volume": "9", "number": "1"}, 
+        "title": "The Poet's Next of Kin in a College",
+        "author": {
+         "authorized": "Frost, Robert, 1874-1963",
+         "lcna": "n79005644"
+        }
+       }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2017-11-30"
+}
