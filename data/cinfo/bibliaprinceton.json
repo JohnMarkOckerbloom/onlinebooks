@@ -2,25 +2,25 @@
    "title": "Biblia",
    "online": "1",
    "first-issue": 
-        {"issuedate": "1930-06", "volume": "1", "number": "1"}, 
+        {"issue-date": "1930-06", "volume": "1", "number": "1"}, 
    "last-issue": 
-        {"issuedate": "1938-12", "volume": "10", "number": "1"}, 
-   "first-renewedissue": "none",
-   "renewedissue-completeness": "active/end",
-   "first-renewedcontribution": {
-       "issue": {"issuedate": "1938-02", "volume": "9", "number": "1"}
+        {"issue-date": "1938-12", "volume": "10", "number": "1"}, 
+   "first-renewed-issue": "none",
+   "renewed-issue-completeness": "active/end",
+   "first-renewed-contribution": {
+       "issue": {"issue-date": "1938-02", "volume": "9", "number": "1"}
    },
-   "first-renewedcontribution-source": "1966-JanJun",
-   "renewedcontribution-completeness": "active/end",
-   "renewedcontributions": [
-       {"issue": {"issuedate": "1938-02", "volume": "9", "number": "1"}, 
+   "first-renewed-contribution-source": "1966-JanJun",
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+       {"issue": {"issue-date": "1938-02", "volume": "9", "number": "1"}, 
         "title": "Poverty and Poetry",
         "author": {
          "authorized": "Frost, Robert, 1874-1963",
          "lcna": "n79005644"
         }
        },
-       {"issue": {"issuedate": "1938-02", "volume": "9", "number": "1"}, 
+       {"issue": {"issue-date": "1938-02", "volume": "9", "number": "1"}, 
         "title": "The Poet's Next of Kin in a College",
         "author": {
          "authorized": "Frost, Robert, 1874-1963",

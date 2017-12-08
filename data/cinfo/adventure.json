@@ -5,16 +5,16 @@
       {"url": "http://www.philsp.com/homeville/GFI/b1.htm#A1",
        "note": "General Fiction Magazine Index"}
    ],
-   "first-issue": {"issuedate": "1910-11", "volume": "1", "number": "1"},
-   "first-renewedissue": {"issuedate": "1923-02-10", "cdate": "1923-01-02",
+   "first-issue": {"issue-date": "1910-11", "volume": "1", "number": "1"},
+   "first-renewed-issue": {"issue-date": "1923-02-10", "cdate": "1923-01-02",
                           "volume": "39", "number": "1"},
-   "first-renewedissue-source": "1950-JulDec",
-   "renewedissue-completeness": "active/1923-02-10",
-   "first-renewedcontribution": {
-       "issue": {"issuedate": "1923-02-10",
+   "first-renewed-issue-source": "1950-JulDec",
+   "renewed-issue-completeness": "active/1923-02-10",
+   "first-renewed-contribution": {
+       "issue": {"issue-date": "1923-02-10",
                  "volume": "39", "number": "1"}
    },
-   "first-renewedcontribution-source": "1950-JulDec",
+   "first-renewed-contribution-source": "1950-JulDec",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"

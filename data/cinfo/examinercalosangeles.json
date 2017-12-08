@@ -1,13 +1,14 @@
 {
-   "title": "The Diamondback",
-   "title-note": "University of Maryland student newspaper",
-   "online": "1",
+   "title": "Los Angeles Examiner",
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
-   "renewed-issue-completeness": "active/autorenewals",
+   "first-renewed-contribution": {
+       "issue": {"issue-date": "1937-08-21"}
+   },
+   "first-renewed-contribution-source": "1966-JanJun",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2017-11-26"
+   "last-updated": "2017-12-04"
 }

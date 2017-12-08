@@ -5,67 +5,67 @@
        "note": "FictionMags Index"}
    ],
    "first-issue": 
-       {"issuedate": "1937-11", "volume": "1", "number": "1"}, 
-   "first-renewedissue": 
-       {"issuedate": "1937-11", "volume": "1", "number": "1"}, 
-   "first-renewedissue-source": "1964",
-   "renewedissue-completeness": "active/end",
-   "renewedissues": [
-       {"issuedate": "1937-11", "volume": "1", "number": "1"}, 
-       {"issuedate": "1937-12", "volume": "1", "number": "2"}, 
-       {"issuedate": "1938-01", "volume": "1", "number": "3"},
-       {"issuedate": "1938-02", "volume": "1", "number": "4"},
-       {"issuedate": "1938-03", "volume": "1", "number": "5"},
-       {"issuedate": "1938-04", "volume": "1", "number": "6"},
-       {"issuedate": "1938-05", "volume": "2", "number": "1"}, 
-       {"issuedate": "1938-06", "volume": "2", "number": "2"}, 
-       {"issuedate": "1938-07", "volume": "2", "number": "3"}, 
-       {"issuedate": "1938-08", "volume": "2", "number": "4"}, 
-       {"issuedate": "1938-09", "volume": "2", "number": "5"}, 
-       {"issuedate": "1938-10", "volume": "2", "number": "6"}, 
-       {"issuedate": "1938-11", "volume": "3", "number": "1"}, 
-       {"issuedate": "1938-12", "volume": "3", "number": "2"},
-       {"issuedate": "1939-01", "volume": "3", "number": "3"},
-       {"issuedate": "1939-02", "volume": "3", "number": "4"},
-       {"issuedate": "1939-03", "volume": "3", "number": "5"},
-       {"issuedate": "1939-04", "volume": "3", "number": "6"},
-       {"issuedate": "1939-05", "volume": "4", "number": "1"}, 
-       {"issuedate": "1939-06", "volume": "4", "number": "2"}, 
-       {"issuedate": "1939-07", "volume": "4", "number": "3"}, 
-       {"issuedate": "1939-08", "volume": "4", "number": "4"}, 
-       {"issuedate": "1939-09", "volume": "4", "number": "5"}, 
-       {"issuedate": "1939-10", "volume": "4", "number": "6"}
+       {"issue-date": "1937-11", "volume": "1", "number": "1"}, 
+   "first-renewed-issue": 
+       {"issue-date": "1937-11", "volume": "1", "number": "1"}, 
+   "first-renewed-issue-source": "1964",
+   "renewed-issue-completeness": "active/end",
+   "renewed-issues": [
+       {"issue-date": "1937-11", "volume": "1", "number": "1"}, 
+       {"issue-date": "1937-12", "volume": "1", "number": "2"}, 
+       {"issue-date": "1938-01", "volume": "1", "number": "3"},
+       {"issue-date": "1938-02", "volume": "1", "number": "4"},
+       {"issue-date": "1938-03", "volume": "1", "number": "5"},
+       {"issue-date": "1938-04", "volume": "1", "number": "6"},
+       {"issue-date": "1938-05", "volume": "2", "number": "1"}, 
+       {"issue-date": "1938-06", "volume": "2", "number": "2"}, 
+       {"issue-date": "1938-07", "volume": "2", "number": "3"}, 
+       {"issue-date": "1938-08", "volume": "2", "number": "4"}, 
+       {"issue-date": "1938-09", "volume": "2", "number": "5"}, 
+       {"issue-date": "1938-10", "volume": "2", "number": "6"}, 
+       {"issue-date": "1938-11", "volume": "3", "number": "1"}, 
+       {"issue-date": "1938-12", "volume": "3", "number": "2"},
+       {"issue-date": "1939-01", "volume": "3", "number": "3"},
+       {"issue-date": "1939-02", "volume": "3", "number": "4"},
+       {"issue-date": "1939-03", "volume": "3", "number": "5"},
+       {"issue-date": "1939-04", "volume": "3", "number": "6"},
+       {"issue-date": "1939-05", "volume": "4", "number": "1"}, 
+       {"issue-date": "1939-06", "volume": "4", "number": "2"}, 
+       {"issue-date": "1939-07", "volume": "4", "number": "3"}, 
+       {"issue-date": "1939-08", "volume": "4", "number": "4"}, 
+       {"issue-date": "1939-09", "volume": "4", "number": "5"}, 
+       {"issue-date": "1939-10", "volume": "4", "number": "6"}
    ],
-   "first-renewedcontribution": {
-      "issue": {"issuedate": "1938-09", "volume": "2", "number": "5"}
+   "first-renewed-contribution": {
+      "issue": {"issue-date": "1938-09", "volume": "2", "number": "5"}
    },
-   "first-renewedcontribution-source": "1966-JanJun",
+   "first-renewed-contribution-source": "1966-JanJun",
    "last-issue": 
-       {"issuedate": "1939-10", "volume": "4", "number": "6"}, 
-   "renewedcontribution-completeness": "active/end",
-   "renewedcontributions": [
-       {"issue": {"issuedate": "1938-09", "volume": "2", "number": "5"}, 
+       {"issue-date": "1939-10", "volume": "4", "number": "6"}, 
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+       {"issue": {"issue-date": "1938-09", "volume": "2", "number": "5"}, 
         "title": "Camera Kill",
         "author": {
          "authorized": "Gruber, Frank, 1904-1969",
          "lcna": "n50032981"
         }
        },
-       {"issue": {"issuedate": "1938-11", "volume": "3", "number": "1"}, 
+       {"issue": {"issue-date": "1938-11", "volume": "3", "number": "1"}, 
         "title": "Death Comes Home",
         "author": {
          "authorized": "Gruber, Frank, 1904-1969",
          "lcna": "n50032981"
         }
        },
-       {"issue": {"issuedate": "1939-05", "volume": "4", "number": "1"}, 
+       {"issue": {"issue-date": "1939-05", "volume": "4", "number": "1"}, 
         "title": "Song of Death",
         "author": {
          "authorized": "Gruber, Frank, 1904-1969",
          "lcna": "n50032981"
         }
        },
-       {"issue": {"issuedate": "1939-06", "volume": "4", "number": "2"}, 
+       {"issue": {"issue-date": "1939-06", "volume": "4", "number": "2"}, 
         "title": "Jim Strong in Hollywood",
         "author": {
          "authorized": "Gruber, Frank, 1904-1969",

@@ -1,0 +1,23 @@
+{
+   "title": "New York Daily News",
+   "website": {"url": "http://www.nydailynews.com/",
+               "note": "New York Daily News website"},
+   "see-also": [
+      {"id": "sundaynewsnynewyork",
+       "note": "Sunday News (New York)"},
+      {"id": "dailynewsunknown",
+       "note": "Daily News (location not known)"}
+   ],
+   "first-renewed-issue": {"issue-date": "1951-01-01"},
+   "first-renewed-issue-source": "database",
+   "first-renewed-contribution": {
+       "issue": {"issue-date": "1932-01-14"}
+   },
+   "first-renewed-contribution-source": "1959-JulDec",
+   "renewed-contribution-completeness": "active/1932-01-14",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2017-12-05"
+}

@@ -2,15 +2,15 @@
    "title": "Claremore Daily Progress",
    "website": {"url": "http://www.claremoreprogress.com/",
                "note": "The Claremare Daily Progress website"},
-   "first-renewedissue": "none",
-   "first-renewedissue-source": "cce+database",
-   "renewedissue-completeness": "active/autorenewals",
-   "first-renewedcontribution": {
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce+database",
+   "renewed-issue-completeness": "active/autorenewals",
+   "first-renewed-contribution": {
       "issue": {"cdate": "1939-01-07"}
    },
-   "first-renewedcontribution-source": "1966-JanJun",
-   "renewedcontribution-completeness": "active/autorenewals",
-   "renewedcontributions": [
+   "first-renewed-contribution-source": "1966-JanJun",
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
        {"issue": {"cdate": "1939-01-07"}, 
         "title": "Howdy Folks",
         "author": {

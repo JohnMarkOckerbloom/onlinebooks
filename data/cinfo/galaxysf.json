@@ -9,47 +9,47 @@
       {"url": "http://www.philsp.com/homeville/SFI/link.asp?magid=GAL",
        "note": "Galactic Central"}
    ],
-   "first-issue": {"issuedate": "1950-10"}, 
-   "first-renewedissue":
-        {"issuedate": "1953-09", "volume": "6", "number": "6"}, 
-   "renewedissue-completeness": "active/autorenewals",
-   "renewedissues": [{"issuedate": "1953-09", "volume": "6", "number": "6"}], 
+   "first-issue": {"issue-date": "1950-10"}, 
+   "first-renewed-issue":
+        {"issue-date": "1953-09", "volume": "6", "number": "6"}, 
+   "renewed-issue-completeness": "active/autorenewals",
+   "renewed-issues": [{"issue-date": "1953-09", "volume": "6", "number": "6"}], 
    "first-autorenewed-issue": {
-    "issuedate": "1964-04", "cdate": "1964-01-24", "volume": "22", "number": "4"
+    "issue-date": "1964-04", "cdate": "1964-01-24", "volume": "22", "number": "4"
    }, 
-   "first-renewedcontribution": {
-       "issue": {"issuedate": "1950-10", "volume": "1", "number": "1"}, 
+   "first-renewed-contribution": {
+       "issue": {"issue-date": "1950-10", "volume": "1", "number": "1"}, 
        "title": "Third From the Sun",
        "author": {
          "authorized": "Matheson, Richard, 1926-2013",
          "lcna": "n79068485"
        }
    },
-   "first-renewedcontribution-source": "1977-JulDec",
-   "renewedcontribution-completeness": "active/autorenewals",
-   "renewedcontributions": [
-       {"issue": {"issuedate": "1950-10", "volume": "1", "number": "1"}, 
+   "first-renewed-contribution-source": "1977-JulDec",
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+       {"issue": {"issue-date": "1950-10", "volume": "1", "number": "1"}, 
         "title": "Third From the Sun",
         "author": {
          "authorized": "Matheson, Richard, 1926-2013",
          "lcna": "n79068485"
         }
        },
-       {"issue": {"issuedate": "1950-10", "volume": "1", "number": "1"}, 
+       {"issue": {"issue-date": "1950-10", "volume": "1", "number": "1"}, 
         "title": "The Stars Are the Styx",
         "author": {
           "authorized": "Sturgeon, Theodore",
           "lcna": "n80066908"
         }
        },
-       {"issue": {"issuedate": "1950-10", "volume": "1", "number": "1"}, 
+       {"issue": {"issue-date": "1950-10", "volume": "1", "number": "1"}, 
         "title": "The Last Martian",
         "author": {
           "authorized": "Brown, Fredric, 1906-1972",
           "lcna": "n79056291"
         }
        },
-       {"issue": {"issuedate": "1950-10", "volume": "1", "number": "1"}, 
+       {"issue": {"issue-date": "1950-10", "volume": "1", "number": "1"}, 
         "title": "Darwinian Pool Room",
         "note": "Renewal record gives title as Darwinian Poolroom",
         "author": {
@@ -57,70 +57,70 @@
           "lcna": "n80126289"
         }
        },
-       {"issue": {"issuedate": "1950-11", "volume": "1", "number": "2"}, 
+       {"issue": {"issue-date": "1950-11", "volume": "1", "number": "2"}, 
         "title": "Honeymoon in Hell",
         "author": {
           "authorized": "Brown, Fredric, 1906-1972",
           "lcna": "n79056291"
         }
        },
-       {"issue": {"issuedate": "1950-11", "volume": "1", "number": "2"}, 
+       {"issue": {"issue-date": "1950-11", "volume": "1", "number": "2"}, 
         "title": "Misbegotten Missionary",
         "author": {
           "authorized": "Asimov, Isaac, 1920-1992",
           "lcna": "n80126289"
         }
        },
-       {"issue": {"issuedate": "1950-11", "volume": "1", "number": "2"}, 
+       {"issue": {"issue-date": "1950-11", "volume": "1", "number": "2"}, 
         "title": "The Lands of Yesterday",
         "author": {
           "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
           "lcna": "n80057222"
         }
        },
-       {"issue": {"issuedate": "1950-11", "volume": "1", "number": "2"}, 
+       {"issue": {"issue-date": "1950-11", "volume": "1", "number": "2"}, 
         "title": "To Serve Man",
         "author": {
           "authorized": "Knight, Damon, 1922-2002",
           "lcna": "n79108377"
         }
        },
-       {"issue": {"issuedate": "1950-12", "volume": "1", "number": "3"}, 
+       {"issue": {"issue-date": "1950-12", "volume": "1", "number": "3"}, 
         "title": "Second Night of Summer",
         "author": {
          "authorized": "Schmitz, James H., 1911-1981",
          "lcna": "n80132906"
         }
        },
-       {"issue": {"issuedate": "1950-12", "volume": "1", "number": "3"}, 
+       {"issue": {"issue-date": "1950-12", "volume": "1", "number": "3"}, 
         "title": "The Waker Dreams",
         "author": {
          "authorized": "Matheson, Richard, 1926-2013",
          "lcna": "n79068485"
         }
        },
-       {"issue": {"issuedate": "1951-01", "volume": "1", "number": "4"}, 
+       {"issue": {"issue-date": "1951-01", "volume": "1", "number": "4"}, 
         "title": "Dark Interlude",
         "author": {
           "authorized": "Brown, Fredric, 1906-1972",
           "lcna": "n79056291"
         }
        },
-       {"issue": {"issuedate": "1951-01", "volume": "1", "number": "4"}, 
+       {"issue": {"issue-date": "1951-01", "volume": "1", "number": "4"}, 
         "title": "Rule of Three",
         "author": {
           "authorized": "Sturgeon, Theodore",
           "lcna": "n80066908"
         }
        },
-       {"issue": {"issuedate": "1951-01", "volume": "1", "number": "4"}, 
+       {"issue": {"issue-date": "1951-01", "volume": "1", "number": "4"}, 
         "title": "Susceptibility",
         "author": {
           "authorized": "MacDonald, John D. (John Dann), 1916-1986",
           "lcna": "n79045202"
         }
        },
-       {"issue": {"issuedate": "1951-02", "volume": "1", "number": "5"}, 
+       {"issue": {"issue-date": "1951-02", "volume": "1", "number": "5"}, 
         "title": "Tyrann",
         "title-note": "part 2 of 3",
         "author": {
@@ -128,28 +128,28 @@
           "lcna": "n80126289"
         }
        },
-       {"issue": {"issuedate": "1951-02", "volume": "1", "number": "5"}, 
+       {"issue": {"issue-date": "1951-02", "volume": "1", "number": "5"}, 
         "title": "The Fireman",
         "author": {
           "authorized": "Bradbury, Ray, 1920-2012",
           "lcna": "n79139258"
         }
        },
-       {"issue": {"issuedate": "1951-03", "volume": "1", "number": "6"}, 
+       {"issue": {"issue-date": "1951-03", "volume": "1", "number": "6"}, 
         "title": "The Wind Between the Worlds",
         "author": {
           "authorized": "Del Rey, Lester, 1915-1993",
           "lcna": "n79023308"
         }
        },
-       {"issue": {"issuedate": "1951-03", "volume": "1", "number": "6"}, 
+       {"issue": {"issue-date": "1951-03", "volume": "1", "number": "6"}, 
         "title": "Good Night, Mister James",
         "author": {
           "authorized": "Simak, Clifford D., 1904-1988",
           "lcna": "n79082302"
         }
        },
-       {"issue": {"issuedate": "1951-03", "volume": "1", "number": "6"}, 
+       {"issue": {"issue-date": "1951-03", "volume": "1", "number": "6"}, 
         "title": "Tyrann",
         "title-note": "part 3 of 3",
         "author": {
@@ -157,35 +157,35 @@
           "lcna": "n80126289"
         }
        },
-       {"issue": {"issuedate": "1951-04", "volume": "2", "number": "1"}, 
+       {"issue": {"issue-date": "1951-04", "volume": "2", "number": "1"}, 
         "title": "Betelgeuse Bridge",
         "author": {
           "authorized": "Tenn, William, 1920-2010",
           "lcna": "n88651363"
         }
        },
-       {"issue": {"issuedate": "1951-05", "volume": "2", "number": "2"}, 
+       {"issue": {"issue-date": "1951-05", "volume": "2", "number": "2"}, 
         "title": "Hostess",
         "author": {
           "authorized": "Asimov, Isaac, 1920-1992",
           "lcna": "n80126289"
         }
        },
-       {"issue": {"issuedate": "1951-05", "volume": "2", "number": "2"}, 
+       {"issue": {"issue-date": "1951-05", "volume": "2", "number": "2"}, 
         "title": "Ask Me Anything",
         "author": {
           "authorized": "Knight, Damon, 1922-2002",
           "lcna": "n79108377"
         }
        },
-       {"issue": {"issuedate": "1951-06", "volume": "2", "number": "3"}, 
+       {"issue": {"issue-date": "1951-06", "volume": "2", "number": "3"}, 
         "title": "Don't Live in the Past",
         "author": {
           "authorized": "Knight, Damon, 1922-2002",
           "lcna": "n79108377"
         }
        },
-       {"issue": {"issuedate": "1951-09", "volume": "2", "number": "6"}, 
+       {"issue": {"issue-date": "1951-09", "volume": "2", "number": "6"}, 
         "title": "The Puppet Masters",
         "title-note": "part 1 of 3",
         "author": {
@@ -193,28 +193,28 @@
           "lcna": "n79067868"
         }
        },
-       {"issue": {"issuedate": "1951-09", "volume": "2", "number": "6"}, 
+       {"issue": {"issue-date": "1951-09", "volume": "2", "number": "6"}, 
         "title": "Cabin Boy",
         "author": {
           "authorized": "Knight, Damon, 1922-2002",
           "lcna": "n79108377"
         }
        },
-       {"issue": {"issuedate": "1951-10", "volume": "3", "number": "1"}, 
+       {"issue": {"issue-date": "1951-10", "volume": "3", "number": "1"}, 
         "title": "The C-Chute",
         "author": {
           "authorized": "Asimov, Isaac, 1920-1992",
           "lcna": "n80126289"
         }
        },
-       {"issue": {"issuedate": "1951-10", "volume": "3", "number": "1"}, 
+       {"issue": {"issue-date": "1951-10", "volume": "3", "number": "1"}, 
         "title": "Pleasant Dreams",
         "author": {
           "authorized": "Robin, Ralph",
           "lcna": "n94042713"
         }
        },
-       {"issue": {"issuedate": "1951-10", "volume": "3", "number": "1"}, 
+       {"issue": {"issue-date": "1951-10", "volume": "3", "number": "1"}, 
         "title": "The Puppet Masters",
         "title-note": "part 2 of 3",
         "author": {
@@ -222,14 +222,14 @@
           "lcna": "n79067868"
         }
        },
-       {"issue": {"issuedate": "1951-11", "volume": "3", "number": "2"}, 
+       {"issue": {"issue-date": "1951-11", "volume": "3", "number": "2"}, 
         "title": "Tiger by the Tail",
         "author": {
           "authorized": "Nourse, Alan Edward", 
           "lcna": "n79045089"
         }
        },
-       {"issue": {"issuedate": "1951-11", "volume": "3", "number": "2"}, 
+       {"issue": {"issue-date": "1951-11", "volume": "3", "number": "2"}, 
         "title": "The Puppet Masters",
         "title-note": "part 3 of 3",
         "author": {
@@ -237,21 +237,21 @@
           "lcna": "n79067868"
         }
        },
-       {"issue": {"issuedate": "1951-12", "volume": "3", "number": "3"}, 
+       {"issue": {"issue-date": "1951-12", "volume": "3", "number": "3"}, 
         "title": "World Without Children",
         "author": {
           "authorized": "Knight, Damon, 1922-2002",
           "lcna": "n79108377"
         }
        },
-       {"issue": {"issuedate": "1951-12", "volume": "3", "number": "3"}, 
+       {"issue": {"issue-date": "1951-12", "volume": "3", "number": "3"}, 
         "title": "Winner Lose All",
         "author": {
           "authorized": "Vance, Jack, 1916-2013",
           "lcna": "n79021250"
         }
        },
-       {"issue": {"issuedate": "1952-01", "volume": "3", "number": "4"}, 
+       {"issue": {"issue-date": "1952-01", "volume": "3", "number": "4"}, 
         "title": "The Demolished Man",
         "title-note": "part 1 of 3",
         "author": {
@@ -259,21 +259,21 @@
           "lcna": "n79128980"
         }
        },
-       {"issue": {"issuedate": "1952-02", "volume": "3", "number": "5"}, 
+       {"issue": {"issue-date": "1952-02", "volume": "3", "number": "5"}, 
         "title": "Where Were We?",
         "author": {
           "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
           "lcna": "n80057222"
         }
        },
-       {"issue": {"issuedate": "1952-02", "volume": "3", "number": "5"}, 
+       {"issue": {"issue-date": "1952-02", "volume": "3", "number": "5"}, 
         "title": "Where To?",
         "author": {
           "authorized": "Heinlein, Robert A. (Robert Anson), 1907-1988", 
           "lcna": "n79067868"
         }
        },
-       {"issue": {"issuedate": "1952-02", "volume": "3", "number": "5"}, 
+       {"issue": {"issue-date": "1952-02", "volume": "3", "number": "5"}, 
         "title": "The Demolished Man",
         "title-note": "part 2 of 3",
         "author": {
@@ -281,21 +281,21 @@
           "lcna": "n79128980"
         }
        },
-       {"issue": {"issuedate": "1952-03", "volume": "3", "number": "6"}, 
+       {"issue": {"issue-date": "1952-03", "volume": "3", "number": "6"}, 
         "title": "The Year of the Jackpot",
         "author": {
           "authorized": "Heinlein, Robert A. (Robert Anson), 1907-1988", 
           "lcna": "n79067868"
         }
        },
-       {"issue": {"issuedate": "1952-03", "volume": "3", "number": "6"}, 
+       {"issue": {"issue-date": "1952-03", "volume": "3", "number": "6"}, 
         "title": "Catch That Martian",
         "author": {
           "authorized": "Knight, Damon, 1922-2002",
           "lcna": "n79108377"
         }
        },
-       {"issue": {"issuedate": "1952-03", "volume": "3", "number": "6"}, 
+       {"issue": {"issue-date": "1952-03", "volume": "3", "number": "6"}, 
         "title": "The Demolished Man",
         "title-note": "part 3 of 3",
         "author": {
@@ -303,28 +303,28 @@
           "lcna": "n79128980"
         }
        },
-       {"issue": {"issuedate": "1952-04", "volume": "4", "number": "1"}, 
+       {"issue": {"issue-date": "1952-04", "volume": "4", "number": "1"}, 
         "title": "Ticket to Anywhere",
         "author": {
           "authorized": "Knight, Damon, 1922-2002",
           "lcna": "n79108377"
         }
        },
-       {"issue": {"issuedate": "1952-05", "volume": "4", "number": "2"}, 
+       {"issue": {"issue-date": "1952-05", "volume": "4", "number": "2"}, 
         "title": "Lover, When You're Near Me",
         "author": {
          "authorized": "Matheson, Richard, 1926-2013",
          "lcna": "n79068485"
         }
        },
-       {"issue": {"issuedate": "1952-05", "volume": "4", "number": "2"}, 
+       {"issue": {"issue-date": "1952-05", "volume": "4", "number": "2"}, 
         "title": "Garden in the Void",
         "author": {
          "authorized": "Anderson, Poul, 1926-2001",
          "lcna": "n79044004"
         }
        },
-       {"issue": {"issuedate": "1952-06", "volume": "4", "number": "3"}, 
+       {"issue": {"issue-date": "1952-06", "volume": "4", "number": "3"}, 
         "title": "Gravy Planet",
         "title-note": "part 1 of 3",
         "authors": [
@@ -336,28 +336,28 @@
          }
         ]
        },
-       {"issue": {"issuedate": "1952-06", "volume": "4", "number": "3"}, 
+       {"issue": {"issue-date": "1952-06", "volume": "4", "number": "3"}, 
         "title": "The Hoaxsters",
         "author": {
          "authorized": "Wilson, Richard, 1920-1987",
          "lcna": "n88059447"
         }
        },
-       {"issue": {"issuedate": "1952-07", "volume": "4", "number": "4"}, 
+       {"issue": {"issue-date": "1952-07", "volume": "4", "number": "4"}, 
         "title": "Origins of Galactic Slang",
         "author": {
          "authorized": "Wellen, Edward",
          "lcna": "n93021387"
         }
        },
-       {"issue": {"issuedate": "1952-07", "volume": "4", "number": "4"}, 
+       {"issue": {"issue-date": "1952-07", "volume": "4", "number": "4"}, 
         "title": "Shipshape Home",
         "author": {
          "authorized": "Matheson, Richard, 1926-2013",
          "lcna": "n79068485"
         }
        },
-       {"issue": {"issuedate": "1952-07", "volume": "4", "number": "4"}, 
+       {"issue": {"issue-date": "1952-07", "volume": "4", "number": "4"}, 
         "title": "Gravy Planet",
         "title-note": "part 2 of 3",
         "authors": [
@@ -369,14 +369,14 @@
          }
         ]
        },
-       {"issue": {"issuedate": "1952-08", "volume": "4", "number": "5"}, 
+       {"issue": {"issue-date": "1952-08", "volume": "4", "number": "5"}, 
         "title": "Surface Tension",
         "author": {
          "authorized": "Blish, James",
          "lcna": "n79053667"
         }
        },
-       {"issue": {"issuedate": "1952-08", "volume": "4", "number": "5"}, 
+       {"issue": {"issue-date": "1952-08", "volume": "4", "number": "5"}, 
         "title": "Gravy Planet",
         "title-note": "part 3 of 3",
         "authors": [
@@ -388,42 +388,42 @@
          }
         ]
        },
-       {"issue": {"issuedate": "1952-09", "volume": "4", "number": "6"}, 
+       {"issue": {"issue-date": "1952-09", "volume": "4", "number": "6"}, 
         "title": "The Mousetrap",
         "author": {
          "authorized": "Dickson, Gordon R.",
          "lcna": "n79109204"
         }
        },
-       {"issue": {"issuedate": "1952-09", "volume": "4", "number": "6"}, 
+       {"issue": {"issue-date": "1952-09", "volume": "4", "number": "6"}, 
         "title": "The Altruist",
         "author": {
          "authorized": "Schmitz, James H., 1911-1981",
          "lcna": "n80132906"
         }
        },
-       {"issue": {"issuedate": "1952-10", "volume": "5", "number": "1"}, 
+       {"issue": {"issue-date": "1952-10", "volume": "5", "number": "1"}, 
         "title": "Baby is Three",
         "author": {
           "authorized": "Sturgeon, Theodore",
           "lcna": "n80066908"
         }
        },
-       {"issue": {"issuedate": "1952-10", "volume": "5", "number": "1"}, 
+       {"issue": {"issue-date": "1952-10", "volume": "5", "number": "1"}, 
         "title": "Halo",
         "author": {
          "authorized": "Clement, Hal, 1922-2003",
          "lcna": "n81039778"
         }
        },
-       {"issue": {"issuedate": "1952-10", "volume": "5", "number": "1"}, 
+       {"issue": {"issue-date": "1952-10", "volume": "5", "number": "1"}, 
         "title": "Games for Blondes",
         "author": {
           "authorized": "MacDonald, John D. (John Dann), 1916-1986",
           "lcna": "n79045202"
         }
        },
-       {"issue": {"issuedate": "1952-10", "volume": "5", "number": "1"}, 
+       {"issue": {"issue-date": "1952-10", "volume": "5", "number": "1"}, 
         "title": "A Little Oil",
         "note": "Renewal registration says this was published in the December 1952 issue, but it actually appeared in the October 1952 issue.",
         "author": {
@@ -431,28 +431,28 @@
           "lcna": "n81062502"
         }
        },
-       {"issue": {"issuedate": "1952-11", "volume": "5", "number": "2"}, 
+       {"issue": {"issue-date": "1952-11", "volume": "5", "number": "2"}, 
         "title": "The Martian Way",
         "author": {
           "authorized": "Asimov, Isaac, 1920-1992",
           "lcna": "n80126289"
         }
        },
-       {"issue": {"issuedate": "1952-11", "volume": "5", "number": "2"}, 
+       {"issue": {"issue-date": "1952-11", "volume": "5", "number": "2"}, 
         "title": "The Misogynist",
         "author": {
           "authorized": "Gunn, James E., 1923-",
           "lcna": "n79068460"
         }
        },
-       {"issue": {"issuedate": "1952-11", "volume": "5", "number": "2"}, 
+       {"issue": {"issue-date": "1952-11", "volume": "5", "number": "2"}, 
         "title": "Command Performance",
         "author": {
           "authorized": "Miller, Walter M., Jr., 1923-1996",
           "lcna": "n81120378"
         }
        },
-       {"issue": {"issuedate": "1952-12", "volume": "5", "number": "3"}, 
+       {"issue": {"issue-date": "1952-12", "volume": "5", "number": "3"}, 
         "title": "Ring Around the Sun",
         "title-note": "part 1 of 3",
         "author": {
@@ -460,21 +460,21 @@
           "lcna": "n79082302"
         }
        },
-       {"issue": {"issuedate": "1952-12", "volume": "5", "number": "3"}, 
+       {"issue": {"issue-date": "1952-12", "volume": "5", "number": "3"}, 
         "title": "The Deep",
         "author": {
           "authorized": "Asimov, Isaac, 1920-1992",
           "lcna": "n80126289"
         }
        },
-       {"issue": {"issuedate": "1953-01", "volume": "5", "number": "4"}, 
+       {"issue": {"issue-date": "1953-01", "volume": "5", "number": "4"}, 
         "title": "Prott",
         "author": {
           "authorized": "St. Clair, Margaret",
           "lcna": "n85038071"
         }
        },
-       {"issue": {"issuedate": "1953-01", "volume": "5", "number": "4"}, 
+       {"issue": {"issue-date": "1953-01", "volume": "5", "number": "4"}, 
         "title": "Ring Around the Sun",
         "title-note": "part 2 of 3",
         "author": {
@@ -482,28 +482,28 @@
           "lcna": "n79082302"
         }
        },
-       {"issue": {"issuedate": "1953-02", "volume": "5", "number": "5"}, 
+       {"issue": {"issue-date": "1953-02", "volume": "5", "number": "5"}, 
         "title": "Four in One",
         "author": {
           "authorized": "Knight, Damon, 1922-2002",
           "lcna": "n79108377"
         }
        },
-       {"issue": {"issuedate": "1953-02", "volume": "5", "number": "5"}, 
+       {"issue": {"issue-date": "1953-02", "volume": "5", "number": "5"}, 
         "title": "Protective Mimicry",
         "author": {
           "authorized": "Budrys, Algis, 1931-2008",
           "lcna": "n79060196"
         }
        },
-       {"issue": {"issuedate": "1953-02", "volume": "5", "number": "5"}, 
+       {"issue": {"issue-date": "1953-02", "volume": "5", "number": "5"}, 
         "title": "Saucer of Loneliness",
         "author": {
           "authorized": "Sturgeon, Theodore",
           "lcna": "n80066908"
         }
        },
-       {"issue": {"issuedate": "1953-02", "volume": "5", "number": "5"}, 
+       {"issue": {"issue-date": "1953-02", "volume": "5", "number": "5"}, 
         "title": "Ring Around the Sun",
         "title-note": "part 3 of 3",
         "author": {
@@ -511,42 +511,42 @@
           "lcna": "n79082302"
         }
        },
-       {"issue": {"issuedate": "1953-03", "volume": "5", "number": "6"}, 
+       {"issue": {"issue-date": "1953-03", "volume": "5", "number": "6"}, 
         "title": "Horse Trader",
         "author": {
          "authorized": "Anderson, Poul, 1926-2001",
          "lcna": "n79044004"
         }
        },
-       {"issue": {"issuedate": "1953-04", "volume": "6", "number": "1"}, 
+       {"issue": {"issue-date": "1953-04", "volume": "6", "number": "1"}, 
         "title": "Origins of Galactic Law",
         "author": {
          "authorized": "Wellen, Edward",
          "lcna": "n93021387"
         }
        },
-       {"issue": {"issuedate": "1953-04", "volume": "6", "number": "1"}, 
+       {"issue": {"issue-date": "1953-04", "volume": "6", "number": "1"}, 
         "title": "Unready to Wear",
         "author": {
          "authorized": "Vonnegut, Kurt",
          "lcna": "n79062641"
         }
        },
-       {"issue": {"issuedate": "1953-05", "volume": "6", "number": "2"}, 
+       {"issue": {"issue-date": "1953-05", "volume": "6", "number": "2"}, 
         "title": "Wherever You May Be",
         "author": {
           "authorized": "Gunn, James E., 1923-",
           "lcna": "n79068460"
         }
        },
-       {"issue": {"issuedate": "1953-05", "volume": "6", "number": "2"}, 
+       {"issue": {"issue-date": "1953-05", "volume": "6", "number": "2"}, 
         "title": "Junkyard",
         "author": {
           "authorized": "Simak, Clifford D., 1904-1988",
           "lcna": "n79082302"
         }
        },
-       {"issue": {"issuedate": "1953-05", "volume": "6", "number": "2"}, 
+       {"issue": {"issue-date": "1953-05", "volume": "6", "number": "2"}, 
         "title": "De Profundis",
         "note": "Renewal registration says this was published in the May 1953 issue, but I have not been able to find it published in this or any other issue of Galaxy. A version of the story titled The Visitors was published in the May 1953 issue of Science Fiction Quarterly.",
         "author": {
@@ -554,63 +554,63 @@
           "lcna": "n50061631"
         }
        },
-       {"issue": {"issuedate": "1953-06", "volume": "6", "number": "3"}, 
+       {"issue": {"issue-date": "1953-06", "volume": "6", "number": "3"}, 
         "title": "We Don't Want Any Trouble",
         "author": {
          "authorized": "Schmitz, James H., 1911-1981",
          "lcna": "n80132906"
         }
        },
-       {"issue": {"issuedate": "1953-06", "volume": "6", "number": "3"}, 
+       {"issue": {"issue-date": "1953-06", "volume": "6", "number": "3"}, 
         "title": "If You Were the Only",
         "author": {
          "authorized": "Wilson, Richard, 1920-1987",
          "lcna": "n88059447"
         }
        },
-       {"issue": {"issuedate": "1953-06", "volume": "6", "number": "3"}, 
+       {"issue": {"issue-date": "1953-06", "volume": "6", "number": "3"}, 
         "title": "Colony",
         "author": {
          "authorized": "Dick, Philip K.",
          "lcna": "n79018147"
         }
        },
-       {"issue": {"issuedate": "1953-07", "volume": "6", "number": "4"}, 
+       {"issue": {"issue-date": "1953-07", "volume": "6", "number": "4"}, 
         "title": "Kindergarten",
         "author": {
           "authorized": "Simak, Clifford D., 1904-1988",
           "lcna": "n79082302"
         }
        },
-       {"issue": {"issuedate": "1953-07", "volume": "6", "number": "4"}, 
+       {"issue": {"issue-date": "1953-07", "volume": "6", "number": "4"}, 
         "title": "Caretaker",
         "author": {
           "authorized": "Schmitz, James H., 1911-1981",
           "lcna": "n80132906"
         }
        },
-       {"issue": {"issuedate": "1953-08", "volume": "6", "number": "5"}, 
+       {"issue": {"issue-date": "1953-08", "volume": "6", "number": "5"}, 
         "title": "Minimum Sentence",
         "author": {
           "authorized": "Cogswell, Theodore R.",
           "lcna": "n95012251"
         }
        },
-       {"issue": {"issuedate": "1953-09", "volume": "6", "number": "6"}, 
+       {"issue": {"issue-date": "1953-09", "volume": "6", "number": "6"}, 
         "title": "The Touch of Your Hand",
         "author": {
           "authorized": "Sturgeon, Theodore",
           "lcna": "n80066908"
         }
        },
-       {"issue": {"issuedate": "1953-09", "volume": "6", "number": "6"}, 
+       {"issue": {"issue-date": "1953-09", "volume": "6", "number": "6"}, 
         "title": "Worrywart",
         "author": {
           "authorized": "Simak, Clifford D., 1904-1988",
           "lcna": "n79082302"
         }
        },
-       {"issue": {"issuedate": "1953-10", "volume": "7", "number": "1"}, 
+       {"issue": {"issue-date": "1953-10", "volume": "7", "number": "1"}, 
         "title": "The Caves of Steel",
         "title-note": "part 1 of 3",
         "author": {
@@ -618,14 +618,14 @@
           "lcna": "n80126289"
         }
        },
-       {"issue": {"issuedate": "1953-10", "volume": "7", "number": "1"}, 
+       {"issue": {"issue-date": "1953-10", "volume": "7", "number": "1"}, 
         "title": "Origins of Galactic Etiquette",
         "author": {
          "authorized": "Wellen, Edward",
          "lcna": "n93021387"
         }
        },
-       {"issue": {"issuedate": "1953-11", "volume": "7", "number": "2"}, 
+       {"issue": {"issue-date": "1953-11", "volume": "7", "number": "2"}, 
         "title": "The Caves of Steel",
         "title-note": "part 2 of 3",
         "author": {
@@ -633,21 +633,21 @@
           "lcna": "n80126289"
         }
        },
-       {"issue": {"issuedate": "1953-12", "volume": "7", "number": "3"}, 
+       {"issue": {"issue-date": "1953-12", "volume": "7", "number": "3"}, 
         "title": "Mr. Costello, Hero",
         "author": {
           "authorized": "Sturgeon, Theodore",
           "lcna": "n80066908"
         }
        },
-       {"issue": {"issuedate": "1953-12", "volume": "7", "number": "3"}, 
+       {"issue": {"issue-date": "1953-12", "volume": "7", "number": "3"}, 
         "title": "Origins of Galactic Medicine",
         "author": {
          "authorized": "Wellen, Edward",
          "lcna": "n93021387"
         }
        },
-       {"issue": {"issuedate": "1953-12", "volume": "7", "number": "3"}, 
+       {"issue": {"issue-date": "1953-12", "volume": "7", "number": "3"}, 
         "title": "The Caves of Steel",
         "title-note": "part 3 of 3",
         "author": {
@@ -655,7 +655,7 @@
           "lcna": "n80126289"
         }
        },
-       {"issue": {"issuedate": "1954-01", "volume": "7", "number": "4"}, 
+       {"issue": {"issue-date": "1954-01", "volume": "7", "number": "4"}, 
         "title": "Natural State",
         "note": "This was later expanded into Masters of Evolution, published in 1959 and also renewed",
         "author": {
@@ -663,83 +663,83 @@
           "lcna": "n79108377"
         }
        },
-       {"issue": {"issuedate": "1954-01", "volume": "7", "number": "4"}, 
+       {"issue": {"issue-date": "1954-01", "volume": "7", "number": "4"}, 
         "title": "Lulungomeena",
         "author": {
          "authorized": "Dickson, Gordon R.",
          "lcna": "n79109204"
         }
        },
-       {"issue": {"issuedate": "1954-02", "volume": "7", "number": "5"}, 
+       {"issue": {"issue-date": "1954-02", "volume": "7", "number": "5"}, 
         "title": "Beep",
         "author": {
          "authorized": "Blish, James",
          "lcna": "n79053667"
         }
        },
-       {"issue": {"issuedate": "1954-03", "volume": "7", "number": "6"}, 
+       {"issue": {"issue-date": "1954-03", "volume": "7", "number": "6"}, 
         "title": "The Littlest People",
         "author": {
           "name": "Raymond E. Banks"
         }
        },
-       {"issue": {"issuedate": "1954-03", "volume": "7", "number": "6"}, 
+       {"issue": {"issue-date": "1954-03", "volume": "7", "number": "6"}, 
         "title": "Ironclad",
         "author": {
           "authorized": "Budrys, Algis, 1931-2008",
           "lcna": "n79060196"
         }
        },
-       {"issue": {"issuedate": "1954-03", "volume": "7", "number": "6"}, 
+       {"issue": {"issue-date": "1954-03", "volume": "7", "number": "6"}, 
         "title": "The Education of Drusilla Strange",
         "author": {
           "authorized": "Sturgeon, Theodore",
           "lcna": "n80066908"
         }
        },
-       {"issue": {"issuedate": "1954-04", "volume": "8", "number": "1"}, 
+       {"issue": {"issue-date": "1954-04", "volume": "8", "number": "1"}, 
         "title": "The Midas Plague",
         "author": {
           "authorized": "Pohl, Frederik",
           "lcna": "n79029809"
          }
        },
-       {"issue": {"issuedate": "1954-04", "volume": "8", "number": "1"}, 
+       {"issue": {"issue-date": "1954-04", "volume": "8", "number": "1"}, 
         "title": "Limiting Factor",
         "author": {
           "authorized": "Cogswell, Theodore R.",
           "lcna": "n95012251"
          }
        },
-       {"issue": {"issuedate": "1954-04", "volume": "8", "number": "1"}, 
+       {"issue": {"issue-date": "1954-04", "volume": "8", "number": "1"}, 
         "title": "Hands Off",
         "author": {
           "authorized": "Sheckley, Robert, 1928-2005",
           "lcna": "n50022137"
          }
        },
-       {"issue": {"issuedate": "1954-04", "volume": "8", "number": "1"}, 
+       {"issue": {"issue-date": "1954-04", "volume": "8", "number": "1"}, 
         "title": "Black Charlie",
         "author": {
          "authorized": "Dickson, Gordon R.",
          "lcna": "n79109204"
         }
        },
-       {"issue": {"issuedate": "1954-05", "volume": "8", "number": "2"}, 
+       {"issue": {"issue-date": "1954-05", "volume": "8", "number": "2"}, 
         "title": "Granny Won't Knit",
         "author": {
           "authorized": "Sturgeon, Theodore",
           "lcna": "n80066908"
         }
        },
-       {"issue": {"issuedate": "1954-05", "volume": "8", "number": "2"}, 
+       {"issue": {"issue-date": "1954-05", "volume": "8", "number": "2"}, 
         "title": "Open Warfare",
         "author": {
           "authorized": "Gunn, James E., 1923-",
           "lcna": "n79068460"
         }
        },
-       {"issue": {"issuedate": "1954-06", "volume": "8", "number": "3"}, 
+       {"issue": {"issue-date": "1954-06", "volume": "8", "number": "3"}, 
         "title": "Gladiator at Law",
         "title-note": "part 1 of 3",
         "note": "Renewal record for this magazine serial version gives title as Gladiators at Law",
@@ -752,41 +752,41 @@
          }
         ]
        },
-       {"issue": {"issuedate": "1954-06", "volume": "8", "number": "3"}, 
+       {"issue": {"issue-date": "1954-06", "volume": "8", "number": "3"}, 
         "title": "Down Among the Dead Men",
         "author": {
           "authorized": "Tenn, William, 1920-2010",
           "lcna": "n88651363"
         }
        },
-       {"issue": {"issuedate": "1954-06", "volume": "8", "number": "3"}, 
+       {"issue": {"issue-date": "1954-06", "volume": "8", "number": "3"}, 
         "title": "Something for Nothing",
         "author": {
           "authorized": "Sheckley, Robert, 1928-2005",
           "lcna": "n50022137"
         }
        },
-       {"issue": {"issuedate": "1954-07", "volume": "8", "number": "4"}, 
+       {"issue": {"issue-date": "1954-07", "volume": "8", "number": "4"}, 
         "title": "A Thief in Time",
         "author": {
           "authorized": "Sheckley, Robert, 1928-2005",
           "lcna": "n50022137"
         }
        },
-       {"issue": {"issuedate": "1954-07", "volume": "8", "number": "4"}, 
+       {"issue": {"issue-date": "1954-07", "volume": "8", "number": "4"}, 
         "title": "This Side Up",
         "author": {
           "name": "Raymond E. Banks"
         }
        },
-       {"issue": {"issuedate": "1954-07", "volume": "8", "number": "4"}, 
+       {"issue": {"issue-date": "1954-07", "volume": "8", "number": "4"}, 
         "title": "Green Thumb",
         "author": {
           "authorized": "Simak, Clifford D., 1904-1988",
           "lcna": "n79082302"
         }
        },
-       {"issue": {"issuedate": "1954-07", "volume": "8", "number": "4"}, 
+       {"issue": {"issue-date": "1954-07", "volume": "8", "number": "4"}, 
         "title": "Gladiator at Law",
         "title-note": "part 2 of 3",
         "note": "Renewal record for this magazine serial version gives title as Gladiators at Law",
@@ -799,14 +799,14 @@
          }
         ]
        },
-       {"issue": {"issuedate": "1954-08", "volume": "8", "number": "5"}, 
+       {"issue": {"issue-date": "1954-08", "volume": "8", "number": "5"}, 
         "title": "Party of the Two Parts",
         "author": {
           "authorized": "Tenn, William, 1920-2010",
           "lcna": "n88651363"
         }
        },
-       {"issue": {"issuedate": "1954-08", "volume": "8", "number": "5"}, 
+       {"issue": {"issue-date": "1954-08", "volume": "8", "number": "5"}, 
         "title": "Subsistence Level",
         "note": "Author is Robert Sheckley writing under a pseudonym. Renewal record gives title as Subsistance Level",
         "author": {
@@ -814,14 +814,14 @@
           "lcna": "no2013058200"
         }
        },
-       {"issue": {"issuedate": "1954-08", "volume": "8", "number": "5"}, 
+       {"issue": {"issue-date": "1954-08", "volume": "8", "number": "5"}, 
         "title": "Invasion Report",
         "author": {
           "authorized": "Cogswell, Theodore R.",
           "lcna": "n95012251"
         }
        },
-       {"issue": {"issuedate": "1954-08", "volume": "8", "number": "5"}, 
+       {"issue": {"issue-date": "1954-08", "volume": "8", "number": "5"}, 
         "title": "Gladiator at Law",
         "title-note": "part 3 of 3",
         "note": "Renewal record for this magazine serial version gives title as Gladiators at Law",
@@ -834,14 +834,14 @@
          }
         ]
        },
-       {"issue": {"issuedate": "1954-09", "volume": "8", "number": "6"}, 
+       {"issue": {"issue-date": "1954-09", "volume": "8", "number": "6"}, 
         "title": "Dusty Zebra",
         "author": {
           "authorized": "Simak, Clifford D., 1904-1988",
           "lcna": "n79082302"
         }
        },
-       {"issue": {"issuedate": "1954-09", "volume": "8", "number": "6"}, 
+       {"issue": {"issue-date": "1954-09", "volume": "8", "number": "6"}, 
         "title": "Shell Game",
         "note": "Renewal registration says this was published in the March 1955 issue, but it actually appeared in the September 1954 issue. Renewal is dated November 22, 1983, likely too late to be effective for the actual publication date.",
         "author": {
@@ -849,21 +849,21 @@
          "lcna": "n79018147"
         }
        },
-       {"issue": {"issuedate": "1954-09", "volume": "8", "number": "6"}, 
+       {"issue": {"issue-date": "1954-09", "volume": "8", "number": "6"}, 
         "title": "Milk Run",
         "author": {
           "authorized": "Sheckley, Robert, 1928-2005",
           "lcna": "n50022137"
         }
        },
-       {"issue": {"issuedate": "1954-09", "volume": "8", "number": "6"}, 
+       {"issue": {"issue-date": "1954-09", "volume": "8", "number": "6"}, 
         "title": "Satan's Shrine",
         "author": {
           "authorized": "Galouye, Daniel F.",
           "lcna": "no99085263"
         }
        },
-       {"issue": {"issuedate": "1954-10", "volume": "9", "number": "1"}, 
+       {"issue": {"issue-date": "1954-10", "volume": "9", "number": "1"}, 
         "title": "A World of Talent",
         "note": "Renewal registration says this was published in the August 1955 issue, but it actually appeared in the October 1954 issue. Renewal is dated November 22, 1983, likely too late to be effective for the actual publication date.",
         "author": {
@@ -871,35 +871,35 @@
          "lcna": "n79018147"
         }
        },
-       {"issue": {"issuedate": "1954-10", "volume": "9", "number": "1"}, 
+       {"issue": {"issue-date": "1954-10", "volume": "9", "number": "1"}, 
         "title": "Ghost V",
         "author": {
           "authorized": "Sheckley, Robert, 1928-2005",
           "lcna": "n50022137"
         }
        },
-       {"issue": {"issuedate": "1954-10", "volume": "9", "number": "1"}, 
+       {"issue": {"issue-date": "1954-10", "volume": "9", "number": "1"}, 
         "title": "Idiot's Crusade",
         "author": {
           "authorized": "Simak, Clifford D., 1904-1988",
           "lcna": "n79082302"
         }
        },
-       {"issue": {"issuedate": "1954-10", "volume": "9", "number": "1"}, 
+       {"issue": {"issue-date": "1954-10", "volume": "9", "number": "1"}, 
         "title": "Jebaburba",
         "author": {
           "authorized": "Galouye, Daniel F.",
           "lcna": "no99085263"
         }
        },
-       {"issue": {"issuedate": "1954-11", "volume": "9", "number": "2"}, 
+       {"issue": {"issue-date": "1954-11", "volume": "9", "number": "2"}, 
         "title": "How-2",
         "author": {
           "authorized": "Simak, Clifford D., 1904-1988",
           "lcna": "n79082302"
         }
        },
-       {"issue": {"issuedate": "1954-11", "volume": "9", "number": "2"}, 
+       {"issue": {"issue-date": "1954-11", "volume": "9", "number": "2"}, 
         "title": "The Laxian Key",
         "note": "Renewal record gives title as The Loxian Key",
         "author": {
@@ -907,14 +907,14 @@
           "lcna": "n50022137"
         }
        },
-       {"issue": {"issuedate": "1954-12", "volume": "9", "number": "3"}, 
+       {"issue": {"issue-date": "1954-12", "volume": "9", "number": "3"}, 
         "title": "Skulking Permit",
         "author": {
           "authorized": "Sheckley, Robert, 1928-2005",
           "lcna": "n50022137"
         }
        },
-       {"issue": {"issuedate": "1954-12", "volume": "9", "number": "3"}, 
+       {"issue": {"issue-date": "1954-12", "volume": "9", "number": "3"}, 
         "title": "Uncle Tom's Planet",
         "note": "Author is Robert Sheckley writing under a pseudonym.",
         "author": {
@@ -922,28 +922,28 @@
           "lcna": "no2013058200"
         }
        },
-       {"issue": {"issuedate": "1955-01", "volume": "9", "number": "4"}, 
+       {"issue": {"issue-date": "1955-01", "volume": "9", "number": "4"}, 
         "title": "When You're Smiling",
         "author": {
           "authorized": "Sturgeon, Theodore",
           "lcna": "n80066908"
         }
        },
-       {"issue": {"issuedate": "1955-02", "volume": "9", "number": "5"}, 
+       {"issue": {"issue-date": "1955-02", "volume": "9", "number": "5"}, 
         "title": "The Cave of Night",
         "author": {
           "authorized": "Gunn, James E., 1923-",
           "lcna": "n79068460"
         }
        },
-       {"issue": {"issuedate": "1955-03", "volume": "9", "number": "6"}, 
+       {"issue": {"issue-date": "1955-03", "volume": "9", "number": "6"}, 
         "title": "The Candle Lighter",
         "author": {
           "authorized": "Pohl, Frederik",
           "lcna": "n79029809"
         }
        },
-       {"issue": {"issuedate": "1955-03", "volume": "9", "number": "6"}, 
+       {"issue": {"issue-date": "1955-03", "volume": "9", "number": "6"}, 
         "title": "Dulcie & Decorum",
         "note": "Renewal record gives title as Dulcie and Decorum",
         "author": {
@@ -951,14 +951,14 @@
           "lcna": "n79108377"
         }
        },
-       {"issue": {"issuedate": "1955-03", "volume": "9", "number": "6"}, 
+       {"issue": {"issue-date": "1955-03", "volume": "9", "number": "6"}, 
         "title": "Who?",
         "author": {
           "authorized": "Sturgeon, Theodore",
           "lcna": "n80066908"
         }
        },
-       {"issue": {"issuedate": "1955-04", "volume": "10", "number": "1"}, 
+       {"issue": {"issue-date": "1955-04", "volume": "10", "number": "1"}, 
         "title": "The Servant Problem",
         "note": "Renewal registration says this was published in the June 1955 issue, but it actually appeared in the April 1955 issue.",
         "author": {
@@ -966,140 +966,140 @@
           "lcna": "n88651363"
         }
        },
-       {"issue": {"issuedate": "1955-04", "volume": "10", "number": "1"}, 
+       {"issue": {"issue-date": "1955-04", "volume": "10", "number": "1"}, 
         "title": "The Lifeboat Mutiny",
         "author": {
           "authorized": "Sheckley, Robert, 1928-2005",
           "lcna": "n50022137"
         }
        },
-       {"issue": {"issuedate": "1955-04", "volume": "10", "number": "1"}, 
+       {"issue": {"issue-date": "1955-04", "volume": "10", "number": "1"}, 
         "title": "Target One",
         "author": {
           "authorized": "Pohl, Frederik",
           "lcna": "n79029809"
         }
        },
-       {"issue": {"issuedate": "1955-04", "volume": "10", "number": "1"}, 
+       {"issue": {"issue-date": "1955-04", "volume": "10", "number": "1"}, 
         "title": "Origins of Galactic Advice to the Lovelorn",
         "author": {
          "authorized": "Wellen, Edward",
          "lcna": "n93021387"
         }
        },
-       {"issue": {"issuedate": "1955-04", "volume": "10", "number": "1"}, 
+       {"issue": {"issue-date": "1955-04", "volume": "10", "number": "1"}, 
         "title": "Hurricane Trio",
         "author": {
           "authorized": "Sturgeon, Theodore",
           "lcna": "n80066908"
         }
        },
-       {"issue": {"issuedate": "1955-05", "volume": "10", "number": "2"}, 
+       {"issue": {"issue-date": "1955-05", "volume": "10", "number": "2"}, 
         "title": "The Dreaming Wall",
         "author": {
           "authorized": "Pearce, Gerald, 1928-",
           "lcna": "n88187930"
         }
        },
-       {"issue": {"issuedate": "1955-05", "volume": "10", "number": "2"}, 
+       {"issue": {"issue-date": "1955-05", "volume": "10", "number": "2"}, 
         "title": "The Middle of Nowhere",
         "author": {
           "authorized": "Pohl, Frederik",
           "lcna": "n79029809"
         }
        },
-       {"issue": {"issuedate": "1955-06", "volume": "10", "number": "3"}, 
+       {"issue": {"issue-date": "1955-06", "volume": "10", "number": "3"}, 
         "title": "The Necessary Thing",
         "author": {
           "authorized": "Sheckley, Robert, 1928-2005",
           "lcna": "n50022137"
         }
        },
-       {"issue": {"issuedate": "1955-06", "volume": "10", "number": "3"}, 
+       {"issue": {"issue-date": "1955-06", "volume": "10", "number": "3"}, 
         "title": "Grandy Devil",
         "author": {
           "authorized": "Pohl, Frederik",
           "lcna": "n79029809"
         }
        },
-       {"issue": {"issuedate": "1955-06", "volume": "10", "number": "3"}, 
+       {"issue": {"issue-date": "1955-06", "volume": "10", "number": "3"}, 
         "title": "Inside Story",
         "author": {
          "authorized": "Wilson, Richard, 1920-1987",
          "lcna": "n88059447"
         }
        },
-       {"issue": {"issuedate": "1955-07", "volume": "10", "number": "4"}, 
+       {"issue": {"issue-date": "1955-07", "volume": "10", "number": "4"}, 
         "title": "The Mapmakers",
         "author": {
           "authorized": "Pohl, Frederik",
           "lcna": "n79029809"
         }
        },
-       {"issue": {"issuedate": "1955-07", "volume": "10", "number": "4"}, 
+       {"issue": {"issue-date": "1955-07", "volume": "10", "number": "4"}, 
         "title": "Property of Venus",
         "author": {
           "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
           "lcna": "n80057222"
         }
        },
-       {"issue": {"issuedate": "1955-07", "volume": "10", "number": "4"}, 
+       {"issue": {"issue-date": "1955-07", "volume": "10", "number": "4"}, 
         "title": "Deadhead",
         "author": {
           "authorized": "Sheckley, Robert, 1928-2005",
           "lcna": "n50022137"
         }
        },
-       {"issue": {"issuedate": "1955-08", "volume": "10", "number": "5"}, 
+       {"issue": {"issue-date": "1955-08", "volume": "10", "number": "5"}, 
         "title": "The Flat-Eyed Monster",
         "author": {
           "authorized": "Tenn, William, 1920-2010",
           "lcna": "n88651363"
         }
        },
-       {"issue": {"issuedate": "1955-08", "volume": "10", "number": "5"}, 
+       {"issue": {"issue-date": "1955-08", "volume": "10", "number": "5"}, 
         "title": "Country Estate",
         "author": {
           "authorized": "Galouye, Daniel F.",
           "lcna": "no99085263"
         }
        },
-       {"issue": {"issuedate": "1955-08", "volume": "10", "number": "5"}, 
+       {"issue": {"issue-date": "1955-08", "volume": "10", "number": "5"}, 
         "title": "Twink",
         "author": {
           "authorized": "Sturgeon, Theodore",
           "lcna": "n80066908"
         }
        },
-       {"issue": {"issuedate": "1955-09", "volume": "10", "number": "6"}, 
+       {"issue": {"issue-date": "1955-09", "volume": "10", "number": "6"}, 
         "title": "Little Orphan Android",
         "author": {
           "authorized": "Gunn, James E., 1923-",
           "lcna": "n79068460"
         }
        },
-       {"issue": {"issuedate": "1955-09", "volume": "10", "number": "6"}, 
+       {"issue": {"issue-date": "1955-09", "volume": "10", "number": "6"}, 
         "title": "Hunting Problem",
         "author": {
           "authorized": "Sheckley, Robert, 1928-2005",
           "lcna": "n50022137"
         }
        },
-       {"issue": {"issuedate": "1955-09", "volume": "10", "number": "6"}, 
+       {"issue": {"issue-date": "1955-09", "volume": "10", "number": "6"}, 
         "title": "One for the Books",
         "author": {
          "authorized": "Matheson, Richard, 1926-2013",
          "lcna": "n79068485"
         }
        },
-       {"issue": {"issuedate": "1955-10", "volume": "11", "number": "1"}, 
+       {"issue": {"issue-date": "1955-10", "volume": "11", "number": "1"}, 
         "title": "A Ticket to Tranai",
         "author": {
           "authorized": "Sheckley, Robert, 1928-2005",
           "lcna": "n50022137"
         }
        },
-       {"issue": {"issuedate": "1955-10", "volume": "11", "number": "1"}, 
+       {"issue": {"issue-date": "1955-10", "volume": "11", "number": "1"}, 
         "title": "The Discovery of Morniel Mathaway",
         "note": "Renewal registration says this was published in the November 1955 issue, but it actually appeared in the October 1955 issue.",
         "author": {
@@ -1107,7 +1107,7 @@
           "lcna": "n88651363"
         }
        },
-       {"issue": {"issuedate": "1955-11", "volume": "11", "number": "2"}, 
+       {"issue": {"issue-date": "1955-11", "volume": "11", "number": "2"}, 
         "title": "The Ties of Earth",
         "title-note": "part 1 of 2",
         "author": {
@@ -1115,21 +1115,21 @@
          "lcna": "n80132906"
         }
        },
-       {"issue": {"issuedate": "1955-11", "volume": "11", "number": "2"}, 
+       {"issue": {"issue-date": "1955-11", "volume": "11", "number": "2"}, 
         "title": "Autofac",
         "author": {
          "authorized": "Dick, Philip K.",
          "lcna": "n79018147"
         }
        },
-       {"issue": {"issuedate": "1955-11", "volume": "11", "number": "2"}, 
+       {"issue": {"issue-date": "1955-11", "volume": "11", "number": "2"}, 
         "title": "Warriors Return",
         "author": {
           "authorized": "Sheckley, Robert, 1928-2005",
           "lcna": "n50022137"
         }
        },
-       {"issue": {"issuedate": "1955-11", "volume": "11", "number": "2"}, 
+       {"issue": {"issue-date": "1955-11", "volume": "11", "number": "2"}, 
         "title": "With Redfern on Capella XII",
         "author": {
           "authorized": "Pohl, Frederik",
@@ -1137,21 +1137,21 @@
           "using": "Charles Satterfield"
         }
        },
-       {"issue": {"issuedate": "1956-01", "volume": "11", "number": "3"}, 
+       {"issue": {"issue-date": "1956-01", "volume": "11", "number": "3"}, 
         "title": "The Body",
         "author": {
           "authorized": "Sheckley, Robert, 1928-2005",
           "lcna": "n50022137"
         }
        },
-       {"issue": {"issuedate": "1956-02", "volume": "11", "number": "4"}, 
+       {"issue": {"issue-date": "1956-02", "volume": "11", "number": "4"}, 
         "title": "Dead-End Doctor",
         "author": {
           "authorized": "Bloch, Robert, 1917-1994",
           "lcna": "n50016557"
         }
        },
-       {"issue": {"issuedate": "1956-02", "volume": "11", "number": "4"}, 
+       {"issue": {"issue-date": "1956-02", "volume": "11", "number": "4"}, 
         "title": "The Corkscrew of Space",
         "note": "Renewal registration says this was published in the March 1956 issue, but it actually appeared in the February 1956 issue.",
         "author": {
@@ -1159,7 +1159,7 @@
          "lcna": "n79044004"
         }
        },
-       {"issue": {"issuedate": "1956-02", "volume": "11", "number": "4"}, 
+       {"issue": {"issue-date": "1956-02", "volume": "11", "number": "4"}, 
         "title": "Trap",
         "note": "Author is Robert Sheckley writing under a pseudonym.",
         "author": {
@@ -1167,35 +1167,35 @@
           "lcna": "no2013058200"
         }
       },
-      {"issue": {"issuedate": "1956-03", "volume": "11", "number": "5"}, 
+      {"issue": {"issue-date": "1956-03", "volume": "11", "number": "5"}, 
        "title": "A Gun for Dinosaur",
        "author": {
          "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
          "lcna": "n80057222"
        }
       },
-      {"issue": {"issuedate": "1956-03", "volume": "11", "number": "5"}, 
+      {"issue": {"issue-date": "1956-03", "volume": "11", "number": "5"}, 
        "title": "Flat Tiger",
        "author": {
          "authorized": "Dickson, Gordon R.",
          "lcna": "n79109204"
        }
       },
-      {"issue": {"issuedate": "1956-03", "volume": "11", "number": "5"}, 
+      {"issue": {"issue-date": "1956-03", "volume": "11", "number": "5"}, 
        "title": "Tsylana",
        "author": {
          "authorized": "Gunn, James E., 1923-",
          "lcna": "n79068460"
        }
       },
-      {"issue": {"issuedate": "1956-03", "volume": "11", "number": "5"}, 
+      {"issue": {"issue-date": "1956-03", "volume": "11", "number": "5"}, 
        "title": "Little Red Schoolhouse",
        "author": {
          "authorized": "Young, Robert F.",
          "lcna": "n81147367"
        }
       },
-      {"issue": {"issuedate": "1956-03", "volume": "11", "number": "5"}, 
+      {"issue": {"issue-date": "1956-03", "volume": "11", "number": "5"}, 
        "title": "Slave Ship",
         "title-note": "part 1 of 3",
        "author": {
@@ -1203,14 +1203,14 @@
          "lcna": "n79029809"
        }
       },
-      {"issue": {"issuedate": "1956-04", "volume": "11", "number": "6"}, 
+      {"issue": {"issue-date": "1956-04", "volume": "11", "number": "6"}, 
        "title": "Protection",
        "author": {
          "authorized": "Sheckley, Robert, 1928-2005",
          "lcna": "n50022137"
        }
       },
-      {"issue": {"issuedate": "1956-04", "volume": "11", "number": "6"}, 
+      {"issue": {"issue-date": "1956-04", "volume": "11", "number": "6"}, 
        "title": "Slave Ship",
         "title-note": "part 2 of 3",
        "author": {
@@ -1218,7 +1218,7 @@
          "lcna": "n79029809"
        }
       },
-      {"issue": {"issuedate": "1956-05", "volume": "12", "number": "1"}, 
+      {"issue": {"issue-date": "1956-05", "volume": "12", "number": "1"}, 
        "title": "Slave Ship",
         "title-note": "part 3 of 3",
        "author": {
@@ -1226,7 +1226,7 @@
          "lcna": "n79029809"
        }
       },
-      {"issue": {"issuedate": "1956-06", "volume": "12", "number": "2"}, 
+      {"issue": {"issue-date": "1956-06", "volume": "12", "number": "2"}, 
        "title": "Death Wish",
         "note": "Renewal record gives title as Deathwish and author pseudonym as Ned Lange",
        "author": {
@@ -1235,7 +1235,7 @@
          "using": "Ned Lang"
        }
       },
-      {"issue": {"issuedate": "1956-07", "volume": "12", "number": "3"}, 
+      {"issue": {"issue-date": "1956-07", "volume": "12", "number": "3"}, 
        "title": "Bad Medicine",
         "note": "Author is Robert Sheckley writing under a pseudonym.",
        "author": {
@@ -1243,21 +1243,21 @@
           "lcna": "no2013058200"
        }
       },
-      {"issue": {"issuedate": "1956-07", "volume": "12", "number": "3"}, 
+      {"issue": {"issue-date": "1956-07", "volume": "12", "number": "3"}, 
        "title": "Drop Dead",
         "author": {
           "authorized": "Simak, Clifford D., 1904-1988",
           "lcna": "n79082302"
        }
       },
-      {"issue": {"issuedate": "1956-07", "volume": "12", "number": "3"}, 
+      {"issue": {"issue-date": "1956-07", "volume": "12", "number": "3"}, 
        "title": "Gypped",
         "author": {
           "authorized": "Biggle, Lloyd, Jr., 1923-2002",
           "lcna": "n79084085"
        }
       },
-      {"issue": {"issuedate": "1956-07", "volume": "12", "number": "3"}, 
+      {"issue": {"issue-date": "1956-07", "volume": "12", "number": "3"}, 
        "title": "Writing of the Rat",
         "note": "Renewal record gives title as The Writing of the Rat",
         "author": {
@@ -1265,14 +1265,14 @@
          "lcna": "n79053667"
         }
       },
-      {"issue": {"issuedate": "1956-07", "volume": "12", "number": "3"}, 
+      {"issue": {"issue-date": "1956-07", "volume": "12", "number": "3"}, 
        "title": "All the Things You Are",
         "author": {
          "authorized": "Sheckley, Robert, 1928-2005",
          "lcna": "n50022137"
        }
       },
-      {"issue": {"issuedate": "1956-07", "volume": "12", "number": "3"}, 
+      {"issue": {"issue-date": "1956-07", "volume": "12", "number": "3"}, 
        "title": "Horrer Howce",
         "note": "Renewal record gives title as Horror House",
         "author": {
@@ -1280,77 +1280,77 @@
           "lcna": "n85038071"
        }
       },
-      {"issue": {"issuedate": "1956-07", "volume": "12", "number": "3"}, 
+      {"issue": {"issue-date": "1956-07", "volume": "12", "number": "3"}, 
        "title": "The Skills of Xanadu",
         "author": {
           "authorized": "Sturgeon, Theodore",
           "lcna": "n80066908"
        }
       },
-      {"issue": {"issuedate": "1956-08", "volume": "12", "number": "4"}, 
+      {"issue": {"issue-date": "1956-08", "volume": "12", "number": "4"}, 
        "title": "Time in Advance",
         "author": {
           "authorized": "Tenn, William, 1920-2010",
           "lcna": "n88651363"
        }
       },
-      {"issue": {"issuedate": "1956-08", "volume": "12", "number": "4"}, 
+      {"issue": {"issue-date": "1956-08", "volume": "12", "number": "4"}, 
        "title": "Honorable Opponent",
         "author": {
           "authorized": "Simak, Clifford D., 1904-1988",
           "lcna": "n79082302"
        }
       },
-      {"issue": {"issuedate": "1956-08", "volume": "12", "number": "4"}, 
+      {"issue": {"issue-date": "1956-08", "volume": "12", "number": "4"}, 
        "title": "This Way to the Regress",
         "author": {
           "authorized": "Knight, Damon, 1922-2002",
           "lcna": "n79108377"
        }
       },
-      {"issue": {"issuedate": "1956-08", "volume": "12", "number": "4"}, 
+      {"issue": {"issue-date": "1956-08", "volume": "12", "number": "4"}, 
        "title": "Early Model",
         "author": {
          "authorized": "Sheckley, Robert, 1928-2005",
          "lcna": "n50022137"
        }
       },
-      {"issue": {"issuedate": "1956-08", "volume": "12", "number": "4"}, 
+      {"issue": {"issue-date": "1956-08", "volume": "12", "number": "4"}, 
        "title": "The Genius Heap",
         "author": {
          "authorized": "Blish, James",
          "lcna": "n79053667"
        }
       },
-      {"issue": {"issuedate": "1956-08", "volume": "12", "number": "4"}, 
+      {"issue": {"issue-date": "1956-08", "volume": "12", "number": "4"}, 
        "title": "The Claustrophile",
         "author": {
           "authorized": "Sturgeon, Theodore",
           "lcna": "n80066908"
        }
       },
-      {"issue": {"issuedate": "1956-09", "volume": "12", "number": "5"}, 
+      {"issue": {"issue-date": "1956-09", "volume": "12", "number": "5"}, 
        "title": "The Other Man",
         "author": {
           "authorized": "Sturgeon, Theodore",
           "lcna": "n80066908"
        }
       },
-      {"issue": {"issuedate": "1956-09", "volume": "12", "number": "5"}, 
+      {"issue": {"issue-date": "1956-09", "volume": "12", "number": "5"}, 
        "title": "Human Man's Burden",
         "author": {
          "authorized": "Sheckley, Robert, 1928-2005",
          "lcna": "n50022137"
        }
       },
-      {"issue": {"issuedate": "1956-09", "volume": "12", "number": "5"}, 
+      {"issue": {"issue-date": "1956-09", "volume": "12", "number": "5"}, 
        "title": "Seeing-Eye Dog",
         "author": {
           "authorized": "Galouye, Daniel F.",
           "lcna": "no99085263"
        }
       },
-      {"issue": {"issuedate": "1956-10", "volume": "12", "number": "6"}, 
+      {"issue": {"issue-date": "1956-10", "volume": "12", "number": "6"}, 
        "title": "The Stars My Destination",
         "title-note": "part 1 of 4",
         "author": {
@@ -1358,35 +1358,35 @@
           "lcna": "n79128980"
        }
       },
-      {"issue": {"issuedate": "1956-10", "volume": "12", "number": "6"}, 
+      {"issue": {"issue-date": "1956-10", "volume": "12", "number": "6"}, 
        "title": "George All the Way",
         "author": {
          "authorized": "Wilson, Richard, 1920-1987",
          "lcna": "n88059447"
        }
       },
-      {"issue": {"issuedate": "1956-10", "volume": "12", "number": "6"}, 
+      {"issue": {"issue-date": "1956-10", "volume": "12", "number": "6"}, 
        "title": "Jackpot",
         "author": {
           "authorized": "Simak, Clifford D., 1904-1988",
           "lcna": "n79082302"
        }
       },
-      {"issue": {"issuedate": "1956-11", "volume": "13", "number": "1"}, 
+      {"issue": {"issue-date": "1956-11", "volume": "13", "number": "1"}, 
        "title": "The Man Who Ate the World",
         "author": {
           "authorized": "Pohl, Frederik",
           "lcna": "n79029809"
        }
       },
-      {"issue": {"issuedate": "1956-11", "volume": "13", "number": "1"}, 
+      {"issue": {"issue-date": "1956-11", "volume": "13", "number": "1"}, 
        "title": "Double Dare",
         "author": {
           "authorized": "Silverberg, Robert",
           "lcna": "n80126000"
        }
       },
-      {"issue": {"issuedate": "1956-11", "volume": "13", "number": "1"}, 
+      {"issue": {"issue-date": "1956-11", "volume": "13", "number": "1"}, 
        "title": "The Stars My Destination",
         "title-note": "part 2 of 4",
         "author": {
@@ -1394,14 +1394,14 @@
           "lcna": "n79128980"
        }
       },
-      {"issue": {"issuedate": "1956-12", "volume": "13", "number": "2"}, 
+      {"issue": {"issue-date": "1956-12", "volume": "13", "number": "2"}, 
        "title": "The Native Problem",
         "author": {
           "authorized": "Sheckley, Robert, 1928-2005",
           "lcna": "n50022137"
        }
       },
-      {"issue": {"issuedate": "1956-12", "volume": "13", "number": "2"}, 
+      {"issue": {"issue-date": "1956-12", "volume": "13", "number": "2"}, 
        "title": "The Stars My Destination",
         "title-note": "part 3 of 4",
         "author": {
@@ -1409,14 +1409,14 @@
           "lcna": "n79128980"
        }
       },
-      {"issue": {"issuedate": "1957-01", "volume": "13", "number": "3"}, 
+      {"issue": {"issue-date": "1957-01", "volume": "13", "number": "3"}, 
        "title": "The Haunted Corpse",
         "author": {
           "authorized": "Pohl, Frederik",
           "lcna": "n79029809"
        }
       },
-      {"issue": {"issuedate": "1957-01", "volume": "13", "number": "3"}, 
+      {"issue": {"issue-date": "1957-01", "volume": "13", "number": "3"}, 
        "title": "The Stars My Destination",
         "title-note": "part 4 of 4",
         "author": {
@@ -1424,84 +1424,84 @@
           "lcna": "n79128980"
        }
       },
-      {"issue": {"issuedate": "1957-02", "volume": "13", "number": "4"}, 
+      {"issue": {"issue-date": "1957-02", "volume": "13", "number": "4"}, 
        "title": "The Martyr",
         "author": {
           "authorized": "Sheckley, Robert, 1928-2005",
           "lcna": "n50022137"
        }
       },
-      {"issue": {"issuedate": "1957-02", "volume": "13", "number": "4"}, 
+      {"issue": {"issue-date": "1957-02", "volume": "13", "number": "4"}, 
        "title": "The Bomb in the Bathtub",
         "author": {
           "authorized": "Scortia, Thomas N., 1926-1986",
           "lcna": "n79123622"
        }
       },
-      {"issue": {"issuedate": "1957-03", "volume": "13", "number": "5"}, 
+      {"issue": {"issue-date": "1957-03", "volume": "13", "number": "5"}, 
        "title": "The Other Celia",
         "author": {
           "authorized": "Sturgeon, Theodore",
           "lcna": "n80066908"
        }
       },
-      {"issue": {"issuedate": "1957-03", "volume": "13", "number": "5"}, 
+      {"issue": {"issue-date": "1957-03", "volume": "13", "number": "5"}, 
        "title": "The Light",
         "author": {
          "authorized": "Anderson, Poul, 1926-2001",
          "lcna": "n79044004"
        }
       },
-      {"issue": {"issuedate": "1957-03", "volume": "13", "number": "5"}, 
+      {"issue": {"issue-date": "1957-03", "volume": "13", "number": "5"}, 
        "title": "An Eye for a What?",
         "author": {
           "authorized": "Knight, Damon, 1922-2002",
           "lcna": "n79108377"
        }
       },
-      {"issue": {"issuedate": "1957-04", "volume": "13", "number": "6"}, 
+      {"issue": {"issue-date": "1957-04", "volume": "13", "number": "6"}, 
        "title": "Operation Stinky",
         "author": {
           "authorized": "Simak, Clifford D., 1904-1988",
           "lcna": "n79082302"
        }
       },
-      {"issue": {"issuedate": "1957-04", "volume": "13", "number": "6"}, 
+      {"issue": {"issue-date": "1957-04", "volume": "13", "number": "6"}, 
        "title": "Man in the Jar",
         "author": {
           "authorized": "Knight, Damon, 1922-2002",
           "lcna": "n79108377"
        }
       },
-      {"issue": {"issuedate": "1957-04", "volume": "13", "number": "6"}, 
+      {"issue": {"issue-date": "1957-04", "volume": "13", "number": "6"}, 
        "title": "The Ifth of Oofth",
         "author": {
           "authorized": "Tevis, Walter S.",
           "lcna": "n79112367"
        }
       },
-      {"issue": {"issuedate": "1957-04", "volume": "13", "number": "6"}, 
+      {"issue": {"issue-date": "1957-04", "volume": "13", "number": "6"}, 
        "title": "The Victim From Space",
         "author": {
           "authorized": "Sheckley, Robert, 1928-2005",
           "lcna": "n50022137"
        }
       },
-      {"issue": {"issuedate": "1957-04", "volume": "13", "number": "6"}, 
+      {"issue": {"issue-date": "1957-04", "volume": "13", "number": "6"}, 
        "title": "Army Without Banners",
         "author": {
          "authorized": "Wellen, Edward",
          "lcna": "n93021387"
        }
       },
-      {"issue": {"issuedate": "1957-05", "volume": "14", "number": "1"}, 
+      {"issue": {"issue-date": "1957-05", "volume": "14", "number": "1"}, 
        "title": "The Language of Love",
         "author": {
           "authorized": "Sheckley, Robert, 1928-2005",
           "lcna": "n50022137"
        }
       },
-      {"issue": {"issuedate": "1957-05", "volume": "14", "number": "1"}, 
+      {"issue": {"issue-date": "1957-05", "volume": "14", "number": "1"}, 
         "title": "For Your Information: Who'll Own the Planets?",
         "note": "Renewal record gives title as Who'll Own the Planets?",
         "author": {
@@ -1509,62 +1509,62 @@
           "lcna": "n50049955"
        }
       },
-      {"issue": {"issuedate": "1957-05", "volume": "14", "number": "1"}, 
+      {"issue": {"issue-date": "1957-05", "volume": "14", "number": "1"}, 
        "title": "Founding Father",
         "author": {
           "authorized": "Simak, Clifford D., 1904-1988",
           "lcna": "n79082302"
        }
       },
-      {"issue": {"issuedate": "1957-05", "volume": "14", "number": "1"}, 
+      {"issue": {"issue-date": "1957-05", "volume": "14", "number": "1"}, 
        "title": "Double Dome",
         "author": {
           "name": "Raymond E. Banks"
        }
       },
-      {"issue": {"issuedate": "1957-05", "volume": "14", "number": "1"}, 
+      {"issue": {"issue-date": "1957-05", "volume": "14", "number": "1"}, 
        "title": "Quota for Conquest",
         "author": {
          "authorized": "Wilson, Richard, 1920-1987",
          "lcna": "n88059447"
        }
       },
-      {"issue": {"issuedate": "1957-06", "volume": "14", "number": "2"}, 
+      {"issue": {"issue-date": "1957-06", "volume": "14", "number": "2"}, 
        "title": "Lulu",
         "author": {
           "authorized": "Simak, Clifford D., 1904-1988",
           "lcna": "n79082302"
        }
       },
-      {"issue": {"issuedate": "1957-06", "volume": "14", "number": "2"}, 
+      {"issue": {"issue-date": "1957-06", "volume": "14", "number": "2"}, 
        "title": "The Hardest Bargain",
         "author": {
          "authorized": "Smith, Evelyn E.",
          "lcna": "n84123432"
        }
       },
-      {"issue": {"issuedate": "1957-06", "volume": "14", "number": "2"}, 
+      {"issue": {"issue-date": "1957-06", "volume": "14", "number": "2"}, 
        "title": "Leading Man",
         "author": {
           "authorized": "Biggle, Lloyd, Jr., 1923-2002",
           "lcna": "n79084085"
        }
       },
-      {"issue": {"issuedate": "1957-06", "volume": "14", "number": "2"}, 
+      {"issue": {"issue-date": "1957-06", "volume": "14", "number": "2"}, 
        "title": "Shock Troop",
         "author": {
           "authorized": "Galouye, Daniel F.",
           "lcna": "no99085263"
        }
       },
-      {"issue": {"issuedate": "1957-07", "volume": "14", "number": "3"}, 
+      {"issue": {"issue-date": "1957-07", "volume": "14", "number": "3"}, 
        "title": "A World Called Maanerek",
         "author": {
          "authorized": "Anderson, Poul, 1926-2001",
          "lcna": "n79044004"
        }
       },
-      {"issue": {"issuedate": "1957-07", "volume": "14", "number": "3"}, 
+      {"issue": {"issue-date": "1957-07", "volume": "14", "number": "3"}, 
        "title": "A Wind is Rising",
         "note": "Author is Robert Sheckley writing under a pseudonym.",
         "author": {
@@ -1572,21 +1572,21 @@
           "lcna": "no2013058200"
        }
       },
-      {"issue": {"issuedate": "1957-07", "volume": "14", "number": "3"}, 
+      {"issue": {"issue-date": "1957-07", "volume": "14", "number": "3"}, 
        "title": "Help!  I am Dr. Morris Goldpepper",
         "author": {
           "authorized": "Davidson, Avram",
           "lcna": "n79022856"
        }
       },
-      {"issue": {"issuedate": "1957-07", "volume": "14", "number": "3"}, 
+      {"issue": {"issue-date": "1957-07", "volume": "14", "number": "3"}, 
        "title": "The Deaths of Ben Baxter",
         "author": {
           "authorized": "Sheckley, Robert, 1928-2005",
           "lcna": "n50022137"
        }
       },
-      {"issue": {"issuedate": "1957-08", "volume": "14", "number": "4"}, 
+      {"issue": {"issue-date": "1957-08", "volume": "14", "number": "4"}, 
        "title": "Time Waits for Winthrop",
         "note": "Renewal record gives title as Winthrop Was Stubborn, the title used for a 1958 publication of the story",
         "author": {
@@ -1594,21 +1594,21 @@
           "lcna": "n88651363"
        }
       },
-      {"issue": {"issuedate": "1957-08", "volume": "14", "number": "4"}, 
+      {"issue": {"issue-date": "1957-08", "volume": "14", "number": "4"}, 
        "title": "Blaze of Glory",
         "author": {
           "authorized": "Silverberg, Robert",
           "lcna": "n80126000"
        }
       },
-      {"issue": {"issuedate": "1957-08", "volume": "14", "number": "4"}, 
+      {"issue": {"issue-date": "1957-08", "volume": "14", "number": "4"}, 
        "title": "If Money",
         "author": {
           "authorized": "Galouye, Daniel F.",
           "lcna": "no99085263"
        }
       },
-      {"issue": {"issuedate": "1957-09", "volume": "14", "number": "5"}, 
+      {"issue": {"issue-date": "1957-09", "volume": "14", "number": "5"}, 
        "title": "The Pod in the Barrier",
         "note": "Renewal record gives title as The Pod and the Barrier",
         "author": {
@@ -1616,35 +1616,35 @@
           "lcna": "n80066908"
        }
       },
-      {"issue": {"issuedate": "1957-09", "volume": "14", "number": "5"}, 
+      {"issue": {"issue-date": "1957-09", "volume": "14", "number": "5"}, 
        "title": "The Sly Bungerhop",
         "author": {
           "authorized": "Morrison, William, 1906-1980",
           "lcna": "no2013058250"
        }
       },
-      {"issue": {"issuedate": "1957-09", "volume": "14", "number": "5"}, 
+      {"issue": {"issue-date": "1957-09", "volume": "14", "number": "5"}, 
        "title": "The Dark Star",
         "author": {
           "authorized": "Tenn, William, 1920-2010",
           "lcna": "n88651363"
        }
       },
-      {"issue": {"issuedate": "1957-09", "volume": "14", "number": "5"}, 
+      {"issue": {"issue-date": "1957-09", "volume": "14", "number": "5"}, 
        "title": "Shadow World",
         "author": {
           "authorized": "Simak, Clifford D., 1904-1988",
           "lcna": "n79082302"
        }
       },
-      {"issue": {"issuedate": "1957-10", "volume": "14", "number": "6"}, 
+      {"issue": {"issue-date": "1957-10", "volume": "14", "number": "6"}, 
        "title": "Share Alike",
         "author": {
           "authorized": "Galouye, Daniel F.",
           "lcna": "no99085263"
        }
       },
-      {"issue": {"issuedate": "1957-10", "volume": "14", "number": "6"},
+      {"issue": {"issue-date": "1957-10", "volume": "14", "number": "6"},
         "title": "For Your Information: Hunting Down the Dodo",
         "note": "A 1985 renewal registration for Hunting the Dodo/Other Islands, Other Dodos, the title of an essay published in the 1969 book Another Look At Atlantis and Fifteen Other Essays, is likely to cover this article, which is the original version of that essay's first part.",
         "author": {
@@ -1652,35 +1652,35 @@
           "lcna": "n50049955"
        }
      },
-      {"issue": {"issuedate": "1957-10", "volume": "14", "number": "6"}, 
+      {"issue": {"issue-date": "1957-10", "volume": "14", "number": "6"}, 
        "title": "Double Indemnity",
         "author": {
           "authorized": "Sheckley, Robert, 1928-2005",
           "lcna": "n50022137"
        }
       },
-      {"issue": {"issuedate": "1957-10", "volume": "14", "number": "6"}, 
+      {"issue": {"issue-date": "1957-10", "volume": "14", "number": "6"}, 
        "title": "Robots Are Nice?",
         "author": {
          "authorized": "Dickson, Gordon R.",
          "lcna": "n79109204"
        }
       },
-      {"issue": {"issuedate": "1957-10", "volume": "14", "number": "6"}, 
+      {"issue": {"issue-date": "1957-10", "volume": "14", "number": "6"}, 
        "title": "Ideas Die Hard",
         "author": {
           "authorized": "Asimov, Isaac, 1920-1992",
           "lcna": "n80126289"
        }
       },
-      {"issue": {"issuedate": "1957-11", "volume": "15", "number": "1"}, 
+      {"issue": {"issue-date": "1957-11", "volume": "15", "number": "1"}, 
        "title": "Morning After",
         "author": {
           "authorized": "Sheckley, Robert, 1928-2005",
           "lcna": "n50022137"
        }
       },
-      {"issue": {"issuedate": "1957-11", "volume": "15", "number": "1"}, 
+      {"issue": {"issue-date": "1957-11", "volume": "15", "number": "1"}, 
        "title": "Gray Flannel Armor",
         "note": "Author is Robert Sheckley writing under a pseudonym. Renewal record gives title as Grey Flannel Armor",
         "author": {
@@ -1688,7 +1688,7 @@
           "lcna": "no2013058200"
        }
       },
-      {"issue": {"issuedate": "1957-11", "volume": "15", "number": "1"},
+      {"issue": {"issue-date": "1957-11", "volume": "15", "number": "1"},
         "title": "For Your Information: On With the Dodo Hunt!",
         "note": "A 1985 renewal registration for Hunting the Dodo/Other Islands, Other Dodos, the title of an essay published in the 1969 book Another Look At Atlantis and Fifteen Other Essays, is likely to cover this article, which is the original version of that essay's second part.",
         "author": {
@@ -1696,7 +1696,7 @@
           "lcna": "n50049955"
        }
      },
-     {"issue": {"issuedate": "1957-11", "volume": "15", "number": "1"}, 
+     {"issue": {"issue-date": "1957-11", "volume": "15", "number": "1"}, 
       "title": "Alone at Last",
         "note": "Renewal registration says this was published in the November 1957 issue, but I have not been able to find it published in this or any other issue of Galaxy. It was published in the February 1957 issue of Infinity Science Fiction.",
         "author": {
@@ -1704,55 +1704,55 @@
           "lcna": "n50022137"
         }
        },
-      {"issue": {"issuedate": "1957-12", "volume": "15", "number": "2"}, 
+      {"issue": {"issue-date": "1957-12", "volume": "15", "number": "2"}, 
        "title": "Galley Slave",
         "author": {
           "authorized": "Asimov, Isaac, 1920-1992",
           "lcna": "n80126289"
        }
       },
-      {"issue": {"issuedate": "1957-12", "volume": "15", "number": "2"}, 
+      {"issue": {"issue-date": "1957-12", "volume": "15", "number": "2"}, 
        "title": "Sanctuary",
         "author": {
           "authorized": "Tenn, William, 1920-2010",
           "lcna": "n88651363"
        }
       },
-      {"issue": {"issuedate": "1957-12", "volume": "15", "number": "2"}, 
+      {"issue": {"issue-date": "1957-12", "volume": "15", "number": "2"}, 
        "title": "Payload",
         "author": {
           "name": "Raymond E. Banks"
        }
       },
-      {"issue": {"issuedate": "1957-12", "volume": "15", "number": "2"}, 
+      {"issue": {"issue-date": "1957-12", "volume": "15", "number": "2"}, 
        "title": "Carbon Copy",
         "author": {
           "authorized": "Simak, Clifford D., 1904-1988",
           "lcna": "n79082302"
        }
       },
-      {"issue": {"issuedate": "1958-01", "volume": "15", "number": "3"}, 
+      {"issue": {"issue-date": "1958-01", "volume": "15", "number": "3"}, 
        "title": "Rex and Mr. Rejilla",
         "author": {
          "authorized": "Dickson, Gordon R.",
          "lcna": "n79109204"
        }
       },
-      {"issue": {"issuedate": "1958-01", "volume": "15", "number": "3"}, 
+      {"issue": {"issue-date": "1958-01", "volume": "15", "number": "3"}, 
        "title": "Kill Me With Kindness",
         "author": {
          "authorized": "Wilson, Richard, 1920-1987",
          "lcna": "n88059447"
        }
       },
-      {"issue": {"issuedate": "1958-02", "volume": "15", "number": "4"}, 
+      {"issue": {"issue-date": "1958-02", "volume": "15", "number": "4"}, 
        "title": "The Rule of the Door",
         "author": {
           "authorized": "Biggle, Lloyd, Jr., 1923-2002",
           "lcna": "n79084085"
        }
       },
-      {"issue": {"issuedate": "1958-02", "volume": "15", "number": "4"}, 
+      {"issue": {"issue-date": "1958-02", "volume": "15", "number": "4"}, 
        "title": "For Your Information: A Century of New Animals",
         "note": "Renewal record gives title as A Century of New Animals",
         "author": {
@@ -1760,49 +1760,49 @@
           "lcna": "n50049955"
        }
       },
-      {"issue": {"issuedate": "1958-03", "volume": "15", "number": "5"}, 
+      {"issue": {"issue-date": "1958-03", "volume": "15", "number": "5"}, 
        "title": "Spare the Rod",
         "author": {
           "authorized": "Biggle, Lloyd, Jr., 1923-2002",
           "lcna": "n79084085"
        }
       },
-      {"issue": {"issuedate": "1958-04", "volume": "15", "number": "6"}, 
+      {"issue": {"issue-date": "1958-04", "volume": "15", "number": "6"}, 
        "title": "The Sitters",
         "author": {
           "authorized": "Simak, Clifford D., 1904-1988",
           "lcna": "n79082302"
        }
       },
-      {"issue": {"issuedate": "1958-05", "volume": "16", "number": "1"}, 
+      {"issue": {"issue-date": "1958-05", "volume": "16", "number": "1"}, 
        "title": "Or All the Seas With Oysters",
         "author": {
           "authorized": "Davidson, Avram",
           "lcna": "n79022856"
        }
       },
-      {"issue": {"issuedate": "1958-05", "volume": "16", "number": "1"}, 
+      {"issue": {"issue-date": "1958-05", "volume": "16", "number": "1"}, 
        "title": "Bridle Shower",
         "author": {
           "authorized": "Biggle, Lloyd, Jr., 1923-2002",
           "lcna": "n79084085"
        }
       },
-      {"issue": {"issuedate": "1958-05", "volume": "16", "number": "1"}, 
+      {"issue": {"issue-date": "1958-05", "volume": "16", "number": "1"}, 
        "title": "The Voice of the Diaphragm",
         "author": {
          "authorized": "Wilson, Richard, 1920-1987",
          "lcna": "n88059447"
        }
       },
-      {"issue": {"issuedate": "1958-05", "volume": "16", "number": "1"}, 
+      {"issue": {"issue-date": "1958-05", "volume": "16", "number": "1"}, 
        "title": "The Iron Chancellor",
         "author": {
           "authorized": "Silverberg, Robert",
           "lcna": "n80126000"
        }
       },
-      {"issue": {"issuedate": "1958-06", "volume": "16", "number": "2"}, 
+      {"issue": {"issue-date": "1958-06", "volume": "16", "number": "2"}, 
        "title": "Mars by Moonlight",
         "author": {
           "authorized": "Pohl, Frederik",
@@ -1810,14 +1810,14 @@
           "using": "Paul Flehr"
        }
       },
-      {"issue": {"issuedate": "1958-06", "volume": "16", "number": "2"}, 
+      {"issue": {"issue-date": "1958-06", "volume": "16", "number": "2"}, 
        "title": "The Gentlest Unpeople",
         "author": {
           "authorized": "Pohl, Frederik",
           "lcna": "n79029809"
        }
       },
-      {"issue": {"issuedate": "1958-06", "volume": "16", "number": "2"}, 
+      {"issue": {"issue-date": "1958-06", "volume": "16", "number": "2"}, 
        "title": "The Gun Without a Bang",
         "note": "Author is Robert Sheckley writing under a pseudonym.",
         "author": {
@@ -1825,14 +1825,14 @@
           "lcna": "no2013058200"
        }
       },
-      {"issue": {"issuedate": "1958-06", "volume": "16", "number": "2"}, 
+      {"issue": {"issue-date": "1958-06", "volume": "16", "number": "2"}, 
        "title": "The Minimum Man",
         "author": {
           "authorized": "Sheckley, Robert, 1928-2005",
           "lcna": "n50022137"
        }
       },
-      {"issue": {"issuedate": "1958-07", "volume": "16", "number": "3"}, 
+      {"issue": {"issue-date": "1958-07", "volume": "16", "number": "3"}, 
        "title": "We Never Mention Aunt Nora",
         "author": {
           "authorized": "Pohl, Frederik",
@@ -1840,14 +1840,14 @@
           "using": "Paul Flehr"
        }
       },
-      {"issue": {"issuedate": "1958-08", "volume": "16", "number": "4"}, 
+      {"issue": {"issue-date": "1958-08", "volume": "16", "number": "4"}, 
        "title": "To Marry Medusa",
         "author": {
           "authorized": "Sturgeon, Theodore",
           "lcna": "n80066908"
        }
       },
-      {"issue": {"issuedate": "1958-08", "volume": "16", "number": "4"}, 
+      {"issue": {"issue-date": "1958-08", "volume": "16", "number": "4"}, 
        "title": "Third Offense",
         "author": {
           "authorized": "Pohl, Frederik",
@@ -1855,14 +1855,14 @@
           "using": "Charles Satterfield"
        }
       },
-      {"issue": {"issuedate": "1958-08", "volume": "16", "number": "4"}, 
+      {"issue": {"issue-date": "1958-08", "volume": "16", "number": "4"}, 
        "title": "The Trouble With Elmo",
         "author": {
           "authorized": "Keyes, Daniel",
           "lcna": "n80022990"
        }
       },
-      {"issue": {"issuedate": "1958-08", "volume": "16", "number": "4"}, 
+      {"issue": {"issue-date": "1958-08", "volume": "16", "number": "4"}, 
        "title": "Seven Deadly Virtues",
         "author": {
           "authorized": "Pohl, Frederik",
@@ -1870,7 +1870,7 @@
           "using": "Paul Flehr"
        }
       },
-      {"issue": {"issuedate": "1958-09", "volume": "16", "number": "5"}, 
+      {"issue": {"issue-date": "1958-09", "volume": "16", "number": "5"}, 
        "title": "Lastborn",
         "note": "Renewal record gives title as Last Born",
         "author": {
@@ -1878,14 +1878,14 @@
           "lcna": "n80126289"
        }
       },
-      {"issue": {"issuedate": "1958-09", "volume": "16", "number": "5"}, 
+      {"issue": {"issue-date": "1958-09", "volume": "16", "number": "5"}, 
        "title": "On the Double",
         "author": {
           "authorized": "Biggle, Lloyd, Jr., 1923-2002",
           "lcna": "n79084085"
        }
       },
-      {"issue": {"issuedate": "1958-09", "volume": "16", "number": "5"}, 
+      {"issue": {"issue-date": "1958-09", "volume": "16", "number": "5"}, 
        "title": "For Your Information: The Last of the Moas",
         "note": "Renewal record gives title as The Last of the Moas",
         "author": {
@@ -1893,7 +1893,7 @@
           "lcna": "n50049955"
        }
       },
-      {"issue": {"issuedate": "1958-09", "volume": "16", "number": "5"}, 
+      {"issue": {"issue-date": "1958-09", "volume": "16", "number": "5"}, 
        "title": "Personnel Problem",
         "note": "Renewal record says this was work for hire by Galaxy Publishing Corporation, and gives title as Personal Problem",
         "author": {
@@ -1901,14 +1901,14 @@
           "lcna": "no99030588"
        }
       },
-      {"issue": {"issuedate": "1958-09", "volume": "16", "number": "5"}, 
+      {"issue": {"issue-date": "1958-09", "volume": "16", "number": "5"}, 
        "title": "Thing of Beauty",
         "author": {
           "authorized": "Knight, Damon, 1922-2002",
           "lcna": "n79108377"
        }
       },
-      {"issue": {"issuedate": "1958-10", "volume": "16", "number": "6"}, 
+      {"issue": {"issue-date": "1958-10", "volume": "16", "number": "6"}, 
        "title": "Time Killer",
         "title-note": "part 1 of 4",
         "note": "A revised version of this serial was also later renewed as Immortality Delivered",
@@ -1917,35 +1917,35 @@
           "lcna": "n50022137"
        }
       },
-      {"issue": {"issuedate": "1958-10", "volume": "16", "number": "6"}, 
+      {"issue": {"issue-date": "1958-10", "volume": "16", "number": "6"}, 
        "title": "Paramount Ulj",
         "author": {
           "authorized": "Davidson, Avram",
           "lcna": "n79022856"
        }
       },
-      {"issue": {"issuedate": "1958-10", "volume": "16", "number": "6"}, 
+      {"issue": {"issue-date": "1958-10", "volume": "16", "number": "6"}, 
        "title": "The Wizards of Pung's Corners",
         "author": {
           "authorized": "Pohl, Frederik",
           "lcna": "n79029809"
        }
       },
-      {"issue": {"issuedate": "1958-10", "volume": "16", "number": "6"}, 
+      {"issue": {"issue-date": "1958-10", "volume": "16", "number": "6"}, 
        "title": "Lisbon Cubed",
         "author": {
           "authorized": "Tenn, William, 1920-2010",
           "lcna": "n88651363"
        }
       },
-      {"issue": {"issuedate": "1958-10", "volume": "16", "number": "6"}, 
+      {"issue": {"issue-date": "1958-10", "volume": "16", "number": "6"}, 
        "title": "Block That Metaphor",
         "author": {
           "authorized": "Bloch, Robert, 1917-1994",
           "lcna": "n50016557"
        }
       },
-      {"issue": {"issuedate": "1958-11", "volume": "17", "number": "1"}, 
+      {"issue": {"issue-date": "1958-11", "volume": "17", "number": "1"}, 
        "title": "The Civilization Game",
         "note": "Renewal record gives title as Civilization Game",
         "author": {
@@ -1953,7 +1953,7 @@
           "lcna": "n79082302"
        }
       },
-      {"issue": {"issuedate": "1958-11", "volume": "17", "number": "1"}, 
+      {"issue": {"issue-date": "1958-11", "volume": "17", "number": "1"}, 
        "title": "Time Killer",
         "title-note": "part 2 of 4",
         "note": "A revised version of this serial was also later renewed as Immortality Delivered",
@@ -1962,7 +1962,7 @@
           "lcna": "n50022137"
        }
       },
-      {"issue": {"issuedate": "1958-12", "volume": "17", "number": "2"}, 
+      {"issue": {"issue-date": "1958-12", "volume": "17", "number": "2"}, 
        "title": "Join Now",
         "note": "Author is Robert Sheckley writing under a pseudonym.",
         "author": {
@@ -1970,7 +1970,7 @@
           "lcna": "no2013058200"
        }
       },
-      {"issue": {"issuedate": "1958-12", "volume": "17", "number": "2"}, 
+      {"issue": {"issue-date": "1958-12", "volume": "17", "number": "2"}, 
        "title": "Nightmare With Zeppelins",
         "authors": [
          {"authorized": "Pohl, Frederik",
@@ -1981,21 +1981,21 @@
          }
         ]
       },
-      {"issue": {"issuedate": "1958-12", "volume": "17", "number": "2"}, 
+      {"issue": {"issue-date": "1958-12", "volume": "17", "number": "2"}, 
        "title": "Ullward's Retreat",
         "author": {
           "authorized": "Vance, Jack, 1916-2013",
           "lcna": "n79021250"
        }
       },
-      {"issue": {"issuedate": "1958-12", "volume": "17", "number": "2"}, 
+      {"issue": {"issue-date": "1958-12", "volume": "17", "number": "2"}, 
        "title": "The Number of the Beast",
         "author": {
           "authorized": "Leiber, Fritz, 1910-1992",
           "lcna": "n79054477"
        }
       },
-      {"issue": {"issuedate": "1958-12", "volume": "17", "number": "2"}, 
+      {"issue": {"issue-date": "1958-12", "volume": "17", "number": "2"}, 
        "title": "Time Killer",
         "title-note": "part 3 of 4",
         "note": "A revised version of this serial was also later renewed as Immortality Delivered",
@@ -2004,21 +2004,21 @@
           "lcna": "n50022137"
        }
       },
-      {"issue": {"issuedate": "1959-02", "volume": "17", "number": "3"}, 
+      {"issue": {"issue-date": "1959-02", "volume": "17", "number": "3"}, 
        "title": "Installment Plan",
         "author": {
           "authorized": "Simak, Clifford D., 1904-1988",
           "lcna": "n79082302"
        }
       },
-      {"issue": {"issuedate": "1959-02", "volume": "17", "number": "3"}, 
+      {"issue": {"issue-date": "1959-02", "volume": "17", "number": "3"}, 
        "title": "I Pinglot, Who You?",
         "author": {
           "authorized": "Pohl, Frederik",
           "lcna": "n79029809"
        }
       },
-      {"issue": {"issuedate": "1959-02", "volume": "17", "number": "3"}, 
+      {"issue": {"issue-date": "1959-02", "volume": "17", "number": "3"}, 
        "title": "Time Killer",
         "title-note": "part 4 of 4",
         "note": "A revised version of this serial was also later renewed as Immortality Delivered",
@@ -2027,21 +2027,21 @@
           "lcna": "n50022137"
        }
       },
-      {"issue": {"issuedate": "1959-04", "volume": "17", "number": "4"}, 
+      {"issue": {"issue-date": "1959-04", "volume": "17", "number": "4"}, 
        "title": "The City of Force",
         "author": {
           "authorized": "Galouye, Daniel F.",
           "lcna": "no99085263"
        }
       },
-      {"issue": {"issuedate": "1959-04", "volume": "17", "number": "4"}, 
+      {"issue": {"issue-date": "1959-04", "volume": "17", "number": "4"}, 
        "title": "The Bitterest Pill",
         "author": {
           "authorized": "Pohl, Frederik",
           "lcna": "n79029809"
        }
       },
-      {"issue": {"issuedate": "1959-04", "volume": "17", "number": "4"}, 
+      {"issue": {"issue-date": "1959-04", "volume": "17", "number": "4"}, 
        "title": "Love Called This Thing",
         "authors": [
          {"authorized": "Davidson, Avram",
@@ -2051,77 +2051,77 @@
          }
         ]
       },
-      {"issue": {"issuedate": "1959-04", "volume": "17", "number": "4"}, 
+      {"issue": {"issue-date": "1959-04", "volume": "17", "number": "4"}, 
        "title": "When the People Fell",
         "author": {
           "authorized": "Smith, Cordwainer, 1913-1966",
           "lcna": "n81083063"
        }
       },
-      {"issue": {"issuedate": "1959-04", "volume": "17", "number": "4"}, 
+      {"issue": {"issue-date": "1959-04", "volume": "17", "number": "4"}, 
        "title": "The Man in the Mailbag",
         "author": {
          "authorized": "Dickson, Gordon R.",
          "lcna": "n79109204"
        }
       },
-      {"issue": {"issuedate": "1959-06", "volume": "17", "number": "5"}, 
+      {"issue": {"issue-date": "1959-06", "volume": "17", "number": "5"}, 
        "title": "Whatever Counts",
         "author": {
           "authorized": "Pohl, Frederik",
           "lcna": "n79029809"
        }
       },
-      {"issue": {"issuedate": "1959-06", "volume": "17", "number": "5"}, 
+      {"issue": {"issue-date": "1959-06", "volume": "17", "number": "5"}, 
        "title": "Take Wooden Indians",
         "author": {
           "authorized": "Davidson, Avram",
           "lcna": "n79022856"
        }
       },
-      {"issue": {"issuedate": "1959-06", "volume": "17", "number": "5"}, 
+      {"issue": {"issue-date": "1959-06", "volume": "17", "number": "5"}, 
        "title": "Soft Touch",
         "author": {
           "authorized": "Galouye, Daniel F.",
           "lcna": "no99085263"
        }
       },
-      {"issue": {"issuedate": "1959-08", "volume": "17", "number": "6"}, 
+      {"issue": {"issue-date": "1959-08", "volume": "17", "number": "6"}, 
        "title": "No Life of Their Own",
         "author": {
           "authorized": "Simak, Clifford D., 1904-1988",
           "lcna": "n79082302"
        }
       },
-      {"issue": {"issuedate": "1959-08", "volume": "17", "number": "6"}, 
+      {"issue": {"issue-date": "1959-08", "volume": "17", "number": "6"}, 
        "title": "Mugwump Four",
         "author": {
           "authorized": "Silverberg, Robert",
           "lcna": "n80126000"
        }
       },
-      {"issue": {"issuedate": "1959-08", "volume": "17", "number": "6"}, 
+      {"issue": {"issue-date": "1959-08", "volume": "17", "number": "6"}, 
        "title": "The Malted Milk Monster",
         "author": {
           "authorized": "Tenn, William, 1920-2010",
           "lcna": "n88651363"
        }
       },
-      {"issue": {"issuedate": "1959-08", "volume": "17", "number": "6"}, 
+      {"issue": {"issue-date": "1959-08", "volume": "17", "number": "6"}, 
        "title": "The Waging of the Peace",
         "author": {
           "authorized": "Pohl, Frederik",
           "lcna": "n79029809"
        }
       },
-      {"issue": {"issuedate": "1959-10", "volume": "18", "number": "1"}, 
+      {"issue": {"issue-date": "1959-10", "volume": "18", "number": "1"}, 
        "title": "A Death in the House",
         "author": {
           "authorized": "Simak, Clifford D., 1904-1988",
           "lcna": "n79082302"
        }
       },
-      {"issue": {"issuedate": "1959-10", "volume": "18", "number": "1"}, 
+      {"issue": {"issue-date": "1959-10", "volume": "18", "number": "1"}, 
        "title": "King of the Planet",
         "note": "Renewal record gives title as The King of the Planet",
         "author": {
@@ -2129,7 +2129,7 @@
           "lcna": "n79015706"
        }
       },
-      {"issue": {"issuedate": "1959-10", "volume": "18", "number": "1"}, 
+      {"issue": {"issue-date": "1959-10", "volume": "18", "number": "1"}, 
        "title": "Silence",
         "note": "Renewal registration says this was published in the August 1959 issue, but it actually appeared in the October 1959 issue.",
         "author": {
@@ -2137,14 +2137,14 @@
           "lcna": "n79090020"
        }
       },
-      {"issue": {"issuedate": "1959-10", "volume": "18", "number": "1"}, 
+      {"issue": {"issue-date": "1959-10", "volume": "18", "number": "1"}, 
        "title": "True Self",
         "author": {
           "authorized": "Borgese, Elisabeth Mann",
           "lcna": "n50043772"
        }
       },
-      {"issue": {"issuedate": "1959-10", "volume": "18", "number": "1"}, 
+      {"issue": {"issue-date": "1959-10", "volume": "18", "number": "1"}, 
        "title": "Way Up Yonder",
         "author": {
           "authorized": "Pohl, Frederik",
@@ -2152,7 +2152,7 @@
           "using": "Charles Satterfield"
        }
       },
-      {"issue": {"issuedate": "1959-12", "volume": "18", "number": "2"}, 
+      {"issue": {"issue-date": "1959-12", "volume": "18", "number": "2"}, 
        "title": "Flower Arrangement",
         "note": "Renewal record gives author as George Rosel Brown",
         "author": {
@@ -2160,14 +2160,14 @@
           "lcna": "n86849863"
        }
       },
-      {"issue": {"issuedate": "1959-12", "volume": "18", "number": "2"}, 
+      {"issue": {"issue-date": "1959-12", "volume": "18", "number": "2"}, 
        "title": "War Game",
         "author": {
          "authorized": "Dick, Philip K.",
          "lcna": "n79018147"
        }
       },
-      {"issue": {"issuedate": "1959-12", "volume": "18", "number": "2"}, 
+      {"issue": {"issue-date": "1959-12", "volume": "18", "number": "2"}, 
        "title": "For Your Information: Dead or Alive?",
         "note": "Renewal record gives title as Dead or Alive",
         "author": {
@@ -2175,70 +2175,70 @@
           "lcna": "n50049955"
        }
       },
-      {"issue": {"issuedate": "1959-12", "volume": "18", "number": "2"}, 
+      {"issue": {"issue-date": "1959-12", "volume": "18", "number": "2"}, 
        "title": "The Snowmen",
         "author": {
           "authorized": "Pohl, Frederik",
           "lcna": "n79029809"
        }
       },
-      {"issue": {"issuedate": "1959-12", "volume": "18", "number": "2"}, 
+      {"issue": {"issue-date": "1959-12", "volume": "18", "number": "2"}, 
        "title": "Sabbatical",
         "author": {
           "authorized": "Bloch, Robert, 1917-1994",
           "lcna": "n50016557"
        }
       },
-      {"issue": {"issuedate": "1959-12", "volume": "18", "number": "2"}, 
+      {"issue": {"issue-date": "1959-12", "volume": "18", "number": "2"}, 
        "title": "Blacksword",
         "author": {
           "authorized": "Offutt, Andrew J.",
           "lcna": "n79091477"
        }
       },
-      {"issue": {"issuedate": "1960-02", "volume": "18", "number": "3"}, 
+      {"issue": {"issue-date": "1960-02", "volume": "18", "number": "3"}, 
        "title": "The Nuse Man",
         "author": {
           "authorized": "St. Clair, Margaret",
           "lcna": "n85038071"
        }
       },
-      {"issue": {"issuedate": "1960-02", "volume": "18", "number": "3"}, 
+      {"issue": {"issue-date": "1960-02", "volume": "18", "number": "3"}, 
        "title": "The Day the Icicle Works Closed",
         "author": {
           "authorized": "Pohl, Frederik",
           "lcna": "n79029809"
        }
       },
-      {"issue": {"issuedate": "1960-02", "volume": "18", "number": "3"}, 
+      {"issue": {"issue-date": "1960-02", "volume": "18", "number": "3"}, 
        "title": "Something Bright",
         "author": {
           "authorized": "Henderson, Zenna",
           "lcna": "n50025301"
        }
       },
-      {"issue": {"issuedate": "1960-02", "volume": "18", "number": "3"}, 
+      {"issue": {"issue-date": "1960-02", "volume": "18", "number": "3"}, 
        "title": "Crying Jag",
         "author": {
           "authorized": "Simak, Clifford D., 1904-1988",
           "lcna": "n79082302"
        }
       },
-      {"issue": {"issuedate": "1960-04", "volume": "18", "number": "4"}, 
+      {"issue": {"issue-date": "1960-04", "volume": "18", "number": "4"}, 
        "title": "Condition of Employment",
         "author": {
           "authorized": "Simak, Clifford D., 1904-1988",
           "lcna": "n79082302"
        }
       },
-      {"issue": {"issuedate": "1960-04", "volume": "18", "number": "4"}, 
+      {"issue": {"issue-date": "1960-04", "volume": "18", "number": "4"}, 
        "title": "The Lady Who Sailed the Soul",
         "author": {
           "authorized": "Smith, Cordwainer, 1913-1966",
           "lcna": "n81083063"
        }
       },
-      {"issue": {"issuedate": "1960-06", "volume": "18", "number": "5"}, 
+      {"issue": {"issue-date": "1960-06", "volume": "18", "number": "5"}, 
        "title": "Drunkard's Walk",
         "title-note": "part 1 of 2",
         "author": {
@@ -2246,27 +2246,27 @@
           "lcna": "n79029809"
        }
       },
-      {"issue": {"issuedate": "1960-06", "volume": "18", "number": "5"}, 
+      {"issue": {"issue-date": "1960-06", "volume": "18", "number": "5"}, 
        "title": "Transstar",
         "author": {
           "name": "Raymond E. Banks"
        }
       },
-      {"issue": {"issuedate": "1960-08", "volume": "18", "number": "6"}, 
+      {"issue": {"issue-date": "1960-08", "volume": "18", "number": "6"}, 
        "title": "Mind Partner",
         "author": {
           "authorized": "Anvil, Christopher",
           "lcna": "n2003033418"
        }
       },
-      {"issue": {"issuedate": "1960-08", "volume": "18", "number": "6"}, 
+      {"issue": {"issue-date": "1960-08", "volume": "18", "number": "6"}, 
        "title": "To Tell the Truth",
         "author": {
           "authorized": "Barrett, Neal, Jr., 1929-2014",
           "lcna": "n86066373"
        }
       },
-      {"issue": {"issuedate": "1960-08", "volume": "18", "number": "6"}, 
+      {"issue": {"issue-date": "1960-08", "volume": "18", "number": "6"}, 
        "title": "Drunkard's Walk",
         "title-note": "part 2 of 2",
         "author": {
@@ -2274,91 +2274,91 @@
           "lcna": "n79029809"
        }
       },
-      {"issue": {"issuedate": "1960-10", "volume": "19", "number": "1"}, 
+      {"issue": {"issue-date": "1960-10", "volume": "19", "number": "1"}, 
        "title": "The Stentorii Luggage",
         "author": {
           "authorized": "Barrett, Neal, Jr., 1929-2014",
           "lcna": "n86066373"
        }
       },
-      {"issue": {"issuedate": "1960-10", "volume": "19", "number": "1"}, 
+      {"issue": {"issue-date": "1960-10", "volume": "19", "number": "1"}, 
        "title": "Origins of the Galactic Short-Snorter",
         "author": {
          "authorized": "Wellen, Edward",
          "lcna": "n93021387"
        }
       },
-      {"issue": {"issuedate": "1960-10", "volume": "19", "number": "1"}, 
+      {"issue": {"issue-date": "1960-10", "volume": "19", "number": "1"}, 
        "title": "The Hours Are Good",
         "author": {
          "authorized": "Dickson, Gordon R.",
          "lcna": "n79109204"
        }
       },
-      {"issue": {"issuedate": "1960-12", "volume": "19", "number": "2"}, 
+      {"issue": {"issue-date": "1960-12", "volume": "19", "number": "2"}, 
        "title": "Snuffles",
         "author": {
          "authorized": "Lafferty, R. A.",
          "lcna": "n79145563"
        }
       },
-      {"issue": {"issuedate": "1960-12", "volume": "19", "number": "2"}, 
+      {"issue": {"issue-date": "1960-12", "volume": "19", "number": "2"}, 
        "title": "Fighting Spirit",
         "author": {
           "authorized": "Galouye, Daniel F.",
           "lcna": "no99085263"
        }
       },
-      {"issue": {"issuedate": "1961-02", "volume": "19", "number": "3"}, 
+      {"issue": {"issue-date": "1961-02", "volume": "19", "number": "3"}, 
        "title": "Volume Paa-Pyx",
         "author": {
          "authorized": "Saberhagen, Fred, 1930-2007",
          "lcna": "n80064889"
        }
       },
-      {"issue": {"issuedate": "1961-02", "volume": "19", "number": "3"}, 
+      {"issue": {"issue-date": "1961-02", "volume": "19", "number": "3"}, 
        "title": "An Honorable Death",
         "author": {
          "authorized": "Dickson, Gordon R.",
          "lcna": "n79109204"
        }
       },
-      {"issue": {"issuedate": "1961-02", "volume": "19", "number": "3"}, 
+      {"issue": {"issue-date": "1961-02", "volume": "19", "number": "3"}, 
        "title": "Auto-da-Fe",
         "author": {
           "authorized": "Knight, Damon, 1922-2002",
           "lcna": "n79108377"
        }
       },
-      {"issue": {"issuedate": "1961-04", "volume": "19", "number": "4"}, 
+      {"issue": {"issue-date": "1961-04", "volume": "19", "number": "4"}, 
        "title": "Planeteer",
         "author": {
          "authorized": "Saberhagen, Fred, 1930-2007",
          "lcna": "n80064889"
        }
       },
-      {"issue": {"issuedate": "1961-04", "volume": "19", "number": "4"}, 
+      {"issue": {"issue-date": "1961-04", "volume": "19", "number": "4"}, 
        "title": "Homey Atmosphere",
         "author": {
           "authorized": "Galouye, Daniel F.",
           "lcna": "no99085263"
        }
       },
-      {"issue": {"issuedate": "1961-04", "volume": "19", "number": "4"}, 
+      {"issue": {"issue-date": "1961-04", "volume": "19", "number": "4"}, 
        "title": "Tandy's Story",
         "author": {
           "authorized": "Sturgeon, Theodore",
           "lcna": "n80066908"
        }
       },
-      {"issue": {"issuedate": "1961-06", "volume": "19", "number": "5"}, 
+      {"issue": {"issue-date": "1961-06", "volume": "19", "number": "5"}, 
        "title": "The Graybes of Raath",
         "author": {
           "authorized": "Barrett, Neal, Jr., 1929-2014",
           "lcna": "n86066373"
        }
       },
-      {"issue": {"issuedate": "1961-06", "volume": "19", "number": "5"}, 
+      {"issue": {"issue-date": "1961-06", "volume": "19", "number": "5"}, 
        "title": "A Gentle Dying",
        "authors": [
          {"authorized": "Pohl, Frederik",
@@ -2369,14 +2369,14 @@
          }
         ]
       },
-      {"issue": {"issuedate": "1961-06", "volume": "19", "number": "5"}, 
+      {"issue": {"issue-date": "1961-06", "volume": "19", "number": "5"}, 
        "title": "Mother Hitton's Littul Kittons",
         "author": {
           "authorized": "Smith, Cordwainer, 1913-1966",
           "lcna": "n81083063"
        }
       },
-      {"issue": {"issuedate": "1961-06", "volume": "19", "number": "5"}, 
+      {"issue": {"issue-date": "1961-06", "volume": "19", "number": "5"}, 
        "title": "A-W-F Unlimited",
         "note": "Renewal record gives title as AWF Unlimited",
         "author": {
@@ -2384,84 +2384,84 @@
           "lcna": "n80044450"
        }
       },
-      {"issue": {"issuedate": "1961-06", "volume": "19", "number": "5"}, 
+      {"issue": {"issue-date": "1961-06", "volume": "19", "number": "5"}, 
        "title": "My Object All Sublime",
         "author": {
          "authorized": "Anderson, Poul, 1926-2001",
          "lcna": "n79044004"
        }
       },
-      {"issue": {"issuedate": "1961-06", "volume": "19", "number": "5"}, 
+      {"issue": {"issue-date": "1961-06", "volume": "19", "number": "5"}, 
        "title": "The Long Way Home",
         "author": {
          "authorized": "Saberhagen, Fred, 1930-2007",
          "lcna": "n80064889"
        }
       },
-      {"issue": {"issuedate": "1961-08", "volume": "19", "number": "6"}, 
+      {"issue": {"issue-date": "1961-08", "volume": "19", "number": "6"}, 
        "title": "Lochinvar",
         "author": {
           "authorized": "St. Clair, Margaret",
           "lcna": "n85038071"
        }
       },
-      {"issue": {"issuedate": "1961-08", "volume": "19", "number": "6"}, 
+      {"issue": {"issue-date": "1961-08", "volume": "19", "number": "6"}, 
        "title": "Return Engagement",
         "author": {
           "authorized": "Del Rey, Lester, 1915-1993",
           "lcna": "n79023308"
        }
       },
-      {"issue": {"issuedate": "1961-08", "volume": "19", "number": "6"}, 
+      {"issue": {"issue-date": "1961-08", "volume": "19", "number": "6"}, 
        "title": "The Deep Down Dragon",
         "author": {
          "authorized": "Merril, Judith, 1923-1997",
          "lcna": "n85115625"
        }
       },
-      {"issue": {"issuedate": "1961-08", "volume": "19", "number": "6"}, 
+      {"issue": {"issue-date": "1961-08", "volume": "19", "number": "6"}, 
        "title": "The Moon Moth",
         "author": {
           "authorized": "Vance, Jack, 1916-2013",
           "lcna": "n79021250"
        }
       },
-      {"issue": {"issuedate": "1961-10", "volume": "20", "number": "1"}, 
+      {"issue": {"issue-date": "1961-10", "volume": "20", "number": "1"}, 
        "title": "A Planet Named Shayol",
         "author": {
           "authorized": "Smith, Cordwainer, 1913-1966",
           "lcna": "n81083063"
        }
       },
-      {"issue": {"issuedate": "1961-10", "volume": "20", "number": "1"}, 
+      {"issue": {"issue-date": "1961-10", "volume": "20", "number": "1"}, 
        "title": "Crime Machine",
         "author": {
           "authorized": "Bloch, Robert, 1917-1994",
           "lcna": "n50016557"
        }
       },
-      {"issue": {"issuedate": "1961-10", "volume": "20", "number": "1"}, 
+      {"issue": {"issue-date": "1961-10", "volume": "20", "number": "1"}, 
        "title": "The Abominable Earthman",
         "author": {
           "authorized": "Pohl, Frederik",
           "lcna": "n79029809"
        }
       },
-      {"issue": {"issuedate": "1961-10", "volume": "20", "number": "1"}, 
+      {"issue": {"issue-date": "1961-10", "volume": "20", "number": "1"}, 
        "title": "Mating Call",
         "author": {
           "authorized": "Herbert, Frank",
           "lcna": "n80044450"
        }
       },
-      {"issue": {"issuedate": "1961-10", "volume": "20", "number": "1"}, 
+      {"issue": {"issue-date": "1961-10", "volume": "20", "number": "1"}, 
        "title": "The Beat Cluster",
         "author": {
           "authorized": "Leiber, Fritz, 1910-1992",
           "lcna": "n79054477"
        }
       },
-      {"issue": {"issuedate": "1961-12", "volume": "20", "number": "2"}, 
+      {"issue": {"issue-date": "1961-12", "volume": "20", "number": "2"}, 
        "title": "The Day After Doomsday",
        "note": "A 1989 renewal mentions the issue in which the second part was published and not this issue, but it refers to this story generally, and was filed in time to cover this part as well.",
        "title-note": "part 1 of 2",
@@ -2470,28 +2470,28 @@
          "lcna": "n79044004"
        }
       },
-      {"issue": {"issuedate": "1961-12", "volume": "20", "number": "2"}, 
+      {"issue": {"issue-date": "1961-12", "volume": "20", "number": "2"}, 
        "title": "Rainbird",
         "author": {
          "authorized": "Lafferty, R. A.",
          "lcna": "n79145563"
        }
       },
-      {"issue": {"issuedate": "1961-12", "volume": "20", "number": "2"}, 
+      {"issue": {"issue-date": "1961-12", "volume": "20", "number": "2"}, 
        "title": "An Old Fashioned Bird Christmas",
         "author": {
           "authorized": "St. Clair, Margaret",
           "lcna": "n85038071"
        }
       },
-      {"issue": {"issuedate": "1961-12", "volume": "20", "number": "2"}, 
+      {"issue": {"issue-date": "1961-12", "volume": "20", "number": "2"}, 
        "title": "The Watery Wonders of Captain Nemo",
         "author": {
           "authorized": "Thomas, Theodore L.",
           "lcna": "n86064977"
        }
       },
-      {"issue": {"issuedate": "1962-02", "volume": "20", "number": "3"}, 
+      {"issue": {"issue-date": "1962-02", "volume": "20", "number": "3"}, 
        "title": "Critical Mass",
         "authors": [
          {"authorized": "Pohl, Frederik",
@@ -2502,14 +2502,14 @@
          }
         ]
       },
-      {"issue": {"issuedate": "1962-02", "volume": "20", "number": "3"}, 
+      {"issue": {"issue-date": "1962-02", "volume": "20", "number": "3"}, 
        "title": "Origins of Galactic Fruit Salad",
         "author": {
          "authorized": "Wellen, Edward",
          "lcna": "n93021387"
        }
       },
-      {"issue": {"issuedate": "1962-02", "volume": "20", "number": "3"}, 
+      {"issue": {"issue-date": "1962-02", "volume": "20", "number": "3"}, 
        "title": "The Day After Doomsday",
        "title-note": "part 2 of 2",
         "author": {
@@ -2517,7 +2517,7 @@
          "lcna": "n79044004"
        }
       },
-      {"issue": {"issuedate": "1962-04", "volume": "20", "number": "4"}, 
+      {"issue": {"issue-date": "1962-04", "volume": "20", "number": "4"}, 
        "title": "A Planet for Plundering",
         "note": "Renewal record gives title as Planet for Plundering",
         "author": {
@@ -2525,21 +2525,21 @@
          "lcna": "n79027136"
        }
       },
-      {"issue": {"issuedate": "1962-04", "volume": "20", "number": "4"}, 
+      {"issue": {"issue-date": "1962-04", "volume": "20", "number": "4"}, 
        "title": "The Tail-Tied Kings",
         "author": {
           "authorized": "Davidson, Avram",
           "lcna": "n79022856"
        }
       },
-      {"issue": {"issuedate": "1962-06", "volume": "20", "number": "5"}, 
+      {"issue": {"issue-date": "1962-06", "volume": "20", "number": "5"}, 
        "title": "For Love",
         "author": {
           "authorized": "Budrys, Algis, 1931-2008",
           "lcna": "n79060196"
        }
       },
-      {"issue": {"issuedate": "1962-06", "volume": "20", "number": "5"}, 
+      {"issue": {"issue-date": "1962-06", "volume": "20", "number": "5"}, 
        "title": "On the Wall of the Lodge",
         "authors": [
           {"authorized": "Blish, James",
@@ -2551,56 +2551,56 @@
           }
         ]
       },
-      {"issue": {"issuedate": "1962-06", "volume": "20", "number": "5"}, 
+      {"issue": {"issue-date": "1962-06", "volume": "20", "number": "5"}, 
        "title": "Origins of Galactic Philosophy",
         "author": {
          "authorized": "Wellen, Edward",
          "lcna": "n93021387"
        }
       },
-      {"issue": {"issuedate": "1962-08", "volume": "20", "number": "6"}, 
+      {"issue": {"issue-date": "1962-08", "volume": "20", "number": "6"}, 
        "title": "The Dragon Masters",
         "author": {
           "authorized": "Vance, Jack, 1916-2013",
           "lcna": "n79021250"
        }
       },
-      {"issue": {"issuedate": "1962-08", "volume": "20", "number": "6"}, 
+      {"issue": {"issue-date": "1962-08", "volume": "20", "number": "6"}, 
        "title": "Three Portraits and a Prayer",
         "author": {
           "authorized": "Pohl, Frederik",
           "lcna": "n79029809"
        }
       },
-      {"issue": {"issuedate": "1962-08", "volume": "20", "number": "6"}, 
+      {"issue": {"issue-date": "1962-08", "volume": "20", "number": "6"}, 
        "title": "One Race Show",
         "author": {
           "authorized": "Jakes, John, 1932-",
           "lcna": "n80035843"
        }
       },
-      {"issue": {"issuedate": "1962-10", "volume": "21", "number": "1"}, 
+      {"issue": {"issue-date": "1962-10", "volume": "21", "number": "1"}, 
        "title": "The Ballad of Lost C'Mell",
         "author": {
           "authorized": "Smith, Cordwainer, 1913-1966",
           "lcna": "n81083063"
        }
       },
-      {"issue": {"issuedate": "1962-10", "volume": "21", "number": "1"}, 
+      {"issue": {"issue-date": "1962-10", "volume": "21", "number": "1"}, 
        "title": "Come Into My Cellar",
         "author": {
           "authorized": "Bradbury, Ray, 1920-2012",
           "lcna": "n79139258"
        }
       },
-      {"issue": {"issuedate": "1962-10", "volume": "21", "number": "1"}, 
+      {"issue": {"issue-date": "1962-10", "volume": "21", "number": "1"}, 
        "title": "The Earthman's Burden",
         "author": {
           "authorized": "Westlake, Donald E.",
           "lcna": "n80007714"
        }
       },
-      {"issue": {"issuedate": "1962-10", "volume": "21", "number": "1"}, 
+      {"issue": {"issue-date": "1962-10", "volume": "21", "number": "1"}, 
        "title": "Who Dares a Bulbur Eat?",
         "note": "Renewal record gives title as Who Daresa Bulbur Eat?",
         "author": {
@@ -2608,56 +2608,56 @@
          "lcna": "n79109204"
        }
       },
-      {"issue": {"issuedate": "1962-12", "volume": "21", "number": "2"}, 
+      {"issue": {"issue-date": "1962-12", "volume": "21", "number": "2"}, 
         "title": "Dr. Morris Goldpepper Returns",
         "author": {
           "authorized": "Davidson, Avram",
           "lcna": "n79022856"
        }
       },
-      {"issue": {"issuedate": "1963-02", "volume": "21", "number": "3"}, 
+      {"issue": {"issue-date": "1963-02", "volume": "21", "number": "3"}, 
         "title": "Home From the Shore",
         "author": {
          "authorized": "Dickson, Gordon R.",
          "lcna": "n79109204"
        }
       },
-      {"issue": {"issuedate": "1963-02", "volume": "21", "number": "3"}, 
+      {"issue": {"issue-date": "1963-02", "volume": "21", "number": "3"}, 
         "title": "Think Blue, Count Two",
         "author": {
           "authorized": "Smith, Cordwainer, 1913-1966",
           "lcna": "n81083063"
        }
       },
-      {"issue": {"issuedate": "1963-02", "volume": "21", "number": "3"}, 
+      {"issue": {"issue-date": "1963-02", "volume": "21", "number": "3"}, 
         "title": "Comic Inferno",
         "author": {
           "authorized": "Aldiss, Brian W. (Brian Wilson), 1925-2017",
           "lcna": "n79060640"
        }
       },
-      {"issue": {"issuedate": "1963-02", "volume": "21", "number": "3"}, 
+      {"issue": {"issue-date": "1963-02", "volume": "21", "number": "3"}, 
         "title": "Day of Truce",
         "author": {
           "authorized": "Simak, Clifford D., 1904-1988",
           "lcna": "n79082302"
        }
       },
-      {"issue": {"issuedate": "1963-04", "volume": "21", "number": "4"}, 
+      {"issue": {"issue-date": "1963-04", "volume": "21", "number": "4"}, 
         "title": "The Visitor at the Zoo",
         "author": {
           "authorized": "Knight, Damon, 1922-2002",
           "lcna": "n79108377"
        }
       },
-      {"issue": {"issuedate": "1963-04", "volume": "21", "number": "4"}, 
+      {"issue": {"issue-date": "1963-04", "volume": "21", "number": "4"}, 
         "title": "The Lonely Man",
         "author": {
           "authorized": "Thomas, Theodore L.",
           "lcna": "n86064977"
        }
       },
-      {"issue": {"issuedate": "1963-06", "volume": "21", "number": "5"}, 
+      {"issue": {"issue-date": "1963-06", "volume": "21", "number": "5"}, 
         "title": "Here Gather the Stars",
         "title-note": "part 1 of 2",
         "author": {
@@ -2665,28 +2665,28 @@
           "lcna": "n79082302"
        }
       },
-      {"issue": {"issuedate": "1963-06", "volume": "21", "number": "5"}, 
+      {"issue": {"issue-date": "1963-06", "volume": "21", "number": "5"}, 
         "title": "The Faithful Wilf",
         "author": {
          "authorized": "Dickson, Gordon R.",
          "lcna": "n79109204"
        }
       },
-      {"issue": {"issuedate": "1963-06", "volume": "21", "number": "5"}, 
+      {"issue": {"issue-date": "1963-06", "volume": "21", "number": "5"}, 
         "title": "The Sellers of the Dream",
         "author": {
           "authorized": "Jakes, John, 1932-",
           "lcna": "n80035843"
        }
       },
-      {"issue": {"issuedate": "1963-08", "volume": "21", "number": "6"}, 
+      {"issue": {"issue-date": "1963-08", "volume": "21", "number": "6"}, 
         "title": "The Pain Peddlers",
         "author": {
           "authorized": "Silverberg, Robert",
           "lcna": "n80126000"
        }
       },
-      {"issue": {"issuedate": "1963-08", "volume": "21", "number": "6"}, 
+      {"issue": {"issue-date": "1963-08", "volume": "21", "number": "6"}, 
         "title": "Here Gather the Stars",
         "title-note": "part 2 of 2",
         "author": {
@@ -2694,14 +2694,14 @@
           "lcna": "n79082302"
        }
       },
-      {"issue": {"issuedate": "1963-10", "volume": "22", "number": "1"}, 
+      {"issue": {"issue-date": "1963-10", "volume": "22", "number": "1"}, 
         "title": "On the Gem Planet",
         "author": {
           "authorized": "Smith, Cordwainer, 1913-1966",
           "lcna": "n81083063"
        }
       },
-      {"issue": {"issuedate": "1963-12", "volume": "22", "number": "2"}, 
+      {"issue": {"issue-date": "1963-12", "volume": "22", "number": "2"}, 
         "title": "The Star King",
         "title-note": "part 1 of 2",
         "author": {
@@ -2709,28 +2709,28 @@
           "lcna": "n79021250"
        }
       },
-      {"issue": {"issuedate": "1963-12", "volume": "22", "number": "2"}, 
+      {"issue": {"issue-date": "1963-12", "volume": "22", "number": "2"}, 
         "title": "The Big Pat Boom",
         "author": {
           "authorized": "Knight, Damon, 1922-2002",
           "lcna": "n79108377"
        }
       },
-      {"issue": {"issuedate": "1963-12", "volume": "22", "number": "2"}, 
+      {"issue": {"issue-date": "1963-12", "volume": "22", "number": "2"}, 
         "title": "If There Were No Benny Cemoli",
         "author": {
          "authorized": "Dick, Philip K.",
          "lcna": "n79018147"
        }
       },
-      {"issue": {"issuedate": "1964-02", "volume": "22", "number": "3"}, 
+      {"issue": {"issue-date": "1964-02", "volume": "22", "number": "3"}, 
         "title": "Oh, to be a Blobel!",
         "author": {
          "authorized": "Dick, Philip K.",
          "lcna": "n79018147"
        }
       },
-      {"issue": {"issuedate": "1964-02", "volume": "22", "number": "3"}, 
+      {"issue": {"issue-date": "1964-02", "volume": "22", "number": "3"}, 
         "title": "The Star King",
         "title-note": "part 2 of 2",
         "author": {
@@ -2738,21 +2738,21 @@
           "lcna": "n79021250"
        }
       },
-      {"issue": {"issuedate": "1964-04", "volume": "22", "number": "4"}, 
+      {"issue": {"issue-date": "1964-04", "volume": "22", "number": "4"}, 
         "title": "The Boy Who Bought Old Earth",
         "author": {
           "authorized": "Smith, Cordwainer, 1913-1966",
           "lcna": "n81083063"
        }
       },
-      {"issue": {"issuedate": "1964-04", "volume": "22", "number": "4"}, 
+      {"issue": {"issue-date": "1964-04", "volume": "22", "number": "4"}, 
         "title": "The Blasphemers",
         "author": {
          "authorized": "Farmer, Philip José",
          "lcna": "n80090608"
        }
       },
-      {"issue": {"issuedate": "1966-02", "volume": "24", "number": "3"}, 
+      {"issue": {"issue-date": "1966-02", "volume": "24", "number": "3"}, 
        "title": "The Wreck of La Lutine",
         "note": "Renewal registration says this was published in the March 1957 issue, but as far as I can tell it was not published until the February 1966 issue. The renewal is dated July 16, 1985, too early for a 1966 publication, but a 1966 copyright would automatically renew in any case.",
         "author": {
