@@ -1,0 +1,862 @@
+{
+   "title": "The Boston Herald",
+   "aka": ["Boston Sunday Herald"],
+  "see-also": [
+      {"id": "thisweek",
+       "note": "This Week Magazine"}
+   ],
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce+database",
+   "first-renewed-contribution": {
+      "issue": {"issue-date": "1939-10-15"}
+   },
+   "first-renewed-contribution-source": "1967-JanJun",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1939-10-15"},
+      "title": "Glamor Girl With Wings",
+      "author": {
+         "authorized": "Andrews, Roy Chapman, 1884-1960",
+         "lcna": "n50023918"
+       },
+      "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1939-11-26"},
+      "title": "No Choice",
+      "author": {
+         "authorized": "Taylor, Samuel W. (Samuel Woolley), 1907-1997 ",
+         "lcna": "n79112369"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1940-05-05"},
+      "title": "Indian Magic",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1940-06-09"},
+      "title": "Lord Jitters",
+      "author": {
+         "authorized": "Andrews, Roy Chapman, 1884-1960",
+         "lcna": "n50023918"
+       },
+      "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1940-08-11"},
+      "title": "Hurry, Charlie, Hurry",
+      "author": {
+         "authorized": "Short, Luke, 1908-1975",
+         "lcna": "n80014974"
+       },
+      "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1941-04-13"},
+      "title": "You Never Know Who",
+      "author": {
+         "authorized": "Walpole, Hugh, 1884-1941",
+         "lcna": "n79151207"
+       },
+      "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1941-07-13"},
+      "title": "Break Through",
+      "author": {
+         "authorized": "Wylie, I. A. R. (Ida Alexa Ross), 1885-1959",
+         "lcna": "n87860300"
+       },
+      "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1941-10-19"},
+      "title": "How I Got That Way",
+      "author": {
+         "authorized": "Chase, Ilka, 1905-1978",
+         "lcna": "n50038223"
+       },
+      "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1941-11-02"},
+      "title": "Strange Jest",
+      "author": {
+         "authorized": "Christie, Agatha, 1890-1976",
+         "lcna": "n79038407"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1941-11-16"},
+      "title": "Tape-Measure Murder",
+      "author": {
+         "authorized": "Christie, Agatha, 1890-1976",
+         "lcna": "n79038407"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1941-11-23"},
+      "title": "Last Minute McGarry",
+      "author": {
+         "authorized": "Taylor, Matt, 1897-1966",
+         "lcna": "no97008542"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1941-12-14"},
+      "title": "Don't be Soft, McGarry",
+      "author": {
+         "authorized": "Taylor, Matt, 1897-1966",
+         "lcna": "no97008542"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1941-12-21"},
+      "title": "Prayer for a Child",
+      "author": {
+         "authorized": "Field, Rachel, 1894-1942",
+         "lcna": "n50023354"
+       },
+      "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1942-01-11"},
+      "title": "McGarry's Up a Tree",
+      "author": {
+         "authorized": "Taylor, Matt, 1897-1966",
+         "lcna": "no97008542"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1942-01-11"},
+      "title": "A Soldier is Born",
+      "author": {
+         "authorized": "Caldwell, Erskine, 1903-1987",
+         "lcna": "n78095661"
+       },
+      "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1942-04-26"},
+      "title": "Speak Up Eric",
+      "author": {
+         "name": "Frederick Laing"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1942-06-07"},
+      "title": "McGarry, His Mouse and the Redheaded Brat",
+      "author": {
+         "authorized": "Taylor, Matt, 1897-1966",
+         "lcna": "no97008542"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1942-06-14"},
+      "title": "The World at Her Feet",
+      "author": {
+         "authorized": "Hughes, Rupert, 1872-1956",
+         "lcna": "n86012047"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1942-07-05"},
+      "title": "Jailbird",
+      "author": {
+         "name": "Frederick Laing"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1942-07-19"},
+      "title": "Prospector's Fire",
+      "author": {
+         "authorized": "Stern, Richard Martin, 1915-2001",
+         "lcna": "n79090044"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1942-07-26"},
+      "title": "The Temple Bells They Say",
+      "author": {
+         "authorized": "Elston, Allan Vaughan, 1887-1976",
+         "lcna": "no90023204"
+       },
+      "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1942-11-22"},
+      "title": "Hot Pilot",
+      "author": {
+         "authorized": "Ford, Corey, 1902-1969",
+         "lcna": "n50024813"
+       },
+      "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1942-11-22"},
+      "title": "Private McGarry",
+      "author": {
+         "authorized": "Taylor, Matt, 1897-1966",
+         "lcna": "no97008542"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1942-12-06"},
+      "title": "The False Fire",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       },
+      "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1942-12-13"},
+      "title": "My Captain and I",
+      "author": {
+         "authorized": "Adamic, Louis, 1899-1951",
+         "lcna": "n50036829"
+       },
+      "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1943-02-14"},
+      "title": "You Can't Fool a Marine",
+      "author": {
+         "authorized": "Marcin, Natalie",
+         "lcna": "no2005017367"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1943-04-18"},
+      "title": "The Average American",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       },
+      "note": "Renewal record specifies This Week magazine section."
+     },
+    {"issue": {"issue-date": "1943-05-09"},
+      "title": "Private McGarry 'Gambler'",
+      "author": {
+         "authorized": "Taylor, Matt, 1897-1966",
+         "lcna": "no97008542"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1943-06-06"},
+      "title": "Elementary, My Dear McGarry",
+      "author": {
+         "authorized": "Taylor, Matt, 1897-1966",
+         "lcna": "no97008542"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1943-07-25"},
+      "title": "McGarry Gets a Mascot",
+      "author": {
+         "authorized": "Taylor, Matt, 1897-1966",
+         "lcna": "no97008542"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1943-08-01"},
+      "title": "Enchanted World",
+      "author": {
+         "authorized": "Hoover, Herbert, 1874-1964",
+         "lcna": "n79021421"
+       },
+      "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1943-10-17"},
+      "title": "Ferry Pilot",
+      "author": {
+         "authorized": "Ware, Leon",
+         "lcna": "no95005227"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1943-11-28"},
+      "title": "McGarry Takes a Trip",
+      "author": {
+         "authorized": "Taylor, Matt, 1897-1966",
+         "lcna": "no97008542"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1943-12-26"},
+      "title": "Watch Your Step, McGarry",
+      "author": {
+         "authorized": "Taylor, Matt, 1897-1966",
+         "lcna": "no97008542"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1944-02-20"},
+      "title": "Plenty of Room Inside",
+      "author": {
+         "authorized": "Taylor, Matt, 1897-1966",
+         "lcna": "no97008542"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1944-04-30"},
+      "title": "McGarry, His Mouse and the Human Fiend",
+      "author": {
+         "authorized": "Taylor, Matt, 1897-1966",
+         "lcna": "no97008542"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1944-05-21"},
+      "title": "'Enery Earns His Shoes",
+      "author": {
+         "authorized": "Ware, Leon",
+         "lcna": "no95005227"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1944-05-28"},
+      "title": "McGarry and the Topkick",
+      "author": {
+         "authorized": "Taylor, Matt, 1897-1966",
+         "lcna": "no97008542"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1944-07-02"},
+      "title": "The Brats",
+      "author": {
+         "authorized": "Schisgall, Oscar, 1901-1984",
+         "lcna": "n50002761"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1944-07-09"},
+      "title": "'Enery Goes Native",
+      "author": {
+         "authorized": "Ware, Leon",
+         "lcna": "no95005227"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1944-08-27"},
+      "title": "Descent Into China",
+      "author": {
+         "authorized": "Buck, Pearl S. (Pearl Sydenstricker), 1892-1973",
+         "lcna": "n79026662"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1944-10-29"},
+      "title": "The Eyes of China",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1944-11-26"},
+      "title": "Your Prisoner, McGarry!",
+      "author": {
+         "authorized": "Taylor, Matt, 1897-1966",
+         "lcna": "no97008542"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1944-12-03"},
+      "title": "Julie's Doing All Right",
+      "author": {
+         "name": "Frederick Laing"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1945-01-14"},
+      "title": "Jungle Taxis",
+      "authors": [
+         {"authorized": "Ford, Corey, 1902-1969",
+         "lcna": "n50024813"},
+         {"authorized": "MacBain, Alastair",
+         "lcna": "no2003012703"}
+      ],
+      "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1945-01-28"},
+      "title": "McGarry and the Glamour Girl",
+      "author": {
+         "authorized": "Taylor, Matt, 1897-1966",
+         "lcna": "no97008542"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1945-02-04"},
+      "title": "Eisenhower's Toughest Flight",
+      "author": {
+         "authorized": "Davis, Kenneth S. (Kenneth Sydney), 1912-1999",
+         "lcna": "n50035594"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1945-05-27"},
+      "title": "McGarry Asked For It",
+      "author": {
+         "authorized": "Taylor, Matt, 1897-1966",
+         "lcna": "no97008542"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1946-03-24"},
+      "title": "Big Tooth Yang",
+      "author": {
+         "authorized": "Buck, Pearl S. (Pearl Sydenstricker), 1892-1973",
+         "lcna": "n79026662"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1946-03-31"},
+      "title": "Is Spring a Good Thing?",
+      "author": {
+         "authorized": "Nash, Ogden, 1902-1971",
+         "lcna": "n79134950"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1946-07-21"},
+      "title": "The Reluctant Waiter",
+      "author": {
+         "authorized": "Bemelmans, Ludwig, 1898-1962",
+         "lcna": "n50007160"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1946-10-20"},
+      "title": "The Killer Wore a Gray Hat: A Mystery Short Story of 4000 Words",
+      "author": {
+         "authorized": "Elston, Allan Vaughan, 1887-1976",
+         "lcna": "no90023204"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1947-03-16"},
+      "title": "Meet Me In Hell",
+      "title-note": "Labours of Hercules, No. 12",
+      "author": {
+         "authorized": "Christie, Agatha, 1890-1976",
+         "lcna": "n79038407"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1947-04-13"},
+      "title": "McGarry and the Memory Wizard",
+      "author": {
+         "authorized": "Taylor, Matt, 1897-1966",
+         "lcna": "no97008542"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1947-06-01"},
+      "title": "What's Your Diploma Worth?",
+      "author": {
+         "authorized": "Wylie, Philip, 1902-1971",
+         "lcna": "n79145476"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1947-06-08"},
+      "title": "McGarry and the Kidnappers",
+      "author": {
+         "authorized": "Taylor, Matt, 1897-1966",
+         "lcna": "no97008542"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1947-06-22"},
+      "title": "Incident at Wang's Corners",
+      "author": {
+         "authorized": "Buck, Pearl S. (Pearl Sydenstricker), 1892-1973",
+         "lcna": "n79026662"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1947-09-28"},
+      "title": "Priority to Washington",
+      "author": {
+         "authorized": "Weidman, Jerome, 1913-1998",
+         "lcna": "n50022730"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1947-10-26"},
+      "title": "McGarry and the Hallowe'en Devil",
+      "author": {
+         "authorized": "Taylor, Matt, 1897-1966",
+         "lcna": "no97008542"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1947-12-21"},
+      "title": "Breathless Bogata",
+      "author": {
+         "authorized": "Josephs, Ray",
+         "lcna": "n91101229"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1947-12-21"},
+      "title": "McGarry and the Christmas Handout",
+      "author": {
+         "authorized": "Taylor, Matt, 1897-1966",
+         "lcna": "no97008542"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1947-12-21"},
+      "title": "We Go Together",
+      "author": {
+         "authorized": "Schweitzer, Gertrude, 1909-",
+         "lcna": "n50003475"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1947-12-28"},
+      "title": "The Trouble with Michael",
+      "author": {
+         "authorized": "Waugh, Alec, 1898-1981",
+         "lcna": "n50023750"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1948-02-01"},
+      "title": "A Man of His Own",
+      "author": {
+         "authorized": "Ford, Corey, 1902-1969",
+         "lcna": "n50024813"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1948-06-02"},
+      "title": "Air Force Mutt",
+      "author": {
+         "authorized": "Ford, Corey, 1902-1969",
+         "lcna": "n50024813"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1948-07-11"},
+      "title": "Dalstroy: The Secret of Stalin's Gold",
+      "author": {
+         "authorized": "Ford, Corey, 1902-1969",
+         "lcna": "n50024813"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1948-07-18"},
+      "title": "Don't Go Back, Judy!",
+      "author": {
+         "authorized": "Taylor, Matt, 1897-1966",
+         "lcna": "no97008542"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1948-07-25"},
+      "title": "Flying Inside a Hurricane",
+      "author": {
+         "authorized": "Taylor, Matt, 1897-1966",
+         "lcna": "no97008542"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1948-08-08"},
+      "title": "McGarry and the Super Sleuth",
+      "author": {
+         "authorized": "Taylor, Matt, 1897-1966",
+         "lcna": "no97008542"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1948-09-05"},
+      "title": "We Keep House the Navy Way",
+      "author": {
+         "authorized": "Lederer, William J., 1912-2009",
+         "lcna": "n50042576"
+       },
+      "note": "Renewal record specifies This Week magazine section.  It also gives The Skipper Surprised His Wife as an additional title."
+     },
+     {"issue": {"issue-date": "1948-09-19"},
+      "title": "Emily Post Invades Russia",
+      "author": {
+         "authorized": "Magidoff, Robert, 1905-1970",
+         "lcna": "n50080633"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1948-10-03"},
+      "title": "Look Homeward, Dusty",
+      "author": {
+         "authorized": "Taber, Gladys Bagg, 1899-1980",
+         "lcna": "n50009390"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1948-11-07"},
+      "title": "Channel Ten",
+      "author": {
+         "authorized": "Hatch, Eric, 1901-1973",
+         "lcna": "no89009028"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1948-12-05"},
+      "title": "The Mind Reader",
+      "author": {
+         "authorized": "Hatch, Eric, 1901-1973",
+         "lcna": "no89009028"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1948-12-05"},
+      "title": "Where's the Fire, McGarry?",
+      "author": {
+         "authorized": "Taylor, Matt, 1897-1966",
+         "lcna": "no97008542"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1948-12-26"},
+      "title": "No, My Darling Daughter",
+      "author": {
+         "authorized": "La Farge, Oliver, 1901-1963",
+         "lcna": "n79007018"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1949-03-13"},
+      "title": "Hollywood Rebound",
+      "author": {
+         "authorized": "Stern, Richard Martin, 1915-2001",
+         "lcna": "n79090044"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1949-03-13"},
+      "title": "The Man Inside",
+      "author": {
+         "authorized": "Weidman, Jerome, 1913-1998",
+         "lcna": "n50022730"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1949-04-03"},
+      "title": "We've Got to Pretend",
+      "author": {
+         "authorized": "Hatch, Eric, 1901-1973",
+         "lcna": "no89009028"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1949-04-17"},
+      "title": "McGarry Joins the Easter Parade",
+      "author": {
+         "authorized": "Taylor, Matt, 1897-1966",
+         "lcna": "no97008542"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1949-05-08"},
+      "title": "The Things They Said",
+      "author": {
+         "authorized": "Hatch, Eric, 1901-1973",
+         "lcna": "no89009028"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1949-05-22"},
+      "title": "Savage Flight",
+      "author": {
+         "authorized": "La Farge, Oliver, 1901-1963",
+         "lcna": "n79007018"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1949-06-12"},
+      "title": "Hour of Danger",
+      "author": {
+         "authorized": "Hatch, Eric, 1901-1973",
+         "lcna": "no89009028"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1949-08-07"},
+      "title": "Second Sight",
+      "author": {
+         "authorized": "Hatch, Eric, 1901-1973",
+         "lcna": "no89009028"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1949-09-11"},
+      "title": "McGarry Takes to the Woods",
+      "author": {
+         "authorized": "Taylor, Matt, 1897-1966",
+         "lcna": "no97008542"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1949-09-18"},
+      "title": "He Couldn't Tell Her",
+      "author": {
+         "authorized": "Ford, Corey, 1902-1969",
+         "lcna": "n50024813"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1949-10-23"},
+      "title": "Dan McGarry: The Unsung Hero",
+      "author": {
+         "authorized": "Taylor, Matt, 1897-1966",
+         "lcna": "no97008542"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1949-11-13"},
+      "title": "Ride to Glory",
+      "author": {
+         "authorized": "Hatch, Eric, 1901-1973",
+         "lcna": "no89009028"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1949-11-20"},
+      "title": "What Would They Say?",
+      "author": {
+         "authorized": "Brondfield, Jerry, 1913-1998",
+         "lcna": "n50048807"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1949-12-04"},
+      "title": "Lady Couldn't Explain",
+      "author": {
+         "authorized": "Queen, Ellery",
+         "lcna": "n79139599"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1950-01-15"},
+      "title": "College Queen",
+      "author": {
+         "authorized": "Brandon, William, 1914-2002",
+         "lcna": "n50043320"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1950-01-29"},
+      "title": "Murder Without Clues",
+      "author": {
+         "authorized": "Queen, Ellery",
+         "lcna": "n79139599"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1950-02-05"},
+      "title": "This Takes Courage",
+      "author": {
+         "authorized": "Hatch, Eric, 1901-1973",
+         "lcna": "no89009028"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1950-02-19"},
+      "title": "McGarry and the Television Frame-Up",
+      "author": {
+         "authorized": "Taylor, Matt, 1897-1966",
+         "lcna": "no97008542"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1950-02-26"},
+      "title": "Why Love Your Enemy?",
+      "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "lcna": "n79041782"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1950-03-19"},
+      "title": "She Hooked a Husband",
+      "author": {
+         "authorized": "Ford, Corey, 1902-1969",
+         "lcna": "n50024813"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1950-03-26"},
+      "title": "Birth of a Salesman",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1950-04-02"},
+      "title": "Sound of Blackmail",
+      "author": {
+         "authorized": "Queen, Ellery",
+         "lcna": "n79139599"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1950-06-04"},
+      "title": "McGarry and the Lady Sherlock",
+      "author": {
+         "authorized": "Taylor, Matt, 1897-1966",
+         "lcna": "no97008542"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1950-06-18"},
+      "title": "Love Hunts a Hidden Treasure",
+      "author": {
+         "authorized": "Queen, Ellery",
+         "lcna": "n79139599"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1950-06-18"},
+      "title": "A Slightly Broken Romance",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1950-07-09"},
+      "title": "Mystery of the 3 Dawn Riders",
+      "author": {
+         "authorized": "Queen, Ellery",
+         "lcna": "n79139599"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1950-10-08"},
+      "title": "A Kiss for the Lieutenant",
+      "author": {
+         "authorized": "Gordon, Arthur, 1912-2002",
+         "lcna": "n2006020295"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1950-11-05"},
+      "title": "Let's Take a Trip Up the Nile",
+      "author": {
+         "authorized": "Gordon, Arthur, 1912-2002",
+         "lcna": "n2006020295"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
+     {"issue": {"issue-date": "1950-11-05"},
+      "title": "Witch of Times Square",
+      "author": {
+         "authorized": "Queen, Ellery",
+         "lcna": "n79139599"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     }
+   ],
+   "additional-note": "Most CCE contribution renewals specifically mentioning the Boston Herald are in the This Week section.  This Week was a Sunday supplement that was included in multiple newspapers, and that had its own issue and contribution copyright renewals, beginning in 1935.  See its copyright information page for more details.",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2018-01-01"
+}

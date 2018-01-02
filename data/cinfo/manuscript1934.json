@@ -1,0 +1,33 @@
+{
+   "title": "Manuscript",
+   "title-note": "Ohio-based literary magazine, 1934-1936",
+   "see-also": [
+      {"id": "manuscript1937",
+       "note": "Manuscript (California-based magazine of 'motion pictures of tomorrow', 1937-1938?)"}
+   ],
+   "first-issue": { "issue-date": "1934-01",
+                  "volume": "1", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce",
+   "first-renewed-contribution": {
+       "issue": {"issue-date": "1936-July-August", "cdate": "1936-07-10"}
+   },
+   "first-renewed-contribution-source": "1964-JanJun",
+   "renewed-contribution-completeness": "active/end",
+   "last-issue": {"issue-date": "1936-November/December",
+                  "volume": "3", "number": "6"},
+   "renewed-contributions": [
+       {"issue": {"issue-date": "1936-July-August", "cdate": "1936-07-10"},
+        "title": "Twenty-Seven Wagons Full of Cotton",
+        "author": {
+          "authorized": "Williams, Tennessee, 1911-1983",
+          "lcna": "n79090096"
+        }
+       }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2017-12-12"
+}

@@ -1,0 +1,22 @@
+{
+   "title": "Superman",
+   "aka": ["Superman Comics"],
+   "see-also": [
+      {"id": "actioncomics",
+       "note": "Action Comics"}
+   ],
+   "first-issue": {"cdate": "1939-05-13", "number": "1"},
+   "first-renewed-issue": {"cdate": "1939-05-13", "number": "1"},
+   "first-renewed-issue-source": "1966-JulDec",
+   "first-renewed-contribution-source": "1966-JulDec",
+   "first-renewed-contribution": {
+       "issue": {"issue-date": "1939-Fall", "number": "2"}
+   },
+   "first-renewed-contribution-source": "1966-JulDec",
+   "additional-note": "The first issue of the Superman comic book was published and renewed as a standalone book/pamphlet, and its renewal record appears in the book section.  Issue 2 (Fall 1939) was the first to be renewed as a periodical issue, and to have a distinct renewed contribution. Before any of these issues, Superman had appeared in Action Comics.",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2017-12-18"
+}

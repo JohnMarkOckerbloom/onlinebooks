@@ -9,6 +9,7 @@ my $tabletop = qq!style="vertical-align:top"!;
 
 sub _call_link {
   my ($collection, $key, $display) = @_;
+  $key =~ s/\-.*//;
   my $url = $OLBP::scripturl . '/browse?type=lccn&amp;key=' . $key;
   if ($collection eq "x") {
     $url .= "&amp;c=x";

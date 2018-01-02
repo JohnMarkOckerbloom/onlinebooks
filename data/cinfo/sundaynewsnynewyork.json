@@ -3,7 +3,9 @@
    "title-note": "New York",
    "see-also": [
       {"id": "dailynewsnynewyork",
-       "note": "New York Daily News"}
+       "note": "New York Daily News"},
+      {"id": "sundaynewsunknown",
+       "note": "Sunday News (location not known)"}
    ],
    "first-renewed-issue": {"issue-date": "1951-01-07"},
    "first-renewed-issue-source": "database",
@@ -16,5 +18,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2017-12-04"
+   "last-updated": "2017-12-18"
 }

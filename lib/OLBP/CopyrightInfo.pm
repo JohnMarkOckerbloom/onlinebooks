@@ -105,21 +105,23 @@ sub _number_string {
   return OLBP::html_encode($number);
 }
 
-sub _display_no_issue {
+sub _display_no {
   my (%params) = @_;
   my $completeness = $params{completeness};
   my $context = $params{context};
+  my $what = $params{what} || "issue";
   my $active = (($params{completeness} =~ /^active\//) ? " active" : "");
   my $source = $params{source};
   my $str = "";
   if ($context eq "serialpage") {
-    $str = "No$active issue ";
-    if ($params{firstcont} && $params{firstcont} eq "none") {
+    $str = "No$active $what ";
+    if ($what eq "issue" &&
+        $params{firstcont} && $params{firstcont} eq "none") {
       $str .= "or contribution ";
     }
     $str .= "copyright renewals were found";
   } else {
-    $str = "no$active issue renewals found";
+    $str = "no$active $what renewals found";
   }
   if ($context eq "serialpage") {
     $str .= " for this serial";
@@ -320,7 +322,6 @@ sub _print_completeness_note {
 
 sub _print_citation_info {
   my ($self, $json, $headline) = @_;
-  # TODO: Credits
   if ($headline) {
     print "<h3>Page information</h3>\n";
     print "<table>";
@@ -377,6 +378,7 @@ sub _more_details_warranted {
   return 1 if ($json->{"renewed-issues"});
   return 1 if ($json->{"renewed-contributions"});
   return 1 if ($json->{"additional-note"});
+  return 1 if ($json->{"additional-notes"});
   return 1 if ($json->{"first-issue"});
   return 1 if ($json->{"first-autorenewed-issue"});
   return 1 if ($json->{"website"});
@@ -398,9 +400,9 @@ sub serial_copyright_summary {
   my $completeness = $json->{"renewed-issue-completeness"};
   my $str = "";
   if ($firstrenew eq "none") {
-    $str .= _display_no_issue(completeness=>$completeness,
-                              context=>"serialpage",
-                              firstcont=>$firstcont);
+    $str .= _display_no(completeness=>$completeness,
+                        context=>"serialpage",
+                        firstcont=>$firstcont);
   } elsif ($firstrenew) {
     $str .= "The first ";
     if ($completeness =~ /^active\//) {
@@ -466,8 +468,8 @@ sub firstperiod_listing {
   if ($firstrenew) {
     my $completeness = $json->{"renewed-issue-completeness"};
     if ($firstrenew eq "none") {
-      $str .= _display_no_issue(completeness=>$completeness,
-                                source=>$json->{"first-renewed-issue-source"});
+      $str .= _display_no(completeness=>$completeness,
+                          source=>$json->{"first-renewed-issue-source"});
     } else {
       if ($completeness =~ /^active\//) {
         $str .= "issues actively renewed from ";
@@ -483,25 +485,39 @@ sub firstperiod_listing {
     }
   }
   if ($firstcont) {
-    if ($json->{"renewed-contribution-completeness"} =~ /^active\//) {
-      $str .= "contributions actively renewed from ";
+    if ($firstcont eq "none") {
+        $str .= _display_no(what=>"contribution",
+                            completeness=>$json->{"first-renewed-contribution-completeness"}, 
+                            source=>$json->{"first-renewed-contribution-source"});
     } else {
-      $str .= "contributions renewed from ";
+      if ($json->{"renewed-contribution-completeness"} =~ /^active\//) {
+        $str .= "contributions actively renewed from ";
+      } else {
+        $str .= "contributions renewed from ";
+      }
+      if ($firstcont->{"issue"}) {
+        $firstcont = $firstcont->{"issue"};
+      }
+      $str .= _display_issue(issue=>$firstcont);
+      $str .= _get_source_note($json, "first-renewed-contribution-source",
+                                      "first-renewed-contribution", 1);
     }
-    if ($firstcont->{"issue"}) {
-      $firstcont = $firstcont->{"issue"};
-    }
-    $str .= _display_issue(issue=>$firstcont);
-    $str .= _get_source_note($json, "first-renewed-contribution-source",
-                                    "first-renewed-contribution", 1);
-  }
-  if ($json->{"see-also"}) {
-    my @links = _link_list($json->{"see-also"});
-    $str .= "; see also " . join(", ", @links);
   }
   if (_more_details_warranted($json)) {
     my $uri = $cinfoprefix . $fname;
     $str .= qq! (<a href="$uri">More details</a>)!;
+  }
+  if ($json->{"preceded-by"}) {
+    my @links = _link_list($json->{"preceded-by"});
+    $str .= "; preceded by " . join(", ", @links);
+  }
+  if ($json->{"succeeded-by"}) {
+    my @links = _link_list($json->{"succeeded-by"});
+    $str .= "; succeeded by " . join(", ", @links);
+  }
+  if ($json->{"see-also"}) {
+    my @links = _link_list($json->{"see-also"});
+    $str .= "; see also " . join(", ", @links);
   }
   return $str;
 }
@@ -566,6 +582,13 @@ sub display_page {
                                   value=>join(", ", @links));
     }
   }
+  if ($json->{"preceded-by"}) {
+    my @links = _link_list($json->{"preceded-by"});
+    if (@links) {
+      print $self->_tabrow(attr=>"Preceded by",
+                                  value=>join(", ", @links));
+    }
+  }
   if ($json->{"first-issue"}) {
     print $self->_tabrow(attr=>"First issue",
                         value=>_display_issue(issue=>$json->{"first-issue"}));
@@ -579,8 +602,8 @@ sub display_page {
       my $label = "First active issue renewal";
     }
     if ($firstrenew eq "none") {
-      $value = _display_no_issue(completeness=>$completeness,
-                                 source=>$json->{"first-renewed-issue-source"});
+      $value = _display_no(completeness=>$completeness,
+                           source=>$json->{"first-renewed-issue-source"});
     } else {
       $value = _display_issue(issue=>$firstrenew);
       $value .= _get_source_note($json, "first-renewed-issue-source",
@@ -599,17 +622,31 @@ sub display_page {
     if ($json->{"renewed-contribution-completeness"} =~ /^active\//) {
       my $label = "First active contribution renewal in";
     }
-    if ($firstrenew->{"issue"}) {
-      $firstrenew = $firstrenew->{"issue"};
+    my $value = "";
+    if ($firstrenew eq "none") {
+        $value .= _display_no(what=>"contribution",
+              completeness=>$json->{"first-renewed-contribution-completeness"}, 
+              source=>$json->{"first-renewed-contribution-source"});
+    } else {
+      if ($firstrenew->{"issue"}) {
+        $firstrenew = $firstrenew->{"issue"};
+      }
+      $value = _display_issue(issue=>$firstrenew);
+      $value .= _get_source_note($json, "first-renewed-contribution-source",
+                                        "first-renewed-contribution");
     }
-    my $value = _display_issue(issue=>$firstrenew);
-    $value .= _get_source_note($json, "first-renewed-contribution-source",
-                               "first-renewed-contribution");
     print $self->_tabrow(attr=>$label, value=>$value);
   }
   if ($json->{"last-issue"}) {
     print $self->_tabrow(attr=>"Last issue",
                         value=>_display_issue(issue=>$json->{"last-issue"}));
+  }
+  if ($json->{"succeeded-by"}) {
+    my @links = _link_list($json->{"succeeded-by"});
+    if (@links) {
+      print $self->_tabrow(attr=>"Succeeded by",
+                                  value=>join(", ", @links));
+    }
   }
   if ($json->{"see-also"}) {
     my @links = _link_list($json->{"see-also"});
@@ -620,7 +657,7 @@ sub display_page {
   }
   my $headline = 1;
   if ($json->{"renewed-issues"} || $json->{"renewed-contributions"}
-      || $json->{"additional-note"}) {
+      || $json->{"additional-note"} || $json->{"additional-notes"}) {
     print "</table>";
     if ($json->{"renewed-issues"}) {
        print "<h3>Renewed issues</h3>\n";
@@ -675,6 +712,11 @@ sub display_page {
     if ($json->{"additional-note"}) {
        print "<h3>Additional note</h3>\n";
        print "<p>" . OLBP::html_encode($json->{"additional-note"}) . "</p>\n";
+    } elsif ($json->{"additional-notes"}) {
+       print "<h3>Additional notes</h3>\n";
+       foreach my $note (@{$json->{"additional-notes"}}) {
+         print "<p>" . OLBP::html_encode($note) . "</p>\n";
+       }
     }
   } else {
     $headline = 0;

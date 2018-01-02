@@ -1,0 +1,35 @@
+{
+   "title": "Sunday News",
+   "title-note": "location not known",
+   "see-also": [
+      {"id": "sundaynewsnynewyork",
+       "note": "New York Sunday News"}
+   ],
+   "first-renewed-contribution": {
+       "issue": {"issue-date": "1939-08-13"}
+   },
+   "first-renewed-contribution-source": "1966-JulDec",
+   "renewed-contribution-completeness": "active/1939-10-22",
+   "renewed-contributions" : [
+     {"issue": {"issue-date": "1939-08-13"}, 
+      "title": "At. Mrs. Leland's",
+       "author": {
+         "authorized": "Hurst, Fannie, 1889-1968",
+         "lcna": "n80010314"
+       }
+     },
+     {"issue": {"issue-date": "1939-10-22"}, 
+      "title": "Green Women",
+       "author": {
+         "authorized": "Beach, Rex, 1877-1949",
+         "lcna": "n84804866"
+       }
+     }
+   ],
+   "additional-note": "This entry is for contribution renewal records listed as being from the 'Sunday News' without specifying a city, where we cannot tell which Sunday News the contribution appeared in. Entries may be shifted to specific Sunday News publications when we discover where they appeared.  Copyright information entries for various publications titled 'Sunday News' should be cross-linked with this one as long as there are contributions listed here.",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2017-12-18"
+}
