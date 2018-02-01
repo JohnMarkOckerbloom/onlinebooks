@@ -1,0 +1,23 @@
+{
+   "title": "Planet Stories",
+   "contents": [
+      {"url": "http://www.isfdb.org/cgi-bin/pe.cgi?23725",
+       "note": "ISFDB"},
+      {"url": "http://www.philsp.com/homeville/SFI/link.asp?magid=PLS",
+       "note": "Galactic Central"}
+   ],
+   "first-issue":
+     {"issue-date": "1939-Winter", "volume": "1", "number": "1"},
+   "first-renewed-issue": "none", 
+   "first-renewed-issue-source": "cce+database",
+   "first-renewed-contribution":
+     {"issue": {"issue-date": "1940-Summer"}},
+   "first-renewed-contribution-source": "1967-JulDec",
+   "last-issue":
+     {"issue-date": "1955-Summer", "volume": "6", "number": "11"},
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2018-01-11"
+}

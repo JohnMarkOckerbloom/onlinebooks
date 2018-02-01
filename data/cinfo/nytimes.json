@@ -1,0 +1,22 @@
+{
+   "title": "The New York Times",
+   "online": "1",
+   "see-also": [
+      {"id": "nytimesbr", "note": "New York Times Book Review"},
+      {"id": "nytimesindex", "note": "New York Times Index"},
+      {"id": "nytimesmag", "note": "New York Times Magazine"},
+      {"id": "midweekpictorial", "note": "Mid-Week Pictorial"}
+   ],
+   "first-renewed-issue":
+      {"issue-date": "1928-04-01", "volume": "77", "number": "25635"},
+   "first-renewed-issue-source": "1956-JanJun",
+   "first-renewed-contribution": 
+     {"issue": {"issue-date": "1923-05-08"}},
+   "first-renewed-contribution-source": "1951-JanJun",
+   "additional-note": "Special sections of New York Times, such as the Book Review and Magazine, have earlier issue renewals than the first whole-issue renewal noted here.",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2018-01-23"
+}

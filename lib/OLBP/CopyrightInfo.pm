@@ -98,7 +98,7 @@ sub _date_string {
 
 sub _number_string {
   my ($number) = @_;
-  if (int($number)) {
+  if (int($number) eq $number) {
     return "no. " . OLBP::html_encode($number);
   }
   # not a number, but an issue title.  Return literally.
@@ -289,10 +289,17 @@ sub _get_source_note {
     }
     if ($year >= 1950 && $year <= 1978 && !$nolink) {
       my $catpageurl = $cceurl . $year . "r.html";
-      return qq!; see <a href="$catpageurl">$year</a> !
-            . OLBP::html_encode($rest);
+      my $str = qq!; see <a href="$catpageurl">$year</a>!;
+      if ($rest) {
+         $str .= " " . OLBP::html_encode($rest);
+      }
+      return $str;
     }
-    return "; see " . OLBP::html_encode("$year $rest");
+    if ($rest) {
+      return "; see " . OLBP::html_encode("$year $rest");
+    } else {
+      return "; see " . OLBP::html_encode("$year");
+    }
   }
   if ($source) {
     return qq"; see " . OLBP::html_encode($source);
@@ -382,6 +389,9 @@ sub _more_details_warranted {
   return 1 if ($json->{"first-issue"});
   return 1 if ($json->{"first-autorenewed-issue"});
   return 1 if ($json->{"website"});
+  return 1 if ($json->{"see-also"});
+  return 1 if ($json->{"preceded-by"});
+  return 1 if ($json->{"succeeded-by"});
   return 0;
 }
 
@@ -413,26 +423,24 @@ sub serial_copyright_summary {
     $offerdetails = 1;
   }
   if ($firstcont) {
-    if (!($firstrenew eq "none" && $firstcont eq "none")) {
-      if ($firstrenew) {
-        $str .= ". ";
-      }
-    }
-    if ($firstcont eq "none") {
-      # TODO: MAKE THIS MORE DETAILED WITH SOURCES
-      $str .= "We know of no actively copyright-renewed contributions";
-    } else {
-      $str .= "The first ";
-      if ($completeness =~ /^active\//) {
-        $str .= "actively ";
-      }
-      $str .= "copyright-renewed contribution is from ";
-      if ($firstcont->{"issue"}) {
-        $firstcont = $firstcont->{"issue"};
-      }
-      $str .= _display_issue(issue=>$firstcont);
-      $offerdetails = 1;
-    }
+   if ($firstrenew && !($firstrenew eq "none" && $firstcont eq "none")) {
+     $str .= ". ";
+   }
+   if ($firstcont eq "none") {
+     # TODO: MAKE THIS MORE DETAILED WITH SOURCES
+     # $str .= "We know of no actively copyright-renewed contributions";
+   } else {
+     $str .= "The first ";
+     if ($completeness =~ /^active\//) {
+       $str .= "actively ";
+     }
+     $str .= "copyright-renewed contribution is from ";
+     if ($firstcont->{"issue"}) {
+       $firstcont = $firstcont->{"issue"};
+     }
+     $str .= _display_issue(issue=>$firstcont);
+     $offerdetails = 1;
+   }
   }
   $str .= ".";
   if ($offerdetails) {
