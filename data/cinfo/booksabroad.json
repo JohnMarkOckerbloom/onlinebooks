@@ -1,0 +1,31 @@
+{
+   "title": "Books Abroad",
+   "contents": [
+      {"url": "https://www.jstor.org/journal/booksabroad",
+      "note": "JSTOR (full text also available for subscription or payment)"}
+   ],
+   "first-issue": {"issue-date": "1927-01", "volume": "1", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce+database",
+   "first-autorenewed-issue": 
+     {"issue-date": "1964-Winter", "cdate": "1964-01-01",
+      "volume": "38", "number": "1"},
+   "first-renewed-contribution": {
+     "issue": {"issue-date": "1942-Summer", "volume": "16", "number": "3"}},
+   "first-renewed-contribution-source": "1969-JulDec",
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+      {"issue": {"issue-date": "1942-Summer", "volume": "16", "number": "3"},
+        "title": "Transplanted Writers",
+        "author": {
+         "authorized": "Porter, Katherine Anne, 1890-1980",
+         "lcna": "n79038436"
+        }
+       }
+    ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2018-02-11"
+}

@@ -1,0 +1,36 @@
+{
+   "title": "Future Combined With Science Fiction",
+   "title-note": "1941-1942",
+   "preceded-by": [{"id": "futurefiction", "note": "Future Fiction"},
+                   {"id": "sciencefiction1939", "note": "Science Fiction"}
+   ],
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/SFI/b40.htm#A649",
+       "note": "Galactic Central"},
+      {"url": "http://www.isfdb.org/cgi-bin/pe.cgi?26806",
+       "note": "ISFDB"}
+   ],
+   "first-issue": {"issue-date": "1941-10", "volume": "2", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce",
+   "first-renewed-contribution":
+    {"issue": {"issue-date": "1942-02", "volume": "2", "number": "3"}},
+   "first-renewed-contribution-source": "1969-JanJun",
+   "last-issue": {"issue-date": "1942-08", "volume": "2", "number": "6"},
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+       {"issue": {"issue-date": "1942-02", "volume": "2", "number": "3"},
+        "title": "My Object All Sublime",
+        "author": {
+          "authorized": "Heinlein, Robert A. (Robert Anson), 1907-1988",
+          "lcna": "n79067868",
+          "using": "Lyle Monroe"
+        }
+       }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2018-02-07"
+}

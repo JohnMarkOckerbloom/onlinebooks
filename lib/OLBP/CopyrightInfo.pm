@@ -6,6 +6,7 @@ my $serialprefix = "http://onlinebooks.library.upenn.edu/webbin/serial?id=";
 my $cinfoprefix = "http://onlinebooks.library.upenn.edu/webbin/cinfo/";
 my $codburl = "http://cocatalog.loc.gov/";
 my $cceurl  = "http://onlinebooks.library.upenn.edu/cce/";
+my $firstperiodurl  = $cceurl . "firstperiod.html";
 
 my @month = ("January", "February", "March", "April", "May", "June", "July",
              "August", "September", "October", "November", "December");
@@ -732,6 +733,9 @@ sub display_page {
   $self->_print_citation_info($json, $headline);
   print "</table>";
   print "<p><em>$disclaimer</em></p>\n";
+  my @choices = ("Copyright registration and renewal records" => $cceurl,
+                 "First periodical renewals"    => $firstperiodurl);
+  print OLBP::choicelist(undef, @choices);
   print $OLBP::bodyend;
 }
 

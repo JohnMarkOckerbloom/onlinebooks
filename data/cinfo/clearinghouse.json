@@ -1,0 +1,35 @@
+{
+   "title": "The Clearing House",
+   "aka": ["The Junior High Clearing House",
+           "The Junior High School Clearing House",
+           "Junior-Senior High School Clearing House"],
+   "online": "1",
+   "contents": [
+      {"url": "https://www.jstor.org/journal/clearinghouse",
+      "note": "JSTOR (full text also available for subscription or payment)"}
+   ],
+   "first-issue": {"issue-date": "1920-03", "volume": "1", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce+database",
+   "first-autorenewed-issue":
+      {"issue-date": "1964-01", "cdate": "1964-01-15",
+        "volume": "38", "number": "5"},
+   "first-renewed-contribution": {
+     "issue": {"issue-date": "1941-10"}},
+   "first-renewed-contribution-source": "1969-JulDec",
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+       {"issue": {"issue-date": "1941-10", "volume": "16", "number": "2"}, 
+        "title": "Who Is Virgil T. Fry?",
+        "author": {
+         "authorized": "Michener, James A. (James Albert), 1907-1997",
+         "lcna": "n79058583"
+        }
+       }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2018-02-11"
+}

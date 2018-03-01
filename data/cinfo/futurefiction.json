@@ -2,7 +2,7 @@
    "title": "Future Fiction",
    "title-note": "1939-1941",
    "contents": [
-      {"url": "http://www.philsp.com/homeville/SFI/b37.htm#A642",
+      {"url": "http://www.philsp.com/homeville/SFI/t561.htm#A12287",
        "note": "Galactic Central"},
       {"url": "http://www.isfdb.org/cgi-bin/pe.cgi?26806",
        "note": "ISFDB"}
@@ -14,9 +14,29 @@
     {"issue": {"issue-date": "1940-07", "volume": "1", "number": "3"}},
    "first-renewed-contribution-source": "1968-JanJun",
    "last-issue": {"issue-date": "1941-08", "volume": "1", "number": "6"},
+   "succeeded-by": [{"id": "futurecombinedsf41",
+                     "note": "Future Combined With Science Fiction"}
+   ],
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+      {"issue": {"issue-date": "1940-07", "volume": "1", "number": "3"},
+       "title": "Liquid Hell",
+       "author": {
+         "authorized": "Jones, Neil R., 1909-1988",
+         "lcna": "no2015107166"
+       }
+      },
+      {"issue": {"issue-date": "1941-08", "volume": "1", "number": "6"},
+       "title": "They Never Come Back",
+        "author": {
+          "authorized": "Leiber, Fritz, 1910-1992",
+          "lcna": "n79054477"
+       }
+      }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-01-22"
+   "last-updated": "2018-02-07"
 }

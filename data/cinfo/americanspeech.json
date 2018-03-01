@@ -1,0 +1,22 @@
+{
+   "title": "American Speech",
+   "contents": [
+      {"url": "https://www.jstor.org/journal/americanspeech",
+      "note": "JSTOR (to 1999; full text also available for subscription or payment)"},
+      {"url": "https://read.dukeupress.edu/american-speech/issue",
+      "note": "Duke University Press (since 2000; full text also available for subscription or payment)"}
+   ],
+   "first-issue": {"issue-date": "1925-10", "volume": "1", "number": "1"},
+   "first-renewed-issue":
+     {"issue-date": "1951-12", "volume": "26", "number": "4"},
+   "first-renewed-issue-source": "database",
+   "first-renewed-contribution": 
+      {"issue": {"issue-date": "1944-02", "volume": "19", "number": "1"}},
+   "first-renewed-contribution-source": "1971-JulDec",
+   "additional-note" : "Renewals are recorded beginning in the 1971 January-June CCE volume, but the earliest renewed contribution is noted in the 1971 July-December volume.",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2018-02-28"
+}
