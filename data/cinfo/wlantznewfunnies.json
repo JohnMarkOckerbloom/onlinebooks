@@ -10,10 +10,14 @@
    "first-issue": {"issue-date": "1946-03", "number": "109"}, 
    "first-renewed-issue": {"issue-date": "1949-10", "number": "152"}, 
    "first-renewed-issue-source": "1977-JulDec",
+   "first-renewed-contribution":
+      {"issue": {"issue-date": "1946-03", "number": "109"}}, 
+   "first-renewed-contribution-source": "1973-JanJun",
    "last-issue": {"issue-date": "1962-March-April", "number": "288"}, 
+   "additional-note": "The first renewal record specifically mentioning 'Walter Lantz New Funnies' is for a May 1946 contribution noted in the July-December 1973 volume; however, there are also renewals for contributions as early as March 1946 in the January-June 1973 volume, citing the earlier 'New Funnies' title.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-02-16"
+   "last-updated": "2018-03-31"
 }

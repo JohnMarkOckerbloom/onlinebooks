@@ -259,10 +259,37 @@ sub munge10000name {
   return $str;
 }
 
+sub note_copyright_dispute {
+  my ($str) = @_;
+  my $noaccess = 0;
+  my ($jurisdiction, $date) = split /-/, $str;
+  return 0 if (!$date);
+  print "<br>A ";
+  if ($jurisdiction eq "DE") {
+    print "German ";
+  }
+  print "court has ordered that this etext not be downloaded";
+  if ($jurisdiction eq "DE") {
+     print " into Germany.";
+  } else {
+    print ". We have therefore omitted download links.";
+    $noaccess = 1;
+  }
+  if ($date) {
+    print " We expect its copyright to persist ";
+    if ($jurisdiction) {
+      print "there ";
+    }
+    print "until the end of $date.";
+  }
+  return $noaccess;
+}
+
 sub lookup {
   my ($bookref, $extra) = @_;
   my %rec = %$bookref;
   my $fmtstr = $rec{FMT} ? $rec{FMT} : "txt 0 zip 0";
+  my $noaccess = 0;
   $fmtstr =~ s/^\*//;
   $fmtstr =~ s/\*/ /g;
   my @fmtar = split /\s+/, $fmtstr;
@@ -315,6 +342,9 @@ sub lookup {
     if ($seenname) {
       print "<br>Select author names above for additional information and titles";
     }
+    if ($rec{COPYDISPUTE}) {
+      $noaccess = note_copyright_dispute($rec{COPYDISPUTE});
+    }
     if ($rec{SERIAL}) {
       my $title = $rec{SERIAL};
       if ($title =~ /(\d+) (.*)/) {
@@ -334,7 +364,7 @@ sub lookup {
     print "<li> <a href=\"", $url, "\">", $desc, "</a></li>";
     print "</ul>\n";
   }
-  if ($rec{GREF} || ($rec{NUMBER} > 10000)) {
+  if (!$noaccess && ($rec{GREF} || ($rec{NUMBER} > 10000))) {
     $mainsite = $sites[0];
     $bookhere = 1;
     print "<hr><p><b>Download</b> the ebook in a format below. ";
@@ -438,24 +468,45 @@ sub showserialtitles {
 }
 
 sub showtitlerows {
-  my $data = shift;
+  my ($data, $header, @alreadyseen) = @_;
+  my %seenit = map {$_ => 1} @alreadyseen;
+  my %newthistime = ();
   my @tlist = split /\n/, $data;
   my %ttitle = ();
   my %thash = ();
   foreach my $t (@tlist) {
     if ($t) {
       my ($number, $title) = split / /, $t, 2;
+      next if ($seenit{$number});
       my $sortit = $title;
       $sortit =~ s/^(A |An |The )//;
       if ((!$thash{$sortit}) && int($number)) {
         $thash{$sortit} = $number;
         $ttitle{$sortit} = $title;
+        $newthistime{$number} = 1;
       }
     }
   }
+  return () if (!scalar(%thash));
+  print $header;
+  print "<table>";
   foreach $stitle (sort keys %thash) {
     print "<tr><td><a href=\"$numstem$thash{$stitle}\">";
     print "$ttitle{$stitle}</a></td></tr>\n";
+  }
+  print "</table>";
+  return keys %newthistime;
+}
+
+sub showtitletables {
+  my ($data, $moredata) = @_;
+  my @shown = showtitlerows($data);
+  if ($moredata) {
+    if ($moredata =~ /^\|([^\|]*)\|(.*)/s) {
+      ($iname, $moredata) = ($1, $2);
+    }
+    my $header = "<p class=\"ctr\"><i>The Online Books Page hasn't yet cataloged the following titles:</i></p>";
+    showtitlerows($moredata, $header, @shown);
   }
 }
 
@@ -481,18 +532,7 @@ sub showauthortitles {
     print "<h2>($fname)</h2>\n";
   }
   print "<hr>\n";
-  print "<table>\n";
-  showtitlerows($data);
-  print "</table>\n";
-  if ($moredata) {
-    if ($moredata =~ /^\|([^\|]*)\|(.*)/s) {
-      ($iname, $moredata) = ($1, $2);
-    }
-    print "<p class=\"ctr\"><i>The Online Books Page hasn't yet cataloged the following titles:</i></p>";
-    print "<table>\n";
-    showtitlerows($moredata);
-    print "</table>\n";
-  }
+  showtitletables($data, $moredata);
   print "<hr>\n";
   print "You can also <a href=\"$asearch" . url_encode($author);
   print "\">look up this author on ";

@@ -1,0 +1,23 @@
+{
+   "title": "Mystery Book Magazine",
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/CFI/link.asp?magid=MYB",
+       "note": "FictionMags"}
+   ],
+   "first-issue":
+      {"issue-date": "1945-07", "volume": "1", "number": "1"},
+   "first-renewed-issue":
+      {"issue-date": "1945-07", "volume": "1", "number": "1"},
+   "first-renewed-issue-source": "1973",
+   "first-renewed-contribution": 
+      {"issue": {"issue-date": "1945-07", "volume": "1", "number": "1"}},
+   "first-renewed-contribution-source": "1973-JanJun",
+   "last-issue": {"issue-date": "1950-Summer", "volume": "10", "number": "1"},
+   "succeeded-by": [{"id": "giantdetective", "note": "Giant Detective"}],
+   "additional-note" : "Renewals are recorded beginning in the 1972 July-December CCE volume, but the earliest renewed contribution is noted in the 1973 January-June volume.",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2018-03-17"
+}

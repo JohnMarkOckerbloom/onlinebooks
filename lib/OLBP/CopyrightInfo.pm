@@ -151,9 +151,17 @@ sub _display_issue {
     }
   }
   my $hasdate = $str;
-  if ($issue->{"volume"} || $issue->{"number"}) {
+  if ($issue->{"volume"} || $issue->{"number"} || $issue->{"series"}) {
     if ($hasdate) {
       $str .= " (";
+    }
+    if ($issue->{"series"}) {
+      if ($issue->{"series"} eq int($issue->{"series"})) { 
+        $str .= "series " . OLBP::html_encode($issue->{"series"});
+      } else {
+        $str .= OLBP::html_encode($issue->{"series"}) ." series";
+      }
+      $str .= ", " if ($issue->{"volume"} || $issue->{"number"});
     }
     if ($issue->{"volume"}) {
       $str .= "v. " . OLBP::html_encode($issue->{"volume"});
@@ -429,7 +437,7 @@ sub serial_copyright_summary {
    }
    if ($firstcont eq "none") {
      # TODO: MAKE THIS MORE DETAILED WITH SOURCES
-     # $str .= "We know of no actively copyright-renewed contributions";
+     $str .= "We know of no actively copyright-renewed contributions";
    } else {
      $str .= "The first ";
      if ($completeness =~ /^active\//) {

@@ -8,7 +8,9 @@
      {"issue": {"issue-date": "1942-11", "volume": "42", "number": "11"}},
    "first-renewed-contribution-source": "1970-JulDec",
    "last-issue": {"issue-date": "1946-12", "volume": "46", "number": "12"},
-   "additional-note" : "Renewals are recorded beginning in the 1970 January-June CCE volume, but the earliest renewed contribution is noted in the 1970 July-December volume.",
+   "additional-notes": ["Renewals are recorded beginning in the 1970 January-June CCE volume, but the earliest renewed contribution is noted in the 1970 July-December volume.",
+   "A 1973 renewal record for Jawaharlal Nehru's 'The Discovery of India' reports that portions were previously published in 'India magazine', but a bibliography and an issue search show that they appeared in this periodical, beginning with the January 1946 issue and continuing through June.  Comprehensive surveys of contribution renewals for this periodical should note these excerpts."
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
