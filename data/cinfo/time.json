@@ -1,5 +1,6 @@
 {
    "title": "Time",
+   "aka": ["Time-Literary Digest"],
    "online": "1",
    "first-renewed-issue":
      {"issue-date": "1934-01-29", "volume": "23", "number": "5"},
@@ -8,10 +9,12 @@
        "issue": {"issue-date": "1940-04-11"}
    },
    "first-renewed-contribution-source": "1967-JulDec",
-   "additional-note" : "Renewals are recorded beginning in the 1967 January-June CCE volume, but the earliest renewed contribution is noted in the 1967 July-December volume.",
+   "additional-notes" : ["Renewals are recorded beginning in the 1967 January-June CCE volume, but the earliest renewed contribution is noted in the 1967 July-December volume.",
+   "Time absorbed the Literary Digest in 1938.  For some years afterwards, issues were sometimes registered for copyright as 'Time-Literary Digest', though the cover title remained simply 'Time'."
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-01-12"
+   "last-updated": "2018-04-23"
 }

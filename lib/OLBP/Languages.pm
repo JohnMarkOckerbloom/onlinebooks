@@ -47,6 +47,7 @@ my $_codetolang = {
   "br" => "Breton",
   "bra" => "Braj",
   "bre" => "Breton",
+  "brx" => "Bodo",
   "btk" => "a Batak language",
   "bug" => "Buginese",
   "bul" => "Bulgarian",

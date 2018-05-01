@@ -1,0 +1,21 @@
+{
+   "title": "Adventure Comics",
+   "contents": [
+      {"url": "https://www.comics.org/series/98/",
+       "note": "Grand Comics Database"}
+   ],
+   "preceded-by":
+      [{"id": "newadventurecomics", "note": "New Adventure Comics"}],
+   "first-issue": {"issue-date": "1938-11", "volume": "3", "number": "32"},
+   "first-renewed-issue":
+     {"issue-date": "1938-11", "volume": "3", "number": "32"},
+   "first-renewed-issue-source": "1966",
+   "first-renewed-contribution": 
+     {"issue": {"issue-date": "1946-04", "number": "103"}},
+   "first-renewed-contribution-source": "1974-JanJun",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2018-04-03"
+}

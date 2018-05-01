@@ -437,7 +437,9 @@ sub serial_copyright_summary {
    }
    if ($firstcont eq "none") {
      # TODO: MAKE THIS MORE DETAILED WITH SOURCES
-     $str .= "We know of no actively copyright-renewed contributions";
+     if ($firstrenew ne "none") {
+       $str .= "We know of no actively copyright-renewed contributions";
+     }
    } else {
      $str .= "The first ";
      if ($completeness =~ /^active\//) {
