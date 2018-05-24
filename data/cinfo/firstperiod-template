@@ -13,7 +13,6 @@
 </head>
 <body itemscope itemtype="http://schema.org/CreativeWork">
 <h1>First copyright renewals for periodicals</h1>
-<!-- Next: Check and merge 1976 Jul-Dec -->
 <!-- For "In" sweep (1st), search /[^A-Za-z][Ii]n (no space after) -->
 <!-- For "B" sweep (2nd),  search /B[0-9]  (no space after)        -->
 This is an inventory of periodicals and their first copyright renewals
@@ -26,10 +25,11 @@ For more information on copyright renewal requirements,
 see <a href="../renewals.html">this page</a>.
 <p>
 The list below should include all of the more than 1000
-periodicals that renewed issue copyrights (for 1923-1950 issues) between
-1950 and 1977, all the periodicals with contribution renewals made
-between 1950 and 1975 (1976 and 1977 are in preparation), and selected periodicals that renewed between 1978 and 1992,
-or that did not renew their copyrights.
+periodicals with renewed issue or contribution copyrights
+(for 1923-1950 issues) between
+1950 and 1977, as well as selected periodicals
+with renewals filed between 1978 and 1992,
+or that do not have copyright renewals.
 (After 1992, copyright renewal was automatic or no longer required.)
 This may be useful as a guide to people who are interested
 in digitizing certain
@@ -66,9 +66,9 @@ X -
 Some caveats to keep in mind:
 <ul>
 <li> Many periodicals first published abroad, as well as those published after 1963, are exempt from renewal requirements, so can still be copyrighted despite the lack of a renewal.
-<li> Contributions to periodicals could be registered separately.  They are not comprehensively represented in this listing past 1947. (We will be adding information for the rest of the 1940s over time.)  So even though a particular magazine issue was not renewed, a contribution appearing in it might have been, and would therefore still be under copyright.  This is particularly common for literary contributions.
+<li> Contributions to periodicals could be registered separately.  So even though a particular magazine issue was not renewed, a contribution appearing in it might have been, and would therefore still be under copyright.  (This is particularly common for literary contributions.)  If you see a periodical listed with an issue renewal but with no mention of contribution renewals, there were no contribution renewals filed for it for material published before 1950, but there might be contribution renewals for material published in 1950 or later.
 <li> Artwork, photographs, dramas, music, and other types of works appearing in periodicals may also have been registered separately, and are not represented here.  Check these categories where appropriate.
-<li> Periodicals, particularly newspapers, may include material that originated  elsewhere (such as wire service stories, syndicated comics and columns, and reprints).  Those may be still copyrighted even if the material original to the periodical is not.  You may need to check the copyright for such externally produced materials separately.  (Note that we only track original contributions here, not reprinted or syndicated contributions.)
+<li> Periodicals, particularly newspapers, may include material that originated  elsewhere (such as wire service stories, syndicated comics and columns, and reprints).  Those may be still copyrighted even if the material original to the periodical is not.  You may need to check the copyright for such externally produced materials separately.  (Note that we only track original contributions here, not reprinted or syndicated contributions, but sometimes the 'more information' page linked to a serial listed here might mention or link to information on reprints.)
 <li> Some serials (in particular, some law reports and annuals, and irregular or undated serials) were not renewed in the periodicals section, but in the books section.   A few early serials of this type are included here; others might not be.
 <li> We may have made mistakes or omissions in our summaries.  You should
 double-check any registrations for periodicals you think might be in the
@@ -78,7 +78,7 @@ renewal data, or for legal advice.
 of the periodicals here may have only renewed certain issues, or stopped
 after a certain point.  Don't assume that all issues after the first 
 renewal shown here are necessary under copyright as well.
-<li> This listing is not complete for periodicals whose first renewed issue was 1950 or later.  You'll need to check the <a href="http://cocatalog.loc.gov/">registered works database</a> for those.
+<li> This listing is not complete for periodicals whose first renewed issue or contribution was 1950 or later.  You'll need to check the <a href="http://cocatalog.loc.gov/">registered works database</a> for those.
 </ul>
 This compilation was made by John Mark Ockerbloom, with assistance from
 Alison Miner and Carly Sewell, based on listings in
@@ -87,8 +87,9 @@ by the US Copyright Office.
 
 <h2 id="A"><b>A</b></h2>
 <ul>
-<li> <cite>The A. A. Grapevine</cite>: issues renewed from April 1946 (v. 2 no. 11); see 1974
+<li> *aagrapevine*
 <li> <cite>A. M. A. Archives of Opththalmology</cite>: see <cite>Archives of Opththalmology</cite>
+<li> <cite>A. S. T. A. Travel News</cite>: see <cite>ASTA Travel News</cite>
 <li> <cite>AAUP Bulletin</cite>: see <cite>Bulletin of the American Association of University Professors</cite>
 <li> <cite>Abbott's Digest of All the New York Reports</cite>: issues prior to 1923 renewed; see 1950 Jan-Jun
 <li> *accent*
@@ -138,10 +139,10 @@ by the US Copyright Office.
 <li> <cite>The Albany Times Union</cite>: see <cite>Times Union</cite> (Albany, NY)
 <li> <cite>The Alcoholics Anonymous Grapevine</cite>: see <cite>The A. A. Grapevine</cite>
 <li> <cite>All Aces</cite>: issues renewed from April 1936 (v. 1 no. 1); see 1963 Jul-Dec
-<li> <cite>All American Comics</cite>: issues renewed from March 1940 (v. 1 no. 12); see 1967
-<li> <cite>All American Comics Western</cite>: see <cite>All American Comics</cite>
+<li> *allamericancomics*
+<li> <cite>All American Comics Western</cite>: see <cite>All American Comics</cite>, <cite>All American Western</cite>
 <li> <cite>All-American Fiction</cite>: issues renewed from November 1937 (v. 1 no. 1); see 1964
-<li> <cite>All American Western</cite>: see <cite>All American Comics</cite>
+<li> *allamericanwestern*
 <li> <cite>All Baseball Stories</cite>: issues renewed from October 1947 (v. 1 no. 1); see 1977 Jul-Dec
 <li> <cite>All Detective Magazine</cite>: no issue renewals found in CCE; contributions renewed from February 1933; see 1960 Jan-Jun
 <li> <cite>All-Flash</cite>: see <cite>All-Flash Quarterly</cite>
@@ -157,6 +158,7 @@ by the US Copyright Office.
 <li> <cite>All Star Sports</cite>: see <cite>Street &amp; Smith's All Star Sports </cite>
 <li> *allstayhome*
 <li> <cite>All-Story</cite>: issues renewed from Oct. 5, 1929 (v. 1 no. 1); see 1956 Jul-Dec; see also <cite>Argosy-Allstory Weekly</cite>
+<li> *allstorydetective*
 <li> <cite>All-Story Love</cite>: see <cite>All-Story</cite>, <cite>All-Story Love Tales</cite>
 <li> <cite>All-Story Love Tales</cite>: for issue renewals see <cite>All-Story</cite>; contributions renewed from September 17, 1938; see 1965 Jul-Dec
 <li> <cite>All Story Love Tales-Munsey</cite>: see <cite>All-Story</cite>, <cite>Munsey's Magazine</cite>
@@ -178,6 +180,7 @@ by the US Copyright Office.
 <li> *amazingstories*
 <li> <cite>Amazing Mysteries</cite>: "consult copyright office"; see 1977 Jan-Jun; first cataloged renewal is for May 1949 (v. 1 no. 32) recorded in 1977 Jul-Dec
 <li> *ambassadorhotel1939*
+<li> *americasbestcomics*
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=leslieamerican"><cite>American</cite></a>: issues renewed from December 3, 1945 (no. 41); see 1973; contributions prior to 1923 renewed; see 1950 Jan-Jun
 <li> <cite>American Academy of Political and Social Science Annals</cite>: see <cite>The Annals of the American Academy of Political and Social Science</cite>
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=amanthro"><cite>American Anthropologist</cite></a>: no issue renewals found in CCE or in registered works database
@@ -257,8 +260,8 @@ by the US Copyright Office.
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=apsreview"><cite>The American Political Science Review</cite></a>: issues renewed from Feb. 1936 (v. 30 no. 1); see 1964
 <li> <cite>American Prefaces</cite>: no issue renewals found in CCE; contributions renewed from October 1935; see 1962 Jul-Dec
 <li> <cite>American Psychologist</cite>: issues renewed from January 1963 (v. 18 no. 1); see registered works database
-<li> <cite>American Quarterly</cite>: issues renewed from Spring 1949 (v. 1 no. 1); see 1977 Jan-Jun
-<li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=amerrifle"><cite>The American Rifleman</cite></a>: issues renewed from January 1943 (v. 91 no. 1); see 1970
+<li> *americanqtly*
+<li> *amerrifle*
 <li> <cite>The American Review</cite> (Seward Collins publication, 1933-1937): no issue renewals found in CCE; contributions renewed from May 1934; see 1962 Jan-Jun
 <li> *americanscholar*
 <li> *amschoolbdj*
@@ -278,7 +281,7 @@ by the US Copyright Office.
 <li> *americanwineliquor*
 <li> <cite>The American Woman</cite>: issues renewed from March 1937 (v. 1 no. 1); see 1964
 <li> <cite>Americans at Work</cite> (CBS): issues renewed from October 12, 1939 (no. 21); see 1967
-<li> <cite>America's Best Comics</cite>: issues renewed from September 1942 (v. 1 no. 2); see 1970
+<li> *americas1949*
 <li> <cite>Der Amerikaner</cite>: no issue renewals found in CCE; contributions renewed at least as far back as August 31, 1923; see 1951 Jan-Jun
 <li> <cite>Analytical Chemistry</cite>: issues renewed from January 15, 1948 (v. 20 no. 1); see 1975; see also <cite>Industrial and Engineering Chemistry</cite> (analytical edition); name oscillates a bit at first
 <li> *ancientmasonry*
@@ -294,10 +297,12 @@ by the US Copyright Office.
 <li> <cite>Les Annales</cite> (French): no issue renewals found in CCE or registered works database; contributions prior to 1923 renewed; see 1950 Jan-Jun
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=annalsmath"><cite>Annals of Mathematics</cite></a>: issues renewed from July 1945 (v. 46 no. 3); see 1973
 <li> <cite>The Annals of Medical History</cite>: issues renewed from Jan. 1937 (new series, v. 9 no. 1); see 1964
+<li> *annalsofsurgery*
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=aapssannals"><cite>The Annals of the American Academy of Political and Social Science</cite></a>: volumes renewed from Nov. 1931 (v. 158); see 1959 Jul-Dec
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=aagannals"><cite>Annals of the American Society of Geographers</cite></a>: no issue renewals found in CCE or in registered works database
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=mbgannals"><cite>Annals of the Missouri Botanical Garden</cite></a>: no issue renewals found in CCE or in registered works database
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=nyasannals"><cite>Annals of the New York Academy of Sciences</cite></a>: no issue renewals found in CCE or in registered works database
+<li> *annalsorgone*
 <li> <cite>Annie Oakley</cite>: "consult copyright office"; see 1975; first cataloged renewal for Spring 1948 (v. 1 no. 1) in 1977 Jul-Dec
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=asorannual"><cite>Annual of the American Schools of Oriental Research</cite></a>: no issue renewals found in CCE or registered works database
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=amsindex"><cite>Annual Magazine Subject-Index</cite></a>: no issue renewals found in CCE
@@ -322,11 +327,12 @@ by the US Copyright Office.
 <li> <cite>The Architect's World</cite>: no issue renewals found in CCE; contributions renewed from June 1938; see 1965 Jan-Jun
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=architecturalforum"><cite>Architectural Forum</cite></a>: issues renewed from April 1932 (v. 56 no. 4); see 1959 Jan-Jun; contributions renewed from November 1932; see 1960 Jan-Jun
 <li> <cite>Architectural Forum and Supplement</cite>: see <cite>Architectural Forum</cite>
+<li> *architecturalrecord*
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=architecture1900"><cite>Architecture</cite></a> (New York, 1900-1936): no issue or contribution renewals found in CCE
 <li> <cite>Archives of Biochemistry</cite>: issues renewed from October 1942 (v. 1 no. 1); see 1969
 <li> *archivesophthalmama*
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=argosyus"><cite>Argosy</cite></a>: see <cite>Argosy-Allstory Weekly</cite>
-<li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=argosyus"><cite>Argosy-Allstory Weekly</cite></a>: issues and contributions from prior to 1923 renewed; see 1950 Jul-Dec
+<li> *argosyus*
 <li> <cite>Argosy Weekly</cite>: see <cite>Argosy-Allstory Weekly</cite>
 <li> *arizonahighways*
 <li> *arizonaqtly*
@@ -350,6 +356,7 @@ by the US Copyright Office.
 <li> *asia*
 <li> *asiaandamericas*
 <li> <cite>Association for Computing Machinery Journal</cite>: issues renewed from January 1954 (v. 1 no. 1); see registered works database
+<li> *astatravelnews*
 <li> *astonishing*
 <li> <cite>Astounding Science Fiction</cite>: see <cite>Astounding Stories</cite>
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=astounding"><cite>Astounding Stories</cite></a>: issues renewed from October 1933 (v. 12 no. 2); see 1960 Jul-Dec; contributions renewed from March 1934; see 1961 Jul-Dec and 1962 Jan-Jun
@@ -538,6 +545,7 @@ by the US Copyright Office.
 <li> <cite>Callaghan's Iowa Digest</cite>: issues prior to 1923 renewed; see 1950 Jan-Jun
 <li> <cite>Callaghan's Wisconsin Digest</cite>: issues prior to 1923 renewed; see 1950 Jan-Jun
 <li> *callingallgirls*
+<li> *cdnhomej*
 <li> <cite>Cancer</cite>: issues renewed from July 1948 (v. 1 no. 2); see 1976 Jul-Dec
 <li> <cite>The Cancer Bulleton</cite>: issues renewed from July-August 1949 (v. 1 no. 3); see 1977 Jul-Dec
 <li> <cite>Candid Confessions</cite>: issues renewed from Oct. 1937 (v. 1 no. 1); see 1964
@@ -600,6 +608,7 @@ by the US Copyright Office.
 <li> <cite>Chicago Daily News and Chicago Daily Journal</cite>: see <cite>Chicago Daily News</cite>
 <li> *dailytimesilchi*
 <li> <cite>Chicago Daily Tribune</cite>: issues renewed from July 15, 1946 (v. 105 no. 168); see 1974; contributions from prior to 1923 renewed; see 1950 Jan-Jun
+<li> *chicagodefender*
 <li> <cite>Chicago Evening Post</cite>: no issue renewals found in CCE; contributions renewed from July 14, 1928; see 1956 Jan-Jun
 <li> *heraldamericanilchi*
 <li> *chicagoreview*
@@ -623,6 +632,7 @@ by the US Copyright Office.
 <li> *chimera*
 <li> <cite>The Choir Herald</cite>: issues from prior to 1923 renewed; see 1950 Jan-Jun; contributions renewed from May 1927; see 1954 Jul-Dec
 <li> <cite>The Choir Leader</cite>: issues from prior to 1923 renewed; see 1950 Jan-Jun; contributions renewed from May 1927; see 1954 Jul-Dec
+<li> *christianadvocate*
 <li> *christiancentury*
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=christcyno"><cite>The Christian Cynosure</cite></a>: no issue renewals found in CCE or in registered works database
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=christedu"><cite>Christian Education</cite></a>: no issue renewals found in CCE or in registered works database
@@ -714,6 +724,7 @@ by the US Copyright Office.
 <li> <cite>Complete Story Magazine</cite>: issues renewed from July 1, 1924 (v. 1 no. 1); see 1951 Jul-Dec; for first contribution renewal see <cite>Complete Stories</cite>
 <li> <cite>Complete War Novels Magazine</cite>: "consult copyright office"; see 1970; first cataloged renewal for September 1942 (v. 1 no. 1) in 1977 Jul-Dec
 <li> *completewesternbook*
+<li> *complexpsychoanalysis*
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=confedvet"><cite>Confederate Veteran</cite></a>: no issue renewals found in CCE
 <li> *congressionaldigest*
 <li> <cite>Consumer Reports</cite>: issues renewed from May 1948 (v. 13 no. 5); see 1976 Jan-Jun
@@ -815,12 +826,14 @@ by the US Copyright Office.
 <li> *delineator*
 <li> <cite>Delineator-Pictorial Review</cite>: see <cite>Pictorial Review-Delineator</cite>
 <li> *denverpost*
+<li> *desmoinesregtribsyn*
 <li> *deseretnews*
 <li> <cite>The Desert Magazine</cite>: issues renewed from Nov. 1937 (v. 1 no. 1); see 1965
 <li> <cite>The Designer</cite>: see <cite>The Designer and the Woman's Magazine</cite>
 <li> <cite>The Designer and the Woman's Magazine</cite>: no issue renewals found in CCE; contributions renewed at least as far back as August 1923; see 1950 Jul-Dec
 <li> <cite>Detective Action Magazine</cite>: see <cite>Detective Action Stories</cite>
 <li> <cite>Detective Action Stories</cite>: issues renewed from Nov. 1930 (v. 1 no. 2); see 1958 Jan-Jun; contributions renewed from Oct. 1930; see 1957 Jul-Dec
+<li> *detectivebookmag*
 <li> <cite>Detective Classics</cite>: issues renewed from Nov. 1929 (v. 1 no. 1); see 1957 Jul-Dec
 <li> *detectivecomics*
 <li> <cite>Detective Dime Novels</cite>: issues renewed from April 1940 (v. 1 no. 1); see 1967
@@ -845,13 +858,14 @@ by the US Copyright Office.
 <li> <cite>Digest of the Decisions of the Court of Appeals of Kentucky</cite>: volumes prior to 1923 renewed; see 1950 Jan-Jun
 <li> <cite>Digest of the Decisions of the Courts of Missouri</cite>: volumes prior to 1923 renewed; see 1950 Jan-Jun
 <li> <cite>Dime Adventure Magazine</cite>: issues renewed from June 1935 (v. 1 no. 1); see 1962 Jul-Dec
-<li> <cite>Dime Detective Magazine</cite>: issues renewed from July 1932 (v. 3 no. 1); see 1959 Jul-Dec; contributions renewed from June 1932; see 1959 Jan-Jun
+<li> *dimedetective*
 <li> <cite>Dime Detective Magazine-Flynn's Detective Fiction</cite>: see <cite>Dime Detective Magazine</cite>, <cite>Flynn's</cite>
-<li> <cite>Dime Detective Western</cite>: issues renewed from February 1947 (v. 53 no. 3); see 1975; probably special combo of <cite>Dime Detective Magazine</cite> and <cite>Dime Western Magazine</cite>
+<li> <cite>Dime Detective Western</cite>: see <cite>Dime Detective Magazine</cite>
 <li> <cite>Dime Mystery Magazine</cite>: issues renewed from Oct. 1934 (v. 6 no. 3); see 1961 Jul-Dec; contributions renewed from July 1935; see 1962 Jul-Dec
 <li> <cite>Dime Mystery-10 Story Mystery</cite>: see <cite>Dime Mystery Magazine</cite>, <cite>10 Story Mystery Magazine</cite>
 <li> <cite>Dime Sports Magazine</cite>: issues renewed from July 1935 (v. 1 no. 1); see 1962 Jul-Dec
-<li> <cite>Dime Western Magazine</cite>: issues renewed from Oct. 15, 1934 (v. 7 no. 3); see 1961 Jul-Dec; contributions renewed from Nov. 1, 1934; see 1962 Jul-Dec
+<li> *dimewestern*
+<li> <cite>Dime Western Magazine Combined With Western Rangers</cite>: see <cite>Dime Western Magazine</cite>
 <li> <cite>Dinky Comics</cite>: issues renewed from August 1949 (v. 1 no. 6); see 1976 Jul-Dec
 <li> <cite>Direct Credits</cite>: see <cite>Direct Credits for Humanity</cite>
 <li> <cite>Direct Credits for Humanity</cite>: issues renewed from September 1932 (v. 1 no. 2); see 1960 Jan-Jun
@@ -868,6 +882,7 @@ by the US Copyright Office.
 <li> <cite>The Double Dealer</cite> (New Orleans literary journal, 1921-1926): no issue renewals found in CCE; contributions renewed at least as far back as Feb. 1923; see 1950 Jul-Dec
 <li> <cite>Double Detective</cite>: issues and contributions renewed from November 1937 (v. 1 no. 1); see 1964
 <li> *doubledaybooknews*
+<li> *doublelife*
 <li> <cite>Down to Earth</cite>: issues renewed from Spring 1948 (v. 3 no. 4); see 1976 Jan-Jun
 <li> *dragnet1928*
 <li> <cite>The Drama</cite>: no issue renewals found in CCE; contributions renewed from Jan 1928; see 1955 Jan-Jun
@@ -916,6 +931,7 @@ by the US Copyright Office.
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=ukhistrev"><cite>The English Historical Review</cite></a>: no issue renewals found in CCE or in registered works database
 <li> *englishinstannual*
 <li> <a href="onlinebooks.library.upenn.edu/webbin/serial?id=ukhistrev"><cite>The English Journal</cite></a>: no issue renewals found in CCE or in registered works database
+<li> *epistle1934*
 <li> *epoch1947*
 <li> <cite>Enquirer Sunday Magazine</cite>: contributions renewed from Nov 27, 1927; see 1955 Jul-Dec; see also <cite>Cincinnati Enquirer</cite>
 <li> <cite>Esquire</cite>: issues renewed from autumn 1933 (v. 1 no. 1); see 1961 Jul-Dec; contributions renewed from autumn 1933; see 1960 Jul-Dec
@@ -962,6 +978,7 @@ by the US Copyright Office.
 </ul>
 <h2 id="F"><b>F</b></h2>
 <ul>
+<li> *fbidetective*
 <li> <cite>Fabrics and Fashions</cite>: issues renewed from spring 1933 (v. 2 no. 3); see 1961 Jan-Jun
 <li> <cite>Facts for Advertisers</cite> (National Geographic): issues renewed from May 1934 (v. 14 no. 6); see 1961 Jan-Jun
 <li> <cite>Facts for Women</cite>: issues renewed from May 1943 (v. 1 no. 4); see 1971
@@ -975,10 +992,13 @@ by the US Copyright Office.
 <li> <cite>The Famous Story Magazine</cite>: no issue renewals found in CCE; contributions renewed for Nov. 1925 and Aug. 1926; see 1952 Jul-Dec and 1954 Jul-Dec
 <li> *fantasticadventures*
 <li> <cite>Fantastic Novels</cite>: issues renewed from July 1940 (v. 1 no. 1); see 1967
-<li> <cite>Fantastic Story Quarterly</cite>: issues renewed from Spring 1950 (v. 1 no. 1); see 1977 Jul-Dec
+<li> *fantasticstoryqtly*
 <li> *fantasy1931*
+<li> <cite>Fantasy and Science-Fiction</cite>: see <cite>The Magazine of Fantasy and Science Fiction</cite>
 <li> *fantasybook1947*
 <li> *fantasycommentator*
+<li> *fantasyfiction1950*
+<li> <cite>Fantasy Stories</cite> (1950): see <cite>Fantasy Fiction</cite> (1950)
 <li> <cite>Far West Illustrated Magazine</cite>: see <cite>True Western Stories</cite>
 <li> <cite>Far West Stories</cite>: see <cite>Far West Illustrated Magazine</cite>
 <li> <cite>Farm Journal</cite>: for issue renewals see see <cite>Farm Journal and Farmer's Wife</cite>; contributions renewed from September 1928; see 1955 Jul-Dec
@@ -990,6 +1010,7 @@ by the US Copyright Office.
 <li> *faunaphillyzoo*
 <li> <cite>Fawcett's Funny Animals</cite>: see <cite>Funny Animals</cite>
 <li> <cite>Fawcett's Magazine</cite> (1925-1926): see <cite>True Confessions</cite>
+<li> <cite>FBI Detective Stories</cite>: see <cite>F.B.I. Detective Stories</cite>
 <li> <cite>Feature Films Magazine</cite>: issues renewed from March-April 1950 (no. 1); see 1977 Jul-Dec
 <li> <cite>Federal Reporter</cite>: issues prior to 1923 renewed; see 1950 Jan-Jun
 <li> <cite>Federal Rules Decisions</cite>: issues renewed from January 1940 (v. 1 no. 1); see 1967
@@ -1000,6 +1021,7 @@ by the US Copyright Office.
 <li> <cite>Fiction Lovers Magazine</cite>: no issue copyright renewals found in CCE; contribution renewals for April and July 1925; see 1953 Jan-Jun
 <li> <cite>Fiction Parade and Golden Book</cite>: no issue renewals found in CCE; contributions renewed from October 1935; see 1962 Jul-Dec; see also <cite>Golden Book Magazine</cite>, which has earlier renewed contributions
 <li> <cite>Field and Stream</cite>: issues renewed from June 1937 (v. 42 no. 2); see 1965; contributions renewed from March 1926; see 1954 Jan-Jun
+<li> *fifteensportsstories*
 <li> *fifteenwesterntales*
 <li> <cite>Fifth Column Stories</cite>: issues renewed from August 1940 (v. 1 no. 1); see 1967
 <li> <cite>Fighting Aces</cite>: issues renewed from March 1940 (v. 1 no. 1); see 1967
@@ -1011,11 +1033,12 @@ by the US Copyright Office.
 <li> <cite>Film Humor</cite>: "consult copyright office"; see 1977 Jan-Jun; first cataloged renewal is for Spring 1949 (v. 1 no. 4) recorded in 1977 Jul-Dec
 <li> <cite>Filmland</cite>: issues renewed from November 1949 (v. 1 no. 1); see 1977 Jul-Dec
 <li> *films1939*
-<li> <cite>Films in Review</cite>: issues renewed from March 1950 (v. 1 no. 2); see 1977 Jan-Jun
+<li> *filmsinreview*
 <li> <cite>Five Detective Mystery Novels Magazine</cite>: see <cite>Five Detective Novels Magazine</cite>
 <li> <cite>Five Detective Novels Magazine</cite>: "consult copyright office"; see 1976 Jul-Dec; first cataloged renewal for Winter 1950 (v. 1 no. 2) in 1977 Jul-Dec
 <li> <cite>Five Novels Monthly</cite>: no issue renewals found in CCE; contributions renewed from January 1929; see 1956 Jan-Jun
 <li> <cite>Five Western Novels</cite>: "consult copyright office"; see 1975; first cataloged renewal is for January 1948 (v. 1 no. 1) recorded in 1977 Jul-Dec
+<li> *flair1950*
 <li> <cite>Flash Comics</cite>: issues renewed from January 1940 (v. 1 no. 1); see 1967
 <li> <cite>Flash Gordon</cite>: issues renewed from October 1950 (v. 1 no. 1); see 1977 Jul-Dec
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=flanthro"><cite>The Florida Anthropologist</cite></a>: no issue renewals found in CCE or registered works database
@@ -1049,7 +1072,8 @@ by the US Copyright Office.
 <li> *forestindustries*
 <li> <cite>Fort Worth Star-Telegram</cite>: no issue renewals found in CCE or registered works database; for contributions see <cite>Fort Worth Star-Telegram and Sunday Record</cite>
 <li> <cite>Fort Worth Star-Telegram and Sunday Record</cite>: no issue renewals found in CCE or registered works database; contributions renewed from Feb. 2, 1930; see 1957 Jan-Jun
-<li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=fortrevpreuss"><cite>The Fortnightly Review</cite></a> (American Catholic periodical): no issue renewals found in CCE
+<li> *fortrevpreuss*
+<li> *fortrevloebrhoades*
 <li> <cite>'48: The Magazine of the Year</cite>: see <cite>The Magazine of the Year</cite>
 <li> <cite>'47: The Magazine of the Year</cite>: see <cite>The Magazine of the Year</cite>
 <li> <cite>Fortune</cite> (Time, Inc.): issues renewed from Feb. 1930 (v. 1 no. 1); see 1957 Jul-Dec; contributions renewed from May 1933; see 1960 Jan-Jun
@@ -1086,6 +1110,7 @@ by the US Copyright Office.
 <li> <cite>Funny Tunes</cite>: see <cite>Animated Funny Comic-Tunes</cite>
 <li> *furioso*
 <li> *futurecombinedsf41*
+<li> *futurecombinedsf50*
 <li> *futurefiction*
 </ul>
 <h2 id="G"><b>G</b></h2>
@@ -1110,6 +1135,7 @@ by the US Copyright Office.
 <li> <cite>The Gardner Grinder</cite>: issues renewed from Nov. 1942 (v. 13 no. 1); see 1970
 <li> <cite>Gastroenterology</cite>: issues renewed from March 1943 (v. 1 no. 3); see 1971
 <li> *gateway*
+<li> *gatewayforgirls*
 <li> <cite>Gay Book</cite> (1933-ca. 1945): no issue renewals found in CCE; contributions renewed from January 1933; see 1959 Jul-Dec
 <li> <cite>Gay Comics</cite>: "consult copyright office"; see 1971; first cataloged renewal for 1944 (v. 1 no. 1) recorded in 1977 Jul-Dec
 <li> <cite>Gayety</cite>: "consult copyright office"; see 1970; first cataloged renewal for April 1943 (v. 1 no. 1) recorded in 1977 Jul-Dec
@@ -1141,8 +1167,8 @@ by the US Copyright Office.
 <li> <cite>Girl's Love Stories</cite>: issues renewed from August-September 1949 (no. 1); see 1977 Jan-Jun
 <li> <cite>Girls' Romances</cite>: issues renewed from February-March 1950 (no. 1); see 1977 Jul-Dec
 <li> *girlstoday*
-<li> <cite>Glamour</cite>: see <cite>Glamour of Hollywood</cite>
-<li> <cite>Glamour of Hollywood</cite>: issues renewed from April 1939 (v. 1 no. 1); see 1966
+<li> *glamour*
+<li> <cite>Glamour of Hollywood</cite>: see <cite>Glamour</cite>
 <li> <cite>Glasgow Daily Express</cite>: no issue renewals found in CCE or registered works database; contributions renewed from Feb. 24, 1930; see 1957 Jul-Dec; see also <cite>The Daily Express</cite> (for which this may be the Scotland edition)
 <li> *globe1937*
 <li> <cite>Gold of the Superstitions</cite>: issues renewed from October 1940 (v. 1 no. 1); see 1968
@@ -1174,6 +1200,7 @@ by the US Copyright Office.
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=happydaysdn"><cite>Happy Days</cite></a> (1894-1924): no issue or contribution renewals found in CCE
 <li> <cite>Harbor Bells</cite>: volumes and contributions renewed from 1933 (no. 2); see 1960 Jul-Dec and 1961 Jan-Jun
 <li> <cite>Hardboiled</cite>: issues renewed from October 1936 (v. 1 no. 1); see 1963 Jul-Dec
+<li> *harlemqtly*
 <li> <cite>Harmsworth's Red Magazine</cite>: see <cite>The Red Magazine</cite>
 <li> <cite>Harper's Bazaar</cite>: issues prior to 1923 renewed; contributions at least as far back as January 1923 renewed; see 1950 Jan-Jun
 <li> <cite>Harper's Bazar</cite>: see <cite>Harper's Bazaar</cite>
@@ -1185,6 +1212,7 @@ by the US Copyright Office.
 <li> *harvardlibbul*
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=harvardclasphil"><cite>Harvard Studies in Classical Philology</cite></a>: issues renewed from 1951 (v. 60); see registered works database
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=harvardtheorev"><cite>The Harvard Theological Review</cite></a>: no issue renewals found in CCE or registered works database 
+<li> <cite>Harvard Wake</cite>: see <cite>Wake</cite>
 <li> <cite>Haunt of Fear</cite>: issues renewed from May-June 1950 (v. 1 no. 15); see 1977 Jan-Jun
 <li> <cite>The Haversack</cite> (Methodist "paper for boys", 1922-1936): no issue renewals found in CCE; contributions renewed from November 12, 1933; see 1961 Jul-Dec
 <li> <cite>Hawaii</cite>: issues renewed from January 17, 1944 (v. 5 no. 1); see 1972
@@ -1229,11 +1257,13 @@ by the US Copyright Office.
 <li> <cite>Home Chat</cite>: no issue renewals found in CCE or registered works database; contributions renewed from July 2, 1927; see 1955 Jan-Jun
 <li> <cite>The Home Garden</cite>: issues renewed from Jan. 1946 (v. 7 no. 1); see 1973
 <li> <cite>Home Journal</cite> (non-US): no issue renewals found in CCE or registered works database; contributions renewed from March 20, 1937; see 1964 Jan-Jun
+<li> <cite>Home News (New York Post)</cite>: see <cite>New York Evening Post</cite>
 <li> <cite>Home Notes</cite> (London, 1894-1958): no issue renewals found in CCE or registered works database; contributions renewed from December 26, 1936; see 1964 Jan-Jun
 <li> <cite>The Homestead Leader-Enterprise</cite>: see <cite>Leader Enterprise</cite> (Homestead, FL)
 <li> <cite>Honeymoon</cite>: issues renewed from January 1950 (v. 1 no. 41); see 1977 Jul-Dec
-<li> <cite>Hopalong Cassidy's Western Magazine</cite>: issues renewed from Fall 1950 (v. 1 no. 1); see 1977 Jul-Dec
+<li> *hopalongcassidywest*
 <li> <cite>Hopalong Cassidy Trooper News</cite>: issues renewed from 1949 (v. 1 no. 2); see 1977 Jul-Dec
+<li> *hopkinsreview*
 <li> <cite>Hoppy the Marvel Bunny</cite>: issues renewed from Dec. 1945 (v. 1 no. 1); see 1973
 <li> *horizonuk1940*
 <li> <cite>The Horn Book</cite>: issues renewed from Feb. 1931 (v. 7 no. 1); see 1959 Jan-Jun; contributions renewed from March 1926; see 1953 Jan-Jun
@@ -1265,8 +1295,8 @@ by the US Copyright Office.
 <h2 id="I"><b>I</b></h2>
 <ul>
 <li> <cite>I Confess</cite>: "consult copyright office"; see 1977 Jan-Jun; first cataloged renewal for October 1949 (v. 1 no. 1) recorded in 1977 Jul-Dec
-<li> <cite>Ideal</cite>: "consult copyright office"; see 1976 Jan-Jun; same as <cite>Ideal Comics</cite>?
-<li> <cite>Ideal Comics</cite>: "consult copyright office"; see 1974; first cataloged renewal for Fall 1944 (v. 1 no. 1) recorded in 1977 Jul-Dec
+<li> *ideal1948*
+<li> *idealcomics*
 <li> <cite>If</cite>: contributions renewed from March 1952 (v. 1 no. 1); see registered works database
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=illawrev"><cite>Illinois Law Review</cite></a>: issues renewed from December 1936 (v. 31 no. 4); see 1964; see also <cite>Northwestern University Law Review</cite>
 <li> <cite>Illustrated Detective Magazine</cite>: no issue renewals found in CCE; contributions renewed from May 1931; see 1958 Jan-Jun
@@ -1274,6 +1304,7 @@ by the US Copyright Office.
 <li> *illuslondonnews*
 <li> <cite>Illustrated Love Magazine</cite>: no issue renewals found in CCE; contributions renewed from August 1930; see 1957 Jul-Dec
 <li> <cite>L'Illustration</cite> (French journal): no issue renewals found in CCE or registered works database; contributions prior to 1923 renewed; see 1950 Jan-Jun
+<li> *imagi*
 <li> <cite>Imagination</cite> (US science fiction magazine, 1950-1958): no issue renewals found in CCE or registered works database
 <li> <cite>The Immortal Storm: A History of Science Fiction Fandom</cite>: issues renewed from Summer 1948 (v. 2 no. 7); see 1976 Jan-Jun
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=independentus1848"><cite>The Independent</cite></a> (New York magazine, 1848-1928): no issue renewals found in CCE; contributions prior to 1923 renewed; see 1950 Jan-Jun
@@ -1288,6 +1319,7 @@ by the US Copyright Office.
 <li> <cite>Inner Culture</cite>: issues renewed from January-March 1943 (v. 14 no. 3); see 1970
 <li> <cite>Inorganic Chemistry</cite>: issues renewed from February 1962 (v. 1 no. 1); see registered works database
 <li> <cite>Inside the ACD</cite>: issues renewed from December 1948 (v. 1 no. 2); see 1976 Jan-Jun
+<li> *inspirationmag*
 <li> <cite>Institute of Radio Engineers Proceedings</cite>: issues renewed from January 1930 (v. 18 no. 1); see 1957 Jul-Dec
 <li> <cite>The Instrumentalist</cite>: issues renewed from January-February 1949 (v. 3 no. 3); see 1977 Jan-Jun
 <li> *interamerican*
@@ -1337,8 +1369,9 @@ by the US Copyright Office.
 <li> <cite>Joseph System Service</cite>: issues renewed from March 1926 (v. 1 no. 1); see 1954 Jul-Dec
 <li> <cite>Le Journal</cite> (Paris): see <cite>Paris Journal</cite>
 <li> <cite>Journal Every Evening</cite> (Wilmington, DE): no issue renewals found in CCE or registered works database; contributions renewed from Feb. 13, 1936; see 1963 Jan-Jun
-<li> <cite>Journal of Abnormal and Social Psychology</cite></a> (1925-1964): issues renewed from January 1963 (v. 66 no. 1); see registered works database; see also <cite>Journal of Abnormal Psychology and Social Psychology</cite> below
-<li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=japsych"><cite>Journal of Abnormal Psychology and Social Psychology</cite></a> (1921-1925): no issue or contribution renewals found under this name in CCE, but see also <cite>Journal of Abnormal and Social Psychology</cite> above
+<li> *japsych*
+<li> <cite>Journal of Abnormal and Social Psychology</cite></a>: see <cite>Journal of Abnormal Psychology</cite>
+<li> <cite>Journal of Abnormal Psychology and Social Psychology</cite>: see <cite>Journal of Abnormal Psychology</cite>
 <li> <cite>The Journal of Accountancy</cite>: issues renewed from November 1937 (v. 64 no. 5); see 1965
 <li> <cite>Journal of Agricultural and Food Chemistry</cite>: issues renewed from August 5, 1953 (v. 1 no. 10); see registered works database
 <li> *jamfolklore*
@@ -1350,7 +1383,7 @@ by the US Copyright Office.
 <li> <cite>The Journal of Business</cite>: see <cite>Journal of Business of the University of Chicago</cite>
 <li> <cite>Journal of Business of the University of Chicago</cite>: issues renewed from April 1941 (v. 14 no. 2 pt. 1); see 1969
 <li> <cite>Journal of Chemical Documentation</cite>: issues renewed from January 1961 (v. 1. no. 1); see registered works database
-<li> <cite>Journal of Chemical Education</cite>: no issue renewals found in CCE or in registered works database
+<li> *jchemeduc*
 <li> <cite>Journal of Colloid Science</cite>: issues renewed from January 1946 (v. 1 no. 1); see 1973
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=jcompneurology"><cite>The Journal of Comparative Neurology</cite></a>: no issue renewals found in CCE or in registered works database
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=jcomppsych"><cite>Journal of Comparative Psychology</cite></a>: issues renewed from October 1940 (v. 30 no. 2); see 1968
@@ -1382,7 +1415,7 @@ by the US Copyright Office.
 <li> <cite>Journal of Neuropathology and Experimental Neurology</cite>: issues renewed from July 1945 (v. 4 no. 3); see 1973
 <li> <cite>Journal of Neurophysiology</cite>: issues renewed from January 1945 (v. 8 no. 1); see 1972
 <li> <cite>The Journal of Organic Chemistry</cite>: issues renewed from January 1941 (v. 6 no. 1); see 1968
-<li> <cite>Journal of Personality</cite>: issues renewed from September 1945 (v. 14 no. 1); see 1973
+<li> *jpersonality*
 <li> <cite>Journal of Pharmacology and Experimental Therapeutics</cite>: issues renewed from October 1940 (v. 70 no. 2); see 1968
 <li> *jphil*
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=jpolecon"><cite>Journal of Political Economy</cite></a>: issues renewed from August 1953 (v. 61 no. 4); see registered works database
@@ -1411,6 +1444,7 @@ by the US Copyright Office.
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=jilhistsoc"><cite>Journal of the Illinois State Historical Society</cite></a>: no issue renewals found in CCE or registered works database
 <li> *garencampment*
 <li> <cite>Journal of the Optical Society of America</cite>: issues renewed from Dec. 1951 (v. 41 no. 12); see registered works database
+<li> *jwashacadsci*
 <li> <cite>The Journal of Urology</cite>: issues renewed from November 1940 (v. 44 no. 5); see 1968; one contribution renewed, for August 1935; see 1962 Jul-Dec
 <li> <cite>The Journal of Wildlife Management</cite>: no issue renewals found in CCE or registered works database
 <li> <cite>Jr. Hi Topic</cite>: see <cite>Jr. High Topic</cite>
@@ -1418,6 +1452,7 @@ by the US Copyright Office.
 <li> <cite>Jubilee</cite>: issues renewed from September 1950 (v. 1 no. 1); see 1977 Jul-Dec
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp60591"><cite>Judge</cite></a>: no issue renewals found in CCE
 <li> <cite>Jungle Jim</cite>: issues renewed from January 1949 (no. 11); see 1976 Jul-Dec
+<li> *junglestories1938*
 <li> *juniorbazaar*
 <li> *jrbibschoolworkbook*
 <li> <cite>Junior Class</cite>: "consult copyright office"; see 1977 Jan-Jun; first cataloged renewal for July-September 1949 (v. 32 no. 3) recorded in 1977 Jul-Dec
@@ -1542,6 +1577,7 @@ by the US Copyright Office.
 <li> <cite>London Weekly Dispatch</cite>: no renewals found in CCE; contributions renewed from April 17, 1927; see 1955 Jan-Jun
 <li> <cite>The Lone Eagle</cite>: issues renewed from December 1935 (v. 9 no. 3); see 1963 Jul-Dec
 <li> <cite>The Lone Ranger</cite>: issues renewed from August 1949 (v. 1 no. 14); see 1977 Jul-Dec
+<li> *lisundaypress*
 <li> *look*
 <li> <cite>Looney Tunes and Merrie Melodies Comics</cite>: issues renewed from April 1942 (v. 1 no. 6); see 1970
 <li> <cite>Los Angeles Daily News</cite>: see <cite>Daily News</cite> (Los Angeles)
@@ -1583,8 +1619,8 @@ by the US Copyright Office.
 <li> <cite>The Magazine Antiques</cite>: see <cite>Antiques</cite>
 <li> *magazineofart*
 <li> <cite>The Magazine of Business</cite>: no issue renewals found in CCE; contributions renewed from January 1929; see 1956 Jul-Dec
-<li> <cite>The Magazine of Fantasy</cite>: issues renewed from Fall 1949 (v. 1 no. 1); see 1977 Jul-Dec
-<li> <cite>The Magazine of Fantasy and Science Fiction</cite>: see <cite>The Magazine of Fantasy</cite>
+<li> <cite>The Magazine of Fantasy</cite>: see <cite>The Magazine of Fantasy and Science Fiction</cite>
+<li> *magoffandsf*
 <li> *magazineoftheyear*
 <li> <cite>Magdalene College Magazine</cite> (Cambridge, UK): no issue renewals found in CCE or registered works database; contributions renewed from June 1932; see 1959 Jul-Dec
 <li> *magiccomics*
@@ -1617,6 +1653,7 @@ by the US Copyright Office.
 <li> <cite>The Masked Detective</cite>: issues renewed from Fall 1940 (v. 1 no. 1); see 1967
 <li> *maskedriderwestern*
 <li> <cite>Mason City Globe Gazette</cite>: no issue renewals found in CCE or registered works database; contributions renewed from Feb. 7, 1938; see 1965 Jan-Jun
+<li> *massesmainstream*
 <li> <cite>Master Comics</cite>: issues renewed from May 1945 (v. 11 no. 61); see 1973
 <li> *masterdetective*
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=mathgazette"><cite>The Mathematical Gazette</cite></a>: no issue renewals found in CCE or registered works database
@@ -1627,6 +1664,7 @@ by the US Copyright Office.
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=mcclures"><cite>McClure's</cite></a>: no issue renewals found in CCE; contributions from prior to 1923 renewed; see 1950 Jan-Jun
 <li> <cite>McFadden Fiction-Lovers Magazine</cite>: see <cite>Fiction Lovers Magazine</cite>
 <li> <cite>McNaught's Monthly</cite> (1924-1927): no issue renewals found in CCE; contributions renewed from March 1927; see 1954 Jan-Jun
+<li> *measure1950*
 <li> *mechanixillustrated*
 <li> <cite>The Medical Clinics of North America</cite>: issues renewed from January 1924 (v. 7 no. 4); see 1952
 <li> <cite>Medical Radiography and Photography</cite>: issues renewed from 1947 (v. 23 no. 1);  see 1974; see also <cite>Radiography and Clinical Photography</cite> (continuation?)
@@ -1641,6 +1679,7 @@ by the US Copyright Office.
 <li> <cite>Mentor - World Traveler</cite>: see <cite>The Mentor</cite>
 <li> *starmsmeridian*
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=messengerny"><cite>The Messenger</cite></a> (Harlem Renaissance magazine): no issue renewals found in CCE
+<li> *metronome*
 <li> *metropolismag40*
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=metropolitanmagny"><cite>Metropolitan</cite></a>: no issue renewals found in CCE; contributions prior to 1923 renewed; see 1950 Jul-Dec
 <li> <cite>Metropolitan Museum of Art, New York, Bulletin</cite>: issues renewed from January 1940 (v. 35 no. 1); see 1967
@@ -1679,7 +1718,8 @@ by the US Copyright Office.
 <li> <cite>Miss America Young Life</cite>: see <cite>Miss America Special Edition</cite>
 <li> <cite>Miss Beverly Hills of Hollywood</cite>: issues renewed from March-April 1949 (no. 1); see 1976 Jul-Dec
 <li> <cite>Miss Melody Lane of Broadway</cite>: issues renewed from February-March 1950 (no. 1); see 1977 Jul-Dec
-<li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=mivalhr"><cite>Mississippi Valley Historical Review</cite></a>: issues renewed from September 1939 (v. 26 no. 2); see 1967
+<li> <cite>Mississippi Valley Historical Quarterly</cite>: see <cite>The Mississippi Valley Historical Review</cite>
+<li> *mivalhr*
 <li> <cite>Missouri Decisions Reported in the Southwestern Reporter Annotated</cite>: volumes prior to 1923 renewed; see 1950 Jan-Jun
 <li> <cite>Missouri Law Review</cite>: issues renewed from April 1936 (v. 1 no. 2); see 1964
 <li> <cite>Mister District Attorney</cite>: issues renewed from Jan-Feb 1948 (no. 1); see 1975
@@ -1708,6 +1748,7 @@ by the US Copyright Office.
 <li> <cite>Monaghan's Cumulative Index-Digest of Pennsylvania Decisions</cite>: see <cite>Monaghan's Cumulative Annual Digest of Pennsylvania Decisions</cite>
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=monist"><cite>The Monist</cite></a>: issues renewed from January 1932 (v. 42 no. 1); see 1960 Jan-Jun
 <li> <cite>Montgomery Advertiser</cite>: no issue renewals found in CCE or registered works database; contributions renewed from June 19, 1934; see 1961 Jul-Dec
+<li> *monthlyreview*
 <li> <cite>Moody Bible Institute Monthly</cite>: see <cite>Moody Monthly</cite>
 <li> *moodymonthly*
 <li> *morefuncomics*
@@ -1792,9 +1833,10 @@ by the US Copyright Office.
 <li> *newfunnies*
 <li> <cite>New Haven Register</cite>: no issue renewals found in CCE or registered works database; contributions renewed from March 24, 1929; see 1956 Jan-Jun
 <li> *newhorizonspanam*
+<li> *newintlyearbook*
 <li> <cite>New Jersey Reports and New Jersey Superior Courts Reports</cite>: issues renewed from May 16, 1949 (v. 1 no. 1); see 1976 Jul-Dec
 <li> <cite>New Letters</cite>: see <cite>The University of Kansas City Review</cite>
-<li> <cite>New Love Magazine</cite>: issues renewed from February 1946 (v. 14 no. 3); see 1973
+<li> *newlovemag*
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=newmajority"><cite>The New Majority</cite></a> (Chicago labor newspaper, 1919-1924): no issue or contribution copyright renewals found in CCE
 <li> <cite>New Masses</cite>: no issue copyright renewals in CCE; contributions renewed from Oct 1928; see 1956 Jan-Jun
 <li> <cite>New McClure's</cite>: see <cite>McClure's</cite>
@@ -1828,6 +1870,7 @@ by the US Copyright Office.
 <li> <cite>New York Herald Tribune Weekly Book Review</cite>: see <cite>New York Herald Tribune</cite>
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp75039"><cite>New-York Historical Society Quarterly</cite></a>: no issue renewals found in CCE or registered works database
 <li> <cite>New-York Historical Society Quarterly Bulletin</cite>: see <cite>New-York Historical Society Quarterly</cite>
+<li> *newyorkhistory*
 <li> <cite>New York Journal</cite>: see <cite>New York Evening Journal</cite>
 <li> <cite>New York Journal and American</cite>: see <cite>New York Evening Journal</cite>, <cite>New York American</cite>
 <li> <cite>New York Mirror</cite>: see <cite>New York Daily Mirror</cite>, <cite>Sunday Mirror</cite> (New York), and <cite>Sunday Mirror Magazine</cite>
@@ -1869,7 +1912,7 @@ by the US Copyright Office.
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=nwlawrev"><cite>Northwestern University Law Review</cite></a>: issues published under this name renewed from March-April 1952  (v. 47 no. 1); see registered works database; see also <cite>Illinois Law Review</cite>
 <li> *notesmla*
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=notesqueries"><cite>Notes and Queries</cite></a>: no issue renewals found in CCE or in registered works database
-<li> <cite>The Novel Magazine</cite> (UK): no issue renewals found in CCE; contributions renewed from Feb. 1930; see 1957 Jul-Dec
+<li> *novelmaguk1905*
 <li> <cite>NRI Journal</cite>: see <cite>National Radio News</cite>
 <li> <cite>NRI News</cite>: see <cite>National Radio News</cite>
 </ul>
@@ -1878,6 +1921,7 @@ by the US Copyright Office.
 <li> *postenqcaoakland*
 <li> <cite>Oakland Tribune</cite>: no issue renewals found in CCE or registered works database; contributions renewed at least as far back as April 1, 1923; see 1950 Jan-Jun
 <li> <cite>Oakland Tribune Magazine</cite>: no issue renewals found in CCE or registered works database; contributions renewed at least as far back as June 3, 1923; see 1950 Jul-Dec
+<li> *observernj*
 <li> <cite>Occupational Therapy and Rehabilitation</cite>: issues renewed from February 1945 (v. 24 no. 1); see 1972
 <li> <cite>The Octopus</cite>: issues renewed from Feb.-Mar. 1939 (v. 1 no. 4); see 1966
 <li> <cite>Les Oeuvres Libres</cite> (French literary magazine, 1921-1964): no issue renewals apart from individual works; contributions (which might sometimes consist of entire issues?) renewed from June 1923; see 1950 Jul-Dec
@@ -1891,6 +1935,7 @@ by the US Copyright Office.
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=oktoday"><cite>Oklahoma Today</cite></a>: no issue or contribution renewals found in registered works database
 <li> <cite>The Oklahoma Digest Annotated</cite>: volumes prior to 1923 renewed; see 1950 Jan-Jun
 <li> *omnibook*
+<li> <cite>Omnibook Best-Seller Magazine</cite>: see <cite>Omnibook</cite>
 <li> *oneactplayradiodrama*
 <li> <cite>One-Act Play Magazine and Radio-Drama Review</cite>: see <cite>One-Act Play Magazine</cite>
 <li> <cite>One-Act Play Magazine and Theater Review</cite>: see <cite>One-Act Play Magazine</cite>
@@ -1909,15 +1954,17 @@ by the US Copyright Office.
 <li> *organicsyntheses*
 <li> <cite>The Organist</cite>: issues renewed from January 1924 (v. 27 no. 6);  see 1951 Jul-Dec; contributions renewed from March 1932; see 1960 Jan-Jun
 <li> <cite>Orgone Energy Bulletin</cite>: issues renewed from April 1949 (v. 1 no. 2); see 1977 Jan-Jun
-<li> <cite>Orgone Institute Annals</cite>: issues renewed from 1947 (no. 1); see 1974
+<li> <cite>Orgone Institute Annals</cite>: see <cite>Annals of the Orgone Institute</cite>
 <li> <cite>Oscar Comics</cite>: "consult copyright office"; see 1975; first cataloged renewal for Spring 1947 (v. 1 no. 24) in 1977 Jul-Dec
 <li> <cite>Osterville Times</cite>: no issue renewals found in CCE; contribution renewed for Aug. 3, 1927; see 1955 Jan-Jun
-<li> <cite>Other Worlds</cite>: issues renewed from March 1950 (v. 1 no. 3); see 1977 Jan-Jun
+<li> *otherworlds*
+<li> <cite>Other Worlds Science Stories</cite>: see <cite>Other Worlds</cite>
 <li> <cite>Our Gang Comics</cite>: issues renewed from Nov.-Dec. 1942 (v. 1 no. 2); see 1969
 <li> <cite>Our Gang With Tom and Jerry</cite>: see <cite>Our Gang Comics</cite>
 <li> *ourheritageudcms*
 <li> <cite>Our Love</cite>: "consult copyright office"; see 1977 Jan-Jun; first cataloged renewal for September 1949 (v. 1 no. 1) in 1977 Jul-Dec
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=ourprovholyghostus"><cite>Our Province</cite></a>: no issue renewals found in CCE or registered works database
+<li> *ootwadventures*
 <li> <cite>Outdoor America</cite>: no issue renewals found in CCE or registered works database; contributions renewed from March 1924; see 1952 Jan-Jun
 <li> *outdoorlife*
 <li> <cite>Outdoor Life, Outdoor Recreation</cite>: see <cite>Outdoor Life</cite>
@@ -1958,8 +2005,9 @@ by the US Copyright Office.
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=partisanreview"><cite>Partisan Review</cite></a>: see <cite>Partisan Review-Anvil</cite> (though there may be gaps)
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=partisanreview"><cite>Partisan Review-Anvil</cite></a>: issues renewed from October 1936 (v. 3 no. 6); see 1964; contributions renewed from February 1936; see 1963 Jul-Dec; see also <cite>The Anvil</cite>
 <li> *starnewscapasadena*
+<li> *pastoralpsychology*
 <li> <cite>The Paterson Morning Call</cite>: see <cite>The Morning Call</cite> (Paterson, NJ)
-<li> <cite>Patsy Walker</cite>: "consult copyright office"; see 1973; first cataloged renewal for 1945 (v. 1 no. 1) in 1977 Jul-Dec
+<li> *patsywalker*
 <li> <cite>Patsy Walker Comics</cite>: see <cite>Patsy Walker</cite>
 <li> <cite>Paul Terry's Mighty Mouse Comics</cite>: see <cite>Mighty Mouse Comics</cite>
 <li> <cite>Paul Terry's Terry-Toons Comics</cite>: see <cite>Terry-Toons Comics</cite>
@@ -2012,12 +2060,15 @@ by the US Copyright Office.
 <li> <cite>Piedigrotta Gennarelli</cite> (Italian music annual): volumes renewed from 1925 (and possibly earlier under different names or CCE categories); contributions renewed from 1926
 <li> *pierrotjohnson*
 <li> <cite>The Pilgrim Elementary Teacher</cite>: no issue renewals found in CCE; contributions renewed from October 1937; see 1964 Jul-Dec; see also <cite>The Elementary Teacher</cite> (similar title, but apparently unrelated publication)
+<li> *pioneerforboys*
 <li> <cite>Pioneer Picture-Stories</cite>: issues renewed from 1941 (v. 1 no. 1); see 1968
 <li> <cite>Pioneer Western</cite>: issues and contributions renewed from August 1937 (v. 1 no. 1); see 1964 and 1965 Jan-Jun
 <li> *pghpostgazette*
 <li> <cite>The Pittsburgh Press</cite>: no issue renewals found in CCE or registered works database; contributions renewed from October 15, 1937; see 1964 Jul-Dec
 <li> *suntelegraphpapgh*
+<li> *bulletinpapittston*
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=plaintruth"><cite>The Plain Truth</cite></a>: issues renewed from January 1955 (v. 20 no. 1); see registered works database
+<li> *planetcomics*
 <li> *planetstories*
 <li> <cite>Plant Life</cite>: issues renewed from April 1945 (v. 1 no. 1); see 1973
 <li> *playbill*
@@ -2037,6 +2088,7 @@ by the US Copyright Office.
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=poetrymag"><cite>Poetry</cite></a>: issues renewed from January 1944 (v. 63 no. 3); see 1971; contributions from prior to 1923 renewed; see 1950 Jan-Jun
 <li> *poetrychapbook1942*
 <li> *poetryforum1941*
+<li> *poetrynewyork*
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=psq"><cite>Political Science Quarterly</cite></a>: issues renewed from June 1938 (v. 53 no. 2); see 1966
 <li> *politics1944*
 <li> *pollypigtails*
@@ -2058,7 +2110,7 @@ by the US Copyright Office.
 <li> <cite>Popular Screen</cite>: issues renewed from Sep. 1934 (v. 1 no. 1); see 1961 Jul-Dec
 <li> *popularsports*
 <li> <cite>The Popular Stories</cite>: see <cite>The Popular Magazine</cite>
-<li> <cite>Popular Western</cite>: issues renewed from November 1935 (v. 5 no. 1); see 1963 Jul-Dec
+<li> *popularwestern*
 <li> <cite>The Portal</cite>: no issue renewals found in CCE; contributions renewed from January 18, 1930; see 1956 Jul-Dec
 <li> <cite>Portland Sunday Telegram</cite>: no issue renewals found in CCE or registered works database; contributions renewed from August 2, 1936; see 1963 Jul-Dec
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=potteryglassbrass"><cite>The Pottery, Glass and Brass Salesman</cite></a>: no issue renewals found in CCE
@@ -2067,6 +2119,7 @@ by the US Copyright Office.
 <li> *practicalxmashelper*
 <li> <cite>Prairie Schooner</cite>: issues renewed from Spring 1953; see registered works database; contributions renewed from Winter 1937; see 1965 Jan-Jun
 <li> *presbyterianjnl*
+<li> *presbyterianlife*
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp44563"><cite>Prevention</cite></a>: issues renewed from January 1951 (v. 2 no. 2); see registered works database
 <li> <cite>Primary Education</cite>: issues prior to 1923 renewed; see 1950 Jan-Jun
 <li> <cite>Primary Education-Popular Educator</cite>: see <cite>Primary Education</cite>, <cite>Popular Educator</cite>
@@ -2103,7 +2156,9 @@ by the US Copyright Office.
 <li> <cite>Public Ledger</cite> (Philadelphia): no issue renewals found in CCE; contributions renewed from Feb. 7, 1934; see also <cite>Evening Public Ledger</cite>
 <li> <cite>Public Opinion Quarterly</cite>: issues renewed from Fall 1944 (v. 8 no. 3);  see 1972
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=pubweekly"><cite>Publishers' Weekly</cite></a>: issues renewed from March 14, 1936 (v. 129 no. 11); see 1964; contributions renewed from March 28, 1931; see 1958 Jul-Dec
+<li> *thepulpit*
 <li> *pulpitdigest*
+<li> <cite>Pulpit Victory</cite>: see <cite>Pulpit Digest</cite>
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=punch"><cite>Punch</cite></a> (UK): no issue renewals found in CCE or registered works database; contributions renewed from October 6, 1926; see 1954 Jan-Jun
 </ul>
 <h2 id="Q"><b>Q</b></h2>
@@ -2113,6 +2168,8 @@ by the US Copyright Office.
 <li> *qtlyanthemfolio*
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=qjecon"><cite>Quarterly Journal of Economics</cite></a>: issues renewed from Nov. 1934 (v. 49 no. 1); see 1962 Jan-Jun
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=qjmicroscop"><cite>Quarterly Journal of Microscopical Science</cite></a>: no issue copyright renewals in CCE or registered works database
+<li> *qtlyjspeech*
+<li> <cite>Quarterly Journal of Speech Education</cite>: see <cite>Quarterly Journal of Speech</cite>
 <li> <cite>Quarterly Journal of Studies on Alcohol</cite>: issues renewed from June 1940 (v. 1 no. 1); see 1967
 <li> *quarterlyrevlit*
 <li> <cite>Queen's Quarterly</cite> (Canada): no issue renewals found in CCE or registered works database; contributions renewed from Spring 1934; see 1961 Jan-Jun
@@ -2144,14 +2201,14 @@ by the US Copyright Office.
 <li> <cite>Ranch Love Stories</cite>: issues renewed from March 1950 (v. 1 no. 1);  see 1977 Jul-Dec
 <li> <cite>Ranch Romances</cite>: issues renewed from September 1924 (v. 1 no. 1); see 1952; contributions renewed from March 25, 1932; see 1960 Jan-Jun
 <li> <cite>Randolph-Macon Alumnae Bulletin</cite>: see <cite>Alumnae Bulletin</cte> (Randolph-Macon Woman's College)
-<li> <cite>Range Riders</cite>: issues renewed from December 1938 (v. 3 no. 2); see 1966
+<li> *rangeriders*
 <li> <cite>Range Riders Western</cite>: see <cite>Range Riders</cite>
 <li> <cite>Rangeland Love</cite> (Timely Publications, 1949-1950): issues renewed from December 1949 (v. 1 no. 1); see 1977 Jul-Dec
 <li> <cite>Rangeland Love Stories</cite> (Clayton Magazines, 1933-1934): see <cite>Rangeland Love Story Magazine</cite>
 <li> <cite>Rangeland Love Stories</cite> (Popular Publications, 1936-1937): see <cite>Rangeland Romances</cite>
 <li> <cite>Rangeland Love Story Magazine</cite> (Clayton Magazines; 1929-1932): no issue copyright renewals found in CCE; contributions renewed from Nov 1932; see 1960 Jan-Jun
 <li> <cite>Rangeland Romances</cite>: issues renewed from June 1935 (v. 1 no. 1); see 1962 Jul-Dec; contributions renewed from November 1937; see 1965 Jul-Dec
-<li> <cite>Ranger Riders Western</cite>: issues renewed from Fall 1940 (v. 6 no. 1); see 1967; see also <cite>Range Riders</cite> (is this a continuation, or a typo for Range Riders Western?)
+<li> <cite>Ranger Riders Western</cite>: see <cite>Range Riders</cite>
 <li> <cite>Rapid-Fire Detective Stories</cite>: no issue renewals found in CCE; contributions renewed from December 1932; see 1959 Jul-Dec
 <li> <cite>Read</cite>: "consult copyright office"; see 1970; first cataloged renewal for January 1943 (v. 1 no. 1) in 1977 Jul-Dec
 <li> *readersdigest*
@@ -2192,11 +2249,13 @@ by the US Copyright Office.
 <li> <cite>Red Star Western</cite>: issues renewed from July 1940 (v. 1 no. 2); see 1967
 <li> <cite>Redbook Magazine</cite>: issues prior to 1923 renewed; contributions at least as far back as Jan. 1923 renewed; see 1950 Jan-Jun
 <li> *reeljournal*
+<li> <cite>Register and Tribune Syndicate</cite>: see <cite>Des Moines Register and Tribune Syndicate</cite>
 <li> *religioninlife*
 <li> <cite>Religious Dramas</cite> (Federal Council of the Churches of Christ in America): no issue renewals found in CCE; contributions renewed from v. 2 (1926); see 1953 Jul-Dec.  (We have only checked the Books and Contributions to Periodicals listings; renewals in Drama should also be checked for this serial)
 <li> <cite>Reno Browne</cite>: issues renewed from April 1950 (v. 1 no. 50); see 1977 Jul-Dec
 <li> <cite>Report of Cases Argued and Determined in the Court of Appeals of Alabama</cite>: volumes prior to 1923 renewed; see 1950 Jan-Jun
 <li> <cite>Report of Cases Argued and Determined in the Supreme Court of Alabama</cite>: volumes prior to 1923 renewed; see 1950 Jan-Jun
+<li> *reporter1949*
 <li> <cite>Reports of Cases Adjudged in the Court of Appeals of the District of Columbia</cite>: volumes prior to 1923 renewed; see 1950 Jan-Jun
 <li> <cite>Reports of Cases Decided in the Court of Appeals of the State of Georgia</cite>: volumes prior to 1923 renewed; see 1950 Jan-Jun
 <li> <cite>Reports of Cases Decided in the Supreme Court of the State of Georgia</cite>: volumes prior to 1923 renewed; see 1950 Jan-Jun
@@ -2213,12 +2272,13 @@ by the US Copyright Office.
 <li> *rexstoutmystery*
 <li> <cite>Rex Stout's Mystery Monthly</cite>: see <cite>Rex Stout Mystery Magazine</cite>
 <li> <cite>Rex Stout Mystery Quarterly</cite>: see <cite>Rex Stout Mystery Magazine</cite>
+<li> *reynoldsnews*
 <li> <cite>Rhythm</cite> (Noyes School): issues renewed from August 1939 (v. 16 no. 1); see 1967
 <li> <cite>Rhythmus</cite>: no issue renewals found in CCE; contributions renewed from January 1923; see 1950 Jul-Dec
 <li> <cite>Ric et Rac</cite> (France): no issue renewals found in CCE; contributions renewed from June 1, 1938; see 1965 Jul-Dec
 <li> *richfieldreaper*
 <li> <cite>Riders of the Range</cite>: no issue renewals found in CCE; contributions renewed from June-July 1931; see 1959 Jan-Jun
-<li> <cite>The Rio Kid Western</cite>: issues renewed from December 1939 (v. 1 no. 1); see 1967
+<li> *riokidwestern*
 <li> *ritzcarlton*
 <li> <cite>River</cite> (Southern US literary magazine, 1937): no issue renewals found in CCE; contributions renewed from March 1937; see 1964 Jul-Dec
 <li> <cite>Rocky Mountain Empire Magazine</cite>: see <cite>The Denver Post</cite>
@@ -2239,6 +2299,7 @@ by the US Copyright Office.
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=rotarian"><cite>The Rotarian</cite></a>: no issue renewals found in CCE or registered works database; contributions renewed from September 1933; see 1961 Jan-Jun and 1960 Jul-Dec
 <li> <cite>The Royal Magazine</cite>: no issue renewals found in CCE; contributions renewed from October 1926; see 1955 Jan-Jun
 <li> <cite>Rural Progress Magazine</cite>: no issue renewals found in CCE; contributions renewed from January 1935; see 1962 Jan-Jun
+<li> *ruralsociology*
 <li> *russianreview1941*
 <li> <cite>Rustic Comics</cite>: "consult copyright office"; see 1975
 <li> <cite>Rusty and Her Family Comics</cite>: see <cite>Rusty Comics</cite>
@@ -2254,6 +2315,7 @@ by the US Copyright Office.
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=sthelenastar"><cite>St. Helena Star</cite></a>: no issue renewals found in CCE or registered works database
 <li> <cite>St. John's Law Review</cite>: issues renewed from December 1926 (v. 1 no. 1); see 1955 Jan-Jun
 <li> <cite>St. Louis Law Review</cite>: issues renewed from December 1927 (v. 13 no. 1); see 1955 Jan-Jun
+<li> *stlouispostdispatch*
 <li> <cite>St. Louis Star</cite>: no issue renewals found in CCE; contributions renewed from September 20, 1929; see 1957 Jan-Jun
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=stnicholas"><cite>St. Nicholas Magazine</cite></a>: issues renewed at least as far back as January 1923 (v. 50 no. 3); contributions renewed at least as far back as February 1923 (v. 50 no. 4); see 1950 Jul-Dec
 <li> *dailynewsmnstpaul*
@@ -2261,6 +2323,9 @@ by the US Copyright Office.
 <li> *thestregis*
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=salemite"><cite>The Salemite</cite></a>: no issue renewals found in CCE or registered works database
 <li> *salute*
+<li> <cite>San Bernardino Evening Telegram and the Evening Index</cite>: see <cite>San Bernardino Telegram</cite>
+<li> *suncasanbernardino*
+<li> *telegramcasanbern*
 <li> *sfchronicle*
 <li> <cite>Sandalwood Herald</cite>: issues renewed from Oct. 1935 (v. 2 no. 1); see 1962 Jul-Dec
 <li> <cite>Sandwich Independent</cite>: no issue renewals found in CCE; contributions renewed from May 4, 1927; see 1955 Jan-Jun
@@ -2373,7 +2438,7 @@ by the US Copyright Office.
 <li> <cite>The Sovereign Magazine</cite> (British pulp fiction magazine, 1910s and 20s): no issue renewals found in CCE; contributions prior to 1923 renewed; see 1950 Jul-Dec
 <li> <cite>Sovremennyia Zapiski: Annales Contemporaines</cite> (Russian-language magazine published in Paris): no issue renewals found in CCE; contributions renewed from April 1, 1933; see 1961 Jan-Jun
 <li> <cite>Space</cite>: issues renewed from November 1934 (v. 1 no. 7); see 1962 Jul-Dec; contributions renewed from June 1934; see 1961 Jul-Dec
-<li> <cite>Space Science Fiction</cite> (US, 1952-1953): no issue renewals found in registered works database; contributions renewed for September 1952
+<li> *spacescifi*
 <li> <cite>Specialty Salesman</cite>: no issue renewals found in CCE or registered works database; one contribution renewal in Feb. 1959 issue reported in registered works database
 <li> <cite>Speculum</cite>: issues renewed from July 1934 (v. 9 no. 3); see 1962 Jul-Dec
 <li> <cite>The Spider</cite> (Popular Publications): issues renewed from Oct. 1934 (v. 4 no. 1); see 1961 Jul-Dec
@@ -2381,7 +2446,7 @@ by the US Copyright Office.
 <li> *spiritpoetrycath*
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=sponsor"><cite>Sponsor</cite></a>: no issue or contribution renewals found in CCE or registered works database
 <li> <cite>Sport</cite> (Conde Nast): see <cite>Sport Pictorial</cite>
-<li> <cite>Sport</cite> (Macfadden-Bartell): issues renewed from September 1946 (v. 1 no. 1); see 1973
+<li> *sportmacfadden*
 <li> <cite>Sport im Bild</cite>: no issue renewals found in CCE or registered works database; contributions renewed from Nov. 27, 1927; see 1955 Jan-Jun
 <li> <cite>Sport Life</cite>: "consult copyright office"; see 1976 Jan-Jun; first cataloged renewal for September 1948 (v. 1 no. 1) in 1977 Jul-Dec
 <li> <cite>Sport Novels Magazine</cite>: see <cite>Sports Novels</cite>
@@ -2423,7 +2488,7 @@ by the US Copyright Office.
 <li> <cite>Story-Teller</cite> (British pulp fiction magazine, 1907-1937): no issue renewals found in CCE; contributions prior to 1923 renewed; see 1950 Jul-Dec
 <li> <cite>Story World</cite>: "consult copyright office"; see 1976 Jan-Jun; first cataloged renewal for January 1948 (v. 77 no. 1) in 1977 Jul-Dec
 <li> <cite>The Strand</cite>: no issue renewals found in CCE or registered works database; contributions from prior to 1923 renewed; see 1950 Jan-Jun
-<li> <cite>Strange Adventures</cite>: issues renewed from October-November 1950 (no. 2); see 1977 Jul-Dec
+<li> *strangeadventures*
 <li> <cite>Strange Detective Mysteries</cite>: issues renewed from November 1937 (v. 1 no. 2); see 1964
 <li> *strangestories*
 <li> <cite>Strange Tales</cite> (aka Strange Tales of Mystery and Terror; 1930s): no issue copyright renewals found in CCE; contributions renewed from January 1932; see 1959 Jan-Jun
@@ -2462,6 +2527,7 @@ by the US Copyright Office.
 <li> <cite>Sun Girl</cite>: "consult copyright office"; see 1976 Jan-Jun; first cataloged renewal for August 1948 (v. 1 no. 1) in 1977 Jul-Dec
 <li> <cite>Sunday American Weekly</cite>: see <cite>American Weekly Sunday Magazine</cite>
 <li> <cite>Sunday Chronicle</cite> (UK newspaper): no issue renewals found in CCE or registered works database; contributions renewed from Feb. 6, 1927; see 1954 Jan-Jun
+<li> *sundaycompass*
 <li> <cite>The Sunday Express</cite> (UK): no issue renewals found in CCE or registered works database; contributions renewed from May 29, 1927; see 1954 Jul-Dec; see also earlier contribution renewals in <cite>The Daily Express</cite>
 <li> *sundaygraphic*
 <li> <cite>Sunday Ledger</cite> (Newark): no issue renewals found in CCE; contributions renewed from April 10, 1938; see 1965 Jan-Jun
@@ -2492,8 +2558,9 @@ by the US Copyright Office.
 <li> <cite>Supplement to the New York Supplement</cite>: issues renewed from Mar. 3, 1931 (v. 247 no. 4);  see 1958 Jan-Jun; see also <cite>New York Supplement</cite>
 <li> <cite>Supreme Court Reporter</cite>: issues prior to 1923 renewed; see 1950 Jan-Jun
 <li> <cite>Surgical Clinics of North America</cite>: issues renewed from February 1924 (v. 4 no. 1); see 1952
-<li> <cite>Survey</cite>: "consult copyright office"; see 1976 Jan-Jun; first cataloged renewal for 1948 (no. 1) in 1977 Jul-Dec
-<li> <cite>Survey Graphic</cite>: no issue renewals found in CCE; contributions renewed from November 1936; see 1964 Jul-Dec
+<li> *surveymarvel48*
+<li> *thesurvey*
+<li> *surveygraphic*
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=svoboda"><cite>Svoboda</cite></a>: No issue renewals found in CCE or registered works database
 <li> <cite>Sweetheart Stories</cite> (1925-1943): no issue copyright renewals found in CCE; contributions renewed from June 1933; see 1960 Jul-Dec
 <li> <cite>Swift Story Magazine</cite>: no issue renewals found in CCE; contributions renewed from November 1930 (which may have been its only issue); see 1957 Jul-Dec
@@ -2546,6 +2613,7 @@ by the US Copyright Office.
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=theosophist"><cite>The Theosophist</cite></a>: no issue renewals found in CCE or in registered works database
 <li> *thinkibm*
 <li> *thisweek*
+<li> *thoughtfordham*
 <li> *thoughtsgodboysgrls*
 <li> <cite>Three Love Novels</cite>: no issue renewals found in CCE; contributions renewed from Summer 1933; see 1960 Jan-Jun
 <li> <cite>Three Star Magazine</cite>: no issue renewals found in CCE; contributions renewed from Apr. 12, 1928; see 1955 Jan-Jun
@@ -2585,6 +2653,7 @@ by the US Copyright Office.
 <li> <cite>Tit-Bits</cite> (UK, 1881-1984): no issue renewals found in CCE or registered works database; contributions renewed from August 2, 1930; see 1958 Jan-Jun
 <li> <cite>Tlalocan</cite>: issues renewed from 1943 (v. 1 no. 1); see 1970
 <li> <cite>Today</cite> (1933-1937): no issue renewals found in CCE; contributions renewed from November 11, 1933; see 1960 Jul-Dec
+<li> *todayshealth1950*
 <li> *todayswoman1945*
 <li> <cite>Tom and Jerry Comics</cite>: issues renewed from July 1949 (v. 1 no. 60); see 1976 Jan-Jun; see also <cite>Our Gang With Tom and Jerry</cite>
 <li> <cite>Tomahawk</cite>: issues renewed from September-October 1950 (no. 1); see 1977 Jul-Dec
@@ -2593,6 +2662,7 @@ by the US Copyright Office.
 <li> <cite>Top-Notch Magazine</cite>: issues prior to 1923 renewed; see 1950 Jan-Jun; contributions renewed from May 1, 1926; see 1954 Jan-Jun
 <li> <cite>Top Secrets</cite>: issues renewed from November 1947 (v. 1 no. 1); see 1974
 <li> <cite>The Torchbearer</cite>: no issue copyright renewals found in CCE or registered works database; contributions renewed from Jan. 18, 1925; see 1952 Jan-Jun
+<li> *torquasiantimes*
 <li> <cite>Tough Kid Squad Comics</cite>: "consult copyright office"; see 1969; first cataloged renewal for March 1942 (v. 1 no. 1) in 1977 Jul-Dec
 <li> <cite>Town and Country</cite>: issues renewed from January 1936 (v. 91 no. 4160); see 1963 Jul-Dec; contributions renewed from May 15, 1935; see 196 Jan-Jun
 <li> <cite>Trail Blazers Picture Stories</cite>: issues renewed from April 1942 (v. 1 no. 2); see 1969
@@ -2644,6 +2714,7 @@ by the US Copyright Office.
 <li> *twogunwestern*
 <li> <cite>Two-Gun Western Novels Magazine</cite>: see <cite>Two Gun Western</cite>
 <li> <cite>Two Gun Western Stories</cite>: see <cite>Two Gun Stories</cite>
+<li> *twowesternbooks*
 </ul>
 <h2 id="U"><b>U</b></h2>
 <ul>
@@ -2669,7 +2740,9 @@ by the US Copyright Office.
 <li> <cite>The University Review</cite>: see <cite>The University of Kansas City Review</cite>
 <li> <cite>Unknown</cite>: see <cite>Street &amp; Smith's Unknown</cite>
 <li> <cite>Unknown Worlds</cite>: see <cite>Street &amp; Smith's Unknown</cite>
+<li> *upward1941*
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp61156"><cite>Urban Land</cite></a>: no issue renewals found in CCE or in registered works database
+<li> *utahhumrev*
 </ul>
 <h2 id="V"><b>V</b></h2>
 <ul>
@@ -2679,7 +2752,7 @@ by the US Copyright Office.
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp64918"><cite>The Vaudeville News</cite></a>: no issue renewals found in CCE
 <li> <cite>Vault of Horror</cite>: issues renewed from April-May 1950 (v. 1 no. 12); see 1977 Jan-Jun
 <li> *vedantawest*
-<li> <cite>Venus</cite>: "consult copyright office"; see 1976 Jan-Jun; first cataloged renewal for August 1948 (v. 1 no. 1) in 1977 Jul-Dec
+<li> *venuscomic1948*
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=victoriannewsletter"><cite>The Victorian Newsletter</cite></a>: no issue or contribution renewals found in registered works database
 <li> *view1940*
 <li> <cite>The Virginia and West Virginia Judicial Dictionary-Digest</cite>: volumes prior to 1923 renewed; see 1950 Jul-Dec
@@ -2714,12 +2787,14 @@ by the US Copyright Office.
 <li> <cite>Wackie Duck</cite>: "consult copyright office"; see 1975; same as <cite>Wacky Duck</cite>?
 <li> <cite>Wacky Duck</cite>: "consult copyright office"; see 1976 Jan-Jun; first cataloged renewal for Fall 1946 (v. 1 no. 3) in 1977 Jul-Dec; same as <cite>Wackie Duck</cite>?
 <li> <cite>Wacky Duck Comics</cite>: see <cite>Wacky Duck</cite>
+<li> *timesheraldtxwaco*
+<li> *wake*
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=wakeforeststudent"><cite>The Wake Forest Student</cite></a>: no issue renewals found in CCE or registered works database
 <li> *wallstjournal*
 <li> <cite>Wallerstein Laboratories Communications</cite>: issues renewed from April 1940 (v. 3 no. 8); see 1967; see also <cite>Wallerstein Laboratories Communications on the Science and Practice of Brewing</cite>
 <li> <cite>Wallerstein Laboratories Communications on the Science and Practice of Brewing</cite>: see <cite>Communications on the Science and Practice of Brewing</cite>
 <li> <cite>Walt Disney's Comics</cite>: see <cite>Walt Disney's Comics and Stories</cite>
-<li> <cite>Walt Disney's Comics and Stories</cite>: issues renewed from October 1940 (v. 1 no. 1); see 1968
+<li> *wdisneycomicstory*
 <li> *wlantznewfunnies*
 <li> <cite>War Against Crime</cite>: issues renewed from December 1949-January 1950 (v. 1 no. 10); see 1977 Jan-Jun
 <li> <cite>War Birds</cite> (1928-1937): no issue renewals found in CCE; contributions renewed from September 1931; see 1959 Jul-Dec
@@ -2740,7 +2815,7 @@ by the US Copyright Office.
 <li> <cite>Welding Journal</cite>: see <cite>Journal of the American Welding Society</cite>
 <li> <cite>West</cite>: issues renewed from March 1938 (v. 43 no. 3); see 1965; contributions renewed from April 20, 1926; see 1954 Jan-Jun
 <li> *westashevillenews*
-<li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=wvhistory"><cite>West Virginia History</cite></a>: issues renewed from October 1948 (v. 10 no. 1); see 1976 Jul-Dec
+<li> *wvhistory*
 <li> *westernaction*
 <li> <cite>Western Action Novels</cite>: see <cite>Western Action</cite>
 <li> <cite>Western Adventures</cite> (1930s Clayton magazine): no issue renewals for this incarnation found in CCE (but see 1940s publication below); contributions renewed from November 1930; see 1957 Jul-Dec
@@ -2749,6 +2824,7 @@ by the US Copyright Office.
 <li> <cite>Western Dime Novels</cite>: issues renewed from May 1940 (v. 1 no. 1); see 1967
 <li> *westernfamily*
 <li> *westernfolklore*
+<li> *westernhumrev*
 <li> <cite>Western Life Romances</cite>: issues renewed from December 1949 (v. 1 no. 1); see 1977 Jul-Dec
 <li> <cite>Western Novel and Short Stories</cite>: "consult copyright office"; see 1970; first cataloged renewal for July 1942 (v. 10 no. 2) in 1977 Jul-Dec
 <li> <cite>Western Novels and Short Stories</cite>: see <cite>Western Novel and Short Stories</cite>
@@ -2782,7 +2858,8 @@ by the US Copyright Office.
 <li> <cite>Wild Western</cite>: see <cite>Wild West</cite>
 <li> *recordpawilkesbarre*
 <li> *wmqtly*
-<li> <cite>Willie Comics</cite>: "consult copyright office"; see 1974; first cataloged renewal for Fall 1946 (v. 1 no. 5) in 1977 Jul-Dec
+<li> *williamfeathermag*
+<li> *williecomics*
 <li> <cite>The Windsor Magazine</cite> (UK): no issue renewals found in CCE; contributions renewed from December 1928; see 1956 Jan-Jun
 <li> *windmill1944*
 <li> *wineliquorretail*
@@ -2807,6 +2884,7 @@ by the US Copyright Office.
 <li> <cite>Wonder Stories</cite>: no issue renewals found in CCE under this title; contributions renewed from March 1934; see 1962 Jan-Jun; see also <cite>Thrilling Wonder Stories</cite> (its successor)
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=wonderstoriesq"><cite>Wonder Stories Quarterly</cite></a>: no issue or contribution renewals found in CCE
 <li> <cite>Wonder Woman</cite>: issues renewed from Summer 1942 (no. 1); see 1970
+<li> *woodthrush*
 <li> *wordstudy*
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=workersmonthly"><cite>The Workers Monthly</cite></a>: no issue renewals found in CCE
 <li> *workshopyouthldrs*
@@ -2826,6 +2904,7 @@ by the US Copyright Office.
 <li> <cite>Wow Comics</cite>: issues renewed from May 1945 (v. 6 no. 36); see 1973
 <li> <a href="http://onlinebooks.library.upenn.edu/webbin/serial?id=thewriter"><cite>The Writer</cite></a>: issues renewed from March 1938 (v. 51 no. 3); see 1966; contributions renewed from July 1936; see 1964 Jan-Jun
 <li> *writersforum*
+<li> *writersmonthly*
 </ul>
 <h2 id="Y"><b>Y</b></h2>
 <ul>
@@ -2861,6 +2940,7 @@ by the US Copyright Office.
 </ul>
 <h2 id="Z"><b>Z</b></h2>
 <ul>
+<li> *zanegreyswestern*
 <li> <cite>Zest</cite>: "consult copyright office"; see 1969; first cataloged renewal for November 1940 (v. 3 no. 5) in 1977 Jul-Dec
 <li> <cite>Ziggy Pig-Silly Seal Comics</cite>: "consult copyright office"; see 1971; first cataloged renewal for 1944 (v. 1 no. 1) in 1977 Jul-Dec
 </ul>

@@ -1,0 +1,22 @@
+{
+   "title": "All American Comics",
+   "contents": [
+      {"url": "https://www.comics.org/series/112/",
+       "note": "Grand Comics Database"}
+   ],
+   "first-issue": {"issue-date": "1939-04", "number": "1"},
+   "first-renewed-issue":
+     {"issue-date": "1940-03", "number": "12"},
+   "first-renewed-issue-source": "1967",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce",
+   "last-issue": {"issue-date": "1948-10", "number": "102"},
+   "succeeded-by":
+      [{"id": "allamericanwestern", "note": "All American Western"}],
+   "additional-note": "Some early issues include reprints of newspaper comic strips. We have not systematically checked their copyrights.",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2018-05-11"
+}

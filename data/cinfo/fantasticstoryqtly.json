@@ -1,0 +1,26 @@
+{
+   "title": "Fantastic Story Quarterly",
+   "contents": [
+      {"url": "http://www.isfdb.org/cgi-bin/pe.cgi?23193",
+       "note": "ISFDB"},
+      {"url": "http://www.philsp.com/homeville/SFI/link.asp?magid=FSQ",
+       "note": "FictionMags"}
+   ],
+   "first-issue":
+       {"issue-date": "1950-Spring", "volume": "1", "number": "1"},
+   "first-renewed-issue":
+       {"issue-date": "1950-Spring", "volume": "1", "number": "1"},
+   "first-renewed-issue-source": "1977-JulDec",
+   "first-renewed-contribution": 
+       {"issue": {"issue-date": "1950-Spring", "volume": "1", "number": "1"}},
+   "first-renewed-contribution-source": "database",
+   "additional-notes": [
+     "Renewals are recorded beginning in the 1977 July-December CCE volume, but the earliest renewed contribution is noted in the registered works database.",
+     "Many of the stories in this magazine were reprints, as noted in the tables of contents links.  We have not systematically checked to see if any of them have active renewed copyrights from their original publication."
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2018-05-19"
+}

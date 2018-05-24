@@ -1,0 +1,27 @@
+{
+   "title": "The Survey",
+   "title-note": "Survey Associates, 1909-1952",
+   "online": "1",
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce+database",
+   "first-renewed-contribution": 
+      {"issue": {"issue-date": "1950-01", "volume": "86", "number": "1"}},
+   "first-renewed-contribution-source": "1977-JulDec",
+   "last-issue": {"issue-date": "1952-05", "volume": "88", "number": "5"},
+   "see-also": [{"id": "surveygraphic", "note": "Survey Graphic"}],
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+       {"issue": {"issue-date": "1950-01", "volume": "86", "number": "1"}, 
+        "title": "Television: Hopes and Limitations",
+        "author": {
+         "authorized": "Siepmann, Charles A. (Charles Arthur), 1899-1985",
+         "lcna": "no2009156110"
+        }
+      }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2018-05-23"
+}
