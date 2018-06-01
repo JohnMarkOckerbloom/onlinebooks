@@ -1,0 +1,39 @@
+{
+   "title": "House and Home",
+   "title-note": "1952-1977",
+   "online": "1",
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "database",
+   "first-renewed-contribution":
+      {"issue": {"issue-date": "1954-11"}},
+   "first-renewed-contribution-source": "database",
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+       {"issue": {"issue-date": "1954-11"}, 
+        "title": "Drawings of Howard Anthony House",
+        "author": {
+         "authorized": "Wright, Frank Lloyd, 1867-1959",
+         "lcna": "n79032932"
+        }
+      },
+       {"issue": {"issue-date": "1958-03"}, 
+        "title": "Drawings of Lamberson",
+        "author": {
+         "authorized": "Wright, Frank Lloyd, 1867-1959",
+         "lcna": "n79032932"
+        }
+      },
+       {"issue": {"issue-date": "1959-02"}, 
+        "title": "Drawings of Alsop",
+        "author": {
+         "authorized": "Wright, Frank Lloyd, 1867-1959",
+         "lcna": "n79032932"
+        }
+      }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2018-05-26"
+}

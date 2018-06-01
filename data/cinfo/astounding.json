@@ -1,0 +1,23 @@
+{
+   "title": "Astounding Stories",
+   "aka": ["Astounding Science Fiction"],
+   "online": "1",
+   "contents": [
+      {"url": "http://www.isfdb.org/cgi-bin/pe.cgi?20473",
+       "note": "ISFDB"},
+      {"url": "http://www.philsp.com/links2.asp?magid=ANALOG",
+       "note": "Galactic Central"}
+   ],
+   "first-renewed-issue":
+      {"issue-date": "1933-10", "volume": "12", "number": "2"},
+   "first-renewed-issue-source": "1960-JulDec",
+   "first-renewed-contribution":
+      {"issue": {"issue-date": "1934-03", "volume": "13", "number": "1"}},
+   "first-renewed-contribution-source": "1962-JanJun",
+   "additional-note" : "Renewals are recorded beginning in the 1961 July-December CCE volume, but the earliest renewed contribution is noted in the 1962 January-June volume.",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2018-05-26"
+}

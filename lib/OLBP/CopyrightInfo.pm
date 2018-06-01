@@ -23,6 +23,7 @@ sub _readjsonfile {
   my ($self, $path) = @_;
   my $str;
   open my $fh, "< $path" or return undef;
+  binmode $fh, ":utf8";
   while (<$fh>) {
     $str .= $_;
   }
@@ -56,12 +57,13 @@ sub _tabrow {
 }
 
 sub _encode_list {
-  my ($listref) = @_;
+  my ($listref, $separator) = @_;
+  $separator ||= ", ";
   my @newlist;
   foreach my $name (@{$listref}) {
     push @newlist, OLBP::html_encode($name);
   }
-  return join (", ", @newlist);
+  return join ($separator, @newlist);
 }
 
 sub _link_list {
@@ -576,7 +578,7 @@ sub display_page {
   }
   if ($json->{"aka"}) {
     print $self->_tabrow(attr=>"Also known as",
-                          value=>_encode_list($json->{"aka"}));
+                          value=>_encode_list($json->{"aka"}, "; "));
   }
   if ($json->{"online"}) {
      my $note = "Free online material via The Online Books Page";
