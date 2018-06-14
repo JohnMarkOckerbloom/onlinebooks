@@ -66,13 +66,34 @@ sub _encode_list {
   return join ($separator, @newlist);
 }
 
+sub _format_with_title {
+  my ($self, $id, $note) = @_;
+  return $note if (!$self->{dir});
+  my $path = $self->{dir} . $id . ".json";
+  my $json = $self->_readjsonfile($path);
+  my $isonline = $json->{"online"};
+  my $title = $json->{"title"};
+  return $note if (!$title);
+  if ($note =~ /($title)(.*)/) {
+    $note = "<cite>$1</cite>$2";
+  }
+  if ($isonline) {
+    $note = "<strong>$note</strong>";
+  }
+  return $note;
+}
+
 sub _link_list {
-  my ($listref, $default) = @_;
+  my ($self, $listref, $default) = @_;
   my @links = ();
   foreach my $item (@{$listref}) {
-    my $note = $item->{"note"} || OLBP::html_encode($default);
+    my $note = $item->{"note"};
     my $url = $item->{"url"};
     my $id = $item->{"id"};
+    if ($id && $note) {
+      $note = $self->_format_with_title($id, $note);
+    }
+    $note ||= OLBP::html_encode($default);
     if ($url) {
       $note ||= OLBP::html_encode($url);
       push @links, qq!<a href="$url">$note</a>!;
@@ -86,7 +107,7 @@ sub _link_list {
 }
 
 sub _date_string {
-  my ($date) = @_;
+  my ($date, $brief) = @_;
   if ($date =~ /^(\d\d\d\d)-(\d\d)-(\d\d)$/) {
     return $month[$2-1] . " " . int($3) . ", $1";
   }
@@ -416,6 +437,9 @@ sub serial_copyright_summary {
   my $json = $self->_readjsonfile($path);
   my $offerdetails = 0;
   return undef if (!$json);
+  if (_more_details_warranted($json)) {
+     $offerdetails = 1;
+  }
   my $firstrenew = _get_first_renewed_issue($json);
   my $firstcont = _get_first_renewed_contribution($json);
   my $completeness = $json->{"renewed-issue-completeness"};
@@ -463,6 +487,28 @@ sub serial_copyright_summary {
   return $str;
 }
 
+sub firstperiod_reference {
+  my ($self, %params) = @_;
+  my $id = $params{id};
+  my $fname = $id;
+  $fname =~ s/[^A-Za-z0-9\-]//g;     # sanitize input
+  my $path = $self->{dir} . $fname . ".json";
+  my $json = $self->_readjsonfile($path);
+  return "^" . $id . "^" if (!$json);
+  my $worktitle = $json->{"title"};
+  my $str = "";
+  my $uri = $cinfoprefix . $fname;
+  $str = qq!<a href="$uri">! .
+           "<cite>" . OLBP::html_encode($worktitle) . "</cite>";
+  if ($json->{"online"}) {
+    $str = qq!<strong>$str</strong>!;
+  }
+  $str .= "</a>";
+  if ($json->{"title-note"}) {
+    $str .= " (" . OLBP::html_encode($json->{"title-note"}) . ")";
+  }
+  return $str;
+}
 
 sub firstperiod_listing {
   my ($self, %params) = @_;
@@ -473,12 +519,11 @@ sub firstperiod_listing {
   my $worktitle = $json->{"title"};
   return undef if (!$worktitle);
   my $str = "";
-  if ($json->{"online"}) {
-    my $uri = $self->_online_link(filename=>$fname, json=>$json);
-    $str = qq!<a href="$uri">! .
+  my $uri = $cinfoprefix . $fname;
+  $str = qq!<a href="$uri">! .
            "<cite>" . OLBP::html_encode($worktitle) . "</cite></a>";
-  } else {
-    $str = "<cite>" . OLBP::html_encode($worktitle) . "</cite>";
+  if ($json->{"online"}) {
+    $str = qq!<strong>$str</strong>!;
   }
   if ($json->{"title-note"}) {
     $str .= " (" . OLBP::html_encode($json->{"title-note"}) . ")";
@@ -524,20 +569,16 @@ sub firstperiod_listing {
                                       "first-renewed-contribution", 1);
     }
   }
-  if (_more_details_warranted($json)) {
-    my $uri = $cinfoprefix . $fname;
-    $str .= qq! (<a href="$uri">More details</a>)!;
-  }
   if ($json->{"preceded-by"}) {
-    my @links = _link_list($json->{"preceded-by"});
+    my @links = $self->_link_list($json->{"preceded-by"});
     $str .= "; preceded by " . join(", ", @links);
   }
   if ($json->{"succeeded-by"}) {
-    my @links = _link_list($json->{"succeeded-by"});
+    my @links = $self->_link_list($json->{"succeeded-by"});
     $str .= "; succeeded by " . join(", ", @links);
   }
   if ($json->{"see-also"}) {
-    my @links = _link_list($json->{"see-also"});
+    my @links = $self->_link_list($json->{"see-also"});
     $str .= "; see also " . join(", ", @links);
   }
   return $str;
@@ -583,10 +624,10 @@ sub display_page {
   if ($json->{"online"}) {
      my $note = "Free online material via The Online Books Page";
      my $uri = $self->_online_link(filename=>$fname, json=>$json);
-     if ($json->{"online"} =~ /http/) {
-       my $note = "Link";
+     if ($json->{"online"} =~ /http/ && !($json->{"online"} =~ /onlinebooks/)) {
+       $note = "Link";
      }
-     my $link = qq!<a href="$uri">$note</a>!;
+     my $link = qq!<a href="$uri"><strong>$note</strong></a>!;
      print $self->_tabrow(attr=>"Online content", value=>$link);
   }
   if ($json->{"website"} && $json->{"website"}->{"url"}) {
@@ -597,14 +638,14 @@ sub display_page {
     print $self->_tabrow(attr=>"Web site", value=>$link);
   }
   if ($json->{"contents"}) {
-    my @links = _link_list($json->{"contents"}, "Contents listing");
+    my @links = $self->_link_list($json->{"contents"}, "Contents listing");
     if (@links) {
       print $self->_tabrow(attr=>"Tables of contents",
                                   value=>join(", ", @links));
     }
   }
   if ($json->{"preceded-by"}) {
-    my @links = _link_list($json->{"preceded-by"});
+    my @links = $self->_link_list($json->{"preceded-by"});
     if (@links) {
       print $self->_tabrow(attr=>"Preceded by",
                                   value=>join(", ", @links));
@@ -663,14 +704,14 @@ sub display_page {
                         value=>_display_issue(issue=>$json->{"last-issue"}));
   }
   if ($json->{"succeeded-by"}) {
-    my @links = _link_list($json->{"succeeded-by"});
+    my @links = $self->_link_list($json->{"succeeded-by"});
     if (@links) {
       print $self->_tabrow(attr=>"Succeeded by",
                                   value=>join(", ", @links));
     }
   }
   if ($json->{"see-also"}) {
-    my @links = _link_list($json->{"see-also"});
+    my @links = $self->_link_list($json->{"see-also"});
     if (@links) {
       print $self->_tabrow(attr=>"See also",
                                   value=>join(", ", @links));
