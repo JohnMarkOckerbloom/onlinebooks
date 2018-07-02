@@ -1,0 +1,21 @@
+{
+   "title": "The New England Journal of Medicine",
+   "online": "1",
+   "contents": [
+      {"url": "https://www.nejm.org/medical-index",
+      "note": "Official journal site (full text also available for subscription or payment)"}
+   ],
+   "preceded-by": [{"id": "bmedsurg",
+                    "note": "The Boston Medical and Surgical Journal"}],
+   "first-issue":
+      {"issue-date": "1928-02-23", "volume": "198", "number": "1"},
+   "first-renewed-issue": {"issue-date": "1957-01-03"},
+   "first-renewed-issue-source": "database",
+   "first-renewed-contribution": {"issue": {"issue-date": "1954-05-06"}},
+   "first-renewed-contribution-source": "database",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2018-06-26"
+}

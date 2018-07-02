@@ -43,5 +43,6 @@ if ($format eq "json") {
   exit 0;
 }
 
+binmode STDOUT, ":utf8";
 print "Content-type: text/html\n\n";
 $info->display_page(filename=>$arg);

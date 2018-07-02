@@ -15,9 +15,41 @@
    "first-renewed-contribution-source": "1967-JulDec",
    "last-issue":
      {"issue-date": "1942-03", "volume": "2", "number": "1"},
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+       {"issue": {"issue-date": "1941-02", "volume": "1", "number": "1"},
+        "title": "Citadel of Thought",
+        "author": {
+         "authorized": "Blish, James",
+         "lcna": "n79053667"
+        }
+       },
+       {"issue": {"issue-date": "1941-02", "volume": "1", "number": "1"},
+        "title": "Key to Cornwall",
+        "author": {
+         "authorized": "Keller, David H. (David Henry), 1880-1966",
+         "lcna": "n80064251"
+        }
+       },
+       {"issue": {"issue-date": "1941-04", "volume": "1", "number": "2"},
+        "title": "Calypso's Island",
+        "note": "Renewal record gives title as 'Calypso Island', but other bibliographic sources give title as 'Calypso's Island'.",
+        "author": {
+         "authorized": "Keller, David H. (David Henry), 1880-1966",
+         "lcna": "n80064251"
+        }
+       },
+       {"issue": {"issue-date": "1941-06", "volume": "1", "number": "3"},
+        "title": "The Moon Artist",
+        "author": {
+         "authorized": "Keller, David H. (David Henry), 1880-1966",
+         "lcna": "n80064251"
+        }
+       }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-01-12"
+   "last-updated": "2018-06-22"
 }

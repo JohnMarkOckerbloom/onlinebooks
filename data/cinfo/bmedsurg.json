@@ -1,0 +1,23 @@
+{
+   "title": "The Boston Medical and Surgical Journal",
+   "online": "1",
+   "contents": [
+      {"url": "https://www.nejm.org/medical-index",
+      "note": "New England Journal of Medicine site (full text also available for subscription or payment)"}
+   ],
+   "first-issue":
+      {"issue-date": "1828-02-19", "volume": "1", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce",
+   "last-issue":
+      {"issue-date": "1928-02-16", "volume": "197", "number": "33"},
+   "succeeded-by": [{"id": "nejm",
+                    "note": "The New England Journal of Medicine"}],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2018-06-26"
+}

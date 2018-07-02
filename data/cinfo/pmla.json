@@ -1,0 +1,26 @@
+{
+   "title": "PMLA: Publications of the Modern Language Association of America",
+   "aka": ["Publications of the Modern Language Association of America"],
+   "online": "1",
+   "contents": [
+      {"url": "https://www.jstor.org/journal/pmla",
+      "note": "JSTOR (full text also available; after 1922 may require subscription or payment)"}
+   ],
+   "first-renewed-issue":
+     {"issue-date": "1951-04", "volume": "66", "number": "3"},
+   "first-renewed-issue-source": "database",
+   "first-autorenewed-issue":
+     {"issue-date": "1964-03", "volume": "79", "number": "1"},
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce+database",
+   "renewed-issue-completeness": "active/autorenewals",
+   "renewed-issues": [
+     {"issue-date": "1951-04", "volume": "66", "number": "3"}
+   ],
+   "see-also": [{"id": "mlaintlbiblio", "note": "MLA International Bibliography"}],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2018-06-27"
+}

@@ -1,6 +1,7 @@
 {
    "title": "Fantastic Adventures",
    "title-note": "SF and fantasy magazine, 1939-1953",
+   "online": "1",
    "contents": [
       {"url": "http://www.isfdb.org/cgi-bin/pe.cgi?20289",
        "note": "ISFDB"},
@@ -15,9 +16,394 @@
        "issue": {"issue-date": "1939-05", "volume": "1", "number": "1"} 
    },
    "first-renewed-contribution-source": "1966-JanJun",
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+      {"issue": {"issue-date": "1939-05", "volume": "1", "number": "1"},
+        "title": "The Invisible Robinhood",
+        "note": "Author name is a pseudonym for Earl and Otto Binder. Renewal record gives title as 'The Invisible Robin Hood'.",
+        "author": {
+          "authorized": "Binder, Eando",
+          "lcna": "no93000146"
+        }
+      },
+      {"issue": {"issue-date": "1939-07", "volume": "1", "number": "2"},
+        "title": "The Scientists Revolt",
+        "author": {
+          "authorized": "Burroughs, Edgar Rice, 1875-1950",
+          "lcna": "n80039681"
+        }
+      },
+      {"issue": {"issue-date": "1939-09", "volume": "1", "number": "3"},
+        "title": "The Man Who Saw Too Late",
+        "note": "Author name is a pseudonym for Earl and Otto Binder.",
+        "author": {
+          "authorized": "Binder, Eando",
+          "lcna": "no93000146"
+        }
+      },
+      {"issue": {"issue-date": "1940-03", "volume": "2", "number": "3"},
+        "title": "The Little People",
+        "note": "Author name is a pseudonym for Earl and Otto Binder.",
+        "author": {
+          "authorized": "Binder, Eando",
+          "lcna": "no93000146"
+        }
+      },
+      {"issue": {"issue-date": "1940-06", "volume": "2", "number": "6"},
+        "title": "The Reflection That Lived",
+        "author": {
+          "authorized": "Rocklynne, Ross, 1913-",
+          "lcna": "n88278070"
+        }
+      },
+      {"issue": {"issue-date": "1941-01", "volume": "3", "number": "1"},
+        "title": "The Vanishing Witnesses",
+        "author": {
+          "authorized": "Rocklynne, Ross, 1913-",
+          "lcna": "n88278070"
+        }
+      },
+      {"issue": {"issue-date": "1941-03", "volume": "3", "number": "2"},
+        "title": "Slaves of the Fish Men",
+        "note": "Renewal record gives title as 'Captured on Venus'.",
+        "author": {
+          "authorized": "Burroughs, Edgar Rice, 1875-1950",
+          "lcna": "n80039681"
+        }
+      },
+      {"issue": {"issue-date": "1941-05", "volume": "3", "number": "3"},
+        "title": "Land of the Shadow Dragons",
+        "note": "Author name is a pseudonym for Earl and Otto Binder. Renewal record gives title as 'Valley of the Shadow Dragons'.",
+        "author": {
+          "authorized": "Binder, Eando",
+          "lcna": "no93000146"
+        }
+      },
+      {"issue": {"issue-date": "1941-06", "volume": "3", "number": "4"},
+        "title": "Wanderer of Little Land",
+        "note": "Author name is a pseudonym for Earl and Otto Binder.",
+        "author": {
+          "authorized": "Binder, Eando",
+          "lcna": "no93000146"
+        }
+      },
+      {"issue": {"issue-date": "1941-07", "volume": "3", "number": "5"},
+        "title": "The Goddess of Fire",
+        "note": "Renewal record gives title as 'Goddess of Fire'.",
+        "author": {
+          "authorized": "Burroughs, Edgar Rice, 1875-1950",
+          "lcna": "n80039681"
+        }
+      },
+      {"issue": {"issue-date": "1941-11", "volume": "3", "number": "9"},
+        "title": "The Living Dead",
+        "note": "Renewal record gives title as 'The Living Dead. Pt.3: Escape on Venus'.",
+        "author": {
+          "authorized": "Burroughs, Edgar Rice, 1875-1950",
+          "lcna": "n80039681"
+        }
+      },
+      {"issue": {"issue-date": "1942-03", "volume": "4", "number": "3"},
+        "title": "War on Venus",
+        "note": "Renewal record gives title as 'War on Venus. Pt.4: Escape on Venus'.",
+        "author": {
+          "authorized": "Burroughs, Edgar Rice, 1875-1950",
+          "lcna": "n80039681"
+        }
+      },
+      {"issue": {"issue-date": "1942-03", "volume": "4", "number": "3"},
+        "title": "The Electrical Butterflies",
+        "author": {
+          "authorized": "Rocklynne, Ross, 1913-",
+          "lcna": "n88278070"
+        }
+      },
+      {"issue": {"issue-date": "1942-06", "volume": "4", "number": "6"},
+        "title": "The Pied Piper Fights the Gestapo",
+        "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+        }
+      },
+      {"issue": {"issue-date": "1942-07", "volume": "4", "number": "7"},
+        "title": "The Weird Doom of Floyd Scrilch",
+        "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+        }
+      },
+      {"issue": {"issue-date": "1942-07", "volume": "4", "number": "7"},
+        "title": "Headlines for Tod Shayne",
+        "note": "Renewal record gives title as 'Headline for Tod Shayne'.",
+        "author": {
+         "authorized": "Derleth, August, 1909-1971",
+         "lcna": "n50002948"
+        }
+      },
+      {"issue": {"issue-date": "1942-08", "volume": "4", "number": "8"},
+        "title": "Mr. Ames' Devil",
+        "author": {
+         "authorized": "Derleth, August, 1909-1971",
+         "lcna": "n50002948"
+        }
+      },
+      {"issue": {"issue-date": "1942-08", "volume": "4", "number": "8"},
+        "title": "The Little Man Who Wasn't All There",
+        "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+        }
+      },
+      {"issue": {"issue-date": "1942-09", "volume": "4", "number": "9"},
+        "title": "Son of a Witch",
+        "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+        }
+      },
+      {"issue": {"issue-date": "1942-10", "volume": "4", "number": "10"},
+        "title": "Jerk, the Giant Killer",
+        "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+        }
+      },
+      {"issue": {"issue-date": "1942-12", "volume": "4", "number": "12"},
+        "title": "Lefty Feep and the Sleepy-Time Gal",
+        "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+        }
+      },
+      {"issue": {"issue-date": "1943-01", "volume": "5", "number": "1"},
+        "title": "Lefty Feep Catches Hell",
+        "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+        }
+      },
+      {"issue": {"issue-date": "1943-02", "volume": "5", "number": "2"},
+        "title": "Nothing Happens to Lefty Feep",
+        "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+        }
+      },
+      {"issue": {"issue-date": "1943-03", "volume": "5", "number": "3"},
+        "title": "The Chance of a Ghost",
+        "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+        }
+      },
+      {"issue": {"issue-date": "1943-05", "volume": "5", "number": "5"},
+        "title": "The Skeleton in the Closet",
+        "note": "Renewal record gives title as 'Skeleton in the Closet'.",
+        "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "using": "Tarleton Fiske",
+          "lcna": "n50016557"
+        }
+      },
+      {"issue": {"issue-date": "1943-05", "volume": "5", "number": "5"},
+        "title": "Genie With the Light Brown Hair",
+        "note": "Renewal record gives title as 'Geni with the Light Brown Hair'.",
+        "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+        }
+      },
+      {"issue": {"issue-date": "1943-06", "volume": "5", "number": "6"},
+        "title": "Stuporman",
+        "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+        }
+      },
+      {"issue": {"issue-date": "1943-06", "volume": "5", "number": "6"},
+        "title": "Almost Human",
+        "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "using": "Tarleton Fiske",
+          "lcna": "n50016557"
+        }
+      },
+      {"issue": {"issue-date": "1943-07", "volume": "5", "number": "7"},
+        "title": "The Goon from Rangoon",
+        "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+        }
+      },
+      {"issue": {"issue-date": "1943-08", "volume": "5", "number": "8"},
+        "title": "You Can't Kid Lefty Feep",
+        "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+        }
+      },
+      {"issue": {"issue-date": "1943-08", "volume": "5", "number": "8"},
+        "title": "Fairy Tale",
+        "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "using": "Tarleton Fiske",
+          "lcna": "n50016557"
+        }
+      },
+      {"issue": {"issue-date": "1943-10", "volume": "5", "number": "9"},
+        "title": "A Horse on Lefty Feep",
+        "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+        }
+      },
+      {"issue": {"issue-date": "1943-10", "volume": "5", "number": "9"},
+        "title": "Mystery of the Creeping Underwear",
+        "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "using": "Tarleton Fiske",
+          "lcna": "n50016557"
+        }
+      },
+      {"issue": {"issue-date": "1944-02", "volume": "6", "number": "1"},
+        "title": "Lefty Feep's Arabian Nightmare",
+        "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+        }
+      },
+      {"issue": {"issue-date": "1944-04", "volume": "6", "number": "2"},
+        "title": "Lefty Feep Does Time",
+        "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+        }
+      },
+      {"issue": {"issue-date": "1945-04", "volume": "7", "number": "2"},
+        "title": "Carousel",
+        "author": {
+         "authorized": "Derleth, August, 1909-1971",
+         "lcna": "n50002948"
+        }
+      },
+      {"issue": {"issue-date": "1945-04", "volume": "7", "number": "2"},
+        "title": "Lefty Feep Gets Henpecked",
+        "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+        }
+      },
+      {"issue": {"issue-date": "1946-07", "volume": "8", "number": "3"},
+        "title": "Tree's a Crowd",
+        "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+        }
+      },
+      {"issue": {"issue-date": "1946-11", "volume": "8", "number": "5"},
+        "title": "Rocket to Limbo",
+        "author": {
+          "authorized": "St. Clair, Margaret",
+          "lcna": "n85038071"
+        }
+      },
+      {"issue": {"issue-date": "1947-05", "volume": "9", "number": "3"},
+        "title": "Tomorrow and Tomorrow",
+        "author": {
+          "authorized": "Bradbury, Ray, 1920-2012",
+          "lcna": "n79139258"
+        }
+      },
+      {"issue": {"issue-date": "1947-09", "volume": "9", "number": "5"},
+        "title": "The Mad Scientist",
+        "note": "Renewal record gives title as 'Mad Scientist'.",
+        "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+        }
+      },
+      {"issue": {"issue-date": "1950-02", "volume": "12", "number": "2"},
+        "title": "The Dreaming Jewels",
+        "author": {
+          "authorized": "Sturgeon, Theodore",
+          "lcna": "n80066908"
+        }
+      },
+      {"issue": {"issue-date": "1950-05", "volume": "12", "number": "5"},
+       "title": "Vanguard of the Lost",
+       "author": {
+         "authorized": "MacDonald, John D. (John Dann), 1916-1986",
+         "lcna": "n79045202"
+       }
+      },
+      {"issue": {"issue-date": "1950-05", "volume": "12", "number": "5"},
+       "title": "The Remarkable Firgleflip",
+       "author": {
+         "authorized": "Tenn, William, 1920-2010",
+         "lcna": "n88651363"
+       }
+      },
+      {"issue": {"issue-date": "1950-07", "volume": "12", "number": "7"},
+       "title": "End of Your Rope",
+        "note": "Renewal record gives title as 'The End of Your Rope'.",
+        "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+        }
+      },
+      {"issue": {"issue-date": "1950-08", "volume": "12", "number": "8"},
+       "title": "'The Devil With You!'",
+        "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+        }
+      },
+      {"issue": {"issue-date": "1950-09", "volume": "12", "number": "9"},
+       "title": "The Last Bounce",
+       "author": {
+         "authorized": "Tenn, William, 1920-2010",
+         "lcna": "n88651363"
+       }
+      },
+      {"issue": {"issue-date": "1950-09", "volume": "12", "number": "9"},
+        "title": "The Fifth Child",
+        "author": {
+         "authorized": "Derleth, August, 1909-1971",
+         "lcna": "n50002948"
+        }
+      },
+      {"issue": {"issue-date": "1951-05", "volume": "13", "number": "5"},
+       "title": "The Eye of Tandyla",
+        "author": {
+         "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+         "lcna": "n80057222"
+        }
+      },
+      {"issue": {"issue-date": "1951-07", "volume": "13", "number": "7"},
+       "title": "The Dead Don't Die!",
+        "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+        }
+      },
+      {"issue": {"issue-date": "1951-08", "volume": "13", "number": "8"},
+       "title": "Everybody Loves Irving Bommer",
+       "author": {
+         "authorized": "Tenn, William, 1920-2010",
+         "lcna": "n88651363"
+       }
+      },
+      {"issue": {"issue-date": "1951-10", "volume": "13", "number": "10"},
+       "title": "Medusa Was a Lady!",
+       "author": {
+         "authorized": "Tenn, William, 1920-2010",
+         "lcna": "n88651363"
+       }
+      }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2017-12-04"
+   "last-updated": "2018-06-24"
 }
