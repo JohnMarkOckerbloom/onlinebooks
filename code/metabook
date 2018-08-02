@@ -6,7 +6,7 @@ use OLBP;
 
 $filedir = "/websites/OnlineBooks/nonpublic/bookdb/metafiles/";
 
-$serverurl = "http://onlinebooks.library.upenn.edu/";
+$serverurl = "https://onlinebooks.library.upenn.edu/";
 $booksurl = $serverurl;
 $gutlookup = $serverurl . "webbin/gutbook/lookup?num=";
 

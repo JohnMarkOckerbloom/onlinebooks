@@ -534,8 +534,8 @@ my $BLANKROW = "<tr><td>&nbsp;</td><td>&nbsp;</td></tr>\n";
 sub long_entry {
   my ($self, %params) = @_;
   my $str;
-  $str .= "<div itemscope itemtype=\"http://schema.org/Book\">";
-  # $str .= "<meta itemprop=\"bookFormat\" href=\"http://schema.org/EBook\" />";
+  $str .= "<div itemscope itemtype=\"https://schema.org/Book\">";
+  # $str .= "<meta itemprop=\"bookFormat\" href=\"https://schema.org/EBook\" />";
   $str .= "<table>";
   my $titleattribute = ($self->{notrealtitle} ? "Name" : "Title");
   $str .= $self->_tabrow(attr=>$titleattribute, alink=>$OLBP::titlespage,

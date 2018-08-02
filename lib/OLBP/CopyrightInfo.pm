@@ -2,10 +2,10 @@ package OLBP::CopyrightInfo;
 use strict;
 use JSON;
 
-my $serialprefix = "http://onlinebooks.library.upenn.edu/webbin/serial?id=";
-my $cinfoprefix = "http://onlinebooks.library.upenn.edu/webbin/cinfo/";
-my $codburl = "http://cocatalog.loc.gov/";
-my $cceurl  = "http://onlinebooks.library.upenn.edu/cce/";
+my $serialprefix = "https://onlinebooks.library.upenn.edu/webbin/serial?id=";
+my $cinfoprefix = "https://onlinebooks.library.upenn.edu/webbin/cinfo/";
+my $codburl = "https://cocatalog.loc.gov/";
+my $cceurl  = "https://onlinebooks.library.upenn.edu/cce/";
 my $firstperiodurl  = $cceurl . "firstperiod.html";
 
 my @month = ("January", "February", "March", "April", "May", "June", "July",
@@ -644,6 +644,20 @@ sub display_page {
                                   value=>join(", ", @links));
     }
   }
+  if ($self->{wdsource}) {
+    my $wikidata = $self->{wdsource}->get_wikidata_uri(id=>$fname);
+    my $wikipedia = $self->{wdsource}->get_wikipedia_uri(id=>$fname);
+    if ($wikidata) {
+      $wikidata = qq!<a href="$wikidata">Wikidata</a>!;
+    }
+    if ($wikipedia) {
+      $wikipedia = qq!<a href="$wikipedia">Wikipedia article</a>!;
+    }
+    if ($wikidata || $wikipedia) {
+      print $self->_tabrow(attr=>"More information",
+                                  value=>join("; ", $wikipedia, $wikidata));
+    }
+  }
   if ($json->{"preceded-by"}) {
     my @links = $self->_link_list($json->{"preceded-by"});
     if (@links) {
@@ -796,6 +810,7 @@ sub _initialize {
   my ($self, %params) = @_;
   $self->{dir} = $params{dir};
   $self->{arfile} = $params{arfile};
+  $self->{wdsource} = $params{wdsource};
   $self->{parser} = JSON->new->allow_nonref;
   return $self;
 }

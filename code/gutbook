@@ -20,7 +20,7 @@ $NEWSTYLE = "NEW";
 @sites = (
   {name => "Main site",
    full => "Gutenberg.org (North Carolina, USA)",
-   stub => "http://www.gutenberg.org/dirs/",},
+   stub => "https://www.gutenberg.org/dirs/",},
 # {name => "Sailor",
 #   full => "Sailor.gutenberg.org (Maryland, USA)",
 #   stub => "ftp://sailor.gutenberg.org/pub/gutenberg/",},
@@ -32,7 +32,7 @@ $NEWSTYLE = "NEW";
 #   stub => "ftp://ftp.archive.org/pub/etext/",},
   {name => "UK Mirror",
    full => "Mirrorservice.org (UK)",
-   stub => "http://www.mirrorservice.org/sites/ftp.ibiblio.org/pub/docs/books/gutenberg/",},
+   stub => "https://www.mirrorservice.org/sites/ftp.ibiblio.org/pub/docs/books/gutenberg/",},
 #  {name => "Alaska",
 #   full => "Arctic Region Supercomputing Center (Alaska, USA)",
 #   stub => "http://snowy.arsc.alaska.edu/gutenberg/",},
@@ -55,16 +55,16 @@ $NEWSTYLE = "NEW";
 
 $sitespace = "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;";
 
-$olbp = "http://onlinebooks.library.upenn.edu/";
+$olbp = "https://onlinebooks.library.upenn.edu/";
 $olbpcss = $olbp . "olbp.css";
-$scriptstem = "http://onlinebooks.library.upenn.edu/webbin/gutbook";
+$scriptstem = "https://onlinebooks.library.upenn.edu/webbin/gutbook";
 $numstem = $scriptstem . "/lookup?num=";
 $namestem = $scriptstem . "/author?name=";
 $serialstem = $scriptstem . "/serial?name=";
 $asearch = $olbp . "webbin/book/search?amode=start&amp;author=";
 $tsearch = $olbp . "webbin/book/search?tmode=start&amp;title=";
 
-$gutmain = "http://www.gutenberg.org/";
+$gutmain = "https://www.gutenberg.org/";
 $gutlink = "<a href=\"$gutmain\">Project Gutenberg</a>";
 $gutprefix = $gutmain . "ebooks/";
 

@@ -8,12 +8,42 @@
    "first-renewed-issue": 
      {"issue-date": "1931-01", "volume": "36", "number": "2"},
    "first-renewed-issue-source": "1958-JulDec",
+   "first-autorenewed-issue": 
+     {"issue-date": "1964-01", "volume": "69", "number": "2"},
    "first-renewed-contribution":
      {"issue": {"issue-date": "1934-07", "volume": "39", "number": "4"}},
    "first-renewed-contribution-source": "1961-JulDec",
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+       {"issue": {"issue-date": "1934-07", "volume": "39", "number": "4"}, 
+        "title": "Romantics and George Washington",
+        "title-note": "letter to the editor",
+        "author": {
+         "authorized": "Hughes, Rupert, 1872-1956",
+         "lcna": "n86012047"
+        }
+       },
+       {"issue": {"issue-date": "1961-04", "volume": "66", "number": "3"}, 
+        "title": "Rhetoric and Politics in the French Revolution",
+        "author": {
+         "authorized": "Gay, Peter, 1923-2015",
+         "lcna": "n50016333"
+        }
+       },
+       {"issue": {"issue-date": "1962-01", "volume": "67", "number": "2"}, 
+        "title": "Political Experience and Enlightenment Ideas in Eighteenth-Century America",
+        "author": {
+         "authorized": "Bailyn, Bernard",
+         "lcna": "n50016110"
+        }
+       }
+    ],
+   "additional-notes": ["We do not yet have a complete list of issue renewal filings here, but the latest issue renewal filed was for the October 1957 issue.",
+    "A 1993 renewal for the 1964 book 'Southern White Protestantism in the 20th Century' by Kenneth K. Bailey notes that chapter 1 was previously published in the April 1963 issue of the American Historical Review.  The renewal would appear to be too late to cover the journal publication of that chapter."
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-05-26"
+   "last-updated": "2018-07-13"
 }

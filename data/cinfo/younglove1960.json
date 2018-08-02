@@ -1,0 +1,26 @@
+{
+   "title": "Young Love",
+   "title-note": "Prize and DC comics series, 1960-1977",
+   "contents": [
+      {"url": "https://www.comics.org/series/14827/",
+       "note": "Grand Comics Database (Prize, 1960-1963)"},
+      {"url": "https://www.comics.org/series/1555/",
+       "note": "Grand Comics Database (DC, 1963-1977)"}
+   ],
+   "preceded-by": [{"id": "allforlove", "note": "All for Love"}],
+   "first-issue":
+     {"issue-date": "1960-February-March", "volume": "3", "number": "5"}, 
+   "first-renewed-issue": 
+     {"issue-date": "1963-September-October", "number": "39"}, 
+   "first-renewed-issue-source": "database",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "database",
+   "last-issue": {"issue-date": "1977-07", "number": "126"}, 
+   "see-also": [{"id": "younglove1949",
+                 "note": "Young Love (Prize comics, 1949-1957)"}],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2018-07-28"
+}

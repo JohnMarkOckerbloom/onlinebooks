@@ -1,0 +1,30 @@
+{
+   "title": "The Journal of Modern History",
+   "contents": [
+      {"url": "https://www.journals.uchicago.edu/loi/jmh",
+      "note": "Official journal site (full text also available for subscription or payment)"}
+   ],
+   "first-issue":
+      {"issue-date": "1929-03", "volume": "1", "number": "1"},
+   "first-renewed-issue":
+      {"issue-date": "1953-09", "volume": "25", "number": "3"},
+   "first-renewed-issue-source": "database",
+   "first-renewed-contribution":
+      {"issue": {"issue-date": "1961-06", "volume": "33", "number": "2"}},
+   "first-renewed-contribution-source": "database",
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+      {"issue": {"issue-date": "1961-06", "volume": "33", "number": "2"},
+        "title": "An Age of Crisis: A Critical View",
+        "author": {
+         "authorized": "Gay, Peter, 1923-2015",
+         "lcna": "n50016333"
+        }
+      }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2018-07-13"
+}

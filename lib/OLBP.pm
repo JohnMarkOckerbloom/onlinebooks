@@ -21,7 +21,7 @@ my $idxdir      = $OLBP::dbdir . "indexes/";
  
 my $authoraddr = "onlinebooks\@pobox.upenn.edu";
 
-my $serverurl = "http://onlinebooks.library.upenn.edu/";
+my $serverurl = "https://onlinebooks.library.upenn.edu/";
 my $booksurl  = $serverurl;
 my $cgiurl    = $serverurl . "webbin/";
 $OLBP::styleurl  = $booksurl . "olbp.css";
@@ -51,7 +51,6 @@ my $logowidth  = 381;
 my $logoheight =  30;
 $OLBP::infologo  = $booksurl . "info.gif";
 $OLBP::xinfologo  = $booksurl . "infouc.gif";
-# $OLBP::infologo  = "http://www.library.upenn.edu/images/infoblue.gif";
 
 $OLBP::badlinkurl     = $cgiurl . "olbpcontact?type=badlink";
 $OLBP::scripturl      = $cgiurl . $OLBP::SCRIPTNAME;

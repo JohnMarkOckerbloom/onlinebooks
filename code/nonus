@@ -7,7 +7,7 @@ use OLBP::Hash;
 
 $idxdir =  "/websites/OnlineBooks/nonpublic/bookdb/indexes/";
 
-$serverurl = "http://onlinebooks.library.upenn.edu/";
+$serverurl = "https://onlinebooks.library.upenn.edu/";
 $booksurl  = $serverurl;
 $cgiurl    = $serverurl . "webbin/";
 $scripturl = $cgiurl . "book/";

@@ -1,0 +1,125 @@
+{
+   "title": "Marvel Science Stories",
+   "aka": ["Marvel Science Fiction", "Marvel Tales (1939-1940)", "Marvel Stories"],
+   "contents": [
+      {"url": "http://www.isfdb.org/cgi-bin/pe.cgi?24109",
+      "note": "ISFDB"},
+      {"url": "http://www.philsp.com/homeville/SFI/link.asp?magid=MVS",
+      "note": "Galactic Central"}
+   ],
+   "first-renewed-issue": 
+      {"issue-date": "1950-11", "volume": "3", "number": "1"},
+   "first-renewed-issue-source": "1977-JulDec",
+   "first-renewed-contribution": 
+      {"issue": {"issue-date": "1951-05", "volume": "3", "number": "3"}},
+   "last-issue": 
+      {"issue-date": "1952-05", "volume": "3", "number": "6"},
+   "renewed-issue-completeness": "active/end",
+   "renewed-issues":  [
+      {"issue-date": "1950-11", "volume": "3", "number": "1"},
+      {"issue-date": "1951-02", "volume": "3", "number": "2"},
+      {"issue-date": "1951-05", "volume": "3", "number": "3"},
+      {"issue-date": "1951-08", "volume": "3", "number": "4"},
+      {"issue-date": "1951-11", "volume": "3", "number": "5"}
+   ],
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions":  [
+       {"issue": {"issue-date": "1951-05", "volume": "3", "number": "3"}, 
+        "title": "Hallock's Madness",
+        "author": {
+          "authorized": "Tenn, William, 1920-2010",
+          "lcna": "n88651363"
+        }
+       },
+       {"issue": {"issue-date": "1951-05", "volume": "3", "number": "3"}, 
+        "title": "The Thing",
+        "author": {
+         "authorized": "Matheson, Richard, 1926-2013",
+         "lcna": "n79068485"
+        }
+       },
+       {"issue": {"issue-date": "1951-05", "volume": "3", "number": "3"}, 
+        "title": "Golden Girl",
+        "author": {
+          "authorized": "Vance, Jack, 1916-2013",
+          "lcna": "n79021250"
+        }
+       },
+       {"issue": {"issue-date": "1951-05", "volume": "3", "number": "3"}, 
+        "title": "The Dianetics Question",
+        "author": {
+          "authorized": "Sturgeon, Theodore",
+          "lcna": "n80066908"
+        }
+       },
+       {"issue": {"issue-date": "1951-05", "volume": "3", "number": "3"}, 
+        "title": "Homo Superior, Here We Come",
+        "author": {
+          "authorized": "Hubbard, L. Ron (La Fayette Ron), 1911-1986",
+          "lcna": "n79045389"
+        }
+       },
+       {"issue": {"issue-date": "1951-08", "volume": "3", "number": "4"}, 
+        "title": "7 Out of 10 Astrogators Choose Venus",
+        "author": {
+          "authorized": "Tenn, William, 1920-2010",
+          "lcna": "n88651363"
+        }
+       },
+       {"issue": {"issue-date": "1951-11", "volume": "3", "number": "5"}, 
+        "title": "Embroidery",
+        "author": {
+          "authorized": "Bradbury, Ray, 1920-2012",
+          "lcna": "n79139258"
+        }
+       },
+       {"issue": {"issue-date": "1951-11", "volume": "3", "number": "5"}, 
+        "title": "Will You Walk a Little Faster?",
+        "author": {
+          "authorized": "Tenn, William, 1920-2010",
+          "lcna": "n88651363"
+        }
+       },
+       {"issue": {"issue-date": "1951-11", "volume": "3", "number": "5"}, 
+        "title": "Shah Guido G",
+        "author": {
+          "authorized": "Asimov, Isaac, 1920-1992",
+          "lcna": "n80126289"
+        }
+       },
+       {"issue": {"issue-date": "1951-11", "volume": "3", "number": "5"}, 
+        "title": "Dover Spargill's Ghastly Floater",
+        "author": {
+          "authorized": "Vance, Jack, 1916-2013",
+          "lcna": "n79021250"
+        }
+       },
+       {"issue": {"issue-date": "1952-05", "volume": "3", "number": "6"}, 
+        "title": "Star Wife",
+        "author": {
+          "authorized": "Klass, Morton, 1927-2001",
+          "lcna": "n79131967"
+        }
+       },
+       {"issue": {"issue-date": "1952-05", "volume": "3", "number": "6"}, 
+        "title": "In-Group",
+        "author": {
+          "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+          "lcna": "n80057222"
+        }
+       },
+       {"issue": {"issue-date": "1952-05", "volume": "3", "number": "6"}, 
+        "title": "Precedent",
+        "author": {
+          "authorized": "Keyes, Daniel",
+          "lcna": "n80022990"
+        }
+       }
+   ],
+   "first-renewed-contribution-source": "database",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2018-07-14"
+}

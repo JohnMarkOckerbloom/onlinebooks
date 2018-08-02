@@ -261,7 +261,7 @@ sub oai_mods {
   $str .= "<recordInfo>\n";
   $str .= _numeric_text_tag("recordOrigin", 
    "MODS auto-converted from a simple Online Books Page metadata record. " .
-   " For details, see http://onlinebooks.library.upenn.edu/mods.html");
+   " For details, see https://onlinebooks.library.upenn.edu/mods.html");
   $str .= "<languageOfCataloging>" . _english() . "</languageOfCataloging>";
   $str .= "</recordInfo>\n";
   return $str;

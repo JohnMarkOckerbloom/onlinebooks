@@ -10,7 +10,7 @@ use OLBP;
 use OLBP::SubjectGraph;
 use OLBP::SubjectNode;
 
-$serverurl = "http://onlinebooks.library.upenn.edu/";
+$serverurl = "https://onlinebooks.library.upenn.edu/";
 $booksurl = $serverurl;
 
 $newname     = "new.html";
@@ -23,7 +23,7 @@ $xmlicon = $booksurl . "xml.gif";
 $suggestpage = $booksurl . "suggest.html";
 $scriteria = $booksurl . "serial-criteria.html";
 
-$dbdir       = "/home/ockerblo/bookdb/";
+$dbdir       = "/home/LIBRARY/ockerblo/bookdb/";
 $bookfile    = $dbdir . "bookfile";
 $newfile     = $dbdir . $newname;
 $newrssfile  = $dbdir . $newrssname;

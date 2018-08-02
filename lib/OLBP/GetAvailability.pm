@@ -9,7 +9,7 @@ use vars qw(@ISA @EXPORT);
 @ISA = qw(Exporter);
 @EXPORT = qw(get_availability_status);
 
-my $prefix = "http://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=";
+my $prefix = "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=";
 
 my $hashes = {};
 

@@ -6,10 +6,11 @@ use CGI;
 use OLBP;
 use OLBP::CopyrightInfo;
 use OLBP::AuthorRights;
+use OLBP::WikidataSource;
 use CGI::Carp qw(fatalsToBrowser);
 use strict;
 
-my $default = "http://onlinebooks.library.upenn.edu/cce/";
+my $default = "https://onlinebooks.library.upenn.edu/cce/";
 my $cinfodir  = $OLBP::dbdir . "cinfo/";
 my $contactfile = $cinfodir . "contacts";
 
@@ -25,7 +26,9 @@ my $format = $q->param("format");
 
 
 my $contacts = new OLBP::AuthorRights(path=>$contactfile);
-my $info = new OLBP::CopyrightInfo(dir=>$cinfodir, arfile=>$contacts);
+my $wdsource = new OLBP::WikidataSource(dir=>$OLBP::dbdir);
+my $info = new OLBP::CopyrightInfo(dir=>$cinfodir, arfile=>$contacts,
+                                   wdsource=>$wdsource);
 
 # validate inputs
 if (!$arg || $arg =~ /[^a-zA-Z0-9\-]/) {
