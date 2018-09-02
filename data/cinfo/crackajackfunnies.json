@@ -1,13 +1,24 @@
 {
    "title": "Crackajack Funnies",
+   "title-note": "1938-1942",
+   "contents": [
+      {"url": "https://www.comics.org/series/104/",
+       "note": "Grand Comics Database"}
+   ],
+   "first-issue": {"issue-date": "1938-06", "number": "1"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": 
-     {"issue": {"cdate": "1940-10-01"}},
+     {"issue": {"issue-date": "1939-10",
+                "cdate": "1939-08-24", "number": "16"}},
    "first-renewed-contribution-source": "1967-JulDec",
+   "last-issue": {"issue-date": "1942-01", "number": "43"},
+   "additional-notes": [
+     "Some early issues include reprints of newspaper comic strips. We have not systematically checked their copyrights.",
+     "The first contribution to be renewed specifically in Crackajack Funnies, noted in this record, is listed in the Artwork section of the Catalog of Copyright Entries.  Later active renewals may appear in either the Artwork section (beginning with the 1966 July-December volume, or in the Contributions to Periodicals section. Renewals in the Artwork section begin in the 1966 July-December volume, but the earliest contribution to be renewed is listed in the 1967 July-December Artwork volume."],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-01-06"
+   "last-updated": "2018-08-24"
 }

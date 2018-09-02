@@ -1,0 +1,22 @@
+{
+   "title": "Our Sunday Visitor",
+   "first-issue": {"issue-date": "1912-05-05", "volume": "1", "number": "1"}, 
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce+database",
+   "first-renewed-contribution": {"issue": {"issue-date": "1958-01-19"}}, 
+   "first-renewed-contribution-source": "database",
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+       {"issue": {"issue-date": "1958-01-19"}, 
+        "title": "If You Were a Doctor's Wife Which Nurser Would You Use?",
+        "author": {
+         "name": "Applegate Advertising Agency, Inc."
+        }
+       }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2018-08-21"
+}
