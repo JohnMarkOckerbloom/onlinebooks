@@ -7,9 +7,20 @@
    "first-renewed-contribution": {"issue": {"issue-date": "1944-02-12"}},
    "first-renewed-contribution-source": "1972-JanJun",
    "last-issue": {"issue-date": "1957-12-25", "volume": "92", "number": "52"},
+   "succeeded-by": [{"id": "alliancewitness", "note": "The Alliance Witness"}],
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1944-02-12"},
+      "title": "The man killed--'atonement I will pay.' (Tibetan Voices in the Dark, 14)",
+      "author": {
+         "authorized": "Ekvall, Robert B. (Robert Brainerd), 1898-1983",
+         "lcna": "n81028352"
+       }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-03-08"
+   "last-updated": "2018-09-16"
 }

@@ -20,6 +20,8 @@ my $ASSOCIATED = 5;
 
 my $MISC = "MISC";
 
+my $hashcache = {};
+
 sub gethashval {
   my ($name, $key) = @_;
 
@@ -31,6 +33,11 @@ sub gethashval {
     return undef if (!$hash);
     $hashes->{name} = $hash;
   }
+  # Looks like hashes don't implement a cache yet, so we'll do it locally
+  if (!$hashcache->{$name} || !defined($hashcache->{$name}->{$key})) {
+    $hashcache->{$name}->{$key} = $hash->get_value(key=>$key);
+  }
+  return $hashcache->{$name}->{$key};
   return $hash->get_value(key=>$key);
 }
 
@@ -158,6 +165,20 @@ sub linkauthors {
   }
 }
 
+sub _check_and_add_lexical_BT {
+  my ($self, $candidate, $node) = @_;
+  my $parent = $self->find_node(heading=>$candidate);
+  if (!$parent && $self->_findid($candidate)) {
+    $parent = $self->add_node(heading=>$candidate);
+  }
+  if ($parent) {
+    my $heading = $node->get_name();
+    # print "$heading NT $candidate ?\n";
+    $self->add_edge(node1=>$node, node2=>$parent,
+                   type=>"BT", subtype=>$AUTHORITY);
+  }
+}
+
 # When it's time to expand the graph:
 #   -- While there are nodes in the "unanalyzed", pull one out, and
 #       -- See if it has an authority record (or proxy), If so, read it in,
@@ -248,15 +269,22 @@ sub expand {
       if ($heading =~ /(.*), (([A-Z]|in ).*)$/ &&
           !($2 =~ /--/ || $2 =~ /[,0-9]/)) {
         my $commalessterm = $1;
-        my $parent = $self->find_node(heading=>$commalessterm);
-        if (!$parent && $self->_findid($commalessterm)) {
-            $parent = $self->add_node(heading=>$commalessterm);
-        }
-        if ($parent) {
-           # print "$heading NT $commalessterm ?\n";
-           $self->add_edge(node1=>$node, node2=>$parent,
-                           type=>"BT", subtype=>$AUTHORITY);
-        }
+        $self->_check_and_add_lexical_BT($commalessterm, $node);
+      }
+      # now look for some other forms -
+      #  (valid heading) " by " ...
+      if ($heading =~ /(.*) by (.*)$/ && !($2 =~ /--/)) {
+        my $initialterm = $1;
+        $self->_check_and_add_lexical_BT($initialterm, $node);
+      }
+      #  (valid heading) " in art"
+      #  (valid heading) " in literature"
+      #  (valid heading) " in motion pictures"
+      if ($heading =~ /(.*) in (art|literature|motion pictures)$/) {
+        my $initialterm = $1;
+        my $infield = ucfirst($2);
+        $self->_check_and_add_lexical_BT($initialterm, $node);
+        $self->_check_and_add_lexical_BT($infield, $node);
       }
       # now check to see if we have UFs with -- that don't yet 
       # reflect this term, or a BT.  Those should be added too
@@ -311,7 +339,7 @@ sub expand {
         }
       }
       # Now see if you can substitute the first component with a BT
-      # fot that component (only by authority or geo., not by prefix or lex)
+      # for that component (only by authority or geo., not by prefix or lex)
       my $heading ||= $node->get_name();
       if ($heading) {
         if ($heading =~ /--/) {
