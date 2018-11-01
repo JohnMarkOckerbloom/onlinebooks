@@ -778,6 +778,9 @@ sub display_page {
              }
            }
          }
+         if ($contr->{"editor"}) {
+           $str .= ", ed. by " . $self->_display_person($contr->{"editor"});
+         }
          if ($contr->{"note"}) {
            $str .= ' (' . OLBP::html_encode($contr->{"note"}) . ')';
          }
