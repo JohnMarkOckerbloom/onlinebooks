@@ -14,7 +14,7 @@
    "first-renewed-contribution":
       {"issue": {"issue-date": "1934-03", "volume": "13", "number": "1"}},
    "first-renewed-contribution-source": "1962-JanJun",
-   "renewed-issue-completeness": "active/1950",
+   "renewed-issue-completeness": "active/1960-09",
    "renewed-issues": [
       {"issue-date": "1933-10", "volume": "12", "number": "2"},
       {"issue-date": "1933-11", "volume": "12", "number": "3"},
@@ -219,12 +219,711 @@
       {"issue-date": "1950-09", "volume": "46", "number": "1"},
       {"issue-date": "1950-10", "volume": "46", "number": "2"},
       {"issue-date": "1950-11", "volume": "46", "number": "3"},
-      {"issue-date": "1950-12", "volume": "46", "number": "4"}
+      {"issue-date": "1950-12", "volume": "46", "number": "4"},
+      {"issue-date": "1951-01", "volume": "46", "number": "5"},
+      {"issue-date": "1951-02", "volume": "44", "number": "6"},
+      {"issue-date": "1951-03", "volume": "47", "number": "1"},
+      {"issue-date": "1951-04", "volume": "47", "number": "2"},
+      {"issue-date": "1951-05", "volume": "47", "number": "3"},
+      {"issue-date": "1951-06", "volume": "47", "number": "4"},
+      {"issue-date": "1951-07", "volume": "47", "number": "5"},
+      {"issue-date": "1951-08", "volume": "47", "number": "6"},
+      {"issue-date": "1951-09", "volume": "48", "number": "1"},
+      {"issue-date": "1951-10", "volume": "48", "number": "2"},
+      {"issue-date": "1951-11", "volume": "48", "number": "3"},
+      {"issue-date": "1951-12", "volume": "48", "number": "4"},
+      {"issue-date": "1952-01", "volume": "48", "number": "5"},
+      {"issue-date": "1952-02", "volume": "48", "number": "6"},
+      {"issue-date": "1952-03", "volume": "49", "number": "1"},
+      {"issue-date": "1952-04", "volume": "49", "number": "2"},
+      {"issue-date": "1952-05", "volume": "49", "number": "3"},
+      {"issue-date": "1952-06", "volume": "49", "number": "4"},
+      {"issue-date": "1952-07", "volume": "49", "number": "5"},
+      {"issue-date": "1952-08", "volume": "49", "number": "6"},
+      {"issue-date": "1952-09", "volume": "50", "number": "1"},
+      {"issue-date": "1952-10", "volume": "50", "number": "2"},
+      {"issue-date": "1952-11", "volume": "50", "number": "3"},
+      {"issue-date": "1952-12", "volume": "50", "number": "4"},
+      {"issue-date": "1953-01", "volume": "50", "number": "5"},
+      {"issue-date": "1953-02", "volume": "50", "number": "6"},
+      {"issue-date": "1953-03", "volume": "51", "number": "1"},
+      {"issue-date": "1953-04", "volume": "51", "number": "2"},
+      {"issue-date": "1953-05", "volume": "51", "number": "3"},
+      {"issue-date": "1953-06", "volume": "51", "number": "4"},
+      {"issue-date": "1953-07", "volume": "51", "number": "5"},
+      {"issue-date": "1953-08", "volume": "51", "number": "6"},
+      {"issue-date": "1953-09", "volume": "52", "number": "1"},
+      {"issue-date": "1953-10", "volume": "52", "number": "2"},
+      {"issue-date": "1953-11", "volume": "52", "number": "3"},
+      {"issue-date": "1953-12", "volume": "52", "number": "4"},
+      {"issue-date": "1954-01", "volume": "52", "number": "5"},
+      {"issue-date": "1954-02", "volume": "52", "number": "6"},
+      {"issue-date": "1954-03", "volume": "53", "number": "1"},
+      {"issue-date": "1954-04", "volume": "53", "number": "2"},
+      {"issue-date": "1954-05", "volume": "53", "number": "3"},
+      {"issue-date": "1954-06", "volume": "53", "number": "4"},
+      {"issue-date": "1954-07", "volume": "53", "number": "5"},
+      {"issue-date": "1954-08", "volume": "53", "number": "6"},
+      {"issue-date": "1954-09", "volume": "54", "number": "1"},
+      {"issue-date": "1954-10", "volume": "54", "number": "2"},
+      {"issue-date": "1954-11", "volume": "54", "number": "3"},
+      {"issue-date": "1954-12", "volume": "54", "number": "4"},
+      {"issue-date": "1955-01", "volume": "54", "number": "5"},
+      {"issue-date": "1956-02", "volume": "56", "number": "6"},
+      {"issue-date": "1956-03", "volume": "57", "number": "1"},
+      {"issue-date": "1956-04", "volume": "57", "number": "2"},
+      {"issue-date": "1956-05", "volume": "57", "number": "3"},
+      {"issue-date": "1956-06", "volume": "57", "number": "4"},
+      {"issue-date": "1956-07", "volume": "57", "number": "1"},
+      {"issue-date": "1956-08", "volume": "57", "number": "6"},
+      {"issue-date": "1956-09", "volume": "58", "number": "1"},
+      {"issue-date": "1956-10", "volume": "58", "number": "2"},
+      {"issue-date": "1956-11", "volume": "58", "number": "3"},
+      {"issue-date": "1956-12", "volume": "58", "number": "4"},
+      {"issue-date": "1957-01", "volume": "58", "number": "5"},
+      {"issue-date": "1957-02", "volume": "58", "number": "6"},
+      {"issue-date": "1957-03", "volume": "59", "number": "1"},
+      {"issue-date": "1957-04", "volume": "59", "number": "2"},
+      {"issue-date": "1957-05", "volume": "59", "number": "3"},
+      {"issue-date": "1957-06", "volume": "59", "number": "4"},
+      {"issue-date": "1957-07", "volume": "59", "number": "5"},
+      {"issue-date": "1957-08", "volume": "59", "number": "6"},
+      {"issue-date": "1957-09", "volume": "60", "number": "1"},
+      {"issue-date": "1957-10", "volume": "60", "number": "2"},
+      {"issue-date": "1957-11", "volume": "60", "number": "3"},
+      {"issue-date": "1957-12", "volume": "60", "number": "4"},
+      {"issue-date": "1958-01", "volume": "60", "number": "5"},
+      {"issue-date": "1958-02", "volume": "60", "number": "6"},
+      {"issue-date": "1958-03", "volume": "61", "number": "1"},
+      {"issue-date": "1958-04", "volume": "61", "number": "2"},
+      {"issue-date": "1958-05", "volume": "61", "number": "3"},
+      {"issue-date": "1958-06", "volume": "61", "number": "4"},
+      {"issue-date": "1958-07", "volume": "61", "number": "5"},
+      {"issue-date": "1958-08", "volume": "61", "number": "6"},
+      {"issue-date": "1958-09", "volume": "62", "number": "1"},
+      {"issue-date": "1958-10", "volume": "62", "number": "2"},
+      {"issue-date": "1958-11", "volume": "62", "number": "3"},
+      {"issue-date": "1958-12", "volume": "62", "number": "4"},
+      {"issue-date": "1959-01", "volume": "62", "number": "5"},
+      {"issue-date": "1959-03", "volume": "63", "number": "1"},
+      {"issue-date": "1959-04", "volume": "63", "number": "2"},
+      {"issue-date": "1959-05", "volume": "63", "number": "3"},
+      {"issue-date": "1959-06", "volume": "63", "number": "4"},
+      {"issue-date": "1959-07", "volume": "63", "number": "5"},
+      {"issue-date": "1959-08", "volume": "63", "number": "6"},
+      {"issue-date": "1959-09", "volume": "64", "number": "1"},
+      {"issue-date": "1959-10", "volume": "64", "number": "2"},
+      {"issue-date": "1959-11", "volume": "64", "number": "3"},
+      {"issue-date": "1959-12", "volume": "64", "number": "4"},
+      {"issue-date": "1960-01", "volume": "64", "number": "5"},
+      {"issue-date": "1960-02", "volume": "64", "number": "6"},
+      {"issue-date": "1960-03", "volume": "65", "number": "1"},
+      {"issue-date": "1960-04", "volume": "65", "number": "2"},
+      {"issue-date": "1960-05", "volume": "65", "number": "3"},
+      {"issue-date": "1960-06", "volume": "65", "number": "4"},
+      {"issue-date": "1960-07", "volume": "65", "number": "5"},
+      {"issue-date": "1960-08", "volume": "65", "number": "6"},
+      {"issue-date": "1960-09", "volume": "66", "number": "1"}
+   ],
+   "renewed-contribution-completeness": "active/1939",
+   "renewed-contributions": [
+      {"issue": {"issue-date": "1934-03", "volume": "13", "number": "1"}, 
+       "title": "Born of the Sun",
+        "author": {
+         "authorized": "Williamson, Jack, 1908-2006",
+         "lcna": "n79027136"
+       }
+      },
+      {"issue": {"issue-date": "1934-03", "volume": "13", "number": "1"}, 
+       "title": "The Man Who Never Lived",
+       "author": {
+        "authorized": "Wandrei, Donald, 1908-1987",
+        "lcna": "no88006233"
+       }
+      },
+      {"issue": {"issue-date": "1934-04", "volume": "13", "number": "2"}, 
+       "title": "The Legion of Space",
+       "title-note": "part 1 of 6",
+        "author": {
+         "authorized": "Williamson, Jack, 1908-2006",
+         "lcna": "n79027136"
+       }
+      },
+      {"issue": {"issue-date": "1934-04", "volume": "13", "number": "2"}, 
+       "title": "The Atom-Smasher",
+       "author": {
+        "authorized": "Wandrei, Donald, 1908-1987",
+        "lcna": "no88006233"
+       }
+      },
+      {"issue": {"issue-date": "1934-05", "volume": "13", "number": "3"}, 
+       "title": "The Blinding Shadows",
+       "author": {
+        "authorized": "Wandrei, Donald, 1908-1987",
+        "lcna": "no88006233"
+       }
+      },
+      {"issue": {"issue-date": "1934-05", "volume": "13", "number": "3"}, 
+       "title": "The Legion of Space",
+       "title-note": "part 2 of 6",
+        "author": {
+         "authorized": "Williamson, Jack, 1908-2006",
+         "lcna": "n79027136"
+       }
+      },
+      {"issue": {"issue-date": "1934-06", "volume": "13", "number": "4"}, 
+       "title": "The Legion of Space",
+       "title-note": "part 3 of 6",
+        "author": {
+         "authorized": "Williamson, Jack, 1908-2006",
+         "lcna": "n79027136"
+       }
+      },
+      {"issue": {"issue-date": "1934-07", "volume": "13", "number": "5"}, 
+       "title": "The Nerveless Man",
+       "author": {
+        "authorized": "Wandrei, Donald, 1908-1987",
+        "lcna": "no88006233"
+       }
+      },
+      {"issue": {"issue-date": "1934-07", "volume": "13", "number": "5"}, 
+       "title": "The Legion of Space",
+       "title-note": "part 4 of 6",
+        "author": {
+         "authorized": "Williamson, Jack, 1908-2006",
+         "lcna": "n79027136"
+       }
+      },
+      {"issue": {"issue-date": "1934-08", "volume": "13", "number": "6"}, 
+       "title": "The Legion of Space",
+       "title-note": "part 5 of 6",
+        "author": {
+         "authorized": "Williamson, Jack, 1908-2006",
+         "lcna": "n79027136"
+       }
+      },
+      {"issue": {"issue-date": "1934-09", "volume": "14", "number": "1"}, 
+       "title": "A Scientist Divides",
+       "author": {
+        "authorized": "Wandrei, Donald, 1908-1987",
+        "lcna": "no88006233"
+       }
+      },
+      {"issue": {"issue-date": "1934-09", "volume": "14", "number": "1"}, 
+       "title": "The Legion of Space",
+       "title-note": "part 6 of 6",
+        "author": {
+         "authorized": "Williamson, Jack, 1908-2006",
+         "lcna": "n79027136"
+       }
+      },
+      {"issue": {"issue-date": "1934-10", "volume": "14", "number": "2"}, 
+       "title": "The Bright Illusion",
+       "author": {
+        "authorized": "Moore, C. L. (Catherine Lucile), 1911-1987",
+        "lcna": "n50028286"
+       }
+      },
+      {"issue": {"issue-date": "1934-12", "volume": "14", "number": "4"}, 
+       "title": "Colossus Eternal",
+       "author": {
+        "authorized": "Wandrei, Donald, 1908-1987",
+        "lcna": "no88006233"
+       }
+      },
+      {"issue": {"issue-date": "1935-04", "volume": "15", "number": "2"}, 
+       "title": "Life-Current",
+       "author": {
+        "authorized": "Wandrei, Donald, 1908-1987",
+        "lcna": "no88006233"
+       }
+      },
+      {"issue": {"issue-date": "1935-05", "volume": "15", "number": "3"}, 
+       "title": "The Whisperers",
+       "author": {
+        "authorized": "Wandrei, Donald, 1908-1987",
+        "lcna": "no88006233"
+       }
+      },
+      {"issue": {"issue-date": "1935-06", "volume": "15", "number": "4"}, 
+       "title": "Murray's Light",
+       "author": {
+        "authorized": "Wandrei, Donald, 1908-1987",
+        "lcna": "no88006233"
+       }
+      },
+      {"issue": {"issue-date": "1935-09", "volume": "16", "number": "1"}, 
+       "title": "Earth Minus",
+       "author": {
+        "authorized": "Wandrei, Donald, 1908-1987",
+        "lcna": "no88006233"
+       }
+      },
+      {"issue": {"issue-date": "1935-09", "volume": "16", "number": "1"}, 
+       "title": "Greater Glories",
+       "author": {
+        "authorized": "Moore, C. L. (Catherine Lucile), 1911-1987",
+        "lcna": "n50028286"
+       }
+      },
+      {"issue": {"issue-date": "1936-05", "volume": "17", "number": "3"}, 
+       "title": "The Cometeers",
+       "title-note": "part 1 of 4",
+        "author": {
+         "authorized": "Williamson, Jack, 1908-2006",
+         "lcna": "n79027136"
+       }
+      },
+      {"issue": {"issue-date": "1936-06", "volume": "17", "number": "4"}, 
+       "title": "The Cometeers",
+       "title-note": "part 2 of 4",
+        "author": {
+         "authorized": "Williamson, Jack, 1908-2006",
+         "lcna": "n79027136"
+       }
+      },
+      {"issue": {"issue-date": "1936-07", "volume": "17", "number": "5"}, 
+       "title": "The Cometeers",
+       "title-note": "part 3 of 4",
+        "author": {
+         "authorized": "Williamson, Jack, 1908-2006",
+         "lcna": "n79027136"
+       }
+      },
+      {"issue": {"issue-date": "1936-08", "volume": "17", "number": "6"}, 
+       "title": "The Cometeers",
+       "title-note": "part 4 of 4",
+        "author": {
+         "authorized": "Williamson, Jack, 1908-2006",
+         "lcna": "n79027136"
+       }
+      },
+      {"issue": {"issue-date": "1936-09", "volume": "18", "number": "1"}, 
+       "title": "Finality Unlimited",
+       "author": {
+        "authorized": "Wandrei, Donald, 1908-1987",
+        "lcna": "no88006233"
+       }
+      },
+      {"issue": {"issue-date": "1936-10", "volume": "18", "number": "2"}, 
+       "title": "The Time Entity",
+       "note": "Author name is a pseudonym for Earl and Otto Binder",
+       "author": {
+         "authorized": "Binder, Eando",
+         "lcna": "no93000146"
+       }
+      },
+      {"issue": {"issue-date": "1936-10", "volume": "18", "number": "2"}, 
+       "title": "Infinity Zero",
+       "author": {
+        "authorized": "Wandrei, Donald, 1908-1987",
+        "lcna": "no88006233"
+       }
+      },
+      {"issue": {"issue-date": "1936-12", "volume": "18", "number": "4"}, 
+       "title": "Tryst in Time",
+       "author": {
+        "authorized": "Moore, C. L. (Catherine Lucile), 1911-1987",
+        "lcna": "n50028286"
+       }
+      },
+      {"issue": {"issue-date": "1937-03", "volume": "19", "number": "1"},
+       "title": "Life Disinherited",
+       "note": "Author name is a pseudonym for Earl and Otto Binder",
+       "author": {
+         "authorized": "Binder, Eando",
+         "lcna": "no93000146"
+       }
+      },
+      {"issue": {"issue-date": "1937-05", "volume": "19", "number": "3"},
+       "title": "Strange Vision",
+       "note": "Author name is a pseudonym for Earl and Otto Binder",
+       "author": {
+         "authorized": "Binder, Eando",
+         "lcna": "no93000146"
+       }
+      },
+      {"issue": {"issue-date": "1937-05", "volume": "19", "number": "3"},
+       "title": "Diamond Planetoid",
+       "author": {
+         "authorized": "Binder, Otto O. (Otto Oscar), 1911-1975",
+         "lcna": "no92020393",
+         "using": "Gordon A. Giles"
+       }
+      },
+      {"issue": {"issue-date": "1937-08", "volume": "19", "number": "6"}, 
+       "title": "Released Entropy",
+       "title-note": "part 1 of 2",
+        "author": {
+         "authorized": "Williamson, Jack, 1908-2006",
+         "lcna": "n79027136"
+       },
+       "note": "Renewal record in the CCE gives title as 'Entropy Released'"
+      },
+      {"issue": {"issue-date": "1937-09", "volume": "20", "number": "1"}, 
+       "title": "When the Sun Went Out",
+       "note": "Author name is a pseudonym for Earl and Otto Binder",
+       "author": {
+         "authorized": "Binder, Eando",
+         "lcna": "no93000146"
+       }
+      },
+      {"issue": {"issue-date": "1937-09", "volume": "20", "number": "1"}, 
+       "title": "The Isolinguals",
+       "author": {
+         "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+         "lcna": "n80057222"
+       }
+      },
+      {"issue": {"issue-date": "1937-11", "volume": "20", "number": "3"}, 
+       "title": "Queen of the Skies",
+       "note": "Author name is a pseudonym for Earl and Otto Binder",
+       "author": {
+         "authorized": "Binder, Eando",
+         "lcna": "no93000146"
+       }
+      },
+      {"issue": {"issue-date": "1937-12", "volume": "20", "number": "4"}, 
+       "title": "The Time Contractor",
+       "note": "Author name is a pseudonym for Earl and Otto Binder",
+       "author": {
+         "authorized": "Binder, Eando",
+         "lcna": "no93000146"
+       }
+      },
+      {"issue": {"issue-date": "1938-02", "volume": "20", "number": "6"}, 
+       "title": "Wayward World",
+       "author": {
+         "authorized": "Binder, Otto O. (Otto Oscar), 1911-1975",
+         "lcna": "no92020393",
+         "using": "Gordon A. Giles"
+       }
+      },
+      {"issue": {"issue-date": "1938-02", "volume": "20", "number": "6"}, 
+       "title": "The Anti-Weapon",
+       "note": "Author name is a pseudonym for Earl and Otto Binder",
+       "author": {
+         "authorized": "Binder, Eando",
+         "lcna": "no93000146"
+       }
+      },
+      {"issue": {"issue-date": "1938-03", "volume": "21", "number": "1"}, 
+       "title": "Eye of the Past",
+       "note": "Author name is a pseudonym for Earl and Otto Binder",
+       "author": {
+         "authorized": "Binder, Eando",
+         "lcna": "no93000146"
+       }
+      },
+      {"issue": {"issue-date": "1938-04", "volume": "21", "number": "2"}, 
+       "title": "Hyperpilosity",
+       "author": {
+         "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+         "lcna": "n80057222"
+       }
+      },
+      {"issue": {"issue-date": "1938-05", "volume": "21", "number": "3"}, 
+       "title": "The Legion of Time",
+       "title-note": "part 1 of 3",
+        "author": {
+         "authorized": "Williamson, Jack, 1908-2006",
+         "lcna": "n79027136"
+        }
+      },
+      {"issue": {"issue-date": "1938-06", "volume": "21", "number": "4"}, 
+       "title": "The Legion of Time",
+       "title-note": "part 2 of 3",
+        "author": {
+         "authorized": "Williamson, Jack, 1908-2006",
+         "lcna": "n79027136"
+        }
+      },
+      {"issue": {"issue-date": "1938-07", "volume": "21", "number": "5"}, 
+       "title": "Language for Time-Travelers",
+       "author": {
+         "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+         "lcna": "n80057222"
+       }
+      },
+      {"issue": {"issue-date": "1938-07", "volume": "21", "number": "5"}, 
+       "title": "The Legion of Time",
+       "title-note": "part 3 of 3",
+        "author": {
+         "authorized": "Williamson, Jack, 1908-2006",
+         "lcna": "n79027136"
+        }
+      },
+      {"issue": {"issue-date": "1938-08", "volume": "21", "number": "6"}, 
+       "title": "Who Goes There?",
+        "author": {
+         "authorized": "Campbell, John W., Jr. (John Wood), 1910-1971",
+         "lcna": "n81063251",
+         "using": "Don A. Stuart"
+        }
+      },
+      {"issue": {"issue-date": "1938-10", "volume": "22", "number": "2"}, 
+       "title": "The Command",
+       "author": {
+         "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+         "lcna": "n80057222"
+       }
+      },
+      {"issue": {"issue-date": "1938-12", "volume": "22", "number": "4"}, 
+       "title": "The Merman",
+       "author": {
+         "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+         "lcna": "n80057222"
+       }
+      },
+      {"issue": {"issue-date": "1939-01", "volume": "22", "number": "5"}, 
+       "title": "The Incorrigible",
+       "author": {
+         "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+         "lcna": "n80057222"
+       }
+      },
+      {"issue": {"issue-date": "1939-02", "volume": "22", "number": "6"}, 
+       "title": "The Crucible of Power",
+        "author": {
+         "authorized": "Williamson, Jack, 1908-2006",
+         "lcna": "n79027136"
+       },
+       "note": "A 1965 renewal record in the CCE says this was published in the Feburary 1938 issue, but it actually appeared in the February 1939 issue. Another renewal, filed in 1966, gives the correct date, and was filed at the right time to be effective."
+      },
+      {"issue": {"issue-date": "1939-02", "volume": "22", "number": "6"}, 
+       "title": "Living Fossil",
+       "author": {
+         "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+         "lcna": "n80057222"
+       }
+      },
+      {"issue": {"issue-date": "1939-04", "volume": "23", "number": "2"}, 
+       "title": "One Against the Legion",
+       "title-note": "part 1 of 3",
+        "author": {
+         "authorized": "Williamson, Jack, 1908-2006",
+         "lcna": "n79027136"
+        }
+      },
+      {"issue": {"issue-date": "1939-04", "volume": "23", "number": "2"}, 
+       "title": "The Rope Trick",
+       "note": "Author name is a pseudonym for Earl and Otto Binder",
+       "author": {
+         "authorized": "Binder, Eando",
+         "lcna": "no93000146"
+       }
+      },
+      {"issue": {"issue-date": "1939-05", "volume": "23", "number": "3"}, 
+       "title": "Employment",
+       "author": {
+         "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+         "lcna": "n80057222",
+         "using": "Lyman R. Leon"
+       }
+      },
+      {"issue": {"issue-date": "1939-05", "volume": "23", "number": "3"}, 
+       "title": "Design for Life",
+       "title-note": "part 1 of 2",
+       "author": {
+         "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+         "lcna": "n80057222"
+       }
+      },
+      {"issue": {"issue-date": "1939-05", "volume": "23", "number": "3"}, 
+       "title": "One Against the Legion",
+       "title-note": "part 2 of 3",
+        "author": {
+         "authorized": "Williamson, Jack, 1908-2006",
+         "lcna": "n79027136"
+        }
+      },
+      {"issue": {"issue-date": "1939-06", "volume": "23", "number": "4"}, 
+       "title": "Design for Life",
+       "title-note": "part 2 of 2",
+       "author": {
+         "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+         "lcna": "n80057222"
+       }
+      },
+      {"issue": {"issue-date": "1939-06", "volume": "23", "number": "4"}, 
+       "title": "One Against the Legion",
+       "title-note": "part 3 of 3",
+        "author": {
+         "authorized": "Williamson, Jack, 1908-2006",
+         "lcna": "n79027136"
+        }
+      },
+      {"issue": {"issue-date": "1939-07", "volume": "23", "number": "5"}, 
+       "title": "Black Destroyer",
+        "author": {
+          "authorized": "Van Vogt, A. E. (Alfred Elton), 1912-2000",
+          "lcna": "n79123985"
+        }
+      },
+      {"issue": {"issue-date": "1939-07", "volume": "23", "number": "5"}, 
+       "title": "Trends",
+        "author": {
+          "authorized": "Asimov, Isaac, 1920-1992",
+          "lcna": "n80126289"
+        }
+      },
+      {"issue": {"issue-date": "1939-08", "volume": "23", "number": "6"}, 
+       "title": "Lifeline",
+       "note": "Some sources give the title as 'Life-Line'. We have not examined the actual issue to see what title was used there.",
+       "author": {
+          "authorized": "Heinlein, Robert A. (Robert Anson), 1907-1988",
+          "lcna": "n79067868"
+       }
+      },
+      {"issue": {"issue-date": "1939-08", "volume": "23", "number": "6"}, 
+       "title": "The Blue Giraffe",
+       "author": {
+         "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+         "lcna": "n80057222"
+       }
+      },
+      {"issue": {"issue-date": "1939-11", "volume": "24", "number": "3"}, 
+       "title": "Misfit",
+       "author": {
+          "authorized": "Heinlein, Robert A. (Robert Anson), 1907-1988",
+          "lcna": "n79067868"
+       }
+      },
+      {"issue": {"issue-date": "1939-11", "volume": "24", "number": "3"}, 
+       "title": "There Ain't No Such",
+       "title-note": "part 1 of 2",
+       "author": {
+         "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+         "lcna": "n80057222"
+       }
+      },
+      {"issue": {"issue-date": "1939-12", "volume": "24", "number": "4"}, 
+       "title": "Discord in Scarlet",
+        "author": {
+          "authorized": "Van Vogt, A. E. (Alfred Elton), 1912-2000",
+          "lcna": "n79123985"
+        }
+      },
+      {"issue": {"issue-date": "1939-12", "volume": "24", "number": "4"}, 
+       "title": "There Ain't No Such",
+       "title-note": "part 2 of 2",
+       "author": {
+         "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+         "lcna": "n80057222"
+       }
+      },
+      {"issue": {"issue-date": "1940-01", "volume": "24", "number": "5"}, 
+       "title": "Requiem",
+       "author": {
+          "authorized": "Heinlein, Robert A. (Robert Anson), 1907-1988",
+          "lcna": "n79067868"
+       }
+      },
+      {"issue": {"issue-date": "1940-02", "volume": "24", "number": "6"}, 
+       "title": "If This Goes On",
+       "title-note": "part 1 of 2",
+       "author": {
+          "authorized": "Heinlein, Robert A. (Robert Anson), 1907-1988",
+          "lcna": "n79067868"
+       }
+      },
+      {"issue": {"issue-date": "1940-02", "volume": "24", "number": "6"}, 
+       "title": "And Then There Was One",
+       "author": {
+          "authorized": "Rocklynne, Ross, 1913-",
+          "lcna": "n88278070"
+       }
+      },
+      {"issue": {"issue-date": "1940-03", "volume": "25", "number": "1"}, 
+       "title": "The Emancipated",
+       "author": {
+         "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+         "lcna": "n80057222"
+       }
+      },
+      {"issue": {"issue-date": "1940-03", "volume": "25", "number": "1"}, 
+       "title": "If This Goes On",
+       "title-note": "part 2 of 2",
+       "author": {
+          "authorized": "Heinlein, Robert A. (Robert Anson), 1907-1988",
+          "lcna": "n79067868"
+       }
+      },
+      {"issue": {"issue-date": "1940-04", "volume": "25", "number": "2"}, 
+       "title": "Unguh Made a Fire",
+       "author": {
+          "authorized": "Rocklynne, Ross, 1913-",
+          "lcna": "n88278070"
+       }
+      },
+      {"issue": {"issue-date": "1940-05", "volume": "25", "number": "3"}, 
+       "title": "Hindsight",
+        "author": {
+         "authorized": "Williamson, Jack, 1908-2006",
+         "lcna": "n79027136"
+        }
+      },
+      {"issue": {"issue-date": "1940-06", "volume": "25", "number": "4"}, 
+       "title": "The Roads Must Roll",
+       "author": {
+          "authorized": "Heinlein, Robert A. (Robert Anson), 1907-1988",
+          "lcna": "n79067868"
+       }
+      },
+      {"issue": {"issue-date": "1940-07", "volume": "25", "number": "5"}, 
+       "title": "Coventry",
+       "author": {
+          "authorized": "Heinlein, Robert A. (Robert Anson), 1907-1988",
+          "lcna": "n79067868"
+       }
+      },
+      {"issue": {"issue-date": "1940-08", "volume": "25", "number": "6"}, 
+       "title": "Vault of the Beast",
+        "author": {
+          "authorized": "Van Vogt, A. E. (Alfred Elton), 1912-2000",
+          "lcna": "n79123985"
+        }
+      },
+      {"issue": {"issue-date": "1940-09", "volume": "26", "number": "1"}, 
+       "title": "Blowups Happen",
+       "author": {
+          "authorized": "Heinlein, Robert A. (Robert Anson), 1907-1988",
+          "lcna": "n79067868"
+       }
+      },
+      {"issue": {"issue-date": "1940-09", "volume": "26", "number": "1"}, 
+       "title": "Quietus",
+       "author": {
+          "authorized": "Rocklynne, Ross, 1913-",
+          "lcna": "n88278070"
+       }
+      },
+      {"issue": {"issue-date": "1940-09", "volume": "26", "number": "1"}, 
+       "title": "Homo Sol",
+        "author": {
+          "authorized": "Asimov, Isaac, 1920-1992",
+          "lcna": "n80126289"
+        }
+      },
+      {"issue": {"issue-date": "1940-10", "volume": "26", "number": "2"}, 
+       "title": "Farewell to the Master",
+        "author": {
+          "authorized": "Bates, Harry, 1900-1981",
+          "lcna": "no99082693"
+        }
+      },
+      {"issue": {"issue-date": "1941-05", "volume": "27", "number": "3"}, 
+       "title": "Liar!",
+        "author": {
+          "authorized": "Asimov, Isaac, 1920-1992",
+          "lcna": "n80126289"
+        }
+      }
    ],
    "additional-note" : "Contribution renewals are recorded beginning in the 1961 July-December CCE volume, but the earliest renewed contribution is noted in the 1962 January-June volume.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-10-25"
+   "last-updated": "2018-11-02"
 }

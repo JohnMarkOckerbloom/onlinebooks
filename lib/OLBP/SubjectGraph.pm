@@ -286,6 +286,14 @@ sub expand {
         $self->_check_and_add_lexical_BT($initialterm, $node);
         $self->_check_and_add_lexical_BT($infield, $node);
       }
+      #  (valid heading) " as (various items)"
+      #   for these we generally only have to link first item;
+      #   the part after the 'as' is usually linked
+      if ($heading =~ /(.*) as (artists|biological pest control agents|carriers of disease|feed|fertilizer|food|fuel|laboratory animals|pets)$/) {
+        my $initialterm = $1;
+        $self->_check_and_add_lexical_BT($initialterm, $node);
+      }
+      
       # now check to see if we have UFs with -- that don't yet 
       # reflect this term, or a BT.  Those should be added too
       my @aliases = $node->aliases();
