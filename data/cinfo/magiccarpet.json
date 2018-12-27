@@ -1,0 +1,34 @@
+{
+   "title": "The Magic Carpet Magazine",
+   "contents": [
+      {"url": "http://www.isfdb.org/cgi-bin/pe.cgi?30537",
+       "note": "ISFDB"},
+      {"url": "http://www.philsp.com/homeville/AFI/link.asp?magid=MGC",
+       "note": "FictionMags"}
+   ],
+   "aka": ["Oriental Stories Combined with the Magic Carpet Magazine"],
+   "preceded-by": [{"id": "orientalstories", "note": "Oriental Stories"}],
+   "first-issue": {"issue-date": "1933-01", "volume": "3", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce",
+   "first-renewed-contribution": 
+      {"issue": {"issue-date": "1933-04", "volume": "3", "number": "2"}},
+   "first-renewed-contribution-source": "1960-JanJun",
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+      {"issue": {"issue-date": "1933-04"},
+       "title": "Mr. Jimson Assists",
+       "author": {
+         "authorized": "Derleth, August, 1909-1971",
+         "lcna": "n50002948"
+       },
+       "note": "Renewal record claims this was published in the April 1933 issue of Weird Tales, but Galactic Central and ISFDB do not show it appearing in that issue.  They instead place it in the April 1933 issue of Magic Carpet."
+      }
+   ],
+   "additional-note": "This appears to be a continuation of Oriental Stories, rather than a merger with another pre-existing magazine.",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2018-12-20"
+}
