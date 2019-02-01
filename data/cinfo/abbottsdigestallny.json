@@ -1,14 +1,17 @@
 {
    "title": "Abbott's Digest of All the New York Reports",
    "first-renewed-issue": 
-       {"issue-date": "1922-12", "cdate": "1923-03-02"},
-   "first-renewed-issue-source": "1950-JanJun",
+       {"issue-date": "1923-12", "cdate": "1924-03-11"},
+   "first-renewed-issue-source": "1951-JanJun",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce",
    "last-issue": {"issue-date": "1929"},
+   "renewed-issues": [
+       {"issue-date": "1923-12", "cdate": "1924-03-11"}
+   ], 
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-06-12"
+   "last-updated": "2019-01-14"
 }

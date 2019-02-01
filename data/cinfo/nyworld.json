@@ -1,0 +1,24 @@
+{
+   "title": "The New York World",
+   "aka": ["The World", "New York Evening World"],
+   "online": "1",
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce",
+   "first-renewed-contribution": 
+     {"issue": {"issue-date": "1924-04-23"}},
+   "first-renewed-contribution-source": "1951-JanJun",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1924-04-23"},
+       "title": "A Song of French Roads",
+       "author": {
+         "authorized": "Kipling, Rudyard, 1865-1936",
+         "lcna": "n79103792"
+       }
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2019-01-09"
+}

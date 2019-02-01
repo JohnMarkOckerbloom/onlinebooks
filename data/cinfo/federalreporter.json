@@ -2,16 +2,32 @@
    "title": "Federal Reporter",
    "aka": ["West's Federal Reporter"],
    "online": "1",
-   "first-renewed-issue": {"volume": "282", "cdate": "1923-01-08"},
-   "first-renewed-issue-source": "1950-JanJun",
+   "first-renewed-issue": {"volume": "293", "number": "1",
+                           "cdate": "1924-01-02"},
+   "first-renewed-issue-source": "1951-JanJun",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
+   "renewed-issues": [
+     {"issue-date": "1924-01-03", "volume": "293", "number": "1"},
+     {"issue-date": "1924-01-10", "volume": "293", "number": "2"},
+     {"issue-date": "1924-01-17", "volume": "293", "number": "3"},
+     {"issue-date": "1924-01-24", "volume": "293", "number": "4"},
+     {"issue-date": "1924-01-31", "volume": "293", "number": "5"},
+     {"issue-date": "1924-02-07", "volume": "293", "number": "6"},
+     {"issue-date": "1924-02-14", "volume": "293", "number": "7"},
+     {"issue-date": "1924-02-21", "volume": "294", "number": "1"},
+     {"issue-date": "1924-02-28", "volume": "294", "number": "2"},
+     {"issue-date": "1924-03-06", "volume": "294", "number": "3"},
+     {"issue-date": "1924-03-13", "volume": "294", "number": "4"},
+     {"issue-date": "1924-03-20", "volume": "294", "number": "5"},
+     {"issue-date": "1924-03-27", "volume": "295", "number": "1"}
+   ],
    "additional-notes" : [
     "Rulings and opinions issued by the courts covered in this publication are in the public domain.  The publisher may claim copyright on original notes, summaries, and annotations it adds.",
-    "Renewals were filed both for individual initial issues, and for the later bound permanent edition. The earliest volume of the permanent edition still under copyright is volume 282.  The earliest still-copyrighted individual issue published prior to the permanent edition is volume 284, number 3, copyrighted January 4, 1923."],
+    "Renewals were filed both for individual initial issues, and sometimes also for the later bound permanent edition. We have not found renewals for permanent edition volumes covering 1924, but they may include copyrighted material from the individual issues covering that year."],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-12-04"
+   "last-updated": "2019-01-29"
 }

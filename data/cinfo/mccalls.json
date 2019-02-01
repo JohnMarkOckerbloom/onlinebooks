@@ -1,16 +1,79 @@
 {
    "title": "McCall's",
    "aka": ["McCall's Magazine"],
+   "online": "1",
    "see-also": [{"id": "mccallsmealplanner", "note": "McCall's Meal Planner"}],
-   "first-renewed-issue": {"issue-date": "1923-02", "cdate": "1923-01-10",
-         "volume": "50", "number": "5"},
-   "first-renewed-issue-source": "1950-JanJun",
+   "first-renewed-issue": {"issue-date": "1924-02", "cdate": "1924-01-10",
+         "volume": "51", "number": "5"},
+   "first-renewed-issue-source": "1951-JanJun",
    "first-renewed-contribution":
-    {"issue": {"issue-date": "1923-02", "volume": "50", "number": "5"}},
-   "first-renewed-contribution-source": "1950-JanJun",
+    {"issue": {"issue-date": "1924-02", "volume": "51", "number": "5"}},
+   "first-renewed-contribution-source": "1951-JanJun",
+   "renewed-issues": [
+      {"issue-date": "1924-02", "volume": "51", "number": "5"},
+      {"issue-date": "1924-03", "volume": "51", "number": "6"}
+   ],
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1924-02"},
+      "title": "Am I My Brother's Keeper?",
+       "author": {
+         "authorized": "Stratton-Porter, Gene, 1863-1924",
+         "lcna": "n79127897"
+       }
+     },
+     {"issue": {"issue-date": "1924-04"},
+      "title": "Ready!",
+       "author": {
+         "authorized": "Stratton-Porter, Gene, 1863-1924",
+         "lcna": "n79127897"
+       }
+     },
+     {"issue": {"issue-date": "1924-06"},
+      "title": "Having the Courage of Your Convictions",
+       "author": {
+         "authorized": "Stratton-Porter, Gene, 1863-1924",
+         "lcna": "n79127897"
+       }
+     },
+     {"issue": {"issue-date": "1924-07"},
+      "title": "Educating Mother",
+       "author": {
+         "authorized": "Stratton-Porter, Gene, 1863-1924",
+         "lcna": "n79127897"
+       }
+     },
+     {"issue": {"issue-date": "1924-08"},
+      "title": "Gene Stratton Porter's Page: Helping Father",
+       "author": {
+         "authorized": "Stratton-Porter, Gene, 1863-1924",
+         "lcna": "n79127897"
+       }
+     },
+     {"issue": {"issue-date": "1924-09"},
+      "title": "Helping Brother",
+       "author": {
+         "authorized": "Stratton-Porter, Gene, 1863-1924",
+         "lcna": "n79127897"
+       }
+     },
+     {"issue": {"issue-date": "1924-10"},
+      "title": "By the People",
+       "author": {
+         "authorized": "Stratton-Porter, Gene, 1863-1924",
+         "lcna": "n79127897"
+       }
+     },
+     {"issue": {"issue-date": "1924-11"},
+      "title": "The Rabble Rouser",
+       "author": {
+         "authorized": "Tarkington, Booth, 1869-1946",
+         "lcna": "n79078124"
+       }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-03-17"
+   "last-updated": "2019-01-29"
 }

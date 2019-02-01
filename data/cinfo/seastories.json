@@ -1,0 +1,32 @@
+{
+   "title": "Sea Stories Magazine",
+   "online": "1",
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/AFI/link.asp?magid=SES",
+       "note": "FictionMags"}
+   ],
+   "first-issue":
+      {"issue-date": "1922-02", "volume": "1", "number": "1"},
+   "first-renewed-issue":
+      {"issue-date": "1924-01-05", "volume": "7", "number": "5"},
+   "first-renewed-issue-source": "1951-JanJun",
+   "first-renewed-contribution":
+      {"issue": {"issue-date": "1925-01", "volume": "9", "number": "5"}},
+   "first-renewed-contribution-source": "1952-JanJun",
+   "last-issue":
+      {"issue-date": "1930-06", "volume": "20", "number": "4"},
+   "renewed-issues": [
+      {"issue-date": "1924-01-05", "volume": "7", "number": "5"},
+      {"issue-date": "1924-01-20", "volume": "7", "number": "6"},
+      {"issue-date": "1924-03", "volume": "8", "number": "1"},
+      {"issue-date": "1924-04", "volume": "8", "number": "2"},
+      {"issue-date": "1924-05", "volume": "8", "number": "3"},
+      {"issue-date": "1924-06", "volume": "8", "number": "4"},
+      {"issue-date": "1924-07", "volume": "8", "number": "5"}
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2019-01-31"
+}

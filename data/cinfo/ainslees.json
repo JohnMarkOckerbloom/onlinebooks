@@ -7,15 +7,32 @@
    ],
    "online": "1",
    "first-renewed-issue":
-     {"issue-date": "1923-02", "cdate": "1923-01-15",
-      "volume": "50", "number": "6"},
-   "first-renewed-issue-source": "1950-JanJun",
+     {"issue-date": "1924-02", "cdate": "1924-01-15",
+      "volume": "52", "number": "6"},
+   "first-renewed-issue-source": "1951-JanJun",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1923-08", "volume": "51", "number": "6"}},
-   "first-renewed-contribution-source": "1950-JulDec",
+     {"issue": {"issue-date": "1924-05", "volume": "53", "number": "3"}},
+   "first-renewed-contribution-source": "1951-JanJun",
+   "renewed-issues": [
+     {"issue-date": "1924-02", "volume": "52", "number": "6"},
+     {"issue-date": "1924-03", "volume": "53", "number": "1"},
+     {"issue-date": "1924-04", "volume": "53", "number": "2"},
+     {"issue-date": "1924-05", "volume": "53", "number": "3"},
+     {"issue-date": "1924-06", "volume": "53", "number": "4"},
+     {"issue-date": "1924-07", "volume": "53", "number": "5"}
+   ],
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1924-05", "volume": "53", "number": "3"},
+      "title": "Pierrot Steals the Moon",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-05-26"
+   "last-updated": "2019-01-14"
 }

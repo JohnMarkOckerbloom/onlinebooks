@@ -8,16 +8,193 @@
    "first-issue":
       {"issue-date": "1903-05", "volume": "1", "number": "1"},
    "first-renewed-issue":
-      {"issue-date": "1923-02", "cdate": "1923-01-23",
-                     "volume": "40", "number": "4"},
-   "first-renewed-issue-source": "1950-JanJun",
+      {"issue-date": "1924-02", "cdate": "1924-01-23",
+                     "volume": "42", "number": "4"},
+   "first-renewed-issue-source": "1951-JanJun",
    "first-renewed-contribution": {
-      "issue": {"issue-date": "1923-03", "volume": "40", "number": "5"}
+      "issue": {"issue-date": "1924-02", "volume": "42", "number": "4"}
    },
-   "first-renewed-contribution-source": "1950-JanJun",
+   "first-renewed-contribution-source": "1951-JanJun",
+   "renewed-issues": [
+      {"issue-date": "1924-02", "volume": "42", "number": "4"},
+      {"issue-date": "1924-03", "volume": "42", "number": "5"}
+   ],
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1924-02", "volume": "42", "number": "4"}, 
+      "title": "Dishface",
+      "author": {
+       "authorized": "Benét, Stephen Vincent, 1898-1943",
+       "lcna": "n50007691"
+      }
+     },
+     {"issue": {"issue-date": "1924-02", "volume": "42", "number": "4"}, 
+      "title": "Laugh, Laugh, Laugh",
+      "author": {
+       "authorized": "Patri, Angelo, 1876-1965",
+       "lcna": "n91079923"
+      }
+     },
+     {"issue": {"issue-date": "1924-03", "volume": "42", "number": "5"}, 
+      "title": "Her Clothes",
+      "author": {
+       "authorized": "Patri, Angelo, 1876-1965",
+       "lcna": "n91079923"
+      }
+     },
+     {"issue": {"issue-date": "1924-04", "volume": "42", "number": "6"}, 
+      "title": "Rich White Trash",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1924-04", "volume": "42", "number": "6"}, 
+      "title": "Morality Pageant",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1924-04", "volume": "42", "number": "6"}, 
+      "title": "Two O'Clock in the Morning",
+      "author": {
+       "authorized": "Patri, Angelo, 1876-1965",
+       "lcna": "n91079923"
+      }
+     },
+     {"issue": {"issue-date": "1924-05", "volume": "43", "number": "1"}, 
+      "title": "Uriah's Son",
+      "author": {
+       "authorized": "Benét, Stephen Vincent, 1898-1943",
+       "lcna": "n50007691"
+      }
+     },
+     {"issue": {"issue-date": "1924-05", "volume": "43", "number": "1"}, 
+      "title": "Begin",
+      "author": {
+       "authorized": "Patri, Angelo, 1876-1965",
+       "lcna": "n91079923"
+      }
+     },
+     {"issue": {"issue-date": "1924-06", "volume": "43", "number": "2"}, 
+      "title": "Joy of Battle",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1924-06", "volume": "43", "number": "2"}, 
+      "title": "The Lonesome Place",
+      "author": {
+       "authorized": "Patri, Angelo, 1876-1965",
+       "lcna": "n91079923"
+      }
+     },
+     {"issue": {"issue-date": "1924-07", "volume": "43", "number": "3"}, 
+      "title": "The Shoe Tree",
+      "title-note": "part 1 of 2",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1924-07", "volume": "43", "number": "3"}, 
+      "title": "The Pleasant Road",
+      "author": {
+       "authorized": "Patri, Angelo, 1876-1965",
+       "lcna": "n91079923"
+      }
+     },
+     {"issue": {"issue-date": "1924-08", "volume": "43", "number": "4"},
+      "title": "The Shoe Tree",
+      "title-note": "part 2 of 2",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1924-08", "volume": "43", "number": "4"},
+      "title": "Half Price",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1924-08", "volume": "43", "number": "4"},
+      "title": "Witch-Hazel",
+      "author": {
+       "authorized": "Patri, Angelo, 1876-1965",
+       "lcna": "n91079923"
+      }
+     },
+     {"issue": {"issue-date": "1924-09", "volume": "43", "number": "5"}, 
+      "title": "The Enchanters",
+      "author": {
+       "authorized": "Patri, Angelo, 1876-1965",
+       "lcna": "n91079923"
+      }
+     },
+     {"issue": {"issue-date": "1924-10", "volume": "43", "number": "6"},
+      "title": "Nan is Diverted",
+      "author": {
+       "authorized": "Duganne, Phyllis, 1899-1976",
+       "lcna": "n90719514"
+      }
+     },
+     {"issue": {"issue-date": "1924-10", "volume": "43", "number": "6"},
+      "title": "Poverty de Luxe",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1924-10", "volume": "43", "number": "6"},
+      "title": "Just Doing Nothing",
+      "author": {
+       "authorized": "Patri, Angelo, 1876-1965",
+       "lcna": "n91079923"
+      }
+     },
+     {"issue": {"issue-date": "1924-11", "volume": "44", "number": "1"},
+      "title": "New Blood",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1924-11", "volume": "44", "number": "1"},
+      "title": "The Price",
+      "author": {
+       "authorized": "Patri, Angelo, 1876-1965",
+       "lcna": "n91079923"
+      }
+     },
+     {"issue": {"issue-date": "1924-12", "volume": "44", "number": "2"},
+      "title": "The Law's an Ass",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1924-12", "volume": "44", "number": "2"},
+      "title": "Miranda, the Measles and Marmaduke",
+      "author": {
+       "authorized": "Benét, Stephen Vincent, 1898-1943",
+       "lcna": "n50007691"
+      }
+     },
+     {"issue": {"issue-date": "1924-12", "volume": "44", "number": "2"},
+      "title": "Rose Color",
+      "author": {
+       "authorized": "Patri, Angelo, 1876-1965",
+       "lcna": "n91079923"
+      }
+     }
+   ],
+   "additional-note": "The CCE renewal record for Margaret Culkin Banning's 'Pity's Other Kin', which ran in the January 1924 issue, shows a 1924 copyright date, but other evidence indicates that issue had a 1923 copyright, which has now expired.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-09-09"
+   "last-updated": "2019-01-30"
 }

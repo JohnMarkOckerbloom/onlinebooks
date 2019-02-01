@@ -1,6 +1,6 @@
 {
    "title": "Everybody's Magazine",
-   "aka": "Everybody's-Romance",
+   "aka": ["Everybody's-Romance"],
    "online": "1",
    "contents": [
       {"url": "http://www.philsp.com/homeville/GFI/link.asp?magid=EVY",
@@ -9,12 +9,42 @@
    "first-renewed-issue":  "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1923-02", "cdate": "1923-01-10",
-                "volume": "48", "number": "2"}},
+     {"issue": {"issue-date": "1924-02", "cdate": "1924-01-02",
+                "volume": "50", "number": "2"}},
    "first-renewed-contribution-source": "1950-JanJun",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1924-02", "volume": "50", "number": "2"},
+      "title": "Truthful James",
+      "author": {
+       "authorized": "Upson, William Hazlett, 1891-1975",
+       "lcna": "n90676728"
+      }
+     },
+     {"issue": {"issue-date": "1924-03", "volume": "50", "number": "3"},
+      "title": "The Golden Bum",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1924-06", "volume": "50", "number": "6"},
+      "title": "The Ace of Cads",
+      "author": {
+         "authorized": "Arlen, Michael, 1895-1956",
+         "lcna": "n50001591"
+       }
+     },
+     {"issue": {"issue-date": "1924-09", "volume": "51", "number": "3"},
+      "title": "Noise",
+      "author": {
+       "authorized": "Upson, William Hazlett, 1891-1975",
+       "lcna": "n90676728"
+      }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-06-03"
+   "last-updated": "2019-01-29"
 }

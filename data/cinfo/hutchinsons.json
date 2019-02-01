@@ -1,0 +1,46 @@
+{
+   "title": "Hutchinson's Magazine",
+   "aka": ["Hutchinson's Story Magazine"],
+   "online": "1",
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/FMI/link.asp?magid=HSM",
+       "note": "FictionMags"}
+   ],
+   "first-issue":
+      {"issue-date": "1919-07", "volume": "1", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce",
+   "first-renewed-contribution": {"issue": 
+      {"issue-date": "1924-05", "volume": "10", "number": "59"}},
+   "first-renewed-contribution-source": "1951-JulDec",
+   "last-issue": {"issue-date": "1929-12"},
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1924-05", "volume": "10", "number": "59"},
+      "title": "Spinach and Reconciliation",
+      "title-note": "part 1 of 2",
+      "note": "Title as given in CCE. FictionMags gives title simply as 'Spinach'.  I have not checked the issue to see what title is used there.",
+      "author": {
+         "authorized": "Benson, E. F. (Edward Frederic), 1867-1940",
+         "lcna": "n50057239"
+       }
+     },
+     {"issue": {"issue-date": "1924-07", "volume": "11", "number": "61"},
+      "title": "Spinach and Reconciliation",
+      "title-note": "part 2 of 2",
+      "note": "Title as given in CCE. FictionMags gives title simply as 'Reconciliation'.  I have not checked the issue to see what title is used there.",
+      "author": {
+         "authorized": "Benson, E. F. (Edward Frederic), 1867-1940",
+         "lcna": "n50057239"
+       }
+     }
+   ],
+   "additional-notes": [
+     "This is a British publication.  Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US.",
+     "This magazine frequently reprinted stories that had originally appeared in other magazines.  We have not systematically checked the copyrights of those earlier publications."
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2019-01-15"
+}

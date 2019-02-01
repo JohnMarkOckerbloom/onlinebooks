@@ -9,22 +9,14 @@
    "first-issue":
       {"issue-date": "1923-03", "volume": "1", "number": "1"},
    "first-renewed-issue":
-      {"issue-date": "1923-04", "volume": "1", "number": "2"},
+      {"issue-date": "1924-02", "cdate": "1924-01-15",
+       "volume": "3", "number": "2"},
    "first-renewed-issue-source": "1951-JanJun",
    "first-renewed-contribution": 
-      {"issue": {"issue-date": "1923-11"}},
+      {"issue": {"issue-date": "1924-02", "volume": "3", "number": "2"}},
    "first-renewed-contribution-source": "1951-JulDec",
    "renewed-issue-completeness": "active/autorenewals",
    "renewed-issues": [
-      {"issue-date": "1923-04", "volume": "1", "number": "2"},
-      {"issue-date": "1923-05", "volume": "1", "number": "3"},
-      {"issue-date": "1923-06", "volume": "1", "number": "4"},
-      {"issue-date": "1923-July-August", "volume": "2", "number": "1"},
-      {"issue-date": "1923-09", "volume": "2", "number": "2"},
-      {"issue-date": "1923-10", "volume": "2", "number": "3"},
-      {"issue-date": "1923-11", "volume": "2", "number": "4"},
-      {"issue-date": "1924-01", "volume": "3", "number": "1",
-          "note": "Date as given on cover.  Sometimes labeled December 1923/January 1924."},
       {"issue-date": "1924-02", "volume": "3", "number": "2"},
       {"issue-date": "1924-03", "volume": "3", "number": "3"},
       {"issue-date": "1924-May-July", "volume": "4", "number": "2"},
@@ -100,24 +92,8 @@
          "note": "Issue number repeats for May and July issues."},
       {"issue-date": "1947-09", "volume": "39", "number": "12"}
    ],
-   "renewed-contribution-completeness": "active/1945",
+   "renewed-contribution-completeness": "active/1949",
    "renewed-contributions": [
-       {"issue": {"issue-date": "1923-11", "volume": "2", "number": "4"}, 
-        "title": "Draconda",
-        "title-note": "part 1 of 6",
-        "author": {
-         "authorized": "Leahy, John Martin, 1886-1967",
-         "lcna": "no2015086770"
-        }
-       },
-       {"issue": {"issue-date": "December 1923/January 1924", "volume": "3", "number": "1"}, 
-        "title": "Draconda",
-        "title-note": "part 2 of 6",
-        "author": {
-         "authorized": "Leahy, John Martin, 1886-1967",
-         "lcna": "no2015086770"
-        }
-       },
        {"issue": {"issue-date": "1924-02", "volume": "3", "number": "2"}, 
         "title": "Draconda",
         "title-note": "part 3 of 6",
@@ -1636,10 +1612,25 @@
        }
       },
       {"issue": {"issue-date": "1946-11", "volume": "39", "number": "8"},
+       "title": "A Collector of Stones",
+       "author": {
+         "authorized": "Derleth, August, 1909-1971",
+         "lcna": "n50002948"
+       }
+      },
+      {"issue": {"issue-date": "1946-11", "volume": "39", "number": "8"},
        "title": "Lizzie Borden Took an Axe",
        "author": {
           "authorized": "Bloch, Robert, 1917-1994",
           "lcna": "n50016557"
+       }
+      },
+      {"issue": {"issue-date": "1947-01", "volume": "39", "number": "9"},
+       "title": "The Extra Passenger",
+       "note": "Author is August Derleth writing under a pseudonym.",
+       "author": {
+         "authorized": "Grendon, Stephen, 1909-1971",
+         "lcna": "no2013002492"
        }
       },
       {"issue": {"issue-date": "1947-01", "volume": "39", "number": "9"},
@@ -1648,13 +1639,388 @@
           "authorized": "Bradbury, Ray, 1920-2012",
           "lcna": "n79139258"
        }
+      },
+      {"issue": {"issue-date": "1947-03", "volume": "39", "number": "10"},
+       "title": "Mr. George",
+       "note": "Author is August Derleth writing under a pseudonym. CCE renewal record gives title as 'Mister George'.",
+       "author": {
+         "authorized": "Grendon, Stephen, 1909-1971",
+         "lcna": "no2013002492"
+       }
+      },
+      {"issue": {"issue-date": "1947-03", "volume": "39", "number": "10"},
+       "title": "The Terror in Teakwood",
+       "author": {
+          "name": "Harold Lawlor"
+       }
+      },
+      {"issue": {"issue-date": "1947-03", "volume": "39", "number": "10"},
+       "title": "Sweets to the Sweet",
+       "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+       }
+      },
+      {"issue": {"issue-date": "1947-05", "volume": "39", "number": "11"},
+       "title": "Mistress Sary",
+       "author": {
+          "authorized": "Tenn, William, 1920-2010",
+          "lcna": "n88651363"
+       }
+      },
+      {"issue": {"issue-date": "1947-05", "volume": "39", "number": "11"},
+       "title": "The Black Madonna",
+       "author": {
+          "name": "Harold Lawlor"
+       }
+      },
+      {"issue": {"issue-date": "1947-07", "volume": "39", "number": "11"},
+       "title": "The Churchyard Yew",
+       "note": "July 1947's issue number is the same as May 1947's.",
+       "author": {
+         "authorized": "Derleth, August, 1909-1971",
+         "lcna": "n50002948"
+       }
+      },
+      {"issue": {"issue-date": "1947-07", "volume": "39", "number": "11"},
+       "title": "Parrington's Pool",
+       "note": "Author is August Derleth writing under a pseudonym. July 1947's issue number is the same as May 1947's.",
+       "author": {
+         "authorized": "Grendon, Stephen, 1909-1971",
+         "lcna": "no2013002492"
+       }
+      },
+      {"issue": {"issue-date": "1947-07", "volume": "39", "number": "11"},
+       "title": "Interim",
+       "note": "July 1947's issue number is the same as May 1947's.",
+       "author": {
+          "authorized": "Bradbury, Ray, 1920-2012",
+          "lcna": "n79139258"
+       }
+      },
+      {"issue": {"issue-date": "1947-07", "volume": "39", "number": "11"},
+       "title": "The Breeze and I",
+       "note": "July 1947's issue number is the same as May 1947's.",
+       "author": {
+        "authorized": "Counselman, Mary Elizabeth, 1911-1995",
+        "lcna": "n78094779"
+       }
+      },
+      {"issue": {"issue-date": "1947-09", "volume": "39", "number": "12"},
+       "title": "The Occupant of the Crypt",
+       "authors": [
+         {"authorized": "Derleth, August, 1909-1971",
+         "lcna": "n50002948"},
+         {"authorized": "Schorer, Mark, 1908-1977",
+         "lcna": "n50002798"}
+       ]
+      },
+      {"issue": {"issue-date": "1947-11", "volume": "40", "number": "1"},
+       "title": "The Cheaters",
+       "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+       }
+      },
+      {"issue": {"issue-date": "1947-11", "volume": "40", "number": "1"},
+       "title": "The Ghost Walk",
+       "note": "Author is August Derleth writing under a pseudonym.",
+       "author": {
+         "authorized": "Grendon, Stephen, 1909-1971",
+         "lcna": "no2013002492"
+       }
+      },
+      {"issue": {"issue-date": "1947-11", "volume": "40", "number": "1"},
+       "title": "The Lens",
+       "author": {
+        "authorized": "Counselman, Mary Elizabeth, 1911-1995",
+        "lcna": "n78094779"
+       }
+      },
+      {"issue": {"issue-date": "1947-11", "volume": "40", "number": "1"},
+       "title": "Portrait in Moonlight",
+       "author": {
+        "authorized": "Jacobi, Carl, 1908-1997",
+        "lcna": "n85135767"
+       }
+      },
+      {"issue": {"issue-date": "1947-11", "volume": "40", "number": "1"},
+       "title": "Clair de Lune",
+       "author": {
+        "authorized": "Quinn, Seabury, 1889-1969",
+        "lcna": "no96039070"
+       }
+      },
+      {"issue": {"issue-date": "1948-01", "volume": "40", "number": "2"},
+       "title": "And Give Us Yesterday",
+       "author": {
+        "authorized": "Quinn, Seabury, 1889-1969",
+        "lcna": "no96039070"
+       }
+      },
+      {"issue": {"issue-date": "1948-01", "volume": "40", "number": "2"},
+       "title": "The Night Train to Lost Valley",
+       "note": "Author is August Derleth writing under a pseudonym.",
+       "author": {
+         "authorized": "Grendon, Stephen, 1909-1971",
+         "lcna": "no2013002492"
+       }
+      },
+      {"issue": {"issue-date": "1948-03", "volume": "40", "number": "3"},
+       "title": "Something in Wood",
+       "author": {
+         "authorized": "Derleth, August, 1909-1971",
+         "lcna": "n50002948"
+       }
+      },
+      {"issue": {"issue-date": "1948-03", "volume": "40", "number": "3"},
+       "title": "The October Game",
+       "author": {
+          "authorized": "Bradbury, Ray, 1920-2012",
+          "lcna": "n79139258"
+       }
+      },
+      {"issue": {"issue-date": "1948-05", "volume": "40", "number": "4"},
+       "title": "Saunder's Little Friend",
+       "author": {
+         "authorized": "Derleth, August, 1909-1971",
+         "lcna": "n50002948"
+       }
+      },
+      {"issue": {"issue-date": "1948-05", "volume": "40", "number": "4"},
+       "title": "The Black Ferris",
+       "author": {
+          "authorized": "Bradbury, Ray, 1920-2012",
+          "lcna": "n79139258"
+       }
+      },
+      {"issue": {"issue-date": "1948-07", "volume": "40", "number": "5"},
+       "title": "What Beckoning Ghost",
+       "author": {
+          "name": "Harold Lawlor"
+       }
+      },
+      {"issue": {"issue-date": "1948-07", "volume": "40", "number": "5"},
+       "title": "The Isantsa in the Parlor",
+       "note": "Author is August Derleth writing under a pseudonym. Renewal record in CCE gives title as 'The Isantsa in the Parlor'; Galactic Central and ISFDB give title as 'The Tsanta in the Parlor'.  I have not examined the issue to see what title is shown there.",
+       "author": {
+         "authorized": "Grendon, Stephen, 1909-1971",
+         "lcna": "no2013002492"
+       }
+      },
+      {"issue": {"issue-date": "1948-09", "volume": "40", "number": "6"},
+       "title": "The Whippoorwills in the Hills",
+       "note": "Renewal record in CCE gives title as 'The Whippoorwill in the Hills', but magazine cover gives title as 'The Whippoorwills in the Hills'.",
+       "author": {
+         "authorized": "Derleth, August, 1909-1971",
+         "lcna": "n50002948"
+       }
+      },
+      {"issue": {"issue-date": "1948-09", "volume": "40", "number": "6"},
+       "title": "Fever Dream",
+       "author": {
+          "authorized": "Bradbury, Ray, 1920-2012",
+          "lcna": "n79139258"
+       }
+      },
+      {"issue": {"issue-date": "1948-11", "volume": "41", "number": "1"},
+       "title": "The Indian Spirit Guide",
+       "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+       }
+      },
+      {"issue": {"issue-date": "1948-11", "volume": "41", "number": "1"},
+       "title": "Blessed Are the Meek",
+       "note": "Author is August Derleth writing under a pseudonym.",
+       "author": {
+         "authorized": "Grendon, Stephen, 1909-1971",
+         "lcna": "no2013002492"
+       }
+      },
+      {"issue": {"issue-date": "1949-01", "volume": "41", "number": "2"},
+       "title": "The Thirteenth Floor",
+       "author": {
+         "authorized": "Gruber, Frank, 1904-1969",
+         "lcna": "n50032981"
+       }
+      },
+      {"issue": {"issue-date": "1949-01", "volume": "41", "number": "2"},
+       "title": "The Great Stone Death",
+       "author": {
+         "authorized": "MacDonald, John D. (John Dann), 1916-1986",
+         "lcna": "n79045202"
+       }
+      },
+      {"issue": {"issue-date": "1949-01", "volume": "41", "number": "2"},
+       "title": "The Sorcerer's Apprentice",
+       "note": "Renewal record in CCE gives title as 'The Sorceror's Apprentice'.",
+       "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+       }
+      },
+      {"issue": {"issue-date": "1949-01", "volume": "41", "number": "2"},
+       "title": "Balu",
+       "note": "Author is August Derleth writing under a pseudonym.",
+       "author": {
+         "authorized": "Grendon, Stephen, 1909-1971",
+         "lcna": "no2013002492"
+       }
+      },
+      {"issue": {"issue-date": "1949-01", "volume": "41", "number": "2"},
+       "title": "Our Fair City",
+       "author": {
+          "authorized": "Heinlein, Robert A. (Robert Anson), 1907-1988",
+          "lcna": "n79067868"
+       }
+      },
+      {"issue": {"issue-date": "1949-03", "volume": "41", "number": "3"},
+       "title": "The Testament of Claiborne",
+       "note": "Renewal record in CCE gives title as 'The Testament of Claiborne'; Galactic Central and ISFDB give title as 'The Testament of Claiborne Boyd'.  I have not examined the issue to see what title is shown there.",
+       "author": {
+         "authorized": "Derleth, August, 1909-1971",
+         "lcna": "n50002948"
+       }
+      },
+      {"issue": {"issue-date": "1949-05", "volume": "41", "number": "4"},
+       "title": "But Not to Dream",
+       "author": {
+         "authorized": "MacDonald, John D. (John Dann), 1916-1986",
+         "lcna": "n79045202"
+       }
+      },
+      {"issue": {"issue-date": "1949-05", "volume": "41", "number": "4"},
+       "title": "Kingsridge 214",
+       "author": {
+         "authorized": "Derleth, August, 1909-1971",
+         "lcna": "n50002948"
+       }
+      },
+      {"issue": {"issue-date": "1949-07", "volume": "41", "number": "5"},
+       "title": "The Blue Spectacles",
+       "note": "Author is August Derleth writing under a pseudonym.",
+       "author": {
+         "authorized": "Grendon, Stephen, 1909-1971",
+         "lcna": "no2013002492"
+       }
+      },
+      {"issue": {"issue-date": "1949-07", "volume": "41", "number": "5"},
+       "title": "Floral Tribute",
+       "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+       }
+      },
+      {"issue": {"issue-date": "1949-09", "volume": "41", "number": "6"},
+       "title": "One Foot and the Grave",
+       "author": {
+          "authorized": "Sturgeon, Theodore",
+          "lcna": "n80066908"
+       }
+      },
+      {"issue": {"issue-date": "1949-09", "volume": "41", "number": "6"},
+       "title": "The Slayers and the Slain",
+       "author": {
+         "authorized": "Derleth, August, 1909-1971",
+         "lcna": "n50002948"
+       }
+      },
+      {"issue": {"issue-date": "1949-09", "volume": "41", "number": "6"},
+       "title": "The Shot Tower Ghost",
+       "author": {
+        "authorized": "Counselman, Mary Elizabeth, 1911-1995",
+        "lcna": "n78094779"
+       }
+      },
+      {"issue": {"issue-date": "1949-11", "volume": "42", "number": "1"},
+       "title": "Twilight Play",
+       "author": {
+         "authorized": "Derleth, August, 1909-1971",
+         "lcna": "n50002948"
+       }
+      },
+      {"issue": {"issue-date": "1950-01", "volume": "42", "number": "2"},
+       "title": "The Ormolu Clock",
+       "author": {
+         "authorized": "Derleth, August, 1909-1971",
+         "lcna": "n50002948"
+       }
+      },
+      {"issue": {"issue-date": "1950-01", "volume": "42", "number": "2"},
+       "title": "In That Same Moment",
+       "author": {
+         "authorized": "Wellman, Manly Wade, 1903-1986",
+         "lcna": "n79099330"
+       }
+      },
+      {"issue": {"issue-date": "1950-03", "volume": "42", "number": "3"},
+       "title": "Home to Mother",
+       "author": {
+         "authorized": "Wellman, Manly Wade, 1903-1986",
+         "lcna": "n79099330"
+       }
+      },
+      {"issue": {"issue-date": "1950-03", "volume": "42", "number": "3"},
+       "title": "The Corn Dance",
+       "author": {
+          "authorized": "St. Clair, Margaret",
+          "lcna": "n85038071"
+       }
+      },
+      {"issue": {"issue-date": "1950-05", "volume": "42", "number": "4"},
+       "title": "The Last Three Ships",
+       "author": {
+          "authorized": "St. Clair, Margaret",
+          "lcna": "n85038071"
+       }
+      },
+      {"issue": {"issue-date": "1950-05", "volume": "42", "number": "4"},
+       "title": "The Man on B-17",
+       "note": "Author is August Derleth writing under a pseudonym.",
+       "author": {
+         "authorized": "Grendon, Stephen, 1909-1971",
+         "lcna": "no2013002492"
+       }
+      },
+      {"issue": {"issue-date": "1950-07", "volume": "42", "number": "5"},
+       "title": "The Weird Tailor",
+       "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+       }
+      },
+      {"issue": {"issue-date": "1950-07", "volume": "42", "number": "5"},
+       "title": "The Closing Door",
+       "author": {
+         "authorized": "Derleth, August, 1909-1971",
+         "lcna": "n50002948"
+       }
+      },
+      {"issue": {"issue-date": "1950-07", "volume": "42", "number": "5"},
+       "title": "Mrs. Hawk",
+       "author": {
+          "authorized": "St. Clair, Margaret",
+          "lcna": "n85038071"
+       }
+      },
+      {"issue": {"issue-date": "1950-09", "volume": "42", "number": "6"},
+       "title": "Legal Rites",
+       "authors": [
+         {"authorized": "Asimov, Isaac, 1920-1992",
+          "lcna": "n80126289"},
+         {"authorized": "Pohl, Frederik",
+          "lcna": "n79029809",
+          "using": "James MacCreagh"
+         }
+       ]
       }
    ],
-   "comment": "Resume with 1974 and R570414",
+   "comment": "Resume with the registered works database",
    "additional-note": "This magazine occasionally included reprints (which are often noted in the contents databases we link to here). We have not systematically surveyed the copyright status of stories reprinted in this magazine.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-12-26"
+   "last-updated": "2019-01-11"
 }

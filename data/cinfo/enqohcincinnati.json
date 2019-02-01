@@ -1,0 +1,42 @@
+{
+   "title": "The Cincinnati Enquirer",
+   "aka": ["The Cincinnati Sunday Enquirer"],
+   "see-also": [
+      {"id": "enqmagcincinnati",
+       "note": "Enquirer Sunday Magazine (Cincinnati, OH)"}
+   ],
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce+database",
+   "first-renewed-contribution": {
+       "issue": {"issue-date": "1924-09-28"}
+   },
+   "first-renewed-contribution-source": "1951-JulDec",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1924-09-28"},
+      "title": "The Effect of Love and Marriage on Modern Woman",
+      "author": {
+       "authorized": "Tarkington, Booth, 1869-1946",
+       "lcna": "n79078124"
+      }
+     },
+     {"issue": {"issue-date": "1924-11-02"},
+      "title": "The Urge That Drives Both Man and Bug",
+      "author": {
+       "authorized": "Tarkington, Booth, 1869-1946",
+       "lcna": "n79078124"
+      }
+     },
+     {"issue": {"issue-date": "1924-11-30"},
+      "title": "Living As If You Were to Die Tonight",
+      "author": {
+       "authorized": "Tarkington, Booth, 1869-1946",
+       "lcna": "n79078124"
+      }
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2019-01-28"
+}

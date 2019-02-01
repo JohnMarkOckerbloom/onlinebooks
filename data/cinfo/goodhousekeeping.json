@@ -2,21 +2,149 @@
    "title": "Good Housekeeping",
    "online": "1",
    "first-issue": {"issue-date": "1885-05-02", "volume": "1", "number": "1"},
-   "first-renewed-issue": {"issue-date": "1923-03", "cdate": "1923-02-20",
-                          "volume": "76", "number": "3"},
-   "first-renewed-issue-source": "1951-JanJun",
+   "first-renewed-issue": {"issue-date": "1924-02", "cdate": "1924-01-19",
+                          "volume": "78", "number": "2"},
+   "first-renewed-issue-source": "1952",
    "first-autorenewed-issue": {
     "issue-date": "1964-02", "cdate": "1964-01-16", "volume": "158", "number": "2"
    }, 
-   "renewed-issue-completeness": "active/1923-03",
    "first-renewed-contribution": {
-       "issue": {"issue-date": "1923-02", "cdate": "1923-01-20",
-                 "volume": "76", "number": "2"}
+       "issue": {"issue-date": "1924-02", "cdate": "1924-01-19",
+                 "volume": "78", "number": "2"}
    },
-   "first-renewed-contribution-source": "1950-JanJun",
+   "first-renewed-contribution-source": "1951-JanJun",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1924-02"}, 
+      "title": "When the Goose Flew North",
+       "author": {
+         "authorized": "Stratton-Porter, Gene, 1863-1924",
+         "lcna": "n79127897"
+       }
+     },
+     {"issue": {"issue-date": "1924-03"},
+      "title": "Bird That Needs a Champion",
+       "author": {
+         "authorized": "Stratton-Porter, Gene, 1863-1924",
+         "lcna": "n79127897"
+       }
+     },
+     {"issue": {"issue-date": "1924-03"},
+      "title": "The Etching",
+      "note": "Issue date as claimed in CCE renewal.  FictionMags puts this in the April 1924 rather than the March 1924 issue.  I have not examined the issues in question to know which issue(s) it actually appeared in.",
+      "author": {
+         "authorized": "Walpole, Hugh, 1884-1941",
+         "lcna": "n79151207"
+       }
+     },
+     {"issue": {"issue-date": "1924-04"}, 
+      "title": "Singers of Immortality",
+       "author": {
+         "authorized": "Stratton-Porter, Gene, 1863-1924",
+         "lcna": "n79127897"
+       }
+     },
+     {"issue": {"issue-date": "1924-05"}, 
+      "title": "The Second Dreaming",
+      "author": {
+       "authorized": "Monroe, Anne Shannon, 1877-1942",
+       "lcna": "n90622304"
+      }
+     },
+     {"issue": {"issue-date": "1924-05"}, 
+      "title": "Gold Medal Flower",
+       "author": {
+         "authorized": "Stratton-Porter, Gene, 1863-1924",
+         "lcna": "n79127897"
+       }
+     },
+     {"issue": {"issue-date": "1924-06"}, 
+      "title": "Little Fraulein and the Big World",
+      "author": {
+       "authorized": "Wylie, I. A. R. (Ida Alexa Ross), 1885-1959",
+       "lcna": "n87860300"
+      }
+     },
+     {"issue": {"issue-date": "1924-06"}, 
+      "title": "The Miracle Moth",
+       "author": {
+         "authorized": "Stratton-Porter, Gene, 1863-1924",
+         "lcna": "n79127897"
+       }
+     },
+     {"issue": {"issue-date": "1924-06"}, 
+      "title": "The Mill on the River",
+      "author": {
+       "authorized": "Bercovici, Konrad, 1882-1961",
+       "lcna": "n50006835"
+      }
+     },
+     {"issue": {"issue-date": "1924-07"},
+      "title": "Bride of the Red Wing Lake",
+       "author": {
+         "authorized": "Stratton-Porter, Gene, 1863-1924",
+         "lcna": "n79127897"
+       }
+     },
+     {"issue": {"issue-date": "1924-08"}, 
+      "title": "Last Passenger Pidgeon",
+      "author": {
+         "authorized": "Stratton-Porter, Gene, 1863-1924",
+         "lcna": "n79127897"
+      }
+     },
+     {"issue": {"issue-date": "1924-09"}, 
+      "title": "Lost Wild White Strawberries",
+      "author": {
+         "authorized": "Stratton-Porter, Gene, 1863-1924",
+         "lcna": "n79127897"
+      }
+     },
+     {"issue": {"issue-date": "1924-10"}, 
+      "title": "Search for Three Birds",
+      "author": {
+         "authorized": "Stratton-Porter, Gene, 1863-1924",
+         "lcna": "n79127897"
+      }
+     },
+     {"issue": {"issue-date": "1924-11"}, 
+      "title": "The Shared Life",
+      "author": {
+       "authorized": "Monroe, Anne Shannon, 1877-1942",
+       "lcna": "n90622304"
+      }
+     },
+     {"issue": {"issue-date": "1924-11"}, 
+      "title": "Old Elizabeth (A Portrait)",
+      "author": {
+         "authorized": "Walpole, Hugh, 1884-1941",
+         "lcna": "n79151207"
+       }
+     },
+     {"issue": {"issue-date": "1924-11"}, 
+      "title": "The Phlegmatic Bluebird",
+      "author": {
+         "authorized": "Stratton-Porter, Gene, 1863-1924",
+         "lcna": "n79127897"
+      }
+     },
+     {"issue": {"issue-date": "1924-12"}, 
+      "title": "The Fire Bird",
+      "author": {
+         "authorized": "Stratton-Porter, Gene, 1863-1924",
+         "lcna": "n79127897"
+      }
+     },
+     {"issue": {"issue-date": "1924-12"}, 
+      "title": "Mrs. Margrave Finds Her Children",
+      "author": {
+       "authorized": "Wylie, I. A. R. (Ida Alexa Ross), 1885-1959",
+       "lcna": "n87860300"
+      }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2017-11-06"
+   "last-updated": "2019-01-29"
 }

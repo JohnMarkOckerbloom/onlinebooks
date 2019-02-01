@@ -5,12 +5,228 @@
      {"issue-date": "1931-06-06", "volume": "87", "number": "23"},
    "first-renewed-issue-source": "1959-JanJun",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1923-01-13"}},
-   "first-renewed-contribution-source": "1950-JulDec",
-   "additional-note" : "Active contribution renewals are recorded beginning in the 1950 January-June CCE volume, but the earliest active renewed contribution is noted in the 1950 July-December volume.",
+     {"issue": {"issue-date": "1924-01-05", "volume": "73", "number": "1"}},
+   "first-renewed-contribution-source": "1951-JanJun",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1924-01-05", "volume": "73", "number": "1"},
+       "title": "Siege",
+       "title-note": "part 7 of 12",
+       "author": {
+         "authorized": "Adams, Samuel Hopkins, 1871-1958",
+         "lcna": "n50037535"
+       }
+     },
+     {"issue": {"issue-date": "1924-01-12", "volume": "73", "number": "2"},
+       "title": "Siege",
+       "title-note": "part 8 of 12",
+       "author": {
+         "authorized": "Adams, Samuel Hopkins, 1871-1958",
+         "lcna": "n50037535"
+       }
+     },
+     {"issue": {"issue-date": "1924-01-19", "volume": "73", "number": "3"},
+       "title": "Siege",
+       "title-note": "part 9 of 12",
+       "author": {
+         "authorized": "Adams, Samuel Hopkins, 1871-1958",
+         "lcna": "n50037535"
+       }
+     },
+     {"issue": {"issue-date": "1924-01-19", "volume": "73", "number": "3"},
+      "title": "The Most Dangerous Game",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1924-01-26", "volume": "73", "number": "4"},
+       "title": "Siege",
+       "title-note": "part 10 of 12",
+       "author": {
+         "authorized": "Adams, Samuel Hopkins, 1871-1958",
+         "lcna": "n50037535"
+       }
+     },
+     {"issue": {"issue-date": "1924-01-26", "volume": "73", "number": "4"},
+      "title": "Inferiority Complex",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1924-01-26", "volume": "73", "number": "4"},
+      "title": "Old Guy With Whiskers",
+      "author": {
+       "authorized": "Upson, William Hazlett, 1891-1975",
+       "lcna": "n90676728"
+      }
+     },
+     {"issue": {"issue-date": "1924-02-02", "volume": "73", "number": "5"},
+       "title": "Siege",
+       "title-note": "part 11 of 12",
+       "author": {
+         "authorized": "Adams, Samuel Hopkins, 1871-1958",
+         "lcna": "n50037535"
+       }
+     },
+     {"issue": {"issue-date": "1924-02-09", "volume": "73", "number": "6"},
+       "title": "Siege",
+       "title-note": "part 12 of 12",
+       "author": {
+         "authorized": "Adams, Samuel Hopkins, 1871-1958",
+         "lcna": "n50037535"
+       }
+     },
+     {"issue": {"issue-date": "1924-02-23", "volume": "73", "number": "8"},
+      "title": "Bulldog",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1924-03-22", "volume": "73", "number": "12"}, 
+      "title": "Flip of the Hand",
+      "author": {
+       "authorized": "Hopper, James, 1876-1956",
+       "lcna": "n00068220"
+      }
+     },
+     {"issue": {"issue-date": "1924-04-12", "volume": "73", "number": "15"}, 
+      "title": "Gertie McCray",
+      "author": {
+       "authorized": "Hopper, James, 1876-1956",
+       "lcna": "n00068220"
+      }
+     },
+     {"issue": {"issue-date": "1924-04-19", "volume": "73", "number": "16"},
+      "title": "Mouse",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1924-05-10", "volume": "73", "number": "19"}, 
+      "title": "Vacation of Phyllis",
+      "author": {
+       "authorized": "Hopper, James, 1876-1956",
+       "lcna": "n00068220"
+      }
+     },
+     {"issue": {"issue-date": "1924-09-20", "volume": "74", "number": "12"}, 
+      "title": "George Sherwood: Master Salesman",
+      "author": {
+       "authorized": "Upson, William Hazlett, 1891-1975",
+       "lcna": "n90676728"
+      }
+     },
+     {"issue": {"issue-date": "1924-09-27", "volume": "74", "number": "13"},
+      "title": "The Barbarian",
+      "title-note": "part 1 of 12",
+      "author": {
+       "authorized": "Camp, Wadsworth, 1879-1936",
+       "lcna": "no93005384"
+      }
+     },
+     {"issue": {"issue-date": "1924-10-04", "volume": "74", "number": "14"},
+      "title": "The Barbarian",
+      "title-note": "part 2 of 12",
+      "author": {
+       "authorized": "Camp, Wadsworth, 1879-1936",
+       "lcna": "no93005384"
+      }
+     },
+     {"issue": {"issue-date": "1924-10-11", "volume": "74", "number": "15"},
+      "title": "The Barbarian",
+      "title-note": "part 3 of 12",
+      "author": {
+       "authorized": "Camp, Wadsworth, 1879-1936",
+       "lcna": "no93005384"
+      }
+     },
+     {"issue": {"issue-date": "1924-10-18", "volume": "74", "number": "16"},
+      "title": "The Barbarian",
+      "title-note": "part 4 of 12",
+      "author": {
+       "authorized": "Camp, Wadsworth, 1879-1936",
+       "lcna": "no93005384"
+      }
+     },
+     {"issue": {"issue-date": "1924-10-25", "volume": "74", "number": "17"},
+      "title": "The Barbarian",
+      "title-note": "part 5 of 12",
+      "author": {
+       "authorized": "Camp, Wadsworth, 1879-1936",
+       "lcna": "no93005384"
+      }
+     },
+     {"issue": {"issue-date": "1924-11-01", "volume": "74", "number": "18"},
+      "title": "The Barbarian",
+      "title-note": "part 6 of 12",
+      "author": {
+       "authorized": "Camp, Wadsworth, 1879-1936",
+       "lcna": "no93005384"
+      }
+     },
+     {"issue": {"issue-date": "1924-11-08", "volume": "74", "number": "19"},
+      "title": "The Barbarian",
+      "title-note": "part 7 of 12",
+      "author": {
+       "authorized": "Camp, Wadsworth, 1879-1936",
+       "lcna": "no93005384"
+      }
+     },
+     {"issue": {"issue-date": "1924-11-15", "volume": "74", "number": "20"},
+      "title": "November 11, 1918",
+      "author": {
+       "authorized": "Upson, William Hazlett, 1891-1975",
+       "lcna": "n90676728"
+      }
+     },
+     {"issue": {"issue-date": "1924-11-15", "volume": "74", "number": "20"},
+      "title": "The Barbarian",
+      "title-note": "part 8 of 12",
+      "author": {
+       "authorized": "Camp, Wadsworth, 1879-1936",
+       "lcna": "no93005384"
+      }
+     },
+     {"issue": {"issue-date": "1924-11-22", "volume": "74", "number": "21"},
+      "title": "The Barbarian",
+      "title-note": "part 9 of 12",
+      "author": {
+       "authorized": "Camp, Wadsworth, 1879-1936",
+       "lcna": "no93005384"
+      }
+     },
+     {"issue": {"issue-date": "1924-11-29", "volume": "74", "number": "22"},
+      "title": "The Barbarian",
+      "title-note": "part 10 of 12",
+      "author": {
+       "authorized": "Camp, Wadsworth, 1879-1936",
+       "lcna": "no93005384"
+      }
+     },
+     {"issue": {"issue-date": "1924-12-06", "volume": "74", "number": "23"},
+      "title": "The Barbarian",
+      "title-note": "part 11 of 12",
+      "author": {
+       "authorized": "Camp, Wadsworth, 1879-1936",
+       "lcna": "no93005384"
+      }
+     },
+     {"issue": {"issue-date": "1924-12-13", "volume": "74", "number": "24"},
+      "title": "The Barbarian",
+      "title-note": "part 12 of 12",
+      "author": {
+       "authorized": "Camp, Wadsworth, 1879-1936",
+       "lcna": "no93005384"
+      }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-06-08"
+   "last-updated": "2019-01-29"
 }

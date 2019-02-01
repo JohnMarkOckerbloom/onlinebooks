@@ -2,16 +2,45 @@
    "title": "The Century",
    "online": "1",
    "first-renewed-issue": 
-      {"issue-date": "1923-02", "cdate": "1923-01-25",
-       "volume": "105", "number": "4"},
-   "first-renewed-issue-source": "1950-JulDec",
+      {"issue-date": "1924-02", "cdate": "1924-01-26",
+       "volume": "107", "number": "4"},
+   "first-renewed-issue-source": "1951-JulDec",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1923-03"}},
-   "first-renewed-contribution-source": "1950-JulDec",
-   "additional-note" : "Active contribution renewals are recorded beginning in the 1950 January-June CCE volume, but the earliest active renewed contribution is noted in the 1950 July-December volume.",
+     {"issue": {"issue-date": "1924-05"}},
+   "first-renewed-contribution-source": "1951-JulDec",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1924-05"},
+        "title": "The Paper in the Gate Legged Table",
+        "author": {
+         "authorized": "Lowell, Amy, 1874-1925",
+         "lcna": "n79076111"
+        }
+     },
+     {"issue": {"issue-date": "1924-07"},
+        "title": "Religio Journalistici",
+        "author": {
+         "authorized": "Morley, Christopher, 1890-1957",
+         "lcna": "n50006133"
+        }
+     },
+     {"issue": {"issue-date": "1924-08"},
+      "title": "When I Left Business for Literature",
+      "author": {
+       "authorized": "Anderson, Sherwood, 1876-1941",
+       "lcna": "n79045519"
+      }
+     },
+     {"issue": {"issue-date": "1924-09"},
+      "title": "Pieces of Silver",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-05-30"
+   "last-updated": "2019-01-21"
 }

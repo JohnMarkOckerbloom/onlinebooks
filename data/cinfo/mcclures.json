@@ -9,11 +9,74 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1923-02"}},
-   "first-renewed-contribution-source": "1950-JulDec",
+     {"issue": {"issue-date": "1924-02", "cdate": "1951-01-25",
+                "volume": "56", "number": "2"}},
+   "first-renewed-contribution-source": "1951-JanJun",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1924-02", "volume": "56", "number": "2"}, 
+      "title": "The Third Round",
+      "title-note": "part 6 of 6",
+      "author": {
+       "authorized": "McNeile, H. C. (Herman Cyril), 1888-1937",
+       "lcna": "no96039399"
+      }
+     },
+     {"issue": {"issue-date": "1924-04", "volume": "56", "number": "4"}, 
+      "title": "Theodore Roosevelt's Grandchildren",
+      "title-note": "part 1 of 3",
+      "author": {
+        "name": "Lauretta Fancher"
+      }
+     },
+     {"issue": {"issue-date": "1924-05", "volume": "57", "number": "1"}, 
+      "title": "The Porterhouse Steak",
+      "note": "Author name is a pseudonym for H. C. McNeile",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     },
+     {"issue": {"issue-date": "1924-05", "volume": "57", "number": "1"}, 
+      "title": "Theodore Roosevelt's Grandchildren",
+      "title-note": "part 2 of 3",
+      "author": {
+        "name": "Lauretta Fancher"
+      }
+     },
+     {"issue": {"issue-date": "1924-06", "volume": "57", "number": "2"}, 
+      "title": "The Missing Line",
+      "note": "Author name is a pseudonym for H. C. McNeile",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     },
+     {"issue": {"issue-date": "1924-06", "volume": "57", "number": "2"}, 
+      "title": "Theodore Roosevelt's Grandchildren",
+      "title-note": "part 3 of 3",
+      "author": {
+        "name": "Lauretta Fancher"
+      }
+     },
+     {"issue": {"issue-date": "1924-07", "volume": "57", "number": "3"}, 
+      "title": "Out of the Blue",
+      "author": {
+       "authorized": "McNeile, H. C. (Herman Cyril), 1888-1937",
+       "lcna": "no96039399"
+      }
+     },
+     {"issue": {"issue-date": "1924-08", "volume": "57", "number": "4"}, 
+      "title": "Stubby",
+      "note": "Author name is a pseudonym for H. C. McNeile",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-06-10"
+   "last-updated": "2019-01-21"
 }

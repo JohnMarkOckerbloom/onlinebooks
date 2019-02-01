@@ -234,10 +234,11 @@ sub _informalname {
 sub _display_person {
   my ($self, $person) = @_;
   my $str = "";
-  if ($person->{"authorized"}) {
-    $str = OLBP::html_encode(_informalname($person->{"authorized"}));
-  } elsif ($person->{"name"}) {
+  if ($person->{"name"}) {
+    # This way, if the inverted authorized looks bad, we can override w name
     $str = OLBP::html_encode($person->{"name"});
+  } elsif ($person->{"authorized"}) {
+    $str = OLBP::html_encode(_informalname($person->{"authorized"}));
   }
   if ($person->{"using"}) {
     $str .= " (using the name " . OLBP::html_encode($person->{"using"}) . ")";

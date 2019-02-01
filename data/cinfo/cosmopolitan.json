@@ -1,17 +1,225 @@
 {
    "title": "Cosmopolitan",
    "online": "1",
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/FMI/link.asp?magid=CMP",
+       "note": "FictionMags (most issues up to 1963)"}
+   ],
    "first-renewed-issue":
-      {"issue-date": "1923-02", "cdate": "1923-01-10",
-       "volume": "74", "number": "2"},
-   "first-renewed-issue-source": "1950-JulDec",
+      {"issue-date": "1924-02", "cdate": "1924-01-10",
+       "volume": "76", "number": "2"},
+   "first-renewed-issue-source": "1951-JulDec",
    "first-renewed-contribution": {"issue": 
-      {"issue-date": "1923-02", "cdate": "1923-01-10",
-       "volume": "74", "number": "2"}},
-   "first-renewed-contribution-source": "1950-JanJun",
+      {"issue-date": "1924-02", "cdate": "1924-01-10",
+       "volume": "76", "number": "2"}},
+   "first-renewed-contribution-source": "1951-JanJun",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1924-02", "volume": "76", "number": "2"},
+      "title": "Dalla, the Lion Cub",
+      "title-note": "part 1 of 3",
+      "author": {
+       "authorized": "Stockley, Cynthia, 1883-1936",
+       "lcna": "no2004032468"
+      }
+     },
+     {"issue": {"issue-date": "1924-02", "volume": "76", "number": "2"},
+      "title": "In a Strange Land",
+      "author": {
+       "authorized": "Maugham, W. Somerset (William Somerset), 1874-1965",
+       "lcna": "n79036830"
+      }
+     },
+     {"issue": {"issue-date": "1924-03", "volume": "76", "number": "3"},
+      "title": "Dalla, the Lion Cub",
+      "title-note": "part 2 of 3",
+      "author": {
+       "authorized": "Stockley, Cynthia, 1883-1936",
+       "lcna": "no2004032468"
+      }
+     },
+     {"issue": {"issue-date": "1924-03", "volume": "76", "number": "3"},
+      "title": "The Luncheon",
+      "author": {
+       "authorized": "Maugham, W. Somerset (William Somerset), 1874-1965",
+       "lcna": "n79036830"
+      }
+     },
+     {"issue": {"issue-date": "1924-04", "volume": "76", "number": "4"},
+      "title": "Dalla, the Lion Cub",
+      "title-note": "part 3 of 3",
+      "author": {
+       "authorized": "Stockley, Cynthia, 1883-1936",
+       "lcna": "no2004032468"
+      }
+     },
+     {"issue": {"issue-date": "1924-05", "volume": "76", "number": "5"},
+      "title": "The Needle's Eye",
+      "note": "CCE renewal record places this story in Hearst's International, but it actually ran in Cosmopolitan.",
+      "title-note": "part 1 of 7",
+      "author": {
+       "authorized": "Train, Arthur, 1875-1945",
+       "lcna": "n50014661"
+      }
+     },
+     {"issue": {"issue-date": "1924-05", "volume": "76", "number": "5"},
+      "title": "Thicker Than Water",
+      "author": {
+       "authorized": "Benét, Stephen Vincent, 1898-1943",
+       "lcna": "n50007691"
+      }
+     },
+     {"issue": {"issue-date": "1924-05", "volume": "76", "number": "5"},
+      "title": "The Dream",
+      "author": {
+       "authorized": "Maugham, W. Somerset (William Somerset), 1874-1965",
+       "lcna": "n79036830"
+      }
+     },
+     {"issue": {"issue-date": "1924-06", "volume": "76", "number": "6"},
+      "title": "The Beating of Wings",
+      "author": {
+       "authorized": "Gibbs, Philip, 1877-1962",
+       "lcna": "n85232177"
+      }
+     },
+     {"issue": {"issue-date": "1924-06", "volume": "76", "number": "6"},
+      "title": "The Needle's Eye",
+      "note": "CCE renewal record places this story in Hearst's International, but it actually ran in Cosmopolitan.",
+      "title-note": "part 2 of 7",
+      "author": {
+       "authorized": "Train, Arthur, 1875-1945",
+       "lcna": "n50014661"
+      }
+     },
+     {"issue": {"issue-date": "1924-06", "volume": "76", "number": "6"},
+      "title": "The Happy Man",
+      "author": {
+       "authorized": "Maugham, W. Somerset (William Somerset), 1874-1965",
+       "lcna": "n79036830"
+      }
+     },
+     {"issue": {"issue-date": "1924-07", "volume": "77", "number": "1"},
+      "title": "The Fisherman",
+      "note": "Title as given in CCE. FictionMags gives the title as 'Salvatore the Fisherman'. I have not examined the issue to see what was used there.",
+      "author": {
+       "authorized": "Maugham, W. Somerset (William Somerset), 1874-1965",
+       "lcna": "n79036830"
+      }
+     },
+     {"issue": {"issue-date": "1924-07", "volume": "77", "number": "1"},
+      "title": "The Needle's Eye",
+      "note": "CCE renewal record places this story in Hearst's International, but it actually ran in Cosmopolitan.",
+      "title-note": "part 3 of 7",
+      "author": {
+       "authorized": "Train, Arthur, 1875-1945",
+       "lcna": "n50014661"
+      }
+     },
+     {"issue": {"issue-date": "1924-08", "volume": "77", "number": "2"},
+      "title": "The Wandering Birds",
+      "author": {
+       "authorized": "Gibbs, Philip, 1877-1962",
+       "lcna": "n85232177"
+      }
+     },
+     {"issue": {"issue-date": "1924-08", "volume": "77", "number": "2"},
+      "title": "The Needle's Eye",
+      "note": "CCE renewal record places this story in Hearst's International, but it actually ran in Cosmopolitan.",
+      "title-note": "part 4 of 7",
+      "author": {
+       "authorized": "Train, Arthur, 1875-1945",
+       "lcna": "n50014661"
+      }
+     },
+     {"issue": {"issue-date": "1924-09", "volume": "77", "number": "3"},
+      "title": "Home From the Sea",
+      "author": {
+       "authorized": "Maugham, W. Somerset (William Somerset), 1874-1965",
+       "lcna": "n79036830"
+      }
+     },
+     {"issue": {"issue-date": "1924-09", "volume": "77", "number": "3"},
+      "title": "The Needle's Eye",
+      "note": "CCE renewal record places this story in Hearst's International, but it actually ran in Cosmopolitan.",
+      "title-note": "part 5 of 7",
+      "author": {
+       "authorized": "Train, Arthur, 1875-1945",
+       "lcna": "n50014661"
+      }
+     },
+     {"issue": {"issue-date": "1924-10", "volume": "77", "number": "4"},
+      "title": "The Pinwheel Age",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1924-10", "volume": "77", "number": "4"},
+      "title": "The Needle's Eye",
+      "note": "CCE renewal record places this story in Hearst's International, but it actually ran in Cosmopolitan.",
+      "title-note": "part 6 of 7",
+      "author": {
+       "authorized": "Train, Arthur, 1875-1945",
+       "lcna": "n50014661"
+      }
+     },
+     {"issue": {"issue-date": "1924-10", "volume": "77", "number": "4"},
+      "title": "The Ant and the Grasshopper",
+      "author": {
+       "authorized": "Maugham, W. Somerset (William Somerset), 1874-1965",
+       "lcna": "n79036830"
+      }
+     },
+     {"issue": {"issue-date": "1924-10", "volume": "77", "number": "4"},
+      "title": "The Raveled Sleeve",
+      "author": {
+       "authorized": "Benét, Stephen Vincent, 1898-1943",
+       "lcna": "n50007691"
+      }
+     },
+     {"issue": {"issue-date": "1924-10", "volume": "77", "number": "4"},
+      "title": "That's The Way It Goes",
+      "note": "CCE renewal record places this story in Cosmopolitan, but FictionMags instead places it in the October 1924 issue of Hearst's International.  I have not examined the issues to verify which magazine(s) it appeared in.",
+      "author": {
+       "authorized": "Glass, Montague, 1877-1934",
+       "lcna": "no92032176"
+      }
+     },
+     {"issue": {"issue-date": "1924-11", "volume": "77", "number": "5"},
+      "title": "The Needle's Eye",
+      "note": "CCE renewal record places this story in Hearst's International, but it actually ran in Cosmopolitan.",
+      "title-note": "part 7 of 7",
+      "author": {
+       "authorized": "Train, Arthur, 1875-1945",
+       "lcna": "n50014661"
+      }
+     },
+     {"issue": {"issue-date": "1924-12", "volume": "77", "number": "6"},
+      "title": "Out of the Ruins",
+      "author": {
+       "authorized": "Gibbs, Philip, 1877-1962",
+       "lcna": "n85232177"
+      }
+     },
+     {"issue": {"issue-date": "1924-12", "volume": "77", "number": "6"},
+       "title": "The Bull That Thought",
+       "author": {
+         "authorized": "Kipling, Rudyard, 1865-1936",
+         "lcna": "n79103792"
+       }
+     },
+     {"issue": {"issue-date": "1925-01", "volume": "78", "number": "1"},
+      "title": "Mr. Know-All",
+      "note": "CCE renewal record says this appeared in the December 1924 issue, but FictionMags and some other Maugham bibliographic sources place it in the January 1925 issue.  I have not myself examined the issues in question.",
+      "author": {
+       "authorized": "Maugham, W. Somerset (William Somerset), 1874-1965",
+       "lcna": "n79036830"
+      }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-05-26"
+   "last-updated": "2019-01-29"
 }

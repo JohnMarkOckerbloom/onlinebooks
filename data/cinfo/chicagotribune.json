@@ -1,0 +1,280 @@
+{
+   "title": "Chicago Tribune",
+   "aka": ["Chicago Daily Tribune", "Chicago Sunday Tribune"],
+   "see-also": [
+      {"id": "chitribunemagbooks",
+       "note": "Chicago Tribune Magazine of Books"}
+   ],
+   "first-renewed-issue":
+      {"issue-date": "1946-07-15", "volume": "105", "number": "168"},
+   "first-renewed-issue-source": "1974",
+   "first-renewed-contribution":
+      {"issue": {"issue-date": "1924-03-23"}},
+   "first-renewed-contribution-source": "1951-JanJun",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1924-03-23"}, 
+      "title": "Incense",
+      "author": {
+       "authorized": "Weiman, Rita, 1889-1954",
+       "lcna": "n89129751"
+      }
+     },
+     {"issue": {"issue-date": "1924-04-06"},
+      "title": "A Great Man's Wife",
+      "author": {
+       "authorized": "Tarkington, Booth, 1869-1946",
+       "lcna": "n79078124"
+      }
+     },
+     {"issue": {"issue-date": "1924-05-25"},
+      "title": "Elaine at the Gates",
+      "title-note": "part 1 of 20",
+      "author": {
+         "authorized": "Maxwell, W. B. (William Babington), 1866-1938",
+         "lcna": "n90651966"
+      }
+     },
+     {"issue": {"issue-date": "1924-06-01"}, 
+      "title": "Her Husband's Elopement",
+      "title-note": "part 1 of 3",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1924-06-01"}, 
+      "title": "Elaine at the Gates",
+      "title-note": "part 2 of 20",
+      "author": {
+         "authorized": "Maxwell, W. B. (William Babington), 1866-1938",
+         "lcna": "n90651966"
+      }
+     },
+     {"issue": {"issue-date": "1924-06-01"}, 
+      "title": "Mr. Pottle and Poetry",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1924-06-08"}, 
+      "title": "Her Husband's Elopement",
+      "title-note": "part 2 of 3",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1924-06-08"}, 
+      "title": "Elaine at the Gates",
+      "title-note": "part 3 of 20",
+      "author": {
+         "authorized": "Maxwell, W. B. (William Babington), 1866-1938",
+         "lcna": "n90651966"
+      }
+     },
+     {"issue": {"issue-date": "1924-06-15"}, 
+      "title": "Her Husband's Elopement",
+      "title-note": "part 3 of 3",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1924-06-15"}, 
+      "title": "Elaine at the Gates",
+      "title-note": "part 4 of 20",
+      "author": {
+         "authorized": "Maxwell, W. B. (William Babington), 1866-1938",
+         "lcna": "n90651966"
+      }
+     },
+     {"issue": {"issue-date": "1924-06-22"}, 
+      "title": "Elaine at the Gates",
+      "title-note": "part 5 of 20",
+      "author": {
+         "authorized": "Maxwell, W. B. (William Babington), 1866-1938",
+         "lcna": "n90651966"
+      }
+     },
+     {"issue": {"issue-date": "1924-06-29"}, 
+      "title": "Elaine at the Gates",
+      "title-note": "part 6 of 20",
+      "author": {
+         "authorized": "Maxwell, W. B. (William Babington), 1866-1938",
+         "lcna": "n90651966"
+      }
+     },
+     {"issue": {"issue-date": "1924-07-06"}, 
+      "title": "Elaine at the Gates",
+      "title-note": "part 7 of 20",
+      "author": {
+         "authorized": "Maxwell, W. B. (William Babington), 1866-1938",
+         "lcna": "n90651966"
+      }
+     },
+     {"issue": {"issue-date": "1924-07-13"}, 
+      "title": "Elaine at the Gates",
+      "title-note": "part 8 of 20",
+      "author": {
+         "authorized": "Maxwell, W. B. (William Babington), 1866-1938",
+         "lcna": "n90651966"
+      }
+     },
+     {"issue": {"issue-date": "1924-07-20"}, 
+      "title": "Elaine at the Gates",
+      "title-note": "part 9 of 20",
+      "author": {
+         "authorized": "Maxwell, W. B. (William Babington), 1866-1938",
+         "lcna": "n90651966"
+      }
+     },
+     {"issue": {"issue-date": "1924-07-27"}, 
+      "title": "Elaine at the Gates",
+      "title-note": "part 10 of 20",
+      "author": {
+         "authorized": "Maxwell, W. B. (William Babington), 1866-1938",
+         "lcna": "n90651966"
+      }
+     },
+     {"issue": {"issue-date": "1924-08-03"}, 
+      "title": "Elaine at the Gates",
+      "title-note": "part 11 of 20",
+      "author": {
+         "authorized": "Maxwell, W. B. (William Babington), 1866-1938",
+         "lcna": "n90651966"
+      }
+     },
+     {"issue": {"issue-date": "1924-08-10"}, 
+      "title": "Elaine at the Gates",
+      "title-note": "part 12 of 20",
+      "author": {
+         "authorized": "Maxwell, W. B. (William Babington), 1866-1938",
+         "lcna": "n90651966"
+      }
+     },
+     {"issue": {"issue-date": "1924-08-17"},
+      "title": "Or Leave 'em Alone",
+      "author": {
+       "authorized": "Duganne, Phyllis, 1899-1976",
+       "lcna": "n90719514"
+      }
+     },
+     {"issue": {"issue-date": "1924-08-17"}, 
+      "title": "Elaine at the Gates",
+      "title-note": "part 13 of 20",
+      "author": {
+         "authorized": "Maxwell, W. B. (William Babington), 1866-1938",
+         "lcna": "n90651966"
+      }
+     },
+     {"issue": {"issue-date": "1924-08-24"}, 
+      "title": "Elaine at the Gates",
+      "title-note": "part 14 of 20",
+      "author": {
+         "authorized": "Maxwell, W. B. (William Babington), 1866-1938",
+         "lcna": "n90651966"
+      }
+     },
+     {"issue": {"issue-date": "1924-08-31"}, 
+      "title": "Elaine at the Gates",
+      "title-note": "part 15 of 20",
+      "author": {
+         "authorized": "Maxwell, W. B. (William Babington), 1866-1938",
+         "lcna": "n90651966"
+      }
+     },
+     {"issue": {"issue-date": "1924-09-07"}, 
+      "title": "Elaine at the Gates",
+      "title-note": "part 16 of 20",
+      "author": {
+         "authorized": "Maxwell, W. B. (William Babington), 1866-1938",
+         "lcna": "n90651966"
+      }
+     },
+     {"issue": {"issue-date": "1924-09-14"}, 
+      "title": "Elaine at the Gates",
+      "title-note": "part 17 of 20",
+      "author": {
+         "authorized": "Maxwell, W. B. (William Babington), 1866-1938",
+         "lcna": "n90651966"
+      }
+     },
+     {"issue": {"issue-date": "1924-09-21"},
+       "title": "Sandhills",
+       "title-note": "part 1 of 4",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1924-09-21"}, 
+      "title": "Elaine at the Gates",
+      "title-note": "part 18 of 20",
+      "author": {
+         "authorized": "Maxwell, W. B. (William Babington), 1866-1938",
+         "lcna": "n90651966"
+      }
+     },
+     {"issue": {"issue-date": "1924-09-28"},
+       "title": "Sandhills",
+       "title-note": "part 2 of 4",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1924-09-28"}, 
+      "title": "Elaine at the Gates",
+      "title-note": "part 19 of 20",
+      "author": {
+         "authorized": "Maxwell, W. B. (William Babington), 1866-1938",
+         "lcna": "n90651966"
+      }
+     },
+     {"issue": {"issue-date": "1924-10-05"},
+       "title": "Sandhills",
+       "title-note": "part 3 of 4",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1924-10-05"}, 
+      "title": "Elaine at the Gates",
+      "title-note": "part 20 of 20",
+      "author": {
+         "authorized": "Maxwell, W. B. (William Babington), 1866-1938",
+         "lcna": "n90651966"
+      }
+     },
+     {"issue": {"issue-date": "1924-10-12"},
+       "title": "Sandhills",
+       "title-note": "part 4 of 4",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1924-10-12"},
+       "title": "The Ostrich",
+       "author": {
+         "authorized": "Adams, Samuel Hopkins, 1871-1958",
+         "lcna": "n50037535"
+       }
+     },
+     {"issue": {"issue-date": "1924-11-09"},
+      "title": "Shanty",
+      "author": {
+       "authorized": "Tarkington, Booth, 1869-1946",
+       "lcna": "n79078124"
+      }
+     }
+   ],
+   "additional-note": "The Daily issues are numbered separately from the Sunday issues (though both use the same volume numbers).  The first Sunday Tribune issue with an active renewal is the July 21, 1946 issue, volume 105, number 29.",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2019-01-28"
+}

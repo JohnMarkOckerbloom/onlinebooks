@@ -1,0 +1,50 @@
+{
+   "title": "The Popular Magazine",
+   "title-note": "Street and Smith",
+   "aka": ["The Popular", "The Popular Stories", "The Popular Complete Stories"],
+   "online": "1",
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/GFI/link.asp?magid=POM",
+      "note": "FictionMags"}
+   ],
+   "first-renewed-issue": 
+    {"issue-date": "1924-01-07", "volume": "70", "number": "6"},
+   "first-renewed-issue-source": "1951-JanJun",
+   "first-renewed-contribution":
+    {"issue": {"issue-date": "1924-02-20", "volume": "71", "number": "3"}},
+   "first-renewed-contribution-source": "1951-JulDec",
+   "renewed-issues": [
+     {"issue-date": "1924-01-07", "volume": "70", "number": "6"},
+     {"issue-date": "1924-01-20", "volume": "71", "number": "1"},
+     {"issue-date": "1924-02-07", "volume": "71", "number": "2"},
+     {"issue-date": "1924-02-20", "volume": "71", "number": "3"},
+     {"issue-date": "1924-03-07", "volume": "71", "number": "4"},
+     {"issue-date": "1924-03-20", "volume": "71", "number": "5"},
+     {"issue-date": "1924-04-07", "volume": "71", "number": "6"},
+     {"issue-date": "1924-04-20", "volume": "72", "number": "1"},
+     {"issue-date": "1924-05-07", "volume": "72", "number": "2"},
+     {"issue-date": "1924-05-20", "volume": "72", "number": "3"},
+     {"issue-date": "1924-06-07", "volume": "72", "number": "4"}
+   ],
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1924-02-20", "volume": "71", "number": "3"},
+      "title": "A Fighting Fool",
+      "author": {
+       "authorized": "Lynde, Francis, 1856-1930",
+       "lcna": "n88093606"
+      }
+     },
+     {"issue": {"issue-date": "1924-05-20", "volume": "72", "number": "3"},
+      "title": "The Silver Moon",
+      "author": {
+       "authorized": "Lynde, Francis, 1856-1930",
+       "lcna": "n88093606"
+      }
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2019-01-30"
+}

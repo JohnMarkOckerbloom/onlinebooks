@@ -1,15 +1,47 @@
 {
    "title": "The Pacific Reporter",
    "online": "1",
-   "first-renewed-issue": {"volume": "209",
-                           "cdate": "1923-01-18"},
-   "first-renewed-issue-source": "1950-JanJun",
+   "first-renewed-issue":
+       {"issue-date": "1923-October 15-November 19,", "volume": "218",
+          "number": "permanent edition"},
+   "first-renewed-issue-source": "1951-JanJun",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
-   "additional-note": "The oldest active renewal for the permanent edition is for volume 209.  The oldest active renewal for the numbered editions published before incorporation into the permanent edition is for volume 210 number 5, copyrighted January 6, 1923.  The permanent editions of this law reporter are renewed as books; the issues published before the permanent edition are renewed as periodicals.",
+   "renewed-issues": [
+       {"issue-date": "1923-October 15-November 19,", "cdate": "1924-01-10",
+         "volume": "218", "number": "permanent edition"},
+       {"issue-date": "1923-November 26-December 17,", 
+         "volume": "219", "number": "permanent edition"},
+       {"issue-date": "1924-01-07", "volume": "220", "number": "3"},
+       {"issue-date": "1924-01-14", "volume": "220", "number": "4"},
+       {"issue-date": "1924-01-21", "volume": "220", "number": "5"},
+       {"issue-date": "December 24, 1923 - January 24, 1924", 
+         "volume": "220", "number": "permanent edition"},
+       {"issue-date": "1924-01-28", "volume": "221", "number": "1"},
+       {"issue-date": "1924-02-04", "volume": "221", "number": "2"},
+       {"issue-date": "1924-02-11", "volume": "221", "number": "3"},
+       {"issue-date": "1924-02-18", "volume": "221", "number": "4"},
+       {"issue-date": "1924-January 28-February 18,", 
+         "volume": "221", "number": "permanent edition"},
+       {"issue-date": "1924-02-25", "volume": "222", "number": "1"},
+       {"issue-date": "1924-03-03", "volume": "222", "number": "2"},
+       {"issue-date": "1924-03-10", "volume": "222", "number": "3"},
+       {"issue-date": "1924-03-17", "volume": "222", "number": "4"},
+       {"issue-date": "1924-February 25-March 17,", 
+         "volume": "222", "number": "permanent edition"},
+       {"issue-date": "1924-03-24", "volume": "223", "number": "1"},
+       {"issue-date": "1924-03-31", "volume": "223", "number": "2"},
+       {"issue-date": "1924-March 24-April 14,", 
+         "volume": "223", "number": "permanent edition"},
+       {"issue-date": "1924-April 21-May 19,", 
+         "volume": "224", "number": "permanent edition"},
+       {"issue-date": "1924-May 26-June 23,", 
+         "volume": "225", "number": "permanent edition"}
+   ],
+   "additional-note": "The oldest active renewal for the permanent edition is for volume 218.  The oldest active renewal for the numbered editions published before incorporation into the permanent edition is for volume 220 number 3, copyrighted January 5, 1924.  The permanent editions of this law reporter are renewed as books; the issues published before the permanent edition are renewed as periodicals.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-11-07"
+   "last-updated": "2019-01-30"
 }

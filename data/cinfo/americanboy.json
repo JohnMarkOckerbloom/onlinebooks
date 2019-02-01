@@ -6,13 +6,99 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": 
-      {"issue": {"issue-date": "1923-02", "cdate": "1923-01-25"}},
-   "first-renewed-contribution-source": "1950-JulDec",
+      {"issue": {"issue-date": "1924-02", "cdate": "1924-01-25"}},
+   "first-renewed-contribution-source": "1951-JanJun",
    "see-also": [{"id": "youthscompanion", "note": "The Youth's Companion"}],
-   "additional-note" : "Active renewals are recorded beginning in the 1950 January-June CCE volume, but the earliest actively renewed contribution is noted in the 1950 July-December volume.",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1924-02"},
+      "title": "The Buckaroo",
+       "author": {
+         "authorized": "Pierrot, George, 1898-1980",
+         "lcna": "no96008024"
+       }
+     },
+     {"issue": {"issue-date": "1924-04"},
+      "title": "Cadet's Conquest",
+       "author": {
+         "authorized": "Burtis, Thomson, 1896-1971",
+         "lcna": "no90001891"
+       }
+     },
+     {"issue": {"issue-date": "1924-05"},
+      "title": "Through the Storms",
+       "author": {
+         "authorized": "Burtis, Thomson, 1896-1971",
+         "lcna": "no90001891"
+       }
+     },
+     {"issue": {"issue-date": "1924-06"},
+      "title": "The Dawn Patrol",
+       "author": {
+         "authorized": "Burtis, Thomson, 1896-1971",
+         "lcna": "no90001891"
+       }
+     },
+     {"issue": {"issue-date": "1924-06"},
+      "title": "The Jubilee",
+       "author": {
+         "authorized": "Pierrot, George, 1898-1980",
+         "lcna": "no96008024"
+       }
+     },
+     {"issue": {"issue-date": "1924-07"},
+      "title": "Something to Celebrate",
+       "author": {
+         "authorized": "Burtis, Thomson, 1896-1971",
+         "lcna": "no90001891"
+       }
+     },
+     {"issue": {"issue-date": "1924-07"},
+      "title": "The Sheriton Paint-Up",
+       "author": {
+         "authorized": "Pierrot, George, 1898-1980",
+         "lcna": "no96008024"
+       }
+     },
+     {"issue": {"issue-date": "1924-08"},
+      "title": "The Skywayman",
+       "author": {
+         "authorized": "Burtis, Thomson, 1896-1971",
+         "lcna": "no90001891"
+       }
+     },
+     {"issue": {"issue-date": "1924-09"},
+      "title": "Coming Across",
+       "author": {
+         "authorized": "Burtis, Thomson, 1896-1971",
+         "lcna": "no90001891"
+       }
+     },
+     {"issue": {"issue-date": "1924-10"},
+      "title": "Testing Times",
+       "author": {
+         "authorized": "Burtis, Thomson, 1896-1971",
+         "lcna": "no90001891"
+       }
+     },
+     {"issue": {"issue-date": "1924-11"},
+      "title": "The Super-Varsity",
+       "author": {
+         "authorized": "Pierrot, George, 1898-1980",
+         "lcna": "no96008024"
+       }
+     },
+     {"issue": {"issue-date": "1924-12"},
+      "title": "High Explosives",
+      "title-note": "part 1 of 2",
+       "author": {
+         "authorized": "Burtis, Thomson, 1896-1971",
+         "lcna": "no90001891"
+       }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-12-17"
+   "last-updated": "2019-01-21"
 }

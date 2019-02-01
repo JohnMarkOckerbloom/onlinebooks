@@ -1,15 +1,31 @@
 {
    "title": "National Geographic Magazine",
    "online": "1",
-   "first-renewed-issue": {"issue-date": "1923-02", "cdate": "1923-01-16",
-                           "volume": "43", "number": "2"},
-   "first-renewed-issue-source": "1950-JanJun",
+   "first-renewed-issue": {"issue-date": "1924-02", "cdate": "1924-01-15",
+                           "volume": "45", "number": "2"},
+   "first-renewed-issue-source": "1951-JanJun",
    "first-renewed-contribution":
      {"issue": {"issue-date": "1924-03"}},
    "first-renewed-contribution-source": "1951-JanJun",
+   "renewed-issues": [
+      {"issue-date": "1924-02", "volume": "45", "number": "2"},
+      {"issue-date": "1924-03", "volume": "45", "number": "3"},
+      {"issue-date": "1924-04", "volume": "45", "number": "4"},
+      {"issue-date": "1924-05", "volume": "45", "number": "5"},
+      {"issue-date": "1924-06", "volume": "45", "number": "6"}
+   ],
+   "renewed-contributions": [
+       {"issue": {"issue-date": "1924-03"}, 
+        "title": "Geography and Some Explorers",
+        "author": {
+         "authorized": "Conrad, Joseph, 1857-1924",
+         "lcna": "n79054067"
+        }
+       }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-06-08"
+   "last-updated": "2019-01-29"
 }

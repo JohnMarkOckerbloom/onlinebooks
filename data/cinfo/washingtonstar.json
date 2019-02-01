@@ -1,0 +1,53 @@
+{
+   "title": "The Washington Star",
+   "aka": ["The Evening Star", "Sunday Star", "Washington Sunday Star"],
+   "online": "1",
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce+database",
+   "first-renewed-contribution":
+     {"issue": {"issue-date": "1924-01-20"}},
+   "first-renewed-contribution-source": "1951-JulDec",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1924-01-20"}, 
+      "title": "Seven Vanished Men",
+      "author": {
+       "authorized": "Roche, Arthur Somers, 1883-1935",
+       "lcna": "no89021623"
+      }
+     },
+     {"issue": {"issue-date": "1924-02-03"}, 
+      "title": "Coincidence",
+      "author": {
+       "authorized": "Tarkington, Booth, 1869-1946",
+       "lcna": "n79078124"
+      }
+     },
+     {"issue": {"issue-date": "1924-03-09"}, 
+      "title": "Writ of Habeas Corpus",
+      "author": {
+       "authorized": "Roche, Arthur Somers, 1883-1935",
+       "lcna": "no89021623"
+      }
+     },
+     {"issue": {"issue-date": "1924-03-16"}, 
+      "title": "During Dinner",
+      "author": {
+       "authorized": "Bennett, Arnold, 1867-1931",
+       "lcna": "n79095154"
+      }
+     },
+     {"issue": {"issue-date": "1924-08-10"}, 
+      "title": "Teacher's Pet",
+      "author": {
+       "authorized": "Roche, Arthur Somers, 1883-1935",
+       "lcna": "no89021623"
+      }
+     }
+   ],
+   "additional-note" : "Active contribution renewals are recorded beginning in the 1951 January-June CCE volume, but the earliest actively renewed contribution is noted in the 1951 July-December volume.",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2019-01-22"
+}

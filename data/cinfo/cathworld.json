@@ -4,11 +4,63 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1923-02", "cdate": "1923-01-25"}},
-   "first-renewed-contribution-source": "1950-JulDec",
+     {"issue": {"issue-date": "1930-02"}},
+   "first-renewed-contribution-source": "1958-JanJun",
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1930-02"}, 
+      "title": "Papaya",
+      "author": {
+       "authorized": "Connolly, James B. (James Brendan), 1868-1957",
+       "lcna": "no90002215"
+      }
+     },
+     {"issue": {"issue-date": "1946-09"},
+        "title": "Beggar of St. Jude",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "lcna": "n79041782"
+        }
+     },
+     {"issue": {"issue-date": "1955-05"},
+        "title": "Ballade for the Queen of the World",
+        "author": {
+         "authorized": "M. Madeleva (Mary Madeleva), Sister, 1887-1964",
+         "lcna": "n50043631"
+        }
+     },
+     {"issue": {"issue-date": "1960-06"},
+        "title": "Moderation: Short Story",
+        "author": {
+         "authorized": "Wildman, John Hazard, 1911-1992",
+         "lcna": "no98090666"
+        }
+     },
+     {"issue": {"issue-date": "1960-09"},
+        "title": "The Protestant Stance Today",
+        "authors": [
+          {
+            "authorized": "Weigel, Gustave, 1906-1964",
+            "lcna": "n87819736"
+          },
+          {
+            "authorized": "Brown, Robert McAfee, 1920-2001",
+            "lcna": "n80049838"
+          }
+        ]
+     },
+     {"issue": {"issue-date": "1965-04"},
+        "title": "A Writer's Creed: An Anniversary Felictation to The Catholic World",
+        "author": {
+         "authorized": "Horgan, Paul, 1903-1995",
+         "lcna": "n79060797"
+        }
+     }
+   ],
+   "additional-note": "A 1967 renewal for the 1940 book 'Down to Earth' by Alan Devoe mentions that a part of it was published in the July 1937 issue of Catholic World.  That renewal is too late to affect the copyright of material in that issue, however.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-06-08"
+   "last-updated": "2019-01-09"
 }

@@ -7,8 +7,8 @@
      {"issue-date": "1934-07", "volume": "154", "number": "1"},
    "first-renewed-issue-source": "1962-JanJun",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1923-07"}},
-   "first-renewed-contribution-source": "1950-JanJun",
+     {"issue": {"issue-date": "1924-04"}},
+   "first-renewed-contribution-source": "1952-JanJun",
    "renewed-issue-completeness": "active/1949",
    "renewed-issues": [
      {"issue-date": "1934-07", "volume": "154", "number": "1"},
@@ -168,35 +168,6 @@
    ],
    "renewed-contribution-completeness": "active/1943",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1923-07"},
-        "title": "Deckers on the Coast",
-        "author": {
-         "authorized": "McFee, William, 1881-1966",
-         "lcna": "n82053296"
-        }
-     },
-     {"issue": {"issue-date": "1923-07"},
-        "title": "Frances James Child",
-        "author": {
-         "authorized": "Bradford, Gamaliel, 1863-1932",
-         "lcna": "n50042916"
-        }
-     },
-     {"issue": {"issue-date": "1923-08"},
-        "title": "The Road Away From Revolution",
-        "note": "This article was renewed as a book, and the CCE renewal entry does not mention the Atlantic; however, the Atlantic article and the booklet appear to have been published around the same time, and likely have the same content.",
-        "author": {
-         "authorized": "Wilson, Woodrow, 1856-1924",
-         "lcna": "n79046299"
-        }
-     },
-     {"issue": {"issue-date": "1923-10"},
-        "title": "The Merchant Marine and the Young Fellow",
-        "author": {
-         "authorized": "McFee, William, 1881-1966",
-         "lcna": "n82053296"
-        }
-     },
      {"issue": {"issue-date": "1924-04"},
         "title": "Pepys and God",
         "author": {
@@ -2662,5 +2633,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-12-09"
+   "last-updated": "2019-01-16"
 }

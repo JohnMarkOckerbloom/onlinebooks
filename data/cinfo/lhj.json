@@ -4,17 +4,93 @@
       "The Ladies' Home Journal and Practical Housekeeper"
    ],
    "online": "1",
-   "first-renewed-issue": {"issue-date": "1923-02", "cdate": "1923-01-31",
-                          "volume": "40", "number": "2"},
-   "first-renewed-issue-source": "1950-JulDec",
+   "first-renewed-issue": {"issue-date": "1924-02", "cdate": "1924-01-31",
+                          "volume": "41", "number": "2"},
+   "first-renewed-issue-source": "1951-JulDec",
    "first-renewed-contribution": {
-       "issue": {"issue-date": "1923-02", "cdate": "1923-01-31",
-                 "volume": "40", "number": "2"}
+       "issue": {"issue-date": "1924-02", "cdate": "1924-01-31",
+                 "volume": "41", "number": "2"}
    },
-   "first-renewed-contribution-source": "1950-JanJun",
+   "first-renewed-contribution-source": "1951-JanJun",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1924-02", "volume": "41", "number": "2"}, 
+      "title": "Worldly Goods",
+      "title-note": "part 3 of 4",
+      "author": {
+       "authorized": "Kerr, Sophie, 1880-1965",
+       "lcna": "no89021649"
+      }
+     },
+     {"issue": {"issue-date": "1924-03", "volume": "41", "number": "3"}, 
+      "title": "The Beauty Contest",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1924-03", "volume": "41", "number": "3"}, 
+      "title": "Worldly Goods",
+      "title-note": "part 4 of 4",
+      "author": {
+       "authorized": "Kerr, Sophie, 1880-1965",
+       "lcna": "no89021649"
+      }
+     },
+     {"issue": {"issue-date": "1924-05", "volume":  "41", "number": "5"},
+      "title": "Oh This is Scandalous",
+      "author": {
+       "authorized": "Bacon, Josephine Daskam, 1876-1961",
+       "lcna": "n50020293"
+      }
+     },
+     {"issue": {"issue-date": "1924-06", "volume": "41", "number": "6"}, 
+      "title": "The First Case",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1924-06", "volume": "41", "number": "6"}, 
+      "title": "Bimbo the Pirate",
+      "author": {
+       "authorized": "Tarkington, Booth, 1869-1946",
+       "lcna": "n79078124"
+      }
+     },
+     {"issue": {"issue-date": "1924-10", "volume": "41", "number": "10"}, 
+      "title": "My Heart",
+      "author": {
+       "authorized": "Tarkington, Booth, 1869-1946",
+       "lcna": "n79078124"
+      }
+     },
+     {"issue": {"issue-date": "1924-10", "volume": "41", "number": "10"}, 
+      "title": "King Cophetua",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1924-10", "volume": "41", "number": "10"}, 
+      "title": "Demi-God",
+      "title-note": "part 1 of 2",
+      "author": {
+       "authorized": "Train, Arthur, 1875-1945",
+       "lcna": "n50014661"
+      }
+     },
+     {"issue": {"issue-date": "1924-11", "volume": "41", "number": "11"}, 
+      "title": "Demi-God",
+      "title-note": "part 2 of 2",
+      "author": {
+       "authorized": "Train, Arthur, 1875-1945",
+       "lcna": "n50014661"
+      }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2017-12-12"
+   "last-updated": "2019-01-29"
 }

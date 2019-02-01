@@ -1,17 +1,212 @@
 {
    "title": "Hearst's International",
    "online": "1",
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/FMI/link.asp?magid=HRS",
+       "note": "FictionMags (most issues)"}
+   ],
    "first-renewed-issue":
-      {"issue-date": "1923-02", "cdate": "1923-01-20",
-       "volume": "43", "number": "2"},
-   "first-renewed-issue-source": "1950-JulDec",
+      {"issue-date": "1924-02", "cdate": "1924-01-15",
+       "volume": "45", "number": "2"},
+   "first-renewed-issue-source": "1951-JulDec",
    "first-renewed-contribution": {"issue": 
-      {"issue-date": "1923-02", "cdate": "1923-01-20",
-       "volume": "43", "number": "2"}},
-   "first-renewed-contribution-source": "1950-JanJun",
+      {"issue-date": "1924-02", "cdate": "1924-01-15",
+       "volume": "45", "number": "2"}},
+   "first-renewed-contribution-source": "1951-JanJun",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1924-02", "volume": "45", "number": "2"},
+      "title": "It's Never Too Late",
+      "author": {
+       "authorized": "Glass, Montague, 1877-1934",
+       "lcna": "no92032176"
+      }
+     },
+     {"issue": {"issue-date": "1924-02", "volume": "45", "number": "2"},
+      "title": "The Dagger With Wings",
+      "author": {
+       "authorized": "Chesterton, G. K. (Gilbert Keith), 1874-1936",
+       "lcna": "n79021157"
+      }
+     },
+     {"issue": {"issue-date": "1924-03", "volume": "45", "number": "3"},
+      "title": "You Can't Fool the Camera",
+      "note": "Renewal record gives title as 'You Can't Fool Camera', but other sources give 'You Can't Fool the Camera'.  I have not examined the issue to see what is used there.",
+      "author": {
+       "authorized": "Glass, Montague, 1877-1934",
+       "lcna": "no92032176"
+      }
+     },
+     {"issue": {"issue-date": "1924-03", "volume": "45", "number": "3"},
+      "title": "First Born",
+      "author": {
+       "authorized": "Gillmore, Inez Haynes, 1873-1970",
+       "lcna": "n85372376"
+      }
+     },
+     {"issue": {"issue-date": "1924-04", "volume": "45", "number": "4"},
+      "title": "The Letter",
+      "author": {
+       "authorized": "Maugham, W. Somerset (William Somerset), 1874-1965",
+       "lcna": "n79036830"
+      }
+     },
+     {"issue": {"issue-date": "1924-04", "volume": "45", "number": "4"},
+      "title": "Home is the Sailor",
+      "author": {
+       "authorized": "Gillmore, Inez Haynes, 1873-1970",
+       "lcna": "n85372376"
+      }
+     },
+     {"issue": {"issue-date": "1924-05", "volume": "45", "number": "5"},
+      "title": "Janeites",
+      "author": {
+       "authorized": "Kipling, Rudyard, 1865-1936",
+       "lcna": "n79103792"
+      }
+     },
+     {"issue": {"issue-date": "1924-05", "volume": "45", "number": "5"},
+      "title": "Life is Like That",
+      "author": {
+       "authorized": "Gillmore, Inez Haynes, 1873-1970",
+       "lcna": "n85372376"
+      }
+     },
+     {"issue": {"issue-date": "1924-06", "volume": "45", "number": "6"},
+      "title": "United Idolators",
+      "author": {
+       "authorized": "Kipling, Rudyard, 1865-1936",
+       "lcna": "n79103792"
+      }
+     },
+     {"issue": {"issue-date": "1924-06", "volume": "45", "number": "6"},
+      "title": "They Will Do It",
+      "author": {
+       "authorized": "Glass, Montague, 1877-1934",
+       "lcna": "no92032176"
+      }
+     },
+     {"issue": {"issue-date": "1924-06", "volume": "45", "number": "6"},
+      "title": "The Outstation",
+      "author": {
+       "authorized": "Maugham, W. Somerset (William Somerset), 1874-1965",
+       "lcna": "n79036830"
+      }
+     },
+     {"issue": {"issue-date": "1924-06", "volume": "45", "number": "6"},
+      "title": "Three Ladies",
+      "author": {
+       "authorized": "Gillmore, Inez Haynes, 1873-1970",
+       "lcna": "n85372376"
+      }
+     },
+     {"issue": {"issue-date": "1924-06", "volume": "45", "number": "6"},
+      "title": "A Close-Up of Domba Splew",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1924-07", "volume": "46", "number": "1"},
+      "title": "A Friend of the Family",
+      "author": {
+       "authorized": "Kipling, Rudyard, 1865-1936",
+       "lcna": "n79103792"
+      }
+     },
+     {"issue": {"issue-date": "1924-07", "volume": "46", "number": "1"},
+      "title": "The Ardent Bigamist",
+      "author": {
+       "authorized": "Maugham, W. Somerset (William Somerset), 1874-1965",
+       "lcna": "n79036830"
+      }
+     },
+     {"issue": {"issue-date": "1924-07", "volume": "46", "number": "1"},
+      "title": "A Comedy of Terror",
+      "note": "Title as given in CCE.  FictionMags reports no story with that title in the July 1924 issue, but does note a story titled 'The Paper Doll' by the same author (listed as Inez Haynes Irwin).  I have not examined the issue in question.",
+      "author": {
+       "authorized": "Gillmore, Inez Haynes, 1873-1970",
+       "lcna": "n85372376"
+      }
+     },
+     {"issue": {"issue-date": "1924-08", "volume": "46", "number": "2"},
+      "title": "A New Version of What Happened in the Garden of Eden",
+      "author": {
+       "authorized": "Kipling, Rudyard, 1865-1936",
+       "lcna": "n79103792"
+      }
+     },
+     {"issue": {"issue-date": "1924-08", "volume": "46", "number": "2"},
+      "title": "Blood Redder Than Water",
+      "note": "Title as given in CCE.  FictionMags gives title as 'Blood is Redder Than Water'.  I have not examined the issue in question. Author given in CCE as Montague Marsden Wardell, though this may be a confusion with the child who renewed the copyright, Elizabeth Glass Wardell.",
+      "author": {
+       "authorized": "Glass, Montague, 1877-1934",
+       "lcna": "no92032176"
+      }
+     },
+     {"issue": {"issue-date": "1924-08", "volume": "46", "number": "2"},
+      "title": "A Mother's Heart",
+      "author": {
+       "authorized": "Gillmore, Inez Haynes, 1873-1970",
+       "lcna": "n85372376"
+      }
+     },
+     {"issue": {"issue-date": "1924-09", "volume": "46", "number": "3"},
+      "title": "Madonna of the Trenches",
+      "author": {
+       "authorized": "Kipling, Rudyard, 1865-1936",
+       "lcna": "n79103792"
+      }
+     },
+     {"issue": {"issue-date": "1924-10", "volume": "46", "number": "4"},
+      "title": "That's The Way It Goes",
+      "note": "CCE renewal record places this story in Cosmopolitan, but FictionMags instead places it in the October 1924 issue of Hearst's International.  I have not examined the issues to verify which magazine(s) it appeared in.",
+      "author": {
+       "authorized": "Glass, Montague, 1877-1934",
+       "lcna": "no92032176"
+      }
+     },
+     {"issue": {"issue-date": "1924-10", "volume": "46", "number": "4"},
+      "title": "The Prophet and the Country",
+      "author": {
+       "authorized": "Kipling, Rudyard, 1865-1936",
+       "lcna": "n79103792"
+      }
+     },
+     {"issue": {"issue-date": "1924-11", "volume": "46", "number": "5"},
+      "title": "The Painted Veil",
+      "title-note": "part 1 of 5",
+      "author": {
+       "authorized": "Maugham, W. Somerset (William Somerset), 1874-1965",
+       "lcna": "n79036830"
+      }
+     },
+     {"issue": {"issue-date": "1924-11", "volume": "46", "number": "5"},
+      "title": "The Wish House: A Story of Love",
+      "author": {
+       "authorized": "Kipling, Rudyard, 1865-1936",
+       "lcna": "n79103792"
+      }
+     },
+     {"issue": {"issue-date": "1924-12", "volume": "46", "number": "6"},
+      "title": "The Painted Veil",
+      "title-note": "part 2 of 5",
+      "author": {
+       "authorized": "Maugham, W. Somerset (William Somerset), 1874-1965",
+       "lcna": "n79036830"
+      }
+     },
+     {"issue": {"issue-date": "1924-12", "volume": "46", "number": "6"},
+      "title": "Pirates",
+      "author": {
+       "authorized": "Packard, Frank L. (Frank Lucius), 1877-1942",
+       "lcna": "no97026856"
+      }
+     }
+   ],
+   "additional-note": "CCE also says the 'The Needle's Eye' by Arthur Train was serialized in Hearst's International from May through November 1924, but it actually appeared in Cosmopolitan.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-07-05"
+   "last-updated": "2019-01-29"
 }

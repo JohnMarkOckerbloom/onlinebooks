@@ -11,9 +11,69 @@
    "first-renewed-contribution":
      {"issue": {"issue-date": "1947-04", "volume": "8", "number": "2"}},
    "first-renewed-contribution-source": "1974-JulDec",
+   "renewed-issue-completeness": "active/autorenewals",
+   "renewed-issues": [
+     {"issue-date": "1948-04", "volume": "9", "number": "2"},
+     {"issue-date": "1948-06", "volume": "9", "number": "3"},
+     {"issue-date": "1948-10", "volume": "9", "number": "4"},
+     {"issue-date": "1949-01", "volume": "10", "number": "1"},
+     {"issue-date": "1949-04", "volume": "10", "number": "2"},
+     {"issue-date": "1949-06", "volume": "10", "number": "3"},
+     {"issue-date": "1949-10", "volume": "10", "number": "4"},
+     {"issue-date": "1950-01", "volume": "11", "number": "1"},
+     {"issue-date": "1950-04", "volume": "11", "number": "2"},
+     {"issue-date": "1950-06", "volume": "11", "number": "3"},
+     {"issue-date": "1950-10", "volume": "11", "number": "4"},
+     {"issue-date": "1951-01", "volume": "12", "number": "1"},
+     {"issue-date": "1951-04", "volume": "12", "number": "2"},
+     {"issue-date": "1951-06", "volume": "12", "number": "3"},
+     {"issue-date": "1951-10", "volume": "12", "number": "4"},
+     {"issue-date": "1952-01", "volume": "13", "number": "1"},
+     {"issue-date": "1952-04", "volume": "13", "number": "2"},
+     {"issue-date": "1952-06", "volume": "13", "number": "3"},
+     {"issue-date": "1952-10", "volume": "13", "number": "4"},
+     {"issue-date": "1953-01", "volume": "14", "number": "1"},
+     {"issue-date": "1953-04", "volume": "14", "number": "2"},
+     {"issue-date": "1953-06", "volume": "14", "number": "3"},
+     {"issue-date": "1953-10", "volume": "14", "number": "4"},
+     {"issue-date": "1954-01", "volume": "15", "number": "1"},
+     {"issue-date": "1954-04", "volume": "15", "number": "2"},
+     {"issue-date": "1954-06", "volume": "15", "number": "3"},
+     {"issue-date": "1954-10", "volume": "15", "number": "4"},
+     {"issue-date": "1955-01", "volume": "16", "number": "1"},
+     {"issue-date": "1955-04", "volume": "16", "number": "2"},
+     {"issue-date": "1955-06", "volume": "16", "number": "3"},
+     {"issue-date": "1955-10", "volume": "16", "number": "4"}
+   ],
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1947-04", "volume": "8", "number": "2"},
+       "title": "The Revolt Against Formalism in American Social Thought of the Twentieth Century",
+       "author": {
+         "authorized": "White, Morton, 1917-2016",
+         "lcna": "n50020234"
+       }
+     },
+     {"issue": {"issue-date": "1948-01", "volume": "9", "number": "1"},
+       "title": "The Holmes-Cohen Correspondence",
+       "note": "Author as claimed in CCE renewal record.  The journal article lists Felix S. Cohen as editor.",
+       "author": {
+         "authorized": "Rosenfield, Leonora Cohen, 1909-1982",
+         "lcna": "n82243267"
+       }
+     },
+     {"issue": {"issue-date": "1952-04", "volume": "13", "number": "2"},
+       "title": "The Origins of Beard’s Economic Interpretation of the Constitution",
+       "note": "Title as given in journal issue (in line with the title of Beard's book).  Registered works database, and the volume's table of contents, have article title as 'Origins of Beard’s Economic Origins of the Constitution'",
+       "author": {
+         "authorized": "Goldman, Eric Frederick, 1915-1989",
+         "lcna": "n50034594"
+       }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-04-08"
+   "last-updated": "2019-01-17"
 }

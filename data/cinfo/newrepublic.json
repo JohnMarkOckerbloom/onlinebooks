@@ -5,11 +5,49 @@
      {"issue-date": "1927-03-09", "volume": "50", "number": "640"},
    "first-renewed-issue-source": "1955-JanJun",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1923-01-31"}},
-   "first-renewed-contribution-source": "1950-JulDec",
+     {"issue": {"issue-date": "1924-01-16"}},
+   "first-renewed-contribution-source": "1951-JulDec",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1924-01-16"},
+        "title": "Alternatives",
+        "author": {
+         "authorized": "Lowell, Amy, 1874-1925",
+         "lcna": "n79076111"
+        }
+     },
+     {"issue": {"issue-date": "1924-03-19"},
+      "title": "Bello, Bello",
+      "author": {
+       "authorized": "Huxley, Aldous, 1894-1963",
+       "lcna": "n80057246"
+      }
+     },
+     {"issue": {"issue-date": "1924-03-19"},
+      "title": "Snowfall",
+      "author": {
+       "authorized": "Benét, Stephen Vincent, 1898-1943",
+       "lcna": "n50007691"
+      }
+     },
+     {"issue": {"issue-date": "1924-04-30"},
+        "title": "Eleanora Duse",
+        "author": {
+         "authorized": "Lowell, Amy, 1874-1925",
+         "lcna": "n79076111"
+        }
+     },
+     {"issue": {"issue-date": "1924-08-13"},
+        "title": "East of Eden",
+        "author": {
+         "authorized": "Morley, Christopher, 1890-1957",
+         "lcna": "n50006133"
+        }
+     }
+   ],
+   "additional-note" : "Active contribution renewals are recorded beginning in the 1951 January-June CCE volume, but the earliest actively renewed contribution is noted in the 1951 July-December volume.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-06-08"
+   "last-updated": "2019-01-21"
 }

@@ -10,9 +10,33 @@ use OLBP::WikidataSource;
 use CGI::Carp qw(fatalsToBrowser);
 use strict;
 
-my $default = "https://onlinebooks.library.upenn.edu/cce/";
+my $server = "https://onlinebooks.library.upenn.edu";
+my $default = $server. "/cce/";
 my $cinfodir  = $OLBP::dbdir . "cinfo/";
 my $contactfile = $cinfodir . "contacts";
+
+my $scriptname = '/webbin/cinfo/';
+my $redirfile = $cinfodir . 'REDIRECTS';
+
+sub redirect {
+  my ($id, $format) = @_;
+  open my $fh, "< $redirfile" or return 0;
+  while (my $line = <$fh>) {
+    if ($line =~ /$id\s+(.+)/) {
+      my $newid = $1;
+      close $fh;
+      my $url = $server . $scriptname . $newid;
+      if ($format eq "json") {
+        # if we get more general, be sure to sanitize input
+        $url .= "?format=json";
+      }
+      print "Location: $url\n\n";
+      exit 0;
+    }
+  }
+  close $fh;
+  return 0;
+}
 
 sub getout {
   print "Location: $default\n\n";
@@ -37,7 +61,9 @@ if (!$arg || $arg =~ /[^a-zA-Z0-9\-]/) {
 
 my $fname = $cinfodir . $arg . ".json";
 if (!-e $fname) {
-  getout();
+  if (!redirect($arg, $format)) {
+    getout();
+  }
 }
 
 if ($format eq "json") {

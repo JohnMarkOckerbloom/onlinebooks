@@ -1,0 +1,25 @@
+{
+   "title": "Nature Magazine",
+   "title-note": "illustrated American monthly, 1923-1959",
+   "online": "1",
+   "see-also": [{"id": "nature",
+                 "note": "Nature (UK-based scientific journal)"}],
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce+database",
+   "first-renewed-contribution": {"issue": {"issue-date": "1924-03"}},
+   "first-renewed-contribution-source": "1951-JanJun",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1924-03"},
+      "title": "Fungus Diseases That Destroy Insects",
+      "author": {
+         "authorized": "Howes, Paul Griswold, 1892-1983",
+         "lcna": "n87832444"
+      }
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2019-01-09"
+}

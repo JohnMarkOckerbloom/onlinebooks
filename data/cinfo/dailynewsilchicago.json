@@ -7,13 +7,318 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": {
-       "issue": {"issue-date": "1923-01-20"}
+       "issue": {"issue-date": "1924-01-08"}
    },
-   "first-renewed-contribution-source": "1950-JanJun",
-   "renewed-contribution-completeness": "active/1923-01-20",
+   "first-renewed-contribution-source": "1951-JanJun",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1924-01-08"}, 
+      "title": "A King by Night",
+      "title-note": "part 1 of 38",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1924-01-09"}, 
+      "title": "A King by Night",
+      "title-note": "part 2 of 38",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1924-01-10"}, 
+      "title": "A King by Night",
+      "title-note": "part 3 of 38",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1924-01-11"}, 
+      "title": "A King by Night",
+      "title-note": "part 4 of 38",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1924-01-12"}, 
+      "title": "A King by Night",
+      "title-note": "part 5 of 38",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1924-01-14"}, 
+      "title": "A King by Night",
+      "title-note": "part 6 of 38",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1924-01-15"}, 
+      "title": "A King by Night",
+      "title-note": "part 7 of 38",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1924-01-16"}, 
+      "title": "A King by Night",
+      "title-note": "part 8 of 38",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1924-01-17"}, 
+      "title": "A King by Night",
+      "title-note": "part 9 of 38",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1924-01-18"}, 
+      "title": "A King by Night",
+      "title-note": "part 10 of 38",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1924-01-19"}, 
+      "title": "A King by Night",
+      "title-note": "part 11 of 38",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1924-01-21"}, 
+      "title": "A King by Night",
+      "title-note": "part 12 of 38",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1924-01-22"}, 
+      "title": "A King by Night",
+      "title-note": "part 13 of 38",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1924-01-23"}, 
+      "title": "A King by Night",
+      "title-note": "part 14 of 38",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1924-01-24"}, 
+      "title": "A King by Night",
+      "title-note": "part 15 of 38",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1924-01-25"}, 
+      "title": "A King by Night",
+      "title-note": "part 16 of 38",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1924-01-26"}, 
+      "title": "A King by Night",
+      "title-note": "part 17 of 38",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1924-01-28"}, 
+      "title": "A King by Night",
+      "title-note": "part 18 of 38",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1924-01-29"}, 
+      "title": "A King by Night",
+      "title-note": "part 19 of 38",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1924-01-30"}, 
+      "title": "A King by Night",
+      "title-note": "part 20 of 38",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1924-01-31"}, 
+      "title": "A King by Night",
+      "title-note": "part 21 of 38",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1924-02-01"}, 
+      "title": "A King by Night",
+      "title-note": "part 22 of 38",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1924-02-02"}, 
+      "title": "A King by Night",
+      "title-note": "part 23 of 38",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1924-02-04"}, 
+      "title": "A King by Night",
+      "title-note": "part 24 of 38",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1924-02-05"}, 
+      "title": "A King by Night",
+      "title-note": "part 25 of 38",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1924-02-06"}, 
+      "title": "A King by Night",
+      "title-note": "part 26 of 38",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1924-02-07"}, 
+      "title": "A King by Night",
+      "title-note": "part 27 of 38",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1924-02-08"}, 
+      "title": "A King by Night",
+      "title-note": "part 28 of 38",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1924-02-09"}, 
+      "title": "A King by Night",
+      "title-note": "part 29 of 38",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1924-02-11"}, 
+      "title": "A King by Night",
+      "title-note": "part 30 of 38",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1924-02-12"}, 
+      "title": "A King by Night",
+      "title-note": "part 31 of 38",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1924-02-13"}, 
+      "title": "A King by Night",
+      "title-note": "part 32 of 38",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1924-02-14"}, 
+      "title": "A King by Night",
+      "title-note": "part 33 of 38",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1924-02-15"}, 
+      "title": "A King by Night",
+      "title-note": "part 34 of 38",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1924-02-16"}, 
+      "title": "A King by Night",
+      "title-note": "part 35 of 38",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1924-02-18"}, 
+      "title": "A King by Night",
+      "title-note": "part 36 of 38",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1924-02-19"}, 
+      "title": "A King by Night",
+      "title-note": "part 37 of 38",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1924-02-20"}, 
+      "title": "A King by Night",
+      "title-note": "part 38 of 38",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2017-12-04"
+   "last-updated": "2019-01-13"
 }

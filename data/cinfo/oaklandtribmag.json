@@ -1,0 +1,31 @@
+{
+   "title": "Oakland Tribune Magazine",
+   "see-also": [{"id": "oaklandtribune", "note": "Oakland Tribune"}],
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce+database",
+   "first-renewed-contribution": 
+     {"issue": {"issue-date": "1924-03-16"}},
+   "first-renewed-contribution-source": "1951-JanJun",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1924-03-16"},
+      "title": "The Running Noose and its Use in Forty-Nine",
+       "author": {
+         "authorized": "Peterson, Harry C. (Harry Claude), 1876-1941",
+         "lcna": "n93030652"
+       }
+     },
+     {"issue": {"issue-date": "1924-04-06"},
+      "title": "Lippy Luxe, the Lonesome Liar of Likker Gulch. 2d Portion, A Turrible Imagination and a Gold-Plated Man",
+       "author": {
+         "authorized": "Peterson, Harry C. (Harry Claude), 1876-1941",
+         "lcna": "n93030652"
+       }
+     }
+   ],
+   "additional-note": "Published as a special section of the Oakland Tribune. Some of the renewals recorded for contributions to the Oakland Tribune might have been for pieces that appeared in the Magazine.",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2019-01-12"
+}

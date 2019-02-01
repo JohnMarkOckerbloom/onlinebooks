@@ -1,16 +1,76 @@
 {
    "title": "The Bookman",
+   "title-note": "US literary journal",
+   "online": "1",
    "first-issue": {"issue-date": "1895-02", "volume": "1", "number": "1"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1923-02", "cdate": "1923-01-24",
-                "volume": "56", "number": "6"}},
-   "first-renewed-contribution-source": "1950-JanJun",
+     {"issue": {"issue-date": "1924-03",
+                "volume": "59", "number": "1"}},
+   "first-renewed-contribution-source": "1951-JanJun",
    "last-issue": {"issue-date": "1933-03", "volume": "76", "number": "3"},
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1924-03"},
+      "title": "Magic Carpet Business",
+      "author": {
+         "authorized": "McFee, William, 1881-1966",
+         "lcna": "n82053296"
+      }
+     },
+     {"issue": {"issue-date": "1924-05"},
+        "title": "Humming Birds, Sand Altar",
+        "author": {
+         "authorized": "Lowell, Amy, 1874-1925",
+         "lcna": "n79076111"
+        }
+     },
+     {"issue": {"issue-date": "1924-08"},
+      "title": "Emily Dickens Biography",
+      "author": {
+       "authorized": "Benét, Stephen Vincent, 1898-1943",
+       "lcna": "n50007691"
+      }
+     },
+     {"issue": {"issue-date": "1924-08"},
+        "title": "Walt",
+        "author": {
+         "authorized": "Morley, Christopher, 1890-1957",
+         "lcna": "n50006133"
+        }
+     },
+     {"issue": {"issue-date": "1924-10"},
+      "title": "To See or Not to See",
+      "author": {
+       "authorized": "Benét, Stephen Vincent, 1898-1943",
+       "lcna": "n50007691"
+      }
+     },
+     {"issue": {"issue-date": "1924-10"},
+        "title": "Conversion of a Saint",
+        "author": {
+         "authorized": "Lowell, Amy, 1874-1925",
+         "lcna": "n79076111"
+        }
+     },
+     {"issue": {"issue-date": "1924-10"},
+      "title": "A Reply to a Young Gentleman About to Travel",
+      "author": {
+         "authorized": "McFee, William, 1881-1966",
+         "lcna": "n82053296"
+      }
+     },
+     {"issue": {"issue-date": "1924-12"},
+      "title": "Is the Costume Drama Dead",
+      "author": {
+       "authorized": "Benét, Stephen Vincent, 1898-1943",
+       "lcna": "n50007691"
+      }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-06-12"
+   "last-updated": "2019-01-21"
 }

@@ -4,12 +4,50 @@
    "online": "1",
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
-   "first-renewed-contribution": {"cdate": "1923-01-25"},
-   "first-renewed-contribution-source": "1950-JanJun",
+   "first-renewed-contribution": {"issue-date": "1924-04"},
+   "first-renewed-contribution-source": "1951-JulDec",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1924-04"},
+      "title": "His Second Venture",
+      "title-note": "part 1 of 4",
+      "author": {
+        "authorized": "Reynolds, Baillie, Mrs.",
+        "name": "Mrs. Baillie Reynolds",
+        "lcna": "n82070806"
+      }
+     },
+     {"issue": {"issue-date": "1924-05"},
+      "title": "His Second Venture",
+      "title-note": "part 2 of 4",
+      "author": {
+        "authorized": "Reynolds, Baillie, Mrs.",
+        "name": "Mrs. Baillie Reynolds",
+        "lcna": "n82070806"
+      }
+     },
+     {"issue": {"issue-date": "1924-06"},
+      "title": "His Second Venture",
+      "title-note": "part 3 of 4",
+      "author": {
+        "authorized": "Reynolds, Baillie, Mrs.",
+        "name": "Mrs. Baillie Reynolds",
+        "lcna": "n82070806"
+      }
+     },
+     {"issue": {"issue-date": "1924-07"},
+      "title": "His Second Venture",
+      "title-note": "part 4 of 4",
+      "author": {
+        "authorized": "Reynolds, Baillie, Mrs.",
+        "name": "Mrs. Baillie Reynolds",
+        "lcna": "n82070806"
+      }
+     }
+   ],
    "additional-note": "This journal originates in the UK, but early 20th century volumes have both British and US locations mentioned on the title page, and an American edition was published for at least part of its run.  If the publishers sent issues to American subscribers around the same time as they went out to British subscribers, it might be subject to US notice and renewal requirements to keep copyright.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-01-30"
+   "last-updated": "2019-01-21"
 }

@@ -1,13 +1,40 @@
 {
    "title": "Northeastern Reporter",
    "aka": ["North Eastern Reporter"],
+   "online": "1",
    "first-renewed-issue":
-      {"issue-date": "1923-01-02", "volume": "137", "number": "4"},
-   "first-renewed-issue-source": "1950-JanJun",
-   "additional-note": "The Ohio Supplement of the Northeastern Reporter was also renewed from its first volume.",
+      {"issue-date": "1923-July 31-October 23,", "cdate": "1924-01-05",
+         "volume": "140", "number": "permanent edition"},
+   "first-renewed-issue-source": "1951-JanJun",
+   "renewed-issues": [
+      {"issue-date": "1923-July 31-October 23,", "cdate": "1924-01-05",
+         "volume": "140", "number": "permanent edition"},
+      {"issue-date": "1924-01-08", "volume": "141", "number": "11"},
+      {"issue-date": "1924-01-15", "volume": "141", "number": "12"},
+      {"issue-date": "1924-01-22", "volume": "141", "number": "13"},
+      {"issue-date": "1924-01-29", "volume": "141", "number": "14"},
+      {"issue-date": "1924-02-05", "volume": "141", "number": "15"},
+      {"issue-date": "October 30, 1923 - February 5, 1924",
+         "volume": "141", "number": "permanent edition"},
+      {"issue-date": "1924-02-12", "volume": "142", "number": "1"},
+      {"issue-date": "1924-02-19", "volume": "142", "number": "2"},
+      {"issue-date": "1924-02-26", "volume": "142", "number": "3"},
+      {"issue-date": "1924-03-04", "volume": "142", "number": "4"},
+      {"issue-date": "1924-03-11", "volume": "142", "number": "5"},
+      {"issue-date": "1924-03-18", "volume": "142", "number": "6"},
+      {"issue-date": "1924-03-25", "volume": "142", "number": "7"},
+      {"issue-date": "1924-February 12-April 8,",
+         "volume": "142", "number": "permanent edition"},
+      {"issue-date": "1924-April 15-June 24,",
+         "volume": "143", "number": "permanent edition"}
+   ],
+   "additional-notes": [
+    "The oldest active renewal for the permanent edition is for volume 140.  The oldest active renewal for the numbered editions published before incorporation into the permanent edition is for volume 141 number 11, copyrighted January 7, 1924.  The permanent editions of this law reporter are renewed as books; the issues published before the permanent edition are renewed as periodicals.",
+     "The Ohio Supplement of the Northeastern Reporter was also renewed from its first volume."
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-01-24"
+   "last-updated": "2019-01-30"
 }

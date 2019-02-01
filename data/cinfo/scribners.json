@@ -1,21 +1,99 @@
 {
    "title": "Scribner's Magazine",
    "online": "1",
-   "first-renewed-issue": {"issue-date": "1923-02", "cdate": "1923-01-25",
-                           "volume": "73", "number": "2"},
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/FMI/link.asp?magid=SCRMG",
+       "note": "FictionMags (partial)"}
+   ],
+   "first-renewed-issue": {"issue-date": "1924-02", "cdate": "1924-01-25",
+                           "volume": "75", "number": "2"},
    "first-renewed-issue-source": "1951-JanJun",
    "first-renewed-contribution": {
-       "issue": {"issue-date": "1923-03", "volume": "73", "number": "3"}
+       "issue": {"issue-date": "1924-04", "volume": "75", "number": "4"}
    },
-   "first-renewed-contribution-source": "1950-JulDec",
+   "first-renewed-contribution-source": "1951-JanJun",
    "last-issue": {"issue-date": "1939-05", "volume": "105", "number": "5"},
    "succeeded-by": [
       {"id": "scribnerscomment",
        "note": "Scribner's Commentator"}
    ],
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1924-04", "volume": "75", "number": "4"}, 
+      "title": "The White Monkey",
+      "title-note": "part 1 of 9",
+      "author": {
+       "authorized": "Galsworthy, John, 1867-1933",
+       "lcna": "n79041972"
+      }
+     },
+     {"issue": {"issue-date": "1924-05", "volume": "75", "number": "5"}, 
+      "title": "The White Monkey",
+      "title-note": "part 2 of 9",
+      "author": {
+       "authorized": "Galsworthy, John, 1867-1933",
+       "lcna": "n79041972"
+      }
+     },
+     {"issue": {"issue-date": "1924-06", "volume": "75", "number": "6"}, 
+      "title": "The White Monkey",
+      "title-note": "part 3 of 9",
+      "author": {
+       "authorized": "Galsworthy, John, 1867-1933",
+       "lcna": "n79041972"
+      }
+     },
+     {"issue": {"issue-date": "1924-07", "volume": "76", "number": "1"}, 
+      "title": "The White Monkey",
+      "title-note": "part 4 of 9",
+      "author": {
+       "authorized": "Galsworthy, John, 1867-1933",
+       "lcna": "n79041972"
+      }
+     },
+     {"issue": {"issue-date": "1924-08", "volume": "76", "number": "2"}, 
+      "title": "The White Monkey",
+      "title-note": "part 5 of 9",
+      "author": {
+       "authorized": "Galsworthy, John, 1867-1933",
+       "lcna": "n79041972"
+      }
+     },
+     {"issue": {"issue-date": "1924-09", "volume": "76", "number": "3"}, 
+      "title": "The White Monkey",
+      "title-note": "part 6 of 9",
+      "author": {
+       "authorized": "Galsworthy, John, 1867-1933",
+       "lcna": "n79041972"
+      }
+     },
+     {"issue": {"issue-date": "1924-10", "volume": "76", "number": "4"}, 
+      "title": "The White Monkey",
+      "title-note": "part 7 of 9",
+      "author": {
+       "authorized": "Galsworthy, John, 1867-1933",
+       "lcna": "n79041972"
+      }
+     },
+     {"issue": {"issue-date": "1924-11", "volume": "76", "number": "5"}, 
+      "title": "The White Monkey",
+      "title-note": "part 8 of 9",
+      "author": {
+       "authorized": "Galsworthy, John, 1867-1933",
+       "lcna": "n79041972"
+      }
+     },
+     {"issue": {"issue-date": "1924-12", "volume": "76", "number": "6"}, 
+      "title": "The White Monkey",
+      "title-note": "part 9 of 9",
+      "author": {
+       "authorized": "Galsworthy, John, 1867-1933",
+       "lcna": "n79041972"
+      }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2017-12-30"
+   "last-updated": "2019-01-09"
 }

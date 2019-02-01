@@ -1,0 +1,47 @@
+{
+   "title": "Charm",
+   "title-note": "Bamberger, 1924-ca. 1932",
+   "see-also": [{"id": "charm1941",
+                 "note": "Charm (Street and Smith, 1941-1959)"}],
+   "first-issue": {"issue-date": "1924-02", "volume": "1", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce",
+   "first-renewed-contribution":
+     {"issue": {"issue-date": "1924-02", "volume": "1", "number": "1"}},
+   "first-renewed-contribution-source": "1951-JanJun",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1924-02", "volume": "1", "number": "1"},
+      "title": "Stalled",
+      "author": {
+       "authorized": "Gillmore, Inez Haynes, 1873-1970",
+       "lcna": "n85372376"
+      }
+     },
+     {"issue": {"issue-date": "1924-06"},
+      "title": "Interlude",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1924-07"},
+      "title": "The Snatched Brand",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1924-11"},
+      "title": "A Young Man With Judgment",
+      "author": {
+       "authorized": "Duganne, Phyllis, 1899-1976",
+       "lcna": "n90719514"
+      }
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2019-01-16"
+}

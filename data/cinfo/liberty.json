@@ -1,0 +1,112 @@
+{
+   "title": "Liberty",
+   "title-note": "general interest magazine, 1924-1950",
+   "aka": ["Liberty Weekly"],
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/FMI/link.asp?magid=LBT",
+       "note": "FictionMags Index"}
+   ],
+   "first-issue": {"issue-date": "1924-05-10", "volume": "1", "number": "1"},
+   "first-renewed-issue": 
+           {"issue-date": "1924-05-10", "volume": "1", "number": "1"},
+   "first-renewed-issue-source": "1952",
+   "first-renewed-contribution": 
+      {"issue": {"issue-date": "1924-06-07", "volume": "1", "number": "5"}},
+   "first-renewed-contribution-source": "1951-JulDec",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1924-06-07", "volume": "1", "number": "5"},
+      "title": "What of it?",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1924-08-02", "volume": "1", "number": "13"}, 
+      "title": "Angel Unawares",
+      "author": {
+         "authorized": "Gillmore, Inez Haynes, 1873-1970",
+         "lcna": "n85372376"
+       }
+     },
+     {"issue": {"issue-date": "1924-08-09", "volume": "1", "number": "14"}, 
+      "title": "Fans and Fanatics",
+      "note": "Title as given in CCE. FictionMags gives title as 'Fanatics and Fans'.  I have not checked the issue to see what title is used there.",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1924-08-16", "volume": "1", "number": "15"},
+      "title": "In Conference",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1924-09-06", "volume": "1", "number": "18"}, 
+      "title": "A Little Bit of Broadway",
+      "title-note": "part 1 of 4",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1924-09-13", "volume": "1", "number": "19"}, 
+      "title": "A Little Bit of Broadway",
+      "title-note": "part 2 of 4",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1924-09-20", "volume": "1", "number": "20"}, 
+      "title": "A Little Bit of Broadway",
+      "title-note": "part 3 of 4",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1924-09-27", "volume": "1", "number": "21"}, 
+      "title": "A Little Bit of Broadway",
+      "title-note": "part 4 of 4",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1924-10-04", "volume": "1", "number": "22"}, 
+      "title": "The Umps",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1924-10-11", "volume": "1", "number": "23"},
+      "title": "An Underground Romance",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1924-11-01", "volume": "1", "number": "26"},
+       "title": "It Did Happen",
+       "author": {
+         "authorized": "Adams, Samuel Hopkins, 1871-1958",
+         "lcna": "n50037535"
+       }
+     },
+     {"issue": {"issue-date": "1924-11-01", "volume": "1", "number": "26"},
+      "title": "Jolly Roger",
+      "author": {
+       "authorized": "Benét, Stephen Vincent, 1898-1943",
+       "lcna": "n50007691"
+      }
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2019-01-21"
+}

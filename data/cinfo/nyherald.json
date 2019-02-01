@@ -2,14 +2,850 @@
    "title": "New York Herald",
    "online": "1",
    "first-renewed-issue":
-      {"issue-date": "1923-01-01", "volume": "87", "number": "124"},
-   "first-renewed-issue-source": "1950-JulDec",
+      {"issue-date": "1924-01-01", "volume": "88", "number": "124"},
+   "first-renewed-issue-source": "1952",
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1924-01-20"}},
    "first-renewed-contribution-source": "1951-JanJun",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1924-01-20"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 1 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-01-21"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 2 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-01-22"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 3 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-01-23"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 4 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-01-24"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 5 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-01-25"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 6 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-01-26"},
+       "title": "A Wail From Little Archy",
+       "author": {
+         "authorized": "Marquis, Don, 1878-1937",
+         "lcna": "n50041532"
+       }
+     },
+     {"issue": {"issue-date": "1924-01-26"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 7 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-01-27"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 8 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-01-28"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 9 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-01-29"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 10 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-01-30"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 11 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-01-31"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 12 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-02-01"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 13 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-02-02"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 14 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-02-03"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 15 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-02-04"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 16 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-02-05"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 17 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-02-06"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 18 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-02-07"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 19 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-02-08"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 20 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-02-09"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 21 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-02-10"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 22 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-02-11"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 23 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-02-12"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 24 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-02-13"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 25 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-02-14"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 26 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-02-15"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 27 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-02-16"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 28 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-02-17"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 29 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-02-18"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 30 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-02-19"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 31 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-02-20"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 32 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-02-21"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 33 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-02-22"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 34 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-02-23"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 35 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-02-24"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 36 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-02-25"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 37 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-02-26"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 38 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-02-27"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 39 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-02-28"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 40 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-02-29"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 41 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-03-01"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 42 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-03-02"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 43 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-03-03"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 44 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-03-04"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 45 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-03-05"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 46 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-03-06"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 47 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-03-07"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 48 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-03-08"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 49 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-03-09"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 50 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-03-10"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 51 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-03-11"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 52 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-03-12"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 53 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-03-13"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 54 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-03-14"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 55 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-03-15"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 56 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-03-16"},
+       "title": "The Letters of Archie Butt",
+       "title-note": "part 57 of 57",
+       "author": {
+         "authorized": "Butt, Archibald Willingham, 1866-1912",
+         "lcna": "n97067612"
+       },
+       "editor": {
+         "authorized": "Abbott, Lawrence F. (Lawrence Fraser), 1859-1933",
+         "lcna": "n88274095"
+       }
+     },
+     {"issue": {"issue-date": "1924-03-17"},
+       "title": "The Ant Bear",
+       "author": {
+         "authorized": "Marquis, Don, 1878-1937",
+         "lcna": "n50041532"
+       }
+     },
+     {"issue": {"issue-date": "1924-03-23"},
+       "title": "Verses",
+       "note": "Renewal record mentions both the New York Herald and the New York Tribune.",
+       "author": {
+         "authorized": "Hoffenstein, Samuel, 1889-1947",
+         "lcna": "n85151874"
+       }
+     },
+     {"issue": {"issue-date": "1924-03-28"},
+       "title": "A Farewell",
+       "note": "Renewal record mentions both the New York Herald and the New York Tribune.",
+       "author": {
+         "authorized": "Marquis, Don, 1878-1937",
+         "lcna": "n50041532"
+       }
+     },
+     {"issue": {"issue-date": "1924-04-10"},
+       "title": "Archy Still in Trouble",
+       "note": "Renewal record mentions both the New York Herald and the New York Tribune.",
+       "author": {
+         "authorized": "Marquis, Don, 1878-1937",
+         "lcna": "n50041532"
+       }
+     },
+     {"issue": {"issue-date": "1924-04-16"},
+       "title": "Archy Revolts",
+       "note": "Renewal record mentions both the New York Herald and the New York Tribune.",
+       "author": {
+         "authorized": "Marquis, Don, 1878-1937",
+         "lcna": "n50041532"
+       }
+     },
+     {"issue": {"issue-date": "1924-05-24"},
+       "title": "Abridged History of the U.S.",
+       "note": "Renewal record mentions both the New York Herald and the New York Tribune.",
+       "author": {
+         "authorized": "Marquis, Don, 1878-1937",
+         "lcna": "n50041532"
+       }
+     },
+     {"issue": {"issue-date": "1924-07-01"},
+      "title": "The Lantern",
+      "title-note": "part 1 of 5",
+      "note": "Renewal record mentions both the New York Herald and the New York Tribune.",
+      "author": {
+         "authorized": "Marquand, John P. (John Phillips), 1893-1960",
+         "lcna": "n79061320"
+       }
+     },
+     {"issue": {"issue-date": "1924-07-10"},
+      "title": "The Lantern",
+      "title-note": "part 2 of 5",
+      "note": "Renewal record mentions both the New York Herald and the New York Tribune.",
+      "author": {
+         "authorized": "Marquand, John P. (John Phillips), 1893-1960",
+         "lcna": "n79061320"
+       }
+     },
+     {"issue": {"issue-date": "1924-07-14"},
+      "title": "Samson",
+      "note": "Renewal record mentions both the New York Herald and the New York Tribune.",
+      "author": {
+         "authorized": "Marquand, John P. (John Phillips), 1893-1960",
+         "lcna": "n79061320"
+       }
+     },
+     {"issue": {"issue-date": "1924-07-16"},
+      "title": "Archy Denies It",
+      "note": "Renewal record mentions both the New York Herald and the New York Tribune.",
+      "author": {
+         "authorized": "Marquand, John P. (John Phillips), 1893-1960",
+         "lcna": "n79061320"
+       }
+     },
+     {"issue": {"issue-date": "1924-08-27"},
+      "title": "The Lantern",
+      "title-note": "part 3 of 5",
+      "note": "Renewal record mentions both the New York Herald and the New York Tribune.",
+      "author": {
+         "authorized": "Marquand, John P. (John Phillips), 1893-1960",
+         "lcna": "n79061320"
+       }
+     },
+     {"issue": {"issue-date": "1924-09-02"},
+      "title": "What is a Lady",
+      "note": "Renewal record mentions both the New York Herald and the New York Tribune.",
+      "author": {
+         "authorized": "Marquand, John P. (John Phillips), 1893-1960",
+         "lcna": "n79061320"
+       }
+     },
+     {"issue": {"issue-date": "1924-09-15"},
+      "title": "The Lantern",
+      "title-note": "part 4 of 5",
+      "note": "Renewal record mentions both the New York Herald and the New York Tribune.",
+      "author": {
+         "authorized": "Marquand, John P. (John Phillips), 1893-1960",
+         "lcna": "n79061320"
+       }
+     },
+     {"issue": {"issue-date": "1924-10-01"},
+      "title": "The Lantern",
+      "title-note": "part 5 of 5",
+      "note": "Renewal record mentions both the New York Herald and the New York Tribune.",
+      "author": {
+         "authorized": "Marquand, John P. (John Phillips), 1893-1960",
+         "lcna": "n79061320"
+       }
+     },
+     {"issue": {"issue-date": "1924-10-31"},
+      "title": "The Almost Perfect State",
+      "title-note": "part 1 of 3",
+      "note": "Renewal record mentions both the New York Herald and the New York Tribune.",
+      "author": {
+         "authorized": "Marquand, John P. (John Phillips), 1893-1960",
+         "lcna": "n79061320"
+       }
+     },
+     {"issue": {"issue-date": "1924-12-06"},
+      "title": "The Almost Perfect State",
+      "title-note": "part 2 of 3",
+      "note": "Renewal record mentions both the New York Herald and the New York Tribune.",
+      "author": {
+         "authorized": "Marquand, John P. (John Phillips), 1893-1960",
+         "lcna": "n79061320"
+       }
+     },
+     {"issue": {"issue-date": "1924-12-08"},
+      "title": "The Almost Perfect State",
+      "title-note": "part 3 of 3",
+      "note": "Renewal record mentions both the New York Herald and the New York Tribune.",
+      "author": {
+         "authorized": "Marquand, John P. (John Phillips), 1893-1960",
+         "lcna": "n79061320"
+       }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-12-06"
+   "last-updated": "2019-01-21"
 }

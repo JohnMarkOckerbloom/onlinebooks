@@ -6,14 +6,124 @@
       "note": "FictionMags"}
    ],
    "first-renewed-issue": 
-     {"issue-date": "1923-01-10", "volume": "102", "number": "1"},
-   "first-renewed-issue-source": "1950-JanJun",
+     {"issue-date": "1924-01-10", "volume": "106", "number": "1"},
+   "first-renewed-issue-source": "1951-JanJun",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1923-09-10", "volume": "104", "number": "5"}},
-   "first-renewed-contribution-source": "1950-JulDec",
+     {"issue": {"issue-date": "1924-01-25", "volume": "106", "number": "2"}},
+   "first-renewed-contribution-source": "1951-JanJun",
+   "renewed-issues": [
+     {"issue-date": "1924-01-10", "volume": "106", "number": "1"},
+     {"issue-date": "1924-01-25", "volume": "106", "number": "2"}
+   ],
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1924-01-25", "volume": "106", "number": "2"},
+      "title": "The Scar Man",
+      "note": "CCE renewal record claims this was published in the January 25, 1924 issue.  However, FictionMags does not record this story in that issue's table of contents, but rather in the contents for the January 25, 1922 issue.  If that latter citation is accurate, the story is now in the public domain. I have not examined the issues in question.",
+      "author": {
+       "authorized": "Seltzer, Charles Alden, 1875-1942",
+       "lcna": "n50007279"
+      }
+     },
+     {"issue": {"issue-date": "1924-02-10", "volume": "106", "number": "3"},
+      "title": "The Desert's Price",
+      "title-note": "part 1 of 4",
+      "author": {
+         "authorized": "Raine, William MacLeod, 1871-1954",
+         "lcna": "n90682348"
+      }
+     },
+     {"issue": {"issue-date": "1924-02-25", "volume": "106", "number": "4"},
+      "title": "The Desert's Price",
+      "title-note": "part 2 of 4",
+      "author": {
+         "authorized": "Raine, William MacLeod, 1871-1954",
+         "lcna": "n90682348"
+      }
+     },
+     {"issue": {"issue-date": "1924-03-10", "volume": "106", "number": "5"},
+      "title": "The Riddle of the Amber Ship",
+      "authors": [
+        {
+         "authorized": "Hanshew, Mary E.",
+         "lcna": "no2004104890"
+        },
+        {
+         "authorized": "Hanshew, Thomas W., 1857-1914",
+         "lcna": "n82102540"
+        }
+      ]
+     },
+     {"issue": {"issue-date": "1924-03-10", "volume": "106", "number": "5"},
+      "title": "The Desert's Price",
+      "title-note": "part 3 of 4",
+      "author": {
+         "authorized": "Raine, William MacLeod, 1871-1954",
+         "lcna": "n90682348"
+      }
+     },
+     {"issue": {"issue-date": "1924-03-25", "volume": "106", "number": "6"},
+      "title": "The Desert's Price",
+      "title-note": "part 4 of 4",
+      "author": {
+         "authorized": "Raine, William MacLeod, 1871-1954",
+         "lcna": "n90682348"
+      }
+     },
+     {"issue": {"issue-date": "1924-08-10", "volume": "108", "number": "3"},
+      "title": "Straight Shooting",
+      "author": {
+         "authorized": "Tuttle, W. C. (Wilbur C.), 1883-1969",
+         "lcna": "n83190878"
+      }
+     },
+     {"issue": {"issue-date": "1924-09-10", "volume": "108", "number": "5"},
+      "title": "Gray Face",
+      "note": "CCE renewal record gives title as 'Grey Face', but magazine cover gives it as 'Gray Face'.",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1924-09-10", "volume": "108", "number": "5"},
+      "title": "Spindrift",
+      "title-note": "part 1 of 4",
+      "note": "We believe, but are not positive, that this is by the conservation writer Harold Titus who died in 1967, and not the philosopher Harold Hopper Titus who died in 1984.",
+      "author": {
+         "authorized": "Titus, Harold, 1888-1967",
+         "lcna": "no2008175553"
+      }
+     },
+     {"issue": {"issue-date": "1924-09-25", "volume": "108", "number": "6"},
+      "title": "Spindrift",
+      "title-note": "part 2 of 4",
+      "note": "We believe, but are not positive, that this is by the conservation writer Harold Titus who died in 1967, and not the philosopher Harold Hopper Titus who died in 1984.",
+      "author": {
+         "authorized": "Titus, Harold, 1888-1967",
+         "lcna": "no2008175553"
+      }
+     },
+     {"issue": {"issue-date": "1924-10-10", "volume": "109", "number": "1"},
+      "title": "Spindrift",
+      "title-note": "part 3 of 4",
+      "note": "We believe, but are not positive, that this is by the conservation writer Harold Titus who died in 1967, and not the philosopher Harold Hopper Titus who died in 1984.",
+      "author": {
+         "authorized": "Titus, Harold, 1888-1967",
+         "lcna": "no2008175553"
+      }
+     },
+     {"issue": {"issue-date": "1924-10-25", "volume": "109", "number": "2"},
+      "title": "Spindrift",
+      "title-note": "part 4 of 4",
+      "note": "We believe, but are not positive, that this is by the conservation writer Harold Titus who died in 1967, and not the philosopher Harold Hopper Titus who died in 1984.",
+      "author": {
+         "authorized": "Titus, Harold, 1888-1967",
+         "lcna": "no2008175553"
+      }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-06-02"
+   "last-updated": "2019-01-31"
 }

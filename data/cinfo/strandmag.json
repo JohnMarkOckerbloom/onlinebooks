@@ -2,15 +2,36 @@
    "title": "The Strand",
    "aka": ["Strand Magazine"],
    "online": "1",
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/FMI/link.asp?magid=SND",
+      "note": "FictionMags"}
+   ],
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": 
-      {"issue": {"issue-date": "1923-01"}},
-   "first-renewed-contribution-source": "1950-JanJun",
+      {"issue": {"issue-date": "1924-03", "volume": "67", "number": "399"}},
+   "first-renewed-contribution-source": "1951-JanJun",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1924-03", "volume": "67", "number": "399"},
+      "title": "The Porterhouse Steak",
+      "note": "Author name is a pseudonym for H. C. McNeile",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     },
+     {"issue": {"issue-date": "1924-04", "volume": "67", "number": "400"},
+      "title": "Plain Jane",
+      "author": {
+       "authorized": "Vachell, Horace Annesley, 1861-1955",
+       "lcna": "n82123554"
+      }
+     }
+   ],
    "additional-note" : "This is a British publication.  Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-12-04"
+   "last-updated": "2019-01-29"
 }

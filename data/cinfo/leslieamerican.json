@@ -4,19 +4,49 @@
    "online": "1",
    "contents": [
       {"url": "http://www.philsp.com/homeville/FMI/link.asp?magid=AMG",
-       "note": "FictionMags Index (selected issues)"}
+       "note": "FictionMags Index (fiction listings from selected issues)"}
    ],
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution":
-      {"issue": {"issue-date": "1923-03", "cdate": "1950-01-25"}},
-   "first-renewed-contribution-source": "1950-JulDec",
+      {"issue": {"issue-date": "1924-07", "volume": "98", "number": "1"}},
+   "first-renewed-contribution-source": "1952-JanJun",
    "last-issue": {"issue-date": "1956-08", "volume": "162", "number": "2"},
    "see-also": [{"id": "americanatc", "note": "American (American Tobacco Company magazine, 1940s)"}],
-   "additional-note" : "Active contribution renewals are recorded beginning in the 1950 January-June CCE volume, but the earliest active renewed contribution is noted in the 1950 July-December volume.",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1924-10", "volume": "98", "number": "4"}, 
+      "title": "Cold Blooded",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1924-11", "volume": "98", "number": "5"}, 
+      "title": "The Bread and Butter Complex",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1924-11", "volume": "98", "number": "5"}, 
+      "title": "Human Nature on the Witness Stand",
+      "author": {
+       "authorized": "Train, Arthur, 1875-1945",
+       "lcna": "n50014661"
+      }
+     },
+     {"issue": {"issue-date": "1925-01", "volume": "99", "number": "1"},
+      "title": "What I Have Learned From Boys",
+      "author": {
+       "authorized": "Tarkington, Booth, 1869-1946",
+       "lcna": "n79078124"
+      }
+     }
+   ],
+   "additional-note" : "Active contribution renewals are recorded beginning in the 1951 July-December CCE volume, but the earliest active renewed contribution is noted in the 1952 January-June volume.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-06-10"
+   "last-updated": "2019-01-29"
 }

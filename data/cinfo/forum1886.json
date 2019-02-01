@@ -1,0 +1,56 @@
+{
+   "title": "The Forum",
+   "title-note": "American magazine, 1886-1950",
+   "online": "1",
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce+database",
+   "first-renewed-contribution": {"issue": {"issue-date": "1924-02"}},
+   "first-renewed-contribution-source": "1952-JanJun",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1924-03"}, 
+      "title": "White Apes",
+      "title-note": "part 1 of 2",
+       "author": {
+         "authorized": "Hurst, Fannie, 1889-1968",
+         "lcna": "n80010314"
+       }
+     },
+     {"issue": {"issue-date": "1924-04"}, 
+      "title": "White Apes",
+      "title-note": "part 2 of 2",
+       "author": {
+         "authorized": "Hurst, Fannie, 1889-1968",
+         "lcna": "n80010314"
+       }
+     },
+     {"issue": {"issue-date": "1924-09"}, 
+      "title": "All Wrong",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1924-11"}, 
+      "title": "Billionaire Era",
+      "title-note": "part 1 of 2",
+      "author": {
+       "authorized": "Train, Arthur, 1875-1945",
+       "lcna": "n50014661"
+      }
+     },
+     {"issue": {"issue-date": "1924-12"}, 
+      "title": "Billionaire Era",
+      "title-note": "part 2 of 2",
+      "author": {
+       "authorized": "Train, Arthur, 1875-1945",
+       "lcna": "n50014661"
+      }
+     }
+   ],
+   "additional-note": "Active contribution renewals are recorded beginning in the 1951 July-December CCE volume, but the earliest actively renewed contribution is noted in the 1952 January-June volume.",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2019-01-29"
+}
