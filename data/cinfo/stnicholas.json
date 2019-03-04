@@ -2,14 +2,29 @@
    "title": "St. Nicholas Magazine",
    "online": "1",
    "first-renewed-issue": 
-     {"issue-date": "1923-01", "volume": "50", "number": "3"},
-   "first-renewed-issue-source": "1950-JulDec",
+     {"issue-date": "1924-01", "volume": "51", "number": "3"},
+   "first-renewed-issue-source": "1951-JulDec",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1923-02", "volume": "50", "number": "4"}},
-   "first-renewed-contribution-source": "1950-JanJun",
+     {"issue": {"issue-date": "1927-10"}},
+   "first-renewed-contribution-source": "1954-JulDec",
+   "renewed-issue-completeness": "active/1924",
+   "renewed-issues": [
+     {"issue-date": "1924-01", "volume": "51", "number": "3"},
+     {"issue-date": "1924-02", "volume": "51", "number": "4"},
+     {"issue-date": "1924-03", "volume": "51", "number": "5"},
+     {"issue-date": "1924-04", "volume": "51", "number": "6"},
+     {"issue-date": "1924-05", "volume": "51", "number": "7"},
+     {"issue-date": "1924-06", "volume": "51", "number": "8"},
+     {"issue-date": "1924-07", "volume": "51", "number": "9"},
+     {"issue-date": "1924-08", "volume": "51", "number": "10"},
+     {"issue-date": "1924-09", "volume": "51", "number": "11"},
+     {"issue-date": "1924-10", "volume": "51", "number": "12"},
+     {"issue-date": "1924-11", "volume": "52", "number": "1"},
+     {"issue-date": "1924-12", "volume": "52", "number": "2"}
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-06-02"
+   "last-updated": "2019-02-11"
 }

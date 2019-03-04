@@ -4,6 +4,7 @@ use JSON;
 
 my $serialprefix = "https://onlinebooks.library.upenn.edu/webbin/serial?id=";
 my $cinfoprefix = "https://onlinebooks.library.upenn.edu/webbin/cinfo/";
+my $suggestprefix = "https://onlinebooks.library.upenn.edu/webbin/suggest";
 my $codburl = "https://cocatalog.loc.gov/";
 my $cceurl  = "https://onlinebooks.library.upenn.edu/cce/";
 my $firstperiodurl  = $cceurl . "firstperiod.html";
@@ -585,9 +586,19 @@ sub firstperiod_listing {
   return $str;
 }
 
+sub display_olbp_cover {
+  my ($self, %params) = @_;
+  my $json = {};
+  $json->{"title"} = $params{title};
+  $json->{"online"} = 1;
+  $json->{"suggest-cinfo"} = 1;
+  return $self->display_page(filename=>$params{id}, json=>$json);
+}
+
 sub display_page {
   my ($self, %params) = @_;
   my $fname = $params{filename};
+  my $json = $params{json};
   print qq^<!DOCTYPE html>
 <html lang="en"><head>
 <meta charset="utf-8">
@@ -600,8 +611,10 @@ sub display_page {
   h3 {text-align: center}
 </style>
 ^;
-  my $path = $self->{dir} . $fname . ".json";
-  my $json = $self->_readjsonfile($path);
+  if (!$json) {
+    my $path = $self->{dir} . $fname . ".json";
+    $json = $self->_readjsonfile($path);
+  }
   _errorpage("Could not parse JSON") if (!$json);
   my $worktitle = $json->{"title"};
   _errorpage("Could not get title") if (!$worktitle);
@@ -734,6 +747,7 @@ sub display_page {
   }
   my $headline = 1;
   if ($json->{"renewed-issues"} || $json->{"renewed-contributions"}
+      || $json->{"suggest-cinfo"}
       || $json->{"additional-note"} || $json->{"additional-notes"}) {
     print "</table>";
     if ($json->{"renewed-issues"}) {
@@ -797,12 +811,24 @@ sub display_page {
        foreach my $note (@{$json->{"additional-notes"}}) {
          print "<p>" . OLBP::html_encode($note) . "</p>\n";
        }
+    } elsif ($json->{"suggest-cinfo"}) {
+      my $suggesturi = $suggestprefix;
+      print qq!<p>We have no copyright information on this title,
+        but we link to some of its content online.  If you would
+        like copyright information on it, you can
+        <a href="$suggesturi">suggest this serial</a> and
+        type "Copyright information wanted" (or something similar)
+        into the "Anything else we should know...?" space.
+        </p>
+      !;
     }
   } else {
     $headline = 0;
   }
-  $self->_print_citation_info($json, $headline);
-  print "</table>";
+  if (!$json->{"suggest-cinfo"}) {
+    $self->_print_citation_info($json, $headline);
+    print "</table>";
+  }
   print "<p><em>$disclaimer</em></p>\n";
   my @choices = ("Copyright registration and renewal records" => $cceurl,
                  "First periodical renewals"    => $firstperiodurl);

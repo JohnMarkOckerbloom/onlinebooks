@@ -1,17 +1,30 @@
 {
    "title": "Infantry Journal",
    "online": "1",
-   "first-renewed-issue": {"issue-date": "1923-01", "volume": "22", "number": "1"}, 
-   "first-renewed-issue-source": "1950-JulDec",
+   "first-renewed-issue":
+       {"issue-date": "1924-01", "volume": "24", "number": "1"}, 
+   "first-renewed-issue-source": "1951-JulDec",
    "first-renewed-contribution": {
       "issue": {"issue-date": "1939-January-February"}
    },
    "first-renewed-contribution-source": "1966-JanJun",
    "last-issue": 
        {"issue-date": "1950-07", "volume": "66", "number": "7"}, 
+   "renewed-issues": [
+       {"issue-date": "1924-01", "volume": "24", "number": "1"}, 
+       {"issue-date": "1924-02", "volume": "24", "number": "2"}, 
+       {"issue-date": "1924-03", "volume": "24", "number": "3"}, 
+       {"issue-date": "1924-04", "volume": "24", "number": "4"}, 
+       {"issue-date": "1924-05", "volume": "24", "number": "5"}, 
+       {"issue-date": "1924-06", "volume": "24", "number": "6"}, 
+       {"issue-date": "1924-07", "volume": "25", "number": "1"}, 
+       {"issue-date": "1924-08", "volume": "25", "number": "2"}, 
+       {"issue-date": "1924-09", "volume": "25", "number": "3"}, 
+       {"issue-date": "1924-10", "volume": "25", "number": "4"}
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2017-12-05"
+   "last-updated": "2019-02-10"
 }

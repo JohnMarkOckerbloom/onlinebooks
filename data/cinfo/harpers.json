@@ -10,6 +10,17 @@
      {"issue": {"issue-date": "1924-02", "cdate": "1924-01-25",
       "volume": "148", "number": "885"}},
    "first-renewed-contribution-source": "1951-JanJun",
+   "renewed-issues": [
+     {"issue-date": "1924-02", "volume": "148", "number": "885"},
+     {"issue-date": "1924-03", "volume": "148", "number": "886"},
+     {"issue-date": "1924-04", "volume": "148", "number": "887"},
+     {"issue-date": "1924-05", "volume": "148", "number": "888"},
+     {"issue-date": "1924-06", "volume": "149", "number": "889"},
+     {"issue-date": "1924-07", "volume": "149", "number": "890"},
+     {"issue-date": "1924-08", "volume": "149", "number": "891"},
+     {"issue-date": "1924-09", "volume": "149", "number": "892"},
+     {"issue-date": "1924-10", "volume": "149", "number": "893"}
+   ],
    "renewed-contributions": [
      {"issue": {"issue-date": "1924-02", "volume": "148", "number": "885"},
       "title": "On the Malecon",
@@ -58,5 +69,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-01-21"
+   "last-updated": "2019-02-10"
 }

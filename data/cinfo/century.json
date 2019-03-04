@@ -8,6 +8,32 @@
    "first-renewed-contribution":
      {"issue": {"issue-date": "1924-05"}},
    "first-renewed-contribution-source": "1951-JulDec",
+   "renewed-issue-completeness": "active/1924",
+   "renewed-issues": [
+      {"issue-date": "1924-02", "volume": "107", "number": "4"},
+      {"issue-date": "1924-03", "volume": "107", "number": "5"},
+      {"issue-date": "1924-04", "volume": "107", "number": "6"},
+      {"issue-date": "1924-05", "volume": "108", "number": "1"},
+      {"issue-date": "1924-06", "volume": "108", "number": "2"},
+      {"issue-date": "1924-07", "volume": "108", "number": "3"},
+      {"issue-date": "1924-08", "volume": "108", "number": "4"},
+      {"issue-date": "1924-09", "volume": "108", "number": "5"},
+      {"issue-date": "1924-10", "volume": "108", "number": "6"},
+      {"issue-date": "1924-11", "volume": "109", "number": "1"},
+      {"issue-date": "1924-12", "volume": "109", "number": "2"},
+      {"issue-date": "1925-01", "volume": "109", "number": "3"},
+      {"issue-date": "1925-02", "volume": "109", "number": "4"},
+      {"issue-date": "1925-03", "volume": "109", "number": "5"},
+      {"issue-date": "1925-04", "volume": "109", "number": "6"},
+      {"issue-date": "1925-05", "volume": "110", "number": "1"},
+      {"issue-date": "1925-06", "volume": "110", "number": "2"},
+      {"issue-date": "1925-07", "volume": "110", "number": "3"},
+      {"issue-date": "1925-08", "volume": "110", "number": "4"},
+      {"issue-date": "1925-09", "volume": "110", "number": "5"},
+      {"issue-date": "1925-10", "volume": "110", "number": "6"},
+      {"issue-date": "1925-11", "volume": "111", "number": "1"},
+      {"issue-date": "1925-12", "volume": "111", "number": "2"}
+   ],
    "renewed-contributions": [
      {"issue": {"issue-date": "1924-05"},
         "title": "The Paper in the Gate Legged Table",
@@ -42,5 +68,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-01-21"
+   "last-updated": "2019-03-02"
 }

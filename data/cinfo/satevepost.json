@@ -11,6 +11,34 @@
    "first-renewed-contribution":
      {"issue": {"issue-date": "1924-01-05", "volume": "196", "number": "27"}},
    "first-renewed-contribution-source": "1951-JanJun",
+   "renewed-issues": [
+     {"issue-date": "1924-01-05", "volume": "196", "number": "27"},
+     {"issue-date": "1924-01-12", "volume": "196", "number": "28"},
+     {"issue-date": "1924-01-19", "volume": "196", "number": "29"},
+     {"issue-date": "1924-01-26", "volume": "196", "number": "30"},
+     {"issue-date": "1924-02-02", "volume": "196", "number": "31"},
+     {"issue-date": "1924-02-09", "volume": "196", "number": "32"},
+     {"issue-date": "1924-02-16", "volume": "196", "number": "33"},
+     {"issue-date": "1924-02-23", "volume": "196", "number": "34"},
+     {"issue-date": "1924-03-01", "volume": "196", "number": "35"},
+     {"issue-date": "1924-03-08", "volume": "196", "number": "36"},
+     {"issue-date": "1924-03-15", "volume": "196", "number": "37"},
+     {"issue-date": "1924-03-22", "volume": "196", "number": "38"},
+     {"issue-date": "1924-03-29", "volume": "196", "number": "39"},
+     {"issue-date": "1924-04-05", "volume": "196", "number": "40"},
+     {"issue-date": "1924-04-12", "volume": "196", "number": "41"},
+     {"issue-date": "1924-04-19", "volume": "196", "number": "42"},
+     {"issue-date": "1924-04-26", "volume": "196", "number": "43"},
+     {"issue-date": "1924-05-03", "volume": "196", "number": "44"},
+     {"issue-date": "1924-05-10", "volume": "196", "number": "45"},
+     {"issue-date": "1924-05-17", "volume": "196", "number": "46"},
+     {"issue-date": "1924-05-24", "volume": "196", "number": "47"},
+     {"issue-date": "1924-05-31", "volume": "196", "number": "48"},
+     {"issue-date": "1924-06-07", "volume": "196", "number": "49"},
+     {"issue-date": "1924-06-14", "volume": "196", "number": "50"},
+     {"issue-date": "1924-06-21", "volume": "196", "number": "51"},
+     {"issue-date": "1924-06-28", "volume": "196", "number": "52"}
+   ],
    "renewed-contributions": [
      {"issue": {"issue-date": "1924-01-05", "volume": "196", "number": "27"},
       "title": "The Priceless Pearl",
@@ -414,5 +442,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-01-29"
+   "last-updated": "2019-02-11"
 }

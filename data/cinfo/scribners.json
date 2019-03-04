@@ -17,6 +17,10 @@
       {"id": "scribnerscomment",
        "note": "Scribner's Commentator"}
    ],
+   "renewed-issues": [
+      {"issue-date": "1924-02", "volume": "75", "number": "2"},
+      {"issue-date": "1924-03", "volume": "75", "number": "3"}
+   ],
    "renewed-contributions": [
      {"issue": {"issue-date": "1924-04", "volume": "75", "number": "4"}, 
       "title": "The White Monkey",
@@ -95,5 +99,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-01-09"
+   "last-updated": "2019-02-11"
 }

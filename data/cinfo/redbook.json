@@ -17,7 +17,13 @@
    "first-renewed-contribution-source": "1951-JanJun",
    "renewed-issues": [
       {"issue-date": "1924-02", "volume": "42", "number": "4"},
-      {"issue-date": "1924-03", "volume": "42", "number": "5"}
+      {"issue-date": "1924-03", "volume": "42", "number": "5"},
+      {"issue-date": "1924-04", "volume": "42", "number": "6"},
+      {"issue-date": "1924-05", "volume": "43", "number": "1"},
+      {"issue-date": "1924-06", "volume": "43", "number": "2"},
+      {"issue-date": "1924-07", "volume": "43", "number": "3"},
+      {"issue-date": "1924-08", "volume": "43", "number": "4"},
+      {"issue-date": "1924-09", "volume": "43", "number": "5"}
    ],
    "renewed-contributions": [
      {"issue": {"issue-date": "1924-02", "volume": "42", "number": "4"}, 
@@ -196,5 +202,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-01-30"
+   "last-updated": "2019-02-11"
 }

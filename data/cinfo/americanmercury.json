@@ -7,6 +7,17 @@
    "first-renewed-contribution": 
       {"issue": {"issue-date": "1924-02", "volume": "1", "number": "2"}},
    "first-renewed-contribution-source": "1951-JulDec",
+   "renewed-issue-completeness": "active/1924",
+   "renewed-issues": [
+       {"issue-date": "1924-05", "volume": "2", "number": "5"},
+       {"issue-date": "1924-06", "volume": "2", "number": "6"},
+       {"issue-date": "1924-07", "volume": "2", "number": "7"},
+       {"issue-date": "1924-10", "volume": "3", "number": "10"},
+       {"issue-date": "1924-11", "volume": "3", "number": "11"},
+       {"issue-date": "1924-12", "volume": "3", "number": "12"},
+       {"issue-date": "1925-01", "volume": "4", "number": "13",
+          "cdate": "1924-12-25"}
+   ],
    "renewed-contributions": [
      {"issue": {"issue-date": "1924-02", "volume": "1", "number": "2"},
       "title": "Caught",
@@ -20,5 +31,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-01-14"
+   "last-updated": "2019-02-26"
 }

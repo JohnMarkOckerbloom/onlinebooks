@@ -88,7 +88,12 @@ renewal shown here are necessary under copyright as well.
 This compilation was made by John Mark Ockerbloom, with assistance from
 Alison Miner and Carly Sewell, based on listings in
 <a href="index.html">the Catalog of Copyright Entries</a>, published 
-by the US Copyright Office.  Further contributions of information are welcome;
+by the US Copyright Office.
+JSON data files for this compilation can be <a href="https://github.com/JohnMarkOckerbloom/onlinebooks/tree/master/data/cinfo">downloaded from Github</a>.
+We wish to thank the Institute for Museum and Library Services
+for financially supporting the compilation of these listings
+in 2017 and 2018 via a grant to the University of Pennsylvania.
+Further contributions of information are welcome;
 contact the editor (ockerblo<b>(at)</b>pobox.upenn.edu) for information on contributing.
 Note that as of January 1, 2019, 1923 and earlier copyrights
 for periodical content have expired.  We are now in the process 
@@ -116,7 +121,7 @@ to reflect the earliest renewals that are still active
 <li> <cite>Acoustical Society of America Journal</cite>: issues renewed from July 1946 (v. 18 no. 1); see 1974
 <li> *actioncomics*
 <li> <cite>Action Novels</cite>: issues renewed from Dec. 1928 (v. 1 no. 1); see 1956 Jul-Dec
-<li> <cite>Action Stories</cite>: issues renewed from Nov. 1928 (v. 8 no. 3); see 1956 Jul-Dec; contributions renewed at least as far back as August 1923; see 1950 Jan-Jun
+<li> *actionstories*
 <li> <cite>Actual Romances</cite>: issues renewed from October 1949 (v. 1 no. 1); see 1977 Jul-Dec
 <li> <cite>Adult Class</cite>: "consult copyright office"; see 1976 Jan-Jun; first cataloged renewal is January-March 1946 (v. 40 no. 1) recorded in 1977 Jul-Dec
 <li> <cite>Advance</cite>: no issue renewals found in CCE (though I have not managed to exhaustively search this term in the registered works database); contributions renewed from November 1936; see 1964 Jul-Dec
@@ -130,6 +135,7 @@ to reflect the earliest renewals that are still active
 <li> <cite>Advocate of Peace Through Justice</cite>: see ^advocatepeace^
 <li> <cite>Aero Digest, including Aviation Engineering</cite>: issues renewed from Feb. 1926 (v. 8 no. 2); see 1954 Jan-Jun
 <li> *afroamerican*
+<li> *agriculturalhist*
 <li> *jaia*
 <li> *ainslees*
 <li> <cite>Ainslee's Smart Love Stories</cite>: see ^ainslees^
@@ -255,7 +261,7 @@ to reflect the earliest renewals that are still active
 <li> <cite>American Junior Red Cross News</cite>: no issue renewals found in CCE or registered works database; contributions renewed from Feb. 1927; see 1954 Jan-Jun
 <li> *amerjurisprudence*
 <li> <cite>American Law Institute Restatement of the Law of Contracts</cite>: volumes renewed from May 6, 1932 (v. 1); see 1959 Jul-Dec
-<li> <cite>American Law Reports</cite>: issues prior to 1923 renewed; see 1950 Jan-Jun
+<li> *amlawrepts*
 <li> *americanlegion*
 <li> <cite>American Legion Magazine</cite>: see ^americanlegion^
 <li> <cite>American Legion Monthly</cite>: see ^americanlegion^
@@ -357,7 +363,7 @@ to reflect the earliest renewals that are still active
 <li> <cite>Argosy Weekly</cite>: see ^argosyus^
 <li> *arizonahighways*
 <li> *arizonaqtly*
-<li> <cite>Arkansas Decisions Reported in the Southwestern Reporter</cite>: issues prior to 1923 renewed; see 1950 Jan-Jun
+<li> *ardecisionswreptr*
 <li> *democratar*
 <li> *arkansaslibraries*
 <li> *arkhamsampler*
@@ -759,8 +765,8 @@ to reflect the earliest renewals that are still active
 <li> <cite>Complete Mystery</cite>: "consult copyright office"; see 1976 Jan-Jun; first cataloged renewal for August 1948 (v. 1 no. 1); see 1977 Jul-Dec
 <li> <cite>Complete Puzzles</cite>: issues renewed from Fall 1949 (v. 1 no. 1); see 1977 Jul-Dec
 <li> <cite>Complete Sports</cite>: "consult copyright office"; see 1970; first cataloged renewal for July 1942 (v. 4 no. 1) in 1977 Jul-Dec
-<li> <cite>Complete Stories</cite>: for first issue renewal see <cite>Complete Story Magazine</cite>; contributions renewed from Nov. 1927; see 1954 Jul-Dec
-<li> <cite>Complete Story Magazine</cite>: issues renewed from July 1, 1924 (v. 1 no. 1); see 1951 Jul-Dec; for first contribution renewal see <cite>Complete Stories</cite>
+<li> *completestories*
+<li> <cite>Complete Story Magazine</cite>: see ^completestories^
 <li> <cite>Complete War Novels Magazine</cite>: "consult copyright office"; see 1970; first cataloged renewal for September 1942 (v. 1 no. 1) in 1977 Jul-Dec
 <li> *completewesternbook*
 <li> *complexpsychoanalysis*
@@ -830,6 +836,7 @@ to reflect the earliest renewals that are still active
 <li> *dacnews*
 <li> <cite>DAC News</cite>: see ^dacnews^
 <li> <cite>Dagwood Comics</cite>: issues renewed from September 1950 (v. 1 no. 1); see 1977 Jul-Dec
+<li> *britishcolonist*
 <li> <cite>The Daily Express</cite> (UK): no issue renewals found in CCE or registered works database; contributions renewed from Jan. 27, 1926; see 1953 Jul-Dec; see also <cite>The Sunday Express</cite>
 <li> <cite>The Daily Mail</cite> (UK): no issue renewals found in CCE or registered works database; contributions renewed from Sep. 6, 1927; see 1955 Jan-Jun
 <li> <cite>Daily Mirror</cite> (London): no issue renewals found in CCE or registered works database; contributions renewed from May 16, 1927; see 1955 Jan-Jun
@@ -881,9 +888,9 @@ to reflect the earliest renewals that are still active
 <li> *detectivecomics*
 <li> <cite>Detective Dime Novels</cite>: issues renewed from April 1940 (v. 1 no. 1); see 1967
 <li> *detectivedragnet*
-<li> <cite>Detective Fiction</cite>: see <cite>Detective Fiction Weekly</cite>
-<li> <cite>Detective Fiction Weekly</cite>: see <cite>Flynn's Weekly Detective Fiction</cite>
-<li> <cite>Detective Magazine</cite>: see <cite>Flynn's Detective</cite>
+<li> <cite>Detective Fiction</cite>: see ^flynns^
+<li> <cite>Detective Fiction Weekly</cite>: see ^flynns^
+<li> <cite>Detective Magazine</cite>: see ^flynns^
 <li> <cite>Detective Mystery Novel Magazine</cite>: issues renewed from Fall 1948 (v. 28 no. 3); see 1976 Jul-Dec; but see also similar-named magazines, and <cite>Thrilling Mystery Novel Magazine</cite>
 <li> <cite>Detective Novel Magazine</cite>: see <cite>Detective Novels Magazine</cite>
 <li> <cite>Detective Novels Magazine</cite>: issues renewed from Jan.-Feb. 1938 (v. 1 no. 1); see 1965
@@ -904,7 +911,7 @@ to reflect the earliest renewals that are still active
 <li> <cite>Digest of the Decisions of the Courts of Missouri</cite>: volumes prior to 1923 renewed; see 1950 Jan-Jun
 <li> <cite>Dime Adventure Magazine</cite>: issues renewed from June 1935 (v. 1 no. 1); see 1962 Jul-Dec
 <li> *dimedetective*
-<li> <cite>Dime Detective Magazine-Flynn's Detective Fiction</cite>: see <cite>Dime Detective Magazine</cite>, <cite>Flynn's</cite>
+<li> <cite>Dime Detective Magazine-Flynn's Detective Fiction</cite>: see <cite>Dime Detective Magazine</cite>, ^flynns^
 <li> <cite>Dime Detective Western</cite>: see ^dimedetective^
 <li> <cite>Dime Mystery Magazine</cite>: issues renewed from Oct. 1934 (v. 6 no. 3); see 1961 Jul-Dec; contributions renewed from July 1935; see 1962 Jul-Dec
 <li> <cite>Dime Mystery-10 Story Mystery</cite>: see <cite>Dime Mystery Magazine</cite>, <cite>10 Story Mystery Magazine</cite>
@@ -1102,10 +1109,11 @@ to reflect the earliest renewals that are still active
 <li> <cite>Flying Models Including Flying Aces</cite>: "consult copyright office"; see 1975; cataloged issues appear to be continuations of <cite>Flying Age Including Flying Aces</cite>
 <li> <cite>Flying Models Including Flying Aces and Air World</cite>: "consult copyright office"; see 1976 Jan-Jun; cataloged issues appear to be continuations of <cite>Flying Age Including Flying Aces</cite>
 <li> <cite>Flynn's</cite>: issues renewed from Sep. 20, 1924 (v. 1 no. 1); see 1951 Jul-Dec; contributions renewed from Oct. 4, 1924; see 1952 Jan-Jun
-<li> <cite>Flynn's Detective</cite>: see <cite>Flynn's</cite>
-<li> <cite>Flynn's Detective Fiction</cite>: see <cite>Flynn's</cite>
-<li> <cite>Flynn's Weekly</cite>: see <cite>Flynn's</cite>
-<li> <cite>Flynn's Weekly Detective Fiction</cite>: see <cite>Flynn's</cite>
+<li> *flynns*
+<li> <cite>Flynn's Detective</cite>: see ^flynns^
+<li> <cite>Flynn's Detective Fiction</cite>: see ^flynns^
+<li> <cite>Flynn's Weekly</cite>: see ^flynns^
+<li> <cite>Flynn's Weekly Detective Fiction</cite>: see ^flynns^
 <li> <cite>Focus</cite>: issues renewed from April 1938 (v. 1 no. 1); see 1965
 <li> <cite>Folk-Lore</cite>: see <cite>Folklore</cite>
 <li> <cite>Folk-Say</cite> (annual "regional miscellany"): volumes renewed from 1929; see 1956 Jul-Dec; contributions renewed from 1930; see 1958 Jan-Jun
@@ -1374,6 +1382,7 @@ to reflect the earliest renewals that are still active
 <li> *timesindianapolis*
 <li> <cite>Industrial and Engineering Chemistry</cite>: issues renewed from January 15, 1940 (v. 15 no. 1); see 1967
 <li> <cite>Industrial and Labor Relations Review</cite>: issues renewed from April 1948 (v. 1 no. 3); see 1976 Jan-Jun
+<li> *industmgtreview*
 <li> *infantryjournal*
 <li> *inlandprinter*
 <li> <cite>Inner Culture</cite>: issues renewed from January-March 1943 (v. 14 no. 3); see 1970
@@ -1482,6 +1491,7 @@ to reflect the earliest renewals that are still active
 <li> *jinfecdiseases*
 <li> <cite>Journal of Investigative Dermatology</cite>: issues renewed from October 1940 (v. 3 no. 5); see 1968
 <li> *jlegalpoliticalsoc*
+<li> *jmammalogy*
 <li> *jmedicinalpharmchem*
 <li> <cite>Journal of Medicinal Chemistry</cite>: see ^jmedicinalpharmchem^
 <li> *jmodernhistory*
@@ -1515,6 +1525,7 @@ to reflect the earliest renewals that are still active
 <li> <cite>The Journal of the American Institute of Real Estate Appraisers</cite>: see <cite>American Institute of Real Estate Appraisers Journal</cite>
 <li> *jama*
 <li> *jamerorientals*
+<li> *jamsocpsychicrsch*
 <li> *jamerwaterworks*
 <li> <cite>Journal of the American Welding Society</cite>: no issue renewals found in CCE or registered works database, either under this name or <cite>American Welding Society Journal</cite> and <cite>Welding Journal</cite> names; contributions renewed from August 1933; see 1961 Jul-Dec
 <li> *garksencampment*
@@ -1524,6 +1535,7 @@ to reflect the earliest renewals that are still active
 <li> *garencampment*
 <li> *jopticalsocamerica*
 <li> <cite>Journal of the Optical Society of America and Review of Scientific Instruments</cite>: see ^jopticalsocamerica^
+<li> *jsocpsychicrsch*
 <li> *jwashacadsci*
 <li> *jurology*
 <li> <cite>The Journal of Wildlife Management</cite>: no issue renewals found in CCE or registered works database
@@ -1565,7 +1577,7 @@ to reflect the earliest renewals that are still active
 <li> <cite>Katzenjammer Kids</cite>: issues renewed from Summer 1947 (no. 1); see 1974
 <li> <cite>The Kellys</cite>: issues renewed from January 1950 (v. 1 no. 23); see 1977 Jul-Dec
 <li> <cite>Ken</cite> (1938-1939): no issue renewals found in CCE; contributions renewed from April 7, 1938; see 1965 Jan-Jun
-<li> <cite>Kentucky Decisions Reported in the Southwestern Reporter Annotated</cite>: volumes prior to 1923 renewed; see 1950 Jan-Jun
+<li> *kydecisionswreptr*
 <li> *postkycovington*
 <li> *kenyonreview*
 <li> *keystonefolk*
@@ -1818,7 +1830,7 @@ to reflect the earliest renewals that are still active
 <li> <cite>Miss Melody Lane of Broadway</cite>: issues renewed from February-March 1950 (no. 1); see 1977 Jul-Dec
 <li> <cite>Mississippi Valley Historical Quarterly</cite>: see ^mivalhr^
 <li> *mivalhr*
-<li> <cite>Missouri Decisions Reported in the Southwestern Reporter Annotated</cite>: volumes prior to 1923 renewed; see 1950 Jan-Jun
+<li> *modecisionswreptr*
 <li> <cite>Missouri Law Review</cite>: issues renewed from April 1936 (v. 1 no. 2); see 1964
 <li> <cite>Mister District Attorney</cite>: issues renewed from Jan-Feb 1948 (no. 1); see 1975
 <li> <cite>Mitzi's Boy Friend</cite>: "consult copyright office"; see 1976 Jan-Jun; first cataloged renewal for June 1948 (v. 1 no. 2) in 1977 Jul-Dec
@@ -1863,7 +1875,7 @@ to reflect the earliest renewals that are still active
 <li> <cite>Motion Picture-Hollywood Magazine</cite>: see ^mpmag^
 <li> *mpmag*
 <li> *motive*
-<li> <cite>Motor</cite>: issues renewed at least as far back as January 1923 (v. 39 no. 2); see 1950 Jul-Dec; contributions renewed from Feb. 1924; see 1952 Jan-Jun
+<li> *motormag*
 <li> *motorboating*
 <li> <cite>Movie Action Magazine</cite>: issues renewed from November 1935 (v. 1 no. 1); see 1962 Jul-Dec
 <li> <cite>Movie and Radio Guide</cite>: see ^movieradioguide^
@@ -1885,6 +1897,7 @@ to reflect the earliest renewals that are still active
 <li> <cite>My Own Romance</cite>: "consult copyright office"; see 1976 Jan-Jun; first cataloged renewal for March 1949 (v. 1 no. 4) in 1977 Jul-Dec
 <li> <cite>My Romance</cite>: "consult copyright office"; see 1976 Jul-Dec; first cataloged renewal for September 1948 (v. 1 no. 1) in 1977 Jul-Dec
 <li> <cite>My Weekly</cite> (UK): no issue renewals found in CCE or registered works database; contributions renewed from March 25, 1935; see 1962 Jul-Dec
+<li> *mycologia*
 <li> <cite>The Mysterious Wu Fang</cite>: issues renewed from September 1935 (v. 1 no. 1); see 1962 Jul-Dec
 <li> *mysterybook*
 <li> <cite>Mystery Magazine</cite> (pulp magazine, 1917-1927): no issue renewals found in CCE; contributions renewed from Jan. 15, 1926; see 1953 Jul-Dec; see also <cite>Ellery Queen's Mystery Magazine</cite>
@@ -2059,13 +2072,14 @@ to reflect the earliest renewals that are still active
 <li> <cite>Operator No. 5</cite>: issues renewed from Nov. 1934 (v. 2 no. 4); see 1961 Jul-Dec
 <li> <cite>Opportunity: Journal of Negro Life</cite>: issues renewed from February 1941 (v. 19 no. 2); see 1969; contributions renewed from January 1937; see 1964 Jul-Dec
 <li> <cite>The Oregon Daily Journal</cite>: see ^journalor^
+<li> *orhisqtly*
 <li> *journalor*
 <li> <cite>The Oregon Sunday Journal</cite>: see ^journalor^
 <li> *oregonian*
 <li> *organportfolio*
 <li> *organicreactions*
 <li> *organicsyntheses*
-<li> <cite>The Organist</cite>: issues renewed from January 1924 (v. 27 no. 6);  see 1951 Jul-Dec; contributions renewed from March 1932; see 1960 Jan-Jun
+<li> *organistlorenz*
 <li> <cite>Orgone Energy Bulletin</cite>: issues renewed from April 1949 (v. 1 no. 2); see 1977 Jan-Jun
 <li> <cite>Orgone Institute Annals</cite>: see ^annalsorgone^
 <li> *orientalstories*
@@ -2216,7 +2230,7 @@ to reflect the earliest renewals that are still active
 <li> <cite>Popeye</cite>: issues renewed from May-July 1948 (v. 1 no. 2); see 1975
 <li> <cite>The Popular</cite>: see ^popularstreetsmith^
 <li> *popularcomics*
-<li> <cite>The Popular Complete Stories</cite>: see ^popularstreetsmith^
+<li> <cite>The Popular Complete Stories</cite>: see ^completestories^
 <li> <cite>Popular Crossword Puzzles</cite>: issues renewed from Winter 1941 (v. 1 no. 1); see 1968
 <li> <cite>Popular Detective</cite>: issues renewed from December 1935 (v. 5 no. 2); see 1963 Jul-Dec; contributions renewed from June 1938; see 1965 Jan-Jun
 <li> <cite>Popular Educator</cite>: issues prior to 1923 renewed; see 1950 Jan-Jun
@@ -2267,6 +2281,7 @@ to reflect the earliest renewals that are still active
 <li> *promenademayfair*
 <li> <cite>Proposal Perilous</cite>: issues renewed from July 1949 (v. 37 no. 1); see 1976 Jul-Dec
 <li> *psychiatry*
+<li> <cite>Psychic Research</cite>: see ^jamsocpsychicrsch^
 <li> <cite>Psychoanalysis and the Psychoanalytic Review</cite>: see ^psychanlreview^
 <li> <cite>The Psychoanalytic Quarterly</cite>: issues renewed from April 1932 (v. 1 no. 1); see 1959 Jul-Dec
 <li> *psychanlreview*
@@ -2295,6 +2310,7 @@ to reflect the earliest renewals that are still active
 <li> *qtlyjspeech*
 <li> <cite>Quarterly Journal of Speech Education</cite>: see ^qtlyjspeech^
 <li> <cite>Quarterly Journal of Studies on Alcohol</cite>: issues renewed from June 1940 (v. 1 no. 1); see 1967
+<li> <cite>The Quarterly of the Oregon Historical Society</cite>: see ^orhisqtly^
 <li> *quarterlyrevlit*
 <li> <cite>Queen's Quarterly</cite> (Canada): no issue renewals found in CCE or registered works database; contributions renewed from Spring 1934; see 1961 Jan-Jun
 <li> *queensgardens*
@@ -2554,17 +2570,18 @@ to reflect the earliest renewals that are still active
 <li> <cite>Soldier Stories</cite>: issues renewed from April 1929 (v. 1 no. 1);  see 1957 Jan-Jun
 <li> *songhits*
 <li> *southatlanticqtly*
+<li> <cite>South Eastern Reporter</cite>: see ^southeasternreporter^
 <li> <cite>South Today</cite>: issues renewed from Spring 1942 (v. 7 no. 1);  see 1970
-<li> <cite>Southeastern Reporter</cite>: issues prior to 1923 renewed; see 1950 Jan-Jun
+<li> *southeasternreporter*
 <li> *southernarchitect*
 <li> *usclawreview*
 <li> *southfolkqtly*
 <li> *southernpresbyjnl*
-<li> <cite>Southern Reporter</cite>: issues prior to 1923 renewed; see 1950 Jan-Jun
+<li> *southernreporter*
 <li> <cite>The Southern Review</cite> (LSU Press): issues renewed from Winter 1938 (v. 3 no. 3); see 1966; contributions renewed from the first issue ("July 1935" in CCE, but Winter 1935 in Southern Review table of contents archive); see 1963 Jan-Jun
 <li> <cite>Southwest Review</cite>: no issue renewals found in CCE or registered works database; contributions renewed from July 1925; see 1953 Jan-Jun
 <li> *swhistquarterly*
-<li> <cite>Southwestern Reporter</cite>: issues prior to 1923 renewed; see 1950 Jan-Jun
+<li> *swreporter*
 <li> <cite>The Sovereign Magazine</cite> (British pulp fiction magazine, 1910s and 20s): no issue renewals found in CCE; contributions prior to 1923 renewed; see 1950 Jul-Dec
 <li> <cite>Sovremennyia Zapiski: Annales Contemporaines</cite> (Russian-language magazine published in Paris): no issue renewals found in CCE; contributions renewed from April 1, 1933; see 1961 Jan-Jun
 <li> <cite>Space</cite>: issues renewed from November 1934 (v. 1 no. 7); see 1962 Jul-Dec; contributions renewed from June 1934; see 1961 Jul-Dec
@@ -2584,7 +2601,7 @@ to reflect the earliest renewals that are still active
 <li> <cite>Sport Pictorial</cite>: issues renewed from Oct. 1936 (v. 1 no. 1); see 1963 Jul-Dec
 <li> <cite>Sport Pix</cite>: issues renewed from Fall 1948 (v. 1 no. 1); see 1977 Jul-Dec
 <li> <cite>Sport Stars</cite>: issues renewed from November 1949 (v. 1 no. 1); see 1977 Jul-Dec
-<li> <cite>Sport Story Magazine</cite>: issues renewed from Sept. 8, 1923 (v. 1 no. 1); see 1950 Jul-Dec; contributions renewed from Oct. 25, 1932; see 1959 Jul-Dec
+<li> *sportstorymag*
 <li> <cite>Sports Action</cite>: "consult copyright office"; see 1970; first cataloged renewal for May 1942 (v. 3 no. 3) in 1977 Jul-Dec
 <li> *sportsafield*
 <li> *sportsillustrated*
@@ -2629,8 +2646,8 @@ to reflect the earliest renewals that are still active
 <li> <cite>Street &amp; Smith's Best Detective Magazine</cite>: see <cite>Best Detective Magazine</cite>
 <li> <cite>Street &amp; Smith's Clues Detective Stories</cite>: see <cite>Clues</cite>
 <li> <cite>Street &amp; Smith's College Stories</cite>: issues renewed from May 1931 (v. 22 no. 3); see 1958 Jan-Jun
-<li> <cite>Street &amp; Smith's Complete Magazine</cite>: see <cite>Complete Stories</cite>
-<li> <cite>Street &amp; Smith's Complete Stories</cite>: see <cite>Complete Stories</cite>
+<li> <cite>Street &amp; Smith's Complete Magazine</cite>: see ^completestories^
+<li> <cite>Street &amp; Smith's Complete Stories</cite>: see ^completestories^
 <li> <cite>Street &amp; Smith's Detective Story Magazine</cite>: see ^detectivestory^
 <li> <cite>Street &amp; Smith's Far West Romances</cite>: see <cite>Street &amp; Smith's Far West Stories</cite>
 <li> <cite>Street &amp; Smith's Far West Stories</cite>: see <cite>Far West Stories</cite>
@@ -2641,8 +2658,8 @@ to reflect the earliest renewals that are still active
 <li> <cite>Street &amp; Smith's Real Love Magazine</cite>: see <cite>Real Love Magazine</cite>
 <li> <cite>Street &amp; Smith's Romantic Range</cite>: see ^romanticrange^
 <li> <cite>Street &amp; Smith's Sport Comics</cite>: issues renewed from 1940 (v. 1 no. 1); see 1967
-<li> <cite>Street &amp; Smith's Sport Story Magazine</cite>: see <cite>Sport Story Magazine</cite>
-<li> <cite>Street &amp; Smith's Top Notch Magazine</cite>: see <cite>Top-Notch Magazine</cite>
+<li> <cite>Street &amp; Smith's Sport Story Magazine</cite>: see ^sportstorymag^
+<li> <cite>Street &amp; Smith's Top Notch Magazine</cite>: see ^topnotchmag^
 <li> <cite>Street &amp; Smith's Trail Blazers Comics</cite>: issues renewed from 1941 (v. 1 no. 1); see 1968
 <li> *unknown*
 <li> <cite>Street &amp; Smith's Western Story Magazine</cite>: see ^westernstorymag^
@@ -2691,7 +2708,7 @@ to reflect the earliest renewals that are still active
 <li> <cite>Superman-Tim</cite>: see <cite>Tim and ? (Superman Tim)</cite>
 <li> <cite>Supersnipe Comics</cite>: issues renewed from October 1942 (v. 1 no. 6); see 1969
 <li> <cite>Supplement to the New York Supplement</cite>: issues renewed from Mar. 3, 1931 (v. 247 no. 4);  see 1958 Jan-Jun; see also ^nysupplement^
-<li> <cite>Supreme Court Reporter</cite>: issues prior to 1923 renewed; see 1950 Jan-Jun
+<li> *supctreporter*
 <li> <cite>Surgical Clinics of North America</cite>: issues renewed from February 1924 (v. 4 no. 1); see 1952
 <li> *surveymarvel48*
 <li> *thesurvey*
@@ -2737,11 +2754,11 @@ to reflect the earliest renewals that are still active
 <li> <cite>Tessie the Typist Comics</cite>: see <cite>Tessie the Typist</cite>
 <li> <cite>Tex Morgan</cite>: "consult copyright office"; see 1976 Jan-Jun; first cataloged renewal for August 1948 (v. 1 no. 1) in 1977 Jul-Dec
 <li> <cite>Tex Taylor</cite>: "consult copyright office"; see 1976 Jul-Dec; firscat cataloged renewal for September 1948 (v. 1 no. 1) in 1977 Jul-Dec
-<li> <cite>Texas and Southwestern Reporter Digest</cite>: volumes renewed from v. 1; see 1950 Jul-Dec
+<li> *txswreptrdigest*
 <li> *txbizreview*
 <li> *txcancerbulletin*
-<li> <cite>Texas Decisions Reported in the Southwestern Reporter</cite>: volumes prior to 1923 renewed; see 1950 Jul-Dec
-<li> <cite>Texas Decisions Reported in the Southwestern Reporter Annotated</cite>: volumes prior to 1923 renewed; see 1950 Jan-Jun
+<li> <cite>Texas Decisions Reported in the Southwestern Reporter</cite>: see ^txdecisionswreptr^
+<li> *txdecisionswreptr*
 <li> <cite>Texas Law Review</cite>: issues renewed from v. 13 no. 1; see 1962 Jul-Dec
 <li> <cite>Texas Rangers</cite>: issues renewed from March 1937 (v. 2 no. 1); see 1964
 <li> <cite>Theatre Arts</cite>: issues renewed from Dec. 1941 (v. 25 no. 12); see 1969; for first contribution renewal see <cite>Theatre Arts Monthly</cite>
@@ -2796,7 +2813,7 @@ to reflect the earliest renewals that are still active
 <li> <cite>Tomahawk</cite>: issues renewed from September-October 1950 (no. 1); see 1977 Jul-Dec
 <li> <cite>Tommy of the Big Top</cite>: issues renewed from December 1948 (no. 11); see 1976 Jul-Dec
 <li> *tomorrow1941*
-<li> <cite>Top-Notch Magazine</cite>: issues prior to 1923 renewed; see 1950 Jan-Jun; contributions renewed from May 1, 1926; see 1954 Jan-Jun
+<li> *topnotchmag*
 <li> <cite>Top Secrets</cite>: issues renewed from November 1947 (v. 1 no. 1); see 1974
 <li> <cite>The Torchbearer</cite>: no issue copyright renewals found in CCE or registered works database; contributions renewed from Jan. 18, 1925; see 1952 Jan-Jun
 <li> *torquasiantimes*
@@ -2865,10 +2882,11 @@ to reflect the earliest renewals that are still active
 <li> *unworld*
 <li> <cite>United States Code Pamphlet Supplement</cite>: issues renewed from April 1930 (no. 1) in annotated and unannotated version;  see 1957 Jul-Dec
 <li> *usnavalinstproc*
-<li> <cite>United States Supreme Court Advance Opinions</cite>: issues prior to 1923 renewed; see 1950 Jan-Jun
+<li> *usscadvanceop*
 <li> <cite>University Magazine</cite> (published in New York by Life Mag. Co. 1933-?): no issue renewals found in CCE; contributions renewed from Summer 1933; see 1960 Jan-Jun
 <li> *ubuffalostudies*
 <li> *ucarchpubs*
+<li> *uchicagomag*
 <li> <cite>University of Cincinnati Law Review</cite>: issues renewed from November 1940 (v. 14 no. 4); see 1968
 <li> <cite>University of Denver Clarion</cite>: see ^duclarion^
 <li> <cite>University of Florida Law Review</cite>: issues renewed from March 1949 (v. 2 no. 1); see 1977 Jan-Jun
@@ -2919,12 +2937,13 @@ to reflect the earliest renewals that are still active
 <li> *voguepatmonth*
 <li> *voguemidmonth*
 <li> <cite>Vogue-Vanity Fair</cite>: see ^vogue ^, ^vanityfair^
+<li> *voicemiamicath*
 <li> <cite>Voice of the Air</cite>: see <cite>Voices of the Air</cite>
 <li> <cite>The Voice of the I AM</cite>: issues renewed from April 1936 (no. 2); see 1964
 <li> <cite>Voices</cite> (American poetry magazine, 1921-1965): no issue copyright renewals found in CCE or registered works database; contributions renewed from February 1928; see 1955 Jul-Dec
 <li> <cite>Voices of the Air</cite>: no issue renewals found in CCE; contributions renewed from Nov. 9, 1929 (v. 1 no. 14); see 1957 Jul-Dec
 <li> <cite>The Volta Review</cite>: no issue renewals found in CCE or registered works database; contributions renewed from October 1936; see 1964 Jan-Jun
-<li> <cite>The Volunteer Choir</cite>: issues renewed from January 1924 (v. 11 no. 4); see 1951 Jul-Dec; contributions renewed from May 1927; see 1954 Jul-Dec
+<li> *volunteerchoir*
 <li> <cite>Vossische Zeitung</cite>: no issue copyright renewals found in CCE: contributions renewed from June 11, 1926; see 1953 Jul-Dec
 </ul>
 <h2 id="W"><b>W</b></h2>
@@ -2994,6 +3013,7 @@ to reflect the earliest renewals that are still active
 <li> <cite>When Conan Doyle Was Sherlock Holmes</cite>: issues renewed from January 1949 (v. 198 no. 1184); see 1976 Jul-Dec
 <li> *whipwilson*
 <li> <cite>The Whisperer</cite>: issues renewed from October 1936 (v. 1 no. 1); see 1963 Jul-Dec; contributions renewed from July 1937; see 1965 Jan-Jun
+<li> *whitakers*
 <li> <cite>White's Radio Log</cite>: issues renewed from Jan. 1, 1929 (v. 6 no. 1); see 1957 Jan-Jun
 <li> <cite>Whiz Comics</cite>: issues renewed from March 1940 (v. 1 no. 3); see 1967
 <li> *who1941*
@@ -3038,6 +3058,7 @@ to reflect the earliest renewals that are still active
 <li> *workshopyouthldrs*
 <li> <cite>The World</cite> (New York): see ^nyworld^
 <li> *worldaffairs*
+<li> *worldalmanac*
 <li> *worldeconpolitics*
 <li> *worldhorizons1938*
 <li> <cite>World Order</cite>: issues renewed from February 1947 (v. 12 no. 11); see 1975

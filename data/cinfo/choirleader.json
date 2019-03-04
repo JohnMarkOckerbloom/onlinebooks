@@ -1,17 +1,46 @@
 {
    "title": "The Choir Leader",
+   "online": "1",
    "first-issue": {"issue-date": "1894-03"},
    "first-renewed-issue": 
-     {"issue-date": "1923-02", "cdate": "1923-01-15",
-      "volume": "29", "number": "12"},
-   "first-renewed-issue-source": "1950-JulDec",
+     {"issue-date": "1924-02", "cdate": "1924-01-15",
+      "volume": "30", "number": "12"},
+   "first-renewed-issue-source": "1951-JulDec",
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1927-05"}},
    "first-renewed-contribution-source": "1954-JulDec",
-   "additional-note": "This periodical includes sheet music that might have renewals under Music, rather than under Contributions to Periodicals. We have not systematically surveyed Music copyright renewals.",
+   "renewed-issue-completeness": "active/1924",
+   "renewed-issues": [
+     {"issue-date": "1924-02", "volume": "30", "number": "12"},
+     {"issue-date": "1924-03", "volume": "31", "number": "1"},
+     {"issue-date": "1924-04", "volume": "31", "number": "2"},
+     {"issue-date": "1924-05", "volume": "31", "number": "3"},
+     {"issue-date": "1924-06", "volume": "31", "number": "4"},
+     {"issue-date": "1924-07", "volume": "31", "number": "5"},
+     {"issue-date": "1924-08", "volume": "31", "number": "6"},
+     {"issue-date": "1924-09", "volume": "31", "number": "7"},
+     {"issue-date": "1924-10", "volume": "31", "number": "8"},
+     {"issue-date": "1924-11", "volume": "31", "number": "9"},
+     {"issue-date": "1924-12", "volume": "31", "number": "10"},
+     {"issue-date": "1925-01", "volume": "31", "number": "11"},
+     {"issue-date": "1925-02", "volume": "31", "number": "12"},
+     {"issue-date": "1925-03", "volume": "32", "number": "1"},
+     {"issue-date": "1925-04", "volume": "32", "number": "2"},
+     {"issue-date": "1925-05", "volume": "32", "number": "3"},
+     {"issue-date": "1925-06", "volume": "32", "number": "4"},
+     {"issue-date": "1925-07", "volume": "32", "number": "5"},
+     {"issue-date": "1925-08", "volume": "32", "number": "6"},
+     {"issue-date": "1925-09", "volume": "32", "number": "7"},
+     {"issue-date": "1925-10", "volume": "32", "number": "8"},
+     {"issue-date": "1925-11", "volume": "32", "number": "9"}
+   ],
+   "additional-notes": [
+     "This periodical includes sheet music that might have renewals under Music, rather than under Contributions to Periodicals. We have not systematically surveyed Music copyright renewals.",
+     "Renewals for volume 30 number 11 through volume 31 number 7 were erroneously filed under The Choir Herald heading in the 1951 July-December periodicals CCE volume."
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-06-12"
+   "last-updated": "2019-03-02"
 }

@@ -12,11 +12,15 @@
                    "issue-date": "1906-07"},
    "first-renewed-issue":
       {"volume": "45", "number": "1", "issue-date": "1924-01-15"},
-   "first-renewed-issue-source": "1950-JanJun",
+   "first-renewed-issue-source": "1951-JanJun",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce",
    "last-issue": {"volume": "47", "number": "3",
                    "issue-date": "1924-08-15"},
+   "see-also": [
+      {"id": "completestories", "note": "Complete Stories"}
+   ],
+   "renewed-issue-completeness": "active/end",
    "renewed-issues": [
       {"issue-date": "1924-01-15", "volume": "45", "number": "1"},
       {"issue-date": "1924-02-01", "volume": "45", "number": "2"},
@@ -28,11 +32,16 @@
       {"issue-date": "1924-05-01", "volume": "46", "number": "2"},
       {"issue-date": "1924-05-15", "volume": "46", "number": "3"},
       {"issue-date": "1924-06-01", "volume": "46", "number": "4"},
-      {"issue-date": "1924-06-15", "volume": "46", "number": "5"}
+      {"issue-date": "1924-06-15", "volume": "46", "number": "5"},
+      {"issue-date": "1924-07-01", "volume": "46", "number": "6"},
+      {"issue-date": "1924-07-15", "volume": "47", "number": "1"},
+      {"issue-date": "1924-08-01", "volume": "47", "number": "2"},
+      {"issue-date": "1924-08-15", "volume": "47", "number": "3"}
    ],
+   "additional-note": "This magazine was absorbed by Complete Stories in September 1924.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-01-30"
+   "last-updated": "2019-02-24"
 }

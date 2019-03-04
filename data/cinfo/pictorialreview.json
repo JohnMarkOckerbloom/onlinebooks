@@ -12,6 +12,14 @@
    "last-issue": {"issue-date": "1937-04", "volume": "38", "number": "7"},
    "succeeded-by":
      [{"id": "picreviewdelineator", "note": "Pictorial Review-Delineator"}],
+   "renewed-issues": [
+      {"issue-date": "1924-02", "volume": "25", "number": "5"},
+      {"issue-date": "1924-03", "volume": "25", "number": "6"},
+      {"issue-date": "1924-04", "volume": "25", "number": "7"},
+      {"issue-date": "1924-05", "volume": "25", "number": "8"},
+      {"issue-date": "1924-06", "volume": "25", "number": "9"},
+      {"issue-date": "1924-07", "volume": "25", "number": "10"}
+   ],
    "renewed-contributions": [
        {"issue": {"issue-date": "1924-02", "volume": "25", "number": "5"}, 
         "title": "Tomorrow's Bread",
@@ -34,5 +42,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-01-09"
+   "last-updated": "2019-02-11"
 }

@@ -12,6 +12,18 @@
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1924-02", "volume": "81", "number": "1"}},
    "first-renewed-contribution-source": "1951-JulDec",
+   "renewed-issues": [
+     {"issue-date": "1924-02", "volume": "81", "number": "1"},
+     {"issue-date": "1924-03", "volume": "81", "number": "2"},
+     {"issue-date": "1924-04", "volume": "81", "number": "3"},
+     {"issue-date": "1924-05", "volume": "81", "number": "4"},
+     {"issue-date": "1924-06", "volume": "82", "number": "1"},
+     {"issue-date": "1924-07", "volume": "82", "number": "2"},
+     {"issue-date": "1924-08", "volume": "82", "number": "3"},
+     {"issue-date": "1924-09", "volume": "82", "number": "4"},
+     {"issue-date": "1924-10", "volume": "83", "number": "1"},
+     {"issue-date": "1924-11", "volume": "83", "number": "2"}
+   ],
    "renewed-contributions": [
      {"issue": {"issue-date": "1924-02", "volume": "81", "number": "1"}, 
       "title": "Tarnished Woman",
@@ -26,5 +38,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-01-28"
+   "last-updated": "2019-02-11"
 }
