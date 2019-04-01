@@ -12,13 +12,27 @@
    "last-issue": {"issue-date": "1937-04", "volume": "38", "number": "7"},
    "succeeded-by":
      [{"id": "picreviewdelineator", "note": "Pictorial Review-Delineator"}],
+   "renewed-issue-completeness": "active/1924",
    "renewed-issues": [
       {"issue-date": "1924-02", "volume": "25", "number": "5"},
       {"issue-date": "1924-03", "volume": "25", "number": "6"},
       {"issue-date": "1924-04", "volume": "25", "number": "7"},
       {"issue-date": "1924-05", "volume": "25", "number": "8"},
       {"issue-date": "1924-06", "volume": "25", "number": "9"},
-      {"issue-date": "1924-07", "volume": "25", "number": "10"}
+      {"issue-date": "1924-07", "volume": "25", "number": "10"},
+      {"issue-date": "1924-08", "volume": "25", "number": "11"},
+      {"issue-date": "1924-09", "volume": "25", "number": "12"},
+      {"issue-date": "1924-10", "volume": "26", "number": "1"},
+      {"issue-date": "1924-11", "volume": "26", "number": "2"},
+      {"issue-date": "1924-12", "volume": "26", "number": "3"},
+      {"issue-date": "1925-01", "volume": "26", "number": "4",
+         "cdate": "1924-12-25"},
+      {"issue-date": "1925-02", "volume": "26", "number": "5",
+         "cdate": "1925-01-25"},
+      {"issue-date": "1925-03", "volume": "26", "number": "6"},
+      {"issue-date": "1925-04", "volume": "26", "number": "7"},
+      {"issue-date": "1925-05", "volume": "26", "number": "8"},
+      {"issue-date": "1925-06", "volume": "26", "number": "9"}
    ],
    "renewed-contributions": [
        {"issue": {"issue-date": "1924-02", "volume": "25", "number": "5"}, 
@@ -36,11 +50,18 @@
          "authorized": "Irwin, Wallace, 1876-1959",
          "lcna": "n97112081"
         }
+       },
+       {"issue": {"issue-date": "1925-07", "volume": "26", "number": "10"},
+        "title": "Guard of Honor",
+        "author": {
+           "authorized": "Benefield, Barry, 1877-1971",
+         "lcna": "no90003376"
+         }
        }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-02-11"
+   "last-updated": "2019-03-24"
 }

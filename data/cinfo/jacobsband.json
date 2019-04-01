@@ -7,10 +7,32 @@
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1924-05"}},
    "first-renewed-contribution-source": "1952-JanJun",
+   "renewed-issue-completeness": "active/1924",
+   "renewed-issues": [
+       {"issue-date": "1924-01", "volume": "9", "number": "1"},
+       {"issue-date": "1924-02", "volume": "9", "number": "2"},
+       {"issue-date": "1924-03", "volume": "9", "number": "3"},
+       {"issue-date": "1924-04", "volume": "9", "number": "4"},
+       {"issue-date": "1924-05", "volume": "9", "number": "5"},
+       {"issue-date": "1924-08", "volume": "9", "number": "7"},
+       {"issue-date": "1924-09", "volume": "9", "number": "8"},
+       {"issue-date": "1924-10", "volume": "9", "number": "9"},
+       {"issue-date": "1924-11", "volume": "9", "number": "10"},
+       {"issue-date": "1924-12", "volume": "9", "number": "11"}
+   ],
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1924-05", "volume": "9", "number": "5"},
+      "title": "Chimney Corner",
+      "author": {
+       "authorized": "Eno, Paul, 1869-1924",
+       "lcna": "no2007090640"
+      }
+     }
+   ],
    "additional-note": "This periodical includes sheet music that might have renewals under Music, rather than under Contributions to Periodicals. We have not systematically surveyed Music copyright renewals.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-01-03"
+   "last-updated": "2019-03-30"
 }

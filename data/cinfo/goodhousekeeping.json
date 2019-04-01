@@ -13,6 +13,19 @@
                  "volume": "78", "number": "2"}
    },
    "first-renewed-contribution-source": "1951-JanJun",
+   "renewed-issue-completeness": "active/1924",
+   "renewed-issues": [
+     {"issue-date": "1924-02", "volume": "78", "number": "2"},
+     {"issue-date": "1924-03", "volume": "78", "number": "3"},
+     {"issue-date": "1924-04", "volume": "78", "number": "4"},
+     {"issue-date": "1924-05", "volume": "78", "number": "5"},
+     {"issue-date": "1924-06", "volume": "78", "number": "6"},
+     {"issue-date": "1924-07", "volume": "79", "number": "1"},
+     {"issue-date": "1924-08", "volume": "79", "number": "2"},
+     {"issue-date": "1924-10", "volume": "79", "number": "4"},
+     {"issue-date": "1924-11", "volume": "79", "number": "5"},
+     {"issue-date": "1924-12", "volume": "79", "number": "6"}
+   ],
    "renewed-contributions": [
      {"issue": {"issue-date": "1924-02"}, 
       "title": "When the Goose Flew North",
@@ -140,11 +153,32 @@
        "authorized": "Wylie, I. A. R. (Ida Alexa Ross), 1885-1959",
        "lcna": "n87860300"
       }
+     },
+     {"issue": {"issue-date": "1925-01"}, 
+      "title": "The Vineyard",
+      "author": {
+       "authorized": "Bercovici, Konrad, 1882-1961",
+       "lcna": "n50006835"
+      }
+     },
+     {"issue": {"issue-date": "1925-02"}, 
+      "title": "Steel",
+      "author": {
+       "authorized": "Bercovici, Konrad, 1882-1961",
+       "lcna": "n50006835"
+      }
+     },
+     {"issue": {"issue-date": "1925-07"}, 
+      "title": "The Flood",
+      "author": {
+       "authorized": "Bercovici, Konrad, 1882-1961",
+       "lcna": "n50006835"
+      }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-01-29"
+   "last-updated": "2019-03-24"
 }

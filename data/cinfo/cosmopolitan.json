@@ -1,10 +1,16 @@
 {
    "title": "Cosmopolitan",
    "online": "1",
+   "aka": [
+     "Hearst's International and Cosmopolitan",
+     "Hearst's International Combined with Cosmopolian"
+   ],
    "contents": [
       {"url": "http://www.philsp.com/homeville/FMI/link.asp?magid=CMP",
        "note": "FictionMags (most issues up to 1963)"}
    ],
+   "see-also": [{"id": "hearsts",
+                 "note": "Hearst's International (1912-1925)"}],
    "first-renewed-issue":
       {"issue-date": "1924-02", "cdate": "1924-01-10",
        "volume": "76", "number": "2"},
@@ -28,7 +34,11 @@
       {"issue-date": "1924-12", "volume": "77", "number": "6"},
       {"issue-date": "1925-01", "volume": "78", "number": "1"},
       {"issue-date": "1925-02", "volume": "78", "number": "2",
-          "cdate": "1925-01-10"}
+          "cdate": "1925-01-10"},
+      {"issue-date": "1925-03", "volume": "78", "number": "3"},
+      {"issue-date": "1925-04", "volume": "78", "number": "4"},
+      {"issue-date": "1925-05", "volume": "78", "number": "5"},
+      {"issue-date": "1925-06", "volume": "78", "number": "6"}
    ],
    "renewed-contributions": [
      {"issue": {"issue-date": "1924-02", "volume": "76", "number": "2"},
@@ -44,6 +54,13 @@
       "author": {
        "authorized": "Maugham, W. Somerset (William Somerset), 1874-1965",
        "lcna": "n79036830"
+      }
+     },
+     {"issue": {"issue-date": "1924-03", "volume": "76", "number": "3"},
+      "title": "Our Very Best People",
+      "author": {
+       "authorized": "Ferber, Edna, 1887-1968",
+       "lcna": "n79077439"
       }
      },
      {"issue": {"issue-date": "1924-03", "volume": "76", "number": "3"},
@@ -90,6 +107,13 @@
       "author": {
        "authorized": "Maugham, W. Somerset (William Somerset), 1874-1965",
        "lcna": "n79036830"
+      }
+     },
+     {"issue": {"issue-date": "1924-06", "volume": "76", "number": "6"},
+      "title": "Holiday",
+      "author": {
+       "authorized": "Ferber, Edna, 1887-1968",
+       "lcna": "n79077439"
       }
      },
      {"issue": {"issue-date": "1924-06", "volume": "76", "number": "6"},
@@ -203,6 +227,13 @@
       }
      },
      {"issue": {"issue-date": "1924-11", "volume": "77", "number": "5"},
+      "title": "Classified",
+      "author": {
+       "authorized": "Ferber, Edna, 1887-1968",
+       "lcna": "n79077439"
+      }
+     },
+     {"issue": {"issue-date": "1924-11", "volume": "77", "number": "5"},
       "title": "The Needle's Eye",
       "note": "CCE renewal record places this story in Hearst's International, but it actually ran in Cosmopolitan.",
       "title-note": "part 7 of 7",
@@ -232,11 +263,19 @@
        "authorized": "Maugham, W. Somerset (William Somerset), 1874-1965",
        "lcna": "n79036830"
       }
+     },
+     {"issue": {"issue-date": "1925-04", "volume": "78", "number": "4"},
+      "title": "Mother Knows Best",
+      "author": {
+       "authorized": "Ferber, Edna, 1887-1968",
+       "lcna": "n79077439"
+      }
      }
    ],
+   "additional-note": "Absorbed Hearst's International in March 1925, and from then until 1952 published as 'Hearst's International and Cosmopolitan' or 'Hearst's International Combined with Cosmopolitan'.  However, 'Cosmopolitan' was the more prominently featured part of the title, and was generally used as the magazine's short title.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-03-03"
+   "last-updated": "2019-03-31"
 }

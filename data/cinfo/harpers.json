@@ -10,6 +10,7 @@
      {"issue": {"issue-date": "1924-02", "cdate": "1924-01-25",
       "volume": "148", "number": "885"}},
    "first-renewed-contribution-source": "1951-JanJun",
+   "renewed-issue-completeness": "active/1924",
    "renewed-issues": [
      {"issue-date": "1924-02", "volume": "148", "number": "885"},
      {"issue-date": "1924-03", "volume": "148", "number": "886"},
@@ -19,7 +20,21 @@
      {"issue-date": "1924-07", "volume": "149", "number": "890"},
      {"issue-date": "1924-08", "volume": "149", "number": "891"},
      {"issue-date": "1924-09", "volume": "149", "number": "892"},
-     {"issue-date": "1924-10", "volume": "149", "number": "893"}
+     {"issue-date": "1924-10", "volume": "149", "number": "893"},
+     {"issue-date": "1924-11", "volume": "149", "number": "894"},
+     {"issue-date": "1924-12", "volume": "149", "number": "895"},
+     {"issue-date": "1925-01", "volume": "150", "number": "896",
+        "cdate": "1924-12-24"},
+     {"issue-date": "1925-02", "volume": "150", "number": "897",
+        "cdate": "1925-01-23"},
+     {"issue-date": "1925-03", "volume": "150", "number": "898"},
+     {"issue-date": "1925-04", "volume": "150", "number": "899"},
+     {"issue-date": "1925-05", "volume": "150", "number": "900"},
+     {"issue-date": "1925-06", "volume": "150", "number": "901"},
+     {"issue-date": "1925-07", "volume": "150", "number": "902"},
+     {"issue-date": "1925-08", "volume": "150", "number": "903"},
+     {"issue-date": "1925-09", "volume": "150", "number": "904"},
+     {"issue-date": "1925-10", "volume": "150", "number": "905"}
    ],
    "renewed-contributions": [
      {"issue": {"issue-date": "1924-02", "volume": "148", "number": "885"},
@@ -69,5 +84,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-02-10"
+   "last-updated": "2019-03-09"
 }

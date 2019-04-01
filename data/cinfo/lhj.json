@@ -12,13 +12,28 @@
                  "volume": "41", "number": "2"}
    },
    "first-renewed-contribution-source": "1951-JanJun",
+   "renewed-issue-completeness": "active/1924",
    "renewed-issues": [
      {"issue-date": "1924-02", "volume": "41", "number": "2"},
      {"issue-date": "1924-03", "volume": "41", "number": "3"},
      {"issue-date": "1924-04", "volume": "41", "number": "4"},
      {"issue-date": "1924-05", "volume": "41", "number": "5"},
      {"issue-date": "1924-06", "volume": "41", "number": "6"},
-     {"issue-date": "1924-07", "volume": "41", "number": "8"}
+     {"issue-date": "1924-07", "volume": "41", "number": "7"},
+     {"issue-date": "1924-08", "volume": "41", "number": "8"},
+     {"issue-date": "1924-09", "volume": "41", "number": "9"},
+     {"issue-date": "1924-10", "volume": "41", "number": "10"},
+     {"issue-date": "1924-11", "volume": "41", "number": "11"},
+     {"issue-date": "1924-12", "volume": "41", "number": "12"},
+     {"issue-date": "1925-01", "volume": "42", "number": "1", 
+        "cdate": "1924-12-31"},
+     {"issue-date": "1925-02", "volume": "42", "number": "2",
+        "cdate": "1925-01-31"},
+     {"issue-date": "1925-03", "volume": "42", "number": "3"},
+     {"issue-date": "1925-04", "volume": "42", "number": "4"},
+     {"issue-date": "1925-05", "volume": "42", "number": "5"},
+     {"issue-date": "1925-06", "volume": "42", "number": "6"},
+     {"issue-date": "1925-07", "volume": "42", "number": "7"}
    ],
    "renewed-contributions": [
      {"issue": {"issue-date": "1924-02", "volume": "41", "number": "2"}, 
@@ -94,11 +109,25 @@
        "authorized": "Train, Arthur, 1875-1945",
        "lcna": "n50014661"
       }
+     },
+     {"issue": {"issue-date": "1925-02", "volume": "42", "number": "2"},
+      "title": "Connie",
+      "author": {
+       "authorized": "Duganne, Phyllis, 1899-1976",
+       "lcna": "n90719514"
+      }
+     },
+     {"issue": {"issue-date": "1925-04", "volume": "42", "number": "4"},
+      "title": "Judy Clubs the Ball",
+      "author": {
+       "authorized": "Duganne, Phyllis, 1899-1976",
+       "lcna": "n90719514"
+      }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-02-10"
+   "last-updated": "2019-03-30"
 }

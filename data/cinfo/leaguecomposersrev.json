@@ -8,9 +8,17 @@
    "first-renewed-contribution-source": "cce",
    "last-issue": {"issue-date": "1925-04", "volume": "2", "number": "2"},
    "succeeded-by": [{"id": "modernmusic", "note": "Modern Music"}],
+   "renewed-issue-completeness": "active/end",
+   "renewed-issues": [
+      {"issue-date": "1924-02", "volume": "1", "number": "1"},
+      {"issue-date": "1924-06", "volume": "1", "number": "2"},
+      {"issue-date": "1924-11", "volume": "1", "number": "3"},
+      {"issue-date": "1925-01", "volume": "2", "number": "1"},
+      {"issue-date": "1925-04", "volume": "2", "number": "2"}
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-01-23"
+   "last-updated": "2019-03-09"
 }

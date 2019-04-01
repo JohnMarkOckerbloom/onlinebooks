@@ -1,0 +1,151 @@
+{
+   "title": "System",
+   "title-note": "magazine for business and professional people, 1900-1927",
+   "online": "1",
+   "first-issue": {"issue-date": "1900-12", "volume": "1", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce",
+   "first-renewed-contribution":
+      {"issue": {"issue-date": "1925-06"}},
+   "first-renewed-contribution-source": "1953-JanJun",
+   "last-issue": {"issue-date": "1927-05", "volume": "51", "number": "5"},
+   "succeeded-by": [{"id": "magofbusiness",
+      "note": "The Magazine of Business"}],
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1925-06"},
+      "title": "Men and Rubber: The Story of Business",
+      "title-note": "part 1 of 13",
+      "authors": [
+        {"authorized": "Firestone, Harvey Samuel, 1868-1938",
+          "lcna": "n79011137"},
+        {"authorized": "Crowther, Samuel, 1880-1947",
+           "lcna": "n87937828"}
+      ]
+     },
+     {"issue": {"issue-date": "1925-07"},
+      "title": "Men and Rubber: The Story of Business",
+      "title-note": "part 2 of 13",
+      "authors": [
+        {"authorized": "Firestone, Harvey Samuel, 1868-1938",
+          "lcna": "n79011137"},
+        {"authorized": "Crowther, Samuel, 1880-1947",
+           "lcna": "n87937828"}
+      ]
+     },
+     {"issue": {"issue-date": "1925-08"},
+      "title": "Men and Rubber: The Story of Business",
+      "title-note": "part 3 of 13",
+      "authors": [
+        {"authorized": "Firestone, Harvey Samuel, 1868-1938",
+          "lcna": "n79011137"},
+        {"authorized": "Crowther, Samuel, 1880-1947",
+           "lcna": "n87937828"}
+      ]
+     },
+     {"issue": {"issue-date": "1925-09"},
+      "title": "Men and Rubber: The Story of Business",
+      "title-note": "part 4 of 13",
+      "authors": [
+        {"authorized": "Firestone, Harvey Samuel, 1868-1938",
+          "lcna": "n79011137"},
+        {"authorized": "Crowther, Samuel, 1880-1947",
+           "lcna": "n87937828"}
+      ]
+     },
+     {"issue": {"issue-date": "1925-10"},
+      "title": "Men and Rubber: The Story of Business",
+      "title-note": "part 5 of 13",
+      "authors": [
+        {"authorized": "Firestone, Harvey Samuel, 1868-1938",
+          "lcna": "n79011137"},
+        {"authorized": "Crowther, Samuel, 1880-1947",
+           "lcna": "n87937828"}
+      ]
+     },
+     {"issue": {"issue-date": "1925-11"},
+      "title": "Men and Rubber: The Story of Business",
+      "title-note": "part 6 of 13",
+      "authors": [
+        {"authorized": "Firestone, Harvey Samuel, 1868-1938",
+          "lcna": "n79011137"},
+        {"authorized": "Crowther, Samuel, 1880-1947",
+           "lcna": "n87937828"}
+      ]
+     },
+     {"issue": {"issue-date": "1925-12"},
+      "title": "Men and Rubber: The Story of Business",
+      "title-note": "part 7 of 13",
+      "authors": [
+        {"authorized": "Firestone, Harvey Samuel, 1868-1938",
+          "lcna": "n79011137"},
+        {"authorized": "Crowther, Samuel, 1880-1947",
+           "lcna": "n87937828"}
+      ]
+     },
+     {"issue": {"issue-date": "1926-01"},
+      "title": "Men and Rubber: The Story of Business",
+      "title-note": "part 8 of 13",
+      "authors": [
+        {"authorized": "Firestone, Harvey Samuel, 1868-1938",
+          "lcna": "n79011137"},
+        {"authorized": "Crowther, Samuel, 1880-1947",
+           "lcna": "n87937828"}
+      ]
+     },
+     {"issue": {"issue-date": "1926-02"},
+      "title": "Men and Rubber: The Story of Business",
+      "title-note": "part 9 of 13",
+      "authors": [
+        {"authorized": "Firestone, Harvey Samuel, 1868-1938",
+          "lcna": "n79011137"},
+        {"authorized": "Crowther, Samuel, 1880-1947",
+           "lcna": "n87937828"}
+      ]
+     },
+     {"issue": {"issue-date": "1926-03"},
+      "title": "Men and Rubber: The Story of Business",
+      "title-note": "part 10 of 13",
+      "authors": [
+        {"authorized": "Firestone, Harvey Samuel, 1868-1938",
+          "lcna": "n79011137"},
+        {"authorized": "Crowther, Samuel, 1880-1947",
+           "lcna": "n87937828"}
+      ]
+     },
+     {"issue": {"issue-date": "1926-04"},
+      "title": "Men and Rubber: The Story of Business",
+      "title-note": "part 11 of 13",
+      "authors": [
+        {"authorized": "Firestone, Harvey Samuel, 1868-1938",
+          "lcna": "n79011137"},
+        {"authorized": "Crowther, Samuel, 1880-1947",
+           "lcna": "n87937828"}
+      ]
+     },
+     {"issue": {"issue-date": "1926-05"},
+      "title": "Men and Rubber: The Story of Business",
+      "title-note": "part 12 of 13",
+      "authors": [
+        {"authorized": "Firestone, Harvey Samuel, 1868-1938",
+          "lcna": "n79011137"},
+        {"authorized": "Crowther, Samuel, 1880-1947",
+           "lcna": "n87937828"}
+      ]
+     },
+     {"issue": {"issue-date": "1926-06"},
+      "title": "Men and Rubber: The Story of Business",
+      "title-note": "part 13 of 13",
+      "authors": [
+        {"authorized": "Firestone, Harvey Samuel, 1868-1938",
+          "lcna": "n79011137"},
+        {"authorized": "Crowther, Samuel, 1880-1947",
+           "lcna": "n87937828"}
+      ]
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2019-03-19"
+}

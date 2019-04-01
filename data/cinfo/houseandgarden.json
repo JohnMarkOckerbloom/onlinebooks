@@ -10,6 +10,7 @@
    "first-renewed-contribution":
      {"issue": {"issue-date": "1940-08"}},
    "first-renewed-contribution-source": "1967-JulDec",
+   "renewed-issue-completeness": "active/1924",
    "renewed-issues": [
      {"issue-date": "1924-02", "volume": "45", "number": "2"},
      {"issue-date": "1924-03", "volume": "45", "number": "3"},
@@ -21,11 +22,23 @@
      {"issue-date": "1924-09", "volume": "46", "number": "3"},
      {"issue-date": "1924-10", "volume": "46", "number": "4"},
      {"issue-date": "1924-11", "volume": "46", "number": "5"},
-     {"issue-date": "1924-12", "volume": "46", "number": "6"}
+     {"issue-date": "1924-12", "volume": "46", "number": "6"},
+     {"issue-date": "1925-01", "volume": "47", "number": "1"},
+     {"issue-date": "1925-02", "volume": "47", "number": "2"},
+     {"issue-date": "1925-03", "volume": "47", "number": "3"},
+     {"issue-date": "1925-04", "volume": "47", "number": "4"},
+     {"issue-date": "1925-05", "volume": "47", "number": "5"},
+     {"issue-date": "1925-06", "volume": "47", "number": "6"},
+     {"issue-date": "1925-07", "volume": "48", "number": "1"},
+     {"issue-date": "1925-08", "volume": "48", "number": "2"},
+     {"issue-date": "1925-09", "volume": "48", "number": "3"},
+     {"issue-date": "1925-10", "volume": "48", "number": "4"},
+     {"issue-date": "1925-11", "volume": "48", "number": "5"},
+     {"issue-date": "1925-12", "volume": "48", "number": "6"}
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-02-10"
+   "last-updated": "2019-03-09"
 }

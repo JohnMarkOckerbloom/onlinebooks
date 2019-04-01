@@ -230,6 +230,14 @@
        }
      },
      {"issue": {"issue-date": "1924-05-31", "volume": "196", "number": "48"},
+      "title": "A Child in Their Midst",
+      "title-note": "part 1 of 3",
+      "author": {
+         "authorized": "Edginton, May, 1883-1957",
+         "lcna": "n87911804"
+       }
+     },
+     {"issue": {"issue-date": "1924-05-31", "volume": "196", "number": "48"},
       "title": "Bill the Conqueror",
       "title-note": "part 2 of 8",
       "author": {
@@ -259,12 +267,28 @@
          "lcna": "n78089036"
        }
      },
+     {"issue": {"issue-date": "1924-06-07", "volume": "196", "number": "49"},
+      "title": "A Child in Their Midst",
+      "title-note": "part 2 of 3",
+      "author": {
+         "authorized": "Edginton, May, 1883-1957",
+         "lcna": "n87911804"
+       }
+     },
      {"issue": {"issue-date": "1924-06-14", "volume": "196", "number": "50"},
       "title": "Bill the Conqueror",
       "title-note": "part 4 of 8",
       "author": {
          "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
          "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1924-06-14", "volume": "196", "number": "50"},
+      "title": "A Child in Their Midst",
+      "title-note": "part 3 of 3",
+      "author": {
+         "authorized": "Edginton, May, 1883-1957",
+         "lcna": "n87911804"
        }
      },
      {"issue": {"issue-date": "1924-06-21", "volume": "196", "number": "51"},
@@ -362,6 +386,13 @@
          "lcna": "no97070814"
        }
      },
+     {"issue": {"issue-date": "1924-09-20", "volume": "197", "number": "12"},
+      "title": "The Social Destitute",
+      "author": {
+         "authorized": "Anderson, Frederick Irving, 1877-1947",
+         "lcna": "n87943929"
+       }
+     },
      {"issue": {"issue-date": "1924-09-27", "volume": "197", "number": "13"},
       "title": "The Rummy Affair of Old Biffy",
       "author": {
@@ -435,6 +466,77 @@
          "authorized": "Roberts, Kenneth Lewis, 1885-1957",
          "lcna": "n50048902"
       }
+     },
+     {"issue": {"issue-date": "1925-02-07", "volume": "197", "number": "32"},
+      "title": "The Yatz Gatz",
+      "note": "Title as given in CCE. FictionMags gives title as 'The Yatz-Gate'.  I have not checked the issue to see what title is used there.",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1925-02-21", "volume": "197", "number": "34"},
+      "title": "Schools of Success",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1925-03-21", "volume": "197", "number": "38"},
+      "title": "The Higher Salesmanship",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1925-03-28", "volume": "197", "number": "39"}, 
+      "title": "Vote it Straight",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1925-04-25", "volume": "197", "number": "43"}, 
+      "title": "The Old War Horse",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1925-05-09", "volume": "197", "number": "45"},
+      "title": "The First Gentleman of the Land",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1925-05-16", "volume": "197", "number": "46"},
+      "title": "Technic",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1925-05-23", "volume": "197", "number": "47"},
+      "title": "Those High Society Blues",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1925-06-06", "volume": "197", "number": "49"},
+      "title": "The Fourth Degree",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1925-06-20", "volume": "197", "number": "51"},
+      "title": "Breakfast with Bettina",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
      }
    ],
    "additional-note" : "A 1951 renewal record for Richard Edward Connell's 'Son of a Sloganeer' says it ran in the February 23, 1924 issue.  It actually ran in the February 24, 1923 issue, and its copyright has now expired due to age.",
@@ -442,5 +544,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-02-11"
+   "last-updated": "2019-03-29"
 }

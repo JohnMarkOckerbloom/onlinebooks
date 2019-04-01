@@ -15,6 +15,7 @@
       "issue": {"issue-date": "1924-02", "volume": "42", "number": "4"}
    },
    "first-renewed-contribution-source": "1951-JanJun",
+   "renewed-issue-completeness": "active/1924",
    "renewed-issues": [
       {"issue-date": "1924-02", "volume": "42", "number": "4"},
       {"issue-date": "1924-03", "volume": "42", "number": "5"},
@@ -23,7 +24,21 @@
       {"issue-date": "1924-06", "volume": "43", "number": "2"},
       {"issue-date": "1924-07", "volume": "43", "number": "3"},
       {"issue-date": "1924-08", "volume": "43", "number": "4"},
-      {"issue-date": "1924-09", "volume": "43", "number": "5"}
+      {"issue-date": "1924-09", "volume": "43", "number": "5"},
+      {"issue-date": "1924-10", "volume": "43", "number": "6"},
+      {"issue-date": "1924-11", "volume": "44", "number": "1"},
+      {"issue-date": "1925-12", "volume": "44", "number": "2"},
+      {"issue-date": "1925-01", "volume": "44", "number": "3",
+        "cdate": "1924-12-12"},
+      {"issue-date": "1925-02", "volume": "44", "number": "4",
+        "cdate": "1925-01-12"},
+      {"issue-date": "1925-03", "volume": "44", "number": "5"},
+      {"issue-date": "1925-04", "volume": "44", "number": "6"},
+      {"issue-date": "1925-05", "volume": "45", "number": "1"},
+      {"issue-date": "1925-06", "volume": "45", "number": "2"},
+      {"issue-date": "1925-07", "volume": "45", "number": "3"},
+      {"issue-date": "1925-08", "volume": "45", "number": "4"},
+      {"issue-date": "1925-09", "volume": "45", "number": "5"}
    ],
    "renewed-contributions": [
      {"issue": {"issue-date": "1924-02", "volume": "42", "number": "4"}, 
@@ -195,6 +210,49 @@
        "authorized": "Patri, Angelo, 1876-1965",
        "lcna": "n91079923"
       }
+     },
+     {"issue": {"issue-date": "1925-01", "volume": "44", "number": "3"}, 
+      "title": "This Little Model",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1925-01", "volume": "44", "number": "3"}, 
+      "title": "Neighbors",
+      "note": "FictionMags does not list a story with this title in this issue, but lists another story by the same author titled 'The Coils of Chance'. I have not examined the issue in question, and do not know whether there is a relationship between the two titles.",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1925-02", "volume": "44", "number": "4"}, 
+      "title": "Lame Ducks",
+      "author": {
+       "authorized": "Bacon, Josephine Daskam, 1876-1961",
+       "lcna": "n50020293"
+      }
+     },
+     {"issue": {"issue-date": "1925-03", "volume": "44", "number": "5"}, 
+      "title": "Fine Feathers",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1925-05", "volume": "45", "number": "1"}, 
+      "title": "Honeymoon",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1925-07", "volume": "45", "number": "3"}, 
+      "title": "Silk Velvet",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
      }
    ],
    "additional-note": "The CCE renewal record for Margaret Culkin Banning's 'Pity's Other Kin', which ran in the January 1924 issue, shows a 1924 copyright date, but other evidence indicates that issue had a 1923 copyright, which has now expired.",
@@ -202,5 +260,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-02-11"
+   "last-updated": "2019-03-29"
 }

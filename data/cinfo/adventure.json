@@ -101,6 +101,38 @@
          "lcna": "no2002077800"
        }
      },
+     {"issue": {"issue-date": "1924-03-20", "volume": "45", "number": "5"}, 
+      "title": "The King of No Man's Land",
+      "title-note": "part 1 of 4",
+        "author": {
+         "authorized": "Friel, Arthur O. (Arthur Olney), 1885-1959",
+         "lcna": "nb2007020100"
+       }
+     },
+     {"issue": {"issue-date": "1924-03-30", "volume": "45", "number": "6"}, 
+      "title": "The King of No Man's Land",
+      "title-note": "part 2 of 4",
+        "author": {
+         "authorized": "Friel, Arthur O. (Arthur Olney), 1885-1959",
+         "lcna": "nb2007020100"
+       }
+     },
+     {"issue": {"issue-date": "1924-04-10", "volume": "46", "number": "1"}, 
+      "title": "The King of No Man's Land",
+      "title-note": "part 3 of 4",
+        "author": {
+         "authorized": "Friel, Arthur O. (Arthur Olney), 1885-1959",
+         "lcna": "nb2007020100"
+       }
+     },
+     {"issue": {"issue-date": "1924-04-20", "volume": "46", "number": "2"}, 
+      "title": "The King of No Man's Land",
+      "title-note": "part 4 of 4",
+        "author": {
+         "authorized": "Friel, Arthur O. (Arthur Olney), 1885-1959",
+         "lcna": "nb2007020100"
+       }
+     },
      {"issue": {"issue-date": "1924-05-10", "volume": "46", "number": "4"},
       "title": "Heritage",
       "author": {
@@ -142,7 +174,7 @@
      },
      {"issue": {"issue-date": "1924-08-10", "volume": "48", "number": "1"},
       "title": "Pearl Hunger",
-      "title-note": "part 6 of 5",
+      "title-note": "part 5 of 5",
       "author": {
          "authorized": "Young, Gordon, 1886-1948",
          "lcna": "no95047273"
@@ -154,5 +186,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-02-26"
+   "last-updated": "2019-03-31"
 }

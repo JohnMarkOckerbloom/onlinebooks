@@ -1,14 +1,14 @@
 {
    "title": "Organic Syntheses",
+   "online": "1",
    "first-issue": {"issue-date": "1921", "volume": "1"},
-   "first-renewed-issue": {"issue-date": "1923", "volume": "3"},
-   "first-renewed-issue-source": "1950-JulDec",
+   "first-renewed-issue": {"issue-date": "1925", "volume": "4"},
+   "first-renewed-issue-source": "1952-JulDec",
    "first-autorenewed-issue": {"issue-date": "1964", "volume": "44"},
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
    "renewed-issue-completeness": "active/autorenewals",
    "renewed-issues": [
-      {"issue-date": "1923", "volume": "3"},
       {"issue-date": "1925", "volume": "4"},
       {"issue-date": "1925", "volume": "5"},
       {"issue-date": "1926", "volume": "6"},
@@ -39,10 +39,10 @@
       {"issue-date": "1960", "volume": "40"},
       {"issue-date": "1961", "volume": "41"}
    ],
-   "additional-note": "Many renewals of this journal's volumes (including the first active one) are found in the Books CCE volumes rather than the Periodicals CCE volumes. Renewals for volumes prior to 1923 are now expired, and are not shown here.",
+   "additional-note": "Many renewals of this journal's volumes (including the first active one) are found in the Books CCE volumes rather than the Periodicals CCE volumes.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-04-10"
+   "last-updated": "2019-03-21"
 }

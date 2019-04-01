@@ -1,5 +1,6 @@
 {
    "title": "Weird Tales",
+   "online": "1",
    "contents": [
       {"url": "http://www.isfdb.org/cgi-bin/pe.cgi?8514",
        "note": "ISFDB"},
@@ -138,6 +139,13 @@
         "author": {
          "authorized": "Merritt, Abraham, 1884-1943",
          "lcna": "n50036727"
+        }
+       },
+       {"issue": {"issue-date": "1927-03", "volume": "9", "number": "3"}, 
+        "title": "The Sacred Jars",
+        "note": "No renewal filing is recorded for this story, but because it is by a British author and first appeared abroad in the October 1924 issue of the Regent Magazine, it likely has a GATT-restored 1924 copyright that will be in effect until the end of 2019.",
+        "author": {
+         "name": "Oscar Cook"
         }
        },
       {"issue": {"issue-date": "1929-06", "volume": "13", "number": "6"},
@@ -2022,5 +2030,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-01-11"
+   "last-updated": "2019-03-16"
 }

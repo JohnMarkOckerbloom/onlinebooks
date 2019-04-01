@@ -13,12 +13,64 @@
    "first-renewed-contribution": 
       {"issue": {"issue-date": "1924-06-07", "volume": "1", "number": "5"}},
    "first-renewed-contribution-source": "1951-JulDec",
+   "renewed-issue-completeness": "active/1924",
+   "renewed-issues": [
+     {"issue-date": "1924-05-10", "volume": "1", "number": "1"},
+     {"issue-date": "1924-05-17", "volume": "1", "number": "2"},
+     {"issue-date": "1924-05-24", "volume": "1", "number": "3"},
+     {"issue-date": "1924-05-31", "volume": "1", "number": "4"},
+     {"issue-date": "1924-06-07", "volume": "1", "number": "5"},
+     {"issue-date": "1924-06-14", "volume": "1", "number": "6"},
+     {"issue-date": "1924-06-21", "volume": "1", "number": "7"},
+     {"issue-date": "1924-06-28", "volume": "1", "number": "8"},
+     {"issue-date": "1924-07-05", "volume": "1", "number": "9"},
+     {"issue-date": "1924-07-12", "volume": "1", "number": "10"},
+     {"issue-date": "1924-07-19", "volume": "1", "number": "11"},
+     {"issue-date": "1924-07-26", "volume": "1", "number": "12"},
+     {"issue-date": "1924-08-02", "volume": "1", "number": "13"},
+     {"issue-date": "1924-08-09", "volume": "1", "number": "14"},
+     {"issue-date": "1924-08-16", "volume": "1", "number": "15"},
+     {"issue-date": "1924-08-23", "volume": "1", "number": "16"},
+     {"issue-date": "1924-08-30", "volume": "1", "number": "17"},
+     {"issue-date": "1924-09-06", "volume": "1", "number": "18"},
+     {"issue-date": "1924-09-13", "volume": "1", "number": "19"},
+     {"issue-date": "1924-09-20", "volume": "1", "number": "20"},
+     {"issue-date": "1924-09-27", "volume": "1", "number": "21"},
+     {"issue-date": "1924-10-04", "volume": "1", "number": "22"},
+     {"issue-date": "1924-10-11", "volume": "1", "number": "23"},
+     {"issue-date": "1924-10-18", "volume": "1", "number": "24"},
+     {"issue-date": "1924-10-25", "volume": "1", "number": "25"},
+     {"issue-date": "1924-11-01", "volume": "1", "number": "26"},
+     {"issue-date": "1924-11-08", "volume": "1", "number": "27"},
+     {"issue-date": "1924-11-15", "volume": "1", "number": "28"},
+     {"issue-date": "1924-11-22", "volume": "1", "number": "29"},
+     {"issue-date": "1924-11-29", "volume": "1", "number": "30"},
+     {"issue-date": "1924-12-06", "volume": "1", "number": "31"},
+     {"issue-date": "1924-12-13", "volume": "1", "number": "32"},
+     {"issue-date": "1924-12-20", "volume": "1", "number": "33"},
+     {"issue-date": "1924-12-27", "volume": "1", "number": "34"},
+     {"issue-date": "1925-01-03", "volume": "1", "number": "35",
+         "cdate": "1924-12-31"},
+     {"issue-date": "1925-01-10", "volume": "1", "number": "36",
+         "cdate": "1925-01-07"},
+     {"issue-date": "1925-01-17", "volume": "1", "number": "37"},
+     {"issue-date": "1925-01-24", "volume": "1", "number": "38"},
+     {"issue-date": "1925-01-31", "volume": "1", "number": "39"},
+     {"issue-date": "1925-02-07", "volume": "1", "number": "40"}
+   ],
    "renewed-contributions": [
      {"issue": {"issue-date": "1924-06-07", "volume": "1", "number": "5"},
       "title": "What of it?",
       "author": {
        "authorized": "Lardner, Ring, 1885-1933",
        "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1924-07-05", "volume": "1", "number": "9"},
+      "title": "The Sensible Thing",
+      "author": {
+       "authorized": "Fitzgerald, F. Scott (Francis Scott), 1896-1940",
+       "lcna": "n79006871"
       }
      },
      {"issue": {"issue-date": "1924-08-02", "volume": "1", "number": "13"}, 
@@ -102,11 +154,46 @@
        "authorized": "Benét, Stephen Vincent, 1898-1943",
        "lcna": "n50007691"
       }
+     },
+     {"issue": {"issue-date": "1924-12-27", "volume": "1", "number": "34"},
+      "title": "Wings",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1925-01-03", "volume": "1", "number": "35"}, 
+      "title": "Big Things in a Bigger Way",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1925-04-04", "volume": "1", "number": "48"},
+      "title": "Another Kind of Girl",
+      "author": {
+       "authorized": "Duganne, Phyllis, 1899-1976",
+       "lcna": "n90719514"
+      }
+     },
+     {"issue": {"issue-date": "1925-04-25", "volume": "1", "number": "51"},
+      "title": "That's Politics",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1925-06-20", "volume": "2", "number": "7"},
+      "title": "Cigarettes",
+      "author": {
+       "authorized": "Benét, Stephen Vincent, 1898-1943",
+       "lcna": "n50007691"
+      }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-01-21"
+   "last-updated": "2019-03-31"
 }

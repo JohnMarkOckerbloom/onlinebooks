@@ -266,11 +266,27 @@
       }
      },
      {"issue": {"issue-date": "1924-06-14", "volume": "160", "number": "6"},
+      "title": "The Three Hostages",
+      "title-note": "part 1 of 8",
+      "author": {
+       "authorized": "Buchan, John, 1875-1940",
+       "lcna": "n79045167"
+      }
+     },
+     {"issue": {"issue-date": "1924-06-14", "volume": "160", "number": "6"},
       "title": "The Locked Book",
       "title-note": "part 4 of 7",
       "author": {
        "authorized": "Packard, Frank L. (Frank Lucius), 1877-1942",
        "lcna": "no97026856"
+      }
+     },
+     {"issue": {"issue-date": "1924-06-21", "volume": "161", "number": "1"},
+      "title": "The Three Hostages",
+      "title-note": "part 2 of 8",
+      "author": {
+       "authorized": "Buchan, John, 1875-1940",
+       "lcna": "n79045167"
       }
      },
      {"issue": {"issue-date": "1924-06-21", "volume": "161", "number": "1"},
@@ -282,11 +298,27 @@
       }
      },
      {"issue": {"issue-date": "1924-06-28", "volume": "161", "number": "2"},
+      "title": "The Three Hostages",
+      "title-note": "part 3 of 8",
+      "author": {
+       "authorized": "Buchan, John, 1875-1940",
+       "lcna": "n79045167"
+      }
+     },
+     {"issue": {"issue-date": "1924-06-28", "volume": "161", "number": "2"},
       "title": "The Locked Book",
       "title-note": "part 6 of 7",
       "author": {
        "authorized": "Packard, Frank L. (Frank Lucius), 1877-1942",
        "lcna": "no97026856"
+      }
+     },
+     {"issue": {"issue-date": "1924-07-05", "volume": "161", "number": "3"},
+      "title": "The Three Hostages",
+      "title-note": "part 4 of 8",
+      "author": {
+       "authorized": "Buchan, John, 1875-1940",
+       "lcna": "n79045167"
       }
      },
      {"issue": {"issue-date": "1924-07-05", "volume": "161", "number": "3"},
@@ -297,12 +329,44 @@
        "lcna": "no97026856"
       }
      },
+     {"issue": {"issue-date": "1924-07-12", "volume": "161", "number": "4"},
+      "title": "The Three Hostages",
+      "title-note": "part 5 of 8",
+      "author": {
+       "authorized": "Buchan, John, 1875-1940",
+       "lcna": "n79045167"
+      }
+     },
      {"issue": {"issue-date": "1924-07-19", "volume": "161", "number": "5"},
       "title": "Channing Comes Through",
       "title-note": "part 1 of 5",
       "author": {
        "authorized": "Seltzer, Charles Alden, 1875-1942",
        "lcna": "n50007279"
+      }
+     },
+     {"issue": {"issue-date": "1924-07-19", "volume": "161", "number": "5"},
+      "title": "The Three Hostages",
+      "title-note": "part 6 of 8",
+      "author": {
+       "authorized": "Buchan, John, 1875-1940",
+       "lcna": "n79045167"
+      }
+     },
+     {"issue": {"issue-date": "1924-07-26", "volume": "161", "number": "6"},
+      "title": "The Three Hostages",
+      "title-note": "part 7 of 8",
+      "author": {
+       "authorized": "Buchan, John, 1875-1940",
+       "lcna": "n79045167"
+      }
+     },
+     {"issue": {"issue-date": "1924-08-02", "volume": "162", "number": "1"},
+      "title": "The Three Hostages",
+      "title-note": "part 8 of 8",
+      "author": {
+       "authorized": "Buchan, John, 1875-1940",
+       "lcna": "n79045167"
       }
      },
      {"issue": {"issue-date": "1924-09-06", "volume": "162", "number": "6"},
@@ -319,6 +383,14 @@
       "author": {
        "authorized": "King, Rufus, 1893-1966",
        "lcna": "no94027678"
+      }
+     },
+     {"issue": {"issue-date": "1924-09-13", "volume": "163", "number": "1"},
+      "title": "The Conquering Heart",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
       }
      },
      {"issue": {"issue-date": "1924-09-20", "volume": "163", "number": "2"},
@@ -342,5 +414,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-03-01"
+   "last-updated": "2019-03-31"
 }
