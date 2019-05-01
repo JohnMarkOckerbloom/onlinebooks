@@ -1,0 +1,46 @@
+{
+   "title": "The Modern Hospital",
+   "online": "1",
+   "first-issue": {"issue-date": "1913-09", "volume": "1", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce+database",
+   "first-renewed-contribution": 
+     {"issue": {"issue-date": "1924-03"}},
+   "first-renewed-contribution-source": "1952-JanJun",
+   "last-issue": {"issue-date": "1974-03", "volume": "122", "number": "3"},
+   "renewed-contributions": [
+       {"issue": {"issue-date": "1924-03"}, 
+        "title": "Basic Principles of Hospital",
+        "author": {
+         "authorized": "Goldwater, S. S. (Sigismund Schulz), 1873-1942",
+         "lcna": "no2004124639"
+        }
+       },
+       {"issue": {"issue-date": "1924-03"},
+        "title": "The Lost Art of Hospital Ventilation",
+        "author": {
+         "authorized": "Goldwater, S. S. (Sigismund Schulz), 1873-1942",
+         "lcna": "no2004124639"
+        }
+       },
+       {"issue": {"issue-date": "1924-05"},
+        "title": "On Certain Ambitions in Hospitals",
+        "author": {
+         "authorized": "Goldwater, S. S. (Sigismund Schulz), 1873-1942",
+         "lcna": "no2004124639"
+        }
+       },
+       {"issue": {"issue-date": "1924-06"},
+        "title": "On Humanizing the Hospital",
+        "author": {
+         "authorized": "Goldwater, S. S. (Sigismund Schulz), 1873-1942",
+         "lcna": "no2004124639"
+        }
+       }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2019-04-02"
+}

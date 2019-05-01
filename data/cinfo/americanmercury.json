@@ -39,11 +39,39 @@
          "authorized": "Beach, Rex, 1877-1949",
          "lcna": "n84804866"
        }
+     },
+     {"issue": {"issue-date": "1924-09", "volume": "3", "number": "9"},
+      "title": "Mr. Durant",
+      "author": {
+       "authorized": "Parker, Dorothy, 1893-1967",
+       "lcna": "n50050331"
+      }
+     },
+     {"issue": {"issue-date": "1925-01", "volume": "4", "number": "13"},
+      "title": "Jefferson Out of Harness",
+      "author": {
+         "authorized": "Wilstach, Paul, 1870-1952",
+         "lcna": "n50015581"
+      }
+     },
+     {"issue": {"issue-date": "1925-05", "volume": "5", "number": "17"},
+      "title": "Modern Conquistadores",
+      "author": {
+         "authorized": "McFee, William, 1881-1966",
+         "lcna": "n82053296"
+      }
+     },
+     {"issue": {"issue-date": "1925-07", "volume": "5", "number": "19"},
+      "title": "Bright Eyes",
+      "author": {
+         "authorized": "Tully, Jim",
+         "lcna": "n81119676"
+      }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-03-31"
+   "last-updated": "2019-04-21"
 }

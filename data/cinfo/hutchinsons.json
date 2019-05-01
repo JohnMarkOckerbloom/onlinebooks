@@ -34,11 +34,29 @@
        }
      },
      {"issue": {"issue-date": "1924-11", "volume": "12", "number": "4"},
+      "title": "The Old Man in the Corner Unravels the Mystery of the White Carnation and the Montmartre Hat",
+      "title-note": "part 1 of 2",
+      "author": {
+       "authorized": "Orczy, Emmuska Orczy, Baroness, 1865-1947",
+       "name": "Baroness Orczy",
+       "lcna": "n50064803"
+      }
+     },
+     {"issue": {"issue-date": "1924-11", "volume": "12", "number": "4"},
       "title": "The Temple",
       "author": {
          "authorized": "Benson, E. F. (Edward Frederic), 1867-1940",
          "lcna": "n50057239"
        }
+     },
+     {"issue": {"issue-date": "1924-12", "volume": "12", "number": "5"},
+      "title": "The Old Man in the Corner Unravels the Mystery of the White Carnation and the Montmartre Hat",
+      "title-note": "part 2 of 2",
+      "author": {
+       "authorized": "Orczy, Emmuska Orczy, Baroness, 1865-1947",
+       "name": "Baroness Orczy",
+       "lcna": "n50064803"
+      }
      }
    ],
    "additional-notes": [
@@ -49,5 +67,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-03-24"
+   "last-updated": "2019-04-12"
 }

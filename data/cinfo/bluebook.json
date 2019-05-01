@@ -37,6 +37,13 @@
       {"issue-date": "1925-09", "volume": "41", "number": "5"}
    ],
    "renewed-contributions": [
+     {"issue": {"issue-date": "1924-06", "volume": "39", "number": "2"},
+      "title": "Latigo",
+      "author": {
+         "authorized": "Yore, Clem (Clement), 1875-1936",
+         "lcna": "no93029452"
+      }
+     },
      {"issue": {"issue-date": "1924-07", "volume": "39", "number": "3"},
       "title": "The Green Stone",
       "title-note": "part 1 of 3",
@@ -53,6 +60,13 @@
          "lcna": "n82053296"
       }
      },
+     {"issue": {"issue-date": "1924-08", "volume": "39", "number": "4"},
+      "title": "C. O. D. Gunsight",
+      "author": {
+         "authorized": "Yore, Clem (Clement), 1875-1936",
+         "lcna": "no93029452"
+      }
+     },
      {"issue": {"issue-date": "1924-09", "volume": "39", "number": "5"},
       "title": "The Green Stone",
       "title-note": "part 3 of 3",
@@ -67,5 +81,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-03-01"
+   "last-updated": "2019-04-21"
 }

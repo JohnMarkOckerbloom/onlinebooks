@@ -1,0 +1,23 @@
+{
+   "title": "Fiction Parade and Golden Book Magazine",
+   "aka": ["Fiction Parade and Golden Book"],
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/GFI/link.asp?magid=FPD",
+      "note": "FictionMags"}
+   ],
+   "preceded-by": [{"id": "ficparade", "note": "Fiction Parade"},
+                   {"id": "goldenbookmag", "note": "Golden Book Magazine"}],
+   "first-issue": {"issue-date": "1935-10", "volume": "1", "number": "6"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce",
+   "first-renewed-contribution":
+     {"issue": {"issue-date": "1935-10", "volume": "1", "number": "6"}},
+   "first-renewed-contribution-source": "1962-JulDec",
+   "last-issue": {"issue-date": "1938-02", "volume": "6", "number": "4"},
+   "additional-note": "This magazine consisted largely of reprints.  Many of the reprints were originally published long enough ago to be in the public domain now, but they should be checked before determining whether they, or the issue in which they appear, are public domain.  (We have not systematically checked the status of reprints in this magazine. The FictionMags contents listings often indicate where and when particular items in the magazine were first published.)",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2019-04-22"
+}

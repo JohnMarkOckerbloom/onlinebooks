@@ -16,14 +16,35 @@
       }
      },
      {"issue": {"issue-date": "1925-05", "volume": "5", "number": "2"},
+      "title": "Knees and Ankles",
+      "author": {
+       "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
+       "lcna": "no90021257"
+      }
+     },
+     {"issue": {"issue-date": "1925-05", "volume": "5", "number": "2"},
       "title": "The Importance of Being Compromised",
       "author": {
        "authorized": "Duganne, Phyllis, 1899-1976",
        "lcna": "n90719514"
       }
      },
+     {"issue": {"issue-date": "1925-06", "volume": "5", "number": "3"},
+      "title": "Lisle Tops",
+      "author": {
+       "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
+       "lcna": "no90021257"
+      }
+     },
      {"issue": {"issue-date": "1925-07", "volume": "5", "number": "4"},
       "title": "Skittles and Beer",
+      "author": {
+       "authorized": "Duganne, Phyllis, 1899-1976",
+       "lcna": "n90719514"
+      }
+     },
+     {"issue": {"issue-date": "1926-01", "volume": "7", "number": "2"},
+      "title": "Red-Head",
       "author": {
        "authorized": "Duganne, Phyllis, 1899-1976",
        "lcna": "n90719514"
@@ -35,5 +56,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-03-30"
+   "last-updated": "2019-04-25"
 }

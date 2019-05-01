@@ -7,9 +7,17 @@
    "first-renewed-contribution":
      {"issue": {"issue-date": "1925-01"}},
    "first-renewed-contribution-source": "1952-JanJun",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1925-01", "cdate": "1924-12-24"},
+      "title": "Landscape Poems",
+       "author": {
+         "name": "Collister Hutchison"
+       }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-02-24"
+   "last-updated": "2019-04-05"
 }

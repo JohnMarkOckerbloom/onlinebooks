@@ -5,6 +5,7 @@
       {"issue-date": "November 1922-July 1923", "cdate": "1924-01-15",
          "volume": "43", "number": "permanent edition"},
    "first-renewed-issue-source": "1951-JanJun",
+   "renewed-issue-completeness": "active/1924",
    "renewed-issues": [
       {"issue-date": "November 1922-July 1923", "cdate": "1924-01-15",
          "volume": "43", "number": "permanent edition"},
@@ -25,7 +26,29 @@
       {"issue-date": "1924-July 15-August 1,",
         "volume": "44", "number": "special no."},
       {"issue-date": "November 1923-July 1924", "cdate": "1924-12-04",
-         "volume": "44", "number": "permanent edition"}
+         "volume": "44", "number": "permanent edition"}, 
+      {"issue-date": "1924-11-01", "volume": "45", "number": "1"},
+      {"issue-date": "1924-11-15", "volume": "45", "number": "2"},
+      {"issue-date": "1924-12-01", "volume": "45", "number": "3"},
+      {"issue-date": "1924-12-15", "volume": "45", "number": "4"},
+      {"issue-date": "1925-01-01", "volume": "45", "number": "5",
+      "cdate": "1924-12-30"},
+      {"issue-date": "1925-01-15", "volume": "45", "number": "6"},
+      {"issue-date": "1925-02-01", "volume": "45", "number": "7"},
+      {"issue-date": "1925-02-15", "volume": "45", "number": "8"},
+      {"issue-date": "1925-03-01", "volume": "45", "number": "9"}, 
+      
+      {"issue-date": "1925-03-15", "volume": "45", "number": "10"},
+      {"issue-date": "1925-04-01", "volume": "45", "number": "11"},
+      {"issue-date": "1925-04-15", "volume": "45", "number": "12"}, 
+      {"issue-date": "1925-05-01", "volume": "45", "number": "13"}, 
+      {"issue-date": "1925-05-15", "volume": "45", "number": "14"}, 
+      {"issue-date": "1925-06-01", "volume": "45", "number": "15"}, 
+      {"issue-date": "1925-06-15", "volume": "45", "number": "16"}, 
+      {"issue-date": "1925-07-01", "volume": "45", "number": "17"},
+      {"issue-date": "1925-07-15", "volume": "45", "number": "index"},
+      {"issue-date": "November 1924-July 1925", "cdate": "1926-02-27",
+         "volume": "45", "number": "permanent edition"}
    ],
    "additional-notes": [
     "Rulings and opinions issued by the US Supreme Court are in the public domain.  The publisher may claim copyright on original notes, summaries, and annotations it adds.",
@@ -35,5 +58,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-02-11"
+   "last-updated": "2019-04-29"
 }

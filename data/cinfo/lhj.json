@@ -37,6 +37,14 @@
    ],
    "renewed-contributions": [
      {"issue": {"issue-date": "1924-02", "volume": "41", "number": "2"}, 
+      "title": "The Thundering Herd",
+      "title-note": "part 1 of 4",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1924-02", "volume": "41", "number": "2"}, 
       "title": "Worldly Goods",
       "title-note": "part 3 of 4",
       "author": {
@@ -59,11 +67,35 @@
        "lcna": "no89021649"
       }
      },
+     {"issue": {"issue-date": "1924-03", "volume": "41", "number": "3"}, 
+      "title": "The Thundering Herd",
+      "title-note": "part 2 of 4",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1924-04", "volume": "41", "number": "4"}, 
+      "title": "The Thundering Herd",
+      "title-note": "part 3 of 4",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
      {"issue": {"issue-date": "1924-05", "volume":  "41", "number": "5"},
       "title": "Oh This is Scandalous",
       "author": {
        "authorized": "Bacon, Josephine Daskam, 1876-1961",
        "lcna": "n50020293"
+      }
+     },
+     {"issue": {"issue-date": "1924-05", "volume":  "41", "number": "5"},
+      "title": "The Thundering Herd",
+      "title-note": "part 4 of 4",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
       }
      },
      {"issue": {"issue-date": "1924-06", "volume": "41", "number": "6"}, 
@@ -103,11 +135,33 @@
       }
      },
      {"issue": {"issue-date": "1924-11", "volume": "41", "number": "11"}, 
+      "title": "The Wolf Tracker",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1924-11", "volume": "41", "number": "11"}, 
       "title": "Demi-God",
       "title-note": "part 2 of 2",
       "author": {
        "authorized": "Train, Arthur, 1875-1945",
        "lcna": "n50014661"
+      }
+     },
+     {"issue": {"issue-date": "1925-02", "volume": "42", "number": "2"},
+      "title": "The Bee Hunter (Under the Tonto Rim)",
+      "title-note": "part 1 of 4",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1925-02", "volume": "42", "number": "2"},
+      "title": "Damsel Dark, Damsel Fair",
+      "author": {
+       "authorized": "Tarkington, Booth, 1869-1946",
+       "lcna": "n79078124"
       }
      },
      {"issue": {"issue-date": "1925-02", "volume": "42", "number": "2"},
@@ -117,11 +171,49 @@
        "lcna": "n90719514"
       }
      },
+     {"issue": {"issue-date": "1925-03", "volume": "42", "number": "3"},
+      "title": "Cornelia's Mountain",
+      "author": {
+       "authorized": "Tarkington, Booth, 1869-1946",
+       "lcna": "n79078124"
+      }
+     },
+     {"issue": {"issue-date": "1925-03", "volume": "42", "number": "3"},
+      "title": "The Bee Hunter (Under the Tonto Rim)",
+      "title-note": "part 2 of 4",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
      {"issue": {"issue-date": "1925-04", "volume": "42", "number": "4"},
       "title": "Judy Clubs the Ball",
       "author": {
        "authorized": "Duganne, Phyllis, 1899-1976",
        "lcna": "n90719514"
+      }
+     },
+     {"issue": {"issue-date": "1925-04", "volume": "42", "number": "4"},
+      "title": "The Bee Hunter (Under the Tonto Rim)",
+      "title-note": "part 3 of 4",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1925-05", "volume": "42", "number": "5"},
+      "title": "The Bee Hunter (Under the Tonto Rim)",
+      "title-note": "part 4 of 4",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1925-06", "volume": "42", "number": "6"},
+      "title": "Desert Sand",
+      "author": {
+       "authorized": "Tarkington, Booth, 1869-1946",
+       "lcna": "n79078124"
       }
      }
    ],
@@ -129,5 +221,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-03-30"
+   "last-updated": "2019-04-20"
 }

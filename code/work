@@ -68,6 +68,14 @@ sub get_work_url {
   return "";
 }
 
+sub get_lookup_url {
+  my ($id) = @_;
+  if ($id) {
+    return $OLBP::scripturl . "/lookupid?key=$id";
+  } 
+  return "";
+}
+
 sub directive {
   my $str = shift;
   my $cmd = $str;
@@ -91,6 +99,9 @@ sub directive {
     return qq!<a href="$link">$text</a>!;
   } elsif ($cmd =~ /^wk:(.*)/) {
     my $link = get_work_url($1);
+    return qq!<a href="$link">$text</a>!;
+  } elsif ($cmd =~ /^id:(.*)/) {
+    my $link = get_lookup_url($1);
     return qq!<a href="$link">$text</a>!;
   }
   return $str;
@@ -178,6 +189,21 @@ sub books_exist_about {
   }
   return 0;
 }
+
+sub wikipedia_article_about {
+  my $sub = shift;
+  return 0 if (!$sub);
+  my $key = OLBP::BookRecord::search_key_for_subject($sub);
+  my $wikidir = $OLBP::dbdir . "wiki/";
+  my $wikifile = $wikidir . "subtowp.hsh";
+  my $wikihash = new OLBP::Hash(name=>"subtowp", filename=>$wikifile);
+  my $wikiurl = $wikihash->get_value(key=>$key);
+  if ($wikiurl) {
+    return $OLBP::wpstub . $wikiurl;
+  }
+  return 0;
+}
+
 
 sub linktolibraries {
   my $br = shift;
@@ -280,6 +306,11 @@ sub showwork {
     my $url = get_subject_query_url($sub);
     print "<li> <a href=\"$url\">Online books about <cite>$title</cite></a>";
   }
+  my $wikiurl = wikipedia_article_about($sub);
+  if ($wikiurl) {
+    print "<li> <a href=\"$wikiurl\">Wikipedia article about " .
+          "<cite>$title</cite></a>";
+  }
   @names = $br->get_names();
   if (scalar(@names)) {
     if (scalar(@names) == 1) {
@@ -314,7 +345,8 @@ sub showwork {
     }
   }
 
-  my $iurl = $OLBP::scripturl . "/lookupid?key=" . $br->get_id();
+  # my $iurl = $OLBP::scripturl . "/lookupid?key=" . $br->get_id();
+  my $iurl = get_lookup_url($br->get_id());
   print "<li> <a href=\"$iurl\">Full catalog description</a>";
   print "</ul>\n";
   print qq!</td><td class="separator">&nbsp;!;
@@ -336,11 +368,6 @@ sub showwork {
   }
   print "</td></tr></table>";
   print "<hr>";
-  # print "<p><em>This is an experimental feature for showing information";
-  # print " and editions about particular works. ";
-  # print " This feature may be subject to rapid ";
-  # print " changes, and may be discontinued without warning.";
-  # print "</em></p>";
   print OLBP::result_tips();
   print OLBP::choicelist();
   print $OLBP::bodyend;

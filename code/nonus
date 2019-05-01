@@ -12,8 +12,10 @@ $booksurl  = $serverurl;
 $cgiurl    = $serverurl . "webbin/";
 $scripturl = $cgiurl . "book/";
 
-$bookcount = "2 million";
-$email = "onlinebooks@&#112;obox.upenn.edu";
+
+$bookcount = "3 million";
+$pdlimit   = 1923;
+$climit    = $pdlimit + 1;
 
 %codes = 
 ("au" => "Australia",
@@ -40,7 +42,7 @@ Such titles are in the public domain in many countries, particularly
 those outside the US and Europe.
 However, this title most likely <strong>remains
 copyrighted</strong> under United States law, where works copyrighted
-in 1923 or later can remain under copyright
+in $climit or later can remain under copyright
 for up to 95 years after publication.  It may also be copyrighted
 in European Union countries and other countries where copyrights can
 last longer than 50 years past the author's death.  (Europe, for
@@ -61,8 +63,9 @@ rights to control distribution and use of the work in those countries.
 </p>
 <p>
 Since the maintainer of this index resides in the United States,
-he cannot fully check these links for validity.  Please inform
-<strong>$email</strong> if any of the links do not work.
+he cannot fully check these links for validity.  Please 
+<a href="$OLBP::badlinkurl">let us know</a>
+if any of the links do not work.
 You may also be interested in the more than $bookcount books listed on
 <A HREF="$booksurl">The Online Books Page</A>
 that <b>can</b> be legally read online or downloaded in the US.
@@ -114,7 +117,7 @@ print qq^<!DOCTYPE html>
   print "<h1>Warning! Restricted Access!</h1>\n";
   print "<p>";
   print "The title you have selected (<cite>$title</cite>) is ";
-  print "a post-1922 publication by ";
+  print "a post-$pdlimit publication by ";
   if (!$namecount) { 
     print "anonymous authors, published ";
   } elsif ($namecount == 1) {

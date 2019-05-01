@@ -2,6 +2,10 @@
    "title": "Harper's Magazine",
    "aka": ["Harper's"],
    "online": "1",
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/FMI/link.asp?magid=HRP",
+      "note": "FictionMags (might not include nonfiction contents)"}
+   ],
    "first-renewed-issue": 
      {"issue-date": "1924-02", "cdate": "1924-01-25",
       "volume": "148", "number": "885"},
@@ -58,6 +62,13 @@
          "lcna": "n82053296"
       }
      },
+     {"issue": {"issue-date": "1924-05", "volume": "148", "number": "888"},
+      "title": "On Things in General: Dialogue With Henderson",
+      "author": {
+       "authorized": "Shaw, Bernard, 1856-1950",
+       "lcna": "n79006533"
+      }
+     },
      {"issue": {"issue-date": "1924-10", "volume": "149", "number": "893"}, 
       "title": "Women Come to Judgment",
       "author": {
@@ -78,11 +89,39 @@
        "authorized": "Banning, Margaret Culkin, 1891-1982",
        "lcna": "n86086096"
       }
+     },
+     {"issue": {"issue-date": "1924-12", "volume": "150", "number": "895"},
+        "title": "The Disciple",
+        "author": {
+         "authorized": "Aiken, Conrad, 1889-1973",
+         "lcna": "n80060447"
+        }
+     },
+     {"issue": {"issue-date": "1925-01", "volume": "150", "number": "896"},
+      "title": "The Prince and the Paradox",
+      "author": {
+         "authorized": "McFee, William, 1881-1966",
+         "lcna": "n82053296"
+      }
+     },
+     {"issue": {"issue-date": "1925-04", "volume": "150", "number": "899"},
+      "title": "Cartagena de Indias",
+      "author": {
+         "authorized": "McFee, William, 1881-1966",
+         "lcna": "n82053296"
+      }
+     },
+     {"issue": {"issue-date": "1925-06", "volume": "151", "number": "901"},
+      "title": "Mud, Mussolini and the Motors",
+      "author": {
+         "authorized": "McFee, William, 1881-1966",
+         "lcna": "n82053296"
+      }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-03-09"
+   "last-updated": "2019-04-21"
 }

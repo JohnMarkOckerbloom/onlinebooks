@@ -53,11 +53,43 @@
        "lcna": "no95034763"
       }
      },
+     {"issue": {"issue-date": "1924-04", "volume": "59", "number": "4"},
+      "title": "Portrait of a Man With Red Hair",
+      "title-note": "part 1 of 4",
+      "author": {
+         "authorized": "Walpole, Hugh, 1884-1941",
+         "lcna": "n79151207"
+       }
+     },
      {"issue": {"issue-date": "1924-05", "volume": "59", "number": "5"},
       "title": "The Wronging of Edwin Dell",
       "author": {
          "authorized": "Connell, Richard Edward, 1893-1949",
          "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1924-05", "volume": "59", "number": "5"},
+      "title": "Portrait of a Man With Red Hair",
+      "title-note": "part 2 of 4",
+      "author": {
+         "authorized": "Walpole, Hugh, 1884-1941",
+         "lcna": "n79151207"
+       }
+     },
+     {"issue": {"issue-date": "1924-06", "volume": "59", "number": "6"},
+      "title": "Portrait of a Man With Red Hair",
+      "title-note": "part 3 of 4",
+      "author": {
+         "authorized": "Walpole, Hugh, 1884-1941",
+         "lcna": "n79151207"
+       }
+     },
+     {"issue": {"issue-date": "1924-07", "volume": "59", "number": "7"},
+      "title": "Portrait of a Man With Red Hair",
+      "title-note": "part 4 of 4",
+      "author": {
+         "authorized": "Walpole, Hugh, 1884-1941",
+         "lcna": "n79151207"
        }
      },
      {"issue": {"issue-date": "1925-02", "volume": "60", "number": "2"},
@@ -67,11 +99,80 @@
          "lcna": "n50028704"
        }
      },
+     {"issue": {"issue-date": "1925-03", "volume": "60", "number": "3"}, 
+      "title": "Gentlemen Prefer Blondes",
+      "title-note": "part 1 of 6",
+      "author": {
+       "authorized": "Loos, Anita, 1893-1981",
+       "lcna": "n50043422"
+      }
+     },
      {"issue": {"issue-date": "1925-04", "volume": "60", "number": "4"}, 
       "title": "Savage",
       "author": {
        "authorized": "Bacon, Josephine Daskam, 1876-1961",
        "lcna": "n50020293"
+      }
+     },
+     {"issue": {"issue-date": "1925-04", "volume": "60", "number": "4"}, 
+      "title": "Gentlemen Prefer Blondes",
+      "title-note": "part 2 of 6",
+      "author": {
+       "authorized": "Loos, Anita, 1893-1981",
+       "lcna": "n50043422"
+      }
+     },
+     {"issue": {"issue-date": "1925-05", "volume": "60", "number": "5"}, 
+      "title": "Gentlemen Prefer Blondes",
+      "title-note": "part 3 of 6",
+      "author": {
+       "authorized": "Loos, Anita, 1893-1981",
+       "lcna": "n50043422"
+      }
+     },
+     {"issue": {"issue-date": "1925-06", "volume": "60", "number": "6"}, 
+      "title": "A Meeting in Mayfair",
+      "author": {
+       "authorized": "Borden, Mary",
+       "lcna": "n89600063"
+      }
+     },
+     {"issue": {"issue-date": "1925-06", "volume": "60", "number": "6"}, 
+      "title": "Gentlemen Prefer Blondes",
+      "title-note": "part 4 of 6",
+      "author": {
+       "authorized": "Loos, Anita, 1893-1981",
+       "lcna": "n50043422"
+      }
+     },
+     {"issue": {"issue-date": "1925-07", "volume": "60", "number": "7"}, 
+      "title": "Gentlemen Prefer Blondes",
+      "title-note": "part 5 of 6",
+      "author": {
+       "authorized": "Loos, Anita, 1893-1981",
+       "lcna": "n50043422"
+      }
+     },
+     {"issue": {"issue-date": "1925-07", "volume": "60", "number": "7"}, 
+      "title": "Fed Up",
+      "author": {
+       "authorized": "Duganne, Phyllis, 1899-1976",
+       "lcna": "n90719514"
+      }
+     },
+     {"issue": {"issue-date": "1925-08", "volume": "60", "number": "8"}, 
+      "title": "Gentlemen Prefer Blondes",
+      "title-note": "part 6 of 6",
+      "author": {
+       "authorized": "Loos, Anita, 1893-1981",
+       "lcna": "n50043422"
+      }
+     },
+     {"issue": {"issue-date": "1925-09", "volume": "60", "number": "9"}, 
+      "title": "Two From a Chorus",
+      "author": {
+       "authorized": "Duganne, Phyllis, 1899-1976",
+       "lcna": "n90719514"
       }
      }
    ],
@@ -79,5 +180,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-03-29"
+   "last-updated": "2019-04-25"
 }

@@ -14,9 +14,19 @@
    "renewed-issues": [
       {"issue-date": "1924-06-24", "volume": "1", "number": "1"}
    ],
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1924-06-25"},
+       "title": "Dumb Dora: What's the Trouble Lady?",
+       "note": "Listed as work for hire by Murat Young (aka Chic Young) as an employee of King Features Syndicate.  King Features is the author for copyright purposes.",
+       "authors": [
+        {"authorized": "King Features Syndicate", "lcna": "n82010039"},
+        {"authorized": "Young, Chic, 1901-1973", "lcna": "n82032404"}
+       ]
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-03-13"
+   "last-updated": "2019-04-21"
 }

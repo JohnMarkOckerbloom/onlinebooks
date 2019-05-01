@@ -8,6 +8,7 @@
    "first-renewed-contribution":
       {"issue": {"issue-date": "1925-09"}},
    "first-renewed-contribution-source": "1953-JanJun",
+   "renewed-issue-completeness": "active/1924",
    "renewed-issues": [
       {"issue-date": "1924-02", "volume": "21", "number": "6"},
       {"issue-date": "1924-03", "volume": "22", "number": "1"},
@@ -19,12 +20,34 @@
       {"issue-date": "1924-09", "volume": "23", "number": "1"},
       {"issue-date": "1924-10", "volume": "23", "number": "2"},
       {"issue-date": "1924-11", "volume": "23", "number": "3"},
-      {"issue-date": "1924-12", "volume": "23", "number": "4"}
+      {"issue-date": "1924-12", "volume": "23", "number": "4"},
+      {"issue-date": "1925-01", "volume": "23", "number": "5",
+      "cdate": "1924-12-20"}, 
+      {"issue-date": "1925-02", "volume": "23", "number": "6"},
+      {"issue-date": "1925-03", "volume": "24", "number": "1"},
+      {"issue-date": "1925-04", "volume": "24", "number": "2"},
+      {"issue-date": "1925-05", "volume": "24", "number": "3"},
+      {"issue-date": "1925-06", "volume": "24", "number": "4"},
+      {"issue-date": "1925-07", "volume": "24", "number": "5"},
+      {"issue-date": "1925-08", "volume": "24", "number": "6"},
+      {"issue-date": "1925-09", "volume": "25", "number": "1"},
+      {"issue-date": "1925-10", "volume": "25", "number": "2"},
+      {"issue-date": "1925-11", "volume": "25", "number": "3"},
+      {"issue-date": "1925-12", "volume": "25", "number": "4"}
    ],
-"additional-note" : "Active contribution renewals are recorded beginning in the 1952 July-December CCE volume, but the earliest actively renewed contribution is noted in the 1953 January-June volume.",
+   "renewed-contributions" : [
+     {"issue": {"issue-date": "1925-11"},
+      "title": "An Estimate of Mr. and Mrs. Philip Wase",
+      "author": {
+       "authorized": "Anderson, Sherwood, 1876-1941",
+       "lcna": "n79045519"
+      }
+     }
+   ],
+   "additional-note" : "Active contribution renewals are recorded beginning in the 1952 July-December CCE volume, but the earliest actively renewed contribution is noted in the 1953 January-June volume.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-02-11"
+   "last-updated": "2019-04-29"
 }

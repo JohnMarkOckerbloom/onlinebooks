@@ -649,8 +649,8 @@ if ($command eq "lookup") {
   }
   $arg =~ s/^\s+//;
   $arg =~ s/\s+$//;
-  $arg =~ s/[<>]//;   # markup shouldn't be in the arg; strip it out
-                      # to fend off baddies trying to get it onto the page
+  $arg =~ s/[<>]//g;   # markup shouldn't be in the arg; strip it out
+                       # to fend off baddies trying to get it onto the page
 } else {
   getout();
 }

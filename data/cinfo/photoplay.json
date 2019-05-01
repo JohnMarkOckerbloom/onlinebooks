@@ -21,24 +21,10 @@
       {"issue-date": "1964-01", "volume": "65", "number": "1"}
    ],
    "first-renewed-contribution": 
-      {"issue": {"issue-date": "1923-08"}},
-   "first-renewed-contribution-source": "1951-JanJun",
+      {"issue": {"issue-date": "1924-07"}},
+   "first-renewed-contribution-source": "1951-JulDec",
    "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
-       {"issue": {"issue-date": "1923-08"}, 
-        "title": "Celluloide Boulevard",
-        "author": {
-         "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
-         "lcna": "no90021257"
-        }
-       },
-       {"issue": {"issue-date": "1923-10"}, 
-        "title": "The Stuffed Shirt",
-        "author": {
-         "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
-         "lcna": "no90021257"
-        }
-       },
        {"issue": {"issue-date": "1924-07"}, 
         "title": "The Story Without a Name",
         "title-note": "part 1 of 4",
@@ -367,5 +353,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-06-11"
+   "last-updated": "2019-04-13"
 }

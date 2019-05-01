@@ -11,6 +11,7 @@
    "first-renewed-contribution":
      {"issue": {"issue-date": "1924-01-25", "volume": "106", "number": "2"}},
    "first-renewed-contribution-source": "1951-JanJun",
+   "renewed-issue-completeness": "active/1924",
    "renewed-issues": [
      {"issue-date": "1924-01-10", "volume": "106", "number": "1"},
      {"issue-date": "1924-01-25", "volume": "106", "number": "2"},
@@ -25,7 +26,31 @@
      {"issue-date": "1924-06-10", "volume": "107", "number": "5"},
      {"issue-date": "1924-06-25", "volume": "107", "number": "6"},
      {"issue-date": "1924-07-10", "volume": "108", "number": "1"},
-     {"issue-date": "1924-07-25", "volume": "108", "number": "2"}
+     {"issue-date": "1924-07-25", "volume": "108", "number": "2"},
+     {"issue-date": "1924-08-10", "volume": "108", "number": "3"},
+     {"issue-date": "1924-08-25", "volume": "108", "number": "4"},
+     {"issue-date": "1924-09-10", "volume": "108", "number": "5"},
+     {"issue-date": "1924-09-25", "volume": "108", "number": "6"},
+     {"issue-date": "1924-10-10", "volume": "109", "number": "1"},
+     {"issue-date": "1924-10-25", "volume": "109", "number": "2"},
+     {"issue-date": "1924-11-10", "volume": "109", "number": "3"},
+     {"issue-date": "1924-11-25", "volume": "109", "number": "4"},
+     {"issue-date": "1924-12-10", "volume": "109", "number": "5"},
+     {"issue-date": "1924-12-25", "volume": "109", "number": "6",
+        "cdate": "1924-12-23"},
+     {"issue-date": "1925-01-10", "volume": "110", "number": "1",
+        "cdate": "1925-01-10"},
+     {"issue-date": "1925-01-25", "volume": "110", "number": "2"},
+     {"issue-date": "1925-02-10", "volume": "110", "number": "3"},
+     {"issue-date": "1925-02-25", "volume": "110", "number": "4"},
+     {"issue-date": "1925-03-10", "volume": "110", "number": "5"},
+     {"issue-date": "1925-03-25", "volume": "110", "number": "6"},
+     {"issue-date": "1925-04-10", "volume": "111", "number": "1"},
+     {"issue-date": "1925-04-25", "volume": "111", "number": "2"},
+     {"issue-date": "1925-05-10", "volume": "111", "number": "3"},
+     {"issue-date": "1925-05-25", "volume": "111", "number": "4"},
+     {"issue-date": "1925-06-10", "volume": "111", "number": "5"},
+     {"issue-date": "1925-06-25", "volume": "111", "number": "6"}
    ],
    "renewed-contributions": [
      {"issue": {"issue-date": "1924-01-25", "volume": "106", "number": "2"},
@@ -66,6 +91,13 @@
       ]
      },
      {"issue": {"issue-date": "1924-03-10", "volume": "106", "number": "5"},
+      "title": "Mac of the Tumbling K",
+      "author": {
+         "authorized": "Yore, Clem (Clement), 1875-1936",
+         "lcna": "no93029452"
+      }
+     },
+     {"issue": {"issue-date": "1924-03-10", "volume": "106", "number": "5"},
       "title": "The Desert's Price",
       "title-note": "part 3 of 4",
       "author": {
@@ -97,6 +129,20 @@
       "author": {
        "authorized": "Brand, Max, 1892-1944",
        "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1924-05-25", "volume": "107", "number": "4"},
+      "title": "Out Beyond the Small Things: A Poem",
+      "author": {
+         "authorized": "Yore, Clem (Clement), 1875-1936",
+         "lcna": "no93029452"
+      }
+     },
+     {"issue": {"issue-date": "1924-06-10", "volume": "107", "number": "5"},
+      "title": "A Son of the Circle",
+      "author": {
+         "authorized": "Yore, Clem (Clement), 1875-1936",
+         "lcna": "no93029452"
       }
      },
      {"issue": {"issue-date": "1924-08-10", "volume": "108", "number": "3"},
@@ -146,11 +192,75 @@
          "lcna": "no2008175553"
       }
      },
+     {"issue": {"issue-date": "1924-11-10", "volume": "109", "number": "3"},
+      "title": "Cottonwood Gulch",
+      "title-note": "part 1 of 4",
+      "author": {
+       "authorized": "Mulford, Clarence Edward, 1883-1956",
+       "lcna": "n50006370"
+      }
+     },
+     {"issue": {"issue-date": "1924-11-25", "volume": "109", "number": "4"},
+      "title": "Cottonwood Gulch",
+      "title-note": "part 2 of 4",
+      "author": {
+       "authorized": "Mulford, Clarence Edward, 1883-1956",
+       "lcna": "n50006370"
+      }
+     },
+     {"issue": {"issue-date": "1924-12-10", "volume": "109", "number": "5"},
+      "title": "Cottonwood Gulch",
+      "title-note": "part 3 of 4",
+      "author": {
+       "authorized": "Mulford, Clarence Edward, 1883-1956",
+       "lcna": "n50006370"
+      }
+     },
+     {"issue": {"issue-date": "1924-12-25", "volume": "109", "number": "6"},
+      "title": "Cottonwood Gulch",
+      "title-note": "part 4 of 4",
+      "author": {
+       "authorized": "Mulford, Clarence Edward, 1883-1956",
+       "lcna": "n50006370"
+      }
+     },
+     {"issue": {"issue-date": "1925-01-25", "volume": "110", "number": "2"},
+      "title": "The Cache at Flower-Pot Canyon",
+      "note": "Title as given on the cover and in FictionMags. CCE gives title as 'The Outlaws of Flower-Pot Canyon'.",
+       "author": {
+        "authorized": "Robertson, Frank C. (Frank Chester), 1890-1969",
+        "lcna": "n85111957"
+       }
+     },
      {"issue": {"issue-date": "1925-03-10", "volume": "110", "number": "5"},
       "title": "Don Quickshot Looking for Trouble",
       "author": {
          "authorized": "Chalmers, Stephen, 1880-1935",
          "lcna": "n85809233"
+      }
+     },
+     {"issue": {"issue-date": "1925-04-10", "volume": "111", "number": "1"},
+      "title": "The Three Just Men",
+      "title-note": "part 1 of 4",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1925-04-25", "volume": "111", "number": "2"},
+      "title": "The Three Just Men",
+      "title-note": "part 2 of 4",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1925-05-10", "volume": "111", "number": "3"},
+      "title": "The Three Just Men",
+      "title-note": "part 3 of 4",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
       }
      },
      {"issue": {"issue-date": "1925-05-25", "volume": "111", "number": "4"},
@@ -159,11 +269,19 @@
          "authorized": "Drago, Harry Sinclair, 1888-1979",
          "lcna": "n50029850"
       }
+     },
+     {"issue": {"issue-date": "1925-05-25", "volume": "111", "number": "4"},
+      "title": "The Three Just Men",
+      "title-note": "part 4 of 4",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-03-31"
+   "last-updated": "2019-04-21"
 }

@@ -1,0 +1,39 @@
+{
+   "title": "Frontier Stories",
+   "aka": ["The Frontier", "Frontier Stories of Pioneer Days"],
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/WFI/link.asp?magid=FR1",
+       "note": "FictionMags"}
+   ],
+   "first-issue": {"issue-date": "1924-10", "volume": "1", "number": "1"},
+   "first-renewed-issue": 
+     {"issue-date": "1929-06", "volume": "10", "number": "2"},
+   "first-renewed-issue-source": "1957-JanJun",
+   "first-renewed-contribution": 
+     {"issue": {"issue-date": "1925-04", "volume": "2", "number": "1"}},
+   "first-renewed-contribution-source": "1952-JanJun",
+   "last-issue": {"issue-date": "1953-Winter", "volume": "18", "number": "10"},
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1925-04", "volume": "2", "number": "1"}, 
+      "title": "When the Outlaw Rode in Oklahoma",
+      "note": "Title as given in CCE renewal record.  FictionMags records a story by this author in that issue titled 'Bill Tilghman' which might or might not be the same contribution.",
+      "author": {
+         "authorized": "Raine, William MacLeod, 1871-1954",
+         "lcna": "n90682348"
+      }
+     },
+     {"issue": {"issue-date": "1925-12", "volume": "3", "number": "3"}, 
+      "title": "The Saga of Billy the Kid",
+      "author": {
+         "authorized": "Burns, Walter Noble, 1872-1932",
+         "lcna": "n92023934"
+      }
+     }
+   ],
+   "additional-note": "The magazine was titled 'The Frontier' up to the November 1926 issue, and 'Frontier Stories' thereafter.   Some issues late in the run add 'of Pioneer Days' to the cover title in smaller lettering.",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2019-04-23"
+}

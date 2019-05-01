@@ -1,0 +1,80 @@
+{
+   "title": "The Red Magazine",
+   "title-note": "Harmsworth, 1908-1939",
+   "aka": ["Harmsworth's Red Magazine"],
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/FMI/link.asp?magid=RED",
+       "note": "FictionMags (partial; mostly only fiction contributions)"}
+   ],
+   "first-issue": {"issue-date": "1908-06", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce",
+   "first-renewed-contribution":
+      {"issue": {"issue-date": "1924-08-01", "number": "369"}},
+   "first-renewed-contribution-source": "1952-JanJun",
+   "last-issue": {"issue-date": "1939-09", "number": "620"},
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1924-08-01", "number": "369"}, 
+      "title": "Red Ashes",
+      "title-note": "part 1 of 7",
+      "author": {
+       "authorized": "Pedler, Margaret",
+       "lcna": "nr2002022198"
+      }
+     },
+     {"issue": {"issue-date": "1924-08-15", "number": "370"}, 
+      "title": "Red Ashes",
+      "title-note": "part 2 of 7",
+      "author": {
+       "authorized": "Pedler, Margaret",
+       "lcna": "nr2002022198"
+      }
+     },
+     {"issue": {"issue-date": "1924-08-29", "number": "371"}, 
+      "title": "Red Ashes",
+      "title-note": "part 3 of 7",
+      "author": {
+       "authorized": "Pedler, Margaret",
+       "lcna": "nr2002022198"
+      }
+     },
+     {"issue": {"issue-date": "1924-09-12", "number": "372"}, 
+      "title": "Red Ashes",
+      "title-note": "part 4 of 7",
+      "author": {
+       "authorized": "Pedler, Margaret",
+       "lcna": "nr2002022198"
+      }
+     },
+     {"issue": {"issue-date": "1924-09-26", "number": "373"}, 
+      "title": "Red Ashes",
+      "title-note": "part 5 of 7",
+      "author": {
+       "authorized": "Pedler, Margaret",
+       "lcna": "nr2002022198"
+      }
+     },
+     {"issue": {"issue-date": "1924-10-10", "number": "374"}, 
+      "title": "Red Ashes",
+      "title-note": "part 6 of 7",
+      "author": {
+       "authorized": "Pedler, Margaret",
+       "lcna": "nr2002022198"
+      }
+     },
+     {"issue": {"issue-date": "1924-10-24", "number": "375"}, 
+      "title": "Red Ashes",
+      "title-note": "part 7 of 7",
+      "author": {
+       "authorized": "Pedler, Margaret",
+       "lcna": "nr2002022198"
+      }
+     }
+   ],
+   "additional-note" : "This is a British publication.  Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US.",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2019-04-17"
+}

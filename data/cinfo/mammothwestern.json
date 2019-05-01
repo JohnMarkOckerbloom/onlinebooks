@@ -11,9 +11,69 @@
       {"issue": {"issue-date": "1948-01", "volume": "4", "number": "1"}},
    "first-renewed-contribution-source": "1974-JulDec",
    "last-issue": {"issue-date": "1951-01", "volume": "7", "number": "1"},
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+      {"issue": {"issue-date": "1948-01", "volume": "4", "number": "1"},
+       "title": "Fighting Man",
+       "author": {
+        "authorized": "Gruber, Frank, 1904-1969",
+        "lcna": "n50032981"
+       }
+      },
+      {"issue": {"issue-date": "1948-07", "volume": "4", "number": "7"},
+       "title": "Broken Lance",
+       "note": "Issue date as given in 1975 CCE renewal record. FictionMags does not report a story by that title in this issue, but does report one (that also has a contribution copyright renewal) in the next issue. I have not examined the issues in question.",
+       "author": {
+        "authorized": "Gruber, Frank, 1904-1969",
+        "lcna": "n50032981"
+       }
+      },
+      {"issue": {"issue-date": "1948-08", "volume": "4", "number": "8"},
+       "title": "Broken Lance",
+       "author": {
+        "authorized": "Gruber, Frank, 1904-1969",
+        "lcna": "n50032981"
+       }
+      },
+      {"issue": {"issue-date": "1949-04", "volume": "5", "number": "4"},
+       "title": "Drive North--And Die!",
+       "author": {
+        "authorized": "Swain, Dwight V.",
+        "lcna": "n82238464"
+       }
+      },
+      {"issue": {"issue-date": "1950-07", "volume": "6", "number": "7"},
+       "title": "Find This Man, With Bullets",
+       "author": {
+        "authorized": "Whittington, Harry, 1915-1989",
+        "lcna": "n87862141"
+       }
+      },
+      {"issue": {"issue-date": "1950-08", "volume": "6", "number": "8"},
+       "title": "Dark Duel",
+       "author": {
+        "authorized": "Whittington, Harry, 1915-1989",
+        "lcna": "n87862141"
+       }
+      },
+      {"issue": {"issue-date": "1950-08", "volume": "6", "number": "8"},
+       "title": "Chinaman's Chance",
+       "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+       }
+      },
+      {"issue": {"issue-date": "1950-09", "volume": "6", "number": "9"},
+       "title": "Wyoming Wildcatter",
+       "author": {
+        "authorized": "Whittington, Harry, 1915-1989",
+        "lcna": "n87862141"
+       }
+      }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-04-08"
+   "last-updated": "2019-04-25"
 }

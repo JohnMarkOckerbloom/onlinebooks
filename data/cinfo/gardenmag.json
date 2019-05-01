@@ -1,0 +1,18 @@
+{
+   "title": "Garden Magazine",
+   "title-note": "New York, 1905-1924",
+   "online": "1",
+   "first-issue": {"issue-date": "1905-02", "volume": "1", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce",
+   "last-issue": {"issue-date": "1924-08", "volume": "39", "number": "6"},
+   "succeeded-by": [{"id": "gardenhomebld",
+        "note": "Garden and Home Builder"}],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2019-04-30"
+}

@@ -76,10 +76,82 @@
      {"issue-date": "1925-10-24", "volume": "10", "number": "4"},
      {"issue-date": "1925-10-31", "volume": "10", "number": "5"}
    ],
+   "renewed-contributions": [  
+     {"issue": {"issue-date": "1924-10-04", "volume": "1", "number": "3"},
+      "title": "Said With Flowers",
+      "author": {
+       "authorized": "Bramah, Ernest, 1869?-1942 ",
+       "lcna": "n50014273"
+      }
+     },
+     {"issue": {"issue-date": "1924-10-11", "volume": "1", "number": "4"},
+      "title": "Champion of Lost Causes",
+      "title-note": "part 1 of 7",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1924-10-18", "volume": "1", "number": "5"},
+      "title": "Champion of Lost Causes",
+      "title-note": "part 2 of 7",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1924-10-25", "volume": "1", "number": "6"},
+      "title": "Champion of Lost Causes",
+      "title-note": "part 3 of 7",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1924-10-11", "volume": "2", "number": "1"},
+      "title": "Champion of Lost Causes",
+      "title-note": "part 4 of 7",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1924-11-08", "volume": "2", "number": "2"},
+      "title": "Champion of Lost Causes",
+      "title-note": "part 5 of 7",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1924-11-15", "volume": "2", "number": "3"},
+      "title": "Champion of Lost Causes",
+      "title-note": "part 6 of 7",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1924-11-22", "volume": "2", "number": "4"},
+      "title": "Champion of Lost Causes",
+      "title-note": "part 7 of 7",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     }
+   ],
    "additional-note": "Although this magazine went through numerous name changes, the word 'Flynn's' (as part of the title, or in the phrase 'Formerly Flynn's') appeared on the cover of nearly all issues.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-03-08"
+   "last-updated": "2019-04-28"
 }
