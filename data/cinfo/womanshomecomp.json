@@ -7,6 +7,7 @@
      {"issue": {"issue-date": "1924-03", "volume": "51", "number": "3",
                 "cdate": "1924-01-23"}},
    "first-renewed-contribution-source": "1951-JanJun",
+   "renewed-contribution-completeness": "active/1924",
    "renewed-contributions": [
      {"issue": {"issue-date": "1924-03", "volume": "51", "number": "3"},
       "title": "Selina",
@@ -108,6 +109,13 @@
       }
      },
      {"issue": {"issue-date": "1925-03", "volume": "52", "number": "3"},
+      "title": "Debts of John Goodwin",
+      "author": {
+       "authorized": "Hopper, James, 1876-1956",
+       "lcna": "n00068220"
+      }
+     },
+     {"issue": {"issue-date": "1925-03", "volume": "52", "number": "3"},
       "title": "Roads of Doubt",
       "title-note": "part 2 of 3",
       "author": {
@@ -154,6 +162,27 @@
        "lcna": "n86114512"
       }
      },
+     {"issue": {"issue-date": "1925-06", "volume": "52", "number": "6"}, 
+      "title": "Three Ladies",
+       "author": {
+         "authorized": "Miller, Alice Duer, 1874-1942",
+         "lcna": "n83057208"
+       }
+     },
+     {"issue": {"issue-date": "1925-09", "volume": "52", "number": "9"}, 
+      "title": "One of my Oldest Friends",
+      "author": {
+       "authorized": "Fitzgerald, F. Scott (Francis Scott), 1896-1940",
+       "lcna": "n79006871"
+      }
+     },
+     {"issue": {"issue-date": "1925-10", "volume": "52", "number": "10"}, 
+      "title": "The Happy Ending",
+       "author": {
+         "authorized": "Miller, Alice Duer, 1874-1942",
+         "lcna": "n83057208"
+       }
+     },
      {"issue": {"issue-date": "1925-10", "volume": "52", "number": "10"}, 
       "title": "The Cesar Honfleur",
       "author": {
@@ -169,10 +198,101 @@
        }
      },
      {"issue": {"issue-date": "1925-11", "volume": "52", "number": "11"}, 
+      "title": "Not in the Guide-Book",
+      "author": {
+       "authorized": "Fitzgerald, F. Scott (Francis Scott), 1896-1940",
+       "lcna": "n79006871"
+      }
+     },
+     {"issue": {"issue-date": "1925-11", "volume": "52", "number": "11"}, 
       "title": "In the City Without a Heart",
       "author": {
        "authorized": "Bacon, Josephine Daskam, 1876-1961",
        "lcna": "n50020293"
+      }
+     },
+     {"issue": {"issue-date": "1925-11", "volume": "52", "number": "11"}, 
+      "title": "Behind the Social Note",
+      "title-note": "part 1 of 3",
+       "author": {
+         "authorized": "Miller, Alice Duer, 1874-1942",
+         "lcna": "n83057208"
+       }
+     },
+     {"issue": {"issue-date": "1925-12", "volume": "52", "number": "12"}, 
+      "title": "Not to Be Opened Till Christmas",
+       "author": {
+         "authorized": "Miller, Alice Duer, 1874-1942",
+         "lcna": "n83057208"
+       }
+     },
+     {"issue": {"issue-date": "1926-01", "volume": "53", "number": "1"}, 
+      "title": "Behind the Social Note",
+      "title-note": "part 2 of 3",
+       "author": {
+         "authorized": "Miller, Alice Duer, 1874-1942",
+         "lcna": "n83057208"
+       }
+     },
+     {"issue": {"issue-date": "1926-03", "volume": "53", "number": "3"}, 
+      "title": "The Secret Chaperone",
+      "author": {
+         "authorized": "Benefield, Barry, 1877-1971",
+         "lcna": "no90003376"
+       }
+     },
+     {"issue": {"issue-date": "1926-04", "volume": "53", "number": "4"},
+      "title": "Show Boat",
+      "title-note": "part 1 of 4",
+      "author": {
+       "authorized": "Ferber, Edna, 1887-1968",
+       "lcna": "n79077439"
+      }
+     },
+     {"issue": {"issue-date": "1926-04", "volume": "53", "number": "4"},
+      "title": "Behind the Social Note",
+      "title-note": "part 3 of 3",
+       "author": {
+         "authorized": "Miller, Alice Duer, 1874-1942",
+         "lcna": "n83057208"
+       }
+     },
+     {"issue": {"issue-date": "1926-05", "volume": "53", "number": "5"}, 
+      "title": "With Banners Blowing",
+      "author": {
+         "authorized": "Benefield, Barry, 1877-1971",
+         "lcna": "no90003376"
+       }
+     },
+     {"issue": {"issue-date": "1926-05", "volume": "53", "number": "5"}, 
+      "title": "Suzette",
+      "author": {
+       "authorized": "Bercovici, Konrad, 1882-1961",
+       "lcna": "n50006835"
+      }
+     },
+     {"issue": {"issue-date": "1926-05", "volume": "53", "number": "5"}, 
+      "title": "Show Boat",
+      "title-note": "part 2 of 4",
+      "author": {
+       "authorized": "Ferber, Edna, 1887-1968",
+       "lcna": "n79077439"
+      }
+     },
+     {"issue": {"issue-date": "1926-06", "volume": "53", "number": "6"}, 
+      "title": "Show Boat",
+      "title-note": "part 3 of 4",
+      "author": {
+       "authorized": "Ferber, Edna, 1887-1968",
+       "lcna": "n79077439"
+      }
+     },
+     {"issue": {"issue-date": "1926-07", "volume": "53", "number": "7"}, 
+      "title": "Show Boat",
+      "title-note": "part 4 of 4",
+      "author": {
+       "authorized": "Ferber, Edna, 1887-1968",
+       "lcna": "n79077439"
       }
      }
    ],
@@ -180,5 +300,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-04-28"
+   "last-updated": "2019-05-29"
 }

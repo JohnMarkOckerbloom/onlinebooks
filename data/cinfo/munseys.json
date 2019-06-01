@@ -39,6 +39,7 @@
      {"issue-date": "1925-10", "volume": "86", "number": "1"},
      {"issue-date": "1925-11", "volume": "86", "number": "2"}
    ],
+   "renewed-contribution-completeness": "active/1924",
    "renewed-contributions": [
      {"issue": {"issue-date": "1924-02", "volume": "81", "number": "1"}, 
       "title": "Tarnished Woman",
@@ -47,11 +48,25 @@
        "authorized": "Thompson, Vance, 1863-1925",
        "lcna": "no95036050"
       }
+     },
+     {"issue": {"issue-date": "1925-06", "volume": "85", "number": "1"}, 
+      "title": "The American Sex",
+      "author": {
+       "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
+       "lcna": "no90021257"
+      }
+     },
+     {"issue": {"issue-date": "1925-08", "volume": "85", "number": "3"}, 
+      "title": "The Girl Who Would Be Odd",
+      "author": {
+       "authorized": "Brush, Katharine, 1902-1952",
+       "lcna": "no93001232"
+      }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-03-11"
+   "last-updated": "2019-05-19"
 }

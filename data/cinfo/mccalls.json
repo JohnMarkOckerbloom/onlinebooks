@@ -34,6 +34,7 @@
       {"issue-date": "1925-08", "volume": "52", "number": "11"},
       {"issue-date": "1925-09", "volume": "52", "number": "12"}
    ],
+   "renewed-contribution-completeness": "active/1924",
    "renewed-contributions": [
      {"issue": {"issue-date": "1924-02"},
       "title": "Am I My Brother's Keeper?",
@@ -91,6 +92,24 @@
          "lcna": "n79127897"
        }
      },
+     {"issue": {"issue-date": "1924-09"},
+      "title": "Spanish Sunlight",
+      "title-note": "part 1 of 4",
+      "note": "Author name is a pseudonym for A. R. Weekes",
+      "author": {
+         "authorized": "Pryde, Anthony",
+         "lcna": "no95015738"
+      }
+     },
+     {"issue": {"issue-date": "1924-10"},
+      "title": "Spanish Sunlight",
+      "title-note": "part 2 of 4",
+      "note": "Author name is a pseudonym for A. R. Weekes",
+      "author": {
+         "authorized": "Pryde, Anthony",
+         "lcna": "no95015738"
+      }
+     },
      {"issue": {"issue-date": "1924-10"},
       "title": "By the People",
        "author": {
@@ -105,6 +124,15 @@
          "lcna": "n79078124"
        }
      },
+     {"issue": {"issue-date": "1924-11"},
+      "title": "Spanish Sunlight",
+      "title-note": "part 3 of 4",
+      "note": "Author name is a pseudonym for A. R. Weekes",
+      "author": {
+         "authorized": "Pryde, Anthony",
+         "lcna": "no95015738"
+      }
+     },
      {"issue": {"issue-date": "1924-12"}, 
        "title": "A Great Rushing of Wings",
        "author": {
@@ -112,8 +140,65 @@
          "lcna": "no2007059420"
        }
      },
+     {"issue": {"issue-date": "1924-12"}, 
+      "title": "Spanish Sunlight",
+      "title-note": "part 4 of 4",
+      "note": "Author name is a pseudonym for A. R. Weekes",
+      "author": {
+         "authorized": "Pryde, Anthony",
+         "lcna": "no95015738"
+      }
+     },
+     {"issue": {"issue-date": "1924-12"}, 
+      "title": "The Splendid Road",
+      "title-note": "part 1 of 4",
+      "author": {
+         "authorized": "Roe, Vingie E. (Vingie Eve), 1879-1958",
+         "lcna": "no95043172"
+      }
+     },
      {"issue": {"issue-date": "1925-01"},
       "title": "Let Us Highly Resolve",
+       "author": {
+         "authorized": "Stratton-Porter, Gene, 1863-1924",
+         "lcna": "n79127897"
+       }
+     },
+     {"issue": {"issue-date": "1925-01"},
+      "title": "The Splendid Road",
+      "title-note": "part 2 of 4",
+      "author": {
+         "authorized": "Roe, Vingie E. (Vingie Eve), 1879-1958",
+         "lcna": "no95043172"
+      }
+     },
+     {"issue": {"issue-date": "1925-02"},
+      "title": "The Keeper of the Bees",
+      "title-note": "part 1 of 8",
+       "author": {
+         "authorized": "Stratton-Porter, Gene, 1863-1924",
+         "lcna": "n79127897"
+       }
+     },
+     {"issue": {"issue-date": "1925-02"},
+      "title": "The Splendid Road",
+      "title-note": "part 3 of 4",
+      "author": {
+         "authorized": "Roe, Vingie E. (Vingie Eve), 1879-1958",
+         "lcna": "no95043172"
+      }
+     },
+     {"issue": {"issue-date": "1925-03"},
+      "title": "The Splendid Road",
+      "title-note": "part 4 of 4",
+      "author": {
+         "authorized": "Roe, Vingie E. (Vingie Eve), 1879-1958",
+         "lcna": "no95043172"
+      }
+     },
+     {"issue": {"issue-date": "1925-03"},
+      "title": "The Keeper of the Bees",
+      "title-note": "part 2 of 8",
        "author": {
          "authorized": "Stratton-Porter, Gene, 1863-1924",
          "lcna": "n79127897"
@@ -125,6 +210,22 @@
          "authorized": "Stratton-Porter, Gene, 1863-1924",
          "lcna": "n79127897"
        }
+     },
+     {"issue": {"issue-date": "1925-04"},
+      "title": "The Keeper of the Bees",
+      "title-note": "part 3 of 8",
+       "author": {
+         "authorized": "Stratton-Porter, Gene, 1863-1924",
+         "lcna": "n79127897"
+       }
+     },
+     {"issue": {"issue-date": "1925-04"},
+      "title": "The Son of His Father",
+      "title-note": "part 1 of 7",
+      "author": {
+       "authorized": "Wright, Harold Bell, 1872-1944",
+       "lcna": "n81128042"
+      }
      },
      {"issue": {"issue-date": "1925-04"},
       "title": "One Way to Rear a Boy",
@@ -140,6 +241,38 @@
          "lcna": "n85372376"
        }
      },
+     {"issue": {"issue-date": "1925-05"},
+      "title": "The Keeper of the Bees",
+      "title-note": "part 4 of 8",
+       "author": {
+         "authorized": "Stratton-Porter, Gene, 1863-1924",
+         "lcna": "n79127897"
+       }
+     },
+     {"issue": {"issue-date": "1925-05"},
+      "title": "The Son of His Father",
+      "title-note": "part 2 of 7",
+      "author": {
+       "authorized": "Wright, Harold Bell, 1872-1944",
+       "lcna": "n81128042"
+      }
+     },
+     {"issue": {"issue-date": "1925-06"},
+      "title": "The Son of His Father",
+      "title-note": "part 3 of 7",
+      "author": {
+       "authorized": "Wright, Harold Bell, 1872-1944",
+       "lcna": "n81128042"
+      }
+     },
+     {"issue": {"issue-date": "1925-06"},
+      "title": "The Keeper of the Bees",
+      "title-note": "part 5 of 8",
+       "author": {
+         "authorized": "Stratton-Porter, Gene, 1863-1924",
+         "lcna": "n79127897"
+       }
+     },
      {"issue": {"issue-date": "1925-06"},
       "title": "Externals",
        "author": {
@@ -147,11 +280,261 @@
          "lcna": "n79127897"
        }
      },
+     {"issue": {"issue-date": "1925-07"},
+      "title": "The Son of His Father",
+      "title-note": "part 4 of 7",
+      "author": {
+       "authorized": "Wright, Harold Bell, 1872-1944",
+       "lcna": "n81128042"
+      }
+     },
+     {"issue": {"issue-date": "1925-07"},
+      "title": "The Keeper of the Bees",
+      "title-note": "part 6 of 8",
+       "author": {
+         "authorized": "Stratton-Porter, Gene, 1863-1924",
+         "lcna": "n79127897"
+       }
+     },
+     {"issue": {"issue-date": "1925-08"},
+      "title": "The Son of His Father",
+      "title-note": "part 5 of 7",
+      "author": {
+       "authorized": "Wright, Harold Bell, 1872-1944",
+       "lcna": "n81128042"
+      }
+     },
+     {"issue": {"issue-date": "1925-08"},
+      "title": "The Keeper of the Bees",
+      "title-note": "part 7 of 8",
+       "author": {
+         "authorized": "Stratton-Porter, Gene, 1863-1924",
+         "lcna": "n79127897"
+       }
+     },
+     {"issue": {"issue-date": "1925-09"},
+      "title": "The Keeper of the Bees",
+      "title-note": "part 8 of 8",
+       "author": {
+         "authorized": "Stratton-Porter, Gene, 1863-1924",
+         "lcna": "n79127897"
+       }
+     },
+     {"issue": {"issue-date": "1925-09"},
+      "title": "The Son of His Father",
+      "title-note": "part 6 of 7",
+      "author": {
+       "authorized": "Wright, Harold Bell, 1872-1944",
+       "lcna": "n81128042"
+      }
+     },
      {"issue": {"issue-date": "1925-10"},
       "title": "A Woman of the Benni Fuhara",
       "author": {
        "authorized": "Abdullah, Achmed, 1881-1945",
        "lcna": "n50034820"
+      }
+     },
+     {"issue": {"issue-date": "1925-10"},
+      "title": "The Little Brother of the Flapper",
+      "author": {
+       "authorized": "Fitzgerald, F. Scott (Francis Scott), 1896-1940",
+       "lcna": "n79006871"
+      }
+     },
+     {"issue": {"issue-date": "1925-10"},
+      "title": "The Son of His Father",
+      "title-note": "part 7 of 7",
+      "author": {
+       "authorized": "Wright, Harold Bell, 1872-1944",
+       "lcna": "n81128042"
+      }
+     },
+     {"issue": {"issue-date": "1925-10"},
+      "title": "The Disappearance of Old Madame",
+      "author": {
+       "name": "Mation Valensi"
+      }
+     },
+     {"issue": {"issue-date": "1925-12"}, 
+      "title": "Desert Bound",
+      "title-note": "part 1 of 6",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1925-12"},
+      "title": "Religion as a Stimulus to Success",
+       "author": {
+         "authorized": "Stratton-Porter, Gene, 1863-1924",
+         "lcna": "n79127897"
+       }
+     },
+     {"issue": {"issue-date": "1926-01"},
+       "title": "A Propagation of Knowledge",
+       "author": {
+         "authorized": "Kipling, Rudyard, 1865-1936",
+         "lcna": "n79103792"
+       }
+     },
+     {"issue": {"issue-date": "1926-01"},
+      "title": "Desert Bound",
+      "title-note": "part 2 of 6",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1926-01"},
+       "title": "Why I Go Into the Kitchen",
+       "author": {
+         "authorized": "Marquis, Don, 1878-1937",
+         "lcna": "n50041532"
+       }
+     },
+     {"issue": {"issue-date": "1926-01"},
+      "title": "Don't Tell All You Know",
+       "author": {
+         "authorized": "Stratton-Porter, Gene, 1863-1924",
+         "lcna": "n79127897"
+       }
+     },
+     {"issue": {"issue-date": "1926-02"}, 
+      "title": "The Battle of the Fur Coats",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1926-02"},
+      "title": "Desert Bound",
+      "title-note": "part 3 of 6",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1926-02"},
+       "title": "The Newly-Weds",
+       "author": {
+         "authorized": "Stratton-Porter, Gene, 1863-1924",
+         "lcna": "n79127897"
+       }
+     },
+     {"issue": {"issue-date": "1926-02"},
+      "title": "Bellarion",
+      "title-note": "part 1 of 7",
+      "author": {
+       "authorized": "Sabatini, Rafael, 1875-1950",
+       "lcna": "n50016255"
+      }
+     },
+     {"issue": {"issue-date": "1926-03"},
+      "title": "Desert Bound",
+      "title-note": "part 4 of 6",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1926-03"},
+      "title": "Bellarion",
+      "title-note": "part 2 of 7",
+      "author": {
+       "authorized": "Sabatini, Rafael, 1875-1950",
+       "lcna": "n50016255"
+      }
+     },
+     {"issue": {"issue-date": "1926-03"},
+       "title": "A Word to the Youngsters",
+       "author": {
+         "authorized": "Stratton-Porter, Gene, 1863-1924",
+         "lcna": "n79127897"
+       }
+     },
+     {"issue": {"issue-date": "1926-04"},
+       "title": "The Gardener",
+       "author": {
+         "authorized": "Kipling, Rudyard, 1865-1936",
+         "lcna": "n79103792"
+       }
+     },
+     {"issue": {"issue-date": "1926-04"},
+      "title": "Desert Bound",
+      "title-note": "part 5 of 6",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1926-04"},
+      "title": "Bellarion",
+      "title-note": "part 3 of 7",
+      "author": {
+       "authorized": "Sabatini, Rafael, 1875-1950",
+       "lcna": "n50016255"
+      }
+     },
+     {"issue": {"issue-date": "1926-05"},
+      "title": "Desert Bound",
+      "title-note": "part 6 of 6",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1926-05"},
+      "title": "How I Write",
+       "author": {
+         "authorized": "Stratton-Porter, Gene, 1863-1924",
+         "lcna": "n79127897"
+       }
+     },
+     {"issue": {"issue-date": "1926-05"},
+      "title": "Bellarion",
+      "title-note": "part 4 of 7",
+      "author": {
+       "authorized": "Sabatini, Rafael, 1875-1950",
+       "lcna": "n50016255"
+      }
+     },
+     {"issue": {"issue-date": "1926-06"},
+       "title": "On the Gate",
+       "author": {
+         "authorized": "Kipling, Rudyard, 1865-1936",
+         "lcna": "n79103792"
+       }
+     },
+     {"issue": {"issue-date": "1926-06"},
+      "title": "Bellarion",
+      "title-note": "part 5 of 7",
+      "author": {
+       "authorized": "Sabatini, Rafael, 1875-1950",
+       "lcna": "n50016255"
+      }
+     },
+     {"issue": {"issue-date": "1926-07"},
+      "title": "Bellarion",
+      "title-note": "part 6 of 7",
+      "author": {
+       "authorized": "Sabatini, Rafael, 1875-1950",
+       "lcna": "n50016255"
+      }
+     },
+     {"issue": {"issue-date": "1926-07"},
+      "title": "Broken Promises",
+       "author": {
+         "authorized": "Stratton-Porter, Gene, 1863-1924",
+         "lcna": "n79127897"
+       }
+     },
+     {"issue": {"issue-date": "1926-08"},
+      "title": "Bellarion",
+      "title-note": "part 7 of 7",
+      "author": {
+       "authorized": "Sabatini, Rafael, 1875-1950",
+       "lcna": "n50016255"
       }
      }
    ],
@@ -159,5 +542,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-04-21"
+   "last-updated": "2019-05-31"
 }

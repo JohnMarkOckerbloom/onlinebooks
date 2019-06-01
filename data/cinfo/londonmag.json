@@ -4,12 +4,23 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1928-11"}},
+     {"issue": {"issue-date": "1924-02", "cdate": "1924-01-11"}},
    "first-renewed-contribution-source": "1956-JanJun",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1924-02"},
+      "title": "The Tytherton Case",
+      "note": "Renewal record appears in the Books section of CCE.",
+      "author": {
+       "authorized": "Orczy, Emmuska Orczy, Baroness, 1865-1947",
+       "name": "Baroness Orczy",
+       "lcna": "n50064803"
+      }
+     }
+   ],
    "additional-note" : "This is a British publication.  Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-02-24"
+   "last-updated": "2019-05-06"
 }

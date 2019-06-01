@@ -7,6 +7,7 @@
    "first-renewed-contribution": 
       {"issue": {"issue-date": "1924-08"}},
    "first-renewed-contribution-source": "1951-JulDec",
+   "renewed-contribution-completeness": "active/1924",
    "renewed-contributions": [
      {"issue": {"issue-date": "1924-08"},
       "title": "Waiting",
@@ -14,11 +15,51 @@
        "authorized": "Burroughs, John, 1837-1921",
        "lcna": "n79082230"
       }
+     },
+     {"issue": {"issue-date": "1925-10"},
+      "title": "Waul & Dyke, Inc.",
+      "title-note": "part 1 of 5",
+      "author": {
+       "authorized": "Eliot, Ethel Cook, 1890-1972",
+       "lcna": "n97107379"
+      }
+     },
+     {"issue": {"issue-date": "1925-11"},
+      "title": "Waul & Dyke, Inc.",
+      "title-note": "part 2 of 5",
+      "author": {
+       "authorized": "Eliot, Ethel Cook, 1890-1972",
+       "lcna": "n97107379"
+      }
+     },
+     {"issue": {"issue-date": "1925-12"},
+      "title": "Waul & Dyke, Inc.",
+      "title-note": "part 3 of 5",
+      "author": {
+       "authorized": "Eliot, Ethel Cook, 1890-1972",
+       "lcna": "n97107379"
+      }
+     },
+     {"issue": {"issue-date": "1926-01"},
+      "title": "Waul & Dyke, Inc.",
+      "title-note": "part 4 of 5",
+      "author": {
+       "authorized": "Eliot, Ethel Cook, 1890-1972",
+       "lcna": "n97107379"
+      }
+     },
+     {"issue": {"issue-date": "1926-02"},
+      "title": "Waul & Dyke, Inc.",
+      "title-note": "part 5 of 5",
+      "author": {
+       "authorized": "Eliot, Ethel Cook, 1890-1972",
+       "lcna": "n97107379"
+      }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-01-16"
+   "last-updated": "2019-05-24"
 }

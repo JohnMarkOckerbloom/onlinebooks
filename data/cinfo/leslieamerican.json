@@ -13,6 +13,7 @@
    "first-renewed-contribution-source": "1952-JanJun",
    "last-issue": {"issue-date": "1956-08", "volume": "162", "number": "2"},
    "see-also": [{"id": "americanatc", "note": "American (American Tobacco Company magazine, 1940s)"}],
+   "renewed-contribution-completeness": "active/1924",
    "renewed-contributions": [
      {"issue": {"issue-date": "1924-07", "volume": "98", "number": "1"}, 
       "title": "Breaking Through",
@@ -236,6 +237,19 @@
        "lcna": "n79078124"
       }
      },
+     {"issue": {"issue-date": "1925-06", "volume": "99", "number": "6"},
+      "title": "I Went to the Klondyke on My Father's Shoulders",
+      "author": {
+         "authorized": "Willoughby, Barrett, -1959",
+         "lcna": "n94074965"
+      }
+     },
+     {"issue": {"issue-date": "1925-06", "volume": "99", "number": "6"},
+      "title": "Such a Nice Old Man",
+      "author": {
+       "name": "Mation Valensi"
+      }
+     },
      {"issue": {"issue-date": "1925-07", "volume": "100", "number": "1"},
       "title": "Adventures in Understanding",
       "title-note": "part 11 of 12",
@@ -244,6 +258,13 @@
          "authorized": "Grayson, David, 1870-1946",
          "lcna": "n88084521"
        }
+     },
+     {"issue": {"issue-date": "1925-07", "volume": "100", "number": "1"},
+      "title": "Thrilling Days in Dawson When the Klondyke Rusk Was On",
+      "author": {
+         "authorized": "Willoughby, Barrett, -1959",
+         "lcna": "n94074965"
+      }
      },
      {"issue": {"issue-date": "1925-08", "volume": "100", "number": "2"},
       "title": "Adventures in Understanding",
@@ -254,11 +275,95 @@
          "lcna": "n88084521"
        }
      },
+     {"issue": {"issue-date": "1925-08", "volume": "100", "number": "2"},
+      "title": "King of the Arctic Trails",
+      "author": {
+         "authorized": "Willoughby, Barrett, -1959",
+         "lcna": "n94074965"
+      }
+     },
+     {"issue": {"issue-date": "1925-09", "volume": "100", "number": "3"},
+      "title": "Wild Things in Tight Places",
+      "author": {
+       "authorized": "Rutledge, Archibald, 1883-1973",
+       "lcna": "n50031762"
+      }
+     },
+     {"issue": {"issue-date": "1925-10", "volume": "100", "number": "4"},
+      "title": "They Love Their Home",
+      "author": {
+       "authorized": "Rutledge, Archibald, 1883-1973",
+       "lcna": "n50031762"
+      }
+     },
+     {"issue": {"issue-date": "1925-11", "volume": "100", "number": "5"},
+      "title": "A Trail Blazers Adventures at the Top of the World",
+      "author": {
+         "authorized": "Willoughby, Barrett, -1959",
+         "lcna": "n94074965"
+      }
+     },
      {"issue": {"issue-date": "1925-12", "volume": "100", "number": "6"},
       "title": "When Debt Comes in at the Door",
       "author": {
        "authorized": "Banning, Margaret Culkin, 1891-1982",
        "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1925-12", "volume": "100", "number": "6"},
+      "title": "The Phantom of the Forest",
+      "author": {
+       "authorized": "Rutledge, Archibald, 1883-1973",
+       "lcna": "n50031762"
+      }
+     },
+     {"issue": {"issue-date": "1925-12", "volume": "100", "number": "6"},
+      "title": "Happiness Now",
+      "author": {
+       "authorized": "Tarkington, Booth, 1869-1946",
+       "lcna": "n79078124"
+      }
+     },
+     {"issue": {"issue-date": "1926-01", "volume": "101", "number": "1"},
+      "title": "Let Dot Do It",
+      "author": {
+         "authorized": "Kilbourne, Fannie, 1890-",
+         "lcna": "no93026233"
+       }
+     },
+     {"issue": {"issue-date": "1926-03", "volume": "101", "number": "3"},
+      "title": "Do You Believe in Luck?",
+      "author": {
+         "authorized": "Kilbourne, Fannie, 1890-",
+         "lcna": "no93026233"
+       }
+     },
+     {"issue": {"issue-date": "1926-04", "volume": "101", "number": "4"},
+      "title": "Dot Takes a Lesson in Values",
+      "author": {
+         "authorized": "Kilbourne, Fannie, 1890-",
+         "lcna": "no93026233"
+       }
+     },
+     {"issue": {"issue-date": "1926-06", "volume": "101", "number": "6"},
+      "title": "Good Times",
+      "author": {
+       "authorized": "Rutledge, Archibald, 1883-1973",
+       "lcna": "n50031762"
+      }
+     },
+     {"issue": {"issue-date": "1926-07", "volume": "102", "number": "1"},
+      "title": "Madge's Last Chance",
+      "author": {
+         "authorized": "Kilbourne, Fannie, 1890-",
+         "lcna": "no93026233"
+       }
+     },
+     {"issue": {"issue-date": "1926-07", "volume": "102", "number": "1"},
+      "title": "Voices of the Night",
+      "author": {
+       "authorized": "Rutledge, Archibald, 1883-1973",
+       "lcna": "n50031762"
       }
      }
    ],
@@ -267,5 +372,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-04-23"
+   "last-updated": "2019-05-30"
 }

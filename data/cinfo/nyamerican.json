@@ -5,6 +5,7 @@
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1924-01-06"}},
    "first-renewed-contribution-source": "1951-JulDec",
+   "renewed-contribution-completeness": "active/1924",
    "renewed-contributions": [
      {"issue": {"issue-date": "1924-01-06"},
        "title": "My Old Home Town",
@@ -181,6 +182,22 @@
         {"authorized": "King Features Syndicate", "lcna": "n82010039"},
         {"authorized": "Murphy, Jimmy, 1891-1965", "lcna": "n95000162"}
        ]
+     },
+     {"issue": {"issue-date": "1926-02-17"},
+       "title": "Lenglen Like Spanish Toreador",
+       "author": {
+          "authorized": "Blasco Ibáñez, Vicente, 1867-1928",
+          "lcna": "n79046157"
+       }
+     },
+     {"issue": {"issue-date": "1926-05-31"},
+      "title": "Henry Ford's Own Story, the Great Today, the Greater Tomorrow",
+      "authors": [
+        {"authorized": "Ford, Henry, 1863-1947",
+          "lcna": "n79055385"},
+        {"authorized": "Crowther, Samuel, 1880-1947",
+          "lcna": "n87937828"}
+      ]
      }
    ],
    "additional-note": 
@@ -189,5 +206,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-04-18"
+   "last-updated": "2019-05-26"
 }

@@ -12,6 +12,17 @@
    "first-renewed-contribution-source": "1952-JulDec",
    "last-issue": {"issue-date": "1935-09", "volume": "22", "number": "129"},
    "renewed-contributions": [
+     {"issue": {"issue-date": "1925-04", "volume": "1", "number": "4"},
+      "title": "The Story of a White Blackbird",
+      "author": {
+       "authorized": "Musset, Alfred de, 1810-1857",
+       "lcna": "n80036706"
+      },
+      "translator": {
+       "authorized": "Morley, Christopher, 1890-1957",
+       "lcna": "n50006133"
+      }
+     },
      {"issue": {"issue-date": "1925-05", "volume": "1", "number": "5"},
       "title": "Betrayed",
       "author": {
@@ -27,5 +38,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-04-22"
+   "last-updated": "2019-05-04"
 }

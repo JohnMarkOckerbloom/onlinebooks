@@ -1,0 +1,34 @@
+{
+   "title": "Pictures",
+   "title-note": "1926 movie magazine",
+   "first-issue": {"issue-date": "1926-05", "volume": "2", "number": "3"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce",
+   "first-renewed-contribution":
+      {"issue": {"issue-date": "1926-05", "volume": "2", "number": "3"}},
+   "first-renewed-contribution-source": "1953-JanJun",
+   "last-issue": {"issue-date": "1926-09", "volume": "3", "number": "1"},
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1926-05", "volume": "2", "number": "3"},
+        "title": "Spirit Moving Pictures",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "using": "Arnold Fountain",
+         "lcna": "n79041782"
+        }
+     },
+     {"issue": {"issue-date": "1926-09", "volume": "3", "number": "1"},
+        "title": "What Do You Remember",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "using": "Arnold Fountain",
+         "lcna": "n79041782"
+        }
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2019-05-30"
+}

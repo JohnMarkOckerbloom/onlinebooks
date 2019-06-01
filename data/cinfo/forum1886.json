@@ -6,6 +6,7 @@
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": {"issue": {"issue-date": "1924-02"}},
    "first-renewed-contribution-source": "1952-JanJun",
+   "renewed-contribution-completeness": "active/1924",
    "renewed-contributions": [
      {"issue": {"issue-date": "1924-02"}, 
       "title": "The Little French Girl",
@@ -194,6 +195,13 @@
        "authorized": "Coffin, Robert P. Tristram (Robert Peter Tristram), 1892-1955",
        "lcna": "n50030030"
       }
+     },
+     {"issue": {"issue-date": "1926-03"}, 
+      "title": "Devon the Delectable",
+      "author": {
+       "authorized": "Coffin, Robert P. Tristram (Robert Peter Tristram), 1892-1955",
+       "lcna": "n50030030"
+      }
      }
    ],
    "additional-note": "Active contribution renewals are recorded beginning in the 1951 July-December CCE volume, but the earliest actively renewed contribution is noted in the 1952 January-June volume.",
@@ -201,5 +209,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-04-24"
+   "last-updated": "2019-05-24"
 }

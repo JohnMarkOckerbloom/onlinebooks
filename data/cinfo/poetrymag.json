@@ -7,17 +7,32 @@
    "first-renewed-contribution":
      {"issue": {"issue-date": "1925-01"}},
    "first-renewed-contribution-source": "1952-JanJun",
+   "renewed-contribution-completeness": "active/1924",
    "renewed-contributions": [
      {"issue": {"issue-date": "1925-01", "cdate": "1924-12-24"},
       "title": "Landscape Poems",
        "author": {
          "name": "Collister Hutchison"
        }
+     },
+     {"issue": {"issue-date": "1925-08"},
+      "title": "Sonnet (Dawn-Late Summer)",
+       "author": {
+         "authorized": "Riggs, Lynn, 1899-1954",
+         "lcna": "n82013440"
+       }
+     },
+     {"issue": {"issue-date": "1925-12"},
+        "title": "The Madonna of Carthagena",
+        "author": {
+         "authorized": "Lowell, Amy, 1874-1925",
+         "lcna": "n79076111"
+        }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-04-05"
+   "last-updated": "2019-05-29"
 }

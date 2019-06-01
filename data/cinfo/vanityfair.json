@@ -36,11 +36,25 @@
       {"issue-date": "1925-12", "volume": "25", "number": "4"}
    ],
    "renewed-contributions" : [
+     {"issue": {"issue-date": "1925-09"}, 
+      "title": "Sonnet to Gath",
+      "author": {
+       "authorized": "Millay, Edna St. Vincent, 1892-1950",
+       "lcna": "n79062746"
+      }
+     },
      {"issue": {"issue-date": "1925-11"},
       "title": "An Estimate of Mr. and Mrs. Philip Wase",
       "author": {
        "authorized": "Anderson, Sherwood, 1876-1941",
        "lcna": "n79045519"
+      }
+     },
+     {"issue": {"issue-date": "1926-06"},
+      "title": "An Antidote from de Bustun Tippotty",
+      "author": {
+       "authorized": "Gross, Milt, 1895-1953",
+       "lcna": "n82151528"
       }
      }
    ],
@@ -49,5 +63,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-04-29"
+   "last-updated": "2019-05-29"
 }

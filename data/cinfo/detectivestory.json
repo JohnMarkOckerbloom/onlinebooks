@@ -119,12 +119,40 @@
      {"issue-date": "1925-11-28", "volume": "79", "number": "6"},
      {"issue-date": "1925-12-05", "volume": "80", "number": "1"}
    ],
+   "renewed-contribution-completeness": "active/1924",
    "renewed-contributions": [
      {"issue": {"issue-date": "1924-03-08", "volume": "64", "number": "6"},
       "title": "Floor, Please",
       "author": {
        "authorized": "Benét, Stephen Vincent, 1898-1943",
        "lcna": "n50007691"
+      }
+     },
+     {"issue": {"issue-date": "1925-02-21", "volume": "73", "number": "2"},
+      "title": "Crime by the River",
+      "title-note": "part 1 of 3",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1925-02-28", "volume": "73", "number": "3"},
+      "title": "Crime by the River",
+      "title-note": "part 2 of 3",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1925-03-07", "volume": "73", "number": "4"},
+      "title": "Crime by the River",
+      "title-note": "part 3 of 3",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
       }
      },
      {"issue": {"issue-date": "1925-04-18", "volume": "74", "number": "4"},
@@ -174,11 +202,80 @@
         "authorized": "Wallace, Edgar, 1875-1932",
         "lcna": "n80034938"
       }
+     },
+     {"issue": {"issue-date": "1925-08-01", "volume": "77", "number": "1"},
+      "title": "The Snake in the Grass",
+      "title-note": "part 1 of 6",
+      "author": {
+        "authorized": "Thayer, Lee, 1874-1973",
+        "lcna": "no96020957"
+      }
+     },
+     {"issue": {"issue-date": "1925-08-08", "volume": "77", "number": "2"},
+      "title": "The Snake in the Grass",
+      "title-note": "part 2 of 6",
+      "author": {
+        "authorized": "Thayer, Lee, 1874-1973",
+        "lcna": "no96020957"
+      }
+     },
+     {"issue": {"issue-date": "1925-08-15", "volume": "77", "number": "3"},
+      "title": "The Snake in the Grass",
+      "title-note": "part 3 of 6",
+      "author": {
+        "authorized": "Thayer, Lee, 1874-1973",
+        "lcna": "no96020957"
+      }
+     },
+     {"issue": {"issue-date": "1925-08-22", "volume": "77", "number": "4"},
+      "title": "The Snake in the Grass",
+      "title-note": "part 4 of 6",
+      "author": {
+        "authorized": "Thayer, Lee, 1874-1973",
+        "lcna": "no96020957"
+      }
+     },
+     {"issue": {"issue-date": "1925-08-29", "volume": "77", "number": "5"},
+      "title": "The Snake in the Grass",
+      "title-note": "part 5 of 6",
+      "author": {
+        "authorized": "Thayer, Lee, 1874-1973",
+        "lcna": "no96020957"
+      }
+     },
+     {"issue": {"issue-date": "1925-09-05", "volume": "77", "number": "6"},
+      "title": "The Snake in the Grass",
+      "title-note": "part 6 of 6",
+      "author": {
+        "authorized": "Thayer, Lee, 1874-1973",
+        "lcna": "no96020957"
+      }
+     },
+     {"issue": {"issue-date": "1925-12-05", "volume": "80", "number": "1"},
+      "title": "Hard Boiled",
+      "author": {
+        "authorized": "Footner, Hulbert, 1879-1944",
+        "lcna": "n88202699"
+      }
+     },
+     {"issue": {"issue-date": "1926-04-17", "volume": "83", "number": "2"},
+      "title": "Anybody's Pearls",
+      "author": {
+        "authorized": "Footner, Hulbert, 1879-1944",
+        "lcna": "n88202699"
+      }
+     },
+     {"issue": {"issue-date": "1926-06-05", "volume": "84", "number": "3"},
+      "title": "The Girl or the Pearls (Getting the Girl)",
+      "author": {
+        "authorized": "Footner, Hulbert, 1879-1944",
+        "lcna": "n88202699"
+      }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-04-20"
+   "last-updated": "2019-05-26"
 }

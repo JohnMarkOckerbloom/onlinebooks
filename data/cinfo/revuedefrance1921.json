@@ -1,0 +1,101 @@
+{
+   "title": "La Revue de France",
+   "title-note": "1921-1939",
+   "online": "1",
+   "first-issue":
+     {"issue-date": "1921-03-15", "volume": "1", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce",
+   "first-renewed-contribution":
+      {"issue": {"cdate": "1924-06-01", "volume": "4", "number": "11"}},
+   "first-renewed-contribution-source": "1951-JanJun",
+   "renewed-contributions": [
+     {"issue": {"cdate": "1924-06-01", "volume": "4", "number": "11"},
+      "title": "La Châtelaine du Liban",
+      "title-note": "part 1? of 5?",
+      "note": "Renewal record appears in the Books section of CCE.",
+      "author": {
+       "authorized": "Benoît, Pierre, 1886-1962",
+       "lcna": "n87901638"
+      }
+     },
+     {"issue": {"cdate": "1924-06-15", "volume": "4", "number": "12"},
+      "title": "La Châtelaine du Liban",
+      "title-note": "part 2? of 5?",
+      "note": "Renewal record appears in the Books section of CCE.",
+      "author": {
+       "authorized": "Benoît, Pierre, 1886-1962",
+       "lcna": "n87901638"
+      }
+     },
+     {"issue": {"cdate": "1924-07-01", "volume": "4", "number": "13"},
+      "title": "La Châtelaine du Liban",
+      "title-note": "part 3? of 5?",
+      "note": "Renewal record appears in the Books section of CCE.",
+      "author": {
+       "authorized": "Benoît, Pierre, 1886-1962",
+       "lcna": "n87901638"
+      }
+     },
+     {"issue": {"cdate": "1924-07-15", "volume": "4", "number": "14"},
+      "title": "La Châtelaine du Liban",
+      "title-note": "part 4? of 5?",
+      "note": "Renewal record appears in the Books section of CCE.",
+      "author": {
+       "authorized": "Benoît, Pierre, 1886-1962",
+       "lcna": "n87901638"
+      }
+     },
+     {"issue": {"cdate": "1924-08-01", "volume": "4", "number": "15"},
+      "title": "La Châtelaine du Liban",
+      "title-note": "part 5? of 5?",
+      "note": "Renewal record appears in the Books section of CCE.",
+      "author": {
+       "authorized": "Benoît, Pierre, 1886-1962",
+       "lcna": "n87901638"
+      }
+     },
+     {"issue": {"cdate": "1924-10-15"},
+      "title": "Nomades du Nord",
+      "title-note": "part 1 of 3",
+      "author": {
+       "authorized": "Curwood, James Oliver, 1878-1927",
+       "lcna": "n50020530"
+      },
+      "translator": {
+       "authorized": "Postif, Louis, 1887-1942",
+       "lcna": "n2003032816"
+      }
+     },
+     {"issue": {"cdate": "1924-11-01"},
+      "title": "Nomades du Nord",
+      "title-note": "part 2 of 3",
+      "author": {
+       "authorized": "Curwood, James Oliver, 1878-1927",
+       "lcna": "n50020530"
+      },
+      "translator": {
+       "authorized": "Postif, Louis, 1887-1942",
+       "lcna": "n2003032816"
+      }
+     },
+     {"issue": {"cdate": "1924-11-15"},
+      "title": "Nomades du Nord",
+      "title-note": "part 3 of 3",
+      "author": {
+       "authorized": "Curwood, James Oliver, 1878-1927",
+       "lcna": "n50020530"
+      },
+      "translator": {
+       "authorized": "Postif, Louis, 1887-1942",
+       "lcna": "n2003032816"
+      }
+     }
+   ],
+   "additional-note" : "This is a French publication.  Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US.",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2019-05-06"
+}

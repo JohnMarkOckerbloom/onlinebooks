@@ -1,0 +1,90 @@
+{
+   "title": "Pearson's",
+   "title-note": "UK magazine",
+   "online": "1",
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/FMI/link.asp?magid=PRS",
+       "note": "FictionMags (partial contents only)"}
+   ],
+   "first-issue": {"issue-date": "1896-01", "volume": "1", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce",
+   "first-renewed-contribution": 
+      {"issue": {"issue-date": "1924-05", "volume": "57", "number": "341"}},
+   "first-renewed-contribution-source": "1951-JulDec",
+   "last-issue": {"issue-date": "1939-11", "volume": "88", "number": "527"},
+   "renewed-contribution-completeness": "active/1924",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1924-05", "volume": "57", "number": "341"},
+      "title": "That Bullet Hole Has a History",
+      "note": "Renewal record appears in the Books section of CCE.",
+      "author": {
+       "authorized": "McNeile, H. C. (Herman Cyril), 1888-1937",
+       "lcna": "no96039399"
+      }
+     },
+     {"issue": {"issue-date": "1924-07", "volume": "58", "number": "343"},
+      "title": "The Ducking of Herbert Polton",
+      "note": "Renewal record appears in the Books section of CCE. Author name is a pseudonym for H. C. McNeile.",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     },
+     {"issue": {"issue-date": "1924-12", "volume": "58", "number": "348"},
+      "title": "A Student of the Obvious",
+      "note": "Renewal record appears in the Books section of CCE.",
+      "author": {
+       "authorized": "McNeile, H. C. (Herman Cyril), 1888-1937",
+       "lcna": "no96039399"
+      }
+     },
+     {"issue": {"issue-date": "1924-12", "volume": "58", "number": "348"},
+      "title": "A Question of Temptation",
+      "note": "Renewal record appears in the Books section of CCE.",
+      "author": {
+       "authorized": "Orczy, Emmuska Orczy, Baroness, 1865-1947",
+       "name": "Baroness Orczy",
+       "lcna": "n50064803"
+      }
+     },
+     {"issue": {"issue-date": "1925-08", "volume": "60", "number": "356"},
+      "title": "The Loyalty of Peter Drayton",
+      "note": "Renewal record appears in the Books section of CCE.",
+      "author": {
+       "authorized": "McNeile, H. C. (Herman Cyril), 1888-1937",
+       "lcna": "no96039399"
+      }
+     },
+     {"issue": {"issue-date": "1925-09", "volume": "60", "number": "357"},
+      "title": "The Message",
+      "note": "Renewal record appears in the Books section of CCE. Author name is a pseudonym for H. C. McNeile.",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     },
+     {"issue": {"issue-date": "1925-10", "volume": "60", "number": "358"},
+      "title": "Three of a Kind",
+      "note": "Renewal record appears in the Books section of CCE. Author name is a pseudonym for H. C. McNeile.",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     },
+     {"issue": {"issue-date": "1925-11", "volume": "60", "number": "359"},
+      "title": "A Matter of Voice",
+      "note": "Renewal record appears in the Books section of CCE. Author name is a pseudonym for H. C. McNeile.",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     }
+   ],
+   "additional-note" : "This is a British publication.  Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US. There was also an American Pearson's magazine published from 1899 to 1925, but it did not always publish the same content at the same time.",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2019-05-05"
+}

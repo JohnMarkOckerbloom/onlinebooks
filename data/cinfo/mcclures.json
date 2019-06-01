@@ -12,6 +12,7 @@
      {"issue": {"issue-date": "1924-02", "cdate": "1951-01-25",
                 "volume": "56", "number": "2"}},
    "first-renewed-contribution-source": "1951-JanJun",
+   "renewed-contribution-completeness": "active/1924",
    "renewed-contributions": [
      {"issue": {"issue-date": "1924-02", "volume": "56", "number": "2"}, 
       "title": "The Third Round",
@@ -93,11 +94,35 @@
        "authorized": "Sapper, 1888-1937",
        "lcna": "n85822242"
       }
+     },
+     {"issue": {"issue-date": "1925-10", "series": "new", "volume": "1", "number": "6"}, 
+      "title": "Marie",
+      "author": {
+       "authorized": "McNeile, H. C. (Herman Cyril), 1888-1937",
+       "lcna": "no96039399"
+      }
+     },
+     {"issue": {"issue-date": "1926-06", "volume": "56", "number": "6"},
+       "title": "Summer Bachelors",
+       "note": "Volume numbering reset with this issue.",
+       "title-note": "part 1 of 2?",
+       "author": {
+         "authorized": "Adams, Samuel Hopkins, 1871-1958",
+         "lcna": "n50037535"
+       }
+     },
+     {"issue": {"issue-date": "1926-07", "volume": "57", "number": "1"},
+       "title": "Summer Bachelors",
+       "title-note": "part 2 of 2?",
+       "author": {
+         "authorized": "Adams, Samuel Hopkins, 1871-1958",
+         "lcna": "n50037535"
+       }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-04-08"
+   "last-updated": "2019-05-15"
 }

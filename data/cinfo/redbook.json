@@ -40,6 +40,7 @@
       {"issue-date": "1925-08", "volume": "45", "number": "4"},
       {"issue-date": "1925-09", "volume": "45", "number": "5"}
    ],
+   "renewed-contribution-completeness": "active/1924",
    "renewed-contributions": [
      {"issue": {"issue-date": "1924-02", "volume": "42", "number": "4"}, 
       "title": "Dishface",
@@ -154,6 +155,14 @@
        "authorized": "Patri, Angelo, 1876-1965",
        "lcna": "n91079923"
       }
+     },
+     {"issue": {"issue-date": "1924-09", "volume": "43", "number": "5"}, 
+      "title": "Dixie",
+       "note": "The renewal record gives Loew's as the author, noting that it is a work for hire.  While Loew's is the author for copyright purposes, FictionMags credits the story to Gerald Beaumont.",
+      "authors": [
+       {"authorized": "Loew's Incorporated", "lcna": "n85376712"},
+       {"authorized": "Beaumont, Gerald", "lcna": "no89001874"}
+      ]
      },
      {"issue": {"issue-date": "1924-09", "volume": "43", "number": "5"}, 
       "title": "The Enchanters",
@@ -290,6 +299,13 @@
        }
      },
      {"issue": {"issue-date": "1925-04", "volume": "44", "number": "6"}, 
+      "title": "Said with Soap",
+      "author": {
+       "authorized": "Beaumont, Gerald",
+       "lcna": "no89001874"
+      }
+     },
+     {"issue": {"issue-date": "1925-04", "volume": "44", "number": "6"}, 
       "title": "The Folks",
       "author": {
        "authorized": "Patri, Angelo, 1876-1965",
@@ -318,6 +334,13 @@
       }
      },
      {"issue": {"issue-date": "1925-06", "volume": "45", "number": "2"}, 
+      "title": "A Family Matter",
+      "note": "CCE files this renewal under Harold Hopper Titus (who was a philosophy professor, 1894-1984), though it is more likely to be Harold Titus (the novelist, 1888-1967)",
+      "author": {
+       "name": "Harold Titus"
+      }
+     },
+     {"issue": {"issue-date": "1925-06", "volume": "45", "number": "2"}, 
       "title": "The Closed Door",
       "author": {
        "authorized": "Patri, Angelo, 1876-1965",
@@ -338,12 +361,198 @@
        "lcna": "n91079923"
       }
      },
+     {"issue": {"issue-date": "1925-08", "volume": "45", "number": "4"}, 
+      "title": "Heavenbent",
+      "title-note": "part 1 of 2",
+      "author": {
+       "authorized": "Beaumont, Gerald",
+       "lcna": "no89001874"
+      }
+     },
+     {"issue": {"issue-date": "1925-08", "volume": "45", "number": "4"}, 
+      "title": "Miracle Workers",
+      "author": {
+       "authorized": "Patri, Angelo, 1876-1965",
+       "lcna": "n91079923"
+      }
+     },
+     {"issue": {"issue-date": "1925-09", "volume": "45", "number": "5"}, 
+      "title": "The Adjuster",
+      "author": {
+       "authorized": "Fitzgerald, F. Scott (Francis Scott), 1896-1940",
+       "lcna": "n79006871"
+      }
+     },
+     {"issue": {"issue-date": "1925-09", "volume": "45", "number": "5"}, 
+      "title": "Heavenbent",
+      "title-note": "part 2 of 2",
+      "author": {
+       "authorized": "Beaumont, Gerald",
+       "lcna": "no89001874"
+      }
+     },
+     {"issue": {"issue-date": "1925-09", "volume": "45", "number": "5"}, 
+      "title": "As the Lilies",
+      "author": {
+       "authorized": "Patri, Angelo, 1876-1965",
+       "lcna": "n91079923"
+      }
+     },
+     {"issue": {"issue-date": "1925-10", "volume": "45", "number": "6"},
+      "title": "Geraldine",
+      "author": {
+         "authorized": "Tarkington, Booth, 1869-1946",
+         "lcna": "n79078124"
+       }
+     },
+     {"issue": {"issue-date": "1925-10", "volume": "45", "number": "6"},
+      "title": "Release",
+      "author": {
+         "authorized": "McFee, William, 1881-1966",
+         "lcna": "n82053296"
+      }
+     },
+     {"issue": {"issue-date": "1925-10", "volume": "45", "number": "6"},
+      "title": "The Shadows",
+      "author": {
+       "authorized": "Patri, Angelo, 1876-1965",
+       "lcna": "n91079923"
+      }
+     },
+     {"issue": {"issue-date": "1925-11", "volume": "46", "number": "1"},
+      "title": "The Garden of the Bey",
+      "author": {
+         "authorized": "McFee, William, 1881-1966",
+         "lcna": "n82053296"
+      }
+     },
      {"issue": {"issue-date": "1925-11", "volume": "46", "number": "1"},
       "title": "The 'D' Box",
       "author": {
          "authorized": "Connell, Richard Edward, 1893-1949",
          "lcna": "n50028704"
        }
+     },
+     {"issue": {"issue-date": "1925-11", "volume": "46", "number": "1"}, 
+      "title": "The Beautiful Isle",
+      "author": {
+       "authorized": "Patri, Angelo, 1876-1965",
+       "lcna": "n91079923"
+      }
+     },
+     {"issue": {"issue-date": "1926-01", "volume": "46", "number": "3"},
+      "title": "The Rich Boy",
+      "title-note": "part 1 of 2",
+      "author": {
+       "authorized": "Fitzgerald, F. Scott (Francis Scott), 1896-1940",
+       "lcna": "n79006871"
+      }
+     },
+     {"issue": {"issue-date": "1926-01", "volume": "46", "number": "3"},
+      "title": "The Virgin of Loreto",
+      "author": {
+         "authorized": "McFee, William, 1881-1966",
+         "lcna": "n82053296"
+      }
+     },
+     {"issue": {"issue-date": "1926-01", "volume": "46", "number": "3"},
+      "title": "No Sense of Humor",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1926-01", "volume": "46", "number": "3"},
+      "title": "Too Tight",
+      "author": {
+       "authorized": "Patri, Angelo, 1876-1965",
+       "lcna": "n91079923"
+      }
+     },
+     {"issue": {"issue-date": "1926-02", "volume": "46", "number": "4"},
+      "title": "The Rich Boy",
+      "title-note": "part 2 of 2",
+      "author": {
+       "authorized": "Fitzgerald, F. Scott (Francis Scott), 1896-1940",
+       "lcna": "n79006871"
+      }
+     },
+     {"issue": {"issue-date": "1926-03", "volume": "46", "number": "5"},
+       "title": "Gigolo",
+       "author": {
+         "authorized": "Adams, Samuel Hopkins, 1871-1958",
+         "lcna": "n50037535"
+       }
+     },
+     {"issue": {"issue-date": "1926-03", "volume": "46", "number": "5"},
+      "title": "The Sword of Doctor Damocles",
+      "author": {
+         "authorized": "McFee, William, 1881-1966",
+         "lcna": "n82053296"
+      }
+     },
+     {"issue": {"issue-date": "1926-04", "volume": "46", "number": "6"},
+      "title": "Dreams for Marjorie",
+      "author": {
+       "authorized": "Duganne, Phyllis, 1899-1976",
+       "lcna": "n90719514"
+      }
+     },
+     {"issue": {"issue-date": "1926-04", "volume": "46", "number": "6"},
+      "title": "High Noon",
+      "author": {
+       "authorized": "Patri, Angelo, 1876-1965",
+       "lcna": "n91079923"
+      }
+     },
+     {"issue": {"issue-date": "1926-05", "volume": "47", "number": "1"}, 
+      "title": "Everybody's Niche",
+      "author": {
+       "authorized": "Patri, Angelo, 1876-1965",
+       "lcna": "n91079923"
+      }
+     },
+     {"issue": {"issue-date": "1926-06", "volume": "47", "number": "2"}, 
+      "title": "The Dance",
+      "author": {
+       "authorized": "Fitzgerald, F. Scott (Francis Scott), 1896-1940",
+       "lcna": "n79006871"
+      }
+     },
+     {"issue": {"issue-date": "1926-06", "volume": "47", "number": "2"}, 
+      "title": "Take a Fellow Your Size",
+      "author": {
+       "authorized": "Benét, Stephen Vincent, 1898-1943",
+       "lcna": "n50007691"
+      }
+     },
+     {"issue": {"issue-date": "1926-06", "volume": "47", "number": "2"}, 
+      "title": "The Vanished Passenger",
+      "author": {
+         "authorized": "McFee, William, 1881-1966",
+         "lcna": "n82053296"
+      }
+     },
+     {"issue": {"issue-date": "1926-06", "volume": "47", "number": "2"}, 
+      "title": "Me",
+      "author": {
+       "authorized": "Patri, Angelo, 1876-1965",
+       "lcna": "n91079923"
+      }
+     },
+     {"issue": {"issue-date": "1926-07", "volume": "47", "number": "3"},
+      "title": "Nobody at All",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1926-07", "volume": "47", "number": "3"},
+      "title": "The Armoire",
+      "author": {
+         "authorized": "McFee, William, 1881-1966",
+         "lcna": "n82053296"
+      }
      }
    ],
    "additional-note": "The CCE renewal record for Margaret Culkin Banning's 'Pity's Other Kin', which ran in the January 1924 issue, shows a 1924 copyright date, but other evidence indicates that issue had a 1923 copyright, which has now expired.",
@@ -351,5 +560,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-04-24"
+   "last-updated": "2019-05-30"
 }

@@ -52,6 +52,7 @@
      {"issue-date": "1925-06-10", "volume": "111", "number": "5"},
      {"issue-date": "1925-06-25", "volume": "111", "number": "6"}
    ],
+   "renewed-contribution-completeness": "active/1924",
    "renewed-contributions": [
      {"issue": {"issue-date": "1924-01-25", "volume": "106", "number": "2"},
       "title": "The Scar Man",
@@ -232,11 +233,43 @@
         "lcna": "n85111957"
        }
      },
+     {"issue": {"issue-date": "1925-02-10", "volume": "110", "number": "3"},
+      "title": "Roaring River",
+      "title-note": "part 1 of 4",
+      "author": {
+         "authorized": "Raine, William MacLeod, 1871-1954",
+         "lcna": "n90682348"
+      }
+     },
+     {"issue": {"issue-date": "1925-02-25", "volume": "110", "number": "4"},
+      "title": "Roaring River",
+      "title-note": "part 2 of 4",
+      "author": {
+         "authorized": "Raine, William MacLeod, 1871-1954",
+         "lcna": "n90682348"
+      }
+     },
      {"issue": {"issue-date": "1925-03-10", "volume": "110", "number": "5"},
       "title": "Don Quickshot Looking for Trouble",
       "author": {
          "authorized": "Chalmers, Stephen, 1880-1935",
          "lcna": "n85809233"
+      }
+     },
+     {"issue": {"issue-date": "1925-03-10", "volume": "110", "number": "5"},
+      "title": "Roaring River",
+      "title-note": "part 3 of 4",
+      "author": {
+         "authorized": "Raine, William MacLeod, 1871-1954",
+         "lcna": "n90682348"
+      }
+     },
+     {"issue": {"issue-date": "1925-03-25", "volume": "110", "number": "6"},
+      "title": "Roaring River",
+      "title-note": "part 4 of 4",
+      "author": {
+         "authorized": "Raine, William MacLeod, 1871-1954",
+         "lcna": "n90682348"
       }
      },
      {"issue": {"issue-date": "1925-04-10", "volume": "111", "number": "1"},
@@ -277,11 +310,26 @@
         "authorized": "Wallace, Edgar, 1875-1932",
         "lcna": "n80034938"
       }
+     },
+     {"issue": {"issue-date": "1925-08-10", "volume": "112", "number": "3"},
+      "title": "The Last Shot",
+      "author": {
+         "authorized": "Raine, William MacLeod, 1871-1954",
+         "lcna": "n90682348"
+      }
+     },
+     {"issue": {"issue-date": "1925-08-25", "volume": "112", "number": "4"},
+      "title": "Sad Sontag Plays His Hunch",
+      "note": "FictionMags does not record a story with this title in this issue, but does record a novel in the issue by this author titled 'The Web of Deception'.  I have not examined the issue or investigated how the two titles relate.",
+      "author": {
+         "authorized": "Tuttle, W. C. (Wilbur C.), 1883-1969",
+         "lcna": "n83190878"
+      }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-04-21"
+   "last-updated": "2019-05-30"
 }

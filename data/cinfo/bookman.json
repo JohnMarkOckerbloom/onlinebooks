@@ -10,6 +10,7 @@
                 "volume": "59", "number": "1"}},
    "first-renewed-contribution-source": "1951-JanJun",
    "last-issue": {"issue-date": "1933-03", "volume": "76", "number": "3"},
+   "renewed-contribution-completeness": "active/1924",
    "renewed-contributions": [
      {"issue": {"issue-date": "1924-03"},
       "title": "Magic Carpet Business",
@@ -144,11 +145,53 @@
         "lcna": "n85296990"
       }
      },
+     {"issue": {"issue-date": "1925-07"},
+        "title": "Poetic Justice, Time Web",
+        "author": {
+         "authorized": "Lowell, Amy, 1874-1925",
+         "lcna": "n79076111"
+        }
+     },
+     {"issue": {"issue-date": "1925-11"},
+      "title": "Letter to a Young Man Dissatisfied With Life Ashore",
+      "author": {
+         "authorized": "McFee, William, 1881-1966",
+         "lcna": "n82053296"
+      }
+     },
      {"issue": {"issue-date": "1925-12"},
       "title": "Literary Treasure",
       "author": {
         "authorized": "Benét, Stephen Vincent, 1898-1943",
         "lcna": "n50007691"
+      }
+     },
+     {"issue": {"issue-date": "1925-12"},
+        "title": "Points of View",
+        "author": {
+         "authorized": "Lowell, Amy, 1874-1925",
+         "lcna": "n79076111"
+        }
+     },
+     {"issue": {"issue-date": "1926-02"},
+      "title": "My Favorite Fiction",
+      "author": {
+        "authorized": "Benét, Stephen Vincent, 1898-1943",
+        "lcna": "n50007691"
+      }
+     },
+     {"issue": {"issue-date": "1926-05"},
+      "title": "Bigger & Better Murders",
+      "author": {
+        "authorized": "Benét, Stephen Vincent, 1898-1943",
+        "lcna": "n50007691"
+      }
+     },
+     {"issue": {"issue-date": "1926-05"},
+      "title": "How to Waste Material: A Note on My Generation",
+      "author": {
+       "authorized": "Fitzgerald, F. Scott (Francis Scott), 1896-1940",
+       "lcna": "n79006871"
       }
      }
    ],
@@ -156,5 +199,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-04-23"
+   "last-updated": "2019-05-29"
 }

@@ -7,6 +7,7 @@
    "first-renewed-contribution":
      {"issue": {"issue-date": "1924-01-05", "volume": "73", "number": "1"}},
    "first-renewed-contribution-source": "1951-JanJun",
+   "renewed-contribution-completeness": "active/1924",
    "renewed-contributions": [
      {"issue": {"issue-date": "1924-01-05", "volume": "73", "number": "1"},
        "title": "Siege",
@@ -468,6 +469,13 @@
        "lcna": "no93005384"
       }
      },
+     {"issue": {"issue-date": "1924-12-27", "volume": "74", "number": "26"}, 
+      "title": "Fight Over the Mountain",
+      "author": {
+       "authorized": "Hopper, James, 1876-1956",
+       "lcna": "n00068220"
+      }
+     },
      {"issue": {"issue-date": "1925-02-07", "volume": "75", "number": "6"},
       "title": "The Little Puddle",
       "author": {
@@ -496,12 +504,82 @@
        "lcna": "n90676728"
       }
      },
+     {"issue": {"issue-date": "1925-06-06", "volume": "75", "number": "23"},
+        "title": "The Professor's House",
+        "title-note": "part 1 of 9",
+        "author": {
+         "authorized": "Cather, Willa, 1873-1947",
+         "lcna": "n80015717"
+        }
+     },
      {"issue": {"issue-date": "1925-06-13", "volume": "75", "number": "24"},
       "title": "Rose Colored Cottage",
       "author": {
        "authorized": "Burnet, Dana, 1888-1962",
        "lcna": "n88172670"
       }
+     },
+     {"issue": {"issue-date": "1925-06-13", "volume": "75", "number": "24"},
+        "title": "The Professor's House",
+        "title-note": "part 2 of 9",
+        "author": {
+         "authorized": "Cather, Willa, 1873-1947",
+         "lcna": "n80015717"
+        }
+     },
+     {"issue": {"issue-date": "1925-06-20", "volume": "75", "number": "25"},
+        "title": "The Professor's House",
+        "title-note": "part 3 of 9",
+        "author": {
+         "authorized": "Cather, Willa, 1873-1947",
+         "lcna": "n80015717"
+        }
+     },
+     {"issue": {"issue-date": "1925-06-27", "volume": "75", "number": "26"},
+        "title": "The Professor's House",
+        "title-note": "part 4 of 9",
+        "author": {
+         "authorized": "Cather, Willa, 1873-1947",
+         "lcna": "n80015717"
+        }
+     },
+     {"issue": {"issue-date": "1925-07-04", "volume": "76", "number": "1"},
+        "title": "The Professor's House",
+        "title-note": "part 5 of 9",
+        "author": {
+         "authorized": "Cather, Willa, 1873-1947",
+         "lcna": "n80015717"
+        }
+     },
+     {"issue": {"issue-date": "1925-07-11", "volume": "76", "number": "2"},
+      "title": "The Buzz Saw",
+      "author": {
+       "authorized": "Upson, William Hazlett, 1891-1975",
+       "lcna": "n90676728"
+      }
+     },
+     {"issue": {"issue-date": "1925-07-11", "volume": "76", "number": "2"},
+        "title": "The Professor's House",
+        "title-note": "part 6 of 9",
+        "author": {
+         "authorized": "Cather, Willa, 1873-1947",
+         "lcna": "n80015717"
+        }
+     },
+     {"issue": {"issue-date": "1925-07-18", "volume": "76", "number": "3"},
+      "title": "The Gilded Pheasant",
+      "author": {
+       "authorized": "Avery, Stephen Morehouse, 1893-1948",
+       "lcna": "no89011696"
+      }
+     },
+     {"issue": {"issue-date": "1925-07-18", "volume": "76", "number": "3"},
+        "title": "The Professor's House",
+        "title-note": "part 7 of 9",
+        "author": {
+         "authorized": "Cather, Willa, 1873-1947",
+         "lcna": "n80015717"
+        }
      },
      {"issue": {"issue-date": "1925-07-25", "volume": "76", "number": "4"},
       "title": "The Arrow of Heaven",
@@ -516,6 +594,22 @@
        "authorized": "Banning, Margaret Culkin, 1891-1982",
        "lcna": "n86086096"
       }
+     },
+     {"issue": {"issue-date": "1925-07-25", "volume": "76", "number": "4"},
+        "title": "The Professor's House",
+        "title-note": "part 8 of 9",
+        "author": {
+         "authorized": "Cather, Willa, 1873-1947",
+         "lcna": "n80015717"
+        }
+     },
+     {"issue": {"issue-date": "1925-08-01", "volume": "76", "number": "5"},
+        "title": "The Professor's House",
+        "title-note": "part 9 of 9",
+        "author": {
+         "authorized": "Cather, Willa, 1873-1947",
+         "lcna": "n80015717"
+        }
      },
      {"issue": {"issue-date": "1925-08-22", "volume": "76", "number": "8"},
       "title": "Tinsel",
@@ -538,11 +632,219 @@
        "lcna": "n86086096"
       }
      },
+     {"issue": {"issue-date": "1925-10-03", "volume": "76", "number": "14"},
+      "title": "The Noise Offstage",
+      "author": {
+       "authorized": "Johnson, Nunnally",
+       "lcna": "n79134929"
+      }
+     },
+     {"issue": {"issue-date": "1925-11-14", "volume": "76", "number": "20"},
+      "title": "John Brown's Body",
+      "author": {
+       "authorized": "Upson, William Hazlett, 1891-1975",
+       "lcna": "n90676728"
+      }
+     },
+     {"issue": {"issue-date": "1925-11-14", "volume": "76", "number": "20"},
+       "title": "Archy and Mehitabel",
+       "author": {
+         "authorized": "Marquis, Don, 1878-1937",
+         "lcna": "n50041532"
+       }
+     },
+     {"issue": {"issue-date": "1925-11-21", "volume": "76", "number": "21"},
+      "title": "The Book Nobody Knows",
+      "title-note": "part 1 of 6",
+      "author": {
+       "authorized": "Barton, Bruce, 1886-1967",
+       "lcna": "n86114512"
+      }
+     },
      {"issue": {"issue-date": "1925-11-28", "volume": "76", "number": "22"},
       "title": "Sava",
       "author": {
        "authorized": "Bercovici, Konrad, 1882-1961",
        "lcna": "n50006835"
+      }
+     },
+     {"issue": {"issue-date": "1925-12-05", "volume": "76", "number": "23"},
+      "title": "The Book Nobody Knows",
+      "title-note": "part 2 of 6",
+      "author": {
+       "authorized": "Barton, Bruce, 1886-1967",
+       "lcna": "n86114512"
+      }
+     },
+     {"issue": {"issue-date": "1925-12-19", "volume": "76", "number": "25"},
+      "title": "The Book Nobody Knows",
+      "title-note": "part 3 of 6",
+      "author": {
+       "authorized": "Barton, Bruce, 1886-1967",
+       "lcna": "n86114512"
+      }
+     },
+     {"issue": {"issue-date": "1925-12-26", "volume": "76", "number": "26"},
+       "title": "Sally Comes Back",
+       "author": {
+         "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
+         "lcna": "no90021257"
+       }
+     },
+     {"issue": {"issue-date": "1925-12-26", "volume": "76", "number": "26"},
+       "title": "Reconciliation",
+       "author": {
+         "authorized": "Marquis, Don, 1878-1937",
+         "lcna": "n50041532"
+       }
+     },
+     {"issue": {"issue-date": "1925-12-26", "volume": "76", "number": "26"},
+       "title": "Reincarnated",
+       "author": {
+         "authorized": "Marquis, Don, 1878-1937",
+         "lcna": "n50041532"
+       }
+     },
+     {"issue": {"issue-date": "1926-01-02", "volume": "77", "number": "1"},
+      "title": "The Book Nobody Knows",
+      "title-note": "part 4 of 6",
+      "author": {
+       "authorized": "Barton, Bruce, 1886-1967",
+       "lcna": "n86114512"
+      }
+     },
+     {"issue": {"issue-date": "1926-01-02", "volume": "77", "number": "1"},
+       "title": "In-Laws",
+       "author": {
+         "authorized": "Marquis, Don, 1878-1937",
+         "lcna": "n50041532"
+       }
+     },
+     {"issue": {"issue-date": "1926-01-02", "volume": "77", "number": "1"},
+       "title": "When Love Was Born",
+       "author": {
+         "authorized": "Marquis, Don, 1878-1937",
+         "lcna": "n50041532"
+       }
+     },
+     {"issue": {"issue-date": "1926-01-16", "volume": "77", "number": "3"},
+      "title": "Fanica",
+      "author": {
+       "authorized": "Bercovici, Konrad, 1882-1961",
+       "lcna": "n50006835"
+      }
+     },
+     {"issue": {"issue-date": "1926-01-16", "volume": "77", "number": "3"},
+      "title": "The Book Nobody Knows",
+      "title-note": "part 5 of 6",
+      "author": {
+       "authorized": "Barton, Bruce, 1886-1967",
+       "lcna": "n86114512"
+      }
+     },
+     {"issue": {"issue-date": "1926-01-23", "volume": "77", "number": "4"},
+      "title": "Odor of Sanctity",
+      "author": {
+        "authorized": "Benét, Stephen Vincent, 1898-1943",
+        "lcna": "n50007691"
+      }
+     },
+     {"issue": {"issue-date": "1926-01-30", "volume": "77", "number": "5"},
+      "title": "The Book Nobody Knows",
+      "title-note": "part 6 of 6",
+      "author": {
+       "authorized": "Barton, Bruce, 1886-1967",
+       "lcna": "n86114512"
+      }
+     },
+     {"issue": {"issue-date": "1926-02-20", "volume": "77", "number": "8"},
+      "title": "Rubber Ice",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1926-02-20", "volume": "77", "number": "8"},
+      "title": "The Greatest Men in the Bible",
+      "title-note": "part 1 of 2",
+      "author": {
+       "authorized": "Barton, Bruce, 1886-1967",
+       "lcna": "n86114512"
+      }
+     },
+     {"issue": {"issue-date": "1926-02-27", "volume": "77", "number": "9"},
+      "title": "The Greatest Men in the Bible",
+      "title-note": "part 2 of 2",
+      "author": {
+       "authorized": "Barton, Bruce, 1886-1967",
+       "lcna": "n86114512"
+      }
+     },
+     {"issue": {"issue-date": "1926-03-13", "volume": "77", "number": "11"},
+      "title": "Sand",
+      "title-note": "part 1 of 2?",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1926-03-20", "volume": "77", "number": "12"},
+      "title": "Sand",
+      "title-note": "part 2 of 2?",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1926-03-20", "volume": "77", "number": "12"},
+      "title": "The Bibles Greatest Women",
+      "title-note": "part 1 of 2",
+      "author": {
+       "authorized": "Barton, Bruce, 1886-1967",
+       "lcna": "n86114512"
+      }
+     },
+     {"issue": {"issue-date": "1926-03-27", "volume": "77", "number": "13"},
+      "title": "The Bibles Greatest Women",
+      "title-note": "part 2 of 2",
+      "author": {
+       "authorized": "Barton, Bruce, 1886-1967",
+       "lcna": "n86114512"
+      }
+     },
+     {"issue": {"issue-date": "1926-04-17", "volume": "77", "number": "16"},
+       "title": "A Touch of Green",
+       "author": {
+         "authorized": "Adams, Samuel Hopkins, 1871-1958",
+         "lcna": "n50037535"
+       }
+     },
+     {"issue": {"issue-date": "1926-04-17", "volume": "77", "number": "16"},
+       "title": "Archy and Mehitabel",
+       "author": {
+         "authorized": "Marquis, Don, 1878-1937",
+         "lcna": "n50041532"
+       }
+     },
+     {"issue": {"issue-date": "1926-05-08", "volume": "77", "number": "19"},
+      "title": "The Bridal Suite",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1926-05-29", "volume": "77", "number": "22"},
+      "title": "Lady Lapith",
+      "author": {
+        "authorized": "Benét, Stephen Vincent, 1898-1943",
+        "lcna": "n50007691"
+      }
+     },
+     {"issue": {"issue-date": "1926-06-19", "volume": "77", "number": "25"},
+      "title": "The Lucky Fist",
+      "author": {
+        "authorized": "Benét, Stephen Vincent, 1898-1943",
+        "lcna": "n50007691"
       }
      }
    ],
@@ -550,5 +852,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-04-25"
+   "last-updated": "2019-05-29"
 }

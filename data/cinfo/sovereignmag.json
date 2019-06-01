@@ -1,0 +1,90 @@
+{
+   "title": "The Sovereign Magazine",
+   "title-note": "British pulp fiction magazine, 1919-1927",
+   "aka": ["The Sovereign and Regent Magazine"],
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/FMI/link.asp?magid=SOV",
+      "note": "FictionMags (most issues)"}
+   ],
+   "first-issue": {"issue-date": "1919-11", "volume": "1", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce",
+   "first-renewed-contribution": 
+      {"issue": {"issue-date": "1925-04", "volume": "9", "number": "65"}},
+   "first-renewed-contribution-source": "1952-JulDec",
+   "last-issue": {"issue-date": "1927-02", "volume": "13", "number": "86"},
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1925-04", "volume": "9", "number": "65"},
+      "title": "Colin II",
+      "title-note": "part 1 of 3",
+      "note": "Renewal record appears in the Books section of CCE.",
+      "author": {
+         "authorized": "Benson, E. F. (Edward Frederic), 1867-1940",
+         "lcna": "n50057239"
+      }
+     },
+     {"issue": {"issue-date": "1925-05", "volume": "9", "number": "66"},
+      "title": "Colin II",
+      "title-note": "part 2 of 3",
+      "note": "Renewal record appears in the Books section of CCE.",
+      "author": {
+         "authorized": "Benson, E. F. (Edward Frederic), 1867-1940",
+         "lcna": "n50057239"
+      }
+     },
+     {"issue": {"issue-date": "1925-06", "volume": "10", "number": "67"},
+      "title": "Colin II",
+      "title-note": "part 3 of 3",
+      "note": "Renewal record appears in the Books section of CCE.",
+      "author": {
+         "authorized": "Benson, E. F. (Edward Frederic), 1867-1940",
+         "lcna": "n50057239"
+      }
+     },
+     {"issue": {"issue-date": "1925-09", "volume": "10", "number": "70"},
+      "title": "The Final Count",
+      "title-note": "installment",
+      "note": "Renewal record appears in the Books section of CCE. Author name is a pseudonym for H. C. McNeile.",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     },
+     {"issue": {"issue-date": "1925-10", "volume": "10", "number": "71"},
+      "title": "The Final Count",
+      "title-note": "installment",
+      "note": "Renewal record appears in the Books section of CCE. Author name is a pseudonym for H. C. McNeile.",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     },
+     {"issue": {"issue-date": "1925-11", "volume": "10", "number": "72"},
+      "title": "The Final Count",
+      "title-note": "installment",
+      "note": "Renewal record appears in the Books section of CCE. Author name is a pseudonym for H. C. McNeile.",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     },
+     {"issue": {"issue-date": "1925-12", "volume": "10", "number": "73"},
+      "title": "The Final Count",
+      "title-note": "installment",
+      "note": "Renewal record appears in the Books section of CCE. Author name is a pseudonym for H. C. McNeile.",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     }
+   ],
+   "additional-notes" : [
+     "This is a British publication.  Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US.",
+    "Some 1925 issues are titled 'The Sovereign and Regent Magazine'."
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2019-05-07"
+}

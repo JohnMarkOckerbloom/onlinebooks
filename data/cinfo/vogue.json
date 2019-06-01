@@ -17,6 +17,7 @@
       {"id": "voguemidmonth",
        "note": "Vogue Mid-Month Collection"}
    ],
+   "renewed-issue-completeness": "active/1924",
    "renewed-issues": [
      {"issue-date": "1924-01-15", "volume" : "63", "number": "2"},
      {"issue-date": "1924-02-01", "volume" : "63", "number": "3"},
@@ -40,11 +41,37 @@
      {"issue-date": "1924-11-01", "volume" : "64", "number": "9"},
      {"issue-date": "1924-11-15", "volume" : "64", "number": "10"},
      {"issue-date": "1924-12-01", "volume" : "64", "number": "11"},
-     {"issue-date": "1924-12-15", "volume" : "64", "number": "12"}
+     {"issue-date": "1924-12-15", "volume" : "64", "number": "12"},
+     {"issue-date": "1925-01-01", "volume" : "65", "number": "1",
+      "cdate": "1924-12-25"}, 
+     {"issue-date": "1925-01-15", "volume" : "65", "number": "2",
+      "cdate": "1925-01-10"}, 
+     {"issue-date": "1925-02-01", "volume" : "65", "number": "3"},
+     {"issue-date": "1925-02-15", "volume" : "65", "number": "4"},
+     {"issue-date": "1925-03-01", "volume" : "65", "number": "5"},
+     {"issue-date": "1925-03-15", "volume" : "65", "number": "6"},
+     {"issue-date": "1925-04-01", "volume" : "65", "number": "7"},
+     {"issue-date": "1925-04-15", "volume" : "65", "number": "8"},
+     {"issue-date": "1925-05-01", "volume" : "65", "number": "9"},
+     {"issue-date": "1925-05-15", "volume" : "65", "number": "10"},
+     {"issue-date": "1925-06-01", "volume" : "65", "number": "11"},
+     {"issue-date": "1925-06-15", "volume" : "65", "number": "12"},
+     {"issue-date": "1925-07-01", "volume" : "66", "number": "1"},
+     {"issue-date": "1925-07-15", "volume" : "66", "number": "2"},
+     {"issue-date": "1925-08-01", "volume" : "66", "number": "3"},
+     {"issue-date": "1925-08-15", "volume" : "66", "number": "4"},
+     {"issue-date": "1925-09-01", "volume" : "66", "number": "5"},
+     {"issue-date": "1925-09-15", "volume" : "66", "number": "6"},
+     {"issue-date": "1925-10-01", "volume" : "66", "number": "7"},
+     {"issue-date": "1925-10-15", "volume" : "66", "number": "8"},
+     {"issue-date": "1925-11-01", "volume" : "66", "number": "9"},
+     {"issue-date": "1925-11-15", "volume" : "66", "number": "10"},
+     {"issue-date": "1925-12-01", "volume" : "66", "number": "11"},
+     {"issue-date": "1925-12-15", "volume" : "66", "number": "12"}
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-02-24"
+   "last-updated": "2019-05-09"
 }

@@ -1,0 +1,81 @@
+{
+   "title": "Hutchinson's Adventure-Story Magazine",
+   "see-also": [{"id": "hutchinsons", "note": "Hutchinson's Magazine"}],
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/AFI/link.asp?magid=HAV",
+       "note": "FictionMags"}
+   ],
+   "first-issue":
+      {"issue-date": "1922-09", "volume": "1", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce",
+   "first-renewed-contribution": {"issue": 
+      {"issue-date": "1925-12", "volume": "7", "number": "40"}},
+   "first-renewed-contribution-source": "1953-JanJun",
+   "last-issue": {"issue-date": "1927-09", "volume": "10", "number": "60"},
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1925-12", "volume": "7", "number": "40"},
+      "title": "The Treasure of the Lake",
+      "title-note": "part 1 of 6?",
+      "note": "Renewal record appears in the Books section of CCE.",
+      "author": {
+         "authorized": "Haggard, H. Rider (Henry Rider), 1856-1925",
+         "lcna": "n80010495"
+       }
+     },
+     {"issue": {"issue-date": "1926-01", "volume": "7", "number": "41"},
+      "title": "The Treasure of the Lake",
+      "title-note": "part 2 of 6?",
+      "note": "Renewal record appears in the Books section of CCE.",
+      "author": {
+         "authorized": "Haggard, H. Rider (Henry Rider), 1856-1925",
+         "lcna": "n80010495"
+       }
+     },
+     {"issue": {"issue-date": "1926-02", "volume": "7", "number": "42"},
+      "title": "The Treasure of the Lake",
+      "title-note": "part 3 of 6?",
+      "note": "Renewal record appears in the Books section of CCE.",
+      "author": {
+         "authorized": "Haggard, H. Rider (Henry Rider), 1856-1925",
+         "lcna": "n80010495"
+       }
+     },
+     {"issue": {"issue-date": "1926-03", "volume": "8", "number": "43"},
+      "title": "The Treasure of the Lake",
+      "title-note": "part 4 of 6?",
+      "note": "Renewal record appears in the Books section of CCE.",
+      "author": {
+         "authorized": "Haggard, H. Rider (Henry Rider), 1856-1925",
+         "lcna": "n80010495"
+       }
+     },
+     {"issue": {"issue-date": "1926-04", "volume": "8", "number": "44"},
+      "title": "The Treasure of the Lake",
+      "title-note": "part 5 of 6?",
+      "note": "Renewal record appears in the Books section of CCE.",
+      "author": {
+         "authorized": "Haggard, H. Rider (Henry Rider), 1856-1925",
+         "lcna": "n80010495"
+       }
+     },
+     {"issue": {"issue-date": "1926-05", "volume": "8", "number": "45"},
+      "title": "The Treasure of the Lake",
+      "title-note": "part 6 of 6?",
+      "note": "Renewal record appears in the Books section of CCE.",
+      "author": {
+         "authorized": "Haggard, H. Rider (Henry Rider), 1856-1925",
+         "lcna": "n80010495"
+       }
+     }
+   ],
+   "additional-notes": [
+     "This is a British publication.  Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US.",
+     "This magazine frequently reprinted stories that had originally appeared in other magazines.  We have not systematically checked the copyrights of those earlier publications."
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2019-05-06"
+}

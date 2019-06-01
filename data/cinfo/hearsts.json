@@ -34,6 +34,7 @@
       {"issue-date": "1925-02", "volume": "46", "number": "2",
          "cdate": "1925-01-20"}
    ],
+   "renewed-contribution-completeness": "active/1924",
    "renewed-contributions": [
      {"issue": {"issue-date": "1924-02", "volume": "45", "number": "2"},
       "title": "Tongues of Flame",
@@ -235,6 +236,12 @@
       }
      },
      {"issue": {"issue-date": "1924-09", "volume": "46", "number": "3"},
+      "title": "Sixty Degrees Below",
+      "author": {
+       "name": "Elsie Robinson"
+      }
+     },
+     {"issue": {"issue-date": "1924-09", "volume": "46", "number": "3"},
       "title": "Madonna of the Trenches",
       "author": {
        "authorized": "Kipling, Rudyard, 1865-1936",
@@ -365,6 +372,13 @@
       }
      },
      {"issue": {"issue-date": "1925-02", "volume": "47", "number": "2"},
+      "title": "The Baby Party",
+      "author": {
+       "authorized": "Fitzgerald, F. Scott (Francis Scott), 1896-1940",
+       "lcna": "n79006871"
+      }
+     },
+     {"issue": {"issue-date": "1925-02", "volume": "47", "number": "2"},
       "title": "The Painted Veil",
       "title-note": "part 4 of 5",
       "author": {
@@ -388,5 +402,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-04-25"
+   "last-updated": "2019-05-26"
 }

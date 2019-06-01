@@ -10,10 +10,26 @@
    "first-renewed-contribution-source": "1952-JulDec",
    "last-issue": {"issue-date": "1928-09", "volume": "47", "number": "7"},
    "succeeded-by": [{"id": "americanhome", "note": "The American Home"}],
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1925-10"},
+      "title": "Garden Making and Keeping",
+      "author": {
+         "authorized": "Findlay, Hugh, 1879-1950",
+         "lcna": "nr99022643"
+       }
+     },
+     {"issue": {"issue-date": "1926-01"},
+      "title": "Garden Making and Keeping",
+      "author": {
+         "authorized": "Findlay, Hugh, 1879-1950",
+         "lcna": "nr99022643"
+       }
+     }
+   ],
    "additional-note": "Published as Garden Magazine and Home Builder from September 1924 through September 1925, and as Garden and Home Builder thereafter.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-04-30"
+   "last-updated": "2019-05-26"
 }

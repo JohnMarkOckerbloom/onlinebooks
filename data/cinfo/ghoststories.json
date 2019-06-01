@@ -1,0 +1,47 @@
+{
+   "title": "Ghost Stories",
+   "title-note": "pulp fiction magazine, 1920s and 30s",
+   "contents": [
+      {"url": "http://www.isfdb.org/cgi-bin/pe.cgi?29889",
+       "note": "ISFDB"},
+      {"url": "http://www.philsp.com/homeville/SFI/link.asp?magid=GHS",
+       "note": "Galactic Central"}
+   ],
+   "first-issue": {"issue-date": "1926-07", "volume": "1", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce",
+   "first-renewed-contribution":
+      {"issue": {"issue-date": "1926-07", "volume": "1", "number": "1"}},
+   "first-renewed-contribution-source": "1953-JanJun",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1926-07", "volume": "1", "number": "1"},
+        "title": "He Fell in Love With a Ghost",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "using": "Arnold Fountain",
+         "lcna": "n79041782"
+        }
+     },
+     {"issue": {"issue-date": "1926-07", "volume": "1", "number": "1"},
+        "title": "Is He a Superman or a Clever Trickster",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "using": "Samri Frikell",
+         "lcna": "n79041782"
+        }
+     },
+     {"issue": {"issue-date": "1926-07", "volume": "1", "number": "1"},
+        "title": "The Coming of the Star of Hope",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "using": "Arnold Fountain",
+         "lcna": "n79041782"
+        }
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2019-05-30"
+}

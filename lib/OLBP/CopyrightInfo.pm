@@ -512,6 +512,13 @@ sub firstperiod_reference {
   return $str;
 }
 
+sub get_json {
+  my ($self, %params) = @_;
+  my $fname = $params{filename};
+  my $path = $self->{dir} . $fname . ".json";
+  return $self->_readjsonfile($path);
+}
+
 sub firstperiod_listing {
   my ($self, %params) = @_;
   my $fname = $params{filename};
@@ -795,6 +802,10 @@ sub display_page {
          }
          if ($contr->{"editor"}) {
            $str .= ", ed. by " . $self->_display_person($contr->{"editor"});
+         }
+         if ($contr->{"translator"}) {
+           $str .= ", trans. by " .
+               $self->_display_person($contr->{"translator"});
          }
          if ($contr->{"note"}) {
            $str .= ' (' . OLBP::html_encode($contr->{"note"}) . ')';

@@ -29,6 +29,7 @@
           "cdate": "1925-01-25"},
      {"issue-date": "1925-03", "volume": "60", "number": "3"}
    ],
+   "renewed-contribution-completeness": "active/1924",
    "renewed-contributions": [
      {"issue": {"issue-date": "1924-02", "volume": "59", "number": "2"},
       "title": "The Judges",
@@ -174,11 +175,32 @@
        "authorized": "Duganne, Phyllis, 1899-1976",
        "lcna": "n90719514"
       }
+     },
+     {"issue": {"issue-date": "1926-01"},
+      "title": "The End of the Flight",
+      "author": {
+       "authorized": "Maugham, W. Somerset (William Somerset), 1874-1965",
+       "lcna": "n79036830"
+      }
+     },
+     {"issue": {"issue-date": "1926-02"}, 
+      "title": "The Sign of the Crooked Cross",
+      "author": {
+       "authorized": "Gibbs, Philip, 1877-1962",
+       "lcna": "n85232177"
+      }
+     },
+     {"issue": {"issue-date": "1926-06"},
+      "title": "Portrait of a Gentleman",
+      "author": {
+         "authorized": "Arlen, Michael, 1895-1956",
+         "lcna": "n50001591"
+       }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-04-25"
+   "last-updated": "2019-05-29"
 }

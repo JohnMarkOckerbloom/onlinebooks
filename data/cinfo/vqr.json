@@ -7,9 +7,18 @@
    "first-renewed-issue-source": "1953-JanJun",
    "first-renewed-contribution": {"issue": {"issue-date": "1926-07"}},
    "first-renewed-contribution-source": "1953-JanJun",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1926-07"},
+      "title": "In the Santee Swamp",
+      "author": {
+       "authorized": "Rutledge, Archibald, 1883-1973",
+       "lcna": "n50031762"
+      }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-04-21"
+   "last-updated": "2019-05-30"
 }

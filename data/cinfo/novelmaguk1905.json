@@ -9,12 +9,22 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": 
-      {"issue": {"issue-date": "1930-02"}},
-   "first-renewed-contribution-source": "1957-JulDec",
+      {"issue": {"issue-date": "1924-02"}},
+   "first-renewed-contribution-source": "1951-JulDec",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1924-02"}, 
+      "title": "Mrs. Daventry's Reputation",
+      "note": "Renewal record appears in the Books section of CCE.",
+      "author": {
+       "authorized": "Pedler, Margaret",
+       "lcna": "nr2002022198"
+      }
+     }
+   ],
    "additional-note" : "This is a British publication.  Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-05-22"
+   "last-updated": "2019-05-06"
 }

@@ -7,6 +7,7 @@
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1927-05"}},
    "first-renewed-contribution-source": "1954-JulDec",
+   "renewed-issue-completeness": "active/1924",
    "renewed-issues": [
      {"issue-date": "1924-02", "volume": "11", "number": "5"},
      {"issue-date": "1924-03", "volume": "11", "number": "6"},
@@ -14,7 +15,24 @@
      {"issue-date": "1924-05", "volume": "11", "number": "8"},
      {"issue-date": "1924-06", "volume": "11", "number": "9"},
      {"issue-date": "1924-07", "volume": "11", "number": "10"},
-     {"issue-date": "1924-08", "volume": "11", "number": "11"}
+     {"issue-date": "1924-08", "volume": "11", "number": "11"},
+     {"issue-date": "1924-09", "volume": "11", "number": "12"},
+     {"issue-date": "1924-10", "volume": "12", "number": "1"},
+     {"issue-date": "1924-11", "volume": "12", "number": "2"},
+     {"issue-date": "1924-12", "volume": "12", "number": "3"},
+     {"issue-date": "1925-01", "volume": "12", "number": "4",
+      "cdate": "1924-12-15"}, 
+     {"issue-date": "1925-02", "volume": "12", "number": "5",
+      "cdate": "1925-01-02"}, 
+     {"issue-date": "1925-03", "volume": "12", "number": "6"},
+     {"issue-date": "1925-04", "volume": "12", "number": "7"},
+     {"issue-date": "1925-05", "volume": "12", "number": "8"},
+     {"issue-date": "1925-06", "volume": "12", "number": "9"},
+     {"issue-date": "1925-07", "volume": "12", "number": "10"},
+     {"issue-date": "1925-08", "volume": "12", "number": "11"},
+     {"issue-date": "1925-09", "volume": "12", "number": "12"},
+     {"issue-date": "1925-10", "volume": "13", "number": "1"},
+     {"issue-date": "1925-11", "volume": "13", "number": "2"} 
    ],
    "additional-note": 
      "This periodical may include sheet music that has renewals under Music, rather than under Contributions to Periodicals. We have not systematically surveyed Music copyright renewals.",
@@ -22,5 +40,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-02-11"
+   "last-updated": "2019-05-09"
 }

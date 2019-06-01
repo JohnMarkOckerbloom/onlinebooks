@@ -1,0 +1,38 @@
+{
+   "title": "The Famous Story Magazine",
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/GFI/link.asp?magid=FAMST",
+      "note": "FictionMags"}
+   ],
+   "first-issue": {"issue-date": "1925-10", "volume": "1", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce",
+   "first-renewed-contribution":
+     {"issue": {"issue-date": "1925-11", "volume": "1", "number": "2"}},
+   "first-renewed-contribution-source": "1952-JulDec",
+   "last-issue": {"issue-date": "1927-02", "volume": "6", "number": "2"},
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1925-11", "volume": "1", "number": "2"},
+      "title": "Speed",
+      "note": "An earlier version of this story was published in the June 1919 issue of Redbook, and is now in the public domain in the US.",
+      "author": {
+         "authorized": "Lewis, Sinclair, 1885-1951",
+         "lcna": "n79023149"
+       }
+     },
+     {"issue": {"issue-date": "1926-08", "volume": "4", "number": "2"},
+      "title": "Roulette",
+      "note": "An earlier version of this story was published in the May 1921 issue of Cosmopolitan, and is now in the public domain in the US.",
+       "author": {
+         "authorized": "Hurst, Fannie, 1889-1968",
+         "lcna": "n80010314"
+       }
+     }
+   ],
+   "additional-note": "This magazine consisted largely of reprints.  Many of the reprints were originally published long enough ago to be in the public domain now, but they should be checked before determining whether they, or the issue in which they appear, are public domain.  (All of the active renewals that specifically cite this magazine are listed above, but we have not systematically checked the status of reprints in this magazine. The FictionMags contents listings often indicate where and when particular items in the magazine were first published.)",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2019-05-04"
+}

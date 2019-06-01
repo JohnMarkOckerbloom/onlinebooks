@@ -26,6 +26,7 @@
           "cdate": "1925-01-17"},
      {"issue-date": "1925-03", "volume": "4", "number": "3"}
    ],
+   "renewed-contribution-completeness": "active/1924",
    "renewed-contributions": [
      {"issue": {"issue-date": "1924-12", "volume": "3", "number": "12"}, 
       "title": "Paddy's Christmas",
@@ -33,11 +34,83 @@
          "authorized": "Monsell, Helen Albee, 1895-",
          "lcna": "n82136981"
        }
+     },
+     {"issue": {"issue-date": "1925-10"}, 
+      "title": "Just Around the Corner",
+      "title-note": "part 1 of 9",
+       "author": {
+         "authorized": "Seaman, Augusta Huiell, 1879-1950",
+         "lcna": "no96015343"
+       }
+     },
+     {"issue": {"issue-date": "1925-11"}, 
+      "title": "Just Around the Corner",
+      "title-note": "part 2 of 9",
+       "author": {
+         "authorized": "Seaman, Augusta Huiell, 1879-1950",
+         "lcna": "no96015343"
+       }
+     },
+     {"issue": {"issue-date": "1925-12"}, 
+      "title": "Just Around the Corner",
+      "title-note": "part 3 of 9",
+       "author": {
+         "authorized": "Seaman, Augusta Huiell, 1879-1950",
+         "lcna": "no96015343"
+       }
+     },
+     {"issue": {"issue-date": "1926-01"}, 
+      "title": "Just Around the Corner",
+      "title-note": "part 4 of 9",
+       "author": {
+         "authorized": "Seaman, Augusta Huiell, 1879-1950",
+         "lcna": "no96015343"
+       }
+     },
+     {"issue": {"issue-date": "1926-02"}, 
+      "title": "Just Around the Corner",
+      "title-note": "part 5 of 9",
+       "author": {
+         "authorized": "Seaman, Augusta Huiell, 1879-1950",
+         "lcna": "no96015343"
+       }
+     },
+     {"issue": {"issue-date": "1926-03"}, 
+      "title": "Just Around the Corner",
+      "title-note": "part 6 of 9",
+       "author": {
+         "authorized": "Seaman, Augusta Huiell, 1879-1950",
+         "lcna": "no96015343"
+       }
+     },
+     {"issue": {"issue-date": "1926-04"}, 
+      "title": "Just Around the Corner",
+      "title-note": "part 7 of 9",
+       "author": {
+         "authorized": "Seaman, Augusta Huiell, 1879-1950",
+         "lcna": "no96015343"
+       }
+     },
+     {"issue": {"issue-date": "1926-05"}, 
+      "title": "Just Around the Corner",
+      "title-note": "part 8 of 9",
+       "author": {
+         "authorized": "Seaman, Augusta Huiell, 1879-1950",
+         "lcna": "no96015343"
+       }
+     },
+     {"issue": {"issue-date": "1926-06"}, 
+      "title": "Just Around the Corner",
+      "title-note": "part 9 of 9",
+       "author": {
+         "authorized": "Seaman, Augusta Huiell, 1879-1950",
+         "lcna": "no96015343"
+       }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-04-09"
+   "last-updated": "2019-05-31"
 }

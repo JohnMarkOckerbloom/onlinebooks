@@ -13,6 +13,7 @@
    "last-issue": {"issue-date": "1937-04", "volume": "130", "number": "4"},
    "succeeded-by":
      [{"id": "picreviewdelineator", "note": "Pictorial Review-Delineator"}],
+   "renewed-contribution-completeness": "active/1924",
    "renewed-contributions": [
        {"issue": {"issue-date": "1924-02", "volume": "104", "number": "2"}, 
         "title": "Rose of the World",
@@ -117,12 +118,26 @@
          "lcna": "n50006075"
         }
        },
+       {"issue": {"issue-date": "1925-01", "volume": "106", "number": "1"}, 
+        "title": "Enter Emily",
+        "author": {
+         "authorized": "Montgomery, L. M. (Lucy Maud), 1874-1942",
+         "lcna": "n81018346"
+        }
+       },
        {"issue": {"issue-date": "1925-02", "volume": "106", "number": "2"}, 
         "title": "The Black Flemings",
         "title-note": "part 5 of 6",
         "author": {
          "authorized": "Norris, Kathleen Thompson, 1880-1966",
          "lcna": "n50006075"
+        }
+       },
+       {"issue": {"issue-date": "1925-02", "volume": "106", "number": "2"}, 
+        "title": "Too Few Cooks",
+        "author": {
+         "authorized": "Montgomery, L. M. (Lucy Maud), 1874-1942",
+         "lcna": "n81018346"
         }
        },
        {"issue": {"issue-date": "1925-03", "volume": "106", "number": "3"}, 
@@ -133,6 +148,20 @@
          "lcna": "n50006075"
         }
        },
+       {"issue": {"issue-date": "1925-03", "volume": "106", "number": "3"}, 
+        "title": "Night Watch",
+        "author": {
+         "authorized": "Montgomery, L. M. (Lucy Maud), 1874-1942",
+         "lcna": "n81018346"
+        }
+       },
+       {"issue": {"issue-date": "1925-04", "volume": "106", "number": "4"}, 
+        "title": "Her Dog Day",
+        "author": {
+         "authorized": "Montgomery, L. M. (Lucy Maud), 1874-1942",
+         "lcna": "n81018346"
+        }
+       },
        {"issue": {"issue-date": "1925-07", "volume": "107", "number": "1"}, 
         "title": "The Fortune Hunter",
         "author": {
@@ -140,11 +169,75 @@
          "lcna": "n86086096"
         }
        },
+       {"issue": {"issue-date": "1925-11", "volume": "107", "number": "5"},
+        "title": "Beauty and the Beast",
+        "title-note": "part 1 of 8",
+        "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+        }
+       },
+       {"issue": {"issue-date": "1925-11", "volume": "107", "number": "5"},
+        "title": "One Increasing Purpose",
+        "title-note": "part 6 of ?",
+        "author": {
+         "authorized": "Hutchinson, A. S. M. (Arthur Stuart-Menteth), 1880-1971",
+         "lcna": "n84229996"
+        }
+       },
+       {"issue": {"issue-date": "1925-12", "volume": "107", "number": "6"},
+        "title": "Beauty and the Beast",
+        "title-note": "part 2 of 8",
+        "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+        }
+       },
+       {"issue": {"issue-date": "1926-01", "volume": "108", "number": "1"},
+        "title": "Beauty and the Beast",
+        "title-note": "part 3 of 8",
+        "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+        }
+       },
+       {"issue": {"issue-date": "1926-02", "volume": "108", "number": "2"},
+        "title": "Beauty and the Beast",
+        "title-note": "part 4 of 8",
+        "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+        }
+       },
+       {"issue": {"issue-date": "1926-03", "volume": "108", "number": "3"},
+        "title": "Beauty and the Beast",
+        "title-note": "part 5 of 8",
+        "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+        }
+       },
+       {"issue": {"issue-date": "1926-04", "volume": "108", "number": "4"},
+        "title": "Beauty and the Beast",
+        "title-note": "part 6 of 8",
+        "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+        }
+       },
        {"issue": {"issue-date": "1926-05", "volume": "108", "number": "5"}, 
         "title": "Magic for Marigold",
         "author": {
          "authorized": "Montgomery, L. M. (Lucy Maud), 1874-1942",
          "lcna": "n81018346"
+        }
+       },
+       {"issue": {"issue-date": "1926-05", "volume": "108", "number": "5"}, 
+        "title": "Beauty and the Beast",
+        "title-note": "part 7 of 8",
+        "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
         }
        },
        {"issue": {"issue-date": "1926-06", "volume": "108", "number": "6"}, 
@@ -160,6 +253,14 @@
         "author": {
          "authorized": "Montgomery, L. M. (Lucy Maud), 1874-1942",
          "lcna": "n81018346"
+        }
+       },
+       {"issue": {"issue-date": "1926-06", "volume": "108", "number": "6"}, 
+        "title": "Beauty and the Beast",
+        "title-note": "part 8 of 8",
+        "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
         }
        },
        {"issue": {"issue-date": "1926-07", "volume": "109", "number": "1"}, 
@@ -2329,12 +2430,12 @@
         }
        }
    ],
-   "additional-notes": ["We have not yet surveyed contribution renewals in the CCE volumes for all of 1952, or January-June 1953, so some renewed copyrights for 1924-1926 contributions might not be represented above. The list above, however, includes mentions of the Delineator in all other volumes covering active renewals prior to the merger with Pictorial Review.",
+   "additional-notes": ["We have not yet surveyed contribution renewals in the CCE volumes for all of January-June 1953, so some renewed copyrights for 1925-1926 contributions might not be represented above. The list above, however, includes mentions of the Delineator in all other volumes covering active renewals prior to the merger with Pictorial Review.",
    "Except where noted, titles and issue dates are as given in the renewal records.  In Delineator volumes we have examined, we have found some discrepancies between what appears in the issues and what appears in the renewal records; in those cases, we first note what appears in the issues.  Some sources also suggest discrepancies in other volumes we have not had the chance to examine."
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-04-09"
+   "last-updated": "2019-05-28"
 }

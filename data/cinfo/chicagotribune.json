@@ -11,6 +11,7 @@
    "first-renewed-contribution":
       {"issue": {"issue-date": "1924-03-23"}},
    "first-renewed-contribution-source": "1951-JanJun",
+   "renewed-contribution-completeness": "active/1924",
    "renewed-contributions": [
      {"issue": {"issue-date": "1924-03-23"}, 
       "title": "Incense",
@@ -500,6 +501,41 @@
        "authorized": "Tarkington, Booth, 1869-1946",
        "lcna": "n79078124"
       }
+     },
+     {"issue": {"issue-date": "1925-06-07"},
+      "title": "Our Own Movie Queen",
+      "author": {
+       "authorized": "Fitzgerald, F. Scott (Francis Scott), 1896-1940",
+       "lcna": "n79006871"
+      }
+     },
+     {"issue": {"issue-date": "1925-10-11"},
+      "title": "Napoleon Was a Little Man",
+      "author": {
+       "authorized": "Tarkington, Booth, 1869-1946",
+       "lcna": "n79078124"
+      }
+     },
+     {"issue": {"issue-date": "1925-11-29"},
+      "title": "Overhead",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1925-12-27"},
+      "title": "Unkissed and Sober",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1926-02-14"}, 
+      "title": "Aunt Florrie",
+      "author": {
+       "authorized": "Bacon, Josephine Daskam, 1876-1961",
+       "lcna": "n50020293"
+      }
      }
    ],
    "additional-note": "The Daily issues are numbered separately from the Sunday issues (though both use the same volume numbers).  The first Sunday Tribune issue with an active renewal is the July 21, 1946 issue, volume 105, number 29.",
@@ -507,5 +543,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-04-24"
+   "last-updated": "2019-05-26"
 }

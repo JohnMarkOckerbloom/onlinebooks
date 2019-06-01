@@ -7,6 +7,7 @@
        "issue": {"issue-date": "1924-02", "cdate": "1924-01-02"}
    },
    "first-renewed-contribution-source": "1951-JulDec",
+   "renewed-contribution-completeness": "active/1924",
    "renewed-contributions": [
      {"issue": {"issue-date": "1924-02"}, 
       "title": "The Road to En-Dor",
@@ -173,6 +174,13 @@
        "lcna": "n50034820"
       }
      },
+     {"issue": {"issue-date": "1925-10"},
+      "title": "Not a Single Nerve",
+      "author": {
+       "authorized": "Gillmore, Inez Haynes, 1873-1970",
+       "lcna": "n85372376"
+      }
+     },
      {"issue": {"issue-date": "1925-12"},
       "title": "Polly's Short Month",
       "author": {
@@ -186,6 +194,20 @@
        "authorized": "Abdullah, Achmed, 1881-1945",
        "lcna": "n50034820"
       }
+     },
+     {"issue": {"issue-date": "1926-02"},
+      "title": "Good Service",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1926-05"},
+      "title": "When My Caravan Comes In",
+      "author": {
+       "authorized": "Abdullah, Achmed, 1881-1945",
+       "lcna": "n50034820"
+      }
      }
    ],
    "additional-note" : "Active contribution renewals are recorded beginning in the 1951 January-June CCE volume, but the earliest actively renewed contribution is noted in the 1951 July-December volume.",
@@ -193,5 +215,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-04-25"
+   "last-updated": "2019-05-18"
 }

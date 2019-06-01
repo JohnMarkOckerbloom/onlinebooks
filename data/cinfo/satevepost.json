@@ -94,6 +94,7 @@
      {"issue-date": "1925-06-20", "volume": "197", "number": "51"},
      {"issue-date": "1925-06-27", "volume": "197", "number": "52"}
    ],
+   "renewed-contribution-completeness": "active/1924",
    "renewed-contributions": [
      {"issue": {"issue-date": "1924-01-05", "volume": "196", "number": "27"},
       "title": "The Priceless Pearl",
@@ -491,6 +492,13 @@
        "lcna": "n94010028"
       }
      },
+     {"issue": {"issue-date": "1924-10-11", "volume": "197", "number": "15"},
+      "title": "The Rollicking God",
+      "author": {
+       "authorized": "Johnson, Nunnally",
+       "lcna": "n79134929"
+      }
+     },
      {"issue": {"issue-date": "1924-10-18", "volume": "197", "number": "16"},
       "title": "The Roar of the Crowd",
       "title-note": "part 2 of 6",
@@ -662,6 +670,13 @@
          "lcna": "n50028704"
        }
      },
+     {"issue": {"issue-date": "1925-02-07", "volume": "197", "number": "32"},
+      "title": "Husband for George-Anne",
+      "author": {
+         "authorized": "MacDonald, Hazel Christie",
+         "lcna": "no2013054807"
+      }
+     },
      {"issue": {"issue-date": "1925-02-14", "volume": "197", "number": "33"},
       "title": "The Educated Money",
       "author": {
@@ -728,6 +743,13 @@
          "lcna": "n50048902"
       }
      },
+     {"issue": {"issue-date": "1925-03-14", "volume": "197", "number": "37"},
+      "title": "The Hero",
+      "author": {
+       "authorized": "Johnson, Nunnally",
+       "lcna": "n79134929"
+      }
+     },
      {"issue": {"issue-date": "1925-03-21", "volume": "197", "number": "38"},
       "title": "The Foot of the Class",
       "author": {
@@ -755,6 +777,13 @@
       "author": {
          "authorized": "White, Stewart Edward, 1873-1946",
          "lcna": "n50020243"
+      }
+     },
+     {"issue": {"issue-date": "1925-03-28", "volume": "197", "number": "39"}, 
+      "title": "Lovelorn",
+      "author": {
+       "authorized": "Johnson, Nunnally",
+       "lcna": "n79134929"
       }
      },
      {"issue": {"issue-date": "1925-03-28", "volume": "197", "number": "39"}, 
@@ -796,6 +825,14 @@
       }
      },
      {"issue": {"issue-date": "1925-04-25", "volume": "197", "number": "43"}, 
+      "title": "The Reluctant Duchess",
+      "title-note": "part 1 of 4",
+       "author": {
+         "authorized": "Miller, Alice Duer, 1874-1942",
+         "lcna": "n83057208"
+       }
+     },
+     {"issue": {"issue-date": "1925-04-25", "volume": "197", "number": "43"}, 
       "title": "Much Too Clever",
       "author": {
          "authorized": "Marquand, John P. (John Phillips), 1893-1960",
@@ -807,6 +844,13 @@
       "author": {
        "authorized": "Upson, William Hazlett, 1891-1975",
        "lcna": "n90676728"
+      }
+     },
+     {"issue": {"issue-date": "1925-04-25", "volume": "197", "number": "43"}, 
+      "title": "The Laughing Death",
+      "author": {
+       "authorized": "Johnson, Nunnally",
+       "lcna": "n79134929"
       }
      },
      {"issue": {"issue-date": "1925-04-25", "volume": "197", "number": "43"}, 
@@ -823,6 +867,21 @@
        "lcna": "n90676728"
       }
      },
+     {"issue": {"issue-date": "1925-05-02", "volume": "197", "number": "44"}, 
+      "title": "The Reluctant Duchess",
+      "title-note": "part 2 of 4",
+       "author": {
+         "authorized": "Miller, Alice Duer, 1874-1942",
+         "lcna": "n83057208"
+       }
+     },
+     {"issue": {"issue-date": "1925-05-09", "volume": "197", "number": "45"},
+      "title": "In Praise of James Carabine",
+      "author": {
+         "authorized": "Byrne, Donn, 1889-1928",
+         "lcna": "n79041597"
+       }
+     },
      {"issue": {"issue-date": "1925-05-09", "volume": "197", "number": "45"},
       "title": "The First Gentleman of the Land",
       "author": {
@@ -837,12 +896,35 @@
          "lcna": "no96006587"
        }
      },
+     {"issue": {"issue-date": "1925-05-09", "volume": "197", "number": "45"},
+      "title": "Spoils of War",
+      "author": {
+       "authorized": "Wiley, Hugh, 1884-1968",
+       "lcna": "no00015213"
+      }
+     },
+     {"issue": {"issue-date": "1925-05-09", "volume": "197", "number": "45"},
+      "title": "The Reluctant Duchess",
+      "title-note": "part 3 of 4",
+       "author": {
+         "authorized": "Miller, Alice Duer, 1874-1942",
+         "lcna": "n83057208"
+       }
+     },
      {"issue": {"issue-date": "1925-05-16", "volume": "197", "number": "46"},
       "title": "Technic",
       "author": {
        "authorized": "Burnet, Dana, 1888-1962",
        "lcna": "n88172670"
       }
+     },
+     {"issue": {"issue-date": "1925-05-16", "volume": "197", "number": "46"},
+      "title": "The Reluctant Duchess",
+      "title-note": "part 4 of 4",
+       "author": {
+         "authorized": "Miller, Alice Duer, 1874-1942",
+         "lcna": "n83057208"
+       }
      },
      {"issue": {"issue-date": "1925-05-23", "volume": "197", "number": "47"},
       "title": "Those High Society Blues",
@@ -873,6 +955,14 @@
        }
      },
      {"issue": {"issue-date": "1925-06-13", "volume": "197", "number": "50"},
+      "title": "Sam in the Suburbs",
+      "title-note": "part 1 of 6",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1925-06-13", "volume": "197", "number": "50"},
       "title": "Charlie, the Gloom Hound",
       "author": {
        "authorized": "Upson, William Hazlett, 1891-1975",
@@ -893,12 +983,106 @@
        "lcna": "n88172670"
       }
      },
+     {"issue": {"issue-date": "1925-06-20", "volume": "197", "number": "51"},
+      "title": "Sam in the Suburbs",
+      "title-note": "part 2 of 6",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1925-06-27", "volume": "197", "number": "52"},
+      "title": "Spanish Acres",
+      "title-note": "part 1 of 5",
+      "author": {
+         "authorized": "Evarts, Hal G. (Hal George), 1915-1989",
+         "lcna": "n50009158"
+      }
+     },
      {"issue": {"issue-date": "1925-06-27", "volume": "197", "number": "52"},
       "title": "Without the Option",
       "author": {
          "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
          "lcna": "n78089036"
        }
+     },
+     {"issue": {"issue-date": "1925-06-27", "volume": "197", "number": "52"},
+      "title": "White Flannels",
+      "author": {
+         "authorized": "Cary, Lucian, 1886-1971",
+         "lcna": "no90003387"
+       }
+     },
+     {"issue": {"issue-date": "1925-06-27", "volume": "197", "number": "52"},
+      "title": "Sam in the Suburbs",
+      "title-note": "part 3 of 6",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1925-07-04", "volume": "198", "number": "1"},
+      "title": "Jamaica Road",
+      "author": {
+         "authorized": "Marquand, John P. (John Phillips), 1893-1960",
+         "lcna": "n79061320"
+       }
+     },
+     {"issue": {"issue-date": "1925-07-04", "volume": "198", "number": "1"},
+      "title": "Spanish Acres",
+      "title-note": "part 2 of 5",
+      "author": {
+         "authorized": "Evarts, Hal G. (Hal George), 1915-1989",
+         "lcna": "n50009158"
+      }
+     },
+     {"issue": {"issue-date": "1925-07-04", "volume": "198", "number": "1"},
+      "title": "Sam in the Suburbs",
+      "title-note": "part 4 of 6",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1925-07-11", "volume": "198", "number": "2"},
+      "title": "Spanish Acres",
+      "title-note": "part 3 of 5",
+      "author": {
+         "authorized": "Evarts, Hal G. (Hal George), 1915-1989",
+         "lcna": "n50009158"
+      }
+     },
+     {"issue": {"issue-date": "1925-07-11", "volume": "198", "number": "2"},
+      "title": "Sam in the Suburbs",
+      "title-note": "part 5 of 6",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1925-07-18", "volume": "198", "number": "3"},
+      "title": "Spanish Acres",
+      "title-note": "part 4 of 5",
+      "author": {
+         "authorized": "Evarts, Hal G. (Hal George), 1915-1989",
+         "lcna": "n50009158"
+      }
+     },
+     {"issue": {"issue-date": "1925-07-18", "volume": "198", "number": "3"},
+      "title": "Sam in the Suburbs",
+      "title-note": "part 6 of 6",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1925-07-25", "volume": "198", "number": "4"},
+      "title": "Spanish Acres",
+      "title-note": "part 5 of 5",
+      "author": {
+         "authorized": "Evarts, Hal G. (Hal George), 1915-1989",
+         "lcna": "n50009158"
+      }
      },
      {"issue": {"issue-date": "1925-08-01", "volume": "198", "number": "5"},
       "title": "The Great American Scandal",
@@ -923,6 +1107,27 @@
        "lcna": "n96037745"
       }
      },
+     {"issue": {"issue-date": "1925-08-22", "volume": "198", "number": "8"},
+      "title": "The Purification of Rodney Spelvin",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1925-08-22", "volume": "198", "number": "8"},
+       "title": "Houses",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1925-08-29", "volume": "198", "number": "9"}, 
+      "title": "I Got a Swell Job, I Got a Peach of a Girl",
+      "author": {
+       "authorized": "Upson, William Hazlett, 1891-1975",
+       "lcna": "n90676728"
+      }
+     },
      {"issue": {"issue-date": "1925-08-29", "volume": "198", "number": "9"}, 
       "title": "The Great American Scandal",
       "title-note": "part 3 of 10",
@@ -945,6 +1150,34 @@
          "lcna": "n50028704"
        }
      },
+     {"issue": {"issue-date": "1925-09-05", "volume": "198", "number": "10"},
+      "title": "The Death of an Infinitive-Splitter",
+      "author": {
+       "authorized": "Johnson, Nunnally",
+       "lcna": "n79134929"
+      }
+     },
+     {"issue": {"issue-date": "1925-09-12", "volume": "198", "number": "11"}, 
+      "title": "Nyumbo, Hunting With the Long Bow",
+      "author": {
+         "authorized": "White, Stewart Edward, 1873-1946",
+         "lcna": "n50020243"
+      }
+     },
+     {"issue": {"issue-date": "1925-09-12", "volume": "198", "number": "11"}, 
+      "title": "The Lure of the Great North Woods",
+      "author": {
+         "authorized": "Roberts, Kenneth Lewis, 1885-1957",
+         "lcna": "n50048902"
+      }
+     },
+     {"issue": {"issue-date": "1925-09-12", "volume": "198", "number": "11"}, 
+       "title": "Bottom of the Well",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
      {"issue": {"issue-date": "1925-09-12", "volume": "198", "number": "11"}, 
       "title": "The Great American Scandal",
       "title-note": "part 4 of 10",
@@ -953,12 +1186,48 @@
        "lcna": "n96037745"
       }
      },
+     {"issue": {"issue-date": "1925-09-19", "volume": "198", "number": "12"},
+      "title": "High Skates",
+      "note": "Title as given in CCE. FictionMags gives title as 'High Stakes'. I have not examined the issue in question to see what is used there.",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
      {"issue": {"issue-date": "1925-09-26", "volume": "198", "number": "13"}, 
       "title": "The Great American Scandal",
       "title-note": "part 5 of 10",
       "author": {
        "authorized": "Child, Richard Washburn, 1881-1935",
        "lcna": "n96037745"
+      }
+     },
+     {"issue": {"issue-date": "1925-09-26", "volume": "198", "number": "13"}, 
+      "title": "Nyama! Nyama!",
+      "author": {
+         "authorized": "White, Stewart Edward, 1873-1946",
+         "lcna": "n50020243"
+      }
+     },
+     {"issue": {"issue-date": "1925-10-03", "volume": "198", "number": "14"},
+       "title": "The Samson Strain",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1925-10-03", "volume": "198", "number": "14"},
+      "title": "Souvenirs",
+      "author": {
+       "authorized": "Upson, William Hazlett, 1891-1975",
+       "lcna": "n90676728"
+      }
+     },
+     {"issue": {"issue-date": "1925-10-03", "volume": "198", "number": "14"},
+      "title": "Quiet African Days",
+      "author": {
+         "authorized": "White, Stewart Edward, 1873-1946",
+         "lcna": "n50020243"
       }
      },
      {"issue": {"issue-date": "1925-10-10", "volume": "198", "number": "15"}, 
@@ -976,11 +1245,39 @@
        "lcna": "n96037745"
       }
      },
+     {"issue": {"issue-date": "1925-10-10", "volume": "198", "number": "15"}, 
+      "title": "Sonnet",
+      "author": {
+         "authorized": "King, Stoddard, 1889-1933",
+         "lcna": "nr2003002767"
+       }
+     },
+     {"issue": {"issue-date": "1925-10-17", "volume": "198", "number": "16"},
+      "title": "Dirty Work in the Argonne",
+      "author": {
+       "authorized": "Upson, William Hazlett, 1891-1975",
+       "lcna": "n90676728"
+      }
+     },
      {"issue": {"issue-date": "1925-10-17", "volume": "198", "number": "16"},
       "title": "Wind Blown",
       "author": {
        "authorized": "Burnet, Dana, 1888-1962",
        "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1925-10-17", "volume": "198", "number": "16"},
+      "title": "Lions With the Bow and Arrow",
+      "author": {
+         "authorized": "White, Stewart Edward, 1873-1946",
+         "lcna": "n50020243"
+      }
+     },
+     {"issue": {"issue-date": "1925-10-24", "volume": "198", "number": "17"}, 
+      "title": "Lion Hunting",
+      "author": {
+         "authorized": "White, Stewart Edward, 1873-1946",
+         "lcna": "n50020243"
       }
      },
      {"issue": {"issue-date": "1925-10-24", "volume": "198", "number": "17"}, 
@@ -1015,11 +1312,53 @@
       }
      },
      {"issue": {"issue-date": "1925-11-14", "volume": "198", "number": "20"}, 
+      "title": "Flora and Fauna",
+      "author": {
+         "authorized": "Hale, Agnes Burke",
+         "lcna": "no97070814"
+       }
+     },
+     {"issue": {"issue-date": "1925-11-14", "volume": "198", "number": "20"}, 
       "title": "The Great American Scandal",
       "title-note": "part 10 of 10",
       "author": {
        "authorized": "Child, Richard Washburn, 1881-1935",
        "lcna": "n96037745"
+      }
+     },
+     {"issue": {"issue-date": "1925-11-21", "volume": "198", "number": "21"},
+      "title": "Buttercup Day",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1925-11-21", "volume": "198", "number": "21"},
+      "title": "Even Eve",
+      "author": {
+         "authorized": "Hale, Agnes Burke",
+         "lcna": "no97070814"
+       }
+     },
+     {"issue": {"issue-date": "1925-11-28", "volume": "198", "number": "22"},
+       "title": "Trodden Dust",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1925-12-05", "volume": "198", "number": "23"}, 
+      "title": "The Last of the Hoopwells",
+      "author": {
+         "authorized": "Marquand, John P. (John Phillips), 1893-1960",
+         "lcna": "n79061320"
+       }
+     },
+     {"issue": {"issue-date": "1925-12-05", "volume": "198", "number": "23"}, 
+      "title": "Good Old Grandpa",
+      "author": {
+       "authorized": "Upson, William Hazlett, 1891-1975",
+       "lcna": "n90676728"
       }
      },
      {"issue": {"issue-date": "1925-12-05", "volume": "198", "number": "23"}, 
@@ -1029,11 +1368,230 @@
        "lcna": "n86086096"
       }
      },
+     {"issue": {"issue-date": "1925-12-05", "volume": "198", "number": "23"}, 
+      "title": "The Moto Car",
+      "author": {
+         "authorized": "White, Stewart Edward, 1873-1946",
+         "lcna": "n50020243"
+      }
+     },
+     {"issue": {"issue-date": "1925-12-12", "volume": "198", "number": "24"},
+      "title": "Francine",
+      "author": {
+         "authorized": "Tarkington, Booth, 1869-1946",
+         "lcna": "n79078124"
+       }
+     },
      {"issue": {"issue-date": "1925-12-19", "volume": "198", "number": "25"}, 
       "title": "The Pennington Perambulator",
       "author": {
          "authorized": "Connell, Richard Edward, 1893-1949",
          "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1926-01-09", "volume": "198", "number": "28"},
+      "title": "The Yes and No Man",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1926-01-16", "volume": "198", "number": "29"},
+       "title": "Easy",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1926-01-23", "volume": "198", "number": "30"},
+      "title": "You Can Always Get Married",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1926-01-30", "volume": "198", "number": "31"},
+      "title": "Women and Elephants",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1926-02-06", "volume": "198", "number": "32"}, 
+      "title": "Her Husband's Shoes",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1926-02-06", "volume": "198", "number": "32"},
+      "title": "Evidence",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1926-02-13", "volume": "198", "number": "33"},
+      "title": "Diamond Cuff-Links",
+      "note": "Issue as stated in FictionMags. CCE puts this title in the February 20 issue.  I have not examined the issues to see which is correct, or if this was a two-part story.",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1926-02-20", "volume": "198", "number": "34"},
+      "title": "Diamond Cuff-Links",
+      "note": "Issue as stated in CCE. FictionMags puts this title in the February 13 issue.  I have not examined the issues to see which is correct, or if this was a two-part story.",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1926-02-20", "volume": "198", "number": "34"},
+      "title": "Fun and Neighbors",
+      "author": {
+         "authorized": "Marquand, John P. (John Phillips), 1893-1960",
+         "lcna": "n79061320"
+       }
+     },
+     {"issue": {"issue-date": "1926-02-20", "volume": "198", "number": "34"},
+       "title": "The Last Rose of Sumble",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1926-02-27", "volume": "198", "number": "35"},
+      "title": "The Love of a Moron",
+      "author": {
+       "authorized": "Johnson, Nunnally",
+       "lcna": "n79134929"
+      }
+     },
+     {"issue": {"issue-date": "1926-03-13", "volume": "198", "number": "37"},
+      "title": "His Name in the Papers",
+      "author": {
+       "authorized": "Johnson, Nunnally",
+       "lcna": "n79134929"
+      }
+     },
+     {"issue": {"issue-date": "1926-03-20", "volume": "198", "number": "38"},
+      "title": "The First Lie",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1926-03-20", "volume": "198", "number": "38"},
+       "title": "Vinegar",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1926-03-27", "volume": "198", "number": "39"},
+      "title": "Closet Diplomacy",
+      "author": {
+         "authorized": "Hale, Agnes Burke",
+         "lcna": "no97070814"
+       }
+     },
+     {"issue": {"issue-date": "1926-04-03", "volume": "198", "number": "40"},
+      "title": "Battling Time",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1926-04-03", "volume": "198", "number": "40"},
+      "title": "Fame is a Bubble",
+      "author": {
+       "authorized": "Johnson, Nunnally",
+       "lcna": "n79134929"
+      }
+     },
+     {"issue": {"issue-date": "1926-04-10", "volume": "198", "number": "41"},
+       "title": "Squashes",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1926-04-24", "volume": "198", "number": "43"},
+      "title": "Job Shy",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1926-05-01", "volume": "198", "number": "44"},
+      "title": "A Thousand in the Bank",
+      "author": {
+         "authorized": "Marquand, John P. (John Phillips), 1893-1960",
+         "lcna": "n79061320"
+       }
+     },
+     {"issue": {"issue-date": "1926-05-08", "volume": "198", "number": "45"},
+      "title": "Angels on Horseback",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1926-05-08", "volume": "198", "number": "45"},
+      "title": "Tea Leaves",
+      "author": {
+         "authorized": "Marquand, John P. (John Phillips), 1893-1960",
+         "lcna": "n79061320"
+       }
+     },
+     {"issue": {"issue-date": "1926-05-08", "volume": "198", "number": "45"},
+      "title": "What Would a Young Man Do",
+      "author": {
+         "authorized": "Kilbourne, Fannie, 1890-",
+         "lcna": "no93026233"
+       }
+     },
+     {"issue": {"issue-date": "1926-05-15", "volume": "198", "number": "46"},
+       "title": "The Witch Tree",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1926-05-22", "volume": "198", "number": "47"},
+      "title": "A Week-End at Atlantic City",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1926-05-29", "volume": "198", "number": "48"}, 
+      "title": "The Blame of Youth",
+      "author": {
+         "authorized": "Marquand, John P. (John Phillips), 1893-1960",
+         "lcna": "n79061320"
+       }
+     },
+     {"issue": {"issue-date": "1926-05-29", "volume": "198", "number": "48"}, 
+      "title": "A Good Party Man",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1926-06-12", "volume": "198", "number": "50"},
+       "title": "The Island in the Night",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1926-06-19", "volume": "198", "number": "51"},
+      "title": "Her Heart and Headlines",
+      "author": {
+         "authorized": "Hale, Agnes Burke",
+         "lcna": "no97070814"
        }
      }
    ],
@@ -1042,5 +1600,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-04-26"
+   "last-updated": "2019-05-29"
 }

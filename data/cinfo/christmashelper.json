@@ -1,0 +1,32 @@
+{
+   "title": "Christmas Helper",
+   "first-renewed-issue": {"issue-date": "1925", "number": "13"},
+   "first-renewed-issue-source": "1952-JulDec",
+   "first-renewed-contribution":
+      {"issue": {"issue-date": "1924", "number": "12"}},
+   "first-renewed-contribution-source": "1951-JulDec",
+   "renewed-issues": [
+     {"issue-date": "1925", "number": "13"}, 
+     {"issue-date": "1927", "number": "15"} 
+   ],
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1924", "number": "12"}, 
+      "title": "Glory, Sang the Angels Bright",
+      "note": "Renewal record appears in the Books section of CCE.",
+      "authors": [
+       {"authorized": "De Armond, Lizzie",
+        "lcna": "nr2002022198"},
+       {"authorized": "Ackley, B. D. (Bentley DeForrest), 1872-1958",
+        "lcna": "no93030565"}
+      ]
+     }
+   ],
+   "additional-notes" : ["Renewals for this annual may be in the Books ection of the CCE, rather than in the Periodicals section (or the Contributions to Periodicals section, in years that include that).",
+"This annual may include sheet music that has renewals under Music, rather than under Contributions to Periodicals. We have not systematically surveyed Music copyright renewals."
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2019-05-06"
+}

@@ -8,6 +8,7 @@
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": {"issue": {"issue-date": "1924-03"}},
    "first-renewed-contribution-source": "1951-JanJun",
+   "renewed-contribution-completeness": "active/1924",
    "renewed-contributions": [
      {"issue": {"issue-date": "1924-03"},
       "title": "Fungus Diseases That Destroy Insects",
@@ -22,11 +23,18 @@
          "authorized": "Howes, Paul Griswold, 1892-1983",
          "lcna": "n87832444"
       }
+     },
+     {"issue": {"issue-date": "1926-03"},
+      "title": "Our Friends the Spiders and Millipedes",
+      "author": {
+         "authorized": "Howes, Paul Griswold, 1892-1983",
+         "lcna": "n87832444"
+      }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-04-05"
+   "last-updated": "2019-05-28"
 }

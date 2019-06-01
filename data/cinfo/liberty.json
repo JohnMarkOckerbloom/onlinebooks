@@ -58,6 +58,7 @@
      {"issue-date": "1925-01-31", "volume": "1", "number": "39"},
      {"issue-date": "1925-02-07", "volume": "1", "number": "40"}
    ],
+   "renewed-contribution-completeness": "active/1924",
    "renewed-contributions": [
      {"issue": {"issue-date": "1924-06-07", "volume": "1", "number": "5"},
       "title": "What of it?",
@@ -237,6 +238,13 @@
        "lcna": "n79023324"
       }
      },
+     {"issue": {"issue-date": "1925-02-14", "volume": "1", "number": "41"},
+      "title": "Street of Forgotten Men",
+      "author": {
+       "authorized": "Turner, George Kibbe, 1869-1952",
+       "lcna": "n93023435"
+      }
+     },
      {"issue": {"issue-date": "1925-02-21", "volume": "1", "number": "42"},
       "title": "The Other Side",
       "title-note": "part 2 of 5",
@@ -332,6 +340,14 @@
       }
      },
      {"issue": {"issue-date": "1925-04-18", "volume": "1", "number": "50"},
+      "title": "The Shock Punch",
+      "title-note": "part 1 of 2",
+      "author": {
+       "authorized": "Saunders, John Monk, 1897-1940",
+       "lcna": "n87896349"
+      }
+     },
+     {"issue": {"issue-date": "1925-04-18", "volume": "1", "number": "50"},
       "title": "Broken Waters",
       "title-note": "part 7 of 7",
       "author": {
@@ -346,8 +362,23 @@
        "lcna": "n86086096"
       }
      },
+     {"issue": {"issue-date": "1925-04-25", "volume": "1", "number": "51"},
+      "title": "The Shock Punch",
+      "title-note": "part 2 of 2",
+      "author": {
+       "authorized": "Saunders, John Monk, 1897-1940",
+       "lcna": "n87896349"
+      }
+     },
      {"issue": {"issue-date": "1925-05-09", "volume": "2", "number": "1"},
       "title": "Mr. and Mrs. Fixit",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1925-06-20", "volume": "2", "number": "7"},
+      "title": "Women",
       "author": {
        "authorized": "Lardner, Ring, 1885-1933",
        "lcna": "n79023324"
@@ -360,17 +391,184 @@
        "lcna": "n50007691"
       }
      },
+     {"issue": {"issue-date": "1925-08-29", "volume": "2", "number": "17"}, 
+      "title": "Pioneers",
+      "note": "CCE files this renewal under Harold Hopper Titus (who was a philosophy professor, 1894-1984), though it is more likely to be Harold Titus (the novelist, 1888-1967)",
+      "author": {
+       "name": "Harold Titus"
+      }
+     },
+     {"issue": {"issue-date": "1925-10-03", "volume": "2", "number": "22"},
+      "title": "A Day With Conrad Green",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1925-10-31", "volume": "2", "number": "26"},
+      "title": "Reunion",
+      "note": "Issue as given in FictionMags.  CCE gives the issue date for this story as October 13, which appears to be a typographical error, as there is no issue with that date.",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
      {"issue": {"issue-date": "1925-11-21", "volume": "2", "number": "29"},
        "title": "Smithy",
        "author": {
          "authorized": "Adams, Samuel Hopkins, 1871-1958",
          "lcna": "n50037535"
        }
+     },
+     {"issue": {"issue-date": "1925-12-05", "volume": "2", "number": "31"},
+      "title": "Mannequin",
+      "title-note": "part 1 of 12",
+       "author": {
+         "authorized": "Hurst, Fannie, 1889-1968",
+         "lcna": "n80010314"
+       }
+     },
+     {"issue": {"issue-date": "1925-12-12", "volume": "2", "number": "32"},
+      "title": "Mannequin",
+      "title-note": "part 2 of 12",
+       "author": {
+         "authorized": "Hurst, Fannie, 1889-1968",
+         "lcna": "n80010314"
+       }
+     },
+     {"issue": {"issue-date": "1925-12-19", "volume": "2", "number": "33"},
+      "title": "Mannequin",
+      "title-note": "part 3 of 12",
+       "author": {
+         "authorized": "Hurst, Fannie, 1889-1968",
+         "lcna": "n80010314"
+       }
+     },
+     {"issue": {"issue-date": "1925-12-26", "volume": "2", "number": "34"},
+      "title": "Mannequin",
+      "title-note": "part 4 of 12",
+       "author": {
+         "authorized": "Hurst, Fannie, 1889-1968",
+         "lcna": "n80010314"
+       }
+     },
+     {"issue": {"issue-date": "1926-01-02", "volume": "2", "number": "35"},
+      "title": "Mannequin",
+      "title-note": "part 5 of 12",
+       "author": {
+         "authorized": "Hurst, Fannie, 1889-1968",
+         "lcna": "n80010314"
+       }
+     },
+     {"issue": {"issue-date": "1926-01-09", "volume": "2", "number": "36"},
+      "title": "Mannequin",
+      "title-note": "part 6 of 12",
+       "author": {
+         "authorized": "Hurst, Fannie, 1889-1968",
+         "lcna": "n80010314"
+       }
+     },
+     {"issue": {"issue-date": "1926-01-16", "volume": "2", "number": "37"},
+      "title": "Mannequin",
+      "title-note": "part 7 of 12",
+       "author": {
+         "authorized": "Hurst, Fannie, 1889-1968",
+         "lcna": "n80010314"
+       }
+     },
+     {"issue": {"issue-date": "1926-01-23", "volume": "2", "number": "38"},
+      "title": "Mannequin",
+      "title-note": "part 8 of 12",
+       "author": {
+         "authorized": "Hurst, Fannie, 1889-1968",
+         "lcna": "n80010314"
+       }
+     },
+     {"issue": {"issue-date": "1926-01-20", "volume": "2", "number": "39"},
+      "title": "Mannequin",
+      "title-note": "part 9 of 12",
+       "author": {
+         "authorized": "Hurst, Fannie, 1889-1968",
+         "lcna": "n80010314"
+       }
+     },
+     {"issue": {"issue-date": "1926-02-06", "volume": "2", "number": "40"},
+      "title": "Mannequin",
+      "title-note": "part 10 of 12",
+       "author": {
+         "authorized": "Hurst, Fannie, 1889-1968",
+         "lcna": "n80010314"
+       }
+     },
+     {"issue": {"issue-date": "1926-02-06", "volume": "2", "number": "40"},
+      "title": "The Tree of Romance",
+      "author": {
+       "authorized": "Duganne, Phyllis, 1899-1976",
+       "lcna": "n90719514"
+      }
+     },
+     {"issue": {"issue-date": "1926-02-13", "volume": "2", "number": "41"},
+      "title": "Mannequin",
+      "title-note": "part 11 of 12",
+       "author": {
+         "authorized": "Hurst, Fannie, 1889-1968",
+         "lcna": "n80010314"
+       }
+     },
+     {"issue": {"issue-date": "1926-02-20", "volume": "2", "number": "42"},
+      "title": "Flung Roses",
+      "author": {
+       "authorized": "Duganne, Phyllis, 1899-1976",
+       "lcna": "n90719514"
+      }
+     },
+     {"issue": {"issue-date": "1926-02-20", "volume": "2", "number": "42"},
+      "title": "Mannequin",
+      "title-note": "part 12 of 12",
+       "author": {
+         "authorized": "Hurst, Fannie, 1889-1968",
+         "lcna": "n80010314"
+       }
+     },
+     {"issue": {"issue-date": "1926-03-06", "volume": "2", "number": "44"},
+       "title": "The Masque Ball",
+       "author": {
+         "authorized": "Adams, Samuel Hopkins, 1871-1958",
+         "lcna": "n50037535"
+       }
+     },
+     {"issue": {"issue-date": "1926-05-22", "volume": "3", "number": "3"},
+      "title": "Stop, Go",
+      "author": {
+       "authorized": "Duganne, Phyllis, 1899-1976",
+       "lcna": "n90719514"
+      }
+     },
+     {"issue": {"issue-date": "1926-06-12", "volume": "3", "number": "6"},
+      "title": "Farewell to the Moon",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1926-06-12", "volume": "3", "number": "6"},
+      "title": "The Language of the Stars",
+      "author": {
+       "authorized": "Benét, Stephen Vincent, 1898-1943",
+       "lcna": "n50007691"
+      }
+     },
+     {"issue": {"issue-date": "1926-06-12", "volume": "3", "number": "6"},
+      "title": "Why Not Cheat?",
+      "author": {
+       "authorized": "Benét, Stephen Vincent, 1898-1943",
+       "lcna": "n50007691"
+      }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-04-26"
+   "last-updated": "2019-05-31"
 }

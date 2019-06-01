@@ -7,6 +7,7 @@
    "first-renewed-contribution": {"issue": 
       {"issue-date": "1924-12", "volume": "4", "number": "2"}},
    "first-renewed-contribution-source": "1951-JulDec",
+   "renewed-contribution-completeness": "active/1924",
    "renewed-contributions": [
      {"issue": {"issue-date": "1924-12", "volume": "4", "number": "2"},
       "title": "Too Complex for Patsy",
@@ -29,11 +30,27 @@
        "lcna": "n90719514"
       }
      },
+     {"issue": {"issue-date": "1925-05", "volume": "5", "number": "2"},
+      "title": "Glitter",
+      "title-note": "part 1 of 5",
+      "author": {
+       "authorized": "Brush, Katharine, 1902-1952",
+       "lcna": "no93001232"
+      }
+     },
      {"issue": {"issue-date": "1925-06", "volume": "5", "number": "3"},
       "title": "Lisle Tops",
       "author": {
        "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
        "lcna": "no90021257"
+      }
+     },
+     {"issue": {"issue-date": "1925-06", "volume": "5", "number": "3"},
+      "title": "Glitter",
+      "title-note": "part 2 of 5",
+      "author": {
+       "authorized": "Brush, Katharine, 1902-1952",
+       "lcna": "no93001232"
       }
      },
      {"issue": {"issue-date": "1925-07", "volume": "5", "number": "4"},
@@ -43,11 +60,84 @@
        "lcna": "n90719514"
       }
      },
+     {"issue": {"issue-date": "1925-07", "volume": "5", "number": "4"},
+      "title": "Glitter",
+      "title-note": "part 3 of 5",
+      "author": {
+       "authorized": "Brush, Katharine, 1902-1952",
+       "lcna": "no93001232"
+      }
+     },
+     {"issue": {"issue-date": "1925-08", "volume": "6", "number": "1"},
+      "title": "Glitter",
+      "title-note": "part 4 of 5",
+      "author": {
+       "authorized": "Brush, Katharine, 1902-1952",
+       "lcna": "no93001232"
+      }
+     },
+     {"issue": {"issue-date": "1925-08", "volume": "6", "number": "1"},
+      "title": "My Old New England Home on the Erie",
+      "author": {
+       "authorized": "Fitzgerald, F. Scott (Francis Scott), 1896-1940",
+       "lcna": "n79006871"
+      }
+     },
+     {"issue": {"issue-date": "1925-09", "volume": "6", "number": "2"},
+      "title": "Glitter",
+      "title-note": "part 5 of 5",
+      "author": {
+       "authorized": "Brush, Katharine, 1902-1952",
+       "lcna": "no93001232"
+      }
+     },
+     {"issue": {"issue-date": "1925-10", "volume": "6", "number": "3"},
+      "title": "Gretchen Goes to the Game",
+      "author": {
+       "authorized": "Brush, Katharine, 1902-1952",
+       "lcna": "no93001232"
+      }
+     },
+     {"issue": {"issue-date": "1925-11", "volume": "6", "number": "4"},
+      "title": "The High Cost of Honeymoons",
+      "author": {
+       "authorized": "Brush, Katharine, 1902-1952",
+       "lcna": "no93001232"
+      }
+     },
      {"issue": {"issue-date": "1926-01", "volume": "7", "number": "2"},
       "title": "Red-Head",
       "author": {
        "authorized": "Duganne, Phyllis, 1899-1976",
        "lcna": "n90719514"
+      }
+     },
+     {"issue": {"issue-date": "1926-01", "volume": "7", "number": "2"},
+      "title": "From Midnight Till Dawn",
+      "author": {
+       "authorized": "Brush, Katharine, 1902-1952",
+       "lcna": "no93001232"
+      }
+     },
+     {"issue": {"issue-date": "1926-03", "volume": "7", "number": "4"},
+      "title": "The Worst Boy in Town",
+      "author": {
+       "authorized": "Brush, Katharine, 1902-1952",
+       "lcna": "no93001232"
+      }
+     },
+     {"issue": {"issue-date": "1926-05", "volume": "8", "number": "2"},
+      "title": "Never Keep a Diary",
+      "author": {
+       "authorized": "Brush, Katharine, 1902-1952",
+       "lcna": "no93001232"
+      }
+     },
+     {"issue": {"issue-date": "1926-07", "volume": "8", "number": "4"},
+      "title": "Vacation",
+      "author": {
+       "authorized": "Brush, Katharine, 1902-1952",
+       "lcna": "no93001232"
       }
      }
    ],
@@ -56,5 +146,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-04-25"
+   "last-updated": "2019-05-26"
 }

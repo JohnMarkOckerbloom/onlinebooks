@@ -1,0 +1,33 @@
+{
+   "title": "The Home Magazine",
+   "title-note": "UK, 1918-1931",
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce",
+   "first-renewed-contribution":
+      {"issue": {"issue-date": "1924-01"}},
+   "first-renewed-contribution-source": "1951-JanJun",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1924-01"}, 
+      "title": "Her Brother's Keeper",
+      "note": "Renewal record appears in the Books section of CCE, with a publication date of December 19, 1923 and a copyright date of June 6, 1924.",
+      "author": {
+       "authorized": "Pedler, Margaret",
+       "lcna": "nr2002022198"
+      }
+     },
+     {"issue": {"issue-date": "1924-04"}, 
+      "title": "An Intermezzo",
+      "note": "Renewal record appears in the Books section of CCE.",
+      "author": {
+       "authorized": "Pedler, Margaret",
+       "lcna": "nr2002022198"
+      }
+     }
+   ],
+   "additional-note" : "This is a British publication.  Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US.",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2019-05-06"
+}

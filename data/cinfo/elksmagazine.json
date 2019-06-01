@@ -1,15 +1,43 @@
 {
    "title": "The Elks Magazine",
    "online": "1",
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/FMI/link.asp?magid=ELK",
+       "note": "FictionMags (most issues through 1935)"}
+   ],
    "first-renewed-issue": 
      {"issue-date": "1930-09", "volume": "9", "number": "4"},
    "first-renewed-issue-source": "1958-JulDec",
    "first-renewed-contribution":
      {"issue": {"issue-date": "1926-04"}},
    "first-renewed-contribution-source": "1953-JanJun",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1926-04", "volume": "4", "number": "11"},
+      "title": "The Man Who Burned a Hole in His Coat",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1926-05", "volume": "4", "number": "12"},
+      "title": "The Shadowy Crown",
+      "author": {
+       "authorized": "Benét, Stephen Vincent, 1898-1943",
+       "lcna": "n50007691"
+      }
+     },
+     {"issue": {"issue-date": "1926-05", "volume": "4", "number": "12"},
+      "title": "The Pretenders",
+      "note": "Title and issue as claimed in CCE renewal record.  It may be an alternate title for 'The Shadowy Crown', which we found in this issue, and which has a separate renewal record. We have not found a story titled 'The Pretenders' in that issue, or elsewhere to date.",
+      "author": {
+       "authorized": "Benét, Stephen Vincent, 1898-1943",
+       "lcna": "n50007691"
+      }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-03-17"
+   "last-updated": "2019-05-19"
 }

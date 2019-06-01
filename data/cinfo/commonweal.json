@@ -1,0 +1,30 @@
+{
+   "title": "The Commonweal",
+   "first-renewed-issue":
+       {"issue-date": "1942-02-06", "volume": "35", "number": "16"},
+   "first-renewed-issue-source": "1970",
+   "first-renewed-contribution": 
+     {"issue": {"issue-date": "1925-11-11"}},
+   "first-renewed-contribution-source": "1952-JulDec",
+   "renewed-contributions": [
+      {"issue": {"issue-date": "1925-11-11"}, 
+       "title": "Children of the Dust",
+       "author": {
+         "authorized": "Kilmer, Aline, 1888-1941",
+         "lcna": "n86111408"
+       }
+      },
+      {"issue": {"issue-date": "1926-04-07"}, 
+       "title": "The Saints Three Sticks",
+       "author": {
+         "authorized": "Benét, Laura",
+         "lcna": "n50008105"
+       }
+      }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2019-05-18"
+}

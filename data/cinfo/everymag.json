@@ -12,6 +12,7 @@
      {"issue": {"issue-date": "1924-02", "cdate": "1924-01-02",
                 "volume": "50", "number": "2"}},
    "first-renewed-contribution-source": "1951-JanJun",
+   "renewed-contribution-completeness": "active/1924",
    "renewed-contributions": [
      {"issue": {"issue-date": "1924-02", "volume": "50", "number": "2"},
       "title": "Truthful James",
@@ -196,11 +197,39 @@
        "authorized": "O'Brien, Howard Vincent, 1888-1947",
        "lcna": "no98077150"
       }
+     },
+     {"issue": {"issue-date": "1925-07", "volume": "53", "number": "1"},
+      "title": "The Irish Language",
+      "author": {
+       "authorized": "Gillmore, Inez Haynes, 1873-1970",
+       "lcna": "n85372376"
+      }
+     },
+     {"issue": {"issue-date": "1925-12", "volume": "53", "number": "6"},
+      "title": "The Magic of Fear",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1925-12", "volume": "53", "number": "6"},
+      "title": "Age",
+      "note": "CCE files this renewal under Harold Hopper Titus (who was a philosophy professor, 1894-1984), though it is more likely to be Harold Titus (the novelist, 1888-1967)",
+      "author": {
+       "name": "Harold Titus"
+      }
+     },
+     {"issue": {"issue-date": "1926-01", "volume": "54", "number": "1"},
+      "title": "The Man Who Hated Sheffield",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-04-20"
+   "last-updated": "2019-05-15"
 }

@@ -378,6 +378,7 @@
       {"issue-date": "1924-12-30", "volume": "84", "number": "28534"},
       {"issue-date": "1924-12-31", "volume": "84", "number": "28535"}
    ],
+   "renewed-contribution-completeness": "active/1924",
    "renewed-contributions": [
      {"issue": {"issue-date": "1924-01-20"},
        "title": "The Letters of Archie Butt",
@@ -1546,6 +1547,14 @@
          "lcna": "n50041532"
        }
      },
+     {"issue": {"issue-date": "1925-04-19"},
+        "title": "The Ambassador, Pete at Caserta, From Nice to Oneglia [and others]",
+        "note": "Renewal record gives publication name as New York Herald Tribune Books",
+        "author": {
+         "authorized": "Lowell, Amy, 1874-1925",
+         "lcna": "n79076111"
+        }
+     },
      {"issue": {"issue-date": "1925-04-30"},
       "title": "The Almost Perfect State",
       "title-note": "recurring column title",
@@ -1554,6 +1563,14 @@
          "authorized": "Marquis, Don, 1878-1937",
          "lcna": "n50041532"
        }
+     },
+     {"issue": {"issue-date": "1925-05-17"},
+      "title": "Anniversary",
+      "note": "Renewal record mentions both the New York Herald and the New York Tribune.",
+        "author": {
+         "authorized": "Lowell, Amy, 1874-1925",
+         "lcna": "n79076111"
+        }
      },
      {"issue": {"issue-date": "1925-05-21"},
       "title": "Beauty and Bully Evermore",
@@ -1587,12 +1604,65 @@
          "authorized": "Marquis, Don, 1878-1937",
          "lcna": "n50041532"
        }
+     },
+     {"issue": {"issue-date": "1925-06-28"},
+      "title": "The Adventures of Doctor Dolittle",
+      "title-note": "part 1 of 5",
+      "note": "Renewal record gives the newspaper title as New York Herald Tribune.",
+      "author": {
+         "authorized": "Lofting, Hugh, 1886-1947",
+         "lcna": "n50039523"
+       }
+     },
+     {"issue": {"issue-date": "1925-07-04"},
+      "title": "The Adventures of Doctor Dolittle",
+      "title-note": "part 2 of 5",
+      "note": "Renewal record gives the newspaper title as New York Herald Tribune.",
+      "author": {
+         "authorized": "Lofting, Hugh, 1886-1947",
+         "lcna": "n50039523"
+       }
+     },
+     {"issue": {"issue-date": "1925-07-12"},
+      "title": "The Adventures of Doctor Dolittle",
+      "title-note": "part 3 of 5",
+      "note": "Renewal record gives the newspaper title as New York Herald Tribune.",
+      "author": {
+         "authorized": "Lofting, Hugh, 1886-1947",
+         "lcna": "n50039523"
+       }
+     },
+     {"issue": {"issue-date": "1925-07-19"},
+      "title": "The Adventures of Doctor Dolittle",
+      "title-note": "part 4 of 5",
+      "note": "Renewal record gives the newspaper title as New York Herald Tribune.",
+      "author": {
+         "authorized": "Lofting, Hugh, 1886-1947",
+         "lcna": "n50039523"
+       }
+     },
+     {"issue": {"issue-date": "1925-07-26"},
+      "title": "The Adventures of Doctor Dolittle",
+      "title-note": "part 5 of 5",
+      "note": "Renewal record gives the newspaper title as New York Herald Tribune.",
+      "author": {
+         "authorized": "Lofting, Hugh, 1886-1947",
+         "lcna": "n50039523"
+       }
+     },
+     {"issue": {"issue-date": "1925-10-25"},
+      "title": "In the Campagna",
+      "note": "Renewal record mentions both the New York Herald and the New York Tribune.",
+        "author": {
+         "authorized": "Lowell, Amy, 1874-1925",
+         "lcna": "n79076111"
+        }
      }
    ],
-   "additional-note": "The New York Herald and the New York Tribune effectively merged into one newspaper publishing under both titles beginning on March 19, 1924.",
+   "additional-note": "The New York Herald and the New York Tribune effectively merged into one newspaper publishing under both titles beginning on March 19, 1924. (The combined newspaper would start publishing as the New York Herald Tribune on May 31, 1926.)",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-04-08"
+   "last-updated": "2019-05-29"
 }

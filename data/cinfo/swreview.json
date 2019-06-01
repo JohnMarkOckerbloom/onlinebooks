@@ -1,0 +1,27 @@
+{
+   "title": "Southwest Review",
+   "contents": [
+      {"url": "https://www.jstor.org/journal/southwestreview",
+      "note": "JSTOR (full text also available for subscription or payment)"}
+   ],
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce+database",
+   "first-renewed-contribution":
+     {"issue": {"issue-date": "1925-07"}},
+   "first-renewed-contribution-source": "1953-JanJun",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1925-07"}, 
+      "title": "The Man Who Died at Twelve o'Clock",
+      "note": "This is a short story, not the play of the same title by this author.",
+      "author": {
+         "authorized": "Green, Paul, 1894-1981",
+         "lcna": "n79056649"
+       }
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2019-05-26"
+}

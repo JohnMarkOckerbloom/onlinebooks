@@ -26,6 +26,7 @@
      {"issue-date": "1924-11", "volume": "79", "number": "5"},
      {"issue-date": "1924-12", "volume": "79", "number": "6"}
    ],
+   "renewed-contribution-completeness": "active/1924",
    "renewed-contributions": [
      {"issue": {"issue-date": "1924-02"}, 
       "title": "When the Goose Flew North",
@@ -343,11 +344,75 @@
        "authorized": "Bercovici, Konrad, 1882-1961",
        "lcna": "n50006835"
       }
+     },
+     {"issue": {"issue-date": "1925-07"}, 
+      "title": "The Enchanted Kingdom",
+      "author": {
+       "authorized": "Sass, Herbert Ravenel, 1884-1958",
+       "lcna": "n88224199"
+      }
+     },
+     {"issue": {"issue-date": "1925-08"}, 
+      "title": "The Unlit Lamp",
+      "author": {
+       "authorized": "Monroe, Anne Shannon, 1877-1942",
+       "lcna": "n90622304"
+      }
+     },
+     {"issue": {"issue-date": "1925-09"}, 
+      "title": "Forbidden Fruit",
+      "author": {
+       "authorized": "Sabatini, Rafael, 1875-1950",
+       "lcna": "n50016255"
+      }
+     },
+     {"issue": {"issue-date": "1925-10"}, 
+      "title": "The King's Conscience",
+      "author": {
+       "authorized": "Sabatini, Rafael, 1875-1950",
+       "lcna": "n50016255"
+      }
+     },
+     {"issue": {"issue-date": "1925-11"}, 
+      "title": "The Tragedy of Madame",
+      "author": {
+       "authorized": "Sabatini, Rafael, 1875-1950",
+       "lcna": "n50016255"
+      }
+     },
+     {"issue": {"issue-date": "1925-11"}, 
+      "title": "Two Soldiers",
+      "author": {
+       "authorized": "Hopper, James, 1876-1956",
+       "lcna": "n00068220"
+      }
+     },
+     {"issue": {"issue-date": "1925-12"},
+      "title": "Here Y'Are Brother",
+      "author": {
+       "authorized": "Willson, Dixie",
+       "lcna": "n2008041914"
+      }
+     },
+     {"issue": {"issue-date": "1926-04"},
+      "title": "True Thomas",
+      "author": {
+       "authorized": "Benét, Stephen Vincent, 1898-1943",
+       "lcna": "n50007691"
+      }
+     },
+     {"issue": {"issue-date": "1926-04"},
+      "title": "Thursday's Swan Had a Crumpled Wing",
+      "note": "Author as credited in the issue.  CCE credits the story to Stephen Vincent Benét; that appears to be an error, though it is unclear whether the error was made by the Copyright Office, or by Benét's widow, who is listed as the renewal claimant. Benét did write another story in the same issue.",
+      "author": {
+       "authorized": "Abbott, Eleanor Hallowell, 1872-1958",
+       "lcna": "no92023552"
+      }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-04-21"
+   "last-updated": "2019-05-18"
 }

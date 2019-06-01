@@ -1,5 +1,6 @@
 {
    "title": "The Nation",
+   "title-note": "US",
    "online": "1",
    "first-renewed-issue": 
      {"issue-date": "1950-01-07", "volume": "170", "number": "1"},
@@ -7,6 +8,7 @@
    "first-renewed-contribution":
      {"issue": {"issue-date": "1924-04-16"}},
    "first-renewed-contribution-source": "1951-JanJun",
+   "renewed-contribution-completeness": "active/1924",
    "renewed-contributions": [
      {"issue": {"issue-date": "1924-04-16"}, 
       "title": "Carol: New Style",
@@ -53,6 +55,13 @@
          "lcna": "n79023149"
        }
      },
+     {"issue": {"issue-date": "1925-02-11"},
+      "title": "Hot Afternoons Have Been in Montana",
+      "author": {
+         "authorized": "Siegel, Eli, 1902-1978",
+         "lcna": "n50024019"
+       }
+     },
      {"issue": {"issue-date": "1925-06-10"},
       "title": "Living in America",
       "author": {
@@ -66,11 +75,25 @@
          "authorized": "Lewis, Sinclair, 1885-1951",
          "lcna": "n79023149"
        }
+     },
+     {"issue": {"issue-date": "1925-12-09"},
+      "title": "Can an Artist Live in America",
+      "author": {
+         "authorized": "Lewis, Sinclair, 1885-1951",
+         "lcna": "n79023149"
+       }
+     },
+     {"issue": {"issue-date": "1926-04-14"},
+      "title": "Santo Domingo Corn Dance",
+       "author": {
+         "authorized": "Riggs, Lynn, 1899-1954",
+         "lcna": "n82013440"
+       }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-04-22"
+   "last-updated": "2019-05-30"
 }

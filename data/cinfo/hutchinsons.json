@@ -1,7 +1,10 @@
 {
    "title": "Hutchinson's Magazine",
    "aka": ["Hutchinson's Story Magazine"],
+   "see-also": [{"id": "hutchadventure",
+                 "note": "Hutchinson's Adventure-Story Magazine"}],
    "online": "1",
+   "comment": "Pick up with Haggard's Treasure of the Lake, which might be in a related Hutchinson's title.",
    "contents": [
       {"url": "http://www.philsp.com/homeville/FMI/link.asp?magid=HSM",
        "note": "FictionMags"}
@@ -11,10 +14,27 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": {"issue": 
-      {"issue-date": "1924-05", "volume": "10", "number": "59"}},
-   "first-renewed-contribution-source": "1951-JulDec",
+      {"issue-date": "1924-02", "volume": "10", "number": "56"}},
+   "first-renewed-contribution-source": "1951-JanJun",
    "last-issue": {"issue-date": "1929-12"},
    "renewed-contributions": [
+     {"issue": {"issue-date": "1924-02", "volume": "10", "number": "56"},
+      "title": "The Face",
+      "note": "Renewal record appears in the Books section of CCE.",
+      "author": {
+         "authorized": "Benson, E. F. (Edward Frederic), 1867-1940",
+         "lcna": "n50057239"
+       }
+     },
+     {"issue": {"issue-date": "1924-02", "volume": "10", "number": "56"},
+      "title": "Heu-Heu: or, The Monster",
+      "title-note": "part 2 of 2?",
+      "note": "Renewal record appears in the Books section of CCE.",
+      "author": {
+         "authorized": "Haggard, H. Rider (Henry Rider), 1856-1925",
+         "lcna": "n80010495"
+       }
+     },
      {"issue": {"issue-date": "1924-05", "volume": "10", "number": "59"},
       "title": "Spinach and Reconciliation",
       "title-note": "part 1 of 2",
@@ -28,6 +48,30 @@
       "title": "Spinach and Reconciliation",
       "title-note": "part 2 of 2",
       "note": "Title as given in CCE. FictionMags gives title simply as 'Reconciliation'.  I have not checked the issue to see what title is used there.",
+      "author": {
+         "authorized": "Benson, E. F. (Edward Frederic), 1867-1940",
+         "lcna": "n50057239"
+       }
+     },
+     {"issue": {"issue-date": "1924-08", "volume": "12", "number": "1"},
+      "title": "Coincidence",
+      "note": "Renewal record appears in the Books section of CCE. Author name is a pseudonym for H. C. McNeile.",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     },
+     {"issue": {"issue-date": "1924-09", "volume": "12", "number": "2"},
+      "title": "Two Photographs",
+      "note": "Renewal record appears in the Books section of CCE. Author name is a pseudonym for H. C. McNeile.",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     },
+     {"issue": {"issue-date": "1924-09", "volume": "12", "number": "2"},
+      "title": "Corstophine",
+      "note": "Renewal record appears in the Books section of CCE.",
       "author": {
          "authorized": "Benson, E. F. (Edward Frederic), 1867-1940",
          "lcna": "n50057239"
@@ -57,6 +101,142 @@
        "name": "Baroness Orczy",
        "lcna": "n50064803"
       }
+     },
+     {"issue": {"issue-date": "1925-02", "volume": "13", "number": "2"},
+      "title": "The Miser of Maida Vale",
+      "note": "Renewal record appears in the Books section of CCE.",
+      "author": {
+       "authorized": "Orczy, Emmuska Orczy, Baroness, 1865-1947",
+       "name": "Baroness Orczy",
+       "lcna": "n50064803"
+      }
+     },
+     {"issue": {"issue-date": "1925-02", "volume": "13", "number": "2"},
+      "title": "Suspense",
+      "title-note": "part 1 of 6?",
+      "note": "Renewal record appears in the Books section of CCE.",
+      "author": {
+         "authorized": "Conrad, Joseph, 1857-1924",
+         "lcna": "n79054067"
+      }
+     },
+     {"issue": {"issue-date": "1925-03", "volume": "13", "number": "3"},
+      "title": "The Other Side of the Wall",
+      "note": "Renewal record appears in the Books section of CCE. Author name is a pseudonym for H. C. McNeile.",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     },
+     {"issue": {"issue-date": "1925-03", "volume": "13", "number": "3"},
+      "title": "The Fulton Gardens Mystery",
+      "note": "Renewal record appears in the Books section of CCE.",
+      "author": {
+       "authorized": "Orczy, Emmuska Orczy, Baroness, 1865-1947",
+       "name": "Baroness Orczy",
+       "lcna": "n50064803"
+      }
+     },
+     {"issue": {"issue-date": "1925-03", "volume": "13", "number": "3"},
+      "title": "Suspense",
+      "title-note": "part 2 of 6?",
+      "note": "Renewal record appears in the Books section of CCE.",
+      "author": {
+         "authorized": "Conrad, Joseph, 1857-1924",
+         "lcna": "n79054067"
+      }
+     },
+     {"issue": {"issue-date": "1925-04", "volume": "13", "number": "4"},
+      "title": "The Moorland Tragedy",
+      "note": "Renewal record appears in the Books section of CCE.",
+      "author": {
+       "authorized": "Orczy, Emmuska Orczy, Baroness, 1865-1947",
+       "name": "Baroness Orczy",
+       "lcna": "n50064803"
+      }
+     },
+     {"issue": {"issue-date": "1925-04", "volume": "13", "number": "4"},
+      "title": "Suspense",
+      "title-note": "part 3 of 6?",
+      "note": "Renewal record appears in the Books section of CCE.",
+      "author": {
+         "authorized": "Conrad, Joseph, 1857-1924",
+         "lcna": "n79054067"
+      }
+     },
+     {"issue": {"issue-date": "1925-05", "volume": "13", "number": "5"},
+      "title": "Suspense",
+      "title-note": "part 4 of 6?",
+      "note": "Renewal record appears in the Books section of CCE.",
+      "author": {
+         "authorized": "Conrad, Joseph, 1857-1924",
+         "lcna": "n79054067"
+      }
+     },
+     {"issue": {"issue-date": "1925-06", "volume": "13", "number": "6"},
+      "title": "The Tale of an Empty House",
+      "note": "Renewal record appears in the Books section of CCE.",
+      "author": {
+         "authorized": "Benson, E. F. (Edward Frederic), 1867-1940",
+         "lcna": "n50057239"
+       }
+     },
+     {"issue": {"issue-date": "1925-06", "volume": "13", "number": "6"},
+      "title": "Suspense",
+      "title-note": "part 5 of 6?",
+      "note": "Renewal record appears in the Books section of CCE.",
+      "author": {
+         "authorized": "Conrad, Joseph, 1857-1924",
+         "lcna": "n79054067"
+      }
+     },
+     {"issue": {"issue-date": "1925-07", "volume": "14", "number": "1"},
+      "title": "A Question of Identity",
+      "note": "Renewal record appears in the Books section of CCE. Author name is a pseudonym for H. C. McNeile.",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     },
+     {"issue": {"issue-date": "1925-07", "volume": "14", "number": "1"},
+      "title": "Bagnell Terrace",
+      "note": "Renewal record appears in the Books section of CCE.",
+      "author": {
+         "authorized": "Benson, E. F. (Edward Frederic), 1867-1940",
+         "lcna": "n50057239"
+       }
+     },
+     {"issue": {"issue-date": "1925-07", "volume": "14", "number": "1"},
+      "title": "Suspense",
+      "title-note": "part 6 of 6?",
+      "note": "Renewal record appears in the Books section of CCE.",
+      "author": {
+         "authorized": "Conrad, Joseph, 1857-1924",
+         "lcna": "n79054067"
+      }
+     },
+     {"issue": {"issue-date": "1925-08", "volume": "14", "number": "2"},
+      "title": "Marie",
+      "author": {
+       "authorized": "McNeile, H. C. (Herman Cyril), 1888-1937",
+       "lcna": "no96039399"
+      }
+     },
+     {"issue": {"issue-date": "1925-09", "volume": "14", "number": "3"},
+      "title": "Mrs. Peter Skeffington's Revenge",
+      "note": "Renewal record appears in the Books section of CCE.",
+      "author": {
+       "authorized": "McNeile, H. C. (Herman Cyril), 1888-1937",
+       "lcna": "no96039399"
+      }
+     },
+     {"issue": {"issue-date": "1925-11", "volume": "14", "number": "5"},
+      "title": "The Haunting of Jack Burnham",
+      "note": "Renewal record appears in the Books section of CCE. Author name is a pseudonym for H. C. McNeile.",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
      }
    ],
    "additional-notes": [
@@ -67,5 +247,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-04-12"
+   "last-updated": "2019-05-06"
 }

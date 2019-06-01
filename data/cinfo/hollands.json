@@ -1,0 +1,30 @@
+{
+   "title": "Holland's",
+   "aka": ["Holland's: The Magazine of the South"],
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce+database",
+   "first-renewed-contribution": 
+      {"issue": {"issue-date": "1925-11"}},
+   "first-renewed-contribution-source": "1952-JulDec",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1925-11"}, 
+      "title": "To Look 'em in the Eye",
+      "note": "CCE files this renewal under Harold Hopper Titus (who was a philosophy professor, 1894-1984), though it is more likely to be Harold Titus (the novelist, 1888-1967)",
+      "author": {
+       "name": "Harold Titus"
+      }
+     },
+     {"issue": {"issue-date": "1926-04"},
+      "title": "Love Laughs at Doctors",
+      "author": {
+       "authorized": "Duganne, Phyllis, 1899-1976",
+       "lcna": "n90719514"
+      }
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2019-05-24"
+}

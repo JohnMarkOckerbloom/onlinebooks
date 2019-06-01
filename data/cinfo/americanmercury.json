@@ -18,6 +18,7 @@
        {"issue-date": "1925-01", "volume": "4", "number": "13",
           "cdate": "1924-12-25"}
    ],
+   "renewed-contribution-completeness": "active/1924",
    "renewed-contributions": [
      {"issue": {"issue-date": "1924-02", "volume": "1", "number": "2"},
       "title": "Caught",
@@ -67,11 +68,25 @@
          "authorized": "Tully, Jim",
          "lcna": "n81119676"
       }
+     },
+     {"issue": {"issue-date": "1925-10", "volume": "6", "number": "22"},
+      "title": "Self-Conscious America",
+      "author": {
+         "authorized": "Lewis, Sinclair, 1885-1951",
+         "lcna": "n79023149"
+       }
+     },
+     {"issue": {"issue-date": "1926-04", "volume": "7", "number": "28"},
+      "title": "The Retreat From Utopia",
+      "author": {
+         "authorized": "MacGrath, Harold, 1871-1932",
+         "lcna": "n82053296"
+      }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-04-21"
+   "last-updated": "2019-05-29"
 }

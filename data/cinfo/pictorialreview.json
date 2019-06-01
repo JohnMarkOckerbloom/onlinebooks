@@ -34,6 +34,7 @@
       {"issue-date": "1925-05", "volume": "26", "number": "8"},
       {"issue-date": "1925-06", "volume": "26", "number": "9"}
    ],
+   "renewed-contribution-completeness": "active/1924",
    "renewed-contributions": [
        {"issue": {"issue-date": "1924-02", "volume": "25", "number": "5"}, 
         "title": "Tomorrow's Bread",
@@ -57,11 +58,57 @@
            "authorized": "Benefield, Barry, 1877-1971",
          "lcna": "no90003376"
          }
+       },
+       {"issue": {"issue-date": "1925-08", "volume": "26", "number": "11"},
+        "title": "Wild Geese",
+        "title-note": "part 1 of 4",
+        "author": {
+           "authorized": "Ostenso, Martha, 1900-1963",
+           "lcna": "n80037748"
+        }
+       },
+       {"issue": {"issue-date": "1925-09", "volume": "26", "number": "12"},
+        "title": "Wild Geese",
+        "title-note": "part 2 of 4",
+        "author": {
+           "authorized": "Ostenso, Martha, 1900-1963",
+           "lcna": "n80037748"
+        }
+       },
+       {"issue": {"issue-date": "1925-10", "volume": "27", "number": "1"},
+        "title": "Wild Geese",
+        "title-note": "part 3 of 4",
+        "author": {
+           "authorized": "Ostenso, Martha, 1900-1963",
+           "lcna": "n80037748"
+        }
+       },
+       {"issue": {"issue-date": "1925-11", "volume": "27", "number": "2"},
+        "title": "Long Try",
+        "author": {
+         "authorized": "Hopper, James, 1876-1956",
+         "lcna": "n00068220"
+        }
+       },
+       {"issue": {"issue-date": "1925-11", "volume": "27", "number": "2"},
+        "title": "Wild Geese",
+        "title-note": "part 4 of 4",
+        "author": {
+           "authorized": "Ostenso, Martha, 1900-1963",
+           "lcna": "n80037748"
+        }
+       },
+       {"issue": {"issue-date": "1926-02", "volume": "27", "number": "5"},
+        "title": "An Actor's Love Story",
+        "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
        }
+      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-03-24"
+   "last-updated": "2019-05-30"
 }

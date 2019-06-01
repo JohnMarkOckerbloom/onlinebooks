@@ -35,6 +35,7 @@
       {"issue-date": "1925-02", "volume": "77", "number": "2",
         "cdate": "1925-01-24"}
    ],
+   "renewed-contribution-completeness": "active/1924",
    "renewed-contributions": [
      {"issue": {"issue-date": "1924-04", "volume": "75", "number": "4"}, 
       "title": "The White Monkey",
@@ -107,11 +108,74 @@
        "authorized": "Galsworthy, John, 1867-1933",
        "lcna": "n79041972"
       }
+     },
+     {"issue": {"issue-date": "1925-02", "volume": "77", "number": "2"}, 
+        "title": "Edwin Booth",
+        "author": {
+         "authorized": "Bradford, Gamaliel, 1863-1932",
+         "lcna": "n50042916"
+        }
+     },
+     {"issue": {"issue-date": "1925-12", "volume": "78", "number": "6"}, 
+      "title": "The Silver Spoon",
+      "title-note": "part 1 of 7?",
+      "author": {
+       "authorized": "Galsworthy, John, 1867-1933",
+       "lcna": "n79041972"
+      }
+     },
+     {"issue": {"issue-date": "1926-01", "volume": "79", "number": "1"}, 
+      "title": "The Silver Spoon",
+      "title-note": "part 2 of 7?",
+      "author": {
+       "authorized": "Galsworthy, John, 1867-1933",
+       "lcna": "n79041972"
+      }
+     },
+     {"issue": {"issue-date": "1926-02", "volume": "79", "number": "2"}, 
+      "title": "The Silver Spoon",
+      "title-note": "part 3 of 7?",
+      "author": {
+       "authorized": "Galsworthy, John, 1867-1933",
+       "lcna": "n79041972"
+      }
+     },
+     {"issue": {"issue-date": "1926-03", "volume": "79", "number": "3"}, 
+      "title": "The Silver Spoon",
+      "title-note": "part 4 of 7?",
+      "author": {
+       "authorized": "Galsworthy, John, 1867-1933",
+       "lcna": "n79041972"
+      }
+     },
+     {"issue": {"issue-date": "1926-04", "volume": "79", "number": "4"}, 
+      "title": "The Silver Spoon",
+      "title-note": "part 5 of 7?",
+      "author": {
+       "authorized": "Galsworthy, John, 1867-1933",
+       "lcna": "n79041972"
+      }
+     },
+     {"issue": {"issue-date": "1926-05", "volume": "79", "number": "5"}, 
+      "title": "The Silver Spoon",
+      "title-note": "part 6 of 7?",
+      "author": {
+       "authorized": "Galsworthy, John, 1867-1933",
+       "lcna": "n79041972"
+      }
+     },
+     {"issue": {"issue-date": "1926-06", "volume": "79", "number": "6"}, 
+      "title": "The Silver Spoon",
+      "title-note": "part 7 of 7?",
+      "author": {
+       "authorized": "Galsworthy, John, 1867-1933",
+       "lcna": "n79041972"
+      }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-04-12"
+   "last-updated": "2019-05-26"
 }
