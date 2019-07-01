@@ -131,6 +131,13 @@
        "lcna": "n50043422"
       }
      },
+     {"issue": {"issue-date": "1925-05", "volume": "60", "number": "5"}, 
+      "title": "Yours Truly Paris",
+      "author": {
+       "authorized": "Weiman, Rita, 1889-1954",
+       "lcna": "n89129751"
+      }
+     },
      {"issue": {"issue-date": "1925-06", "volume": "60", "number": "6"}, 
       "title": "A Meeting in Mayfair",
       "author": {
@@ -176,12 +183,44 @@
        "lcna": "n90719514"
       }
      },
+     {"issue": {"issue-date": "1925-10"},
+      "title": "Harmer John",
+      "title-note": "part 1 of 4",
+      "author": {
+         "authorized": "Walpole, Hugh, 1884-1941",
+         "lcna": "n79151207"
+       }
+     },
+     {"issue": {"issue-date": "1925-11"},
+      "title": "Harmer John",
+      "title-note": "part 2 of 4",
+      "author": {
+         "authorized": "Walpole, Hugh, 1884-1941",
+         "lcna": "n79151207"
+       }
+     },
+     {"issue": {"issue-date": "1925-12"},
+      "title": "Harmer John",
+      "title-note": "part 3 of 4",
+      "author": {
+         "authorized": "Walpole, Hugh, 1884-1941",
+         "lcna": "n79151207"
+       }
+     },
      {"issue": {"issue-date": "1926-01"},
       "title": "The End of the Flight",
       "author": {
        "authorized": "Maugham, W. Somerset (William Somerset), 1874-1965",
        "lcna": "n79036830"
       }
+     },
+     {"issue": {"issue-date": "1926-01"},
+      "title": "Harmer John",
+      "title-note": "part 4 of 4",
+      "author": {
+         "authorized": "Walpole, Hugh, 1884-1941",
+         "lcna": "n79151207"
+       }
      },
      {"issue": {"issue-date": "1926-02"}, 
       "title": "The Sign of the Crooked Cross",
@@ -202,5 +241,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-05-29"
+   "last-updated": "2019-06-04"
 }

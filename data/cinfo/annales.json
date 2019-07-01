@@ -1,0 +1,52 @@
+{
+   "title": "Les Annales",
+   "title-note": "French",
+   "aka": ["Paris Annales"],
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce+database",
+   "first-renewed-contribution": {"issue": {"issue-date": "1929-12-01"}},
+   "first-renewed-contribution-source": "1957-JanJun",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1929-12-01"},
+      "title": "Lettres de Marcel Proust a Robert de Montesquiou",
+      "title-note": "part 1 of 3",
+      "author": {
+         "authorized": "Proust, Marcel, 1871-1922",
+         "lcna": "n79021736"
+      }
+     },
+     {"issue": {"issue-date": "1929-12-15"},
+      "title": "Lettres de Marcel Proust a Robert de Montesquiou",
+      "title-note": "part 2 of 3",
+      "author": {
+         "authorized": "Proust, Marcel, 1871-1922",
+         "lcna": "n79021736"
+      }
+     },
+     {"issue": {"issue-date": "1930-01-01"},
+      "title": "Lettres de Marcel Proust a Robert de Montesquiou",
+      "title-note": "part 3 of 3",
+      "author": {
+         "authorized": "Proust, Marcel, 1871-1922",
+         "lcna": "n79021736"
+      }
+     },
+     {"issue": {"issue-date": "1930-March 15 through July 15,"},
+      "title": "Demi-Dieu: ou, Le Voyage en Grece",
+      "title-note": "installments in multiple issues, not exactly specified",
+      "author": {
+         "authorized": "Lacretelle, Jacques de, 1888-1985",
+         "lcna": "n50042189"
+      }
+     }
+   ],
+   "additional-notes": [
+     "This entry is for contribution renewal records listed as being from 'Les Annales' or 'Paris Annales'.  There were multiple Parisian publications known as 'Annales' in this time period. The renewals mentioned here may all be from the publication originally known as 'Annales Politiques et Litteraires', but we are not sure about this.",
+     "The publications(s) referred to here are most likely French.  Their contents, therefore, may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US."
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2019-06-24"
+}

@@ -103,8 +103,15 @@
       }
      },
      {"issue": {"issue-date": "1926-06", "volume": "56", "number": "6"},
-       "title": "Summer Bachelors",
+      "title": "The First Story Ever Told",
        "note": "Volume numbering reset with this issue.",
+      "author": {
+       "authorized": "Tarkington, Booth, 1869-1946",
+       "lcna": "n79078124"
+      }
+     },
+     {"issue": {"issue-date": "1926-06", "volume": "56", "number": "6"},
+       "title": "Summer Bachelors",
        "title-note": "part 1 of 2?",
        "author": {
          "authorized": "Adams, Samuel Hopkins, 1871-1958",
@@ -124,5 +131,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-05-15"
+   "last-updated": "2019-06-03"
 }

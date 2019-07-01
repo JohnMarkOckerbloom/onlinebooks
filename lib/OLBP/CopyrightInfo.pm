@@ -12,6 +12,8 @@ my $firstperiodurl  = $cceurl . "firstperiod.html";
 my @month = ("January", "February", "March", "April", "May", "June", "July",
              "August", "September", "October", "November", "December");
 
+my $PDUS = "NoC-US";
+
 my $disclaimer = qq!The preparers of this page do not represent
  the publishers or the rightsholders of this publication.  To the best
  of their knowledge, the information in it is correct, and complete within
@@ -445,7 +447,11 @@ sub serial_copyright_summary {
   my $firstrenew = _get_first_renewed_issue($json);
   my $firstcont = _get_first_renewed_contribution($json);
   my $completeness = $json->{"renewed-issue-completeness"};
+  my $overallrights = $json->{"rights-statement"};
   my $str = "";
+  if ($overallrights eq $PDUS) {
+    $str = "All content of this serial is in the public domain in the US";
+  }
   if ($firstrenew eq "none") {
     $str .= _display_no(completeness=>$completeness,
                         context=>"serialpage",
@@ -538,9 +544,15 @@ sub firstperiod_listing {
     $str .= " (" . OLBP::html_encode($json->{"title-note"}) . ")";
   }
   $str .= ": ";
+  my $overallrights = $json->{"rights-statement"};
+  my $pdus = 0;
+  if ($overallrights eq $PDUS) {
+    $str .= "All content public domain in the US";
+    $pdus = 1;
+  }
   my $firstrenew = _get_first_renewed_issue($json);
   my $firstcont = _get_first_renewed_contribution($json);
-  if ($firstrenew) {
+  if ($firstrenew && !$pdus) {
     my $completeness = $json->{"renewed-issue-completeness"};
     if ($firstrenew eq "none") {
       $str .= _display_no(completeness=>$completeness,
@@ -559,7 +571,7 @@ sub firstperiod_listing {
       $str .= "; ";
     }
   }
-  if ($firstcont) {
+  if ($firstcont && !$pdus) {
     if ($firstcont eq "none") {
         $str .= _display_no(what=>"contribution",
                             completeness=>$json->{"first-renewed-contribution-completeness"}, 
@@ -691,6 +703,10 @@ sub display_page {
                         value=>_display_issue(issue=>$json->{"first-issue"}));
   }
   my $firstrenew = _get_first_renewed_issue($json);
+  if ($json->{"rights-statement"} eq $PDUS) {
+    print $self->_tabrow(attr=>"Rights",
+                        value=>"All content public domain in the US");
+  }
   if ($firstrenew) {
     my $label = "First renewed issue";
     my $value = "";

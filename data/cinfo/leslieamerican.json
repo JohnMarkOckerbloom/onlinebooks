@@ -247,7 +247,7 @@
      {"issue": {"issue-date": "1925-06", "volume": "99", "number": "6"},
       "title": "Such a Nice Old Man",
       "author": {
-       "name": "Mation Valensi"
+       "name": "Marion Valensi"
       }
      },
      {"issue": {"issue-date": "1925-07", "volume": "100", "number": "1"},
@@ -338,6 +338,14 @@
          "lcna": "no93026233"
        }
      },
+     {"issue": {"issue-date": "1926-03", "volume": "101", "number": "3"},
+      "title": "Eyes for the Blind",
+      "note": "Issue as stated in FictionMags. CCE puts this title in the April issue.  I have not examined the issues to see which is correct, or if this was a two-part story. CCE files this renewal under Harold Hopper Titus (who was a philosophy professor, 1894-1984), though it is more likely to be Harold Titus (the novelist, 1888-1967)",
+      "author": {
+         "authorized": "Titus, Harold, 1888-1967",
+         "lcna": "no2008175553"
+      }
+     },
      {"issue": {"issue-date": "1926-04", "volume": "101", "number": "4"},
       "title": "Dot Takes a Lesson in Values",
       "author": {
@@ -345,11 +353,26 @@
          "lcna": "no93026233"
        }
      },
+     {"issue": {"issue-date": "1926-04", "volume": "101", "number": "4"},
+      "title": "Eyes for the Blind",
+      "note": "Issue as stated in CCE. FictionMags puts this title in the March issue.  I have not examined the issues to see which is correct, or if this was a two-part story. CCE files this renewal under Harold Hopper Titus (who was a philosophy professor, 1894-1984), though it is more likely to be Harold Titus (the novelist, 1888-1967)",
+      "author": {
+         "authorized": "Titus, Harold, 1888-1967",
+         "lcna": "no2008175553"
+      }
+     },
      {"issue": {"issue-date": "1926-06", "volume": "101", "number": "6"},
       "title": "Good Times",
       "author": {
        "authorized": "Rutledge, Archibald, 1883-1973",
        "lcna": "n50031762"
+      }
+     },
+     {"issue": {"issue-date": "1926-06", "volume": "101", "number": "6"},
+      "title": "The Golden Age",
+      "author": {
+       "authorized": "Tarkington, Booth, 1869-1946",
+       "lcna": "n79078124"
       }
      },
      {"issue": {"issue-date": "1926-07", "volume": "102", "number": "1"},
@@ -372,5 +395,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-05-30"
+   "last-updated": "2019-06-03"
 }

@@ -29,6 +29,20 @@
        "authorized": "Anderson, Sherwood, 1876-1941",
        "lcna": "n79045519"
       }
+     },
+     {"issue": {"issue-date": "1925-08", "volume": "2", "number": "8"},
+      "title": "For My Lady",
+      "author": {
+       "authorized": "Wetjen, Albert Richard, 1900-1948",
+       "lcna": "no2009138376"
+      }
+     },
+     {"issue": {"issue-date": "1925-10", "volume": "2", "number": "10"}, 
+      "title": "Need of Change",
+      "author": {
+         "authorized": "Street, Julian, 1879-1947",
+         "lcna": "n86114725"
+       }
      }
    ],
    "succeeded-by": [{"id": "ficparadegolden",
@@ -38,5 +52,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-05-04"
+   "last-updated": "2019-06-04"
 }

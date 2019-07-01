@@ -198,6 +198,13 @@
        "lcna": "no98077150"
       }
      },
+     {"issue": {"issue-date": "1925-06", "volume": "52", "number": "6"},
+      "title": "The Little Foxes",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
      {"issue": {"issue-date": "1925-07", "volume": "53", "number": "1"},
       "title": "The Irish Language",
       "author": {
@@ -220,7 +227,21 @@
       }
      },
      {"issue": {"issue-date": "1926-01", "volume": "54", "number": "1"},
+      "title": "The Beginning of Command",
+      "author": {
+       "authorized": "Wetjen, Albert Richard, 1900-1948",
+       "lcna": "no2009138376"
+      }
+     },
+     {"issue": {"issue-date": "1926-01", "volume": "54", "number": "1"},
       "title": "The Man Who Hated Sheffield",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1926-04", "volume": "54", "number": "4"},
+      "title": "The Very Good Man",
       "author": {
         "authorized": "Wallace, Edgar, 1875-1932",
         "lcna": "n80034938"
@@ -231,5 +252,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-05-15"
+   "last-updated": "2019-06-04"
 }

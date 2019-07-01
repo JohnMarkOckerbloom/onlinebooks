@@ -1,0 +1,25 @@
+{
+   "title": "Dance Lovers' Magazine",
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce",
+   "first-renewed-contribution": 
+      {"issue": {"issue-date": "1925-May-June"}},
+   "first-renewed-contribution-source": "1953-JanJun",
+   "last-issue":
+     {"issue-date": "1925-11", "volume": "5", "number": "1"},
+   "succeeded-by": [{"id": "dance1925", "note": "Dance Magazine"}],
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1925-May-June"},
+      "title": "The Gamest Girl in Gotham",
+       "author": {
+         "authorized": "Spewack, Bella Cohen, 1899-1990",
+         "lcna": "n82047872"
+       }
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2019-06-02"
+}

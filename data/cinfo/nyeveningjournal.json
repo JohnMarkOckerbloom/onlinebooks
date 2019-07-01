@@ -6,11 +6,38 @@
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1926-01-16"}},
    "first-renewed-contribution-source": "1953-JanJun",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1926-01-16"},
+       "title": "Us Husbands. What Do You Mean, I Never Go Out",
+       "note": "Renewed under Artwork. Listed as work for hire by George Herriman as an employee of King Features Syndicate.  King Features is the author for copyright purposes.",
+       "authors": [
+        {"authorized": "Herriman, George, 1880-1944", "lcna": "n50036897"},
+        {"authorized": "King Features Syndicate", "lcna": "n82010039"}
+       ]
+     },
+     {"issue": {"issue-date": "1926-01-30"},
+       "title": "Dumb Dora",
+       "note": "Listed as work for hire by Murat Bernard Young (aka Chic Young) as an employee of King Features Syndicate.  King Features is the author for copyright purposes.",
+       "authors": [
+        {"authorized": "Young, Chic, 1901-1973", "lcna": "n82032404"},
+        {"authorized": "King Features Syndicate", "lcna": "n82010039"}
+       ]
+     },
+     {"issue": {"issue-date": "1928-03-03"},
+       "title": "Sappo",
+       "note": "Renewed under Artwork. Listed as work for hire by E. C. Segar as an employee of King Features Syndicate.  King Features is the author for copyright purposes.",
+       "authors": [
+        {"authorized": "Segar, E. C. (Elzie Crisler), 1894-1938",
+         "lcna": "n86814505"},
+        {"authorized": "King Features Syndicate", "lcna": "n82010039"}
+       ]
+     }
+   ],
    "additional-note": 
-   "Some images from the New York Evening Journal were renewed separately in the Artwork section, rather than in the Contributions to Periodicals section.  The first such image with an active copyright is by George Herriman, and is titled 'Us husbands. What do you mean, I never go out.'.  It ran in the January 16, 1926 issue, and was renewed in 1953.  The first contribution to be renewed in the Contributions to periodicals section of the CCE ran in the January 30, 1926 issue, and was also renewed in 1953.",
+   "Some images from the New York Evening Journal were renewed separately in the Artwork section, rather than in the Contributions to Periodicals section.  The first such image with an active copyright ran in the January 16, 1926 issue, and was renewed in 1953.  The first contribution to be renewed in the Contributions to periodicals section of the CCE ran in the January 30, 1926 issue, and was also renewed in 1953.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-01-09"
+   "last-updated": "2019-06-04"
 }

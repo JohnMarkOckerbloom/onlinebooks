@@ -1,6 +1,7 @@
 {
    "title": "New York Supplement",
    "online": "1",
+   "see-also": [{"id": "nydigest", "note": "New York Digest"}],
    "first-renewed-issue":
       {"issue-date": "1924-01-07", "volume": "201", "number": "16"},
    "first-renewed-issue-source": "1951-JanJun",
@@ -124,5 +125,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-03-14"
+   "last-updated": "2019-06-25"
 }
