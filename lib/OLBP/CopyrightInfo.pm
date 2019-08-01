@@ -687,8 +687,11 @@ sub display_page {
       $wikipedia = qq!<a href="$wikipedia">Wikipedia article</a>!;
     }
     if ($wikidata || $wikipedia) {
-      print $self->_tabrow(attr=>"More information",
-                                  value=>join("; ", $wikipedia, $wikidata));
+      my $value = $wikidata;
+      if ($wikipedia) {
+         $value = $wikipedia . "; " . $value;
+      }
+      print $self->_tabrow(attr=>"More information", value=>$value);
     }
   }
   if ($json->{"preceded-by"}) {

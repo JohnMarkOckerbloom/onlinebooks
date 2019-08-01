@@ -1,0 +1,29 @@
+{
+   "title": "Harvard Business Review",
+   "online": "1",
+   "first-issue": {"issue-date": "1922-10", "volume": "1", "number": "1"},
+   "first-renewed-issue": 
+       {"issue-date": "1940-Autumn", "volume": "19", "number": "1"},
+   "first-renewed-issue-source": "1968",
+   "first-renewed-contribution":
+       {"issue": {"issue-date": "1959-January-February",
+        "volume": "37", "number": "1"}},
+   "first-renewed-contribution-source": "database",
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+       {"issue": {"issue-date": "1959-January-February",
+                  "volume": "37", "number": "1"},
+        "title": "Thinking Ahead: Potentials of Management Science",
+        "author": {
+         "authorized": "Drucker, Peter F. (Peter Ferdinand), 1909-2005",
+         "lcna": "n79149070"
+        }
+       }
+   ],
+   "additional-note": "A 1986 renewal for the 1958 book 'Production Planning and Inventory Control' by John F. Magee mentions that portions had appeared in Harvard Business Review, but Magee's articles appear to have run prior to 1958, and would not be covered by the book renewal.",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2019-07-12"
+}

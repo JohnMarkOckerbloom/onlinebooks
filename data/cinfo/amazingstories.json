@@ -29,19 +29,28 @@
       {"issue-date": "1955-12", "volume": "29", "number": "7"}
    ], 
    "renewed-issue-completeness": "active/autorenewals",
-   "first-renewed-contribution": {
-       "issue": {"issue-date": "1932-12", "volume": "7", "number": "9"}, 
-       "title": "No More Tomorrows",
-       "author": {
-         "authorized": "Keller, David H. (David Henry), 1880-1966",
-         "lcna": "n80064251"
-       }
+   "first-renewed-contribution":
+       {"issue": {"issue-date": "1926-06", "volume": "1", "number": "3"},
+        "title": "The Malignant Entity",
+        "note": "There is no renewal for this specific contribution, but it is reprinted from the May-July 1924 issue of Weird Tales, which has a renewal active through the end of 2019.",
+        "author": {
+          "authorized": "Kline, Otis Adelbert",
+          "lcna": "n80083656"
+         }
    },
-   "first-renewed-contribution-source": "1960-JanJun",
    "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
+       {"issue": {"issue-date": "1926-06", "volume": "1", "number": "3"},
+        "title": "The Malignant Entity",
+        "note": "There is no renewal for this specific contribution, but it is reprinted from the May-July 1924 issue of Weird Tales, which has an issue renewal active through the end of 2019 that might cover this story.",
+        "author": {
+          "authorized": "Kline, Otis Adelbert",
+          "lcna": "n80083656"
+         }
+       },
        {"issue": {"issue-date": "1932-12", "volume": "7", "number": "9"},
         "title": "No More Tomorrows",
+        "note": "This is the first renewal filed specifically for a contribution to this magazine.",
         "author": {
           "authorized": "Keller, David H. (David Henry), 1880-1966",
           "lcna": "n80064251"
@@ -1952,10 +1961,10 @@
         }
        }
    ],
-   "additional-note": "This magazine sometimes reprinted stories, often ones that appeared in earlier issues.  We have not systematically checked copyrights for the reprints, but the Galactic Central tables of contents note known reprints and indicate where they first appeared.",
+   "additional-note": "This magazine sometimes reprinted stories, often ones that appeared in earlier issues.  We have not systematically checked copyrights for the reprints, but the Galactic Central tables of contents note known reprints and indicate where they first appeared. The renewed contributions list above includes some (but not necessarily all) reprints from sources that have active renewals, and all renewals specifically for contributions to this magazine up to 1964.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-06-14"
+   "last-updated": "2019-07-18"
 }

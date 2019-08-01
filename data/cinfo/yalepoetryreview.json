@@ -8,10 +8,50 @@
       {"issue": {"issue-date": "1946-Spring"}},
    "first-renewed-contribution-source": "1974-JanJun",
    "last-issue": {"issue-date": "1948-Autumn", "number": "8"},
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1946-Spring"},
+      "title": "Chanson",
+      "author": {
+         "authorized": "Williams, William Carlos, 1883-1963",
+         "lcna": "n79060075"
+      }
+     },
+     {"issue": {"issue-date": "1946-Summer"},
+      "title": "A Like a Grey Rock, and Others",
+      "author": {
+         "authorized": "Cummings, E. E. (Edward Estlin), 1894-1962",
+         "lcna": "n79038464"
+      }
+     },
+     {"issue": {"issue-date": "1946-Summer"},
+      "title": "Four Poems",
+      "author": {
+         "authorized": "Williams, William Carlos, 1883-1963",
+         "lcna": "n79060075"
+      }
+     },
+     {"issue": {"issue-date": "1947-12-20"},
+      "title": "The Daughters of Jerusalem",
+      "note": "Issue date as given in CCE renewal record.",
+      "author": {
+         "authorized": "Gregor, Arthur, 1923-",
+         "lcna": "n79060075"
+      }
+     },
+     {"issue": {"issue-date": "1947"},
+      "title": "Poem",
+      "note": "Issue date as given in CCE renewal record.",
+      "author": {
+         "authorized": "Gregor, Arthur, 1923-",
+         "lcna": "n79060075"
+      }
+     }
+   ],
    "additional-note" : "Renewals are recorded beginning in the 1973 July-December CCE volume, but the earliest renewed contribution is noted in the 1974 January-June volume.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-03-31"
+   "last-updated": "2019-07-18"
 }
