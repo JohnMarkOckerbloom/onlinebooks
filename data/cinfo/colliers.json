@@ -1,13 +1,65 @@
 {
    "title": "Collier's",
    "online": "1",
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/FMI/link.asp?magid=COLWK",
+       "note": "FictionMags (partial: fiction contents of selected issues)"}
+   ],
    "first-renewed-issue": 
      {"issue-date": "1931-06-06", "volume": "87", "number": "23"},
    "first-renewed-issue-source": "1959-JanJun",
    "first-renewed-contribution":
      {"issue": {"issue-date": "1924-01-05", "volume": "73", "number": "1"}},
    "first-renewed-contribution-source": "1951-JanJun",
-   "renewed-contribution-completeness": "active/1924",
+   "renewed-issue-completeness": "active/end",
+   "renewed-issues": [
+     {"issue-date": "1931-06-06", "volume": "87", "number": "23"},
+     {"issue-date": "1931-06-13", "volume": "87", "number": "24"},
+     {"issue-date": "1931-06-20", "volume": "87", "number": "25"},
+     {"issue-date": "1931-06-27", "volume": "87", "number": "26"},
+     {"issue-date": "1931-07-05", "volume": "88", "number": "1"},
+     {"issue-date": "1931-07-11", "volume": "88", "number": "2"},
+     {"issue-date": "1931-07-18", "volume": "88", "number": "3"},
+     {"issue-date": "1931-07-25", "volume": "88", "number": "4"},
+     {"issue-date": "1931-08-01", "volume": "88", "number": "5"},
+     {"issue-date": "1931-08-08", "volume": "88", "number": "6"},
+     {"issue-date": "1931-08-15", "volume": "88", "number": "7"},
+     {"issue-date": "1931-08-22", "volume": "88", "number": "8"},
+     {"issue-date": "1931-08-29", "volume": "88", "number": "9"},
+     {"issue-date": "1931-09-05", "volume": "88", "number": "10"},
+     {"issue-date": "1931-09-12", "volume": "88", "number": "11"},
+     {"issue-date": "1931-09-19", "volume": "88", "number": "12"},
+     {"issue-date": "1931-09-26", "volume": "88", "number": "13"},
+     {"issue-date": "1931-10-03", "volume": "88", "number": "14"},
+     {"issue-date": "1931-10-10", "volume": "88", "number": "15"},
+     {"issue-date": "1931-10-17", "volume": "88", "number": "16"},
+     {"issue-date": "1931-10-24", "volume": "88", "number": "17"},
+     {"issue-date": "1931-10-31", "volume": "88", "number": "18"},
+     {"issue-date": "1931-11-07", "volume": "88", "number": "19"},
+     {"issue-date": "1931-11-14", "volume": "88", "number": "20"},
+     {"issue-date": "1931-11-21", "volume": "88", "number": "21"},
+     {"issue-date": "1931-11-28", "volume": "88", "number": "22"},
+     {"issue-date": "1931-12-05", "volume": "88", "number": "23"},
+     {"issue-date": "1931-12-12", "volume": "88", "number": "24"},
+     {"issue-date": "1931-12-19", "volume": "88", "number": "25"},
+     {"issue-date": "1931-12-26", "volume": "88", "number": "26"},
+     {"issue-date": "1932-01-02", "volume": "89", "number": "1"},
+     {"issue-date": "1932-01-09", "volume": "89", "number": "2"},
+     {"issue-date": "1932-01-16", "volume": "89", "number": "3"},
+     {"issue-date": "1932-01-23", "volume": "89", "number": "4"},
+     {"issue-date": "1932-01-30", "volume": "89", "number": "5"},
+     {"issue-date": "1932-02-06", "volume": "89", "number": "6"},
+     {"issue-date": "1932-02-13", "volume": "89", "number": "7"},
+     {"issue-date": "1932-02-20", "volume": "89", "number": "8"},
+     {"issue-date": "1932-02-27", "volume": "89", "number": "9"},
+     {"issue-date": "1932-03-05", "volume": "89", "number": "10"},
+     {"issue-date": "1932-03-12", "volume": "89", "number": "11"},
+     {"issue-date": "1932-03-19", "volume": "89", "number": "12"},
+     {"issue-date": "1932-03-26", "volume": "89", "number": "13"},
+     {"issue-date": "1932-04-02", "volume": "89", "number": "14"},
+     {"issue-date": "1932-04-09", "volume": "89", "number": "15"}
+   ],
+   "renewed-contribution-completeness": "active/1926",
    "renewed-contributions": [
      {"issue": {"issue-date": "1924-01-05", "volume": "73", "number": "1"},
        "title": "Siege",
@@ -566,6 +618,13 @@
       }
      },
      {"issue": {"issue-date": "1925-07-11", "volume": "76", "number": "2"},
+      "title": "The Curse of the Golden Cross",
+      "author": {
+       "authorized": "Chesterton, G. K. (Gilbert Keith), 1874-1936",
+       "lcna": "n79021157"
+      }
+     },
+     {"issue": {"issue-date": "1925-07-11", "volume": "76", "number": "2"},
         "title": "The Professor's House",
         "title-note": "part 6 of 9",
         "author": {
@@ -625,6 +684,13 @@
        "lcna": "n50006835"
       }
      },
+     {"issue": {"issue-date": "1925-09-05", "volume": "76", "number": "10"},
+      "title": "Lady in Jeopardy",
+      "author": {
+       "authorized": "Avery, Stephen Morehouse, 1893-1948",
+       "lcna": "no89011696"
+      }
+     },
      {"issue": {"issue-date": "1925-09-26", "volume": "76", "number": "13"},
       "title": "Goats",
       "author": {
@@ -644,6 +710,20 @@
       "author": {
        "authorized": "Johnson, Nunnally",
        "lcna": "n79134929"
+      }
+     },
+     {"issue": {"issue-date": "1925-10-10", "volume": "76", "number": "15"},
+      "title": "In the Presence of Ladies",
+      "author": {
+       "authorized": "Avery, Stephen Morehouse, 1893-1948",
+       "lcna": "no89011696"
+      }
+     },
+     {"issue": {"issue-date": "1925-11-07", "volume": "76", "number": "19"},
+      "title": "Field Ten",
+      "author": {
+       "authorized": "Avery, Stephen Morehouse, 1893-1948",
+       "lcna": "no89011696"
       }
      },
      {"issue": {"issue-date": "1925-11-14", "volume": "76", "number": "20"},
@@ -764,11 +844,41 @@
       }
      },
      {"issue": {"issue-date": "1926-01-30", "volume": "77", "number": "5"},
+      "title": "Sunk",
+      "author": {
+       "authorized": "Worts, George F. (George Frank), 1892-1967",
+       "lcna": "no94031974"
+      }
+     },
+     {"issue": {"issue-date": "1926-01-30", "volume": "77", "number": "5"},
       "title": "The Book Nobody Knows",
       "title-note": "part 6 of 6",
       "author": {
        "authorized": "Barton, Bruce, 1886-1967",
        "lcna": "n86114512"
+      }
+     },
+     {"issue": {"issue-date": "1926-02-06", "volume": "77", "number": "6"}, 
+      "title": "Lamp Trimmer of the Oddistar",
+      "author": {
+       "authorized": "Wetjen, Albert Richard, 1900-1948",
+       "lcna": "no2009138376"
+      }
+     },
+     {"issue": {"issue-date": "1926-02-13", "volume": "77", "number": "7"},
+      "title": "Mantrap",
+      "title-note": "part 1 of 13",
+      "author": {
+         "authorized": "Lewis, Sinclair, 1885-1951",
+         "lcna": "n79023149"
+      }
+     },
+     {"issue": {"issue-date": "1926-02-20", "volume": "77", "number": "8"},
+      "title": "Mantrap",
+      "title-note": "part 2 of 13",
+      "author": {
+         "authorized": "Lewis, Sinclair, 1885-1951",
+         "lcna": "n79023149"
       }
      },
      {"issue": {"issue-date": "1926-02-20", "volume": "77", "number": "8"},
@@ -787,11 +897,35 @@
       }
      },
      {"issue": {"issue-date": "1926-02-27", "volume": "77", "number": "9"},
+      "title": "Mantrap",
+      "title-note": "part 3 of 13",
+      "author": {
+         "authorized": "Lewis, Sinclair, 1885-1951",
+         "lcna": "n79023149"
+      }
+     },
+     {"issue": {"issue-date": "1926-02-27", "volume": "77", "number": "9"},
       "title": "The Greatest Men in the Bible",
       "title-note": "part 2 of 2",
       "author": {
        "authorized": "Barton, Bruce, 1886-1967",
        "lcna": "n86114512"
+      }
+     },
+     {"issue": {"issue-date": "1926-03-06", "volume": "77", "number": "10"},
+      "title": "Mantrap",
+      "title-note": "part 4 of 13",
+      "author": {
+         "authorized": "Lewis, Sinclair, 1885-1951",
+         "lcna": "n79023149"
+      }
+     },
+     {"issue": {"issue-date": "1926-03-13", "volume": "77", "number": "11"},
+      "title": "Mantrap",
+      "title-note": "part 5 of 13",
+      "author": {
+         "authorized": "Lewis, Sinclair, 1885-1951",
+         "lcna": "n79023149"
       }
      },
      {"issue": {"issue-date": "1926-03-13", "volume": "77", "number": "11"},
@@ -811,6 +945,14 @@
       }
      },
      {"issue": {"issue-date": "1926-03-20", "volume": "77", "number": "12"},
+      "title": "Mantrap",
+      "title-note": "part 6 of 13",
+      "author": {
+         "authorized": "Lewis, Sinclair, 1885-1951",
+         "lcna": "n79023149"
+      }
+     },
+     {"issue": {"issue-date": "1926-03-20", "volume": "77", "number": "12"},
       "title": "The Bibles Greatest Women",
       "title-note": "part 1 of 2",
       "author": {
@@ -819,11 +961,50 @@
       }
      },
      {"issue": {"issue-date": "1926-03-27", "volume": "77", "number": "13"},
+      "title": "Mantrap",
+      "title-note": "part 7 of 13",
+      "author": {
+         "authorized": "Lewis, Sinclair, 1885-1951",
+         "lcna": "n79023149"
+      }
+     },
+     {"issue": {"issue-date": "1926-03-27", "volume": "77", "number": "13"},
       "title": "The Bibles Greatest Women",
       "title-note": "part 2 of 2",
       "author": {
        "authorized": "Barton, Bruce, 1886-1967",
        "lcna": "n86114512"
+      }
+     },
+     {"issue": {"issue-date": "1926-04-03", "volume": "77", "number": "14"},
+      "title": "Mantrap",
+      "title-note": "part 8 of 13",
+      "author": {
+         "authorized": "Lewis, Sinclair, 1885-1951",
+         "lcna": "n79023149"
+      }
+     },
+     {"issue": {"issue-date": "1926-04-10", "volume": "77", "number": "15"},
+      "title": "Mantrap",
+      "title-note": "part 9 of 13",
+      "author": {
+         "authorized": "Lewis, Sinclair, 1885-1951",
+         "lcna": "n79023149"
+      }
+     },
+     {"issue": {"issue-date": "1926-04-17", "volume": "77", "number": "16"},
+      "title": "Mantrap",
+      "title-note": "part 10 of 13",
+      "author": {
+         "authorized": "Lewis, Sinclair, 1885-1951",
+         "lcna": "n79023149"
+      }
+     },
+     {"issue": {"issue-date": "1926-04-17", "volume": "77", "number": "16"},
+      "title": "Faust: From book Classics in Slang",
+      "author": {
+       "authorized": "Witwer, H. C. (Harry Charles), 1890-1929",
+       "lcna": "no92032170"
       }
      },
      {"issue": {"issue-date": "1926-04-17", "volume": "77", "number": "16"},
@@ -840,11 +1021,87 @@
          "lcna": "n50041532"
        }
      },
+     {"issue": {"issue-date": "1926-04-24", "volume": "77", "number": "17"},
+      "title": "Mantrap",
+      "title-note": "part 11 of 13",
+      "author": {
+         "authorized": "Lewis, Sinclair, 1885-1951",
+         "lcna": "n79023149"
+      }
+     },
+     {"issue": {"issue-date": "1926-05-01", "volume": "77", "number": "18"},
+      "title": "Mantrap",
+      "title-note": "part 12 of 13",
+      "author": {
+         "authorized": "Lewis, Sinclair, 1885-1951",
+         "lcna": "n79023149"
+      }
+     },
+     {"issue": {"issue-date": "1926-05-01", "volume": "77", "number": "18"},
+      "title": "Training of John Kieran",
+      "author": {
+       "authorized": "Hopper, James, 1876-1956",
+       "lcna": "n00068220"
+      }
+     },
+     {"issue": {"issue-date": "1926-05-08", "volume": "77", "number": "19"},
+      "title": "Mantrap",
+      "title-note": "part 13 of 13",
+      "author": {
+         "authorized": "Lewis, Sinclair, 1885-1951",
+         "lcna": "n79023149"
+      }
+     },
      {"issue": {"issue-date": "1926-05-08", "volume": "77", "number": "19"},
       "title": "The Bridal Suite",
       "author": {
          "authorized": "Connell, Richard Edward, 1893-1949",
          "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1926-05-08", "volume": "77", "number": "19"},
+      "title": "Promoted",
+      "author": {
+       "authorized": "Hopper, James, 1876-1956",
+       "lcna": "n00068220"
+      }
+     },
+     {"issue": {"issue-date": "1926-05-15", "volume": "77", "number": "20"},
+       "title": "Devil May Care",
+       "title-note": "part 1 of 14",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1926-05-22", "volume": "77", "number": "21"},
+       "title": "Devil May Care",
+       "title-note": "part 2 of 14",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1926-05-29", "volume": "77", "number": "22"},
+      "title": "Classics in Slang: Carmen",
+      "author": {
+       "authorized": "Witwer, H. C. (Harry Charles), 1890-1929",
+       "lcna": "no92032170"
+      }
+     },
+     {"issue": {"issue-date": "1926-05-29", "volume": "77", "number": "22"},
+      "title": "Old Hickory",
+      "author": {
+       "authorized": "Creel, George, 1876-1953",
+       "lcna": "n50018868"
+      }
+     },
+     {"issue": {"issue-date": "1926-05-29", "volume": "77", "number": "22"},
+       "title": "Devil May Care",
+       "title-note": "part 3 of 14",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
        }
      },
      {"issue": {"issue-date": "1926-05-29", "volume": "77", "number": "22"},
@@ -861,11 +1118,805 @@
        "lcna": "n90676728"
       }
      },
+     {"issue": {"issue-date": "1926-06-05", "volume": "77", "number": "23"},
+       "title": "Devil May Care",
+       "title-note": "part 4 of 14",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1926-06-05", "volume": "77", "number": "23"},
+      "title": "Women and Children First",
+      "author": {
+       "authorized": "Wetjen, Albert Richard, 1900-1948",
+       "lcna": "no2009138376"
+      }
+     },
+     {"issue": {"issue-date": "1926-06-12", "volume": "77", "number": "24"},
+       "title": "Devil May Care",
+       "title-note": "part 5 of 14",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1926-06-12", "volume": "77", "number": "24"},
+      "title": "The Shining Sword",
+      "author": {
+       "authorized": "Creel, George, 1876-1953",
+       "lcna": "n50018868"
+      }
+     },
+     {"issue": {"issue-date": "1926-06-19", "volume": "77", "number": "25"},
+       "title": "Devil May Care",
+       "title-note": "part 6 of 14",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
      {"issue": {"issue-date": "1926-06-19", "volume": "77", "number": "25"},
       "title": "The Lucky Fist",
       "author": {
         "authorized": "Benét, Stephen Vincent, 1898-1943",
         "lcna": "n50007691"
+      }
+     },
+     {"issue": {"issue-date": "1926-06-26", "volume": "77", "number": "26"},
+      "title": "The Playboy of the Plains",
+      "author": {
+       "authorized": "Creel, George, 1876-1953",
+       "lcna": "n50018868"
+      }
+     },
+     {"issue": {"issue-date": "1926-06-26", "volume": "77", "number": "26"},
+       "title": "Devil May Care",
+       "title-note": "part 7 of 14",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1926-07-03", "volume": "78", "number": "1"},
+       "title": "Devil May Care",
+       "title-note": "part 8 of 14",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1926-07-03", "volume": "78", "number": "1"},
+      "title": "Rescue",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1926-07-10", "volume": "78", "number": "2"},
+       "title": "Devil May Care",
+       "title-note": "part 9 of 14",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1926-07-10", "volume": "78", "number": "2"},
+      "title": "Classics in Slang: Robinson Crusoe",
+      "author": {
+       "authorized": "Witwer, H. C. (Harry Charles), 1890-1929",
+       "lcna": "no92032170"
+      }
+     },
+     {"issue": {"issue-date": "1926-07-10", "volume": "78", "number": "2"},
+      "title": "Old Rough and Ready",
+      "author": {
+       "authorized": "Creel, George, 1876-1953",
+       "lcna": "n50018868"
+      }
+     },
+     {"issue": {"issue-date": "1926-07-17", "volume": "78", "number": "3"}, 
+       "title": "Devil May Care",
+       "title-note": "part 10 of 14",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1926-07-17", "volume": "78", "number": "3"}, 
+      "title": "Chance",
+      "author": {
+       "authorized": "Wetjen, Albert Richard, 1900-1948",
+       "lcna": "no2009138376"
+      }
+     },
+     {"issue": {"issue-date": "1926-07-24", "volume": "78", "number": "4"},
+       "title": "Devil May Care",
+       "title-note": "part 11 of 14",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1926-07-24", "volume": "78", "number": "4"},
+      "title": "Hildegarde",
+      "title-note": "part 1 of 14",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1926-07-24", "volume": "78", "number": "4"},
+      "title": "The Great Gentleman",
+      "author": {
+       "authorized": "Creel, George, 1876-1953",
+       "lcna": "n50018868"
+      }
+     },
+     {"issue": {"issue-date": "1926-07-31", "volume": "78", "number": "5"},
+      "title": "Hildegarde",
+      "title-note": "part 2 of 14",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1926-07-31", "volume": "78", "number": "5"},
+       "title": "Devil May Care",
+       "title-note": "part 12 of 14",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1926-08-07", "volume": "78", "number": "6"},
+       "title": "Devil May Care",
+       "title-note": "part 13 of 14",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1926-08-07", "volume": "78", "number": "6"},
+      "title": "Hildegarde",
+      "title-note": "part 3 of 14",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1926-08-14", "volume": "78", "number": "7"},
+       "title": "Devil May Care",
+       "title-note": "part 14 of 14",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1926-08-14", "volume": "78", "number": "7"},
+      "title": "Hildegarde",
+      "title-note": "part 4 of 14",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1926-08-14", "volume": "78", "number": "7"},
+      "title": "A Rocket in the West",
+      "author": {
+       "authorized": "Creel, George, 1876-1953",
+       "lcna": "n50018868"
+      }
+     },
+     {"issue": {"issue-date": "1926-08-21", "volume": "78", "number": "8"},
+      "title": "Hildegarde",
+      "title-note": "part 5 of 14",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1926-08-21", "volume": "78", "number": "8"},
+      "title": "Mr. Onion",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1926-08-21", "volume": "78", "number": "8"},
+      "title": "Incredible Kit Carson",
+      "author": {
+       "authorized": "Creel, George, 1876-1953",
+       "lcna": "n50018868"
+      }
+     },
+     {"issue": {"issue-date": "1926-08-28", "volume": "78", "number": "9"},
+      "title": "Hildegarde",
+      "title-note": "part 6 of 14",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1926-09-04", "volume": "78", "number": "10"},
+      "title": "Oh Promise Me",
+      "author": {
+       "authorized": "Kyne, Peter B. (Peter Bernard), 1880-1957",
+       "lcna": "n86111479"
+      }
+     },
+     {"issue": {"issue-date": "1926-09-04", "volume": "78", "number": "10"},
+      "title": "Hildegarde",
+      "title-note": "part 7 of 14",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1926-09-04", "volume": "78", "number": "10"},
+      "title": "The Lion and the Lord",
+      "author": {
+       "authorized": "Creel, George, 1876-1953",
+       "lcna": "n50018868"
+      }
+     },
+     {"issue": {"issue-date": "1926-09-11", "volume": "78", "number": "11"},
+      "title": "Hildegarde",
+      "title-note": "part 8 of 14",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1926-09-11", "volume": "78", "number": "11"},
+      "title": "The Little Baroness",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1926-09-18", "volume": "78", "number": "12"},
+      "title": "Classics in Slang: That Hunchback From Notre Dame",
+      "author": {
+       "authorized": "Witwer, H. C. (Harry Charles), 1890-1929",
+       "lcna": "no92032170"
+      }
+     },
+     {"issue": {"issue-date": "1926-09-18", "volume": "78", "number": "12"},
+      "title": "Nancy Hanks' Boy",
+      "author": {
+       "authorized": "Creel, George, 1876-1953",
+       "lcna": "n50018868"
+      }
+     },
+     {"issue": {"issue-date": "1926-09-18", "volume": "78", "number": "12"},
+      "title": "Hildegarde",
+      "title-note": "part 9 of 14",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1926-09-25", "volume": "78", "number": "13"},
+      "title": "Hildegarde",
+      "title-note": "part 10 of 14",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1926-10-02", "volume": "78", "number": "14"},
+      "title": "Hildegarde",
+      "title-note": "part 11 of 14",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1926-10-09", "volume": "78", "number": "15"},
+      "title": "Hildegarde",
+      "title-note": "part 12 of 14",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1926-10-16", "volume": "78", "number": "16"},
+      "title": "Hildegarde",
+      "title-note": "part 13 of 14",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1926-10-23", "volume": "78", "number": "17"},
+      "title": "Hildegarde",
+      "title-note": "part 14 of 14",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1926-10-23", "volume": "78", "number": "17"},
+      "title": "Classics in Slang: Oliver Twist",
+      "author": {
+       "authorized": "Witwer, H. C. (Harry Charles), 1890-1929",
+       "lcna": "no92032170"
+      }
+     },
+     {"issue": {"issue-date": "1926-10-23", "volume": "78", "number": "17"},
+      "title": "The Man Who Came Back",
+      "author": {
+       "authorized": "Creel, George, 1876-1953",
+       "lcna": "n50018868"
+      }
+     },
+     {"issue": {"issue-date": "1926-10-30", "volume": "78", "number": "18"},
+      "title": "The Gray Ghost of the South",
+      "author": {
+       "authorized": "Creel, George, 1876-1953",
+       "lcna": "n50018868"
+      }
+     },
+     {"issue": {"issue-date": "1926-11-13", "volume": "78", "number": "20"},
+      "title": "Classics in Slang: The Three Musketeers",
+      "author": {
+       "authorized": "Witwer, H. C. (Harry Charles), 1890-1929",
+       "lcna": "no92032170"
+      }
+     },
+     {"issue": {"issue-date": "1926-11-13", "volume": "78", "number": "20"},
+      "title": "Royal Babes in the Wood",
+      "author": {
+       "authorized": "Creel, George, 1876-1953",
+       "lcna": "n50018868"
+      }
+     },
+     {"issue": {"issue-date": "1926-11-20", "volume": "78", "number": "21"},
+      "title": "The Lame Duck",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1926-11-27", "volume": "78", "number": "22"},
+      "title": "Classics in Slang: Don Quixote",
+      "author": {
+       "authorized": "Witwer, H. C. (Harry Charles), 1890-1929",
+       "lcna": "no92032170"
+      }
+     },
+     {"issue": {"issue-date": "1926-11-27", "volume": "78", "number": "22"},
+      "title": "The Tailor From Tennessee",
+      "note": "Title as given in CCE. FictionMags titles this story 'The Tailor's Vengeance'. I have not checked the issue myself.",
+      "author": {
+       "authorized": "Creel, George, 1876-1953",
+       "lcna": "n50018868"
+      }
+     },
+     {"issue": {"issue-date": "1926-12-04", "volume": "78", "number": "23"},
+      "title": "Echoes",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1926-12-25", "volume": "78", "number": "26"},
+      "title": "Classics in Slang: Les Misérables",
+      "author": {
+       "authorized": "Witwer, H. C. (Harry Charles), 1890-1929",
+       "lcna": "no92032170"
+      }
+     },
+     {"issue": {"issue-date": "1926-12-25", "volume": "78", "number": "26"},
+      "title": "The Orange Bird",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1927-01-15", "volume": "79", "number": "3"},
+      "title": "Jim, the Conqueror",
+      "title-note": "part 1 of 9",
+      "author": {
+       "authorized": "Kyne, Peter B. (Peter Bernard), 1880-1957",
+       "lcna": "n86111479"
+      }
+     },
+     {"issue": {"issue-date": "1927-01-22", "volume": "79", "number": "4"},
+      "title": "Jim, the Conqueror",
+      "title-note": "part 2 of 9",
+      "author": {
+       "authorized": "Kyne, Peter B. (Peter Bernard), 1880-1957",
+       "lcna": "n86111479"
+      }
+     },
+     {"issue": {"issue-date": "1927-01-22", "volume": "79", "number": "4"},
+      "title": "To the Last Man",
+      "author": {
+       "authorized": "Creel, George, 1876-1953",
+       "lcna": "n50018868"
+      }
+     },
+     {"issue": {"issue-date": "1927-01-29", "volume": "79", "number": "5"},
+      "title": "Jim, the Conqueror",
+      "title-note": "part 3 of 9",
+      "author": {
+       "authorized": "Kyne, Peter B. (Peter Bernard), 1880-1957",
+       "lcna": "n86111479"
+      }
+     },
+     {"issue": {"issue-date": "1927-02-05", "volume": "79", "number": "6"},
+      "title": "Jim, the Conqueror",
+      "title-note": "part 4 of 9",
+      "author": {
+       "authorized": "Kyne, Peter B. (Peter Bernard), 1880-1957",
+       "lcna": "n86111479"
+      }
+     },
+     {"issue": {"issue-date": "1927-02-12", "volume": "79", "number": "7"},
+      "title": "Jim, the Conqueror",
+      "title-note": "part 5 of 9",
+      "author": {
+       "authorized": "Kyne, Peter B. (Peter Bernard), 1880-1957",
+       "lcna": "n86111479"
+      }
+     },
+     {"issue": {"issue-date": "1927-02-19", "volume": "79", "number": "8"},
+      "title": "Jim, the Conqueror",
+      "title-note": "part 6 of 9",
+      "author": {
+       "authorized": "Kyne, Peter B. (Peter Bernard), 1880-1957",
+       "lcna": "n86111479"
+      }
+     },
+     {"issue": {"issue-date": "1927-02-19", "volume": "79", "number": "8"},
+      "title": "Room at the Top",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1927-02-26", "volume": "79", "number": "9"},
+      "title": "Jim, the Conqueror",
+      "title-note": "part 7 of 9",
+      "author": {
+       "authorized": "Kyne, Peter B. (Peter Bernard), 1880-1957",
+       "lcna": "n86111479"
+      }
+     },
+     {"issue": {"issue-date": "1927-02-26", "volume": "79", "number": "9"},
+      "title": "Sweet William",
+      "note": "Issue designation as per FictionMags. CCE puts this story in the next issue. I have not checked the issues in question myself.",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1927-03-05", "volume": "79", "number": "10"},
+      "title": "Jim, the Conqueror",
+      "title-note": "part 8 of 9",
+      "author": {
+       "authorized": "Kyne, Peter B. (Peter Bernard), 1880-1957",
+       "lcna": "n86111479"
+      }
+     },
+     {"issue": {"issue-date": "1927-03-05", "volume": "79", "number": "10"},
+      "title": "Sweet William",
+      "note": "Issue designation as per CCE. FictionMags puts this story in the previous issue. I have not checked the issues in question myself.",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1927-03-12", "volume": "79", "number": "11"},
+      "title": "Jim, the Conqueror",
+      "title-note": "part 9 of 9",
+      "author": {
+       "authorized": "Kyne, Peter B. (Peter Bernard), 1880-1957",
+       "lcna": "n86111479"
+      }
+     },
+     {"issue": {"issue-date": "1927-04-16", "volume": "79", "number": "16"},
+      "title": "The Yellow Finger",
+      "author": {
+         "authorized": "Russell, John, 1885-1956",
+         "lcna": "no2005032715"
+      }
+     },
+     {"issue": {"issue-date": "1927-04-16", "volume": "79", "number": "16"},
+       "title": "In a Fair Way to Murder",
+       "author": {
+         "authorized": "Marquis, Don, 1878-1937",
+         "lcna": "n50041532"
+       }
+     },
+     {"issue": {"issue-date": "1927-04-23", "volume": "79", "number": "17"},
+      "title": "Married Men",
+      "author": {
+         "authorized": "Hale, Agnes Burke",
+         "lcna": "no97070814"
+      }
+     },
+     {"issue": {"issue-date": "1927-05-14", "volume": "79", "number": "20"},
+      "title": "Revolution of a Lady",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1927-05-14", "volume": "79", "number": "20"},
+      "title": "The Bright Reversion",
+      "author": {
+         "authorized": "Russell, John, 1885-1956",
+         "lcna": "no2005032715"
+      }
+     },
+     {"issue": {"issue-date": "1927-05-14", "volume": "79", "number": "20"},
+      "title": "When Is It Dirt",
+      "author": {
+       "authorized": "Tarkington, Booth, 1869-1946",
+       "lcna": "n79078124"
+      }
+     },
+     {"issue": {"issue-date": "1927-05-28", "volume": "79", "number": "22"},
+       "title": "The High Pitch",
+       "author": {
+         "authorized": "Marquis, Don, 1878-1937",
+         "lcna": "n50041532"
+       }
+     },
+     {"issue": {"issue-date": "1927-05-28", "volume": "79", "number": "22"},
+      "title": "The Favorite Daughter",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1927-06-25", "volume": "79", "number": "26"},
+      "title": "The Loose End Husband",
+      "author": {
+       "authorized": "Weiman, Rita, 1889-1954",
+       "lcna": "n89129751"
+      }
+     },
+     {"issue": {"issue-date": "1927-07-16", "volume": "80", "number": "3"},
+      "title": "Peggy's Pirate",
+      "author": {
+         "authorized": "Duganne, Phyllis, 1899-1976",
+         "lcna": "n90719514"
+      }
+     },
+     {"issue": {"issue-date": "1927-07-23", "volume": "80", "number": "4"},
+      "title": "My Best Girl",
+      "title-note": "part 1 of 10",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1927-07-30", "volume": "80", "number": "5"},
+      "title": "My Best Girl",
+      "title-note": "part 2 of 10",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1927-07-30", "volume": "80", "number": "5"},
+      "title": "It Seems to be Fate",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1927-07-30", "volume": "80", "number": "5"},
+      "title": "A Letter Home",
+      "author": {
+       "authorized": "Upson, William Hazlett, 1891-1975",
+       "lcna": "n90676728"
+      }
+     },
+     {"issue": {"issue-date": "1927-08-06", "volume": "80", "number": "6"},
+      "title": "My Best Girl",
+      "title-note": "part 3 of 10",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1927-08-13", "volume": "80", "number": "7"},
+      "title": "My Best Girl",
+      "title-note": "part 4 of 10",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1927-08-20", "volume": "80", "number": "8"},
+      "title": "My Best Girl",
+      "title-note": "part 5 of 10",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1927-08-27", "volume": "80", "number": "9"},
+      "title": "My Best Girl",
+      "title-note": "part 6 of 10",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1927-09-03", "volume": "80", "number": "10"},
+      "title": "My Best Girl",
+      "title-note": "part 7 of 10",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1927-09-10", "volume": "80", "number": "11"},
+      "title": "My Best Girl",
+      "title-note": "part 8 of 10",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1927-09-17", "volume": "80", "number": "12"},
+      "title": "Facing the Music",
+      "author": {
+         "authorized": "Duganne, Phyllis, 1899-1976",
+         "lcna": "n90719514"
+      }
+     },
+     {"issue": {"issue-date": "1927-09-17", "volume": "80", "number": "12"},
+      "title": "My Best Girl",
+      "title-note": "part 9 of 10",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1927-09-24", "volume": "80", "number": "13"},
+      "title": "My Best Girl",
+      "title-note": "part 10 of 10",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1927-10-08", "volume": "80", "number": "15"},
+      "title": "The Water Hole",
+      "title-note": "part 1 of 12",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1927-10-08", "volume": "80", "number": "15"},
+      "title": "Carousel",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1927-10-15", "volume": "80", "number": "16"},
+      "title": "The Water Hole",
+      "title-note": "part 2 of 12",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1927-10-15", "volume": "80", "number": "16"},
+      "title": "The Fleet was in the River",
+      "author": {
+         "authorized": "Duganne, Phyllis, 1899-1976",
+         "lcna": "n90719514"
+      }
+     },
+     {"issue": {"issue-date": "1927-10-22", "volume": "80", "number": "17"},
+      "title": "Ladies Prefer Brunettes",
+      "author": {
+       "authorized": "Witwer, H. C. (Harry Charles), 1890-1929",
+       "lcna": "no92032170"
+      }
+     },
+     {"issue": {"issue-date": "1927-10-22", "volume": "80", "number": "17"},
+      "title": "The Water Hole",
+      "title-note": "part 3 of 12",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1927-10-29", "volume": "80", "number": "18"},
+      "title": "The Water Hole",
+      "title-note": "part 4 of 12",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1927-11-05", "volume": "80", "number": "19"},
+      "title": "The Water Hole",
+      "title-note": "part 5 of 12",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1927-11-12", "volume": "80", "number": "20"},
+      "title": "The Water Hole",
+      "title-note": "part 6 of 12",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1927-11-19", "volume": "80", "number": "21"},
+      "title": "Business Engagement",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1927-11-19", "volume": "80", "number": "21"},
+      "title": "The Water Hole",
+      "title-note": "part 7 of 12",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1927-11-26", "volume": "80", "number": "22"},
+      "title": "The Water Hole",
+      "title-note": "part 8 of 12",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1927-12-03", "volume": "80", "number": "23"},
+      "title": "The Water Hole",
+      "title-note": "part 9 of 12",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1927-12-10", "volume": "80", "number": "24"},
+      "title": "Edgar Ain't Wuth It",
+      "author": {
+       "authorized": "Poole, Ernest, 1880-1950",
+       "lcna": "n88071985"
+      }
+     },
+     {"issue": {"issue-date": "1927-12-10", "volume": "80", "number": "24"},
+      "title": "The Water Hole",
+      "title-note": "part 10 of 12",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1927-12-17", "volume": "80", "number": "25"},
+      "title": "The Water Hole",
+      "title-note": "part 11 of 12",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1927-12-24", "volume": "80", "number": "26"},
+      "title": "The Water Hole",
+      "title-note": "part 12 of 12",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
       }
      }
    ],
@@ -873,5 +1924,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-06-04"
+   "last-updated": "2019-08-26"
 }

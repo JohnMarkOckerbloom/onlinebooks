@@ -495,6 +495,71 @@ sub serial_copyright_summary {
   return $str;
 }
 
+my $SOMEYEAR = -1;
+
+# utility function that returns a year in a string if clearly stated
+# or $SOMEYEAR (which should be less than any valid year and nonzero)
+# if it can't find one
+
+sub _getyear {
+  my ($str) = @_;
+  if ($str =~ /^(\d\d\d\d)/) {
+    return $1;
+  }
+  return $SOMEYEAR;
+}
+
+
+# This just gives the first year of active renewal (or "None" if
+#  no renewal or "Yes" if it # sees a renewal but can't figure out the year),
+#  with a following asterisk if there are additional notes.
+#  Returns undef if no record found.
+
+sub firstrenewal_year {
+  my ($self, %params) = @_;
+  my $fname = $params{filename};
+  my $str = "";
+  $fname =~ s/[^0-9a-z]//g;                    # sanitize input just in case
+  my $path = $self->{dir} . $fname . ".json";
+  my $json = $self->_readjsonfile($path);
+  return undef if (!$json);
+  if ($json->{"rights-statement"} eq $PDUS) {
+    $str = "None";
+  } else {
+    my $NOYEAR = 9999;
+    my $SOMEYEAR = 999;
+    my $firstissue = _get_first_renewed_issue($json);
+    my $contissue;
+    my $firstcont = _get_first_renewed_contribution($json);
+    if ($firstcont && $firstcont ne "none") {
+      $contissue = $firstcont->{"issue"};
+    }
+    my $firstyear = $NOYEAR;
+    foreach my $issue ($firstissue, $contissue) {
+      next if (!$issue || $issue eq "none");
+      my $date = $issue->{"issue-date"};
+      if ($date && _getyear($date) < $firstyear) {
+        $firstyear = _getyear($date);
+      }
+      $date = $issue->{"cdate"};
+      if ($date && _getyear($date) < $firstyear) {
+        $firstyear = _getyear($date);
+      }
+    }
+    if ($firstyear == $NOYEAR) {
+      $str = "None";
+    } elsif ($firstyear == $SOMEYEAR) {
+      $str = "Yes";
+    } else {
+      $str = $firstyear;
+    }
+  }
+  if ($json->{"additional-note"} || $json->{"additional-notes"}) {
+      $str .= "*";
+  }
+  return $str;
+}
+
 sub firstperiod_reference {
   my ($self, %params) = @_;
   my $id = $params{id};

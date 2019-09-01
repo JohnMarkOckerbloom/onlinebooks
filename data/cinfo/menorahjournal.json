@@ -8,9 +8,25 @@
     {"issue": {"issue-date": "1934-April-June"}},
    "first-renewed-contribution-source": "1962-JanJun",
    "last-issue": {"issue-date": "1962", "volume": "49"},
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1934-April-June"},
+      "title": "At the Mill",
+       "author": {
+         "authorized": "Mann, Thomas, 1875-1955",
+         "lcna": "n78095625"
+       }
+     },
+     {"issue": {"issue-date": "1944-Spring"},
+      "title": "David: A Cycle, 10 Parts",
+       "author": {
+         "name": "Walter Kaufmann"
+       }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-09-15"
+   "last-updated": "2019-08-08"
 }
