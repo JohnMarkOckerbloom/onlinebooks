@@ -6,16 +6,18 @@
    "online": "1",
    "contents": [
       {"url": "https://www.jstor.org/journal/procacadpoliscie",
-      "note": "JSTOR (full text also available; after 1922 may require subscription or payment)"}
+      "note": "JSTOR (full text also available; after 1923 may require subscription or payment)"}
    ],
    "first-issue": {"issue-date": "1910-10", "volume": "1", "number": "1"},
    "first-renewed-issue": 
       {"issue-date": "1939-05", "volume": "18", "number": "3"},
    "first-renewed-issue-source": "1967-JanJun",
-   "additional-note": "The first renewal for this serial is in the books section of CCE, and not in the periodicals section.",
+   "first-renewed-contribution":
+      {"issue": {"issue-date": "1951-05", "volume": "24", "number": "3"}},
+   "additional-note": "The first renewal for this serial is in the books section of CCE, and not in the periodicals section. Some of the contribution renewals may effectively be issue renewals, as many issues are on a single topic. It is also possible that such issues may have been renewed under their distinctive titles and not under the Proceedings title. We have not systematically checked all issue titles separately from the Proceedings for renewals.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-02-09"
+   "last-updated": "2019-09-06"
 }

@@ -6,6 +6,7 @@
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1925-11-11"}},
    "first-renewed-contribution-source": "1952-JulDec",
+   "renewed-contribution-completeness": "active/1945",
    "renewed-contributions": [
       {"issue": {"issue-date": "1925-11-11"}, 
        "title": "Children of the Dust",
@@ -20,11 +21,138 @@
          "authorized": "Benét, Laura",
          "lcna": "n50008105"
        }
+      },
+      {"issue": {"issue-date": "1927-11-23"},
+        "title": "Letter on Death Comes for the Archbishop",
+        "author": {
+         "authorized": "Cather, Willa, 1873-1947",
+         "lcna": "n80015717"
+        }
+      },
+      {"issue": {"issue-date": "1929-01-23"},
+        "title": "Change",
+        "author": {
+         "authorized": "Kunitz, Stanley, 1905-2006",
+         "lcna": "n79007720"
+        }
+      },
+      {"issue": {"issue-date": "1929-09-11"},
+        "title": "Verytree",
+        "author": {
+         "authorized": "Kunitz, Stanley, 1905-2006",
+         "lcna": "n79007720"
+        }
+      },
+      {"issue": {"issue-date": "1931-10-28"}, 
+       "title": "Too Many Breadlines",
+       "author": {
+        "authorized": "Adamic, Louis, 1899-1951",
+        "lcna": "n50036829"
+       }
+      },
+      {"issue": {"issue-date": "1936-04-03"},
+       "title": "Out of November",
+       "author": {
+         "authorized": "McCord, David Thompson Watson, 1897-1997",
+         "lcna": "n79109946"
+       }
+     },
+     {"issue": {"issue-date": "1939-03-17"}, 
+      "title": "It Was Like Sunday",
+      "author": {
+       "authorized": "Coffin, Robert P. Tristram (Robert Peter Tristram), 1892-1955",
+       "lcna": "n50030030"
       }
+     },
+     {"issue": {"issue-date": "1939-07-07"}, 
+      "title": "Far Trees Keep Up",
+      "author": {
+       "authorized": "Coffin, Robert P. Tristram (Robert Peter Tristram), 1892-1955",
+       "lcna": "n50030030"
+      }
+     },
+     {"issue": {"issue-date": "1939-09-29"}, 
+      "title": "Fair-Feeling",
+      "author": {
+       "authorized": "Coffin, Robert P. Tristram (Robert Peter Tristram), 1892-1955",
+       "lcna": "n50030030"
+      }
+     },
+     {"issue": {"issue-date": "1941-12-19"}, 
+      "title": "Incarnation and Parousia",
+      "author": {
+       "authorized": "Reinhold, H. A. (Hans Ansgar), 1897-1968",
+       "lcna": "no96056288"
+      }
+     },
+     {"issue": {"issue-date": "1942-03-27"},
+        "title": "A Skirmish",
+        "author": {
+         "authorized": "Werfel, Franz, 1890-1945",
+         "lcna": "n50002492"
+        }
+     },
+     {"issue": {"issue-date": "1942-04-03"},
+        "title": "Put Out More Flags",
+        "author": {
+         "authorized": "Waugh, Evelyn, 1903-1966",
+         "lcna": "n79049248"
+        }
+     },
+     {"issue": {"issue-date": "1942-06-12"},
+        "title": "Episode Seven",
+        "author": {
+         "authorized": "Roethke, Theodore, 1908-1963",
+         "lcna": "n79060436"
+        }
+     },
+     {"issue": {"issue-date": "1942-10-30"},
+        "title": "Mundus et Infans",
+        "author": {
+         "authorized": "Auden, W. H. (Wystan Hugh), 1907-1973",
+         "lcna": "n79054316"
+        }
+     },
+     {"issue": {"issue-date": "1942-12-25"},
+        "title": "Blue-Eyed Lady",
+        "author": {
+         "authorized": "Molnár, Ferenc, 1878-1952",
+         "lcna": "n79075547"
+        }
+     },
+     {"issue": {"issue-date": "1943-01-15"}, 
+      "title": "Parousia",
+      "author": {
+       "authorized": "Reinhold, H. A. (Hans Ansgar), 1897-1968",
+       "lcna": "no96056288"
+      }
+     },
+     {"issue": {"issue-date": "1944-11-10"}, 
+      "title": "The Trouble",
+      "author": {
+       "authorized": "Powers, J. F. (James Farl), 1917-1999",
+       "lcna": "n79063855"
+      }
+     },
+     {"issue": {"issue-date": "1945-08-17"},
+        "title": "Vision",
+        "author": {
+         "authorized": "Bynner, Witter, 1881-1968",
+         "lcna": "n50032943"
+        }
+     },
+     {"issue": {"issue-date": "1946-12-20"},
+        "title": "Methopolis",
+        "author": {
+         "authorized": "Auden, W. H. (Wystan Hugh), 1907-1973",
+         "lcna": "n79054316"
+        }
+     }
    ],
+   "comment": "Resume from Auden's Age of Anxiety",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-05-18"
+   "last-updated": "2019-09-01"
 }

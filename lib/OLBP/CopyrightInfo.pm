@@ -2,9 +2,10 @@ package OLBP::CopyrightInfo;
 use strict;
 use JSON;
 
-my $serialprefix = "https://onlinebooks.library.upenn.edu/webbin/serial?id=";
-my $cinfoprefix = "https://onlinebooks.library.upenn.edu/webbin/cinfo/";
-my $suggestprefix = "https://onlinebooks.library.upenn.edu/webbin/suggest";
+my $cgiprefix = "https://onlinebooks.library.upenn.edu/webbin/";
+my $serialprefix = $cgiprefix . "serial?id=";
+my $cinfoprefix  = $cgiprefix . "cinfo/";
+my $inforeqprefix = $cgiprefix . "olbpcontact?type=backfile";
 my $codburl = "https://cocatalog.loc.gov/";
 my $cceurl  = "https://onlinebooks.library.upenn.edu/cce/";
 my $firstperiodurl  = $cceurl . "firstperiod.html";
@@ -13,6 +14,10 @@ my @month = ("January", "February", "March", "April", "May", "June", "July",
              "August", "September", "October", "November", "December");
 
 my $PDUS = "NoC-US";
+
+$OLBP::CopyrightInfo::ALL_PD          = "N/A";
+$OLBP::CopyrightInfo::NO_RENEWAL      = "None";
+$OLBP::CopyrightInfo::UNCLEAR_RENEWAL = "See record";
 
 my $disclaimer = qq!The preparers of this page do not represent
  the publishers or the rightsholders of this publication.  To the best
@@ -510,24 +515,27 @@ sub _getyear {
 }
 
 
-# This just gives the first year of active renewal (or "None" if
-#  no renewal or "Yes" if it # sees a renewal but can't figure out the year),
-#  with a following asterisk if there are additional notes.
+# This just gives the first year of active renewal
+#  (or $OLBP::CopyrightInfo::NO_RENEWAL if no renewal
+#   or $OLBP::CopyrightInfo::UNCLEAR_RENEWAL if it sees a renewal
+#     but can't figure out the year),
 #  Returns undef if no record found.
+#  This works strictly on the renewal fields in the record;
+#    we do not attempt here to go to other related records
+#    or add asterisks or other notations based on other fields
 
 sub firstrenewal_year {
   my ($self, %params) = @_;
-  my $fname = $params{filename};
-  my $str = "";
-  $fname =~ s/[^0-9a-z]//g;                    # sanitize input just in case
-  my $path = $self->{dir} . $fname . ".json";
-  my $json = $self->_readjsonfile($path);
+  my $json = $params{json};
+  if (!$json) {
+    $json = $self->get_json(%params);
+  }
   return undef if (!$json);
   if ($json->{"rights-statement"} eq $PDUS) {
-    $str = "None";
+     return $OLBP::CopyrightInfo::ALL_PD;
   } else {
     my $NOYEAR = 9999;
-    my $SOMEYEAR = 999;
+    my $firstautoissue = $json->{"first-autorenewed-issue"};
     my $firstissue = _get_first_renewed_issue($json);
     my $contissue;
     my $firstcont = _get_first_renewed_contribution($json);
@@ -535,7 +543,7 @@ sub firstrenewal_year {
       $contissue = $firstcont->{"issue"};
     }
     my $firstyear = $NOYEAR;
-    foreach my $issue ($firstissue, $contissue) {
+    foreach my $issue ($firstautoissue, $firstissue, $contissue) {
       next if (!$issue || $issue eq "none");
       my $date = $issue->{"issue-date"};
       if ($date && _getyear($date) < $firstyear) {
@@ -547,17 +555,69 @@ sub firstrenewal_year {
       }
     }
     if ($firstyear == $NOYEAR) {
-      $str = "None";
+      return $OLBP::CopyrightInfo::NO_RENEWAL;
     } elsif ($firstyear == $SOMEYEAR) {
-      $str = "Yes";
+      return $OLBP::CopyrightInfo::UNCLEAR_RENEWAL;
     } else {
-      $str = $firstyear;
+      return $firstyear;
     }
   }
-  if ($json->{"additional-note"} || $json->{"additional-notes"}) {
-      $str .= "*";
+}
+
+# Returns a list holding the additional notes.
+# If none, returns an empty list.
+
+sub additional_notes {
+  my ($self, %params) = @_;
+  my $json = $params{json};
+  if (!$json) {
+    $json = $self->get_json(%params);
   }
-  return $str;
+  if ($json->{"additional-notes"}) {
+    return @{$json->{"additional-notes"}};
+  }
+  if ($json->{"additional-note"}) {
+    return ($json->{"additional-note"});
+  }
+  return ();
+}
+
+# utility routine for returning a list of the IDs in a given
+sub _idlist {
+  my ($jsonfragment) = @_;
+  my @list = ();
+  return () if (!$jsonfragment);
+  foreach my $item (@{$jsonfragment}) {
+    if ($item->{id}) {
+      push @list, $item->{id};
+    }
+  }
+  return @list;
+}
+
+sub _idlist_fetch {
+  my ($self, $what, %params) = @_;
+  my $json = $params{json};
+  if (!$json) {
+    $json = $self->get_json(%params);
+  }
+  return () if (!$json);
+  return _idlist($json->{$what});
+}
+
+sub preceding_ids {
+  my ($self, %params) = @_;
+  return $self->_idlist_fetch("preceded-by", %params);
+}
+
+sub succeeding_ids {
+  my ($self, %params) = @_;
+  return $self->_idlist_fetch("succeeded-by", %params);
+}
+
+sub related_ids {
+  my ($self, %params) = @_;
+  return $self->_idlist_fetch("see-also", %params);
 }
 
 sub firstperiod_reference {
@@ -586,6 +646,7 @@ sub firstperiod_reference {
 sub get_json {
   my ($self, %params) = @_;
   my $fname = $params{filename};
+  $fname =~ s/[^A-Za-z0-9\-]//g;     # sanitize input
   my $path = $self->{dir} . $fname . ".json";
   return $self->_readjsonfile($path);
 }
@@ -907,13 +968,12 @@ sub display_page {
          print "<p>" . OLBP::html_encode($note) . "</p>\n";
        }
     } elsif ($json->{"suggest-cinfo"}) {
-      my $suggesturi = $suggestprefix;
+      my $infouri = $inforeqprefix;
+      $infouri .= "&qtitle=" . OLBP::url_encode($worktitle);
       print qq!<p>We have no copyright information on this title,
-        but we link to some of its content online.  If you would
-        like copyright information on it, you can
-        <a href="$suggesturi">suggest this serial</a> and
-        type "Copyright information wanted" (or something similar)
-        into the "Anything else we should know...?" space.
+        but we link to some of its content online.  You can
+        <a href="$infouri">request or provide more information on it</a>
+        if you like.
         </p>
       !;
     }

@@ -619,21 +619,21 @@ sub long_entry {
     $str .= $self->_tabrow(alink=>$OLBP::calloverview, vlink=>$vlink,
                            attr=>"Call number", value=>$lccn);
   }
-  if ($self->{issn}) {
+  if ($self->{issns}) {
     my @vals;
-    foreach my $key (keys %{$self->{issn}}) {
+    foreach my $key (keys %{$self->{issns}}) {
+      my $issnstr = join ", ", @{$self->{issns}->{$key}};
       if ($key) {
         my $type = $key;
         $type = "Print" if ($key eq "P");
         $type = "Electronic" if ($key eq "E");
         $type = "Linking ISSN" if ($key eq "L");
-        push @vals, $self->{issn}->{$key}  . " ($type)";
-      } else {
-        push @vals, $self->{issn}->{$key};
+        $issnstr .= " ($type)";
       }
+      push @vals, $issnstr;
     }
     my $val = join "; ", sort @vals;
-    $str .= $self->_tabrow(attr=>"ISSN", value=>$val);
+    $str .= $self->_tabrow(attr=>"ISSNs", value=>$val);
   }
   my $sub = $params{titlesub};
   if ($sub) {
@@ -950,7 +950,7 @@ sub _parse_issn_line {
       print STDERR "Invalid ISSN: $issn\n";
       return undef;
     }
-    $issns->{$type} = $issn;
+    push @{$issns->{$type}}, $issn;
   } 
   return $issns;
 }
@@ -960,10 +960,12 @@ sub _unparse_issn_structure {
   return "" if (!$issns);
   my @vals = ();
   foreach my $key (keys %{$issns}) {
-    if ($key) {
-      push @vals, "$key: " . $issns->{$key};
-    } else {
-      push @vals, $issns->{$key};
+    foreach my $issn (@{$issns->{$key}}) {
+      if ($key) {
+        push @vals, "$key: " . $issn;
+      } else {
+        push @vals, $issn;
+      }
     }
   }
   return join "; ", sort @vals;
@@ -1044,10 +1046,10 @@ sub _readin {
     } elsif ($line =~ /^SET\s+(.*\S)/) {
       push @{$self->{sets}}, (split / /, $1);
     } elsif ($line =~ /^ISSN\s+(.*\S)/) {
-      if ($self->{issn}) {
+      if ($self->{issns}) {
         return _formaterror("ISSN already assigned");
       }
-      $self->{issn} = _parse_issn_line($1);
+      $self->{issns} = _parse_issn_line($1);
     } elsif ($line =~ /^DATE\s+(.*\S)/) {
       if ($self->{date}) {
         return _formaterror("DATE already assigned");
@@ -1130,8 +1132,8 @@ sub unparse {
   if ($self->{sets} && scalar(@{$self->{sets}})) {
     $str .= "SET " . (join ' ', @{$self->{sets}}) . "\n";
   }
-  if ($self->{issn}) {
-    my $val = _unparse_issn_structure($self->{issn});
+  if ($self->{issns}) {
+    my $val = _unparse_issn_structure($self->{issns});
     if ($val) {
       $str .= "ISSN $val\n";
     }
