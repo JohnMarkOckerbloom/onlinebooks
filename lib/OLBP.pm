@@ -83,7 +83,7 @@ my $endnavigation = "<p $centerstyle>\n" .
 my $credits = "<p $centerstyle><i>Edited by " .
                  "John Mark Ockerbloom  (" . emailobscure($authoraddr) . ")";
 
-my $license = "<a href=\"$licensepage\">OBP copyright and licenses</a>.";
+my $license = "<a href=\"$licensepage\">OBP copyrights and licenses</a>.";
 
 $OLBP::bodyend = $endnavigation . $credits . "<br>" . $license . 
                  "</i></p></body></html>\n";
@@ -91,6 +91,11 @@ $OLBP::bodyend = $endnavigation . $credits . "<br>" . $license .
 $OLBP::cc0bodyend = $endnavigation . $credits . "<br>"   .
           "Data for this curated collection listing is CC0. See " . $license .
                  "</i></p></body></html>\n";
+
+$OLBP::copyrcc0bodyend = $credits . "<br>"   .
+          "Data on this copyright information page is CC0. See " . $license .
+                 "</i></p></body></html>\n";
+
 
 $OLBP::authorsortkeylimit = 80;
 $OLBP::titlesortkeylimit  = 100;

@@ -9,6 +9,7 @@ my $inforeqprefix = $cgiprefix . "olbpcontact?type=backfile";
 my $codburl = "https://cocatalog.loc.gov/";
 my $cceurl  = "https://onlinebooks.library.upenn.edu/cce/";
 my $firstperiodurl  = $cceurl . "firstperiod.html";
+my $backfileurl = $cgiprefix . "backfile";
 
 my @month = ("January", "February", "March", "April", "May", "June", "July",
              "August", "September", "October", "November", "December");
@@ -986,9 +987,10 @@ sub display_page {
   }
   print "<p><em>$disclaimer</em></p>\n";
   my @choices = ("Copyright registration and renewal records" => $cceurl,
-                 "First periodical renewals"    => $firstperiodurl);
+                 "First periodical renewals"    => $firstperiodurl,
+                 "Deep backfile knowledge base"    => $backfileurl);
   print OLBP::choicelist(undef, @choices);
-  print $OLBP::bodyend;
+  print $OLBP::copyrcc0bodyend;
 }
 
 sub _initialize {

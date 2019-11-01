@@ -1,0 +1,326 @@
+#!/usr/bin/perl
+
+use lib "nlib";
+use lib "/websites/OnlineBooks/nonpublic/lib";
+
+use OLBP;
+use CGI;
+#use Text::CSV;
+use utf8;
+
+
+my $serverurl = "https://onlinebooks.library.upenn.edu/";
+my $cceurl    = $serverurl . "cce/";
+my $cinfourl  = $serverurl . "webbin/cinfo";
+my $contenturl  = $serverurl . "webbin/serial?id";
+my $firstperiodurl  = $cceurl . "firstperiod.html";
+my $wikidataurl = "https://www.wikidata.org/wiki";
+my $contacturl  = $serverurl . "webbin/olbpcontact?type=backfile";
+
+my $licensepage = $serverurl . "licenses.html";
+
+my $scripturl    = $serverurl . "webbin/backfile/";
+
+my $backfiledir  = $OLBP::dbdir . "backfiles/";
+
+my $mainpagetemplate = $backfiledir . "main-template";
+my $tablekeytemplate = $backfiledir . "key-template";
+
+my $q;
+
+my $disclaimer = qq!The maintainers of this application do not represent
+ the publishers or publications listed here.  To the best of their
+ knowledge, the information shown here is correct, and complete within
+ any limits specified above.  It may still have inadvertent
+ errors and omissions,
+ however; if you know of any, please contact the page maintainer.
+ Nothing shown here should be considered legal advice.!;
+
+my $olbpfooter = qq!
+  <p style="text-align:center"><i>Produced by
+   <a href="$serverurl">The Online Books Page</a> with support from
+   <a href="https://www.library.upenn.edu/">Penn Libraries</a>.
+    <a href=\"$licensepage\">OBP copyrights and licenses</a>.</i></p>
+!;
+
+my $lesliefooter = qq!
+<footer id="footer">
+    <h2 class="visually-hidden" id="h2sitefooter">Footer: Penn Libraries contact
+ info</h2>
+    <div class="library-row">
+        <a href="https://www.library.upenn.edu/">Penn Libraries</a>
+    </div>
+    <div class="phone-row">
+            <a class="phone" href="tel:2158987555">215-898-7555</a>
+          <a href="https://faq.library.upenn.edu/ask" class="questions-comments"
+>Questions</a>
+    </div>
+    <div class="accessibility-row" style="margin-top: 1.5rem">
+        <a class="report-penn" href="https://accessibility.web-resources.upenn.e
+du/get-help">Report accessibility issues and get help</a>
+    </div>
+    <div id="upennfull">
+            <div class="footerupenn fullonly-block" id="footerupennfull">
+              <a href="https://www.upenn.edu/">University&nbsp;<i class="of">of</i><span class="spaceof">&nbsp;</span>Pennsylvania</a>
+            </div>
+    </div>
+
+    <div class="copyright" style="margin-top: 1.5rem">©University of Pennsylvania</div>
+</footer>
+!;
+
+sub find_directory {
+  my ($arg) = @_;
+  my $path = $backfiledir . $arg;
+  if (-d $path) {
+    return $path;
+  }
+  return undef;
+}
+
+my @columns = 
+("ISSN"=> 10, "Title"=>35, "Coverage"=>10,
+   "Wikidata"=> "10", "First renewal"=>10, "Free issues"=>15,
+   "More info?"=> "10"
+);
+
+# eventually replace this with the readcsvfile in serialtable
+# for now, we'll just skip the lines with extra commas
+
+sub dequote {
+  my ($str) = @_;
+  $str =~ s/^\"(.*)\"$/$1/;
+  $str =~ s/\"\"/\"/g;
+  return $str;
+}
+
+sub readcsvfile {
+  my ($filename) = @_;
+  my @results;
+  open my $fh, "<:encoding(utf8)", $filename or die "filename: $!";
+  my $line = <$fh>;
+  chop $line;
+  my @fields = split (/,/, $line);
+  foreach my $field (@fields) {
+    push @fieldnames, dequote($field);
+  }
+  while (my $row = <$fh>) {
+    my %hash = ();
+    my @fields = split (/,/, $row);
+    if (scalar(@fields) ne 8) {
+      next;
+    }
+    for (my $i = 0; $i < scalar(@fields); $i++) {
+      chomp $fields[$i];
+      $hash{$fieldnames[$i]} = dequote($fields[$i]);
+    }
+    push @results, \%hash;
+  }
+  # $csv->eof or $csv->error_diag();
+  close $fh;
+  return @results;
+}
+
+sub readtsvfile {
+  my ($filename) = @_;
+  my @results;
+  open my $fh, "<:encoding(utf8)", $filename or die "filename: $!";
+  my $line = <$fh>;
+  chop $line;
+  my @fields = split (/\t/, $line);
+  foreach my $field (@fields) {
+    push @fieldnames, $field;
+  }
+  while (my $row = <$fh>) {
+    my %hash = ();
+    my @fields = split (/\t/, $row);
+    if (scalar(@fields) ne 8) {
+      next;
+    }
+    for (my $i = 0; $i < scalar(@fields); $i++) {
+      chomp $fields[$i];
+      $hash{$fieldnames[$i]} = $fields[$i];
+    }
+    push @results, \%hash;
+  }
+  close $fh;
+  return @results;
+}
+
+
+sub print_cell {
+  my ($str, $uri) = @_;
+  $str = OLBP::html_encode($str);
+  if ($uri) {
+    print qq!<td><a href="$uri">$str</a></td>\n!;
+  } else {
+    print "<td>$str</td>\n";
+  }
+}
+
+sub file_contents {
+  my ($path) = @_;
+  open my $fh, "<:encoding(utf8)", $path or return undef;
+  my $contents = do { local $/; <$fh> };   # reads all lines at once
+  close $fh;
+  return $contents;
+}
+
+sub print_table {
+  my ($arg, $dir) = @_;
+  #my $path = "$dir/$arg.csv";
+  my $path = "$dir/$arg.tsv";
+  my $name = file_contents("$dir/name") || "Table";
+  my $description = file_contents("$dir/description");
+  my $status = file_contents("$dir/status") ||
+     "Table generation information not available.";
+  open my $fh, "<:encoding(utf8)", $path or return 0;
+  # my $csv = Text::CSV->new ({ binary => 1, auto_diag => 1 });
+  # my @results = readcsvfile($path);
+  my @results = readtsvfile($path);
+  print "<h1>$name</h1>\n";
+  if ($description) {
+    print "<p>$description</p>\n";
+  }
+  if ($status) {
+    print "<p><em>$status ";
+    print qq!A <a href="#tablekey">table key</a> follows.!;
+    print qq! (<a href="?format=csv"">Download as a spreadsheet</a>.)!;
+    print "</em></p>\n";
+  }
+  print "<hr>\n";
+  print qq!<table class="bftable">\n!;
+  print "<thead><tr>\n";
+  while (my $name = shift @columns) {
+    my $width = shift @columns;
+    print qq!<th style="width: $width%">$name</th>!;
+  }
+  print "</tr></thead>\n";
+  print "<tbody>\n";
+  foreach my $result (@results) {
+    my $olbpid = $result->{"Online Books ID"};
+    print "<tr>\n";
+    my $issn = $result->{ISSN};
+    print_cell($issn);
+    my $localid = $result->{"Internal ID"};
+    my $title = $result->{Title};
+    if ($localid) {
+      # For our only current use case, we know the local ID's the URL
+      # but for other uses cases, we should do a transform based on a config
+      my $url = $localid;
+      print_cell($title, $url);
+    } else {
+      print_cell($title);
+    }
+    print_cell($result->{Dates});
+    my $wikidataid = $result->{"Wikidata ID"};
+    if ($wikidataid) {
+      print_cell($wikidataid, "$wikidataurl/$wikidataid");
+    } else {
+      print_cell($wikidataid);
+    }
+
+    my $renewalinfo = $result->{"First renewal year"};
+    if ($olbpid && !($renewalinfo =~ /Unknown|N.A|All/)) {
+      print_cell($renewalinfo, "$cinfourl/$olbpid");
+    } else {
+      print_cell($renewalinfo);
+    }
+    my $online = $result->{"Free issue years"};
+    if ($olbpid && $online) {
+      print_cell($online, "$contenturl=$olbpid");
+    } else {
+      print_cell("None known");
+    }
+    my $feedbackurl = $contacturl;
+    $feedbackurl .= "&qissn=" . OLBP::url_encode($issn);
+    $feedbackurl .= "&qtitle=" . OLBP::url_encode($title);
+    if ($olbpid) {
+      $feedbackurl .= "&qid=" . OLBP::url_encode($olbpid);
+    }
+    print_cell("Contact us", $feedbackurl);
+    print "</tr>\n";
+  }
+  print "</tbody>\n";
+  print "</table>\n";
+  print "<hr>\n";
+  print qq!<div id="tablekey">\n!;
+  print file_contents($tablekeytemplate);
+  print qq!</div>\n!;
+  return 1;
+}
+
+sub start_page {
+  my ($title) = @_;
+  print "Content-type: text/html\n\n";
+  print qq^<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="$OLBP::styleurl" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" type="text/css" href="https://onlinebooks.library.upenn.edu/deep-backfile.css" />
+<title>$title</title></head><body>
+
+<div class="header-bar">
+  <div class="visually-hidden">Page header</div>
+  <div class="site-header__logo">
+      <a href="https://www.library.upenn.edu/">
+        <span class="visually-hidden">Penn Libraries Home</span>
+      </a>
+   </div>
+</div>
+^;
+}
+
+sub display_page {
+  my ($arg, $format) = @_;
+
+  if ($format eq "csv") {
+    my $dir = find_directory($arg);
+    if ($dir) {
+      my $csvpath = "$dir/$arg.csv";
+      if (-e $csvpath) {
+        print "Content-Type: text/csv; charset=utf-8\n";
+        print qq!Content-Disposition: attachment; filename="$arg.csv"\n!;
+        print "\n";
+        print file_contents($csvpath);
+        return;
+      }
+    }
+  }
+  
+  start_page("Deep Backfile");
+  my $dir = find_directory($arg);
+
+  if (!$dir || !print_table($arg, $dir)) {
+    my $display = file_contents($mainpagetemplate);
+    if ($display) {
+      print $display;
+    } else {
+      print "<p>Nothing here yet, bookaroo.</p>";
+    }
+  }
+
+  print "<p><em>$disclaimer</em></p>\n";
+  my @choices = ("Copyright registration and renewal records" => $cceurl,
+                 "First periodical renewals"    => $firstperiodurl,
+                 "Deep backfile data" => $scripturl);
+  print OLBP::choicelist(undef, @choices);
+  print $olbpfooter;
+  print $lesliefooter;
+  print "</body></html>\n";
+  # print $OLBP::bodyend;
+}
+
+$q = new CGI;
+my $arg = $q->url(-path_info=>1);
+$arg =~ s/(.*)\///;
+my $format = $q->param("format");
+if ($arg =~ /[^a-zA-Z0-9\-]/) {    # if input invalid, redirect to start
+  print "Location: $scripturl";
+  exit 0;
+}
+
+
+binmode STDOUT, ":utf8";
+display_page($arg, $format);

@@ -8,6 +8,7 @@
    "first-renewed-contribution": {"issue": {"issue-date": "1924-02"}},
    "first-renewed-contribution-source": "1951-JanJun",
    "last-issue": {"issue-date": "1932-07", "volume": "61", "number": "7"},
+   "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
      {"issue": {"issue-date": "1924-02"},
       "title": "William Crawford Gorgas, His Life and Work",
@@ -96,11 +97,365 @@
          "authorized": "Warner, Langdon, 1881-1955",
          "lcna": "n91005171"
       }
+     },
+     {"issue": {"issue-date": "1926-11"},
+      "title": "Joseph Conrad Life and Letters",
+      "title-note": "part 1 of 4",
+      "author": {
+         "authorized": "Conrad, Joseph, 1857-1924",
+         "lcna": "n79054067"
+      }
+     },
+     {"issue": {"issue-date": "1926-12"},
+      "title": "Joseph Conrad Life and Letters",
+      "title-note": "part 2 of 4",
+      "author": {
+         "authorized": "Conrad, Joseph, 1857-1924",
+         "lcna": "n79054067"
+      }
+     },
+     {"issue": {"issue-date": "1927-01"},
+      "title": "Joseph Conrad Life and Letters",
+      "title-note": "part 3 of 4",
+      "author": {
+         "authorized": "Conrad, Joseph, 1857-1924",
+         "lcna": "n79054067"
+      }
+     },
+     {"issue": {"issue-date": "1927-02"},
+      "title": "Joseph Conrad Life and Letters",
+      "title-note": "part 4 of 4",
+      "author": {
+         "authorized": "Conrad, Joseph, 1857-1924",
+         "lcna": "n79054067"
+      }
+     },
+     {"issue": {"issue-date": "1927-04"}, 
+      "title": "This Man Lawrence",
+      "author": {
+       "authorized": "Shaw, Bernard, 1856-1950",
+       "lcna": "n79006533"
+      }
+     },
+     {"issue": {"issue-date": "1927-07"},
+      "title": "Count Luckner, the Sea Devil",
+      "title-note": "part 1 of 3",
+      "author": {
+         "authorized": "Thomas, Lowell, 1892-1981",
+         "lcna": "n79139713"
+      }
+     },
+     {"issue": {"issue-date": "1927-08"},
+      "title": "Count Luckner, the Sea Devil",
+      "title-note": "part 2 of 3",
+      "author": {
+         "authorized": "Thomas, Lowell, 1892-1981",
+         "lcna": "n79139713"
+      }
+     },
+     {"issue": {"issue-date": "1927-09"},
+      "title": "Count Luckner, the Sea Devil",
+      "title-note": "part 3 of 3",
+      "author": {
+         "authorized": "Thomas, Lowell, 1892-1981",
+         "lcna": "n79139713"
+      }
+     },
+     {"issue": {"issue-date": "1928-01"},
+      "title": "Mayor Thompson of Chicago",
+      "author": {
+         "authorized": "Nichols, Beverley, 1898-1983",
+         "lcna": "n50003695"
+      }
+     },
+     {"issue": {"issue-date": "1928-02"},
+      "title": "Hunger as a Cause of War",
+      "author": {
+         "authorized": "Norton, Henry Kittredge, 1884-",
+         "lcna": "n80131444"
+      }
+     },
+     {"issue": {"issue-date": "1928-04"},
+      "title": "Raiders of the Deep",
+      "title-note": "part 1 of 6",
+      "author": {
+         "authorized": "Thomas, Lowell, 1892-1981",
+         "lcna": "n79139713"
+      }
+     },
+     {"issue": {"issue-date": "1928-05"},
+      "title": "Life and Death in Sing Sing",
+      "title-note": "part 1 of 4",
+      "author": {
+         "authorized": "Lawes, Lewis Edward, 1883-1947",
+         "lcna": "n2003023806"
+      }
+     },
+     {"issue": {"issue-date": "1928-05"},
+      "title": "Raiders of the Deep",
+      "title-note": "part 2 of 6",
+      "author": {
+         "authorized": "Thomas, Lowell, 1892-1981",
+         "lcna": "n79139713"
+      }
+     },
+     {"issue": {"issue-date": "1928-06"},
+      "title": "Life and Death in Sing Sing",
+      "title-note": "part 2 of 4",
+      "author": {
+         "authorized": "Lawes, Lewis Edward, 1883-1947",
+         "lcna": "n2003023806"
+      }
+     },
+     {"issue": {"issue-date": "1928-06"},
+      "title": "Raiders of the Deep",
+      "title-note": "part 3 of 6",
+      "author": {
+         "authorized": "Thomas, Lowell, 1892-1981",
+         "lcna": "n79139713"
+      }
+     },
+     {"issue": {"issue-date": "1928-07"},
+      "title": "Politicians and the War, 1914-1916",
+      "title-note": "part 1 of 3",
+      "author": {
+         "authorized": "Beaverbrook, Max Aitken, Baron, 1879-1964",
+         "lcna": "n50006238"
+      }
+     },
+     {"issue": {"issue-date": "1928-07"},
+      "title": "Life and Death in Sing Sing",
+      "title-note": "part 3 of 4",
+      "author": {
+         "authorized": "Lawes, Lewis Edward, 1883-1947",
+         "lcna": "n2003023806"
+      }
+     },
+     {"issue": {"issue-date": "1928-07"},
+      "title": "Raiders of the Deep",
+      "title-note": "part 4 of 6",
+      "author": {
+         "authorized": "Thomas, Lowell, 1892-1981",
+         "lcna": "n79139713"
+      }
+     },
+     {"issue": {"issue-date": "1928-08"},
+      "title": "Politicians and the War, 1914-1916",
+      "title-note": "part 2 of 3",
+      "author": {
+         "authorized": "Beaverbrook, Max Aitken, Baron, 1879-1964",
+         "lcna": "n50006238"
+      }
+     },
+     {"issue": {"issue-date": "1928-08"},
+      "title": "Life and Death in Sing Sing",
+      "title-note": "part 4 of 4",
+      "author": {
+         "authorized": "Lawes, Lewis Edward, 1883-1947",
+         "lcna": "n2003023806"
+      }
+     },
+     {"issue": {"issue-date": "1928-08"},
+      "title": "Knights of the Air",
+      "title-note": "part 1 of 5",
+      "author": {
+         "authorized": "Maitland, Lester J., 1899-1990",
+         "lcna": "no2005016398"
+      }
+     },
+     {"issue": {"issue-date": "1928-08"},
+      "title": "Raiders of the Deep",
+      "title-note": "part 5 of 6",
+      "author": {
+         "authorized": "Thomas, Lowell, 1892-1981",
+         "lcna": "n79139713"
+      }
+     },
+     {"issue": {"issue-date": "1928-09"},
+      "title": "Politicians and the War, 1914-1916",
+      "title-note": "part 3 of 3",
+      "author": {
+         "authorized": "Beaverbrook, Max Aitken, Baron, 1879-1964",
+         "lcna": "n50006238"
+      }
+     },
+     {"issue": {"issue-date": "1928-09"},
+      "title": "Knights of the Air",
+      "title-note": "part 2 of 5",
+      "author": {
+         "authorized": "Maitland, Lester J., 1899-1990",
+         "lcna": "no2005016398"
+      }
+     },
+     {"issue": {"issue-date": "1928-09"},
+      "title": "Raiders of the Deep",
+      "title-note": "part 6 of 6",
+      "author": {
+         "authorized": "Thomas, Lowell, 1892-1981",
+         "lcna": "n79139713"
+      }
+     },
+     {"issue": {"issue-date": "1928-10"},
+      "title": "Knights of the Air",
+      "title-note": "part 3 of 5",
+      "author": {
+         "authorized": "Maitland, Lester J., 1899-1990",
+         "lcna": "no2005016398"
+      }
+     },
+     {"issue": {"issue-date": "1928-11"},
+      "title": "Knights of the Air",
+      "title-note": "part 4 of 5",
+      "author": {
+         "authorized": "Maitland, Lester J., 1899-1990",
+         "lcna": "no2005016398"
+      }
+     },
+     {"issue": {"issue-date": "1928-12"},
+      "title": "Knights of the Air",
+      "title-note": "part 5 of 5",
+      "author": {
+         "authorized": "Maitland, Lester J., 1899-1990",
+         "lcna": "no2005016398"
+      }
+     },
+     {"issue": {"issue-date": "1929-01"},
+      "title": "Steinmetz, Jove of Science",
+      "title-note": "part 1 of 3",
+      "author": {
+         "authorized": "Leonard, Jonathan Norton, 1903-1975",
+         "lcna": "n50051645"
+      }
+     },
+     {"issue": {"issue-date": "1929-02"},
+      "title": "Steinmetz, Jove of Science",
+      "title-note": "part 2 of 3",
+      "author": {
+         "authorized": "Leonard, Jonathan Norton, 1903-1975",
+         "lcna": "n50051645"
+      }
+     },
+     {"issue": {"issue-date": "1929-03"},
+      "title": "Steinmetz, Jove of Science",
+      "title-note": "part 3 of 3",
+      "author": {
+         "authorized": "Leonard, Jonathan Norton, 1903-1975",
+         "lcna": "n50051645"
+      }
+     },
+     {"issue": {"issue-date": "1929-06"},
+      "title": "Herrings Across the Trail",
+      "author": {
+       "authorized": "Tarkington, Booth, 1869-1946",
+       "lcna": "n79078124"
+      }
+     },
+     {"issue": {"issue-date": "1929-08"},
+      "title": "The Sea Devil's Fo'c'sle",
+      "title-note": "part 1 of 3",
+      "author": {
+         "authorized": "Thomas, Lowell, 1892-1981",
+         "lcna": "n79139713"
+      }
+     },
+     {"issue": {"issue-date": "1929-05"},
+      "title": "In Coldest Africa",
+      "title-note": "part 1 of 3",
+      "author": {
+       "authorized": "Wells, Carveth",
+       "lcna": "n88278008"
+      }
+     },
+     {"issue": {"issue-date": "1929-07"},
+      "title": "In Coldest Africa",
+      "title-note": "part 2 of 3",
+      "author": {
+       "authorized": "Wells, Carveth",
+       "lcna": "n88278008"
+      }
+     },
+     {"issue": {"issue-date": "1929-08"},
+      "title": "In Coldest Africa",
+      "title-note": "part 3 of 3",
+      "author": {
+       "authorized": "Wells, Carveth",
+       "lcna": "n88278008"
+      }
+     },
+     {"issue": {"issue-date": "1929-09"},
+      "title": "The Sea Devil's Fo'c'sle",
+      "title-note": "part 2 of 3",
+      "author": {
+         "authorized": "Thomas, Lowell, 1892-1981",
+         "lcna": "n79139713"
+      }
+     },
+     {"issue": {"issue-date": "1929-10"},
+      "title": "I Was Sent to Athens",
+      "authors": [
+       {"authorized": "Morgenthau, Henry, 1856-1946", "lcna": "n86070605"},
+       {"authorized": "Strother, French, 1883-1933", "lcna": "no95049927"}
+      ]
+     },
+     {"issue": {"issue-date": "1929-10"},
+      "title": "The Sea Devil's Fo'c'sle",
+      "title-note": "part 3 of 3",
+      "author": {
+         "authorized": "Thomas, Lowell, 1892-1981",
+         "lcna": "n79139713"
+      }
+     },
+     {"issue": {"issue-date": "1929-12"},
+      "title": "The Eternal Question: Evolution",
+      "title-note": "part 1 of 2",
+      "author": {
+         "authorized": "Tilney, Frederick, 1875-1938",
+         "lcna": "n87150020"
+      }
+     },
+     {"issue": {"issue-date": "1930-01"},
+      "title": "The Eternal Question: Evolution",
+      "title-note": "part 2 of 2",
+      "author": {
+         "authorized": "Tilney, Frederick, 1875-1938",
+         "lcna": "n87150020"
+      }
+     },
+     {"issue": {"issue-date": "1930-08"},
+      "title": "Lauterbach of the China Sea",
+      "title-note": "part 1 of 3",
+      "author": {
+         "authorized": "Thomas, Lowell, 1892-1981",
+         "lcna": "n79139713"
+      }
+     },
+     {"issue": {"issue-date": "1930-09"},
+      "title": "Lauterbach of the China Sea",
+      "title-note": "part 2 of 3",
+      "author": {
+         "authorized": "Thomas, Lowell, 1892-1981",
+         "lcna": "n79139713"
+      }
+     },
+     {"issue": {"issue-date": "1930-10"},
+      "title": "Lauterbach of the China Sea",
+      "title-note": "part 3 of 3",
+      "author": {
+         "authorized": "Thomas, Lowell, 1892-1981",
+         "lcna": "n79139713"
+      }
+     },
+     {"issue": {"issue-date": "1931-01"},
+      "title": "Where Two Nickels Are No Dime",
+      "author": {
+         "name": "Edwin P. Norwood"
+      }
      }
    ],
+   "comment": "Resume with 1957 renewals",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-04-20"
+   "last-updated": "2019-10-28"
 }

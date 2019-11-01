@@ -1,0 +1,50 @@
+{
+   "title": "McNaught's Monthly",
+   "title-note": "1924-1927",
+   "first-issue": {"issue-date": "1924-01", "volume": "1", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce",
+   "first-renewed-contribution": {"issue": {"issue-date": "1927-03"}},
+   "first-renewed-contribution-source": "1954-JanJun",
+   "last-issue": {"issue-date": "1927-07", "volume": "8", "number": "1"},
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1927-03"},
+        "title": "The Complete American",
+        "title-note": "part 1 of 4?",
+        "author": {
+         "authorized": "De Casseres, Benjamin, 1873-1945",
+         "lcna": "n82206440"
+        }
+     },
+     {"issue": {"issue-date": "1927-04"},
+        "title": "The Complete American",
+        "title-note": "part 2 of 4?",
+        "author": {
+         "authorized": "De Casseres, Benjamin, 1873-1945",
+         "lcna": "n82206440"
+        }
+     },
+     {"issue": {"issue-date": "1927-05"},
+        "title": "The Complete American",
+        "title-note": "part 3 of 4?",
+        "author": {
+         "authorized": "De Casseres, Benjamin, 1873-1945",
+         "lcna": "n82206440"
+        }
+     },
+     {"issue": {"issue-date": "1927-06"},
+        "title": "The Complete American",
+        "title-note": "part 4 of 4?",
+        "author": {
+         "authorized": "De Casseres, Benjamin, 1873-1945",
+         "lcna": "n82206440"
+        }
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2019-10-29"
+}
