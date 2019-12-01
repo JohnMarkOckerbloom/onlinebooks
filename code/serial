@@ -1,5 +1,9 @@
 #!/usr/bin/perl
 
+# BEGIN LINES that change in test version (do not edit this 6-line block)
+BEGIN {
+ $OLBP::SCRIPTNAME = "serial";
+}
 use lib "/websites/OnlineBooks/nonpublic/lib";
 use lib "nlib";
 use OLBP;
@@ -13,6 +17,21 @@ $booksurl = $OLBP::homepage;
 
 $scriteria = $booksurl . "serial-criteria.html";
 $slist     = $booksurl . "serials.html";
+
+my $HTMLSTART = qq^<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="$OLBP::styleurl" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style type="text/css">
+  p.ctr {text-align: center}
+  h1 {text-align: center}
+  h2 {text-align: center}
+  h3 {text-align: center}
+</style>
+^;
+
+my $contacturl = $OLBP::homepage . "/webbin/olbpcontact?type=backfile&";
 
 sub gethashval {
   my ($name, $key) = @_;
@@ -50,22 +69,43 @@ sub readrecord {
   return $recr;
 }
 
+sub get_serial_query_url {
+  my $term = shift;
+  if ($term) {
+    return $OLBP::scripturl . "?id=" . OLBP::url_encode($term);
+  }
+  return "";
+}
+
+sub directive {
+  my $str = shift;
+  my $cmd = $str;
+  my $text = $cmd;
+  if ($cmd =~ /(.*)\|(.*)/) {
+    ($cmd, $text) = ($1, $2);
+  }
+  if ($cmd =~ /^se:(.*)/) {
+    my $link = get_serial_query_url($1);
+    if ($text eq $cmd) {
+      $text =~ s/^se//;
+    }
+    return qq!<a href="$link">$text</a>!;
+  }
+  return $str;
+}
+
+
+sub process_special {
+  my $str = shift;
+  $str =~ s/\{([^\}]*)\}/directive($1)/ge;
+  return $str;
+}
+
 sub showmag {
   my ($recr, $id) = @_;
   my $name = $recr->{TITLE};
   my $str;
-  print qq^<!DOCTYPE html>
-<html lang="en"><head>
-<meta charset="utf-8">
-<link rel="stylesheet" type="text/css" href="$OLBP::styleurl" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style type="text/css">
-  p.ctr {text-align: center}
-  h1 {text-align: center}
-  h2 {text-align: center}
-  h3 {text-align: center}
-</style>
-^;
+  print $HTMLSTART;
   print "<title>$name archives</title></head>";
   print $OLBP::bodystart;
   print "<p class=\"ctr\">presents serial archive listings for</p>\n";
@@ -73,6 +113,7 @@ sub showmag {
   if ($recr->{SDESC}) {
     $str = $recr->{SDESC};
     $str =~ s/\*THIS\*/"<cite>" . $name . "<\/cite>"/ge;
+    $str = process_special($str);
     print "<p>$str</p>\n";
   }
   if ($recr->{SHIST}) {
@@ -85,6 +126,7 @@ sub showmag {
     }
     $str =~ s/\*THIS\*/"<cite>" . $name . "<\/cite>"/ge;
     $str =~ s/\*TODAY\*/It is still published today./;
+    $str = process_special($str);
     print "<p>$str</p>\n";
   }
   if ($recr->{SREF}) {
@@ -94,9 +136,6 @@ sub showmag {
       my ($years, $url, $desc) = split(/ /, $sr, 3);
       if ($desc =~ /(.*)\*(.*)\*(.*)/) {
          $desc = "$1<a href=\"$url\">$2</a>$3";
-      #if ($desc =~ /\*(.*)\*/) {
-      #  $desc =~ s/\*/<a href=\"$url\">/;
-      #  $desc =~ s/\*/<\/a>/;
         $years =~ s/_/ /g;
         $years =~ s/,(\w)/, $1/g;
         print "<li> <strong>$years:</strong> $desc</li>\n";
@@ -149,6 +188,46 @@ sub showmag {
   print $OLBP::bodyend;
 }
 
+# Check to see if there is a copyright record we can summarize
+# even if there's no serial record
+
+sub copyrightonly {
+  my ($id) = @_;
+  if (!$id || ($id =~ /[^A-Za-z0-9]/)) {
+    # bail if there's anything other than basic alphanumeric chars in ID
+    getout();
+  }
+  my $cinfo = new OLBP::CopyrightInfo(dir=>$cinfodir);
+  my $summary = $cinfo->serial_copyright_summary(filename=>$id);
+  if (!$summary) {
+    getout();
+  }
+  my $json = $cinfo->get_json(filename=>$id);
+  my $name = $json->{"title"};
+  if (!$name) {
+    getout();
+  }
+  if (defined($ENV{"GATEWAY_INTERFACE"})) {
+    print "Content-type: text/html\n\n";
+  }
+  my $htmlname = OLBP::html_encode($name);
+  print $HTMLSTART;
+  print "<title>$htmlname information</title></head>";
+  print $OLBP::bodystart;
+  print "<p class=\"ctr\">presents serial information for</p>\n";
+  print "<h1>$htmlname</h1>\n";
+  print "<p>We do not currently know of free online issues of ";
+  print " <cite>$htmlname</cite>. If you know of any, please ";
+  my $scripturl = $contacturl . "qtitle=" . OLBP::url_encode($name);
+  print qq!<a href="$scripturl">let us know</a>.!;  
+  print "</p>";
+  print "<p><strong>Copyright information:</strong> $summary</p>";
+  print OLBP::result_tips();
+  print OLBP::choicelist();
+  print $OLBP::bodyend;
+  exit 0;
+}
+
 sub getout {
   print "Location: $slist\n\n";
   exit 0;
@@ -174,7 +253,7 @@ if (!$lookid) {
 
 $str = gethashval("serials", $lookid);
 if (!$str) {
-  getout();
+  copyrightonly($lookid);
 }
 
 $recr = readrecord($str);
@@ -187,6 +266,5 @@ if (defined($ENV{"GATEWAY_INTERFACE"})) {
 }
 
 showmag($recr, $lookid);
-
 
 

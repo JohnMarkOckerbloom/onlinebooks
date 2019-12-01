@@ -5,7 +5,7 @@ use lib "/websites/OnlineBooks/nonpublic/lib";
 
 use OLBP;
 use CGI;
-#use Text::CSV;
+use OLBP::PendingSerials;
 use utf8;
 
 
@@ -189,6 +189,7 @@ sub print_table {
     print "</em></p>\n";
   }
   print "<hr>\n";
+  my $pending = new OLBP::PendingSerials();
   print qq!<table class="bftable">\n!;
   print "<thead><tr>\n";
   while (my $name = shift @columns) {
@@ -221,7 +222,14 @@ sub print_table {
     }
 
     my $renewalinfo = $result->{"First renewal year"};
-    if ($olbpid && !($renewalinfo =~ /Unknown|N.A|All/)) {
+    if (($renewalinfo eq "Unknown") && $pending) {
+      if ($pending->is_pending(issn=>$issn, title=>$title)) {
+        $renewalinfo = "Pending";
+      }
+    }
+    if ($olbpid &&
+        (($renewalinfo =~ /\*/) ||
+          !($renewalinfo =~ /Unknown|N.A|All|Pending/))) {
       print_cell($renewalinfo, "$cinfourl/$olbpid");
     } else {
       print_cell($renewalinfo);

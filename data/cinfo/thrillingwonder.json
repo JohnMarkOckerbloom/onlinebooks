@@ -1,0 +1,712 @@
+{
+   "title": "Thrilling Wonder Stories",
+   "contents": [
+      {"url": "http://www.isfdb.org/cgi-bin/pe.cgi?18571",
+       "note": "ISFDB"},
+      {"url": "http://www.philsp.com/homeville/SFI/link.asp?magid=TWS",
+       "note": "Galactic Central"}
+   ],
+   "preceded-by": [
+      {"id": "wonderstories", "note": "Wonder Stories"}
+    ],
+   "first-issue":
+       {"issue-date": "1936-08", "volume": "8", "number": "1"},
+   "first-renewed-issue": 
+       {"issue-date": "1936-08", "volume": "8", "number": "1"},
+   "first-renewed-issue-source": "1963-JulDec",
+   "first-renewed-contribution": 
+     {"issue": {"issue-date": "1936-12", "volume": "8", "number": "3"}},
+   "first-renewed-contribution-source": "1963-JulDec",
+   "last-issue":
+      {"issue-date": "1955-Winter", "volume": "44", "number": "3"},
+   "renewed-issues": [
+       {"issue-date": "1936-08", "volume": "8", "number": "1"},
+       {"issue-date": "1936-10", "volume": "8", "number": "2"},
+       {"issue-date": "1936-12", "volume": "8", "number": "3"},
+       {"issue-date": "1937-02", "volume": "9", "number": "1"},
+       {"issue-date": "1937-04", "volume": "9", "number": "2"},
+       {"issue-date": "1937-06", "volume": "9", "number": "3"},
+       {"issue-date": "1937-08", "volume": "10", "number": "1"},
+       {"issue-date": "1937-10", "volume": "10", "number": "2"},
+       {"issue-date": "1937-12", "volume": "10", "number": "3"},
+       {"issue-date": "1938-02", "volume": "11", "number": "1"},
+       {"issue-date": "1938-04", "volume": "11", "number": "2"},
+       {"issue-date": "1938-06", "volume": "11", "number": "3"},
+       {"issue-date": "1938-08", "volume": "12", "number": "1"},
+       {"issue-date": "1938-10", "volume": "12", "number": "2"},
+       {"issue-date": "1938-12", "volume": "12", "number": "3"},
+       {"issue-date": "1939-02", "volume": "13", "number": "1"},
+       {"issue-date": "1939-04", "volume": "13", "number": "2"},
+       {"issue-date": "1939-06", "volume": "13", "number": "3"},
+       {"issue-date": "1939-08", "volume": "14", "number": "1"},
+       {"issue-date": "1939-10", "volume": "14", "number": "2"},
+       {"issue-date": "1939-12", "volume": "14", "number": "3"},
+       {"issue-date": "1940-01", "volume": "15", "number": "1"},
+       {"issue-date": "1940-02", "volume": "15", "number": "2"},
+       {"issue-date": "1940-03", "volume": "15", "number": "3"},
+       {"issue-date": "1940-04", "volume": "16", "number": "1"},
+       {"issue-date": "1940-05", "volume": "16", "number": "2"},
+       {"issue-date": "1940-06", "volume": "16", "number": "3"},
+       {"issue-date": "1940-07", "volume": "17", "number": "1"},
+       {"issue-date": "1940-08", "volume": "17", "number": "2"},
+       {"issue-date": "1940-09", "volume": "17", "number": "3"},
+       {"issue-date": "1940-10", "volume": "18", "number": "1"},
+       {"issue-date": "1940-11", "volume": "18", "number": "2"},
+       {"issue-date": "1940-12", "volume": "18", "number": "3"},
+       {"issue-date": "1941-01", "volume": "19", "number": "1"},
+       {"issue-date": "1941-02", "volume": "19", "number": "2"},
+       {"issue-date": "1941-03", "volume": "19", "number": "3"},
+       {"issue-date": "1941-04", "volume": "20", "number": "1"},
+       {"issue-date": "1941-06", "volume": "20", "number": "2"},
+       {"issue-date": "1941-08", "volume": "20", "number": "3"},
+       {"issue-date": "1941-10", "volume": "21", "number": "1"},
+       {"issue-date": "1941-12", "volume": "21", "number": "2"},
+       {"issue-date": "1942-02", "volume": "21", "number": "3"},
+       {"issue-date": "1942-04", "volume": "22", "number": "1"},
+       {"issue-date": "1942-06", "volume": "22", "number": "2"},
+       {"issue-date": "1942-08", "volume": "22", "number": "3"},
+       {"issue-date": "1942-10", "volume": "23", "number": "1"},
+       {"issue-date": "1942-12", "volume": "23", "number": "2"},
+       {"issue-date": "1943-02", "volume": "23", "number": "3"},
+       {"issue-date": "1943-04", "volume": "24", "number": "1"},
+       {"issue-date": "1943-06", "volume": "24", "number": "2"},
+       {"issue-date": "1943-08", "volume": "24", "number": "3"}
+   ],
+   "renewed-contribution-completeness": "active/1949",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1936-12", "volume": "8", "number": "3"},
+      "title": "The Lanson Screen",
+      "author": {
+         "authorized": "Zagat, Arthur Leo, 1896-1949",
+         "lcna": "no96045919"
+      }
+     },
+     {"issue": {"issue-date": "1936-12", "volume": "8", "number": "3"},
+      "title": "Static: A Short Story",
+       "note": "Author name is a pseudonym for Earl and Otto Binder",
+       "author": {
+         "authorized": "Binder, Eando",
+         "lcna": "no93000146"
+       }
+     },
+     {"issue": {"issue-date": "1937-04", "volume": "9", "number": "2"},
+      "title": "The Judgment Sun",
+       "note": "Author name is a pseudonym for Earl and Otto Binder",
+       "author": {
+         "authorized": "Binder, Eando",
+         "lcna": "no93000146"
+       }
+     },
+     {"issue": {"issue-date": "1937-06", "volume": "9", "number": "3"},
+      "title": "The Chessboard of Mars",
+      "note": "Author name is a pseudonym for Earl and Otto Binder",
+      "author": {
+         "authorized": "Binder, Eando",
+         "lcna": "no93000146"
+       }
+     },
+     {"issue": {"issue-date": "1937-08", "volume": "10", "number": "1"},
+      "title": "Conquest of Life",
+      "note": "Author name is a pseudonym for Earl and Otto Binder",
+      "author": {
+         "authorized": "Binder, Eando",
+         "lcna": "no93000146"
+       }
+     },
+     {"issue": {"issue-date": "1937-08", "volume": "10", "number": "1"},
+      "title": "Vision of the Hydra",
+      "author": {
+          "authorized": "Binder, Otto O. (Otto Oscar), 1911-1975",
+          "lcna": "no92020393",
+          "using": "Gordon A. Giles"
+      }
+     },
+     {"issue": {"issue-date": "1937-10", "volume": "10", "number": "2"},
+      "title": "A Comet Passes",
+      "note": "Author name is a pseudonym for Earl and Otto Binder",
+      "author": {
+         "authorized": "Binder, Eando",
+         "lcna": "no93000146"
+       }
+     },
+     {"issue": {"issue-date": "1937-10", "volume": "10", "number": "2"},
+      "title": "Via Etherline",
+      "author": {
+          "authorized": "Binder, Otto O. (Otto Oscar), 1911-1975",
+          "lcna": "no92020393",
+          "using": "Gordon A. Giles"
+      }
+     },
+     {"issue": {"issue-date": "1938-02", "volume": "11", "number": "1"},
+      "title": "Life Eternal",
+      "note": "Author name is a pseudonym for Earl and Otto Binder",
+      "author": {
+         "authorized": "Binder, Eando",
+         "lcna": "no93000146"
+       }
+     },
+     {"issue": {"issue-date": "1938-02", "volume": "11", "number": "1"},
+      "title": "Via Asteroid",
+      "author": {
+          "authorized": "Binder, Otto O. (Otto Oscar), 1911-1975",
+          "lcna": "no92020393",
+          "using": "Gordon A. Giles"
+      }
+     },
+     {"issue": {"issue-date": "1938-04", "volume": "11", "number": "2"},
+      "title": "Rays of Blindness",
+      "author": {
+          "authorized": "Binder, Otto O. (Otto Oscar), 1911-1975",
+          "lcna": "no92020393",
+          "using": "Will Garth"
+      }
+     },
+     {"issue": {"issue-date": "1938-08", "volume": "12", "number": "1"},
+      "title": "Via Death",
+      "author": {
+          "authorized": "Binder, Otto O. (Otto Oscar), 1911-1975",
+          "lcna": "no92020393",
+          "using": "Gordon A. Giles"
+      }
+     },
+     {"issue": {"issue-date": "1938-12", "volume": "12", "number": "3"},
+      "title": "The Metal Ocean",
+      "note": "Author name is a pseudonym for Earl and Otto Binder",
+      "author": {
+         "authorized": "Binder, Eando",
+         "lcna": "no93000146"
+       }
+     },
+     {"issue": {"issue-date": "1939-02", "volume": "13", "number": "1"},
+      "title": "Flight of the Starshell",
+      "author": {
+          "authorized": "Binder, Otto O. (Otto Oscar), 1911-1975",
+          "lcna": "no92020393",
+          "using": "Gordon A. Giles"
+      }
+     },
+     {"issue": {"issue-date": "1939-04", "volume": "13", "number": "2"},
+      "title": "The Jules Verne Express",
+      "note": "Author name is a pseudonym for Earl and Otto Binder",
+      "author": {
+         "authorized": "Binder, Eando",
+         "lcna": "no93000146"
+       }
+     },
+     {"issue": {"issue-date": "1939-06", "volume": "13", "number": "3"},
+      "title": "The Man Without a World",
+      "authors": [
+         {"authorized": "Burroughs, John Coleman, 1913-1979",
+          "lcna": "n96083569"
+         },
+         {"name": "Hulbert Burroughs"}
+      ]
+     },
+     {"issue": {"issue-date": "1939-06", "volume": "13", "number": "3"},
+      "title": "Moon of Intoxication",
+      "note": "Author name is a pseudonym for Earl and Otto Binder",
+      "author": {
+         "authorized": "Binder, Eando",
+         "lcna": "no93000146"
+       }
+     },
+     {"issue": {"issue-date": "1939-06", "volume": "13", "number": "3"},
+      "title": "Passage to Saturn",
+      "author": {
+         "authorized": "Williamson, Jack, 1908-2006",
+         "lcna": "n79027136"
+      }
+     },
+     {"issue": {"issue-date": "1939-10", "volume": "14", "number": "2"},
+      "title": "Via Venus",
+      "author": {
+          "authorized": "Binder, Otto O. (Otto Oscar), 1911-1975",
+          "lcna": "no92020393",
+          "using": "Gordon A. Giles"
+      }
+     },
+     {"issue": {"issue-date": "1939-12", "volume": "14", "number": "3"},
+      "title": "The Three Eternals",
+      "note": "Author name is a pseudonym for Earl and Otto Binder",
+      "author": {
+         "authorized": "Binder, Eando",
+         "lcna": "no93000146"
+       }
+     },
+     {"issue": {"issue-date": "1940-01", "volume": "15", "number": "1"},
+      "title": "Via Pyramid",
+      "author": {
+          "authorized": "Binder, Otto O. (Otto Oscar), 1911-1975",
+          "lcna": "no92020393",
+          "using": "Gordon A. Giles"
+      }
+     },
+     {"issue": {"issue-date": "1940-02", "volume": "15", "number": "2"},
+      "title": "The Lightning Men",
+      "authors": [
+         {"authorized": "Burroughs, John Coleman, 1913-1979",
+          "lcna": "n96083569"
+         },
+         {"name": "Hulbert Burroughs"}
+      ]
+     },
+     {"issue": {"issue-date": "1940-03", "volume": "15", "number": "3"},
+      "title": "The Time Cheaters",
+      "note": "Author name is a pseudonym for Earl and Otto Binder",
+      "author": {
+         "authorized": "Binder, Eando",
+         "lcna": "no93000146"
+       }
+     },
+     {"issue": {"issue-date": "1940-03", "volume": "15", "number": "3"},
+      "title": "Via Sun",
+      "author": {
+          "authorized": "Binder, Otto O. (Otto Oscar), 1911-1975",
+          "lcna": "no92020393",
+          "using": "Gordon A. Giles"
+      }
+     },
+     {"issue": {"issue-date": "1940-05", "volume": "16", "number": "2"},
+      "title": "Gems of Life",
+      "note": "Author name is a pseudonym for Earl and Otto Binder",
+      "author": {
+         "authorized": "Binder, Eando",
+         "lcna": "no93000146"
+       }
+     },
+     {"issue": {"issue-date": "1940-06", "volume": "16", "number": "3"},
+      "title": "The Sun Maker",
+      "author": {
+         "authorized": "Williamson, Jack, 1908-2006",
+         "lcna": "n79027136"
+      }
+     },
+     {"issue": {"issue-date": "1940-07", "volume": "17", "number": "1"},
+      "title": "The Experiment of Dr. Sarconi",
+      "author": {
+          "authorized": "Bates, Harry, 1900-1981",
+          "lcna": "no99082693"
+      }
+     },
+     {"issue": {"issue-date": "1940-08", "volume": "17", "number": "2"},
+      "title": "Secret of Anton York",
+      "note": "Author name is a pseudonym for Earl and Otto Binder",
+      "author": {
+         "authorized": "Binder, Eando",
+         "lcna": "no93000146"
+       }
+     },
+     {"issue": {"issue-date": "1940-10", "volume": "18", "number": "1"},
+      "title": "Via Mercury",
+      "author": {
+          "authorized": "Binder, Otto O. (Otto Oscar), 1911-1975",
+          "lcna": "no92020393",
+          "using": "Gordon A. Giles"
+      }
+     },
+     {"issue": {"issue-date": "1940-11", "volume": "18", "number": "2"},
+      "title": "Via Catacombs",
+      "author": {
+          "authorized": "Binder, Otto O. (Otto Oscar), 1911-1975",
+          "lcna": "no92020393",
+          "using": "Gordon A. Giles"
+      }
+     },
+     {"issue": {"issue-date": "1940-12", "volume": "18", "number": "3"},
+      "title": "Via Intelligence",
+      "author": {
+          "authorized": "Binder, Otto O. (Otto Oscar), 1911-1975",
+          "lcna": "no92020393",
+          "using": "Gordon A. Giles"
+      }
+     },
+     {"issue": {"issue-date": "1941-02", "volume": "19", "number": "2"},
+      "title": "Teacher From Mars",
+      "note": "Author name is a pseudonym for Earl and Otto Binder",
+      "author": {
+         "authorized": "Binder, Eando",
+         "lcna": "no93000146"
+      }
+     },
+     {"issue": {"issue-date": "1941-04", "volume": "20", "number": "1"},
+      "title": "Mystery World",
+      "note": "Author name is a pseudonym for Earl and Otto Binder",
+      "author": {
+         "authorized": "Binder, Eando",
+         "lcna": "no93000146"
+      }
+     },
+     {"issue": {"issue-date": "1941-10", "volume": "21", "number": "1"},
+      "title": "The Voice",
+      "author": {
+          "authorized": "Rocklynne, Ross, 1913-1988",
+          "lcna": "n88278070"
+      }
+     },
+     {"issue": {"issue-date": "1942-10", "volume": "23", "number": "1"},
+      "title": "The Hazing",
+      "author": {
+         "authorized": "Asimov, Isaac, 1920-1992",
+         "lcna": "n80126289"
+      }
+     },
+     {"issue": {"issue-date": "1942-10", "volume": "23", "number": "1"},
+      "title": "Double or Nothing",
+      "note": "Author name is a pseudonym for Earl and Otto Binder",
+      "author": {
+         "authorized": "Binder, Eando",
+         "lcna": "no93000146"
+      }
+     },
+     {"issue": {"issue-date": "1942-12", "volume": "23", "number": "2"},
+      "title": "Storm in Space",
+      "author": {
+         "authorized": "Rocklynne, Ross, 1913-1988",
+         "lcna": "n88278070"
+      }
+     },
+     {"issue": {"issue-date": "1943-08", "volume": "24", "number": "3"},
+      "title": "Exile to Centauri",
+      "author": {
+         "authorized": "Rocklynne, Ross, 1913-1988",
+         "lcna": "n88278070"
+      }
+     },
+     {"issue": {"issue-date": "1945-Spring", "volume": "27", "number": "1"},
+      "title": "Venus Sky-Trap",
+      "author": {
+         "authorized": "Rocklynne, Ross, 1913-1988",
+         "lcna": "n88278070"
+      }
+     },
+     {"issue": {"issue-date": "1946-Summer", "volume": "28", "number": "3"},
+      "title": "The Ice World",
+      "author": {
+         "authorized": "Rocklynne, Ross, 1913-1988",
+         "lcna": "n88278070"
+      }
+     },
+     {"issue": {"issue-date": "1946-12", "volume": "29", "number": "2"},
+      "title": "The Ghosts of Melvin Pye",
+      "author": {
+         "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+         "lcna": "n80057222"
+      }
+     },
+     {"issue": {"issue-date": "1947-04", "volume": "30", "number": "1"},
+      "title": "The Reluctant Shaman",
+      "author": {
+         "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+         "lcna": "n80057222"
+      }
+     },
+     {"issue": {"issue-date": "1947-10", "volume": "31", "number": "1"},
+      "title": "Jerry Was a Man",
+      "author": {
+         "authorized": "Heinlein, Robert A. (Robert Anson), 1907-1988",
+         "lcna": "n79067868"
+      }
+     },
+     {"issue": {"issue-date": "1947-10", "volume": "31", "number": "1"},
+      "title": "The Darker Drink",
+      "author": {
+         "authorized": "Charteris, Leslie, 1907-1993",
+         "lcna": "n50038426"
+      }
+     },
+     {"issue": {"issue-date": "1948-02", "volume": "31", "number": "3"},
+      "title": "The Dobridust",
+      "author": {
+          "authorized": "St. Clair, Margaret",
+          "lcna": "n85038071"
+      }
+     },
+     {"issue": {"issue-date": "1948-06", "volume": "32", "number": "2"},
+      "title": "The Metal Lark",
+      "author": {
+          "authorized": "St. Clair, Margaret",
+          "lcna": "n85038071"
+      }
+     },
+     {"issue": {"issue-date": "1948-06", "volume": "32", "number": "2"},
+      "title": "And the Moon Be Still As Bright",
+      "author": {
+         "authorized": "Bradbury, Ray, 1920-2012",
+         "lcna": "n79139258"
+      }
+     },
+     {"issue": {"issue-date": "1948-08", "volume": "32", "number": "3"},
+      "title": "The Earth Men",
+      "author": {
+         "authorized": "Bradbury, Ray, 1920-2012",
+         "lcna": "n79139258"
+      }
+     },
+     {"issue": {"issue-date": "1948-08", "volume": "32", "number": "3"},
+      "title": "The Rotohouse",
+      "author": {
+          "authorized": "St. Clair, Margaret",
+          "lcna": "n85038071"
+      }
+     },
+     {"issue": {"issue-date": "1948-10", "volume": "33", "number": "1"},
+      "title": "That Mess Last Year",
+      "author": {
+         "authorized": "MacDonald, John D. (John Dann), 1916-1986",
+         "lcna": "n79045202"
+      }
+     },
+     {"issue": {"issue-date": "1948-10", "volume": "33", "number": "1"},
+      "title": "No Winter, No Summer",
+      "note": "Published under the joint pseudonym 'Donald Laverty'.",
+      "authors": [
+         {"authorized": "Blish, James",
+           "lcna": "n79053667"},
+         {"authorized": "Knight, Damon, 1922-2002",
+          "lcna": "n79108377"}
+      ]
+     },
+     {"issue": {"issue-date": "1948-12", "volume": "33", "number": "2"},
+      "title": "The Off Season",
+      "author": {
+         "authorized": "Bradbury, Ray, 1920-2012",
+         "lcna": "n79139258"
+      }
+     },
+     {"issue": {"issue-date": "1948-12", "volume": "33", "number": "2"},
+      "title": "A Child is Crying",
+      "author": {
+         "authorized": "MacDonald, John D. (John Dann), 1916-1986",
+         "lcna": "n79045202"
+      }
+     },
+     {"issue": {"issue-date": "1948-12", "volume": "33", "number": "2"},
+      "title": "Knock",
+      "author": {
+         "authorized": "Brown, Fredric, 1906-1972",
+         "lcna": "n79056291"
+      }
+     },
+     {"issue": {"issue-date": "1949-02", "volume": "33", "number": "3"},
+      "title": "The Weapon Shops of Isher",
+      "author": {
+         "authorized": "Van Vogt, A. E. (Alfred Elton), 1912-2000",
+         "lcna": "n79123985"
+      }
+     },
+     {"issue": {"issue-date": "1949-02", "volume": "33", "number": "3"},
+      "title": "The Man",
+      "author": {
+         "authorized": "Bradbury, Ray, 1920-2012",
+         "lcna": "n79139258"
+      }
+     },
+     {"issue": {"issue-date": "1949-02", "volume": "33", "number": "3"},
+      "title": "The Himalaychalet",
+      "author": {
+          "authorized": "St. Clair, Margaret",
+          "lcna": "n85038071"
+      }
+     },
+     {"issue": {"issue-date": "1949-04", "volume": "34", "number": "1"},
+      "title": "The Hierophants",
+      "author": {
+          "authorized": "St. Clair, Margaret",
+          "lcna": "n85038071"
+      }
+     },
+     {"issue": {"issue-date": "1949-04", "volume": "34", "number": "1"},
+      "title": "The Concrete Mixer",
+      "author": {
+         "authorized": "Bradbury, Ray, 1920-2012",
+         "lcna": "n79139258"
+      }
+     },
+     {"issue": {"issue-date": "1949-04", "volume": "34", "number": "1"},
+      "title": "The Box",
+      "author": {
+         "authorized": "Blish, James",
+         "lcna": "n79053667"
+      }
+     },
+     {"issue": {"issue-date": "1949-04", "volume": "34", "number": "1"},
+      "title": "The Neo-Geoduck",
+      "note": "Issue designation as given in CCE renewal record, though FictionMags and ISFDB place it in the August 1949 issue. I have not examined the issues in question.",
+      "author": {
+          "authorized": "St. Clair, Margaret",
+          "lcna": "n85038071"
+      }
+     },
+     {"issue": {"issue-date": "1949-06", "volume": "34", "number": "2"},
+      "title": "The Alien Machine",
+      "author": {
+         "authorized": "Jones, Raymond F., 1915-1994",
+         "lcna": "n50041085"
+      }
+     },
+     {"issue": {"issue-date": "1949-06", "volume": "34", "number": "2"},
+      "title": "Like a Keepsake",
+      "author": {
+         "authorized": "MacDonald, John D. (John Dann), 1916-1986",
+         "lcna": "n79045202"
+      }
+     },
+     {"issue": {"issue-date": "1949-06", "volume": "34", "number": "2"},
+      "title": "See You Later",
+      "author": {
+         "authorized": "Kuttner, Henry",
+         "lcna": "n50061631"
+      }
+     },
+     {"issue": {"issue-date": "1949-08", "volume": "34", "number": "3"},
+      "title": "Amphiskios",
+      "author": {
+         "authorized": "MacDonald, John D. (John Dann), 1916-1986",
+         "lcna": "n79045202"
+      }
+     },
+     {"issue": {"issue-date": "1949-08", "volume": "34", "number": "3"},
+      "title": "The Neo-Geoduck",
+      "note": "Issue designation as given in FictionMags and ISFDB, though the CCE renewal record places it in the April 1949 issue. I have not examined the issues in question.",
+      "author": {
+          "authorized": "St. Clair, Margaret",
+          "lcna": "n85038071"
+      }
+     },
+     {"issue": {"issue-date": "1949-08", "volume": "34", "number": "3"},
+      "title": "The Naming of Names",
+      "author": {
+         "authorized": "Bradbury, Ray, 1920-2012",
+         "lcna": "n79139258"
+      }
+     },
+     {"issue": {"issue-date": "1949-10", "volume": "35", "number": "1"},
+      "title": "The Hibited Man",
+      "author": {
+         "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+         "lcna": "n80057222"
+      }
+     },
+     {"issue": {"issue-date": "1949-10", "volume": "35", "number": "1"},
+      "title": "The Gardener",
+      "author": {
+          "authorized": "St. Clair, Margaret",
+          "lcna": "n85038071"
+      }
+     },
+     {"issue": {"issue-date": "1949-10", "volume": "35", "number": "1"},
+      "title": "Cold War",
+      "author": {
+         "authorized": "Kuttner, Henry",
+         "lcna": "n50061631"
+      }
+     },
+     {"issue": {"issue-date": "1949-10", "volume": "35", "number": "1"},
+      "title": "Kaleidoscope",
+      "author": {
+         "authorized": "Bradbury, Ray, 1920-2012",
+         "lcna": "n79139258"
+      }
+     },
+     {"issue": {"issue-date": "1949-10", "volume": "35", "number": "1"},
+      "title": "Paradox",
+      "author": {
+         "authorized": "Gunn, James E., 1923-",
+         "lcna": "n79068460",
+         "using": "Edwin James"
+      }
+     },
+     {"issue": {"issue-date": "1949-12", "volume": "35", "number": "2"},
+      "title": "Let the Finder Beware",
+      "author": {
+         "authorized": "Blish, James",
+         "lcna": "n79053667"
+      }
+     },
+     {"issue": {"issue-date": "1949-12", "volume": "35", "number": "2"},
+      "title": "Blade of Grass",
+      "author": {
+         "authorized": "Bradbury, Ray, 1920-2012",
+         "lcna": "n79139258"
+      }
+     },
+     {"issue": {"issue-date": "1949-12", "volume": "35", "number": "2"},
+      "title": "The Shroud of Secrecy",
+      "author": {
+         "authorized": "Jones, Raymond F., 1915-1994",
+         "lcna": "n50041085"
+      }
+     },
+     {"issue": {"issue-date": "1949-12", "volume": "35", "number": "2"},
+      "title": "The Colorful Character",
+      "author": {
+         "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+         "lcna": "n80057222"
+      }
+     },
+     {"issue": {"issue-date": "1950-02", "volume": "35", "number": "3"},
+      "title": "Greater Conflict",
+      "author": {
+         "authorized": "Jones, Raymond F., 1915-1994",
+         "lcna": "n50041085"
+      }
+     },
+     {"issue": {"issue-date": "1950-02", "volume": "35", "number": "3"},
+      "title": "The Voice of the Lobster",
+      "note": "Title as given on issue cover. CCE renewal record gives title as 'Voice of Lobster'.",
+      "author": {
+         "authorized": "Kuttner, Henry",
+         "lcna": "n50061631"
+      }
+     },
+     {"issue": {"issue-date": "1950-02", "volume": "35", "number": "3"},
+      "title": "Payment in Full",
+      "author": {
+         "authorized": "Bradbury, Ray, 1920-2012",
+         "lcna": "n79139258"
+      }
+     },
+     {"issue": {"issue-date": "1950-04", "volume": "36", "number": "1"},
+      "title": "Carnival of Madness",
+      "author": {
+         "authorized": "Bradbury, Ray, 1920-2012",
+         "lcna": "n79139258"
+      }
+     },
+     {"issue": {"issue-date": "1950-04", "volume": "36", "number": "1"},
+      "title": "There Shall Be No Darkness",
+      "author": {
+         "authorized": "Blish, James",
+         "lcna": "n79053667"
+      }
+     },
+     {"issue": {"issue-date": "1950-04", "volume": "36", "number": "1"},
+      "title": "Beauty and the Beast",
+      "note": "Issue designation as given in a 1977 CCE renewal record. FictionMags and ISFDB do not show this story in that issue, but rather in the April 1940 issue. I have not examined the issues in question.",
+      "author": {
+         "authorized": "Kuttner, Henry",
+         "lcna": "n50061631"
+      }
+     },
+     {"issue": {"issue-date": "1950-06", "volume": "36", "number": "2"},
+      "title": "The Pillows",
+      "author": {
+          "authorized": "St. Clair, Margaret",
+          "lcna": "n85038071"
+      }
+     },
+     {"issue": {"issue-date": "1950-08", "volume": "36", "number": "3"},
+      "title": "As You Were",
+      "author": {
+         "authorized": "Kuttner, Henry",
+         "lcna": "n50061631"
+      }
+     }
+   ],
+   "comment": "Have all but the cocatalog contrib. renewals for this serial",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2019-11-16"
+}

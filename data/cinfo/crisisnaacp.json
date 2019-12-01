@@ -6,9 +6,40 @@
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1940-03"}},
    "first-renewed-contribution-source": "1967-JulDec",
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+      {"issue": {"issue-date": "1940-03"},
+       "title": "Notes on Commercial Art",
+       "author": {
+         "authorized": "Hughes, Langston, 1902-1967",
+         "lcna": "n80014956"
+       }
+      },
+      {"issue": {"issue-date": "1953-03"},
+       "title": "Light on 'Invisible Man'",
+       "author": {
+        "authorized": "Ellison, Ralph",
+        "lcna": "n50010027"
+       }
+      },
+      {"issue": {"issue-date": "1958-12"},
+       "title": "Carol of the Brown King: Poem",
+       "author": {
+         "authorized": "Hughes, Langston, 1902-1967",
+         "lcna": "n80014956"
+       }
+      },
+      {"issue": {"issue-date": "1959-10"},
+       "title": "A Case of Quiet Social Change",
+       "author": {
+         "authorized": "Zinn, Howard, 1922-2010",
+         "lcna": "n79059761"
+       }
+      }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-01-06"
+   "last-updated": "2019-11-25"
 }

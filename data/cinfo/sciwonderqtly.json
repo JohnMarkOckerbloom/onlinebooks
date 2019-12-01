@@ -7,13 +7,43 @@
       {"url": "http://www.philsp.com/homeville/SFI/link.asp?magid=SWQ",
        "note": "Galactic Central"}
    ],
+   "first-issue": {"issue-date": "1929-Fall", "volume": "1", "number": "1"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
-   "first-renewed-contribution": "none",
-   "first-renewed-contribution-source": "cce",
+   "first-renewed-contribution": 
+     {"issue": {"issue-date": "1929-Fall", "volume": "1", "number": "1"}},
+   "last-issue": {"issue-date": "1930-Spring", "volume": "1", "number": "3"},
+   "first-renewed-issue": "none",
+   "succeeded-by":
+     [{"id": "wonderstoriesq", "note": "Wonder Stories Quarterly"}],
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1929-Fall", "volume": "1", "number": "1"},
+      "title": "The Shot Into Infinity",
+      "note": "There was no renewal filed for this story; however, it is a translation of 'Der Schuß ins All', originally published in German in 1925 and likely to have an active copyright due to GATT restoration.",
+      "author": {
+       "authorized": "Gail, Otto Willi, 1896-",
+       "lcna": "n87120184"
+      },
+      "translator": {
+       "name": "Francis M. Currier"
+      }
+     },
+     {"issue": {"issue-date": "1930-Spring", "volume": "1", "number": "3"},
+      "title": "The Stone From the Moon",
+      "note": "There was no renewal filed for this story; however, it is a translation of 'Der Stein vom Mond', originally published in German in 1926 and likely to have an active copyright due to GATT restoration.",
+      "author": {
+       "authorized": "Gail, Otto Willi, 1896-",
+       "lcna": "n87120184"
+      },
+      "translator": {
+       "name": "Francis M. Currier"
+      }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-05-26"
+   "last-updated": "2019-11-10"
 }

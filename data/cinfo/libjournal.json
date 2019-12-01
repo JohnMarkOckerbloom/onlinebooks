@@ -3,13 +3,63 @@
    "online": "1",
    "first-renewed-issue": 
      {"issue-date": "1935-12-01", "volume": "60", "number": "21"},
+   "first-autorenewed-issue": 
+     {"issue-date": "1964-01-15", "cdate": "1964-01-09",
+        "volume": "89", "number": "2"},
    "first-renewed-issue-source": "1963-JulDec",
    "first-renewed-contribution":
      {"issue": {"issue-date": "1932-11-15"}},
    "first-renewed-contribution-source": "1960-JanJun",
+   "renewed-issue-completeness": "active/autorenewals",
+   "renewed-issues": [
+     {"issue-date": "1935-12-01", "volume": "60", "number": "21"},
+     {"issue-date": "1935-12-15", "volume": "60", "number": "22"},
+     {"issue-date": "1936-02-01", "volume": "61", "number": "3"},
+     {"issue-date": "1936-04-01", "volume": "61", "number": "7"},
+     {"issue-date": "1936-07", "volume": "61", "number": "13"},
+     {"issue-date": "1936-10-15", "volume": "61", "number": "18"},
+     {"issue-date": "1937-01-15", "volume": "62", "number": "2"},
+     {"issue-date": "1937-10-01", "volume": "62", "number": "17"},
+     {"issue-date": "1938-02-15", "volume": "63", "number": "4"},
+     {"issue-date": "1938-09-01", "volume": "63", "number": "15"},
+     {"issue-date": "1939-02-15", "volume": "64", "number": "4"},
+     {"issue-date": "1939-09-01", "volume": "64", "number": "12"},
+     {"issue-date": "1940-02-15", "volume": "65", "number": "4"},
+     {"issue-date": "1940-09-01", "volume": "65", "number": "15"},
+     {"issue-date": "1941-02-15", "volume": "66", "number": "4"},
+     {"issue-date": "1941-09-01", "volume": "66", "number": "15"},
+     {"issue-date": "1945-02-15", "volume": "70", "number": "4"},
+     {"issue-date": "1945-09-01", "volume": "70", "number": "15"},
+     {"issue-date": "1947-09-01", "volume": "72", "number": "15"},
+     {"issue-date": "1948-09-01", "volume": "73", "number": "15"}
+   ],
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1932-11-15"},
+      "title": "November",
+      "author": {
+         "authorized": "Millay, Edna St. Vincent, 1892-1950",
+         "lcna": "n79062746"
+      }
+     },
+     {"issue": {"issue-date": "1937-04-15"},
+      "title": "Take Time to Read Good Books",
+      "author": {
+         "authorized": "Buck, Pearl S. (Pearl Sydenstricker), 1892-1973",
+         "lcna": "n79026662"
+      }
+     },
+     {"issue": {"issue-date": "1946-02-15"},
+      "title": "Writers, Dealers in Emotion",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     }
+  ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-06-05"
+   "last-updated": "2019-11-08"
 }

@@ -1,6 +1,7 @@
 {
    "title": "Thrilling Mystery",
    "aka": ["Thrilling Mystery Stories"],
+   "see-also": [{"id": "thrillingmysteries", "note": "Thrilling Mysteries"}],
    "contents": [
       {"url": "http://www.philsp.com/homeville/CFI/link.asp?magid=TMY",
        "note": "FictionMags Index"}
@@ -20,9 +21,92 @@
    "first-renewed-contribution-source": "1967-JanJun",
    "last-issue": 
        {"issue-date": "1944-Fall", "volume": "22", "number": "2"}, 
+   "renewed-issues": [
+       {"issue-date": "1935-12", "volume": "1", "number": "2"}, 
+       {"issue-date": "1936-01", "volume": "1", "number": "3"}, 
+       {"issue-date": "1936-02", "volume": "2", "number": "1"}, 
+       {"issue-date": "1936-03", "volume": "2", "number": "2"}, 
+       {"issue-date": "1936-04", "volume": "2", "number": "3"}, 
+       {"issue-date": "1936-05", "volume": "3", "number": "1"}, 
+       {"issue-date": "1936-06", "volume": "3", "number": "2"}, 
+       {"issue-date": "1936-07", "volume": "3", "number": "3"}, 
+       {"issue-date": "1936-08", "volume": "4", "number": "1"}, 
+       {"issue-date": "1936-09", "volume": "4", "number": "2"}, 
+       {"issue-date": "1936-10", "volume": "4", "number": "3"}, 
+       {"issue-date": "1936-11", "volume": "5", "number": "1"},
+       {"issue-date": "1936-12", "volume": "5", "number": "2"},
+       {"issue-date": "1937-01", "volume": "5", "number": "3"},
+       {"issue-date": "1937-02", "volume": "6", "number": "1"},
+       {"issue-date": "1937-03", "volume": "6", "number": "2"},
+       {"issue-date": "1937-04", "volume": "6", "number": "3"},
+       {"issue-date": "1937-05", "volume": "7", "number": "1"},
+       {"issue-date": "1937-06", "volume": "7", "number": "2"},
+       {"issue-date": "1937-07", "volume": "8", "number": "1"},
+       {"issue-date": "1937-09", "volume": "8", "number": "2"},
+       {"issue-date": "1937-11", "volume": "8", "number": "3"},
+       {"issue-date": "1938-01", "volume": "9", "number": "1"},
+       {"issue-date": "1938-03", "volume": "9", "number": "2"},
+       {"issue-date": "1938-07", "volume": "10", "number": "1"},
+       {"issue-date": "1938-09", "volume": "10", "number": "2"},
+       {"issue-date": "1938-11", "volume": "10", "number": "3"},
+       {"issue-date": "1939-01", "volume": "11", "number": "1"},
+       {"issue-date": "1939-03", "volume": "11", "number": "2"},
+       {"issue-date": "1939-05", "volume": "11", "number": "3"},
+       {"issue-date": "1939-07", "volume": "12", "number": "1"},
+       {"issue-date": "1939-09", "volume": "12", "number": "2"},
+       {"issue-date": "1939-11", "volume": "12", "number": "3"},
+       {"issue-date": "1940-01", "volume": "14", "number": "1",
+         "note": "Volume numbering appears to have skipped 13."},
+       {"issue-date": "1940-03", "volume": "14", "number": "2"},
+       {"issue-date": "1940-05", "volume": "14", "number": "3"},
+       {"issue-date": "1940-07", "volume": "15", "number": "1"},
+       {"issue-date": "1940-09", "volume": "15", "number": "2"},
+       {"issue-date": "1940-11", "volume": "15", "number": "3"},
+       {"issue-date": "1941-01", "volume": "16", "number": "1"},
+       {"issue-date": "1941-03", "volume": "16", "number": "2"},
+       {"issue-date": "1941-05", "volume": "16", "number": "3"},
+       {"issue-date": "1941-07", "volume": "17", "number": "1"},
+       {"issue-date": "1941-09", "volume": "17", "number": "2"},
+       {"issue-date": "1941-11", "volume": "17", "number": "3"},
+       {"issue-date": "1942-01", "volume": "18", "number": "1"},
+       {"issue-date": "1942-03", "volume": "18", "number": "2"},
+       {"issue-date": "1942-05", "volume": "18", "number": "3"},
+       {"issue-date": "1942-07", "volume": "19", "number": "1"},
+       {"issue-date": "1942-09", "volume": "19", "number": "2"},
+       {"issue-date": "1942-11", "volume": "19", "number": "3"},
+       {"issue-date": "1943-01", "volume": "20", "number": "1"},
+       {"issue-date": "1943-03", "volume": "20", "number": "2"},
+       {"issue-date": "1943-06", "volume": "20", "number": "3"}
+   ],
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1940-07", "volume": "15", "number": "1"},
+      "title": "Hybrid of Horror",
+      "authors": [
+         {"authorized": "Burroughs, John Coleman, 1913-1979",
+          "lcna": "n96083569"
+         },
+         {"name": "Jane Ralston Burroughs"}
+      ]
+     },
+     {"issue": {"issue-date": "1942-01", "volume": "18", "number": "1"},
+      "title": "Power of the Puppets",
+      "author": {
+          "authorized": "Leiber, Fritz, 1910-1992",
+          "lcna": "n79054477"
+      }
+     },
+     {"issue": {"issue-date": "1944-Fall", "volume": "22", "number": "2"},
+      "title": "Death is a Vampire",
+      "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+      }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-01-01"
+   "last-updated": "2019-11-16"
 }

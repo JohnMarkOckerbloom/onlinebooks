@@ -1,0 +1,33 @@
+{
+   "title": "Journal of Expression",
+   "title-note": "1927-1932",
+   "first-issue": 
+      {"issue-date": "1927-06", "volume": "1", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce",
+   "first-renewed-contribution": 
+     {"issue": {"issue-date": "1930-12"}},
+   "first-renewed-contribution-source": "1958-JulDec",
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1930-12"},
+      "title": "The Man Who Would Say R",
+        "author": {
+         "authorized": "DeWitt, M. E. (Marguerite E.)",
+         "lcna": "no96061773"
+        }
+     },
+     {"issue": {"issue-date": "1932-04"},
+      "title": "You Who Are Born and Born Again",
+        "author": {
+         "authorized": "DeWitt, M. E. (Marguerite E.)",
+         "lcna": "no96061773"
+        }
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2019-11-04"
+}

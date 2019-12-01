@@ -14,8 +14,10 @@ my $backfileurl = $cgiprefix . "backfile";
 my @month = ("January", "February", "March", "April", "May", "June", "July",
              "August", "September", "October", "November", "December");
 
-my $PDUS = "NoC-US";
+my $PDUS         = "NoC-US";
+my $COPYRIGHTED  = "InC";
 
+$OLBP::CopyrightInfo::ALL_COPYRIGHTED = "All";
 $OLBP::CopyrightInfo::ALL_PD          = "N/A";
 $OLBP::CopyrightInfo::NO_RENEWAL      = "None";
 $OLBP::CopyrightInfo::UNCLEAR_RENEWAL = "See record";
@@ -350,20 +352,20 @@ sub _get_source_note {
 }
 
 sub _print_completeness_note {
-  my ($note) = @_;
+  my ($note, $type) = @_;
   my $str = "";
   if ($note =~ /^active\/auto(matic|renewals)$/) {
-    $str = "This includes all active renewals prior to " .
+    $str = "This includes all active $type renewals prior to " .
            " 1964, when automatic renewals began.  It might not show all" .
            " renewals from 1964 onward."
   } elsif ($note eq "active/end") {
-    $str = "This includes all active renewals.";
+    $str = "This includes all active $type renewals.";
   } elsif ($note =~ m!active/(.*)!) {
-    $str = "This includes all active renewals through " .
+    $str = "This includes all active $type renewals through " .
            _date_string($1) .
            ".  It might not show all renewals past that date.";
   } else {
-    $str = "This listing shows selected renewals, and should not ".
+    $str = "This listing shows selected $type renewals, and should not ".
            "be considered complete.";
   }
   print "<p><em>$str</em></p>\n";
@@ -378,6 +380,10 @@ sub _print_citation_info {
   if ($json->{"responsibility"}) {
     my $value  = $self->_display_person($json->{"responsibility"});
     print $self->_tabrow(attr=>"Page responsibility", value=>$value);
+  }
+  if ($json->{"acknowledgement"}) {
+    my $value = OLBP::html_encode($json->{"acknowledgement"});
+    print $self->_tabrow(attr=>"Acknowledgement", value=>$value);
   }
   if ($json->{"last-updated"}) {
     my $value = OLBP::html_encode(_date_string($json->{"last-updated"}));
@@ -457,6 +463,8 @@ sub serial_copyright_summary {
   my $str = "";
   if ($overallrights eq $PDUS) {
     $str = "All content of this serial is in the public domain in the US";
+  } elsif ($overallrights eq $COPYRIGHTED) {
+    $str = "All content of this serial is copyrighted";
   }
   if ($firstrenew eq "none") {
     $str .= _display_no(completeness=>$completeness,
@@ -534,6 +542,8 @@ sub firstrenewal_year {
   return undef if (!$json);
   if ($json->{"rights-statement"} eq $PDUS) {
      return $OLBP::CopyrightInfo::ALL_PD;
+  } elsif ($json->{"rights-statement"} eq $COPYRIGHTED) {
+     return $OLBP::CopyrightInfo::ALL_COPYRIGHTED;
   } else {
     my $NOYEAR = 9999;
     my $firstautoissue = $json->{"first-autorenewed-issue"};
@@ -652,6 +662,16 @@ sub get_json {
   return $self->_readjsonfile($path);
 }
 
+sub _rights_explanation {
+  my ($str) = @_;
+  if ($str eq $PDUS) {
+    $str = "All content public domain in the US";
+  } elsif ($str eq $COPYRIGHTED) {
+    $str = "All content under copyright";
+  }
+  return $str;
+}
+
 sub firstperiod_listing {
   my ($self, %params) = @_;
   my $fname = $params{filename};
@@ -672,14 +692,14 @@ sub firstperiod_listing {
   }
   $str .= ": ";
   my $overallrights = $json->{"rights-statement"};
-  my $pdus = 0;
-  if ($overallrights eq $PDUS) {
-    $str .= "All content public domain in the US";
-    $pdus = 1;
+  my $skiprenewalnotes = 0;
+  if ($overallrights eq $PDUS || $overallrights eq $COPYRIGHTED) {
+    $str .= _rights_explanation($overallrights);
+    $skiprenewalnotes = 1;
   }
   my $firstrenew = _get_first_renewed_issue($json);
   my $firstcont = _get_first_renewed_contribution($json);
-  if ($firstrenew && !$pdus) {
+  if ($firstrenew && !$skiprenewalnotes) {
     my $completeness = $json->{"renewed-issue-completeness"};
     if ($firstrenew eq "none") {
       $str .= _display_no(completeness=>$completeness,
@@ -698,7 +718,7 @@ sub firstperiod_listing {
       $str .= "; ";
     }
   }
-  if ($firstcont && !$pdus) {
+  if ($firstcont && !$skiprenewalnotes) {
     if ($firstcont eq "none") {
         $str .= _display_no(what=>"contribution",
                             completeness=>$json->{"first-renewed-contribution-completeness"}, 
@@ -833,9 +853,9 @@ sub display_page {
                         value=>_display_issue(issue=>$json->{"first-issue"}));
   }
   my $firstrenew = _get_first_renewed_issue($json);
-  if ($json->{"rights-statement"} eq $PDUS) {
-    print $self->_tabrow(attr=>"Rights",
-                        value=>"All content public domain in the US");
+  if ($json->{"rights-statement"}) {
+    my $statement = _rights_explanation($json->{"rights-statement"});
+    print $self->_tabrow(attr=>"Rights", value=>$statement);
   }
   if ($firstrenew) {
     my $label = "First renewed issue";
@@ -905,7 +925,8 @@ sub display_page {
     print "</table>";
     if ($json->{"renewed-issues"}) {
        print "<h3>Renewed issues</h3>\n";
-       _print_completeness_note($json->{"renewed-issue-completeness"});
+       _print_completeness_note($json->{"renewed-issue-completeness"},
+                                "issue");
        print "<ul>\n";
        my $str = "";
        foreach my $issue (@{$json->{"renewed-issues"}}) {
@@ -916,7 +937,8 @@ sub display_page {
     }
     if ($json->{"renewed-contributions"}) {
        print "<h3>Renewed contributions</h3>\n";
-       _print_completeness_note($json->{"renewed-contribution-completeness"});
+       _print_completeness_note($json->{"renewed-contribution-completeness"},
+                                "contribution");
        print "<ul>\n";
        my $str = "";
        foreach my $contr (@{$json->{"renewed-contributions"}}) {

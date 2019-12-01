@@ -2,6 +2,8 @@
    "title": "Pearson's",
    "title-note": "UK magazine",
    "online": "1",
+   "see-also": [{"id": "pearsonsusa", "note": "Pearson's (US magazine)"},
+                {"id": "pearsonsweekly", "note": "Pearson's Weekly"}],
    "contents": [
       {"url": "http://www.philsp.com/homeville/FMI/link.asp?magid=PRS",
        "note": "FictionMags (partial contents only)"}
@@ -13,7 +15,7 @@
       {"issue": {"issue-date": "1924-05", "volume": "57", "number": "341"}},
    "first-renewed-contribution-source": "1951-JulDec",
    "last-issue": {"issue-date": "1939-11", "volume": "88", "number": "527"},
-   "renewed-contribution-completeness": "active/1924",
+   "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
      {"issue": {"issue-date": "1924-05", "volume": "57", "number": "341"},
       "title": "That Bullet Hole Has a History",
@@ -79,6 +81,134 @@
        "authorized": "Sapper, 1888-1937",
        "lcna": "n85822242"
       }
+     },
+     {"issue": {"issue-date": "1926-05", "volume": "61", "number": "365"},
+      "title": "The Rout of the Oliver Samuelsons",
+      "note": "Author name is a pseudonym for H. C. McNeile.",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     },
+     {"issue": {"issue-date": "1926-06", "volume": "61", "number": "366"},
+      "title": "The Eleventh Hour",
+      "note": "Author name is a pseudonym for H. C. McNeile.",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     },
+     {"issue": {"issue-date": "1926-08", "volume": "62", "number": "368"},
+      "title": "The Taming of Sydney Marsham",
+      "note": "Author name is a pseudonym for H. C. McNeile.",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     },
+     {"issue": {"issue-date": "1926-11", "volume": "62", "number": "371"},
+      "title": "Billie Finds the Answer",
+      "note": "Author name is a pseudonym for H. C. McNeile.",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     },
+     {"issue": {"issue-date": "1927-02", "volume": "63", "number": "374"},
+      "title": "When Carruthers Laughed",
+      "note": "Author name is a pseudonym for H. C. McNeile.",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     },
+     {"issue": {"issue-date": "1927-03", "volume": "63", "number": "375"},
+      "title": "An Act of Providence",
+      "note": "Author name is a pseudonym for H. C. McNeile.",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     },
+     {"issue": {"issue-date": "1927-05", "volume": "63", "number": "377"},
+      "title": "The Diamond Hair Slide",
+      "author": {
+       "authorized": "McNeile, H. C. (Herman Cyril), 1888-1937",
+       "lcna": "no96039399"
+      }
+     },
+     {"issue": {"issue-date": "1927-12", "volume": "64", "number": "384"},
+      "title": "The Undoing of Mrs. Cransby",
+      "note": "Author name is a pseudonym for H. C. McNeile.",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     },
+     {"issue": {"issue-date": "1928-01", "volume": "65", "number": "385"},
+      "title": "The Man Who Wouldn't Sign",
+      "note": "CCE renewal record says this was published in the US later in 1928 under the title 'Skin o' My Tooth'.",
+      "author": {
+       "authorized": "Orczy, Emmuska Orczy, Baroness, 1865-1947",
+       "name": "Baroness Orczy",
+       "lcna": "n50064803"
+      }
+     },
+     {"issue": {"issue-date": "1929-08", "volume": "68", "number": "404"},
+      "title": "Brother Rex Works It",
+      "author": {
+       "authorized": "Mackail, Denis, 1892-1971",
+       "lcna": "n50041467"
+      }
+     },
+     {"issue": {"issue-date": "1929-09", "volume": "68", "number": "405"},
+      "title": "Many Happy Returns",
+      "author": {
+       "authorized": "Mackail, Denis, 1892-1971",
+       "lcna": "n50041467"
+      }
+     },
+     {"issue": {"issue-date": "1929-10", "volume": "68", "number": "406"},
+      "title": "The Gift of the Bridegroom",
+      "author": {
+       "authorized": "Mackail, Denis, 1892-1971",
+       "lcna": "n50041467"
+      }
+     },
+     {"issue": {"issue-date": "1929-11", "volume": "68", "number": "407"},
+      "title": "Barbara Drops a Brick",
+      "author": {
+       "authorized": "Mackail, Denis, 1892-1971",
+       "lcna": "n50041467"
+      }
+     },
+     {"issue": {"issue-date": "1929-12", "volume": "68", "number": "408"},
+      "title": "The Wolf From the Door",
+      "author": {
+       "authorized": "Mackail, Denis, 1892-1971",
+       "lcna": "n50041467"
+      }
+     },
+     {"issue": {"issue-date": "1930-01", "volume": "69", "number": "409"},
+      "title": "Rex Gets a Free Ticket",
+      "author": {
+       "authorized": "Mackail, Denis, 1892-1971",
+       "lcna": "n50041467"
+      }
+     },
+     {"issue": {"issue-date": "1930-12", "volume": "70", "number": "420"},
+      "title": "The Great Magor Diamond",
+      "author": {
+       "authorized": "McNeile, H. C. (Herman Cyril), 1888-1937",
+       "lcna": "no96039399"
+      }
+     },
+     {"issue": {"issue-date": "1931-12", "volume": "72", "number": "432"},
+      "title": "The Brides of Mertonbridge Hall",
+      "author": {
+       "authorized": "McNeile, H. C. (Herman Cyril), 1888-1937",
+       "lcna": "no96039399"
+      }
      }
    ],
    "additional-note" : "This is a British publication.  Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US. There was also an American Pearson's magazine published from 1899 to 1925, but it did not always publish the same content at the same time.",
@@ -86,5 +216,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-05-05"
+   "last-updated": "2019-11-25"
 }

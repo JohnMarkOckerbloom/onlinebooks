@@ -6,7 +6,7 @@
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1925-11-11"}},
    "first-renewed-contribution-source": "1952-JulDec",
-   "renewed-contribution-completeness": "active/1945",
+   "renewed-contribution-completeness": "active/1956",
    "renewed-contributions": [
       {"issue": {"issue-date": "1925-11-11"}, 
        "title": "Children of the Dust",
@@ -143,16 +143,761 @@
      },
      {"issue": {"issue-date": "1946-12-20"},
         "title": "Methopolis",
+        "note": "Title as given in CCE renewal record.  Bloomfield and Mendelson's bibliography of Auden gives title as 'Metropolis'. I have not examined the issue in question. This is an extract from the book 'The Age of Anxiety', which was published in 1947 and had its copyright renewed in 1974.",
         "author": {
          "authorized": "Auden, W. H. (Wystan Hugh), 1907-1973",
          "lcna": "n79054316"
         }
+     },
+     {"issue": {"issue-date": "1948-11-19"},
+      "title": "Poetry and the Public",
+      "author": {
+       "authorized": "Eliot, T. S. (Thomas Stearns), 1888-1965",
+       "lcna": "n79006870"
+      }
+     },
+     {"issue": {"issue-date": "1949-09-30"},
+      "title": "On the Christian Message",
+      "author": {
+       "authorized": "Mauriac, François, 1885-1970",
+       "lcna": "n50007234"
+      }
+     },
+     {"issue": {"issue-date": "1950-02-03"},
+      "title": "Christian and the World",
+      "author": {
+       "authorized": "Mauriac, François, 1885-1970",
+       "lcna": "n50007234"
+      }
+     },
+     {"issue": {"issue-date": "1950-03-17"}, 
+      "title": "Lent in Focus",
+      "author": {
+       "authorized": "Reinhold, H. A. (Hans Ansgar), 1897-1968",
+       "lcna": "no96056288"
+      }
+     },
+     {"issue": {"issue-date": "1950-03-31"},
+      "title": "Self Denial and the Christians",
+      "author": {
+       "authorized": "Merton, Thomas, 1915-1968",
+       "lcna": "n80005353"
+      }
+     },
+     {"issue": {"issue-date": "1952-04-18"},
+      "title": "Poems",
+      "note": "Renewal record is for poems published in this issue and in the December 26, 1952 issue. The record does not give titles for the poems.",
+      "author": {
+       "authorized": "Merton, Thomas, 1915-1968",
+       "lcna": "n80005353"
+      }
+     },
+     {"issue": {"issue-date": "1952-12-26"},
+      "title": "Poems",
+      "note": "Renewal record is for poems published in this issue and in the April 18, 1952 issue. The record does not give titles for the poems.",
+      "author": {
+       "authorized": "Merton, Thomas, 1915-1968",
+       "lcna": "n80005353"
+      }
+     },
+     {"issue": {"issue-date": "1953-12-11"},
+      "title": "Sensibility, Psychology and a Passion for Analysis",
+      "author": {
+       "authorized": "Weales, Gerald Clifford, 1925-",
+       "lcna": "n50023757"
+      }
+     },
+     {"issue": {"issue-date": "1954-01-22"},
+      "title": "Furtive Marks on Paper",
+      "author": {
+       "authorized": "Weales, Gerald Clifford, 1925-",
+       "lcna": "n50023757"
+      }
+     },
+     {"issue": {"issue-date": "1954-04-02"},
+      "title": "Down South",
+      "author": {
+       "authorized": "Weales, Gerald Clifford, 1925-",
+       "lcna": "n50023757"
+      }
+     },
+     {"issue": {"issue-date": "1954-10-22"},
+        "title": "Such Comradeship as Shames the Day",
+        "author": {
+         "authorized": "West, Jessamyn",
+         "lcna": "n79077176"
+        }
+     },
+     {"issue": {"issue-date": "1954-12-03"},
+      "title": "Morning in Wales",
+      "author": {
+       "authorized": "Thomas, Dylan, 1914-1953",
+       "lcna": "n79021315"
+      }
+     },
+     {"issue": {"issue-date": "1955-03-04"}, 
+      "title": "The Spirit of Lent",
+      "author": {
+       "authorized": "Reinhold, H. A. (Hans Ansgar), 1897-1968",
+       "lcna": "no96056288"
+      }
+     },
+     {"issue": {"issue-date": "1955-03-25"},
+      "title": "Reality, Art and Prayer",
+      "author": {
+       "authorized": "Merton, Thomas, 1915-1968",
+       "lcna": "n80005353"
+      }
+     },
+     {"issue": {"issue-date": "1955-05-27"},
+      "title": "Mister Maugham on the Novel",
+      "author": {
+       "authorized": "Weales, Gerald Clifford, 1925-",
+       "lcna": "n50023757"
+      }
+     },
+     {"issue": {"issue-date": "1955-08-26"},
+      "title": "Life on Madison Avenue",
+      "author": {
+       "authorized": "Weales, Gerald Clifford, 1925-",
+       "lcna": "n50023757"
+      }
+     },
+     {"issue": {"issue-date": "1955-10-21"},
+      "title": "Varieties of Innocence",
+      "author": {
+       "authorized": "Weales, Gerald Clifford, 1925-",
+       "lcna": "n50023757"
+      }
+     },
+     {"issue": {"issue-date": "1955-12-23"}, 
+      "title": "Christmas: Anno Domini 1955",
+      "author": {
+       "authorized": "Reinhold, H. A. (Hans Ansgar), 1897-1968",
+       "lcna": "no96056288"
+      }
+     },
+     {"issue": {"issue-date": "1955-12-23"}, 
+      "title": "Poems (unnamed); A Prelude for the Feast of Saint Agnes",
+      "author": {
+       "authorized": "Merton, Thomas, 1915-1968",
+       "lcna": "n80005353"
+      }
+     },
+     {"issue": {"issue-date": "1955-12-30"},
+      "title": "See Venice and Die",
+      "author": {
+       "authorized": "Weales, Gerald Clifford, 1925-",
+       "lcna": "n50023757"
+      }
+     },
+     {"issue": {"issue-date": "1956-02-10"}, 
+      "title": "Zeal",
+      "author": {
+       "authorized": "Powers, J. F. (James Farl), 1917-1999",
+       "lcna": "n79063855"
+      }
+     },
+     {"issue": {"issue-date": "1956-04-20"},
+      "title": "A Perceptive Report on Varied Cultures",
+      "author": {
+       "authorized": "Weales, Gerald Clifford, 1925-",
+       "lcna": "n50023757"
+      }
+     },
+     {"issue": {"issue-date": "1956-06-08"},
+      "title": "A Victorian Court of Love",
+      "author": {
+       "authorized": "Weales, Gerald Clifford, 1925-",
+       "lcna": "n50023757"
+      }
+     },
+     {"issue": {"issue-date": "1956-06-29"},
+      "title": "Not Foreigners, Yet Foreign",
+      "author": {
+       "authorized": "Illich, Ivan, 1926-2002",
+       "lcna": "n80032720"
+      }
+     },
+     {"issue": {"issue-date": "1956-07-20"},
+      "title": "Learned, Crochety Account of English Poetry",
+      "note": "'Crochety' spelled as in renewal record.",
+      "author": {
+       "authorized": "Weales, Gerald Clifford, 1925-",
+       "lcna": "n50023757"
+      }
+     },
+     {"issue": {"issue-date": "1956-08-03"},
+      "title": "Religious Approaches: Catholic and Protestant",
+      "author": {
+       "authorized": "Graham, Aelred, 1907-1984",
+       "lcna": "n50034647"
+      }
+     },
+     {"issue": {"issue-date": "1956-10-05"},
+      "title": "Next Week 'Anne Leete'",
+      "author": {
+       "authorized": "Weales, Gerald Clifford, 1925-",
+       "lcna": "n50023757"
+      }
+     },
+     {"issue": {"issue-date": "1956-12-28"}, 
+      "title": "The Treasure of Christmas",
+      "author": {
+       "authorized": "Reinhold, H. A. (Hans Ansgar), 1897-1968",
+       "lcna": "no96056288"
+      }
+     },
+     {"issue": {"issue-date": "1957-01-18"},
+      "title": "The World in Thurber's Fables",
+      "author": {
+       "authorized": "Weales, Gerald Clifford, 1925-",
+       "lcna": "n50023757"
+      }
+     },
+     {"issue": {"issue-date": "1957-03-15"},
+        "title": "Two Homilies for Mark Van Doren",
+        "author": {
+         "authorized": "O'Gorman, Ned, 1929-2014",
+         "lcna": "n50034060"
+        }
+     },
+     {"issue": {"issue-date": "1957-04-26"},
+        "title": "A Modest Mound of Bones",
+        "author": {
+         "authorized": "Updike, John",
+         "lcna": "n79018616"
+        }
+     },
+     {"issue": {"issue-date": "1957-05-24"},
+        "title": "On Turning the Page of a Jeweled Book",
+        "author": {
+         "authorized": "O'Gorman, Ned, 1929-2014",
+         "lcna": "n50034060"
+        }
+     },
+     {"issue": {"issue-date": "1957-06-07"},
+        "title": "Ode III.ii: Horace",
+        "author": {
+         "authorized": "Updike, John",
+         "lcna": "n79018616"
+        }
+     },
+     {"issue": {"issue-date": "1957-07-12"},
+      "title": "Plays and Analysis",
+      "author": {
+       "authorized": "Weales, Gerald Clifford, 1925-",
+       "lcna": "n50023757"
+      }
+     },
+     {"issue": {"issue-date": "1957-08-09"},
+      "title": "Material for Satiric Comment",
+      "author": {
+       "authorized": "Weales, Gerald Clifford, 1925-",
+       "lcna": "n50023757"
+      }
+     },
+     {"issue": {"issue-date": "1957-09-20"},
+        "title": "Colman the Hermit",
+        "author": {
+         "authorized": "McGinley, Phyllis, 1905-1978",
+         "lcna": "n50007804"
+        }
+     },
+     {"issue": {"issue-date": "1957-10-11"},
+      "title": "Behind the Mask",
+      "author": {
+       "authorized": "Weales, Gerald Clifford, 1925-",
+       "lcna": "n50023757"
+      }
+     },
+     {"issue": {"issue-date": "1957-10-25"},
+        "title": "Columba the Abbott",
+        "author": {
+         "authorized": "McGinley, Phyllis, 1905-1978",
+         "lcna": "n50007804"
+        }
+     },
+     {"issue": {"issue-date": "1957-12-20"},
+      "title": "The Ingredients",
+      "author": {
+       "authorized": "Weales, Gerald Clifford, 1925-",
+       "lcna": "n50023757"
+      }
+     },
+     {"issue": {"issue-date": "1958-02-07"},
+      "title": "Unfashionable Optimist",
+      "author": {
+       "authorized": "Weales, Gerald Clifford, 1925-",
+       "lcna": "n50023757"
+      }
+     },
+     {"issue": {"issue-date": "1958-06-27"},
+        "title": "Caligula's Dream",
+        "author": {
+         "authorized": "Updike, John",
+         "lcna": "n79018616"
+        }
+     },
+     {"issue": {"issue-date": "1958-06-27"},
+      "title": "Politics of the Academy",
+      "author": {
+       "authorized": "Weales, Gerald Clifford, 1925-",
+       "lcna": "n50023757"
+      }
+     },
+     {"issue": {"issue-date": "1958-09-26"},
+      "title": "America Recit",
+      "author": {
+       "authorized": "Weales, Gerald Clifford, 1925-",
+       "lcna": "n50023757"
+      }
+     },
+     {"issue": {"issue-date": "1958-10-03"},
+      "title": "The Young O'Neill",
+      "author": {
+       "authorized": "Weales, Gerald Clifford, 1925-",
+       "lcna": "n50023757"
+      }
+     },
+     {"issue": {"issue-date": "1958-10-24"},
+      "title": "Poetry and Contemplation",
+      "author": {
+       "authorized": "Merton, Thomas, 1915-1968",
+       "lcna": "n80005353"
+      }
+     },
+     {"issue": {"issue-date": "1958-10-24"},
+      "title": "Poetry and Contemplation: Essay",
+      "note": "This is a separate renewal from the one for 'Poetry and Contemplation' above.",
+      "author": {
+       "authorized": "Merton, Thomas, 1915-1968",
+       "lcna": "n80005353"
+      }
+     },
+     {"issue": {"issue-date": "1958-11-28"},
+      "title": "A Charmed Life",
+      "author": {
+       "authorized": "Weales, Gerald Clifford, 1925-",
+       "lcna": "n50023757"
+      }
+     },
+     {"issue": {"issue-date": "1959-05-15"},
+      "title": "Variation on an O'Neill Theme",
+      "author": {
+       "authorized": "Weales, Gerald Clifford, 1925-",
+       "lcna": "n50023757"
+      }
+     },
+     {"issue": {"issue-date": "1959-07-17"},
+      "title": "The Ross Mystery, Who was Harold, What was He?",
+      "author": {
+       "authorized": "Weales, Gerald Clifford, 1925-",
+       "lcna": "n50023757"
+      }
+     },
+     {"issue": {"issue-date": "1959-09-25"},
+      "title": "Box Office and the Muse",
+      "author": {
+       "authorized": "Weales, Gerald Clifford, 1925-",
+       "lcna": "n50023757"
+      }
+     },
+     {"issue": {"issue-date": "1959-10-16"},
+        "title": "Reading Dante With Ionians",
+        "author": {
+         "authorized": "O'Gorman, Ned, 1929-2014",
+         "lcna": "n50034060"
+        }
+     },
+     {"issue": {"issue-date": "1960-04-29"},
+      "title": "The Film Writer",
+      "author": {
+       "authorized": "Weales, Gerald Clifford, 1925-",
+       "lcna": "n50023757"
+      }
+     },
+     {"issue": {"issue-date": "1960-10-14"},
+      "title": "Poor Dad",
+      "author": {
+       "authorized": "Weales, Gerald Clifford, 1925-",
+       "lcna": "n50023757"
+      }
+     },
+     {"issue": {"issue-date": "1961-03-31"},
+      "title": "Shaw on Music",
+      "author": {
+       "authorized": "Weales, Gerald Clifford, 1925-",
+       "lcna": "n50023757"
+      }
+     },
+     {"issue": {"issue-date": "1961-05-12"},
+      "title": "The Ox Mountain Parable of Meng Tzo",
+      "author": {
+       "authorized": "Merton, Thomas, 1915-1968",
+       "lcna": "n80005353"
+      }
+     },
+     {"issue": {"issue-date": "1961-06-02"},
+        "title": "Maples in a Spruce Forest",
+        "author": {
+         "authorized": "Updike, John",
+         "lcna": "n79018616"
+        }
+     },
+     {"issue": {"issue-date": "1961-06-02"},
+      "title": "Reader to Rider",
+      "author": {
+       "authorized": "Weales, Gerald Clifford, 1925-",
+       "lcna": "n50023757"
+      }
+     },
+     {"issue": {"issue-date": "1961-08-25"},
+        "title": "The Search for Ibsen",
+        "author": {
+         "authorized": "Gilman, Richard, 1923-2006",
+         "lcna": "n79007749"
+        }
+     },
+     {"issue": {"issue-date": "1961-09-22"},
+      "title": "England's Finest Hours on the Television Screen",
+      "author": {
+       "authorized": "Weales, Gerald Clifford, 1925-",
+       "lcna": "n50023757"
+      }
+     },
+     {"issue": {"issue-date": "1961-09-22"},
+      "title": "An Elegy for Ernest Hemingway",
+      "author": {
+       "authorized": "Merton, Thomas, 1915-1968",
+       "lcna": "n80005353"
+      }
+     },
+     {"issue": {"issue-date": "1961-10-13"},
+        "title": "Beckett's Happy Days",
+        "author": {
+         "authorized": "Gilman, Richard, 1923-2006",
+         "lcna": "n79007749"
+        }
+     },
+     {"issue": {"issue-date": "1961-10-20"},
+        "title": "Win, Place & Show",
+        "author": {
+         "authorized": "Gilman, Richard, 1923-2006",
+         "lcna": "n79007749"
+        }
+     },
+     {"issue": {"issue-date": "1961-10-27"},
+        "title": "Straightforward Mystification",
+        "author": {
+         "authorized": "Gilman, Richard, 1923-2006",
+         "lcna": "n79007749"
+        }
+     },
+     {"issue": {"issue-date": "1961-11-24"},
+        "title": "Mixture Almost as Before",
+        "author": {
+         "authorized": "Gilman, Richard, 1923-2006",
+         "lcna": "n79007749"
+        }
+     },
+     {"issue": {"issue-date": "1961-12-01"},
+        "title": "Paddy's Big Daddy",
+        "author": {
+         "authorized": "Gilman, Richard, 1923-2006",
+         "lcna": "n79007749"
+        }
+     },
+     {"issue": {"issue-date": "1961-12-22"},
+        "title": "Reflections at Midterm",
+        "author": {
+         "authorized": "Gilman, Richard, 1923-2006",
+         "lcna": "n79007749"
+        }
+     },
+     {"issue": {"issue-date": "1961-12-29"},
+        "title": "Bad Connection",
+        "author": {
+         "authorized": "Gilman, Richard, 1923-2006",
+         "lcna": "n79007749"
+        }
+     },
+     {"issue": {"issue-date": "1962-01-12"},
+        "title": "A Note on Ennoblement",
+        "author": {
+         "authorized": "Gilman, Richard, 1923-2006",
+         "lcna": "n79007749"
+        }
+     },
+     {"issue": {"issue-date": "1962-01-26"},
+        "title": "Williams as Phoenix",
+        "author": {
+         "authorized": "Gilman, Richard, 1923-2006",
+         "lcna": "n79007749"
+        }
+     },
+     {"issue": {"issue-date": "1962-02-09"},
+      "title": "Nuclear War and Christian Responsibility",
+      "author": {
+       "authorized": "Merton, Thomas, 1915-1968",
+       "lcna": "n80005353"
+      }
+     },
+     {"issue": {"issue-date": "1962-02-16"},
+        "title": "The Trouble with Strindberg",
+        "author": {
+         "authorized": "Gilman, Richard, 1923-2006",
+         "lcna": "n79007749"
+        }
+     },
+     {"issue": {"issue-date": "1962-02-16"},
+      "title": "The Many-Roomed Mind of Jean-Louis Barrault",
+      "author": {
+       "authorized": "Weales, Gerald Clifford, 1925-",
+       "lcna": "n50023757"
+      }
+     },
+     {"issue": {"issue-date": "1962-03-02"},
+        "title": "Sow's Ears of Silk Purses",
+        "author": {
+         "authorized": "Gilman, Richard, 1923-2006",
+         "lcna": "n79007749"
+        }
+     },
+     {"issue": {"issue-date": "1962-03-23"},
+        "title": "The Special Quality of Joan",
+        "author": {
+         "authorized": "Gilman, Richard, 1923-2006",
+         "lcna": "n79007749"
+        }
+     },
+     {"issue": {"issue-date": "1962-03-30"},
+        "title": "A Dirty, Well-Lighted Place",
+        "author": {
+         "authorized": "Gilman, Richard, 1923-2006",
+         "lcna": "n79007749"
+        }
+     },
+     {"issue": {"issue-date": "1962-04-06"},
+        "title": "The Absurd and the Foolish",
+        "author": {
+         "authorized": "Gilman, Richard, 1923-2006",
+         "lcna": "n79007749"
+        }
+     },
+     {"issue": {"issue-date": "1962-05-11"},
+        "title": "The Drawing Room and Beyond",
+        "author": {
+         "authorized": "Gilman, Richard, 1923-2006",
+         "lcna": "n79007749"
+        }
+     },
+     {"issue": {"issue-date": "1962-06-08"},
+        "title": "Die? I Thought I'd Laugh!",
+        "author": {
+         "authorized": "Gilman, Richard, 1923-2006",
+         "lcna": "n79007749"
+        }
+     },
+     {"issue": {"issue-date": "1962-06-29"},
+        "title": "End of Season, a Love Letter",
+        "author": {
+         "authorized": "Gilman, Richard, 1923-2006",
+         "lcna": "n79007749"
+        }
+     },
+     {"issue": {"issue-date": "1962-08-10"},
+        "title": "The Graveyard: Rabat",
+        "author": {
+         "authorized": "O'Gorman, Ned, 1929-2014",
+         "lcna": "n50034060"
+        }
+     },
+     {"issue": {"issue-date": "1962-10-12"},
+        "title": "Two Ways of Looking at Brecht",
+        "author": {
+         "authorized": "Gilman, Richard, 1923-2006",
+         "lcna": "n79007749"
+        }
+     },
+     {"issue": {"issue-date": "1962-10-26"},
+        "title": "When Words Fail",
+        "author": {
+         "authorized": "Gilman, Richard, 1923-2006",
+         "lcna": "n79007749"
+        }
+     },
+     {"issue": {"issue-date": "1962-11-09"},
+        "title": "Bush",
+        "author": {
+         "authorized": "Gilman, Richard, 1923-2006",
+         "lcna": "n79007749"
+        }
+     },
+     {"issue": {"issue-date": "1962-11-16"},
+        "title": "When the Real Things Comes Along",
+        "note": "Title spelled as in CCE record.",
+        "author": {
+         "authorized": "Gilman, Richard, 1923-2006",
+         "lcna": "n79007749"
+        }
+     },
+     {"issue": {"issue-date": "1962-11-30"},
+        "title": "Flirt",
+        "author": {
+         "authorized": "Updike, John",
+         "lcna": "n79018616"
+        }
+     },
+     {"issue": {"issue-date": "1962-12-28"},
+        "title": "Pinter's Hits--and Misses",
+        "author": {
+         "authorized": "Gilman, Richard, 1923-2006",
+         "lcna": "n79007749"
+        }
+     },
+     {"issue": {"issue-date": "1963-01-18"},
+        "title": "Bert Lahr, the Cavalry Arrives",
+        "author": {
+         "authorized": "Gilman, Richard, 1923-2006",
+         "lcna": "n79007749"
+        }
+     },
+     {"issue": {"issue-date": "1963-02-08"},
+        "title": "Mistuh Williams, He Dead",
+        "author": {
+         "authorized": "Gilman, Richard, 1923-2006",
+         "lcna": "n79007749"
+        }
+     },
+     {"issue": {"issue-date": "1963-02-08"},
+        "title": "The Lesson of Skybolt",
+        "author": {
+         "authorized": "Steel, Ronald",
+         "lcna": "n80019502"
+        }
+     },
+     {"issue": {"issue-date": "1963-02-22"},
+        "title": "How to Succeed in Business Without Thinking About Money",
+        "author": {
+         "authorized": "Percy, Walker, 1916-1990",
+         "lcna": "n80030460"
+        }
+     },
+     {"issue": {"issue-date": "1963-03-29"},
+        "title": "Novelists in the Theater",
+        "author": {
+         "authorized": "Gilman, Richard, 1923-2006",
+         "lcna": "n79007749"
+        }
+     },
+     {"issue": {"issue-date": "1963-04-05"},
+      "title": "Shaw and Lawrence",
+      "author": {
+       "authorized": "Weales, Gerald Clifford, 1925-",
+       "lcna": "n50023757"
+      }
+     },
+     {"issue": {"issue-date": "1963-04-12"},
+        "title": "Between Anger and Despair",
+        "author": {
+         "authorized": "Gilman, Richard, 1923-2006",
+         "lcna": "n79007749"
+        }
+     },
+     {"issue": {"issue-date": "1963-04-19"},
+        "title": "Pirandello to Perfection",
+        "author": {
+         "authorized": "Gilman, Richard, 1923-2006",
+         "lcna": "n79007749"
+        }
+     },
+     {"issue": {"issue-date": "1963-04-26"},
+        "title": "Orchids for Miss Hightower",
+        "author": {
+         "authorized": "Sheed, Wilfrid",
+         "lcna": "n79121345"
+        }
+     },
+     {"issue": {"issue-date": "1963-04-26"},
+        "title": "A Timid Mother Courage",
+        "author": {
+         "authorized": "Gilman, Richard, 1923-2006",
+         "lcna": "n79007749"
+        }
+     },
+     {"issue": {"issue-date": "1963-04-26"},
+        "title": "The Disintegrating Alliance",
+        "author": {
+         "authorized": "Steel, Ronald",
+         "lcna": "n80019502"
+        }
+     },
+     {"issue": {"issue-date": "1963-05-24"},
+        "title": "The Artist as Blimp",
+        "author": {
+         "authorized": "Sheed, Wilfrid",
+         "lcna": "n79121345"
+        }
+     },
+     {"issue": {"issue-date": "1963-05-31"},
+        "title": "View from the East",
+        "author": {
+         "authorized": "Gilman, Richard, 1923-2006",
+         "lcna": "n79007749"
+        }
+     },
+     {"issue": {"issue-date": "1963-06-07"},
+        "title": "The Risks of Action",
+        "author": {
+         "authorized": "Gilman, Richard, 1923-2006",
+         "lcna": "n79007749"
+        }
+     },
+     {"issue": {"issue-date": "1963-06-14"},
+        "title": "Erotic Epigrams",
+        "author": {
+         "authorized": "Updike, John",
+         "lcna": "n79018616"
+        }
+     },
+     {"issue": {"issue-date": "1963-10-11"},
+        "title": "Earliest Ionesco",
+        "author": {
+         "authorized": "Gilman, Richard, 1923-2006",
+         "lcna": "n79007749"
+        }
+     },
+     {"issue": {"issue-date": "1963-11-01"},
+      "title": "A Baroque Gravure",
+      "note": "Renewal record places this in 'Commonweal 79'. I presume that  merely reflects the volume number for this issue.", 
+      "author": {
+       "authorized": "Merton, Thomas, 1915-1968",
+       "lcna": "n80005353"
+      }
+     },
+     {"issue": {"issue-date": "1963-11-15"},
+        "title": "A Hit and a Success",
+        "author": {
+         "authorized": "Gilman, Richard, 1923-2006",
+         "lcna": "n79007749"
+        }
+     },
+     {"issue": {"issue-date": "1963-12-06"},
+        "title": "Weep No More for Brecht",
+        "author": {
+         "authorized": "Gilman, Richard, 1923-2006",
+         "lcna": "n79007749"
+        }
      }
    ],
-   "comment": "Resume from Auden's Age of Anxiety",
+   "additional-notes": ["A 1985 renewal record for the 1957 book 'Frontiers in American Catholicism' by Walter J. Ong mentions that some of its essays had previously been published in Commonweal and in Thought.  The essays are not identified, but this renewal might cover essays of his published in this magazine in 1957 that are not mentioned above.",
+   "A 1985 renewal record for the 1957 book 'Strange Islands' by Thomas Merton mentions that some of its poems had previously been published in Commonweal and other magazines.  The poems are not identified, but this renewal might cover poems of his published in this magazine in 1957 that are not mentioned above.",
+   "With the possible exceptions given in these notes, all renewals for contributions published before 1964 (when automatic renewals began) are represented in the listing above.  Some additional renewals were also filed for contributions published in 1964 or later."
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-09-01"
+   "last-updated": "2019-11-12"
 }
