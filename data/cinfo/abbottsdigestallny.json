@@ -8,15 +8,19 @@
    "last-issue": {"issue-date": "1929"},
    "renewed-issue-completeness": "active/1924",
    "renewed-issues": [
-       {"issue-date": "1923-12", "cdate": "1924-03-11"},
-       {"issue-date": "1924-04"},
-       {"issue-date": "1924-07"},
-       {"issue-date": "1924-10"},
-       {"issue-date": "1924-12"}
+       {"issue-date": "1923-12", "cdate": "1924-03-11", "number": "44"},
+       {"issue-date": "1924-04", "cdate": "1924-07-11", "number": "45"},
+       {"issue-date": "1924-07", "cdate": "1924-08-22", "number": "46"},
+       {"issue-date": "1924-10", "cdate": "1924-11-24", "number": "47"},
+       {"issue-date": "1924-12", "cdate": "1925-02-28", "number": "48"},
+       {"issue-date": "1925-04", "cdate": "1925-05-28", "number": "49"},
+       {"issue-date": "1925-07", "cdate": "1925-08-31", "number": "50"},
+       {"issue-date": "1925-10", "cdate": "1925-12-22", "number": "51"},
+       {"issue-date": "1925-12", "cdate": "1926-03-09", "number": "52"}
    ], 
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-02-26"
+   "last-updated": "2019-12-16"
 }

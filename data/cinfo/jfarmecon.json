@@ -13,10 +13,12 @@
    "first-renewed-contribution-source": "cce+database",
    "last-issue": 
      {"issue-date": "1967-12", "volume": "49", "number": "5"},
+   "succeeded-by":
+      [{"id": "ajae", "note": "American Journal of Agricultural Economics"}],
    "additional-note": "We are not sure whether copyright notices appeared in this journal.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-09-06"
+   "last-updated": "2019-12-03"
 }

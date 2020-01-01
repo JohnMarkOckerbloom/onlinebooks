@@ -1,5 +1,6 @@
 {
    "title": "The American Mercury",
+   "aka": ["New American Mercury"],
    "first-issue": {"issue-date": "1924-01", "volume": "1", "number": "1"},
    "first-renewed-issue": 
            {"issue-date": "1924-05", "volume": "2", "number": "5"},
@@ -16,9 +17,21 @@
        {"issue-date": "1924-11", "volume": "3", "number": "11"},
        {"issue-date": "1924-12", "volume": "3", "number": "12"},
        {"issue-date": "1925-01", "volume": "4", "number": "13",
-          "cdate": "1924-12-25"}
+          "cdate": "1924-12-25"},
+       {"issue-date": "1925-02", "volume": "4", "number": "14",
+          "cdate": "1925-01-25"},
+       {"issue-date": "1925-03", "volume": "4", "number": "15"},
+       {"issue-date": "1925-04", "volume": "4", "number": "16"},
+       {"issue-date": "1925-05", "volume": "4", "number": "17"},
+       {"issue-date": "1925-06", "volume": "4", "number": "18"},
+       {"issue-date": "1925-07", "volume": "4", "number": "19"},
+       {"issue-date": "1925-08", "volume": "4", "number": "20"},
+       {"issue-date": "1925-09", "volume": "4", "number": "21"},
+       {"issue-date": "1925-10", "volume": "4", "number": "22"},
+       {"issue-date": "1925-11", "volume": "4", "number": "23"},
+       {"issue-date": "1925-12", "volume": "4", "number": "24"}
    ],
-   "renewed-contribution-completeness": "active/1924",
+   "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
      {"issue": {"issue-date": "1924-02", "volume": "1", "number": "2"},
       "title": "Caught",
@@ -82,11 +95,1466 @@
          "authorized": "MacGrath, Harold, 1871-1932",
          "lcna": "n82053296"
       }
+     },
+     {"issue": {"issue-date": "1926-07"},
+      "title": "Whitman in Camden",
+      "author": {
+       "authorized": "Yorke, Dane, 1889-",
+       "lcna": "no2001008155"
+      }
+     },
+     {"issue": {"issue-date": "1926-09"},
+      "title": "Death in the Woods",
+      "author": {
+       "authorized": "Anderson, Sherwood, 1876-1941",
+       "lcna": "n79045519"
+      }
+     },
+     {"issue": {"issue-date": "1926-09"},
+      "title": "Nathalia From Brooklyn",
+      "author": {
+       "authorized": "Johnson, Nunnally",
+       "lcna": "n79134929"
+      }
+     },
+     {"issue": {"issue-date": "1926-11"},
+      "title": "The Untarnished Shield",
+      "author": {
+         "authorized": "McFee, William, 1881-1966",
+         "lcna": "n82053296"
+      }
+     },
+     {"issue": {"issue-date": "1926-11"},
+      "title": "Of the Dead of a Forsaken Country",
+      "author": {
+         "authorized": "Davis, H. L. (Harold Lenoir), 1896-1960",
+         "lcna": "n50036181"
+      }
+     },
+     {"issue": {"issue-date": "1926-12"},
+        "title": "Five Portraits on Galvanized Iron",
+        "author": {
+         "authorized": "De Casseres, Benjamin, 1873-1945",
+         "lcna": "n82206440"
+        }
+     },
+     {"issue": {"issue-date": "1927-03"},
+        "title": "Santa Fé Sketches",
+        "author": {
+         "authorized": "Sandburg, Carl, 1878-1967",
+         "lcna": "n79011105"
+        }
+     },
+     {"issue": {"issue-date": "1927-04"},
+        "title": "Hemp",
+        "author": {
+         "authorized": "Cain, James M. (James Mallahan), 1892-1977",
+         "lcna": "n80025844"
+        }
+     },
+     {"issue": {"issue-date": "1927-05"},
+      "title": "Five Poems",
+      "author": {
+       "authorized": "Anderson, Sherwood, 1876-1941",
+       "lcna": "n79045519"
+      }
+     },
+     {"issue": {"issue-date": "1927-05"},
+      "title": "The Citadel of Thrift",
+      "author": {
+       "authorized": "Yorke, Dane, 1889-",
+       "lcna": "no2001008155"
+      }
+     },
+     {"issue": {"issue-date": "1927-09"},
+      "title": "We Rob a Bank",
+      "author": {
+       "name": "Ernest Booth"
+      }
+     },
+     {"issue": {"issue-date": "1927-10"},
+      "title": "Bull Horrors",
+      "author": {
+         "authorized": "Tully, Jim",
+         "lcna": "n81119676"
+      }
+     },
+     {"issue": {"issue-date": "1927-10"},
+        "title": "Red, White and Blue",
+        "author": {
+         "authorized": "Cain, James M. (James Mallahan), 1892-1977",
+         "lcna": "n80025844"
+        }
+     },
+     {"issue": {"issue-date": "1927-11"},
+      "title": "A Texas Chain-Gang",
+      "author": {
+       "name": "Ernest Booth"
+      }
+     },
+     {"issue": {"issue-date": "1927-12"},
+      "title": "A Jury Case",
+      "author": {
+       "authorized": "Anderson, Sherwood, 1876-1941",
+       "lcna": "n79045519"
+      }
+     },
+     {"issue": {"issue-date": "1927-12"},
+      "title": "Ladies of the Mob",
+      "author": {
+       "name": "Ernest Booth"
+      }
+     },
+     {"issue": {"issue-date": "1928-01"},
+        "title": "Trial by Jury",
+        "author": {
+         "authorized": "Cain, James M. (James Mallahan), 1892-1977",
+         "lcna": "n80025844"
+        }
+     },
+     {"issue": {"issue-date": "1928-01"},
+      "title": "The Man Who Knew Coolidge",
+      "author": {
+         "authorized": "Lewis, Sinclair, 1885-1951",
+         "lcna": "n79023149"
+       }
+     },
+     {"issue": {"issue-date": "1928-01"},
+      "title": "A California Holiday",
+      "author": {
+         "authorized": "Tully, Jim",
+         "lcna": "n81119676"
+      }
+     },
+     {"issue": {"issue-date": "1928-03"},
+        "title": "Pastorale",
+        "author": {
+         "authorized": "Cain, James M. (James Mallahan), 1892-1977",
+         "lcna": "n80025844"
+        }
+     },
+     {"issue": {"issue-date": "1928-03"},
+        "title": "All Years Are Odd as 1849",
+        "author": {
+         "authorized": "Ferril, Thomas Hornsby, 1896-1988",
+         "lcna": "n50001135"
+        }
+     },
+     {"issue": {"issue-date": "1928-04"},
+        "title": "Up From Culture",
+        "author": {
+         "authorized": "Dobie, Charles Caldwell, 1881-1943",
+         "lcna": "n82054706"
+        }
+     },
+     {"issue": {"issue-date": "1928-04"},
+      "title": "Jungle Justice",
+      "author": {
+         "authorized": "Tully, Jim",
+         "lcna": "n81119676"
+      }
+     },
+     {"issue": {"issue-date": "1928-05"},
+      "title": "Thieves and Vagabonds",
+      "author": {
+         "authorized": "Tully, Jim",
+         "lcna": "n81119676"
+      }
+     },
+     {"issue": {"issue-date": "1928-06"},
+      "title": "The Giver of Life",
+      "author": {
+         "authorized": "Tully, Jim",
+         "lcna": "n81119676"
+      }
+     },
+     {"issue": {"issue-date": "1928-08"},
+        "title": "The Problem of Motive",
+        "author": {
+         "authorized": "Parshley, H. M. (Howard Madison), 1884-1953",
+         "lcna": "n80005263"
+        }
+     },
+     {"issue": {"issue-date": "1928-09"},
+      "title": "Jailbirds",
+      "author": {
+         "authorized": "Tully, Jim",
+         "lcna": "n81119676"
+      }
+     },
+     {"issue": {"issue-date": "1928-11"},
+        "title": "Fort Laramie",
+        "author": {
+         "authorized": "Ferril, Thomas Hornsby, 1896-1988",
+         "lcna": "n50001135"
+        }
+     },
+     {"issue": {"issue-date": "1928-12"},
+        "title": "Simple Annals",
+        "author": {
+         "authorized": "Brody, Catharine",
+         "lcna": "no94017211"
+        }
+     },
+     {"issue": {"issue-date": "1929-01"},
+      "title": "Crop Campers",
+      "author": {
+         "authorized": "Davis, H. L. (Harold Lenoir), 1896-1960",
+         "lcna": "n50036181"
+      }
+     },
+     {"issue": {"issue-date": "1929-02"},
+      "title": "Old Man Isbell's Wife",
+      "author": {
+         "authorized": "Davis, H. L. (Harold Lenoir), 1896-1960",
+         "lcna": "n50036181"
+      }
+     },
+     {"issue": {"issue-date": "1929-03"},
+      "title": "Back to the Land, Oregon, 1907",
+      "author": {
+         "authorized": "Davis, H. L. (Harold Lenoir), 1896-1960",
+         "lcna": "n50036181"
+      }
+     },
+     {"issue": {"issue-date": "1929-04"},
+        "title": "Nocturne at Noon-1605",
+        "author": {
+         "authorized": "Ferril, Thomas Hornsby, 1896-1988",
+         "lcna": "n50001135"
+        }
+     },
+     {"issue": {"issue-date": "1929-04"},
+      "title": "Sapping Day",
+      "author": {
+         "authorized": "Tully, Jim",
+         "lcna": "n81119676"
+      }
+     },
+     {"issue": {"issue-date": "1929-07"},
+      "title": "The Graveyard That Moved",
+      "author": {
+         "authorized": "Tully, Jim",
+         "lcna": "n81119676"
+      }
+     },
+     {"issue": {"issue-date": "1929-09"},
+        "title": "The Rich Man in American History",
+        "author": {
+         "authorized": "Nickerson, Hoffman",
+         "lcna": "n94039709"
+        }
+     },
+     {"issue": {"issue-date": "1929-11"},
+        "title": "An American Leisure Class",
+        "author": {
+         "authorized": "Nickerson, Hoffman",
+         "lcna": "n94039709"
+        }
+     },
+     {"issue": {"issue-date": "1930-01"},
+      "title": "A Town in Eastern Oregon",
+      "author": {
+         "authorized": "Davis, H. L. (Harold Lenoir), 1896-1960",
+         "lcna": "n50036181"
+      }
+     },
+     {"issue": {"issue-date": "1930-02"},
+        "title": "The Twilight Legislatures",
+        "author": {
+         "authorized": "Nickerson, Hoffman",
+         "lcna": "n94039709"
+        }
+     },
+     {"issue": {"issue-date": "1930-05"},
+        "title": "Frank Leslie",
+        "note": "Author is Fulton Oursler writing under a pseudonym.",
+        "author": {
+         "authorized": "Abbot, Anthony, 1893-1952",
+         "lcna": "no96008114"
+        }
+     },
+     {"issue": {"issue-date": "1930-06"},
+        "title": "Elective Monarchy in America",
+        "author": {
+         "authorized": "Nickerson, Hoffman",
+         "lcna": "n94039709"
+        }
+     },
+     {"issue": {"issue-date": "1930-07"},
+      "title": "Honor",
+      "author": {
+         "authorized": "Faulkner, William, 1897-1962",
+         "lcna": "n79003304"
+      }
+     },
+     {"issue": {"issue-date": "1930-10"},
+      "title": "They Come Bearing Gifts",
+      "author": {
+       "authorized": "Anderson, Sherwood, 1876-1941",
+       "lcna": "n79045519"
+      }
+     },
+     {"issue": {"issue-date": "1930-12"},
+      "title": "Lodge Doctor",
+      "author": {
+         "name": "Louis Gold",
+         "using": "Lewis G. Arrowsmith"
+      }
+     },
+     {"issue": {"issue-date": "1931-01"},
+      "title": "The Young Doctor in New York",
+      "author": {
+         "name": "Louis Gold",
+         "using": "Lewis G. Arrowsmith"
+      }
+     },
+     {"issue": {"issue-date": "1931-01"},
+      "title": "Shakespeare's New England",
+      "author": {
+       "authorized": "Yorke, Dane, 1889-",
+       "lcna": "no2001008155"
+      }
+     },
+     {"issue": {"issue-date": "1931-02"},
+      "title": "Evacuation Hospital",
+      "author": {
+         "name": "Louis Gold"
+      }
+     },
+     {"issue": {"issue-date": "1931-03"},
+      "title": "That Evening Sun",
+      "author": {
+         "authorized": "Faulkner, William, 1897-1962",
+         "lcna": "n79003304"
+      }
+     },
+     {"issue": {"issue-date": "1931-03"},
+      "title": "Bug-House Camp",
+      "author": {
+         "authorized": "Holbrook, Stewart H., 1893-1964",
+         "lcna": "n79068384"
+      }
+     },
+     {"issue": {"issue-date": "1931-05"},
+      "title": "Hair",
+      "author": {
+         "authorized": "Faulkner, William, 1897-1962",
+         "lcna": "n79003304"
+      }
+     },
+     {"issue": {"issue-date": "1931-06"},
+      "title": "High Summer",
+      "title-note": "part 1 of 5",
+      "author": {
+       "authorized": "Tarkington, Booth, 1869-1946",
+       "lcna": "n79078124"
+      }
+     },
+     {"issue": {"issue-date": "1931-07"},
+      "title": "High Summer",
+      "title-note": "part 2 of 5",
+      "author": {
+       "authorized": "Tarkington, Booth, 1869-1946",
+       "lcna": "n79078124"
+      }
+     },
+     {"issue": {"issue-date": "1931-08"},
+      "title": "High Summer",
+      "title-note": "part 3 of 5",
+      "author": {
+       "authorized": "Tarkington, Booth, 1869-1946",
+       "lcna": "n79078124"
+      }
+     },
+     {"issue": {"issue-date": "1931-09"},
+      "title": "High Summer",
+      "title-note": "part 4 of 5",
+      "author": {
+       "authorized": "Tarkington, Booth, 1869-1946",
+       "lcna": "n79078124"
+      }
+     },
+     {"issue": {"issue-date": "1931-09"},
+      "title": "Laura Jean Libbey",
+      "author": {
+         "name": "Louis Gold"
+      }
+     },
+     {"issue": {"issue-date": "1931-10"},
+      "title": "Extra Gang",
+      "author": {
+         "authorized": "Davis, H. L. (Harold Lenoir), 1896-1960",
+         "lcna": "n50036181"
+      }
+     },
+     {"issue": {"issue-date": "1931-10"},
+      "title": "High Summer",
+      "title-note": "part 5 of 5",
+      "author": {
+       "authorized": "Tarkington, Booth, 1869-1946",
+       "lcna": "n79078124"
+      }
+     },
+     {"issue": {"issue-date": "1931-10"},
+        "title": "Americans in the South Seas",
+        "author": {
+         "authorized": "Frisbie, Robert Dean, 1896-1948",
+         "lcna": "n93044839"
+        }
+     },
+     {"issue": {"issue-date": "1932-02"},
+      "title": "Centaur in Brass",
+      "author": {
+         "authorized": "Faulkner, William, 1897-1962",
+         "lcna": "n79003304"
+      }
+     },
+     {"issue": {"issue-date": "1932-05"},
+        "title": "Rum-Row: Western",
+        "author": {
+         "authorized": "Frisbie, Robert Dean, 1896-1948",
+         "lcna": "n93044839"
+        }
+     },
+     {"issue": {"issue-date": "1932-07"},
+      "title": "Man Called Spade",
+      "author": {
+       "authorized": "Hammett, Dashiell, 1894-1961",
+       "lcna": "n80016943"
+      }
+     },
+     {"issue": {"issue-date": "1932-10"},
+      "title": "Crazy Sunday",
+      "author": {
+       "authorized": "Fitzgerald, F. Scott (Francis Scott), 1896-1940",
+       "lcna": "n79006871"
+      }
+     },
+     {"issue": {"issue-date": "1932-10"},
+      "title": "Too Many Have Lived",
+      "author": {
+       "authorized": "Hammett, Dashiell, 1894-1961",
+       "lcna": "n80016943"
+      }
+     },
+     {"issue": {"issue-date": "1932-12"},
+      "title": "The Natural History of Seattle",
+      "author": {
+       "authorized": "Stevens, James, 1892-1971",
+       "lcna": "n86071787"
+      }
+     },
+     {"issue": {"issue-date": "1933-01"},
+        "title": "The Baby in the Icebox",
+        "author": {
+         "authorized": "Cain, James M. (James Mallahan), 1892-1977",
+         "lcna": "n80025844"
+        }
+     },
+     {"issue": {"issue-date": "1933-04"},
+        "title": "Prelude. If Man, That Angel of Bright Consciousness",
+        "author": {
+         "authorized": "Aiken, Conrad, 1889-1973",
+         "lcna": "n80060447"
+        }
+     },
+     {"issue": {"issue-date": "1933-05"},
+       "title": "Man Who Looked Like Himself",
+       "author": {
+         "authorized": "Caldwell, Erskine, 1903-1987",
+         "lcna": "n78095661"
+       }
+     },
+     {"issue": {"issue-date": "1933-07"},
+       "title": "Backfire",
+       "author": {
+         "authorized": "Stong, Phil, 1899-1957",
+         "lcna": "n86086091"
+       }
+     },
+     {"issue": {"issue-date": "1933-09"},
+        "title": "Magenta",
+        "author": {
+         "authorized": "Ferril, Thomas Hornsby, 1896-1988",
+         "lcna": "n50001135"
+        }
+     },
+     {"issue": {"issue-date": "1934-02"},
+      "title": "Pennsylvania Station",
+      "author": {
+         "authorized": "Faulkner, William, 1897-1962",
+         "lcna": "n79003304"
+      }
+     },
+     {"issue": {"issue-date": "1934-03"},
+        "title": "Mrs. Stephen Crane",
+        "author": {
+         "authorized": "Beer, Thomas, 1889-1940",
+         "lcna": "n79151185"
+        }
+     },
+     {"issue": {"issue-date": "1934-03"},
+        "title": "Natives Don't Cry",
+        "author": {
+         "name": "Kay Boyle Franckenstein"
+        }
+     },
+     {"issue": {"issue-date": "1934-04"},
+        "title": "Evening Dialogue",
+        "author": {
+         "authorized": "Ficke, Arthur Davison, 1883-1945",
+         "lcna": "n82119450"
+        }
+     },
+     {"issue": {"issue-date": "1934-04"},
+        "title": "Earliest Dreams",
+        "author": {
+         "name": "Nancy Hale Bowers"
+        }
+     },
+     {"issue": {"issue-date": "1934-05"},
+        "title": "Boom Town",
+        "author": {
+         "authorized": "Wolfe, Thomas, 1900-1938",
+         "lcna": "n79054341"
+        }
+     },
+     {"issue": {"issue-date": "1934-05"},
+        "title": "Aspirin is a Member of the N.R.A.",
+        "author": {
+         "authorized": "Saroyan, William, 1908-1981",
+         "lcna": "n78095781"
+        }
+     },
+     {"issue": {"issue-date": "1934-06"},
+        "title": "Playboy",
+        "author": {
+         "authorized": "Beer, Thomas, 1889-1940",
+         "lcna": "n79151185"
+        }
+     },
+     {"issue": {"issue-date": "1934-07"}, 
+      "title": "The American Fascists",
+       "author": {
+         "authorized": "Sokolsky, George E. (George Ephraim), 1893-1962",
+         "lcna": "no95004291"
+       }
+     },
+     {"issue": {"issue-date": "1934-08"},
+        "title": "Ah-Ha, Ah-Ha",
+        "author": {
+         "authorized": "Saroyan, William, 1908-1981",
+         "lcna": "n78095781"
+        }
+     },
+     {"issue": {"issue-date": "1934-08"},
+      "title": "The Stork in New York",
+      "author": {
+         "name": "Louis Gold"
+      }
+     },
+     {"issue": {"issue-date": "1934-10"},
+        "title": "Myself Upon the Earth",
+        "author": {
+         "authorized": "Saroyan, William, 1908-1981",
+         "lcna": "n78095781"
+        }
+     },
+     {"issue": {"issue-date": "1934-11"},
+        "title": "Conduct of a Grandfather",
+        "author": {
+         "authorized": "Beer, Thomas, 1889-1940",
+         "lcna": "n79151185"
+        }
+     },
+     {"issue": {"issue-date": "1935-04"},
+      "title": "Heat Wave",
+       "author": {
+          "authorized": "Buck, Pearl S. (Pearl Sydenstricker), 1892-1973",
+          "lcna": "n79026662"
+        }
+     },
+     {"issue": {"issue-date": "1935-05"},
+      "title": "Golden Land",
+      "author": {
+         "authorized": "Faulkner, William, 1897-1962",
+         "lcna": "n79003304"
+      }
+     },
+     {"issue": {"issue-date": "1935-07"},
+      "title": "That Will Be Fine",
+      "author": {
+         "authorized": "Faulkner, William, 1897-1962",
+         "lcna": "n79003304"
+      }
+     },
+     {"issue": {"issue-date": "1935-07"},
+      "title": "Lady Before Breakfast",
+      "author": {
+       "authorized": "White, E. B. (Elwyn Brooks), 1899-1985",
+       "lcna": "n79054648"
+      }
+     },
+     {"issue": {"issue-date": "1935-08"},
+      "title": "Guayana Gold",
+      "author": {
+         "authorized": "Rourke, Thomas, 1900-",
+         "lcna": "no89021235"
+      }
+     },
+     {"issue": {"issue-date": "1935-08"},
+      "title": "Don't Give it a Thought",
+      "author": {
+         "name": "Richard Sherman"
+      }
+     },
+     {"issue": {"issue-date": "1935-10"},
+      "title": "Uncle Willy",
+      "author": {
+         "authorized": "Faulkner, William, 1897-1962",
+         "lcna": "n79003304"
+      }
+     },
+     {"issue": {"issue-date": "1935-10"},
+        "title": "Close Harmony",
+        "author": {
+         "authorized": "Cain, James M. (James Mallahan), 1892-1977",
+         "lcna": "n80025844"
+        }
+     },
+     {"issue": {"issue-date": "1935-10"},
+        "title": "Auctioneers of Paradise",
+        "author": {
+         "authorized": "Davis, Hassoldt, 1907-1959",
+         "lcna": "n89618398"
+        }
+     },
+     {"issue": {"issue-date": "1935-11"},
+      "title": "Folklore of the Air",
+      "author": {
+         "authorized": "Faulkner, William, 1897-1962",
+         "lcna": "n79003304"
+      }
+     },
+     {"issue": {"issue-date": "1935-12"},
+      "title": "Washington Up-to-Date; Review of Bedoyere's Washington",
+      "author": {
+         "authorized": "Hughes, Rupert, 1872-1956",
+         "lcna": "n86012047"
+       }
+     },
+     {"issue": {"issue-date": "1935-12"},
+        "title": "Ahead of All",
+        "author": {
+         "authorized": "McCord, David Thompson Watson, 1897-1997",
+         "lcna": "n79109946"
+        }
+     },
+     {"issue": {"issue-date": "1936-01"},
+        "title": "Sherlock Holmes vs. Arsene Lupin",
+        "author": {
+         "authorized": "Pratt, Fletcher, 1897-1956",
+         "lcna": "n50021577"
+        }
+     },
+     {"issue": {"issue-date": "1936-02"},
+        "title": "Dead Man",
+        "author": {
+         "authorized": "Cain, James M. (James Mallahan), 1892-1977",
+         "lcna": "n80025844"
+        }
+     },
+     {"issue": {"issue-date": "1936-03"},
+        "title": "W. H. Hudson",
+        "author": {
+         "authorized": "Ford, Ford Madox, 1873-1939",
+         "lcna": "n79045085"
+        }
+     },
+     {"issue": {"issue-date": "1936-04"},
+        "title": "Galsworthy",
+        "author": {
+         "authorized": "Ford, Ford Madox, 1873-1939",
+         "lcna": "n79045085"
+        }
+     },
+     {"issue": {"issue-date": "1936-05"},
+      "title": "Portrait of a Gentleman",
+      "author": {
+         "authorized": "Weidman, Jerome, 1913-1998",
+         "lcna": "n50022730"
+       }
+     },
+     {"issue": {"issue-date": "1936-05"},
+      "title": "The Man With Horns",
+      "author": {
+         "authorized": "Rourke, Thomas, 1900-",
+         "lcna": "no89021235"
+      }
+     },
+     {"issue": {"issue-date": "1936-05"},
+        "title": "H. G. Wells",
+        "author": {
+         "authorized": "Ford, Ford Madox, 1873-1939",
+         "lcna": "n79045085"
+        }
+     },
+     {"issue": {"issue-date": "1936-06"},
+        "title": "D. H. Lawrence",
+        "author": {
+         "authorized": "Ford, Ford Madox, 1873-1939",
+         "lcna": "n79045085"
+        }
+     },
+     {"issue": {"issue-date": "1936-07"},
+        "title": "Though I Am False",
+        "author": {
+         "authorized": "Marshall, Lenore, 1897-1971",
+         "lcna": "n82004368"
+        }
+     },
+     {"issue": {"issue-date": "1936-08"},
+        "title": "Never Fear",
+        "author": {
+         "authorized": "Marshall, Lenore, 1897-1971",
+         "lcna": "n82004368"
+        }
+     },
+     {"issue": {"issue-date": "1936-08"},
+        "title": "The Bell Remembered",
+        "author": {
+         "authorized": "Wolfe, Thomas, 1900-1938",
+         "lcna": "n79054341"
+        }
+     },
+     {"issue": {"issue-date": "1936-08"},
+      "title": "Absalom, Absalom!",
+      "author": {
+         "authorized": "Faulkner, William, 1897-1962",
+         "lcna": "n79003304"
+      }
+     },
+     {"issue": {"issue-date": "1936-08"},
+        "title": "Thomas Hardy",
+        "author": {
+         "authorized": "Ford, Ford Madox, 1873-1939",
+         "lcna": "n79045085"
+        }
+     },
+     {"issue": {"issue-date": "1936-09"},
+      "title": "I Knew What I Was Doing",
+      "author": {
+         "authorized": "Weidman, Jerome, 1913-1998",
+         "lcna": "n50022730"
+       }
+     },
+     {"issue": {"issue-date": "1936-09"},
+        "title": "Turgenev, the Beautiful Genius",
+        "author": {
+         "authorized": "Ford, Ford Madox, 1873-1939",
+         "lcna": "n79045085"
+        }
+     },
+     {"issue": {"issue-date": "1936-10"},
+        "title": "Fame and the Poet",
+        "author": {
+         "authorized": "Wolfe, Thomas, 1900-1938",
+         "lcna": "n79054341"
+        }
+     },
+     {"issue": {"issue-date": "1936-11"},
+      "title": "Portrait of My Father",
+       "author": {
+          "authorized": "Buck, Pearl S. (Pearl Sydenstricker), 1892-1973",
+          "lcna": "n79026662"
+        }
+     },
+     {"issue": {"issue-date": "1936-12"},
+      "title": "The Original Nature Man",
+      "author": {
+         "authorized": "Holbrook, Stewart H., 1893-1964",
+         "lcna": "n79068384"
+      }
+     },
+     {"issue": {"issue-date": "1936-12"},
+      "title": "The Sound of Running Feet",
+      "author": {
+         "authorized": "Lawrence, Josephine, 1897?-1978",
+         "lcna": "n50037293"
+      }
+     },
+     {"issue": {"issue-date": "1937-01"},
+        "title": "Swinburne",
+        "author": {
+         "authorized": "Ford, Ford Madox, 1873-1939",
+         "lcna": "n79045085"
+        }
+     },
+     {"issue": {"issue-date": "1937-03"},
+        "title": "Housman",
+        "author": {
+         "authorized": "Bynner, Witter, 1881-1968",
+         "lcna": "n50032943"
+        }
+     },
+     {"issue": {"issue-date": "1937-05"},
+        "title": "Itinerant Bird",
+        "author": {
+         "authorized": "Bynner, Witter, 1881-1968",
+         "lcna": "n50032943"
+        }
+     },
+     {"issue": {"issue-date": "1937-05"},
+        "title": "Happy Ending",
+        "author": {
+         "authorized": "Cook, Whitfield",
+         "lcna": "n81012182"
+        }
+     },
+     {"issue": {"issue-date": "1937-06"},
+        "title": "Dear Mr. Flessheimer",
+        "author": {
+         "authorized": "Cook, Whitfield",
+         "lcna": "n81012182"
+        }
+     },
+     {"issue": {"issue-date": "1937-06"},
+        "title": "Old-Fashioned Social Security",
+        "author": {
+         "authorized": "Lutes, Della T. (Della Thompson), 1872-",
+         "lcna": "n92078775"
+        }
+     },
+     {"issue": {"issue-date": "1937-07"},
+        "title": "Death of a Gallant Gentleman",
+        "author": {
+         "authorized": "Bynner, Witter, 1881-1968",
+         "lcna": "n50032943"
+        }
+     },
+     {"issue": {"issue-date": "1937-09"},
+        "title": "April, Late April",
+        "author": {
+         "authorized": "Wolfe, Thomas, 1900-1938",
+         "lcna": "n79054341"
+        }
+     },
+     {"issue": {"issue-date": "1938-01"},
+        "title": "The Good Wife",
+        "author": {
+         "authorized": "Cook, Whitfield",
+         "lcna": "n81012182"
+        }
+     },
+     {"issue": {"issue-date": "1938-02"},
+      "title": "In Flood and Dearth",
+      "author": {
+        "authorized": "Hay, Sara Henderson",
+        "lcna": "n82051047"
+       }
+     },
+     {"issue": {"issue-date": "1938-03"},
+        "title": "Pastorale",
+        "author": {
+         "authorized": "Cain, James M. (James Mallahan), 1892-1977",
+         "lcna": "n80025844"
+        }
+     },
+     {"issue": {"issue-date": "1938-12"},
+      "title": "Home by Midnight",
+      "author": {
+         "authorized": "Weidman, Jerome, 1913-1998",
+         "lcna": "n50022730"
+       }
+     },
+     {"issue": {"issue-date": "1939-02"},
+      "title": "On Contemplating an Open Fire",
+      "author": {
+        "authorized": "Hay, Sara Henderson",
+        "lcna": "n82051047"
+       }
+     },
+     {"issue": {"issue-date": "1939-03"},
+        "title": "Here Comes the Bridegroom",
+        "author": {
+         "authorized": "Cook, Whitfield",
+         "lcna": "n81012182"
+        }
+     },
+     {"issue": {"issue-date": "1939-04"},
+        "title": "Portrait of a Literary Critic",
+        "author": {
+         "authorized": "Wolfe, Thomas, 1900-1938",
+         "lcna": "n79054341"
+        }
+     },
+     {"issue": {"issue-date": "1939-05"},
+        "title": "Getting on in the World",
+        "author": {
+         "authorized": "Callaghan, Morley, 1903-1990",
+         "lcna": "n79006957"
+        }
+     },
+     {"issue": {"issue-date": "1939-06"},
+        "title": "Peep Show",
+        "note": "Author is Leo Rosten writing under a pseudonym.",
+        "author": {
+         "authorized": "Ross, Leonard Q., 1908-1997",
+         "lcna": "no2007060454"
+        }
+     },
+     {"issue": {"issue-date": "1939-07"},
+        "title": "Little Family",
+        "author": {
+         "authorized": "Hale, Nancy, 1908-1988",
+         "lcna": "n50018614"
+        }
+     },
+     {"issue": {"issue-date": "1939-09"},
+        "title": "Husbands Grow on Trees",
+        "author": {
+         "authorized": "Cook, Whitfield",
+         "lcna": "n81012182"
+        }
+     },
+     {"issue": {"issue-date": "1939-11"}, 
+      "title": "Ungathered Grapes",
+      "author": {
+       "authorized": "Coffin, Robert P. Tristram (Robert Peter Tristram), 1892-1955",
+       "lcna": "n50030030"
+      }
+     },
+     {"issue": {"issue-date": "1940-02"},
+        "title": "Bell-Wethers",
+        "author": {
+         "authorized": "Bynner, Witter, 1881-1968",
+         "lcna": "n50032943"
+        }
+     },
+     {"issue": {"issue-date": "1940-02"},
+      "title": "Shoe Shine",
+      "author": {
+         "authorized": "Weidman, Jerome, 1913-1998",
+         "lcna": "n50022730"
+       }
+     },
+     {"issue": {"issue-date": "1940-03-05"},
+        "title": "Down to Earth",
+        "note": "A portion of the book with this title was published in the American Mercury, according to its CCE renewal record.  The date of publication is as given in the record, but is probably not the date on the issue itself. I do not know if the title of the contribution was also 'Down to Earth' or something else.",
+        "author": {
+         "authorized": "Devoe, Alan, 1909-1955",
+         "lcna": "nr95017239"
+        }
+     },
+     {"issue": {"issue-date": "1940-04"},
+      "title": "Kit Carson",
+      "author": {
+         "authorized": "Holbrook, Stewart H., 1893-1964",
+         "lcna": "n79068384"
+      }
+     },
+     {"issue": {"issue-date": "1940-08"},
+        "title": "The Hollyhock Sowers",
+        "author": {
+         "authorized": "Wolfe, Thomas, 1900-1938",
+         "lcna": "n79054341"
+        }
+     },
+     {"issue": {"issue-date": "1940-11"},
+        "title": "Woman and Man",
+        "author": {
+         "authorized": "Engle, Paul, 1908-1991",
+         "lcna": "n79084424"
+        }
+     },
+     {"issue": {"issue-date": "1940-12"},
+      "title": "Little Luke Short",
+      "author": {
+         "authorized": "Holbrook, Stewart H., 1893-1964",
+         "lcna": "n79068384"
+      }
+     },
+     {"issue": {"issue-date": "1940-12"},
+        "title": "Round Trip",
+        "author": {
+         "authorized": "Cook, Whitfield",
+         "lcna": "n81012182"
+        }
+     },
+     {"issue": {"issue-date": "1941-10"},
+        "title": "The Anatomy of Loneliness",
+        "author": {
+         "authorized": "Wolfe, Thomas, 1900-1938",
+         "lcna": "n79054341"
+        }
+     },
+     {"issue": {"issue-date": "1941-12"},
+        "title": "Summary",
+        "author": {
+         "authorized": "De Jong, David Cornel, 1901-1967",
+         "lcna": "n50042194"
+        }
+     },
+     {"issue": {"issue-date": "1941-12"},
+        "title": "Pennsylvania's Greatest Rogue",
+        "author": {
+         "authorized": "Asbury, Herbert, 1891-1963",
+         "lcna": "n85289789"
+        }
+     },
+     {"issue": {"issue-date": "1941-12"},
+        "title": "Handout",
+        "author": {
+         "authorized": "Weaver, John D. (John Downing), 1912-2002",
+         "lcna": "n50023762"
+        }
+     },
+     {"issue": {"issue-date": "1942-03"},
+        "title": "Coal Oil Johnny",
+        "author": {
+         "authorized": "Asbury, Herbert, 1891-1963",
+         "lcna": "n85289789"
+        }
+     },
+     {"issue": {"issue-date": "1942-07"},
+        "title": "He Swung and He Missed",
+        "author": {
+         "authorized": "Algren, Nelson, 1909-1981",
+         "lcna": "n50033341"
+        }
+     },
+     {"issue": {"issue-date": "1942-07"},
+        "title": "The Legend of Sir Stafford Cripps",
+        "author": {
+         "authorized": "Moats, Alice-Leone",
+         "lcna": "n83179450"
+        }
+     },
+     {"issue": {"issue-date": "1942-12"},
+        "title": "The ABC of Heart Disease",
+        "author": {
+         "authorized": "Steincrohn, Peter Joseph, 1899-",
+         "lcna": "n79071147"
+        }
+     },
+     {"issue": {"issue-date": "1942-12"},
+        "title": "Cycle in Mink",
+        "author": {
+         "authorized": "Baum, Vicki, 1888-1960",
+         "lcna": "n79135036"
+        }
+     },
+     {"issue": {"issue-date": "1943-03"},
+      "title": "Lumberjacks' Saturday Night",
+      "author": {
+         "authorized": "Holbrook, Stewart H., 1893-1964",
+         "lcna": "n79068384"
+      }
+     },
+     {"issue": {"issue-date": "1943-04"},
+        "title": "The Gentle Rain",
+        "author": {
+         "authorized": "Weaver, John D. (John Downing), 1912-2002",
+         "lcna": "n50023762"
+        }
+     },
+     {"issue": {"issue-date": "1943-07"},
+        "title": "General Mihailovich",
+        "author": {
+         "authorized": "Mitchell, Ruth, 1888?-1969",
+         "lcna": "no2018043657"
+        }
+     },
+     {"issue": {"issue-date": "1943-09"},
+        "title": "The Children",
+        "author": {
+         "authorized": "Algren, Nelson, 1909-1981",
+         "lcna": "n50033341"
+        }
+     },
+     {"issue": {"issue-date": "1943-12"},
+      "title": "The Wildest Man in the West",
+      "author": {
+         "authorized": "Holbrook, Stewart H., 1893-1964",
+         "lcna": "n79068384"
+      }
+     },
+     {"issue": {"issue-date": "1944-04"},
+      "title": "Boston's Temple of Burlesque",
+      "author": {
+         "authorized": "Holbrook, Stewart H., 1893-1964",
+         "lcna": "n79068384"
+      }
+     },
+     {"issue": {"issue-date": "1944-06"},
+      "title": "The Guy Who Named Tombstone",
+      "author": {
+         "authorized": "Holbrook, Stewart H., 1893-1964",
+         "lcna": "n79068384"
+      }
+     },
+     {"issue": {"issue-date": "1944-10"},
+      "title": "Scollay Square",
+      "author": {
+         "authorized": "Holbrook, Stewart H., 1893-1964",
+         "lcna": "n79068384"
+      }
+     },
+     {"issue": {"issue-date": "1944-11"},
+        "title": "Harvest",
+        "author": {
+         "authorized": "Deasy, Mary, 1914-1978",
+         "lcna": "n85173483"
+        }
+     },
+     {"issue": {"issue-date": "1944-11"},
+        "title": "My Brother Who Talked With Horses",
+        "author": {
+         "authorized": "Thompson, Morton",
+         "lcna": "n84804165"
+        }
+     },
+     {"issue": {"issue-date": "1945-01"},
+      "title": "Memo on Anti-Semitism",
+      "author": {
+         "authorized": "Wylie, Philip, 1902-1971",
+         "lcna": "n79145476"
+       }
+     },
+     {"issue": {"issue-date": "1945-05"},
+      "title": "East and West",
+       "author": {
+          "authorized": "Buck, Pearl S. (Pearl Sydenstricker), 1892-1973",
+          "lcna": "n79026662"
+        }
+     },
+     {"issue": {"issue-date": "1945-08"}, 
+      "title": "The Big Black and White Game",
+      "author": {
+        "authorized": "Bradbury, Ray, 1920-2012",
+        "lcna": "n79139258"
+      }
+     },
+     {"issue": {"issue-date": "1945-08"}, 
+      "title": "The Grieving Wind",
+      "author": {
+       "authorized": "Coffin, Robert P. Tristram (Robert Peter Tristram), 1892-1955",
+       "lcna": "n50030030"
+      }
+     },
+     {"issue": {"issue-date": "1945-12"}, 
+      "title": "Line Gale",
+      "author": {
+       "authorized": "Coffin, Robert P. Tristram (Robert Peter Tristram), 1892-1955",
+       "lcna": "n50030030"
+      }
+     },
+     {"issue": {"issue-date": "1946-01"},
+      "title": "Idaho Nocturne: 1909",
+      "author": {
+       "authorized": "Stevens, James, 1892-1971",
+       "lcna": "n86071787"
+      }
+     },
+     {"issue": {"issue-date": "1946-03"},
+      "title": "Boston Nocturne",
+      "author": {
+         "authorized": "Holbrook, Stewart H., 1893-1964",
+         "lcna": "n79068384"
+      }
+     },
+     {"issue": {"issue-date": "1946-04"},
+      "title": "The Last Wobbly",
+      "author": {
+         "authorized": "Holbrook, Stewart H., 1893-1964",
+         "lcna": "n79068384"
+      }
+     },
+     {"issue": {"issue-date": "1946-09"},
+      "title": "Buffalo Bill",
+      "author": {
+         "authorized": "Holbrook, Stewart H., 1893-1964",
+         "lcna": "n79068384"
+      }
+     },
+     {"issue": {"issue-date": "1946-10"},
+      "title": "Honor",
+      "note": "I do not know how closely this resembles his American Mercury contribution of the same title from 1930.",
+      "author": {
+         "authorized": "Faulkner, William, 1897-1962",
+         "lcna": "n79003304"
+      }
+     },
+     {"issue": {"issue-date": "1946-11"},
+        "title": "Atlantis: The Lost Continent",
+        "author": {
+         "authorized": "Calahan, H. A. (Harold Augustin), 1889-1965",
+         "lcna": "n99275357"
+        }
+     },
+     {"issue": {"issue-date": "1947-01"},
+        "title": "The Face on the Barroom Floor",
+        "author": {
+         "authorized": "Algren, Nelson, 1909-1981",
+         "lcna": "n50033341"
+        }
+     },
+     {"issue": {"issue-date": "1947-01"},
+        "title": "Boom Town",
+        "note": "I do not know how closely this resembles his American Mercury contribution of the same title from 1934.",
+        "author": {
+         "authorized": "Wolfe, Thomas, 1900-1938",
+         "lcna": "n79054341"
+        }
+     },
+     {"issue": {"issue-date": "1947-02"},
+      "title": "Calamity Jane",
+      "author": {
+         "authorized": "Holbrook, Stewart H., 1893-1964",
+         "lcna": "n79068384"
+      }
+     },
+     {"issue": {"issue-date": "1947-05"},
+      "title": "Ned Buntline",
+      "author": {
+         "authorized": "Holbrook, Stewart H., 1893-1964",
+         "lcna": "n79068384"
+      }
+     },
+     {"issue": {"issue-date": "1947-07"},
+        "title": "Blood Pressure, High and Low",
+        "author": {
+         "authorized": "Steincrohn, Peter Joseph, 1899-",
+         "lcna": "n79071147"
+        }
+     },
+     {"issue": {"issue-date": "1947-07"},
+      "title": "Second Boyhood",
+      "author": {
+       "authorized": "Coffin, Robert P. Tristram (Robert Peter Tristram), 1892-1955",
+       "lcna": "n50030030"
+      }
+     },
+     {"issue": {"issue-date": "1947-07"},
+      "title": "Miss Helen Lang",
+      "author": {
+       "authorized": "Hillyer, Robert, 1895-1961",
+       "lcna": "n86034262"
+      }
+     },
+     {"issue": {"issue-date": "1947-10"},
+      "title": "Incurable Multiple Sclerosis",
+      "author": {
+       "authorized": "Rusk, Howard A., 1901-1989",
+       "lcna": "n50022279"
+      }
+     },
+     {"issue": {"issue-date": "1948-01"},
+      "title": "The Bank the James Boys Didn't Rob",
+      "author": {
+         "authorized": "Holbrook, Stewart H., 1893-1964",
+         "lcna": "n79068384"
+      }
+     },
+     {"issue": {"issue-date": "1948-01"},
+      "title": "State of Maine",
+      "author": {
+       "authorized": "Coffin, Robert P. Tristram (Robert Peter Tristram), 1892-1955",
+       "lcna": "n50030030"
+      }
+     },
+     {"issue": {"issue-date": "1948-02"},
+      "title": "Golden Boy",
+      "author": {
+       "authorized": "Coffin, Robert P. Tristram (Robert Peter Tristram), 1892-1955",
+       "lcna": "n50030030"
+      }
+     },
+     {"issue": {"issue-date": "1948-08"},
+      "title": "In the Good Old Summertime",
+      "author": {
+       "authorized": "Eustis, Helen",
+       "lcna": "n81112008"
+      }
+     },
+     {"issue": {"issue-date": "1948-11"},
+      "title": "What Can be Done for Cerebral Palsy",
+      "author": {
+       "authorized": "Rusk, Howard A., 1901-1989",
+       "lcna": "n50022279"
+      }
+     },
+     {"issue": {"issue-date": "1949-02"},
+      "title": "Six Boys in the Sun",
+      "author": {
+       "authorized": "Coffin, Robert P. Tristram (Robert Peter Tristram), 1892-1955",
+       "lcna": "n50030030"
+      }
+     },
+     {"issue": {"issue-date": "1949-03"},
+      "title": "The Color of the World",
+      "author": {
+       "authorized": "Connell, Evan S., 1924-2013",
+       "lcna": "n50000126"
+      }
+     },
+     {"issue": {"issue-date": "1949-03"},
+      "title": "Cool Bell",
+      "author": {
+       "authorized": "Coffin, Robert P. Tristram (Robert Peter Tristram), 1892-1955",
+       "lcna": "n50030030"
+      }
+     },
+     {"issue": {"issue-date": "1949-04"},
+      "title": "Tales of the Coyote",
+      "author": {
+       "authorized": "Dobie, J. Frank (James Frank), 1888-1964",
+       "lcna": "n79021385"
+      }
+     },
+     {"issue": {"issue-date": "1949-06"},
+        "title": "Capone's Successors",
+        "author": {
+         "authorized": "Martin, John Bartlow, 1915-1987",
+         "lcna": "n79135345"
+        }
+     },
+     {"issue": {"issue-date": "1949-10"},
+      "title": "Mister Churchill",
+       "note": "This contribution was renewed on its own, and also appears to be a portion of the author's 1949 book 'No Cause for Alarm', which also has its own renewal record.",
+      "author": {
+       "authorized": "Cowles, Virginia",
+       "lcna": "n83002896"
+      }
+     },
+     {"issue": {"issue-date": "1949-12"},
+      "title": "The Summer of Insistent Voices",
+      "author": {
+       "name": "John Bell Clayton"
+      }
+     },
+     {"issue": {"issue-date": "1950-01"},
+        "title": "The Coming Defeat of Communism",
+        "note": "A chapter of the book with this title was published in the American Mercury, according to its 1978 CCE renewal record.  I do not know if the title of the contribution was also 'The Coming Defeat of Communism' or something else.",
+        "author": {
+         "authorized": "Burnham, James, 1905-1987 ",
+         "lcna": "n50032072"
+        }
+     },
+     {"issue": {"issue-date": "1950-03"}, 
+      "title": "MacDougal's Wife",
+      "author": {
+        "authorized": "Miller, Walter M., Jr., 1923-1996",
+        "lcna": "n81120378"
+      }
+     },
+     {"issue": {"issue-date": "1950-09"},
+        "title": "The Baby in the Icebox",
+        "note": "I do not know how closely this resembles his American Mercury contribution of the same title from 1933.",
+        "author": {
+         "authorized": "Cain, James M. (James Mallahan), 1892-1977",
+         "lcna": "n80025844"
+        }
+     },
+     {"issue": {"issue-date": "1950-10"},
+      "title": "MacArthur: Man of Controversy",
+      "authors": [
+        {"authorized": "Kelley, Frank, 1911-",  
+         "lcna": "no93024042"},
+        {"authorized": "Ryan, Cornelius",
+         "lcna": "n78090524"}
+      ]
+     },
+     {"issue": {"issue-date": "1951-01"},
+      "title": "Heartburn",
+      "author": {
+        "authorized": "Calisher, Hortense",
+        "lcna": "n50032171"
+      }
+     },
+     {"issue": {"issue-date": "1951-02"},
+      "title": "The Mystery Bus Ride",
+      "author": {
+        "authorized": "Lowry, Robert, 1919-1994",
+        "lcna": "n84077744"
+      }
+     },
+     {"issue": {"issue-date": "1951-05"},
+      "title": "Blood Wedding in Chicago",
+      "author": {
+        "authorized": "Lowry, Robert, 1919-1994",
+        "lcna": "n84077744"
+      }
+     },
+     {"issue": {"issue-date": "1951-06"},
+      "title": "Passing Star",
+      "author": {
+        "authorized": "Lowry, Robert, 1919-1994",
+        "lcna": "n84077744"
+      }
+     },
+     {"issue": {"issue-date": "1952-08"}, 
+      "title": "Exodus",
+      "author": {
+       "authorized": "Baldwin, James, 1924-1987",
+       "lcna": "n79076619"
+      }
+     },
+     {"issue": {"issue-date": "1952-12"}, 
+      "title": "Past and Present",
+      "author": {
+       "authorized": "Mencken, H. L. (Henry Louis), 1880-1956",
+       "lcna": "n80036702"
+      }
+     },
+     {"issue": {"issue-date": "1955-03"}, 
+      "title": "The Public Be Damned?",
+      "author": {
+       "authorized": "Hartford, Huntington, 1911-2008",
+       "lcna": "no97008797"
+      }
+     },
+     {"issue": {"issue-date": "1955-11"},
+        "title": "Crazy About London",
+        "author": {
+         "authorized": "Saroyan, William, 1908-1981",
+         "lcna": "n78095781"
+        }
+     },
+     {"issue": {"issue-date": "1955-12"},
+        "title": "Radio Forever",
+        "author": {
+         "authorized": "Saroyan, William, 1908-1981",
+         "lcna": "n78095781"
+        }
+     },
+     {"issue": {"issue-date": "1957-08"}, 
+      "title": "Germs Can Get Sick Too",
+      "author": {
+       "name": "Herbert S. Benjamin"
+      }
+     },
+     {"issue": {"issue-date": "1960-05"},
+        "title": "Earth Poetry",
+        "author": {
+         "authorized": "Stuart, Jesse, 1906-1984",
+         "lcna": "n79018157"
+        }
+     },
+     {"issue": {"issue-date": "1960-10"},
+      "title": "Pravda Means Truth",
+      "author": {
+         "authorized": "Heinlein, Robert A. (Robert Anson), 1907-1988",
+         "lcna": "n79067868"
+      }
      }
    ],
+   "additional-note":
+      "Published as New American Mercury for a short time in the early 1950s.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-05-29"
+   "last-updated": "2019-12-22"
 }

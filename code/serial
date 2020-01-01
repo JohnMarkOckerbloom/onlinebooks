@@ -9,6 +9,7 @@ use lib "nlib";
 use OLBP;
 use OLBP::Hash;
 use OLBP::CopyrightInfo;
+use OLBP::WikidataSource;
 
 $cinfodir  =  "/websites/OnlineBooks/nonpublic/bookdb/cinfo/";
 $idxdir    =  "/websites/OnlineBooks/nonpublic/bookdb/indexes/";
@@ -102,18 +103,25 @@ sub process_special {
 }
 
 sub showmag {
-  my ($recr, $id) = @_;
+  my ($recr, $id, $wdsource) = @_;
   my $name = $recr->{TITLE};
+  my $wikipedia;
   my $str;
   print $HTMLSTART;
   print "<title>$name archives</title></head>";
   print $OLBP::bodystart;
   print "<p class=\"ctr\">presents serial archive listings for</p>\n";
   print "<h1>$name</h1>\n";
+  if ($wdsource) {
+    $wikipedia = $wdsource->get_wikipedia_uri(id=>$id);
+  }
   if ($recr->{SDESC}) {
     $str = $recr->{SDESC};
     $str =~ s/\*THIS\*/"<cite>" . $name . "<\/cite>"/ge;
     $str = process_special($str);
+    if ($wikipedia) {
+      $str .= " (There is a <a href=\"$wikipedia\">Wikipedia article about this serial</a>.)";
+    }
     print "<p>$str</p>\n";
   }
   if ($recr->{SHIST}) {
@@ -265,6 +273,8 @@ if (defined($ENV{"GATEWAY_INTERFACE"})) {
   print "Content-type: text/html\n\n";
 }
 
-showmag($recr, $lookid);
+my $wdsource = new OLBP::WikidataSource(dir=>$OLBP::dbdir);
+
+showmag($recr, $lookid, $wdsource);
 
 

@@ -7,9 +7,9 @@
    "first-renewed-issue-source": "1951-JanJun",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
-   "renewed-issue-completeness": "active/1924",
+   "renewed-issue-completeness": "active/1925",
    "renewed-issues": [
-     {"issue-date": "1923-12", "number": "399"},
+     {"issue-date": "1923-12", "cdate": "1924-01-11", "number": "399"},
      {"issue-date": "1924-01", "number": "400"},
      {"issue-date": "1924-02", "number": "401"},
      {"issue-date": "1924-03", "number": "402"},
@@ -29,12 +29,18 @@
      {"issue-date": "1925-05", "number": "416"},
      {"issue-date": "1925-06", "number": "417"},
      {"issue-date": "1925-07", "number": "418"},
-     {"issue-date": "1925-08", "number": "419"}
+     {"issue-date": "1925-08", "number": "419"},
+     {"issue-date": "1925-09", "number": "420"},
+     {"issue-date": "1925-10", "number": "421"},
+     {"issue-date": "1925-11", "number": "422"},
+     {"issue-date": "1925-12", "cdate": "1926-01-05", "number": "423"},
+     {"issue-date": "1926-01", "number": "424"},
+     {"issue-date": "1926-02", "number": "425"}
    ],
    "additional-note": "CCE renewal records describe the issues as 'Monthly advance sheets. Key number series.'  The American Digest system may have taken different forms in later years.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-02-26"
+   "last-updated": "2019-12-16"
 }

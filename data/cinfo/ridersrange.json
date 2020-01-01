@@ -1,0 +1,31 @@
+{
+   "title": "Riders of the Range",
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/WFI/link.asp?magid=RDRRG",
+       "note": "FictionMags"}
+   ],
+   "first-issue":
+      {"issue-date": "1931-April-May", "volume": "1", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce",
+   "first-renewed-contribution": 
+     {"issue": {"issue-date": "1931-June-July", "volume": "1", "number": "2"}},
+   "first-renewed-contribution-source": "1959-JanJun",
+   "last-issue": 
+      {"issue-date": "1931-October-November", "volume": "1", "number": "4"},
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1931-June-July", "volume": "1", "number": "2"},
+        "title": "Kid Lochinvar of the Blazing Colt",
+        "author": {
+         "authorized": "Parkhill, Forbes, 1892-1974",
+         "lcna": "nr95030515"
+        }
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2019-12-19"
+}

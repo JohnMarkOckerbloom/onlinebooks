@@ -28,6 +28,8 @@ my $muse_journals = $pkgdir . "muse/muse_journal_metadata_2019.tsv";
 
 my $oxford_archive = $pkgdir . "oxford/OxfordUniversityPress_Global_2019JournalsArchiveAllTitles_2019-05-30.txt";
 
+my $proquest_archive = $pkgdir . "proquest/PeriodicalsArchiveOnline.tsv";
+
 my $sage_journals = $pkgdir . "sage/SAGE-premier-2020.txt";
 
 my $scidirect_journals = $pkgdir . "elsevier/ScienceDirectStandard_Global_ScienceDirectAvailableJournals_2019-09-13.txt";
@@ -61,6 +63,9 @@ my $tables = {
   "oxford-archive" =>
      {file => $oxford_archive, reader=>\&readoxfordfile,
       parser=>\&kbartparser, filter=>\&pre64andolbp},
+  "proquest-archive" =>
+     {file => $proquest_archive, reader=>\&readpqfile,
+      parser=>\&pqparser, filter=>\&pre64andolbp},
   "sagepremier-available" =>
      {file => $sage_journals, reader=>\&readsagefile,
       parser=>\&sageparser, filter=>\&pre64andolbp},
@@ -314,6 +319,44 @@ sub simparser {
     $rec->{title} = $title;
     $rec->{start} = $start;
     $rec->{end} = $end;
+    push @recs, $rec;
+  }
+  return @recs;
+}
+
+my $PQSEARCHSTUB = "https://search.proquest.com/publication/";
+
+sub pqparser {
+  my ($set, @results) = @_;
+  foreach my $result (@results) {
+    my $title = $result->{"Title"};
+    my $pid = $result->{"Pub ID"};
+    my $start = $result->{"Full Text (combined) First"};
+    my $end = $result->{"Full Text (combined) Last"};
+    my @issns = ();
+    if ($result->{"ISSN"}) {
+      push @issns, normalize_issn($result->{"ISSN"});
+    }
+    if ($result->{"eISSN"}) {
+      push @issns, normalize_issn($result->{"eISSN"});
+    }
+    my $rec = find_pub_record(undef, @issns);
+    if (!$rec) {
+      $rec = {};
+    }
+    $rec->{title} = $title;
+    foreach my $issn (@issns) {
+      $rec->{issns}->{$issn} = 1;
+    }
+    if ($pid) {
+      $rec->{pkgid} = $PQSEARCHSTUB . $pid;
+    }
+    if ($start =~ /(\d\d\d\d)/) {
+      $rec->{start} = $1;
+    }
+    if ($end =~ /(\d\d\d\d)/) {
+      $rec->{end} = $1;
+    }
     push @recs, $rec;
   }
   return @recs;
@@ -614,7 +657,8 @@ sub readmusefile {
 sub readtsvfile {
   my ($filename, %params) = @_;
   my @results;
-  open my $fh, "<:encoding(utf8)", $filename or die "$filename: $!";
+  my $encoding = $params{encoding} || "utf8";
+  open my $fh, "<:encoding($encoding)", $filename or die "$filename: $!";
   if ($params{skiplines}) {
     for (my $i = 0; $i < $params{skiplines}; $i++) {
       my $discard = <$fh>;
@@ -650,6 +694,19 @@ sub readoxfordfile {
   $/ = $oldslash;                               # now put it back
   return @results;
 }
+
+# Proquest files have 3 extra lines at start, and 2 extra at end
+
+sub readpqfile {
+  my ($filename, %params) = @_;
+  $params{skiplines} = 3;
+  $params{encoding} = "cp-1252";
+  my @results = readtsvfile($filename, %params);
+  pop @results;
+  pop @results;
+  return @results;
+}
+
 
 # Some routines to clean up UTF-8 characters that got mangled in translation
 
