@@ -1,21 +1,37 @@
 {
    "title": "Berichte der Deutschen Chemischen Gesellschaft",
    "aka": ["Deutsche Chemische Gesellschaft. Berichte"],
+   "online": "1",
    "first-renewed-issue": 
-     {"cdate": "1924-01-09", "volume": "57", "number": "1"},
+     {"cdate": "1925-01-02", "volume": "58", "number": "1"},
    "first-renewed-issue-source": "1968",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce",
    "succeeded-by":
       [{"id": "chemischeberichte", 
         "note": "Chemische Berichte"}],
+   "renewed-issue-completeness": "active/1925",
+   "renewed-issues": [
+     {"cdate": "1925-01-02", "volume": "58", "number": "1"},
+     {"cdate": "1925-02-02", "volume": "58", "number": "2"},
+     {"cdate": "1925-03-02", "volume": "58", "number": "3"},
+     {"cdate": "1925-04-01", "volume": "58", "number": "4"},
+     {"cdate": "1925-05-04", "volume": "58", "number": "5"},
+     {"cdate": "1925-06-01", "volume": "58", "number": "6"},
+     {"cdate": "1925-07-01", "volume": "58", "number": "7"},
+     {"cdate": "1925-08-03", "volume": "58", "number": "8"},
+     {"cdate": "1925-09-01", "volume": "58", "number": "9"},
+     {"cdate": "1925-10-01", "volume": "58", "number": "10"},
+     {"cdate": "1925-11-02", "volume": "58", "number": "11"},
+     {"cdate": "1925-12-01", "volume": "58", "number": "12"}
+   ],
    "additional-notes": [
-    "The renewals made in 1968 are for issues reported to be copyrighted under the German Proclamation of July 12, 1967. (No active renewals were reported in earlier years.) The earliest issue reported in the 1968 renewals is volume 55, number 1, copyright January 14, 1922; we assume that the renewal for all the 1922 and 1923 copyrights mentioned have expired by 2019.",
+    "The renewals made in 1968 are for issues reported to be copyrighted under the German Proclamation of July 12, 1967. (No active renewals were reported in earlier years.) The earliest issue reported in the 1968 renewals is volume 55, number 1, copyright January 14, 1922; we assume that the renewal for all 1922-1924 copyrights mentioned have expired by 2020.",
     "This is a German publication.  Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US."
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-06-26"
+   "last-updated": "2020-01-23"
 }

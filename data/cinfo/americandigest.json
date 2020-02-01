@@ -2,26 +2,13 @@
    "title": "American Digest",
    "title-note": "West Publishing",
    "first-renewed-issue":
-     {"issue-date": "1923-12", "cdate": "1924-01-11",
-      "number": "399"},
-   "first-renewed-issue-source": "1951-JanJun",
+     {"issue-date": "1924-12", "cdate": "1925-01-14", "number": "411"},
+   "first-renewed-issue-source": "1952",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
    "renewed-issue-completeness": "active/1925",
    "renewed-issues": [
-     {"issue-date": "1923-12", "cdate": "1924-01-11", "number": "399"},
-     {"issue-date": "1924-01", "number": "400"},
-     {"issue-date": "1924-02", "number": "401"},
-     {"issue-date": "1924-03", "number": "402"},
-     {"issue-date": "1924-04", "number": "403"},
-     {"issue-date": "1924-05", "number": "404"},
-     {"issue-date": "1924-06", "number": "405"},
-     {"issue-date": "1924-07", "number": "406"},
-     {"issue-date": "1924-08", "number": "407"},
-     {"issue-date": "1924-09", "number": "408"},
-     {"issue-date": "1924-10", "number": "409"},
-     {"issue-date": "1924-11", "number": "410"},
-     {"issue-date": "1924-12", "number": "411"},
+     {"issue-date": "1924-12", "cdate": "1925-01-14", "number": "411"},
      {"issue-date": "1925-01", "number": "412"},
      {"issue-date": "1925-02", "number": "413"},
      {"issue-date": "1925-03", "number": "414"},
@@ -35,12 +22,18 @@
      {"issue-date": "1925-11", "number": "422"},
      {"issue-date": "1925-12", "cdate": "1926-01-05", "number": "423"},
      {"issue-date": "1926-01", "number": "424"},
-     {"issue-date": "1926-02", "number": "425"}
+     {"issue-date": "1926-02", "number": "425"},
+     {"issue-date": "1926-03", "number": "426"},
+     {"issue-date": "1926-04", "number": "427"},
+     {"issue-date": "1926-05", "number": "428"},
+     {"issue-date": "1926-06", "number": "429"},
+     {"issue-date": "1926-07", "number": "430"},
+     {"issue-date": "1926-08", "number": "431"}
    ],
    "additional-note": "CCE renewal records describe the issues as 'Monthly advance sheets. Key number series.'  The American Digest system may have taken different forms in later years.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-12-16"
+   "last-updated": "2020-01-04"
 }

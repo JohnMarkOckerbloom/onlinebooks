@@ -6,44 +6,13 @@
       {"url": "http://www.philsp.com/homeville/FMI/link.asp?magid=MET",
       "note": "FictionMags Index (most issues)"}
    ],
-   "first-renewed-issue": "none",
-   "first-renewed-issue-source": "cce",
-   "first-renewed-contribution":
-     {"issue": {"issue-date": "1924-02",
-                "volume": "58", "number": "5"}},
-   "first-renewed-contribution-source": "1952-JanJun",
    "last-issue": {"issue-date": "1924-09", "volume": "59", "number": "6"},
+   "rights-statement": "NoC-US",
    "succeeded-by": [{"id": "fictionlovers",
                      "note": "Macfadden Fiction-Lover's Magazine"}],
-   "renewed-contribution-completeness": "active/end",
-   "renewed-contributions": [
-     {"issue": {"issue-date": "1924-02", "volume": "58", "number": "5"},
-      "title": "If I Ever Marry Again",
-      "author": {
-       "authorized": "Frankau, Gilbert, 1884-1952",
-       "lcna": "n83022744"
-      }
-     },
-     {"issue": {"issue-date": "1924-07", "volume": "59", "number": "4"},
-      "title": "The Affair of the Vanished Masterpiece",
-      "author": {
-       "authorized": "Orczy, Emmuska Orczy, Baroness, 1865-1947",
-       "name": "Baroness Orczy",
-       "lcna": "n50064803"
-      }
-     },
-     {"issue": {"issue-date": "1924-07", "volume": "59", "number": "4"},
-      "title": "The Girl Who Walked Home",
-      "author": {
-       "authorized": "Benét, Stephen Vincent, 1898-1943",
-       "lcna": "n50007691"
-      }
-     }
-   ],
-   "additional-note" : "Active contribution renewals are recorded beginning in the 1951 January-June CCE volume, but the earliest actively renewed contribution is noted in the 1952 January-June volume.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-06-02"
+   "last-updated": "2020-01-19"
 }

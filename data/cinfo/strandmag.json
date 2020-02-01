@@ -9,57 +9,10 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": 
-      {"issue": {"issue-date": "1924-01", "volume": "67", "number": "397"}},
-   "first-renewed-contribution-source": "1951-JanJun",
-   "renewed-contribution-completeness": "active/1924",
+      {"issue": {"issue-date": "1925-07", "volume": "70", "number": "415"}},
+   "first-renewed-contribution-source": "1953-JanJun",
+   "renewed-contribution-completeness": "active/1925",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1924-01", "volume": "67", "number": "397"},
-      "title": "A Scrap of Paper",
-      "note": "Renewal record appears in the Books section of CCE, with a publication date of December 28, 1923 and a copyright date of June 19, 1924.",
-      "author": {
-       "authorized": "McNeile, H. C. (Herman Cyril), 1888-1937",
-       "lcna": "no96039399"
-      }
-     },
-     {"issue": {"issue-date": "1924-03", "volume": "67", "number": "399"},
-      "title": "The Porterhouse Steak",
-      "note": "Author name is a pseudonym for H. C. McNeile",
-      "author": {
-       "authorized": "Sapper, 1888-1937",
-       "lcna": "n85822242"
-      }
-     },
-     {"issue": {"issue-date": "1924-04", "volume": "67", "number": "400"},
-      "title": "Plain Jane",
-      "author": {
-       "authorized": "Vachell, Horace Annesley, 1861-1955",
-       "lcna": "n82123554"
-      }
-     },
-     {"issue": {"issue-date": "1924-06", "volume": "67", "number": "402"},
-      "title": "The Valley of the Shadow",
-      "note": "Renewal record appears in the Books section of CCE.",
-      "author": {
-       "authorized": "McNeile, H. C. (Herman Cyril), 1888-1937",
-       "lcna": "no96039399"
-      }
-     },
-     {"issue": {"issue-date": "1924-08", "volume": "68", "number": "404"},
-      "title": "The King of Hearts",
-      "note": "Author name is a pseudonym for H. C. McNeile",
-      "author": {
-       "authorized": "Sapper, 1888-1937",
-       "lcna": "n85822242"
-      }
-     },
-     {"issue": {"issue-date": "1924-12", "volume": "68", "number": "408"},
-      "title": "The Professor's Christmas Party",
-      "note": "Renewal record appears in the Books section of CCE.",
-      "author": {
-       "authorized": "McNeile, H. C. (Herman Cyril), 1888-1937",
-       "lcna": "no96039399"
-      }
-     },
      {"issue": {"issue-date": "1925-07", "volume": "70", "number": "415"},
       "title": "A Native Superstition",
       "note": "Author name is a pseudonym for H. C. McNeile",
@@ -83,6 +36,14 @@
        "authorized": "Sapper, 1888-1937",
        "lcna": "n85822242"
       }
+     },
+     {"issue": {"issue-date": "1926-02", "volume": "71", "number": "422"},
+      "title": "Touch and Go",
+      "note": "Author name is a pseudonym for H. C. McNeile",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
      }
    ],
    "additional-note" : "This is a British publication.  Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US.",
@@ -90,5 +51,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-05-29"
+   "last-updated": "2020-01-23"
 }

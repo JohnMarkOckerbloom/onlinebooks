@@ -13,32 +13,32 @@ my $wikidir  = "/home/LIBRARY/ockerblo/bibdata/wikipedia/";
 my $pkgdir   = $datadir . "packages/";
 
 my $bookfile = $datadir . "wbookfile";
-# my $wikidatafile = $wikidir . "periodical-issns.json";
 my $wikidatafile = $wikidir . "wikiperiodicals.csv";
 
 my $olbpserial = {};
 my $issnserial = {};
 
-my $cambridge_journals = $pkgdir . "cambridge/CUP_All_journals_2019-10-22.txt";
+my $cambridge_journals = $pkgdir . "cambridge/CUP_All_journals_2020-01-06.txt";
 
-my $jstor_merged = $pkgdir . "jstor/JSTOR_ArchiveTitles_2019-09-11.txt";
-my $jstor_split = $pkgdir . "jstor/JSTOR_Global_AllArchiveTitles_2019-09-11.txt";
+my $jstor_merged = $pkgdir . "jstor/JSTOR_ArchiveTitles_2020-01-08.txt";
+my $jstor_split = $pkgdir . "jstor/JSTOR_Global_AllArchiveTitles_2020-01-08.txt";
 
 my $muse_journals = $pkgdir . "muse/muse_journal_metadata_2019.tsv";
 
-my $oxford_archive = $pkgdir . "oxford/OxfordUniversityPress_Global_2019JournalsArchiveAllTitles_2019-05-30.txt";
+my $oxford_archive = $pkgdir . "oxford/OxfordUniversityPress_Global_2020JournalsArchiveAllTitles_2019-12-09.txt";
 
 my $proquest_archive = $pkgdir . "proquest/PeriodicalsArchiveOnline.tsv";
 
-my $sage_journals = $pkgdir . "sage/SAGE-premier-2020.txt";
+my $sage_journals = $pkgdir . "sage/sj_deep_backfile_2020_title_list_2019.09.17.txt";
 
-my $scidirect_journals = $pkgdir . "elsevier/ScienceDirectStandard_Global_ScienceDirectAvailableJournals_2019-09-13.txt";
+my $scidirect_journals = $pkgdir . "elsevier/ScienceDirectStandard_Global_ScienceDirectAvailableJournals_2020-01-06.txt";
 my $sim_journals = $pkgdir . "sim/SIM-MASTER-TITLE-2017.txt";
-my $springer_journals = $pkgdir . "springer/Springer_Global_Complete_Journals_2019-09-12.txt";
+my $springer_journals = $pkgdir . "springer/Springer_Global_Complete_Journals_2020-01-07.txt";
 my $taylor_global = $pkgdir . "taylor/TaylorandFrancisOnline_Global_DatabaseOAReadandPublish_2019-09-18.txt";
 my $taylor_classic = $pkgdir . "taylor/ClassicAggregation.txt";
 my $wikipedia = $pkgdir . "wikipedia/articleperiodicals.csv";
-my $wiley_all = $pkgdir . "wiley/wiley_alljournals_2019-09-01-1568229275410.txt";
+# my $wiley_all = $pkgdir . "wiley/wiley_alljournals_2019-09-01-1568229275410.txt";
+my $wiley_all = $pkgdir . "wiley/wiley_alljournals_2020-01-01.txt";
 
 my $sagetitlefield = "Title";  # just a placeholder; varies by file
 
@@ -97,7 +97,7 @@ my $tables = {
       parser=>\&kbartparser, filter=>\&pre64andolbp}
 };
 
-my $renewals_start = 1924;
+my $renewals_start = 1925;
 my $renewals_end   = 1963;
 
 my $gapcode = "-||-";

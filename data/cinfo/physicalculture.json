@@ -5,24 +5,284 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": 
-      {"issue": {"issue-date": "1924-12"}},
-   "first-renewed-contribution-source": "1952-JulDec",
-   "renewed-contribution-completeness": "active/1924",
+      {"issue": {"issue-date": "1926-06"}},
+   "first-renewed-contribution-source": "1953-JulDec",
+   "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1924-12"},
-       "title": "Mad Desire",
-       "title-note": "part 1 of 2",
+     {"issue": {"issue-date": "1926-06"},
+        "title": "The Physical Culture Detective",
+        "title-note": "part 1 of 5",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "using": "Arnold Fountain",
+         "lcna": "n79041782"
+        }
+     },
+     {"issue": {"issue-date": "1926-07"},
+        "title": "The Physical Culture Detective",
+        "title-note": "part 2 of 5",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "using": "Arnold Fountain",
+         "lcna": "n79041782"
+        }
+     },
+     {"issue": {"issue-date": "1926-08"},
+        "title": "The Physical Culture Detective",
+        "title-note": "part 3 of 5",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "using": "Arnold Fountain",
+         "lcna": "n79041782"
+        }
+     },
+     {"issue": {"issue-date": "1926-09"},
+        "title": "The Physical Culture Detective",
+        "title-note": "part 4 of 5",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "using": "Arnold Fountain",
+         "lcna": "n79041782"
+        }
+     },
+     {"issue": {"issue-date": "1926-10"},
+        "title": "The Physical Culture Detective",
+        "title-note": "part 5 of 5",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "using": "Arnold Fountain",
+         "lcna": "n79041782"
+        }
+     },
+     {"issue": {"issue-date": "1928-09"},
+        "title": "Bernarr MacFadden, His Life and His Work",
+        "title-note": "part 1 of 9",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "using": "Arnold Fountain",
+         "lcna": "n79041782"
+        }
+     },
+     {"issue": {"issue-date": "1928-09"},
+        "title": "The Burglar Girl",
+        "title-note": "part 1 of 5",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "using": "Arnold Fountain",
+         "lcna": "n79041782"
+        }
+     },
+     {"issue": {"issue-date": "1928-10"},
+        "title": "Bernarr MacFadden, His Life and His Work",
+        "title-note": "part 2 of 9",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "using": "Arnold Fountain",
+         "lcna": "n79041782"
+        }
+     },
+     {"issue": {"issue-date": "1928-10"},
+        "title": "The Burglar Girl",
+        "title-note": "part 2 of 5",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "using": "Arnold Fountain",
+         "lcna": "n79041782"
+        }
+     },
+     {"issue": {"issue-date": "1928-11"},
+        "title": "Bernarr MacFadden, His Life and His Work",
+        "title-note": "part 3 of 9",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "using": "Arnold Fountain",
+         "lcna": "n79041782"
+        }
+     },
+     {"issue": {"issue-date": "1928-11"},
+        "title": "The Burglar Girl",
+        "title-note": "part 3 of 5",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "using": "Arnold Fountain",
+         "lcna": "n79041782"
+        }
+     },
+     {"issue": {"issue-date": "1928-12"},
+        "title": "Bernarr MacFadden, His Life and His Work",
+        "title-note": "part 4 of 9",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "using": "Arnold Fountain",
+         "lcna": "n79041782"
+        }
+     },
+     {"issue": {"issue-date": "1928-12"},
+        "title": "The Burglar Girl",
+        "title-note": "part 4 of 5",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "using": "Arnold Fountain",
+         "lcna": "n79041782"
+        }
+     },
+     {"issue": {"issue-date": "1929-01"},
+        "title": "The Burglar Girl",
+        "title-note": "part 5 of 5",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "using": "Arnold Fountain",
+         "lcna": "n79041782"
+        }
+     },
+     {"issue": {"issue-date": "1929-01"},
+        "title": "Bernarr MacFadden, His Life and His Work",
+        "title-note": "part 5 of 9",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "using": "Arnold Fountain",
+         "lcna": "n79041782"
+        }
+     },
+     {"issue": {"issue-date": "1929-02"},
+        "title": "Bernarr MacFadden, His Life and His Work",
+        "title-note": "part 6 of 9",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "using": "Arnold Fountain",
+         "lcna": "n79041782"
+        }
+     },
+     {"issue": {"issue-date": "1929-03"},
+        "title": "Bernarr MacFadden, His Life and His Work",
+        "title-note": "part 7 of 9",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "using": "Arnold Fountain",
+         "lcna": "n79041782"
+        }
+     },
+     {"issue": {"issue-date": "1929-04"},
+        "title": "Bernarr MacFadden, His Life and His Work",
+        "title-note": "part 8 of 9",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "using": "Arnold Fountain",
+         "lcna": "n79041782"
+        }
+     },
+     {"issue": {"issue-date": "1929-05"},
+        "title": "Bernarr MacFadden, His Life and His Work",
+        "title-note": "part 9 of 9",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "using": "Arnold Fountain",
+         "lcna": "n79041782"
+        }
+     },
+     {"issue": {"issue-date": "1929-07"},
+        "title": "Can We Cure the Ills of Marriage",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "using": "Arnold Fountain",
+         "lcna": "n79041782"
+        }
+     },
+     {"issue": {"issue-date": "1929-12"},
+        "title": "Heart's Desire",
+        "title-note": "part 1 of 2",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "using": "Arnold Fountain",
+         "lcna": "n79041782"
+        }
+     },
+     {"issue": {"issue-date": "1930-01"},
+        "title": "Heart's Desire",
+        "title-note": "part 2 of 2",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "using": "Arnold Fountain",
+         "lcna": "n79041782"
+        }
+     },
+     {"issue": {"issue-date": "1931-01"},
+      "title": "Christmas Present for His Wife",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1931-03"},
+       "title": "Ten Commandments",
+       "title-note": "part 1 of 5",
        "author": {
-          "authorized": "Zanuck, Darryl Francis, 1902-1979",
-          "lcna": "n80082423"
+         "authorized": "Deeping, Warwick, 1877-1950",
+         "lcna": "n82131987"
        }
      },
-     {"issue": {"issue-date": "1925-01"},
-       "title": "Mad Desire",
-       "title-note": "part 2 of 2",
+     {"issue": {"issue-date": "1931-04"},
+       "title": "Ten Commandments",
+       "title-note": "part 2 of 5",
        "author": {
-          "authorized": "Zanuck, Darryl Francis, 1902-1979",
-          "lcna": "n80082423"
+         "authorized": "Deeping, Warwick, 1877-1950",
+         "lcna": "n82131987"
+       }
+     },
+     {"issue": {"issue-date": "1931-05"},
+       "title": "Ten Commandments",
+       "title-note": "part 3 of 5",
+       "author": {
+         "authorized": "Deeping, Warwick, 1877-1950",
+         "lcna": "n82131987"
+       }
+     },
+     {"issue": {"issue-date": "1931-06"},
+       "title": "Ten Commandments",
+       "title-note": "part 4 of 5",
+       "author": {
+         "authorized": "Deeping, Warwick, 1877-1950",
+         "lcna": "n82131987"
+       }
+     },
+     {"issue": {"issue-date": "1931-07"},
+       "title": "Ten Commandments",
+       "title-note": "part 5 of 5",
+       "author": {
+         "authorized": "Deeping, Warwick, 1877-1950",
+         "lcna": "n82131987"
+       }
+     },
+     {"issue": {"issue-date": "1931-09"},
+       "title": "Boy Crazy",
+       "title-note": "part 1 of 4",
+       "author": {
+         "authorized": "Oursler, Grace, 1900-1955",
+         "lcna": "no95037587"
+       }
+     },
+     {"issue": {"issue-date": "1931-10"},
+       "title": "Boy Crazy",
+       "title-note": "part 2 of 4",
+       "author": {
+         "authorized": "Oursler, Grace, 1900-1955",
+         "lcna": "no95037587"
+       }
+     },
+     {"issue": {"issue-date": "1931-11"},
+       "title": "Boy Crazy",
+       "title-note": "part 3 of 4",
+       "author": {
+         "authorized": "Oursler, Grace, 1900-1955",
+         "lcna": "no95037587"
+       }
+     },
+     {"issue": {"issue-date": "1931-12"},
+       "title": "Boy Crazy",
+       "title-note": "part 4 of 4",
+       "author": {
+         "authorized": "Oursler, Grace, 1900-1955",
+         "lcna": "no95037587"
        }
      }
    ],
@@ -30,5 +290,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-05-10"
+   "last-updated": "2020-01-22"
 }

@@ -1,5 +1,6 @@
 {
    "title": "Reader's Digest",
+   "online": "1",
    "first-issue": {"issue-date": "1922-02", "volume": "1", "number": "1"},
    "first-renewed-issue":
       {"issue-date": "1926-04", "volume": "4", "number": "48"},
@@ -7,10 +8,20 @@
    "first-renewed-contribution": 
       {"issue": {"issue-date": "1933-09"}},
    "first-renewed-contribution-source": "1961-JanJun",
+   "renewed-issues": [
+      {"issue-date": "1926-04", "volume": "4", "number": "48"},
+      {"issue-date": "1926-05", "volume": "5", "number": "49"},
+      {"issue-date": "1926-06", "volume": "5", "number": "50"},
+      {"issue-date": "1926-10", "volume": "5", "number": "54"},
+      {"issue-date": "1926-11", "volume": "5", "number": "55"},
+      {"issue-date": "1926-12", "volume": "5", "number": "56"},
+      {"issue-date": "1927-01", "volume": "5", "number": "57",
+       "cdate": "1926-12-20"}
+   ],
    "additional-note": "This magazine includes reprints and condensations of articles originally published elsewhere.  Those may have their own copyrights, and we have not systematically checked their renewal status.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-03-18"
+   "last-updated": "2020-01-19"
 }

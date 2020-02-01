@@ -1,23 +1,15 @@
 {
    "title": "The Cadenza",
    "online": "1",
-   "first-issue":
-      {"issue-date": "1894-09"},
-   "first-renewed-issue": 
-      {"issue-date": "1924-01", "volume": "31", "number": "1"},
-   "first-renewed-issue-source": "1952",
-   "first-renewed-contribution": "none",
-   "first-renewed-contribution-source": "cce",
+   "first-issue": {"issue-date": "1894-09"},
    "last-issue":
       {"issue-date": "1924-02", "volume": "31", "number": "2"},
-   "renewed-issue-completeness": "active/end",
-   "renewed-issues": [
-      {"issue-date": "1924-01", "volume": "31", "number": "1"},
-      {"issue-date": "1924-02", "volume": "31", "number": "2"}
-   ],
+   "rights-statement": "NoC-US",
+   "see-also": [{"id": "jacobsorch", "note": "Jacobs' Orchestra Monthly"}],
+   "additional-note": "Absorbed by Jacobs' Orchestra Monthly in 1924, which then published under the title 'Jacobs' Orchestra Monthly and The Cadenza' for some years after.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-03-01"
+   "last-updated": "2020-01-08"
 }

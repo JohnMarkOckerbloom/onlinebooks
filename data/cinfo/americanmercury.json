@@ -1,23 +1,17 @@
 {
    "title": "The American Mercury",
    "aka": ["New American Mercury"],
+   "online": "1",
    "first-issue": {"issue-date": "1924-01", "volume": "1", "number": "1"},
    "first-renewed-issue": 
-           {"issue-date": "1924-05", "volume": "2", "number": "5"},
-   "first-renewed-issue-source": "1952",
+       {"issue-date": "1925-02", "volume": "4", "number": "14",
+          "cdate": "1925-01-25"},
+   "first-renewed-issue-source": "1953-JanJun",
    "first-renewed-contribution": 
-      {"issue": {"issue-date": "1924-02", "volume": "1", "number": "2"}},
-   "first-renewed-contribution-source": "1951-JulDec",
-   "renewed-issue-completeness": "active/1924",
+      {"issue": {"issue-date": "1925-05", "volume": "5", "number": "17"}},
+   "first-renewed-contribution-source": "1952-JanJun",
+   "renewed-issue-completeness": "active/1925",
    "renewed-issues": [
-       {"issue-date": "1924-05", "volume": "2", "number": "5"},
-       {"issue-date": "1924-06", "volume": "2", "number": "6"},
-       {"issue-date": "1924-07", "volume": "2", "number": "7"},
-       {"issue-date": "1924-10", "volume": "3", "number": "10"},
-       {"issue-date": "1924-11", "volume": "3", "number": "11"},
-       {"issue-date": "1924-12", "volume": "3", "number": "12"},
-       {"issue-date": "1925-01", "volume": "4", "number": "13",
-          "cdate": "1924-12-25"},
        {"issue-date": "1925-02", "volume": "4", "number": "14",
           "cdate": "1925-01-25"},
        {"issue-date": "1925-03", "volume": "4", "number": "15"},
@@ -33,41 +27,6 @@
    ],
    "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1924-02", "volume": "1", "number": "2"},
-      "title": "Caught",
-      "author": {
-       "authorized": "Anderson, Sherwood, 1876-1941",
-       "lcna": "n79045519"
-      }
-     },
-     {"issue": {"issue-date": "1924-06", "volume": "2", "number": "6"},
-      "title": "Absolution",
-      "author": {
-       "authorized": "Fitzgerald, F. Scott (Francis Scott), 1896-1940",
-       "lcna": "n79006871"
-      }
-     },
-     {"issue": {"issue-date": "1924-08", "volume": "2", "number": "8"},
-      "title": "My Adventures as a Rolling Stone",
-       "author": {
-         "authorized": "Beach, Rex, 1877-1949",
-         "lcna": "n84804866"
-       }
-     },
-     {"issue": {"issue-date": "1924-09", "volume": "3", "number": "9"},
-      "title": "Mr. Durant",
-      "author": {
-       "authorized": "Parker, Dorothy, 1893-1967",
-       "lcna": "n50050331"
-      }
-     },
-     {"issue": {"issue-date": "1925-01", "volume": "4", "number": "13"},
-      "title": "Jefferson Out of Harness",
-      "author": {
-         "authorized": "Wilstach, Paul, 1870-1952",
-         "lcna": "n50015581"
-      }
-     },
      {"issue": {"issue-date": "1925-05", "volume": "5", "number": "17"},
       "title": "Modern Conquistadores",
       "author": {
@@ -1556,5 +1515,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-12-22"
+   "last-updated": "2020-01-04"
 }

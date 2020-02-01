@@ -3,94 +3,153 @@
    "online": "1",
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
-   "first-renewed-contribution": {"issue": {"issue-date": "1924-03-27"}},
-   "first-renewed-contribution-source": "1951-JanJun",
+   "first-renewed-contribution": {"issue": {"issue-date": "1926-09-23"}}, 
+   "first-renewed-contribution-source": "1954-JanJun",
    "see-also": [{"id": "americanboy", "note": "The American Boy"}],
+   "last-issue": {"issue-date": "1929-09"},
+   "renewed-contribution-completeness": "active/1929-09",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1924-03-27"}, 
-      "title": "Figgy Duff Pot",
-      "title-note": "part 1 of 10",
+     {"issue": {"issue-date": "1926-09-23"}, 
+      "title": "A Son of the Navahos",
+      "title-note": "part 1 of 8",
+       "author": {
+         "authorized": "Schultz, James Willard, 1859-1947",
+         "lcna": "n81141869"
+       }
+     },
+     {"issue": {"issue-date": "1926-09-30"}, 
+      "title": "A Son of the Navahos",
+      "title-note": "part 3 of 8",
+       "author": {
+         "authorized": "Schultz, James Willard, 1859-1947",
+         "lcna": "n81141869"
+       }
+     },
+     {"issue": {"issue-date": "1926-10-07"}, 
+      "title": "A Son of the Navahos",
+      "title-note": "part 3 of 8",
+       "author": {
+         "authorized": "Schultz, James Willard, 1859-1947",
+         "lcna": "n81141869"
+       }
+     },
+     {"issue": {"issue-date": "1926-10-14"}, 
+      "title": "A Son of the Navahos",
+      "title-note": "part 4 of 8",
+       "author": {
+         "authorized": "Schultz, James Willard, 1859-1947",
+         "lcna": "n81141869"
+       }
+     },
+     {"issue": {"issue-date": "1926-10-21"}, 
+      "title": "A Son of the Navahos",
+      "title-note": "part 5 of 8",
+       "author": {
+         "authorized": "Schultz, James Willard, 1859-1947",
+         "lcna": "n81141869"
+       }
+     },
+     {"issue": {"issue-date": "1926-10-28"}, 
+      "title": "A Son of the Navahos",
+      "title-note": "part 6 of 8",
+       "author": {
+         "authorized": "Schultz, James Willard, 1859-1947",
+         "lcna": "n81141869"
+       }
+     },
+     {"issue": {"issue-date": "1926-11-04"}, 
+      "title": "A Son of the Navahos",
+      "title-note": "part 7 of 8",
+       "author": {
+         "authorized": "Schultz, James Willard, 1859-1947",
+         "lcna": "n81141869"
+       }
+     },
+     {"issue": {"issue-date": "1926-11-11"}, 
+      "title": "A Son of the Navahos",
+      "title-note": "part 8 of 8",
+       "author": {
+         "authorized": "Schultz, James Willard, 1859-1947",
+         "lcna": "n81141869"
+       }
+     },
+     {"issue": {"issue-date": "1926-12-02"}, 
+      "title": "Chris'mus Gif'",
       "author": {
-       "authorized": "Roberts, Theodore Goodridge, 1877-1953",
-       "lcna": "nr97039798"
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
       }
      },
-     {"issue": {"issue-date": "1924-04-03"}, 
-      "title": "Figgy Duff Pot",
-      "title-note": "part 2 of 10",
+     {"issue": {"issue-date": "1927-04-14"}, 
+      "title": "Sewing Susie",
+      "title-note": "part 1 of 7",
       "author": {
-       "authorized": "Roberts, Theodore Goodridge, 1877-1953",
-       "lcna": "nr97039798"
+       "authorized": "Singmaster, Elsie, 1879-1958",
+       "lcna": "n93032270"
       }
      },
-     {"issue": {"issue-date": "1924-04-10"}, 
-      "title": "Figgy Duff Pot",
-      "title-note": "part 3 of 10",
+     {"issue": {"issue-date": "1927-04-21"}, 
+      "title": "Sewing Susie",
+      "title-note": "part 2 of 7",
       "author": {
-       "authorized": "Roberts, Theodore Goodridge, 1877-1953",
-       "lcna": "nr97039798"
+       "authorized": "Singmaster, Elsie, 1879-1958",
+       "lcna": "n93032270"
       }
      },
-     {"issue": {"issue-date": "1924-04-17"}, 
-      "title": "Figgy Duff Pot",
-      "title-note": "part 4 of 10",
+     {"issue": {"issue-date": "1927-04-28"}, 
+      "title": "Sewing Susie",
+      "title-note": "part 3 of 7",
       "author": {
-       "authorized": "Roberts, Theodore Goodridge, 1877-1953",
-       "lcna": "nr97039798"
+       "authorized": "Singmaster, Elsie, 1879-1958",
+       "lcna": "n93032270"
       }
      },
-     {"issue": {"issue-date": "1924-04-24"}, 
-      "title": "Figgy Duff Pot",
-      "title-note": "part 5 of 10",
+     {"issue": {"issue-date": "1927-05-05"}, 
+      "title": "Sewing Susie",
+      "title-note": "part 4 of 7",
       "author": {
-       "authorized": "Roberts, Theodore Goodridge, 1877-1953",
-       "lcna": "nr97039798"
+       "authorized": "Singmaster, Elsie, 1879-1958",
+       "lcna": "n93032270"
       }
      },
-     {"issue": {"issue-date": "1924-05-01"}, 
-      "title": "Figgy Duff Pot",
-      "title-note": "part 6 of 10",
+     {"issue": {"issue-date": "1927-05-12"}, 
+      "title": "Sewing Susie",
+      "title-note": "part 5 of 7",
       "author": {
-       "authorized": "Roberts, Theodore Goodridge, 1877-1953",
-       "lcna": "nr97039798"
+       "authorized": "Singmaster, Elsie, 1879-1958",
+       "lcna": "n93032270"
       }
      },
-     {"issue": {"issue-date": "1924-05-08"}, 
-      "title": "Figgy Duff Pot",
-      "title-note": "part 7 of 10",
+     {"issue": {"issue-date": "1927-05-19"}, 
+      "title": "Sewing Susie",
+      "title-note": "part 6 of 7",
       "author": {
-       "authorized": "Roberts, Theodore Goodridge, 1877-1953",
-       "lcna": "nr97039798"
+       "authorized": "Singmaster, Elsie, 1879-1958",
+       "lcna": "n93032270"
       }
      },
-     {"issue": {"issue-date": "1924-05-15"}, 
-      "title": "Figgy Duff Pot",
-      "title-note": "part 8 of 10",
+     {"issue": {"issue-date": "1927-05-26"}, 
+      "title": "Sewing Susie",
+      "title-note": "part 7 of 7",
       "author": {
-       "authorized": "Roberts, Theodore Goodridge, 1877-1953",
-       "lcna": "nr97039798"
+       "authorized": "Singmaster, Elsie, 1879-1958",
+       "lcna": "n93032270"
       }
      },
-     {"issue": {"issue-date": "1924-05-22"}, 
-      "title": "Figgy Duff Pot",
-      "title-note": "part 9 of 10",
+     {"issue": {"issue-date": "1929-04"}, 
+      "title": "Treasures of Darkness",
       "author": {
-       "authorized": "Roberts, Theodore Goodridge, 1877-1953",
-       "lcna": "nr97039798"
-      }
-     },
-     {"issue": {"issue-date": "1924-05-29"}, 
-      "title": "Figgy Duff Pot",
-      "title-note": "part 10 of 10",
-      "author": {
-       "authorized": "Roberts, Theodore Goodridge, 1877-1953",
-       "lcna": "nr97039798"
+       "authorized": "Claudy, C. H. (Carl Harry), 1879-1957",
+       "lcna": "n90602860"
       }
      }
+   ],
+   "additional-notes" : ["Active contribution renewals are recorded beginning in the 1953 July-December CCE volume, but the earliest actively renewed contribution is noted in the 1954 January-June volume.",
+   "This publication was absorbed by The American Boy after the September 1929 issue.  Issues of that publication for some time afterwards were titled American Boy-Youth's Companion or Youth's Companion Combined With American Boy.  Renewals under the combined titles are not recorded here."
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-01-12"
+   "last-updated": "2020-01-21"
 }

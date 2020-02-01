@@ -9,169 +9,13 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution":
-      {"issue": {"issue-date": "1924-07", "volume": "98", "number": "1"}},
+      {"issue": {"issue-date": "1925-03", "cdate": "1925-01-24",
+                 "volume": "99", "number": "3"}},
    "first-renewed-contribution-source": "1952-JanJun",
    "last-issue": {"issue-date": "1956-08", "volume": "162", "number": "2"},
    "see-also": [{"id": "americanatc", "note": "American (American Tobacco Company magazine, 1940s)"}],
-   "renewed-contribution-completeness": "active/1924",
+   "renewed-contribution-completeness": "active/1925",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1924-07", "volume": "98", "number": "1"}, 
-      "title": "Breaking Through",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1924-08", "volume": "98", "number": "2"},
-      "title": "The Stuff of Heroes",
-      "author": {
-         "authorized": "Titus, Harold, 1888-1967",
-         "lcna": "no2008175553"
-      }
-     },
-     {"issue": {"issue-date": "1924-09", "volume": "98", "number": "3"}, 
-      "title": "Adventures in Understanding",
-      "title-note": "part 1 of 12",
-      "note": "Author name is a pseudonym for Ray Stannard Baker",
-      "author": {
-         "authorized": "Grayson, David, 1870-1946",
-         "lcna": "n88084521"
-       }
-     },
-     {"issue": {"issue-date": "1924-10", "volume": "98", "number": "4"}, 
-      "title": "Cold Blooded",
-      "author": {
-         "authorized": "Connell, Richard Edward, 1893-1949",
-         "lcna": "n50028704"
-       }
-     },
-     {"issue": {"issue-date": "1924-10", "volume": "98", "number": "4"}, 
-      "title": "Rocking Moon",
-      "title-note": "part 1 of 6",
-      "author": {
-         "authorized": "Willoughby, Barrett, -1959",
-         "lcna": "n94074965"
-      }
-     },
-     {"issue": {"issue-date": "1924-10", "volume": "98", "number": "4"}, 
-      "title": "A Little Alaska Schooner Was My Childhood Home",
-      "author": {
-         "authorized": "Willoughby, Barrett, -1959",
-         "lcna": "n94074965"
-      }
-     },
-     {"issue": {"issue-date": "1924-10", "volume": "98", "number": "4"}, 
-      "title": "Adventures in Understanding",
-      "title-note": "part 2 of 12",
-      "note": "Author name is a pseudonym for Ray Stannard Baker",
-      "author": {
-         "authorized": "Grayson, David, 1870-1946",
-         "lcna": "n88084521"
-       }
-     },
-     {"issue": {"issue-date": "1924-11", "volume": "98", "number": "5"}, 
-      "title": "What the Desert Means to Me",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1924-11", "volume": "98", "number": "5"}, 
-      "title": "The Bread and Butter Complex",
-      "author": {
-       "authorized": "Banning, Margaret Culkin, 1891-1982",
-       "lcna": "n86086096"
-      }
-     },
-     {"issue": {"issue-date": "1924-11", "volume": "98", "number": "5"}, 
-      "title": "Adventures in Understanding",
-      "title-note": "part 3 of 12",
-      "note": "Author name is a pseudonym for Ray Stannard Baker",
-      "author": {
-         "authorized": "Grayson, David, 1870-1946",
-         "lcna": "n88084521"
-       }
-     },
-     {"issue": {"issue-date": "1924-11", "volume": "98", "number": "5"}, 
-      "title": "Rocking Moon",
-      "title-note": "part 2 of 6",
-      "author": {
-         "authorized": "Willoughby, Barrett, -1959",
-         "lcna": "n94074965"
-      }
-     },
-     {"issue": {"issue-date": "1924-11", "volume": "98", "number": "5"}, 
-      "title": "Many Happy Returns",
-      "author": {
-       "authorized": "Butler, Ellis Parker, 1869-1937",
-       "lcna": "n81040602"
-      }
-     },
-     {"issue": {"issue-date": "1924-11", "volume": "98", "number": "5"}, 
-      "title": "Human Nature on the Witness Stand",
-      "author": {
-       "authorized": "Train, Arthur, 1875-1945",
-       "lcna": "n50014661"
-      }
-     },
-     {"issue": {"issue-date": "1924-12", "volume": "98", "number": "6"}, 
-      "title": "Rocking Moon",
-      "title-note": "part 3 of 6",
-      "author": {
-         "authorized": "Willoughby, Barrett, -1959",
-         "lcna": "n94074965"
-      }
-     },
-     {"issue": {"issue-date": "1924-12", "volume": "98", "number": "6"}, 
-      "title": "Adventures in Understanding",
-      "title-note": "part 4 of 12",
-      "note": "Author name is a pseudonym for Ray Stannard Baker",
-      "author": {
-         "authorized": "Grayson, David, 1870-1946",
-         "lcna": "n88084521"
-       }
-     },
-     {"issue": {"issue-date": "1925-01", "volume": "99", "number": "1"},
-      "title": "Rocking Moon",
-      "title-note": "part 4 of 6",
-      "author": {
-         "authorized": "Willoughby, Barrett, -1959",
-         "lcna": "n94074965"
-      }
-     },
-     {"issue": {"issue-date": "1925-01", "volume": "99", "number": "1"},
-      "title": "What I Have Learned From Boys",
-      "author": {
-       "authorized": "Tarkington, Booth, 1869-1946",
-       "lcna": "n79078124"
-      }
-     },
-     {"issue": {"issue-date": "1925-01", "volume": "99", "number": "1"},
-      "title": "Adventures in Understanding",
-      "title-note": "part 5 of 12",
-      "note": "Author name is a pseudonym for Ray Stannard Baker",
-      "author": {
-         "authorized": "Grayson, David, 1870-1946",
-         "lcna": "n88084521"
-       }
-     },
-     {"issue": {"issue-date": "1925-02", "volume": "99", "number": "2"},
-      "title": "Adventures in Understanding",
-      "title-note": "part 6 of 12",
-      "note": "Author name is a pseudonym for Ray Stannard Baker",
-      "author": {
-         "authorized": "Grayson, David, 1870-1946",
-         "lcna": "n88084521"
-       }
-     },
-     {"issue": {"issue-date": "1925-02", "volume": "99", "number": "2"},
-      "title": "Rocking Moon",
-      "title-note": "part 5 of 6",
-      "author": {
-         "authorized": "Willoughby, Barrett, -1959",
-         "lcna": "n94074965"
-      }
-     },
      {"issue": {"issue-date": "1925-03", "volume": "99", "number": "3"},
       "title": "Spare Parts",
       "author": {
@@ -325,11 +169,25 @@
       }
      },
      {"issue": {"issue-date": "1926-01", "volume": "101", "number": "1"},
+      "title": "The Sunset Derby",
+      "author": {
+         "authorized": "Pelley, William Dudley, 1890-1965",
+         "lcna": "n83065963"
+       }
+     },
+     {"issue": {"issue-date": "1926-01", "volume": "101", "number": "1"},
       "title": "Let Dot Do It",
       "author": {
          "authorized": "Kilbourne, Fannie, 1890-",
          "lcna": "no93026233"
        }
+     },
+     {"issue": {"issue-date": "1926-01", "volume": "101", "number": "1"},
+      "title": "Father of Pictures",
+      "author": {
+         "authorized": "Willoughby, Barrett, -1959",
+         "lcna": "n94074965"
+      }
      },
      {"issue": {"issue-date": "1926-03", "volume": "101", "number": "3"},
       "title": "Do You Believe in Luck?",
@@ -361,6 +219,22 @@
          "lcna": "no2008175553"
       }
      },
+     {"issue": {"issue-date": "1926-05", "volume": "101", "number": "5"},
+      "title": "The Fighting Point",
+      "title-note": "part 1 of 3",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
+     {"issue": {"issue-date": "1926-06", "volume": "101", "number": "6"},
+      "title": "The Fighting Point",
+      "title-note": "part 2 of 3",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
      {"issue": {"issue-date": "1926-06", "volume": "101", "number": "6"},
       "title": "Good Times",
       "author": {
@@ -383,17 +257,72 @@
        }
      },
      {"issue": {"issue-date": "1926-07", "volume": "102", "number": "1"},
+      "title": "The Fighting Point",
+      "title-note": "part 3 of 3",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
+     {"issue": {"issue-date": "1926-07", "volume": "102", "number": "1"},
+      "title": "Challenge of the Sweepstakes Trail",
+      "author": {
+         "authorized": "Willoughby, Barrett, -1959",
+         "lcna": "n94074965"
+      }
+     },
+     {"issue": {"issue-date": "1926-07", "volume": "102", "number": "1"},
       "title": "Voices of the Night",
+      "author": {
+       "authorized": "Rutledge, Archibald, 1883-1973",
+       "lcna": "n50031762"
+      }
+     },
+     {"issue": {"issue-date": "1926-09", "volume": "102", "number": "3"},
+      "title": "All of Us Mothers",
+      "author": {
+         "authorized": "Kilbourne, Fannie, 1890-",
+         "lcna": "no93026233"
+       }
+     },
+     {"issue": {"issue-date": "1926-09", "volume": "102", "number": "3"},
+      "title": "Evans Record is Hidden in the Heart of Alaska's Hills",
+      "author": {
+         "authorized": "Willoughby, Barrett, -1959",
+         "lcna": "n94074965"
+      }
+     },
+     {"issue": {"issue-date": "1926-10", "volume": "102", "number": "4"},
+      "title": "The Joke on Joe",
+      "author": {
+         "authorized": "Kilbourne, Fannie, 1890-",
+         "lcna": "no93026233"
+       }
+     },
+     {"issue": {"issue-date": "1926-11", "volume": "102", "number": "5"},
+      "title": "The Girl Who Set Out to Marry Money",
+      "author": {
+       "name": "Marion Valensi"
+      }
+     },
+     {"issue": {"issue-date": "1926-11", "volume": "102", "number": "5"},
+      "title": "A Hound is the Philosopher Among Dogs",
+      "author": {
+       "authorized": "Rutledge, Archibald, 1883-1973",
+       "lcna": "n50031762"
+      }
+     },
+     {"issue": {"issue-date": "1927-01", "volume": "103", "number": "1"},
+      "title": "The Courage of the Wild",
       "author": {
        "authorized": "Rutledge, Archibald, 1883-1973",
        "lcna": "n50031762"
       }
      }
    ],
-   "additional-note" : "Active contribution renewals are recorded beginning in the 1951 July-December CCE volume, but the earliest active renewed contribution is noted in the 1952 January-June volume.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-06-03"
+   "last-updated": "2020-01-21"
 }

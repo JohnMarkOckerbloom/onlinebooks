@@ -4,95 +4,32 @@
    "online": "1",
    "first-issue": {"issue-date": "1867-11-02", "volume": "1", "number": "1"},
    "first-renewed-issue": 
-     {"issue-date": "1924-02", "cdate": "1924-01-25",
-                   "volume": "59", "number": "2"},
-   "first-renewed-issue-source": "1951-JulDec",
-   "first-renewed-contribution": 
-     {"issue": {"issue-date": "1924-02", "volume": "59", "number": "2"}},
-   "first-renewed-contribution-source": "1951-JanJun",
-   "renewed-issue-completeness": "active/1924",
-   "renewed-issues": [
-     {"issue-date": "1924-02", "volume": "59", "number": "2"},
-     {"issue-date": "1924-03", "volume": "59", "number": "3"},
-     {"issue-date": "1924-04", "volume": "59", "number": "4"},
-     {"issue-date": "1924-05", "volume": "59", "number": "5"},
-     {"issue-date": "1924-06", "volume": "59", "number": "6"},
-     {"issue-date": "1924-07", "volume": "59", "number": "7"},
-     {"issue-date": "1924-08", "volume": "59", "number": "8"},
-     {"issue-date": "1924-09", "volume": "59", "number": "9"},
-     {"issue-date": "1924-10", "volume": "59", "number": "10"},
-     {"issue-date": "1924-11", "volume": "59", "number": "11"},
-     {"issue-date": "1924-12", "volume": "59", "number": "12"},
-     {"issue-date": "1925-01", "volume": "60", "number": "1",
-          "cdate": "1924-12-25"},
      {"issue-date": "1925-02", "volume": "60", "number": "2",
           "cdate": "1925-01-25"},
-     {"issue-date": "1925-03", "volume": "60", "number": "3"}
+   "first-renewed-issue-source": "1952",
+   "first-renewed-contribution": 
+     {"issue": {"issue-date": "1925-02", "volume": "60", "number": "2"}},
+   "first-renewed-contribution-source": "1952-JanJun",
+   "renewed-issue-completeness": "active/1925",
+   "renewed-issues": [
+     {"issue-date": "1925-02", "volume": "60", "number": "2",
+          "cdate": "1925-01-25"},
+     {"issue-date": "1925-03", "volume": "60", "number": "3"},
+     {"issue-date": "1925-04"},
+     {"issue-date": "1925-05"},
+     {"issue-date": "1925-06"},
+     {"issue-date": "1925-07"},
+     {"issue-date": "1925-08"},
+     {"issue-date": "1925-09"},
+     {"issue-date": "1925-10"},
+     {"issue-date": "1925-11"},
+     {"issue-date": "1925-12"},
+     {"issue-date": "1926-01", "cdate": "1925-12-25"},
+     {"issue-date": "1926-02", "cdate": "1926-01-25"},
+     {"issue-date": "1926-03"}
    ],
-   "renewed-contribution-completeness": "active/1924",
+   "renewed-contribution-completeness": "active/1925",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1924-02", "volume": "59", "number": "2"},
-      "title": "The Judges",
-      "author": {
-       "authorized": "Duganne, Phyllis, 1899-1976",
-       "lcna": "n90719514"
-      }
-     },
-     {"issue": {"issue-date": "1924-02", "volume": "59", "number": "2"},
-      "title": "Empty Hands",
-      "title-note": "part 5 of 6",
-      "author": {
-       "authorized": "Stringer, Arthur, 1874-1950",
-       "lcna": "no95034763"
-      }
-     },
-     {"issue": {"issue-date": "1924-03", "volume": "59", "number": "3"},
-      "title": "Empty Hands",
-      "title-note": "part 6 of 6",
-      "author": {
-       "authorized": "Stringer, Arthur, 1874-1950",
-       "lcna": "no95034763"
-      }
-     },
-     {"issue": {"issue-date": "1924-04", "volume": "59", "number": "4"},
-      "title": "Portrait of a Man With Red Hair",
-      "title-note": "part 1 of 4",
-      "author": {
-         "authorized": "Walpole, Hugh, 1884-1941",
-         "lcna": "n79151207"
-       }
-     },
-     {"issue": {"issue-date": "1924-05", "volume": "59", "number": "5"},
-      "title": "The Wronging of Edwin Dell",
-      "author": {
-         "authorized": "Connell, Richard Edward, 1893-1949",
-         "lcna": "n50028704"
-       }
-     },
-     {"issue": {"issue-date": "1924-05", "volume": "59", "number": "5"},
-      "title": "Portrait of a Man With Red Hair",
-      "title-note": "part 2 of 4",
-      "author": {
-         "authorized": "Walpole, Hugh, 1884-1941",
-         "lcna": "n79151207"
-       }
-     },
-     {"issue": {"issue-date": "1924-06", "volume": "59", "number": "6"},
-      "title": "Portrait of a Man With Red Hair",
-      "title-note": "part 3 of 4",
-      "author": {
-         "authorized": "Walpole, Hugh, 1884-1941",
-         "lcna": "n79151207"
-       }
-     },
-     {"issue": {"issue-date": "1924-07", "volume": "59", "number": "7"},
-      "title": "Portrait of a Man With Red Hair",
-      "title-note": "part 4 of 4",
-      "author": {
-         "authorized": "Walpole, Hugh, 1884-1941",
-         "lcna": "n79151207"
-       }
-     },
      {"issue": {"issue-date": "1925-02", "volume": "60", "number": "2"},
       "title": "Spring Flow'rets",
       "author": {
@@ -183,6 +120,29 @@
        "lcna": "n90719514"
       }
      },
+     {"issue": {"issue-date": "1925-09", "volume": "60", "number": "9"}, 
+      "title": "The Great Pandolfo",
+      "author": {
+       "authorized": "Locke, William John, 1863-1930",
+       "lcna": "n84141474"
+      }
+     },
+     {"issue": {"issue-date": "1925-09", "volume": "60", "number": "9"}, 
+      "title": "The Green Hat",
+      "title-note": "part 1 of 2",
+      "author": {
+         "authorized": "Arlen, Michael, 1895-1956",
+         "lcna": "n50001591"
+       }
+     },
+     {"issue": {"issue-date": "1925-10"}, 
+      "title": "The Green Hat",
+      "title-note": "part 2 of 2",
+      "author": {
+         "authorized": "Arlen, Michael, 1895-1956",
+         "lcna": "n50001591"
+       }
+     },
      {"issue": {"issue-date": "1925-10"},
       "title": "Harmer John",
       "title-note": "part 1 of 4",
@@ -229,11 +189,87 @@
        "lcna": "n85232177"
       }
      },
+     {"issue": {"issue-date": "1926-03"}, 
+      "title": "Tampico",
+      "title-note": "part 1 of 6",
+      "author": {
+       "authorized": "Hergesheimer, Joseph, 1880-1954",
+       "lcna": "n50034979"
+      }
+     },
+     {"issue": {"issue-date": "1926-04"}, 
+      "title": "Tampico",
+      "title-note": "part 2 of 6",
+      "author": {
+       "authorized": "Hergesheimer, Joseph, 1880-1954",
+       "lcna": "n50034979"
+      }
+     },
+     {"issue": {"issue-date": "1926-05"}, 
+      "title": "Tampico",
+      "title-note": "part 3 of 6",
+      "author": {
+       "authorized": "Hergesheimer, Joseph, 1880-1954",
+       "lcna": "n50034979"
+      }
+     },
+     {"issue": {"issue-date": "1926-06"}, 
+      "title": "Tampico",
+      "title-note": "part 4 of 6",
+      "author": {
+       "authorized": "Hergesheimer, Joseph, 1880-1954",
+       "lcna": "n50034979"
+      }
+     },
      {"issue": {"issue-date": "1926-06"},
       "title": "Portrait of a Gentleman",
       "author": {
          "authorized": "Arlen, Michael, 1895-1956",
          "lcna": "n50001591"
+       }
+     },
+     {"issue": {"issue-date": "1926-07"}, 
+      "title": "Tampico",
+      "title-note": "part 5 of 6",
+      "author": {
+       "authorized": "Hergesheimer, Joseph, 1880-1954",
+       "lcna": "n50034979"
+      }
+     },
+     {"issue": {"issue-date": "1926-08"}, 
+      "title": "Tampico",
+      "title-note": "part 6 of 6",
+      "author": {
+       "authorized": "Hergesheimer, Joseph, 1880-1954",
+       "lcna": "n50034979"
+      }
+     },
+     {"issue": {"issue-date": "1926-09"},
+       "title": "The Duchess and Lady Torrent",
+       "author": {
+        "authorized": "Mason, A. E. W. (Alfred Edward Woodley), 1865-1948",
+        "lcna": "n50043662"
+       }
+     },
+     {"issue": {"issue-date": "1926-09"},
+      "title": "The Closed Shop",
+      "author": {
+       "authorized": "Maugham, W. Somerset (William Somerset), 1874-1965",
+       "lcna": "n79036830"
+      }
+     },
+     {"issue": {"issue-date": "1926-10"},
+      "title": "The Creative Impulse",
+      "author": {
+       "authorized": "Maugham, W. Somerset (William Somerset), 1874-1965",
+       "lcna": "n79036830"
+      }
+     },
+     {"issue": {"issue-date": "1926-12"},
+       "title": "The Strange Case of Joan",
+       "author": {
+        "authorized": "Mason, A. E. W. (Alfred Edward Woodley), 1865-1948",
+        "lcna": "n50043662"
        }
      }
    ],
@@ -241,5 +277,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-06-04"
+   "last-updated": "2020-01-07"
 }

@@ -3,178 +3,14 @@
    "first-renewed-issue": {"issue-date": "1926-05-16"},
    "first-renewed-issue-source": "1953-JulDec",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1924-01-06"}},
-   "first-renewed-contribution-source": "1951-JulDec",
-   "renewed-contribution-completeness": "active/1924",
+     {"issue": {"issue-date": "1925-02-13"}},
+   "first-renewed-contribution-source": "1952-JanJun",
+   "renewed-issue-completeness": "active/1926",
+   "renewed-issues": [
+      {"issue-date": "1926-05-16"}
+   ],
+   "renewed-contribution-completeness": "active/1925",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1924-01-06"},
-       "title": "My Old Home Town",
-       "title-note": "one of a series",
-       "note": "Listed as work for hire by Damon Runyon as an employee of the Hearst Corporation. Hearst is the author for copyright purposes.",
-       "authors": [
-        {"authorized": "Hearst Corporation", "lcna": "n80097919"},
-        {"authorized": "Runyon, Damon, 1880-1946 ", "lcna": "n80049533"}
-       ]
-     },
-     {"issue": {"issue-date": "1924-01-13"},
-       "title": "My Old Home Town",
-       "title-note": "one of a series",
-       "note": "Listed as work for hire by Damon Runyon as an employee of the Hearst Corporation. Hearst is the author for copyright purposes.",
-       "authors": [
-        {"authorized": "Hearst Corporation", "lcna": "n80097919"},
-        {"authorized": "Runyon, Damon, 1880-1946 ", "lcna": "n80049533"}
-       ]
-     },
-     {"issue": {"issue-date": "1924-01-20"},
-       "title": "My Old Home Town",
-       "title-note": "one of a series",
-       "note": "Listed as work for hire by Damon Runyon as an employee of the Hearst Corporation. Hearst is the author for copyright purposes.",
-       "authors": [
-        {"authorized": "Hearst Corporation", "lcna": "n80097919"},
-        {"authorized": "Runyon, Damon, 1880-1946 ", "lcna": "n80049533"}
-       ]
-     },
-     {"issue": {"issue-date": "1924-02-03"},
-       "title": "My Old Home Town",
-       "title-note": "one of a series",
-       "note": "Listed as work for hire by Damon Runyon as an employee of the Hearst Corporation. Hearst is the author for copyright purposes.",
-       "authors": [
-        {"authorized": "Hearst Corporation", "lcna": "n80097919"},
-        {"authorized": "Runyon, Damon, 1880-1946 ", "lcna": "n80049533"}
-       ]
-     },
-     {"issue": {"issue-date": "1924-02-17"},
-       "title": "My Old Home Town",
-       "title-note": "one of a series",
-       "note": "Listed as work for hire by Damon Runyon as an employee of the Hearst Corporation. Hearst is the author for copyright purposes.",
-       "authors": [
-        {"authorized": "Hearst Corporation", "lcna": "n80097919"},
-        {"authorized": "Runyon, Damon, 1880-1946 ", "lcna": "n80049533"}
-       ]
-     },
-     {"issue": {"issue-date": "1924-02-24"},
-       "title": "My Old Home Town",
-       "title-note": "one of a series",
-       "note": "Listed as work for hire by Damon Runyon as an employee of the Hearst Corporation. Hearst is the author for copyright purposes.",
-       "authors": [
-        {"authorized": "Hearst Corporation", "lcna": "n80097919"},
-        {"authorized": "Runyon, Damon, 1880-1946 ", "lcna": "n80049533"}
-       ]
-     },
-     {"issue": {"issue-date": "1924-03-02"},
-       "title": "My Old Home Town",
-       "title-note": "one of a series",
-       "note": "Listed as work for hire by Damon Runyon as an employee of the Hearst Corporation. Hearst is the author for copyright purposes.",
-       "authors": [
-        {"authorized": "Hearst Corporation", "lcna": "n80097919"},
-        {"authorized": "Runyon, Damon, 1880-1946 ", "lcna": "n80049533"}
-       ]
-     },
-     {"issue": {"issue-date": "1924-03-04"},
-       "title": "Toots and Casper",
-       "note": "Listed as work for hire by Jimmy Murphy as an employee of King Features Syndicate.  King Features is the author for copyright purposes.",
-       "authors": [
-        {"authorized": "King Features Syndicate", "lcna": "n82010039"},
-        {"authorized": "Murphy, Jimmy, 1891-1965", "lcna": "n95000162"}
-       ]
-     },
-     {"issue": {"issue-date": "1924-03-09"},
-       "title": "My Old Home Town",
-       "title-note": "one of a series",
-       "note": "Listed as work for hire by Damon Runyon as an employee of the Hearst Corporation. Hearst is the author for copyright purposes.",
-       "authors": [
-        {"authorized": "Hearst Corporation", "lcna": "n80097919"},
-        {"authorized": "Runyon, Damon, 1880-1946 ", "lcna": "n80049533"}
-       ]
-     },
-     {"issue": {"issue-date": "1924-03-30"},
-       "title": "My Old Home Town",
-       "title-note": "one of a series",
-       "note": "Listed as work for hire by Damon Runyon as an employee of the Hearst Corporation. Hearst is the author for copyright purposes.",
-       "authors": [
-        {"authorized": "Hearst Corporation", "lcna": "n80097919"},
-        {"authorized": "Runyon, Damon, 1880-1946 ", "lcna": "n80049533"}
-       ]
-     },
-     {"issue": {"issue-date": "1924-04-06"},
-       "title": "My Old Home Town",
-       "title-note": "one of a series",
-       "note": "Listed as work for hire by Damon Runyon as an employee of the Hearst Corporation. Hearst is the author for copyright purposes.",
-       "authors": [
-        {"authorized": "Hearst Corporation", "lcna": "n80097919"},
-        {"authorized": "Runyon, Damon, 1880-1946 ", "lcna": "n80049533"}
-       ]
-     },
-     {"issue": {"issue-date": "1924-04-07"},
-       "title": "Tillie the Toiler",
-       "note": "Listed as work for hire by Russ Westover as an employee of King Features Syndicate.  King Features is the author for copyright purposes.",
-       "authors": [
-        {"authorized": "King Features Syndicate", "lcna": "n82010039"},
-        {"authorized": "Westover, Russ, 1886-1966", "lcna": "n90631483"}
-       ]
-     },
-     {"issue": {"issue-date": "1924-04-13"},
-       "title": "My Old Home Town",
-       "title-note": "one of a series",
-       "note": "Listed as work for hire by Damon Runyon as an employee of the Hearst Corporation. Hearst is the author for copyright purposes.",
-       "authors": [
-        {"authorized": "Hearst Corporation", "lcna": "n80097919"},
-        {"authorized": "Runyon, Damon, 1880-1946 ", "lcna": "n80049533"}
-       ]
-     },
-     {"issue": {"issue-date": "1924-04-20"},
-       "title": "My Old Home Town",
-       "title-note": "one of a series",
-       "note": "Listed as work for hire by Damon Runyon as an employee of the Hearst Corporation. Hearst is the author for copyright purposes.",
-       "authors": [
-        {"authorized": "Hearst Corporation", "lcna": "n80097919"},
-        {"authorized": "Runyon, Damon, 1880-1946 ", "lcna": "n80049533"}
-       ]
-     },
-     {"issue": {"issue-date": "1924-05-04"},
-       "title": "My Old Home Town",
-       "title-note": "one of a series",
-       "note": "Listed as work for hire by Damon Runyon as an employee of the Hearst Corporation. Hearst is the author for copyright purposes.",
-       "authors": [
-        {"authorized": "Hearst Corporation", "lcna": "n80097919"},
-        {"authorized": "Runyon, Damon, 1880-1946 ", "lcna": "n80049533"}
-       ]
-     },
-     {"issue": {"issue-date": "1924-05-11"},
-       "title": "My Old Home Town",
-       "title-note": "one of a series",
-       "note": "Listed as work for hire by Damon Runyon as an employee of the Hearst Corporation. Hearst is the author for copyright purposes.",
-       "authors": [
-        {"authorized": "Hearst Corporation", "lcna": "n80097919"},
-        {"authorized": "Runyon, Damon, 1880-1946 ", "lcna": "n80049533"}
-       ]
-     },
-     {"issue": {"issue-date": "1924-07-06"},
-       "title": "My Old Home Town",
-       "title-note": "one of a series",
-       "note": "Listed as work for hire by Damon Runyon as an employee of the Hearst Corporation. Hearst is the author for copyright purposes.",
-       "authors": [
-        {"authorized": "Hearst Corporation", "lcna": "n80097919"},
-        {"authorized": "Runyon, Damon, 1880-1946 ", "lcna": "n80049533"}
-       ]
-     },
-     {"issue": {"issue-date": "1924-07-13"},
-       "title": "My Old Home Town",
-       "title-note": "one of a series",
-       "note": "Listed as work for hire by Damon Runyon as an employee of the Hearst Corporation. Hearst is the author for copyright purposes.",
-       "authors": [
-        {"authorized": "Hearst Corporation", "lcna": "n80097919"},
-        {"authorized": "Runyon, Damon, 1880-1946 ", "lcna": "n80049533"}
-       ]
-     },
-     {"issue": {"issue-date": "1924-11-24"},
-       "title": "Toots and Casper",
-       "note": "Listed as work for hire by Jimmy Murphy as an employee of King Features Syndicate.  King Features is the author for copyright purposes.",
-       "authors": [
-        {"authorized": "King Features Syndicate", "lcna": "n82010039"},
-        {"authorized": "Murphy, Jimmy, 1891-1965", "lcna": "n95000162"}
-       ]
-     },
      {"issue": {"issue-date": "1925-02-13"},
        "title": "Toots and Casper",
        "note": "Listed as work for hire by Jimmy Murphy as an employee of King Features Syndicate.  King Features is the author for copyright purposes.",
@@ -198,6 +34,46 @@
         {"authorized": "Crowther, Samuel, 1880-1947",
           "lcna": "n87937828"}
       ]
+     },
+     {"issue": {"issue-date": "1926-10-03"},
+      "title": "Private Letters of Joseph Conrad",
+      "title-note": "first installment",
+      "author": {
+         "authorized": "Conrad, Joseph, 1857-1924",
+         "lcna": "n79054067"
+      }
+     },
+     {"issue": {"issue-date": "1926-10-10"},
+      "title": "Private Letters of Joseph Conrad",
+      "title-note": "second installment",
+      "note": "Later renewals this year by Conrad are probably from this series as well.",
+      "author": {
+         "authorized": "Conrad, Joseph, 1857-1924",
+         "lcna": "n79054067"
+      }
+     },
+     {"issue": {"issue-date": "1926-10-17"},
+      "title": "I Quarry Out My English Like a Coal Miner in a Pit",
+      "title-note": "3d installment",
+      "author": {
+         "authorized": "Conrad, Joseph, 1857-1924",
+         "lcna": "n79054067"
+      }
+     },
+     {"issue": {"issue-date": "1926-10-24"},
+      "title": "My Landing in New York",
+      "title-note": "4th installment",
+      "author": {
+         "authorized": "Conrad, Joseph, 1857-1924",
+         "lcna": "n79054067"
+      }
+     },
+     {"issue": {"issue-date": "1926-10-31"},
+      "title": "I Refused British Knighthood",
+      "author": {
+         "authorized": "Conrad, Joseph, 1857-1924",
+         "lcna": "n79054067"
+      }
      }
    ],
    "additional-note": 
@@ -206,5 +82,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-05-26"
+   "last-updated": "2020-01-27"
 }

@@ -4,31 +4,11 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": 
-      {"issue": {"issue-date": "1924-06"}},
-   "first-renewed-contribution-source": "1952-JanJun",
+      {"issue": {"issue-date": "1925-02"}},
+   "first-renewed-contribution-source": "1952-JulDec",
    "last-issue": {"issue-date": "1929-07-01", "volume": "86", "number": "7"},
+   "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1924-06"}, 
-      "title": "The Gift of Harun-Al-Rashid",
-      "author": {
-       "authorized": "Yeats, W. B. (William Butler), 1865-1939",
-       "lcna": "n78095579"
-      }
-     },
-     {"issue": {"issue-date": "1924-07"}, 
-      "title": "The Cat and the Moon",
-      "author": {
-       "authorized": "Yeats, W. B. (William Butler), 1865-1939",
-       "lcna": "n78095579"
-      }
-     },
-     {"issue": {"issue-date": "1924-09"}, 
-      "title": "The Bounty of Sweden",
-      "author": {
-       "authorized": "Yeats, W. B. (William Butler), 1865-1939",
-       "lcna": "n78095579"
-      }
-     },
      {"issue": {"issue-date": "1925-02"},
         "title": "It Is in Truth a Pretty Toy",
         "author": {
@@ -70,11 +50,88 @@
          "authorized": "Aiken, Conrad, 1889-1973",
          "lcna": "n80060447"
         }
+     },
+     {"issue": {"issue-date": "1927-02"},
+        "title": "Blue Morning",
+        "author": {
+         "authorized": "Aiken, Conrad, 1889-1973",
+         "lcna": "n80060447"
+        }
+     },
+     {"issue": {"issue-date": "1927-04"}, 
+        "title": "Two Blue Birds",
+        "author": {
+         "authorized": "Lawrence, D. H. (David Herbert), 1885-1930",
+         "lcna": "n79018450"
+        }
+     },
+     {"issue": {"issue-date": "1927-05"},
+      "title": "Baudelaire in Our Time",
+      "author": {
+       "authorized": "Eliot, T. S. (Thomas Stearns), 1888-1965",
+       "lcna": "n79006870"
+      }
+     },
+     {"issue": {"issue-date": "1927-07"}, 
+        "title": "Man Who Loved Islands",
+        "author": {
+         "authorized": "Lawrence, D. H. (David Herbert), 1885-1930",
+         "lcna": "n79018450"
+        }
+     },
+     {"issue": {"issue-date": "1927-08"},
+      "title": "Selections from a Play Him",
+      "author": {
+         "authorized": "Cummings, E. E. (Edward Estlin), 1894-1962",
+         "lcna": "n79038464"
+      }
+     },
+     {"issue": {"issue-date": "1927-10"}, 
+      "title": "Land",
+      "author": {
+       "authorized": "Bercovici, Konrad, 1882-1961",
+       "lcna": "n50006835"
+      }
+     },
+     {"issue": {"issue-date": "1927-11"}, 
+        "title": "In Love",
+        "author": {
+         "authorized": "Lawrence, D. H. (David Herbert), 1885-1930",
+         "lcna": "n79018450"
+        }
+     },
+     {"issue": {"issue-date": "1928-03"},
+      "title": "A Note on Richard Grashaw",
+      "author": {
+       "authorized": "Eliot, T. S. (Thomas Stearns), 1888-1965",
+       "lcna": "n79006870"
+      }
+     },
+     {"issue": {"issue-date": "1929-02"}, 
+        "title": "Death in Moonlight",
+        "author": {
+         "authorized": "Kunitz, Stanley, 1905-2006",
+         "lcna": "n79007720"
+        }
+     },
+     {"issue": {"issue-date": "1929-02"}, 
+        "title": "Geometry of Moods",
+        "author": {
+         "authorized": "Kunitz, Stanley, 1905-2006",
+         "lcna": "n79007720"
+        }
+     },
+     {"issue": {"issue-date": "1929-05"}, 
+        "title": "When I Went to the Circus",
+        "author": {
+         "authorized": "Lawrence, D. H. (David Herbert), 1885-1930",
+         "lcna": "n79018450"
+        }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-04-22"
+   "last-updated": "2020-01-25"
 }

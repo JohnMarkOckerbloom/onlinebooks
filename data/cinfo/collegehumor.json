@@ -5,17 +5,10 @@
       {"issue-date": "1936-01", "series": "2", "volume": "1", "number": "4"},
    "first-renewed-issue-source": "1963-JulDec",
    "first-renewed-contribution": {"issue": 
-      {"issue-date": "1924-12", "volume": "4", "number": "2"}},
-   "first-renewed-contribution-source": "1951-JulDec",
-   "renewed-contribution-completeness": "active/1924",
+      {"issue-date": "1925-05", "volume": "5", "number": "2"}},
+   "first-renewed-contribution-source": "1952-JanJun",
+   "renewed-contribution-completeness": "active/1925",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1924-12", "volume": "4", "number": "2"},
-      "title": "Too Complex for Patsy",
-      "author": {
-       "authorized": "Benét, Stephen Vincent, 1898-1943",
-       "lcna": "n50007691"
-      }
-     },
      {"issue": {"issue-date": "1925-05", "volume": "5", "number": "2"},
       "title": "Knees and Ankles",
       "author": {
@@ -99,10 +92,26 @@
       }
      },
      {"issue": {"issue-date": "1925-11", "volume": "6", "number": "4"},
+      "title": "Show Business",
+      "title-note": "part 1 of 4",
+      "author": {
+       "authorized": "Winslow, Thyra Samter, 1893-1961",
+       "lcna": "no91026106"
+      }
+     },
+     {"issue": {"issue-date": "1925-11", "volume": "6", "number": "4"},
       "title": "The High Cost of Honeymoons",
       "author": {
        "authorized": "Brush, Katharine, 1902-1952",
        "lcna": "no93001232"
+      }
+     },
+     {"issue": {"issue-date": "1925-12", "volume": "7", "number": "1"},
+      "title": "Show Business",
+      "title-note": "part 2 of 4",
+      "author": {
+       "authorized": "Winslow, Thyra Samter, 1893-1961",
+       "lcna": "no91026106"
       }
      },
      {"issue": {"issue-date": "1926-01", "volume": "7", "number": "2"},
@@ -113,10 +122,26 @@
       }
      },
      {"issue": {"issue-date": "1926-01", "volume": "7", "number": "2"},
+      "title": "Show Business",
+      "title-note": "part 3 of 4",
+      "author": {
+       "authorized": "Winslow, Thyra Samter, 1893-1961",
+       "lcna": "no91026106"
+      }
+     },
+     {"issue": {"issue-date": "1926-01", "volume": "7", "number": "2"},
       "title": "From Midnight Till Dawn",
       "author": {
        "authorized": "Brush, Katharine, 1902-1952",
        "lcna": "no93001232"
+      }
+     },
+     {"issue": {"issue-date": "1926-02", "volume": "7", "number": "3"},
+      "title": "Show Business",
+      "title-note": "part 4 of 4",
+      "author": {
+       "authorized": "Winslow, Thyra Samter, 1893-1961",
+       "lcna": "no91026106"
       }
      },
      {"issue": {"issue-date": "1926-03", "volume": "7", "number": "4"},
@@ -126,6 +151,36 @@
        "lcna": "no93001232"
       }
      },
+     {"issue": {"issue-date": "1926-04", "volume": "8", "number": "1"},
+      "title": "Mr. and Mrs. Haddock in Paris",
+      "title-note": "part 1 of 4",
+      "author": {
+       "authorized": "Stewart, Donald Ogden, 1894-1980",
+       "lcna": "n85151862"
+      }
+     },
+     {"issue": {"issue-date": "1926-04", "volume": "8", "number": "1"},
+      "title": "Two and Maybe Three",
+      "author": {
+       "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
+       "lcna": "no90021257"
+      }
+     },
+     {"issue": {"issue-date": "1926-04", "volume": "8", "number": "1"},
+      "title": "Play Girl",
+      "author": {
+       "authorized": "Brush, Katharine, 1902-1952",
+       "lcna": "no93001232"
+      }
+     },
+     {"issue": {"issue-date": "1926-05", "volume": "8", "number": "2"},
+      "title": "Mr. and Mrs. Haddock in Paris",
+      "title-note": "part 2 of 4",
+      "author": {
+       "authorized": "Stewart, Donald Ogden, 1894-1980",
+       "lcna": "n85151862"
+      }
+     },
      {"issue": {"issue-date": "1926-05", "volume": "8", "number": "2"},
       "title": "Never Keep a Diary",
       "author": {
@@ -133,8 +188,31 @@
        "lcna": "no93001232"
       }
      },
+     {"issue": {"issue-date": "1926-06", "volume": "8", "number": "3"},
+      "title": "Mr. and Mrs. Haddock in Paris",
+      "title-note": "part 3 of 4",
+      "author": {
+       "authorized": "Stewart, Donald Ogden, 1894-1980",
+       "lcna": "n85151862"
+      }
+     },
+     {"issue": {"issue-date": "1926-07", "volume": "8", "number": "4"},
+      "title": "Mr. and Mrs. Haddock in Paris",
+      "title-note": "part 4 of 4",
+      "author": {
+       "authorized": "Stewart, Donald Ogden, 1894-1980",
+       "lcna": "n85151862"
+      }
+     },
      {"issue": {"issue-date": "1926-07", "volume": "8", "number": "4"},
       "title": "Vacation",
+      "author": {
+       "authorized": "Brush, Katharine, 1902-1952",
+       "lcna": "no93001232"
+      }
+     },
+     {"issue": {"issue-date": "1926-11", "volume": "9", "number": "4"},
+      "title": "Goal",
       "author": {
        "authorized": "Brush, Katharine, 1902-1952",
        "lcna": "no93001232"
@@ -146,5 +224,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-05-26"
+   "last-updated": "2020-01-22"
 }

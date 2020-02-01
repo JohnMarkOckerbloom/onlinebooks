@@ -2,56 +2,40 @@
    "title": "Pictorial Review",
    "first-issue": {"issue-date": "1899-09", "volume": "1", "number": "1"},
    "first-renewed-issue": 
-      {"issue-date": "1924-02", "cdate": "1924-01-15",
-       "volume": "25", "number": "5"},
-   "first-renewed-issue-source": "1951-JulDec",
+      {"issue-date": "1925-02", "volume": "26", "number": "5",
+         "cdate": "1925-01-25"},
+   "first-renewed-issue-source": "1952",
    "first-renewed-contribution": 
-      {"issue": {"issue-date": "1924-02", "cdate": "1924-01-15",
-                 "volume": "25", "number": "5"}},
-   "first-renewed-contribution-source": "1951-JanJun",
+      {"issue": {"issue-date": "1925-07", "volume": "26", "number": "10"}},
+   "first-renewed-contribution-source": "1952-JanJun",
    "last-issue": {"issue-date": "1937-04", "volume": "38", "number": "7"},
    "succeeded-by":
      [{"id": "picreviewdelineator", "note": "Pictorial Review-Delineator"}],
-   "renewed-issue-completeness": "active/1924",
+   "renewed-issue-completeness": "active/1925",
    "renewed-issues": [
-      {"issue-date": "1924-02", "volume": "25", "number": "5"},
-      {"issue-date": "1924-03", "volume": "25", "number": "6"},
-      {"issue-date": "1924-04", "volume": "25", "number": "7"},
-      {"issue-date": "1924-05", "volume": "25", "number": "8"},
-      {"issue-date": "1924-06", "volume": "25", "number": "9"},
-      {"issue-date": "1924-07", "volume": "25", "number": "10"},
-      {"issue-date": "1924-08", "volume": "25", "number": "11"},
-      {"issue-date": "1924-09", "volume": "25", "number": "12"},
-      {"issue-date": "1924-10", "volume": "26", "number": "1"},
-      {"issue-date": "1924-11", "volume": "26", "number": "2"},
-      {"issue-date": "1924-12", "volume": "26", "number": "3"},
-      {"issue-date": "1925-01", "volume": "26", "number": "4",
-         "cdate": "1924-12-25"},
       {"issue-date": "1925-02", "volume": "26", "number": "5",
          "cdate": "1925-01-25"},
       {"issue-date": "1925-03", "volume": "26", "number": "6"},
       {"issue-date": "1925-04", "volume": "26", "number": "7"},
       {"issue-date": "1925-05", "volume": "26", "number": "8"},
-      {"issue-date": "1925-06", "volume": "26", "number": "9"}
+      {"issue-date": "1925-06", "volume": "26", "number": "9"},
+      {"issue-date": "1925-07", "volume": "26", "number": "10"}, 
+      {"issue-date": "1925-08", "volume": "26", "number": "11"}, 
+      {"issue-date": "1925-09", "volume": "26", "number": "12"}, 
+      {"issue-date": "1925-10", "volume": "27", "number": "1"},
+      {"issue-date": "1925-11", "volume": "27", "number": "2"},
+      {"issue-date": "1925-12", "volume": "27", "number": "3"},
+      {"issue-date": "1926-01", "volume": "27", "number": "4",
+       "cdate": "1925-12-29"},
+      {"issue-date": "1926-02", "volume": "27", "number": "5",
+       "cdate": "1926-01-29"},
+      {"issue-date": "1926-03", "volume": "27", "number": "6"},
+      {"issue-date": "1926-04", "volume": "27", "number": "7"},
+      {"issue-date": "1926-05", "volume": "27", "number": "8"},
+      {"issue-date": "1926-06", "volume": "27", "number": "9"}
    ],
-   "renewed-contribution-completeness": "active/1924",
+   "renewed-contribution-completeness": "active/1925",
    "renewed-contributions": [
-       {"issue": {"issue-date": "1924-02", "volume": "25", "number": "5"}, 
-        "title": "Tomorrow's Bread",
-        "title-note": "part 3 of 4",
-        "author": {
-         "authorized": "Irwin, Wallace, 1876-1959",
-         "lcna": "n97112081"
-        }
-       },
-       {"issue": {"issue-date": "1924-03", "volume": "25", "number": "6"}, 
-        "title": "Tomorrow's Bread",
-        "title-note": "part 4 of 4",
-        "author": {
-         "authorized": "Irwin, Wallace, 1876-1959",
-         "lcna": "n97112081"
-        }
-       },
        {"issue": {"issue-date": "1925-07", "volume": "26", "number": "10"},
         "title": "Guard of Honor",
         "author": {
@@ -73,6 +57,21 @@
         "author": {
            "authorized": "Ostenso, Martha, 1900-1963",
            "lcna": "n80037748"
+        }
+       },
+       {"issue": {"issue-date": "1925-10", "volume": "27", "number": "1"},
+        "title": "Out of the Wind",
+        "author": {
+         "authorized": "Steele, Wilbur Daniel, 1886-1970",
+         "lcna": "no98007702"
+        }
+       },
+       {"issue": {"issue-date": "1925-10", "volume": "27", "number": "1"},
+        "title": "Abraham Lincoln",
+        "title-note": "part 1 of 5",
+        "author": {
+         "authorized": "Sandburg, Carl, 1878-1967",
+         "lcna": "n79011105"
         }
        },
        {"issue": {"issue-date": "1925-10", "volume": "27", "number": "1"},
@@ -98,11 +97,91 @@
            "lcna": "n80037748"
         }
        },
+       {"issue": {"issue-date": "1925-11", "volume": "27", "number": "2"},
+        "title": "Florrie Finds a Gentleman",
+        "author": {
+           "name": "Elsie Jane Jerard"
+        }
+       },
+       {"issue": {"issue-date": "1925-11", "volume": "27", "number": "2"},
+        "title": "Abraham Lincoln",
+        "title-note": "part 2 of 5",
+        "author": {
+         "authorized": "Sandburg, Carl, 1878-1967",
+         "lcna": "n79011105"
+        }
+       },
+       {"issue": {"issue-date": "1925-12", "volume": "27", "number": "3"},
+        "title": "Abraham Lincoln",
+        "title-note": "part 3 of 5",
+        "author": {
+         "authorized": "Sandburg, Carl, 1878-1967",
+         "lcna": "n79011105"
+        }
+       },
+       {"issue": {"issue-date": "1926-01", "volume": "27", "number": "4"},
+        "title": "Abraham Lincoln",
+        "title-note": "part 4 of 5",
+        "author": {
+         "authorized": "Sandburg, Carl, 1878-1967",
+         "lcna": "n79011105"
+        }
+       },
        {"issue": {"issue-date": "1926-02", "volume": "27", "number": "5"},
         "title": "An Actor's Love Story",
         "author": {
          "authorized": "Connell, Richard Edward, 1893-1949",
          "lcna": "n50028704"
+       }
+      },
+      {"issue": {"issue-date": "1926-02", "volume": "27", "number": "5"},
+        "title": "Abraham Lincoln",
+        "title-note": "part 5 of 5",
+        "author": {
+         "authorized": "Sandburg, Carl, 1878-1967",
+         "lcna": "n79011105"
+        }
+      },
+      {"issue": {"issue-date": "1926-04", "volume": "27", "number": "7"}, 
+       "title": "Getting Even",
+       "author": {
+        "authorized": "Kelly, Eleanor Mercein, 1880-1968",
+        "lcna": "no92032469"
+       }
+      },
+      {"issue": {"issue-date": "1926-07", "volume": "27", "number": "10"}, 
+       "title": "Fire-Wood",
+       "author": {
+        "authorized": "Bercovici, Konrad, 1882-1961",
+        "lcna": "n50006835"
+       }
+      },
+      {"issue": {"issue-date": "1926-08", "volume": "27", "number": "11"},
+       "title": "The Emperor Learns a Tune",
+       "author": {
+         "authorized": "Adams, Samuel Hopkins, 1871-1958",
+         "lcna": "n50037535"
+       }
+      },
+      {"issue": {"issue-date": "1926-10", "volume": "28", "number": "1"},
+       "title": "Divinia",
+       "author": {
+        "authorized": "Freedman, David, 1898-1936",
+        "lcna": "no93014604"
+       }
+      },
+      {"issue": {"issue-date": "1926-10", "volume": "28", "number": "1"},
+       "title": "Monkey Business",
+       "author": {
+        "authorized": "Kelly, Eleanor Mercein, 1880-1968",
+        "lcna": "no92032469"
+       }
+      },
+      {"issue": {"issue-date": "1926-10", "volume": "28", "number": "1"},
+       "title": "The Other Pendleton",
+       "author": {
+        "authorized": "Brush, Katharine, 1902-1952",
+        "lcna": "no93001232"
        }
       }
    ],
@@ -110,5 +189,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-05-30"
+   "last-updated": "2019-01-14"
 }

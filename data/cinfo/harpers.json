@@ -7,104 +7,41 @@
       "note": "FictionMags (might not include nonfiction contents)"}
    ],
    "first-renewed-issue": 
-     {"issue-date": "1924-02", "cdate": "1924-01-25",
-      "volume": "148", "number": "885"},
-   "first-renewed-issue-source": "1951-JulDec",
+     {"issue-date": "1925-02", "volume": "150", "number": "897",
+        "cdate": "1925-01-23"},
+   "first-renewed-issue-source": "1952",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1924-02", "cdate": "1924-01-25",
-      "volume": "148", "number": "885"}},
-   "first-renewed-contribution-source": "1951-JanJun",
-   "renewed-issue-completeness": "active/1924",
+     {"issue": {"issue-date": "1925-04", "volume": "150", "number": "899"}},
+   "first-renewed-contribution-source": "1952-JanJun",
+   "renewed-issue-completeness": "active/1925",
    "renewed-issues": [
-     {"issue-date": "1924-02", "volume": "148", "number": "885"},
-     {"issue-date": "1924-03", "volume": "148", "number": "886"},
-     {"issue-date": "1924-04", "volume": "148", "number": "887"},
-     {"issue-date": "1924-05", "volume": "148", "number": "888"},
-     {"issue-date": "1924-06", "volume": "149", "number": "889"},
-     {"issue-date": "1924-07", "volume": "149", "number": "890"},
-     {"issue-date": "1924-08", "volume": "149", "number": "891"},
-     {"issue-date": "1924-09", "volume": "149", "number": "892"},
-     {"issue-date": "1924-10", "volume": "149", "number": "893"},
-     {"issue-date": "1924-11", "volume": "149", "number": "894"},
-     {"issue-date": "1924-12", "volume": "149", "number": "895"},
-     {"issue-date": "1925-01", "volume": "150", "number": "896",
-        "cdate": "1924-12-24"},
      {"issue-date": "1925-02", "volume": "150", "number": "897",
         "cdate": "1925-01-23"},
      {"issue-date": "1925-03", "volume": "150", "number": "898"},
      {"issue-date": "1925-04", "volume": "150", "number": "899"},
      {"issue-date": "1925-05", "volume": "150", "number": "900"},
      {"issue-date": "1925-06", "volume": "150", "number": "901"},
-     {"issue-date": "1925-07", "volume": "150", "number": "902"},
-     {"issue-date": "1925-08", "volume": "150", "number": "903"},
-     {"issue-date": "1925-09", "volume": "150", "number": "904"},
-     {"issue-date": "1925-10", "volume": "150", "number": "905"}
+     {"issue-date": "1925-07", "volume": "151", "number": "902"},
+     {"issue-date": "1925-08", "volume": "151", "number": "903"},
+     {"issue-date": "1925-09", "volume": "151", "number": "904"},
+     {"issue-date": "1925-10", "volume": "151", "number": "905"},
+     {"issue-date": "1925-11", "volume": "151", "number": "906"},
+     {"issue-date": "1925-12", "volume": "152", "number": "907"},
+     {"issue-date": "1926-01", "volume": "152", "number": "908",
+        "cdate": "1925-12-22"},
+     {"issue-date": "1926-02", "volume": "152", "number": "909",
+        "cdate": "1926-01-22"},
+     {"issue-date": "1926-03", "volume": "152", "number": "910"},
+     {"issue-date": "1926-04", "volume": "152", "number": "911"},
+     {"issue-date": "1926-05", "volume": "152", "number": "912"},
+     {"issue-date": "1926-06", "volume": "152", "number": "913"},
+     {"issue-date": "1926-07", "volume": "153", "number": "914"},
+     {"issue-date": "1926-08", "volume": "153", "number": "915"},
+     {"issue-date": "1926-09", "volume": "153", "number": "916"},
+     {"issue-date": "1926-10", "volume": "153", "number": "917"}
    ],
-   "renewed-contribution-completeness": "active/1924",
+   "renewed-contribution-completeness": "active/1925",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1924-02", "volume": "148", "number": "885"},
-      "title": "On the Malecon",
-      "author": {
-         "authorized": "McFee, William, 1881-1966",
-         "lcna": "n82053296"
-      }
-     },
-     {"issue": {"issue-date": "1924-03", "volume": "148", "number": "886"},
-        "title": "Pantomime in One Act",
-        "author": {
-         "authorized": "Lowell, Amy, 1874-1925",
-         "lcna": "n79076111"
-        }
-     },
-     {"issue": {"issue-date": "1924-03", "volume": "148", "number": "886"},
-      "title": "The Rising Tide of Culture",
-      "author": {
-         "authorized": "McFee, William, 1881-1966",
-         "lcna": "n82053296"
-      }
-     },
-     {"issue": {"issue-date": "1924-05", "volume": "148", "number": "888"},
-      "title": "On Things in General: Dialogue With Henderson",
-      "author": {
-       "authorized": "Shaw, Bernard, 1856-1950",
-       "lcna": "n79006533"
-      }
-     },
-     {"issue": {"issue-date": "1924-10", "volume": "149", "number": "893"}, 
-      "title": "Women Come to Judgment",
-      "author": {
-       "authorized": "Banning, Margaret Culkin, 1891-1982",
-       "lcna": "n86086096"
-      }
-     },
-     {"issue": {"issue-date": "1924-10", "volume": "149", "number": "893"}, 
-        "title": "East, West, North and South of a Man",
-        "author": {
-         "authorized": "Lowell, Amy, 1874-1925",
-         "lcna": "n79076111"
-        }
-     },
-     {"issue": {"issue-date": "1924-11", "volume": "149", "number": "894"}, 
-      "title": "A Great Club Woman",
-      "author": {
-       "authorized": "Banning, Margaret Culkin, 1891-1982",
-       "lcna": "n86086096"
-      }
-     },
-     {"issue": {"issue-date": "1924-12", "volume": "150", "number": "895"},
-        "title": "The Disciple",
-        "author": {
-         "authorized": "Aiken, Conrad, 1889-1973",
-         "lcna": "n80060447"
-        }
-     },
-     {"issue": {"issue-date": "1925-01", "volume": "150", "number": "896"},
-      "title": "The Prince and the Paradox",
-      "author": {
-         "authorized": "McFee, William, 1881-1966",
-         "lcna": "n82053296"
-      }
-     },
      {"issue": {"issue-date": "1925-04", "volume": "150", "number": "899"},
       "title": "Cartagena de Indias",
       "author": {
@@ -174,11 +111,25 @@
        "authorized": "Banning, Margaret Culkin, 1891-1982",
        "lcna": "n86086096"
       }
+     },
+     {"issue": {"issue-date": "1926-07", "volume": "153", "number": "914"}, 
+      "title": "Cramped Style",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1926-09", "volume": "153", "number": "916"}, 
+      "title": "La Bella Gina",
+      "author": {
+       "authorized": "Kelly, Eleanor Mercein, 1880-1968",
+       "lcna": "no92032469"
+      }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-06-02"
+   "last-updated": "2020-01-08"
 }

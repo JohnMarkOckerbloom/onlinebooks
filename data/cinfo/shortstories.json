@@ -6,38 +6,13 @@
       "note": "FictionMags"}
    ],
    "first-renewed-issue": 
-     {"issue-date": "1924-01-10", "volume": "106", "number": "1"},
-   "first-renewed-issue-source": "1951-JanJun",
+     {"issue-date": "1925-01-10", "volume": "110", "number": "1"},
+   "first-renewed-issue-source": "1952",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1924-01-25", "volume": "106", "number": "2"}},
-   "first-renewed-contribution-source": "1951-JanJun",
-   "renewed-issue-completeness": "active/1924",
+     {"issue": {"issue-date": "1925-01-25", "volume": "110", "number": "2"}},
+   "first-renewed-contribution-source": "1952-JanJun",
+   "renewed-issue-completeness": "active/1925",
    "renewed-issues": [
-     {"issue-date": "1924-01-10", "volume": "106", "number": "1"},
-     {"issue-date": "1924-01-25", "volume": "106", "number": "2"},
-     {"issue-date": "1924-02-10", "volume": "106", "number": "3"},
-     {"issue-date": "1924-02-25", "volume": "106", "number": "4"},
-     {"issue-date": "1924-03-10", "volume": "106", "number": "5"},
-     {"issue-date": "1924-03-25", "volume": "106", "number": "6"},
-     {"issue-date": "1924-04-10", "volume": "107", "number": "1"},
-     {"issue-date": "1924-04-25", "volume": "107", "number": "2"},
-     {"issue-date": "1924-05-10", "volume": "107", "number": "3"},
-     {"issue-date": "1924-05-25", "volume": "107", "number": "4"},
-     {"issue-date": "1924-06-10", "volume": "107", "number": "5"},
-     {"issue-date": "1924-06-25", "volume": "107", "number": "6"},
-     {"issue-date": "1924-07-10", "volume": "108", "number": "1"},
-     {"issue-date": "1924-07-25", "volume": "108", "number": "2"},
-     {"issue-date": "1924-08-10", "volume": "108", "number": "3"},
-     {"issue-date": "1924-08-25", "volume": "108", "number": "4"},
-     {"issue-date": "1924-09-10", "volume": "108", "number": "5"},
-     {"issue-date": "1924-09-25", "volume": "108", "number": "6"},
-     {"issue-date": "1924-10-10", "volume": "109", "number": "1"},
-     {"issue-date": "1924-10-25", "volume": "109", "number": "2"},
-     {"issue-date": "1924-11-10", "volume": "109", "number": "3"},
-     {"issue-date": "1924-11-25", "volume": "109", "number": "4"},
-     {"issue-date": "1924-12-10", "volume": "109", "number": "5"},
-     {"issue-date": "1924-12-25", "volume": "109", "number": "6",
-        "cdate": "1924-12-23"},
      {"issue-date": "1925-01-10", "volume": "110", "number": "1",
         "cdate": "1925-01-10"},
      {"issue-date": "1925-01-25", "volume": "110", "number": "2"},
@@ -50,181 +25,22 @@
      {"issue-date": "1925-05-10", "volume": "111", "number": "3"},
      {"issue-date": "1925-05-25", "volume": "111", "number": "4"},
      {"issue-date": "1925-06-10", "volume": "111", "number": "5"},
-     {"issue-date": "1925-06-25", "volume": "111", "number": "6"}
+     {"issue-date": "1925-06-25", "volume": "111", "number": "6"},
+     {"issue-date": "1925-08-10", "volume": "112", "number": "3"},
+     {"issue-date": "1925-08-25", "volume": "112", "number": "4"},
+     {"issue-date": "1925-09-10", "volume": "112", "number": "5"},
+     {"issue-date": "1925-09-25", "volume": "112", "number": "6"},
+     {"issue-date": "1925-10-10", "volume": "113", "number": "1"},
+     {"issue-date": "1925-10-25", "volume": "113", "number": "2"},
+     {"issue-date": "1925-11-10", "volume": "113", "number": "3"},
+     {"issue-date": "1925-11-25", "volume": "113", "number": "4"},
+     {"issue-date": "1925-12-10", "volume": "113", "number": "5"},
+     {"issue-date": "1925-12-25", "volume": "113", "number": "6"},
+     {"issue-date": "1926-01-10", "volume": "114", "number": "1"},
+     {"issue-date": "1926-01-25", "volume": "114", "number": "2"}
    ],
-   "renewed-contribution-completeness": "active/1924",
+   "renewed-contribution-completeness": "active/1925",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1924-01-25", "volume": "106", "number": "2"},
-      "title": "The Scar Man",
-      "note": "CCE renewal record claims this was published in the January 25, 1924 issue.  However, FictionMags does not record this story in that issue's table of contents, but rather in the contents for the January 25, 1922 issue.  If that latter citation is accurate, the story is now in the public domain. I have not examined the issues in question.",
-      "author": {
-       "authorized": "Seltzer, Charles Alden, 1875-1942",
-       "lcna": "n50007279"
-      }
-     },
-     {"issue": {"issue-date": "1924-02-10", "volume": "106", "number": "3"},
-      "title": "The Desert's Price",
-      "title-note": "part 1 of 4",
-      "author": {
-         "authorized": "Raine, William MacLeod, 1871-1954",
-         "lcna": "n90682348"
-      }
-     },
-     {"issue": {"issue-date": "1924-02-25", "volume": "106", "number": "4"},
-      "title": "The Desert's Price",
-      "title-note": "part 2 of 4",
-      "author": {
-         "authorized": "Raine, William MacLeod, 1871-1954",
-         "lcna": "n90682348"
-      }
-     },
-     {"issue": {"issue-date": "1924-03-10", "volume": "106", "number": "5"},
-      "title": "The Riddle of the Amber Ship",
-      "authors": [
-        {
-         "authorized": "Hanshew, Mary E.",
-         "lcna": "no2004104890"
-        },
-        {
-         "authorized": "Hanshew, Thomas W., 1857-1914",
-         "lcna": "n82102540"
-        }
-      ]
-     },
-     {"issue": {"issue-date": "1924-03-10", "volume": "106", "number": "5"},
-      "title": "Mac of the Tumbling K",
-      "author": {
-         "authorized": "Yore, Clem (Clement), 1875-1936",
-         "lcna": "no93029452"
-      }
-     },
-     {"issue": {"issue-date": "1924-03-10", "volume": "106", "number": "5"},
-      "title": "The Desert's Price",
-      "title-note": "part 3 of 4",
-      "author": {
-         "authorized": "Raine, William MacLeod, 1871-1954",
-         "lcna": "n90682348"
-      }
-     },
-     {"issue": {"issue-date": "1924-03-25", "volume": "106", "number": "6"},
-      "title": "The Desert's Price",
-      "title-note": "part 4 of 4",
-      "author": {
-         "authorized": "Raine, William MacLeod, 1871-1954",
-         "lcna": "n90682348"
-      }
-     },
-     {"issue": {"issue-date": "1924-04-10", "volume": "107", "number": "1"},
-      "title": "One Hour Past Moonrise",
-      "title-note": "part 1 of 2",
-      "note": "Author is Frederick Faust writing under a pseudonym. CCE filing puts this in the April 25 issue, but FictionMags puts it in the April 10 issue, and the cover of that issue mentions this story. Renewal was filed April 25, 1952.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1924-04-25", "volume": "107", "number": "2"},
-      "title": "One Hour Past Moonrise",
-      "title-note": "part 2 of 2",
-      "note": "Author is Frederick Faust writing under a pseudonym. CCE filing puts this in the May 10 issue, but FictionMags puts it in the April 25 issue. I have not examined the issue to verify when it appears. Renewal was filed April 25, 1952.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1924-05-25", "volume": "107", "number": "4"},
-      "title": "Out Beyond the Small Things: A Poem",
-      "author": {
-         "authorized": "Yore, Clem (Clement), 1875-1936",
-         "lcna": "no93029452"
-      }
-     },
-     {"issue": {"issue-date": "1924-06-10", "volume": "107", "number": "5"},
-      "title": "A Son of the Circle",
-      "author": {
-         "authorized": "Yore, Clem (Clement), 1875-1936",
-         "lcna": "no93029452"
-      }
-     },
-     {"issue": {"issue-date": "1924-08-10", "volume": "108", "number": "3"},
-      "title": "Straight Shooting",
-      "author": {
-         "authorized": "Tuttle, W. C. (Wilbur C.), 1883-1969",
-         "lcna": "n83190878"
-      }
-     },
-     {"issue": {"issue-date": "1924-09-10", "volume": "108", "number": "5"},
-      "title": "Gray Face",
-      "note": "CCE renewal record gives title as 'Grey Face', but magazine cover gives it as 'Gray Face'.",
-      "author": {
-         "authorized": "Rohmer, Sax, 1883-1959",
-         "lcna": "n50020802"
-      }
-     },
-     {"issue": {"issue-date": "1924-09-10", "volume": "108", "number": "5"},
-      "title": "Spindrift",
-      "title-note": "part 1 of 4",
-      "author": {
-         "authorized": "Titus, Harold, 1888-1967",
-         "lcna": "no2008175553"
-      }
-     },
-     {"issue": {"issue-date": "1924-09-25", "volume": "108", "number": "6"},
-      "title": "Spindrift",
-      "title-note": "part 2 of 4",
-      "author": {
-         "authorized": "Titus, Harold, 1888-1967",
-         "lcna": "no2008175553"
-      }
-     },
-     {"issue": {"issue-date": "1924-10-10", "volume": "109", "number": "1"},
-      "title": "Spindrift",
-      "title-note": "part 3 of 4",
-      "author": {
-         "authorized": "Titus, Harold, 1888-1967",
-         "lcna": "no2008175553"
-      }
-     },
-     {"issue": {"issue-date": "1924-10-25", "volume": "109", "number": "2"},
-      "title": "Spindrift",
-      "title-note": "part 4 of 4",
-      "author": {
-         "authorized": "Titus, Harold, 1888-1967",
-         "lcna": "no2008175553"
-      }
-     },
-     {"issue": {"issue-date": "1924-11-10", "volume": "109", "number": "3"},
-      "title": "Cottonwood Gulch",
-      "title-note": "part 1 of 4",
-      "author": {
-       "authorized": "Mulford, Clarence Edward, 1883-1956",
-       "lcna": "n50006370"
-      }
-     },
-     {"issue": {"issue-date": "1924-11-25", "volume": "109", "number": "4"},
-      "title": "Cottonwood Gulch",
-      "title-note": "part 2 of 4",
-      "author": {
-       "authorized": "Mulford, Clarence Edward, 1883-1956",
-       "lcna": "n50006370"
-      }
-     },
-     {"issue": {"issue-date": "1924-12-10", "volume": "109", "number": "5"},
-      "title": "Cottonwood Gulch",
-      "title-note": "part 3 of 4",
-      "author": {
-       "authorized": "Mulford, Clarence Edward, 1883-1956",
-       "lcna": "n50006370"
-      }
-     },
-     {"issue": {"issue-date": "1924-12-25", "volume": "109", "number": "6"},
-      "title": "Cottonwood Gulch",
-      "title-note": "part 4 of 4",
-      "author": {
-       "authorized": "Mulford, Clarence Edward, 1883-1956",
-       "lcna": "n50006370"
-      }
-     },
      {"issue": {"issue-date": "1925-01-25", "volume": "110", "number": "2"},
       "title": "The Cache at Flower-Pot Canyon",
       "note": "Title as given on the cover and in FictionMags. CCE gives title as 'The Outlaws of Flower-Pot Canyon'.",
@@ -319,8 +135,22 @@
       }
      },
      {"issue": {"issue-date": "1925-08-25", "volume": "112", "number": "4"},
+      "title": "The Web of Deception",
+      "author": {
+         "authorized": "Tuttle, W. C. (Wilbur C.), 1883-1969",
+         "lcna": "n83190878"
+      }
+     },
+     {"issue": {"issue-date": "1925-08-25", "volume": "112", "number": "4"},
       "title": "Sad Sontag Plays His Hunch",
-      "note": "FictionMags does not record a story with this title in this issue, but does record a novel in the issue by this author titled 'The Web of Deception'.  I have not examined the issue or investigated how the two titles relate.",
+      "note": "FictionMags does not record a story with this title in this issue, but it may be related to 'The Web of Deception' above, which was separately renewed by the same author.",
+      "author": {
+         "authorized": "Tuttle, W. C. (Wilbur C.), 1883-1969",
+         "lcna": "n83190878"
+      }
+     },
+     {"issue": {"issue-date": "1925-11-25", "volume": "113", "number": "4"},
+      "title": "The Cargo of Fate",
       "author": {
          "authorized": "Tuttle, W. C. (Wilbur C.), 1883-1969",
          "lcna": "n83190878"
@@ -360,11 +190,89 @@
         "authorized": "Wallace, Edgar, 1875-1932",
         "lcna": "n80034938"
       }
+     },
+     {"issue": {"issue-date": "1926-05-10", "volume": "115", "number": "3"},
+      "title": "The Bar 20 Rides Again",
+      "title-note": "part 1 of 4",
+      "author": {
+       "authorized": "Mulford, Clarence Edward, 1883-1956",
+       "lcna": "n50006370"
+      }
+     },
+     {"issue": {"issue-date": "1926-05-25", "volume": "115", "number": "4"},
+      "title": "The Bar 20 Rides Again",
+      "title-note": "part 2 of 4",
+      "author": {
+       "authorized": "Mulford, Clarence Edward, 1883-1956",
+       "lcna": "n50006370"
+      }
+     },
+     {"issue": {"issue-date": "1926-06-10", "volume": "115", "number": "5"},
+      "title": "The Bar 20 Rides Again",
+      "title-note": "part 3 of 4",
+      "author": {
+       "authorized": "Mulford, Clarence Edward, 1883-1956",
+       "lcna": "n50006370"
+      }
+     },
+     {"issue": {"issue-date": "1926-06-25", "volume": "115", "number": "6"},
+      "title": "The Bar 20 Rides Again",
+      "title-note": "part 4 of 4",
+      "author": {
+       "authorized": "Mulford, Clarence Edward, 1883-1956",
+       "lcna": "n50006370"
+      }
+     },
+     {"issue": {"issue-date": "1926-09-10", "volume": "116", "number": "5"},
+      "title": "Out There in the Dark",
+      "author": {
+         "authorized": "Starrett, Vincent, 1886-1974",
+         "lcna": "n50023295"
+      }
+     },
+     {"issue": {"issue-date": "1926-10-10", "volume": "117", "number": "1"},
+      "title": "Judge Colt",
+      "title-note": "part 1 of 4",
+      "author": {
+         "authorized": "Raine, William MacLeod, 1871-1954",
+         "lcna": "n90682348"
+      }
+     },
+     {"issue": {"issue-date": "1926-10-25", "volume": "117", "number": "2"},
+      "title": "Judge Colt",
+      "title-note": "part 2 of 4",
+      "author": {
+         "authorized": "Raine, William MacLeod, 1871-1954",
+         "lcna": "n90682348"
+      }
+     },
+     {"issue": {"issue-date": "1926-11-10", "volume": "117", "number": "3"},
+      "title": "Judge Colt",
+      "title-note": "part 3 of 4",
+      "author": {
+         "authorized": "Raine, William MacLeod, 1871-1954",
+         "lcna": "n90682348"
+      }
+     },
+     {"issue": {"issue-date": "1926-11-25", "volume": "117", "number": "4"},
+      "title": "Judge Colt",
+      "title-note": "part 4 of 4",
+      "author": {
+         "authorized": "Raine, William MacLeod, 1871-1954",
+         "lcna": "n90682348"
+      }
+     },
+     {"issue": {"issue-date": "1926-12-10", "volume": "117", "number": "5"},
+      "title": "The Woman in Black",
+      "author": {
+         "authorized": "Starrett, Vincent, 1886-1974",
+         "lcna": "n50023295"
+      }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-06-04"
+   "last-updated": "2020-01-19"
 }

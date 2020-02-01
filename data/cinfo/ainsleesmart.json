@@ -1,0 +1,27 @@
+{
+   "title": "Ainslee's Smart Love Stories",
+   "aka": ["Ainslee's (1930s)"],
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/FMI/link.asp?magid=AINSL",
+       "note": "FictionMags"}
+   ],
+   "first-issue":
+     {"issue-date": "1934-12", "volume": "1", "number": "1"},
+   "first-renewed-issue":
+     {"issue-date": "1934-12", "volume": "1", "number": "1"},
+   "first-renewed-issue-source": "1961-JulDec",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce",
+   "last-issue":
+     {"issue-date": "1936-09", "volume": "4", "number": "4"},
+   "succeeded-by": 
+     [{"id": "smartlovestories", "note": "Smart Love Stories"}],
+   "see-also": [{"id": "ainslees", "note": "Ainslee's (1898-1926)"}],
+   "additional-note":
+      "The first few issues were published simply as Ainslee's.",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2020-01-04"
+}

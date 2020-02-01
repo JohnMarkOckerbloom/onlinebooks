@@ -3,21 +3,96 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1924-07-27"}},
-   "first-renewed-contribution-source": "1952-JanJun",
+     {"issue": {"issue-date": "1928-12-02"}},
+   "first-renewed-contribution-source": "1956-JanJun",
+   "renewed-contribution-completeness": "active/1931",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1924-07-27"},
-      "title": "Our Very Best People",
+     {"issue": {"issue-date": "1928-12-02"},
+      "title": "Texas Titan: The Fictionalized Life of Sam Houston",
+      "title-note": "part 1 of 11",
       "author": {
-       "authorized": "Ferber, Edna, 1887-1968",
-       "lcna": "n79077439"
+       "authorized": "Oskison, John M. (John Milton), 1874-1947",
+       "lcna": "nr92025553"
       }
      },
-     {"issue": {"issue-date": "1924-09-07"},
-      "title": "Afternoon of a Faun",
+     {"issue": {"issue-date": "1928-12-09"},
+      "title": "Texas Titan: The Fictionalized Life of Sam Houston",
+      "title-note": "part 2 of 11",
       "author": {
-       "authorized": "Ferber, Edna, 1887-1968",
-       "lcna": "n79077439"
+       "authorized": "Oskison, John M. (John Milton), 1874-1947",
+       "lcna": "nr92025553"
+      }
+     },
+     {"issue": {"issue-date": "1928-12-16"},
+      "title": "Texas Titan: The Fictionalized Life of Sam Houston",
+      "title-note": "part 3 of 11",
+      "author": {
+       "authorized": "Oskison, John M. (John Milton), 1874-1947",
+       "lcna": "nr92025553"
+      }
+     },
+     {"issue": {"issue-date": "1928-12-23"},
+      "title": "Texas Titan: The Fictionalized Life of Sam Houston",
+      "title-note": "part 4 of 11",
+      "author": {
+       "authorized": "Oskison, John M. (John Milton), 1874-1947",
+       "lcna": "nr92025553"
+      }
+     },
+     {"issue": {"issue-date": "1928-12-30"},
+      "title": "Texas Titan: The Fictionalized Life of Sam Houston",
+      "title-note": "part 5 of 11",
+      "author": {
+       "authorized": "Oskison, John M. (John Milton), 1874-1947",
+       "lcna": "nr92025553"
+      }
+     },
+     {"issue": {"issue-date": "1929-01-06"},
+      "title": "Texas Titan: The Fictionalized Life of Sam Houston",
+      "title-note": "part 6 of 11",
+      "author": {
+       "authorized": "Oskison, John M. (John Milton), 1874-1947",
+       "lcna": "nr92025553"
+      }
+     },
+     {"issue": {"issue-date": "1929-01-13"},
+      "title": "Texas Titan: The Fictionalized Life of Sam Houston",
+      "title-note": "part 7 of 11",
+      "author": {
+       "authorized": "Oskison, John M. (John Milton), 1874-1947",
+       "lcna": "nr92025553"
+      }
+     },
+     {"issue": {"issue-date": "1929-01-20"},
+      "title": "Texas Titan: The Fictionalized Life of Sam Houston",
+      "title-note": "part 8 of 11",
+      "author": {
+       "authorized": "Oskison, John M. (John Milton), 1874-1947",
+       "lcna": "nr92025553"
+      }
+     },
+     {"issue": {"issue-date": "1929-12-27"},
+      "title": "Texas Titan: The Fictionalized Life of Sam Houston",
+      "title-note": "part 9 of 11",
+      "author": {
+       "authorized": "Oskison, John M. (John Milton), 1874-1947",
+       "lcna": "nr92025553"
+      }
+     },
+     {"issue": {"issue-date": "1929-02-03"},
+      "title": "Texas Titan: The Fictionalized Life of Sam Houston",
+      "title-note": "part 10 of 11",
+      "author": {
+       "authorized": "Oskison, John M. (John Milton), 1874-1947",
+       "lcna": "nr92025553"
+      }
+     },
+     {"issue": {"issue-date": "1929-02-10"},
+      "title": "Texas Titan: The Fictionalized Life of Sam Houston",
+      "title-note": "part 11 of 11",
+      "author": {
+       "authorized": "Oskison, John M. (John Milton), 1874-1947",
+       "lcna": "nr92025553"
       }
      }
    ],
@@ -25,5 +100,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-03-31"
+   "last-updated": "2020-01-17"
 }

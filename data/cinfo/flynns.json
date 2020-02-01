@@ -9,29 +9,14 @@
    ],
    "first-issue": {"issue-date": "1924-09-20", "volume": "1", "number": "1"},
    "first-renewed-issue": 
-     {"issue-date": "1924-09-20", "volume": "1", "number": "1"},
-   "first-renewed-issue-source": "1951-JulDec",
+     {"issue-date": "1925-01-10", "volume": "3", "number": "5",
+      "cdate": "1925-01-08"},
+   "first-renewed-issue-source": "1952",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1924-10-04", "volume": "1", "number": "3"}},
-   "first-renewed-contribution-source": "1952-JanJun",
-   "renewed-issue-completeness": "active/1924",
+     {"issue": {"issue-date": "1925-11-28", "volume": "11", "number": "3"}},
+   "first-renewed-contribution-source": "1953-JanJun",
+   "renewed-issue-completeness": "active/1925",
    "renewed-issues": [
-     {"issue-date": "1924-09-20", "volume": "1", "number": "1"},
-     {"issue-date": "1924-09-27", "volume": "1", "number": "2"},
-     {"issue-date": "1924-10-04", "volume": "1", "number": "3"},
-     {"issue-date": "1924-10-11", "volume": "1", "number": "4"},
-     {"issue-date": "1924-10-18", "volume": "1", "number": "5"},
-     {"issue-date": "1924-10-25", "volume": "1", "number": "6"},
-     {"issue-date": "1924-11-01", "volume": "2", "number": "1"},
-     {"issue-date": "1924-11-08", "volume": "2", "number": "2"},
-     {"issue-date": "1924-11-15", "volume": "2", "number": "3"},
-     {"issue-date": "1924-11-22", "volume": "2", "number": "4"},
-     {"issue-date": "1924-11-29", "volume": "2", "number": "5"},
-     {"issue-date": "1924-12-06", "volume": "2", "number": "6"},
-     {"issue-date": "1924-12-13", "volume": "3", "number": "1"},
-     {"issue-date": "1924-12-20", "volume": "3", "number": "2"},
-     {"issue-date": "1924-12-27", "volume": "3", "number": "3"},
-     {"issue-date": "1925-01-03", "volume": "3", "number": "4"},
      {"issue-date": "1925-01-10", "volume": "3", "number": "5"},
      {"issue-date": "1925-01-17", "volume": "3", "number": "6"},
      {"issue-date": "1925-01-24", "volume": "4", "number": "1"},
@@ -74,80 +59,63 @@
      {"issue-date": "1925-10-10", "volume": "10", "number": "2"},
      {"issue-date": "1925-10-17", "volume": "10", "number": "3"},
      {"issue-date": "1925-10-24", "volume": "10", "number": "4"},
-     {"issue-date": "1925-10-31", "volume": "10", "number": "5"}
+     {"issue-date": "1925-10-31", "volume": "10", "number": "5"},
+     {"issue-date": "1925-11-07", "volume": "10", "number": "6"},
+     {"issue-date": "1925-11-14", "volume": "11", "number": "1"},
+     {"issue-date": "1925-11-21", "volume": "11", "number": "2"},
+     {"issue-date": "1925-11-28", "volume": "11", "number": "3"},
+     {"issue-date": "1925-12-05", "volume": "11", "number": "4"},
+     {"issue-date": "1925-12-12", "volume": "11", "number": "5"},     
+     {"issue-date": "1925-12-19", "volume": "11", "number": "6"},
+     {"issue-date": "1925-12-26", "volume": "12", "number": "1"},
+     {"issue-date": "1926-01-02", "volume": "12", "number": "2",
+      "cdate": "1925-12-31"},   
+     {"issue-date": "1926-01-09", "volume": "12", "number": "3"},
+     {"issue-date": "1926-01-16", "volume": "12", "number": "4"},
+     {"issue-date": "1926-01-23", "volume": "12", "number": "5"},     
+     {"issue-date": "1926-01-30", "volume": "12", "number": "6"},
+     {"issue-date": "1926-02-06", "volume": "13", "number": "1"},
+     {"issue-date": "1926-02-13", "volume": "13", "number": "2"},
+     {"issue-date": "1926-02-20", "volume": "13", "number": "3"},
+     {"issue-date": "1926-02-27", "volume": "13", "number": "4"},
+     {"issue-date": "1926-03-06", "volume": "13", "number": "5"},     
+     {"issue-date": "1926-03-13", "volume": "13", "number": "6"},
+     {"issue-date": "1926-03-20", "volume": "14", "number": "1"},
+     {"issue-date": "1926-03-27", "volume": "14", "number": "2"},
+     {"issue-date": "1926-04-03", "volume": "14", "number": "3"},
+     {"issue-date": "1926-04-10", "volume": "14", "number": "4"},
+     {"issue-date": "1926-04-17", "volume": "14", "number": "5"},     
+     {"issue-date": "1926-04-24", "volume": "14", "number": "6"},
+     {"issue-date": "1926-05-01", "volume": "15", "number": "1"},
+     {"issue-date": "1926-05-08", "volume": "15", "number": "2"},
+     {"issue-date": "1926-05-15", "volume": "15", "number": "3"},
+     {"issue-date": "1926-05-22", "volume": "15", "number": "4"},
+     {"issue-date": "1926-05-29", "volume": "15", "number": "5"},     
+     {"issue-date": "1926-06-05", "volume": "15", "number": "6"},
+     {"issue-date": "1926-06-12", "volume": "16", "number": "1"},
+     {"issue-date": "1926-06-19", "volume": "16", "number": "2"},
+     {"issue-date": "1926-06-26", "volume": "16", "number": "3"},
+     {"issue-date": "1926-07-03", "volume": "16", "number": "4"},
+     {"issue-date": "1926-07-10", "volume": "16", "number": "5"},     
+     {"issue-date": "1926-07-17", "volume": "16", "number": "6"},
+     {"issue-date": "1926-07-24", "volume": "17", "number": "1"},
+     {"issue-date": "1926-07-31", "volume": "17", "number": "2"},
+     {"issue-date": "1926-08-07", "volume": "17", "number": "3"},
+     {"issue-date": "1926-08-14", "volume": "17", "number": "4"},
+     {"issue-date": "1926-08-21", "volume": "17", "number": "5"},     
+     {"issue-date": "1926-08-28", "volume": "17", "number": "6"},
+     {"issue-date": "1926-09-04", "volume": "18", "number": "1"},
+     {"issue-date": "1926-09-11", "volume": "18", "number": "2"},
+     {"issue-date": "1926-09-18", "volume": "18", "number": "3"},
+     {"issue-date": "1926-09-25", "volume": "18", "number": "4"},
+     {"issue-date": "1926-10-02", "volume": "18", "number": "5"},     
+     {"issue-date": "1926-10-09", "volume": "18", "number": "6"},
+     {"issue-date": "1926-10-16", "volume": "19", "number": "1"},
+     {"issue-date": "1926-10-23", "volume": "19", "number": "2"},
+     {"issue-date": "1926-10-30", "volume": "19", "number": "3"}
    ],
-   "renewed-contribution-completeness": "active/1924",
+   "renewed-contribution-completeness": "active/1925",
    "renewed-contributions": [  
-     {"issue": {"issue-date": "1924-10-04", "volume": "1", "number": "3"},
-      "title": "Said With Flowers",
-      "author": {
-       "authorized": "Bramah, Ernest, 1869?-1942 ",
-       "lcna": "n50014273"
-      }
-     },
-     {"issue": {"issue-date": "1924-10-11", "volume": "1", "number": "4"},
-      "title": "Champion of Lost Causes",
-      "title-note": "part 1 of 7",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1924-10-18", "volume": "1", "number": "5"},
-      "title": "Champion of Lost Causes",
-      "title-note": "part 2 of 7",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1924-10-25", "volume": "1", "number": "6"},
-      "title": "Champion of Lost Causes",
-      "title-note": "part 3 of 7",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1924-10-11", "volume": "2", "number": "1"},
-      "title": "Champion of Lost Causes",
-      "title-note": "part 4 of 7",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1924-11-08", "volume": "2", "number": "2"},
-      "title": "Champion of Lost Causes",
-      "title-note": "part 5 of 7",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1924-11-15", "volume": "2", "number": "3"},
-      "title": "Champion of Lost Causes",
-      "title-note": "part 6 of 7",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1924-11-22", "volume": "2", "number": "4"},
-      "title": "Champion of Lost Causes",
-      "title-note": "part 7 of 7",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
      {"issue": {"issue-date": "1925-11-28", "volume": "11", "number": "3"},
       "title": "The Door With Seven Locks",
       "title-note": "part 1 of 4",
@@ -183,6 +151,38 @@
         "authorized": "Wallace, Edgar, 1875-1932",
         "lcna": "n80034938"
       }
+     },
+     {"issue": {"issue-date": "1926-10-23", "volume": "19", "number": "2"},
+      "title": "The Joker",
+      "title-note": "part 1 of 4",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1926-10-30", "volume": "19", "number": "3"},
+      "title": "The Joker",
+      "title-note": "part 2 of 4",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1926-11-06", "volume": "19", "number": "4"},
+      "title": "The Joker",
+      "title-note": "part 3 of 4",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1926-11-13", "volume": "19", "number": "5"},
+      "title": "The Joker",
+      "title-note": "part 4 of 4",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
      }
    ],
    "additional-note": "Although this magazine went through numerous name changes, the word 'Flynn's' (as part of the title, or in the phrase 'Formerly Flynn's') appeared on the cover of nearly all issues.",
@@ -190,5 +190,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-06-04"
+   "last-updated": "2020-01-26"
 }

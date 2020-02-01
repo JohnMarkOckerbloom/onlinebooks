@@ -7,67 +7,14 @@
        "note": "FictionMags (most issues)"}
    ],
    "first-renewed-issue": 
-       {"issue-date": "1924-01-05", "volume": "40", "number": "2"},
-   "first-renewed-issue-source": "1951-JanJun",
+       {"issue-date": "1925-01-10", "volume": "49", "number": "1",
+       "cdate": "1925-01-07"}, 
+   "first-renewed-issue-source": "1952",
    "first-renewed-contribution":
-       {"issue": {"issue-date": "1924-01-05", "volume": "40", "number": "2"}},
-   "first-renewed-contribution-source": "1951-JanJun",
-   "renewed-issue-completeness": "active/1924",
+       {"issue": {"issue-date": "1925-01-10", "volume": "49", "number": "1"}},
+   "first-renewed-contribution-source": "1952-JulDec",
+   "renewed-issue-completeness": "active/1925",
    "renewed-issues": [
-       {"issue-date": "1924-01-05", "volume": "40", "number": "2"},
-       {"issue-date": "1924-01-12", "volume": "40", "number": "3"},
-       {"issue-date": "1924-01-19", "volume": "40", "number": "4"},
-       {"issue-date": "1924-01-26", "volume": "40", "number": "5"},
-       {"issue-date": "1924-02-02", "volume": "40", "number": "6"},
-       {"issue-date": "1924-02-09", "volume": "41", "number": "1"},
-       {"issue-date": "1924-02-16", "volume": "41", "number": "2"},
-       {"issue-date": "1924-02-23", "volume": "41", "number": "3"},
-       {"issue-date": "1924-03-01", "volume": "41", "number": "4"},
-       {"issue-date": "1924-03-08", "volume": "41", "number": "5"},
-       {"issue-date": "1924-03-15", "volume": "41", "number": "6"},
-       {"issue-date": "1924-03-22", "volume": "42", "number": "1"},
-       {"issue-date": "1924-03-29", "volume": "42", "number": "2"},
-       {"issue-date": "1924-04-05", "volume": "42", "number": "3"},
-       {"issue-date": "1924-04-12", "volume": "42", "number": "4"},
-       {"issue-date": "1924-04-19", "volume": "42", "number": "5"},
-       {"issue-date": "1924-04-26", "volume": "42", "number": "6"},
-       {"issue-date": "1924-05-03", "volume": "43", "number": "1"},
-       {"issue-date": "1924-05-10", "volume": "43", "number": "2"},
-       {"issue-date": "1924-05-17", "volume": "43", "number": "3"},
-       {"issue-date": "1924-05-24", "volume": "43", "number": "4"},
-       {"issue-date": "1924-05-31", "volume": "43", "number": "5"},
-       {"issue-date": "1924-06-07", "volume": "43", "number": "6"},
-       {"issue-date": "1924-06-14", "volume": "44", "number": "1"},
-       {"issue-date": "1924-06-21", "volume": "44", "number": "2"},
-       {"issue-date": "1924-06-28", "volume": "44", "number": "3"},
-       {"issue-date": "1924-07-05", "volume": "44", "number": "4"},
-       {"issue-date": "1924-07-12", "volume": "44", "number": "5"},
-       {"issue-date": "1924-07-19", "volume": "44", "number": "6"},
-       {"issue-date": "1924-07-26", "volume": "45", "number": "1"},
-       {"issue-date": "1924-08-02", "volume": "45", "number": "2"},
-       {"issue-date": "1924-08-09", "volume": "45", "number": "3"},
-       {"issue-date": "1924-08-16", "volume": "45", "number": "4"},
-       {"issue-date": "1924-08-23", "volume": "45", "number": "5"},
-       {"issue-date": "1924-08-30", "volume": "45", "number": "6"},
-       {"issue-date": "1924-09-06", "volume": "46", "number": "1"},
-       {"issue-date": "1924-09-13", "volume": "46", "number": "2"},
-       {"issue-date": "1924-09-20", "volume": "46", "number": "3"},
-       {"issue-date": "1924-09-27", "volume": "46", "number": "4"},
-       {"issue-date": "1924-10-04", "volume": "46", "number": "5"},
-       {"issue-date": "1924-10-11", "volume": "46", "number": "6"},
-       {"issue-date": "1924-10-18", "volume": "47", "number": "1"},
-       {"issue-date": "1924-10-25", "volume": "47", "number": "2"},
-       {"issue-date": "1924-11-01", "volume": "47", "number": "3"},
-       {"issue-date": "1924-11-08", "volume": "47", "number": "4"},
-       {"issue-date": "1924-11-15", "volume": "47", "number": "5"},
-       {"issue-date": "1924-11-22", "volume": "47", "number": "6"},
-       {"issue-date": "1924-11-29", "volume": "48", "number": "1"},
-       {"issue-date": "1924-12-06", "volume": "48", "number": "2"},
-       {"issue-date": "1924-12-13", "volume": "48", "number": "3"},
-       {"issue-date": "1924-12-20", "volume": "48", "number": "4"},
-       {"issue-date": "1924-12-27", "volume": "48", "number": "5"},
-       {"issue-date": "1925-01-03", "volume": "48", "number": "6",
-       "cdate": "1924-12-31"}, 
        {"issue-date": "1925-01-10", "volume": "49", "number": "1",
        "cdate": "1925-01-07"}, 
        {"issue-date": "1925-01-17", "volume": "49", "number": "2"},
@@ -116,603 +63,61 @@
        {"issue-date": "1925-11-14", "volume": "56", "number": "3"},
        {"issue-date": "1925-11-21", "volume": "56", "number": "4"},
        {"issue-date": "1925-11-28", "volume": "56", "number": "5"},
-       {"issue-date": "1925-12-05", "volume": "56", "number": "6"}
+       {"issue-date": "1925-12-05", "volume": "56", "number": "6"},
+       {"issue-date": "1925-12-12", "volume": "57", "number": "1"},
+       {"issue-date": "1925-12-19", "volume": "57", "number": "2"},
+       {"issue-date": "1925-12-26", "volume": "57", "number": "3"},
+       {"issue-date": "1926-01-02", "volume": "57", "number": "4",
+        "cdate": "1925-12-30"},
+       {"issue-date": "1926-01-09", "volume": "57", "number": "5",
+        "cdate": "1926-01-06"}, 
+       {"issue-date": "1926-01-16", "volume": "57", "number": "6"}, 
+       {"issue-date": "1926-01-23", "volume": "58", "number": "1"},
+       {"issue-date": "1926-01-30", "volume": "58", "number": "2"},
+       {"issue-date": "1926-02-06", "volume": "58", "number": "3"},
+       {"issue-date": "1926-02-13", "volume": "58", "number": "4"},
+       {"issue-date": "1926-02-20", "volume": "58", "number": "5"},
+       {"issue-date": "1926-02-27", "volume": "58", "number": "6"},
+       {"issue-date": "1926-03-06", "volume": "59", "number": "1"},
+       {"issue-date": "1926-03-13", "volume": "59", "number": "2"},
+       {"issue-date": "1926-03-20", "volume": "59", "number": "3"},
+       {"issue-date": "1926-03-27", "volume": "59", "number": "4"},
+       {"issue-date": "1926-04-03", "volume": "59", "number": "5"},
+       {"issue-date": "1926-04-10", "volume": "59", "number": "6"},
+       {"issue-date": "1926-04-17", "volume": "60", "number": "1"},
+       {"issue-date": "1926-04-24", "volume": "60", "number": "2"},
+       {"issue-date": "1926-05-01", "volume": "60", "number": "3"},
+       {"issue-date": "1926-05-08", "volume": "60", "number": "4"},
+       {"issue-date": "1926-05-15", "volume": "60", "number": "5"},
+       {"issue-date": "1926-05-22", "volume": "60", "number": "6"},
+       {"issue-date": "1926-05-29", "volume": "61", "number": "1"},
+       {"issue-date": "1926-06-05", "volume": "61", "number": "2"},
+       {"issue-date": "1926-06-12", "volume": "61", "number": "3"},
+       {"issue-date": "1926-06-19", "volume": "61", "number": "4"},
+       {"issue-date": "1926-06-26", "volume": "61", "number": "5"},
+       {"issue-date": "1926-07-03", "volume": "61", "number": "6"},
+       {"issue-date": "1926-07-10", "volume": "62", "number": "1"},
+       {"issue-date": "1926-07-17", "volume": "62", "number": "2"},
+       {"issue-date": "1926-07-24", "volume": "62", "number": "3"},
+       {"issue-date": "1926-07-31", "volume": "62", "number": "4"},
+       {"issue-date": "1926-08-07", "volume": "62", "number": "5"},
+       {"issue-date": "1926-08-14", "volume": "62", "number": "6"},
+       {"issue-date": "1926-08-21", "volume": "63", "number": "1"},
+       {"issue-date": "1926-08-28", "volume": "63", "number": "2"},
+       {"issue-date": "1926-09-04", "volume": "63", "number": "3"},
+       {"issue-date": "1926-09-11", "volume": "63", "number": "4"},
+       {"issue-date": "1926-09-18", "volume": "63", "number": "5"},
+       {"issue-date": "1926-09-25", "volume": "63", "number": "6"},
+       {"issue-date": "1926-10-02", "volume": "64", "number": "1"},
+       {"issue-date": "1926-10-09", "volume": "64", "number": "2"},
+       {"issue-date": "1926-10-16", "volume": "64", "number": "3"},
+       {"issue-date": "1926-10-23", "volume": "64", "number": "4"},
+       {"issue-date": "1926-10-30", "volume": "64", "number": "5"},
+       {"issue-date": "1926-11-06", "volume": "64", "number": "6"},
+       {"issue-date": "1926-11-13", "volume": "65", "number": "1"}
    ],
-   "renewed-contribution-completeness": "active/1924",
+   "renewed-contribution-completeness": "active/1925",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1924-01-05", "volume": "40", "number": "2"},
-      "title": "Master and Man",
-      "note": "Author is Frederick Faust writing under a pseudonym. CCE renewal record gives author pseudonym for this story as George Owen Baxter; FictionMags gives it as Max Brand. I have not examined the issue to see what name is used there.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1924-01-05", "volume": "40", "number": "2"},
-      "title": "The Whisper of the Wilderness (The Whispering Outlaw)",
-      "title-note": "part 6 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym. Title as given in CCE renewal record; FictionMags gives it as 'The Whisperer of the Wilderness'. I have not examined the issue to see what title is used there.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1924-01-19", "volume": "40", "number": "4"},
-      "title": "The Rock of Kiever",
-      "note": "Author is Frederick Faust writing under a pseudonym. Title as given in CCE renewal record; FictionMags gives title as 'The Book of Kiever'.  I have not examined the issue to see what title is used there.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1924-01-26", "volume": "40", "number": "5"},
-      "title": "Train's Trust",
-      "title-note": "part 1 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1924-02-02", "volume": "40", "number": "6"},
-      "title": "Train's Trust",
-      "title-note": "part 2 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1924-02-09", "volume": "41", "number": "1"},
-      "title": "Train's Trust",
-      "title-note": "part 3 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1924-02-16", "volume": "41", "number": "2"},
-      "title": "Train's Trust",
-      "title-note": "part 4 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1924-02-23", "volume": "41", "number": "3"},
-      "title": "Train's Trust",
-      "title-note": "part 5 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1924-03-01", "volume": "41", "number": "4"},
-      "title": "Cuttles Hired Man",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1924-03-01", "volume": "41", "number": "4"},
-      "title": "Train's Trust",
-      "title-note": "part 6 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1924-03-08", "volume": "41", "number": "5"},
-      "title": "Four Without Fear (Trail to San Triste)",
-      "title-note": "part 1 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Frederick, John, 1892-1944",
-       "lcna": "n88121490"
-      }
-     },
-     {"issue": {"issue-date": "1924-03-15", "volume": "41", "number": "6"},
-      "title": "Four Without Fear (Trail to San Triste)",
-      "title-note": "part 2 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Frederick, John, 1892-1944",
-       "lcna": "n88121490"
-      }
-     },
-     {"issue": {"issue-date": "1924-03-22", "volume": "42", "number": "1"},
-      "title": "Lazy Tom Hooks Up With Skinney",
-      "note": "Author is Frederick Faust writing under a pseudonym. Title as given in CCE renewal; FictionMags gives title as 'Lazy Tom Hooks Up With Skinny'. I have not examined the issue to see how the title is spelled there.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1924-03-22", "volume": "42", "number": "1"},
-      "title": "Four Without Fear (Trail to San Triste)",
-      "title-note": "part 3 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Frederick, John, 1892-1944",
-       "lcna": "n88121490"
-      }
-     },
-     {"issue": {"issue-date": "1924-03-29", "volume": "42", "number": "2"},
-      "title": "Four Without Fear (Trail to San Triste)",
-      "title-note": "part 4 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Frederick, John, 1892-1944",
-       "lcna": "n88121490"
-      }
-     },
-     {"issue": {"issue-date": "1924-04-05", "volume": "42", "number": "3"},
-      "title": "Four Without Fear (Trail to San Triste)",
-      "title-note": "part 5 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Frederick, John, 1892-1944",
-       "lcna": "n88121490"
-      }
-     },
-     {"issue": {"issue-date": "1924-04-12", "volume": "42", "number": "4"},
-      "title": "The Welding Quirt",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1924-04-12", "volume": "42", "number": "4"},
-      "title": "Four Without Fear (Trail to San Triste)",
-      "title-note": "part 6 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Frederick, John, 1892-1944",
-       "lcna": "n88121490"
-      }
-     },
-     {"issue": {"issue-date": "1924-04-19", "volume": "42", "number": "5"},
-      "title": "Saddle and Sentiment",
-      "title-note": "part 1 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1924-04-26", "volume": "42", "number": "6"},
-      "title": "Saddle and Sentiment",
-      "title-note": "part 2 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1924-05-03", "volume": "43", "number": "1"},
-      "title": "Saddle and Sentiment",
-      "title-note": "part 3 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1924-05-10", "volume": "43", "number": "2"},
-      "title": "Saddle and Sentiment",
-      "title-note": "part 4 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1924-05-17", "volume": "43", "number": "3"},
-      "title": "Saddle and Sentiment",
-      "title-note": "part 5 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1924-05-24", "volume": "43", "number": "4"},
-      "title": "Saddle and Sentiment",
-      "title-note": "part 6 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1924-05-31", "volume": "43", "number": "5"},
-      "title": "Argentine",
-      "title-note": "part 1 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1924-06-07", "volume": "43", "number": "6"},
-      "title": "Argentine",
-      "title-note": "part 2 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1924-06-14", "volume": "44", "number": "1"},
-      "title": "Argentine",
-      "title-note": "part 3 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1924-06-21", "volume": "44", "number": "2"},
-      "title": "Argentine",
-      "title-note": "part 4 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1924-06-28", "volume": "44", "number": "3"},
-      "title": "The Gambler",
-      "title-note": "part 4 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1924-06-28", "volume": "44", "number": "3"},
-      "title": "Argentine",
-      "title-note": "part 5 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1924-07-05", "volume": "44", "number": "4"},
-      "title": "A Wolf Among Dogs",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Frederick, John, 1892-1944",
-       "lcna": "n88121490"
-      }
-     },
-     {"issue": {"issue-date": "1924-07-05", "volume": "44", "number": "4"},
-      "title": "The Gambler",
-      "title-note": "part 5 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1924-07-05", "volume": "44", "number": "4"},
-      "title": "Argentine",
-      "title-note": "part 6 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1924-07-12", "volume": "44", "number": "5"},
-      "title": "The Red Rider",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Silver, Nicholas, 1892-1944",
-       "lcna": "n88121486"
-      }
-     },
-     {"issue": {"issue-date": "1924-07-12", "volume": "44", "number": "5"},
-      "title": "The Gambler",
-      "title-note": "part 6 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1924-07-19", "volume": "44", "number": "6"},
-      "title": "The Boy in the Wilderness",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1924-07-26", "volume": "45", "number": "1"},
-      "title": "The Brute",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1924-08-02", "volume": "45", "number": "2"},
-      "title": "The Love of Danger",
-      "title-note": "part 1 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1924-08-09", "volume": "45", "number": "3"},
-      "title": "The Race",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1924-08-09", "volume": "45", "number": "3"},
-      "title": "The Love of Danger",
-      "title-note": "part 2 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1924-08-16", "volume": "45", "number": "4"},
-      "title": "The Love of Danger",
-      "title-note": "part 3 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1924-08-23", "volume": "45", "number": "5"},
-      "title": "The Love of Danger",
-      "title-note": "part 4 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1924-08-30", "volume": "45", "number": "6"},
-      "title": "The Love of Danger",
-      "title-note": "part 5 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1924-09-06", "volume": "46", "number": "1"},
-      "title": "Hired by Dad",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1924-09-06", "volume": "46", "number": "1"},
-      "title": "The Love of Danger",
-      "title-note": "part 6 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1924-09-13", "volume": "46", "number": "2"},
-      "title": "Larramee's Ranch",
-      "title-note": "part 1 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1924-09-13", "volume": "46", "number": "2"},
-      "title": "Blackie and Red",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1924-09-20", "volume": "46", "number": "3"},
-      "title": "Larramee's Ranch",
-      "title-note": "part 2 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1924-09-27", "volume": "46", "number": "4"},
-      "title": "Larramee's Ranch",
-      "title-note": "part 3 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1924-10-04", "volume": "46", "number": "5"},
-      "title": "In the Hills of Monterey",
-      "title-note": "part 1 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Frederick, John, 1892-1944",
-       "lcna": "n88121490"
-      }
-     },
-     {"issue": {"issue-date": "1924-10-04", "volume": "46", "number": "5"},
-      "title": "When Red Was White",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1924-10-04", "volume": "46", "number": "5"},
-      "title": "Larramee's Ranch",
-      "title-note": "part 4 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1924-10-11", "volume": "46", "number": "6"},
-      "title": "In the Hills of Monterey",
-      "title-note": "part 2 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Frederick, John, 1892-1944",
-       "lcna": "n88121490"
-      }
-     },
-     {"issue": {"issue-date": "1924-10-11", "volume": "46", "number": "6"},
-      "title": "Larramee's Ranch",
-      "title-note": "part 5 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1924-10-18", "volume": "47", "number": "1"},
-      "title": "In the Hills of Monterey",
-      "title-note": "part 3 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Frederick, John, 1892-1944",
-       "lcna": "n88121490"
-      }
-     },
-     {"issue": {"issue-date": "1924-10-18", "volume": "47", "number": "1"},
-      "title": "Larramee's Ranch",
-      "title-note": "part 6 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1924-10-25", "volume": "47", "number": "2"},
-      "title": "In the Hills of Monterey",
-      "title-note": "part 4 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Frederick, John, 1892-1944",
-       "lcna": "n88121490"
-      }
-     },
-     {"issue": {"issue-date": "1924-11-01", "volume": "47", "number": "3"},
-      "title": "In the Hills of Monterey",
-      "title-note": "part 5 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Frederick, John, 1892-1944",
-       "lcna": "n88121490"
-      }
-     },
-     {"issue": {"issue-date": "1924-11-08", "volume": "47", "number": "4"},
-      "title": "In the Hills of Monterey",
-      "title-note": "part 6 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Frederick, John, 1892-1944",
-       "lcna": "n88121490"
-      }
-     },
-     {"issue": {"issue-date": "1924-11-15", "volume": "47", "number": "5"},
-      "title": "Chick's Fall",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1924-11-22", "volume": "47", "number": "6"},
-      "title": "Billy Angel, Trouble Lover",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1924-12-06", "volume": "48", "number": "2"},
-      "title": "In Nature's Cruelest Trap",
-      "author": {
-       "authorized": "Schoolcraft, John",
-       "lcna": "no2006020259"
-      }
-     },
-     {"issue": {"issue-date": "1924-12-13", "volume": "48", "number": "3"},
-      "title": "Mountain Made",
-      "title-note": "part 1 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1924-12-13", "volume": "48", "number": "3"},
-      "title": "The Third Bullet",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1924-12-20", "volume": "48", "number": "4"},
-      "title": "Fortune's Christmas",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1924-12-20", "volume": "48", "number": "4"},
-      "title": "Mountain Made",
-      "title-note": "part 2 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1924-12-27", "volume": "48", "number": "5"},
-      "title": "Mountain Made",
-      "title-note": "part 3 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1925-01-03", "volume": "48", "number": "6"},
-      "title": "Mountain Made",
-      "title-note": "part 4 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
      {"issue": {"issue-date": "1925-01-10", "volume": "49", "number": "1"},
       "title": "Mountain Made",
       "title-note": "part 5 of 6",
@@ -1131,11 +536,219 @@
        "lcna": "n88121475"
       }
      },
+     {"issue": {"issue-date": "1925-12-12", "volume": "57", "number": "1"},
+      "title": "The White Cheyenne",
+      "title-note": "part 1 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Morland, Peter Henry, 1892-1944",
+       "lcna": "n88121484"
+      }
+     },
+     {"issue": {"issue-date": "1925-12-19", "volume": "57", "number": "2"},
+      "title": "The White Cheyenne",
+      "title-note": "part 2 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Morland, Peter Henry, 1892-1944",
+       "lcna": "n88121484"
+      }
+     },
      {"issue": {"issue-date": "1925-12-19", "volume": "57", "number": "2"},
       "title": "Prairie Yule",
       "author": {
        "authorized": "Haycox, Ernest, 1899-1950",
        "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1925-12-26", "volume": "57", "number": "3"},
+      "title": "No Man's Friend",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1925-12-26", "volume": "57", "number": "3"},
+      "title": "The White Cheyenne",
+      "title-note": "part 3 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Morland, Peter Henry, 1892-1944",
+       "lcna": "n88121484"
+      }
+     },
+     {"issue": {"issue-date": "1926-01-02", "volume": "57", "number": "4"},
+      "title": "The White Cheyenne",
+      "title-note": "part 4 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Morland, Peter Henry, 1892-1944",
+       "lcna": "n88121484"
+      }
+     },
+     {"issue": {"issue-date": "1926-01-09", "volume": "57", "number": "5"},
+      "title": "The Tyrant (Monsieur)",
+      "title-note": "part 1 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Challis, George, 1892-1944",
+       "lcna": "n88121478"
+      }
+     },
+     {"issue": {"issue-date": "1926-01-09", "volume": "57", "number": "5"},
+      "title": "The White Cheyenne",
+      "title-note": "part 5 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Morland, Peter Henry, 1892-1944",
+       "lcna": "n88121484"
+      }
+     },
+     {"issue": {"issue-date": "1926-01-16", "volume": "57", "number": "6"},
+      "title": "Sandy Sweyn Comes Out of the Wilds",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1926-01-16", "volume": "57", "number": "6"},
+      "title": "The Tyrant (Monsieur)",
+      "title-note": "part 2 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Challis, George, 1892-1944",
+       "lcna": "n88121478"
+      }
+     },
+     {"issue": {"issue-date": "1926-01-16", "volume": "57", "number": "6"},
+      "title": "The White Cheyenne",
+      "title-note": "part 6 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Morland, Peter Henry, 1892-1944",
+       "lcna": "n88121484"
+      }
+     },
+     {"issue": {"issue-date": "1926-01-23", "volume": "58", "number": "1"},
+      "title": "The Tyrant (Monsieur)",
+      "title-note": "part 3 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Challis, George, 1892-1944",
+       "lcna": "n88121478"
+      }
+     },
+     {"issue": {"issue-date": "1926-01-30", "volume": "58", "number": "2"},
+      "title": "A Good Man to Lie For",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1926-01-30", "volume": "58", "number": "2"},
+      "title": "The Good Bad Man",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1926-01-30", "volume": "58", "number": "2"},
+      "title": "The Tyrant (Monsieur)",
+      "title-note": "part 4 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Challis, George, 1892-1944",
+       "lcna": "n88121478"
+      }
+     },
+     {"issue": {"issue-date": "1926-02-06", "volume": "58", "number": "3"},
+      "title": "The Tyrant (Monsieur)",
+      "title-note": "part 5 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Challis, George, 1892-1944",
+       "lcna": "n88121478"
+      }
+     },
+     {"issue": {"issue-date": "1926-02-13", "volume": "58", "number": "4"},
+      "title": "False Faces",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1926-02-13", "volume": "58", "number": "4"},
+      "title": "The Tyrant (Monsieur)",
+      "title-note": "part 6 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Challis, George, 1892-1944",
+       "lcna": "n88121478"
+      }
+     },
+     {"issue": {"issue-date": "1926-02-20", "volume": "58", "number": "5"},
+      "title": "Blue Jay",
+      "title-note": "part 1 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1926-02-27", "volume": "58", "number": "6"},
+      "title": "The Man He Couldn't Get",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1926-02-27", "volume": "58", "number": "6"},
+      "title": "Blue Jay",
+      "title-note": "part 2 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1926-03-06", "volume": "59", "number": "1"},
+      "title": "Blue Jay",
+      "title-note": "part 3 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1926-03-13", "volume": "59", "number": "2"},
+      "title": "Blue Jay",
+      "title-note": "part 4 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1926-03-20", "volume": "59", "number": "3"},
+      "title": "Blue Jay",
+      "title-note": "part 5 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1926-03-27", "volume": "59", "number": "4"},
+      "title": "Blue Jay",
+      "title-note": "part 6 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
       }
      },
      {"issue": {"issue-date": "1926-04-03", "volume": "59", "number": "5"},
@@ -1185,11 +798,53 @@
         "authorized": "Footner, Hulbert, 1879-1944",
         "lcna": "n88202699"
       }
+     },
+     {"issue": {"issue-date": "1926-06-12", "volume": "61", "number": "3"},
+      "title": "Rockbound Honesty",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1926-07-03", "volume": "61", "number": "6"},
+      "title": "The Bird in the Bush",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1926-07-10", "volume": "62", "number": "1"},
+      "title": "Rimrock and Rattlesnakes",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1926-09-11", "volume": "63", "number": "4"},
+      "title": "No Gent to Fool With",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1926-10-09", "volume": "64", "number": "2"},
+      "title": "Gunfleets Dicker",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1926-10-16", "volume": "64", "number": "3"},
+      "title": "Deputy Sheriff to Boot",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-05-30"
+   "last-updated": "2020-01-23"
 }

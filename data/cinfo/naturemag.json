@@ -4,19 +4,14 @@
    "online": "1",
    "see-also": [{"id": "nature",
                  "note": "Nature (UK-based scientific journal)"}],
+   "first-issue": {"issue-date": "1923-01"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
-   "first-renewed-contribution": {"issue": {"issue-date": "1924-03"}},
-   "first-renewed-contribution-source": "1951-JanJun",
-   "renewed-contribution-completeness": "active/1924",
+   "first-renewed-contribution": {"issue": {"issue-date": "1925-04"}},
+   "first-renewed-contribution-source": "1952-JanJun",
+   "last-issue": {"issue-date": "1959-12", "volume": "52", "number": "10"},
+   "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1924-03"},
-      "title": "Fungus Diseases That Destroy Insects",
-      "author": {
-         "authorized": "Howes, Paul Griswold, 1892-1983",
-         "lcna": "n87832444"
-      }
-     },
      {"issue": {"issue-date": "1925-04"},
       "title": "Reminders of the Ice Age",
       "author": {
@@ -30,11 +25,131 @@
          "authorized": "Howes, Paul Griswold, 1892-1983",
          "lcna": "n87832444"
       }
+     },
+     {"issue": {"issue-date": "1926-08"},
+      "title": "The Earthworms",
+      "author": {
+         "authorized": "Howes, Paul Griswold, 1892-1983",
+         "lcna": "n87832444"
+      }
+     },
+     {"issue": {"issue-date": "1926-10"},
+      "title": "Micro Gardens",
+      "author": {
+         "authorized": "Howes, Paul Griswold, 1892-1983",
+         "lcna": "n87832444"
+      }
+     },
+     {"issue": {"issue-date": "1927-05"},
+      "title": "Music of Wings",
+      "author": {
+       "authorized": "Sass, Herbert Ravenel, 1884-1958",
+       "lcna": "n88224199"
+      }
+     },
+     {"issue": {"issue-date": "1932-01"},
+      "title": "Jungle Orphan",
+      "author": {
+       "authorized": "Gill, Tom, 1891-1972",
+       "lcna": "no90026181"
+      }
+     },
+     {"issue": {"issue-date": "1932-09"},
+      "title": "Blinkey, a Garter Snake Pet",
+      "author": {
+       "name": "Mary V. Loveridge"
+      }
+     },
+     {"issue": {"issue-date": "1934-07"},
+      "title": "Badgered",
+      "author": {
+       "authorized": "Stevenson, Elmo Nall",
+       "lcna": "no2005096638"
+      }
+     },
+     {"issue": {"issue-date": "1939-June-July"},
+        "title": "How About Citizenship Papers for the Starling",
+        "author": {
+         "authorized": "Carson, Rachel, 1907-1964",
+         "lcna": "n50035129"
+        }
+     },
+     {"issue": {"issue-date": "1948-10"},
+        "title": "Dance, Teach Nature Lore",
+        "author": {
+         "authorized": "Jaeger, Ellsworth",
+         "lcna": "n92040627"
+        }
+     },
+     {"issue": {"issue-date": "1949-12"},
+        "title": "Berry Juices and Plant Dyes",
+        "author": {
+         "authorized": "Jaeger, Ellsworth",
+         "lcna": "n92040627"
+        }
+     },
+     {"issue": {"issue-date": "1951-05"},
+        "title": "The Shape of Ancient Seas",
+        "author": {
+         "authorized": "Carson, Rachel, 1907-1964",
+         "lcna": "n50035129"
+        }
+     },
+     {"issue": {"issue-date": "1952-02"},
+        "title": "Bristelcone Pine",
+        "note": "Title as spelled in Copyright Office database.",
+        "author": {
+         "authorized": "Peattie, Donald Culross, 1898-1964",
+         "lcna": "n80023580"
+        }
+     },
+     {"issue": {"issue-date": "1952-03"},
+        "title": "Whiteback Pine",
+        "author": {
+         "authorized": "Peattie, Donald Culross, 1898-1964",
+         "lcna": "n80023580"
+        }
+     },
+     {"issue": {"issue-date": "1952-04"},
+        "title": "The Cherrystone Juniper",
+        "author": {
+         "authorized": "Peattie, Donald Culross, 1898-1964",
+         "lcna": "n80023580"
+        }
+     },
+     {"issue": {"issue-date": "1955-02"},
+        "title": "Prerogative",
+        "author": {
+         "authorized": "Merchant, Jane",
+         "lcna": "n50035957"
+        }
+     },
+     {"issue": {"issue-date": "1955-12"},
+        "title": "Color of the Storm",
+        "author": {
+         "authorized": "Stuart, Jesse, 1906-1984",
+         "lcna": "n79018157"
+        }
+     },
+     {"issue": {"issue-date": "1956-04"},
+        "title": "Nature Isa Landscapist",
+        "note": "Title as spelled in Copyright Office database.",
+        "author": {
+         "authorized": "Stuart, Jesse, 1906-1984",
+         "lcna": "n79018157"
+        }
+     },
+     {"issue": {"issue-date": "1958-August-September"},
+        "title": "Broad-Wing",
+        "author": {
+         "authorized": "Olson, Sigurd F., 1899-1982",
+         "lcna": "n79045068"
+        }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-05-28"
+   "last-updated": "2020-01-17"
 }

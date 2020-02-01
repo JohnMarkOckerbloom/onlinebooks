@@ -9,92 +9,13 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1924-02", "cdate": "1951-01-25",
-                "volume": "56", "number": "2"}},
-   "first-renewed-contribution-source": "1951-JanJun",
-   "renewed-contribution-completeness": "active/1924",
+     {"issue": {"issue-date": "1925-10", "series": "new",
+      "volume": "1", "number": "6"}}, 
+   "first-renewed-contribution-source": "1952-JulDec",
+   "last-issue": {"issue-date": "1929-03", "volume": "62", "number": "3"},
+   "see-also": [{"id": "smartset", "note": "The Smart Set"}],
+   "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1924-02", "volume": "56", "number": "2"}, 
-      "title": "The Third Round",
-      "title-note": "part 6 of 6",
-      "author": {
-       "authorized": "McNeile, H. C. (Herman Cyril), 1888-1937",
-       "lcna": "no96039399"
-      }
-     },
-     {"issue": {"issue-date": "1924-03", "volume": "56", "number": "3"}, 
-      "title": "Two Arabian Knights",
-      "title-note": "part 1 of 3",
-      "author": {
-        "name": "Donald McGibney"
-      }
-     },
-     {"issue": {"issue-date": "1924-04", "volume": "56", "number": "4"}, 
-      "title": "Theodore Roosevelt's Grandchildren",
-      "title-note": "part 1 of 3",
-      "author": {
-        "name": "Lauretta Fancher"
-      }
-     },
-     {"issue": {"issue-date": "1924-04", "volume": "56", "number": "4"}, 
-      "title": "Two Arabian Knights",
-      "title-note": "part 2 of 3",
-      "author": {
-        "name": "Donald McGibney"
-      }
-     },
-     {"issue": {"issue-date": "1924-05", "volume": "57", "number": "1"}, 
-      "title": "The Porterhouse Steak",
-      "note": "Author name is a pseudonym for H. C. McNeile",
-      "author": {
-       "authorized": "Sapper, 1888-1937",
-       "lcna": "n85822242"
-      }
-     },
-     {"issue": {"issue-date": "1924-05", "volume": "57", "number": "1"}, 
-      "title": "Theodore Roosevelt's Grandchildren",
-      "title-note": "part 2 of 3",
-      "author": {
-        "name": "Lauretta Fancher"
-      }
-     },
-     {"issue": {"issue-date": "1924-05", "volume": "57", "number": "1"}, 
-      "title": "Two Arabian Knights",
-      "title-note": "part 3 of 3",
-      "author": {
-        "name": "Donald McGibney"
-      }
-     },
-     {"issue": {"issue-date": "1924-06", "volume": "57", "number": "2"}, 
-      "title": "The Missing Line",
-      "note": "Author name is a pseudonym for H. C. McNeile",
-      "author": {
-       "authorized": "Sapper, 1888-1937",
-       "lcna": "n85822242"
-      }
-     },
-     {"issue": {"issue-date": "1924-06", "volume": "57", "number": "2"}, 
-      "title": "Theodore Roosevelt's Grandchildren",
-      "title-note": "part 3 of 3",
-      "author": {
-        "name": "Lauretta Fancher"
-      }
-     },
-     {"issue": {"issue-date": "1924-07", "volume": "57", "number": "3"}, 
-      "title": "Out of the Blue",
-      "author": {
-       "authorized": "McNeile, H. C. (Herman Cyril), 1888-1937",
-       "lcna": "no96039399"
-      }
-     },
-     {"issue": {"issue-date": "1924-08", "volume": "57", "number": "4"}, 
-      "title": "Stubby",
-      "note": "Author name is a pseudonym for H. C. McNeile",
-      "author": {
-       "authorized": "Sapper, 1888-1937",
-       "lcna": "n85822242"
-      }
-     },
      {"issue": {"issue-date": "1925-10", "series": "new", "volume": "1", "number": "6"}, 
       "title": "Marie",
       "author": {
@@ -112,24 +33,209 @@
      },
      {"issue": {"issue-date": "1926-06", "volume": "56", "number": "6"},
        "title": "Summer Bachelors",
-       "title-note": "part 1 of 2?",
+       "title-note": "part 1 of 5?",
        "author": {
          "authorized": "Adams, Samuel Hopkins, 1871-1958",
          "lcna": "n50037535"
        }
      },
      {"issue": {"issue-date": "1926-07", "volume": "57", "number": "1"},
+       "title": "Hot Saturday",
+       "title-note": "part 1 of 3",
+       "author": {
+         "authorized": "Fergusson, Harvey, 1890-1971",
+         "lcna": "n50026892"
+       }
+     },
+     {"issue": {"issue-date": "1926-07", "volume": "57", "number": "1"},
        "title": "Summer Bachelors",
-       "title-note": "part 2 of 2?",
+       "title-note": "part 2 of 5?",
        "author": {
          "authorized": "Adams, Samuel Hopkins, 1871-1958",
          "lcna": "n50037535"
        }
+     },
+     {"issue": {"issue-date": "1926-08", "volume": "57", "number": "2"},
+       "title": "Hot Saturday",
+       "title-note": "part 2 of 3",
+       "author": {
+         "authorized": "Fergusson, Harvey, 1890-1971",
+         "lcna": "n50026892"
+       }
+     },
+     {"issue": {"issue-date": "1926-08", "volume": "57", "number": "2"},
+       "title": "Summer Bachelors",
+       "title-note": "part 3 of 5?",
+       "author": {
+         "authorized": "Adams, Samuel Hopkins, 1871-1958",
+         "lcna": "n50037535"
+       }
+     },
+     {"issue": {"issue-date": "1926-09", "volume": "57", "number": "3"},
+       "title": "The Captain Herself",
+       "title-note": "part 1 of 2",
+       "note": "Author is Lily Adams Beck writing under an alternate name.",
+       "author": {
+         "authorized": "Moresby, Louis, -1931",
+         "lcna": "no96058054"
+       }
+     },
+     {"issue": {"issue-date": "1926-09", "volume": "57", "number": "3"},
+       "title": "Summer Bachelors",
+       "title-note": "part 4 of 5?",
+       "author": {
+         "authorized": "Adams, Samuel Hopkins, 1871-1958",
+         "lcna": "n50037535"
+       }
+     },
+     {"issue": {"issue-date": "1926-09", "volume": "57", "number": "3"},
+       "title": "Hot Saturday",
+       "title-note": "part 3 of 3",
+       "author": {
+         "authorized": "Fergusson, Harvey, 1890-1971",
+         "lcna": "n50026892"
+       }
+     },
+     {"issue": {"issue-date": "1926-10", "volume": "57", "number": "4"},
+       "title": "The New Eve",
+       "title-note": "part 1 of 6",
+       "author": {
+         "authorized": "Deeping, Warwick, 1877-1950",
+         "lcna": "n82131987"
+       }
+     },
+     {"issue": {"issue-date": "1926-10", "volume": "57", "number": "4"},
+       "title": "Summer Bachelors",
+       "title-note": "part 5 of 5?",
+       "author": {
+         "authorized": "Adams, Samuel Hopkins, 1871-1958",
+         "lcna": "n50037535"
+       }
+     },
+     {"issue": {"issue-date": "1926-10", "volume": "57", "number": "4"},
+       "title": "The Captain Herself",
+       "title-note": "part 2 of 2",
+       "note": "Author is Lily Adams Beck writing under an alternate name.",
+       "author": {
+         "authorized": "Moresby, Louis, -1931",
+         "lcna": "no96058054"
+       }
+     },
+     {"issue": {"issue-date": "1926-11", "volume": "57", "number": "5"},
+       "title": "The New Eve",
+       "title-note": "part 2 of 6",
+       "author": {
+         "authorized": "Deeping, Warwick, 1877-1950",
+         "lcna": "n82131987"
+       }
+     },
+     {"issue": {"issue-date": "1926-12", "volume": "57", "number": "6"},
+       "title": "The New Eve",
+       "title-note": "part 3 of 6",
+       "author": {
+         "authorized": "Deeping, Warwick, 1877-1950",
+         "lcna": "n82131987"
+       }
+     },
+     {"issue": {"issue-date": "1927-01", "volume": "58", "number": "1"},
+       "title": "A Scarlet Woman",
+       "author": {
+         "authorized": "Bromfield, Louis, 1896-1956",
+         "lcna": "n80040365"
+       }
+     },
+     {"issue": {"issue-date": "1927-01", "volume": "58", "number": "1"},
+       "title": "The New Eve",
+       "title-note": "part 4 of 6",
+       "author": {
+         "authorized": "Deeping, Warwick, 1877-1950",
+         "lcna": "n82131987"
+       }
+     },
+     {"issue": {"issue-date": "1927-02", "volume": "58", "number": "2"},
+       "title": "The New Eve",
+       "title-note": "part 5 of 6",
+       "author": {
+         "authorized": "Deeping, Warwick, 1877-1950",
+         "lcna": "n82131987"
+       }
+     },
+     {"issue": {"issue-date": "1927-03", "volume": "58", "number": "3"},
+       "title": "The New Eve",
+       "title-note": "part 6 of 6",
+       "author": {
+         "authorized": "Deeping, Warwick, 1877-1950",
+         "lcna": "n82131987"
+       }
+     },
+     {"issue": {"issue-date": "1928-05", "volume": "60", "number": "5"},
+       "title": "The Prisoner in the Opal",
+       "title-note": "part 1 of 7",
+       "author": {
+        "authorized": "Mason, A. E. W. (Alfred Edward Woodley), 1865-1948",
+        "lcna": "n50043662"
+       }
+     },
+     {"issue": {"issue-date": "1928-06", "volume": "60", "number": "6"},
+       "title": "The Prisoner in the Opal",
+       "title-note": "part 2 of 7",
+       "author": {
+        "authorized": "Mason, A. E. W. (Alfred Edward Woodley), 1865-1948",
+        "lcna": "n50043662"
+       }
+     },
+     {"issue": {"issue-date": "1928-07", "volume": "61", "number": "1"},
+       "title": "The Prisoner in the Opal",
+       "title-note": "part 3 of 7",
+       "author": {
+        "authorized": "Mason, A. E. W. (Alfred Edward Woodley), 1865-1948",
+        "lcna": "n50043662"
+       }
+     },
+     {"issue": {"issue-date": "1928-08", "volume": "61", "number": "2"},
+       "title": "The Prisoner in the Opal",
+       "title-note": "part 4 of 7",
+       "author": {
+        "authorized": "Mason, A. E. W. (Alfred Edward Woodley), 1865-1948",
+        "lcna": "n50043662"
+       }
+     },
+     {"issue": {"issue-date": "1928-09", "volume": "61", "number": "3"},
+       "title": "The Prisoner in the Opal",
+       "title-note": "part 5 of 7",
+       "author": {
+        "authorized": "Mason, A. E. W. (Alfred Edward Woodley), 1865-1948",
+        "lcna": "n50043662"
+       }
+     },
+     {"issue": {"issue-date": "1928-10", "volume": "61", "number": "4"},
+       "title": "The Prisoner in the Opal",
+       "title-note": "part 6 of 7",
+       "author": {
+        "authorized": "Mason, A. E. W. (Alfred Edward Woodley), 1865-1948",
+        "lcna": "n50043662"
+       }
+     },
+     {"issue": {"issue-date": "1928-11", "volume": "61", "number": "5"},
+       "title": "The Prisoner in the Opal",
+       "title-note": "part 7 of 7",
+       "author": {
+        "authorized": "Mason, A. E. W. (Alfred Edward Woodley), 1865-1948",
+        "lcna": "n50043662"
+       }
+     },
+     {"issue": {"issue-date": "1929-02", "volume": "62", "number": "2"},
+      "title": "Mr. Pottle and the Russian Problem",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
      }
    ],
+   "additional-note": "Published as The New McClure's beginning in July 1928, and then was absorbed into the Smart Set in 1929.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-06-03"
+   "last-updated": "2020-01-19"
 }

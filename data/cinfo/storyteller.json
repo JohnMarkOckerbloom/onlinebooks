@@ -9,24 +9,11 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution":
-      {"issue": {"issue-date": "1924-11", "number": "212"}},
-   "first-renewed-contribution-source": "1952-JanJun",
+      {"issue": {"issue-date": "1925-01", "number": "214"}},
+   "first-renewed-contribution-source": "1952-JulDec",
    "last-issue": {"issue-date": "1937-11"},
+   "renewed-contribution-completeness": "active/1925",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1924-11", "number": "212"},
-      "title": "The Exclusive Luxury of Enoch Oates",
-      "author": {
-       "authorized": "Chesterton, G. K. (Gilbert Keith), 1874-1936",
-       "lcna": "n79021157"
-      }
-     },
-     {"issue": {"issue-date": "1924-12", "number": "213"},
-      "title": "The Unthinkable Theory of Professor Green",
-      "author": {
-       "authorized": "Chesterton, G. K. (Gilbert Keith), 1874-1936",
-       "lcna": "n79021157"
-      }
-     },
      {"issue": {"issue-date": "1925-01", "number": "214"},
       "title": "The Unprecedented Architecture of Commander Blair",
       "author": {
@@ -48,5 +35,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-04-24"
+   "last-updated": "2020-01-23"
 }

@@ -8,67 +8,16 @@
        "note": "FictionMags"}
    ],
    "first-renewed-issue": 
-       {"issue-date": "1924-01-05", "volume": "157", "number": "1"},
-   "first-renewed-issue-source": "1951-JulDec",
+       {"issue-date": "1925-01-10", "volume": "165", "number": "6",
+        "cdate": "1925-01-08"},
+   "first-renewed-issue-source": "1952",
    "first-renewed-contribution":
-       {"issue": {"issue-date": "1924-01-05", "volume": "157", "number": "1"}},
-   "first-renewed-contribution-source": "1951-JanJun",
-   "renewed-issue-completeness": "active/1924",
+       {"issue": {"issue-date": "1925-01-17", "volume": "166", "number": "1"}},
+   "first-renewed-contribution-source": "1952-JanJun",
+   "renewed-issue-completeness": "active/1925",
    "renewed-issues": [
-       {"issue-date": "1924-01-05", "volume": "157", "number": "1"},
-       {"issue-date": "1924-01-12", "volume": "157", "number": "2"},
-       {"issue-date": "1924-01-19", "volume": "157", "number": "3"},
-       {"issue-date": "1924-01-26", "volume": "157", "number": "4"},
-       {"issue-date": "1924-02-02", "volume": "157", "number": "5"},
-       {"issue-date": "1924-02-09", "volume": "157", "number": "6"},
-       {"issue-date": "1924-02-16", "volume": "158", "number": "1"},
-       {"issue-date": "1924-02-23", "volume": "158", "number": "2"},
-       {"issue-date": "1924-03-01", "volume": "158", "number": "3"},
-       {"issue-date": "1924-03-08", "volume": "158", "number": "4"},
-       {"issue-date": "1924-03-15", "volume": "158", "number": "5"},
-       {"issue-date": "1924-03-22", "volume": "158", "number": "6"},
-       {"issue-date": "1924-03-29", "volume": "159", "number": "1"},
-       {"issue-date": "1924-04-05", "volume": "159", "number": "2"},
-       {"issue-date": "1924-04-12", "volume": "159", "number": "3"},
-       {"issue-date": "1924-04-19", "volume": "159", "number": "4"},
-       {"issue-date": "1924-04-26", "volume": "159", "number": "5"},
-       {"issue-date": "1924-05-03", "volume": "159", "number": "6"},
-       {"issue-date": "1924-05-10", "volume": "160", "number": "1"},
-       {"issue-date": "1924-05-17", "volume": "160", "number": "2"},
-       {"issue-date": "1924-05-24", "volume": "160", "number": "3"},
-       {"issue-date": "1924-05-31", "volume": "160", "number": "4"},
-       {"issue-date": "1924-06-07", "volume": "160", "number": "5"},
-       {"issue-date": "1924-06-14", "volume": "160", "number": "6"},
-       {"issue-date": "1924-06-21", "volume": "161", "number": "1"},
-       {"issue-date": "1924-06-28", "volume": "161", "number": "2"},
-       {"issue-date": "1924-07-05", "volume": "161", "number": "3"},
-       {"issue-date": "1924-07-12", "volume": "161", "number": "4"},
-       {"issue-date": "1924-07-19", "volume": "161", "number": "5"},
-       {"issue-date": "1924-07-26", "volume": "161", "number": "6"},
-       {"issue-date": "1924-08-02", "volume": "162", "number": "1"},
-       {"issue-date": "1924-08-09", "volume": "162", "number": "2"},
-       {"issue-date": "1924-08-16", "volume": "162", "number": "3"},
-       {"issue-date": "1924-08-23", "volume": "162", "number": "4"},
-       {"issue-date": "1924-08-30", "volume": "162", "number": "5"},
-       {"issue-date": "1924-09-06", "volume": "162", "number": "6"},
-       {"issue-date": "1924-09-13", "volume": "163", "number": "1"},
-       {"issue-date": "1924-09-20", "volume": "163", "number": "2"},
-       {"issue-date": "1924-09-27", "volume": "163", "number": "3"},
-       {"issue-date": "1924-10-04", "volume": "163", "number": "4"},
-       {"issue-date": "1924-10-11", "volume": "163", "number": "5"},
-       {"issue-date": "1924-10-18", "volume": "163", "number": "6"},
-       {"issue-date": "1924-10-25", "volume": "164", "number": "1"},
-       {"issue-date": "1924-11-01", "volume": "164", "number": "2"},
-       {"issue-date": "1924-11-08", "volume": "164", "number": "3"},
-       {"issue-date": "1924-11-15", "volume": "164", "number": "4"},
-       {"issue-date": "1924-11-22", "volume": "164", "number": "5"},
-       {"issue-date": "1924-11-29", "volume": "164", "number": "6"},
-       {"issue-date": "1924-12-06", "volume": "165", "number": "1"},
-       {"issue-date": "1924-12-13", "volume": "165", "number": "2"},
-       {"issue-date": "1924-12-20", "volume": "165", "number": "3"},
-       {"issue-date": "1924-12-27", "volume": "165", "number": "4"},
-       {"issue-date": "1925-01-03", "volume": "165", "number": "5"},
-       {"issue-date": "1925-01-10", "volume": "165", "number": "6"},
+       {"issue-date": "1925-01-10", "volume": "165", "number": "6",
+        "cdate": "1925-01-08"},
        {"issue-date": "1925-01-17", "volume": "166", "number": "1"},
        {"issue-date": "1925-01-24", "volume": "166", "number": "2"},
        {"issue-date": "1925-01-31", "volume": "166", "number": "3"},
@@ -110,367 +59,62 @@
        {"issue-date": "1925-10-10", "volume": "172", "number": "3"},
        {"issue-date": "1925-10-17", "volume": "172", "number": "4"},
        {"issue-date": "1925-10-24", "volume": "172", "number": "5"},
-       {"issue-date": "1925-10-31", "volume": "172", "number": "6"}
+       {"issue-date": "1925-10-31", "volume": "172", "number": "6"},
+       {"issue-date": "1925-11-07", "volume": "173", "number": "1"},
+       {"issue-date": "1925-11-14", "volume": "173", "number": "2"},
+       {"issue-date": "1925-11-21", "volume": "173", "number": "3"},
+       {"issue-date": "1925-11-28", "volume": "173", "number": "4"},
+       {"issue-date": "1925-12-05", "volume": "173", "number": "5"},
+       {"issue-date": "1925-12-12", "volume": "173", "number": "6"},
+       {"issue-date": "1925-12-19", "volume": "174", "number": "1"},
+       {"issue-date": "1925-12-26", "volume": "174", "number": "2"},
+       {"issue-date": "1926-01-02", "volume": "174", "number": "3"},
+       {"issue-date": "1926-01-09", "volume": "174", "number": "4"},
+       {"issue-date": "1926-01-16", "volume": "174", "number": "5"},
+       {"issue-date": "1926-01-23", "volume": "174", "number": "6"},
+       {"issue-date": "1926-01-30", "volume": "175", "number": "1"},
+       {"issue-date": "1926-02-06", "volume": "175", "number": "2"},
+       {"issue-date": "1926-02-13", "volume": "175", "number": "3"},
+       {"issue-date": "1926-02-20", "volume": "175", "number": "4"},
+       {"issue-date": "1926-02-27", "volume": "175", "number": "5"},
+       {"issue-date": "1926-03-06", "volume": "175", "number": "6"},
+       {"issue-date": "1926-03-13", "volume": "176", "number": "1"},
+       {"issue-date": "1926-03-20", "volume": "176", "number": "2"},
+       {"issue-date": "1926-03-27", "volume": "176", "number": "3"},
+       {"issue-date": "1926-04-03", "volume": "176", "number": "4"},
+       {"issue-date": "1926-04-10", "volume": "176", "number": "5"},
+       {"issue-date": "1926-04-17", "volume": "176", "number": "6"},
+       {"issue-date": "1926-04-24", "volume": "177", "number": "1"},
+       {"issue-date": "1926-05-01", "volume": "177", "number": "2"},
+       {"issue-date": "1926-05-08", "volume": "177", "number": "3"},
+       {"issue-date": "1926-05-15", "volume": "177", "number": "4"},
+       {"issue-date": "1926-05-22", "volume": "177", "number": "5"},
+       {"issue-date": "1926-05-29", "volume": "177", "number": "6"},
+       {"issue-date": "1926-06-05", "volume": "178", "number": "1"},
+       {"issue-date": "1926-06-12", "volume": "178", "number": "2"},
+       {"issue-date": "1926-06-19", "volume": "178", "number": "3"},
+       {"issue-date": "1926-06-26", "volume": "178", "number": "4"},
+       {"issue-date": "1926-07-03", "volume": "178", "number": "5"},
+       {"issue-date": "1926-07-10", "volume": "178", "number": "6"},
+       {"issue-date": "1926-07-17", "volume": "179", "number": "1"},
+       {"issue-date": "1926-07-24", "volume": "179", "number": "2"},
+       {"issue-date": "1926-07-31", "volume": "179", "number": "3"},
+       {"issue-date": "1926-08-07", "volume": "179", "number": "4"},
+       {"issue-date": "1926-08-14", "volume": "179", "number": "5"},
+       {"issue-date": "1926-08-21", "volume": "179", "number": "6"},
+       {"issue-date": "1926-08-28", "volume": "180", "number": "1"},
+       {"issue-date": "1926-09-04", "volume": "180", "number": "2"},
+       {"issue-date": "1926-09-11", "volume": "180", "number": "3"},
+       {"issue-date": "1926-09-18", "volume": "180", "number": "4"},
+       {"issue-date": "1926-09-24", "volume": "180", "number": "5"},
+       {"issue-date": "1926-10-02", "volume": "180", "number": "6"},
+       {"issue-date": "1926-10-09", "volume": "181", "number": "1"},
+       {"issue-date": "1926-10-16", "volume": "181", "number": "2"},
+       {"issue-date": "1926-10-23", "volume": "181", "number": "3"},
+       {"issue-date": "1926-10-30", "volume": "181", "number": "4"}
    ],
    "renewed-contribution-completeness": "active/1930",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1924-01-05", "volume": "157", "number": "1"},
-      "title": "Hopalong Cassidy Returns",
-      "title-note": "part 4 of 10",
-      "author": {
-       "authorized": "Mulford, Clarence Edward, 1883-1956",
-       "lcna": "n50006370"
-      }
-     },
-     {"issue": {"issue-date": "1924-01-12", "volume": "157", "number": "2"},
-      "title": "Hopalong Cassidy Returns",
-      "title-note": "part 5 of 10",
-      "author": {
-       "authorized": "Mulford, Clarence Edward, 1883-1956",
-       "lcna": "n50006370"
-      }
-     },
-     {"issue": {"issue-date": "1924-01-19", "volume": "157", "number": "3"},
-      "title": "Hopalong Cassidy Returns",
-      "title-note": "part 6 of 10",
-      "author": {
-       "authorized": "Mulford, Clarence Edward, 1883-1956",
-       "lcna": "n50006370"
-      }
-     },
-     {"issue": {"issue-date": "1924-01-26", "volume": "157", "number": "4"},
-      "title": "The Blackmailer",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1924-01-26", "volume": "157", "number": "4"},
-      "title": "Hopalong Cassidy Returns",
-      "title-note": "part 7 of 10",
-      "author": {
-       "authorized": "Mulford, Clarence Edward, 1883-1956",
-       "lcna": "n50006370"
-      }
-     },
-     {"issue": {"issue-date": "1924-02-02", "volume": "157", "number": "5"},
-      "title": "Hopalong Cassidy Returns",
-      "title-note": "part 8 of 10",
-      "author": {
-       "authorized": "Mulford, Clarence Edward, 1883-1956",
-       "lcna": "n50006370"
-      }
-     },
-     {"issue": {"issue-date": "1924-02-09", "volume": "157", "number": "6"},
-      "title": "Hopalong Cassidy Returns",
-      "title-note": "part 9 of 10",
-      "author": {
-       "authorized": "Mulford, Clarence Edward, 1883-1956",
-       "lcna": "n50006370"
-      }
-     },
-     {"issue": {"issue-date": "1924-02-16", "volume": "158", "number": "1"},
-      "title": "Mystery Land",
-      "title-note": "part 1 of 6",
-      "author": {
-       "authorized": "Seltzer, Charles Alden, 1875-1942",
-       "lcna": "n50007279"
-      }
-     },
-     {"issue": {"issue-date": "1924-02-16", "volume": "158", "number": "1"},
-      "title": "Hopalong Cassidy Returns",
-      "title-note": "part 10 of 10",
-      "author": {
-       "authorized": "Mulford, Clarence Edward, 1883-1956",
-       "lcna": "n50006370"
-      }
-     },
-     {"issue": {"issue-date": "1924-03-15", "volume": "158", "number": "5"},
-      "title": "The Confidence Man",
-      "title-note": "part 1 of 6",
-      "author": {
-       "authorized": "Erskine, Laurie York, 1894-1976",
-       "lcna": "no2001008267"
-      }
-     },
-     {"issue": {"issue-date": "1924-03-22", "volume": "158", "number": "6"},
-      "title": "The Confidence Man",
-      "title-note": "part 2 of 6",
-      "author": {
-       "authorized": "Erskine, Laurie York, 1894-1976",
-       "lcna": "no2001008267"
-      }
-     },
-     {"issue": {"issue-date": "1924-03-22", "volume": "158", "number": "6"},
-      "title": "The Man in the Dark",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1924-03-29", "volume": "159", "number": "1"},
-      "title": "The Confidence Man",
-      "title-note": "part 3 of 6",
-      "author": {
-       "authorized": "Erskine, Laurie York, 1894-1976",
-       "lcna": "no2001008267"
-      }
-     },
-     {"issue": {"issue-date": "1924-04-05", "volume": "159", "number": "2"},
-      "title": "The Confidence Man",
-      "title-note": "part 4 of 6",
-      "author": {
-       "authorized": "Erskine, Laurie York, 1894-1976",
-       "lcna": "no2001008267"
-      }
-     },
-     {"issue": {"issue-date": "1924-04-12", "volume": "159", "number": "3"},
-      "title": "The Confidence Man",
-      "title-note": "part 5 of 6",
-      "author": {
-       "authorized": "Erskine, Laurie York, 1894-1976",
-       "lcna": "no2001008267"
-      }
-     },
-     {"issue": {"issue-date": "1924-04-19", "volume": "159", "number": "4"},
-      "title": "The Confidence Man",
-      "title-note": "part 6 of 6",
-      "author": {
-       "authorized": "Erskine, Laurie York, 1894-1976",
-       "lcna": "no2001008267"
-      }
-     },
-     {"issue": {"issue-date": "1924-05-17", "volume": "160", "number": "2"},
-      "title": "Hit the Sunshine: A Poem",
-      "author": {
-         "authorized": "Yore, Clem (Clement), 1875-1936",
-         "lcna": "no93029452"
-      }
-     },
-     {"issue": {"issue-date": "1924-05-24", "volume": "160", "number": "3"},
-      "title": "The Locked Book",
-      "title-note": "part 1 of 7",
-      "author": {
-       "authorized": "Packard, Frank L. (Frank Lucius), 1877-1942",
-       "lcna": "no97026856"
-      }
-     },
-     {"issue": {"issue-date": "1924-05-31", "volume": "160", "number": "4"},
-      "title": "The Locked Book",
-      "title-note": "part 2 of 7",
-      "author": {
-       "authorized": "Packard, Frank L. (Frank Lucius), 1877-1942",
-       "lcna": "no97026856"
-      }
-     },
-     {"issue": {"issue-date": "1924-06-07", "volume": "160", "number": "5"},
-      "title": "The Locked Book",
-      "title-note": "part 3 of 7",
-      "author": {
-       "authorized": "Packard, Frank L. (Frank Lucius), 1877-1942",
-       "lcna": "no97026856"
-      }
-     },
-     {"issue": {"issue-date": "1924-06-14", "volume": "160", "number": "6"},
-      "title": "The Three Hostages",
-      "title-note": "part 1 of 8",
-      "author": {
-       "authorized": "Buchan, John, 1875-1940",
-       "lcna": "n79045167"
-      }
-     },
-     {"issue": {"issue-date": "1924-06-14", "volume": "160", "number": "6"},
-      "title": "The Locked Book",
-      "title-note": "part 4 of 7",
-      "author": {
-       "authorized": "Packard, Frank L. (Frank Lucius), 1877-1942",
-       "lcna": "no97026856"
-      }
-     },
-     {"issue": {"issue-date": "1924-06-21", "volume": "161", "number": "1"},
-      "title": "The Three Hostages",
-      "title-note": "part 2 of 8",
-      "author": {
-       "authorized": "Buchan, John, 1875-1940",
-       "lcna": "n79045167"
-      }
-     },
-     {"issue": {"issue-date": "1924-06-21", "volume": "161", "number": "1"},
-      "title": "The Locked Book",
-      "title-note": "part 5 of 7",
-      "author": {
-       "authorized": "Packard, Frank L. (Frank Lucius), 1877-1942",
-       "lcna": "no97026856"
-      }
-     },
-     {"issue": {"issue-date": "1924-06-28", "volume": "161", "number": "2"},
-      "title": "The Three Hostages",
-      "title-note": "part 3 of 8",
-      "author": {
-       "authorized": "Buchan, John, 1875-1940",
-       "lcna": "n79045167"
-      }
-     },
-     {"issue": {"issue-date": "1924-06-28", "volume": "161", "number": "2"},
-      "title": "The Locked Book",
-      "title-note": "part 6 of 7",
-      "author": {
-       "authorized": "Packard, Frank L. (Frank Lucius), 1877-1942",
-       "lcna": "no97026856"
-      }
-     },
-     {"issue": {"issue-date": "1924-07-05", "volume": "161", "number": "3"},
-      "title": "The Three Hostages",
-      "title-note": "part 4 of 8",
-      "author": {
-       "authorized": "Buchan, John, 1875-1940",
-       "lcna": "n79045167"
-      }
-     },
-     {"issue": {"issue-date": "1924-07-05", "volume": "161", "number": "3"},
-      "title": "The Locked Book",
-      "title-note": "part 7 of 7",
-      "author": {
-       "authorized": "Packard, Frank L. (Frank Lucius), 1877-1942",
-       "lcna": "no97026856"
-      }
-     },
-     {"issue": {"issue-date": "1924-07-12", "volume": "161", "number": "4"},
-      "title": "The Three Hostages",
-      "title-note": "part 5 of 8",
-      "author": {
-       "authorized": "Buchan, John, 1875-1940",
-       "lcna": "n79045167"
-      }
-     },
-     {"issue": {"issue-date": "1924-07-19", "volume": "161", "number": "5"},
-      "title": "Channing Comes Through",
-      "title-note": "part 1 of 5",
-      "author": {
-       "authorized": "Seltzer, Charles Alden, 1875-1942",
-       "lcna": "n50007279"
-      }
-     },
-     {"issue": {"issue-date": "1924-07-19", "volume": "161", "number": "5"},
-      "title": "The Three Hostages",
-      "title-note": "part 6 of 8",
-      "author": {
-       "authorized": "Buchan, John, 1875-1940",
-       "lcna": "n79045167"
-      }
-     },
-     {"issue": {"issue-date": "1924-07-26", "volume": "161", "number": "6"},
-      "title": "The Three Hostages",
-      "title-note": "part 7 of 8",
-      "author": {
-       "authorized": "Buchan, John, 1875-1940",
-       "lcna": "n79045167"
-      }
-     },
-     {"issue": {"issue-date": "1924-08-02", "volume": "162", "number": "1"},
-      "title": "The Three Hostages",
-      "title-note": "part 8 of 8",
-      "author": {
-       "authorized": "Buchan, John, 1875-1940",
-       "lcna": "n79045167"
-      }
-     },
-     {"issue": {"issue-date": "1924-09-06", "volume": "162", "number": "6"},
-      "title": "Tuned Out",
-      "title-note": "part 1 of 4",
-      "author": {
-       "authorized": "King, Rufus, 1893-1966",
-       "lcna": "no94027678"
-      }
-     },
-     {"issue": {"issue-date": "1924-09-13", "volume": "163", "number": "1"},
-      "title": "Tuned Out",
-      "title-note": "part 2 of 4",
-      "author": {
-       "authorized": "King, Rufus, 1893-1966",
-       "lcna": "no94027678"
-      }
-     },
-     {"issue": {"issue-date": "1924-09-13", "volume": "163", "number": "1"},
-      "title": "The Conquering Heart",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1924-09-20", "volume": "163", "number": "2"},
-      "title": "Tuned Out",
-      "title-note": "part 3 of 4",
-      "author": {
-       "authorized": "King, Rufus, 1893-1966",
-       "lcna": "no94027678"
-      }
-     },
-     {"issue": {"issue-date": "1924-09-27", "volume": "163", "number": "3"},
-      "title": "Clovelly",
-      "title-note": "part 1 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1924-09-27", "volume": "163", "number": "3"},
-      "title": "Tuned Out",
-      "title-note": "part 4 of 4",
-      "author": {
-       "authorized": "King, Rufus, 1893-1966",
-       "lcna": "no94027678"
-      }
-     },
-     {"issue": {"issue-date": "1924-10-04", "volume": "163", "number": "4"},
-      "title": "Clovelly",
-      "title-note": "part 2 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1924-10-11", "volume": "163", "number": "5"},
-      "title": "Clovelly",
-      "title-note": "part 3 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1924-10-18", "volume": "163", "number": "6"},
-      "title": "Clovelly",
-      "title-note": "part 4 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1924-10-25", "volume": "164", "number": "1"},
-      "title": "Clovelly",
-      "title-note": "part 5 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1924-11-01", "volume": "164", "number": "2"},
-      "title": "Clovelly",
-      "title-note": "part 6 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
      {"issue": {"issue-date": "1925-01-17", "volume": "166", "number": "1"},
       "title": "The Valley of the Stars",
       "title-note": "part 1 of 6",
@@ -1557,5 +1201,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-11-23"
+   "last-updated": "2020-01-16"
 }

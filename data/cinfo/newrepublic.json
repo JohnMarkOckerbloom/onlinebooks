@@ -5,45 +5,10 @@
      {"issue-date": "1927-03-09", "volume": "50", "number": "640"},
    "first-renewed-issue-source": "1955-JanJun",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1924-01-16"}},
-   "first-renewed-contribution-source": "1951-JulDec",
-   "renewed-contribution-completeness": "active/1924",
+     {"issue": {"issue-date": "1925-04-22"}},
+   "first-renewed-contribution-source": "1952-JanJun",
+   "renewed-contribution-completeness": "active/1926",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1924-01-16"},
-        "title": "Alternatives",
-        "author": {
-         "authorized": "Lowell, Amy, 1874-1925",
-         "lcna": "n79076111"
-        }
-     },
-     {"issue": {"issue-date": "1924-03-19"},
-      "title": "Bello, Bello",
-      "author": {
-       "authorized": "Huxley, Aldous, 1894-1963",
-       "lcna": "n80057246"
-      }
-     },
-     {"issue": {"issue-date": "1924-03-19"},
-      "title": "Snowfall",
-      "author": {
-       "authorized": "Benét, Stephen Vincent, 1898-1943",
-       "lcna": "n50007691"
-      }
-     },
-     {"issue": {"issue-date": "1924-04-30"},
-        "title": "Eleanora Duse",
-        "author": {
-         "authorized": "Lowell, Amy, 1874-1925",
-         "lcna": "n79076111"
-        }
-     },
-     {"issue": {"issue-date": "1924-08-13"},
-        "title": "East of Eden",
-        "author": {
-         "authorized": "Morley, Christopher, 1890-1957",
-         "lcna": "n50006133"
-        }
-     },
      {"issue": {"issue-date": "1925-04-22"},
       "title": "Architects",
       "author": {
@@ -64,12 +29,46 @@
          "authorized": "Lowell, Amy, 1874-1925",
          "lcna": "n79076111"
         }
+     },
+     {"issue": {"issue-date": "1926-12-01"},
+        "title": "Annihilation",
+        "author": {
+         "authorized": "Aiken, Conrad, 1889-1973",
+         "lcna": "n80060447"
+        }
+     },
+     {"issue": {"issue-date": "1926-12-08"},
+        "title": "At a Concert",
+        "author": {
+         "authorized": "Aiken, Conrad, 1889-1973",
+         "lcna": "n80060447"
+        }
+     },
+     {"issue": {"issue-date": "1927-03-09"},
+      "title": "The Lost Wife",
+      "author": {
+       "authorized": "Benét, Stephen Vincent, 1898-1943",
+       "lcna": "n50007691"
+      }
+     },
+     {"issue": {"issue-date": "1927-05-18"},
+      "title": "Italy, 1927",
+      "author": {
+        "authorized": "Hemingway, Ernest, 1899-1961",
+        "lcna": "n78078534"
+      }
+     },
+     {"issue": {"issue-date": "1927-07-13"},
+      "title": "The Sexes",
+      "author": {
+       "authorized": "Parker, Dorothy, 1893-1967",
+       "lcna": "n50050331"
+      }
      }
    ],
-   "additional-note" : "Active contribution renewals are recorded beginning in the 1951 January-June CCE volume, but the earliest actively renewed contribution is noted in the 1951 July-December volume.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-05-29"
+   "last-updated": "2020-01-24"
 }

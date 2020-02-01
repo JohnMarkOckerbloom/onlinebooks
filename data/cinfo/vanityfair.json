@@ -2,27 +2,14 @@
    "title": "Vanity Fair",
    "online": "1",
    "first-renewed-issue": 
-      {"issue-date": "1924-02", "cdate": "1924-01-23",
-       "volume": "21", "number": "6"},
-   "first-renewed-issue-source": "1951-JulDec",
+      {"issue-date": "1925-02", "cdate": "1925-01-20",
+       "volume": "23", "number": "6"},
+   "first-renewed-issue-source": "1952",
    "first-renewed-contribution":
       {"issue": {"issue-date": "1925-09"}},
    "first-renewed-contribution-source": "1953-JanJun",
-   "renewed-issue-completeness": "active/1924",
+   "renewed-issue-completeness": "active/1925",
    "renewed-issues": [
-      {"issue-date": "1924-02", "volume": "21", "number": "6"},
-      {"issue-date": "1924-03", "volume": "22", "number": "1"},
-      {"issue-date": "1924-04", "volume": "22", "number": "2"},
-      {"issue-date": "1924-05", "volume": "22", "number": "3"},
-      {"issue-date": "1924-06", "volume": "22", "number": "4"},
-      {"issue-date": "1924-07", "volume": "22", "number": "5"},
-      {"issue-date": "1924-08", "volume": "22", "number": "6"},
-      {"issue-date": "1924-09", "volume": "23", "number": "1"},
-      {"issue-date": "1924-10", "volume": "23", "number": "2"},
-      {"issue-date": "1924-11", "volume": "23", "number": "3"},
-      {"issue-date": "1924-12", "volume": "23", "number": "4"},
-      {"issue-date": "1925-01", "volume": "23", "number": "5",
-      "cdate": "1924-12-20"}, 
       {"issue-date": "1925-02", "volume": "23", "number": "6"},
       {"issue-date": "1925-03", "volume": "24", "number": "1"},
       {"issue-date": "1925-04", "volume": "24", "number": "2"},
@@ -33,8 +20,22 @@
       {"issue-date": "1925-09", "volume": "25", "number": "1"},
       {"issue-date": "1925-10", "volume": "25", "number": "2"},
       {"issue-date": "1925-11", "volume": "25", "number": "3"},
-      {"issue-date": "1925-12", "volume": "25", "number": "4"}
+      {"issue-date": "1925-12", "volume": "25", "number": "4"},
+      {"issue-date": "1926-01", "volume": "25", "number": "5",
+       "cdate": "1925-12-20"}, 
+      {"issue-date": "1926-02", "volume": "25", "number": "6"},
+      {"issue-date": "1926-03", "volume": "26", "number": "1"},
+      {"issue-date": "1926-04", "volume": "26", "number": "2"},
+      {"issue-date": "1926-05", "volume": "26", "number": "3"},
+      {"issue-date": "1926-06", "volume": "26", "number": "4"},
+      {"issue-date": "1926-07", "volume": "26", "number": "5"},
+      {"issue-date": "1926-08", "volume": "26", "number": "6"},
+      {"issue-date": "1926-09", "volume": "27", "number": "1"},
+      {"issue-date": "1926-10", "volume": "27", "number": "2"},
+      {"issue-date": "1926-11", "volume": "27", "number": "3"},
+      {"issue-date": "1926-12", "volume": "27", "number": "4"}
    ],
+   "renewed-contribution-completeness": "active/1925",
    "renewed-contributions" : [
      {"issue": {"issue-date": "1925-09"}, 
       "title": "Sonnet to Gath",
@@ -50,11 +51,53 @@
        "lcna": "n79045519"
       }
      },
+     {"issue": {"issue-date": "1926-01"},
+      "title": "Aching Breasts and Show White Hearts",
+      "author": {
+       "authorized": "Anderson, Sherwood, 1876-1941",
+       "lcna": "n79045519"
+      }
+     },
+     {"issue": {"issue-date": "1926-03"},
+      "title": "Notes Out of a Man's Life",
+      "author": {
+       "authorized": "Anderson, Sherwood, 1876-1941",
+       "lcna": "n79045519"
+      }
+     },
      {"issue": {"issue-date": "1926-06"},
       "title": "An Antidote from de Bustun Tippotty",
       "author": {
        "authorized": "Gross, Milt, 1895-1953",
        "lcna": "n82151528"
+      }
+     },
+     {"issue": {"issue-date": "1926-07"},
+      "title": "Hello, Big Boy",
+      "author": {
+       "authorized": "Anderson, Sherwood, 1876-1941",
+       "lcna": "n79045519"
+      }
+     },
+     {"issue": {"issue-date": "1926-08"},
+      "title": "New Orleans: A Prose Poem in the Expressionist Manner",
+      "author": {
+       "authorized": "Anderson, Sherwood, 1876-1941",
+       "lcna": "n79045519"
+      }
+     },
+     {"issue": {"issue-date": "1926-09"},
+      "title": "The South",
+      "author": {
+       "authorized": "Anderson, Sherwood, 1876-1941",
+       "lcna": "n79045519"
+      }
+     },
+     {"issue": {"issue-date": "1926-10"},
+      "title": "Chicago, A Feeling",
+      "author": {
+       "authorized": "Anderson, Sherwood, 1876-1941",
+       "lcna": "n79045519"
       }
      }
    ],
@@ -63,5 +106,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-05-29"
+   "last-updated": "2020-01-23"
 }

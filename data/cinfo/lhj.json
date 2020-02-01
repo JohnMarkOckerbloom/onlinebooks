@@ -4,152 +4,41 @@
       "The Ladies' Home Journal and Practical Housekeeper"
    ],
    "online": "1",
-   "first-renewed-issue": {"issue-date": "1924-02", "cdate": "1924-01-31",
-                          "volume": "41", "number": "2"},
-   "first-renewed-issue-source": "1951-JulDec",
+   "first-renewed-issue": 
+     {"issue-date": "1925-02", "volume": "42", "number": "2",
+        "cdate": "1925-01-31"},
+   "first-renewed-issue-source": "1952",
    "first-renewed-contribution": {
-       "issue": {"issue-date": "1924-02", "cdate": "1924-01-31",
-                 "volume": "41", "number": "2"}
+       "issue": {"issue-date": "1925-02", "cdate": "1925-01-31",
+                 "volume": "42", "number": "2"}
    },
-   "first-renewed-contribution-source": "1951-JanJun",
-   "renewed-issue-completeness": "active/1924",
+   "first-renewed-contribution-source": "1952-JanJun",
+   "renewed-issue-completeness": "active/1925",
    "renewed-issues": [
-     {"issue-date": "1924-02", "volume": "41", "number": "2"},
-     {"issue-date": "1924-03", "volume": "41", "number": "3"},
-     {"issue-date": "1924-04", "volume": "41", "number": "4"},
-     {"issue-date": "1924-05", "volume": "41", "number": "5"},
-     {"issue-date": "1924-06", "volume": "41", "number": "6"},
-     {"issue-date": "1924-07", "volume": "41", "number": "7"},
-     {"issue-date": "1924-08", "volume": "41", "number": "8"},
-     {"issue-date": "1924-09", "volume": "41", "number": "9"},
-     {"issue-date": "1924-10", "volume": "41", "number": "10"},
-     {"issue-date": "1924-11", "volume": "41", "number": "11"},
-     {"issue-date": "1924-12", "volume": "41", "number": "12"},
-     {"issue-date": "1925-01", "volume": "42", "number": "1", 
-        "cdate": "1924-12-31"},
      {"issue-date": "1925-02", "volume": "42", "number": "2",
         "cdate": "1925-01-31"},
      {"issue-date": "1925-03", "volume": "42", "number": "3"},
      {"issue-date": "1925-04", "volume": "42", "number": "4"},
      {"issue-date": "1925-05", "volume": "42", "number": "5"},
      {"issue-date": "1925-06", "volume": "42", "number": "6"},
-     {"issue-date": "1925-07", "volume": "42", "number": "7"}
+     {"issue-date": "1925-07", "volume": "42", "number": "7"},
+     {"issue-date": "1925-08", "volume": "42", "number": "8"},
+     {"issue-date": "1925-09", "volume": "42", "number": "9"},
+     {"issue-date": "1925-10", "volume": "42", "number": "10"},
+     {"issue-date": "1925-11", "volume": "42", "number": "11"},
+     {"issue-date": "1925-12", "volume": "42", "number": "12"},
+     {"issue-date": "1926-01", "volume": "43", "number": "1",
+        "cdate": "1925-12-30"},
+     {"issue-date": "1926-02", "volume": "43", "number": "2",
+        "cdate": "1926-01-30"},
+     {"issue-date": "1926-03", "volume": "43", "number": "3"},
+     {"issue-date": "1926-04", "volume": "43", "number": "4"},
+     {"issue-date": "1926-05", "volume": "43", "number": "5"},          
+     {"issue-date": "1926-06", "volume": "43", "number": "6"},
+     {"issue-date": "1926-07", "volume": "43", "number": "7"}
    ],
-   "renewed-contribution-completeness": "active/1924",
+   "renewed-contribution-completeness": "active/1925",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1924-02", "volume": "41", "number": "2"}, 
-      "title": "The Thundering Herd",
-      "title-note": "part 1 of 4",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1924-02", "volume": "41", "number": "2"}, 
-      "title": "Worldly Goods",
-      "title-note": "part 3 of 4",
-      "author": {
-       "authorized": "Kerr, Sophie, 1880-1965",
-       "lcna": "no89021649"
-      }
-     },
-     {"issue": {"issue-date": "1924-03", "volume": "41", "number": "3"}, 
-      "title": "The Beauty Contest",
-      "author": {
-       "authorized": "Banning, Margaret Culkin, 1891-1982",
-       "lcna": "n86086096"
-      }
-     },
-     {"issue": {"issue-date": "1924-03", "volume": "41", "number": "3"}, 
-      "title": "Worldly Goods",
-      "title-note": "part 4 of 4",
-      "author": {
-       "authorized": "Kerr, Sophie, 1880-1965",
-       "lcna": "no89021649"
-      }
-     },
-     {"issue": {"issue-date": "1924-03", "volume": "41", "number": "3"}, 
-      "title": "The Thundering Herd",
-      "title-note": "part 2 of 4",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1924-04", "volume": "41", "number": "4"}, 
-      "title": "The Thundering Herd",
-      "title-note": "part 3 of 4",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1924-05", "volume":  "41", "number": "5"},
-      "title": "Oh This is Scandalous",
-      "author": {
-       "authorized": "Bacon, Josephine Daskam, 1876-1961",
-       "lcna": "n50020293"
-      }
-     },
-     {"issue": {"issue-date": "1924-05", "volume":  "41", "number": "5"},
-      "title": "The Thundering Herd",
-      "title-note": "part 4 of 4",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1924-06", "volume": "41", "number": "6"}, 
-      "title": "The First Case",
-      "author": {
-       "authorized": "Banning, Margaret Culkin, 1891-1982",
-       "lcna": "n86086096"
-      }
-     },
-     {"issue": {"issue-date": "1924-06", "volume": "41", "number": "6"}, 
-      "title": "Bimbo the Pirate",
-      "author": {
-       "authorized": "Tarkington, Booth, 1869-1946",
-       "lcna": "n79078124"
-      }
-     },
-     {"issue": {"issue-date": "1924-10", "volume": "41", "number": "10"}, 
-      "title": "My Heart",
-      "author": {
-       "authorized": "Tarkington, Booth, 1869-1946",
-       "lcna": "n79078124"
-      }
-     },
-     {"issue": {"issue-date": "1924-10", "volume": "41", "number": "10"}, 
-      "title": "King Cophetua",
-      "author": {
-       "authorized": "Banning, Margaret Culkin, 1891-1982",
-       "lcna": "n86086096"
-      }
-     },
-     {"issue": {"issue-date": "1924-10", "volume": "41", "number": "10"}, 
-      "title": "Demi-God",
-      "title-note": "part 1 of 2",
-      "author": {
-       "authorized": "Train, Arthur, 1875-1945",
-       "lcna": "n50014661"
-      }
-     },
-     {"issue": {"issue-date": "1924-11", "volume": "41", "number": "11"}, 
-      "title": "The Wolf Tracker",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1924-11", "volume": "41", "number": "11"}, 
-      "title": "Demi-God",
-      "title-note": "part 2 of 2",
-      "author": {
-       "authorized": "Train, Arthur, 1875-1945",
-       "lcna": "n50014661"
-      }
-     },
      {"issue": {"issue-date": "1925-02", "volume": "42", "number": "2"},
       "title": "The Bee Hunter (Under the Tonto Rim)",
       "title-note": "part 1 of 4",
@@ -272,6 +161,14 @@
        }
      },
      {"issue": {"issue-date": "1925-11", "volume": "42", "number": "11"},
+      "title": "Rhoda Fair",
+      "title-note": "part 1 of 4",
+      "author": {
+       "authorized": "Kelland, Clarence Budington, 1881-1964",
+       "lcna": "n85050359"
+      }
+     },
+     {"issue": {"issue-date": "1925-11", "volume": "42", "number": "11"},
       "title": "Cross Eyed Captain",
       "author": {
        "authorized": "Willson, Dixie",
@@ -293,6 +190,30 @@
        "lcna": "n79078124"
       }
      },
+     {"issue": {"issue-date": "1925-12", "volume": "42", "number": "12"},
+      "title": "Rhoda Fair",
+      "title-note": "part 2 of 4",
+      "author": {
+       "authorized": "Kelland, Clarence Budington, 1881-1964",
+       "lcna": "n85050359"
+      }
+     },
+     {"issue": {"issue-date": "1926-01", "volume": "43", "number": "1"},
+      "title": "Rhoda Fair",
+      "title-note": "part 3 of 4",
+      "author": {
+       "authorized": "Kelland, Clarence Budington, 1881-1964",
+       "lcna": "n85050359"
+      }
+     },
+     {"issue": {"issue-date": "1926-02", "volume": "43", "number": "2"},
+      "title": "Rhoda Fair",
+      "title-note": "part 4 of 4",
+      "author": {
+       "authorized": "Kelland, Clarence Budington, 1881-1964",
+       "lcna": "n85050359"
+      }
+     },
      {"issue": {"issue-date": "1926-03", "volume": "43", "number": "3"},
       "title": "The Travellers",
       "author": {
@@ -309,7 +230,7 @@
      },
      {"issue": {"issue-date": "1926-05", "volume": "43", "number": "5"},
        "title": "Black Water",
-       "title-note": "part 1 of 2?",
+       "title-note": "part 1 of 4",
        "author": {
          "authorized": "Kahler, Hugh MacNair, 1883-1969",
          "lcna": "no96006587"
@@ -331,7 +252,7 @@
      },
      {"issue": {"issue-date": "1926-06", "volume": "43", "number": "6"},
        "title": "Black Water",
-       "title-note": "part 2 of 2?",
+       "title-note": "part 2 of 4",
        "author": {
          "authorized": "Kahler, Hugh MacNair, 1883-1969",
          "lcna": "no96006587"
@@ -343,11 +264,67 @@
        "authorized": "Duganne, Phyllis, 1899-1976",
        "lcna": "n90719514"
       }
+     },
+     {"issue": {"issue-date": "1926-07", "volume": "43", "number": "7"},
+       "title": "Black Water",
+       "title-note": "part 3 of 4",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1926-08", "volume": "43", "number": "8"},
+       "title": "Wild Money",
+       "title-note": "part 1 of 4",
+       "author": {
+         "authorized": "Tilden, Freeman, 1883-1980",
+         "lcna": "n50013052"
+       }
+     },
+     {"issue": {"issue-date": "1926-08", "volume": "43", "number": "8"},
+       "title": "Black Water",
+       "title-note": "part 4 of 4",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1926-09", "volume": "43", "number": "9"},
+      "title": "Arbutus",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1926-09", "volume": "43", "number": "9"},
+       "title": "Wild Money",
+       "title-note": "part 2 of 4",
+       "author": {
+         "authorized": "Tilden, Freeman, 1883-1980",
+         "lcna": "n50013052"
+       }
+     },
+     {"issue": {"issue-date": "1926-10", "volume": "43", "number": "10"},
+       "title": "Wild Money",
+       "title-note": "part 3 of 4",
+       "author": {
+         "authorized": "Tilden, Freeman, 1883-1980",
+         "lcna": "n50013052"
+       }
+     },
+     {"issue": {"issue-date": "1926-11", "volume": "43", "number": "11"},
+       "title": "Wild Money",
+       "title-note": "part 4 of 4",
+       "author": {
+         "authorized": "Tilden, Freeman, 1883-1980",
+         "lcna": "n50013052"
+       }
      }
    ],
+   "comment": "Search also for Ladles- some typos in Gutenberg CCE",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-06-03"
+   "last-updated": "2020-01-27"
 }

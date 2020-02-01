@@ -10,26 +10,10 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": 
-      {"issue": {"issue-date": "1924-04", "number": "34"}},
-   "first-renewed-contribution-source": "1951-JanJun",
+      {"issue": {"issue-date": "1925-11", "number": "53"}},
+   "first-renewed-contribution-source": "1952-JulDec",
    "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1924-04", "number": "34"},
-      "title": "Le Monde ou l'On s'Abuse",
-      "note": "Renewal record appears in the Books section of CCE.",
-      "author": {
-        "authorized": "Fayard, Jean, 1902-1978",
-        "lcna": "no97039042"
-      }
-     },
-     {"issue": {"issue-date": "1924-12", "number": "42"},
-      "title": "Le Dent d'Hercule",
-      "note": "Renewal record appears in the Books section of CCE.",
-      "author": {
-        "authorized": "Leblanc, Maurice, 1864-1941",
-        "lcna": "n50042568"
-      }
-     },
      {"issue": {"issue-date": "1925-11", "number": "53"},
       "title": "Retour d'Egypte",
       "note": "Renewal record appears in the Books section of CCE.",
@@ -85,5 +69,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-05-07"
+   "last-updated": "2020-01-20"
 }

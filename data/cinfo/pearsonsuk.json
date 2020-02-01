@@ -12,44 +12,11 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": 
-      {"issue": {"issue-date": "1924-05", "volume": "57", "number": "341"}},
-   "first-renewed-contribution-source": "1951-JulDec",
+      {"issue": {"issue-date": "1925-08", "volume": "60", "number": "356"}},
+   "first-renewed-contribution-source": "1953-JanJun",
    "last-issue": {"issue-date": "1939-11", "volume": "88", "number": "527"},
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1924-05", "volume": "57", "number": "341"},
-      "title": "That Bullet Hole Has a History",
-      "note": "Renewal record appears in the Books section of CCE.",
-      "author": {
-       "authorized": "McNeile, H. C. (Herman Cyril), 1888-1937",
-       "lcna": "no96039399"
-      }
-     },
-     {"issue": {"issue-date": "1924-07", "volume": "58", "number": "343"},
-      "title": "The Ducking of Herbert Polton",
-      "note": "Renewal record appears in the Books section of CCE. Author name is a pseudonym for H. C. McNeile.",
-      "author": {
-       "authorized": "Sapper, 1888-1937",
-       "lcna": "n85822242"
-      }
-     },
-     {"issue": {"issue-date": "1924-12", "volume": "58", "number": "348"},
-      "title": "A Student of the Obvious",
-      "note": "Renewal record appears in the Books section of CCE.",
-      "author": {
-       "authorized": "McNeile, H. C. (Herman Cyril), 1888-1937",
-       "lcna": "no96039399"
-      }
-     },
-     {"issue": {"issue-date": "1924-12", "volume": "58", "number": "348"},
-      "title": "A Question of Temptation",
-      "note": "Renewal record appears in the Books section of CCE.",
-      "author": {
-       "authorized": "Orczy, Emmuska Orczy, Baroness, 1865-1947",
-       "name": "Baroness Orczy",
-       "lcna": "n50064803"
-      }
-     },
      {"issue": {"issue-date": "1925-08", "volume": "60", "number": "356"},
       "title": "The Loyalty of Peter Drayton",
       "note": "Renewal record appears in the Books section of CCE.",
@@ -216,5 +183,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-11-25"
+   "last-updated": "2020-01-21"
 }

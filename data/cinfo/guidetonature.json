@@ -4,23 +4,14 @@
    "first-issue": {"issue-date": "1908-05", "volume": "1", "number": "1"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
-   "first-renewed-contribution": {"issue": {"issue-date": "1924-03"}},
-   "first-renewed-contribution-source": "1951-JanJun",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce",
    "last-issue": {"issue-date": "1935-October-December",
                       "volume": "28", "number": "2"},
    "renewed-contribution-completeness": "active/end",
-   "renewed-contributions": [
-     {"issue": {"issue-date": "1924-03"},
-      "title": "Records in Rubbish",
-      "author": {
-         "authorized": "Howes, Paul Griswold, 1892-1983",
-         "lcna": "n87832444"
-      }
-     }
-   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-01-09"
+   "last-updated": "2020-01-27"
 }

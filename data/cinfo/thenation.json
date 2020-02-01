@@ -6,55 +6,10 @@
      {"issue-date": "1950-01-07", "volume": "170", "number": "1"},
    "first-renewed-issue-source": "database",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1924-04-16"}},
-   "first-renewed-contribution-source": "1951-JanJun",
-   "renewed-contribution-completeness": "active/1924",
+     {"issue": {"issue-date": "1925-02-11"}},
+   "first-renewed-contribution-source": "1952-JulDec",
+   "renewed-contribution-completeness": "active/1926",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1924-04-16"}, 
-      "title": "Carol: New Style",
-      "author": {
-       "authorized": "Benét, Stephen Vincent, 1898-1943",
-       "lcna": "n50007691"
-      }
-     },
-     {"issue": {"issue-date": "1924-06-04"},
-      "title": "I Return to America",
-      "author": {
-         "authorized": "Lewis, Sinclair, 1885-1951",
-         "lcna": "n79023149"
-       }
-     },
-     {"issue": {"issue-date": "1924-09-10"},
-      "title": "Main Street's Been Paved",
-      "author": {
-         "authorized": "Lewis, Sinclair, 1885-1951",
-         "lcna": "n79023149"
-       }
-     },
-     {"issue": {"issue-date": "1924-10-15"},
-      "title": "Be Brisk With Babbitt",
-      "title-note": "part 1 of 3",
-      "author": {
-         "authorized": "Lewis, Sinclair, 1885-1951",
-         "lcna": "n79023149"
-       }
-     },
-     {"issue": {"issue-date": "1924-10-22"},
-      "title": "Be Brisk With Babbitt",
-      "title-note": "part 2 of 3",
-      "author": {
-         "authorized": "Lewis, Sinclair, 1885-1951",
-         "lcna": "n79023149"
-       }
-     },
-     {"issue": {"issue-date": "1924-10-29"},
-      "title": "Be Brisk With Babbitt",
-      "title-note": "part 3 of 3",
-      "author": {
-         "authorized": "Lewis, Sinclair, 1885-1951",
-         "lcna": "n79023149"
-       }
-     },
      {"issue": {"issue-date": "1925-02-11"},
       "title": "Hot Afternoons Have Been in Montana",
       "author": {
@@ -89,11 +44,40 @@
          "authorized": "Riggs, Lynn, 1899-1954",
          "lcna": "n82013440"
        }
+     },
+     {"issue": {"issue-date": "1926-09-22"},
+      "title": "Emotional Nature of the Chinese",
+       "author": {
+          "authorized": "Buck, Pearl S. (Pearl Sydenstricker), 1892-1973",
+          "lcna": "n79026662"
+        }
+     },
+     {"issue": {"issue-date": "1927-02-16"},
+        "title": "This Foreman",
+        "author": {
+         "authorized": "Ferril, Thomas Hornsby, 1896-1988",
+         "lcna": "n50001135"
+        }
+     },
+     {"issue": {"issue-date": "1927-06-01"},
+      "title": "The Corrosive Season",
+       "author": {
+         "authorized": "Riggs, Lynn, 1899-1954",
+         "lcna": "n82013440"
+       }
+     },
+     {"issue": {"issue-date": "1927-11-09"},
+      "title": "Advice to a Mendicant",
+       "author": {
+         "authorized": "Riggs, Lynn, 1899-1954",
+         "lcna": "n82013440"
+       }
      }
    ],
+   "additional-note" : "Active contribution renewals are recorded beginning in the 1952 January-June CCE volume, but the earliest actively renewed contribution is noted in the 1952 July-December volume.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-05-30"
+   "last-updated": "2020-01-24"
 }

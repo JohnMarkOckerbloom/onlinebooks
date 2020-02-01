@@ -4,16 +4,62 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1924-02", "cdate": "1924-01-11"}},
+     {"issue": {"issue-date": "1928-11"}},
    "first-renewed-contribution-source": "1956-JanJun",
+   "renewed-contribution-completeness": "active/1949",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1924-02"},
-      "title": "The Tytherton Case",
-      "note": "Renewal record appears in the Books section of CCE.",
+     {"issue": {"issue-date": "1928-11"},
+      "title": "Temple Tower",
+      "title-note": "part 1 of 6",
+      "note": "Author name is a pseudonym for H. C. McNeile",
       "author": {
-       "authorized": "Orczy, Emmuska Orczy, Baroness, 1865-1947",
-       "name": "Baroness Orczy",
-       "lcna": "n50064803"
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     },
+     {"issue": {"issue-date": "1928-12"},
+      "title": "Temple Tower",
+      "title-note": "part 2 of 6",
+      "note": "Author name is a pseudonym for H. C. McNeile",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     },
+     {"issue": {"issue-date": "1929-01"},
+      "title": "Temple Tower",
+      "title-note": "part 3 of 6",
+      "note": "Author name is a pseudonym for H. C. McNeile",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     },
+     {"issue": {"issue-date": "1929-02"},
+      "title": "Temple Tower",
+      "title-note": "part 4 of 6",
+      "note": "Author name is a pseudonym for H. C. McNeile",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     },
+     {"issue": {"issue-date": "1929-03"},
+      "title": "Temple Tower",
+      "title-note": "part 5 of 6",
+      "note": "Author name is a pseudonym for H. C. McNeile",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     },
+     {"issue": {"issue-date": "1929-04"},
+      "title": "Temple Tower",
+      "title-note": "part 6 of 6",
+      "note": "Author name is a pseudonym for H. C. McNeile",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
       }
      }
    ],
@@ -22,5 +68,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-05-06"
+   "last-updated": "2020-01-08"
 }

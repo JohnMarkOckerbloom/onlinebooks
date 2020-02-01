@@ -4,19 +4,11 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": 
-      {"issue": {"issue-date": "1924-10"}},
-   "first-renewed-contribution-source": "1952-JanJun",
+      {"issue": {"issue-date": "1925-04"}},
+   "first-renewed-contribution-source": "1952-JulDec",
    "last-issue": {"issue-date": "1930-07", "volume": "44", "number": "5"},
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1924-10"},
-      "title": "Block Pattern No. 24-10-46, for Filet Crochet Luncheon Cloth",
-      "note": "Renewal record appears in the Books section of CCE.",
-      "author": {
-       "authorized": "Priscilla Publishing Co.",
-       "lcna": "n82271855"
-      }
-     },
      {"issue": {"issue-date": "1925-04"},
       "title": "Block Pattern No. 25-4-3 for Cross Stitch Jumper",
       "author": {
@@ -30,5 +22,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-05-07"
+   "last-updated": "2020-01-19"
 }

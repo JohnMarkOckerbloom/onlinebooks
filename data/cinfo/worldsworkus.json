@@ -5,67 +5,11 @@
    "first-issue": {"issue-date": "1900-11", "volume": "1", "number": "1"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
-   "first-renewed-contribution": {"issue": {"issue-date": "1924-02"}},
-   "first-renewed-contribution-source": "1951-JanJun",
+   "first-renewed-contribution": {"issue": {"issue-date": "1925-02"}},
+   "first-renewed-contribution-source": "1952-JanJun",
    "last-issue": {"issue-date": "1932-07", "volume": "61", "number": "7"},
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1924-02"},
-      "title": "William Crawford Gorgas, His Life and Work",
-      "title-note": "part 1 of 4",
-      "authors": [
-       {
-         "authorized": "Gorgas, Marie D. (Marie Doughty), -1929",
-         "lcna": "no99003328"
-       },
-       {
-         "authorized": "Hendrick, Burton J. (Burton Jesse), 1870-1949",
-         "lcna": "n50027206"
-       }
-      ]
-     },
-     {"issue": {"issue-date": "1924-03"},
-      "title": "William Crawford Gorgas, His Life and Work",
-      "title-note": "part 2 of 4",
-      "authors": [
-       {
-         "authorized": "Gorgas, Marie D. (Marie Doughty), -1929",
-         "lcna": "no99003328"
-       },
-       {
-         "authorized": "Hendrick, Burton J. (Burton Jesse), 1870-1949",
-         "lcna": "n50027206"
-       }
-      ]
-     },
-     {"issue": {"issue-date": "1924-04"},
-      "title": "William Crawford Gorgas, His Life and Work",
-      "title-note": "part 3 of 4",
-      "authors": [
-       {
-         "authorized": "Gorgas, Marie D. (Marie Doughty), -1929",
-         "lcna": "no99003328"
-       },
-       {
-         "authorized": "Hendrick, Burton J. (Burton Jesse), 1870-1949",
-         "lcna": "n50027206"
-       }
-      ]
-     },
-     {"issue": {"issue-date": "1924-05"},
-      "title": "William Crawford Gorgas, His Life and Work",
-      "title-note": "part 4 of 4",
-      "authors": [
-       {
-         "authorized": "Gorgas, Marie D. (Marie Doughty), -1929",
-         "lcna": "no99003328"
-       },
-       {
-         "authorized": "Hendrick, Burton J. (Burton Jesse), 1870-1949",
-         "lcna": "n50027206"
-       }
-      ]
-     },
      {"issue": {"issue-date": "1925-02"},
       "title": "The Long Old Road in China",
       "title-note": "part 1 of 4",
@@ -452,10 +396,9 @@
       }
      }
    ],
-   "comment": "Resume with 1957 renewals",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-10-28"
+   "last-updated": "2020-01-20"
 }

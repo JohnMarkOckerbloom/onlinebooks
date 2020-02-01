@@ -5,49 +5,26 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1924-01-20"}},
-   "first-renewed-contribution-source": "1951-JulDec",
+     {"issue": {"issue-date": "1939-04-02"}},
+   "first-renewed-contribution-source": "1966-JanJun",
+   "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1924-01-20"}, 
-      "title": "Seven Vanished Men",
-      "author": {
-       "authorized": "Roche, Arthur Somers, 1883-1935",
-       "lcna": "no89021623"
-      }
-     },
-     {"issue": {"issue-date": "1924-02-03"}, 
-      "title": "Coincidence",
-      "author": {
-       "authorized": "Tarkington, Booth, 1869-1946",
-       "lcna": "n79078124"
-      }
-     },
-     {"issue": {"issue-date": "1924-03-09"}, 
-      "title": "Writ of Habeas Corpus",
-      "author": {
-       "authorized": "Roche, Arthur Somers, 1883-1935",
-       "lcna": "no89021623"
-      }
-     },
-     {"issue": {"issue-date": "1924-03-16"}, 
-      "title": "During Dinner",
-      "author": {
-       "authorized": "Bennett, Arnold, 1867-1931",
-       "lcna": "n79095154"
-      }
-     },
-     {"issue": {"issue-date": "1924-08-10"}, 
-      "title": "Teacher's Pet",
-      "author": {
-       "authorized": "Roche, Arthur Somers, 1883-1935",
-       "lcna": "no89021623"
-      }
+     {"issue": {"issue-date": "1939-04-02"}, 
+      "title": "Tarzan",
+      "title-note": "no. 421",
+      "note": "Text by Burroughs and Garden, pictures by Hogarth, created as work for hire for Edgar Rice Burroughs, Inc., which is the author for copyright purposes.",
+      "authors": [
+       {"authorized": "Burroughs, Edgar Rice, 1875-1950", "lcna": "n80039681"},
+       {"authorized": "Garden, Don", "lcna": "n2014044464"},
+       {"authorized": "Hogarth, Burne", "lcna": "n50042257"},
+       {"name": "Edgar Rice Burroughs, Inc."}
+      ]
      }
    ],
-   "additional-note" : "Active contribution renewals are recorded beginning in the 1951 January-June CCE volume, but the earliest actively renewed contribution is noted in the 1951 July-December volume.",
+   "additional-note" : "While the CCE renewal record for one specific Tarzan comic strip specifically mentions the Washington Star, other Tarzan strips, as well as some other nationally syndicated comic strips that ran in the Star, would have active renewals as well.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-01-22"
+   "last-updated": "2020-01-23"
 }

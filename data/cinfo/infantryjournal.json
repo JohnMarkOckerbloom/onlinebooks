@@ -2,29 +2,57 @@
    "title": "Infantry Journal",
    "online": "1",
    "first-renewed-issue":
-       {"issue-date": "1924-01", "volume": "24", "number": "1"}, 
-   "first-renewed-issue-source": "1951-JulDec",
+       {"issue-date": "1925-04", "volume": "26", "number": "4"},
+   "first-renewed-issue-source": "1953-JanJun",
    "first-renewed-contribution": {
       "issue": {"issue-date": "1939-January-February"}
    },
    "first-renewed-contribution-source": "1966-JanJun",
    "last-issue": 
        {"issue-date": "1950-07", "volume": "66", "number": "7"}, 
+   "renewed-issue-completeness": "active/1925",
    "renewed-issues": [
-       {"issue-date": "1924-01", "volume": "24", "number": "1"}, 
-       {"issue-date": "1924-02", "volume": "24", "number": "2"}, 
-       {"issue-date": "1924-03", "volume": "24", "number": "3"}, 
-       {"issue-date": "1924-04", "volume": "24", "number": "4"}, 
-       {"issue-date": "1924-05", "volume": "24", "number": "5"}, 
-       {"issue-date": "1924-06", "volume": "24", "number": "6"}, 
-       {"issue-date": "1924-07", "volume": "25", "number": "1"}, 
-       {"issue-date": "1924-08", "volume": "25", "number": "2"}, 
-       {"issue-date": "1924-09", "volume": "25", "number": "3"}, 
-       {"issue-date": "1924-10", "volume": "25", "number": "4"}
+       {"issue-date": "1925-04", "volume": "26", "number": "4"},
+       {"issue-date": "1925-05", "volume": "26", "number": "5"},
+       {"issue-date": "1925-06", "volume": "26", "number": "6"},
+       {"issue-date": "1925-07", "volume": "27", "number": "1"},
+       {"issue-date": "1925-08", "volume": "27", "number": "2"},
+       {"issue-date": "1925-09", "volume": "27", "number": "3"},
+       {"issue-date": "1925-10", "volume": "27", "number": "4"},
+       {"issue-date": "1925-11", "volume": "27", "number": "5"},
+       {"issue-date": "1925-12", "volume": "27", "number": "6"},
+       {"issue-date": "1926-01", "volume": "28", "number": "1"},
+       {"issue-date": "1926-02", "volume": "28", "number": "2"},
+       {"issue-date": "1926-03", "volume": "28", "number": "3"},
+       {"issue-date": "1926-04", "volume": "28", "number": "4"}
+   ],
+   "renewed-contribution-completeness": "active/1941",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1939-January-February"},
+        "title": "Bonaparte in Italy: The Campaign of Speed",
+        "author": {
+         "authorized": "Pratt, Fletcher, 1897-1956",
+         "lcna": "n50021577"
+        }
+     },
+     {"issue": {"issue-date": "1939-March-April"},
+        "title": "Bonaparte in Italy: The Campaign of Surprise",
+        "author": {
+         "authorized": "Pratt, Fletcher, 1897-1956",
+         "lcna": "n50021577"
+        }
+     },
+     {"issue": {"issue-date": "1939-May-June"},
+        "title": "Bonaparte in Italy: The Campaign of Persistence",
+        "author": {
+         "authorized": "Pratt, Fletcher, 1897-1956",
+         "lcna": "n50021577"
+        }
+     }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-02-10"
+   "last-updated": "2020-01-08"
 }

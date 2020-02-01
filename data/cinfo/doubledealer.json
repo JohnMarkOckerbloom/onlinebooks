@@ -10,33 +10,12 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": 
-      {"issue": {"issue-date": "1924-August-September",
-       "volume": "6", "number": "nos. 37-38"}},
-   "first-renewed-contribution-source": "1951-JulDec",
+      {"issue": {"issue-date": "1925-January-February",
+       "volume": "7", "number": "nos. 41-42"}},
+   "first-renewed-contribution-source": "1952-JulDec",
+   "last-issue": {"issue-date": "1926-05", "volume": "8", "number": "48"},
+   "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1924-August-September",
-                "volume": "6", "number": "nos. 37-38"},
-      "title": "A New Testament",
-      "author": {
-       "authorized": "Anderson, Sherwood, 1876-1941",
-       "lcna": "n79045519"
-      }
-     },
-     {"issue": {"issue-date": "1924-10", "volume": "7", "number": "39"},
-      "title": "Testament, Song No. 1",
-      "author": {
-       "authorized": "Anderson, Sherwood, 1876-1941",
-       "lcna": "n79045519"
-      }
-     },
-     {"issue": {"issue-date": "1924-November-December",
-                "volume": "7", "number": "40"},
-      "title": "Testament, Song No. 2",
-      "author": {
-       "authorized": "Anderson, Sherwood, 1876-1941",
-       "lcna": "n79045519"
-      }
-     },
      {"issue": {"issue-date": "1925-January-February",
                 "volume": "7", "number": "nos. 41-42"},
       "title": "Testament: One Puzzled Concerning Himself",
@@ -44,11 +23,18 @@
        "authorized": "Anderson, Sherwood, 1876-1941",
        "lcna": "n79045519"
       }
+     },
+     {"issue": {"issue-date": "1926-05", "volume": "8", "number": "48"},
+        "title": "Epithalamium in a Modern Manner",
+        "author": {
+         "authorized": "Lowell, Amy, 1874-1925",
+         "lcna": "n79076111"
+        }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-04-22"
+   "last-updated": "2020-01-22"
 }

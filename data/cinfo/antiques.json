@@ -4,27 +4,16 @@
    "online": "1",
    "first-issue": {"issue-date": "1922-01", "volume": "1", "number": "1"},
    "first-renewed-issue": 
-     {"issue-date": "1924-02", "cdate": "1924-01-30",
-        "volume": "5", "number": "2"},
-   "first-renewed-issue-source": "1951-JulDec",
+     {"issue-date": "1925-02", "volume": "7", "number": "2",
+      "cdate": "1925-01-30"},
+   "first-renewed-issue-source": "1952",
    "first-renewed-contribution":
       {"issue": {"issue-date": "1945-11"}},
    "first-renewed-contribution-source": "1973-JanJun",
-   "renewed-issue-completeness": "active/1924",
+   "renewed-issue-completeness": "active/1925",
    "renewed-issues": [
-     {"issue-date": "1924-02", "volume": "5", "number": "2"},
-     {"issue-date": "1924-03", "volume": "5", "number": "3"},
-     {"issue-date": "1924-04", "volume": "5", "number": "4"},
-     {"issue-date": "1924-05", "volume": "5", "number": "5"},
-     {"issue-date": "1924-06", "volume": "5", "number": "6"},
-     {"issue-date": "1924-07", "volume": "6", "number": "1"},
-     {"issue-date": "1924-08", "volume": "6", "number": "2"},
-     {"issue-date": "1924-09", "volume": "6", "number": "3"},
-     {"issue-date": "1924-10", "volume": "6", "number": "4"},
-     {"issue-date": "1924-11", "volume": "6", "number": "5"},
-     {"issue-date": "1924-12", "volume": "6", "number": "6"},
-     {"issue-date": "1925-01", "volume": "7", "number": "1"},
-     {"issue-date": "1925-02", "volume": "7", "number": "2"},
+     {"issue-date": "1925-02", "volume": "7", "number": "2",
+      "cdate": "1925-01-30"},
      {"issue-date": "1925-03", "volume": "7", "number": "3"},
      {"issue-date": "1925-04", "volume": "7", "number": "4"},
      {"issue-date": "1925-05", "volume": "7", "number": "5"},
@@ -34,11 +23,72 @@
      {"issue-date": "1925-09", "volume": "8", "number": "3"},
      {"issue-date": "1925-10", "volume": "8", "number": "4"},
      {"issue-date": "1925-11", "volume": "8", "number": "5"},
-     {"issue-date": "1925-12", "volume": "8", "number": "6"}
+     {"issue-date": "1925-12", "volume": "8", "number": "6"},
+     {"issue-date": "1926-01", "volume": "9", "number": "1"},
+     {"issue-date": "1926-02", "volume": "9", "number": "2"},
+     {"issue-date": "1926-03", "volume": "9", "number": "3"},
+     {"issue-date": "1926-04", "volume": "9", "number": "4"},
+     {"issue-date": "1926-05", "volume": "9", "number": "5"},
+     {"issue-date": "1926-06", "volume": "9", "number": "6"},
+     {"issue-date": "1926-07", "volume": "10", "number": "1"}
+   ],
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1945-11"},
+      "title": "American Engravings on Paper-Mache Snuffboxes",
+      "author": {
+       "authorized": "McClinton, Katharine Morrison",
+       "lcna": "n80046021"
+      }
+     },
+     {"issue": {"issue-date": "1954-09"},
+      "title": "Early Nineteenth Century American Genre",
+      "author": {
+       "authorized": "Flexner, James Thomas, 1908-2003",
+       "lcna": "n79065342"
+      }
+     },
+     {"issue": {"issue-date": "1955-03"},
+      "title": "Gilbert Stuart, Primitive",
+      "author": {
+       "authorized": "Flexner, James Thomas, 1908-2003",
+       "lcna": "n79065342"
+      }
+     },
+     {"issue": {"issue-date": "1959-06"},
+      "title": "Pieter Vanderlyn, Come Home",
+      "author": {
+       "authorized": "Flexner, James Thomas, 1908-2003",
+       "lcna": "n79065342"
+      }
+     },
+     {"issue": {"issue-date": "1962-10"},
+      "title": "American Queen Anne Furniture",
+      "note": "Noted in, and likely covered by, a 1990 renewal for the author's 1962 book 'American Furniture: Seventeenth, Eighteenth, and Nineteenth Century Styles', which cites this article as an earlier version of part of the book.",
+      "author": {
+       "authorized": "Comstock, Helen",
+       "lcna": "n50030039"
+      }
+     },
+     {"issue": {"issue-date": "1962-10"},
+      "title": "Rocky Mountain School of American Painting",
+      "author": {
+       "authorized": "Flexner, James Thomas, 1908-2003",
+       "lcna": "n79065342"
+      }
+     },
+     {"issue": {"issue-date": "1963-04"},
+      "title": "Indigenous Painting in Maine, 1825-1865",
+      "note": "This was renewed as a contribution, and is probably also the April 1963 Antiques article cited without a title in the 1991 renewal record for the 1963 book 'Maine and its role in American art, 1740-1963'.",
+      "author": {
+       "authorized": "Little, Nina Fletcher, 1903-1993",
+       "lcna": "n80082382"
+      }
+     }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-02-26"
+   "last-updated": "2020-01-16"
 }

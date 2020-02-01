@@ -1,34 +1,24 @@
 {
    "title": "Ainslee's",
-   "aka": ["Ainslee's Smart Love Stories"],
+   "title-note": "1898-1926",
    "contents": [
       {"url": "http://www.philsp.com/homeville/GFI/link.asp?magid=AIN",
        "note": "FictionMags"}
    ],
    "online": "1",
    "first-renewed-issue":
-     {"issue-date": "1924-02", "cdate": "1924-01-15",
-      "volume": "52", "number": "6"},
-   "first-renewed-issue-source": "1951-JanJun",
+     {"issue-date": "1925-02", "cdate": "1925-01-15",
+        "volume": "54", "number": "6"},
+   "first-renewed-issue-source": "1952",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1924-05", "volume": "53", "number": "3"}},
-   "first-renewed-contribution-source": "1951-JanJun",
+     {"issue": {"issue-date": "1925-05", "volume": "55", "number": "3"}},
+   "first-renewed-contribution-source": "1952-JanJun",
    "last-issue": {"issue-date": "1926-12", "volume": "58", "number": "4"},
-   "renewed-issue-completeness": "active/1925",
+   "renewed-issue-completeness": "active/end",
+   "see-also": [{"id": "ainsleesmart", "note": "Ainslee's Smart Love Stories"}],
    "renewed-issues": [
-     {"issue-date": "1924-02", "volume": "52", "number": "6"},
-     {"issue-date": "1924-03", "volume": "53", "number": "1"},
-     {"issue-date": "1924-04", "volume": "53", "number": "2"},
-     {"issue-date": "1924-05", "volume": "53", "number": "3"},
-     {"issue-date": "1924-06", "volume": "53", "number": "4"},
-     {"issue-date": "1924-07", "volume": "53", "number": "5"},
-     {"issue-date": "1924-08", "volume": "53", "number": "6"},
-     {"issue-date": "1924-09", "volume": "54", "number": "1"},
-     {"issue-date": "1924-10", "volume": "54", "number": "2"},
-     {"issue-date": "1924-11", "volume": "54", "number": "3"},
-     {"issue-date": "1924-12", "volume": "54", "number": "4"},
-     {"issue-date": "1925-01", "volume": "54", "number": "5"},
-     {"issue-date": "1925-02", "volume": "54", "number": "6"},
+     {"issue-date": "1925-02", "cdate": "1925-01-15",
+        "volume": "54", "number": "6"},
      {"issue-date": "1925-03", "volume": "55", "number": "1"},
      {"issue-date": "1925-04", "volume": "55", "number": "2"},
      {"issue-date": "1925-05", "volume": "55", "number": "3"},
@@ -39,24 +29,23 @@
      {"issue-date": "1925-10", "volume": "56", "number": "2"},
      {"issue-date": "1925-11", "volume": "56", "number": "3"},
      {"issue-date": "1925-12", "volume": "56", "number": "4"},
-     {"issue-date": "1926-01", "volume": "56", "number": "5"}
+     {"issue-date": "1926-01", "cdate": "1925-12-15",
+        "volume": "56", "number": "5"},
+     {"issue-date": "1926-02", "cdate": "1926-01-15",
+        "volume": "56", "number": "6"},
+     {"issue-date": "1925-03", "volume": "57", "number": "1"},
+     {"issue-date": "1925-04", "volume": "57", "number": "2"},
+     {"issue-date": "1925-05", "volume": "57", "number": "3"},
+     {"issue-date": "1925-06", "volume": "57", "number": "4"},
+     {"issue-date": "1925-07", "volume": "57", "number": "5"},
+     {"issue-date": "1925-08", "volume": "57", "number": "6"},
+     {"issue-date": "1925-09", "volume": "58", "number": "1"},
+     {"issue-date": "1925-10", "volume": "58", "number": "2"},
+     {"issue-date": "1925-11", "volume": "58", "number": "3"},
+     {"issue-date": "1926-12", "volume": "58", "number": "4"}
    ],
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1924-05", "volume": "53", "number": "3"},
-      "title": "Pierrot Steals the Moon",
-      "author": {
-       "authorized": "Burnet, Dana, 1888-1962",
-       "lcna": "n88172670"
-      }
-     },
-     {"issue": {"issue-date": "1924-07", "volume": "53", "number": "5"},
-      "title": "The Isle of Dalliance",
-      "author": {
-       "authorized": "Forrester, Izola L. (Izola Louise), 1878-1944",
-       "lcna": "no00053154"
-      }
-     },
      {"issue": {"issue-date": "1925-05", "volume": "55", "number": "3"},
       "title": "That Persistent Primitive",
       "author": {
@@ -65,9 +54,10 @@
       }
      }
    ],
+   "additional-note": "The first few issues of Ainslee's Smart Love Stories, from late 1934 and early 1935, were also published as Ainslee's.  See that listing for renewal information.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-12-16"
+   "last-updated": "2020-01-04"
 }

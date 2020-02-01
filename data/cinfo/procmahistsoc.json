@@ -7,9 +7,16 @@
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
    "last-issue": {"issue-date": "1997", "volume": "109"},
+   "renewed-issue-completeness": "active/autorenewals",
+   "renewed-issues": [
+     {"issue-date": "October 1957-December 1960", "volume": "72"},
+     {"issue-date": "1961-January-December", "volume": "73"},
+     {"issue-date": "1962-January-December", "volume": "74"},
+     {"issue-date": "1963-January-December", "volume": "75"}
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-11-19"
+   "last-updated": "2020-01-04"
 }

@@ -4,64 +4,12 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution":
-      {"issue": {"cdate": "1924-01-03"}},
-   "first-renewed-contribution-source": "1951-JanJun",
-   "renewed-contributions": [
-     {"issue": {"issue-date": "1924-01-03"},
-      "title": "The Honourable Jim",
-      "title-note": "chapter 11 of 15",
-      "note": "Renewal record appears in the Books section of CCE.",
-      "author": {
-       "authorized": "Orczy, Emmuska Orczy, Baroness, 1865-1947",
-       "name": "Baroness Orczy",
-       "lcna": "n50064803"
-      }
-     },
-     {"issue": {"issue-date": "1924-01-10"},
-      "title": "The Honourable Jim",
-      "title-note": "chapter 12 of 15",
-      "note": "Renewal record appears in the Books section of CCE.",
-      "author": {
-       "authorized": "Orczy, Emmuska Orczy, Baroness, 1865-1947",
-       "name": "Baroness Orczy",
-       "lcna": "n50064803"
-      }
-     },
-     {"issue": {"issue-date": "1924-01-17"},
-      "title": "The Honourable Jim",
-      "title-note": "chapter 13 of 15",
-      "note": "Renewal record appears in the Books section of CCE.",
-      "author": {
-       "authorized": "Orczy, Emmuska Orczy, Baroness, 1865-1947",
-       "name": "Baroness Orczy",
-       "lcna": "n50064803"
-      }
-     },
-     {"issue": {"issue-date": "1924-01-24"},
-      "title": "The Honourable Jim",
-      "title-note": "chapter 14 of 15",
-      "note": "Renewal record appears in the Books section of CCE.",
-      "author": {
-       "authorized": "Orczy, Emmuska Orczy, Baroness, 1865-1947",
-       "name": "Baroness Orczy",
-       "lcna": "n50064803"
-      }
-     },
-     {"issue": {"issue-date": "1924-01-31"},
-      "title": "The Honourable Jim",
-      "title-note": "chapter 15 of 15",
-      "note": "Renewal record appears in the Books section of CCE.",
-      "author": {
-       "authorized": "Orczy, Emmuska Orczy, Baroness, 1865-1947",
-       "name": "Baroness Orczy",
-       "lcna": "n50064803"
-      }
-     }
-   ],
+      {"issue": {"issue-date": "1927-03-10"}},
+   "first-renewed-contribution-source": "1954-JulDec",
    "additional-note" : "This is a British publication.  Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-05-06"
+   "last-updated": "2020-01-25"
 }

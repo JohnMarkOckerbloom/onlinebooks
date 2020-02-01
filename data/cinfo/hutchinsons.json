@@ -14,94 +14,11 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": {"issue": 
-      {"issue-date": "1924-02", "volume": "10", "number": "56"}},
-   "first-renewed-contribution-source": "1951-JanJun",
+      {"issue-date": "1925-02", "volume": "13", "number": "2"}},
+   "first-renewed-contribution-source": "1952-JanJun",
    "last-issue": {"issue-date": "1929-12"},
+   "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1924-02", "volume": "10", "number": "56"},
-      "title": "The Face",
-      "note": "Renewal record appears in the Books section of CCE.",
-      "author": {
-         "authorized": "Benson, E. F. (Edward Frederic), 1867-1940",
-         "lcna": "n50057239"
-       }
-     },
-     {"issue": {"issue-date": "1924-02", "volume": "10", "number": "56"},
-      "title": "Heu-Heu: or, The Monster",
-      "title-note": "part 2 of 2?",
-      "note": "Renewal record appears in the Books section of CCE.",
-      "author": {
-         "authorized": "Haggard, H. Rider (Henry Rider), 1856-1925",
-         "lcna": "n80010495"
-       }
-     },
-     {"issue": {"issue-date": "1924-05", "volume": "10", "number": "59"},
-      "title": "Spinach and Reconciliation",
-      "title-note": "part 1 of 2",
-      "note": "Title as given in CCE. FictionMags gives title simply as 'Spinach'.  I have not checked the issue to see what title is used there.",
-      "author": {
-         "authorized": "Benson, E. F. (Edward Frederic), 1867-1940",
-         "lcna": "n50057239"
-       }
-     },
-     {"issue": {"issue-date": "1924-07", "volume": "11", "number": "61"},
-      "title": "Spinach and Reconciliation",
-      "title-note": "part 2 of 2",
-      "note": "Title as given in CCE. FictionMags gives title simply as 'Reconciliation'.  I have not checked the issue to see what title is used there.",
-      "author": {
-         "authorized": "Benson, E. F. (Edward Frederic), 1867-1940",
-         "lcna": "n50057239"
-       }
-     },
-     {"issue": {"issue-date": "1924-08", "volume": "12", "number": "1"},
-      "title": "Coincidence",
-      "note": "Renewal record appears in the Books section of CCE. Author name is a pseudonym for H. C. McNeile.",
-      "author": {
-       "authorized": "Sapper, 1888-1937",
-       "lcna": "n85822242"
-      }
-     },
-     {"issue": {"issue-date": "1924-09", "volume": "12", "number": "2"},
-      "title": "Two Photographs",
-      "note": "Renewal record appears in the Books section of CCE. Author name is a pseudonym for H. C. McNeile.",
-      "author": {
-       "authorized": "Sapper, 1888-1937",
-       "lcna": "n85822242"
-      }
-     },
-     {"issue": {"issue-date": "1924-09", "volume": "12", "number": "2"},
-      "title": "Corstophine",
-      "note": "Renewal record appears in the Books section of CCE.",
-      "author": {
-         "authorized": "Benson, E. F. (Edward Frederic), 1867-1940",
-         "lcna": "n50057239"
-       }
-     },
-     {"issue": {"issue-date": "1924-11", "volume": "12", "number": "4"},
-      "title": "The Old Man in the Corner Unravels the Mystery of the White Carnation and the Montmartre Hat",
-      "title-note": "part 1 of 2",
-      "author": {
-       "authorized": "Orczy, Emmuska Orczy, Baroness, 1865-1947",
-       "name": "Baroness Orczy",
-       "lcna": "n50064803"
-      }
-     },
-     {"issue": {"issue-date": "1924-11", "volume": "12", "number": "4"},
-      "title": "The Temple",
-      "author": {
-         "authorized": "Benson, E. F. (Edward Frederic), 1867-1940",
-         "lcna": "n50057239"
-       }
-     },
-     {"issue": {"issue-date": "1924-12", "volume": "12", "number": "5"},
-      "title": "The Old Man in the Corner Unravels the Mystery of the White Carnation and the Montmartre Hat",
-      "title-note": "part 2 of 2",
-      "author": {
-       "authorized": "Orczy, Emmuska Orczy, Baroness, 1865-1947",
-       "name": "Baroness Orczy",
-       "lcna": "n50064803"
-      }
-     },
      {"issue": {"issue-date": "1925-02", "volume": "13", "number": "2"},
       "title": "The Miser of Maida Vale",
       "note": "Renewal record appears in the Books section of CCE.",
@@ -237,15 +154,80 @@
        "authorized": "Sapper, 1888-1937",
        "lcna": "n85822242"
       }
+     },
+     {"issue": {"issue-date": "1926-08", "volume": "15", "number": "7"},
+      "title": "The Saving Clause",
+      "note": "Author name is a pseudonym for H. C. McNeile.",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     },
+     {"issue": {"issue-date": "1926-12", "volume": "16", "number": "4"},
+      "title": "Sir Percy Hits Back",
+      "title-note": "chapters 1-6",
+      "author": {
+       "authorized": "Orczy, Emmuska Orczy, Baroness, 1865-1947",
+       "name": "Baroness Orczy",
+       "lcna": "n50064803"
+      }
+     },
+     {"issue": {"issue-date": "1927-07", "volume": "17", "number": "4"},
+      "title": "Once Bit, Twice-Hit",
+      "note": "Author name is a pseudonym for H. C. McNeile.",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     },
+     {"issue": {"issue-date": "1927-11", "volume": "17", "number": "8"},
+      "title": "Relative Values",
+      "note": "Author name is a pseudonym for H. C. McNeile.",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     },
+     {"issue": {"issue-date": "1929-01", "volume": "21", "number": "1"},
+      "title": "The Romantic Prince",
+      "title-note": "part 6 of 9",
+      "author": {
+       "authorized": "Sabatini, Rafael, 1875-1950",
+       "lcna": "n50016255"
+      }
+     },
+     {"issue": {"issue-date": "1929-02", "volume": "21", "number": "2"},
+      "title": "The Romantic Prince",
+      "title-note": "part 7 of 9",
+      "author": {
+       "authorized": "Sabatini, Rafael, 1875-1950",
+       "lcna": "n50016255"
+      }
+     },
+     {"issue": {"issue-date": "1929-03", "volume": "21", "number": "3"},
+      "title": "The Romantic Prince",
+      "title-note": "part 8 of 9",
+      "author": {
+       "authorized": "Sabatini, Rafael, 1875-1950",
+       "lcna": "n50016255"
+      }
+     },
+     {"issue": {"issue-date": "1929-04", "volume": "21", "number": "4"},
+      "title": "The Romantic Prince",
+      "title-note": "part 9 of 9",
+      "author": {
+       "authorized": "Sabatini, Rafael, 1875-1950",
+       "lcna": "n50016255"
+      }
      }
    ],
    "additional-notes": [
      "This is a British publication.  Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US.",
-     "This magazine frequently reprinted stories that had originally appeared in other magazines.  We have not systematically checked the copyrights of those earlier publications."
+     "This magazine frequently reprinted stories that had originally appeared in other magazines.  We have not systematically checked the copyrights of those earlier publications. The first contribution renewal shown here is for the first contribution with an active CCE renewal record specifically mentioning this magazine."
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-05-06"
+   "last-updated": "2020-01-24"
 }

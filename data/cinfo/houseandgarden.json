@@ -4,27 +4,16 @@
    "online": "1",
    "first-issue": {"issue-date": "1901-06", "volume": "1", "number": "1"},
    "first-renewed-issue":
-     {"issue-date": "1924-02", "cdate": "1924-01-29",
-      "volume": "45", "number": "2"},
-   "first-renewed-issue-source": "1951-JulDec",
+     {"issue-date": "1925-02", "volume": "47", "number": "2",
+      "cdate": "1925-01-28"},
+   "first-renewed-issue-source": "1952",
    "first-renewed-contribution":
      {"issue": {"issue-date": "1940-08"}},
    "first-renewed-contribution-source": "1967-JulDec",
-   "renewed-issue-completeness": "active/1924",
+   "renewed-issue-completeness": "active/1925",
    "renewed-issues": [
-     {"issue-date": "1924-02", "volume": "45", "number": "2"},
-     {"issue-date": "1924-03", "volume": "45", "number": "3"},
-     {"issue-date": "1924-04", "volume": "45", "number": "4"},
-     {"issue-date": "1924-05", "volume": "45", "number": "5"},
-     {"issue-date": "1924-06", "volume": "45", "number": "6"},
-     {"issue-date": "1924-07", "volume": "46", "number": "1"},
-     {"issue-date": "1924-08", "volume": "46", "number": "2"},
-     {"issue-date": "1924-09", "volume": "46", "number": "3"},
-     {"issue-date": "1924-10", "volume": "46", "number": "4"},
-     {"issue-date": "1924-11", "volume": "46", "number": "5"},
-     {"issue-date": "1924-12", "volume": "46", "number": "6"},
-     {"issue-date": "1925-01", "volume": "47", "number": "1"},
-     {"issue-date": "1925-02", "volume": "47", "number": "2"},
+     {"issue-date": "1925-02", "volume": "47", "number": "2",
+      "cdate": "1925-01-28"},
      {"issue-date": "1925-03", "volume": "47", "number": "3"},
      {"issue-date": "1925-04", "volume": "47", "number": "4"},
      {"issue-date": "1925-05", "volume": "47", "number": "5"},
@@ -34,11 +23,24 @@
      {"issue-date": "1925-09", "volume": "48", "number": "3"},
      {"issue-date": "1925-10", "volume": "48", "number": "4"},
      {"issue-date": "1925-11", "volume": "48", "number": "5"},
-     {"issue-date": "1925-12", "volume": "48", "number": "6"}
+     {"issue-date": "1925-12", "volume": "48", "number": "6"},
+     {"issue-date": "1926-01", "volume": "49", "number": "1"},
+     {"issue-date": "1926-02", "volume": "49", "number": "2"},
+     {"issue-date": "1926-03", "volume": "49", "number": "3"},
+     {"issue-date": "1926-04", "volume": "49", "number": "4"},
+     {"issue-date": "1926-05", "volume": "49", "number": "5"},
+     {"issue-date": "1926-06", "volume": "49", "number": "6"},
+     {"issue-date": "1926-07", "volume": "50", "number": "1",
+      "note": "CCE renewal record gives volume number for this issue as 48."},
+     {"issue-date": "1926-08", "volume": "50", "number": "2"},
+     {"issue-date": "1926-09", "volume": "50", "number": "3"},
+     {"issue-date": "1926-10", "volume": "50", "number": "4"},
+     {"issue-date": "1926-11", "volume": "50", "number": "5"},
+     {"issue-date": "1926-12", "volume": "50", "number": "6"}
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-03-09"
+   "last-updated": "2020-01-08"
 }

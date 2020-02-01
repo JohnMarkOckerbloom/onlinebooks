@@ -4,137 +4,11 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": {
-       "issue": {"issue-date": "1924-02", "cdate": "1924-01-02"}
+       "issue": {"issue-date": "1925-02", "cdate": "1925-01-02"}
    },
-   "first-renewed-contribution-source": "1951-JulDec",
-   "renewed-contribution-completeness": "active/1924",
+   "first-renewed-contribution-source": "1952-JanJun",
+   "renewed-contribution-completeness": "active/1925",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1924-02"}, 
-      "title": "The Road to En-Dor",
-      "title-note": "part 5 of 9",
-      "author": {
-       "authorized": "Vance, Louis Joseph, 1879-1933",
-       "lcna": "no90026936"
-      }
-     },
-     {"issue": {"issue-date": "1924-03"}, 
-      "title": "The Road to En-Dor",
-      "title-note": "part 6 of 9",
-      "author": {
-       "authorized": "Vance, Louis Joseph, 1879-1933",
-       "lcna": "no90026936"
-      }
-     },
-     {"issue": {"issue-date": "1924-04"}, 
-      "title": "The Road to En-Dor",
-      "title-note": "part 7 of 9",
-      "author": {
-       "authorized": "Vance, Louis Joseph, 1879-1933",
-       "lcna": "no90026936"
-      }
-     },
-     {"issue": {"issue-date": "1924-05"}, 
-      "title": "Mothers",
-      "author": {
-       "authorized": "Bercovici, Konrad, 1882-1961",
-       "lcna": "n50006835"
-      }
-     },
-     {"issue": {"issue-date": "1924-05"}, 
-      "title": "The Road to En-Dor",
-      "title-note": "part 8 of 9",
-      "author": {
-       "authorized": "Vance, Louis Joseph, 1879-1933",
-       "lcna": "no90026936"
-      }
-     },
-     {"issue": {"issue-date": "1924-06"}, 
-      "title": "The Road to En-Dor",
-      "title-note": "part 9 of 9",
-      "author": {
-       "authorized": "Vance, Louis Joseph, 1879-1933",
-       "lcna": "no90026936"
-      }
-     },
-     {"issue": {"issue-date": "1924-07"},
-      "title": "Traditions",
-      "author": {
-       "authorized": "Duganne, Phyllis, 1899-1976",
-       "lcna": "n90719514"
-      }
-     },
-     {"issue": {"issue-date": "1924-07"},
-      "title": "Arrowsmith",
-      "title-note": "part 2 of 11",
-      "author": {
-         "authorized": "Lewis, Sinclair, 1885-1951",
-         "lcna": "n79023149"
-       }
-     },
-     {"issue": {"issue-date": "1924-08"},
-      "title": "Arrowsmith",
-      "title-note": "part 3 of 11",
-      "author": {
-         "authorized": "Lewis, Sinclair, 1885-1951",
-         "lcna": "n79023149"
-       }
-     },
-     {"issue": {"issue-date": "1924-09"},
-      "title": "Arrowsmith",
-      "title-note": "part 4 of 11",
-      "author": {
-         "authorized": "Lewis, Sinclair, 1885-1951",
-         "lcna": "n79023149"
-       }
-     },
-     {"issue": {"issue-date": "1924-10"},
-      "title": "Arrowsmith",
-      "title-note": "part 5 of 11",
-      "author": {
-         "authorized": "Lewis, Sinclair, 1885-1951",
-         "lcna": "n79023149"
-       }
-     },
-     {"issue": {"issue-date": "1924-11"},
-      "title": "Arrowsmith",
-      "title-note": "part 6 of 11",
-      "author": {
-         "authorized": "Lewis, Sinclair, 1885-1951",
-         "lcna": "n79023149"
-       }
-     },
-     {"issue": {"issue-date": "1924-12"},
-      "title": "A Traveller in Romance",
-      "title-note": "part 1 of 3",
-      "author": {
-       "authorized": "Wylie, I. A. R. (Ida Alexa Ross), 1885-1959",
-       "lcna": "n87860300"
-      }
-     },
-     {"issue": {"issue-date": "1924-12"},
-      "title": "Arrowsmith",
-      "title-note": "part 7 of 11",
-      "author": {
-         "authorized": "Lewis, Sinclair, 1885-1951",
-         "lcna": "n79023149"
-       }
-     },
-     {"issue": {"issue-date": "1925-01"},
-      "title": "A Traveller in Romance",
-      "title-note": "part 2 of 3",
-      "author": {
-       "authorized": "Wylie, I. A. R. (Ida Alexa Ross), 1885-1959",
-       "lcna": "n87860300"
-      }
-     },
-     {"issue": {"issue-date": "1925-01"},
-      "title": "Arrowsmith",
-      "title-note": "part 8 of 11",
-      "author": {
-         "authorized": "Lewis, Sinclair, 1885-1951",
-         "lcna": "n79023149"
-       }
-     },
      {"issue": {"issue-date": "1925-02"},
       "title": "Arrowsmith",
       "title-note": "part 9 of 11",
@@ -288,12 +162,18 @@
        "authorized": "Abdullah, Achmed, 1881-1945",
        "lcna": "n50034820"
       }
+     },
+     {"issue": {"issue-date": "1926-10"},
+      "title": "The Godless Man",
+      "author": {
+       "authorized": "Abdullah, Achmed, 1881-1945",
+       "lcna": "n50034820"
+      }
      }
    ],
-   "additional-note" : "Active contribution renewals are recorded beginning in the 1951 January-June CCE volume, but the earliest actively renewed contribution is noted in the 1951 July-December volume.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-06-03"
+   "last-updated": "2020-01-25"
 }

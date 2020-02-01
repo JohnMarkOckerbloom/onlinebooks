@@ -9,135 +9,11 @@
    "first-renewed-issue":  "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1924-02", "cdate": "1924-01-02",
-                "volume": "50", "number": "2"}},
-   "first-renewed-contribution-source": "1951-JanJun",
-   "renewed-contribution-completeness": "active/1924",
+     {"issue": {"issue-date": "1925-02", "volume": "52", "number": "2",
+                "cdate": "1925-01-09"}},
+   "first-renewed-contribution-source": "1952-JanJun",
+   "renewed-contribution-completeness": "active/1927",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1924-02", "volume": "50", "number": "2"},
-      "title": "Truthful James",
-      "author": {
-       "authorized": "Upson, William Hazlett, 1891-1975",
-       "lcna": "n90676728"
-      }
-     },
-     {"issue": {"issue-date": "1924-03", "volume": "50", "number": "3"},
-      "title": "The Devonshers",
-      "title-note": "part 1 of 8",
-      "author": {
-         "authorized": "Morrow, Honoré, 1880-1940",
-         "lcna": "n86012970"
-       }
-     },
-     {"issue": {"issue-date": "1924-03", "volume": "50", "number": "3"},
-      "title": "The Golden Bum",
-      "author": {
-         "authorized": "Connell, Richard Edward, 1893-1949",
-         "lcna": "n50028704"
-       }
-     },
-     {"issue": {"issue-date": "1924-04", "volume": "50", "number": "4"},
-      "title": "The Devonshers",
-      "title-note": "part 2 of 8",
-      "author": {
-         "authorized": "Morrow, Honoré, 1880-1940",
-         "lcna": "n86012970"
-       }
-     },
-     {"issue": {"issue-date": "1924-05", "volume": "50", "number": "5"},
-      "title": "The Devonshers",
-      "title-note": "part 3 of 8",
-      "author": {
-         "authorized": "Morrow, Honoré, 1880-1940",
-         "lcna": "n86012970"
-       }
-     },
-     {"issue": {"issue-date": "1924-06", "volume": "50", "number": "6"},
-      "title": "The Devonshers",
-      "title-note": "part 4 of 8",
-      "author": {
-         "authorized": "Morrow, Honoré, 1880-1940",
-         "lcna": "n86012970"
-       }
-     },
-     {"issue": {"issue-date": "1924-06", "volume": "50", "number": "6"},
-      "title": "The Ace of Cads",
-      "author": {
-         "authorized": "Arlen, Michael, 1895-1956",
-         "lcna": "n50001591"
-       }
-     },
-     {"issue": {"issue-date": "1924-07", "volume": "51", "number": "1"},
-      "title": "The Devonshers",
-      "title-note": "part 5 of 8",
-      "author": {
-         "authorized": "Morrow, Honoré, 1880-1940",
-         "lcna": "n86012970"
-       }
-     },
-     {"issue": {"issue-date": "1924-08", "volume": "51", "number": "2"},
-      "title": "The Devonshers",
-      "title-note": "part 6 of 8",
-      "author": {
-         "authorized": "Morrow, Honoré, 1880-1940",
-         "lcna": "n86012970"
-       }
-     },
-     {"issue": {"issue-date": "1924-09", "volume": "51", "number": "3"},
-      "title": "Noise",
-      "author": {
-       "authorized": "Upson, William Hazlett, 1891-1975",
-       "lcna": "n90676728"
-      }
-     },
-     {"issue": {"issue-date": "1924-09", "volume": "51", "number": "3"},
-      "title": "The Devonshers",
-      "title-note": "part 7 of 8",
-      "author": {
-         "authorized": "Morrow, Honoré, 1880-1940",
-         "lcna": "n86012970"
-       }
-     },
-     {"issue": {"issue-date": "1924-10", "volume": "51", "number": "4"},
-      "title": "Sea Horses",
-      "title-note": "part 1 of 3",
-      "author": {
-         "authorized": "Young, Francis Brett, 1884-1954",
-         "lcna": "n50013622"
-       }
-     },
-     {"issue": {"issue-date": "1924-10", "volume": "51", "number": "4"},
-      "title": "The Devonshers",
-      "title-note": "part 8 of 8",
-      "author": {
-         "authorized": "Morrow, Honoré, 1880-1940",
-         "lcna": "n86012970"
-       }
-     },
-     {"issue": {"issue-date": "1924-11", "volume": "51", "number": "5"},
-      "title": "Sea Horses",
-      "title-note": "part 2 of 3",
-      "author": {
-         "authorized": "Young, Francis Brett, 1884-1954",
-         "lcna": "n50013622"
-       }
-     },
-     {"issue": {"issue-date": "1924-12", "volume": "51", "number": "6"},
-      "title": "Sea Horses",
-      "title-note": "part 3 of 3",
-      "author": {
-         "authorized": "Young, Francis Brett, 1884-1954",
-         "lcna": "n50013622"
-       }
-     },
-     {"issue": {"issue-date": "1925-01", "volume": "52", "number": "1"},
-      "title": "The Phantom Caravan",
-      "title-note": "part 1 of 5",
-      "author": {
-       "authorized": "O'Brien, Howard Vincent, 1888-1947",
-       "lcna": "no98077150"
-      }
-     },
      {"issue": {"issue-date": "1925-02", "volume": "52", "number": "2"},
       "title": "The Mating of Pompalone",
       "author": {
@@ -246,11 +122,196 @@
         "authorized": "Wallace, Edgar, 1875-1932",
         "lcna": "n80034938"
       }
+     },
+     {"issue": {"issue-date": "1926-06", "volume": "54", "number": "6"},
+      "title": "Mike Donovan of Ireland",
+      "author": {
+        "name": "Guy Fletcher"
+      }
+     },
+     {"issue": {"issue-date": "1926-08", "volume": "55", "number": "2"},
+      "title": "The Great Sham",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1926-12", "volume": "55", "number": "6"},
+      "title": "Cholera at Bukit Batu",
+      "note": "CCE renewal record places this story in this issue, but FictionMags places it in the January 1927 issue.  I have not examined the issues to know which one(s) it appears in.",
+      "author": {
+        "authorized": "Blochman, Lawrence G. (Lawrence Goldtree), 1900-1975",
+        "lcna": "n50016555"
+      }
+     },
+     {"issue": {"issue-date": "1927-01", "volume": "56", "number": "1"},
+      "title": "The Flying Kestrel",
+      "title-note": "part 1 of 4",
+      "author": {
+         "authorized": "Dingle, A. E., 1874-1947",
+         "lcna": "no2016118807"
+      }
+     },
+     {"issue": {"issue-date": "1927-01", "volume": "56", "number": "1"},
+      "title": "Cholera at Bukit Batu",
+      "note": "CCE renewal record places this story in the December 1926 issue, but FictionMags places it in this issue.  I have not examined the issues to know which one(s) it appears in.",
+      "author": {
+        "authorized": "Blochman, Lawrence G. (Lawrence Goldtree), 1900-1975",
+        "lcna": "n50016555"
+      }
+     },
+     {"issue": {"issue-date": "1927-02", "volume": "56", "number": "2"},
+      "title": "The Flying Kestrel",
+      "title-note": "part 2 of 4",
+      "author": {
+         "authorized": "Dingle, A. E., 1874-1947",
+         "lcna": "no2016118807"
+      }
+     },
+     {"issue": {"issue-date": "1927-03", "volume": "56", "number": "3"},
+      "title": "The Flying Kestrel",
+      "title-note": "part 3 of 4",
+      "author": {
+         "authorized": "Dingle, A. E., 1874-1947",
+         "lcna": "no2016118807"
+      }
+     },
+     {"issue": {"issue-date": "1927-03", "volume": "56", "number": "3"},
+      "title": "A Man's Measure",
+      "author": {
+         "authorized": "Titus, Harold, 1888-1967",
+         "lcna": "no2008175553"
+      }
+     },
+     {"issue": {"issue-date": "1927-04", "volume": "56", "number": "4"},
+      "title": "The Flying Kestrel",
+      "title-note": "part 4 of 4",
+      "author": {
+         "authorized": "Dingle, A. E., 1874-1947",
+         "lcna": "no2016118807"
+      }
+     },
+     {"issue": {"issue-date": "1927-05", "volume": "56", "number": "5"},
+      "title": "Captains Fugacious",
+       "author": {
+         "authorized": "Pendexter, Hugh, 1875-1940",
+         "lcna": "no2010022727"
+       }
+     },
+     {"issue": {"issue-date": "1927-05", "volume": "56", "number": "5"},
+      "title": "Hot Sake",
+      "note": "CCE renewal record places this story in this issue, but FictionMags places it in the June 1927 issue.  I have not examined the issues to know which one(s) it appears in.",
+      "author": {
+        "authorized": "Blochman, Lawrence G. (Lawrence Goldtree), 1900-1975",
+        "lcna": "n50016555"
+      }
+     },
+     {"issue": {"issue-date": "1927-06", "volume": "56", "number": "6"},
+      "title": "Hot Sake",
+      "note": "CCE renewal record places this story in the May 1927 issue, but FictionMags places it in this issue.  I have not examined the issues to know which one(s) it appears in.",
+      "author": {
+        "authorized": "Blochman, Lawrence G. (Lawrence Goldtree), 1900-1975",
+        "lcna": "n50016555"
+      }
+     },
+     {"issue": {"issue-date": "1927-10", "volume": "57", "number": "4"}, 
+      "title": "The Desert Moon Mystery",
+      "title-note": "part 1 of 5",
+      "author": {
+       "authorized": "Strahan, Kay Cleaver, 1888-1941",
+       "lcna": "no95043185"
+      }
+     },
+     {"issue": {"issue-date": "1927-11", "volume": "57", "number": "5"}, 
+      "title": "The Desert Moon Mystery",
+      "title-note": "part 2 of 5",
+      "author": {
+       "authorized": "Strahan, Kay Cleaver, 1888-1941",
+       "lcna": "no95043185"
+      }
+     },
+     {"issue": {"issue-date": "1927-12", "volume": "57", "number": "6"}, 
+      "title": "The Capture of Ping-Chow",
+      "author": {
+        "authorized": "Blochman, Lawrence G. (Lawrence Goldtree), 1900-1975",
+        "lcna": "n50016555"
+      }
+     },
+     {"issue": {"issue-date": "1927-12", "volume": "57", "number": "6"}, 
+      "title": "The Roaring Towns",
+      "title-note": "part 2 of 6",
+       "author": {
+         "authorized": "Pendexter, Hugh, 1875-1940",
+         "lcna": "no2010022727"
+       }
+     },
+     {"issue": {"issue-date": "1927-12", "volume": "57", "number": "6"}, 
+      "title": "The Desert Moon Mystery",
+      "title-note": "part 3 of 5",
+      "author": {
+       "authorized": "Strahan, Kay Cleaver, 1888-1941",
+       "lcna": "no95043185"
+      }
+     },
+     {"issue": {"issue-date": "1928-01", "volume": "58", "number": "1"}, 
+      "title": "The Roaring Towns",
+      "title-note": "part 3 of 6",
+       "author": {
+         "authorized": "Pendexter, Hugh, 1875-1940",
+         "lcna": "no2010022727"
+       }
+     },
+     {"issue": {"issue-date": "1928-01", "volume": "58", "number": "1"}, 
+      "title": "The Bullet Guide",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1928-01", "volume": "58", "number": "1"}, 
+      "title": "The Desert Moon Mystery",
+      "title-note": "part 4 of 5",
+      "author": {
+       "authorized": "Strahan, Kay Cleaver, 1888-1941",
+       "lcna": "no95043185"
+      }
+     },
+     {"issue": {"issue-date": "1928-02", "volume": "58", "number": "2"}, 
+      "title": "The Roaring Towns",
+      "title-note": "part 4 of 6",
+       "author": {
+         "authorized": "Pendexter, Hugh, 1875-1940",
+         "lcna": "no2010022727"
+       }
+     },
+     {"issue": {"issue-date": "1928-02", "volume": "58", "number": "2"}, 
+      "title": "The Desert Moon Mystery",
+      "title-note": "part 5 of 5",
+      "author": {
+       "authorized": "Strahan, Kay Cleaver, 1888-1941",
+       "lcna": "no95043185"
+      }
+     },
+     {"issue": {"issue-date": "1928-03", "volume": "58", "number": "3"}, 
+      "title": "The Roaring Towns",
+      "title-note": "part 5 of 6",
+       "author": {
+         "authorized": "Pendexter, Hugh, 1875-1940",
+         "lcna": "no2010022727"
+       }
+     },
+     {"issue": {"issue-date": "1928-04", "volume": "58", "number": "4"}, 
+      "title": "The Roaring Towns",
+      "title-note": "part 6 of 6",
+       "author": {
+         "authorized": "Pendexter, Hugh, 1875-1940",
+         "lcna": "no2010022727"
+       }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-06-04"
+   "last-updated": "2020-01-26"
 }

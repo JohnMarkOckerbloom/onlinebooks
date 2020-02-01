@@ -11,6 +11,7 @@
    "first-renewed-contribution":
      {"issue": {"issue-date": "1925-02-28", "volume": "1", "number": "2"}},
    "first-renewed-contribution-source": "1952-JanJun",
+   "renewed-issue-completeness": "active/1925",
    "renewed-issues": [
      {"issue-date": "1925-02-21", "volume": "1", "number": "1"},
      {"issue-date": "1925-02-28", "volume": "1", "number": "2"},
@@ -54,8 +55,62 @@
      {"issue-date": "1925-11-14", "volume": "1", "number": "38"},
      {"issue-date": "1925-11-21", "volume": "1", "number": "39"},
      {"issue-date": "1925-11-28", "volume": "1", "number": "40"},
-     {"issue-date": "1925-12-05", "volume": "1", "number": "41"}
+     {"issue-date": "1925-12-05", "volume": "1", "number": "41"},
+     {"issue-date": "1925-12-12", "volume": "1", "number": "42"},
+     {"issue-date": "1925-12-19", "volume": "1", "number": "44",
+       "note": "The lack of a number 43 in this listing appears to be a compensation for the '37' numbering error a few weeks previous, rather than an unrenewed issue."},
+     {"issue-date": "1925-12-26", "volume": "1", "number": "45"},
+     {"issue-date": "1926-01-02", "volume": "1", "number": "46"},
+     {"issue-date": "1926-01-09", "volume": "1", "number": "47"},
+     {"issue-date": "1926-01-16", "volume": "1", "number": "48"},
+     {"issue-date": "1926-01-23", "volume": "1", "number": "49"},
+     {"issue-date": "1926-01-30", "volume": "1", "number": "50"},
+     {"issue-date": "1926-02-06", "volume": "1", "number": "51"},
+     {"issue-date": "1926-02-13", "volume": "1", "number": "52"},
+     {"issue-date": "1926-02-20", "volume": "2", "number": "1"},
+     {"issue-date": "1926-02-27", "volume": "2", "number": "2"},
+     {"issue-date": "1926-03-05", "volume": "2", "number": "3"},
+     {"issue-date": "1926-03-13", "volume": "2", "number": "4"},
+     {"issue-date": "1926-03-20", "volume": "2", "number": "5"},
+     {"issue-date": "1926-03-27", "volume": "2", "number": "6"},
+     {"issue-date": "1926-04-03", "volume": "2", "number": "7"},
+     {"issue-date": "1926-04-10", "volume": "2", "number": "8"},
+     {"issue-date": "1926-04-17", "volume": "2", "number": "9"},
+     {"issue-date": "1926-04-24", "volume": "2", "number": "10"},
+     {"issue-date": "1926-05-01", "volume": "2", "number": "11"},
+     {"issue-date": "1926-05-08", "volume": "2", "number": "12"},
+     {"issue-date": "1926-05-15", "volume": "2", "number": "13"},
+     {"issue-date": "1926-05-22", "volume": "2", "number": "14"},
+     {"issue-date": "1926-05-29", "volume": "2", "number": "15"},
+     {"issue-date": "1926-06-05", "volume": "2", "number": "16"},
+     {"issue-date": "1926-06-12", "volume": "2", "number": "17"},
+     {"issue-date": "1926-06-19", "volume": "2", "number": "18"},
+     {"issue-date": "1926-06-26", "volume": "2", "number": "19"},
+     {"issue-date": "1926-07-03", "volume": "2", "number": "20"},
+     {"issue-date": "1926-07-10", "volume": "2", "number": "21"}, 
+     {"issue-date": "1926-07-17", "volume": "2", "number": "22"},
+     {"issue-date": "1926-07-24", "volume": "2", "number": "23"},
+     {"issue-date": "1926-07-31", "volume": "2", "number": "24"},
+     {"issue-date": "1926-08-07", "volume": "2", "number": "25"},
+     {"issue-date": "1926-08-14", "volume": "2", "number": "26"},
+     {"issue-date": "1926-08-21", "volume": "2", "number": "27"},
+     {"issue-date": "1926-08-28", "volume": "2", "number": "28"},
+     {"issue-date": "1926-09-04", "volume": "2", "number": "29"},
+     {"issue-date": "1926-09-11", "volume": "2", "number": "30"},
+     {"issue-date": "1926-09-18", "volume": "2", "number": "31"},
+     {"issue-date": "1926-09-25", "volume": "2", "number": "32"},
+     {"issue-date": "1926-10-02", "volume": "2", "number": "33"},
+     {"issue-date": "1926-10-09", "volume": "2", "number": "34"},
+     {"issue-date": "1926-10-16", "volume": "2", "number": "35"},
+     {"issue-date": "1926-10-23", "volume": "2", "number": "36"},
+     {"issue-date": "1926-10-30", "volume": "2", "number": "37"},
+     {"issue-date": "1926-11-06", "volume": "2", "number": "38"},
+     {"issue-date": "1926-11-13", "volume": "2", "number": "39"},
+     {"issue-date": "1926-11-20", "volume": "2", "number": "40"},
+     {"issue-date": "1926-11-27", "volume": "2", "number": "41"},
+     {"issue-date": "1926-12-04", "volume": "2", "number": "42"}
    ],
+   "renewed-contribution-completeness": "active/1925",
    "renewed-contributions": [
      {"issue": {"issue-date": "1925-02-28", "volume": "1", "number": "2"},
       "title": "A Certain Lady",
@@ -91,11 +146,74 @@
        "authorized": "White, E. B. (Elwyn Brooks), 1899-1985",
        "lcna": "n79054648"
       }
+     },
+     {"issue": {"issue-date": "1926-05-01"},
+      "title": "Song of Americans Resident in France",
+      "author": {
+       "authorized": "Parker, Dorothy, 1893-1967",
+       "lcna": "n50050331"
+      }
+     },
+     {"issue": {"issue-date": "1926-05-15"},
+      "title": "Rhyme of an Involuntary Violet",
+      "author": {
+       "authorized": "Parker, Dorothy, 1893-1967",
+       "lcna": "n50050331"
+      }
+     },
+     {"issue": {"issue-date": "1926-07-03"},
+      "title": "Benjamin Winter",
+      "author": {
+       "authorized": "Busch, Niven, 1903-1991",
+       "lcna": "n79109747"
+      }
+     },
+     {"issue": {"issue-date": "1926-09-11"},
+      "title": "The Last Tea",
+      "author": {
+       "authorized": "Parker, Dorothy, 1893-1967",
+       "lcna": "n50050331"
+      }
+     },
+     {"issue": {"issue-date": "1926-09-25"},
+      "title": "Song of a Markedly Personal Nature",
+      "author": {
+       "authorized": "Parker, Dorothy, 1893-1967",
+       "lcna": "n50050331"
+      }
+     },
+     {"issue": {"issue-date": "1926-10-02"},
+        "title": "The Man Who Ruined Paris",
+        "author": {
+         "authorized": "Woollcott, Alexander, 1887-1943",
+         "lcna": "n80024589"
+        }
+     },
+     {"issue": {"issue-date": "1926-10-09"},
+      "title": "Oh, He's Charming",
+      "author": {
+       "authorized": "Parker, Dorothy, 1893-1967",
+       "lcna": "n50050331"
+      }
+     },
+     {"issue": {"issue-date": "1926-10-30"},
+      "title": "Travelogue",
+      "author": {
+       "authorized": "Parker, Dorothy, 1893-1967",
+       "lcna": "n50050331"
+      }
+     },
+     {"issue": {"issue-date": "1926-11-27"},
+      "title": "Paul Whiteman",
+      "author": {
+       "authorized": "Busch, Niven, 1903-1991",
+       "lcna": "n79109747"
+      }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-06-04"
+   "last-updated": "2020-01-27"
 }

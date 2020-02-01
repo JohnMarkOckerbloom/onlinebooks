@@ -4,20 +4,35 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1924-04"}},
-   "first-renewed-contribution-source": "1952-JanJun",
+     {"issue": {"issue-date": "1926-June-August"}},
+   "first-renewed-contribution-source": "1953-JulDec",
+   "renewed-contribution-completeness": "active/1926",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1924-04"},
-        "title": "Pepys and Humanity",
+     {"issue": {"issue-date": "1926-June-August"},
+        "title": "Real-Estate Agent's Tale",
         "author": {
-         "authorized": "Bradford, Gamaliel, 1863-1932",
-         "lcna": "n50042916"
+         "authorized": "Lowell, Amy, 1874-1925",
+         "lcna": "n79076111"
         }
+     },
+     {"issue": {"issue-date": "1927-September-October"}, 
+      "title": "The Technique of Life",
+      "author": {
+         "authorized": "White, Stewart Edward, 1873-1946",
+         "lcna": "n50020243"
+      }
+     },
+     {"issue": {"issue-date": "1927-11"}, 
+      "title": "From Whitehead to Le Havre",
+      "author": {
+       "authorized": "Coffin, Robert P. Tristram (Robert Peter Tristram), 1892-1955",
+       "lcna": "n50030030"
+      }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-03-24"
+   "last-updated": "2020-01-07"
 }

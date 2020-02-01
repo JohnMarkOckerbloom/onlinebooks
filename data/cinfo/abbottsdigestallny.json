@@ -1,17 +1,14 @@
 {
    "title": "Abbott's Digest of All the New York Reports",
+   "online": "1",
    "first-renewed-issue": 
-       {"issue-date": "1923-12", "cdate": "1924-03-11"},
-   "first-renewed-issue-source": "1951-JanJun",
+       {"issue-date": "1924-12", "cdate": "1925-02-28", "number": "48"},
+   "first-renewed-issue-source": "1952",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce",
    "last-issue": {"issue-date": "1929"},
-   "renewed-issue-completeness": "active/1924",
+   "renewed-issue-completeness": "active/1925",
    "renewed-issues": [
-       {"issue-date": "1923-12", "cdate": "1924-03-11", "number": "44"},
-       {"issue-date": "1924-04", "cdate": "1924-07-11", "number": "45"},
-       {"issue-date": "1924-07", "cdate": "1924-08-22", "number": "46"},
-       {"issue-date": "1924-10", "cdate": "1924-11-24", "number": "47"},
        {"issue-date": "1924-12", "cdate": "1925-02-28", "number": "48"},
        {"issue-date": "1925-04", "cdate": "1925-05-28", "number": "49"},
        {"issue-date": "1925-07", "cdate": "1925-08-31", "number": "50"},
@@ -22,5 +19,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-12-16"
+   "last-updated": "2020-01-03"
 }

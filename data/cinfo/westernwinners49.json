@@ -1,0 +1,30 @@
+{
+   "title": "Western Winners",
+   "title-note": "Marvel comic, 1949",
+   "contents": [
+      {"url": "https://www.comics.org/series/676/",
+       "note": "Grand Comics Database"}
+   ],
+   "preceded-by": [{"id": "allwestwin",
+                 "note": "All Western Winners (Marvel comic)"}],
+   "first-issue": {"issue-date": "1949-06", "number": "5"},
+   "first-renewed-issue-source": "1977-JulDec",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce",
+   "last-issue": {"issue-date": "1949-12", "number": "7"},
+   "succeeded-by": [{"id": "blackrider1950",
+                 "note": "Black Rider (comic, 1950-1955)"}],
+   "see-also": [{"id": "westernwinners35",
+                 "note": "Western Winners (fiction magazine, 1935-1936)"}],
+   "renewed-issue-completeness": "active/end",
+   "renewed-issues": [
+     {"issue-date": "1949-06", "number": "5"},
+     {"issue-date": "1949-09", "number": "6"},
+     {"issue-date": "1949-12", "number": "7"}
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2020-01-03"
+}

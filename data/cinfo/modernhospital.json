@@ -5,38 +5,11 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1924-03"}},
-   "first-renewed-contribution-source": "1952-JanJun",
+     {"issue": {"issue-date": "1925-03"}},
+   "first-renewed-contribution-source": "1952-JulDec",
    "last-issue": {"issue-date": "1974-03", "volume": "122", "number": "3"},
+   "renewed-contribution-completeness": "active/1929",
    "renewed-contributions": [
-       {"issue": {"issue-date": "1924-03"}, 
-        "title": "Basic Principles of Hospital",
-        "author": {
-         "authorized": "Goldwater, S. S. (Sigismund Schulz), 1873-1942",
-         "lcna": "no2004124639"
-        }
-       },
-       {"issue": {"issue-date": "1924-03"},
-        "title": "The Lost Art of Hospital Ventilation",
-        "author": {
-         "authorized": "Goldwater, S. S. (Sigismund Schulz), 1873-1942",
-         "lcna": "no2004124639"
-        }
-       },
-       {"issue": {"issue-date": "1924-05"},
-        "title": "On Certain Ambitions in Hospitals",
-        "author": {
-         "authorized": "Goldwater, S. S. (Sigismund Schulz), 1873-1942",
-         "lcna": "no2004124639"
-        }
-       },
-       {"issue": {"issue-date": "1924-06"},
-        "title": "On Humanizing the Hospital",
-        "author": {
-         "authorized": "Goldwater, S. S. (Sigismund Schulz), 1873-1942",
-         "lcna": "no2004124639"
-        }
-       },
        {"issue": {"issue-date": "1925-03"},
         "title": "How Many Ward Patients Need Separate Rooms?",
         "author": {
@@ -50,11 +23,62 @@
          "authorized": "Goldwater, S. S. (Sigismund Schulz), 1873-1942",
          "lcna": "no2004124639"
         }
+       },
+       {"issue": {"issue-date": "1927-01"},
+        "title": "Introducing the Chairman of the Building Committee",
+        "author": {
+         "authorized": "Goldwater, S. S. (Sigismund Schulz), 1873-1942",
+         "lcna": "no2004124639"
+        }
+       },
+       {"issue": {"issue-date": "1928-01"},
+        "title": "The Drift Toward Hospital Amalgamation",
+        "author": {
+         "authorized": "Goldwater, S. S. (Sigismund Schulz), 1873-1942",
+         "lcna": "no2004124639"
+        }
+       },
+       {"issue": {"issue-date": "1928-03"},
+        "title": "The Mount Sinai Hospital School of Nursing, New York City",
+        "author": {
+         "authorized": "Goldwater, S. S. (Sigismund Schulz), 1873-1942",
+         "lcna": "no2004124639"
+        }
+       },
+       {"issue": {"issue-date": "1928-04"},
+        "title": "Beth Israel Hospital, Newark, New Jersey",
+        "author": {
+         "authorized": "Goldwater, S. S. (Sigismund Schulz), 1873-1942",
+         "lcna": "no2004124639"
+        }
+       },
+       {"issue": {"issue-date": "1929-08"},
+        "title": "Economic and Administrative Aspects of Hospital Planning",
+        "title-note": "part 1 of 2",
+        "author": {
+         "authorized": "Goldwater, S. S. (Sigismund Schulz), 1873-1942",
+         "lcna": "no2004124639"
+        }
+       },
+       {"issue": {"issue-date": "1929-09"},
+        "title": "Economic and Administrative Aspects of Hospital Planning",
+        "title-note": "part 2 of 2",
+        "author": {
+         "authorized": "Goldwater, S. S. (Sigismund Schulz), 1873-1942",
+         "lcna": "no2004124639"
+        }
+       },
+       {"issue": {"issue-date": "1930-01"},
+        "title": "Corner Bunks or Island Beds",
+        "author": {
+         "authorized": "Goldwater, S. S. (Sigismund Schulz), 1873-1942",
+         "lcna": "no2004124639"
+        }
        }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-05-03"
+   "last-updated": "2020-01-19"
 }

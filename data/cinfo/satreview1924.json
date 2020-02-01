@@ -5,17 +5,10 @@
      {"issue-date": "1934-06-09", "volume": "10", "number": "47"},
    "first-renewed-issue-source": "1962-JanJun",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1924-09-06"}},
-   "first-renewed-contribution-source": "1951-JulDec",
-   "renewed-contribution-completeness": "active/1924",
+     {"issue": {"issue-date": "1925-04-25"}},
+   "first-renewed-contribution-source": "1953-JanJun",
+   "renewed-contribution-completeness": "active/1925",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1924-09-06"},
-      "title": "Rolling Home",
-       "author": {
-         "authorized": "McFee, William, 1881-1966",
-         "lcna": "n82053296"
-       }
-     },
      {"issue": {"issue-date": "1925-04-25"},
         "title": "Storms and Calms",
         "author": {
@@ -52,11 +45,25 @@
          "authorized": "Lowell, Amy, 1874-1925",
          "lcna": "n79076111"
         }
+     },
+     {"issue": {"issue-date": "1925-12-19"},
+        "title": "Fire Feathers",
+        "author": {
+         "authorized": "Beer, Thomas, 1889-1940",
+         "lcna": "n79151185"
+        }
+     },
+     {"issue": {"issue-date": "1926-04-10"},
+        "title": "Who Has Not, Cannot Have",
+        "author": {
+         "authorized": "Lowell, Amy, 1874-1925",
+         "lcna": "n79076111"
+        }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-05-29"
+   "last-updated": "2020-01-15"
 }

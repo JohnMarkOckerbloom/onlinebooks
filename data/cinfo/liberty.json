@@ -8,221 +8,74 @@
    ],
    "first-issue": {"issue-date": "1924-05-10", "volume": "1", "number": "1"},
    "first-renewed-issue": 
-           {"issue-date": "1924-05-10", "volume": "1", "number": "1"},
+     {"issue-date": "1925-01-10", "volume": "1", "number": "36",
+         "cdate": "1925-01-07"},
    "first-renewed-issue-source": "1952",
    "first-renewed-contribution": 
-      {"issue": {"issue-date": "1924-06-07", "volume": "1", "number": "5"}},
-   "first-renewed-contribution-source": "1951-JulDec",
-   "renewed-issue-completeness": "active/1924",
+      {"issue": {"issue-date": "1925-01-31", "volume": "1", "number": "39"}}, 
+   "first-renewed-contribution-source": "1952-JulDec",
+   "renewed-issue-completeness": "active/1925",
    "renewed-issues": [
-     {"issue-date": "1924-05-10", "volume": "1", "number": "1"},
-     {"issue-date": "1924-05-17", "volume": "1", "number": "2"},
-     {"issue-date": "1924-05-24", "volume": "1", "number": "3"},
-     {"issue-date": "1924-05-31", "volume": "1", "number": "4"},
-     {"issue-date": "1924-06-07", "volume": "1", "number": "5"},
-     {"issue-date": "1924-06-14", "volume": "1", "number": "6"},
-     {"issue-date": "1924-06-21", "volume": "1", "number": "7"},
-     {"issue-date": "1924-06-28", "volume": "1", "number": "8"},
-     {"issue-date": "1924-07-05", "volume": "1", "number": "9"},
-     {"issue-date": "1924-07-12", "volume": "1", "number": "10"},
-     {"issue-date": "1924-07-19", "volume": "1", "number": "11"},
-     {"issue-date": "1924-07-26", "volume": "1", "number": "12"},
-     {"issue-date": "1924-08-02", "volume": "1", "number": "13"},
-     {"issue-date": "1924-08-09", "volume": "1", "number": "14"},
-     {"issue-date": "1924-08-16", "volume": "1", "number": "15"},
-     {"issue-date": "1924-08-23", "volume": "1", "number": "16"},
-     {"issue-date": "1924-08-30", "volume": "1", "number": "17"},
-     {"issue-date": "1924-09-06", "volume": "1", "number": "18"},
-     {"issue-date": "1924-09-13", "volume": "1", "number": "19"},
-     {"issue-date": "1924-09-20", "volume": "1", "number": "20"},
-     {"issue-date": "1924-09-27", "volume": "1", "number": "21"},
-     {"issue-date": "1924-10-04", "volume": "1", "number": "22"},
-     {"issue-date": "1924-10-11", "volume": "1", "number": "23"},
-     {"issue-date": "1924-10-18", "volume": "1", "number": "24"},
-     {"issue-date": "1924-10-25", "volume": "1", "number": "25"},
-     {"issue-date": "1924-11-01", "volume": "1", "number": "26"},
-     {"issue-date": "1924-11-08", "volume": "1", "number": "27"},
-     {"issue-date": "1924-11-15", "volume": "1", "number": "28"},
-     {"issue-date": "1924-11-22", "volume": "1", "number": "29"},
-     {"issue-date": "1924-11-29", "volume": "1", "number": "30"},
-     {"issue-date": "1924-12-06", "volume": "1", "number": "31"},
-     {"issue-date": "1924-12-13", "volume": "1", "number": "32"},
-     {"issue-date": "1924-12-20", "volume": "1", "number": "33"},
-     {"issue-date": "1924-12-27", "volume": "1", "number": "34"},
-     {"issue-date": "1925-01-03", "volume": "1", "number": "35",
-         "cdate": "1924-12-31"},
      {"issue-date": "1925-01-10", "volume": "1", "number": "36",
          "cdate": "1925-01-07"},
      {"issue-date": "1925-01-17", "volume": "1", "number": "37"},
      {"issue-date": "1925-01-24", "volume": "1", "number": "38"},
      {"issue-date": "1925-01-31", "volume": "1", "number": "39"},
-     {"issue-date": "1925-02-07", "volume": "1", "number": "40"}
+     {"issue-date": "1925-02-07", "volume": "1", "number": "40"},
+     {"issue-date": "1925-02-14", "volume": "1", "number": "41"},
+     {"issue-date": "1925-02-21", "volume": "1", "number": "42"},
+     {"issue-date": "1925-02-28", "volume": "1", "number": "43"},
+     {"issue-date": "1925-03-07", "volume": "1", "number": "44"},
+     {"issue-date": "1925-03-14", "volume": "1", "number": "45"},
+     {"issue-date": "1925-03-21", "volume": "1", "number": "46"},
+     {"issue-date": "1925-03-28", "volume": "1", "number": "47"},
+     {"issue-date": "1925-04-04", "volume": "1", "number": "48"},
+     {"issue-date": "1925-04-11", "volume": "1", "number": "49"},
+     {"issue-date": "1925-04-18", "volume": "1", "number": "50"},
+     {"issue-date": "1925-04-25", "volume": "1", "number": "51"},
+     {"issue-date": "1925-05-02", "volume": "1", "number": "52"},
+     {"issue-date": "1925-05-09", "volume": "2", "number": "1"},
+     {"issue-date": "1925-05-16", "volume": "2", "number": "2"},
+     {"issue-date": "1925-05-23", "volume": "2", "number": "3"},
+     {"issue-date": "1925-05-30", "volume": "2", "number": "4"},
+     {"issue-date": "1925-06-06", "volume": "2", "number": "5"},
+     {"issue-date": "1925-06-13", "volume": "2", "number": "6"},
+     {"issue-date": "1925-06-20", "volume": "2", "number": "7"},
+     {"issue-date": "1925-06-27", "volume": "2", "number": "8"},
+     {"issue-date": "1925-07-04", "volume": "2", "number": "9"},
+     {"issue-date": "1925-07-11", "volume": "2", "number": "10"},
+     {"issue-date": "1925-07-18", "volume": "2", "number": "11"},
+     {"issue-date": "1925-07-25", "volume": "2", "number": "12"},
+     {"issue-date": "1925-08-01", "volume": "2", "number": "13"},
+     {"issue-date": "1925-08-08", "volume": "2", "number": "14"},
+     {"issue-date": "1925-08-15", "volume": "2", "number": "15"},
+     {"issue-date": "1925-08-22", "volume": "2", "number": "16"},
+     {"issue-date": "1925-08-29", "volume": "2", "number": "17"},
+     {"issue-date": "1925-09-05", "volume": "2", "number": "18"},
+     {"issue-date": "1925-09-12", "volume": "2", "number": "19"},
+     {"issue-date": "1925-09-19", "volume": "2", "number": "20"},
+     {"issue-date": "1925-09-26", "volume": "2", "number": "21"},
+     {"issue-date": "1925-10-03", "volume": "2", "number": "22"},
+     {"issue-date": "1925-10-10", "volume": "2", "number": "23"},
+     {"issue-date": "1925-10-17", "volume": "2", "number": "24"},
+     {"issue-date": "1925-10-24", "volume": "2", "number": "25"},
+     {"issue-date": "1925-10-31", "volume": "2", "number": "26"},
+     {"issue-date": "1925-11-07", "volume": "2", "number": "27"},
+     {"issue-date": "1925-11-14", "volume": "2", "number": "28"},
+     {"issue-date": "1925-11-21", "volume": "2", "number": "29"},
+     {"issue-date": "1925-11-28", "volume": "2", "number": "30"},
+     {"issue-date": "1925-12-05", "volume": "2", "number": "31"},
+     {"issue-date": "1925-12-12", "volume": "2", "number": "32"},
+     {"issue-date": "1925-12-19", "volume": "2", "number": "33"},
+     {"issue-date": "1925-12-26", "volume": "2", "number": "34"},
+     {"issue-date": "1925-01-02", "volume": "2", "number": "35",
+      "cdate": "1925-12-28"},
+     {"issue-date": "1925-01-09", "volume": "2", "number": "36",
+      "cdate": "1926-01-04"},
+     {"issue-date": "1926-01-16", "volume": "2", "number": "37"}
    ],
-   "renewed-contribution-completeness": "active/1924",
+   "renewed-contribution-completeness": "active/1925",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1924-06-07", "volume": "1", "number": "5"},
-      "title": "What of it?",
-      "author": {
-       "authorized": "Lardner, Ring, 1885-1933",
-       "lcna": "n79023324"
-      }
-     },
-     {"issue": {"issue-date": "1924-07-05", "volume": "1", "number": "9"},
-      "title": "The Sensible Thing",
-      "author": {
-       "authorized": "Fitzgerald, F. Scott (Francis Scott), 1896-1940",
-       "lcna": "n79006871"
-      }
-     },
-     {"issue": {"issue-date": "1924-08-02", "volume": "1", "number": "13"}, 
-      "title": "Angel Unawares",
-      "author": {
-         "authorized": "Gillmore, Inez Haynes, 1873-1970",
-         "lcna": "n85372376"
-       }
-     },
-     {"issue": {"issue-date": "1924-08-09", "volume": "1", "number": "14"}, 
-      "title": "Fans and Fanatics",
-      "note": "Title as given in CCE. FictionMags gives title as 'Fanatics and Fans'.  I have not checked the issue to see what title is used there.",
-      "author": {
-         "authorized": "Connell, Richard Edward, 1893-1949",
-         "lcna": "n50028704"
-       }
-     },
-     {"issue": {"issue-date": "1924-08-16", "volume": "1", "number": "15"},
-      "title": "In Conference",
-      "author": {
-       "authorized": "Lardner, Ring, 1885-1933",
-       "lcna": "n79023324"
-      }
-     },
-     {"issue": {"issue-date": "1924-08-16", "volume": "1", "number": "15"},
-      "title": "The Calico Cat",
-      "author": {
-       "authorized": "Williams, Ben Ames, 1889-1953",
-       "lcna": "n80006285"
-      }
-     },
-     {"issue": {"issue-date": "1924-09-06", "volume": "1", "number": "18"}, 
-      "title": "A Little Bit of Broadway",
-      "title-note": "part 1 of 4",
-      "author": {
-         "authorized": "Connell, Richard Edward, 1893-1949",
-         "lcna": "n50028704"
-       }
-     },
-     {"issue": {"issue-date": "1924-09-13", "volume": "1", "number": "19"}, 
-      "title": "A Little Bit of Broadway",
-      "title-note": "part 2 of 4",
-      "author": {
-         "authorized": "Connell, Richard Edward, 1893-1949",
-         "lcna": "n50028704"
-       }
-     },
-     {"issue": {"issue-date": "1924-09-20", "volume": "1", "number": "20"}, 
-      "title": "A Little Bit of Broadway",
-      "title-note": "part 3 of 4",
-      "author": {
-         "authorized": "Connell, Richard Edward, 1893-1949",
-         "lcna": "n50028704"
-       }
-     },
-     {"issue": {"issue-date": "1924-09-27", "volume": "1", "number": "21"}, 
-      "title": "A Little Bit of Broadway",
-      "title-note": "part 4 of 4",
-      "author": {
-         "authorized": "Connell, Richard Edward, 1893-1949",
-         "lcna": "n50028704"
-       }
-     },
-     {"issue": {"issue-date": "1924-10-04", "volume": "1", "number": "22"}, 
-      "title": "The Umps",
-      "author": {
-         "authorized": "Connell, Richard Edward, 1893-1949",
-         "lcna": "n50028704"
-       }
-     },
-     {"issue": {"issue-date": "1924-10-04", "volume": "1", "number": "22"}, 
-      "title": "The Highlighter",
-      "title-note": "part 1 of 2",
-      "note": "Per CCE renewal entry, which says part 1 appeared in this issue; FictionMags says that part 1 appeared in the September 27 issue and part 2 appeared in this issue.  I have not examined the issues in question.",
-      "author": {
-       "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
-       "lcna": "no90021257"
-      }
-     },
-     {"issue": {"issue-date": "1924-10-11", "volume": "1", "number": "23"},
-      "title": "An Underground Romance",
-      "author": {
-       "authorized": "Burnet, Dana, 1888-1962",
-       "lcna": "n88172670"
-      }
-     },
-     {"issue": {"issue-date": "1924-10-11", "volume": "1", "number": "23"},
-      "title": "The Highlighter",
-      "title-note": "part 2 of 2",
-      "note": "Per CCE renewal entry, which says part 2 appeared in this issue; FictionMags says that part 2 appeared in the October 4 issue. I have not examined the issues in question.",
-      "author": {
-       "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
-       "lcna": "no90021257"
-      }
-     },
-     {"issue": {"issue-date": "1924-10-25", "volume": "1", "number": "25"},
-      "title": "Words That Begin With K",
-      "author": {
-       "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
-       "lcna": "no90021257"
-      }
-     },
-     {"issue": {"issue-date": "1924-11-01", "volume": "1", "number": "26"},
-       "title": "It Did Happen",
-       "author": {
-         "authorized": "Adams, Samuel Hopkins, 1871-1958",
-         "lcna": "n50037535"
-       }
-     },
-     {"issue": {"issue-date": "1924-11-01", "volume": "1", "number": "26"},
-      "title": "Jolly Roger",
-      "author": {
-       "authorized": "Benét, Stephen Vincent, 1898-1943",
-       "lcna": "n50007691"
-      }
-     },
-     {"issue": {"issue-date": "1924-12-06", "volume": "1", "number": "31"},
-      "title": "Against All Comers",
-      "author": {
-       "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
-       "lcna": "no90021257"
-      }
-     },
-     {"issue": {"issue-date": "1924-12-13", "volume": "1", "number": "32"},
-      "title": "The Man Who Killed the Moose",
-      "author": {
-       "authorized": "Williams, Ben Ames, 1889-1953",
-       "lcna": "n80006285"
-      }
-     },
-     {"issue": {"issue-date": "1924-12-20", "volume": "1", "number": "33"}, 
-      "title": "The Great Unopen Spaces",
-      "author": {
-         "authorized": "Connell, Richard Edward, 1893-1949",
-         "lcna": "n50028704"
-       }
-     },
-     {"issue": {"issue-date": "1924-12-27", "volume": "1", "number": "34"},
-      "title": "Wings",
-      "author": {
-       "authorized": "Burnet, Dana, 1888-1962",
-       "lcna": "n88172670"
-      }
-     },
-     {"issue": {"issue-date": "1925-01-03", "volume": "1", "number": "35"}, 
-      "title": "Big Things in a Bigger Way",
-      "author": {
-         "authorized": "Connell, Richard Edward, 1893-1949",
-         "lcna": "n50028704"
-       }
-     },
      {"issue": {"issue-date": "1925-01-31", "volume": "1", "number": "39"}, 
       "title": "The Wild Wild Child",
       "author": {
@@ -499,7 +352,15 @@
          "lcna": "n80010314"
        }
      },
-     {"issue": {"issue-date": "1926-01-20", "volume": "2", "number": "39"},
+     {"issue": {"issue-date": "1926-01-30", "volume": "2", "number": "39"},
+      "title": "Downward to Paradise",
+      "title-note": "part 1 of 2",
+      "author": {
+       "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
+       "lcna": "no90021257"
+      }
+     },
+     {"issue": {"issue-date": "1926-01-30", "volume": "2", "number": "39"},
       "title": "Mannequin",
       "title-note": "part 9 of 12",
        "author": {
@@ -520,6 +381,14 @@
       "author": {
        "authorized": "Duganne, Phyllis, 1899-1976",
        "lcna": "n90719514"
+      }
+     },
+     {"issue": {"issue-date": "1926-02-06", "volume": "2", "number": "40"},
+      "title": "Downward to Paradise",
+      "title-note": "part 2 of 2",
+      "author": {
+       "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
+       "lcna": "no90021257"
       }
      },
      {"issue": {"issue-date": "1926-02-13", "volume": "2", "number": "41"},
@@ -560,11 +429,27 @@
        }
      },
      {"issue": {"issue-date": "1926-05-08", "volume": "3", "number": "1"},
+      "title": "Flying Death",
+      "title-note": "part 1 of 6",
+      "author": {
+       "authorized": "Balmer, Edwin, 1883-1959",
+       "lcna": "no92024746"
+      }
+     },
+     {"issue": {"issue-date": "1926-05-08", "volume": "3", "number": "1"},
       "title": "The Level Business Head",
       "author": {
          "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
          "lcna": "n78089036"
        }
+     },
+     {"issue": {"issue-date": "1926-05-15", "volume": "3", "number": "2"},
+      "title": "Flying Death",
+      "title-note": "part 2 of 6",
+      "author": {
+       "authorized": "Balmer, Edwin, 1883-1959",
+       "lcna": "no92024746"
+      }
      },
      {"issue": {"issue-date": "1926-05-22", "volume": "3", "number": "3"},
       "title": "Stop, Go",
@@ -573,12 +458,43 @@
        "lcna": "n90719514"
       }
      },
+     {"issue": {"issue-date": "1926-05-22", "volume": "3", "number": "3"},
+      "title": "Flying Death",
+      "title-note": "part 3 of 6",
+      "author": {
+       "authorized": "Balmer, Edwin, 1883-1959",
+       "lcna": "no92024746"
+      }
+     },
+     {"issue": {"issue-date": "1926-05-29", "volume": "3", "number": "4"}, 
+      "title": "The Champagne Roadster",
+      "author": {
+       "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
+       "lcna": "no90021257"
+      }
+     },
+     {"issue": {"issue-date": "1926-05-29", "volume": "3", "number": "4"}, 
+      "title": "Flying Death",
+      "title-note": "part 4 of 6",
+      "author": {
+       "authorized": "Balmer, Edwin, 1883-1959",
+       "lcna": "no92024746"
+      }
+     },
      {"issue": {"issue-date": "1926-06-05", "volume": "3", "number": "5"},
       "title": "Lord Emsworth Acts for the Best",
       "author": {
          "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
          "lcna": "n78089036"
        }
+     },
+     {"issue": {"issue-date": "1926-06-05", "volume": "3", "number": "5"},
+      "title": "Flying Death",
+      "title-note": "part 5 of 6",
+      "author": {
+       "authorized": "Balmer, Edwin, 1883-1959",
+       "lcna": "no92024746"
+      }
      },
      {"issue": {"issue-date": "1926-06-12", "volume": "3", "number": "6"},
       "title": "Farewell to the Moon",
@@ -595,16 +511,264 @@
       }
      },
      {"issue": {"issue-date": "1926-06-12", "volume": "3", "number": "6"},
+      "title": "Flying Death",
+      "title-note": "part 6 of 6",
+      "author": {
+       "authorized": "Balmer, Edwin, 1883-1959",
+       "lcna": "no92024746"
+      }
+     },
+     {"issue": {"issue-date": "1926-06-12", "volume": "3", "number": "6"},
       "title": "Why Not Cheat?",
       "author": {
        "authorized": "Benét, Stephen Vincent, 1898-1943",
        "lcna": "n50007691"
       }
+     },
+     {"issue": {"issue-date": "1926-06-26", "volume": "3", "number": "8"},
+      "title": "Without Surrender (Moon of Madness)",
+      "title-note": "part 1 of 2",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1926-07-03", "volume": "3", "number": "9"},
+      "title": "The Truth About George",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1926-07-03", "volume": "3", "number": "9"},
+      "title": "Without Surrender (Moon of Madness)",
+      "title-note": "part 2 of 2",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1926-07-10", "volume": "3", "number": "10"},
+      "title": "Moonlight and Honeysuckle",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1926-08-07", "volume": "3", "number": "14"},
+      "title": "A Slice of Life",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1926-08-14", "volume": "3", "number": "15"},
+      "title": "The Whirlwind",
+      "title-note": "part 1 of 5",
+      "author": {
+       "authorized": "Duganne, Phyllis, 1899-1976",
+       "lcna": "n90719514"
+      }
+     },
+     {"issue": {"issue-date": "1926-08-21", "volume": "3", "number": "16"},
+      "title": "Blackbeard and Co.",
+      "author": {
+       "authorized": "Benét, Stephen Vincent, 1898-1943",
+       "lcna": "n50007691"
+      }
+     },
+     {"issue": {"issue-date": "1926-08-21", "volume": "3", "number": "16"},
+      "title": "The Whirlwind",
+      "title-note": "part 2 of 5",
+      "author": {
+       "authorized": "Duganne, Phyllis, 1899-1976",
+       "lcna": "n90719514"
+      }
+     },
+     {"issue": {"issue-date": "1926-08-28", "volume": "3", "number": "17"},
+      "title": "The Whirlwind",
+      "title-note": "part 3 of 5",
+      "author": {
+       "authorized": "Duganne, Phyllis, 1899-1976",
+       "lcna": "n90719514"
+      }
+     },
+     {"issue": {"issue-date": "1926-09-04", "volume": "3", "number": "18"},
+      "title": "Mulliner's Buck-U-Uppo",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1926-09-04", "volume": "3", "number": "18"},
+      "title": "The Whirlwind",
+      "title-note": "part 4 of 5",
+      "author": {
+       "authorized": "Duganne, Phyllis, 1899-1976",
+       "lcna": "n90719514"
+      }
+     },
+     {"issue": {"issue-date": "1926-09-11", "volume": "3", "number": "19"},
+      "title": "The Whirlwind",
+      "title-note": "part 5 of 5",
+      "author": {
+       "authorized": "Duganne, Phyllis, 1899-1976",
+       "lcna": "n90719514"
+      }
+     },
+     {"issue": {"issue-date": "1926-09-18", "volume": "3", "number": "20"},
+      "title": "The Small Bachelor",
+      "title-note": "part 1 of 15",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1926-09-18", "volume": "3", "number": "20"},
+      "title": "The Irregular Debutante",
+      "author": {
+       "authorized": "Duganne, Phyllis, 1899-1976",
+       "lcna": "n90719514"
+      }
+     },
+     {"issue": {"issue-date": "1926-09-25", "volume": "3", "number": "21"},
+      "title": "The Small Bachelor",
+      "title-note": "part 2 of 15",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1926-09-25", "volume": "3", "number": "21"},
+      "title": "No Mother to Guide Her",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1926-10-02", "volume": "3", "number": "22"},
+      "title": "The Small Bachelor",
+      "title-note": "part 3 of 15",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1926-10-09", "volume": "3", "number": "23"},
+      "title": "The Small Bachelor",
+      "title-note": "part 4 of 15",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1926-10-16", "volume": "3", "number": "24"},
+      "title": "Not Gold Digger, Diamond Digger",
+      "author": {
+       "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
+       "lcna": "no90021257"
+      }
+     },
+     {"issue": {"issue-date": "1926-10-16", "volume": "3", "number": "24"},
+      "title": "The Small Bachelor",
+      "title-note": "part 5 of 15",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1926-10-23", "volume": "3", "number": "25"},
+      "title": "The Small Bachelor",
+      "title-note": "part 6 of 15",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1926-10-30", "volume": "3", "number": "26"},
+      "title": "The Small Bachelor",
+      "title-note": "part 7 of 15",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1926-11-06", "volume": "3", "number": "27"},
+      "title": "The Small Bachelor",
+      "title-note": "part 8 of 15",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1926-11-13", "volume": "3", "number": "28"},
+       "title": "A Man of Courage",
+       "author": {
+         "authorized": "Adams, Samuel Hopkins, 1871-1958",
+         "lcna": "n50037535"
+       }
+     },
+     {"issue": {"issue-date": "1926-11-13", "volume": "3", "number": "28"},
+      "title": "The Small Bachelor",
+      "title-note": "part 9 of 15",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1926-11-20", "volume": "3", "number": "29"},
+      "title": "The Small Bachelor",
+      "title-note": "part 10 of 15",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1926-11-27", "volume": "3", "number": "30"},
+      "title": "The Small Bachelor",
+      "title-note": "part 11 of 15",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1926-12-04", "volume": "3", "number": "31"},
+      "title": "The Small Bachelor",
+      "title-note": "part 12 of 15",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1926-12-11", "volume": "3", "number": "32"},
+      "title": "The Small Bachelor",
+      "title-note": "part 13 of 15",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1926-12-18", "volume": "3", "number": "33"},
+      "title": "The Small Bachelor",
+      "title-note": "part 14 of 15",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1926-12-25", "volume": "3", "number": "34"},
+      "title": "The Small Bachelor",
+      "title-note": "part 15 of 15",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
      }
    ],
+   "additional-note" : "Active contribution renewals are recorded beginning in the 1952 January-June CCE volume, but the earliest active renewed contribution is noted in the 1952 July-December volume.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-06-04"
+   "last-updated": "2020-01-09"
 }

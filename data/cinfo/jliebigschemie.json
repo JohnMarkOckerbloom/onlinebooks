@@ -1,18 +1,48 @@
 {
    "title": "Justus Liebigs Annalen der Chemie",
    "first-renewed-issue": 
-     {"cdate": "1924-01-19", "volume": "435"},
-   "first-renewed-issue-source": "1968",
+     {"cdate": "1925-01-26", "volume": "441"},
+   "first-renewed-issue-source": "1968-JulDec",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
+   "renewed-issue-completeness": "active/1928",
+   "renewed-issues": [
+     {"cdate": "1925-01-26", "volume": "441"},
+     {"cdate": "1925-04-03", "volume": "442"},
+     {"cdate": "1925-06-08", "volume": "443"},
+     {"cdate": "1925-08-20", "volume": "444"},
+     {"cdate": "1925-10-22", "volume": "445"},
+     {"cdate": "1926-01-20", "volume": "446"},
+     {"cdate": "1926-04-22", "volume": "447"},
+     {"cdate": "1926-07-16", "volume": "448"},
+     {"cdate": "1926-09-30", "volume": "449"},
+     {"cdate": "1926-11-29", "volume": "450"},
+     {"cdate": "1927-01-13", "volume": "451"},
+     {"cdate": "1927-03-16", "volume": "452"},
+     {"cdate": "1927-03-28", "volume": "453"},
+     {"cdate": "1927-05-07", "volume": "454"},
+     {"cdate": "1927-06-24", "volume": "455"},
+     {"cdate": "1927-08-05", "volume": "456"},
+     {"cdate": "1927-09-07", "volume": "457"},
+     {"cdate": "1927-11-09", "volume": "458"},
+     {"cdate": "1927-12-29", "volume": "459"},
+     {"cdate": "1928-02-25", "volume": "460"},
+     {"cdate": "1928-05-26", "volume": "461"},
+     {"cdate": "1928-05-31", "volume": "462"},
+     {"cdate": "1928-06-22", "volume": "463"},
+     {"cdate": "1928-07-13", "volume": "464"},
+     {"cdate": "1928-09-15", "volume": "465"},
+     {"cdate": "1928-10-24", "volume": "466"},
+     {"cdate": "1928-12-31", "volume": "467"}
+   ],
    "additional-notes": [
-    "Active volume renewals are recorded beginning in the 1953 January-June CCE Books volume, but the earliest volume with an active renewal is noted in the 1968 CCE Periodicals volume. Some volumes of this publication were renewed as Periodicals, and some as Books.",
-    "The renewals made in 1968 are for volumes reported to be copyrighted under the German Proclamation of July 12, 1967. The earliest volume reported in the 1968 renewals is volume 429, copyright November 3, 1922; we assume that the renewal for all the 1922 and 1923 copyrights mentioned have expired by 2019.",
+    "Active volume renewals are recorded beginning in the 1953 January-June CCE Books volume, but the earliest volume with an active renewal is noted in the July-December 1968 CCE Books volume. Some volumes of this publication were renewed as Periodicals, and some as Books.",
+    "The renewals made in 1968 are for volumes reported to be copyrighted under the German Proclamation of July 12, 1967. The earliest volume reported in the 1968 renewals is volume 429, copyright November 3, 1922; we assume that the renewal for all the 1922-1924 copyrights mentioned have expired by 2020.",
     "This is a German publication.  Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US."
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-06-26"
+   "last-updated": "2020-01-21"
 }

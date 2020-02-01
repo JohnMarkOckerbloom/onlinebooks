@@ -8,41 +8,17 @@
       "note": "FictionMags"}
    ],
    "first-renewed-issue": 
-    {"issue-date": "1924-01-07", "volume": "70", "number": "6"},
-   "first-renewed-issue-source": "1951-JanJun",
+     {"issue-date": "1925-01-07", "volume": "74", "number": "6"},
+   "first-renewed-issue-source": "1952",
    "first-renewed-contribution":
-    {"issue": {"issue-date": "1924-02-20", "volume": "71", "number": "3"}},
-   "first-renewed-contribution-source": "1951-JulDec",
+    {"issue": {"issue-date": "1925-01-07", "volume": "74", "number": "6"}},
+   "first-renewed-contribution-source": "1953-JanJun",
    "last-issue": {"issue-date": "1931-10", "volume": "103", "number": "6"},
    "see-also": [
       {"id": "completestories", "note": "Complete Stories"}
    ],
-   "renewed-issue-completeness": "active/1924",
+   "renewed-issue-completeness": "active/1925",
    "renewed-issues": [
-     {"issue-date": "1924-01-07", "volume": "70", "number": "6"},
-     {"issue-date": "1924-01-20", "volume": "71", "number": "1"},
-     {"issue-date": "1924-02-07", "volume": "71", "number": "2"},
-     {"issue-date": "1924-02-20", "volume": "71", "number": "3"},
-     {"issue-date": "1924-03-07", "volume": "71", "number": "4"},
-     {"issue-date": "1924-03-20", "volume": "71", "number": "5"},
-     {"issue-date": "1924-04-07", "volume": "71", "number": "6"},
-     {"issue-date": "1924-04-20", "volume": "72", "number": "1"},
-     {"issue-date": "1924-05-07", "volume": "72", "number": "2"},
-     {"issue-date": "1924-05-20", "volume": "72", "number": "3"},
-     {"issue-date": "1924-06-07", "volume": "72", "number": "4"},
-     {"issue-date": "1924-06-20", "volume": "72", "number": "5"},
-     {"issue-date": "1924-07-07", "volume": "72", "number": "6"},
-     {"issue-date": "1924-07-20", "volume": "73", "number": "1"},
-     {"issue-date": "1924-08-07", "volume": "73", "number": "2"},
-     {"issue-date": "1924-08-20", "volume": "73", "number": "3"},
-     {"issue-date": "1924-09-07", "volume": "73", "number": "4"},
-     {"issue-date": "1924-09-20", "volume": "73", "number": "5"},
-     {"issue-date": "1924-10-07", "volume": "73", "number": "6"},
-     {"issue-date": "1924-10-20", "volume": "74", "number": "1"},
-     {"issue-date": "1924-11-07", "volume": "74", "number": "2"},
-     {"issue-date": "1924-11-20", "volume": "74", "number": "3"},
-     {"issue-date": "1924-12-07", "volume": "74", "number": "4"},
-     {"issue-date": "1924-12-20", "volume": "74", "number": "5"},
      {"issue-date": "1925-01-07", "volume": "74", "number": "6"},
      {"issue-date": "1925-01-20", "volume": "75", "number": "1"},
      {"issue-date": "1925-02-07", "volume": "75", "number": "2"},
@@ -65,31 +41,32 @@
      {"issue-date": "1925-10-20", "volume": "78", "number": "1"},
      {"issue-date": "1925-11-07", "volume": "78", "number": "2"},
      {"issue-date": "1925-11-20", "volume": "78", "number": "3"},
-     {"issue-date": "1925-12-07", "volume": "78", "number": "4"}
+     {"issue-date": "1925-12-07", "volume": "78", "number": "4"},
+     {"issue-date": "1925-12-20", "volume": "78", "number": "5"}, 
+     {"issue-date": "1926-01-07", "volume": "78", "number": "6"},
+     {"issue-date": "1926-01-20", "volume": "79", "number": "1"},
+     {"issue-date": "1926-02-07", "volume": "79", "number": "2"},
+     {"issue-date": "1926-02-20", "volume": "79", "number": "3"},
+     {"issue-date": "1926-03-07", "volume": "79", "number": "4"},
+     {"issue-date": "1926-03-20", "volume": "79", "number": "5"},
+     {"issue-date": "1926-04-07", "volume": "79", "number": "6"},
+     {"issue-date": "1926-04-20", "volume": "80", "number": "1"},
+     {"issue-date": "1926-05-07", "volume": "80", "number": "2"},
+     {"issue-date": "1926-05-20", "volume": "80", "number": "3"},
+     {"issue-date": "1926-06-07", "volume": "80", "number": "4"},
+     {"issue-date": "1926-06-20", "volume": "80", "number": "5"},
+     {"issue-date": "1926-07-07", "volume": "80", "number": "6"},
+     {"issue-date": "1926-07-20", "volume": "81", "number": "1"},
+     {"issue-date": "1926-08-07", "volume": "81", "number": "2"},
+     {"issue-date": "1926-08-20", "volume": "81", "number": "3"},
+     {"issue-date": "1926-09-07", "volume": "81", "number": "4"},
+     {"issue-date": "1926-09-20", "volume": "81", "number": "5"},
+     {"issue-date": "1926-10-07", "volume": "81", "number": "6"},
+     {"issue-date": "1926-10-20", "volume": "82", "number": "1"},
+     {"issue-date": "1926-11-07", "volume": "82", "number": "2"}
    ],
-   "renewed-contribution-completeness": "active/1924",
+   "renewed-contribution-completeness": "active/1925",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1924-02-20", "volume": "71", "number": "3"},
-      "title": "A Fighting Fool",
-      "author": {
-       "authorized": "Lynde, Francis, 1856-1930",
-       "lcna": "n88093606"
-      }
-     },
-     {"issue": {"issue-date": "1924-05-07", "volume": "72", "number": "2"},
-      "title": "Seward's Folly",
-      "author": {
-       "authorized": "Marshall, Edison, 1894-1967",
-       "lcna": "nr95034360"
-      }
-     },
-     {"issue": {"issue-date": "1924-05-20", "volume": "72", "number": "3"},
-      "title": "The Silver Moon",
-      "author": {
-       "authorized": "Lynde, Francis, 1856-1930",
-       "lcna": "n88093606"
-      }
-     },
      {"issue": {"issue-date": "1925-01-07", "volume": "74", "number": "6"},
       "title": "Temescal",
       "title-note": "part 1 of 5",
@@ -144,12 +121,28 @@
        "authorized": "McNeile, H. C. (Herman Cyril), 1888-1937",
        "lcna": "no96039399"
       }
+     },
+     {"issue": {"issue-date": "1926-02-07", "volume": "79", "number": "2"},
+      "title": "Light of the West",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1926-10-07", "volume": "81", "number": "6"},
+      "title": "The Mystery of Uncle Bollard",
+      "author": {
+       "authorized": "Stacpoole, H. De Vere (Henry De Vere), 1863-1951",
+       "lcna": "n84006520"
+      }
      }
    ],
-   "additional-note": "This magazine was absorbed by Complete Stories in October 1931. That magazine then published as The Popular Complete Stories until July 1932.",
+   "additional-notes" : [
+      "Active contribution renewals are recorded beginning in the 1952 July-December CCE volume, but the earliest actively renewed contribution is noted in the 1953 January-June volume.",
+     "This magazine was absorbed by Complete Stories in October 1931. That magazine then published as The Popular Complete Stories until July 1932."],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-05-29"
+   "last-updated": "2020-01-18"
 }

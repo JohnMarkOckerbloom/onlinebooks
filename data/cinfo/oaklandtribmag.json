@@ -4,23 +4,10 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1924-03-16"}},
-   "first-renewed-contribution-source": "1951-JanJun",
+     {"issue": {"issue-date": "1925-02-01"}},
+   "first-renewed-contribution-source": "1952-JanJun",
+   "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1924-03-16"},
-      "title": "The Running Noose and its Use in Forty-Nine",
-       "author": {
-         "authorized": "Peterson, Harry C. (Harry Claude), 1876-1941",
-         "lcna": "n93030652"
-       }
-     },
-     {"issue": {"issue-date": "1924-04-06"},
-      "title": "Lippy Luxe, the Lonesome Liar of Likker Gulch. 2d Portion, A Turrible Imagination and a Gold-Plated Man",
-       "author": {
-         "authorized": "Peterson, Harry C. (Harry Claude), 1876-1941",
-         "lcna": "n93030652"
-       }
-     },
      {"issue": {"issue-date": "1925-02-01"},
       "title": "White Death That Rode on Wings",
        "author": {
@@ -55,5 +42,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-05-04"
+   "last-updated": "2020-01-20"
 }

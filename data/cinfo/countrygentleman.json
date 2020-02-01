@@ -2,67 +2,14 @@
    "title": "Country Gentleman",
    "online": "1",
    "first-renewed-issue": 
-     {"issue-date": "1924-01-05", "volume": "89", "number": "1"},
-   "first-renewed-issue-source": "1951-JulDec",
+     {"issue-date": "1925-01-10", "volume": "90", "number": "2",
+         "cdate": "1925-01-08"},
+   "first-renewed-issue-source": "1952",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1924-01-05", "volume": "89", "number": "1"}},
-   "first-renewed-contribution-source": "1951-JanJun",
-   "renewed-issue-completeness": "active/1924",
+     {"issue": {"issue-date": "1925-01-10", "volume": "90", "number": "2"}},
+   "first-renewed-contribution-source": "1952-JulDec",
+   "renewed-issue-completeness": "active/1925",
    "renewed-issues": [
-     {"issue-date": "1924-01-05", "volume": "89", "number": "1"},
-     {"issue-date": "1924-01-12", "volume": "89", "number": "2"},
-     {"issue-date": "1924-01-19", "volume": "89", "number": "3"},
-     {"issue-date": "1924-01-26", "volume": "89", "number": "4"},
-     {"issue-date": "1924-02-02", "volume": "89", "number": "5"},
-     {"issue-date": "1924-02-09", "volume": "89", "number": "6"},
-     {"issue-date": "1924-02-16", "volume": "89", "number": "7"},
-     {"issue-date": "1924-02-23", "volume": "89", "number": "8"},
-     {"issue-date": "1924-03-01", "volume": "89", "number": "9"},
-     {"issue-date": "1924-03-08", "volume": "89", "number": "10"},
-     {"issue-date": "1924-03-15", "volume": "89", "number": "11"},
-     {"issue-date": "1924-03-22", "volume": "89", "number": "12"},
-     {"issue-date": "1924-03-29", "volume": "89", "number": "13"},
-     {"issue-date": "1924-04-05", "volume": "89", "number": "14"},
-     {"issue-date": "1924-04-12", "volume": "89", "number": "15"},
-     {"issue-date": "1924-04-19", "volume": "89", "number": "16"},
-     {"issue-date": "1924-04-26", "volume": "89", "number": "17"},
-     {"issue-date": "1924-05-03", "volume": "89", "number": "18"},
-     {"issue-date": "1924-05-10", "volume": "89", "number": "19"},
-     {"issue-date": "1924-05-17", "volume": "89", "number": "20"},
-     {"issue-date": "1924-05-24", "volume": "89", "number": "21"},
-     {"issue-date": "1924-05-31", "volume": "89", "number": "22"},
-     {"issue-date": "1924-06-07", "volume": "89", "number": "23"},
-     {"issue-date": "1924-06-14", "volume": "89", "number": "24"},
-     {"issue-date": "1924-06-21", "volume": "89", "number": "25"},
-     {"issue-date": "1924-06-28", "volume": "89", "number": "26"},
-     {"issue-date": "1924-07-05", "volume": "89", "number": "27"},
-     {"issue-date": "1924-07-12", "volume": "89", "number": "28"},
-     {"issue-date": "1924-07-19", "volume": "89", "number": "29"},
-     {"issue-date": "1924-07-26", "volume": "89", "number": "30"},
-     {"issue-date": "1924-08-02", "volume": "89", "number": "31"},
-     {"issue-date": "1924-08-09", "volume": "89", "number": "32"},
-     {"issue-date": "1924-08-16", "volume": "89", "number": "33"},
-     {"issue-date": "1924-08-23", "volume": "89", "number": "34"},
-     {"issue-date": "1924-08-30", "volume": "89", "number": "35"},
-     {"issue-date": "1924-09-06", "volume": "89", "number": "36"},
-     {"issue-date": "1924-09-13", "volume": "89", "number": "37"},
-     {"issue-date": "1924-09-20", "volume": "89", "number": "38"},
-     {"issue-date": "1924-09-27", "volume": "89", "number": "39"},
-     {"issue-date": "1924-10-04", "volume": "89", "number": "40"},
-     {"issue-date": "1924-10-11", "volume": "89", "number": "41"},
-     {"issue-date": "1924-10-18", "volume": "89", "number": "42"},
-     {"issue-date": "1924-10-25", "volume": "89", "number": "43"},
-     {"issue-date": "1924-11-01", "volume": "89", "number": "44"},
-     {"issue-date": "1924-11-08", "volume": "89", "number": "45"},
-     {"issue-date": "1924-11-15", "volume": "89", "number": "46"},
-     {"issue-date": "1924-11-22", "volume": "89", "number": "47"},
-     {"issue-date": "1924-11-29", "volume": "89", "number": "48"},
-     {"issue-date": "1924-12-06", "volume": "89", "number": "49"},
-     {"issue-date": "1924-12-13", "volume": "89", "number": "50"},
-     {"issue-date": "1924-12-20", "volume": "89", "number": "51"},
-     {"issue-date": "1924-12-27", "volume": "89", "number": "52"},
-     {"issue-date": "1925-01-03", "volume": "90", "number": "1",
-         "cdate": "1924-12-31"},
      {"issue-date": "1925-01-10", "volume": "90", "number": "2",
          "cdate": "1925-01-08"},
      {"issue-date": "1925-01-17", "volume": "90", "number": "3"},
@@ -88,428 +35,30 @@
      {"issue-date": "1925-06-06", "volume": "90", "number": "23"},
      {"issue-date": "1925-06-13", "volume": "90", "number": "24"},
      {"issue-date": "1925-06-20", "volume": "90", "number": "25"},
-     {"issue-date": "1925-06-27", "volume": "90", "number": "26"}
+     {"issue-date": "1925-06-27", "volume": "90", "number": "26"},
+     {"issue-date": "1925-07-04", "volume": "90", "number": "27"},
+     {"issue-date": "1925-07-11", "volume": "90", "number": "28"},
+     {"issue-date": "1925-07-18", "volume": "90", "number": "29"},
+     {"issue-date": "1925-07-25", "volume": "90", "number": "30"},
+     {"issue-date": "1925-08-01", "volume": "90", "number": "31"},
+     {"issue-date": "1925-08-08", "volume": "90", "number": "32"},
+     {"issue-date": "1925-08-15", "volume": "90", "number": "33"},
+     {"issue-date": "1925-08-22", "volume": "90", "number": "34"},
+     {"issue-date": "1925-09", "volume": "90", "number": "35"},
+     {"issue-date": "1925-10", "volume": "90", "number": "36"},
+     {"issue-date": "1925-11", "volume": "90", "number": "37"},
+     {"issue-date": "1925-12", "volume": "90", "number": "38"},
+     {"issue-date": "1926-01", "volume": "91", "number": "1",
+      "cdate": "1925-12-31"},
+     {"issue-date": "1926-02", "volume": "91", "number": "2"},
+     {"issue-date": "1926-03", "volume": "91", "number": "3"},
+     {"issue-date": "1926-04", "volume": "91", "number": "4"},     
+     {"issue-date": "1926-05", "volume": "91", "number": "5"},
+     {"issue-date": "1926-06", "volume": "91", "number": "6"},
+     {"issue-date": "1926-07", "volume": "91", "number": "7"}
    ],
-   "renewed-contribution-completeness": "active/1924",
+   "renewed-contribution-completeness": "active/1928",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1924-01-05"}, 
-      "title": "Grudge Mountain",
-      "title-note": "part 4 of 10",
-      "author": {
-       "authorized": "Terhune, Albert Payson, 1872-1942",
-       "lcna": "n50009920"
-      }
-     },
-     {"issue": {"issue-date": "1924-01-12"}, 
-      "title": "Grudge Mountain",
-      "title-note": "part 5 of 10",
-      "author": {
-       "authorized": "Terhune, Albert Payson, 1872-1942",
-       "lcna": "n50009920"
-      }
-     },
-     {"issue": {"issue-date": "1924-01-19"}, 
-      "title": "Grudge Mountain",
-      "title-note": "part 6 of 10",
-      "author": {
-       "authorized": "Terhune, Albert Payson, 1872-1942",
-       "lcna": "n50009920"
-      }
-     },
-     {"issue": {"issue-date": "1924-01-26"}, 
-      "title": "Grudge Mountain",
-      "title-note": "part 7 of 10",
-      "author": {
-       "authorized": "Terhune, Albert Payson, 1872-1942",
-       "lcna": "n50009920"
-      }
-     },
-     {"issue": {"issue-date": "1924-02-02"}, 
-      "title": "Grudge Mountain",
-      "title-note": "part 8 of 10",
-      "author": {
-       "authorized": "Terhune, Albert Payson, 1872-1942",
-       "lcna": "n50009920"
-      }
-     },
-     {"issue": {"issue-date": "1924-02-09"}, 
-      "title": "Grudge Mountain",
-      "title-note": "part 9 of 10",
-      "author": {
-       "authorized": "Terhune, Albert Payson, 1872-1942",
-       "lcna": "n50009920"
-      }
-     },
-     {"issue": {"issue-date": "1924-02-16"}, 
-      "title": "Grudge Mountain",
-      "title-note": "part 10 of 10",
-      "author": {
-       "authorized": "Terhune, Albert Payson, 1872-1942",
-       "lcna": "n50009920"
-      }
-     },
-     {"issue": {"issue-date": "1924-02-16"}, 
-      "title": "The Redfields",
-      "title-note": "part 1 of 10",
-      "author": {
-       "authorized": "Richmond, Grace S. (Grace Smith), 1866-1959",
-       "lcna": "n90608121"
-      }
-     },
-     {"issue": {"issue-date": "1924-02-23"}, 
-      "title": "The Redfields",
-      "title-note": "part 2 of 10",
-      "author": {
-       "authorized": "Richmond, Grace S. (Grace Smith), 1866-1959",
-       "lcna": "n90608121"
-      }
-     },
-     {"issue": {"issue-date": "1924-03-01"}, 
-      "title": "The Redfields",
-      "title-note": "part 3 of 10",
-      "author": {
-       "authorized": "Richmond, Grace S. (Grace Smith), 1866-1959",
-       "lcna": "n90608121"
-      }
-     },
-     {"issue": {"issue-date": "1924-03-01"}, 
-      "title": "Tonto Bear",
-      "title-note": "part 1 of 2",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1924-03-08"}, 
-      "title": "The Redfields",
-      "title-note": "part 4 of 10",
-      "author": {
-       "authorized": "Richmond, Grace S. (Grace Smith), 1866-1959",
-       "lcna": "n90608121"
-      }
-     },
-     {"issue": {"issue-date": "1924-03-08"}, 
-      "title": "Tonto Bear",
-      "title-note": "part 2 of 2",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1924-03-15"}, 
-      "title": "The Redfields",
-      "title-note": "part 5 of 10",
-      "author": {
-       "authorized": "Richmond, Grace S. (Grace Smith), 1866-1959",
-       "lcna": "n90608121"
-      }
-     },
-     {"issue": {"issue-date": "1924-03-22"}, 
-      "title": "The Redfields",
-      "title-note": "part 6 of 10",
-      "author": {
-       "authorized": "Richmond, Grace S. (Grace Smith), 1866-1959",
-       "lcna": "n90608121"
-      }
-     },
-     {"issue": {"issue-date": "1924-03-29"}, 
-      "title": "The Redfields",
-      "title-note": "part 7 of 10",
-      "author": {
-       "authorized": "Richmond, Grace S. (Grace Smith), 1866-1959",
-       "lcna": "n90608121"
-      }
-     },
-     {"issue": {"issue-date": "1924-04-05"}, 
-      "title": "The Redfields",
-      "title-note": "part 8 of 10",
-      "author": {
-       "authorized": "Richmond, Grace S. (Grace Smith), 1866-1959",
-       "lcna": "n90608121"
-      }
-     },
-     {"issue": {"issue-date": "1924-04-12"}, 
-      "title": "The Redfields",
-      "title-note": "part 9 of 10",
-      "author": {
-       "authorized": "Richmond, Grace S. (Grace Smith), 1866-1959",
-       "lcna": "n90608121"
-      }
-     },
-     {"issue": {"issue-date": "1924-04-12"}, 
-      "title": "The Heights of Wild Horse Mesa",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1924-04-19"}, 
-      "title": "The Redfields",
-      "title-note": "part 10 of 10",
-      "author": {
-       "authorized": "Richmond, Grace S. (Grace Smith), 1866-1959",
-       "lcna": "n90608121"
-      }
-     },
-     {"issue": {"issue-date": "1924-04-19"}, 
-      "title": "Wild Horse Mesa",
-      "title-note": "part 1 of 12",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1924-04-26"}, 
-      "title": "Wild Horse Mesa",
-      "title-note": "part 2 of 12",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1924-05-03"}, 
-      "title": "Wild Horse Mesa",
-      "title-note": "part 3 of 12",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1924-05-10"}, 
-      "title": "Wild Horse Mesa",
-      "title-note": "part 4 of 12",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1924-05-17"}, 
-      "title": "Wild Horse Mesa",
-      "title-note": "part 5 of 12",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1924-05-24"}, 
-      "title": "Wild Horse Mesa",
-      "title-note": "part 6 of 12",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1924-05-31"}, 
-      "title": "Wild Horse Mesa",
-      "title-note": "part 7 of 12",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1924-06-07"}, 
-      "title": "Ripe Wheat",
-      "author": {
-       "authorized": "Bercovici, Konrad, 1882-1961",
-       "lcna": "n50006835"
-      }
-     },
-     {"issue": {"issue-date": "1924-06-07"}, 
-      "title": "Wild Horse Mesa",
-      "title-note": "part 8 of 12",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1924-06-14"}, 
-      "title": "Wild Horse Mesa",
-      "title-note": "part 9 of 12",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1924-06-21"}, 
-      "title": "Wild Horse Mesa",
-      "title-note": "part 10 of 12",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1924-06-28"}, 
-      "title": "Wild Horse Mesa",
-      "title-note": "part 11 of 12",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1924-07-05"}, 
-      "title": "Wild Horse Mesa",
-      "title-note": "part 12 of 12",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1924-07-05"}, 
-      "title": "Rugged Waters",
-      "title-note": "part 1 of 12",
-      "author": {
-         "authorized": "Lincoln, Joseph Crosby, 1870-1944",
-         "lcna": "n81010311"
-      }
-     },
-     {"issue": {"issue-date": "1924-07-12"}, 
-      "title": "Rugged Waters",
-      "title-note": "part 2 of 12",
-      "author": {
-         "authorized": "Lincoln, Joseph Crosby, 1870-1944",
-         "lcna": "n81010311"
-      }
-     },
-     {"issue": {"issue-date": "1924-07-19"}, 
-      "title": "Rugged Waters",
-      "title-note": "part 3 of 12",
-      "author": {
-         "authorized": "Lincoln, Joseph Crosby, 1870-1944",
-         "lcna": "n81010311"
-      }
-     },
-     {"issue": {"issue-date": "1924-07-26"}, 
-      "title": "Rugged Waters",
-      "title-note": "part 4 of 12",
-      "author": {
-         "authorized": "Lincoln, Joseph Crosby, 1870-1944",
-         "lcna": "n81010311"
-      }
-     },
-     {"issue": {"issue-date": "1924-08-02"}, 
-      "title": "Rugged Waters",
-      "title-note": "part 5 of 12",
-      "author": {
-         "authorized": "Lincoln, Joseph Crosby, 1870-1944",
-         "lcna": "n81010311"
-      }
-     },
-     {"issue": {"issue-date": "1924-08-09"}, 
-      "title": "Rugged Waters",
-      "title-note": "part 6 of 12",
-      "author": {
-         "authorized": "Lincoln, Joseph Crosby, 1870-1944",
-         "lcna": "n81010311"
-      }
-     },
-     {"issue": {"issue-date": "1924-08-16"}, 
-      "title": "Rugged Waters",
-      "title-note": "part 7 of 12",
-      "author": {
-         "authorized": "Lincoln, Joseph Crosby, 1870-1944",
-         "lcna": "n81010311"
-      }
-     },
-     {"issue": {"issue-date": "1924-08-23"}, 
-      "title": "Rugged Waters",
-      "title-note": "part 8 of 12",
-      "author": {
-         "authorized": "Lincoln, Joseph Crosby, 1870-1944",
-         "lcna": "n81010311"
-      }
-     },
-     {"issue": {"issue-date": "1924-08-30"}, 
-      "title": "Rugged Waters",
-      "title-note": "part 9 of 12",
-      "author": {
-         "authorized": "Lincoln, Joseph Crosby, 1870-1944",
-         "lcna": "n81010311"
-      }
-     },
-     {"issue": {"issue-date": "1924-09-06"}, 
-      "title": "Rugged Waters",
-      "title-note": "part 10 of 12",
-      "author": {
-         "authorized": "Lincoln, Joseph Crosby, 1870-1944",
-         "lcna": "n81010311"
-      }
-     },
-     {"issue": {"issue-date": "1924-09-13"}, 
-      "title": "Rugged Waters",
-      "title-note": "part 11 of 12",
-      "author": {
-         "authorized": "Lincoln, Joseph Crosby, 1870-1944",
-         "lcna": "n81010311"
-      }
-     },
-     {"issue": {"issue-date": "1924-09-20"}, 
-      "title": "Rugged Waters",
-      "title-note": "part 12 of 12",
-      "author": {
-         "authorized": "Lincoln, Joseph Crosby, 1870-1944",
-         "lcna": "n81010311"
-      }
-     },
-     {"issue": {"issue-date": "1924-10-04"}, 
-      "title": "Gulf Stream Luck",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1924-10-11"}, 
-      "title": "Everglades Tarpon",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1924-10-18"}, 
-      "title": "Fighting Fish",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1924-10-25"}, 
-      "title": "Big Ones We Caught - and Lost",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1924-11-01"}, 
-      "title": "End of a Perfect Fishing Day",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1924-11-29"}, 
-      "title": "After the Storm",
-      "author": {
-       "authorized": "Bercovici, Konrad, 1882-1961",
-       "lcna": "n50006835"
-      }
-     },
-     {"issue": {"issue-date": "1924-12-27"},
-      "title": "Dark Rosaleen",
-      "title-note": "part 1 of 5",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1925-01-03"},
-      "title": "Dark Rosaleen",
-      "title-note": "part 2 of 5",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
      {"issue": {"issue-date": "1925-01-10"},
       "title": "Dark Rosaleen",
       "title-note": "part 3 of 5",
@@ -681,17 +230,421 @@
          "lcna": "n50037535"
        }
      },
+     {"issue": {"issue-date": "1926-04"}, 
+      "title": "Shooting the Rogue",
+      "title-note": "part 1 of 2",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
      {"issue": {"issue-date": "1926-05"},
       "title": "The Sobbin' Women",
       "author": {
        "authorized": "Benét, Stephen Vincent, 1898-1943",
        "lcna": "n50007691"
       }
+     },
+     {"issue": {"issue-date": "1926-04"}, 
+      "title": "Shooting the Rogue",
+      "title-note": "part 2 of 2",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1926-06"},
+      "title": "The Thunderer",
+      "title-note": "part 1 of 4",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1926-07"},
+      "title": "The Thunderer",
+      "title-note": "part 2 of 4",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1926-08"},
+      "title": "The Thunderer",
+      "title-note": "part 3 of 4",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1926-09"},
+      "title": "The Thunderer",
+      "title-note": "part 4 of 4",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1926-10"}, 
+      "title": "Sirocco",
+      "author": {
+       "authorized": "Bercovici, Konrad, 1882-1961",
+       "lcna": "n50006835"
+      }
+     },
+     {"issue": {"issue-date": "1926-11"},
+      "title": "Miss Willie Lou and the Swan",
+      "author": {
+       "authorized": "Benét, Stephen Vincent, 1898-1943",
+       "lcna": "n50007691"
+      }
+     },
+     {"issue": {"issue-date": "1927-01"}, 
+      "title": "Sheep Raising in New Zealand",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1927-02"}, 
+      "title": "My Son's First Bear",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1927-02"}, 
+      "title": "Islanders",
+      "author": {
+         "authorized": "Titus, Harold, 1888-1967",
+         "lcna": "no2008175553"
+      }
+     },
+     {"issue": {"issue-date": "1927-03"}, 
+      "title": "Open Range",
+      "title-note": "part 1 of 5",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1927-04"}, 
+      "title": "Open Range",
+      "title-note": "part 2 of 5",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1927-04"}, 
+      "title": "The Soil and the Sea",
+      "author": {
+         "authorized": "Titus, Harold, 1888-1967",
+         "lcna": "no2008175553"
+      }
+     },
+     {"issue": {"issue-date": "1927-05"}, 
+      "title": "Open Range",
+      "title-note": "part 3 of 5",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1927-05"}, 
+      "title": "Lights Up",
+      "title-note": "part 1 of 5",
+      "author": {
+         "authorized": "Richmond, Grace S. (Grace Smith), 1866-1959",
+         "lcna": "n90608121"
+      }
+     },
+     {"issue": {"issue-date": "1927-06"}, 
+      "title": "Open Range",
+      "title-note": "part 4 of 5",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1927-06"}, 
+      "title": "Lights Up",
+      "title-note": "part 2 of 5",
+      "author": {
+         "authorized": "Richmond, Grace S. (Grace Smith), 1866-1959",
+         "lcna": "n90608121"
+      }
+     },
+     {"issue": {"issue-date": "1927-07"}, 
+      "title": "Open Range",
+      "title-note": "part 5 of 5",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1927-07"}, 
+      "title": "Lights Up",
+      "title-note": "part 3 of 5",
+      "author": {
+         "authorized": "Richmond, Grace S. (Grace Smith), 1866-1959",
+         "lcna": "n90608121"
+      }
+     },
+     {"issue": {"issue-date": "1927-07"}, 
+      "title": "The Pavilion Queen",
+      "author": {
+         "name": "Ida M. Evans"
+      }
+     },
+     {"issue": {"issue-date": "1927-08"}, 
+      "title": "Lights Up",
+      "title-note": "part 4 of 5",
+      "author": {
+         "authorized": "Richmond, Grace S. (Grace Smith), 1866-1959",
+         "lcna": "n90608121"
+      }
+     },
+     {"issue": {"issue-date": "1927-09"}, 
+      "title": "Lights Up",
+      "title-note": "part 5 of 5",
+      "author": {
+         "authorized": "Richmond, Grace S. (Grace Smith), 1866-1959",
+         "lcna": "n90608121"
+      }
+     },
+     {"issue": {"issue-date": "1927-10"}, 
+      "title": "The Seat of Violence",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
+     {"issue": {"issue-date": "1927-11"},
+      "title": "The Fool Killer",
+      "author": {
+       "authorized": "Benét, Stephen Vincent, 1898-1943",
+       "lcna": "n50007691"
+      }
+     },
+     {"issue": {"issue-date": "1928-02"}, 
+      "title": "The Avalanche",
+      "title-note": "part 1 of 3",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1928-02"}, 
+      "title": "Laughingstock",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
+     {"issue": {"issue-date": "1928-03"},
+      "title": "The Lucksmith",
+      "author": {
+       "authorized": "Benét, Stephen Vincent, 1898-1943",
+       "lcna": "n50007691"
+      }
+     },
+     {"issue": {"issue-date": "1928-03"}, 
+      "title": "The Avalanche",
+      "title-note": "part 2 of 3",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1928-04"}, 
+      "title": "The Avalanche",
+      "title-note": "part 3 of 3",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1928-04"}, 
+      "title": "An Ancient Apparition",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
+     {"issue": {"issue-date": "1928-05"}, 
+      "title": "Brother-in-Law",
+      "author": {
+         "authorized": "Titus, Harold, 1888-1967",
+         "lcna": "no2008175553"
+      }
+     },
+     {"issue": {"issue-date": "1928-07"}, 
+      "title": "The Tiger God Comes Home",
+      "author": {
+       "authorized": "Squier, Emma-Lindsay, 1892-",
+       "lcna": "no2007059420"
+      }
+     },
+     {"issue": {"issue-date": "1928-08"}, 
+      "title": "Running Free",
+      "author": {
+         "authorized": "Titus, Harold, 1888-1967",
+         "lcna": "no2008175553"
+      }
+     },
+     {"issue": {"issue-date": "1928-08"}, 
+      "title": "The Looters",
+      "title-note": "part 1 of 5",
+      "author": {
+         "authorized": "Terhune, Albert Payson, 1872-1942",
+         "lcna": "n50009920"
+      }
+     },
+     {"issue": {"issue-date": "1928-09"}, 
+      "title": "The Looters",
+      "title-note": "part 2 of 5",
+      "author": {
+         "authorized": "Terhune, Albert Payson, 1872-1942",
+         "lcna": "n50009920"
+      }
+     },
+     {"issue": {"issue-date": "1928-10"},
+      "title": "Two White Beans",
+      "author": {
+       "authorized": "Benét, Stephen Vincent, 1898-1943",
+       "lcna": "n50007691"
+      }
+     },
+     {"issue": {"issue-date": "1928-10"},
+      "title": "The Looters",
+      "title-note": "part 3 of 5",
+      "author": {
+         "authorized": "Terhune, Albert Payson, 1872-1942",
+         "lcna": "n50009920"
+      }
+     },
+     {"issue": {"issue-date": "1928-11"}, 
+      "title": "Faith in a Day",
+      "author": {
+         "authorized": "Titus, Harold, 1888-1967",
+         "lcna": "no2008175553"
+      }
+     },
+     {"issue": {"issue-date": "1928-11"}, 
+      "title": "Fighting Caravans",
+      "title-note": "part 1 of 5",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1928-11"},
+      "title": "The Looters",
+      "title-note": "part 4 of 5",
+      "author": {
+         "authorized": "Terhune, Albert Payson, 1872-1942",
+         "lcna": "n50009920"
+      }
+     },
+     {"issue": {"issue-date": "1928-12"},
+      "title": "The Road Goes By",
+      "author": {
+       "authorized": "Wylie, I. A. R. (Ida Alexa Ross), 1885-1959",
+       "lcna": "n87860300"
+      }
+     },
+     {"issue": {"issue-date": "1928-12"}, 
+      "title": "Fighting Caravans",
+      "title-note": "part 2 of 5",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1928-12"},
+      "title": "The Looters",
+      "title-note": "part 5 of 5",
+      "author": {
+         "authorized": "Terhune, Albert Payson, 1872-1942",
+         "lcna": "n50009920"
+      }
+     },
+     {"issue": {"issue-date": "1929-01"}, 
+      "title": "Fighting Caravans",
+      "title-note": "part 3 of 5",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1929-02"}, 
+      "title": "Fighting Caravans",
+      "title-note": "part 4 of 5",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1929-02"}, 
+      "title": "The Bell on Hag's Teeth",
+      "author": {
+         "authorized": "Titus, Harold, 1888-1967",
+         "lcna": "no2008175553"
+      }
+     },
+     {"issue": {"issue-date": "1929-03"}, 
+      "title": "Fighting Caravans",
+      "title-note": "part 5 of 5",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1929-04"}, 
+      "title": "Neighbors",
+      "author": {
+         "authorized": "Titus, Harold, 1888-1967",
+         "lcna": "no2008175553"
+      }
+     },
+     {"issue": {"issue-date": "1929-07"}, 
+      "title": "Looker-After",
+      "author": {
+         "authorized": "Titus, Harold, 1888-1967",
+         "lcna": "no2008175553"
+      }
+     },
+     {"issue": {"issue-date": "1929-09"}, 
+      "title": "Crucible",
+      "author": {
+         "authorized": "Titus, Harold, 1888-1967",
+         "lcna": "no2008175553"
+      }
+     },
+     {"issue": {"issue-date": "1929-10"},
+       "title": "Judgment-Proof",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1929-12"}, 
+      "title": "Moment of Glory",
+      "author": {
+         "authorized": "Titus, Harold, 1888-1967",
+         "lcna": "no2008175553"
+      }
      }
    ],
+   "additional-note" : "Active renewals are recorded beginning in the 1952 January-June CCE volume, but the earliest active renewed contribution is noted in the 1952 July-December volume.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-05-27"
+   "last-updated": "2020-01-24"
 }
