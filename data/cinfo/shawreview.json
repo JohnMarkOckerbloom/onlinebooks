@@ -1,0 +1,31 @@
+{
+   "title": "The Shaw Review",
+   "contents": [
+      {"url": "https://www.jstor.org/journal/shawreview",
+      "note": "JSTOR (full text also available for subscription or payment)"}
+   ],
+   "preceded-by": [{"id": "shawbulletin", "note": "The Shaw Bulletin"}],
+   "first-issue": {"issue-date": "1959-01", "volume": "2", "number": "7"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "database",
+   "first-renewed-contribution":
+      {"issue": {"issue-date": "1963-09", "volume": "6", "number": "3"}},
+   "first-renewed-contribution-source": "database",
+   "last-issue": {"issue-date": "1980-09", "volume": "23", "number": "3"},
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1963-09", "volume": "6", "number": "3"},
+      "title": "Bernard Shaw, el Viejo del Siglo",
+      "note": "An unsigned bibliographic note on that title appears on page 110 of this issue.",
+      "author": {
+       "authorized": "Weales, Gerald Clifford, 1925-",
+       "lcna": "n50023757"
+      }
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2020-02-10"
+}

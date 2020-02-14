@@ -10,7 +10,7 @@
    "first-renewed-contribution-source": "1966-JanJun",
    "last-issue": 
        {"issue-date": "1950-07", "volume": "66", "number": "7"}, 
-   "renewed-issue-completeness": "active/1925",
+   "renewed-issue-completeness": "active/end",
    "renewed-issues": [
        {"issue-date": "1925-04", "volume": "26", "number": "4"},
        {"issue-date": "1925-05", "volume": "26", "number": "5"},
@@ -26,7 +26,7 @@
        {"issue-date": "1926-03", "volume": "28", "number": "3"},
        {"issue-date": "1926-04", "volume": "28", "number": "4"}
    ],
-   "renewed-contribution-completeness": "active/1941",
+   "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
      {"issue": {"issue-date": "1939-January-February"},
         "title": "Bonaparte in Italy: The Campaign of Speed",
@@ -48,11 +48,68 @@
          "authorized": "Pratt, Fletcher, 1897-1956",
          "lcna": "n50021577"
         }
+     },
+     {"issue": {"issue-date": "1943-March-August"},
+        "title": "Kill or Get Killed",
+        "note": "A 1970 CCE renewal record for this 1943 book notes that it was first published serially in the Infantry Journal from March to August 1943.  We do not know the dates of all the issues in which it appeared, or whether the installments were published under this title or some other title. Infantry Journal was publishing monthly during this interval.",
+        "author": {
+         "authorized": "Applegate, Rex",
+         "lcna": "n85018338"
+        }
+     },
+     {"issue": {"issue-date": "1944-04"},
+        "title": "The Fight on Saki Night",
+        "author": {
+         "authorized": "Marshall, S. L. A. (Samuel Lyman Atwood), 1900-1977",
+         "lcna": "n79063724"
+        }
+     },
+     {"issue": {"issue-date": "1944-11"},
+        "title": "Action at the Pigpen",
+        "author": {
+         "authorized": "Marshall, S. L. A. (Samuel Lyman Atwood), 1900-1977",
+         "lcna": "n79063724"
+        }
+     },
+     {"issue": {"issue-date": "1947-05"},
+        "title": "The Illusion of Power",
+        "author": {
+         "authorized": "Marshall, S. L. A. (Samuel Lyman Atwood), 1900-1977",
+         "lcna": "n79063724"
+        }
+     },
+     {"issue": {"issue-date": "1947-06"},
+        "title": "On Future War",
+        "author": {
+         "authorized": "Marshall, S. L. A. (Samuel Lyman Atwood), 1900-1977",
+         "lcna": "n79063724"
+        }
+     },
+     {"issue": {"issue-date": "1947-07"},
+        "title": "Man on the Battlefield",
+        "author": {
+         "authorized": "Marshall, S. L. A. (Samuel Lyman Atwood), 1900-1977",
+         "lcna": "n79063724"
+        }
+     },
+     {"issue": {"issue-date": "1947-08"},
+        "title": "Combat Isolation",
+        "author": {
+         "authorized": "Marshall, S. L. A. (Samuel Lyman Atwood), 1900-1977",
+         "lcna": "n79063724"
+        }
+     },
+     {"issue": {"issue-date": "1948-04"},
+        "title": "Research and Development",
+        "author": {
+         "authorized": "Baldwin, Hanson Weightman, 1903-1991",
+         "lcna": "n50037765"
+        }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-01-08"
+   "last-updated": "2020-02-05"
 }

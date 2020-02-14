@@ -1,0 +1,84 @@
+{
+   "title": "Film Quarterly",
+   "contents": [
+      {"url": "https://www.jstor.org/journal/filmquarterly",
+      "note": "JSTOR (full text also available for subscription or payment)"}
+   ],
+   "preceded-by": [{"id": "qtlyfilmradiotv",
+                    "note": "The Quarterly of Film, Radio, and Television"}],
+   "first-issue":
+      {"issue-date": "1958-Autumn", "volume": "12", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "database",
+   "first-autorenewed-issue":
+      {"issue-date": "Winter 1963-1964", "volume": "17", "number": "2",
+       "cdate": "1964-01-24"},
+   "first-renewed-contribution": 
+     {"issue": {"issue-date": "1961-Autumn", "volume": "15", "number": "1"}},
+   "first-renewed-contribution-source": "database",
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1961-Autumn", "volume": "15", "number": "1"},
+      "title": "Britain: Commitment and the Strait-Jacket",
+      "note": "Title as given in issue. Renewal record gives title as 'Britain: Commitment and the Straight-Jacket'.",
+      "author": {
+       "authorized": "Kael, Pauline",
+       "lcna": "n79086284"
+      }
+     },
+     {"issue": {"issue-date": "Winter 1961-1962", "volume": "15", "number": "2"},
+      "title": "Films of the Year",
+      "author": {
+       "authorized": "Kael, Pauline",
+       "lcna": "n79086284"
+      }
+     },
+     {"issue": {"issue-date": "1962-Spring", "volume": "15", "number": "3"},
+      "title": "One, Two Three",
+      "author": {
+       "authorized": "Kael, Pauline",
+       "lcna": "n79086284"
+      }
+     },
+     {"issue": {"issue-date": "1962-Summer", "volume": "15", "number": "4"},
+      "title": "Independence with a Vengeance",
+      "author": {
+       "authorized": "MacCann, Richard Dyer",
+       "lcna": "n50037440"
+      }
+     },
+     {"issue": {"issue-date": "1962-Summer", "volume": "15", "number": "4"},
+      "title": "The Innocents, and What Passes for Experience",
+      "author": {
+       "authorized": "Kael, Pauline",
+       "lcna": "n79086284"
+      }
+     },
+     {"issue": {"issue-date": "1963-Spring", "volume": "16", "number": "3"},
+      "title": "Circles and Squares",
+      "author": {
+       "authorized": "Kael, Pauline",
+       "lcna": "n79086284"
+      }
+     },
+     {"issue": {"issue-date": "1963-Spring", "volume": "16", "number": "3"},
+      "title": "Billy Budd",
+      "author": {
+       "authorized": "Kael, Pauline",
+       "lcna": "n79086284"
+      }
+     },
+     {"issue": {"issue-date": "1963-Summer", "volume": "16", "number": "4"},
+      "title": "Hemingway's Adventures as a Young Man",
+      "author": {
+       "authorized": "Kael, Pauline",
+       "lcna": "n79086284"
+      }
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2020-02-09"
+}
