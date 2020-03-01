@@ -1,5 +1,11 @@
 {
    "title": "The Arkham Sampler",
+   "contents": [
+      {"url": "http://www.isfdb.org/cgi-bin/pe.cgi?25212",
+       "note": "ISFDB"},
+      {"url": "http://www.philsp.com/homeville/SFI/link.asp?magid=ARS",
+       "note": "FictionMags"}
+   ],
    "first-issue": {"issue-date": "1948-Winter", "volume": "1", "number": "1"},
    "first-renewed-issue": 
      {"issue-date": "1948-Winter", "volume": "1", "number": "1"},
@@ -7,9 +13,84 @@
    "first-renewed-contribution":
      {"issue": {"issue-date": "1948-Winter", "volume": "1", "number": "1"}},
    "first-renewed-contribution-source": "1975-JulDec",
+   "last-issue": 
+     {"issue-date": "1949-Autumn", "volume": "2", "number": "4"},
+   "renewed-issue-completeness": "active/end",
+   "renewed-issues": [
+     {"issue-date": "1948-Winter", "volume": "1", "number": "1"},
+     {"issue-date": "1948-Spring", "volume": "1", "number": "2"},
+     {"issue-date": "1948-Summer", "volume": "1", "number": "3"},
+     {"issue-date": "1948-Autumn", "volume": "1", "number": "4"},
+     {"issue-date": "1949-Winter", "volume": "2", "number": "1"},
+     {"issue-date": "1949-Spring", "volume": "2", "number": "2"},
+     {"issue-date": "1949-Summer", "volume": "2", "number": "3"},
+     {"issue-date": "1949-Autumn", "volume": "2", "number": "4"}
+   ],
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+      {"issue": {"issue-date": "1948-Winter", "volume": "1", "number": "1"},
+       "title": "Mara",
+       "note": "Author is August Derleth writing under a pseudonym.",
+       "author": {
+         "authorized": "Grendon, Stephen, 1909-1971",
+         "lcna": "no2013002492"
+       }
+      },
+      {"issue": {"issue-date": "1948-Spring", "volume": "1", "number": "2"},
+       "title": "The Wind in the Lilacs",
+       "note": "Author is August Derleth writing under a pseudonym.",
+       "author": {
+         "authorized": "Grendon, Stephen, 1909-1971",
+         "lcna": "no2013002492"
+       }
+      },
+      {"issue": {"issue-date": "1948-Autumn", "volume": "1", "number": "4"},
+       "title": "Change of Heart",
+       "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+       }
+      },
+      {"issue": {"issue-date": "1949-Winter", "volume": "2", "number": "1"},
+       "title": "The Summer Night",
+       "note": "Title as given in CCE.  FictionMags gives title as 'The Spring Night'.  I have not examined the issue in question.",
+       "author": {
+          "authorized": "Bradbury, Ray, 1920-2012",
+          "lcna": "n79139258"
+       }
+      },
+      {"issue": {"issue-date": "1949-Winter", "volume": "2", "number": "1"},
+       "title": "Dear Pen Pal",
+       "author": {
+         "authorized": "Van Vogt, A. E. (Alfred Elton), 1912-2000",
+         "lcna": "n79123985"
+      }
+     },
+      {"issue": {"issue-date": "1949-Spring", "volume": "2", "number": "2"},
+       "title": "The Mummy!",
+       "author": {
+          "authorized": "Bleiler, E. F. (Everett Franklin), 1920-2010",
+          "lcna": "n79082289"
+       }
+      },
+      {"issue": {"issue-date": "1949-Summer", "volume": "2", "number": "3"},
+       "title": "The One Who Waits",
+       "author": {
+          "authorized": "Bradbury, Ray, 1920-2012",
+          "lcna": "n79139258"
+       }
+      },
+      {"issue": {"issue-date": "1949-Autumn", "volume": "2", "number": "4"},
+       "title": "Holiday",
+       "author": {
+          "authorized": "Bradbury, Ray, 1920-2012",
+          "lcna": "n79139258"
+       }
+      }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-04-23"
+   "last-updated": "2020-02-15"
 }

@@ -1,0 +1,47 @@
+{
+   "title": "Econometrica",
+   "contents": [
+      {"url": "https://www.econometricsociety.org/publications/econometrica/browse",
+      "note": "Publisher site (full text also available for subscription or payment)"}
+   ],
+   "first-issue":
+      {"issue-date": "1933-01", "volume": "1", "number": "1"},
+   "first-renewed-issue": 
+      {"issue-date": "1942-01", "volume": "10", "number": "1"},
+   "first-renewed-issue-source": "1969",
+   "first-renewed-contribution": 
+      {"issue": {"issue-date": "1956-07", "volume": "24", "number": "3"}},
+   "first-renewed-contribution-source": "database",
+   "renewed-issue-completeness": "active/autorenewals",
+   "renewed-issues": [
+      {"issue-date": "1942-01", "volume": "10", "number": "1"},
+      {"issue-date": "1942-04", "volume": "10", "number": "2"},
+      {"issue-date": "1942-July-October", "volume": "10", "number": "nos. 3-4"},
+      {"issue-date": "1944-July-October", "volume": "12", "number": "nos. 3-4"},
+      {"issue-date": "1945-01", "volume": "13", "number": "1"},
+      {"issue-date": "1945-04", "volume": "13", "number": "2"},
+      {"issue-date": "1945-07", "volume": "13", "number": "3"}
+   ],
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1956-07", "volume": "24", "number": "3"},
+       "title": "The Foreign Trade Accelerator and the International Transmission of Growth",
+       "author": {
+         "authorized": "Brems, Hans",
+         "lcna": "n79112970"
+       }
+     },
+     {"issue": {"issue-date": "1957-04", "volume": "25", "number": "2"},
+       "title": "Employment and Money Wages Under Balanced Foreign Trade",
+       "author": {
+         "authorized": "Brems, Hans",
+         "lcna": "n79112970"
+       }
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2020-02-26"
+}

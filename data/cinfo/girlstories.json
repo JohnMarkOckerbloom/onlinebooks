@@ -1,0 +1,29 @@
+{
+   "title": "Girl Stories",
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/FMI/link.asp?magid=GIRLS",
+      "note": "FictionMags"}
+   ],
+   "preceded-by": [{"id": "moderngirlstories", "note": "Modern Girl Stories"}],
+   "first-issue":
+     {"issue-date": "1929-11", "volume": "3", "number": "1"},
+   "first-renewed-issue": 
+     {"issue-date": "1929-11", "volume": "3", "number": "1"},
+   "first-renewed-issue-source": "1956-JulDec",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce",
+   "last-issue":
+     {"issue-date": "1930-01", "volume": "3", "number": "3"},
+   "succeeded-by": [{"id": "truelovestories", "note": "True Love Stories"}],
+   "renewed-issue-completeness": "active/end",
+   "renewed-issues": [
+     {"issue-date": "1929-11", "volume": "3", "number": "1"},
+     {"issue-date": "1929-12", "volume": "3", "number": "2"},
+     {"issue-date": "1930-01", "volume": "3", "number": "3"}
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2020-02-25"
+}

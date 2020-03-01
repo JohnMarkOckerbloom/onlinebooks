@@ -1,0 +1,29 @@
+{
+   "title": "Best Comics",
+   "title-note": "1939-1940",
+   "contents": [
+      {"url": "https://www.comics.org/series/126/",
+       "note": "Grand Comics Database"}
+   ],
+   "first-issue":
+      {"issue-date": "1939-11", "number": "1"},
+   "first-renewed-issue":
+      {"issue-date": "1939-11", "number": "1"},
+   "first-renewed-issue-source": "1967",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce",
+   "last-issue":
+      {"issue-date": "1940-02", "number": "4"},
+   "renewed-issue-completeness": "active/end",
+   "renewed-issues": [
+      {"issue-date": "1939-11", "number": "1"},
+      {"issue-date": "1939-12", "number": "2"},
+      {"issue-date": "1940-01", "number": "3"},
+      {"issue-date": "1940-02", "number": "4"}
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2020-02-26"
+}

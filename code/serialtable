@@ -25,7 +25,11 @@ my $jstor_split = $pkgdir . "jstor/JSTOR_Global_AllArchiveTitles_2020-01-08.txt"
 
 my $muse_journals = $pkgdir . "muse/muse_journal_metadata_2019.tsv";
 
+my $ovid_complete = $pkgdir . "wolters/Ovid_Global_AllJournals_2020-02-09.txt";
+
 my $oxford_archive = $pkgdir . "oxford/OxfordUniversityPress_Global_2020JournalsArchiveAllTitles_2019-12-09.txt";
+
+my $penn_serials = $pkgdir . "penn/Serials before 1964.csv";
 
 my $proquest_archive = $pkgdir . "proquest/PeriodicalsArchiveOnline.tsv";
 
@@ -41,6 +45,8 @@ my $wikipedia = $pkgdir . "wikipedia/articleperiodicals.csv";
 my $wiley_all = $pkgdir . "wiley/wiley_alljournals_2020-01-01.txt";
 
 my $sagetitlefield = "Title";  # just a placeholder; varies by file
+
+my $franklin_issn_search = "https://franklin.library.upenn.edu/catalog?utf8=%E2%9C%93&search_field=isxn_search&q=";
 
 my $csv = Text::CSV->new ({ binary => 1, auto_diag => 1 });
 
@@ -60,9 +66,15 @@ my $tables = {
   "muse-journals" =>
      {file => $muse_journals, reader=>\&readmusefile,
       parser=>\&muselongparser, filter=>\&pre64andolbp},
+  "ovid-complete" =>
+     {file => $ovid_complete, reader=>\&readtsvfile,
+      parser=>\&kbartparser, filter=>\&pre64andolbp},
   "oxford-archive" =>
      {file => $oxford_archive, reader=>\&readoxfordfile,
       parser=>\&kbartparser, filter=>\&pre64andolbp},
+  "penn-serials" =>
+     {file => $penn_serials, reader=>\&readcsvfile,
+      parser=>\&pennparser, filter=>\&everything},
   "proquest-archive" =>
      {file => $proquest_archive, reader=>\&readpqfile,
       parser=>\&pqparser, filter=>\&pre64andolbp},
@@ -400,6 +412,56 @@ sub wikipediaparser {
   return @recs;
 }
 
+sub pennparser {
+  my ($set, @results) = @_;
+  my @recs = ();
+  foreach my $result (@results) {
+    my $issnfield = $result->{ISSN};
+    next if (!$issnfield);
+    my ($start, $end);
+    if ($daterange =~ /(\d\d\d\d).*-.*(\d\d\d\d)/) {
+      ($start, $end) = ($1, $2);
+    } elsif ($daterange =~ /-.*(\d\d\d\d)/) {
+      $end = $1;
+    } elsif ($daterange =~ /(\d\d\d\d)/) {
+      $start = $1;
+    }
+    my $title = $result->{Title};
+    my @rawissns = split /\s*;\s*/, $issnfield;
+    #print "Keys are " . join (";", keys %{$result}) ."\n";
+    #print "I found $title with $issnfield\n";
+    foreach my $issn (@rawissns) {
+      if (!($issn =~ /^\d\d\d\d-?\d\d\d[\dX]$/)) {
+        print STDERR "Unexpected ISSN for $title: $issn\n";
+        next;
+      } else {
+        push @issns, normalize_issn($issn);
+      }
+    }
+    my $rec = find_pub_record(undef, @issns);
+    if (!$rec) {
+      $rec = {};
+    }
+    foreach my $issn (@issns) {
+      $rec->{issns}->{$issn} = 1;
+    }
+    $rec->{title} = $title;
+    # print "starting with $start for $title\n";
+    # if we've seen a journal before (in the publication file,
+    #  not in the Wikidata file), only update start if it's earlier
+    # 
+    if (!$rec->{seenpubstart} ||
+        !$rec->{start} || $rec->{start} > int($start)) { 
+      $rec->{start} = int($start);
+      $rec->{seenpubstart} = 1;
+    }
+    $rec->{end} = ($end ? int($end) : "");
+    $rec->{pkgid} = $franklin_issn_search . $issns[0];
+    push @recs, $rec;
+  }
+  return @recs;
+}
+
 # pre64andolbp is a filter that returns records in the provided set
 # that have coverage before the end of copyright renewals (i.e. pre-1964)
 # or that have coverage listed in The Online Books Page
@@ -569,17 +631,24 @@ sub readcsvfile {
   my @results;
   #open my $fh, "<:encoding(utf8)", $filename or die "filename: $!";
   open my $fh, "<", $filename or die "filename: $!";
+  # print "Filename is $filename\n";
   while (int($skiplines)) {
     my $row = $csv->getline($fh);
     $skiplines -= 1;
   }
   my $row = $csv->getline($fh);
   my @fieldnames = @{$row};
+  if ($fieldnames[0] =~ /\x{feff}(.*)/) {
+      # remove byte order marker if present
+      $fieldnames[0] = $1;
+  }
+  # print "Fieldnames are " . join ("; ", @fieldnames) . "\n" if ($filename =~ /penn/);
   while (my $row = $csv->getline ($fh)) {
     my %hash = ();
     my @fields = @{$row};
     for (my $i = 0; $i < scalar(@fields); $i++) {
       $hash{$fieldnames[$i]} = $fields[$i];
+      # print "Putting $fields[$i] in $fieldnames[$i]\n" if ($filename =~ /penn/);
     }
     push @results, \%hash;
   }
@@ -1076,7 +1145,7 @@ if ($ARGV[0] eq "table") {
 }
 
 if (!scalar(@ARGV)) {
-  die "Usage: serialable [table] <serialset>";
+  die "Usage: serialtable [table] <serialset>";
 }
 my $serialset = $ARGV[0];
 

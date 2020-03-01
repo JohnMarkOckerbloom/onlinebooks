@@ -1,0 +1,24 @@
+{
+   "title": "Real Love Magazine",
+   "title-note": "Street and Smith, 1930-1932",
+   "aka": ["Street & Smith's Real Love Magazine"],
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/FMI/link.asp?magid=RLLVM",
+      "note": "FictionMags"}
+   ],
+   "preceded-by": [{"id": "truelovestories", "note": "True Love Stories"}],
+   "first-issue":
+     {"issue-date": "1930-03-15", "volume": "4", "number": "1"},
+   "first-renewed-issue": 
+     {"issue-date": "1930-03-15", "volume": "4", "number": "1"},
+   "first-renewed-issue-source": "1957-JanJun",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce",
+   "last-issue":
+     {"issue-date": "1932-09", "volume": "11", "number": "1"},
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2020-02-25"
+}

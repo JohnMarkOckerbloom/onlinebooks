@@ -578,6 +578,7 @@ sub long_entry {
   foreach my $ref (@refs) {
     if ($ref =~ /(\S+)\s+(.*)/) {
        my ($l, $v) = (_ref_link_encode($1), $2);
+       $v = "<strong>$v</strong>";   # Bold content links
        $str .= $self->_tabrow(attr=>"Link", vlink=>$l, value=>$v, lprop=>"url");
     }
   }

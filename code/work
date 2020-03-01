@@ -183,7 +183,7 @@ sub books_exist_about {
   my $sub = shift;
   return 0 if (!$sub);
   my $key = OLBP::BookRecord::search_key_for_subject($sub);
-  my $note = gethashval("booksubnotes", $key);
+  my $note = gethashval("booktitlesubs", $key);
   if (defined($note)) {
     return 1;
   }

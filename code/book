@@ -635,7 +635,7 @@ sub showlookupid {
   my $sub = $br->get_title_subject();
   if ($sub) {
      my $key = OLBP::BookRecord::search_key_for_subject($sub);
-     my $note = gethashval("booksubnotes", $key);
+     my $note = gethashval("booktitlesubs", $key);
      if (defined($note)) {
        $tsub = $sub;
      }
