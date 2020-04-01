@@ -77,6 +77,42 @@ sub _encode_list {
   return join ($separator, @newlist);
 }
 
+# returns the ID of a predecessor or successor 
+# (based on the property) that reports online content.
+# Returns undef if none found, no directory, or multiple preds/successors found
+# Also bails if more than 6 steps (cheap way to avoid infinite loops)
+
+sub _online_down_the_chain {
+  my ($self, $json, $property) = @_;
+  my $iterations = 0;
+  return undef if (!$self->{dir} || !$json || !$property);
+  while ($iterations < 6) {
+    my @idlist = _idlist($json->{$property});
+    return undef if (!(scalar(@idlist) == 1));
+    my $id = $idlist[0];
+    my $path = $self->{dir} . "$id.json";
+    my $json = $self->_readjsonfile($path);
+    return undef if (!$json);
+    return $id if ($json->{"online"} eq "1"); # ignore if URL
+    $iterations += 1;
+  }
+  return undef;
+}
+
+# Returns the ID of a predecessor (immedaite or down a chain)
+# of the supplied JSON file, if it reports online content
+sub online_predecessor {
+  my ($self, %params) = @_;
+  my $json = $params{json};
+  return $self->_online_down_the_chain($json, "preceded-by");
+}
+
+sub online_successor {
+  my ($self, %params) = @_;
+  my $json = $params{json};
+  return $self->_online_down_the_chain($json, "succeeded-by");
+}
+
 sub _format_with_title {
   my ($self, $id, $note) = @_;
   return $note if (!$self->{dir});

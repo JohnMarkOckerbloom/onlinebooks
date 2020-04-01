@@ -1,0 +1,23 @@
+{
+   "title": "American Bar Association Journal",
+   "online": "1",
+   "contents": [
+      {"url": "https://www.jstor.org/journal/amerbarassoj",
+      "note": "JSTOR (full text also available; after 1924 may require subscription or payment)"}
+   ],
+   "first-issue": {"issue-date": "1915-01", "volume": "1", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce+database",
+   "first-autorenewed-issue":
+     {"issue-date": "1964-01", "volume": "50", "number": "1"},
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce+database",
+   "last-issue": {"issue-date": "1983-12", "volume": "69", "number": "12"},
+   "succeeded-by": [{"id": "abajnl1984", "note": "ABA Journal"}],
+   "additional-note": "There was a renewal filed for a 1975 article by Thurgood Marshall (see database for details), but at that point all of the journal's content was automatically renewing in any case.",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2020-03-20"
+}

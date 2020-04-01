@@ -200,7 +200,7 @@ sub showmag {
 # even if there's no serial record
 
 sub copyrightonly {
-  my ($id) = @_;
+  my ($id, $priorredirect) = @_;
   if (!$id || ($id =~ /[^A-Za-z0-9]/)) {
     # bail if there's anything other than basic alphanumeric chars in ID
     getout();
@@ -214,6 +214,12 @@ sub copyrightonly {
   my $name = $json->{"title"};
   if (!$name) {
     getout();
+  }
+  my $otherid = $cinfo->online_predecessor(json=>$json);
+  # If the URL says a redirect to an online predecessor is called for, do it 
+  if ($otherid && $priorredirect) {
+    print "Location: ?id=$otherid\n\n";
+    exit 0;
   }
   if (defined($ENV{"GATEWAY_INTERFACE"})) {
     print "Content-type: text/html\n\n";
@@ -229,6 +235,18 @@ sub copyrightonly {
   my $scripturl = $contacturl . "qtitle=" . OLBP::url_encode($name);
   print qq!<a href="$scripturl">let us know</a>.!;  
   print "</p>";
+  if ($otherid) {
+    my $link = get_serial_query_url($otherid);
+    my $msg = "A predecessor to this serial has free online issues";
+    print qq!<p><a href="$link"><strong>$msg</strong></a>.</p>!;
+  } else {
+    $otherid = $cinfo->online_successor(json=>$json);
+    if ($otherid) {
+      my $link = get_serial_query_url($otherid);
+      my $msg = "A successor to this serial has free online issues";
+      print qq!<p><a href="$link"><strong>$msg</strong></a>.</p>!;
+    }
+  }
   print "<p><strong>Copyright information:</strong> $summary</p>";
   print OLBP::result_tips();
   print OLBP::choicelist();
@@ -258,10 +276,11 @@ $lookid = $options{id};
 if (!$lookid) {
   getout();
 }
+$priorredirect = $options{pr};
 
 $str = gethashval("serials", $lookid);
 if (!$str) {
-  copyrightonly($lookid);
+  copyrightonly($lookid, $priorredirect);
 }
 
 $recr = readrecord($str);

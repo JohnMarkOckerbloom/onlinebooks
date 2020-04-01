@@ -225,6 +225,7 @@ sub show_books_with_subject {
   my $header = $params{header};
   my $key = OLBP::BookRecord::search_key_for_subject($term);
   if ($params{seen}->{$key}) {
+     print "\n<!-- we think we've seen $key -->\n";
      return 0;
   } else {
     $params{seen}->{$key} = 1;
@@ -253,11 +254,12 @@ sub _recur_under_subject {
 
   if ($params{seen}->{$term}) {
      return $max;
-  } else {
-    $params{seen}->{$term} = 1;
   }
   my $count = $self->show_books_with_subject(term=>$term, seen=>$seen,
                                              header=>"Filed under");
+  # Not sure if strictly necessary, but there if needed
+  # (but we do this *after* we show books with subject, not before)
+  $params{seen}->{$term} = 1;
   $max -= $count;
   if ($max <= 0) {
     $params{seen}->{$RANOUT_TOKEN} = 1;

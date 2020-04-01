@@ -52,11 +52,21 @@
      {"issue-date": "1926-01-10", "volume": "6", "number": "4"},
      {"issue-date": "1926-01-25", "volume": "6", "number": "5"}
    ],
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1932-08-01", "volume": "28", "number": "5"},
+      "title": "Three Men on the Moon",
+      "note": "A CCE renewal record lists this title as appearing in the August 1932 issue of 'Complete Adventure Novelettes' but FictionMags instead places that story in this magazine issue.",
+      "author": {
+         "authorized": "Pinkerton, Robert E. (Robert Eugene), 1882-1970",
+         "lcna": "no2003073197"
+       }
+     }
+    ],
    "additional-note": 
      "Published as Complete Story Magazine until November 1926. Absorbed People's Magazine in September 1924, and used that magazine's issue numbering alongside its own for two issues.  Absorbed The Popular Magazine in October 1931, and published as The Popular Complete Stories from then until July 1932.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-01-06"
+   "last-updated": "2020-03-14"
 }

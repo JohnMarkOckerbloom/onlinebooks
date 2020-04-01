@@ -30,6 +30,7 @@ my $ovid_complete = $pkgdir . "wolters/Ovid_Global_AllJournals_2020-02-09.txt";
 my $oxford_archive = $pkgdir . "oxford/OxfordUniversityPress_Global_2020JournalsArchiveAllTitles_2019-12-09.txt";
 
 my $penn_serials = $pkgdir . "penn/Serials before 1964.csv";
+#my $penn_serials = $pkgdir . "penn/Penn Libraries - All Serials.csv";
 
 my $proquest_archive = $pkgdir . "proquest/PeriodicalsArchiveOnline.tsv";
 
@@ -74,7 +75,7 @@ my $tables = {
       parser=>\&kbartparser, filter=>\&pre64andolbp},
   "penn-serials" =>
      {file => $penn_serials, reader=>\&readcsvfile,
-      parser=>\&pennparser, filter=>\&everything},
+      parser=>\&pennparser, filter=>\&pre64andolbp},
   "proquest-archive" =>
      {file => $proquest_archive, reader=>\&readpqfile,
       parser=>\&pqparser, filter=>\&pre64andolbp},
@@ -419,6 +420,7 @@ sub pennparser {
     my $issnfield = $result->{ISSN};
     next if (!$issnfield);
     my ($start, $end);
+    my $daterange = $result->{"Publication Date"};
     if ($daterange =~ /(\d\d\d\d).*-.*(\d\d\d\d)/) {
       ($start, $end) = ($1, $2);
     } elsif ($daterange =~ /-.*(\d\d\d\d)/) {
@@ -430,8 +432,9 @@ sub pennparser {
     my @rawissns = split /\s*;\s*/, $issnfield;
     #print "Keys are " . join (";", keys %{$result}) ."\n";
     #print "I found $title with $issnfield\n";
+    my @issns = ();
     foreach my $issn (@rawissns) {
-      if (!($issn =~ /^\d\d\d\d-?\d\d\d[\dX]$/)) {
+      if (!($issn =~ /^\d\d\d\d-?\d\d\d[\dXx]/)) {
         print STDERR "Unexpected ISSN for $title: $issn\n";
         next;
       } else {
@@ -444,6 +447,9 @@ sub pennparser {
     }
     foreach my $issn (@issns) {
       $rec->{issns}->{$issn} = 1;
+      if (!$issnserial->{$issn}) {
+        $issnserial->{$issn} = $rec;
+      }
     }
     $rec->{title} = $title;
     # print "starting with $start for $title\n";
@@ -452,12 +458,16 @@ sub pennparser {
     # 
     if (!$rec->{seenpubstart} ||
         !$rec->{start} || $rec->{start} > int($start)) { 
-      $rec->{start} = int($start);
+      $rec->{start} = int($start) || "";
       $rec->{seenpubstart} = 1;
     }
     $rec->{end} = ($end ? int($end) : "");
     $rec->{pkgid} = $franklin_issn_search . $issns[0];
-    push @recs, $rec;
+    if (!$rec->{intable}) {
+      push @recs, $rec;
+      $rec->{intable} = 1;
+    }
+    # print "$rec: start for $rec->{title} () is $rec->{start}, end is $rec->{end}\n";
   }
   return @recs;
 }
@@ -923,6 +933,7 @@ sub find_pub_record {
     return $olbpserial->{$olbpid};
   }
   foreach my $issn (@issns) {
+    next if (!$issn);
     if ($issnserial->{$issn}) {
       return $issnserial->{$issn};
     }
@@ -1033,7 +1044,9 @@ sub maketable {
   my $arrayref = ["ISSN", "Internal ID", "Online Books ID", "Title", "Dates", "Wikidata ID", "First renewal year", "Free issue years"];
   my $str = tsv_line($arrayref);
   # $csv->print(STDOUT, $arrayref);
+  # print "There are " . scalar(@recs) . " records\n";
   foreach my $rec (@recs) {
+    # print "Seen it ($rec)\n" if ($seen{$rec});
     next if ($seen{$rec});  # we sometimes have redundant source file journals
     $seen{$rec} = 1;
     my $lowissn = "";
@@ -1067,6 +1080,9 @@ sub maketable {
            # Later, we'll get smarter about following paths
            $copyright .= "*";
         }
+      }
+      if (!$freerange && $cinfo->online_predecessor(json=>$rec)) {
+        $freerange = "Predecessor";
       }
     }
     if ($copyright eq "Unknown") { 

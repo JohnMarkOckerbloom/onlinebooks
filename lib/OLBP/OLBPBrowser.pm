@@ -126,11 +126,12 @@ sub jump_form {
   my $type = $self->browse_type();
   my $coll = $self->{collection};
   my $caption = $params{caption} || "Or start at this prefix";
+  $caption = qq!<label for="key">$caption</label>!;
   return "<form method=\"GET\" action=\"$OLBP::scripturl/browse\">\n" .
          "$caption: " .
          "<input type=\"hidden\" name=\"type\" value=\"$type\">\n" .
          "<input type=\"hidden\" name=\"c\" value=\"$coll\">\n" .
-         "<input name=\"key\" size=10 value=\"\"></form>\n";
+         "<input name=\"key\" id=\"key\" size=10 value=\"\"></form>\n";
 }
 
 sub _initialize {

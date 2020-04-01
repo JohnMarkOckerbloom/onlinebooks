@@ -1,0 +1,32 @@
+{
+   "title": "Complete Adventure Novelettes",
+   "title-note": "1932-1933",
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/AFI/link.asp?magid=CPADN",
+       "note": "FictionMags"}
+   ],
+   "first-issue":
+      {"issue-date": "1932-02", "volume": "1", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce",
+   "first-renewed-contribution": 
+      {"issue": {"issue-date": "1932-08", "volume": "1", "number": "3"}},
+   "first-renewed-contribution-source": "1959-JanJun",
+   "last-issue":  {"issue-date": "1933-02", "volume": "2", "number": "2"},
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1932-08", "volume": "1", "number": "3"},
+      "title": "Three Men on the Moon",
+      "note": "A CCE renewal record lists this title as appearing in this issue, but FictionMags instead places that story in the August 1, 1932 issue of Street & Smith's 'Complete Stories'. I have not examined the issues in question.",
+      "author": {
+         "authorized": "Pinkerton, Robert E. (Robert Eugene), 1882-1970",
+         "lcna": "no2003073197"
+       }
+     }
+    ],
+   "additional-note": "This magazine consisted primarily of stories reprinted or revised from previous publications.  We have not systematically checked the copyright status of those original publications, and some of them may still have active copyrights.  The FictionMags contents listings mention prior publications for most of this magazine's stories.",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2020-03-14"
+}

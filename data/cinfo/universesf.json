@@ -1,0 +1,84 @@
+{
+   "title": "Universe Science Fiction",
+   "aka": ["Universe"],
+   "online": "1",
+   "contents": [
+      {"url": "http://www.isfdb.org/cgi-bin/pe.cgi?20861",
+       "note": "ISFDB"},
+      {"url": "http://www.philsp.com/homeville/SFI/link.asp?magid=USF",
+       "note": "Galactic Central"}
+   ],
+   "first-issue": {"issue-date": "1953-06", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "database",
+   "first-renewed-contribution":
+     {"issue": {"issue-date": "1953-06", "number": "1"}},
+   "first-renewed-contribution-source": "database",
+   "last-issue": {"issue-date": "1955-03", "number": "10"},
+   "see-also": [{"id": "otherworlds", "note": "Other Worlds"}],
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+      {"issue": {"issue-date": "1953-06", "number": "1"},
+       "title": "Constant Reader",
+       "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+       }
+      },
+      {"issue": {"issue-date": "1953-06", "number": "1"},
+       "title": "The World Well Lost",
+       "author": {
+          "authorized": "Sturgeon, Theodore",
+          "lcna": "n80066908"
+       }
+      },
+      {"issue": {"issue-date": "1953-12", "number": "3"}, 
+       "title": "The Hungry Hercynian",
+       "author": {
+         "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+         "lcna": "n80057222"
+       }
+      },
+      {"issue": {"issue-date": "1953-12", "number": "3"}, 
+       "title": "The Adventure of the Misplaced Hound",
+       "authors": [
+         {"authorized": "Anderson, Poul, 1926-2001", "lcna": "n79044004"},
+         {"authorized": "Dickson, Gordon R.", "lcna": "n79109204"}
+       ]
+      },
+      {"issue": {"issue-date": "1954-03", "number": "4"}, 
+       "title": "The Door",
+       "author": {
+         "authorized": "Russell, Eric Frank, 1905-1978",
+         "lcna": "n81062502"
+       }
+      },
+      {"issue": {"issue-date": "1954-05", "number": "5"},
+       "title": "The Immortal Bard",
+       "author": {
+        "authorized": "Asimov, Isaac, 1920-1992",
+         "lcna": "n80126289"
+       }
+      },
+      {"issue": {"issue-date": "1954-09", "number": "7"},
+       "title": "Terwilliger and the War Machine",
+       "author": {
+         "authorized": "Hunter, Evan, 1926-2005",
+         "lcna": "n82253096"
+       }
+      },
+      {"issue": {"issue-date": "1955-03", "number": "10"},
+        "title": "Mistress of Viridis",
+        "author": {
+          "authorized": "St. Clair, Margaret",
+          "lcna": "n85038071"
+        }
+      }
+   ],
+   "additional-note": "This was a follow-up to the first incarnation of Other Worlds magazine.  It was succeeded in turn by Other Worlds Science Stories, a title used by Other Worlds in the first part of its run.",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2020-03-06"
+}

@@ -1,14 +1,311 @@
 {
    "title": "Epoch",
    "title-note": "Cornell literary magazine, 1947-",
+   "contents": [
+      {"url": "https://english.cornell.edu/epoch-back-issues",
+       "note": "Publisher site (for issues from 2004 and later)"}
+   ],
+   "first-issue": {"issue-date": "1947-Fall", "volume": "1", "number": "1"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
+   "first-autorenewed-issue":
+      {"issue-date": "1964-Winter", "volume": "13", "number": "2"},
    "first-renewed-contribution":
        {"issue": {"issue-date": "1947-Fall", "volume": "1", "number": "1"}},
    "first-renewed-contribution-source": "1974-JulDec",
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1947-Fall", "volume": "1", "number": "1"},
+        "title": "Poem (goodmorning (en))",
+        "author": {
+         "authorized": "Cummings, E. E. (Edward Estlin), 1894-1962",
+         "lcna": "n79038464"
+        }
+     },
+     {"issue": {"issue-date": "1947-Fall", "volume": "1", "number": "1"},
+        "title": "Goo-dmore-ning(en'); poem",
+        "note": "A separate renewal from the one above, though possibly for the same contribution. I have not examined the issue to see what is there.",
+        "author": {
+         "authorized": "Cummings, E. E. (Edward Estlin), 1894-1962",
+         "lcna": "n79038464"
+        }
+     },
+     {"issue": {"issue-date": "1948-Winter"},
+        "title": "The Fireman, His Story",
+        "author": {
+         "authorized": "Rosenfeld, Isaac, 1918-1956",
+         "lcna": "n87938119"
+        }
+     },
+     {"issue": {"issue-date": "1951-Summer"},
+        "title": "The Medal",
+        "author": {
+         "name": "Miriam Rugel"
+        }
+     },
+     {"issue": {"issue-date": "1951-Summer"},
+        "title": "Chapter Two",
+        "note": "Unclear if this is related to, or the same as, the next contribution, whose renewal appears in the same record. I have not examined the issue.",
+        "author": {
+         "authorized": "Scott, Winfield Townley, 1910-1968",
+         "lcna": "n50005603"
+        }
+     },
+     {"issue": {"issue-date": "1951-Summer"},
+        "title": "What I Assembled and Dissemble",
+        "author": {
+         "authorized": "Scott, Winfield Townley, 1910-1968",
+         "lcna": "n50005603"
+        }
+     },
+     {"issue": {"issue-date": "1951-Fall"},
+        "title": "Glimpses Into the Rear-View Mirror: Pool and Quarry",
+        "author": {
+         "authorized": "Golffing, Francis",
+         "lcna": "n81009769"
+        }
+     },
+     {"issue": {"issue-date": "1951-Fall"},
+        "title": "The Answer",
+        "author": {
+         "authorized": "Golffing, Francis",
+         "lcna": "n81009769"
+        }
+     },
+     {"issue": {"issue-date": "1951-Fall"},
+        "title": "To a Friend Who Found it Difficult to Write",
+        "author": {
+         "authorized": "Golffing, Francis",
+         "lcna": "n81009769"
+        }
+     },
+     {"issue": {"issue-date": "1952-Winter"},
+        "title": "The Old Madama",
+        "author": {
+         "name": "Miriam Merritt"
+        }
+     },
+     {"issue": {"issue-date": "1952-Winter"},
+        "title": "Fracture",
+        "author": {
+         "authorized": "Cassill, R. V. (Ronald Verlin), 1919-2002",
+         "lcna": "n80079531"
+        }
+     },
+     {"issue": {"issue-date": "1952-Spring"},
+        "title": "A Philosopher on a Mountain in Scythia",
+        "author": {
+         "authorized": "Plutzik, Hyam, 1911-1962",
+         "lcna": "n87872647"
+        }
+     },
+     {"issue": {"issue-date": "1952-Spring"},
+        "title": "Value the Intermediate Splendor of Birds",
+        "author": {
+         "authorized": "Plutzik, Hyam, 1911-1962",
+         "lcna": "n87872647"
+        }
+     },
+     {"issue": {"issue-date": "1952-Spring"},
+        "title": "The Priest Ekranath",
+        "author": {
+         "authorized": "Plutzik, Hyam, 1911-1962",
+         "lcna": "n87872647"
+        }
+     },
+     {"issue": {"issue-date": "1952-Summer"},
+        "title": "Do You Believe in Love, My Darlings?",
+        "author": {
+         "name": "Miriam Rugel"
+        }
+     },
+     {"issue": {"issue-date": "1952-Summer"},
+        "title": "The War in the Air",
+        "author": {
+         "authorized": "Cassill, R. V. (Ronald Verlin), 1919-2002",
+         "lcna": "n80079531"
+        }
+     },
+     {"issue": {"issue-date": "1952-Fall"},
+        "title": "Islander",
+        "author": {
+         "authorized": "Ostroff, Anthony, 1923-",
+         "lcna": "n88120737"
+        }
+     },
+     {"issue": {"issue-date": "1953-Winter"},
+        "title": "The Golden Kite, the Silver Wind",
+        "author": {
+          "authorized": "Bradbury, Ray, 1920-2012",
+          "lcna": "n79139258"
+        }
+     },
+     {"issue": {"issue-date": "1953-Fall"},
+        "title": "Easter",
+        "author": {
+         "authorized": "Kinnell, Galway, 1927-2014",
+         "lcna": "n78095426"
+        }
+     },
+     {"issue": {"issue-date": "1954-Spring"},
+        "title": "The Puzzle Factory",
+        "author": {
+         "authorized": "Cassill, R. V. (Ronald Verlin), 1919-2002",
+         "lcna": "n80079531"
+        }
+     },
+     {"issue": {"issue-date": "1954-Spring"},
+        "title": "Horse and Swan Feeding",
+        "author": {
+         "authorized": "Swenson, May",
+         "lcna": "n50011616"
+        }
+     },
+     {"issue": {"issue-date": "1954-Fall"},
+        "title": "Bear",
+        "author": {
+         "authorized": "Stanford, Ann",
+         "lcna": "n50023982"
+        }
+     },
+     {"issue": {"issue-date": "1954-Fall"},
+        "title": "The Red Dress",
+        "author": {
+         "authorized": "Rothberg, Abraham",
+         "lcna": "n50047454"
+        }
+     },
+     {"issue": {"issue-date": "1955-Fall"},
+        "title": "War in the Pacific",
+        "author": {
+         "authorized": "Cutler, Bruce, 1930-2001",
+         "lcna": "n50020520"
+        }
+     },
+     {"issue": {"issue-date": "1955-Fall"},
+        "title": "When Old Age Shall This Generation Waste",
+        "author": {
+         "authorized": "Cassill, R. V. (Ronald Verlin), 1919-2002",
+         "lcna": "n80079531"
+        }
+     },
+     {"issue": {"issue-date": "1956-Spring"},
+        "title": "Arrangement at the Gulf",
+        "author": {
+         "authorized": "Stern, Richard, 1928-2013",
+         "lcna": "n80030782"
+        }
+     },
+     {"issue": {"issue-date": "1956-Spring"},
+        "title": "An Exercise in Objectivity",
+        "author": {
+         "authorized": "Noll, Bink, 1927-",
+         "lcna": "n84029122"
+        }
+     },
+     {"issue": {"issue-date": "1956-Spring"},
+        "title": "The Fraternity Dance",
+        "author": {
+         "authorized": "Liben, Meyer",
+         "lcna": "n82087056"
+        }
+     },
+     {"issue": {"issue-date": "1958-Fall"},
+        "title": "Wish You Were Here",
+        "author": {
+         "authorized": "Finkel, Donald",
+         "lcna": "n50005167"
+        }
+     },
+     {"issue": {"issue-date": "1959-Spring"},
+        "title": "Mortality and Mercy in Vienna",
+        "author": {
+         "authorized": "Pynchon, Thomas",
+         "lcna": "n79099184"
+        }
+     },
+     {"issue": {"issue-date": "1961-Winter"},
+        "title": "The Phoenix",
+        "author": {
+         "authorized": "Perry, Ronald, 1932-1982",
+         "lcna": "n79138689"
+        }
+     },
+     {"issue": {"issue-date": "1961-Winter"},
+        "title": "Song at Summer's End",
+        "author": {
+         "authorized": "Perry, Ronald, 1932-1982",
+         "lcna": "n79138689"
+        }
+     },
+     {"issue": {"issue-date": "1961-Winter"},
+        "title": "Testament",
+        "author": {
+         "authorized": "Perry, Ronald, 1932-1982",
+         "lcna": "n79138689"
+        }
+     },
+     {"issue": {"issue-date": "1961-Winter"},
+        "title": "Pavane in the Form of an Elegy",
+        "author": {
+         "authorized": "Perry, Ronald, 1932-1982",
+         "lcna": "n79138689"
+        }
+     },
+     {"issue": {"issue-date": "1961-Winter"},
+        "title": "Point Charles",
+        "author": {
+         "authorized": "Perry, Ronald, 1932-1982",
+         "lcna": "n79138689"
+        }
+     },
+     {"issue": {"issue-date": "1961-Winter"},
+      "title": "Iris: Poem",
+      "author": {
+         "authorized": "Williams, William Carlos, 1883-1963",
+         "lcna": "n79060075"
+      }
+     },
+     {"issue": {"issue-date": "1961-Spring"},
+        "title": "The Compact and The Adulterer: Poems",
+        "author": {
+         "authorized": "Pack, Robert, 1929-",
+         "lcna": "n79139669"
+        }
+     },
+     {"issue": {"issue-date": "1961-Fall"},
+        "title": "Her Dwarf",
+        "author": {
+         "authorized": "Elliott, George P., 1918-1980",
+         "lcna": "n50008864"
+        }
+     },
+     {"issue": {"issue-date": "1962-Spring"},
+        "title": "Words Overheard in an Apple Orchard",
+        "author": {
+         "authorized": "Marshall, Jack, 1936-",
+         "lcna": "n86034297"
+        }
+     },
+     {"issue": {"issue-date": "1962-Fall"},
+        "title": "Homunculus; The Election; Weekday Morning",
+        "author": {
+         "authorized": "Pack, Robert, 1929-",
+         "lcna": "n79139669"
+        }
+     },
+     {"issue": {"issue-date": "1963-Spring"},
+      "title": "Homesick Upstate",
+      "author": {
+         "authorized": "Booth, Philip, 1925-2007",
+         "lcna": "n80057320"
+      }
+     }
+   ],
+   "additional-note": "The Internet Science Fiction Database says that the story 'Interim' by Ray Bradbury, published in the first issue of Epoch, is different from his story with the same title that was published in Weird Tales that same year.  The Weird Tales story has an active copyright renewal.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-04-08"
+   "last-updated": "2020-03-06"
 }

@@ -1,0 +1,32 @@
+{
+   "title": "World Order",
+   "online": "1",
+   "first-issue":
+      {"issue-date": "1935-04", "volume": "1", "number": "1"},
+   "first-renewed-issue":
+      {"issue-date": "1947-02", "volume": "12", "number": "11"},
+   "first-renewed-issue-source": "1975",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce+database",
+   "renewed-issue-completeness": "active/autorenewals",
+   "renewed-issues": [
+      {"issue-date": "1947-02", "volume": "12", "number": "11"},
+      {"issue-date": "1947-03", "volume": "12", "number": "12"},
+      {"issue-date": "1947-04", "volume": "13", "number": "1"},
+      {"issue-date": "1947-05", "volume": "13", "number": "2"},
+      {"issue-date": "1947-06", "volume": "13", "number": "3"},
+      {"issue-date": "1947-07", "volume": "13", "number": "4"},
+      {"issue-date": "1947-08", "volume": "13", "number": "5"},
+      {"issue-date": "1947-09", "volume": "13", "number": "6"},
+      {"issue-date": "1947-10", "volume": "13", "number": "7"},
+      {"issue-date": "1947-11", "volume": "13", "number": "8"},
+      {"issue-date": "1947-12", "volume": "13", "number": "9"},
+      {"issue-date": "1948-01", "volume": "13", "number": "10"},
+      {"issue-date": "1948-03", "volume": "13", "number": "12"}
+    ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2020-03-08"
+}

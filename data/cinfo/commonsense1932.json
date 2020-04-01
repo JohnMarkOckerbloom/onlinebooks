@@ -1,0 +1,61 @@
+{
+   "title": "Common Sense",
+   "title-note": "1932-1946",
+   "ifirst": {"issue-date": "1932-12-05", "volume": "1", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce",
+   "first-renewed-contribution":
+      {"issue": {"issue-date": "1933-04-13"}},
+   "first-renewed-contribution-source": "1961-JanJun",
+   "last-issue": {"issue-date": "1946-01", "volume": "15", "number": "1"},
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1933-04-13"},
+      "title": "American Revolutionaries",
+      "author": {
+         "authorized": "Stevenson, Philip, 1896-1965",
+         "lcna": "no2002007736"
+      }
+     },
+     {"issue": {"issue-date": "1936-02"},
+      "title": "Poor Little Rich Boy",
+      "author": {
+         "authorized": "Dos Passos, John, 1896-1970",
+         "lcna": "n80001431"
+      }
+     },
+     {"issue": {"issue-date": "1936-03"},
+      "title": "Have You Thought of the Immigrants",
+      "author": {
+         "authorized": "Dos Passos, John, 1896-1970",
+         "lcna": "n80001431"
+      }
+     },
+     {"issue": {"issue-date": "1941-05"},
+        "title": "The Man From the Sky",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1942-09"},
+      "title": "Freedom, East and West",
+       "author": {
+          "authorized": "Buck, Pearl S. (Pearl Sydenstricker), 1892-1973",
+          "lcna": "n79026662"
+        }
+     },
+     {"issue": {"issue-date": "1944-08"},
+      "title": "Our Last Chance in China",
+       "author": {
+          "authorized": "Buck, Pearl S. (Pearl Sydenstricker), 1892-1973",
+          "lcna": "n79026662"
+        }
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2020-03-17"
+}

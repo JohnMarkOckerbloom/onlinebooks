@@ -235,7 +235,9 @@ sub print_table {
       print_cell($renewalinfo);
     }
     my $online = $result->{"Free issue years"};
-    if ($olbpid && $online) {
+    if ($olbpid && $online eq "Predecessor") {
+      print_cell($online, "$contenturl=$olbpid&pr=1");
+    } elsif ($olbpid && $online) {
       print_cell($online, "$contenturl=$olbpid");
     } else {
       print_cell("None known");

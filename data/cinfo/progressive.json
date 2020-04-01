@@ -1,13 +1,131 @@
 {
    "title": "The Progressive",
+   "preceded-by": [{"id": "lafollettes", "note": "La Follette's Magazine"}],
+   "first-issue": {"issue-date": "1929-12-07", "volume": "1", "number": "1"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1944-02-07"}},
    "first-renewed-contribution-source": "1971-JanJun",
+   "first-autorenewed-issue": {"issue-date": "1964-02", "cdate": "1964-01-27"},
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1944-02-07"},
+      "title": "A Guidepost for America's Tomorrow",
+      "author": {
+         "authorized": "Chase, Stuart, 1888-1985",
+         "lcna": "n80039724"
+       }
+     },
+     {"issue": {"issue-date": "1953-10"},
+      "title": "Campaign Oratory",
+      "author": {
+         "authorized": "Chase, Stuart, 1888-1985",
+         "lcna": "n80039724"
+       }
+     },
+     {"issue": {"issue-date": "1956-06"},
+      "title": "The Inter Locking Overlappers",
+      "author": {
+         "authorized": "Rovere, Richard H. (Richard Halworth), 1915-1979",
+         "lcna": "n50021788"
+       }
+     },
+     {"issue": {"issue-date": "1957-10"},
+      "title": "Harvest",
+      "author": {
+         "authorized": "Borland, Hal, 1900-1978",
+         "lcna": "n79129584"
+       }
+     },
+     {"issue": {"issue-date": "1957-12"},
+      "title": "Unlimited Horizons for Freedom",
+      "author": {
+         "authorized": "Douglas, William O. (William Orville), 1898-1980",
+         "lcna": "n79041741"
+       }
+     },
+     {"issue": {"issue-date": "1958-01"},
+      "title": "Winter Solstice",
+      "author": {
+         "authorized": "Borland, Hal, 1900-1978",
+         "lcna": "n79129584"
+       }
+     },
+     {"issue": {"issue-date": "1958-01"},
+      "title": "The Right to Be Let Alone",
+      "author": {
+         "authorized": "Douglas, William O. (William Orville), 1898-1980",
+         "lcna": "n79041741"
+       }
+     },
+     {"issue": {"issue-date": "1958-04"},
+      "title": "Springsong",
+      "author": {
+         "authorized": "Borland, Hal, 1900-1978",
+         "lcna": "n79129584"
+       }
+     },
+     {"issue": {"issue-date": "1958-07"},
+      "title": "Midsummer",
+      "author": {
+         "authorized": "Borland, Hal, 1900-1978",
+         "lcna": "n79129584"
+       }
+     },
+     {"issue": {"issue-date": "1960-01"},
+      "title": "Peace, It's Terrible",
+      "author": {
+         "authorized": "Chase, Stuart, 1888-1985",
+         "lcna": "n80039724"
+       }
+     },
+     {"issue": {"issue-date": "1960-02"},
+      "title": "Peace, It Could Be Wonderful",
+      "author": {
+         "authorized": "Chase, Stuart, 1888-1985",
+         "lcna": "n80039724"
+       }
+     },
+     {"issue": {"issue-date": "1960-03"},
+      "title": "I See by the Papers",
+      "author": {
+         "authorized": "Wechsler, James A. (James Arthur), 1915-1983",
+         "lcna": "n50023790"
+       }
+     },
+     {"issue": {"issue-date": "1960-04"},
+      "title": "Is Everybody Happy?",
+      "author": {
+         "authorized": "Wechsler, James A. (James Arthur), 1915-1983",
+         "lcna": "n50023790"
+       }
+     },
+     {"issue": {"issue-date": "1960-05"},
+      "title": "The Liberal Retreat",
+      "author": {
+         "authorized": "Wechsler, James A. (James Arthur), 1915-1983",
+         "lcna": "n50023790"
+       }
+     },
+     {"issue": {"issue-date": "1962-12"}, 
+      "title": "A Letter to My Nephew",
+      "author": {
+       "authorized": "Baldwin, James, 1924-1987",
+       "lcna": "n79076619"
+      }
+     },
+     {"issue": {"issue-date": "1964-01"}, 
+      "title": "How to Get Rich Without Really Trying",
+      "author": {
+       "authorized": "Stern, Philip M.",
+       "lcna": "n79144817"
+      }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-02-25"
+   "last-updated": "2020-03-23"
 }

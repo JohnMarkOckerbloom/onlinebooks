@@ -1,0 +1,47 @@
+{
+   "title": "Contact",
+   "title-note": "1932",
+   "first-issue": {"issue-date": "1932-02", "volume": "1", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce",
+   "first-renewed-contribution":
+      {"issue": {"issue-date": "1932-02", "volume": "1", "number": "1"}},
+   "first-renewed-contribution-source": "1959-JanJun",
+   "last-issue": {"issue-date": "1932-10", "volume": "1", "number": "3"},
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1932-02", "volume": "1", "number": "1"},
+      "title": "Scenario",
+      "author": {
+        "authorized": "Perelman, S. J. (Sidney Joseph), 1904-1979",
+        "lcna": "n50009669"
+      }
+     },
+     {"issue": {"issue-date": "1932-05", "volume": "1", "number": "2"},
+       "title": "Over the Green Mountains",
+       "author": {
+         "authorized": "Caldwell, Erskine, 1903-1987",
+         "lcna": "n78095661"
+       }
+     },
+     {"issue": {"issue-date": "1932-10", "volume": "1", "number": "3"},
+       "title": "Mamma's Little Girl",
+       "author": {
+         "authorized": "Caldwell, Erskine, 1903-1987",
+         "lcna": "n78095661"
+       }
+     },
+     {"issue": {"issue-date": "1932-10", "volume": "1", "number": "3"},
+      "title": "Entered as Second Class Matter",
+      "author": {
+        "authorized": "Perelman, S. J. (Sidney Joseph), 1904-1979",
+        "lcna": "n50009669"
+      }
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2020-03-11"
+}

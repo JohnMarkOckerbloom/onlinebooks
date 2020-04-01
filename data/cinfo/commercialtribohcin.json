@@ -1,0 +1,26 @@
+{
+   "title": "Cincinnati Commercial Tribune",
+   "aka": ["The Commercial Tribune"],
+   "online": "1",
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce",
+   "first-renewed-contribution":
+      {"issue": {"issue-date": "1928-04-08"}},
+   "first-renewed-contribution-source": "1955-JanJun",
+   "last-issue": {"issue-date": "1930-12-03"},
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1928-04-08"},
+      "title": "Golden Vanity",
+      "author": {
+       "authorized": "Wetjen, Albert Richard, 1900-1948",
+       "lcna": "no2009138376"
+      }
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2020-03-17"
+}

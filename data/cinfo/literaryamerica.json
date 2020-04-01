@@ -1,0 +1,32 @@
+{
+   "title": "Literary America",
+   "first-issue":
+      {"issue-date": "1934-04", "volume": "1", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce",
+   "first-renewed-contribution": {"issue": {"issue-date": "1934-12"}},
+   "first-renewed-contribution-source": "1962-JanJun",
+   "last-issue": 
+      {"issue-date": "1936-Winter", "volume": "4", "number": "2"},
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1934-12"},
+      "title": "Pennants Must Have Breezes",
+      "author": {
+         "authorized": "Weidman, Jerome, 1913-1998",
+         "lcna": "n50022730"
+       }
+     },
+     {"issue": {"issue-date": "1935-02"},
+      "title": "Old Clothes for Poland",
+      "author": {
+         "authorized": "Weidman, Jerome, 1913-1998",
+         "lcna": "n50022730"
+       }
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2020-03-10"
+}

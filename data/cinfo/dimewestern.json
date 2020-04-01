@@ -13,10 +13,20 @@
       {"issue": {"issue-date": "1934-11-01", "volume": "7", "number": "2"}},
    "first-renewed-contribution-source": "1962-JulDec",
    "last-issue": {"issue-date": "1954-09", "volume": "65", "number": "3"},
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1946-10"},
+      "title": "Jimmy Dunn Deals the Boothill Ace!",
+      "note": "A 1974 CCE renewal record notes 'Jimmy Dun Deals the Boothill' as appearing in the October 1946 issue of Ace-High Western stories, but the renewal likely refers to this story in this magazine.",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     }
+   ],
    "additional-note": "'Dime Western Magazine Combined With Western Rangers' was the cover title of this magazine between May 1950 and May 1951.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-05-19"
+   "last-updated": "2020-03-11"
 }
