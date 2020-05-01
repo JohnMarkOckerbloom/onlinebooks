@@ -1,20 +1,18 @@
 {
    "title": "Poetry",
    "online": "1",
+   "contents": [
+      {"url": "https://www.jstor.org/journal/poetry",
+      "note": "JSTOR (full text also available; after 1924 may require subscription or payment)"}
+   ],
    "first-renewed-issue": 
      {"issue-date": "1944-01", "volume": "63", "number": "3"},
    "first-renewed-issue-source": "1971",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1925-01"}},
-   "first-renewed-contribution-source": "1952-JanJun",
-   "renewed-contribution-completeness": "active/1924",
+     {"issue": {"issue-date": "1925-08"}},
+   "first-renewed-contribution-source": "1952-JulDec",
+   "renewed-contribution-completeness": "active/1940",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1925-01", "cdate": "1924-12-24"},
-      "title": "Landscape Poems",
-       "author": {
-         "name": "Collister Hutchison"
-       }
-     },
      {"issue": {"issue-date": "1925-08"},
       "title": "Sonnet (Dawn-Late Summer)",
        "author": {
@@ -28,11 +26,798 @@
          "authorized": "Lowell, Amy, 1874-1925",
          "lcna": "n79076111"
         }
+     },
+     {"issue": {"issue-date": "1927-01"},
+      "title": "White Petal Nanitch",
+      "author": {
+         "authorized": "Davis, H. L. (Harold Lenoir), 1896-1960",
+         "lcna": "n50036181"
+      }
+     },
+     {"issue": {"issue-date": "1927-05"},
+        "title": "Croquis",
+        "author": {
+         "name": "Hazel Collister Hutchison"
+        }
+     },
+     {"issue": {"issue-date": "1927-07"},
+        "title": "Sonnets",
+        "author": {
+         "authorized": "Aiken, Conrad, 1889-1973",
+         "lcna": "n80060447"
+        }
+     },
+     {"issue": {"issue-date": "1928-08"},
+      "title": "Hour After Dawn",
+       "author": {
+         "authorized": "Riggs, Lynn, 1899-1954",
+         "lcna": "n82013440"
+       }
+     },
+     {"issue": {"issue-date": "1928-08"},
+      "title": "Charger",
+       "author": {
+         "authorized": "Riggs, Lynn, 1899-1954",
+         "lcna": "n82013440"
+       }
+     },
+     {"issue": {"issue-date": "1928-08"},
+      "title": "Bastinado",
+       "author": {
+         "authorized": "Riggs, Lynn, 1899-1954",
+         "lcna": "n82013440"
+       }
+     },
+     {"issue": {"issue-date": "1928-08"},
+      "title": "The Wolves",
+       "author": {
+         "authorized": "Riggs, Lynn, 1899-1954",
+         "lcna": "n82013440"
+       }
+     },
+     {"issue": {"issue-date": "1928-08"},
+      "title": "The Golden Cockerel",
+       "author": {
+         "authorized": "Riggs, Lynn, 1899-1954",
+         "lcna": "n82013440"
+       }
+     },
+     {"issue": {"issue-date": "1928-08"},
+      "title": "Portrait of a Peer",
+       "author": {
+         "authorized": "Riggs, Lynn, 1899-1954",
+         "lcna": "n82013440"
+       }
+     },
+     {"issue": {"issue-date": "1928-08"},
+      "title": "The Fountain",
+       "author": {
+         "authorized": "Riggs, Lynn, 1899-1954",
+         "lcna": "n82013440"
+       }
+     },
+     {"issue": {"issue-date": "1928-09"},
+      "title": "Steel Gang",
+      "author": {
+         "authorized": "Davis, H. L. (Harold Lenoir), 1896-1960",
+         "lcna": "n50036181"
+      }
+     },
+     {"issue": {"issue-date": "1928-09"},
+      "title": "Cloudy Day",
+      "author": {
+         "authorized": "Davis, H. L. (Harold Lenoir), 1896-1960",
+         "lcna": "n50036181"
+      }
+     },
+     {"issue": {"issue-date": "1928-09"},
+      "title": "Rivers to Children",
+      "author": {
+         "authorized": "Davis, H. L. (Harold Lenoir), 1896-1960",
+         "lcna": "n50036181"
+      }
+     },
+     {"issue": {"issue-date": "1928-12"},
+        "title": "From Fire in a Field",
+        "author": {
+         "name": "Hazel Collister Hutchison"
+        }
+     },
+     {"issue": {"issue-date": "1929-07"},
+       "title": "Vita Nuova",
+       "author": {
+        "authorized": "Kunitz, Stanley, 1905-2006",
+        "lcna": "n79007720"
+       }
+     },
+     {"issue": {"issue-date": "1929-07"},
+       "title": "Prophecy on Lethe",
+       "author": {
+        "authorized": "Kunitz, Stanley, 1905-2006",
+        "lcna": "n79007720"
+       }
+     },
+     {"issue": {"issue-date": "1929-07"},
+       "title": "Poem",
+       "author": {
+        "authorized": "Kunitz, Stanley, 1905-2006",
+        "lcna": "n79007720"
+       }
+     },
+     {"issue": {"issue-date": "1929-07"},
+       "title": "Twilight",
+       "author": {
+        "authorized": "Kunitz, Stanley, 1905-2006",
+        "lcna": "n79007720"
+       }
+     },
+     {"issue": {"issue-date": "1929-07"},
+       "title": "First Love",
+       "author": {
+        "authorized": "Kunitz, Stanley, 1905-2006",
+        "lcna": "n79007720"
+       }
+     },
+     {"issue": {"issue-date": "1929-07"},
+       "title": "Postscript",
+       "author": {
+        "authorized": "Kunitz, Stanley, 1905-2006",
+        "lcna": "n79007720"
+       }
+     },
+     {"issue": {"issue-date": "1929-07"},
+       "title": "A Daughter of the Sun is She",
+       "author": {
+        "authorized": "Kunitz, Stanley, 1905-2006",
+        "lcna": "n79007720"
+       }
+     },
+     {"issue": {"issue-date": "1929-07"},
+       "title": "Last Words",
+       "author": {
+        "authorized": "Kunitz, Stanley, 1905-2006",
+        "lcna": "n79007720"
+       }
+     },
+     {"issue": {"issue-date": "1929-09"},
+       "title": "He",
+       "author": {
+        "authorized": "Kunitz, Stanley, 1905-2006",
+        "lcna": "n79007720"
+       }
+     },
+     {"issue": {"issue-date": "1930-10"}, 
+      "title": "Three Sonnets: Women Have Loved Before; I Know My Mind; Even in the Moment",
+      "author": {
+       "authorized": "Millay, Edna St. Vincent, 1892-1950",
+       "lcna": "n79062746"
+      }
+     },
+     {"issue": {"issue-date": "1931-03"},
+      "title": "Lost Life",
+      "author": {
+       "authorized": "Ghiselin, Brewster, 1903-2002",
+       "lcna": "n80057026"
+      }
+     },
+     {"issue": {"issue-date": "1931-03"},
+       "title": "The Tree",
+       "author": {
+        "authorized": "Benét, Laura",
+        "lcna": "n50008105"
+       }
+     },
+     {"issue": {"issue-date": "1931-11"},
+        "title": "Memorial for Dead Friends",
+        "author": {
+         "authorized": "Ficke, Arthur Davison, 1883-1945",
+         "lcna": "n82119450"
+        }
+     },
+     {"issue": {"issue-date": "1932-05"},
+        "title": "The Anabasis",
+        "author": {
+         "authorized": "Tate, Allen, 1899-1979",
+         "lcna": "n80044856"
+        }
+     },
+     {"issue": {"issue-date": "1932-10"},
+        "title": "O Beauty Infinite",
+        "author": {
+         "authorized": "Ficke, Arthur Davison, 1883-1945",
+         "lcna": "n82119450"
+        }
+     },
+     {"issue": {"issue-date": "1932-10"},
+        "title": "On Dying",
+        "author": {
+         "authorized": "Ficke, Arthur Davison, 1883-1945",
+         "lcna": "n82119450"
+        }
+     },
+     {"issue": {"issue-date": "1933-05"},
+      "title": "In Argos",
+      "author": {
+         "authorized": "Davis, H. L. (Harold Lenoir), 1896-1960",
+         "lcna": "n50036181"
+      }
+     },
+     {"issue": {"issue-date": "1933-05"},
+      "title": "New Birds",
+      "author": {
+         "authorized": "Davis, H. L. (Harold Lenoir), 1896-1960",
+         "lcna": "n50036181"
+      }
+     },
+     {"issue": {"issue-date": "1933-06"},
+        "title": "America Remembers",
+        "author": {
+         "authorized": "Engle, Paul, 1908-1991",
+         "lcna": "n79084424"
+        }
+     },
+     {"issue": {"issue-date": "1934-01"},
+       "title": "Dilemma",
+       "author": {
+         "authorized": "Aldington, Richard, 1892-1962",
+         "lcna": "n80057251"
+       }
+     },
+     {"issue": {"issue-date": "1934-05"},
+       "title": "Lige Weedy'a Fiddle",
+       "author": {
+        "authorized": "Benét, Laura",
+        "lcna": "n50008105"
+       }
+     },
+     {"issue": {"issue-date": "1936-01"},
+        "title": "They Vie With Waves",
+        "author": {
+         "authorized": "Marshall, Lenore, 1897-1971",
+         "lcna": "n82004368"
+        }
+     },
+     {"issue": {"issue-date": "1936-01"},
+        "title": "After Illness",
+        "author": {
+         "authorized": "Marshall, Lenore, 1897-1971",
+         "lcna": "n82004368"
+        }
+     },
+     {"issue": {"issue-date": "1936-07"}, 
+      "title": "Kind Valentine",
+      "author": {
+       "authorized": "Schubert, David, 1913-1946",
+       "lcna": "n87103442"
+      }
+     },
+     {"issue": {"issue-date": "1936-07"}, 
+        "title": "Long Live the Weeds",
+        "author": {
+         "authorized": "Roethke, Theodore, 1908-1963",
+         "lcna": "n79060436"
+        }
+     },
+     {"issue": {"issue-date": "1937-04"}, 
+      "title": "Crooked Road, Crooked Year",
+      "author": {
+       "authorized": "Schubert, David, 1913-1946",
+       "lcna": "n87103442"
+      }
+     },
+     {"issue": {"issue-date": "1937-04"}, 
+      "title": "The Lake",
+      "author": {
+       "authorized": "Schubert, David, 1913-1946",
+       "lcna": "n87103442"
+      }
+     },
+     {"issue": {"issue-date": "1937-04"}, 
+      "title": "When Apples on the Lilac",
+      "author": {
+       "authorized": "Schubert, David, 1913-1946",
+       "lcna": "n87103442"
+      }
+     },
+     {"issue": {"issue-date": "1937-04"}, 
+        "title": "Rilke in His Age",
+        "author": {
+         "authorized": "Bogan, Louise, 1897-1970",
+         "lcna": "n50010084"
+        }
+     },
+     {"issue": {"issue-date": "1937-05"}, 
+        "title": "The Man With the Blue Guitar, No. 1-13",
+        "author": {
+         "authorized": "Stevens, Wallace, 1879-1955",
+         "lcna": "n79086767"
+        }
+     },
+     {"issue": {"issue-date": "1937-05"}, 
+      "title": "Crow on the Husk",
+      "author": {
+       "authorized": "Schubert, David, 1913-1946",
+       "lcna": "n87103442"
+      }
+     },
+     {"issue": {"issue-date": "1937-06"}, 
+        "title": "The Shuttle: This Hour; My Love Was Light",
+        "author": {
+         "authorized": "Williams, Tennessee, 1911-1983",
+         "using": "Thomas Lanier Williams",
+         "lcna": "n79090096"
+        }
+     },
+     {"issue": {"issue-date": "1937-11"}, 
+        "title": "Reply to Censure",
+        "author": {
+         "authorized": "Roethke, Theodore, 1908-1963",
+         "lcna": "n79060436"
+        }
+     },
+     {"issue": {"issue-date": "1938-08"}, 
+      "title": "Four Poems",
+      "author": {
+       "authorized": "Barnard, Mary, 1909-2001",
+       "lcna": "n82222045"
+      }
+     },
+     {"issue": {"issue-date": "1938-10"}, 
+      "title": "Inert Perfection",
+      "author": {
+       "authorized": "Millay, Edna St. Vincent, 1892-1950",
+       "lcna": "n79062746"
+      }
+     },
+     {"issue": {"issue-date": "1938-10"}, 
+      "title": "Song for Young Lovers in a City",
+      "author": {
+       "authorized": "Millay, Edna St. Vincent, 1892-1950",
+       "lcna": "n79062746"
+      }
+     },
+     {"issue": {"issue-date": "1938-10"}, 
+      "title": "The Fitting",
+      "author": {
+       "authorized": "Millay, Edna St. Vincent, 1892-1950",
+       "lcna": "n79062746"
+      }
+     },
+     {"issue": {"issue-date": "1938-10"}, 
+      "title": "What Savage Blossom",
+      "author": {
+       "authorized": "Millay, Edna St. Vincent, 1892-1950",
+       "lcna": "n79062746"
+      }
+     },
+     {"issue": {"issue-date": "1938-10"}, 
+      "title": "Intention to Escape From Him",
+      "author": {
+       "authorized": "Millay, Edna St. Vincent, 1892-1950",
+       "lcna": "n79062746"
+      }
+     },
+     {"issue": {"issue-date": "1938-10"}, 
+      "title": "The Road to the Past",
+      "author": {
+       "authorized": "Millay, Edna St. Vincent, 1892-1950",
+       "lcna": "n79062746"
+      }
+     },
+     {"issue": {"issue-date": "1938-10"}, 
+      "title": "Sonnet in Tetrameter",
+      "author": {
+       "authorized": "Millay, Edna St. Vincent, 1892-1950",
+       "lcna": "n79062746"
+      }
+     },
+     {"issue": {"issue-date": "1938-10"}, 
+      "title": "Truce for a Moment",
+      "author": {
+       "authorized": "Millay, Edna St. Vincent, 1892-1950",
+       "lcna": "n79062746"
+      }
+     },
+     {"issue": {"issue-date": "1938-10"}, 
+      "title": "Four Songs",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1939-01"},
+        "title": "Mortals",
+        "author": {
+         "authorized": "Cummings, E. E. (Edward Estlin), 1894-1962",
+         "lcna": "n79038464"
+        }
+     },
+     {"issue": {"issue-date": "1939-01"},
+        "title": "These Children Singing in Stone a",
+        "author": {
+         "authorized": "Cummings, E. E. (Edward Estlin), 1894-1962",
+         "lcna": "n79038464"
+        }
+     },
+     {"issue": {"issue-date": "1939-01"},
+        "title": "Nouns to Nouns",
+        "author": {
+         "authorized": "Cummings, E. E. (Edward Estlin), 1894-1962",
+         "lcna": "n79038464"
+        }
+     },
+     {"issue": {"issue-date": "1939-01"},
+        "title": "When What Hugs Stopping Earth Than Silent Is",
+        "author": {
+         "authorized": "Cummings, E. E. (Edward Estlin), 1894-1962",
+         "lcna": "n79038464"
+        }
+     },
+     {"issue": {"issue-date": "1939-01"},
+        "title": "Up Into the Silence the Green",
+        "author": {
+         "authorized": "Cummings, E. E. (Edward Estlin), 1894-1962",
+         "lcna": "n79038464"
+        }
+     },
+     {"issue": {"issue-date": "1939-01"},
+        "title": "Six",
+        "author": {
+         "authorized": "Cummings, E. E. (Edward Estlin), 1894-1962",
+         "lcna": "n79038464"
+        }
+     },
+     {"issue": {"issue-date": "1939-01"},
+        "title": "Love is More Thicker Than Forget",
+        "author": {
+         "authorized": "Cummings, E. E. (Edward Estlin), 1894-1962",
+         "lcna": "n79038464"
+        }
+     },
+     {"issue": {"issue-date": "1939-05"}, 
+      "title": "My Earnestness, Which Might at First Offend",
+      "author": {
+       "authorized": "Millay, Edna St. Vincent, 1892-1950",
+       "lcna": "n79062746"
+      }
+     },
+     {"issue": {"issue-date": "1939-05"}, 
+      "title": "Rendezvous",
+      "author": {
+       "authorized": "Millay, Edna St. Vincent, 1892-1950",
+       "lcna": "n79062746"
+      }
+     },
+     {"issue": {"issue-date": "1939-05"}, 
+      "title": "Modern Declaration",
+      "author": {
+       "authorized": "Millay, Edna St. Vincent, 1892-1950",
+       "lcna": "n79062746"
+      }
+     },
+     {"issue": {"issue-date": "1939-05"}, 
+      "title": "True Encounter",
+      "author": {
+       "authorized": "Millay, Edna St. Vincent, 1892-1950",
+       "lcna": "n79062746"
+      }
+     },
+     {"issue": {"issue-date": "1939-05"}, 
+      "title": "Plaid Dress",
+      "author": {
+       "authorized": "Millay, Edna St. Vincent, 1892-1950",
+       "lcna": "n79062746"
+      }
+     },
+     {"issue": {"issue-date": "1939-05"}, 
+      "title": "This Dusky Faith",
+      "author": {
+       "authorized": "Millay, Edna St. Vincent, 1892-1950",
+       "lcna": "n79062746"
+      }
+     },
+     {"issue": {"issue-date": "1939-05"}, 
+      "title": "Snow Storm",
+      "author": {
+       "authorized": "Millay, Edna St. Vincent, 1892-1950",
+       "lcna": "n79062746"
+      }
+     },
+     {"issue": {"issue-date": "1939-05"}, 
+      "title": "Two Voices",
+      "author": {
+       "authorized": "Millay, Edna St. Vincent, 1892-1950",
+       "lcna": "n79062746"
+      }
+     },
+     {"issue": {"issue-date": "1940-01"},
+        "title": "Three Women",
+        "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+        }
+     },
+     {"issue": {"issue-date": "1940-03"},
+        "title": "Winter Night",
+        "author": {
+         "authorized": "Pierce, Edith Lovejoy, 1904-",
+         "lcna": "n2008034789"
+        }
+     },
+     {"issue": {"issue-date": "1940-07"},
+        "title": "Dylan Thomas",
+        "author": {
+         "authorized": "Aiken, Conrad, 1889-1973",
+         "lcna": "n80060447"
+        }
+     },
+     {"issue": {"issue-date": "1940-08"},
+        "title": "You Which Could Grin Three Smiles Into a Dead",
+        "author": {
+         "authorized": "Cummings, E. E. (Edward Estlin), 1894-1962",
+         "lcna": "n79038464"
+        }
+     },
+     {"issue": {"issue-date": "1940-08"},
+        "title": "A Pretty a Day",
+        "author": {
+         "authorized": "Cummings, E. E. (Edward Estlin), 1894-1962",
+         "lcna": "n79038464"
+        }
+     },
+     {"issue": {"issue-date": "1940-08"},
+        "title": "I Say No World",
+        "author": {
+         "authorized": "Cummings, E. E. (Edward Estlin), 1894-1962",
+         "lcna": "n79038464"
+        }
+     },
+     {"issue": {"issue-date": "1940-08"},
+        "title": "If You Can't Eat You Got To",
+        "author": {
+         "authorized": "Cummings, E. E. (Edward Estlin), 1894-1962",
+         "lcna": "n79038464"
+        }
+     },
+     {"issue": {"issue-date": "1940-08"},
+        "title": "There Are Possibly 2-1/2 or Impossibly 3",
+        "note": "Issue as stated in CCE renewal record.  We did not find a poem with that title or line in this issue, though we also did not find a renewal for the first poem of that issue's 'Five Poems' sequence, whose other four poems were renewed. We do not know if this is an early version of that first poem.",
+        "author": {
+         "authorized": "Cummings, E. E. (Edward Estlin), 1894-1962",
+         "lcna": "n79038464"
+        }
+     },
+     {"issue": {"issue-date": "1940-08"},
+      "title": "Coming and Going of Storms",
+      "author": {
+        "authorized": "Taggard, Genevieve, 1894-1948",
+        "lcna": "n80080301"
+      }
+     },
+     {"issue": {"issue-date": "1940-10"},
+        "title": "University",
+        "author": {
+         "authorized": "Shapiro, Karl, 1913-2000",
+         "lcna": "n79021704"
+        }
+     },
+     {"issue": {"issue-date": "1940-10"},
+        "title": "Love Poem; Necropolis",
+        "author": {
+         "authorized": "Shapiro, Karl, 1913-2000",
+         "lcna": "n79021704"
+        }
+     },
+     {"issue": {"issue-date": "1940-12"},
+        "title": "9, 19, 1939",
+        "author": {
+         "authorized": "Jeffers, Robinson, 1887-1962",
+         "lcna": "n80035864"
+        }
+     },
+     {"issue": {"issue-date": "1940-12"},
+        "title": "Finland is Down",
+        "author": {
+         "authorized": "Jeffers, Robinson, 1887-1962",
+         "lcna": "n80035864"
+        }
+     },
+     {"issue": {"issue-date": "1940-12"},
+        "title": "Great Men",
+        "author": {
+         "authorized": "Jeffers, Robinson, 1887-1962",
+         "lcna": "n80035864"
+        }
+     },
+     {"issue": {"issue-date": "1940-12"},
+        "title": "The Stars Go Over the Lonely Ocean",
+        "author": {
+         "authorized": "Jeffers, Robinson, 1887-1962",
+         "lcna": "n80035864"
+        }
+     },
+     {"issue": {"issue-date": "1940-12"},
+        "title": "The Bloody Sire",
+        "author": {
+         "authorized": "Jeffers, Robinson, 1887-1962",
+         "lcna": "n80035864"
+        }
+     },
+     {"issue": {"issue-date": "1940-12"},
+        "title": "Ring Out, Ring In",
+        "author": {
+         "authorized": "Norman, Charles, 1904-1996",
+         "lcna": "n50005991"
+        }
+     },
+     {"issue": {"issue-date": "1941-02"},
+        "title": "Terror",
+        "author": {
+         "authorized": "Warren, Robert Penn, 1905-1989",
+         "lcna": "n78091524"
+        }
+     },
+     {"issue": {"issue-date": "1941-02"},
+        "title": "Sale",
+        "author": {
+         "authorized": "Roethke, Theodore, 1908-1963",
+         "lcna": "n79060436"
+        }
+     },
+     {"issue": {"issue-date": "1941-03"},
+      "title": "Gilfeather",
+      "author": {
+        "authorized": "Taggard, Genevieve, 1894-1948",
+        "lcna": "n80080301"
+      }
+     },
+     {"issue": {"issue-date": "1941-03"},
+      "title": "Four Songs for Musical Settings",
+      "author": {
+        "authorized": "Taggard, Genevieve, 1894-1948",
+        "lcna": "n80080301"
+      }
+     },
+     {"issue": {"issue-date": "1941-03"},
+        "title": "James Joyce (1882-1941)",
+        "note": "Title as given in issue. CCE renewal record gives title as 'James Joyce, 1882-1914'.",
+        "author": {
+         "authorized": "Wilder, Thornton, 1897-1975",
+         "lcna": "n79062874"
+        }
+     },
+     {"issue": {"issue-date": "1941-07"},
+        "title": "Hospital",
+        "author": {
+         "authorized": "Shapiro, Karl, 1913-2000",
+         "lcna": "n79021704"
+        }
+     },
+     {"issue": {"issue-date": "1941-07"},
+        "title": "Pharmacy",
+        "note": "Title as given in issue.  CCE renewal record gives title as 'Drug Store'.",
+        "author": {
+         "authorized": "Shapiro, Karl, 1913-2000",
+         "lcna": "n79021704"
+        }
+     },
+     {"issue": {"issue-date": "1941-07"},
+        "title": "The Snob",
+        "author": {
+         "authorized": "Shapiro, Karl, 1913-2000",
+         "lcna": "n79021704"
+        }
+     },
+     {"issue": {"issue-date": "1941-07"},
+        "title": "Mongolian Idiot",
+        "author": {
+         "authorized": "Shapiro, Karl, 1913-2000",
+         "lcna": "n79021704"
+        }
+     },
+     {"issue": {"issue-date": "1941-07"},
+        "title": "Scyros",
+        "author": {
+         "authorized": "Shapiro, Karl, 1913-2000",
+         "lcna": "n79021704"
+        }
+     },
+     {"issue": {"issue-date": "1941-07"},
+        "title": "The Contraband",
+        "author": {
+         "authorized": "Shapiro, Karl, 1913-2000",
+         "lcna": "n79021704"
+        }
+     },
+     {"issue": {"issue-date": "1941-07"},
+        "title": "My Grandmother",
+        "author": {
+         "authorized": "Shapiro, Karl, 1913-2000",
+         "lcna": "n79021704"
+        }
+     },
+     {"issue": {"issue-date": "1941-09"},
+        "title": "America 1941",
+        "author": {
+         "authorized": "Engle, Paul, 1908-1991",
+         "lcna": "n79084424"
+        }
+     },
+     {"issue": {"issue-date": "1941-09"},
+        "title": "On the Birth of My Child",
+        "author": {
+         "authorized": "Engle, Paul, 1908-1991",
+         "lcna": "n79084424"
+        }
+     },
+     {"issue": {"issue-date": "1941-09"},
+        "title": "Elements",
+        "author": {
+         "authorized": "Engle, Paul, 1908-1991",
+         "lcna": "n79084424"
+        }
+     },
+     {"issue": {"issue-date": "1941-09"},
+        "title": "Henry David Thoreau",
+        "author": {
+         "authorized": "Engle, Paul, 1908-1991",
+         "lcna": "n79084424"
+        }
+     },
+     {"issue": {"issue-date": "1941-09"},
+        "title": "Emily Dickinson",
+        "author": {
+         "authorized": "Engle, Paul, 1908-1991",
+         "lcna": "n79084424"
+        }
+     },
+     {"issue": {"issue-date": "1941-09"},
+        "title": "Contrary",
+        "author": {
+         "authorized": "Engle, Paul, 1908-1991",
+         "lcna": "n79084424"
+        }
+     },
+     {"issue": {"issue-date": "1941-09"},
+        "title": "Letter After Drouth",
+        "note": "Title as given in issue. CCE renewal record gives title as 'Letters After Drouth'.",
+        "author": {
+         "authorized": "Engle, Paul, 1908-1991",
+         "lcna": "n79084424"
+        }
+     },
+     {"issue": {"issue-date": "1941-09"},
+      "title": "Range, Range the Words Around",
+      "author": {
+        "authorized": "Taggard, Genevieve, 1894-1948",
+        "lcna": "n80080301"
+      }
+     },
+     {"issue": {"issue-date": "1941-11"},
+        "title": "October 1; A Robbery",
+        "author": {
+         "authorized": "Shapiro, Karl, 1913-2000",
+         "lcna": "n79021704"
+        }
+     },
+     {"issue": {"issue-date": "1941-11"},
+        "title": "Summary of the Distance Between the Bomber and the Objective",
+        "author": {
+         "name": "Walter Benton"
+        }
+     },
+     {"issue": {"issue-date": "1941-11"},
+        "title": "The Quality of Poetry",
+        "author": {
+         "authorized": "Chapin, Katherine Garrison, 1890-1977",
+         "lcna": "n81147752"
+        }
      }
    ],
+   "comment": "Pick up contributions with 1969 January-June",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-05-29"
+   "last-updated": "2020-04-20"
 }

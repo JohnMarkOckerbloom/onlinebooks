@@ -1,5 +1,6 @@
 {
    "title": "Planet Stories",
+   "online": "1",
    "contents": [
       {"url": "http://www.isfdb.org/cgi-bin/pe.cgi?23725",
        "note": "ISFDB"},
@@ -16,10 +17,484 @@
    "last-issue":
      {"issue-date": "1955-Summer", "volume": "6", "number": "11"},
    "see-also": [{"id": "planetcomics", "note": "Planet Comics"}],
-   "additional-note": "As noted in the record for Planet Comics (a periodical from the same publisher), a 1950 story that was attributed to Planet Comics in its renewal record appears to have actually been published in this magazine, and should be noted here if we prepare a full list of contributions.",
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+       {"issue": {"issue-date": "1940-Summer", "volume": "1", "number": "3"},
+        "title": "The Forbidden Dream",
+        "author": {
+          "authorized": "Rocklynne, Ross, 1913-1988",
+          "lcna": "n88278070"
+        }
+       },
+       {"issue": {"issue-date": "1940-Summer", "volume": "1", "number": "3"},
+        "title": "The Dark Swordsmen of Saturn",
+        "author": {
+          "authorized": "Jones, Neil R., 1909-1988",
+          "lcna": "no2015107166"
+        }
+       },
+       {"issue": {"issue-date": "1940-Fall", "volume": "1", "number": "4"},
+        "title": "Hermit of Saturn's Ring",
+        "author": {
+          "authorized": "Jones, Neil R., 1909-1988",
+          "lcna": "no2015107166"
+        }
+       },
+       {"issue": {"issue-date": "1940-Winter", "volume": "1", "number": "5"}, 
+        "title": "One Thousand Miles Below",
+        "note": "Author name is a pseudonym for Earl and Otto Binder",
+        "author": {
+          "authorized": "Binder, Eando",
+          "lcna": "no93000146"
+         }
+       },
+       {"issue": {"issue-date": "1940-Winter", "volume": "1", "number": "5"}, 
+        "title": "Atom of Death",
+        "author": {
+          "authorized": "Rocklynne, Ross, 1913-1988",
+          "lcna": "n88278070"
+        }
+       },
+       {"issue": {"issue-date": "1941-Spring", "volume": "1", "number": "6"},
+        "title": "Vampire of the Void",
+        "author": {
+          "authorized": "Jones, Neil R., 1909-1988",
+          "lcna": "no2015107166"
+        }
+       },
+       {"issue": {"issue-date": "1941-Spring", "volume": "1", "number": "6"},
+        "title": "Exiles of the Desert Star",
+        "author": {
+          "authorized": "Rocklynne, Ross, 1913-1988",
+          "lcna": "n88278070"
+        }
+       },
+       {"issue": {"issue-date": "1941-Summer", "volume": "1", "number": "7"},
+        "title": "Mutiny Aboard the 'Terra'",
+        "note": "Title as given on cover.  CCE renewal record gives title as 'Mutiny on the Terra'.",
+        "author": {
+          "authorized": "Rocklynne, Ross, 1913-1988",
+          "lcna": "n88278070"
+        }
+       },
+       {"issue": {"issue-date": "1941-Fall", "volume": "1", "number": "8"}, 
+        "title": "Vassals of the Master World",
+        "note": "Author name is a pseudonym for Earl and Otto Binder",
+        "author": {
+          "authorized": "Binder, Eando",
+          "lcna": "no93000146"
+         }
+       },
+       {"issue": {"issue-date": "Winter 1941/42", "volume": "1", "number": "9"},
+        "title": "Man of the Stars",
+        "author": {
+          "authorized": "Moskowitz, Sam",
+          "lcna": "n50007974"
+        }
+       },
+       {"issue": {"issue-date": "1942-Spring", "volume": "1", "number": "10"}, 
+        "title": "Black Friar of the Flame",
+        "author": {
+          "authorized": "Asimov, Isaac, 1920-1992",
+          "lcna": "n80126289"
+        }
+       },
+       {"issue": {"issue-date": "1942-Summer", "volume": "1", "number": "11"},
+        "title": "Task to Lahri",
+        "author": {
+          "authorized": "Rocklynne, Ross, 1913-1988",
+          "lcna": "n88278070"
+        }
+       },
+       {"issue": {"issue-date": "1942-Summer", "volume": "1", "number": "11"},
+        "title": "As It Was",
+        "author": {
+          "authorized": "Rocklynne, Ross, 1913-1988",
+          "using": "Carlton Smith",
+          "lcna": "n88278070"
+        }
+       },
+       {"issue": {"issue-date": "1942-Winter", "volume": "2", "number": "1"},
+        "title": "Spoilers of the Spaceways",
+        "author": {
+          "authorized": "Jones, Neil R., 1909-1988",
+          "lcna": "no2015107166"
+        }
+       },
+       {"issue": {"issue-date": "1943-03", "volume": "2", "number": "2"},
+        "title": "Slaves of the Ninth Moon",
+        "author": {
+          "authorized": "Rocklynne, Ross, 1913-1988",
+          "lcna": "n88278070"
+        }
+       },
+       {"issue": {"issue-date": "1943-05", "volume": "2", "number": "3"},
+        "title": "The Sandhound",
+        "author": {
+          "authorized": "Rocklynne, Ross, 1913-1988",
+          "lcna": "n88278070"
+        }
+       },
+       {"issue": {"issue-date": "1945-Spring", "volume": "2", "number": "10"},
+        "title": "The Sandhound Strikes",
+        "author": {
+          "authorized": "Rocklynne, Ross, 1913-1988",
+          "lcna": "n88278070"
+        }
+       },
+       {"issue": {"issue-date": "1945-Fall", "volume": "2", "number": "12"},
+        "title": "The Bubble Dwellers",
+        "author": {
+          "authorized": "Rocklynne, Ross, 1913-1988",
+          "lcna": "n88278070"
+        }
+       },
+       {"issue": {"issue-date": "1945-Winter", "volume": "3", "number": "1"},
+        "title": "The Diversipal",
+        "note": "Title as given in CCE renewal record.  FictionMags gives title as 'The Diversifal'. I have not examined the issue in question.",
+        "author": {
+          "authorized": "Rocklynne, Ross, 1913-1988",
+          "lcna": "n88278070"
+        }
+       },
+       {"issue": {"issue-date": "1946-Summer", "volume": "3", "number": "3"},
+        "title": "Pumpkin Eater",
+        "author": {
+          "authorized": "Rocklynne, Ross, 1913-1988",
+          "using": "Carlton Smith",
+          "lcna": "n88278070"
+        }
+       },
+       {"issue": {"issue-date": "1946-Summer", "volume": "3", "number": "3"},
+        "title": "Captives of the Weir Wind",
+        "author": {
+          "authorized": "Rocklynne, Ross, 1913-1988",
+          "lcna": "n88278070"
+        }
+       },
+       {"issue": {"issue-date": "1946-Summer", "volume": "3", "number": "3"},
+        "title": "Million Year Picnic",
+        "author": {
+          "authorized": "Bradbury, Ray, 1920-2012",
+          "lcna": "n79139258"
+        }
+       },
+       {"issue": {"issue-date": "1946-Fall", "volume": "3", "number": "4"},
+        "title": "Six Tuesdays",
+        "author": {
+          "authorized": "Rocklynne, Ross, 1913-1988",
+          "lcna": "n88278070"
+        }
+       },
+       {"issue": {"issue-date": "1947-Winter",
+                  "volume": "3", "number": "9"}, 
+        "title": "The Running of the Zar",
+        "author": {
+          "authorized": "Garson, Bill",
+          "using": "Vaseleos Garson",
+          "lcna": "n79027045"
+        }
+       },
+       {"issue": {"issue-date": "1948-Spring", "volume": "3", "number": "10"}, 
+        "title": "Confusion Cargo",
+        "note": "CCE renewal record specifies issue as 'Spring 1947'; issue in which it appears is dated 'Spring 1948' on the cover and 'Dec. 1947-Feb. 1948' on the contents page.",
+        "author": {
+          "authorized": "Tenn, William, 1920-2010",
+          "using": "Kenneth Putnam",
+          "lcna": "n88651363"
+        }
+       },
+       {"issue": {"issue-date": "1948-Fall", "volume": "3", "number": "12"},
+        "title": "Mars is Heaven",
+        "author": {
+          "authorized": "Bradbury, Ray, 1920-2012",
+          "lcna": "n79139258"
+        }
+       },
+       {"issue": {"issue-date": "1948-Fall", "volume": "3", "number": "12"},
+        "title": "Brooklyn Project",
+        "author": {
+          "authorized": "Tenn, William, 1920-2010",
+          "lcna": "n88651363"
+        }
+       },
+       {"issue": {"issue-date": "1950-Spring", "volume": "4", "number": "6"},
+        "title": "Forever and the Earth",
+        "note": "CCE renewal record says this story was published in Planet Comics, but it was actually published in this magazine issue.",
+        "author": {
+          "authorized": "Bradbury, Ray, 1920-2012",
+          "lcna": "n79139258"
+        }
+       },
+       {"issue": {"issue-date": "1950-Summer", "volume": "4", "number": "7"},
+        "title": "Death-by-Rain",
+        "author": {
+          "authorized": "Bradbury, Ray, 1920-2012",
+          "lcna": "n79139258"
+        }
+       },
+       {"issue": {"issue-date": "1950-Fall", "volume": "4", "number": "8"},
+        "title": "Death Wish",
+        "author": {
+          "authorized": "Bradbury, Ray, 1920-2012",
+          "lcna": "n79139258"
+        }
+       },
+       {"issue": {"issue-date": "1950-Fall", "volume": "4", "number": "8"},
+        "title": "The Sky is Falling",
+        "author": {
+           "authorized": "Kuttner, Henry",
+           "using": "C. H. Liddell",
+           "lcna": "n50061631"
+        }
+       },
+       {"issue": {"issue-date": "1950-Fall", "volume": "4", "number": "8"},
+         "title": "Meem",
+         "author": {
+           "authorized": "St. Clair, Margaret",
+           "lcna": "n85038071"
+         }
+       },
+       {"issue": {"issue-date": "1950-11", "volume": "4", "number": "9"},
+        "title": "Carry Me Home",
+        "author": {
+           "authorized": "Kuttner, Henry",
+           "using": "C. H. Liddell",
+           "lcna": "n50061631"
+        }
+       },
+       {"issue": {"issue-date": "1950-11", "volume": "4", "number": "9"},
+        "title": "Final Mission",
+        "author": {
+          "authorized": "MacDonald, John D. (John Dann), 1916-1986",
+          "lcna": "n79045202"
+        }
+       },
+       {"issue": {"issue-date": "1950-11", "volume": "4", "number": "9"},
+        "title": "Mitkey Rides Again",
+        "author": {
+           "authorized": "Brown, Fredric, 1906-1972",
+           "lcna": "n79056291"
+        }
+       },
+       {"issue": {"issue-date": "1951-05", "volume": "4", "number": "12"},
+        "title": "Garrigan's Bems",
+        "authors": [
+         {"authorized": "Reynolds, Mack", "lcna": "n82231916"},
+         {"authorized": "Dickson, Gordon R.", "lcna": "n79109204"}
+        ]
+       },
+       {"issue": {"issue-date": "1951-07", "volume": "5", "number": "1"},
+        "title": "Slave Ship to Andrigo",
+        "author": {
+          "authorized": "Rocklynne, Ross, 1913-1988",
+          "lcna": "n88278070"
+        }
+       },
+       {"issue": {"issue-date": "1951-07", "volume": "5", "number": "1"},
+        "title": "Temple of Han",
+        "author": {
+          "authorized": "Vance, Jack, 1916-2013",
+          "lcna": "n79021250"
+        }
+       },
+       {"issue": {"issue-date": "1951-07", "volume": "5", "number": "1"},
+        "title": "Blackout in Cygni",
+        "author": {
+         "authorized": "Blish, James",
+         "lcna": "n79053667"
+        }
+       },
+       {"issue": {"issue-date": "1951-09", "volume": "5", "number": "2"},
+        "title": "The Incubi of Parallel X",
+        "author": {
+          "authorized": "Sturgeon, Theodore",
+          "lcna": "n80066908"
+        }
+       },
+       {"issue": {"issue-date": "1951-09", "volume": "5", "number": "2"},
+         "title": "The Inhabited Men",
+         "note": "Title as given in issue.  Renewal record in registered works database gives title as 'The Inhabited Man'.",
+         "author": {
+           "authorized": "St. Clair, Margaret",
+           "lcna": "n85038071"
+         }
+       },
+       {"issue": {"issue-date": "1951-09", "volume": "5", "number": "2"},
+        "title": "The Star Fool",
+        "author": {
+         "authorized": "Dickson, Gordon R.",
+         "lcna": "n79109204"
+        }
+       },
+       {"issue": {"issue-date": "1951-11", "volume": "5", "number": "3"},
+        "title": "The Illusionaries",
+        "author": {
+          "authorized": "Russell, Eric Frank, 1905-1978",
+          "lcna": "n81062502"
+        }
+       },
+       {"issue": {"issue-date": "1952-03", "volume": "5", "number": "5"},
+        "title": "Ricochet on Miza",
+        "author": {
+         "authorized": "Dickson, Gordon R.",
+         "lcna": "n79109204"
+        }
+       },
+       {"issue": {"issue-date": "1952-05", "volume": "5", "number": "6"},
+        "title": "War-Maid of Mars",
+        "author": {
+         "authorized": "Anderson, Poul, 1926-2001",
+         "lcna": "n79044004"
+        }
+       },
+       {"issue": {"issue-date": "1952-09", "volume": "5", "number": "8"},
+        "title": "The Star Plunderer",
+        "author": {
+         "authorized": "Anderson, Poul, 1926-2001",
+         "lcna": "n79044004"
+        }
+       },
+       {"issue": {"issue-date": "1952-09", "volume": "5", "number": "8"},
+        "title": "The Slaves of Venus",
+        "author": {
+          "authorized": "Gunn, James E., 1923-",
+          "lcna": "n79068460",
+          "using": "Edwin James"
+        }
+       },
+       {"issue": {"issue-date": "1953-01", "volume": "5", "number": "10"},
+        "title": "Design for Great Day",
+        "author": {
+          "authorized": "Russell, Eric Frank, 1905-1978",
+          "lcna": "n81062502"
+        }
+       },
+       {"issue": {"issue-date": "1953-01", "volume": "5", "number": "10"},
+        "title": "War Drums of Mercury Lost",
+        "author": {
+          "authorized": "Jakes, John, 1932-",
+          "lcna": "n80035843"
+        }
+       },
+       {"issue": {"issue-date": "1953-05", "volume": "5", "number": "12"},
+        "title": "The Infinites",
+        "author": {
+         "authorized": "Dick, Philip K.",
+         "lcna": "n79018147"
+        }
+       },
+       {"issue": {"issue-date": "1953-05", "volume": "5", "number": "12"},
+        "title": "Eyes of the Double Moon",
+        "author": {
+          "authorized": "Hensley, Joe L., 1926-2007",
+          "lcna": "n79095174"
+        }
+       },
+       {"issue": {"issue-date": "1953-07", "volume": "6", "number": "1"},
+        "title": "The Man the Worlds Rejected",
+        "author": {
+         "authorized": "Dickson, Gordon R.",
+         "using": "Dickson Gordon",
+         "lcna": "n79109204"
+        }
+       },
+       {"issue": {"issue-date": "1953-09", "volume": "6", "number": "2"},
+        "title": "The Ark of Mars",
+        "author": {
+         "authorized": "Brackett, Leigh",
+         "lcna": "n79065020"
+        }
+       },
+       {"issue": {"issue-date": "1954-01", "volume": "6", "number": "4"},
+        "title": "Mars Minus Bisha",
+        "author": {
+         "authorized": "Brackett, Leigh",
+         "lcna": "n79065020"
+        }
+       },
+       {"issue": {"issue-date": "1954-05", "volume": "6", "number": "6"},
+        "title": "James P. Crow",
+        "note": "A 1983 renewal record in the registered works database places this in the Spring 1955 issue, but it was actually published in the May 1954 issue.  A 1983 filing may be too late to renew the 1954 publication.",
+        "author": {
+         "authorized": "Dick, Philip K.",
+         "lcna": "n79018147"
+        }
+       },
+       {"issue": {"issue-date": "1954-05", "volume": "6", "number": "6"}, 
+        "title": "Skeletons of Space",
+        "author": {
+          "authorized": "McKimmey, James",
+          "lcna": "no2003053758"
+         }
+       },
+       {"issue": {"issue-date": "1954-Summer", "volume": "6", "number": "7"}, 
+        "title": "The Ogre Test",
+        "author": {
+          "authorized": "Sheckley, Robert, 1928-2005",
+          "lcna": "n50022137"
+         }
+       },
+       {"issue": {"issue-date": "1954-Summer", "volume": "6", "number": "7"}, 
+        "title": "The Last Monster",
+        "author": {
+          "authorized": "McKimmey, James",
+          "lcna": "no2003053758"
+         }
+       },
+       {"issue": {"issue-date": "1954-Summer", "volume": "6", "number": "7"}, 
+        "title": "The Ambassadors of Flesh",
+        "author": {
+         "authorized": "Anderson, Poul, 1926-2001",
+         "lcna": "n79044004"
+        }
+       },
+       {"issue": {"issue-date": "1954-Fall", "volume": "6", "number": "8"}, 
+        "title": "Hex on Hax",
+         "note": "Title as given in issue.  Renewal record in registered works database gives title as 'Hex an Hax'.",
+        "author": {
+          "authorized": "Sheckley, Robert, 1928-2005",
+          "lcna": "n50022137"
+         }
+       },
+       {"issue": {"issue-date": "Winter 1954-55", "volume": "6", "number": "9"},
+        "title": "Teleportress of Alpha 'C'",
+        "author": {
+         "authorized": "Brackett, Leigh",
+         "lcna": "n79065020"
+        }
+       },
+       {"issue": {"issue-date": "Winter 1954-55", "volume": "6", "number": "9"}, 
+        "title": "Bottom is Up",
+        "author": {
+          "name": "Raymond E. Banks"
+         }
+       },
+       {"issue": {"issue-date": "Winter 1954-55", "volume": "6", "number": "9"}, 
+        "title": "Life of a Salesman",
+        "author": {
+          "name": "Raymond E. Banks",
+          "using": "Fred Freair"
+         }
+       },
+       {"issue": {"issue-date": "1955-Spring", "volume": "6", "number": "10"},
+        "title": "Cage of a Thousand Wings",
+        "author": {
+          "authorized": "Budrys, Algis, 1931-2008",
+          "lcna": "n79060196"
+        }
+       },
+       {"issue": {"issue-date": "1955-Summer", "volume": "6", "number": "11"},
+        "title": "Once a Starman",
+        "author": {
+          "authorized": "Hensley, Joe L., 1926-2007",
+          "lcna": "n79095174"
+        }
+       }
+    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-05-21"
+   "last-updated": "2020-04-08"
 }

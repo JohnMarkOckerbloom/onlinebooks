@@ -91,7 +91,7 @@ sub _online_down_the_chain {
     return undef if (!(scalar(@idlist) == 1));
     my $id = $idlist[0];
     my $path = $self->{dir} . "$id.json";
-    my $json = $self->_readjsonfile($path);
+    $json = $self->_readjsonfile($path);
     return undef if (!$json);
     return $id if ($json->{"online"} eq "1"); # ignore if URL
     $iterations += 1;

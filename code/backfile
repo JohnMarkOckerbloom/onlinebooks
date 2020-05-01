@@ -8,6 +8,7 @@ use CGI;
 use OLBP::PendingSerials;
 use utf8;
 
+my $usebigforpenn = 1;
 
 my $serverurl = "https://onlinebooks.library.upenn.edu/";
 my $cceurl    = $serverurl . "cce/";
@@ -243,6 +244,9 @@ sub print_table {
       print_cell("None known");
     }
     my $feedbackurl = $contacturl;
+    if ($usebigforpenn && $arg eq "penn-serials") {
+      $feedbackurl =~ s/backfile/bigserial/;
+    }
     $feedbackurl .= "&qissn=" . OLBP::url_encode($issn);
     $feedbackurl .= "&qtitle=" . OLBP::url_encode($title);
     if ($olbpid) {

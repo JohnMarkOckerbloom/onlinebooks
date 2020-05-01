@@ -1,0 +1,497 @@
+#!/usr/bin/perl
+
+# Configuration options go here
+
+BEGIN {
+$OLBP::SCRIPTNAME = "suggest";
+}
+use lib "/websites/OnlineBooks/nonpublic/lib";
+#use lib "nlib";
+use CGI;
+use OLBP;
+use OLBP::SubmissionPool;
+use OLBP::RecordStore;
+
+my $withuridir = "withuri";
+my $nouridir   = "nouri";
+my $bulkdir    = "bulk";
+my $spamdir    = "spam";
+
+my $PMAX = 16;
+my $MAXSIZE = 4000;
+
+my $COOKIEDOMAIN = ".library.upenn.edu";
+my $EMAIL_COOKIE = 'olbp_suggest_email';
+my $NAME_COOKIE  = 'olbp_suggest_name';
+my $REQOK_COOKIE = 'olbp_suggest_reqok';
+
+my $pagestarted = 0;
+
+sub jsmore {
+  my $name = shift;
+  return qq!
+    function new$name(max) {
+      for (num = 1; num <= max; num++) {
+        var contents = document.getElementById("$name"+num);
+        if (contents.style.display == "none") {
+          contents.style.display = "block";
+          break;
+        }
+      }
+    }
+  !;
+}
+
+sub pageheader {
+  my ($title, $noindex) = @_;
+  my $str = qq^<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="$OLBP::styleurl" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+  h2 {text-align: center}
+</style>
+^;
+  $str .= "<title>The Online Books Page: $title</title>";
+  # $str .= qq!<script language="JavaScript" type="text/javascript">!;
+  $str .= qq!<script type="text/javascript">!; # they say language unneeded
+  $str .= jsmore("creator");
+  $str .= jsmore("lcsub");
+  $str .= qq!</script>!;
+  if ($noindex) {
+    $str .= qq!<meta name="robots" content="noindex">!;
+  }
+  $str .= "</head>\n";
+  $str .= $OLBP::bodystart;
+  return $str;
+}
+
+sub startpage {
+  my ($q, $title, $cookies, $noindex) = @_;
+  if ($cookies) {
+    print $q->header(-type=>  'text/html', -cookie=>$cookies, -charset => 'utf-8');
+  } else {
+    print $q->header(-type=>  'text/html', -charset => 'utf-8');
+  }
+  print pageheader($title, $noindex);
+  $pagestarted = 1;
+}
+
+# to make things safe for forms, we omit quotes.
+
+sub form_escape {
+  my $str = shift;
+  $str =~ s/[\"]//g;
+  return OLBP::html_encode($str);
+}
+
+sub tablerow {
+  my ($caption, $field, %params) = @_;
+  my $width = $params{width} || 60;
+  my $style = qq!style="display:block"!;
+  if ($params{hidden}) {
+    $style = qq!style="display:none"!;
+  }
+  my $default = "";
+  $default ||= $params{default};
+  $default = form_escape($default);
+  if (!($caption =~ /</)) {
+    # If it doesn't already contain markup, bold and colonify the caption
+    $caption = "<b>$caption:</b>";
+  }
+  #if ($field) {
+  #  # Put in a label; need to fix this so validators don't complain
+  #  $caption = qq!<label for="$field">$caption</label>!;
+  #}
+  return qq!<tr id="$field" $style><td><table><tr>
+            <td style="width: 12em;">$caption</td>
+            <td><input name="$field" size="$width" value="$default"></td>
+            </tr></table></td></tr>\n!;
+}
+
+sub cmenu {
+  my ($name, $selection, @optionlist) = @_;
+  my $str = qq!<select name="$name">!;
+  foreach my $option (@optionlist) {
+    my $val = uc($option);
+    my $selnote = ($val eq $selection ? "selected" : "");
+    $str .= qq!<option $selnote value="$val">$option</option>\n!
+  }
+  $str .= qq!</select>!;
+  return $str;
+}
+
+sub poolsummary {
+  my ($pool, $name) = @_;
+  if (!$pool) {
+    return "$name: Unable to check.";
+  }
+  my $count = $pool->get_count();
+  if ($count) {
+    my $what = ($count == 1 ? "submission" : "submissions");
+    my $when = $pool->summarize_oldest_age();
+    return "$name: $count $what pending, oldest submitted $when.";
+  }
+  return "$name: All submissions have been acted on.";
+}
+
+sub showpools {
+  my $uripool = new OLBP::SubmissionPool(name=>$withuridir);
+  my $nouripool = new OLBP::SubmissionPool(name=>$nouridir);
+  my $bulkpool = new OLBP::SubmissionPool(name=>$bulkdir);
+  print "<hr><b>Status of all submissions via this form:</b><br>";
+  print "<ul><li>" . poolsummary($uripool, "With URLs") . "</li>";
+  print "<li>" . poolsummary($nouripool, "Without URLs") . "</li>";
+  # print "<li>" . poolsummary($bulkpool, "From a bulk submitter") . "</li></ul>";
+  print "<li>" . poolsummary($bulkpool, "From bulk submitters") . "</li></ul>";
+  # print "</ul>";
+  # print "(Due to the editor's travels, new submissions may not be processed before late August.)"
+  # print "(New additions may not appear until the next daily update.)"
+  print "(Most submitters get listings or acknowledgements within a few business days.  Bulk and anonymous submissions may take longer to process, as may submissions for books not in English.)";
+}
+
+# stripspace removes interior newlines, excess spaces, leading and trailing
+
+sub _stripspace {
+  my ($str, $returnspace) = @_;
+  if (!$returnspace) {
+    $str =~ s/[\n\r]//g;
+  }
+  $str =~ s/^\s+//;
+  $str =~ s/\s+$//;
+  $str =~ s/\s+/ /g;
+  return $str;
+}
+
+# if the same string is submitted 5 times in a row, it's a good sign it's spam
+
+sub spamsign {
+  my $SPAMLIMIT = 5;
+  my @array = @_;
+  my $namecompare = "";
+  my $spamcount = 0;
+  return 0 if (scalar(@array) < $SPAMLIMIT);
+  for (my $i = 0; $i <= $PMAX; $i++) {
+    my $name = $array[$i];
+    if (!$name) {
+      $spamcount = 0;
+    } else {
+      if ($name eq $namecompare) {
+        $spamcount += 1;
+      }
+      if ($name =~ /[a-z]+[A-Z]+[a-z]+[A-Z]+/ && !($name =~ /\S\s+\S/)) {
+        # single word with alternating upper and lower cases
+        $spamcount += 1;
+      }
+      return 1 if ($spamcount == $SPAMLIMIT);
+      $namecompare = $name;
+    }
+  }
+  return 0;
+}
+
+# if there's 4 or more hrefs in a comment, it's a good sign it's spam
+# if its's an empty href with no further info, that's probably spam too
+# if it uses [/url] (which this site doesn't use) it's probably spam
+# if it uses "a href" and a porn keyword, it's probably spam
+# if it uses "a href" with no quotes, it's probably spam
+
+sub spamcomment {
+  my $SPAMLIMIT = 4;
+  my $WEIRDLIMIT = 12;
+  my $NORMALSIGN = 4;
+  my $spamcount = 0;
+  my $str = shift;
+  if ($str =~ /href=\"\"/i) {
+    return 1;
+  }
+  if ($str =~ /\[\/url\]/i) {
+    return 1;
+  }
+  if ($str =~ /\ba\s+href\b/i &&
+      $str =~ /\b(naked|nude|porn|sex|sexy|cock|naughty|hardcore)\b/) {
+    return 1;
+  }
+  if ($str =~ /\ba\s+href=h/i) {
+    return 1;
+  }
+  while ($str =~ /href(.*)/i) {
+    $str = $1;
+    $spamcount += 1;
+    return 1 if ($spamcount == $SPAMLIMIT);
+  }
+  my $weird = $str;
+  my $regular = $str;
+  $regular =~ s/\W//g;
+  $weird =~ s/[\x00-\x7f]//g;
+  if (length($weird) > $WEIRDLIMIT && length($regular) < $NORMALSIGN) {
+    return 1;
+  }
+  return 0;
+}
+
+sub analyze_form {
+  my ($q) = @_;
+  my (@creators, @subjects, @roles);
+  my $str = "";
+  my $pool;
+  my $title = _stripspace($q->param("title"));
+  my $note = _stripspace($q->param("note"));
+  my $ref = _stripspace($q->param("ref"));
+  my $lccn = _stripspace($q->param("lccn"));
+  my $email = _stripspace($q->param("email"));
+  my $name = _stripspace($q->param("name"));
+  my $reqok = _stripspace($q->param("reqok"));
+  my $comments = _stripspace($q->param("comments"), 1);
+  for (my $i = 1; $i <= $PMAX; $i++) {
+    my $cname = "creator$i";
+    my $rname = "role$i";
+    my $sname = "lcsub$i";
+    my $creator = _stripspace($q->param($cname));
+    if ($creator) {
+      push @creators, $creator;
+      push @roles, $q->param($rname);
+    }
+    my $subject = _stripspace($q->param($sname));
+    if ($subject) {
+      push @subjects, $subject;
+    }
+  }
+  if ($email) {
+    $email =~ s/\s//g;
+    my $public = ($reqok ? "Y" : "N");
+    $str .= "EMAIL $public $email $name\n"
+  }
+  if ($ref) {
+    $str .= "REF $ref\n"
+  }
+  for (my $i = 0; $creators[$i]; $i++) {
+    $str .= "$roles[$i] $creators[$i]\n"
+  }
+  if ($title) {
+    $str .= "TITLE $title\n"
+  }
+  if ($note) {
+    $str .= "NOTE $note\n"
+  }
+  foreach my $sub (@subjects) {
+    $str .= "LCSUB $sub\n"
+  }
+  if ($lccn) {
+    $str .= "LCCN $lccn\n"
+  }
+  if ($comments) {
+    $str .= "COMMENT $comments\n"
+  }
+  if (spamsign(@subjects) || spamsign(@creators) || spamcomment($comments)) {
+    $pool = new OLBP::SubmissionPool(name=>$spamdir);
+  } elsif ($creators[0] && !$roles[0]) {
+    # if there's no role but a creator shown, this didn't come in via the form
+    # and is almost certainly from a spammer
+    $pool = new OLBP::SubmissionPool(name=>$spamdir);
+  } elsif ($email =~ /\.(bid|top)$/ && $comments =~ /http.*http/) {
+    # Most .bid and .top submissions are spam.  This one auto-diverts them
+    # to spam if there are 2 or more http links in the comments
+    $pool = new OLBP::SubmissionPool(name=>$spamdir);
+  } elsif ($ref) {
+    $pool = new OLBP::SubmissionPool(name=>$withuridir);
+  } else {
+    $pool = new OLBP::SubmissionPool(name=>$nouridir);
+  }
+  return ($str, $pool);
+}
+
+sub cookiepopulate {
+  my ($q) = @_;
+  my $email = _stripspace($q->param("email"));
+  my $name = _stripspace($q->param("name"));
+  my $reqok = _stripspace($q->param("reqok"));
+  my $save = _stripspace($q->param("save"));
+  if (!$save) {
+    return undef;
+  }
+  my $emailcookie = $q->cookie(-domain=>$COOKIEDOMAIN, 
+                           -name=>$EMAIL_COOKIE,
+                           -value=>$email);
+  my $namecookie = $q->cookie(-domain=>$COOKIEDOMAIN, 
+                           -name=>$NAME_COOKIE,
+                           -value=>$name);
+  my $reqokcookie = $q->cookie(-domain=>$COOKIEDOMAIN, 
+                           -name=>$REQOK_COOKIE,
+                           -value=>$reqok);
+  return [$emailcookie, $namecookie, $reqokcookie];
+}
+
+my $gateway = "172.16.34.184";
+
+sub tag_form {
+  my ($q) = @_;
+  my $str = "";
+  my $from = $q->remote_host();
+  # We may just be getting our gateway's IP address; if so,
+  # see if it's passing in the real requester's IP via an environment variable
+  my $for = $ENV{'HTTP_X_FORWARDED_FOR'};
+  if (($from eq $gateway) && $for) {
+    $from = $for;              
+  }
+  my $when = time();
+  $str .= "FROM $from\n";
+  $str .= "AT $when\n";
+  return $str;
+}
+
+sub process_form {
+  my ($q) = @_;
+  my ($str, $pool) = analyze_form($q);
+  if (length($str) > $MAXSIZE) {
+    $str = substr($str, 0, $MAXSIZE);
+    $str .= "[TRUNCATED]\n";
+  }
+  $str .= tag_form($q);
+  my $success;
+  if ($pool) {
+    $success = $pool->record_submission(string=>$str);
+  }
+  my $cookies = cookiepopulate($q);
+  if ($success) {
+    &startpage($q, "Submission received", $cookies);
+    print qq!<h2>Submission received</h2>!;
+    print qq!
+<p>Thank you very much for your suggestion. It has been placed
+   in our pool of pending submissions.
+</p>
+<p>You can <a href="suggest">make another suggestion</a> or
+   <a href="$OLBP::homepage">return to The Online Books Page</a>.
+</p>
+   !;
+   showpools();
+  } else {
+    &startpage($q, "Submission error");
+    print qq!<h2>Submission error</h2>!;
+    print qq!
+<p>Sorry, we had technical difficulties and could not process your
+    submission.  Please write to ockerblo\@pobox.upenn.edu with your submission,
+    and mention what happened.  If you put ERROR in your
+    subject line, we'll try to expedite its handling.
+</p>
+    !;
+  }
+  print $OLBP::bodyend;
+  exit 0;
+}
+
+sub tempdown {
+  my ($q) = @_;
+  &startpage($q, "Temporarily down");
+  print qq!<h2>Service temporarily unavailable</h2>!;
+  print qq!<p>This suggestion form is temporarily unavailable for a few hours!;
+  print qq! on the afternoon of September 20 !;
+  print qq!while we make some server adjustments.  It will be back soon. !;
+  print qq!Apologies for the inconvenience.</p>!;
+  print $OLBP::bodyend;
+  exit 0;
+}
+
+
+sub makeform {
+  my ($q) = @_;
+  my $br;
+  my $id = $q->param("id");
+  if ($id && !($id =~ /^\d/)) {
+    my $store = new OLBP::RecordStore(dir=>$OLBP::dbdir);
+    if ($store) {
+      $br = $store->get_record(id=>$id);
+    }
+  }
+  &startpage($q, "Suggest a title", 0, $br);
+  print qq!<h2>SUGGEST A TITLE</h2>!;
+  print qq!<p>Use this form to tell us about a book (or magazine, journal, 
+     or other serial) you've found online,
+     or would like to read online.  You may want to look at
+     <a href="https://onlinebooks.library.upenn.edu/suggest.html">how to
+     suggest books for our listings</a> and
+     <a href="https://onlinebooks.library.upenn.edu/suggestformtips.html">tips
+     on filling out the form</a>.</p>!;
+  print qq!<form method="POST">!;
+  print qq!<b>What book or serial are you suggesting?</b> !;
+  print qq!(<a href="#" onClick="newcreator($PMAX)">Add more authors</a>)!;
+  print qq!<br><table>!;
+  my $default = ($br ? $br->get_title() : "");
+  print tablerow("Title", "title", default=>$default);
+  # my $caption = "Creators of this book (if any are known): ";
+  # print qq!<tr><th colspan="2" align="left">$caption</th></tr>\n!;
+  my @names = ($br ? $br->get_names() : ());
+  my @roles = ($br ? $br->get_roles() : ());
+  my $numnames = scalar(@names);
+  for (my $i = 1; $i <= $PMAX; $i++) {
+    my $role = ($i <= scalar(@roles) ? $roles[$i-1] : "");
+    my $menu = cmenu("role$i", $role, "Author", "Editor", "Illustrator",
+                    "Translator", "Contributor");
+    print tablerow($menu, "creator$i", hidden=>($i > 1 && $i > $numnames),
+                    default=>($i <= $numnames ? $names[$i-1] : ""));
+  }
+  $default = ($br ? $br->get_note() : "");
+  print tablerow("Edition note (optional)", "note", default=>$default);
+  print qq!</table>!;
+  print qq!<hr><b>If it's already online, where is it?</b><br>!;
+  print qq!<table>!;
+  $default = ($br ? $br->get_ref(0) : "");
+  if (!($default =~ /US access/)) {             # if not needed for US note
+    $default =~ s/\s+\S.*$//;                  # get rid of stuff after URL
+  }
+  print tablerow("URL", "ref", default=>$default);
+  print qq!</table>!;
+  print qq!<hr><b>What's it about?</b> (optional) !;
+  print qq!(<a href="#" onClick="newlcsub($PMAX)">Add more subjects</a>)<br>!;
+  print qq!<table>!;
+  $default = ($br ? $br->get_lccn() : "");
+  print tablerow("LC Call Number", "lccn", default=>$default);
+  my @subs = ($br ? $br->get_subjects() : ());
+  for (my $i = 1; $i <= $PMAX; $i++) {
+    print tablerow("LC Subject", "lcsub$i",
+                    hidden=>($i > 1 && $i > scalar(@subs)),
+                    default=>($i <= scalar(@subs) ? $subs[$i-1] : ""));
+  }
+  print qq!</table>!;
+  print qq!<hr><b>Would you like a reply?</b> (optional)<br>!;
+  print qq!<table>!;
+  my $emaildefault = $q->cookie($EMAIL_COOKIE);
+  my $namedefault = $q->cookie($NAME_COOKIE);
+  my $reqokdefault = $q->cookie($REQOK_COOKIE);
+  my $reqokcheck = ($reqokdefault ? qq!checked="1"! : "");
+  print tablerow("Your email address", "email", default=>$emaildefault);
+  print tablerow("Your name", "name", default=>$namedefault);
+  print qq!</table>!;
+  print qq!<input type="checkbox" name="save" value=1> Check this box to save your contact info in a cookie, so you don't have to re-enter it on later submissions.<br>!;
+  print qq!<input type="checkbox" name="reqok" value=1 $reqokcheck> Check this box if you'd like your contact info included in the public request list, if we can't find this book online.  This will enable us or others to inform you when it becomes available.!;
+  print qq!<hr><b>Anything else we should know about this suggestion?</b> (optional)<br>!;
+  my $msg = ($br ? "This is an item from the extended bookshelves.\n" : "");
+  print qq!<textarea name="comments" rows="4" cols="60">$msg</textarea>!;
+  print qq!<hr>!;
+  print qq!<input type="submit" value="Submit this suggestion">!;
+  print qq!</form>!;
+  print qq!<form action="suggest">!;
+  print qq!<input type="submit" value="Start over">!;
+  print qq!</form>!;
+  showpools();
+  print $OLBP::bodyend;
+  exit 0;
+}
+
+my $q = new CGI;
+my $cmd = $q->url(-path_info=>1);
+$cmd =~ s/(.*)\///;
+
+# &tempdown($q);
+
+if ($q->param("url") || $q->param("title") ||
+    $q->param("note") || $q->param("comments"))  {
+  process_form($q);
+}
+&makeform($q);
+
+# shouldn't reach here
+
+print "Location: $OLBP::homepage\n\n";
+exit 0;

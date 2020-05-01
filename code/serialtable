@@ -401,7 +401,7 @@ sub wikipediaparser {
     $rec->{title} = $title;
     if (!$rec->{seenpubstart} ||
         !$rec->{start} || $rec->{start} > int($start)) { 
-      $rec->{start} = int($start);
+      $rec->{start} = int($start) || "";
       $rec->{seenpubstart} = 1;
     }
     $rec->{end} = ($end ? int($end) : "");

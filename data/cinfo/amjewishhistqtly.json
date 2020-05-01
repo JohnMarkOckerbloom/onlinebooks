@@ -1,0 +1,27 @@
+{
+   "title": "American Jewish Historical Quarterly",
+   "contents": [
+      {"url": "https://www.jstor.org/journal/amerjewihistquar",
+      "note": "JSTOR (full text also available for subscription or payment)"}
+   ],
+   "preceded-by":
+      [{"id": "pubajhs",
+        "note": "Publications of the American Jewish Historical Society"}],
+   "first-issue":
+     {"issue-date": "1961-09", "volume": "51", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "database",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "database",
+   "first-autorenewed-issue":
+     {"issue-date": "1964-03", "volume": "53", "number": "3"},
+   "last-issue":
+     {"issue-date": "1978-06", "volume": "67", "number": "4"},
+   "succeeded-by": [{"id": "amjewishhistory",
+                     "note": "American Jewish History"}],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2020-04-09"
+}

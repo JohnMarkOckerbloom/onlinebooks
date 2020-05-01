@@ -1,0 +1,38 @@
+{
+   "title": "Publications of the American Jewish Historical Society",
+   "aka": ["American Jewish Historical Society Publication",
+           "Publication of the American Jewish Historical Society"],
+   "online": "1",
+   "contents": [
+      {"url": "https://www.jstor.org/journal/publamerjewihist",
+      "note": "JSTOR (full text also available; after 1924 may require subscription or payment)"}
+   ],
+   "first-issue":
+     {"issue-date": "1893", "number": "1"},
+   "first-renewed-issue":
+     {"issue-date": "1953-03", "volume": "42", "number": "3"},
+   "first-renewed-issue-source": "database",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce+database",
+   "last-issue":
+     {"issue-date": "1961-01", "volume": "50", "number": "4"},
+   "succeeded-by": [{"id": "amjewishhistqtly",
+                     "note": "American Jewish Historical Quarterly"}],
+   "renewed-issue-completeness": "active/end",
+   "renewed-issues": [
+     {"issue-date": "1953-03", "volume": "42", "number": "3"},
+     {"issue-date": "1953-06", "volume": "42", "number": "4"},
+     {"issue-date": "1953-09", "volume": "43", "number": "1"},
+     {"issue-date": "1953-12", "volume": "43", "number": "2"},
+     {"issue-date": "1954-12", "volume": "44", "number": "2"},
+     {"issue-date": "1955-03", "volume": "44", "number": "3"},
+     {"issue-date": "1955-06", "volume": "44", "number": "4"},
+     {"issue-date": "1955-09", "volume": "45", "number": "1"},
+     {"issue-date": "1955-12", "volume": "45", "number": "2"}
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2020-04-09"
+}

@@ -1,0 +1,46 @@
+{
+   "title": "Street & Smith's Mystery Magazine",
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/CFI/link.asp?magid=MYS",
+       "note": "FictionMags"}
+   ],
+   "preceded-by": [{"id": "crimebusters", "note": "Crime Busters"}],
+   "first-issue": 
+       {"issue-date": "1939-11", "volume": "5", "number": "1"}, 
+   "first-renewed-issue": 
+       {"issue-date": "1939-11", "volume": "5", "number": "1"}, 
+   "first-renewed-issue-source": "1966",
+   "first-renewed-contribution": 
+       {"issue": {"issue-date": "1939-11", "volume": "5", "number": "1"}}, 
+   "first-renewed-contribution-source": "1967-JulDec",
+   "last-issue": 
+       {"issue-date": "1943-05", "volume": "9", "number": "2"}, 
+   "renewed-contributions": [
+       {"issue": {"issue-date": "1939-11", "volume": "5", "number": "1"}, 
+        "title": "Death Goes Psychic",
+        "author": {
+         "authorized": "Gruber, Frank, 1904-1969",
+         "lcna": "n50032981"
+        }
+       },
+       {"issue": {"issue-date": "1939-12", "volume": "5", "number": "2"}, 
+        "title": "Backflash to Murder",
+        "author": {
+         "authorized": "Gruber, Frank, 1904-1969",
+         "lcna": "n50032981"
+        }
+       },
+       {"issue": {"issue-date": "1940-09", "volume": "6", "number": "4"}, 
+        "title": "The Old Mink Game",
+        "author": {
+         "authorized": "Gruber, Frank, 1904-1969",
+         "lcna": "n50032981"
+        }
+       }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2020-04-16"
+}
