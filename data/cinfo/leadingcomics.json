@@ -1,0 +1,24 @@
+{
+   "title": "Leading Comics",
+   "aka": ["Leading Screen Comics"],
+   "contents": [
+      {"url": "https://www.comics.org/series/213/",
+       "note": "Grand Comics Database (issues 1-44)"},
+      {"url": "https://www.comics.org/series/700/",
+       "note": "Grand Comics Database (issues 45-77)"}
+   ],
+   "first-issue":
+        {"issue-date": "1941-Winter", "number": "1"}, 
+   "first-renewed-issue":
+        {"issue-date": "1941-Winter", "number": "1"}, 
+   "first-renewed-issue-source": "1969",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce+database",
+   "last-issue":
+        {"issue-date": "1955-August-September", "number": "77"}, 
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2020-05-31"
+}

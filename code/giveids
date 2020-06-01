@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 
-use lib "/home/ockerblo/booksrc/nlib";
+use lib "/home/LIBRARY/ockerblo/booksrc/nlib";
 # This needs to be included before our use statements, so the script gets right
 BEGIN {
 $OLBP::SCRIPTNAME = "giveids";
@@ -14,7 +14,7 @@ my $idmax   = 0;
 my $idlimit = 100000;
 my $idnum   = 10101;
 
-my $dir = "/home/ockerblo/bookdb/"; 
+my $dir = "/home/LIBRARY/ockerblo/bookdb/"; 
 my $file = $dir . "wbookfile";
 
 my %knownfields = (
@@ -85,6 +85,7 @@ sub combine_entity_chars {
 }
 
 sub writeout {
+  my $notecount = 0;
   while (<INPUT>) {
     $line++;
     if (/[^\x00-\x7f]/) {
@@ -115,6 +116,12 @@ sub writeout {
       }
       if (/^REF REF/) {
         die "line $line: Saw a double REF: $_";
+      }
+      if (/^NOTE /) {
+        $notecount += 1;
+        if ($notecount > 1) {
+           die "line $line: Saw an extra NOTE: $_";
+        }
       }
       if (/^SREF/ && !/^SREF\s+\S+\s+\S+:/) {
         # SREF lines should include range and then a URL (with a : in it)
@@ -163,7 +170,7 @@ sub writeout {
         print OUTPUT "\n";
       }
       $rec = "";
-      ($seentitle, $seenref, $seenid, $seendate) = (0, 0, 0, 0);
+      ($seentitle, $seenref, $seenid, $seendate, $notecount) = (0, 0, 0, 0, 0);
     }
   }
 }

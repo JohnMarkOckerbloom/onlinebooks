@@ -4,7 +4,10 @@
       {"url": "https://onlinelibrary.wiley.com/loi/14676494",
        "note": "Official journal site (full text also available for subscription or payment)"}
    ],
-   "first-issue": {"issue-date": "1932-09", "volume": "1", "number": "1"},
+   "preceded-by": [{"id": "charpersonality",
+                    "note": "Character and Personality"}],
+   "first-issue":
+      {"issue-date": "1945-09", "volume": "14", "number": "1"},
    "first-renewed-issue":
       {"issue-date": "1945-09", "volume": "14", "number": "1"},
    "first-renewed-issue-source": "1973",
@@ -16,5 +19,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-05-16"
+   "last-updated": "2020-05-05"
 }

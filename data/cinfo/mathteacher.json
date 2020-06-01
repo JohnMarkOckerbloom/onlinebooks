@@ -1,0 +1,34 @@
+{
+   "title": "The Mathematics Teacher",
+   "online": "1",
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce+database",
+   "first-renewed-contribution": 
+     {"issue": {"issue-date": "1962-10", "volume": "55", "number": "6"}},
+   "first-renewed-contribution-source": "database",
+   "first-autorenewed-issue": 
+     {"issue-date": "1964-01", "volume": "57", "number": "1"},
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1962-10", "volume": "55", "number": "6"},
+        "title": "The Changes Taking Place in Mathematics",
+        "author": {
+         "authorized": "Adler, Irving",
+         "lcna": "n80010355"
+        }
+     },
+     {"issue": {"issue-date": "1963-11", "volume": "56", "number": "7"},
+        "title": "Some Thoughts About Curriculum Revision",
+        "note": "Title as given in issue. Renewal record gives title as 'Some Thoughts About Curriculum Change'.",
+        "author": {
+         "authorized": "Adler, Irving",
+         "lcna": "n80010355"
+        }
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2020-05-27"
+}

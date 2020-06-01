@@ -7,41 +7,85 @@
 #   http://id.loc.gov/static/data/authoritiesnames.nt.skos.gz)
 #  Output: 3 hash files with subject IDs, notes, and aliases
 
-use lib "/home/ockerblo/booksrc/nlib/";
+use lib "/home/LIBRARY/ockerblo/booksrc/nlib/";
 use Encode;
+use OLBP;
+use OLBP::BookRecord;
 use OLBP::Entities;
 use OLBP::Hash;
 use utf8;
 
-my $ntfile = $ARGV[0] || "subjects-sorted.nt";
-my $overridefile = "override";
+my $skosntfile = $ARGV[0] || "subjects-sorted.nt";
+my $ntfile = $ARGV[0] || "mads-subjects-sorted.nt ";
+# my $overridefile = "overrides-skos";
+my $overridefile = "overrides-mads";
+my $fmt = "mads";
+
+my $wikimap = "../wikimap";
+my $fastmap = "../fast/locmap";
 
 my $line = "";
 my $numsubs = 0;
 
-my $AUTHPREFIX = "http://id.loc.gov/authorities";
-my $FOAFPREFIX = "http://xmlns.com/foaf/0.1";
-my $RDFPREFIX  = "http://www.w3.org/1999/02/22-rdf-syntax-ns";
-my $SKOSPREFIX = "http://www.w3.org/2004/02/skos/core";
-my $DCPREFIX   = "http://purl.org/dc/terms";
+my $AUTHPREFIX   = "http://id.loc.gov/authorities";
+my $DCPREFIX     = "http://purl.org/dc/terms";
+my $FOAFPREFIX   = "http://xmlns.com/foaf/0.1";
+my $MADSPREFIX   = "http://www.loc.gov/mads/rdf/v1";
+my $OWLPREFIX    = "http://www.w3.org/2002/07/owl";
+my $RDFPREFIX    = "http://www.w3.org/1999/02/22-rdf-syntax-ns";
+my $RDFSPREFIX   = "http://www.w3.org/2000/01/rdf-schema";
+my $SKOSPREFIX   = "http://www.w3.org/2004/02/skos/core";
+my $SKOSXLPREFIX = "http://www.w3.org/2008/05/skos-xl";
 
-my $TYPEPRED    =   $RDFPREFIX  . "#type";
+my $TYPEPRED     =   $RDFPREFIX  . "#type";
 
-my $ALT_PRED    =   $SKOSPREFIX . "#altLabel";
-my $PREF_PRED   =   $SKOSPREFIX . "#prefLabel";
-my $MEMBER_PRED =   $SKOSPREFIX . "#member";
-my $SKOS_NOTE   =   $SKOSPREFIX . "#note";
-my $CLOSE_MATCH =   $SKOSPREFIX . "#closeMatch";
-my $EXACT_MATCH =   $SKOSPREFIX . "#exactMatch";
-my $IN_SCHEME   =   $SKOSPREFIX . "#inScheme";
-my $NOTATION    =   $SKOSPREFIX . "#notation";
+my $ALT_PRED     =   $SKOSPREFIX . "#altLabel";
+my $PREF_PRED    =   $SKOSPREFIX . "#prefLabel";
+my $MEMBER_PRED  =   $SKOSPREFIX . "#member";
+my $SKOS_NOTE    =   $SKOSPREFIX . "#note";
+my $BROAD_MATCH  =   $SKOSPREFIX . "#broadMatch";
+my $CLOSE_MATCH  =   $SKOSPREFIX . "#closeMatch";
+my $EXACT_MATCH  =   $SKOSPREFIX . "#exactMatch";
+my $NARROW_MATCH =   $SKOSPREFIX . "#narrowMatch";
+my $IN_SCHEME    =   $SKOSPREFIX . "#inScheme";
+my $NOTATION     =   $SKOSPREFIX . "#notation";
 
-my $BROADER     =   $SKOSPREFIX . "#broader";
-my $NARROWER    =   $SKOSPREFIX . "#narrower";
+my $XL_ALT_PRED  =   $SKOSXLPREFIX . "#altLabel";
+my $SEE_ALSO     =   $RDFSPREFIX . "#seeAlso";
 
-my $FOCUS       =   $FOAFPREFIX  . "/focus";
+my $SKOS_BROADER =   $SKOSPREFIX . "#broader";
+my $SKOS_NARROWER=   $SKOSPREFIX . "#narrower";
+my $SKOS_RELATED =   $SKOSPREFIX . "#related";
 
-my $CONCEPTTYPE = $SKOSPREFIX . "#Concept";
+my $MADS_PREF        =   $MADSPREFIX . "#authoritativeLabel";
+my $MADS_MEMBER      =   $MADSPREFIX . "#isMemberOfMADSCollection";
+my $MADS_NOTE        =   $MADSPREFIX . "#note";
+my $MADS_VARIANT     =   $MADSPREFIX . "#hasVariant";
+my $MADS_VLABEL      =   $MADSPREFIX . "#variantLabel";
+my $MADS_EARLIER     =   $MADSPREFIX . "#hasEarlierEstablishedForm";
+my $MADS_USEFOR      =   $MADSPREFIX . "#useFor";
+my $MADS_USEINSTEAD  =   $MADSPREFIX . "#useInstead";
+
+my $MADS_BROADER =   $MADSPREFIX . "#hasBroaderAuthority";
+my $MADS_NARROWER=   $MADSPREFIX . "#hasNarrowerAuthority";
+my $MADS_RELATED =   $MADSPREFIX . "#hasReciprocalAuthority";
+
+my $FOCUS        =   $FOAFPREFIX  . "/focus";
+
+my $LABELTYPE       =   $SKOSXLPREFIX . "#Label";
+my $SKOS_CONCEPT    =   $SKOSPREFIX . "#Concept";
+my $MADS_AUTHORITY  =   $MADSPREFIX . "#Authority";
+my $MADS_COMPLEX    =   $MADSPREFIX . "#ComplexSubject";
+my $MADS_CONFERENCE =   $MADSPREFIX . "#ConferenceName";
+my $MADS_CORPORATE  =   $MADSPREFIX . "#CorporateName";
+my $MADS_FAMILY     =   $MADSPREFIX . "#FamilyName";
+my $MADS_GENREFORM  =   $MADSPREFIX . "#GenreForm";
+my $MADS_GEOGRAPHIC =   $MADSPREFIX . "#Geographic";
+my $MADS_NAMETITLE  =   $MADSPREFIX . "#NameTitle";
+my $MADS_PERSONAL   =   $MADSPREFIX . "#PersonalName";
+my $MADS_TEMPORAL   =   $MADSPREFIX . "#Temporal";
+my $MADS_TITLE      =   $MADSPREFIX . "#Title";
+my $MADS_TOPIC      =   $MADSPREFIX . "#Topic";
 
 my $CONCEPTSCHEME  = "$AUTHPREFIX#conceptScheme";
 
@@ -53,6 +97,7 @@ my $NAMECPREFIX = "$AUTHPREFIX/names/collection";
 
 my %subscoll = (
    "${COLLPREFIX}_Subdivisions" => 1,
+   "${COLLPREFIX}_GenreFormSubdivisions" => 1,
    "${COLLPREFIX}_GeographicSubdivisions" => 1,
    "${COLLPREFIX}_TemporalSubdivisions" => 1,
    "${COLLPREFIX}_TopicSubdivisions" => 1,
@@ -87,6 +132,14 @@ my %kidscheme = (
    "$AUTHPREFIX#uniformTitlesChildren" => 1,
 );
 
+my %subrelation = map {$_ => 1} 
+   ($SKOS_BROADER, $SKOS_NARROWER, $SKOS_RELATED,
+    $MADS_BROADER, $MADS_NARROWER, $MADS_RELATED);
+
+my %expectedtype = map {$_ => 1} 
+    ($SKOS_CONCEPT, $MADS_AUTHORITY, $MADS_COMPLEX, $MADS_CORPORATE,
+     $MADS_TOPIC, $MADS_FAMILY, $MADS_GENREFORM, $MADS_GEOGRAPHIC,
+     $MADS_NAMETITLE, $MADS_TEMPORAL, $MADS_TITLE, $MADS_CONFERENCE);
 
 my %schemes = (
    "$AUTHPREFIX#corporateNames" => 1,
@@ -96,6 +149,11 @@ my %schemes = (
    "$AUTHPREFIX#topicalTerms" => 1,
    "$AUTHPREFIX#uniformTitles" => 1,
 );
+
+my %subdescs;
+my $aliases = {};
+my $dontbother = {}; # tracks Ids we shouldn't bother to add from secondary
+my $inuse = {};      # tracks heavily normalized forms of subjects already used
 
 sub packhashtofile {
   my ($name, $hashref) = @_;
@@ -170,7 +228,12 @@ sub unparse {
         #   error("couldn't find id $item", $rec);
         # }
         if (!$name) {
-          error("empty name for id $item", $orec);
+          if ($ohash->{$item}) { 
+            $name = $ohash->{$item};
+          } else {
+            error("empty name for id $item", $orec, 1);
+            next;
+          }
         }
         $item = $name;
       }
@@ -296,6 +359,7 @@ my %internal_label;
 sub read_overrides {
   my ($fname) = @_;
   open IN, "< $fname" or return 0;
+  binmode(IN, ":utf8");
   my $overhash;
   while (my $line = <IN>) {
     next if ($line =~ /^#/);
@@ -305,6 +369,41 @@ sub read_overrides {
   }
   close IN;
   return $overhash;
+}
+
+my $secondaryname;
+
+sub get_names_from_secondary_file {
+  my ($fname) = @_;
+  open IN, "< $fname" or return 0;
+  binmode(IN, ":utf8");
+  while (my $line = <IN>) {
+    if ($line =~ m!^<http://id.loc.gov/authorities/subjects/(\S*)>\s+<$PREF_PRED>\s+\"(.*)\"\@en!) {
+      $secondaryname->{$1} = n3_unescape($2);
+    }
+  }
+}
+
+# Eventually we might go back to the secondary (SKOS) file and
+# fill in what we can from it, 
+#  but for now we'll just create simple records with the ID and name
+
+sub add_empty_recs_from_secondary {
+  my ($recs, $labelids) = @_;
+  foreach my $id (keys %{$secondaryname}) {
+    if ($secondaryname->{$id} && !defined($recs->{$id}) &&
+        !($dontbother->{$id})) {
+      my $rec = {};
+      $rec->{id} = $id;
+      $rec->{name} = $secondaryname->{$id};
+      $recs->{$id} = $rec;
+      print "Adding rec $id ($rec->{name})\n";
+      my $label = normalizelabel($rec->{name});
+      if (!$labelids->{$label}) {
+        $labelids->{$label} = $id;
+      }
+    }
+  }
 }
 
 sub n3_entity_record {
@@ -319,6 +418,9 @@ sub n3_entity_record {
     error("unusual id: $id", $rec);
   }
   $rec->{id} = $id;
+  if ($secondaryname->{$id}) {
+    $rec->{name} = $secondaryname->{$id};
+  }
   if ($rec->{id} =~ /^sj/) {
     # mark this entry as for kids (we prob. won't use it therefore)
     $rec->{kids} = 1;
@@ -328,7 +430,7 @@ sub n3_entity_record {
     my ($obj, $objtype) = get_object_details($triple);
     # special case: _:LL is an undefined entity; ignore all assertions w it
     next if ($objtype eq "INTERNAL" && $obj eq "_:LL");
-    if ($pred eq $MEMBER_PRED) {
+    if ($pred eq $MEMBER_PRED || $pred eq $MADS_MEMBER) {
        if ($subscoll{$obj}) {
          # mark this entry as a subdivision (we prob. won't use it therefore)
          $rec->{sub} = 1;
@@ -340,29 +442,49 @@ sub n3_entity_record {
          $rec->{genre} = 1;
        } elsif ($obj =~ /_PatternHeading/) {
          # ignore the PatternHeading categories
+       } elsif ($obj =~ /UntracedReference/) {
+         # and the UntracedReference categories
+       } elsif ($obj =~ /FRBRExpression/) {
+         # for now, the FRBRExpression categories get included
+         # but we do nothing special with this classification
        } elsif (!$authcoll{$obj} && !$misccoll{$obj}) {
-         error("Unexpected skos scheme: $obj\n", $rec);
+         error("Unexpected $fmt scheme: $obj\n", $rec);
        }
     } elsif ($pred eq $TYPEPRED) {
-      if ($obj ne $CONCEPTTYPE) {
+      if ($obj eq $LABELTYPE) {
+        $rec->{deleted} = 1;
+        next;
+      } elsif ($obj eq $MADS_PERSONAL) {
+         # This seems to just be stubs and a few accidental subjects
+         #  which we can consider deleted
+        $rec->{deleted} = 1;
+      } elsif ($obj =~ /(\#DeprecatedAuthority|\#Variant)/) {
+         # Consider deprecated and variant authorities deleted
+        $rec->{deleted} = 1;
+      } elsif (!$expectedtype{$obj}) {
         error("Unrecognized type: $obj\n");
       }
     } elsif ($pred eq $IN_SCHEME) {
       if ($obj ne "$AUTHPREFIX/subjects") {
         error("Unrecognized scheme: $obj\n");
       }
-    } elsif ($pred eq $PREF_PRED) {
+    } elsif ($pred eq $PREF_PRED || $pred eq $MADS_PREF) {
       if ($rec->{name}) {
         if ($ohash && $ohash->{$id}) {
+          if ($ohash->{$id} eq "CANCELLED") {
+            error("skipping cancelled entry", $rec, 1);
+            next;
+          }
           $rec->{name} = $ohash->{$id};
           error("putting $ohash->{$id} into conflicted record", $rec, 1);
-        } else {
+        } elsif ($rec->{name} ne $obj) {
           error("already had a name ($rec->{name}) when we hit $obj", $rec, 1);
         }
       } else {
         $rec->{name} = $obj;
       }
-    } elsif ($pred eq $ALT_PRED || $pred eq $SKOS_NOTE) {
+    } elsif ($pred eq $ALT_PRED || $pred eq $SKOS_NOTE
+             || $pred eq $MADS_NOTE || $pred eq $MADS_VLABEL) {
       if ($objtype && uc($objtype) ne "EN") {
         error("unexpected language: $objtype", $rec);
       }
@@ -374,46 +496,95 @@ sub n3_entity_record {
         # error("oddly truncated label: $label", $rec, 1);
         next;
       }
-      if ($pred eq $ALT_PRED) {
+      if ($pred eq $ALT_PRED || $pred eq $MADS_VLABEL) {
+        # print "Adding $obj as UF via label\n";
         push @{$rec->{UF}}, $obj;
-      } elsif ($pred eq $SKOS_NOTE) {
+      } elsif ($pred eq $SKOS_NOTE || $pred eq $MADS_NOTE) {
         push @{$rec->{SN}}, $obj;
       }
-    } elsif ($pred =~ /$SKOSPREFIX#(narrower|broader|related)/) {
+    } elsif ($pred eq $MADS_VARIANT || $pred eq $MADS_EARLIER
+             || $pred eq $MADS_USEFOR) {
+      # other MADS ways of doing alternate forms 
+      # (Note that the USEFOR ref might not work if the other subject
+      #   is later in file, but it looks like USEFOR is not used much now
+      #   and often goes to dead subjects.  The other two predicates
+      #   go to blank nodes, which we've already seen)
+        # print "Adding " . $internal_label{$obj} . " ($obj) as UF via blank node\n";
+      if ($internal_label{$obj}) {
+        push @{$rec->{UF}}, $internal_label{$obj};
+      }
+    } elsif ($subrelation{$pred}) {
       my $aid = "";
       if ($objtype eq "INTERNAL") {
         $aid = $obj;
       } elsif ($objtype eq "URI") {
         if ($obj =~ m!ubjects/(\w+)$!) {
           $aid = $1;
+        } elsif ($obj =~ m!info:lc/authorities/(sh\w+)$!) {
+          # Odd special case in May 2016 dump (fortunately only one)
+          #  that doesn't seem to go to a sensible URIk
+          error("unexpected info object $obj value", $rec, 1);
+          next;
         }
       } else {
         error("unexpected relation to non-URI: $obj", $rec);
       }
       if ($aid) {
-        if ($pred =~ /core#narrower/) {
+        if ($pred eq $SKOS_NARROWER || $pred eq $MADS_NARROWER) {
           push @{$rec->{NT}}, $aid;
-        } elsif ($pred =~ /core#broader/) {
+        } elsif ($pred eq $SKOS_BROADER || $pred eq $MADS_BROADER) {
           push @{$rec->{BT}}, $aid;
-        } elsif ($pred =~ /core#related/) {
+        } elsif ($pred eq $SKOS_RELATED || $pred eq $MADS_RELATED) {
           push @{$rec->{RT}}, $aid;
         }
       } else {
         error("unexpected $pred: $obj", $rec);
       }
+    } elsif ($pred =~ /$MADSPREFIX#(deletionNote|hasLaterEstablishedForm)/ ||
+             $pred eq $MADS_USEINSTEAD) {
+      # If we haven't already noticed rec is deleted, these are big hints
+      $rec->{deleted} = 1;
+    } elsif ($pred =~ /$SKOSXLPREFIX#/) {
+      # For now, we can ignore SKOS-XL (all the XL alt labels
+      #  also seem to be notes as normal SKOS altLabels)
     } elsif ($pred =~ /dc\/terms\/(created|modified)/) {
       # ignore creation and modification times
-    } elsif ($pred eq $CLOSE_MATCH || $pred eq $EXACT_MATCH) {
+    } elsif ($pred eq $CLOSE_MATCH || $pred eq $EXACT_MATCH
+               || $pred eq $NARROW_MATCH || $pred eq $BROAD_MATCH) {
       # these map to other ontologies; ignore for now
-    } elsif ($pred =~ /$SKOSPREFIX#(editorialNote|example)/) {
+    } elsif ($pred eq $SEE_ALSO) {
+      # currently just seems to be for deleted entities - ignore for now
+    } elsif ($pred =~ /$SKOSPREFIX#(editorial|editorialNote|example|changeNote)/) {
       # I think these are just internal notes we can ignore
-      # are searchalsoUnder directives still being omitted?
+      # "editorial" seems to be an erroneous name for editorialNote
     } elsif ($pred eq $NOTATION) {
        # when not _:LL, this seems to map to call number (& range)
        # this would be cool to record, but for now ignore
     } elsif ($pred eq $FOCUS) {
        # this seems to map to a URL showing a map of a real location
        # this would be cool to record, but for now ignore
+    } elsif ($pred =~ /$MADSPREFIX#(usePatternCollection)/) {
+       # MADS equivalent of PatternHeading - ignore here too
+    } elsif ($pred =~ /$MADSPREFIX#classification/) {
+       # LC call numbers for subjects - cool, but we ignore for now
+    } elsif ($pred =~ /$MADSPREFIX#(editorialNote|exampleNote)/) {
+       # various MADS notes we can ignore
+    } elsif ($pred =~ /$MADSPREFIX#(adminMetadata|componentList|elementList|hasSource|identifiesRWO)/) {
+       # various other MADS predicates we can ignore
+    } elsif ($pred =~ /$MADSPREFIX#(hasCloseExternalAuthority|hasExactExternalAuthority|hasBroaderExternalAuthority|hasNarrowerExternalAuthority)/) {
+       # we may eventually want to mine these for crosswalking,
+       # (e.g. we could use them to map LC or WP to German & French subs)
+       #  but for now ignore
+    } elsif ($pred =~ /$MADSPREFIX#isMemberOfMADSScheme/) {
+       if (!($obj =~ m!http://id.loc.gov/authorities/subjects!)) {
+          error("unexpected MADS scheme: $obj", $rec);
+       }
+    } elsif ($pred =~ /$OWLPREFIX#sameAs/) {
+       # Not currently being used for internal matching, so ignore for now,
+       #  but may be worth watching to see if we can get anything useful
+    } elsif ($pred =~ m!http://id.loc.gov/vocabulary/identifiers!) {
+       # Mappings to slightly different control number forms
+       #  and a few internal local identifiers - can be ignored
     } else {
       error("unrecognized predicate: $pred", $rec);
     }
@@ -421,26 +592,60 @@ sub n3_entity_record {
   return $rec;
 }
 
-sub process_internal_entity {
-  my ($entity, $eid) = @_;
-  if (scalar(@{$entity}) != 2) {
-     error("Unexpected size of internal entity.");
-  }
+# Internal entities now come in all sizes.  We're mainly concerned
+# with those that have preferred labels
+#
+sub process_internal_skos_entity {
+  my ($entity, $eid, $ohash) = @_;
+  #if (scalar(@{$entity}) != 2) {
+  #   error("Unexpected size of internal entity.");
+  #}
   if ((get_predicate_uri($entity->[0]) eq $TYPEPRED) &&
       (get_predicate_uri($entity->[1]) eq $PREF_PRED)) {
     my ($str, $lang) = get_object_details($entity->[1]);
     if (!$lang || uc($lang) eq "EN") {
-      $internal_label{$eid} = $str;
-      # binmode(STDOUT, ":utf8");
-      # print "$eid is $str\n";
+      if ($ohash->{$eid}) {
+        $internal_label{$eid} = $ohash->{$eid};
+        #binmode(STDOUT, ":utf8");
+        #print "$eid is $str\n";
+      } else {
+        $internal_label{$eid} = $str;
+      }
+      #binmode(STDOUT, ":utf8");
+      #print "$eid is $str\n";
     } else {
        error("Unexpected language: $lang");
     }
   } else {
-    error("Unexpected types in internal entity.");
+  # Lots of internal entities now; can ignore most
+  #  error("Unexpected types in internal entity.");
   }
 }
 
+sub process_internal_mads_entity {
+  my ($entity, $eid, $ohash) = @_;
+  foreach my $triple (@{$entity}) {
+    my $pred = get_predicate_uri($triple);
+    if (($pred eq $MADS_PREF) || 
+        (!$internal_label{$eid} && $pred eq $MADS_VLABEL)) {
+      my ($str, $lang) = get_object_details($triple);
+      if (!$lang || uc($lang) eq "EN") {
+        if ($ohash->{$eid}) {
+          $internal_label{$eid} = $ohash->{$eid};
+          #binmode(STDOUT, ":utf8");
+          #print "$eid is $internal_label{$eid}\n";
+        } else {
+          $internal_label{$eid} = $str;
+        }
+        #binmode(STDOUT, ":utf8");
+        #print "$eid is $str\n";
+      } else {
+         error("Unexpected language: $lang");
+      }
+      last;
+    }
+  }
+}
 
 sub readfile {
   my ($fname, $ohash) = @_;
@@ -452,15 +657,22 @@ sub readfile {
   my $scount = 0;
   while (my $entity = next_entity(IN)) {
     my $eid = entity_id($entity);
-    if ($eid =~ /^_:(.*)/) {
-      process_internal_entity($entity, $eid);
+    if ($eid =~ /^(_:.*)/) {
+      if ($fmt eq "mads") {
+        process_internal_mads_entity($entity, $eid, $ohash);
+      } else {
+        process_internal_skos_entity($entity, $eid, $ohash);
+      }
       $icount++;
     } elsif ($eid =~ m!^<$AUTHPREFIX/(childrensS|s)ubjects/(\w+)>!) {
       # print "adding a record\n";
       $eid = $2;
       my $rec = n3_entity_record($entity, $eid, $ohash);
       next if (!$rec || !$rec->{id});
-      next if ($rec->{kids} || $rec->{sub} || $rec->{genre} || $rec->{deleted});
+      if ($rec->{kids} || $rec->{sub} || $rec->{genre} || $rec->{deleted}) {
+        $dontbother->{$eid} = 1;
+        next;
+      }
       $scount++;
       if (!($scount % 10000)) {
          print "$scount\n";
@@ -478,6 +690,17 @@ sub readfile {
       } else {
         $labelids->{$label} = $rec->{id};
       }
+    } elsif ($eid =~ m!^<info:!) {
+      error("skipping unusual subject $eid", 0, 1),
+      next;
+    } elsif ($eid =~ m!subdiv.work|subjects>!) {
+      error("skipping unusual subject $eid", 0, 1),
+      next;
+    } elsif ($eid =~ m!authorities/(genreForms|names)!) {
+      # These are dangling subjects in the MADS file - ignore
+      next;
+    } elsif ($eid =~ m!id.loc.gov/vocabulary!) {
+      # More dangling subjects in the MADS file - ignore
     } else {
        print "didn't expect $eid as a subject\n";
        exit 0;
@@ -503,12 +726,61 @@ sub normalizelabel {
   return $item;
 }
 
+sub add_other_aliases {
+  my ($fname, $inuse, $labelids, $aliases) = @_;
+  print STDERR "going into $fname\n";
+  if (!(open IN, "< $fname")) {
+    print STDERR "can't find $fname\n";
+    return 0;
+  }
+  print STDERR "here were are in $fname\n";
+  binmode IN, ":utf8";
+  while (<IN>) {
+    next if (/^#/);
+    if (/(.*)\|(.*)\|(.*)/) {
+      my ($lcsub, $op, $wiki) = ($1, $2, $3);
+      next if ($op eq "->");                 # only consider mappings from wiki
+      # wiki term is in straight UTF8: entitize
+      my $item = OLBP::Entities::entitize_utf8($wiki);
+      # skip shorter aliases and Wikipedisms
+      next if lc(substr($lcsub, 0, length($item))) eq lc($item);
+      next if ($wiki =~ /(^List of)|disambiguation/);
+      my $searchterm = simplified($item);
+      # print "Considering $searchterm: " . ($inuse->{$searchterm} ? "BEENTHERE": "OK") . "\n";
+      next if $inuse->{$searchterm};         # too close to existing term
+      my $label = normalizelabel($lcsub);
+      my $id = $labelids->{$label};
+      next if (!$id);                       # couldn't find this subject
+      if (defined($subdescs{$id})) {
+        $subdescs{$id} .= "UF $item\n";
+        $aliases->{$label} .= "|$item";
+        $inuse->{$searchterm} = 1;          # don't let new alias be used again
+        # print "Now adding $item as new UF in $label\n" 
+      }
+    }
+  }
+  close IN;
+}
+
+sub simplified {
+  my $str = shift;
+  $str = OLBP::BookRecord::sort_key_for_subject($str);
+  $str =~ s/[\(\)]//g;
+  return $str;
+}
+
+# start of main code
+
+binmode STDOUT, ":utf8";
+
+print "aliases is $aliases\n";
+
 my $ohash = read_overrides($overridefile);
+get_names_from_secondary_file($skosntfile);
 my ($recs, $labelids) = readfile($ntfile, $ohash);
+add_empty_recs_from_secondary($recs, $labelids);
 print "recs is $recs, labelids is $labelids\n";
 
-my %subdescs;
-my $aliases;
 
 foreach my $id (keys %{$recs}) {
   # print "id is $id\n";
@@ -516,14 +788,31 @@ foreach my $id (keys %{$recs}) {
   my $name = $rec->{name};
   my $label = normalizelabel($name);
   my $subst = normalizelabel($name, 1);
+  my $searchterm = simplified($label);
+  $inuse->{$searchterm} = $id;
+ 
   my $desc = unparse($rec, $recs, $labelids);
   $subdescs{$id} = $desc;
   foreach my $alias (@{$rec->{UF}}) {
     my $key = normalizelabel($alias);
+    $searchterm = simplified($key);
+    $inuse->{$searchterm} ||= 1;
     $aliases->{$key} .= "|$subst";
+    print "Adding $subst as UF for $key\n";
   }
   # print "$id: $label ($name)\n$desc\n";
 }
+
+# If we're adding aliases from other vocabularies, best to do it here
+# when we have the complete LCSH to consider
+
+print "key count " . scalar(keys %{$aliases}) . "\n";
+add_other_aliases($wikimap, $inuse, $labelids, $aliases);
+print "key count " . scalar(keys %{$aliases}) . "\n";
+add_other_aliases($fastmap, $inuse, $labelids, $aliases);
+print "key count " . scalar(keys %{$aliases}) . "\n";
+
+# Now write out file
 
 packhashtofile("subjectids", $labelids);
 packhashtofile("subjectnotes", \%subdescs);

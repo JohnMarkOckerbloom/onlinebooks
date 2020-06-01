@@ -95,6 +95,7 @@ sub _get_filecontents {
   my @idarray = @{$self->{filenames}};
   foreach my $id (@idarray) {
     my $fname = $self->_dirname() . "/$id";
+    next if -d $fname;   # don't read "contents" of subdirectories
     my $str;
     open IN, "< $fname" or next;
     while (<IN>) {

@@ -7,9 +7,13 @@
    "first-renewed-contribution-source": "cce+database",
    "first-autorenewed-issue":
       {"issue-date": "1964-01", "volume": "79", "number": "1"},
+   "last-issue":
+      {"issue-date": "1964-11", "volume": "80", "number": "3"},
+   "succeeded-by":
+      [{"id": "amjepidemiology", "note": "American Journal of Epidemiology"}],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-03-25"
+   "last-updated": "2020-05-12"
 }

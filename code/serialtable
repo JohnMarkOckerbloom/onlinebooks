@@ -29,8 +29,8 @@ my $ovid_complete = $pkgdir . "wolters/Ovid_Global_AllJournals_2020-02-09.txt";
 
 my $oxford_archive = $pkgdir . "oxford/OxfordUniversityPress_Global_2020JournalsArchiveAllTitles_2019-12-09.txt";
 
-my $penn_serials = $pkgdir . "penn/Serials before 1964.csv";
-#my $penn_serials = $pkgdir . "penn/Penn Libraries - All Serials.csv";
+#my $penn_serials = $pkgdir . "penn/Serials before 1964.csv";
+my $penn_serials = $pkgdir . "penn/Serials (All)  - Problem Columns Removed 052220.csv";
 
 my $proquest_archive = $pkgdir . "proquest/PeriodicalsArchiveOnline.tsv";
 
@@ -75,7 +75,10 @@ my $tables = {
       parser=>\&kbartparser, filter=>\&pre64andolbp},
   "penn-serials" =>
      {file => $penn_serials, reader=>\&readcsvfile,
-      parser=>\&pennparser, filter=>\&pre64andolbp},
+      parser=>\&pennparser, filter=>\&pennfilter},
+  "penn-serials-test" =>
+     {file => $penn2_serials, reader=>\&readcsvfile,
+      parser=>\&pennparser, filter=>\&testpennfilter},
   "proquest-archive" =>
      {file => $proquest_archive, reader=>\&readpqfile,
       parser=>\&pqparser, filter=>\&pre64andolbp},
@@ -435,7 +438,10 @@ sub pennparser {
     my @issns = ();
     foreach my $issn (@rawissns) {
       if (!($issn =~ /^\d\d\d\d-?\d\d\d[\dXx]/)) {
-        print STDERR "Unexpected ISSN for $title: $issn\n";
+        # silently skip digitless placeholders
+        if ($issn =~ /\d/) {
+          print STDERR "Unexpected ISSN for $title: $issn\n";
+        }
         next;
       } else {
         push @issns, normalize_issn($issn);
@@ -452,6 +458,8 @@ sub pennparser {
       }
     }
     $rec->{title} = $title;
+    $rec->{titlesort} = $result->{"Title (Normalized)"} || $title;
+    $rec->{titlefull} = $result->{"Title (Complete)"} || $title;
     # print "starting with $start for $title\n";
     # if we've seen a journal before (in the publication file,
     #  not in the Wikidata file), only update start if it's earlier
@@ -466,6 +474,10 @@ sub pennparser {
     if (!$rec->{intable}) {
       push @recs, $rec;
       $rec->{intable} = 1;
+    }
+    if ($rec->{issns}) {
+      $rec->{lowissn} = (sort keys %{$rec->{issns}})[0];
+      # print STDERR "$rec->{title}has $rec->{lowissn}\n";
     }
     # print "$rec: start for $rec->{title} () is $rec->{start}, end is $rec->{end}\n";
   }
@@ -491,6 +503,49 @@ sub pre64andolbp {
   }
   return @filteredrecs;
 }
+
+# for the Penn filter, we do a smart sort and remove the payment record bits
+# as well as excess spaces
+sub oldpennfilter {
+  my (@recs) = @_;
+  foreach my $rec (@recs) {
+    $rec->{title} =~ s/\[PAYMENT RECORD\]//;
+    $rec->{title} =~ s/\s+/ /g;
+    $rec->{title} =~ s/^\s+//;
+    $rec->{title} =~ s/\s+$//;
+  }
+  @recs = sort_titles(@recs);
+  return pre64andolbp(@recs);
+}
+
+sub pennfilter {
+  my (@recs) = @_;
+  foreach my $rec (@recs) {
+    $rec->{title} =~ s/\[PAYMENT RECORD\]//;
+    $rec->{title} =~ s/\s+/ /g;
+    $rec->{title} =~ s/^\s+//;
+    $rec->{title} =~ s/\s+$//;
+  }
+  @recs = sort {$a->{titlesort} cmp $b->{titlesort}} @recs;
+  my $size = scalar(@recs);
+  for (my $i = 0; $i < $size; $i++) {
+    if ($recs[$i]->{titlefull}) {
+      if (($i > 0 && 
+           ($recs[$i]->{lowissn} ne $recs[$i-1]->{lowissn}) &&
+           ($recs[$i]->{titlesort} eq $recs[$i-1]->{titlesort}))
+         || 
+          (($i < $size-1) &&
+           ($recs[$i]->{lowissn} ne $recs[$i+1]->{lowissn}) &&
+           ($recs[$i]->{titlesort} eq $recs[$i+1]->{titlesort}))) {
+        # print STDERR " changing $recs[$i]->{title} to $recs[$i]->{titlefull}\n";
+        $recs[$i]->{title} = $recs[$i]->{titlefull};
+      }
+    }
+  }
+  # recs = sort_titles(@recs);
+  return pre64andolbp(@recs);
+}
+
 
 # everything is a filter that returns all records 
 
@@ -687,15 +742,24 @@ sub readwikipediafile {
 sub sort_titles {
   my (@recs) = @_;
   foreach my $rec (@recs) {
+    my $startcode = ord(substr($rec->{title}, 0, 1));
+    if ($startcode > 0x3000 || ($startcode >= 0x590 && $startcode < 0x600)) {
+      # Don't attempt to normalize CJK or Hebrew titles for sorting
+      $rec->{titlesort} = $rec->{title};
+      # print STDERR "Not trying to mess with $rec>{title}\n";
+      next;
+    }
     my $key = lc(OLBP::Entities::normalize_utf8($rec->{title}));
+    $key =~ s/^["'!\?\]\[]//;
     $key =~ s/^\s*//;
-    $key =~ s/^["'!\?]//;
-    $key =~ s/^(a|der|die|il|la|le|les|t|the|y) //;
+    $key =~ s/^(a|der|die|il|la|le|les|t|the|y)\s+//;
     $key =~ s/^l' ?//;
     $key =~ s/^ha-//;
     $key =~ s/^al[ \-]'?//;
     $key =~ s/^el (?!(paso|dorado))//;  # "El" stays for El Paso and El Dorado
     $key =~ s/^los (?!angeles)//;       # "Los" stays for Los Angeles
+    $key =~ s/^\(//;                    # ignore parens after articles
+    $key =~ s/^\s*\.\.\.\s*//;          # and ellipses after articles
     # print "key for $rec->{title} is '$key'\n";
     $rec->{titlesort} = $key;
   }

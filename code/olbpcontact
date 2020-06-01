@@ -64,6 +64,7 @@ my $bigserialparams = {
    link => $BIGSERIALFORMLINK,
 };
 
+my $gateway = "172.16.34.184";
 
 my $pagestarted = 0;
 
@@ -90,6 +91,22 @@ label {
   display: inline-block;
 }
 !;
+
+sub tag_form {
+  my ($q) = @_;
+  my $str = "";
+  my $from = $q->remote_host();
+  # We may just be getting our gateway's IP address; if so,
+  # see if it's passing in the real requester's IP via an environment variable
+  my $for = $ENV{'HTTP_X_FORWARDED_FOR'};
+    if (($from eq $gateway) && $for) {
+      $from = $for;
+    }
+  my $when = time();
+  $str .= "FROM $from\n";
+  $str .= "AT $when\n";
+  return $str;
+}
 
 sub pageheader {
   my ($title, $ftl, $newstyle) = @_;
@@ -363,17 +380,19 @@ sub bigserialform {
   put that information in the appropriate spaces below.
   Any copyright or online issue information you submit here will
   be considered public domain data, publishable via a
-  <a href="https://creativecommons.org/share-your-work/public-domain/cc0/">CC0 dedication</a>.
+  <a target="deepcc0" href="https://creativecommons.org/share-your-work/public-domain/cc0/">CC0 dedication</a>.
   </p>
   <p>
   If you don't have information on this serial, but would like us to further
-  research it, you can just leave the information spaces blank and
-  press the Submit button at the bottom of the form.
+  research it, you can leave the information spaces blank and
+  press the Submit button at the bottom of the form.  (We also have
+  <a href="https://onlinebooks.library.upenn.edu/cce/serialcformhelp.html" target="deepdocs">more information on how to answer these questions</a>
+  that you might find helpful.)
   </p>
   <p>
   Either way, we'll do what we can to incorporate that information into
-  <a href="$OLBPURL">The Online Books Page</a>
-  and <a href="$COPYURL">our copyright knowledge base</a>.
+  <a href="$OLBPURL" target="deepolbp">The Online Books Page</a>
+  and <a href="$COPYURL" target="deepfirst">our copyright knowledge base</a>.
   If you leave your contact information, we can let you know what
   we've done.
   </p>
@@ -395,7 +414,7 @@ sub bigserialform {
     my $hint = "";
     if ($issndefault) {
       my $hinturl = "https://franklin.library.upenn.edu/catalog?utf8=%E2%9C%93&search_field=isxn_search&q=$issndefault";
-      $hint = qq! (Penn's <a href="$hinturl">Franklin record</a> may say.)!;
+      $hint = qq! (Penn's <a href="$hinturl" target="deepfranklin">Franklin record</a> may say.)!;
     }
     print formrow(caption=>
       "Does this serial originate in the US, or some other country?$hint",
@@ -406,11 +425,11 @@ sub bigserialform {
      fieldname=>"country");
     print formrow(caption=>"List signs, if any, of simultaneous US publication",
                   fieldname=>"simultaneous");
-    my $firstrenewal = qq!<a href="$FPURL">first renewals page</a>!;
+    my $firstrenewal = qq!<a href="$FPURL" target="deepfirst">first renewals page</a>!;
     print formrow(caption=>"Is this serial listed on our $firstrenewal?",
                   fieldname=>"listed", withblank=>1,
                  choice=>["Yes", "No"]);
-    my $reg = qq!<a href="$REGURL">Copyright Office Catalog / Registered works database</a>!;
+    my $reg = qq!<a href="$REGURL" target="deepcocat">Copyright Office Catalog / Registered works database</a>!;
     print formrow(caption=>
                    "Are renewal records for this serial found in the $reg?",
                   fieldname=>"database", withblank=>1,
@@ -429,21 +448,21 @@ sub bigserialform {
   print qq!<p>!;
   print qq!</section>!;
   print qq!<hr><section>!;
-  print qq!<h3>Let us know about free online content</h3>!;
-  print qq!<p>Use the space below to include URLs about any open online
+  print qq!<h3>Let us know about free online issues</h3>!;
+  print qq!<p>Use the space below to include URLs about any free online
    volumes or issues you find. !;
   my $hathiurl = "https://catalog.hathitrust.org/";
   if ($titledefault) {
     $hathiurl .= "Search/Home?searchtype=title&ft=ft&setft=true&lookfor="
               . OLBP::url_encode($titledefault);
   }
-  my $hathilink = qq!<a href="$hathiurl">HathiTrust</a>!;
+  my $hathilink = qq!<a href="$hathiurl" target="deephathi">HathiTrust</a>!;
   my $iaurl = "https://archive.org/";
   if ($titledefault) {
     $iaurl .= "search.php?query=mediatype:(texts)%20AND%20" .
            OLBP::url_encode($titledefault);
   }
-  my $ialink = qq!the <a href="$iaurl">Internet Archive</a>!;
+  my $ialink = qq!the <a href="$iaurl" target="deepia">Internet Archive</a>!;
   my $wcurl = "https://worldcat.org/";
   if ($issndefault) {
      $wcurl .= "search?qt=advanced&dblist=638&q=n2:$issndefault";
@@ -451,18 +470,18 @@ sub bigserialform {
      $wcurl .= "search?qt=advanced&dblist=638&q=ti:"
               . OLBP::url_encode($titledefault);
   }
-  my $wclink = qq!<a href="$wcurl">WorldCat</a>!;
+  my $wclink = qq!<a href="$wcurl" target="deepwc">WorldCat</a>!;
   my $pubtext = "a web search for the serial title";
   if ($titledefault) {
     my $searchurl = "https://www.google.com/search?q="
                     . OLBP::url_encode($titledefault);
-    $pubtext = qq!<a href="$searchurl">$pubtext</a>!;
+    $pubtext = qq!<a href="$searchurl" target="deepsearch">$pubtext</a>!;
   }
   print qq!Good places to search include $hathilink, $ialink, $wclink!;
   print qq! and $pubtext.  Keep in mind that links on WorldCat !;
   print qq! and publisher sites may be available to Penn users !;
-  print qq! due to a suscription, or may require payment to access. !;
-  print qq! Such content does not count as open for our purposes.!;
+  print qq! due to a subscription, or may require payment to access. !;
+  print qq! Such content does not count as free for our purposes.!;
   print qq!</p>!;
   print qq!<textarea name="freestuff" rows="4" cols="60"></textarea>!;
   print qq!</section>!;
@@ -674,6 +693,7 @@ sub process_form {
     $str = substr($str, 0, $MAXSIZE);
     $str .= "[TRUNCATED]";
   }
+  $str .= tag_form($q);
   my $success;
   if ($pool) {
     $success = $pool->record_submission(string=>$str);

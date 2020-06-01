@@ -1,0 +1,20 @@
+{
+   "title": "The Pennsylvania Dutchman",
+   "aka": ["The Dutchman"],
+   "online": "1",
+   "first-issue":
+      {"issue-date": "1949-05-05", "volume": "1", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "database",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "database",
+   "last-issue":
+      {"issue-date": "1957-Summer-Fall", "volume": "8", "number": "4"},
+   "succeeded-by": [{"id": "pafolklife", "note": "Pennsylvania Folklife"}],
+   "additional-note": "Volume 6 and 7 were published as 'The Dutchman'.",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2020-05-21"
+}

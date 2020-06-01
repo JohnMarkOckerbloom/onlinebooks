@@ -16,6 +16,7 @@
    "first-renewed-contribution-source": "1952-JulDec",
    "last-issue":
       {"issue-date": "1930-06", "volume": "20", "number": "4"},
+   "succeeded-by": [{"id": "excitement", "note": "Excitement"}],
    "renewed-issue-completeness": "active/1925",
    "renewed-issues": [
       {"issue-date": "1925-02", "volume": "9", "number": "6",
@@ -79,5 +80,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-01-19"
+   "last-updated": "2020-05-19"
 }
