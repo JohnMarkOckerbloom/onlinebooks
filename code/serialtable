@@ -76,9 +76,6 @@ my $tables = {
   "penn-serials" =>
      {file => $penn_serials, reader=>\&readcsvfile,
       parser=>\&pennparser, filter=>\&pennfilter},
-  "penn-serials-test" =>
-     {file => $penn2_serials, reader=>\&readcsvfile,
-      parser=>\&pennparser, filter=>\&testpennfilter},
   "proquest-archive" =>
      {file => $proquest_archive, reader=>\&readpqfile,
       parser=>\&pqparser, filter=>\&pre64andolbp},
@@ -428,8 +425,14 @@ sub pennparser {
       ($start, $end) = ($1, $2);
     } elsif ($daterange =~ /-.*(\d\d\d\d)/) {
       $end = $1;
+    } elsif ($daterange =~ /(\d\d\d\d).*-/) {
+      $start = $1;
     } elsif ($daterange =~ /(\d\d\d\d)/) {
       $start = $1;
+      # would be nice to be close out range, but source data not reliable enough
+      #if ($result->{"Resource Type"} =~ /Ceased/) {
+      #  $end = $start;
+      #}
     }
     my $title = $result->{Title};
     my @rawissns = split /\s*;\s*/, $issnfield;

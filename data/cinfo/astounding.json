@@ -14,7 +14,11 @@
    "first-renewed-contribution":
       {"issue": {"issue-date": "1934-03", "volume": "13", "number": "1"}},
    "first-renewed-contribution-source": "1962-JanJun",
-   "renewed-issue-completeness": "active/1960-09",
+   "last-issue":
+      {"issue-date": "1960-09", "volume": "66", "number": "1"},
+   "succeeded-by":
+      [{"id": "analogsf", "note": "Analog (science fiction magazine)"}],
+   "renewed-issue-completeness": "active/end",
    "renewed-issues": [
       {"issue-date": "1933-10", "volume": "12", "number": "2"},
       {"issue-date": "1933-11", "volume": "12", "number": "3"},
@@ -920,10 +924,13 @@
         }
       }
    ],
-   "additional-note" : "Contribution renewals are recorded beginning in the 1961 July-December CCE volume, but the earliest renewed contribution is noted in the 1962 January-June volume.",
+   "additional-notes": [
+      "Contribution renewals are recorded beginning in the 1961 July-December CCE volume, but the earliest renewed contribution is noted in the 1962 January-June volume.",
+      "The word 'Analog' starts appearing along 'Astounding' in the cover title in early 1960.  The September 1960 issue is the last with 'Astounding' on the cover."
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-11-10"
+   "last-updated": "2020-06-19"
 }

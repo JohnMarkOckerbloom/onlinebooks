@@ -1,0 +1,253 @@
+#!/usr/bin/perl
+# program to generate a JSON file based on queue entry
+# usage: mj [issn] [onlinebooksid]
+
+# BEGIN LINES that change in test version (do not edit this 6-line block)
+BEGIN {
+$OLBP::SCRIPTNAME = "mj";
+}
+use lib "nlib";
+use OLBP;
+use OLBP::SubmissionPool;
+
+my $cinfodir = "/home/LIBRARY/ockerblo/digital/nonpublic/bookdb/cinfo";
+my $pooldir  = "/home/LIBRARY/ockerblo/digital/nonpublic/submissions/";
+my $bfdir    = "backfile";
+
+my %ADJECTIVE = (
+ "Argentina" => "an Argentinian",
+ "Australia" => "an Australian",
+ "Austria" => "an Austrian",
+ "Brazil" => "a Brazilian",
+ "Canada" => "a Canadian",
+ "Colombia" => "a Colombian",
+ "Costa Rica" => "a Costa Rican",
+ "Croatia" => "a Croatian",
+ "Denmark" => "a Danish",
+ "England" => "a British",
+ "Finland" => "a Finnish",
+ "France" => "a French",
+ "Germany" => "a German",
+ "Greece" => "a Greek",
+ "Hungary" => "a Hungarian",
+ "Iran" => "an Iranian",
+ "Italy" => "an Italian",
+ "Japan" => "a Japanese",
+ "Mexico" => "a Mexican",
+ "Netherlands" => "a Dutch",
+ "The Netherlands" => "a Dutch",
+ "Norway" => "a Norwegian",
+ "Poland" => "a Polish",
+ "Portugal" => "a Portuguese",
+ "Russia" => "a Russian",
+ "Scotland" => "a Scottish",
+ "Spain" => "a Spanish",
+ "Switzerland" => "a Swiss",
+ "Turkey" => "a Turkish",
+ "Venezuela" => "a Venezuelan",
+ "United Kingdom" => "a British",
+ "Zimbabwe" => "a Zimbabwean",
+);
+
+sub getsubmission {
+  my ($issn) = @_;
+  my $rec = {};
+  my $pool = new OLBP::SubmissionPool(dir=>$pooldir, name=>$bfdir);
+  die "Could not find submission pool" if (!$pool);
+  my $filehash = $pool->get_files();
+  die "Could not access submission pool" if (!$filehash);
+  my @ids = keys %{$filehash};
+  my @sorted = sort {$a <=> $b} @ids;
+  foreach my $id (@sorted) {
+    my $content = $filehash->{$id};
+    if ($content =~ /ISSN $issn\n/) {
+      return $content;
+    }
+  }
+  return undef;
+}
+
+sub parse_submission {
+  my ($str) = @_;
+  my $rec = {};
+  my @lines = split /\n/, $str;
+  foreach my $line (@lines) {
+    if ($line =~ /^([A-Z]+)\s+(.*)/) {
+      $rec->{$1} = $2;
+    }
+  }
+  return $rec;
+}
+
+sub quotejson {
+  my ($str) = @_;
+  $str =~ s/\"/\\\"/g;
+  return $str;
+}
+
+sub jsonline {
+  my ($field, $value, $split) = @_;
+  my $indent = "   ";
+  my $str = $indent . qq!"$field": !;
+  if ($split) {
+    $str .= "\n$indent$indent";
+  }
+  $str .= '"' . quotejson($value) .  "\",\n";
+  return $str;
+}
+
+sub responsibility {
+  return qq!   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo\@pobox.upenn.edu"
+   },
+!;
+}
+
+sub today {
+  my @ta = localtime(time);
+  return sprintf("%04d-%02d-%02d", $ta[5] + 1900, $ta[4] + 1, $ta[3]);
+}
+
+sub submitter {
+  my ($rec) = @_;
+  if ($rec->{EMAIL}) {
+    if ($rec->{EMAIL} =~ /^\S\s+\S+\s+(\S.*)/) {
+      return $1;
+    }
+  }
+  return undef;
+}
+
+sub countrynote {
+  my ($country) = @_;
+  my $origin = "a publication from $country";
+  if ($ADJECTIVE{$country}) {
+    $origin = "$ADJECTIVE{$country} publication";
+  }
+  return undef if (!$origin);
+  return "This is $origin. Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US.";
+}
+
+sub makejson {
+  my ($issn, $rights, $toc) = @_;
+  my $submission = getsubmission($issn);
+  die "Could not find submission for $issn" if (!$submission);
+  my $rec = parse_submission($submission);
+  my $str = "{\n";
+  my $title = $rec->{TITLE};
+  $title =~ s/\.$//;                          # strip final period
+  $str .= jsonline("title", $title);
+  if ($toc) {
+    my $url = $toc->{url};
+    my $note = $toc->{note};
+    if ($url && $note) {
+      $str .= qq!   "contents": [\n!;
+      $str .= qq!      {"url": "! . quotejson($url) . qq!",\n!;
+      $str .= qq!       "note": "! . quotejson($note) . qq!"}\n!;
+      $str .= qq!   ],\n!;
+    }
+  }
+  if ($rights) {
+    $str .= jsonline("rights-statement", $rights);
+  } else {
+    my $norenewal = 0;
+    if ($rec->{LISTED} eq "No" && $rec->{DATABASE} eq "No") {
+      $norenewal = 1;
+    }
+    $str .= jsonline("first-renewed-issue", "none") if ($norenewal);
+    $str .= jsonline("first-renewed-issue-source", "database");
+    $str .= jsonline("first-renewed-contribution", "none") if ($norenewal);
+    $str .= jsonline("first-renewed-contribution-source", "database");
+  }
+  if ($rec->{ORIGIN} =~ /^Some/) {
+    my $note = countrynote($rec->{COUNTRY});
+    $str .= jsonline("additional-note", $note, 1);
+  }
+  $str .= responsibility();
+  my $submitter = submitter($rec);
+  if ($submitter) {
+    my $thanks = "Thanks to $submitter for copyright research on this title.";
+    $str .= jsonline("acknowledgement", $thanks, 1);
+  }
+  my $today = today();
+  $str .= qq!   "last-updated": "$today"\n!;
+  $str .= "}\n";
+  return $str;
+}
+
+sub writejson {
+  my ($id, $str) = @_;
+  my $path = "$cinfodir/$id.json";
+  if (-e $path) {
+    die "$id: ID already taken\n";
+  }
+  open OUT, "> $path" or die "Can't write to $path";
+  print OUT $str;
+  close OUT or die "Can't complete write to $path";
+}
+
+sub parseargs {
+  my $args = {};
+  while (my $arg = shift @ARGV) {
+    if ($arg =~ /^\d\d\d\d-\d\d\d[\dX]$/) {
+      $args->{issn} = $arg;
+      $args->{olbpid} = shift @ARGV;
+      return $args;
+    } elsif ($arg eq "allpd") {
+      $args->{rights} = "NoC-US";
+    } elsif ($arg eq "allc") {
+      $args->{rights} = "InC";
+    } elsif ($arg eq "online") {
+      $args->{online} = "1";
+    } elsif ($arg =~ /jstor:(.*)/) {
+      $args->{contents}->{url} = 
+         "https://www.jstor.org/journal/$1",
+      $args->{contents}->{note} = 
+       "JSTOR (full text also available for subscription or payment)";
+    } elsif ($arg =~ /oup:(.*)/) {
+      $args->{contents}->{url} = 
+         "https://academic.oup.com/$1/issue",
+      $args->{contents}->{note} = 
+       "Publisher site (full text also available for subscription or payment)";
+    } elsif ($arg =~ /sage:(.*)/) {
+      $args->{contents}->{url} = 
+         "https://journals.sagepub.com/loi/$1",
+      $args->{contents}->{note} = 
+       "Publisher site (full text also available for subscription or payment)";
+    } elsif ($arg =~ /sd:(.*)/) {
+      $args->{contents}->{url} = 
+         "https://www.sciencedirect.com/journal/$1/issues",
+      $args->{contents}->{note} = 
+       "Publisher site (full text also available for subscription or payment)";
+    } elsif ($arg =~ /springer:(.*)/) {
+      $args->{contents}->{url} = 
+         "https://link.springer.com/journal/$1/volumes-and-issues";
+      $args->{contents}->{note} = 
+       "Publisher site (full text also available for subscription or payment)";
+    } elsif ($arg =~ /tf:(.*)/) {
+      $args->{contents}->{url} = 
+         "https://www.tandfonline.com/loi/$1";
+      $args->{contents}->{note} = 
+       "Publisher site (full text also available for subscription or payment)";
+    } elsif ($arg =~ /wiley:(.*)/) {
+      $args->{contents}->{url} = 
+         "https://onlinelibrary.wiley.com/loi/$1";
+      $args->{contents}->{note} = 
+       "Publisher site (full text also available for subscription or payment)";
+    } else {
+      return $args;
+    }
+  }
+  return $args;
+}
+
+my $args = parseargs();
+if (!$args->{issn} || !$args->{olbpid}) {
+  die "Usage: mj [optional-args] [issn] [onlinebooksid]\n"
+}
+if (!($args->{issn} =~ /^\d\d\d\d-\d\d\d[\dX]$/)) {
+  die "Bad ISSN: $args->{issn}\n"
+}
+my $str = makejson($args->{issn}, $args->{rights}, $args->{contents});
+writejson($args->{olbpid}, $str);

@@ -1,0 +1,28 @@
+{
+   "title": "Analog",
+   "title-note": "science fiction magazine",
+   "contents": [
+      {"url": "http://www.isfdb.org/cgi-bin/pe.cgi?15031",
+       "note": "ISFDB"},
+      {"url": "http://www.philsp.com/homeville/SFI/link.asp?magid=ASF",
+       "note": "Galactic Central"}
+   ],
+   "preceded-by":
+      [{"id": "astounding", "note": "Astounding Stories"}],
+   "first-issue": 
+      {"issue-date": "1960-10", "volume": "66", "number": "2"},
+   "first-renewed-issue": 
+      {"issue-date": "1960-10", "volume": "66", "number": "2"},
+   "first-renewed-issue-source": "database",
+   "first-renewed-contribution": 
+      {"issue": {"issue-date": "1960-10", "volume": "66", "number": "2"}},
+   "first-renewed-contribution-source": "database",
+   "additional-note": "The word 'Analog' started appearing along 'Astounding' in the cover title of Astounding Stories in early 1960.  The October 1960 issue is the first with 'Analog' in the title and not 'Astounding'.",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "acknowledgement": 
+      "Thanks to Mallika Sircar for copyright research on this title.",
+   "last-updated": "2020-06-19"
+}

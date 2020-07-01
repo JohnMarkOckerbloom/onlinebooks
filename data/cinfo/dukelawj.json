@@ -1,20 +1,16 @@
 {
    "title": "Duke Law Journal",
-   "aka": ["Duke Bar Journal"],
    "online": "1",
-   "first-renewed-issue":
-   {"issue-date": "1955", "cdate": "1955-05-30", "volume": "5", "number": "1"},
+   "preceded-by": [{"id": "dukebarj", "note": "Duke Bar Journal"}],
+   "first-issue":
+      {"issue-date": "1957-Fall", "volume": "7", "number": "1"},
+   "first-renewed-issue": "none",
    "first-renewed-issue-source": "database",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "database",
-   "renewed-issue-completeness": "active/autorenewals",
-   "renewed-issues": [
-    {"issue-date": "1955", "cdate": "1955-05-30", "volume": "5", "number": "1",
-      "note": "This issue was titled Duke Bar Journal"}
-   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-05-26"
+   "last-updated": "2020-06-09"
 }

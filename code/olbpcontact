@@ -669,6 +669,7 @@ sub analyze_form {
   if (spamcomment($comments) || spambadlink($ref, $wref, $comments)
       || $email =~ /\@email.tst/
       || $email =~ /cergplwqx/
+      || $email =~ /explainthebusiness/
       || $email =~ /arachni\@email/
       || $title =~ /^About[a-z][a-z][a-z][a-z][a-z]/
       || $title =~ /^cheap /

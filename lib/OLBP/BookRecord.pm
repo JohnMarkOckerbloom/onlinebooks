@@ -628,6 +628,8 @@ sub long_entry {
         my $type = $key;
         $type = "Print" if ($key eq "P");
         $type = "Electronic" if ($key eq "E");
+        $type = "Canceled" if ($key eq "C");
+        $type = "Related title in overall series" if ($key eq "R");
         $type = "Linking ISSN" if ($key eq "L");
         $issnstr .= " ($type)";
       }

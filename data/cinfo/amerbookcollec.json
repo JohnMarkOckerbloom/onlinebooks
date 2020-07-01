@@ -1,0 +1,31 @@
+{
+   "title": "The American Book Collector",
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "database",
+   "first-renewed-contribution": {"issue": {"issue-date": "1958-09"}},
+   "first-renewed-contribution-source": "database",
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1958-09"},
+        "title": "The Cousins: Short Story",
+        "author": {
+         "authorized": "Stuart, Jesse, 1906-1984",
+         "lcna": "n79018157"
+        }
+     },
+     {"issue": {"issue-date": "1958-09"},
+        "title": "When Heart and Death Lie Down Together in a Lonely Land: Essay",
+        "author": {
+         "authorized": "Stuart, Jesse, 1906-1984",
+         "lcna": "n79018157"
+        }
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "acknowledgement": 
+      "Thanks to Scott F Andrews for copyright research on this title.",
+   "last-updated": "2020-06-18"
+}
