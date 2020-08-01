@@ -1,0 +1,26 @@
+{
+   "title": "Advances in Electronics",
+   "first-issue": {"issue-date": "1948", "volume": "1"},
+   "first-renewed-issue": {"issue-date": "1948", "volume": "1"},
+   "first-renewed-issue-source": "1976-JanJun",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce+database",
+   "last-issue": {"issue-date": "1953", "volume": "5"},
+   "succeeded-by":
+     [{"id": "adelectronp1954",
+      "note": "Advances in Electronics and Electron Physics"}],
+   "renewed-issue-completeness": "active/end",
+   "renewed-issues": [
+      {"issue-date": "1948", "volume": "1"},
+      {"issue-date": "1950", "volume": "2"},
+      {"issue-date": "1951", "volume": "3"},
+      {"issue-date": "1952", "volume": "4"},
+      {"issue-date": "1953", "volume": "5"}
+   ],
+   "additional-note": "Volume of this serials were renewed as books, rather than as periodicals.",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2020-07-17"
+}

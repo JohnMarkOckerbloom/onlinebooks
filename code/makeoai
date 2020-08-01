@@ -17,7 +17,7 @@ use OLBP;
 use OLBP::OAI;
 
 
-my $dbdir       = "/home/ockerblo/bookdb/";
+my $dbdir       = "/home/LIBRARY/ockerblo/bookdb/";
 my $idxdir      = $dbdir;
 my $bookfile    = $dbdir . "bookfile";
 my %oaibooks;
@@ -25,6 +25,8 @@ my %oaibooks;
 # set this back to 1 when our DLF OAI file works (it doens't now,
 # because it's too big)
 my $dodlf = 0;
+
+my $domarc = 0;
 
 my $oaidir = "/mnt/onlinebooks/nonpublic/oai";
 my $archivesdir = $oaidir . "/archives";
@@ -79,7 +81,7 @@ sub makeoaifiles {
   my $now = iso8601date();
   my %datestamp;
   my @ids = keys %oaibooks;
-  my (%dcstr, %modstr, %expandstr);
+  my (%dcstr, %modstr, %expandstr, %marcstr);
   my $id;
   my $oai = new OLBP::OAI();
   foreach $id (@ids) {
@@ -87,6 +89,9 @@ sub makeoaifiles {
     $modstr{$id} = $oai->oai_mods(record=>$oaibooks{$id});
     if ($dodlf) {
       $expandstr{$id} = $oai->oai_dlfexpanded(record=>$oaibooks{$id});
+    }
+    if ($domarc) {
+      $marcstr{$id} = $oai->oai_marcxml(record=>$oaibooks{$id});
     }
   }
   my $olddc = new OLBP::Hash(name=>"olddc", filename=>$bookdcfile);

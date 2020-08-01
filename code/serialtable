@@ -18,16 +18,19 @@ my $wikidatafile = $wikidir . "wikiperiodicals.csv";
 my $olbpserial = {};
 my $issnserial = {};
 
-my $cambridge_journals = $pkgdir . "cambridge/CUP_All_journals_2020-01-06.txt";
+#my $cambridge_journals = $pkgdir . "cambridge/CUP_All_journals_2020-01-06.txt";
+my $cambridge_journals = $pkgdir . "cambridge/CUP_All_journals_2020-07-02.txt";
 
-my $jstor_merged = $pkgdir . "jstor/JSTOR_ArchiveTitles_2020-01-08.txt";
-my $jstor_split = $pkgdir . "jstor/JSTOR_Global_AllArchiveTitles_2020-01-08.txt";
+my $jstor_merged = $pkgdir . "jstor/JSTOR_ArchiveTitles_2020-07-09.txt";
+my $jstor_split = $pkgdir . "jstor/JSTOR_Global_AllArchiveTitles_2020-07-09.txt";
+
 
 my $muse_journals = $pkgdir . "muse/muse_journal_metadata_2019.tsv";
 
-my $ovid_complete = $pkgdir . "wolters/Ovid_Global_AllJournals_2020-02-09.txt";
+#my $ovid_complete = $pkgdir . "wolters/Ovid_Global_AllJournals_2020-02-09.txt";
+my $ovid_complete = $pkgdir . "wolters/Ovid_Global_AllJournals_2020-07-05.txt";
 
-my $oxford_archive = $pkgdir . "oxford/OxfordUniversityPress_Global_2020JournalsArchiveAllTitles_2019-12-09.txt";
+my $oxford_archive = $pkgdir . "oxford/OxfordUniversityPress_Global_2020JournalsArchiveAllTitles_2020-06-04.txt";
 
 #my $penn_serials = $pkgdir . "penn/Serials before 1964.csv";
 my $penn_serials = $pkgdir . "penn/Serials (All)  - Problem Columns Removed 052220.csv";
@@ -36,14 +39,15 @@ my $proquest_archive = $pkgdir . "proquest/PeriodicalsArchiveOnline.tsv";
 
 my $sage_journals = $pkgdir . "sage/sj_deep_backfile_2020_title_list_2019.09.17.txt";
 
-my $scidirect_journals = $pkgdir . "elsevier/ScienceDirectStandard_Global_ScienceDirectAvailableJournals_2020-01-06.txt";
+my $scidirect_journals = $pkgdir . "elsevier/ScienceDirectStandard_Global_ScienceDirectAvailableJournals_2020-07-04.txt";
 my $sim_journals = $pkgdir . "sim/SIM-MASTER-TITLE-2017.txt";
-my $springer_journals = $pkgdir . "springer/Springer_Global_Complete_Journals_2020-01-07.txt";
+#my $springer_journals = $pkgdir . "springer/Springer_Global_Complete_Journals_2020-01-07.txt";
+my $springer_journals = $pkgdir . "springer/Springer_Global_Complete_Journals_2020-07-01.txt";
 my $taylor_global = $pkgdir . "taylor/TaylorandFrancisOnline_Global_DatabaseOAReadandPublish_2019-09-18.txt";
 my $taylor_classic = $pkgdir . "taylor/ClassicAggregation.txt";
 my $wikipedia = $pkgdir . "wikipedia/articleperiodicals.csv";
-# my $wiley_all = $pkgdir . "wiley/wiley_alljournals_2019-09-01-1568229275410.txt";
-my $wiley_all = $pkgdir . "wiley/wiley_alljournals_2020-01-01.txt";
+#my $wiley_all = $pkgdir . "wiley/wiley_alljournals_2020-01-01.txt";
+my $wiley_all = $pkgdir . "wiley/wiley_alljournals_2020-05-01.txt";
 
 my $sagetitlefield = "Title";  # just a placeholder; varies by file
 
@@ -72,7 +76,7 @@ my $tables = {
       parser=>\&kbartparser, filter=>\&pre64andolbp},
   "oxford-archive" =>
      {file => $oxford_archive, reader=>\&readoxfordfile,
-      parser=>\&kbartparser, filter=>\&pre64andolbp},
+      parser=>\&kbartparser, filter=>\&oxfordfilter},
   "penn-serials" =>
      {file => $penn_serials, reader=>\&readcsvfile,
       parser=>\&pennparser, filter=>\&pennfilter},
@@ -100,14 +104,14 @@ my $tables = {
       parser=>\&kbartparser, filter=>\&pre64andolbp},
   "taylor-classic" =>
      {file => $taylor_classic, reader=>\&readtsvfile,
-      parser=>\&kbartparser, filter=>\&pre64andolbp},
+      parser=>\&kbartparser, filter=>\&sortedfilter64},
   # Wikipedia serials are pre-filtered
   "wikipedia-serials" =>
      {file => $wikipedia, reader=>\&readwikipediafile,
       parser=>\&wikipediaparser, filter=>\&wikipedia_filter},
   "wiley-all" =>
      {file => $wiley_all, reader=>\&readwileyfile,
-      parser=>\&kbartparser, filter=>\&pre64andolbp}
+      parser=>\&kbartparser, filter=>\&sortedfilter64}
 };
 
 my $renewals_start = 1925;
@@ -507,19 +511,22 @@ sub pre64andolbp {
   return @filteredrecs;
 }
 
-# for the Penn filter, we do a smart sort and remove the payment record bits
-# as well as excess spaces
-sub oldpennfilter {
+# Oxford no longer puts titles in alpha order; also has CSV-like title quotes 
+sub oxfordfilter {
   my (@recs) = @_;
   foreach my $rec (@recs) {
-    $rec->{title} =~ s/\[PAYMENT RECORD\]//;
-    $rec->{title} =~ s/\s+/ /g;
-    $rec->{title} =~ s/^\s+//;
-    $rec->{title} =~ s/\s+$//;
+    $rec->{title} =~ s/^\s*\"(.*)\"\s*$/$1/;
   }
   @recs = sort_titles(@recs);
   return pre64andolbp(@recs);
 }
+
+sub sortedfilter64 {
+  my (@recs) = @_;
+  @recs = sort_titles(@recs);
+  return pre64andolbp(@recs);
+}
+
 
 sub pennfilter {
   my (@recs) = @_;
@@ -898,15 +905,21 @@ sub readwileyfile {
   return @results;
 }
 
-# A Springer file is like a TSV file, but needs to be opened
+# A Springer file is like a TSV file, but may need to be opened
 # with correct encoding, and have quoted title names dequoted
 
 sub readspringerfile {
   my ($filename, %params) = @_;
   my @results;
-  open my $fh, "<:encoding(utf-16)", $filename or die "filename: $!";
+  # open my $fh, "<:encoding(utf-16)", $filename or die "filename: $!";
+  open my $fh, "<:encoding(utf-8)", $filename or die "filename: $!";
+  # open my $fh, "<", $filename or die "filename: $!";
   my $row = <$fh>;
   my @fieldnames = split /\t/, $row;
+  if ($fieldnames[0] =~ /\x{feff}(.*)/) {
+      # remove byte order marker if present
+      $fieldnames[0] = $1;
+  }
   while (my $row = <$fh>) {
     my %hash = ();
     my @fields = split /\t/, $row;

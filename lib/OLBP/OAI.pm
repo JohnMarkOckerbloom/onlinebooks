@@ -1,6 +1,7 @@
 package OLBP::OAI;
 use strict;
 use OLBP::Entities;
+use OLBP::BRMarc;
 
 my %ROLECODE = ( "AUTHOR"=> "aut", "EDITOR"=> "edt", "CONTRIBUTOR"=> "ctb",
                  "ILLUSTRATOR"=> "ill", "TRANSLATOR"=> "trl");
@@ -107,6 +108,12 @@ sub oai_dc {
   }
   $str .= "</dc:rights>\n";
   $str .= "<dc:type>Text</dc:type>\n";
+  return $str;
+}
+
+sub oai_marc {
+  my ($self, %params) = @_;
+  my $str = BRMarc::makemarcxml(%params);
   return $str;
 }
 

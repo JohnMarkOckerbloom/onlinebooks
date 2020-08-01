@@ -14,10 +14,10 @@ my $wikiprod  = "wikidata";
 my $minwpfilesize = "50000";
 my $maxwpfilesize = "500000";
 
-my $mincsvfilesize = "5000000";
-my $maxcsvfilesize = "10000000";
+my $mincsvfilesize = "9000000";
+my $maxcsvfilesize = "20000000";
 
-my $minarticlefilesize = "1000000";
+my $minarticlefilesize = "1600000";
 my $maxarticlefilesize = "3000000";
 
 my $csvstage   = "wikipstage.csv";

@@ -1,6 +1,7 @@
 {
    "title": "Imagination",
    "title-note": "US science fiction magazine, 1950-1958",
+   "online": "1",
    "contents": [
       {"url": "http://www.isfdb.org/cgi-bin/pe.cgi?22581",
        "note": "ISFDB"},
@@ -14,10 +15,660 @@
    "first-renewed-contribution": 
       {"issue": {"issue-date": "1950-12", "volume": "1", "number": "2"}},
    "first-renewed-contribution-source": "database",
-   "additional-note": "While there is no renewal specifically filed for 'Technical Slip', which appears in the December 1950 issue, it may be covered by the 1976 renewal for the Spring 1949 issue of The Arkham Sampler, in which the story first appeared.  The first renewal for a contribution that specifically mentions this magazine is for 'Shadow, Shadow, on the Wall' in the February 1951 issue.",
+   "last-issue": 
+      {"issue-date": "1958-10", "volume": "9", "number": "5"},
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+       {"issue": {"issue-date": "1950-12", "volume": "1", "number": "2"}, 
+        "title": "Technical Slip",
+         "note": "Author is better known today as John Wyndham. While there is no renewal specifically filed for this story, it may be covered by the 1976 renewal for the Spring 1949 issue of The Arkham Sampler, in which the story first appeared.",
+        "author": {
+          "authorized": "Beynon, John, 1903-1969",
+          "lcna": "n2003032436"
+        }
+       },
+       {"issue": {"issue-date": "1951-02", "volume": "2", "number": "1"},
+        "title": "Shadow, Shadow on the Wall",
+        "note": "This is the earliest story in this magazine that has a specific contribution renewal.",
+        "author": {
+          "authorized": "Sturgeon, Theodore",
+          "lcna": "n80066908"
+        }
+       },
+       {"issue": {"issue-date": "1951-04", "volume": "2", "number": "2"},
+        "title": "In This Sign",
+        "author": {
+          "authorized": "Bradbury, Ray, 1920-2012",
+          "lcna": "n79139258"
+        }
+       },
+       {"issue": {"issue-date": "1951-04", "volume": "2", "number": "2"},
+        "title": "'Drink My Red Blood...'",
+        "note": "Title as given in issue. Renewal record gives title as 'Blood Son'.",
+        "author": {
+         "authorized": "Matheson, Richard, 1926-2013",
+         "lcna": "n79068485"
+        }
+       },
+       {"issue": {"issue-date": "1951-04", "volume": "2", "number": "2"},
+        "title": "Afternoon of a Fahn",
+        "note": "Title as given in issue. Renewal record gives title as 'Afternoon of a Faun. Rainbow's End'",
+        "author": {
+          "authorized": "Russell, Eric Frank, 1905-1978",
+          "lcna": "n81062502"
+        }
+       },
+       {"issue": {"issue-date": "1951-04", "volume": "2", "number": "2"},
+        "title": "The Hungry House",
+        "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+        }
+       },
+       {"issue": {"issue-date": "1951-06", "volume": "2", "number": "3"},
+        "title": "Hell's Angel",
+        "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+        }
+       },
+       {"issue": {"issue-date": "1951-06", "volume": "2", "number": "3"},
+        "title": "Follow the Weeds",
+        "note": "Title as given in the issue.  Renewal record gives title as 'Follow the Weed'.",
+        "author": {
+          "authorized": "St. Clair, Margaret",
+          "lcna": "n85038071"
+        }
+       },
+       {"issue": {"issue-date": "1951-06", "volume": "2", "number": "3"},
+        "title": "The Void is My Coffin",
+        "author": {
+         "authorized": "Blish, James",
+         "lcna": "n79053667"
+        }
+       },
+       {"issue": {"issue-date": "1951-11", "volume": "2", "number": "5"},
+        "title": "The Owl and the Ape",
+        "author": {
+          "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+          "lcna": "n80057222"
+        }
+       },
+       {"issue": {"issue-date": "1952-01", "volume": "3", "number": "1"}, 
+        "title": "Alias a Woo-Woo",
+        "author": {
+          "authorized": "Springer, Sherwood, 1912-2000",
+          "lcna": "no2019054061"
+        }
+       },
+       {"issue": {"issue-date": "1952-01", "volume": "3", "number": "1"}, 
+        "title": "Letter to the Editor",
+        "note": "Title as given in the issue. Renewal record gives title as 'Advance Notice'.",
+        "author": {
+         "authorized": "Matheson, Richard, 1926-2013",
+         "lcna": "n79068485"
+        }
+       },
+       {"issue": {"issue-date": "1952-03", "volume": "3", "number": "2"}, 
+        "title": "Space Opera",
+        "author": {
+          "authorized": "Jakes, John, 1932-",
+          "lcna": "n80035843"
+        }
+       },
+       {"issue": {"issue-date": "1952-03", "volume": "3", "number": "2"}, 
+        "title": "Rebirth",
+        "author": {
+          "authorized": "Galouye, Daniel F.",
+          "lcna": "no99085263"
+        }
+       },
+       {"issue": {"issue-date": "1952-05", "volume": "3", "number": "3"}, 
+        "title": "Tonight the Sky Will Fall",
+        "author": {
+          "authorized": "Galouye, Daniel F.",
+          "lcna": "no99085263"
+        }
+       },
+       {"issue": {"issue-date": "1952-05", "volume": "3", "number": "3"}, 
+        "title": "The Dark Came Out to Play",
+        "note": "Title as given in the issue.  Renewal record gives title as 'Stevie and the Dark'.",
+        "author": {
+          "authorized": "Henderson, Zenna",
+          "lcna": "n50025301"
+        }
+       },
+       {"issue": {"issue-date": "1952-07", "volume": "3", "number": "4"}, 
+        "title": "The Reluctant Hero",
+        "author": {
+          "authorized": "Galouye, Daniel F.",
+          "lcna": "no99085263"
+        }
+       },
+       {"issue": {"issue-date": "1952-09", "volume": "3", "number": "5"}, 
+        "title": "It Kud Habben tu Yu",
+        "author": {
+          "authorized": "Knight, Damon, 1922-2002",
+          "lcna": "n79108377"
+        }
+       },
+       {"issue": {"issue-date": "1952-09", "volume": "3", "number": "5"}, 
+        "title": "The Dangerous Doll",
+        "author": {
+          "authorized": "Galouye, Daniel F.",
+          "lcna": "no99085263"
+        }
+       },
+       {"issue": {"issue-date": "1952-10", "volume": "3", "number": "6"}, 
+        "title": "Skin Game",
+        "author": {
+          "authorized": "Jakes, John, 1932-",
+          "lcna": "n80035843"
+        }
+       },
+       {"issue": {"issue-date": "1952-12", "volume": "3", "number": "7"}, 
+        "title": "Cinderella, Inc.",
+        "author": {
+          "authorized": "Anvil, Christopher",
+          "using": "Harry C. Crosby",
+          "lcna": "n2003033418"
+        }
+       },
+       {"issue": {"issue-date": "1952-12", "volume": "3", "number": "7"}, 
+        "title": "The Levitant",
+        "author": {
+          "authorized": "Galouye, Daniel F.",
+          "lcna": "no99085263"
+        }
+       },
+       {"issue": {"issue-date": "1953-04", "volume": "4", "number": "3"}, 
+        "title": "Second Wind",
+        "author": {
+          "authorized": "Galouye, Daniel F.",
+          "lcna": "no99085263"
+        }
+       },
+       {"issue": {"issue-date": "1953-04", "volume": "4", "number": "3"}, 
+        "title": "Do Us Part",
+        "author": {
+          "authorized": "Galouye, Daniel F.",
+          "using": "Louis G. Daniels",
+          "lcna": "no99085263"
+        }
+       },
+       {"issue": {"issue-date": "1953-05", "volume": "4", "number": "4"}, 
+        "title": "The Fist of Shiva",
+        "author": {
+          "authorized": "Galouye, Daniel F.",
+          "lcna": "no99085263"
+        }
+       },
+       {"issue": {"issue-date": "1953-05", "volume": "4", "number": "4"}, 
+        "title": "Earth Can Be Fun",
+        "author": {
+          "authorized": "Jakes, John, 1932-",
+          "lcna": "n80035843"
+        }
+       },
+       {"issue": {"issue-date": "1953-05", "volume": "4", "number": "4"}, 
+        "title": "The Big Cheese",
+        "author": {
+         "authorized": "Wellen, Edward",
+         "lcna": "n93021387"
+        }
+       },
+       {"issue": {"issue-date": "1953-06", "volume": "4", "number": "5"}, 
+        "title": "Effie",
+        "author": {
+          "authorized": "Galouye, Daniel F.",
+          "lcna": "no99085263"
+        }
+       },
+       {"issue": {"issue-date": "1953-06", "volume": "4", "number": "5"}, 
+        "title": "Paycheck",
+        "author": {
+         "authorized": "Dick, Philip K.",
+         "lcna": "n79018147"
+        }
+       },
+       {"issue": {"issue-date": "1953-06", "volume": "4", "number": "5"}, 
+        "title": "The Grunder",
+        "author": {
+          "authorized": "Henderson, Zenna",
+          "lcna": "n50025301"
+        }
+       },
+       {"issue": {"issue-date": "1953-07", "volume": "4", "number": "6"}, 
+        "title": "The Cosmic Poachers",
+        "author": {
+         "authorized": "Dick, Philip K.",
+         "lcna": "n79018147"
+        }
+       },
+       {"issue": {"issue-date": "1953-08", "volume": "4", "number": "7"}, 
+        "title": "The Substitute",
+        "author": {
+          "authorized": "Henderson, Zenna",
+          "lcna": "n50025301"
+        }
+       },
+       {"issue": {"issue-date": "1953-09", "volume": "4", "number": "8"}, 
+        "title": "Love That Woo-Woo!",
+        "author": {
+          "authorized": "Springer, Sherwood, 1912-2000",
+          "lcna": "no2019054061"
+        }
+       },
+       {"issue": {"issue-date": "1953-09", "volume": "4", "number": "8"}, 
+        "title": "Emergency Rations",
+        "author": {
+          "authorized": "Cogswell, Theodore R.",
+          "lcna": "n95012251"
+        }
+       },
+       {"issue": {"issue-date": "1953-10", "volume": "4", "number": "9"}, 
+        "title": "So Says the Master",
+        "author": {
+          "authorized": "Galouye, Daniel F.",
+          "lcna": "no99085263"
+        }
+       },
+       {"issue": {"issue-date": "1953-10", "volume": "4", "number": "9"}, 
+        "title": "The Impossible Planet",
+        "author": {
+         "authorized": "Dick, Philip K.",
+         "lcna": "n79018147"
+        }
+       },
+       {"issue": {"issue-date": "1953-11", "volume": "4", "number": "10"}, 
+        "title": "Sky Lift",
+        "note": "Title as given on issue cover.  Renewal record gives title as 'Skylift'.",
+        "author": {
+          "authorized": "Heinlein, Robert A. (Robert Anson), 1907-1988",
+          "lcna": "n79067868"
+        }
+       },
+       {"issue": {"issue-date": "1953-11", "volume": "4", "number": "10"}, 
+        "title": "Roll Out the Rolov!",
+        "author": {
+          "authorized": "Anvil, Christopher",
+          "using": "Harry C. Crosby",
+          "lcna": "n2003033418"
+        }
+       },
+       {"issue": {"issue-date": "1953-12", "volume": "4", "number": "11"}, 
+        "title": "First Captive",
+        "author": {
+         "authorized": "Hunter, Evan, 1926-2005",
+         "lcna": "n82253096"
+        }
+       },
+       {"issue": {"issue-date": "1953-12", "volume": "4", "number": "11"}, 
+        "title": "Project Earth",
+        "author": {
+         "authorized": "Dick, Philip K.",
+         "lcna": "n79018147"
+        }
+       },
+       {"issue": {"issue-date": "1953-12", "volume": "4", "number": "11"}, 
+        "title": "Blessed Are the Meekbots",
+        "author": {
+          "authorized": "Galouye, Daniel F.",
+          "lcna": "no99085263"
+        }
+       },
+       {"issue": {"issue-date": "1954-02", "volume": "5", "number": "2"}, 
+        "title": "Greetings From Earth!",
+        "author": {
+          "authorized": "Springer, Sherwood, 1912-2000",
+          "lcna": "no2019054061"
+        }
+       },
+       {"issue": {"issue-date": "1954-03", "volume": "5", "number": "3"}, 
+        "title": "Disposal Unit",
+        "author": {
+          "authorized": "Galouye, Daniel F.",
+          "lcna": "no99085263"
+        }
+       },
+       {"issue": {"issue-date": "1954-04", "volume": "5", "number": "4"}, 
+        "title": "Secret of the Immortals",
+        "author": {
+          "authorized": "Galouye, Daniel F.",
+          "lcna": "no99085263"
+        }
+       },
+       {"issue": {"issue-date": "1954-05", "volume": "5", "number": "5"},
+        "title": "Off-Limits Planet",
+        "author": {
+          "authorized": "Sheckley, Robert, 1928-2005",
+          "lcna": "n50022137"
+        }
+       },
+       {"issue": {"issue-date": "1954-05", "volume": "5", "number": "5"},
+        "title": "Cosmic Santa Claus",
+        "author": {
+          "authorized": "Galouye, Daniel F.",
+          "lcna": "no99085263"
+        }
+       },
+       {"issue": {"issue-date": "1954-06", "volume": "5", "number": "6"},
+        "title": "The World is But a Stage",
+        "author": {
+          "authorized": "Galouye, Daniel F.",
+          "lcna": "no99085263"
+        }
+       },
+       {"issue": {"issue-date": "1954-07", "volume": "5", "number": "7"}, 
+        "title": "The Crawlers",
+        "note": "The renewal for this story, filed in 1983, says that it ran in the July 1955 issue, but it actually appeared in the July 1954 issue.  The renewal may have been filed too late to cover this story.",
+        "author": {
+         "authorized": "Dick, Philip K.",
+         "lcna": "n79018147"
+        }
+       },
+       {"issue": {"issue-date": "1954-08", "volume": "5", "number": "8"},
+        "title": "Phantom World",
+        "author": {
+          "authorized": "Galouye, Daniel F.",
+          "lcna": "no99085263"
+        }
+       },
+       {"issue": {"issue-date": "1954-08", "volume": "5", "number": "8"},
+        "title": "Supermen Need Superwives!",
+        "author": {
+          "authorized": "Galouye, Daniel F.",
+          "using": "Louis G. Daniels",
+          "lcna": "no99085263"
+        }
+       },
+       {"issue": {"issue-date": "1954-09", "volume": "5", "number": "9"},
+        "title": "Immortality, Inc.",
+        "author": {
+          "authorized": "Galouye, Daniel F.",
+          "lcna": "no99085263"
+        }
+       },
+       {"issue": {"issue-date": "1954-12", "volume": "5", "number": "12"}, 
+        "title": "Strange Eden",
+        "note": "The renewal for this story, filed in 1983, says that it ran in the December 1955 issue, but it actually appeared in the December 1954 issue.  The renewal may have been filed too late to cover this story.",
+        "author": {
+         "authorized": "Dick, Philip K.",
+         "lcna": "n79018147"
+        }
+       },
+       {"issue": {"issue-date": "1954-12", "volume": "5", "number": "12"}, 
+        "title": "The Miracle of Dan O'Shaughnessy",
+        "author": {
+         "authorized": "Hunter, Evan, 1926-2005",
+         "lcna": "n82253096"
+        }
+       },
+       {"issue": {"issue-date": "1955-01", "volume": "6", "number": "1"},
+        "title": "Comfort Me, My Robot",
+        "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+        }
+       },
+       {"issue": {"issue-date": "1955-02", "volume": "6", "number": "2"}, 
+        "title": "Disaster Committee",
+        "author": {
+          "name": "Raymond E. Banks"
+        }
+       },
+       {"issue": {"issue-date": "1955-03", "volume": "6", "number": "3"},
+        "title": "The Long Way Home",
+        "author": {
+          "authorized": "Reynolds, Mack",
+          "lcna": "n82231916"
+        }
+       },
+       {"issue": {"issue-date": "1955-03", "volume": "6", "number": "3"},
+        "title": "Training Device",
+        "author": {
+          "authorized": "Cogswell, Theodore R.",
+          "lcna": "n95012251"
+        }
+       },
+       {"issue": {"issue-date": "1955-04", "volume": "6", "number": "4"},
+        "title": "Albatross",
+        "author": {
+          "authorized": "Reynolds, Mack",
+          "lcna": "n82231916"
+        }
+       },
+       {"issue": {"issue-date": "1955-05", "volume": "6", "number": "5"},
+        "title": "The Pleasure Was Ours",
+        "author": {
+          "authorized": "Russell, Ray",
+          "lcna": "n50031749"
+        }
+       },
+       {"issue": {"issue-date": "1955-06", "volume": "6", "number": "6"}, 
+        "title": "The Hood Maker",
+        "author": {
+         "authorized": "Dick, Philip K.",
+         "lcna": "n79018147"
+        }
+       },
+       {"issue": {"issue-date": "1955-06", "volume": "6", "number": "6"}, 
+        "title": "The Martian",
+        "author": {
+          "authorized": "Silverberg, Robert",
+          "lcna": "n80126000"
+        }
+       },
+       {"issue": {"issue-date": "1955-07", "volume": "6", "number": "7"},
+        "title": "Space Gamble",
+        "author": {
+          "authorized": "Reynolds, Mack",
+          "lcna": "n82231916"
+        }
+       },
+       {"issue": {"issue-date": "1955-07", "volume": "6", "number": "7"},
+        "title": "The Chromium Fence",
+        "author": {
+         "authorized": "Dick, Philip K.",
+         "lcna": "n79018147"
+        }
+       },
+       {"issue": {"issue-date": "1955-07", "volume": "6", "number": "7"},
+        "title": "The Crawlers",
+        "note": "The renewal for this story, filed in 1983, says that it ran in the July 1955 issue, but it actually appeared in the July 1954 issue.  The renewal may have been filed too late to cover this story.",
+        "author": {
+         "authorized": "Dick, Philip K.",
+         "lcna": "n79018147"
+        }
+       },
+       {"issue": {"issue-date": "1955-10", "volume": "6", "number": "8"},
+        "title": "Deadline Sunday",
+        "author": {
+          "authorized": "Galouye, Daniel F.",
+          "lcna": "no99085263"
+        }
+       },
+       {"issue": {"issue-date": "1955-10", "volume": "6", "number": "8"},
+        "title": "No Gun to the Victor",
+        "author": {
+          "authorized": "Cogswell, Theodore R.",
+          "lcna": "n95012251"
+        }
+       },
+       {"issue": {"issue-date": "1955-12", "volume": "6", "number": "9"},
+        "title": "The Day the Sun Died",
+        "author": {
+          "authorized": "Galouye, Daniel F.",
+          "lcna": "no99085263"
+        }
+       },
+       {"issue": {"issue-date": "1955-12", "volume": "6", "number": "9"},
+        "title": "The Underground",
+        "author": {
+         "authorized": "Dickson, Gordon R.",
+         "lcna": "n79109204"
+        }
+       },
+       {"issue": {"issue-date": "1955-12", "volume": "6", "number": "9"},
+        "title": "Strange Eden",
+        "note": "The renewal for this story, filed in 1983, says that it ran in the December 1955 issue, but it actually appeared in the December 1954 issue.  The renewal may have been filed too late to cover this story.",
+        "author": {
+         "authorized": "Dick, Philip K.",
+         "lcna": "n79018147"
+        }
+       },
+       {"issue": {"issue-date": "1956-02", "volume": "7", "number": "1"},
+        "title": "To Serve the Master",
+        "author": {
+         "authorized": "Dick, Philip K.",
+         "lcna": "n79018147"
+        }
+       },
+       {"issue": {"issue-date": "1956-06", "volume": "7", "number": "3"},
+        "title": "Fandora's Box",
+        "title-note": "recurring feature",
+        "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+        }
+       },
+       {"issue": {"issue-date": "1956-08", "volume": "7", "number": "4"},
+        "title": "Fandora's Box",
+        "title-note": "recurring feature",
+        "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+        }
+       },
+       {"issue": {"issue-date": "1956-10", "volume": "7", "number": "5"},
+        "title": "Fandora's Box",
+        "title-note": "recurring feature",
+        "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+        }
+       },
+       {"issue": {"issue-date": "1956-12", "volume": "7", "number": "6"},
+        "title": "Fandora's Box",
+        "title-note": "recurring feature",
+        "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+        }
+       },
+       {"issue": {"issue-date": "1957-02", "volume": "8", "number": "1"},
+        "title": "The Man Who Made Himself",
+        "author": {
+         "authorized": "Beaumont, Charles, 1929-1967",
+         "lcna": "n84200880"
+        }
+       },
+       {"issue": {"issue-date": "1957-02", "volume": "8", "number": "1"},
+        "title": "Fandora's Box",
+        "title-note": "recurring feature",
+        "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+        }
+       },
+       {"issue": {"issue-date": "1957-04", "volume": "8", "number": "2"}, 
+        "title": "The Old Man",
+        "author": {
+          "authorized": "Silverberg, Robert",
+          "using": "S. M. Tenneshaw",
+          "lcna": "n80126000"
+        }
+       },
+       {"issue": {"issue-date": "1957-12", "volume": "8", "number": "6"},
+        "title": "Fugitive of the Stars",
+        "author": {
+          "authorized": "Hamilton, Edmond, 1904-1977",
+          "lcna": "n79093405"
+        }
+       },
+       {"issue": {"issue-date": "1957-12", "volume": "8", "number": "6"},
+        "title": "Fandora's Box",
+        "title-note": "recurring feature",
+        "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+        }
+       },
+       {"issue": {"issue-date": "1958-04", "volume": "9", "number": "2"},
+        "title": "Corridor of the Suns",
+        "note": "Title as given on issue cover.  Renewal record gives title as 'Corridor of the Sun'.",
+        "author": {
+          "authorized": "Hamilton, Edmond, 1904-1977",
+          "lcna": "n79093405"
+        }
+       },
+       {"issue": {"issue-date": "1958-04", "volume": "9", "number": "2"},
+        "title": "Morgan's Lucky Planet",
+        "author": {
+          "authorized": "Biggle, Lloyd, Jr., 1923-2002",
+          "lcna": "n79084085"
+        }
+       },
+       {"issue": {"issue-date": "1958-04", "volume": "9", "number": "2"},
+        "title": "Fandora's Box",
+        "title-note": "recurring feature",
+        "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+        }
+       },
+       {"issue": {"issue-date": "1958-06", "volume": "9", "number": "3"},
+        "title": "Fandora's Box",
+        "title-note": "recurring feature",
+        "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+        }
+       },
+       {"issue": {"issue-date": "1958-08", "volume": "9", "number": "4"},
+        "title": "Glug",
+        "author": {
+          "authorized": "Ellison, Harlan",
+          "lcna": "n50010025"
+        }
+       },
+       {"issue": {"issue-date": "1958-08", "volume": "9", "number": "4"},
+        "title": "Fandora's Box",
+        "title-note": "recurring feature",
+        "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+        }
+       },
+       {"issue": {"issue-date": "1958-10", "volume": "9", "number": "5"},
+        "title": "The Assassin",
+        "author": {
+          "authorized": "Ellison, Harlan",
+          "lcna": "n50010025"
+        }
+       },
+       {"issue": {"issue-date": "1958-10", "volume": "9", "number": "5"},
+        "title": "Miss Impossible",
+        "author": {
+          "authorized": "Jakes, John, 1932-",
+          "using": "C. H. Thames",
+          "lcna": "n80035843"
+        }
+       },
+       {"issue": {"issue-date": "1958-10", "volume": "9", "number": "5"},
+        "title": "Fandora's Box",
+        "title-note": "recurring feature",
+        "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+        }
+       }
+   ],
+   "acknowledgement": 
+      "Thanks to Nat Bender and Greg Weeks for copyright research on this title.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-02-15"
+   "last-updated": "2020-07-25"
 }

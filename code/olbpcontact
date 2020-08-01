@@ -674,6 +674,7 @@ sub analyze_form {
       || $title =~ /^About[a-z][a-z][a-z][a-z][a-z]/
       || $title =~ /^cheap /
       || $title =~ / sunglasses /
+      || $title =~ /ister misery 1901/
       || $ref =~ /hoverboard/
       || $ref =~ /seoestore/
       || $wref =~ /seoestore/
