@@ -572,6 +572,7 @@ sub spamcomment {
   my $SPAMLIMIT = 4;
   my $spamcount = 0;
   my $str = shift;
+  return 1 if ($str =~ /googlegoogle/);
   while ($str =~ /href(.*)/i) {
     $str = $1;
     $spamcount += 1;
@@ -675,6 +676,7 @@ sub analyze_form {
       || $title =~ /^cheap /
       || $title =~ / sunglasses /
       || $title =~ /ister misery 1901/
+      || $title =~ /googlegoogle/
       || $ref =~ /hoverboard/
       || $ref =~ /seoestore/
       || $wref =~ /seoestore/

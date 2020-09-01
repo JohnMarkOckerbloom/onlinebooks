@@ -1,0 +1,23 @@
+{
+   "title": "Specialty Salesman",
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce+database",
+   "first-renewed-contribution": 
+     {"issue": {"issue-date": "1959-02"}},
+   "first-renewed-contribution-source": "database",
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1959-02"},
+      "title": "The Unfriendly Prospect",
+      "note": "Besides the renewal for this specific article, a 1987 renewal for Lewis's 1959 book 'How to Make Yourself a Born Salesman' mentions that a condensed version of chapter 17 appeared in this issue.  That renewal might also refer to this article, though we have not checked to see if Lewis published anything else in the issue.",
+      "author": {
+         "name": "Wallace K. Lewis"
+       }
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2020-08-30"
+}

@@ -1,0 +1,19 @@
+{
+   "title": "Industrial and Engineering Chemistry, Analytical Edition",
+   "first-issue": {"issue-date": "1929-01-15", "volume": "1", "number": "1"},
+   "first-renewed-issue":
+      {"issue-date": "1940-01-15", "volume": "15", "number": "1"},
+   "first-renewed-issue-source": "1967",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce+database",
+   "last-issue": {"issue-date": "1947-12", "volume": "19", "number": "12"},
+   "succeeded-by": [{"id": "analyticalchem",
+                 "note": "Analytical Chemistry"}],
+   "see-also": [{"id": "indengchem",
+                 "note": "Industrial and Engineering Chemistry"}],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2020-08-07"
+}

@@ -1,8 +1,8 @@
 {
    "title": "The Afro-American",
-   "aka": ["Baltimore Afro-American", "Afro", "Afro-American Newspapers"],
-   "website": {"url": "http://afro.com/",
-               "note": "Afro website"},
+   "aka": ["Afro", "The Afro-American Ledger", 
+           "Afro-American Newspapers", "Baltimore Afro-American"],
+   "online": "1",
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": 
@@ -13,5 +13,7 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-01-04"
+   "acknowledgement": 
+      "Thanks to Eri Mizukane for copyright research on this title.",
+   "last-updated": "2020-08-19"
 }

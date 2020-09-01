@@ -1,0 +1,32 @@
+{
+   "title": "Frankie and Lana Comics",
+   "contents": [
+      {"url": "https://www.comics.org/series/564/",
+       "note": "Grand Comics Database"}
+   ],
+   "preceded-by":
+     [{"id": "frankiecomics", "note": "Frankie Comics"}],
+   "first-issue":
+      {"issue-date": "1948-12", "number": "12"}, 
+   "first-renewed-issue": 
+      {"issue-date": "1948-12", "number": "12"}, 
+   "first-renewed-issue-source": "1977-JulDec",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce",
+   "last-issue": {"issue-date": "1949-06", "number": "15"}, 
+   "succeeded-by":
+     [{"id": "frankiefuddle", "note": "Frankie Fuddle"}],
+   "renewed-issue-completeness": "active/end",
+   "renewed-issues": [
+      {"issue-date": "1948-12", "number": "12"}, 
+      {"issue-date": "1949-02", "number": "13"}, 
+      {"issue-date": "1949-04", "number": "14"}, 
+      {"issue-date": "1949-06", "number": "15"}
+   ],
+   "additional-note": "The renewal for number 12 was filed under 'Frankie Comics' in 1977, but had this title on the cover.",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2020-08-15"
+}
