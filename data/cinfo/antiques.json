@@ -30,7 +30,12 @@
      {"issue-date": "1926-04", "volume": "9", "number": "4"},
      {"issue-date": "1926-05", "volume": "9", "number": "5"},
      {"issue-date": "1926-06", "volume": "9", "number": "6"},
-     {"issue-date": "1926-07", "volume": "10", "number": "1"}
+     {"issue-date": "1926-07", "volume": "10", "number": "1"},
+     {"issue-date": "1926-08", "volume": "10", "number": "2"},
+     {"issue-date": "1926-09", "volume": "10", "number": "3"},
+     {"issue-date": "1926-10", "volume": "10", "number": "4"},
+     {"issue-date": "1926-11", "volume": "10", "number": "5"},
+     {"issue-date": "1926-12", "volume": "10", "number": "6"}
    ],
    "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
@@ -90,5 +95,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-01-16"
+   "last-updated": "2020-09-29"
 }

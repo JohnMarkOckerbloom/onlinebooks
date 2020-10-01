@@ -1,0 +1,37 @@
+{
+   "title": "Clinical Orthopaedics",
+   "online": "1",
+   "first-issue": {"issue-date": "1953", "number": "1"},
+   "first-renewed-issue": {"issue-date": "1955", "number": "5"},
+   "first-renewed-issue-source": "database",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "database",
+   "last-issue": {"issue-date": "1962", "number": "25"},
+   "succeeded-by":
+     [{"id": "clinorthrr",
+       "note": "Clinical Orthopaedics and Related Research"}],
+   "renewed-issue-completeness": "active/end",
+   "renewed-issues": [
+      {"issue-date": "1955", "number": "5"},
+      {"issue-date": "1955", "number": "6"},
+      {"issue-date": "1956", "number": "7"},
+      {"issue-date": "1956", "number": "8"},
+      {"issue-date": "1957", "number": "9"},
+      {"issue-date": "1957", "number": "10"},
+      {"issue-date": "1958", "number": "11"},
+      {"issue-date": "1959", "number": "12"},
+      {"issue-date": "1959", "number": "13"},
+      {"issue-date": "1959", "number": "14"},
+      {"issue-date": "1959", "number": "15"},
+      {"issue-date": "1960", "number": "16"},
+      {"issue-date": "1960", "number": "17"},
+      {"issue-date": "1960", "number": "18"}
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "acknowledgement": 
+      "Thanks to Scott F Andrews for copyright research on this title.",
+   "last-updated": "2020-09-18"
+}

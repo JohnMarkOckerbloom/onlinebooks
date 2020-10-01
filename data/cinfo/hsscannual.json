@@ -3,15 +3,18 @@
    "online": "1",
    "contents": [
       {"url": "https://www.jstor.org/journal/annpubhissocsoca",
-      "note": "Publisher site (full text also available; after 1924 may require subscription or payment)"}
+      "note": "JSTOR (full text also available; after 1924 may require subscription or payment)"}
    ],
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce",
+   "last-issue": {"issue-date": "1934", "volume": "16"},
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-03-26"
+   "acknowledgement": 
+      "Thanks to Ken Raining and Min Zhong for copyright research on this title.",
+   "last-updated": "2020-09-15"
 }

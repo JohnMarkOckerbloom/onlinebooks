@@ -677,6 +677,7 @@ sub analyze_form {
       || $title =~ / sunglasses /
       || $title =~ /ister misery 1901/
       || $title =~ /googlegoogle/
+      || $title =~ /jeffrearoom/
       || $ref =~ /hoverboard/
       || $ref =~ /seoestore/
       || $wref =~ /seoestore/

@@ -85,43 +85,6 @@ my @columns =
    "More info?"=> "10"
 );
 
-# eventually replace this with the readcsvfile in serialtable
-# for now, we'll just skip the lines with extra commas
-
-sub dequote {
-  my ($str) = @_;
-  $str =~ s/^\"(.*)\"$/$1/;
-  $str =~ s/\"\"/\"/g;
-  return $str;
-}
-
-sub readcsvfile {
-  my ($filename) = @_;
-  my @results;
-  open my $fh, "<:encoding(utf8)", $filename or die "filename: $!";
-  my $line = <$fh>;
-  chop $line;
-  my @fields = split (/,/, $line);
-  foreach my $field (@fields) {
-    push @fieldnames, dequote($field);
-  }
-  while (my $row = <$fh>) {
-    my %hash = ();
-    my @fields = split (/,/, $row);
-    if (scalar(@fields) ne 8) {
-      next;
-    }
-    for (my $i = 0; $i < scalar(@fields); $i++) {
-      chomp $fields[$i];
-      $hash{$fieldnames[$i]} = dequote($fields[$i]);
-    }
-    push @results, \%hash;
-  }
-  # $csv->eof or $csv->error_diag();
-  close $fh;
-  return @results;
-}
-
 sub readtsvfile {
   my ($filename) = @_;
   my @results;
@@ -176,8 +139,6 @@ sub print_table {
   my $status = file_contents("$dir/status") ||
      "Table generation information not available.";
   open my $fh, "<:encoding(utf8)", $path or return 0;
-  # my $csv = Text::CSV->new ({ binary => 1, auto_diag => 1 });
-  # my @results = readcsvfile($path);
   my @results = readtsvfile($path);
   print "<h1>$name</h1>\n";
   if ($description) {

@@ -1,0 +1,27 @@
+{
+   "title": "Angewandte Chemie",
+   "title-note": "German edition, 1949-",
+   "preceded-by":
+     [{"id": "angechema",
+       "note": "Angewandte Chemie, Ausgabe A: Wissenschaftlicher Teil"}],
+   "first-issue": {"issue-date": "1949-01", "volume": "61", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce+database",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce+database",
+   "see-also": [
+    {"id": "angewandcheminen",
+     "note": "Angewandte Chemie: International Edition in English (1962-1997)"},
+    {"id": "angewandchemin98",
+     "note": "Angewandte Chemie: International Edition (1998-)"}
+   ],
+   "additional-note": 
+      "This is a German publication. Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US.",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "acknowledgement": 
+      "Thanks to Mallika Sircar for copyright research on this title.",
+   "last-updated": "2020-09-23"
+}

@@ -1,0 +1,17 @@
+{
+   "title": "The National Horticultural Magazine",
+   "online": "1",
+   "first-issue": {"issue-date": "1922-08", "volume": "1", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce+database",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce+database",
+   "last-issue": {"issue-date": "1959-10", "volume": "38", "number": "4"},
+   "succeeded-by":
+      [{"id": "amerhortmag", "note": "The American Horticultural Magazine"}],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2020-09-10"
+}

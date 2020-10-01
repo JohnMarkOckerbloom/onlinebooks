@@ -10,10 +10,26 @@
      {"issue-date": "1934-10-15", "volume": "7", "number": "1"},
    "first-renewed-issue-source": "1961-JulDec",
    "first-renewed-contribution":
-      {"issue": {"issue-date": "1934-11-01", "volume": "7", "number": "2"}},
-   "first-renewed-contribution-source": "1962-JulDec",
+      {"issue": {"issue-date": "1933-07", "volume": "2", "number": "4"}},
+   "first-renewed-contribution-source": "1961-JanJun",
    "last-issue": {"issue-date": "1954-09", "volume": "65", "number": "3"},
    "renewed-contributions": [
+     {"issue": {"issue-date": "1933-07"},
+      "title": "Black Thunder",
+      "note": "A 1961 CCE renewal record notes 'Black Thunder' as appearing in the July 1933 issue of Western Trails magazine, but the renewal likely refers to the novel of that title mentioned on the cover of this issue. Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1934-11-01"},
+      "title": "Brand Blotters Blood Tally",
+       "note": "This is the earliest contribution whose CCE renewal record specifically mentions this magazine.",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
      {"issue": {"issue-date": "1946-10"},
       "title": "Jimmy Dunn Deals the Boothill Ace!",
       "note": "A 1974 CCE renewal record notes 'Jimmy Dun Deals the Boothill' as appearing in the October 1946 issue of Ace-High Western stories, but the renewal likely refers to this story in this magazine.",
@@ -28,5 +44,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-03-11"
+   "last-updated": "2020-09-25"
 }

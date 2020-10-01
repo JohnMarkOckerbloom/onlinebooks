@@ -1,0 +1,32 @@
+{
+   "title": "Western Trails",
+   "title-note": "Ace Magazines, 1928-1949",
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/WFI/link.asp?magid=WTL",
+       "note": "FictionMags (incomplete)"}
+   ],
+   "first-issue":
+     {"issue-date": "1928-10", "volume": "1", "number": "2"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce",
+   "first-renewed-contribution": 
+     {"issue": {"issue-date": "1933-07"}},
+   "first-renewed-contribution-source": "1961-JanJun",
+   "last-issue":
+     {"issue-date": "1949-04", "volume": "45", "number": "2"},
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1933-07"},
+      "title": "Black Thunder",
+      "note": "Citation as given in CCE renewal record. FictionMags does not list this story in this magazine, but lists the author's 'Black Thunder' in the Dime Western Magazine issue of the same date. That issue's cover also mentions the story. Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2020-09-25"
+}

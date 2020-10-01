@@ -1,0 +1,47 @@
+{
+   "title": "Our Gang With Tom and Jerry",
+   "contents": [
+      {"url": "https://www.comics.org/series/540/",
+       "note": "Grand Comics Database"}
+   ],
+   "preceded-by":
+     [{"id": "ourgangcomics", "note": "Our Gang Comics"}],
+   "first-issue":
+     {"issue-date": "1947-11", "volume": "1", "number": "40"},
+   "first-renewed-issue":
+     {"issue-date": "1947-11", "volume": "1", "number": "40"},
+   "first-renewed-issue-source": "1974",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce",
+   "last-issue": 
+     {"issue-date": "1949-06", "volume": "1", "number": "59"},
+   "succeeded-by":
+     [{"id": "tomjerrycomics", "note": "Tom and Jerry Comics"}],
+   "renewed-issue-completeness": "active/end",
+   "renewed-issues": [
+     {"issue-date": "1947-11", "volume": "1", "number": "40"},
+     {"issue-date": "1947-12", "volume": "1", "number": "41"},
+     {"issue-date": "1948-01", "volume": "1", "number": "42"},
+     {"issue-date": "1948-02", "volume": "1", "number": "43"},
+     {"issue-date": "1948-03", "volume": "1", "number": "44"},
+     {"issue-date": "1948-04", "volume": "1", "number": "45"},
+     {"issue-date": "1948-05", "volume": "1", "number": "46"},
+     {"issue-date": "1948-06", "volume": "1", "number": "47"},
+     {"issue-date": "1948-07", "volume": "1", "number": "48"},
+     {"issue-date": "1948-08", "volume": "1", "number": "49"},
+     {"issue-date": "1948-09", "volume": "1", "number": "50"},
+     {"issue-date": "1948-10", "volume": "1", "number": "51"},
+     {"issue-date": "1948-11", "volume": "1", "number": "52"},
+     {"issue-date": "1948-12", "volume": "1", "number": "53"},
+     {"issue-date": "1949-01", "volume": "1", "number": "54"},
+     {"issue-date": "1949-03", "volume": "1", "number": "56"},
+     {"issue-date": "1949-04", "volume": "1", "number": "57"},
+     {"issue-date": "1949-05", "volume": "1", "number": "58"},
+     {"issue-date": "1949-06", "volume": "1", "number": "59"}
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2020-09-17"
+}

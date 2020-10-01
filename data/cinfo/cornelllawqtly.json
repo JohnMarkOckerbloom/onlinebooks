@@ -1,0 +1,20 @@
+{
+   "title": "The Cornell Law Quarterly",
+   "online": "1",
+   "first-issue":
+       {"issue-date": "1915-11", "volume": "1", "number": "1"},
+   "first-renewed-issue":
+       {"issue-date": "1935-02", "volume": "20", "number": "2"},
+   "first-renewed-issue-source": "1963-JanJun",
+   "first-renewed-contribution":
+       {"issue": {"issue-date": "1958-Fall", "volume": "44", "number": "1"}},
+   "first-renewed-contribution-source": "database",
+   "last-issue":
+       {"issue-date": "1967-Summer", "volume": "52", "number": "6"},
+   "succeeded-by": [{"id": "cornelllawrev", "note": "Cornell Law Review"}],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2020-09-03"
+}

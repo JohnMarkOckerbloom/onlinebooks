@@ -1,5 +1,9 @@
 {
    "title": "Bulletin de la Société Paul Claudel",
+   "contents": [
+      {"url": "https://www.jstor.org/journal/bullsocipaulclau",
+       "note": "JSTOR (full text also available for subscription or payment)"}
+   ],
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "database",
    "first-renewed-contribution": "none",
@@ -9,5 +13,7 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-01-30"
+   "acknowledgement": 
+      "Thanks to Peter Sullivan for research on this title.",
+   "last-updated": "2020-09-03"
 }

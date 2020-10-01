@@ -1,0 +1,35 @@
+{
+   "title": "Red Dragon Comics",
+   "aka": ["Red Dragon"],
+   "title-note": "Street & Smith, 1947-1949",
+   "contents": [
+      {"url": "https://www.comics.org/series/514/",
+       "note": "Grand Comics Database"}
+   ],
+   "first-issue":
+     {"issue-date": "1947-11", "volume": "1", "number": "1"},
+   "first-renewed-issue":
+     {"issue-date": "1947-11", "volume": "1", "number": "1"},
+   "first-renewed-issue-source": "1974",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce",
+   "last-issue":
+     {"issue-date": "1949-05", "volume": "1", "number": "7"},
+   "see-also": [{"id": "reddragon1943",
+                     "note": "Red Dragon Comics (Street & Smith, 1943-1944)"}],
+   "renewed-issue-completeness": "active/end",
+   "renewed-issues": [
+     {"issue-date": "1947-11", "volume": "1", "number": "1"},
+     {"issue-date": "1948-02", "volume": "1", "number": "2"},
+     {"issue-date": "1948-05", "volume": "1", "number": "3"},
+     {"issue-date": "1948-08", "volume": "1", "number": "4"},
+     {"issue-date": "1948-October-November", "volume": "1", "number": "5"},
+     {"issue-date": "1949-01", "volume": "1", "number": "6"},
+     {"issue-date": "1949-05", "volume": "1", "number": "7"}
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2020-09-13"
+}

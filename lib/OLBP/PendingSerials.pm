@@ -50,7 +50,7 @@ sub _initialize {
   my ($self, %params) = @_;
   $self->{issns} = {};
   $self->{titles} = {};
-  $self->{pool} = new OLBP::SubmissionPool(name=>$bfdir);
+  $self->{pool} = new OLBP::SubmissionPool(name=>$bfdir, dir=>$params{dir});
   $self->_initialize_pending();
   return $self;
 }

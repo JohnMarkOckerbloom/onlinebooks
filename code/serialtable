@@ -4,12 +4,15 @@ use lib "nlib";
 use POSIX qw(strftime);
 use OLBP::CopyrightInfo;
 use OLBP::Entities;
+use OLBP::PendingSerials;
 use Text::CSV;
 
-my $cinfodir = "/home/LIBRARY/ockerblo/digital/nonpublic/bookdb/cinfo/";
-my $setdir = "/home/LIBRARY/ockerblo/digital/nonpublic/bookdb/backfiles/";
-my $datadir  = "/home/LIBRARY/ockerblo/bookdb/";
-my $wikidir  = "/home/LIBRARY/ockerblo/bibdata/wikipedia/";
+my $homedir = "/home/LIBRARY/ockerblo/";
+my $cinfodir = "$homedir/digital/nonpublic/bookdb/cinfo/";
+my $setdir = "$homedir/digital/nonpublic/bookdb/backfiles/";
+my $datadir  = "$homedir/bookdb/";
+my $wikidir  = "$homedir/bibdata/wikipedia/";
+my $pooldir = "$homedir/digital/nonpublic/submissions/";
 my $pkgdir   = $datadir . "packages/";
 
 my $bookfile = $datadir . "wbookfile";
@@ -1183,12 +1186,26 @@ sub maketable {
 }
 
 sub tsvtocsv {
-  my ($tsvstr) = @_;
+  my ($tsvstr, $dopending) = @_;
   my @csvlines = ();
   my @lines = split /\n/, $tsvstr;
+  my $pending;
+  if ($dopending) {
+    $pending = new OLBP::PendingSerials(dir=>$pooldir);
+  }
   foreach my $line (@lines) {
     my @itemlist = ();
     my @items = split /\t/, $line;
+    if ($pending) {
+       my $statuscol = 6;
+       my $issn = $items[0];
+       my $title = $items[3];
+       my $status = $items[$statuscol];
+       if ($status eq "Unknown" &&
+           $pending->is_pending(issn=>$issn, title=>$title)) {
+          $items[$statuscol] = "Pending";
+       }
+    }
     foreach my $item (@items) {
       $item =~ s/\n/ /g;
       $item =~ s/\r/ /g;
@@ -1219,7 +1236,7 @@ sub updateset {
   my $dir = $setdir . $serialset;
   my $tsvfile = $dir . "/$serialset.tsv";
   writetofile($tsvfile, $tsv);
-  my $csv = tsvtocsv($tsv);
+  my $csv = tsvtocsv($tsv, 1);
   my $csvfile = $dir . "/$serialset.csv";
   writetofile($csvfile, $csv);
   my $statusfile = $dir . "/status";

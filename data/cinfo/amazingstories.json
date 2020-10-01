@@ -30,30 +30,22 @@
    ], 
    "renewed-issue-completeness": "active/autorenewals",
    "first-renewed-contribution":
-       {"issue": {"issue-date": "1926-06", "volume": "1", "number": "3"},
-        "title": "The Malignant Entity",
-        "note": "There is no renewal for this specific contribution, but it is reprinted from the May-July 1924 issue of Weird Tales, which has a renewal active through the end of 2019.",
-        "author": {
-          "authorized": "Kline, Otis Adelbert",
-          "lcna": "n80083656"
-         }
-   },
+       {"issue": {"issue-date": "1932-12", "volume": "7", "number": "9"}},
    "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
-       {"issue": {"issue-date": "1926-06", "volume": "1", "number": "3"},
-        "title": "The Malignant Entity",
-        "note": "There is no renewal for this specific contribution, but it is reprinted from the May-July 1924 issue of Weird Tales, which has an issue renewal active through the end of 2019 that might cover this story.",
-        "author": {
-          "authorized": "Kline, Otis Adelbert",
-          "lcna": "n80083656"
-         }
-       },
        {"issue": {"issue-date": "1932-12", "volume": "7", "number": "9"},
         "title": "No More Tomorrows",
-        "note": "This is the first renewal filed specifically for a contribution to this magazine.",
         "author": {
           "authorized": "Keller, David H. (David Henry), 1880-1966",
           "lcna": "n80064251"
+         }
+       },
+       {"issue": {"issue-date": "1937-08", "volume": "11", "number": "4"},
+        "title": "Ants",
+        "note": "There is no renewal for this specific contribution, but it was reprinted from the New York Times, most likely from earlier in 1937, and the New York Times routinely renewed copyrights for its daily and Sunday issues that year.",
+        "author": {
+          "authorized": "Coblentz, Stanton A. (Stanton Arthur), 1896-1982",
+          "lcna": "n79055072"
          }
        },
        {"issue": {"issue-date": "1938-06", "volume": "12", "number": "3"},
@@ -1966,5 +1958,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-11-10"
+   "last-updated": "2020-09-11"
 }

@@ -1,6 +1,6 @@
 {
    "title": "If",
-   "aka": ["Worlds of If"],
+   "aka": ["Worlds of If", "Worlds of Science Fiction"],
    "contents": [
       {"url": "http://www.isfdb.org/cgi-bin/pe.cgi?40361",
        "note": "ISFDB"},
@@ -17,10 +17,1272 @@
    "first-renewed-contribution": 
       {"issue": {"issue-date": "1952-03", "volume": "1", "number": "1"}},
    "first-renewed-contribution-source": "database",
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1952-03", "volume": "1", "number": "1"},
+      "title": "Bitter Victory",
+      "author": {
+        "authorized": "Miller, Walter M., Jr., 1923-1996",
+        "lcna": "n81120378"
+      }
+     },
+     {"issue": {"issue-date": "1952-03", "volume": "1", "number": "1"},
+      "title": "Never Underestimate",
+      "author": {
+        "authorized": "Sturgeon, Theodore",
+        "lcna": "n80066908"
+      }
+     },
+     {"issue": {"issue-date": "1952-05", "volume": "1", "number": "2"},
+      "title": "The Beast",
+      "author": {
+        "authorized": "Jakes, John, 1932-",
+        "lcna": "n80035843"
+      }
+     },
+     {"issue": {"issue-date": "1952-07", "volume": "1", "number": "3"},
+      "title": "Let My People Go",
+      "author": {
+        "authorized": "Miller, Walter M., Jr., 1923-1996",
+        "lcna": "n81120378"
+      }
+     },
+     {"issue": {"issue-date": "1952-09", "volume": "1", "number": "4"}, 
+      "title": "The Space Clause",
+      "note": "Renewal record gives magazine title as 'Worlds of Science Fiction', which is this magazine's subtitle.",
+       "author": {
+          "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+          "lcna": "n80057222"
+       }
+     },
+     {"issue": {"issue-date": "1952-11", "volume": "1", "number": "5"}, 
+      "title": "Brother to the Machine",
+      "author": {
+       "authorized": "Matheson, Richard, 1926-2013",
+       "lcna": "n79068485"
+      }
+     },
+     {"issue": {"issue-date": "1952-11", "volume": "1", "number": "5"}, 
+      "title": "The Running Hounds",
+      "author": {
+        "authorized": "Jakes, John, 1932-",
+        "lcna": "n80035843"
+      }
+     },
+     {"issue": {"issue-date": "1953-03", "volume": "2", "number": "1"},
+      "title": "Margin of Error",
+      "author": {
+         "authorized": "Deming, Richard, 1915-1983",
+         "lcna": "n79144748"
+      }
+     },
+     {"issue": {"issue-date": "1953-07", "volume": "2", "number": "3"}, 
+      "title": "The Guinea Pigs",
+      "author": {
+       "authorized": "Hunter, Evan, 1926-2005",
+       "using": "S. A. Lombino",
+       "lcna": "n82253096"
+      }
+     },
+     {"issue": {"issue-date": "1953-09", "volume": "2", "number": "4"}, 
+      "title": "A Case of Conscience",
+      "author": {
+       "authorized": "Blish, James",
+       "lcna": "n79053667"
+      }
+     },
+     {"issue": {"issue-date": "1953-09", "volume": "2", "number": "4"}, 
+      "title": "The Trouble With Bubbles",
+      "author": {
+       "authorized": "Dick, Philip K.",
+       "lcna": "n79018147"
+      }
+     },
+     {"issue": {"issue-date": "1953-09", "volume": "2", "number": "4"}, 
+      "title": "In the Forest",
+      "author": {
+        "authorized": "Perri, Leslie, 1920-1970",
+        "lcna": "no2018143067"
+      }
+     },
+     {"issue": {"issue-date": "1953-11", "volume": "2", "number": "5"}, 
+      "title": "The Custodian",
+      "author": {
+        "authorized": "Tenn, William, 1920-2010",
+        "lcna": "n88651363"
+      }
+     },
+     {"issue": {"issue-date": "1953-11", "volume": "2", "number": "5"}, 
+      "title": "See No Evil",
+      "author": {
+        "authorized": "McLaughlin, Dean, 1931-",
+        "lcna": "no2001037968"
+      }
+     },
+     {"issue": {"issue-date": "1954-01", "volume": "2", "number": "6"}, 
+      "title": "Malice in Wonderland",
+      "author": {
+       "authorized": "Hunter, Evan, 1926-2005",
+       "lcna": "n82253096"
+      }
+     },
+     {"issue": {"issue-date": "1954-01", "volume": "2", "number": "6"}, 
+      "title": "A Word for Freedom",
+      "author": {
+        "authorized": "Gunn, James E., 1923-",
+        "lcna": "n79068460"
+      }
+     },
+     {"issue": {"issue-date": "1954-01", "volume": "2", "number": "6"}, 
+      "title": "Anachron",
+      "author": {
+        "authorized": "Knight, Damon, 1922-2002",
+        "lcna": "n79108377"
+      }
+     },
+     {"issue": {"issue-date": "1954-03", "volume": "3", "number": "1"}, 
+      "title": "Act of Passion",
+      "author": {
+        "name": "Raymond E. Banks"
+      }
+     },
+     {"issue": {"issue-date": "1954-04", "volume": "3", "number": "2"}, 
+      "title": "The Golden Man",
+      "note": "Renewal registration says this was published in the April 1955 issue, but it actually appeared in the April 1954 issue. Renewal is dated November 22, 1983, likely too late to be effective for the actual publication date.",
+      "author": {
+       "authorized": "Dick, Philip K.",
+       "lcna": "n79018147"
+      }
+     },
+     {"issue": {"issue-date": "1954-04", "volume": "3", "number": "2"}, 
+      "title": "Carrier",
+      "author": {
+        "authorized": "Sheckley, Robert, 1928-2005",
+        "lcna": "n50022137"
+       }
+     },
+     {"issue": {"issue-date": "1954-04", "volume": "3", "number": "2"}, 
+      "title": "The Last Conqueror",
+      "note": "Renewal is recorded as being filed in 1983, which may be too late to cover this story.",
+      "author": {
+        "authorized": "Klass, Morton, 1927-2001",
+        "lcna": "n79131967"
+      }
+     },
+     {"issue": {"issue-date": "1954-05", "volume": "3", "number": "3"}, 
+      "title": "Prominent Author",
+      "note": "Renewal registration says this was published in the June 1955 issue, but it actually appeared in the May 1954 issue. Renewal is dated November 22, 1983, likely too late to be effective for the actual publication date.",
+      "author": {
+       "authorized": "Dick, Philip K.",
+       "lcna": "n79018147"
+      }
+     },
+     {"issue": {"issue-date": "1954-05", "volume": "3", "number": "3"}, 
+      "title": "Descent",
+      "author": {
+       "authorized": "Matheson, Richard, 1926-2013",
+       "lcna": "n79068485"
+      }
+     },
+     {"issue": {"issue-date": "1954-07", "volume": "3", "number": "5"}, 
+      "title": "Beauty and the Beast",
+      "author": {
+       "authorized": "Young, Robert F.",
+       "lcna": "n81147367"
+      }
+     },
+     {"issue": {"issue-date": "1954-07", "volume": "3", "number": "5"}, 
+      "title": "A Monster Named Smith",
+      "author": {
+        "authorized": "Gunn, James E., 1923-",
+        "lcna": "n79068460"
+      }
+     },
+     {"issue": {"issue-date": "1954-07", "volume": "3", "number": "5"}, 
+      "title": "The Big Stink",
+      "author": {
+        "authorized": "Cogswell, Theodore R.",
+        "lcna": "n95012251"
+      }
+     },
+     {"issue": {"issue-date": "1954-08", "volume": "3", "number": "6"}, 
+      "title": "The Joy of Living",
+      "author": {
+        "authorized": "Nolan, William F., 1928-",
+        "lcna": "n50005330"
+      }
+     },
+     {"issue": {"issue-date": "1954-08", "volume": "3", "number": "6"}, 
+      "title": "The Academy",
+      "author": {
+        "authorized": "Sheckley, Robert, 1928-2005",
+        "lcna": "n50022137"
+       }
+     },
+     {"issue": {"issue-date": "1954-08", "volume": "3", "number": "6"}, 
+      "title": "Exhibit Piece",
+      "note": "Renewal registration says this was published in the December 1955 issue, but it actually appeared in the August 1954 issue. Renewal is dated November 22, 1983, likely too late to be effective for the actual publication date.",
+      "author": {
+       "authorized": "Dick, Philip K.",
+       "lcna": "n79018147"
+      }
+     },
+     {"issue": {"issue-date": "1954-08", "volume": "3", "number": "6"}, 
+      "title": "Being",
+      "author": {
+       "authorized": "Matheson, Richard, 1926-2013",
+       "lcna": "n79068485"
+      }
+     },
+     {"issue": {"issue-date": "1954-08", "volume": "3", "number": "6"}, 
+      "title": "Contact Point",
+      "authors": [
+         { "authorized": "Anderson, Poul, 1926-2001", "lcna": "n79044004"},
+         { "authorized": "Cogswell, Theodore R.", "lcna": "n95012251"}
+      ]
+     },
+     {"issue": {"issue-date": "1954-09", "volume": "4", "number": "1"}, 
+      "title": "The Battle",
+      "author": {
+        "authorized": "Sheckley, Robert, 1928-2005",
+        "lcna": "n50022137"
+       }
+     },
+     {"issue": {"issue-date": "1954-09", "volume": "4", "number": "1"}, 
+      "title": "The Work-Out Planet",
+      "note": "Title as given in issue. Renewal record gives title as 'The Workout Planet'.",
+      "author": {
+        "name": "Raymond E. Banks"
+      }
+     },
+     {"issue": {"issue-date": "1954-10", "volume": "4", "number": "2"}, 
+      "title": "A Pattern for Penelope",
+      "author": {
+       "authorized": "Young, Robert F.",
+       "lcna": "n81147367"
+      }
+     },
+     {"issue": {"issue-date": "1954-11", "volume": "4", "number": "3"}, 
+      "title": "Carry Me Home",
+      "author": {
+       "authorized": "Dickson, Gordon R.",
+       "lcna": "n79109204"
+      }
+     },
+     {"issue": {"issue-date": "1954-11", "volume": "4", "number": "3"}, 
+      "title": "Progeny",
+      "note": "Renewal registration says this was published in the October 1955 issue, but it actually appeared in the November 1954 issue. Renewal is dated November 22, 1983, likely too late to be effective for the actual publication date.",
+      "author": {
+       "authorized": "Dick, Philip K.",
+       "lcna": "n79018147"
+      }
+     },
+     {"issue": {"issue-date": "1954-12", "volume": "4", "number": "4"}, 
+      "title": "The Jungle",
+      "author": {
+       "authorized": "Beaumont, Charles, 1929-1967",
+       "lcna": "n84200880"
+      }
+     },
+     {"issue": {"issue-date": "1954-12", "volume": "4", "number": "4"}, 
+      "title": "Elliptic Orbit",
+      "author": {
+        "authorized": "Anderson, Poul, 1926-2001",
+        "lcna": "n79044004"
+      }
+     },
+     {"issue": {"issue-date": "1955-01", "volume": "4", "number": "5"}, 
+      "title": "Saint Julie and the Visgi",
+      "author": {
+       "authorized": "Young, Robert F.",
+       "lcna": "n81147367"
+      }
+     },
+     {"issue": {"issue-date": "1955-01", "volume": "4", "number": "5"}, 
+      "title": "Turnabout",
+      "author": {
+       "authorized": "Dickson, Gordon R.",
+       "lcna": "n79109204"
+      }
+     },
+     {"issue": {"issue-date": "1955-02", "volume": "4", "number": "6"}, 
+      "title": "The Odd Ones",
+      "author": {
+       "authorized": "Dickson, Gordon R.",
+       "lcna": "n79109204"
+      }
+     },
+     {"issue": {"issue-date": "1955-03", "volume": "5", "number": "1"}, 
+      "title": "War Veteran",
+      "author": {
+       "authorized": "Dick, Philip K.",
+       "lcna": "n79018147"
+      }
+     },
+     {"issue": {"issue-date": "1955-04", "volume": "5", "number": "2"}, 
+      "title": "Shill",
+      "note": "Renewal record says this was in the August 1955 issue, but it actually appeared in the April 1955 issue.",
+      "author": {
+        "authorized": "Gunn, James E., 1923-",
+        "lcna": "n79068460"
+      }
+     },
+     {"issue": {"issue-date": "1955-04", "volume": "5", "number": "2"}, 
+      "title": "One Love Have I",
+      "author": {
+       "authorized": "Young, Robert F.",
+       "lcna": "n81147367"
+      }
+     },
+     {"issue": {"issue-date": "1955-04", "volume": "5", "number": "2"}, 
+      "title": "Captive Market",
+      "author": {
+       "authorized": "Dick, Philip K.",
+       "lcna": "n79018147"
+      }
+     },
+     {"issue": {"issue-date": "1955-04", "volume": "5", "number": "2"}, 
+      "title": "The Golden Man",
+      "note": "Renewal registration says this was published in the April 1955 issue, but it actually appeared in the April 1954 issue. Renewal is dated November 22, 1983, likely too late to be effective for the actual publication date.",
+      "author": {
+       "authorized": "Dick, Philip K.",
+       "lcna": "n79018147"
+      }
+     },
+     {"issue": {"issue-date": "1955-05", "volume": "5", "number": "3"}, 
+      "title": "Foster, You're Dead",
+      "note": "Renewal registration says this was published in the May 1955 issue of If, but we find no story by Dick, or by that name, in that issue. WorldCat reports it appeared in 'Star Science Fiction Stories, no. 3'. The 1955 January-June Books CCE volume reports that volume has a copyright date of December 20, 1954. Renewal for the story is dated November 22, 1983, likely too late to be effective for a publication with that copyright date. We find no renewal for 'Star Science Fiction Stories No. 3' overall.",  
+      "author": {
+       "authorized": "Dick, Philip K.",
+       "lcna": "n79018147"
+      }
+     },
+     {"issue": {"issue-date": "1955-06", "volume": "5", "number": "4"}, 
+      "title": "The Strangers",
+      "author": {
+        "authorized": "Budrys, Algis, 1931-2008",
+        "lcna": "n79060196"
+      }
+     },
+     {"issue": {"issue-date": "1955-06", "volume": "5", "number": "4"}, 
+      "title": "Men of the Ocean",
+      "author": {
+        "name": "Raymond E. Banks"
+      }
+     },
+     {"issue": {"issue-date": "1955-06", "volume": "5", "number": "4"}, 
+      "title": "Prominent Author",
+      "note": "Renewal registration says this was published in the June 1955 issue, but it actually appeared in the May 1954 issue. Renewal is dated November 22, 1983, likely too late to be effective for the actual publication date.",
+      "author": {
+       "authorized": "Dick, Philip K.",
+       "lcna": "n79018147"
+      }
+     },
+     {"issue": {"issue-date": "1955-08", "volume": "5", "number": "5"}, 
+      "title": "Franchise",
+      "author": {
+        "authorized": "Asimov, Isaac, 1920-1992",
+        "lcna": "n80126289"
+      }
+     },
+     {"issue": {"issue-date": "1955-08", "volume": "5", "number": "5"}, 
+      "title": "The Mold of Yancy",
+      "author": {
+       "authorized": "Dick, Philip K.",
+       "lcna": "n79018147"
+      }
+     },
+     {"issue": {"issue-date": "1955-08", "volume": "5", "number": "5"}, 
+      "title": "Shill",
+      "note": "Renewal record says this was in the August 1955 issue, but it actually appeared in the April 1955 issue.",
+      "author": {
+        "authorized": "Gunn, James E., 1923-",
+        "lcna": "n79068460"
+      }
+     },
+     {"issue": {"issue-date": "1955-10", "volume": "5", "number": "6"}, 
+      "title": "Prisoners of Earth",
+      "author": {
+       "authorized": "Young, Robert F.",
+       "lcna": "n81147367"
+      }
+     },
+     {"issue": {"issue-date": "1955-10", "volume": "5", "number": "6"}, 
+      "title": "Last Rites",
+      "author": {
+       "authorized": "Beaumont, Charles, 1929-1967",
+       "lcna": "n84200880"
+      }
+     },
+     {"issue": {"issue-date": "1955-10", "volume": "5", "number": "6"}, 
+      "title": "Progeny",
+      "note": "Renewal registration says this was published in the October 1955 issue, but it actually appeared in the November 1954 issue. Renewal is dated November 22, 1983, likely too late to be effective for the actual publication date.",
+      "author": {
+       "authorized": "Dick, Philip K.",
+       "lcna": "n79018147"
+      }
+     },
+     {"issue": {"issue-date": "1955-12", "volume": "6", "number": "1"}, 
+      "title": "Hoax",
+      "author": {
+        "authorized": "Gunn, James E., 1923-",
+        "lcna": "n79068460"
+      }
+     },
+     {"issue": {"issue-date": "1955-12", "volume": "6", "number": "1"}, 
+      "title": "N4 N5 N6",
+      "author": {
+        "authorized": "McKimmey, James",
+        "lcna": "no2003053758"
+       }
+     },
+     {"issue": {"issue-date": "1955-12", "volume": "6", "number": "1"}, 
+      "title": "Promised Planet",
+      "author": {
+       "authorized": "Young, Robert F.",
+       "lcna": "n81147367"
+      }
+     },
+     {"issue": {"issue-date": "1955-12", "volume": "6", "number": "1"}, 
+      "title": "Exhibit Piece",
+      "note": "Renewal registration says this was published in the December 1955 issue, but it actually appeared in the August 1954 issue. Renewal is dated November 22, 1983, likely too late to be effective for the actual publication date.",
+      "author": {
+       "authorized": "Dick, Philip K.",
+       "lcna": "n79018147"
+      }
+     },
+     {"issue": {"issue-date": "1956-04", "volume": "6", "number": "3"},
+      "title": "Life Hutch",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1956-04", "volume": "6", "number": "3"},
+      "title": "Chrome Pastures",
+      "author": {
+       "authorized": "Young, Robert F.",
+       "lcna": "n81147367"
+      }
+     },
+     {"issue": {"issue-date": "1956-06", "volume": "6", "number": "4"},
+      "title": "The Crackpots",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1956-10", "volume": "6", "number": "6"}, 
+      "title": "Room With View",
+      "author": {
+       "authorized": "Young, Robert F.",
+       "lcna": "n81147367"
+      }
+     },
+     {"issue": {"issue-date": "1956-10", "volume": "6", "number": "6"}, 
+      "title": "Details",
+      "author": {
+        "authorized": "Anderson, Poul, 1926-2001",
+        "lcna": "n79044004"
+      }
+     },
+     {"issue": {"issue-date": "1956-12", "volume": "7", "number": "1"},
+      "title": "It's Cold Outside",
+      "author": {
+       "authorized": "Wilson, Richard, 1920-1987",
+       "lcna": "n88059447"
+      }
+     },
+     {"issue": {"issue-date": "1956-12", "volume": "7", "number": "1"},
+      "title": "A Thought for Today",
+      "author": {
+        "authorized": "Slesar, Henry",
+        "lcna": "n87844215"
+      }
+     },
+     {"issue": {"issue-date": "1957-04", "volume": "7", "number": "3"}, 
+      "title": "Green Thumb",
+      "author": {
+        "authorized": "Gunn, James E., 1923-",
+        "lcna": "n79068460"
+      }
+     },
+     {"issue": {"issue-date": "1957-04", "volume": "7", "number": "3"}, 
+      "title": "Hidden Talent",
+       "author": {
+         "authorized": "Silverberg, Robert",
+         "lcna": "n80126000"
+      }
+     },
+     {"issue": {"issue-date": "1957-06", "volume": "7", "number": "4"}, 
+      "title": "Operation Gold Brick",
+      "note": "Title as given in issue. Renewal record gives title as 'Operation Goldbrick'.",
+      "author": {
+        "authorized": "Tevis, Walter S.",
+        "lcna": "n79112367"
+      }
+     },
+     {"issue": {"issue-date": "1957-06", "volume": "7", "number": "4"}, 
+      "title": "Does a Bee Care?",
+      "author": {
+        "authorized": "Asimov, Isaac, 1920-1992",
+        "lcna": "n80126289"
+      }
+     },
+     {"issue": {"issue-date": "1957-06", "volume": "7", "number": "4"}, 
+      "title": "On the Dotted Line",
+       "author": {
+         "authorized": "Biggle, Lloyd, Jr., 1923-2002",
+         "lcna": "n79084085"
+      }
+     },
+     {"issue": {"issue-date": "1957-06", "volume": "7", "number": "4"}, 
+      "title": "Shuffle Board",
+      "author": {
+        "authorized": "Galouye, Daniel F.",
+        "lcna": "no99085263"
+      }
+     },
+     {"issue": {"issue-date": "1957-08", "volume": "7", "number": "5"},
+      "title": "The Tunesmith",
+       "author": {
+         "authorized": "Biggle, Lloyd, Jr., 1923-2002",
+         "lcna": "n79084085"
+      }
+     },
+     {"issue": {"issue-date": "1957-08", "volume": "7", "number": "5"},
+      "title": "Wanted in Surgery",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1957-10", "volume": "7", "number": "6"},
+      "title": "Silence is Deadly",
+       "author": {
+         "authorized": "Biggle, Lloyd, Jr., 1923-2002",
+         "lcna": "n79084085"
+      }
+     },
+     {"issue": {"issue-date": "1957-12", "volume": "8", "number": "1"},
+      "title": "Routine Emergency",
+      "note": "Issue was published incorrectly labeled as volume 7 number 6.",
+      "author": {
+        "authorized": "Bunch, David R.",
+        "lcna": "no98121068"
+      }
+     },
+     {"issue": {"issue-date": "1958-02", "volume": "8", "number": "2"}, 
+      "title": "The Feeling of Power",
+      "author": {
+        "authorized": "Asimov, Isaac, 1920-1992",
+        "lcna": "n80126289"
+      }
+     },
+     {"issue": {"issue-date": "1958-04", "volume": "8", "number": "3"}, 
+      "title": "Powder Keg",
+      "author": {
+        "authorized": "Gunn, James E., 1923-",
+        "lcna": "n79068460"
+      }
+     },
+     {"issue": {"issue-date": "1958-04", "volume": "8", "number": "3"}, 
+      "title": "Passport to Sirius",
+       "author": {
+         "authorized": "Silverberg, Robert",
+         "lcna": "n80126000"
+      }
+     },
+     {"issue": {"issue-date": "1958-06", "volume": "8", "number": "4"}, 
+      "title": "The Songs of Distant Earth",
+      "note": "Renewal record gives magazine title as 'Worlds of Science Fiction', which is this magazine's subtitle.",
+       "author": {
+         "authorized": "Clarke, Arthur C. (Arthur Charles), 1917-2008",
+         "lcna": "n79006997"
+       }
+     },
+     {"issue": {"issue-date": "1958-08", "volume": "8", "number": "5"},
+      "title": "The Wages of Death",
+       "author": {
+         "authorized": "Silverberg, Robert",
+         "lcna": "n80126000"
+      }
+     },
+     {"issue": {"issue-date": "1958-08", "volume": "8", "number": "5"},
+      "title": "The Sky is Burning",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1958-08", "volume": "8", "number": "5"},
+      "title": "Who's on First",
+       "author": {
+         "authorized": "Biggle, Lloyd, Jr., 1923-2002",
+         "lcna": "n79084085"
+      }
+     },
+     {"issue": {"issue-date": "1958-10", "volume": "8", "number": "6"}, 
+      "title": "The Burning of the Brain",
+       "author": {
+         "authorized": "Smith, Cordwainer, 1913-1966",
+         "lcna": "n81083063"
+      }
+     },
+     {"issue": {"issue-date": "1958-10", "volume": "8", "number": "6"}, 
+      "title": "Brink of Creation",
+      "author": {
+        "authorized": "McLaughlin, Dean, 1931-",
+        "lcna": "no2001037968"
+      }
+     },
+     {"issue": {"issue-date": "1958-12", "volume": "9", "number": "1"}, 
+      "title": "Western Science is So Wonderful",
+       "author": {
+         "authorized": "Smith, Cordwainer, 1913-1966",
+         "lcna": "n81083063"
+      }
+     },
+     {"issue": {"issue-date": "1958-12", "volume": "9", "number": "1"}, 
+      "title": "Null-O",
+      "author": {
+       "authorized": "Dick, Philip K.",
+       "lcna": "n79018147"
+      }
+     },
+     {"issue": {"issue-date": "1959-02", "volume": "9", "number": "2"}, 
+      "title": "The Man Who Tasted Ashes",
+      "author": {
+        "authorized": "Budrys, Algis, 1931-2008",
+        "lcna": "n79060196"
+      }
+     },
+     {"issue": {"issue-date": "1959-02", "volume": "9", "number": "2"}, 
+      "title": "Discipline",
+      "author": {
+        "authorized": "St. Clair, Margaret",
+        "lcna": "n85038071"
+      }
+     },
+     {"issue": {"issue-date": "1959-02", "volume": "9", "number": "2"}, 
+      "title": "No, No, Not Rogov",
+       "author": {
+         "authorized": "Smith, Cordwainer, 1913-1966",
+         "lcna": "n81083063"
+      }
+     },
+     {"issue": {"issue-date": "1959-07", "volume": "9", "number": "3"}, 
+      "title": "The Ogre",
+      "note": "Issue was published incorrectly labeled as volume 8 number 6.",
+       "author": {
+         "authorized": "Davidson, Avram",
+         "lcna": "n79022856"
+      }
+     },
+     {"issue": {"issue-date": "1959-07", "volume": "9", "number": "3"}, 
+      "title": "Sitting Duck",
+      "note": "Issue was published incorrectly labeled as volume 8 number 6.",
+      "author": {
+        "authorized": "Galouye, Daniel F.",
+        "lcna": "no99085263"
+      }
+     },
+     {"issue": {"issue-date": "1959-07", "volume": "9", "number": "3"}, 
+      "title": "A Life and a Half",
+      "note": "Issue was published incorrectly labeled as volume 8 number 6.",
+      "author": {
+        "authorized": "Pohl, Frederik",
+        "using": "Paul Flehr",
+        "lcna": "n79029809"
+       }
+     },
+     {"issue": {"issue-date": "1959-07", "volume": "9", "number": "3"}, 
+      "title": "Recall Mechanism",
+      "author": {
+       "authorized": "Dick, Philip K.",
+       "lcna": "n79018147"
+      }
+     },
+     {"issue": {"issue-date": "1959-09", "volume": "9", "number": "4"}, 
+      "title": "Fair Game",
+      "author": {
+       "authorized": "Dick, Philip K.",
+       "lcna": "n79018147"
+      }
+     },
+     {"issue": {"issue-date": "1959-09", "volume": "9", "number": "4"}, 
+      "title": "The Scarlet Hexapod",
+      "author": {
+        "authorized": "St. Clair, Margaret",
+        "lcna": "n85038071"
+      }
+     },
+     {"issue": {"issue-date": "1959-09", "volume": "9", "number": "4"}, 
+      "title": "Homecoming",
+      "author": {
+       "authorized": "Dickson, Gordon R.",
+       "lcna": "n79109204"
+      }
+     },
+     {"issue": {"issue-date": "1959-09", "volume": "9", "number": "4"}, 
+      "title": "An Honest Credit",
+       "author": {
+         "authorized": "Biggle, Lloyd, Jr., 1923-2002",
+         "using": "Kirby Kerr",
+         "lcna": "n79084085"
+      }
+     },
+     {"issue": {"issue-date": "1959-09", "volume": "9", "number": "4"}, 
+      "title": "Hornets Nest",
+       "author": {
+         "authorized": "Biggle, Lloyd, Jr., 1923-2002",
+         "lcna": "n79084085"
+      }
+     },
+     {"issue": {"issue-date": "1960-01", "volume": "9", "number": "6"}, 
+      "title": "The Last Leap",
+      "author": {
+        "authorized": "Galouye, Daniel F.",
+        "lcna": "no99085263"
+      }
+     },
+     {"issue": {"issue-date": "1960-03", "volume": "10", "number": "1"}, 
+      "title": "The Gleaners",
+      "author": {
+        "authorized": "Simak, Clifford D., 1904-1988",
+        "lcna": "n79082302"
+      }
+     },
+     {"issue": {"issue-date": "1960-03", "volume": "10", "number": "1"}, 
+      "title": "To Be Continued",
+      "author": {
+        "name": "Raymond E. Banks"
+      }
+     },
+     {"issue": {"issue-date": "1960-07", "volume": "10", "number": "3"}, 
+      "title": "Talent",
+      "author": {
+         "authorized": "Bloch, Robert, 1917-1994",
+         "lcna": "n50016557"
+      }
+     },
+     {"issue": {"issue-date": "1960-07", "volume": "10", "number": "3"}, 
+      "title": "The Martian in the Attic",
+      "author": {
+        "authorized": "Pohl, Frederik",
+        "lcna": "n79029809"
+       }
+     },
+     {"issue": {"issue-date": "1960-09", "volume": "10", "number": "4"}, 
+      "title": "Kangaroo Court",
+      "author": {
+        "authorized": "Galouye, Daniel F.",
+        "lcna": "no99085263"
+      }
+     },
+     {"issue": {"issue-date": "1960-09", "volume": "10", "number": "4"}, 
+      "title": "Parallel Beans",
+      "author": {
+        "authorized": "St. Clair, Margaret",
+        "lcna": "n85038071"
+      }
+     },
+     {"issue": {"issue-date": "1960-09", "volume": "10", "number": "4"}, 
+      "title": "Words and Music",
+      "author": {
+        "authorized": "Porges, Arthur, 1915-2006",
+        "lcna": "no2010083924"
+      }
+     },
+     {"issue": {"issue-date": "1960-11", "volume": "10", "number": "5"}, 
+      "title": "Quality of Mercy",
+       "author": {
+         "authorized": "Keyes, Daniel",
+         "lcna": "n80022990"
+      }
+     },
+     {"issue": {"issue-date": "1960-11", "volume": "10", "number": "5"}, 
+      "title": "Esidarap ot Pirt Dnuor",
+       "author": {
+         "authorized": "Biggle, Lloyd, Jr., 1923-2002",
+         "lcna": "n79084085"
+      }
+     },
+     {"issue": {"issue-date": "1960-11", "volume": "10", "number": "5"}, 
+      "title": "Egg and Ashes",
+       "author": {
+         "authorized": "Herbert, Frank",
+         "lcna": "n80044450"
+      }
+     },
+     {"issue": {"issue-date": "1961-01", "volume": "10", "number": "6"}, 
+      "title": "The House in Bel Aire",
+      "author": {
+        "authorized": "St. Clair, Margaret",
+        "lcna": "n85038071"
+      }
+     },
+     {"issue": {"issue-date": "1961-03", "volume": "11", "number": "1"}, 
+      "title": "IOU",
+      "author": {
+       "authorized": "Wellen, Edward",
+       "lcna": "n93021387"
+      }
+     },
+     {"issue": {"issue-date": "1961-03", "volume": "11", "number": "1"}, 
+      "title": "Minotaur",
+      "author": {
+       "authorized": "Dickson, Gordon R.",
+       "lcna": "n79109204"
+      }
+     },
+     {"issue": {"issue-date": "1961-03", "volume": "11", "number": "1"}, 
+      "title": "SF is When",
+      "author": {
+        "authorized": "Sturgeon, Theodore",
+        "lcna": "n80066908"
+      }
+     },
+     {"issue": {"issue-date": "1961-03", "volume": "11", "number": "1"}, 
+      "title": "The Well of the Deep Wish",
+       "author": {
+         "authorized": "Biggle, Lloyd, Jr., 1923-2002",
+         "lcna": "n79084085"
+      }
+     },
+     {"issue": {"issue-date": "1961-05", "volume": "11", "number": "2"}, 
+      "title": "A Science Faction Story",
+      "author": {
+        "authorized": "Sturgeon, Theodore",
+        "lcna": "n80066908"
+      }
+     },
+     {"issue": {"issue-date": "1961-05", "volume": "11", "number": "2"}, 
+      "title": "Seven Doors to Education",
+      "author": {
+       "authorized": "Saberhagen, Fred, 1930-2007",
+       "lcna": "n80064889"
+      }
+     },
+     {"issue": {"issue-date": "1961-07", "volume": "11", "number": "3"}, 
+      "title": "The BEM Called Windigo",
+      "author": {
+        "authorized": "Sturgeon, Theodore",
+        "lcna": "n80066908"
+      }
+     },
+     {"issue": {"issue-date": "1961-07", "volume": "11", "number": "3"}, 
+      "title": "A Taste of Tenure",
+      "author": {
+       "authorized": "Dickson, Gordon R.",
+       "lcna": "n79109204"
+      }
+     },
+     {"issue": {"issue-date": "1961-09", "volume": "11", "number": "4"}, 
+      "title": "Mirror Image",
+      "author": {
+        "authorized": "Galouye, Daniel F.",
+        "lcna": "no99085263"
+      }
+     },
+     {"issue": {"issue-date": "1961-09", "volume": "11", "number": "4"}, 
+      "title": "Monoliths and Miracles",
+      "author": {
+        "authorized": "Sturgeon, Theodore",
+        "lcna": "n80066908"
+      }
+     },
+     {"issue": {"issue-date": "1961-11", "volume": "11", "number": "5"}, 
+      "title": "Penny Wise and Fashion Foolish",
+      "author": {
+        "authorized": "Sturgeon, Theodore",
+        "lcna": "n80066908"
+      }
+     },
+     {"issue": {"issue-date": "1962-01", "volume": "11", "number": "6"}, 
+      "title": "From Plynck to Planck",
+      "author": {
+        "authorized": "Sturgeon, Theodore",
+        "lcna": "n80066908"
+      }
+     },
+     {"issue": {"issue-date": "1962-03", "volume": "12", "number": "1"}, 
+      "title": "Kings Who Die",
+      "author": {
+        "authorized": "Anderson, Poul, 1926-2001",
+        "lcna": "n79044004"
+      }
+     },
+     {"issue": {"issue-date": "1962-03", "volume": "12", "number": "1"}, 
+      "title": "Alexander Graham Bell and Me",
+      "author": {
+        "authorized": "Sturgeon, Theodore",
+        "lcna": "n80066908"
+      }
+     },
+     {"issue": {"issue-date": "1962-05", "volume": "12", "number": "2"}, 
+      "title": "The Spy",
+       "author": {
+         "authorized": "Thomas, Theodore L.",
+         "lcna": "n86064977"
+      }
+     },
+     {"issue": {"issue-date": "1962-05", "volume": "12", "number": "2"}, 
+      "title": "And Besides Those Bombs",
+      "note": "Published anonymously.",
+      "author": {
+        "authorized": "Sturgeon, Theodore",
+        "lcna": "n80066908"
+      }
+     },
+     {"issue": {"issue-date": "1962-05", "volume": "12", "number": "2"}, 
+      "title": "Deadly Game",
+      "author": {
+       "authorized": "Wellen, Edward",
+       "lcna": "n93021387"
+      }
+     },
+     {"issue": {"issue-date": "1962-05", "volume": "12", "number": "2"}, 
+      "title": "The Other If",
+      "author": {
+        "authorized": "Sturgeon, Theodore",
+        "lcna": "n80066908"
+      }
+     },
+     {"issue": {"issue-date": "1962-07", "volume": "12", "number": "3"}, 
+      "title": "From Gustible's Planet",
+      "note": "Title as given in issue. Renewal record gives title as 'From Gustile's Planet'.",
+       "author": {
+         "authorized": "Smith, Cordwainer, 1913-1966",
+         "lcna": "n81083063"
+      }
+     },
+     {"issue": {"issue-date": "1962-07", "volume": "12", "number": "3"}, 
+      "title": "Uncle Sam's Time Machine",
+      "author": {
+        "authorized": "Sturgeon, Theodore",
+        "lcna": "n80066908"
+      }
+     },
+     {"issue": {"issue-date": "1962-09", "volume": "12", "number": "4"}, 
+      "title": "And Then There Was Peace",
+      "author": {
+       "authorized": "Dickson, Gordon R.",
+       "lcna": "n79109204"
+      }
+     },
+     {"issue": {"issue-date": "1962-09", "volume": "12", "number": "4"}, 
+      "title": "Once Around Arcturus",
+      "author": {
+        "authorized": "Green, Joseph L. (Joseph Lee), 1931-",
+        "lcna": "no00004428"
+      }
+     },
+     {"issue": {"issue-date": "1962-09", "volume": "12", "number": "4"}, 
+      "title": "Just Westing",
+      "author": {
+        "authorized": "Sturgeon, Theodore",
+        "lcna": "n80066908"
+      }
+     },
+     {"issue": {"issue-date": "1962-11", "volume": "12", "number": "5"}, 
+      "title": "Most Personal",
+      "author": {
+        "authorized": "Sturgeon, Theodore",
+        "lcna": "n80066908"
+      }
+     },
+     {"issue": {"issue-date": "1962-11", "volume": "12", "number": "5"}, 
+      "title": "Podkayne of Mars",
+      "note": "Ran in 3 parts in the November 1962, January 1963, and March 1963 issues of If.  The November 1962 issue is the only one explicitly mentioned in its online renewal records, but a 1991 renewal for the 1963 book may cover the 1963 installments if the 1990 renewal mentioning the November 1962 installment does not.",
+      "author": {
+        "authorized": "Heinlein, Robert A. (Robert Anson), 1907-1988", 
+        "lcna": "n79067868"
+      }
+     },
+     {"issue": {"issue-date": "1962-11", "volume": "12", "number": "5"}, 
+      "title": "The Reluctant Immortals",
+      "author": {
+        "authorized": "Bunch, David R.",
+        "lcna": "no98121068"
+      }
+     },
+     {"issue": {"issue-date": "1962-11", "volume": "12", "number": "5"}, 
+      "title": "The Popoff",
+      "author": {
+        "authorized": "Sturgeon, Theodore",
+        "lcna": "n80066908"
+      }
+     },
+     {"issue": {"issue-date": "1962-11", "volume": "12", "number": "5"}, 
+      "title": "The Critique of Impure Reason",
+      "author": {
+        "authorized": "Anderson, Poul, 1926-2001",
+        "lcna": "n79044004"
+      }
+     },
+     {"issue": {"issue-date": "1963-01", "volume": "12", "number": "6"}, 
+      "title": "Podkayne of Mars",
+      "note": "Ran in 3 parts in the November 1962, January 1963, and March 1963 issues of If.  The November 1962 issue is the only one explicitly mentioned in its online renewal records, but a 1991 renewal for the 1963 book may cover the 1963 installments if the 1990 renewal mentioning the November 1962 installment does not.",
+      "author": {
+        "authorized": "Heinlein, Robert A. (Robert Anson), 1907-1988", 
+        "lcna": "n79067868"
+      }
+     },
+     {"issue": {"issue-date": "1963-01", "volume": "12", "number": "6"}, 
+      "title": "Fortress Ship",
+      "author": {
+       "authorized": "Saberhagen, Fred, 1930-2007",
+       "lcna": "n80064889"
+      }
+     },
+     {"issue": {"issue-date": "1963-03", "volume": "13", "number": "1"}, 
+      "title": "This Dream We Have",
+      "author": {
+        "authorized": "Sturgeon, Theodore",
+        "lcna": "n80066908"
+      }
+     },
+     {"issue": {"issue-date": "1963-03", "volume": "13", "number": "1"}, 
+      "title": "The Time Tombs",
+      "author": {
+       "authorized": "Ballard, J. G., 1930-2009",
+       "lcna": "n79043442"
+      }
+     },
+     {"issue": {"issue-date": "1963-03", "volume": "13", "number": "1"}, 
+      "title": "The Wishbooks",
+      "author": {
+        "authorized": "Sturgeon, Theodore",
+        "lcna": "n80066908"
+      }
+     },
+     {"issue": {"issue-date": "1963-03", "volume": "13", "number": "1"}, 
+      "title": "Podkayne of Mars",
+      "note": "Ran in 3 parts in the November 1962, January 1963, and March 1963 issues of If.  The November 1962 issue is the only one explicitly mentioned in its online renewal records, but a 1991 renewal for the 1963 book may cover the 1963 installments if the 1990 renewal mentioning the November 1962 installment does not.",
+      "author": {
+        "authorized": "Heinlein, Robert A. (Robert Anson), 1907-1988", 
+        "lcna": "n79067868"
+      }
+     },
+     {"issue": {"issue-date": "1963-05", "volume": "13", "number": "2"}, 
+      "title": "That There Opposition",
+      "author": {
+        "authorized": "Sturgeon, Theodore",
+        "lcna": "n80066908"
+      }
+     },
+     {"issue": {"issue-date": "1963-05", "volume": "13", "number": "2"}, 
+      "title": "Singleminded",
+      "author": {
+         "authorized": "Brunner, John, 1934-1995",
+         "lcna": "n79090020"
+      }
+     },
+     {"issue": {"issue-date": "1963-05", "volume": "13", "number": "2"}, 
+      "title": "Nonpolitical New Frontiers",
+      "author": {
+        "authorized": "Sturgeon, Theodore",
+        "lcna": "n80066908"
+      }
+     },
+     {"issue": {"issue-date": "1963-05", "volume": "13", "number": "2"}, 
+      "title": "Turning Point",
+      "author": {
+        "authorized": "Anderson, Poul, 1926-2001",
+        "lcna": "n79044004"
+      }
+     },
+     {"issue": {"issue-date": "1963-07", "volume": "13", "number": "3"}, 
+      "title": "That Notebook Again",
+      "author": {
+        "authorized": "Sturgeon, Theodore",
+        "lcna": "n80066908"
+      }
+     },
+     {"issue": {"issue-date": "1963-07", "volume": "13", "number": "3"}, 
+      "title": "The Reefs of Space",
+      "title-note": "part 1 of 3",
+      "authors": [
+        { "authorized": "Pohl, Frederik", "lcna": "n79029809" },
+        { "authorized": "Williamson, Jack, 1908-2006", "lcna": "n79027136"}
+      ]
+     },
+     {"issue": {"issue-date": "1963-07", "volume": "13", "number": "3"}, 
+      "title": "In the Arena",
+      "author": {
+        "authorized": "Aldiss, Brian W. (Brian Wilson), 1925-2017",
+        "lcna": "n79060640"
+      }
+     },
+     {"issue": {"issue-date": "1963-07", "volume": "13", "number": "3"}, 
+      "title": "Men of Space",
+      "author": {
+        "authorized": "Sturgeon, Theodore",
+        "lcna": "n80066908"
+      }
+     },
+     {"issue": {"issue-date": "1963-07", "volume": "13", "number": "3"}, 
+      "title": "The Shadow of Wings",
+       "author": {
+         "authorized": "Silverberg, Robert",
+         "lcna": "n80126000"
+      }
+     },
+     {"issue": {"issue-date": "1963-09", "volume": "13", "number": "4"}, 
+      "title": "Kick Yourself Again",
+      "author": {
+        "authorized": "Sturgeon, Theodore",
+        "lcna": "n80066908"
+      }
+     },
+     {"issue": {"issue-date": "1963-09", "volume": "13", "number": "4"}, 
+      "title": "Science on a Shoestring, or Less",
+      "author": {
+        "authorized": "Sturgeon, Theodore",
+        "lcna": "n80066908"
+      }
+     },
+     {"issue": {"issue-date": "1963-09", "volume": "13", "number": "4"}, 
+      "title": "The Reefs of Space",
+      "title-note": "part 2 of 3",
+      "authors": [
+        { "authorized": "Pohl, Frederik", "lcna": "n79029809" },
+        { "authorized": "Williamson, Jack, 1908-2006", "lcna": "n79027136"}
+      ]
+     },
+     {"issue": {"issue-date": "1963-11", "volume": "13", "number": "5"}, 
+      "title": "Response and Addenda",
+      "author": {
+        "authorized": "Sturgeon, Theodore",
+        "lcna": "n80066908"
+      }
+     },
+     {"issue": {"issue-date": "1963-11", "volume": "13", "number": "5"}, 
+      "title": "Second Class Citizen",
+      "author": {
+        "authorized": "Knight, Damon, 1922-2002",
+        "lcna": "n79108377"
+      }
+     },
+     {"issue": {"issue-date": "1963-11", "volume": "13", "number": "5"}, 
+      "title": "Long Day in Court",
+      "author": {
+       "authorized": "Zvegintzov, Nicholas",
+       "using": "Jonathan Brand",
+       "lcna": "n83162142"
+      }
+     },
+     {"issue": {"issue-date": "1963-11", "volume": "13", "number": "5"}, 
+      "title": "Glop, Goosh and Gilgamesh",
+      "author": {
+        "authorized": "Sturgeon, Theodore",
+        "lcna": "n80066908"
+      }
+     },
+     {"issue": {"issue-date": "1963-11", "volume": "13", "number": "5"}, 
+      "title": "The Reefs of Space",
+      "title-note": "part 3 of 3",
+      "authors": [
+        { "authorized": "Pohl, Frederik", "lcna": "n79029809" },
+        { "authorized": "Williamson, Jack, 1908-2006", "lcna": "n79027136"}
+      ]
+     },
+     {"issue": {"issue-date": "1963-11", "volume": "13", "number": "5"}, 
+      "title": "A Better Mousetrap",
+      "author": {
+         "authorized": "Brunner, John, 1934-1995",
+         "lcna": "n79090020"
+      }
+     },
+     {"issue": {"issue-date": "1964-01", "volume": "13", "number": "6"}, 
+      "title": "The Day They Threw God at Me",
+      "author": {
+        "authorized": "Sturgeon, Theodore",
+        "lcna": "n80066908"
+      }
+     },
+     {"issue": {"issue-date": "1964-01", "volume": "13", "number": "6"}, 
+      "title": "Personal Monuments",
+      "author": {
+        "authorized": "Sturgeon, Theodore",
+        "lcna": "n80066908"
+      }
+     },
+     {"issue": {"issue-date": "1964-01", "volume": "13", "number": "6"}, 
+      "title": "Waterspider",
+      "author": {
+       "authorized": "Dick, Philip K.",
+       "lcna": "n79018147"
+      }
+     },
+     {"issue": {"issue-date": "1964-03", "volume": "14", "number": "1"}, 
+      "title": "Miracle on Michigan",
+      "author": {
+        "authorized": "Sturgeon, Theodore",
+        "lcna": "n80066908"
+      }
+     },
+     {"issue": {"issue-date": "1964-03", "volume": "14", "number": "1"}, 
+      "title": "How to Have a Hiroshima",
+      "author": {
+        "authorized": "Sturgeon, Theodore",
+        "lcna": "n80066908"
+      }
+     },
+     {"issue": {"issue-date": "1964-05", "volume": "14", "number": "2"}, 
+      "title": "The Store of Heart's Desire",
+       "author": {
+         "authorized": "Smith, Cordwainer, 1913-1966",
+         "lcna": "n81083063"
+      }
+     },
+     {"issue": {"issue-date": "1964-07", "volume": "14", "number": "3"}, 
+      "title": "Farnham's Freehold",
+      "title-note": "part 1 of 3",
+      "author": {
+        "authorized": "Heinlein, Robert A. (Robert Anson), 1907-1988", 
+        "lcna": "n79067868"
+      }
+     },
+     {"issue": {"issue-date": "1964-08", "volume": "14", "number": "4"}, 
+      "title": "The Life Hater",
+      "note": "Title as given in issue.  Renewal record mentions this title, but gives the story's main title as 'Peacemaker', its title as later published.",
+      "author": {
+       "authorized": "Saberhagen, Fred, 1930-2007",
+       "lcna": "n80064889"
+      }
+     },
+     {"issue": {"issue-date": "1964-08", "volume": "14", "number": "4"}, 
+      "title": "Farnham's Freehold",
+      "title-note": "part 2 of 3",
+      "author": {
+        "authorized": "Heinlein, Robert A. (Robert Anson), 1907-1988", 
+        "lcna": "n79067868"
+      }
+     },
+     {"issue": {"issue-date": "1964-10", "volume": "14", "number": "5"}, 
+      "title": "Farnham's Freehold",
+      "title-note": "part 3 of 3",
+      "author": {
+        "authorized": "Heinlein, Robert A. (Robert Anson), 1907-1988", 
+        "lcna": "n79067868"
+      }
+     },
+     {"issue": {"issue-date": "1964-12", "volume": "14", "number": "7"}, 
+      "title": "The Coldest Place",
+      "author": {
+        "authorized": "Niven, Larry",
+        "lcna": "n50000650"
+      }
+     }
+   ],
    "additional-note": "The March 1964 issue has a 1964 copyright notice, but the CCE states that its actual copyright date was December 23, 1963.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-02-15"
+   "acknowledgement": 
+      "Thanks to Nat Bender for copyright research on this title.",
+   "last-updated": "2020-09-08"
 }
