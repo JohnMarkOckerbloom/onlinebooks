@@ -1,0 +1,25 @@
+{
+   "title": "Wacky Duck",
+   "aka": ["Wackie Duck", "Wacky Duck Comics"],
+   "contents": [
+      {"url": "https://www.comics.org/series/477/",
+       "note": "Grand Comics Database"}
+   ],
+   "preceded-by": [{"id": "dopeyduck", "note": "Dopey Duck Comics"}],
+   "first-issue":
+     {"issue-date": "1946-Fall", "number": "3"},
+   "first-renewed-issue":
+     {"issue-date": "1946-Fall", "number": "3"},
+   "first-renewed-issue-source": "1977-JulDec",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce",
+   "last-issue":
+     {"issue-date": "1947-Summer", "number": "6"},
+   "succeeded-by": [{"id": "justicecomics", "note": "Justice Comics"}],
+   "additional-note": "A note in the 1975 CCE Periodicals volume for 'Wackie Duck' says to 'consult copyright office' for full issue renewal information, as did a note in the January-June 1976 CCE Periodicals volume for 'Wacky Duck'.  The first cataloged issue renewal, mentioned in the July-December 1977 CCE Periodicals volume, is for the Fall 1946 issue, and was filed in 1974. The actual issue covers appear to use the spelling 'Wacky Duck' consistently.",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2020-10-05"
+}

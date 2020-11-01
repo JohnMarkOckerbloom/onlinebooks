@@ -50,7 +50,25 @@
      {"issue-date": "1925-12-10", "volume": "6", "number": "2"},
      {"issue-date": "1925-12-25", "volume": "6", "number": "3"},
      {"issue-date": "1926-01-10", "volume": "6", "number": "4"},
-     {"issue-date": "1926-01-25", "volume": "6", "number": "5"}
+     {"issue-date": "1926-01-25", "volume": "6", "number": "5"},
+     {"issue-date": "1926-04-10", "volume": "7", "number": "4"},
+     {"issue-date": "1926-04-25", "volume": "7", "number": "5"},
+     {"issue-date": "1926-05-10", "volume": "7", "number": "6"},
+     {"issue-date": "1926-05-25", "volume": "8", "number": "1"},
+     {"issue-date": "1926-06-10", "volume": "8", "number": "2"},
+     {"issue-date": "1926-06-25", "volume": "8", "number": "3"},
+     {"issue-date": "1926-07-10", "volume": "8", "number": "4"},
+     {"issue-date": "1926-07-25", "volume": "8", "number": "5"},
+     {"issue-date": "1926-08-10", "volume": "8", "number": "6"},
+     {"issue-date": "1926-08-25", "volume": "9", "number": "1"},
+     {"issue-date": "1926-09-10", "volume": "9", "number": "2"},
+     {"issue-date": "1926-09-25", "volume": "9", "number": "3"},
+     {"issue-date": "1926-11", "volume": "9", "number": "4"},
+     {"issue-date": "1926-12", "volume": "9", "number": "5"},
+     {"issue-date": "1927-01", "volume": "9", "number": "6",
+      "cdate": "1926-12-15"},
+     {"issue-date": "1927-02", "volume": "10", "number": "1",
+      "cdate": "1927-01-14"}
    ],
    "renewed-contributions": [
      {"issue": {"issue-date": "1932-08-01", "volume": "28", "number": "5"},
@@ -68,5 +86,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-03-14"
+   "last-updated": "2020-10-03"
 }

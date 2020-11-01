@@ -1,0 +1,27 @@
+{
+   "title": "Planta",
+   "aka": ["Archiv für Wissenschaftliche Botanik", 
+           "Zeitschrift für Wissenschaftliche Biologie, Abteilung E: Planta"],
+   "contents": [
+      {"url": "https://www.jstor.org/journal/zewibiabeplanta",
+      "note": "JSTOR (1925-1934; full text also available for subscription or payment)"},
+      {"url": "https://www.jstor.org/journal/planta",
+      "note": "JSTOR (1934-recent; full text also available for subscription or payment)"}
+   ],
+   "first-issue": {"issue-date": "1925", "volume": "1", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce+database",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce+database",
+   "additional-notes": [
+      "This is a German publication. Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US.",
+      "Some combination of the 'Planta', 'Archiv für Wissenschaftliche Botanik', and 'Zeitschrift für Wissenschaftliche Biologie, Abteilung E' titles has been on all issues since 1925, with 'Planta' being the one consistently present."
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "acknowledgement": 
+      "Thanks to Ed Deegan for copyright research on this title.",
+   "last-updated": "2020-10-02"
+}

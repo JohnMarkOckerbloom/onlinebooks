@@ -8,6 +8,9 @@
    "first-renewed-contribution":
      {"issue": {"issue-date": "1928-02"}}, 
    "first-renewed-contribution-source": "1955-JanJun",
+   "see-also":
+     [{"id": "factsadnatgeo",
+       "note": "Facts for Advertisers (National Geographic)"}],
    "renewed-issue-completeness": "active/1925",
    "renewed-issues": [
       {"issue-date": "1925-02", "volume": "47", "number": "2",
@@ -62,5 +65,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-01-27"
+   "last-updated": "2020-10-22"
 }

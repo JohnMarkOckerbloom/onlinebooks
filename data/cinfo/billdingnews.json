@@ -5,16 +5,19 @@
    "first-renewed-issue-source": "1953-JulDec",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce",
+   "renewed-issue-completeness": "active/1925",
    "renewed-issues": [
      {"volume" : "1", "number": "8", "cdate": "1925-10-13"}, 
      {"volume" : "1", "number": "9", "cdate": "1925-11-13"}, 
      {"volume" : "1", "number": "10", "cdate": "1925-12-13"}, 
      {"volume" : "2", "number": "nos. 1 & 2", "cdate": "1926-01-13"}, 
-     {"volume" : "2", "number": "3", "cdate": "1926-02-13"} 
+     {"volume" : "2", "number": "3", "cdate": "1926-02-13"},
+     {"volume" : "2", "number": "4", "cdate": "1926-05-13"},
+     {"volume" : "2", "number": "5", "cdate": "1926-07-13"}
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-01-23"
+   "last-updated": "2020-10-01"
 }

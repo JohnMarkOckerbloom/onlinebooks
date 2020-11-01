@@ -25,7 +25,20 @@
      {"issue-date": "1926-01", "cdate": "1925-12-24",
           "volume": "5", "number": "1"},
      {"issue-date": "1926-02", "cdate": "1926-01-19",
-          "volume": "5", "number": "2"}
+          "volume": "5", "number": "2"},
+     {"issue-date": "1926-03", "volume": "5", "number": "3"},
+     {"issue-date": "1926-04", "volume": "5", "number": "4"},
+     {"issue-date": "1926-05", "volume": "5", "number": "5"},
+     {"issue-date": "1926-06", "volume": "5", "number": "6"},
+     {"issue-date": "1926-07", "volume": "5", "number": "7"},
+     {"issue-date": "1926-08", "volume": "5", "number": "8"},
+     {"issue-date": "1926-09", "volume": "5", "number": "9"},
+     {"issue-date": "1926-10", "volume": "5", "number": "10"},
+     {"issue-date": "1926-11", "volume": "5", "number": "11"},
+     {"issue-date": "1926-12", "volume": "5", "number": "12"},
+     {"issue-date": "1927-01", "volume": "6", "number": "1"},
+     {"issue-date": "1927-02", "volume": "6", "number": "2"},
+     {"issue-date": "1927-03", "volume": "6", "number": "3"}
    ],
    "renewed-contribution-completeness": "active/1949",
    "comment": "Added all CCE cont. renewals; search CO database for more",
@@ -597,5 +610,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-01-06"
+   "last-updated": "2020-10-01"
 }

@@ -16,10 +16,12 @@ my $pooldir = "$homedir/digital/nonpublic/submissions/";
 my $pkgdir   = $datadir . "packages/";
 
 my $bookfile = $datadir . "wbookfile";
+my $badissnfile = $datadir . "badissns";
 my $wikidatafile = $wikidir . "wikiperiodicals.csv";
 
 my $olbpserial = {};
 my $issnserial = {};
+my $badissnmap = {};
 
 #my $cambridge_journals = $pkgdir . "cambridge/CUP_All_journals_2020-01-06.txt";
 my $cambridge_journals = $pkgdir . "cambridge/CUP_All_journals_2020-07-02.txt";
@@ -704,6 +706,19 @@ sub readbookfile {
   close IN;
 }
 
+sub readbadissns {
+  my ($filename) = @_;
+  open my $fh, "<", $filename or die "filename: $!";
+  while (<$fh>) {
+    s/#.*//;
+    if (/(\d\d\d\d-\d\d\d[\dxX])\s*\-\>\s*(\d\d\d\d-\d\d\d[\dxX])/) {
+      my ($badissn, $goodissn) = ($1, $2);
+      $badissnmap->{$badissn} = $goodissn;
+    }
+  }
+  close $fh;
+}
+
 sub readcsvfile {
   my ($filename, $skiplines) = @_;
   my @results;
@@ -1021,6 +1036,14 @@ sub find_pub_record {
       return $issnserial->{$issn};
     }
   }
+  foreach my $issn (@issns) {
+    next if (!$issn);
+    my $betterissn = $badissnmap->{$issn};
+    if ($betterissn && $issnserial->{$betterissn}) {
+      # print STDERR "found $betterissn for $issn\n";
+      return $issnserial->{$betterissn};
+    }
+  }
   return undef;
 }
 
@@ -1175,9 +1198,13 @@ sub maketable {
         $copyright = "All";
       }
     }
+    my $bestissn = $lowissn;
+    if ($badissnmap->{$bestissn}) {
+      $bestissn = $badissnmap->{$bestissn};
+    }
     # print "\"$lowissn\",";  # force quotes around ISSN so Excel behaves better
 
-    $arrayref = [$lowissn,$pkgid,$olbpid,$title,
+    $arrayref = [$bestissn,$pkgid,$olbpid,$title,
                  $dates,$wiki,$copyright,$freerange];
     $str .= tsv_line($arrayref);
     # $csv->print(STDOUT, $arrayref);
@@ -1262,6 +1289,7 @@ if (!scalar(@ARGV)) {
 }
 my $serialset = $ARGV[0];
 
+readbadissns($badissnfile);
 readbookfile($bookfile);
 readwikidata($wikidatafile);
 my @recs = readserialset($serialset);
