@@ -675,12 +675,14 @@ sub analyze_form {
       || $title =~ /^About[a-z][a-z][a-z][a-z][a-z]/
       || $title =~ /^cheap /
       || $title =~ / sunglasses /
+      || $title =~ /trump vote mask/
       || $title =~ /ister misery 1901/
       || $title =~ /googlegoogle/
       || $title =~ /jeffrearoom/
       || $ref =~ /hoverboard/
       || $ref =~ /seoestore/
       || $wref =~ /seoestore/
+      || $comments =~ /getpeople.io/i
       || $title =~ / michael kors /
       || $libname =~ / michael kors /
       || $libsite =~ /brinkster.net/) {

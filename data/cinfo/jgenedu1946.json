@@ -1,0 +1,52 @@
+{
+   "title": "The Journal of General Education",
+   "aka": ["JGE"],
+   "contents": [
+      {"url": "https://www.jstor.org/journal/jgeneeduc",
+       "note": "JSTOR (full text also available for subscription or payment)"}
+   ],
+   "first-issue":
+     {"issue-date": "1946-10", "volume": "1", "number": "1"},
+   "first-renewed-issue":
+     {"issue-date": "1952-10", "volume": "7", "number": "1"},
+   "first-renewed-issue-source": "database",
+   "first-renewed-contribution":
+     {"issue": {"issue-date": "1963-07", "volume": "15", "number": "2"}},
+   "first-renewed-contribution-source": "database",
+   "renewed-issue-completeness": "active/autorenewals",
+   "renewed-issues": [
+     {"issue-date": "1952-10", "volume": "7", "number": "1"},
+     {"issue-date": "1953-01", "volume": "7", "number": "2"},
+     {"issue-date": "1953-04", "volume": "7", "number": "3"},
+     {"issue-date": "1953-07", "volume": "7", "number": "4"},
+     {"issue-date": "1954-10", "volume": "8", "number": "1"},
+     {"issue-date": "1956-01", "volume": "9", "number": "2"},
+     {"issue-date": "1956-04", "volume": "9", "number": "3"},
+     {"issue-date": "1957-01", "volume": "10", "number": "1"},
+     {"issue-date": "1957-04", "volume": "10", "number": "2"},
+     {"issue-date": "1957-07", "volume": "10", "number": "3"},
+     {"issue-date": "1957-10", "volume": "10", "number": "4"},
+     {"issue-date": "1958-01", "volume": "11", "number": "1"},
+     {"issue-date": "1958-04", "volume": "11", "number": "2"},
+     {"issue-date": "1958-07", "volume": "11", "number": "3"},
+     {"issue-date": "1958-10", "volume": "11", "number": "4"},
+     {"issue-date": "1959-10", "volume": "12", "number": "4"}
+   ],
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1963-07", "volume": "15", "number": "2"},
+      "title": "American Fiction and American Life",
+      "author": {
+       "authorized": "Young, Philip, 1918-1991",
+       "lcna": "n50014594"
+      }
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "acknowledgement": 
+      "Thanks to Felice Gollotti for copyright research on this title.",
+   "last-updated": "2020-11-16"
+}
