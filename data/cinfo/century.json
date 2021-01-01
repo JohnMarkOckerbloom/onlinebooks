@@ -8,6 +8,8 @@
    "first-renewed-contribution":
      {"issue": {"issue-date": "1925-02"}},
    "first-renewed-contribution-source": "1952-JanJun",
+   "last-issue":
+     {"issue-date": "1930-Spring", "volume": "120", "number": "2"},
    "renewed-issue-completeness": "active/1925",
    "renewed-issues": [
       {"issue-date": "1925-02", "volume": "109", "number": "4",
@@ -37,7 +39,7 @@
       {"issue-date": "1926-11", "volume": "113", "number": "1"},
       {"issue-date": "1926-12", "volume": "113", "number": "2"}
    ],
-   "renewed-contribution-completeness": "active/1925",
+   "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
      {"issue": {"issue-date": "1925-02"},
       "title": "Blocker Locke",
@@ -87,11 +89,88 @@
          "authorized": "Lowell, Amy, 1874-1925",
          "lcna": "n79076111"
         }
+     },
+     {"issue": {"issue-date": "1927-08"}, 
+      "title": "Beyond Sound of Machine Gun",
+      "author": {
+       "name": "Llewellyn Hughes"
+      }
+     },
+     {"issue": {"issue-date": "1928-02"}, 
+      "title": "Uneasy Virtue",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1928-04"}, 
+      "title": "Man Afraid",
+      "author": {
+         "authorized": "Montague, C. E. (Charles Edward), 1867-1928",
+         "lcna": "n50004227"
+      }
+     },
+     {"issue": {"issue-date": "1928-10"},
+      "title": "The Story About the Ant Eater",
+      "author": {
+         "authorized": "Benét, Stephen Vincent, 1898-1943",
+         "lcna": "n50007691"
+      }
+     },
+     {"issue": {"issue-date": "1928-12"},
+      "title": "Outside the Cabinet Maker's",
+      "authors": [
+        {"authorized": "Fitzgerald, F. Scott (Francis Scott), 1896-1940",
+         "lcna": "n79006871"},
+        {"authorized": " Fitzgerald, Zelda, 1900-1948",
+         "lcna": "n50003067"}
+      ]
+     },
+     {"issue": {"issue-date": "1929-02"},
+      "title": "Holy Face",
+      "author": {
+       "authorized": "Huxley, Aldous, 1894-1963",
+       "lcna": "n80057246"
+      }
+     },
+     {"issue": {"issue-date": "1929-04"},
+      "title": "The Grand Ball at Sitka",
+      "author": {
+         "authorized": "Willoughby, Barrett, -1959",
+         "lcna": "n94074965"
+      }
+     },
+     {"issue": {"issue-date": "1929-04"},
+      "title": "Solitudino",
+      "author": {
+         "authorized": "Street, Julian, 1879-1947",
+         "lcna": "n86114725"
+      }
+     },
+     {"issue": {"issue-date": "1929-05"},
+      "title": "The Woman Who Never Was",
+      "author": {
+       "name": "Louise Lambertson Vaughan"
+      }
+     },
+     {"issue": {"issue-date": "1929-06"},
+      "title": "Apotheosis",
+      "author": {
+         "authorized": "Sheean, Vincent, 1899-1975",
+         "lcna": "n50022139"
+      }
+     },
+     {"issue": {"issue-date": "1929-08"},
+      "title": "The Parrot",
+      "author": {
+         "authorized": "Sheean, Vincent, 1899-1975",
+         "lcna": "n50022139"
+      }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-01-24"
+   "last-updated": "2020-12-29"
 }

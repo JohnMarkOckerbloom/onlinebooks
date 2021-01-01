@@ -5,7 +5,7 @@
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1928-12-02"}},
    "first-renewed-contribution-source": "1956-JanJun",
-   "renewed-contribution-completeness": "active/1931",
+   "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
      {"issue": {"issue-date": "1928-12-02"},
       "title": "Texas Titan: The Fictionalized Life of Sam Houston",
@@ -94,11 +94,82 @@
        "authorized": "Oskison, John M. (John Milton), 1874-1947",
        "lcna": "nr92025553"
       }
+     },
+     {"issue": {"issue-date": "1952-02-03"},
+      "title": "Spirit of Kansas City",
+      "author": {
+       "authorized": "Rockwell, Norman, 1894-1978",
+       "lcna": "n79039542"
+      }
+     },
+     {"issue": {"issue-date": "1953-03-29"},
+      "title": "The Easter Adventures of Cuddles and Tuckie",
+      "title-note": "first part",
+      "author": {
+       "authorized": "Williams, Frances Royster",
+       "lcna": "n80149303"
+      }
+     },
+     {"issue": {"issue-date": "1953-04-05"},
+      "title": "The Easter Adventures of Cuddles and Tuckie",
+      "title-note": "second part",
+      "author": {
+       "authorized": "Williams, Frances Royster",
+       "lcna": "n80149303"
+      }
+     },
+     {"issue": {"issue-date": "1953-12-20"},
+      "title": "Cuddles and Tuckie Find Out Where Santa Got His Reindeer",
+      "author": {
+       "authorized": "Williams, Frances Royster",
+       "lcna": "n80149303"
+      }
+     },
+     {"issue": {"issue-date": "1954-12-19"},
+      "title": "Cuddles and Tuckie Wish on a Star",
+      "author": {
+       "authorized": "Williams, Frances Royster",
+       "lcna": "n80149303"
+      }
+     },
+     {"issue": {"issue-date": "1955-12-25"},
+      "title": "The Lost Dog: A Cuddles and Tuckie Tale",
+      "author": {
+       "authorized": "Williams, Frances Royster",
+       "lcna": "n80149303"
+      }
+     },
+     {"issue": {"issue-date": "1956-12-23"},
+      "title": "Cuddles and Tuckie: A Lapland Adventure",
+      "author": {
+       "authorized": "Williams, Frances Royster",
+       "lcna": "n80149303"
+      }
+     },
+     {"issue": {"issue-date": "1957-12-22"},
+      "title": "A Before Christmas Space Flight for Cuddles and Tuckie",
+      "author": {
+       "authorized": "Williams, Frances Royster",
+       "lcna": "n80149303"
+      }
+     },
+     {"issue": {"issue-date": "1958-12-21"},
+      "title": "The Singing Flute",
+      "author": {
+       "authorized": "Williams, Frances Royster",
+       "lcna": "n80149303"
+      }
+     },
+     {"issue": {"issue-date": "1959-12-20"},
+      "title": "Cuddles and Tuckie Visit a Christmas Star",
+      "author": {
+       "name": "Mrs. Winthrop Williams"
+      }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-01-17"
+   "last-updated": "2020-12-20"
 }

@@ -1,0 +1,77 @@
+{
+   "title": "Romance",
+   "title-note": "Ridgway magazine, 1919-1929",
+   "online": "1",
+   "contents": [
+      {"url": "http://www.philsp.com/data/data450.html#ROMANCE1919",
+       "note": "FictionMags (selected issues)"}
+   ],
+   "first-issue":
+     {"issue-date": "1919-11", "volume": "1", "number": "1"},
+   "first-renewed-issue":
+     {"issue-date": "1928-11", "volume": "1", "number": "1", "series": "2"},
+   "first-renewed-issue-source": "1955-JulDec",
+   "first-renewed-contribution": 
+     {"issue":
+      {"issue-date": "1929-02", "volume": "1", "number": "4", "series": "2"}},
+   "first-renewed-contribution-source": "1956-JulDec",
+   "last-issue":
+     {"issue-date": "1929-05", "volume": "2", "number": "1", "series": "2"},
+   "succeeded-by": [{"id": "everyromance", "note": "Everybody's-Romance"}],
+   "see-also":
+     [{"id": "romance1937",
+      "note": "Romance (Popular Publications, 1937-1954)"}],
+   "renewed-issue-completeness": "active/end",
+   "renewed-issues": [
+     {"issue-date": "1928-11", "volume": "1", "number": "1", "series": "2"},
+     {"issue-date": "1928-12", "volume": "1", "number": "2", "series": "2"},
+     {"issue-date": "1929-01", "volume": "1", "number": "3", "series": "2"},
+     {"issue-date": "1929-02", "volume": "1", "number": "4", "series": "2"},
+     {"issue-date": "1929-03", "volume": "1", "number": "5", "series": "2"},
+     {"issue-date": "1929-04", "volume": "1", "number": "6", "series": "2"},
+     {"issue-date": "1929-05", "volume": "2", "number": "1", "series": "2"}
+   ],
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1929-02", "volume": "1", "number": "4", "series": "2"},
+      "title": "Four Miles an Hour",
+      "author": {
+         "authorized": "Elston, Allan Vaughan, 1887-1976",
+         "lcna": "no90023204"
+       }
+     },
+     {"issue": {"issue-date": "1929-03", "volume": "1", "number": "5", "series": "2"},
+      "title": "Strange Moon",
+      "title-note": "part 1 of 4",
+      "author": {
+       "authorized": "Stribling, T. S. (Thomas Sigismund), 1881-1965",
+       "lcna": "n50011482"
+      }
+     },
+     {"issue": {"issue-date": "1929-04", "volume": "1", "number": "6", "series": "2"},
+      "title": "Strange Moon",
+      "title-note": "part 2 of 4",
+      "author": {
+       "authorized": "Stribling, T. S. (Thomas Sigismund), 1881-1965",
+       "lcna": "n50011482"
+      }
+     },
+     {"issue": {"issue-date": "1929-05", "volume": "2", "number": "1", "series": "2"},
+      "title": "Strange Moon",
+      "title-note": "part 3 of 4",
+      "author": {
+       "authorized": "Stribling, T. S. (Thomas Sigismund), 1881-1965",
+       "lcna": "n50011482"
+      }
+     }
+   ],
+   "additional-notes": [
+      "Contribution renewals are recorded beginning in the 1956 January-June CCE volume, but the earliest renewed contribution is noted in the 1956 July-December volume.",
+      "The April and May 1929 issues have 'Romance Combined with Everybody's' and 'Everybody's Combined with Romance' on their respective covers, but the masthead title remained 'Romance' for those two issues, and those issues were renewed under this title as well."
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2020-12-06"
+}

@@ -1,6 +1,5 @@
 {
    "title": "Everybody's Magazine",
-   "aka": ["Everybody's-Romance"],
    "online": "1",
    "contents": [
       {"url": "http://www.philsp.com/homeville/GFI/link.asp?magid=EVY",
@@ -12,7 +11,10 @@
      {"issue": {"issue-date": "1925-02", "volume": "52", "number": "2",
                 "cdate": "1925-01-09"}},
    "first-renewed-contribution-source": "1952-JanJun",
-   "renewed-contribution-completeness": "active/1927",
+   "last-issue":  {"issue-date": "1929-03", "volume": "60", "number": "3"},
+   "succeeded-by":  [{"id": "everyromance", "note": "Everybody's-Romance"}],
+   "renewed-contribution-completeness": "active/end",
+   "comment": "When clearing out the 1925 contribution renewals in 2021, also clear out the 1928 contribution that was first published in 1925.",
    "renewed-contributions": [
      {"issue": {"issue-date": "1925-02", "volume": "52", "number": "2"},
       "title": "The Mating of Pompalone",
@@ -136,14 +138,6 @@
         "lcna": "n80034938"
       }
      },
-     {"issue": {"issue-date": "1926-12", "volume": "55", "number": "6"},
-      "title": "Cholera at Bukit Batu",
-      "note": "CCE renewal record places this story in this issue, but FictionMags places it in the January 1927 issue.  I have not examined the issues to know which one(s) it appears in.",
-      "author": {
-        "authorized": "Blochman, Lawrence G. (Lawrence Goldtree), 1900-1975",
-        "lcna": "n50016555"
-      }
-     },
      {"issue": {"issue-date": "1927-01", "volume": "56", "number": "1"},
       "title": "The Flying Kestrel",
       "title-note": "part 1 of 4",
@@ -154,7 +148,7 @@
      },
      {"issue": {"issue-date": "1927-01", "volume": "56", "number": "1"},
       "title": "Cholera at Bukit Batu",
-      "note": "CCE renewal record places this story in the December 1926 issue, but FictionMags places it in this issue.  I have not examined the issues to know which one(s) it appears in.",
+      "note": "CCE renewal record places this story in the December 1926 issue, but it actually ran in the January 1927 issue, not the December 1926 issue.",
       "author": {
         "authorized": "Blochman, Lawrence G. (Lawrence Goldtree), 1900-1975",
         "lcna": "n50016555"
@@ -198,20 +192,20 @@
          "lcna": "no2010022727"
        }
      },
-     {"issue": {"issue-date": "1927-05", "volume": "56", "number": "5"},
+     {"issue": {"issue-date": "1927-06", "volume": "56", "number": "6"},
       "title": "Hot Sake",
-      "note": "CCE renewal record places this story in this issue, but FictionMags places it in the June 1927 issue.  I have not examined the issues to know which one(s) it appears in.",
+      "note": "CCE renewal record places this story in the May 1927 issue, but it actually ran in the June 1927 issue, not the May 1927 issue.",
       "author": {
         "authorized": "Blochman, Lawrence G. (Lawrence Goldtree), 1900-1975",
         "lcna": "n50016555"
       }
      },
-     {"issue": {"issue-date": "1927-06", "volume": "56", "number": "6"},
-      "title": "Hot Sake",
-      "note": "CCE renewal record places this story in the May 1927 issue, but FictionMags places it in this issue.  I have not examined the issues to know which one(s) it appears in.",
+     {"issue": {"issue-date": "1927-08", "volume": "57", "number": "2"},
+      "title": "The Biggest Man on Board",
+      "note": "There was no renewal filed for this story; however, it is a reprint of a story originally published in the April 1927 issue of Cassell's that is likely to have an active copyright due to GATT restoration.",
       "author": {
-        "authorized": "Blochman, Lawrence G. (Lawrence Goldtree), 1900-1975",
-        "lcna": "n50016555"
+       "authorized": "Shaw, Frank H. (Frank Hubert), 1878-",
+       "lcna": "no99031097"
       }
      },
      {"issue": {"issue-date": "1927-10", "volume": "57", "number": "4"}, 
@@ -307,11 +301,47 @@
          "authorized": "Pendexter, Hugh, 1875-1940",
          "lcna": "no2010022727"
        }
+     },
+     {"issue": {"issue-date": "1928-08", "volume": "59", "number": "2"},
+      "title": "Lives of Men",
+      "note": "There was no renewal filed for this story; however, it is a reprint of a story originally published in the January 1925 issue of The Story-Teller that is likely to have an active copyright until 2021 due to GATT restoration.",
+      "author": {
+       "authorized": "Shaw, Frank H. (Frank Hubert), 1878-",
+       "lcna": "no99031097"
+      }
+     },
+     {"issue": {"issue-date": "1928-09", "volume": "59", "number": "3"},
+      "title": "Guinea Gold",
+      "note": "There was no renewal filed for this story; however, it is a reprint of a story originally published in the January 1928 issue of The 20-Story Magazine that may have an active copyright due to GATT restoration, if the author is not American.",
+      "author": {
+       "name": "Evan Anglesea"
+      }
+     },
+     {"issue": {"issue-date": "1929-02", "volume": "60", "number": "2"},
+      "title": "The Keepers of the Treasure",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1929-03", "volume": "60", "number": "3"},
+      "title": "In the Manner of Lipstick",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1929-03", "volume": "60", "number": "3"},
+      "title": "Seventy Below",
+      "author": {
+         "authorized": "Raine, Norman Reilly, 1895-1971",
+         "lcna": "n85342738"
+      }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-01-26"
+   "last-updated": "2020-12-08"
 }

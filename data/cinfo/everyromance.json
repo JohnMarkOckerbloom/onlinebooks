@@ -1,0 +1,109 @@
+{
+   "title": "Everybody's-Romance",
+   "aka": ["Everybody's Combined With Romance"],
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/FMI/link.asp?magid=ROM05",
+       "note": "FictionMags"}
+   ],
+   "preceded-by": [
+     {"id": "everymag", "note": "Everybody's Magazine"},
+     {"id": "romance1919", "note": "Romance (Ridgway magazine, 1919-1929)"}
+   ],
+   "first-issue": 
+     {"issue-date": "1929-06", "volume": "2", "number": "2"},
+   "first-renewed-issue":  "none",
+   "first-renewed-issue-source": "cce",
+   "first-renewed-contribution": 
+     {"issue": {"issue-date": "1929-06", "volume": "2", "number": "2"}},
+   "first-renewed-contribution-source": "1955-JanJun",
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1929-06", "volume": "2", "number": "2"},
+      "title": "Doctor Lumartaine's Wife",
+      "note": "Title as given in CCE renewal record. FictionMags gives title as 'Dr. Lamartaine’s Wife'. We have not examined the issue in question.",
+      "author": {
+         "authorized": "Raine, Norman Reilly, 1895-1971",
+         "lcna": "n85342738"
+      }
+     },
+     {"issue": {"issue-date": "1929-06", "volume": "2", "number": "2"},
+      "title": "Strange Moon",
+      "title-note": "part 4 of 4",
+      "author": {
+       "authorized": "Stribling, T. S. (Thomas Sigismund), 1881-1965",
+       "lcna": "n50011482"
+      }
+     },
+     {"issue": {"issue-date": "1929-08", "volume": "2", "number": "4"},
+      "title": "Once in a Lifetime",
+      "author": {
+        "authorized": "Duganne, Phyllis, 1899-1976",
+        "lcna": "n90719514"
+      }
+     },
+     {"issue": {"issue-date": "1929-10", "volume": "2", "number": "6"},
+       "title": "The Men in Her Life",
+       "title-note": "part 1 of 4",
+       "note": "Author is Samuel Hopkins Adams writing under a pseudonym.",
+       "author": {
+         "authorized": "Fabian, Warner, 1871-1958",
+         "lcna": "no2018084094"
+       }
+     },
+     {"issue": {"issue-date": "1929-10", "volume": "2", "number": "6"},
+      "title": "Wind Across the Steppes",
+      "note": "Title as given in CCE renewal record. FictionMags gives title as 'The Wind'.",
+      "author": {
+         "authorized": "Raine, Norman Reilly, 1895-1971",
+         "lcna": "n85342738"
+      }
+     },
+     {"issue": {"issue-date": "1929-10", "volume": "2", "number": "6"},
+       "title": "Sky Life",
+       "author": {
+         "authorized": "Dazey, Frank Mitchell",
+         "lcna": "no89021248"
+       }
+     },
+     {"issue": {"issue-date": "1929-11", "volume": "3", "number": "1"},
+       "title": "The Men in Her Life",
+       "title-note": "part 2 of 4",
+       "note": "Author is Samuel Hopkins Adams writing under a pseudonym.",
+       "author": {
+         "authorized": "Fabian, Warner, 1871-1958",
+         "lcna": "no2018084094"
+       }
+     },
+     {"issue": {"issue-date": "1929-12", "volume": "3", "number": "2"},
+       "title": "The Men in Her Life",
+       "title-note": "part 3 of 4",
+       "note": "Author is Samuel Hopkins Adams writing under a pseudonym.",
+       "author": {
+         "authorized": "Fabian, Warner, 1871-1958",
+         "lcna": "no2018084094"
+       }
+     },
+     {"issue": {"issue-date": "1929-12", "volume": "3", "number": "2"},
+      "title": "Drouth",
+      "note": "CCE renewal record places this story in the December 1929 issue, but FictionMags does not, instead placing it in the December 1928 issue of Romance. We have not examined the issues in question. The renewal, filed in 1957, would be too late to keep a 1928 copyright active, but a separate issue renewal was filed on time for the December 1928 issue of Romance as a whole.",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
+     {"issue": {"issue-date": "1930-01", "volume": "3", "number": "3"},
+       "title": "The Men in Her Life",
+       "title-note": "part 4 of 4",
+       "note": "Author is Samuel Hopkins Adams writing under a pseudonym.",
+       "author": {
+         "authorized": "Fabian, Warner, 1871-1958",
+         "lcna": "no2018084094"
+       }
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2020-12-06"
+}

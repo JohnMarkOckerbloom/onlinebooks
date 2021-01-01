@@ -1,0 +1,31 @@
+{
+   "title": "Land Economics",
+   "contents": [
+      {"url": "https://www.jstor.org/journal/landeconomics",
+       "note": "JSTOR (full text also available for subscription or payment)"}
+   ],
+   "preceded-by":
+      [{"id": "jlandpue",
+        "note": "The Journal of Land and Public Utility Economics"}],
+   "first-issue": {"issue-date": "1948-02", "volume": "24", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce+database",
+   "first-renewed-contribution": 
+      {"issue": {"issue-date": "1954-11", "volume": "30", "number": "4"}},
+   "first-renewed-contribution-source": "database",
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+      {"issue": {"issue-date": "1954-11", "volume": "30", "number": "4"},
+        "title": "The St. Lawrence Seaway and Power Project",
+        "author": {
+         "authorized": "Glaeser, Martin G. (Martin Gustav)",
+         "lcna": "no96060693"
+        }
+      }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2020-12-21"
+}

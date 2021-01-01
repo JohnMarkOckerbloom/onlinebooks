@@ -13,6 +13,9 @@ use OLBP::SubmissionPool;
 my $cinfodir = "/home/LIBRARY/ockerblo/digital/nonpublic/bookdb/cinfo";
 my $pooldir  = "/home/LIBRARY/ockerblo/digital/nonpublic/submissions/";
 my $bfdir    = "backfile";
+my $serialdir= "serials";
+
+my $serialscript = "https://onlinebooks.library.upenn.edu/webbin/serial";
 
 my %ADJECTIVE = (
  "Argentina" => "an Argentinian",
@@ -51,6 +54,7 @@ my %ADJECTIVE = (
  "Portugal" => "a Portuguese",
  "Russia" => "a Russian",
  "Scotland" => "a Scottish",
+ "Slovakia" => "a Slovakian",
  "South Africa" => "a South African",
  "Spain" => "a Spanish",
  "Sweden" => "a Swedish",
@@ -139,14 +143,54 @@ sub countrynote {
     $origin = "$ADJECTIVE{$country} publication";
   }
   return undef if (!$origin);
+  if ($country eq "Iran") {
+     return "This is $origin. As of when this entry was last updated, the United States has no copyright relations with them, so publications originating there do not have copyright protection in the US. The US copyright status of this journal may change if they establish copyright relations with the US, either directly or via treaties like the Berne Convention."
+  }
   return "This is $origin. Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US.";
 }
 
-sub makejson {
-  my ($issn, $rights, $toc) = @_;
+sub makesubmissionrec {
+  my ($issn) = @_;
   my $submission = getsubmission($issn);
   die "Could not find submission for $issn" if (!$submission);
-  my $rec = parse_submission($submission);
+  return parse_submission($submission);
+}
+
+sub makeolbprec {
+  my ($rec, $args) = @_;
+  my $str ="";
+  if ($rec->{EMAIL}) {
+    $str .= "EMAIL $rec->{EMAIL}\n";
+  }
+  $str .= "# Uncomment or remove lines as appropriate\n";
+  my $olbpid = $args->{olbpid};
+  $str .= "REF $serialscript?id=$olbpid partial serial archives\n";
+  $str .= "TITLE $rec->{TITLE}";
+  $str .= qq!
+SDESC *THIS* is/was (briefly describe this serial here)
+SHIST *THIS* began in (put year here). *COPYRIGHT* (It ran until (year) or *TODAY*) (If it succeeded or preceded another title, note it on this line as well. Events described should usually be given in chronological order)
+SREF year-year (Website has *this content*) (repeat lines as needed);
+!;
+  $str .= '# Researcher noted this free content: ' . $rec->{FREESTUFF}; 
+  $str .= qq!
+# SOSC https://....  The *serial's website* has (what it has)
+# SREL https://....  We also list *other title*, (how it relates to this one)
+# LCSUB Library of Congress subject -- One per line
+# LCCN AA2000 .A3  -- put LC call number here
+!;
+  if ($args->{comment}) {
+    if ($args->{comment} ne "none") {
+      $str .= "COMMENT [" . $args->{comment} . " - JMO]\n";
+    }
+  } elsif ($rec->{COMMENT}) {
+    $str .= "COMMENT $rec->{COMMENT}\n";
+  }
+  $str .= "ISSN $rec->{ISSN}\n";
+  return $str;
+}
+
+sub makejson {
+  my ($rec, $rights, $toc) = @_;
   my $str = "{\n";
   my $title = $rec->{TITLE};
   $title =~ s/\.$//;                          # strip final period
@@ -202,17 +246,20 @@ sub writejson {
 
 sub parseargs {
   my $args = {};
-  while (my $arg = shift @ARGV) {
+  while (scalar (@ARGV) > 1) {
+    my $arg = shift @ARGV;
     if ($arg =~ /^\d\d\d\d-\d\d\d[\dX]$/) {
       $args->{issn} = $arg;
-      $args->{olbpid} = shift @ARGV;
-      return $args;
     } elsif ($arg eq "allpd") {
       $args->{rights} = "NoC-US";
     } elsif ($arg eq "allc") {
       $args->{rights} = "InC";
     } elsif ($arg eq "online") {
       $args->{online} = "1";
+    } elsif ($arg eq "norec") {
+      $args->{norec} = 1;
+    } elsif ($arg =~ /comment:(.*)/) {
+      $args->{comment} = $1;
     } elsif ($arg =~ /jstor:(.*)/) {
       $args->{contents}->{url} = 
          "https://www.jstor.org/journal/$1",
@@ -248,10 +295,9 @@ sub parseargs {
          "https://onlinelibrary.wiley.com/loi/$1";
       $args->{contents}->{note} = 
        "Publisher site (full text also available for subscription or payment)";
-    } else {
-      return $args;
     }
   }
+  $args->{olbpid} = shift @ARGV;
   return $args;
 }
 
@@ -262,5 +308,12 @@ if (!$args->{issn} || !$args->{olbpid}) {
 if (!($args->{issn} =~ /^\d\d\d\d-\d\d\d[\dX]$/)) {
   die "Bad ISSN: $args->{issn}\n"
 }
-my $str = makejson($args->{issn}, $args->{rights}, $args->{contents});
+my $rec = makesubmissionrec($args->{issn});
+my $str = makejson($rec, $args->{rights}, $args->{contents});
 writejson($args->{olbpid}, $str);
+if (($rec->{FREESTUFF} && $rec->{FREESTUFF} =~ /\S/) ||
+   ($args->{comment} && $args->{comment} ne "none")) {
+  $str = makeolbprec($rec, $args);
+  my $serialpool = new OLBP::SubmissionPool(dir=>$pooldir, name=>$serialdir);
+  $serialpool->record_submission(string=>$str);
+}
