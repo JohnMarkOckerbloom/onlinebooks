@@ -7,28 +7,14 @@
        "note": "FictionMags"}
    ],
    "first-renewed-issue": 
-      {"issue-date": "1925-02", "cdate": "1925-01-01",
-        "volume": "40", "number": "4"},
-   "first-renewed-issue-source": "1952",
+      {"issue-date": "1926-02", "cdate": "1926-01-01",
+         "volume": "42", "number": "4"},
+   "first-renewed-issue-source": "1953-JanJun",
    "first-renewed-contribution": 
       {"issue": {"issue-date": "1927-03", "volume": "44", "number": "5"}},
    "first-renewed-contribution-source": "1954-JanJun",
    "renewed-issue-completeness": "active/1949",
    "renewed-issues": [
-      {"issue-date": "1925-02", "cdate": "1925-01-01",
-        "volume": "40", "number": "4"},
-      {"issue-date": "1925-03", "volume": "40", "number": "5"},
-      {"issue-date": "1925-04", "volume": "40", "number": "6"},
-      {"issue-date": "1925-05", "volume": "41", "number": "1"},
-      {"issue-date": "1925-06", "volume": "41", "number": "2"},
-      {"issue-date": "1925-07", "volume": "41", "number": "3"},
-      {"issue-date": "1925-08", "volume": "41", "number": "4"},
-      {"issue-date": "1925-09", "volume": "41", "number": "5"},
-      {"issue-date": "1925-10", "volume": "41", "number": "6"},
-      {"issue-date": "1925-11", "volume": "42", "number": "1"},
-      {"issue-date": "1925-12", "volume": "42", "number": "2"},
-      {"issue-date": "1926-01", "cdate": "1925-12-01",
-         "volume": "42", "number": "3"},
       {"issue-date": "1926-02", "cdate": "1926-01-01",
          "volume": "42", "number": "4"},
       {"issue-date": "1926-03", "volume": "42", "number": "5"},
@@ -41,8 +27,10 @@
       {"issue-date": "1926-10", "volume": "43", "number": "6"},
       {"issue-date": "1926-11", "volume": "44", "number": "1"},
       {"issue-date": "1926-12", "volume": "44", "number": "2"},
-      {"issue-date": "1927-01", "volume": "44", "number": "3"},
-      {"issue-date": "1927-02", "volume": "44", "number": "4"},
+      {"issue-date": "1927-01", "volume": "44", "number": "3",
+       "cdate": "1926-12-01"},
+      {"issue-date": "1927-02", "volume": "44", "number": "4",
+       "cdate": "1927-01-01"},
       {"issue-date": "1927-03", "volume": "44", "number": "5"},
       {"issue-date": "1927-04", "volume": "44", "number": "6"},
       {"issue-date": "1927-05", "volume": "45", "number": "1"},
@@ -2018,5 +2006,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-01-05"
+   "last-updated": "2021-01-03"
 }

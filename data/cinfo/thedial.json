@@ -4,53 +4,11 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": 
-      {"issue": {"issue-date": "1925-02"}},
-   "first-renewed-contribution-source": "1952-JulDec",
+      {"issue": {"issue-date": "1927-02"}},
+   "first-renewed-contribution-source": "1954-JanJun",
    "last-issue": {"issue-date": "1929-07-01", "volume": "86", "number": "7"},
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1925-02"},
-        "title": "It Is in Truth a Pretty Toy",
-        "author": {
-         "authorized": "Aiken, Conrad, 1889-1973",
-         "lcna": "n80060447"
-        }
-     },
-     {"issue": {"issue-date": "1925-03"},
-        "title": "Strange Moonlight",
-        "author": {
-         "authorized": "Aiken, Conrad, 1889-1973",
-         "lcna": "n80060447"
-        }
-     },
-     {"issue": {"issue-date": "1925-04"},
-        "title": "The Last Visit",
-        "author": {
-         "authorized": "Aiken, Conrad, 1889-1973",
-         "lcna": "n80060447"
-        }
-     },
-     {"issue": {"issue-date": "1925-04"},
-      "title": "A Meeting South",
-      "author": {
-       "authorized": "Anderson, Sherwood, 1876-1941",
-       "lcna": "n79045519"
-      }
-     },
-     {"issue": {"issue-date": "1925-05"},
-      "title": "Seven Alive",
-      "author": {
-       "authorized": "Anderson, Sherwood, 1876-1941",
-       "lcna": "n79045519"
-      }
-     },
-     {"issue": {"issue-date": "1925-06"},
-        "title": "John Keats",
-        "author": {
-         "authorized": "Aiken, Conrad, 1889-1973",
-         "lcna": "n80060447"
-        }
-     },
      {"issue": {"issue-date": "1927-02"},
         "title": "Blue Morning",
         "author": {
@@ -133,5 +91,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-01-25"
+   "last-updated": "2021-01-14"
 }

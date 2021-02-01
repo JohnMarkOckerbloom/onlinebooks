@@ -19,6 +19,23 @@
    ],
    "first-renewed-issue": {"issue-date": "1927-07"},
    "first-renewed-issue-source": "1954-JulDec",
+   "renewed-issue-completeness": "active/1927",
+   "renewed-issues": [
+    {"issue-date": "1927-07"},
+    {"issue-date": "1927-August-September"},
+    {"issue-date": "1927-October-November"},
+    {"issue-date": "December 1927 - January 1928", "cdate": "1927-10-25",
+     "volume": "3", "number": "2"},
+    {"issue-date": "1928-February-March", "cdate": "1927-12-01",
+     "volume": "3", "number": "3"},
+    {"issue-date": "1928-April-May", "cdate": "1928-02-25",
+     "volume": "3", "number": "4"},
+    {"issue-date": "1928-June-July", "volume": "3", "number": "5"},
+    {"issue-date": "1928-August-September", "volume": "3", "number": "6"},
+    {"issue-date": "1928-October-November", "volume": "4", "number": "1"},
+    {"issue-date": "December 1928 - January 1929", "cdate": "1928-10-25",
+     "volume": "4", "number": "2"}
+   ],
    "additional-note": "Some issue renewals were filed under Periodicals, and others under Books.  Library coverage of this serial is spotty, but issue dates in the renewal records suggest that Vogue Patterns and Vogue Patterns Catalog[ue] are the same monthly publication, distinct from Vogue Mid-Month Collection, Vogue Patterns of the Month, and Children's Vogue Patterns. I am not sure if Vogue Pattern Book started out distinct from this publication or as a separate publication, but the first renewed issue of Vogue Pattern Book is after July 1927.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",

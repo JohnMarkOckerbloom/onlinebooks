@@ -1,13 +1,60 @@
 {
    "title": "The Minnesota Review",
-   "online": "1",
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "database",
    "first-renewed-contribution": {"issue": {"issue-date": "1960-Fall"}},
    "first-renewed-contribution-source": "database",
+   "first-autorenewed-issue":
+      {"issue-date": "1964-Winter", "volume": "4", "number": "2"},
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1960-Fall"},
+      "title": "Fragment",
+      "title-note": "As for Him Who Finds Fault",
+      "author": {
+         "authorized": "Williams, William Carlos, 1883-1963",
+         "lcna": "n79060075"
+      }
+     },
+     {"issue": {"issue-date": "1961-Spring"},
+      "title": "A Visit with William Carlos Williams; Interview",
+      "author": {
+         "authorized": "Williams, William Carlos, 1883-1963",
+         "lcna": "n79060075"
+      }
+     },
+     {"issue": {"issue-date": "1961-Summer"},
+      "title": "A Photograph",
+      "author": {
+         "authorized": "Vliet, R. G., 1929-1984",
+         "lcna": "n79133231"
+      }
+     },
+     {"issue": {"issue-date": "1962-Winter"},
+      "title": "Compassion Flower",
+      "author": {
+       "authorized": "Weales, Gerald Clifford, 1925-",
+       "lcna": "n50023757"
+      }
+     },
+     {"issue": {"issue-date": "1962-Summer"},
+      "title": "Cycle. Three Indians",
+      "author": {
+         "authorized": "Cuomo, George",
+         "lcna": "n50018752"
+      }
+     },
+     {"issue": {"issue-date": "1963-Winter"},
+      "title": "If We Sang in the Wood",
+      "author": {
+         "authorized": "Berryman, John, 1914-1972",
+         "lcna": "n79142591"
+      }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-06-05"
+   "last-updated": "2021-01-14"
 }

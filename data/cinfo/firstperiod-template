@@ -28,8 +28,8 @@ domain and copyrighted periodical content.
 <p>
 The list below should include all of the more than 1000
 periodicals with renewed issue or contribution copyrights
-(for 1925-1950 issues) between
-1952 and 1977, as well as selected periodicals
+(for 1926-1950 issues) between
+1953 and 1977, as well as selected periodicals
 with renewals filed between 1978 and 1992,
 or that do not have active copyright renewals.
 (After 1992, copyright renewal was automatic or no longer required.)
@@ -89,19 +89,20 @@ renewal shown here are necessary under copyright as well.
 This compilation was made by John Mark Ockerbloom, with assistance from
 Alison Miner and Carly Sewell, based on listings in
 <a href="index.html">the Catalog of Copyright Entries</a>, published 
-by the US Copyright Office.
+by the US Copyright Office.  The list was further expanded by people working
+on the <a href="https://onlinebooks.library.upenn.edu/cce/db/">Deep Backfile Project</a>.
 JSON data files for this compilation can be <a href="https://github.com/JohnMarkOckerbloom/onlinebooks/tree/master/data/cinfo">downloaded from Github</a>.
 We wish to thank the Institute for Museum and Library Services
 for financially supporting the compilation of these listings
 in 2017 and 2018 via a grant to the University of Pennsylvania.
 Further contributions of information are welcome;
 contact the editor (ockerblo<b>(at)</b>pobox.upenn.edu) for information on contributing.
-<!-- Uncomment in 2021 and then update
-Note that as of January 1, 2021, 1925 and earlier copyrights
+<!-- Uncomment the bit below after completing 2022 update
+Note that as of January 1, 2022, 1926 and earlier copyrights
 for periodical content have expired.  We are now in the process 
 of updating these listings
 to reflect the earliest renewals that are still active
-(i.e. those for 1926 and later).
+(i.e. those for 1927 and later).
 -->
 
 
@@ -222,8 +223,12 @@ to reflect the earliest renewals that are still active
 <li> *actahistochem*
 <li> *acthistchemsup*
 <li> *actahistorart*
+<li> *actahishu*
+<li> *actahisrom1959*
 <li> *actahisleopold*
 <li> <cite>Acta Iutlandica</cite>: see ^actajutland^
+<li> *actajuridicahu*
+<li> *actajuridicaza*
 <li> *actajutland*
 <li> *actaling1939*
 <li> *actaling1951*
@@ -422,13 +427,18 @@ to reflect the earliest renewals that are still active
 <li> *aichejnl*
 <li> *aid1961*
 <li> *aidai*
+<li> *ainshamsmedj*
 <li> *ainslees*
 <li> <cite>Ainslee's</cite> (1930s): see ^ainsleesmart^
 <li> *ainsleesmart*
 <li> *airace*
 <li> *airadvent1928*
+<li> *aircrefnews1936*
+<li> *aircheatref*
 <li> *airforce*
 <li> <cite>Air Force and Space Digest</cite>: see ^airforce^
+<li> *airforcetimes*
+<li> *airlawreview*
 <li> *airlife*
 <li> *airpowerh1954*
 <li> *airprogress*
@@ -626,7 +636,7 @@ to reflect the earliest renewals that are still active
 <li> *amjsurgery*
 <li> *amjmedsci*
 <li> *amjvetresch*
-<li> <cite>American Junior Red Cross News</cite>: no issue renewals found in CCE or registered works database; contributions renewed from Feb. 1927; see 1954 Jan-Jun
+<li> *amerjrredcnews*
 <!-- ADD CONTRIBUTION INFO for "no issue renewals" from here down -->
 <li> *amerjurisprudence*
 <li> <cite>American Law Institute Restatement of the Law of Contracts</cite>: volumes renewed from May 6, 1932 (v. 1); see 1959 Jul-Dec
@@ -635,12 +645,13 @@ to reflect the earliest renewals that are still active
 <li> <cite>American Legion Magazine</cite>: see ^americanlegion^
 <li> <cite>American Legion Monthly</cite>: see ^americanlegion^
 <li> <cite>American Legion Weekly</cite>: see ^americanlegion^
+<li> *amlitschol*
 <li> *amlit1929*
 <li> *amluthsurvey*
 <li> *leslieamerican*
 <li> *amagart*
-<li> *amermanagrev*
 <li> *amermaritimcas*
+<li> *amermarketj*
 <li> *amathmonth*
 <li> <cite>American Mathematical Society Bulletin</cite>: see ^bullams^
 <li> <cite>American Mathematical Society Transactions</cite>: see ^transams^
@@ -680,7 +691,6 @@ to reflect the earliest renewals that are still active
 <li> *amersociologicalrev*
 <li> <cite>The American Spectator</cite> (literary periodical, 1932-1937): no issue renewals found in CCE; contributions renewed May, June, September, December 1933; January, February, April, June-August 1934; February and July 1935; see 1960 Jan-Jun
 <li> *americanspeech*
-<li> *americanstandard1924*
 <li> *amerstatistician*
 <li> *amstringteacher*
 <li> *americanunity*
@@ -755,6 +765,8 @@ to reflect the earliest renewals that are still active
 <li> *annales*
 <li> *annalfimath*
 <li> *annalfigeo*
+<li> *annalarchsyr*
+<li> *annalastrophy*
 <li> <cite>Annales d'Histoire &Eacute;conomique et Sociale</cite>: see ^annaleshistss^
 <li> <cite>Annales d'Histoire Sociale</cite>: see ^annaleshistss^
 <li> *annalesgeog*
@@ -818,6 +830,7 @@ to reflect the earliest renewals that are still active
 <li> *metmuseumrept*
 <li> *annreptuneca*
 <li> *dantesocrept*
+<li> *annrepcast1919*
 <li> <cite>Annual Report of the National Association for the Advancement of  Colored People</cite>: see ^naacpannualreport^
 <li> *vtasreport*
 <li> *annrevautopro*
@@ -847,11 +860,12 @@ to reflect the earliest renewals that are still active
 <li> *anthropol1890*
 <li> *anthropanzeig*
 <li> *anthropdelhi*
-<li> *anthrodesser*
-<li> *anthroleaffield*
-<li> *anthrotomw*
 <li> *anthrosocpapmt*
+<li> *anthrodesser*
 <li> *anthrobcmem*
+<li> *anthroleaffield*
+<li> *anthmemofield*
+<li> *anthrotomw*
 <li> *antibiotann*
 <li> *antiochreview*
 <li> *antiques*
@@ -947,13 +961,19 @@ to reflect the earliest renewals that are still active
 <li> *archivesartfr*
 <li> *archinstpaleoh*
 <li> *archpasteurdz*
-<li> *archinstrazi*
+<li> <cite>Archives de l'Institute Razi</cite>: see ^archinstrazi^
 <li> *archphilos1923*
+<li> *archsocirel*
+<li> *archzooexpgen*
+<li> *archlettresmod*
+<li> *archmalcova*
+<li> *archsci1948*
 <li> <cite>Archives of Animal Nutrition</cite>: see ^archivtierer^
 <li> <cite>Archives of Biochemistry</cite>: issues renewed from October 1942 (v. 1 no. 1); see 1969
 <li> <cite>Archives of Nature Conservation and Landscape Research</cite>: see ^archivnaturland^
 <li> *archivesophthalmama*
 <li> *archoralbio*
+<li> *archinstrazi*
 <li> *archivtox*
 <li> *archbibcarmel*
 <li> *archhistpont*
@@ -991,6 +1011,7 @@ to reflect the earliest renewals that are still active
 <li> <cite>Art Institute of Chicago Quarterly</cite>: see ^aicbulletin^
 <li> *artinstruction*
 <li> *amartnews*
+<li> *arthritrheum*
 <li> <cite>Artnews</cite>: see ^amartnews^
 <li> *artsanddecoration*
 <li> *artsmetgraph*
@@ -1007,6 +1028,7 @@ to reflect the earliest renewals that are still active
 <li> *astonishing*
 <li> <cite>Astounding Science Fiction</cite>: see ^astounding^
 <li> *astounding*
+<li> *astronach*
 <li> *athlete1939*
 <li> *constitutiongaatlanta*
 <li> *atlnguardian*
@@ -1016,12 +1038,21 @@ to reflect the earliest renewals that are still active
 <li> *aufbau1934*
 <li> *augustiniana*
 <li> *theauk*
+<li> *australannmed*
+<li> *austjphil*
+<li> *austjpsyphi*
 <li> *anzjobgyn*
 <li> *ausdentalj*
 <li> *austeconpapers*
 <li> *austgeograph*
-<li> *austoutlook*
+<li> *ausjagecon*
 <li> *ausjphysioth*
+<li> *ausjpolhist*
+<li> *ausjsociss*
+<li> *ausjstats*
+<li> *ausocctherj*
+<li> *austoutlook*
+<li> *ausvetj*
 <li> *austwomenswk*
 <li> *austjearth*
 <li> *authorsleaguebulletin*
@@ -1057,7 +1088,9 @@ to reflect the earliest renewals that are still active
 <li> *ballyhoo*
 <li> *baltica1963*
 <li> <cite>Baltimore Afro-American</cite>: see ^afroamerican^
+<li> *baltbulledu*
 <li> *baltimoreevesun*
+<li> *baltjewishtms*
 <li> *baltimoresun*
 <li> <cite>Baltimore Sunday Sun</cite>: see ^baltimoresun^
 <li> <cite>Banner and Reformer</cite>: see ^bannervtbenn^
@@ -1139,6 +1172,12 @@ to reflect the earliest renewals that are still active
 <li> *berichtausoly*
 <li> *berbayerbotflor*
 <li> *dcgberichte*
+<li> *berschwbot*
+<li> *berdewetter*
+<li> *bergeobotrubel*
+<li> *bersleipmathsci*
+<li> *berbibgiessen*
+<li> *berdelandesk*
 <li> <cite>Berlin Vossische Zeitung</cite>: see ^vosszeit^
 <li> *berlinillzeit*
 <li> *berlinmorgen*
@@ -1179,6 +1218,10 @@ to reflect the earliest renewals that are still active
 <li> *biochemphysrc*
 <li> *biochempharm*
 <li> *biochemistry*
+<li> *biochimphysact*
+<li> *biochimpaenz*
+<li> *biochimpalip*
+<li> *biochimpanuc*
 <li> *biomemoirsrsl*
 <li> *biologiaplant*
 <li> *biometrics*
@@ -1188,6 +1231,7 @@ to reflect the earliest renewals that are still active
 <li> *biosophicalreview*
 <li> *biotechbioeng*
 <li> *birdlore*
+<li> *birdstudy*
 <li> <cite>Birmingham Age-Herald</cite>: no issue renewals found in CCE or registered works database; one contribution renewed on Feb. 4, 1935; see 1963 Jan-Jun
 <li> <cite>Birmingham Post-Herald</cite>: no issue or contribution renewals found in CCE or registered works database
 <li> *birthcontrolrev*
@@ -1275,6 +1319,7 @@ to reflect the earliest renewals that are still active
 <li> *bullsmithbae*
 <li> *bullannifhs*
 <li> <cite>Bulletin Canadien de G&eacute;ophysique</cite>: see ^cdngeophysbul^
+<li> <cite>Bulletin de la Soci&eacute;t&eacute; Botanique Suisse</cite>: see ^berschwbot^
 <li> *bullpaulclaudel*
 <li> *bulltheoancmed*
 <li> *bullgrapharts*
@@ -1325,6 +1370,7 @@ to reflect the earliest renewals that are still active
 <li> <cite>Burlington Hawk-Eye Gazette</cite>: see ^hawkeyeiaburl^
 <li> *busgovtrev*
 <li> *busnsgirl1945*
+<li> *businesshis1958*
 <li> *bushistrev*
 <li> <cite>The Butte Miner</cite>: no issue renewals found in CCE
 <li> *buzsawyer*
@@ -1409,6 +1455,7 @@ to reflect the earliest renewals that are still active
 <li> *cdnpsychasnj*
 <li> *cdnpublicadmin*
 <li> *cdnpubhealthj*
+<li> *cdnslavonicp*
 <li> *cdnyrbkilaw*
 <li> *cancer1948*
 <li> *cancerbulletin*
@@ -1477,7 +1524,6 @@ to reflect the earliest renewals that are still active
 <li> *chattanoogatimes*
 <li> <cite>Cheers</cite>: issues renewed from Winter 1946 (no. 13); see 1977 Jul-Dec
 <li> *chemicalabstracts*
-<li> *chemageus*
 <li> *chemengnews*
 <li> *chemformulary*
 <li> *chemicalreviews*
@@ -1490,7 +1536,7 @@ to reflect the earliest renewals that are still active
 <li> *cheyennerec1913*
 <li> <cite>Chic Young's Blondie in Scapegoat, Love Conquers All, Let's Face It, and On Our Own</cite>: Issues renewed from 1950; see 1977 Jul-Dec
 <li> *dailynewsilchicago*
-<li> <cite>Chicago Daily News and Chicago Daily Journal</cite>: see <cite>Chicago Daily News</cite>
+<li> <cite>Chicago Daily News and Chicago Daily Journal</cite>: see ^dailynewsilchicago^
 <li> *dailytimesilchi*
 <li> <cite>Chicago Daily Tribune</cite>: see ^chicagotribune^
 <li> *chicagodefender*
@@ -1532,10 +1578,12 @@ to reflect the earliest renewals that are still active
 <li> *christianscibible*
 <li> *christianscijnl*
 <li> *csmonitor*
+<li> <cite>Christian Science Monitor Index</cite>: see ^indexcsm^
 <li> *christiansciqtly*
 <li> <cite>Christian Science Sentinel</cite>: issues renewed from February 1, 1941 (v. 43 no. 22); see 1969; contributions renewed from May 9, 1936; see 1964 Jan-Jun
 <li> *christntycrisis*
 <li> *christianitytoday*
+<li> *christlbot*
 <li> *christmashelper*
 <li> *xmasprogrambuilder*
 <li> *chromosoma*
@@ -1662,6 +1710,7 @@ to reflect the earliest renewals that are still active
 <li> <cite>Communications on the Science and Practice of Brewing</cite>: issues renewed from December 1937 (v. 1 no. 1); see 1965
 <li> *communistmonthly*
 <li> *comoediaparis1907*
+<li> *compstusochis*
 <li> *compendamergen*
 <li> *completeadvnvlt*
 <li> *completebaseball*
@@ -1753,10 +1802,11 @@ to reflect the earliest renewals that are still active
 <li> *curbiblioafrica*
 <li> <cite>Cupid</cite>: issues renewed from December 1949 (v. 1 no. 1); see 1977 Jul-Dec
 <li> *currentcon1935*
-<li> <cite>Current Digest</cite>: see <cite>American Digest</cite>
+<li> *currentdigest*
 <li> *currenthistory*
 <li> <cite>Current History and Forum</cite>: see <cite>Current History</cite>, <cite>Forum</cite>
 <li> *currentopinion*
+<li> *curresanesal*
 <li> *curtis*
 </ul>
 <h2 id="D"><b>D</b></h2>
@@ -1792,7 +1842,6 @@ to reflect the earliest renewals that are still active
 <li> *damede1912*
 <li> <cite>The Dance</cite>: see ^dance1925^
 <li> *danceindex*
-<li> *dancelovers*
 <li> *dance1925*
 <li> *dandycomics*
 <li> *dangertrail1933*
@@ -1847,7 +1896,6 @@ to reflect the earliest renewals that are still active
 <li> *thedial*
 <li> *diamondback*
 <li> *diarioprensa*
-<li> *digestdecuscts*
 <li> *digestdeckycts*
 <li> *digestdecmocts*
 <li> *dimeadventure*
@@ -2036,6 +2084,7 @@ to reflect the earliest renewals that are still active
 <li> *epistle1934*
 <li> *epoch1947*
 <li> *enqmagcincinnati*
+<li> *eriu*
 <li> *eros1962*
 <li> *esquire*
 <li> <cite>Esquire's Apparel Arts</cite>: see ^apparelarts^
@@ -2079,6 +2128,8 @@ to reflect the earliest renewals that are still active
 <li> *etudesphilos*
 <li> *etudrabelais*
 <li> *etudesrhodan*
+<li> *etudesrurales*
+<li> *etudesstatbe*
 <li> *eugenicalnews*
 <li> *eugenicsqtly*
 <li> *eugenicsrev*
@@ -2125,6 +2176,7 @@ to reflect the earliest renewals that are still active
 <ul>
 <li> *fbidetective*
 <li> *fabricsfashions*
+<li> *nysefactbook*
 <li> *factsadnatgeo*
 <li> *factsforwomen*
 <li> <cite>Faithful</cite>: "consult copyright office"; see 1977 Jan-Jun; first cataloged renewal for November 1949 (v. 1 no. 1) in 1977 Jul-Dec
@@ -2168,7 +2220,6 @@ to reflect the earliest renewals that are still active
 <li> <cite>Felix the Cat</cite>: issues renewed from February-March 1948 (v. 1 no. 1); see 1975
 <li> *fennia*
 <li> *fibrecontainers*
-<li> <cite>Fiction Lovers Magazine</cite>: see ^fictionlovers^
 <li> *ficparade*
 <li> <cite>Fiction Parade and Golden Book</cite>: see ^ficparadegolden^
 <li> *ficparadegolden*
@@ -2192,7 +2243,10 @@ to reflect the earliest renewals that are still active
 <li> *finanalystjnl*
 <li> *firecasual*
 <li> *firereschabs*
+<li> *firmchemind*
 <li> <cite>The 1st Casualty</cite>: see ^veteranvvaw^
+<li> *firststage1961*
+<li> *fishbullca*
 <li> <cite>Five Detective Mystery Novels Magazine</cite>: see ^5detectivenovels^
 <li> *5detectivenovels*
 <li> <cite>Five Novels Magazine</cite>: see ^5novels^
@@ -2429,11 +2483,11 @@ to reflect the earliest renewals that are still active
 <li> *healstatusnhsa*
 <li> *healstatusnhsb*
 <li> *healstatusnhsd*
-<li> *hearsts*
-<li> <cite>Hearst's International and Cosmopolitan Magazine</cite>: see ^hearsts^, ^cosmopolitan^
-<li> <cite>Hearst's Magazine</cite>: see ^hearsts^
+<li> <cite>Hearst's International and Cosmopolitan Magazine</cite>: see ^cosmopolitan^
 <li> *heatingvent*
 <li> *heatingpipingac*
+<li> *heatoncomhbkca*
+<li> *hebbeljahrbuch*
 <li> <cite>Hedy Devine Comics</cite>: "consult copyright office"; see 1975; first cataloged renewal for August 1947 (v. 1 no. 22) recorded in 1977 Jul-Dec
 <li> <cite>Hedy of Hollywood Comics</cite>: see <cite>Hedy Devine Comics</cite>
 <li> *hegelstudien*
@@ -2490,6 +2544,8 @@ to reflect the earliest renewals that are still active
 <li> *hno1947*
 <li> *hotoseiji*
 <li> *hoardsdairy*
+<li> *hobartpaper*
+<li> *hobbies1920*
 <li> *holiday*
 <li> *hollands*
 <li> <cite>Holland's: The Magazine of the South</cite>: see ^hollands^
@@ -2607,6 +2663,8 @@ to reflect the earliest renewals that are still active
 <li> *indexprocesc*
 <li> *indexprocgaun*
 <li> *indexpubironst*
+<li> *indexcsm*
+<li> *indextimeslond*
 <li> *indiaqtly*
 <li> *indjpediatrics*
 <li> *inmedgazette*
@@ -2635,8 +2693,10 @@ to reflect the earliest renewals that are still active
 <li> *intabssurg*
 <li> <cite>International Abstracts of Surgery</cite>: see ^intabssurg^
 <li> *intlaffairs*
+<li> *intanesclinics*
+<li> <cite>International Anesthesology Clinics</cite>: see ^intanesclinics^
 <li> *intlcomics*
-<li> <cite>International-Cosmopolitan</cite>: see ^hearsts^, ^cosmopolitan^
+<li> <cite>International-Cosmopolitan</cite>: see ^cosmopolitan^
 <li> <cite>International Index</cite>: see ^intindex^
 <li> *intindex*
 <li> *ijamericanling*
@@ -2644,8 +2704,10 @@ to reflect the earliest renewals that are still active
 <li> <cite>International Journal of Individual Psychology</cite>: issues renewed from 1st Quarter 1935 (v. 1 no. 1); see 1963 Jan-Jun
 <li> *intjsexeconomyorgone*
 <li> *intlabourrev*
+<li> *intlegalmatls*
 <li> *intmusician*
 <li> <cite>The International Negro Workers' Review</cite>: see ^negroworker^
+<li> *intlorganiz*
 <li> *intphotog*
 <li> <cite>International Police Chronicle</cite>: see ^chronintpolice^
 <li> *intrevsochis*
@@ -2673,6 +2735,7 @@ to reflect the earliest renewals that are still active
 <li> <cite>Jacobs' Orchestra Monthly and the Cadenza</cite>: see ^jacobsorch^
 <li> *jailassnj*
 <li> <cite>JAMA</cite>: see ^jama^
+<li> *janefightship*
 <li> *jeaniecomics*
 <li> *jednotafcs*
 <li> <cite>Jersey Journal</cite> (Jersey City, NJ): no issue renewals found in CCE or registered works database; contributions renewed from Feb. 9, 1929; see 1956 Jul-Dec
@@ -2694,7 +2757,7 @@ to reflect the earliest renewals that are still active
 <li> <cite>Joker</cite> see <cite>Joker Magazine</cite>
 <li> <cite>Joker Comics</cite>: "consult copyright office"; see 1969; first cataloged renewal for April 1942 (v. 1 no. 1) recorded in 1977 Jul-Dec
 <li> <cite>Joker Magazine</cite>: "consult copyright office"; see 1975; first cataloged renewal for Summer 1946 (v. 2 no. 1) recorded in 1977 Jul-Dec, but see also renewal for "v. 1 no 16" (Winter 1949) in 1978; see also <cite>Joker Comics</cite> (same?)
-<li> <cite>Joseph System Service</cite>: issues renewed from March 1926 (v. 1 no. 1); see 1954 Jul-Dec
+<li> *josephsyssvc*
 <li> <cite>Le Journal</cite> (Paris): see <cite>Paris Journal</cite>
 <li> <cite>Journal Every Evening</cite> (Wilmington, DE): no issue renewals found in CCE or registered works database; contributions renewed from Feb. 13, 1936; see 1963 Jan-Jun
 <li> <cite>Le Journal M&eacute;dical Libanais</cite>: see ^lebanesemedj^
@@ -2818,6 +2881,7 @@ to reflect the earliest renewals that are still active
 <li> *jelectronmicro*
 <li> *jembryoexpm*
 <li> *jenginedu*
+<li> *jengindustry*
 <li> *jenginpower*
 <li> *jenginpsych*
 <li> *jenggermphil*
@@ -2889,12 +2953,23 @@ to reflect the earliest renewals that are still active
 <li> *jlipidresch*
 <li> *jlocaladminover*
 <li> *jmammalogy*
+<li> *jmarketing*
 <li> *jmathanalyapp*
+<li> *jmathmech*
+<li> *jmathosaka*
+<li> *jmathetics*
+<li> *jmechengsci*
 <li> *jmedicinalpharmchem*
-<li> <cite>Journal of Medicinal Chemistry</cite>: see ^jmedicinalpharmchem^
+<li> *jmedicchem*
+<li> *jmentaldefres*
 <li> *jmentalsci*
 <li> *jmetabres*
+<li> *jmicrobepiimm*
+<li> *jmilkfoodtech*
+<li> *jmisshistory*
+<li> *jmodafricstu*
 <li> *jmodernhistory*
+<li> *jmolecularbio*
 <li> *jneareasternstudies*
 <li> *jnegroeducation*
 <li> *jnegrohistory*
@@ -2920,11 +2995,11 @@ to reflect the earliest renewals that are still active
 <li> *garmnencampment*
 <li> *jpsychology*
 <li> *jradiationres*
+<li> *jratmecanl*
 <li> *jreligion*
 <li> *jrelighealth*
 <li> *jreschmusiced*
 <li> *jromanstudies*
-<li> <cite>The Journal of Social Forces</cite>: see ^socialforces^
 <li> *jsocialpsych*
 <li> *jsouthernhist*
 <li> *jsymboliclogic*
@@ -2954,6 +3029,7 @@ to reflect the earliest renewals that are still active
 <li> *garksencampment*
 <li> <cite>Journal of the Anthropological Society of Nippon</cite>: see ^kokogakuzasshi^
 <li> *jarnoldarbor*
+<li> *jasiatbengal*
 <li> <cite>Journal of the Association for Computing Machinery</cite>: see ^jacm^
 <li> <cite>Journal of the British Institute of International Affairs</cite>: see ^intlaffairs^
 <li> *jcdnlinga*
@@ -3054,6 +3130,7 @@ to reflect the earliest renewals that are still active
 <li> *kiwanismag*
 <li> <cite>Kirkus Reviews</cite>: no issue renewals found in CCE or in registered works database
 <li> <cite>Kitchen-Klatter Magazine</cite>: issues renewed from Dec. 1937 (v. 2 no. 6); see 1965
+<li> *klinwoch1922*
 <li> *kttemplar1955*
 <li> <cite>Knights of Columbus</cite>: see ^columbiakofc^
 <li> *knockout1937*
@@ -3061,6 +3138,9 @@ to reflect the earliest renewals that are still active
 <li> *koinonia*
 <li> *kokka*
 <li> *kokogakuzasshi*
+<li> *kokubun*
+<li> *kokukaikan*
+<li> *kokukaikyoken*
 <li> *komickartoons*
 <li> <cite>Krazy Comics</cite>: see ^krazykomics^
 <li> *krazykomics*
@@ -3094,7 +3174,6 @@ to reflect the earliest renewals that are still active
 <li> *leadingcomics*
 <li> *leadingdetectivecases*
 <li> <cite>Leading Screen Comics</cite>: see ^leadingcomics^
-<li> *leaguecomposersrev*
 <li> *leavebinky*
 <li> *lebanesemedj*
 <li> <cite>Leisure</cite>: no issue renewals found in CCE; contributions renewed from March 1935; see 1962 Jul-Dec
@@ -3201,7 +3280,6 @@ to reflect the earliest renewals that are still active
 <li> *maatstaf*
 <li> *mabsweekly*
 <li> *mabua1963*
-<li> *fictionlovers*
 <li> *machinist*
 <li> *macleans*
 <li> *macontelegraphnews*
@@ -3347,6 +3425,8 @@ to reflect the earliest renewals that are still active
 <li> *memrealtorino*
 <li> *memsocastroit*
 <li> *memdescgeoit*
+<li> *membiogeoadr*
+<li> *memcartgeoit*
 <li> <cite>Memphis Commercial Appeal</cite>: see ^commercialappealtnmem^
 <li> *menwomenhi*
 <li> <cite>Men of Hawaii</cite>: see ^menwomenhi^
@@ -3380,7 +3460,7 @@ to reflect the earliest renewals that are still active
 <li> <cite>Mighty Mouse</cite>: see <cite>Mighty Mouse Comics</cite>
 <li> <cite>Mighty Mouse Comics</cite>: issues renewed from Fall 1946 (v. 1 no. 1); see 1974
 <li> *militant*
-<li> <cite>The Military Engineer</cite>: issues renewed from Mar-Apr 1926 (v. 18 no. 98); see 1954 Jan-Jun
+<li> *militaryengr*
 <li> <cite>Millie the Model Comics</cite>: "consult copyright office"; see 1973; first cataloged renewal for 1945 (v. 1 no. 1) in 1977 Jul-Dec
 <li> *journalwimilwaukee*
 <li> *mlwsentinel*
@@ -3516,6 +3596,7 @@ to reflect the earliest renewals that are still active
 <li> <cite>National Geographic Travel Urge</cite>: issues renewed from Fall 1934; see 1962 Jan-Jun
 <li> *natlhortmag*
 <li> *natljewishmonthly*
+<li> *natlmktrev*
 <li> *natmunicrev*
 <li> *natlparentteacher*
 <li> *natradionews*
@@ -3668,7 +3749,6 @@ to reflect the earliest renewals that are still active
 <li> *northernvadaily*
 <li> *nwarktimes*
 <li> *nwdentistry*
-<li> *nwjoptometry*
 <li> *nwleader*
 <li> *nwmostatecolst*
 <li> *northwestrev*
@@ -3720,7 +3800,6 @@ to reflect the earliest renewals that are still active
 <li> <cite>Ontario Historical Society Papers and Records</cite>: see ^papersrecon^
 <li> *onthistory*
 <li> *opencourt*
-<li> *openroad1919*
 <li> *openroadforboys*
 <li> *operanews*
 <li> <cite>Operator No. 5</cite>: issues renewed from Nov. 1934 (v. 2 no. 4); see 1961 Jul-Dec
@@ -3733,11 +3812,13 @@ to reflect the earliest renewals that are still active
 <li> *organportfolio*
 <li> *organicreactions*
 <li> *organicsyntheses*
+<li> *orgsynthcol*
 <li> *organistlorenz*
 <li> *orgoneenergy*
 <li> <cite>Orgone Institute Annals</cite>: see ^annalsorgone^
 <li> <cite>Oriental Archive</cite>: see ^archivorient^
 <li> *orientalstories*
+<li> *osakamathj*
 <li> <cite>Oscar Comics</cite>: "consult copyright office"; see 1975; first cataloged renewal for Spring 1947 (v. 1 no. 24) in 1977 Jul-Dec
 <li> *ostervilletimes*
 <li> *otherworlds*
@@ -3805,7 +3886,6 @@ to reflect the earliest renewals that are still active
 <li> *pearsonsuk*
 <li> *pearsonsusa*
 <li> *pearsonsweekly*
-<li> *pedseminary*
 <li> *pedseminaryjgp*
 <li> *pencilpoints*
 <li> *padutchman*
@@ -3938,7 +4018,6 @@ to reflect the earliest renewals that are still active
 <li> *premierplan*
 <li> *prensanyc1913*
 <li> *prensasanantonio*
-<li> *presby1831*
 <li> *presbyterianjnl*
 <li> *presbyterianlife*
 <li> *presbysouth*
@@ -4004,6 +4083,7 @@ to reflect the earliest renewals that are still active
 <li> *alcproceedings*
 <li> <cite>Proceedings of the ASIL Annual Meeting</cite>: see ^procasil^
 <li> *charakaclubp*
+<li> *prochems1957*
 <li> *procentomsocwash*
 <li> *procmasonnc*
 <li> <cite>Proceedings of the IRE</cite>: see <cite>Institute of Radio Engineers Proceedings</cite>
@@ -4071,6 +4151,7 @@ to reflect the earliest renewals that are still active
 <li> <cite>Quarterly Journal of the University of North Dakota</a>: see ^ndquarterly^
 <li> *qtlyfilmradiotv*
 <li> <cite>The Quarterly of the Oregon Historical Society</cite>: see ^orhisqtly^
+<li> *qtlyrevbio*
 <li> *quarterlyrevlit*
 <li> *queensqtly*
 <li> *queensgardens*
@@ -4190,7 +4271,6 @@ to reflect the earliest renewals that are still active
 <li> *reviewofpolitics*
 <li> <cite>Review of Reviews</cite> (American edition): see ^amrevrevs^
 <li> <cite>Review of Reviews and World's Work</cite>: see ^amrevrevs^
-<li> *reviewer1921*
 <li> <cite>Revista Hisp&aacute;nica de la Universidad de Duquesne</cite>: see ^duqhispanicrev^
 <li> <cite>Revue Canadienne d'Ergoth&eacute;rapie</cite>: see ^cdnjoccupther^
 <li> <cite>Revue Canadienne de Criminologie</cite>: see ^cdnjcorrections^
@@ -4482,7 +4562,6 @@ to reflect the earliest renewals that are still active
 <li> *strangetales31*
 <li> <cite>Strange Tales of Mystery and Terror</cite>: see ^strangetales31^
 <li> *stratfordmag*
-<li> *stratfordmnth*
 <li> <cite>Street &amp; Smith's Air Trails</cite>: see ^airtrails1928^
 <li> *sandsallstarsports*
 <li> <cite>Street &amp; Smith's Best Detective Magazine</cite>: see ^bestdetectivemag^
@@ -4593,7 +4672,6 @@ to reflect the earliest renewals that are still active
 <li> <cite>'Teens</cite>: "consult copyright office"; see 1969; first cataloged renewal for Febuary 1940 (v. 2 no. 2) in 1977 Jul-Dec; related to <cite>Teens</cite>?
 <li> <cite>Television Life</cite>: "consult copyright office"; see 1976 Jul-Dec; first cataloged renewal for January 1949 (v. 1 no. 1) in 1977 Jul-Dec
 <li> *tvnews1931*
-<li> *tellingtales*
 <li> <cite>Temple Law Quarterly</cite>: issues renewed from Feb. 1936 (v. 10 no. 2); see 1963 Jul-Dec
 <li> <cite>Temple University Law Quarterly</cite>: see <cite>Temple Law Quarterly</cite>
 <li> *tendetectiveaces*
@@ -4609,7 +4687,6 @@ to reflect the earliest renewals that are still active
 <li> *tessietypist*
 <li> *texmorgan*
 <li> *textaylor*
-<li> *txswreptrdigest*
 <li> *txbizreview*
 <li> *txcancerbulletin*
 <li> <cite>Texas Decisions Reported in the Southwestern Reporter</cite>: see ^txdecisionswreptr^
@@ -4708,7 +4785,6 @@ to reflect the earliest renewals that are still active
 <li> <cite>Triple-X Western</cite>: see ^triplex^
 <li> *trollopian*
 <li> *true*
-<li> *trueadv1925*
 <li> *trueadventures1950*
 <li> *truecompmyst*
 <li> *trueconfessions*
@@ -4744,6 +4820,7 @@ to reflect the earliest renewals that are still active
 <li> <cite>Two-Gun Western Novels Magazine</cite>: see ^twogunwestern^
 <li> <cite>Two Gun Western Stories</cite>: see ^twogunstories^
 <li> *twowesternbooks*
+<li> *twoworlds1925*
 </ul>
 <h2 id="U"><b>U</b></h2>
 <ul>
@@ -4820,6 +4897,7 @@ to reflect the earliest renewals that are still active
 <li> *vergeorub1924*
 <li> <cite>Ver&ouml;ffentlichungen des Instituts f&uuml;r Lagerst&auml;ttenforschung der T&uuml;rkei</cite>: see ^madentet1958^
 <li> *veroffmusdarm*
+<li> *veroffurfrupots*
 <li> *vskd*
 <li> *veteranvvaw*
 <li> *victoriannewsletter*

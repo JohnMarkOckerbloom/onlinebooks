@@ -5,36 +5,10 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution":
-      {"issue": {"issue-date": "1925-11"}},
+     {"issue": {"issue-date": "1926-02", "cdate": "1926-01-16"}}, 
    "first-renewed-contribution-source": "1953-JanJun",
+   "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1925-11"}, 
-      "title": "Whipped Cream",
-      "title-note": "part 1? of 5?",
-      "note": "Renewal record appears in the Books section of CCE.",
-      "author": {
-       "authorized": "Moss, Geoffrey, 1885-1954",
-       "lcna": "no94037856"
-      }
-     },
-     {"issue": {"issue-date": "1925-12"}, 
-      "title": "Whipped Cream",
-      "title-note": "part 2? of 5?",
-      "note": "Renewal record appears in the Books section of CCE.",
-      "author": {
-       "authorized": "Moss, Geoffrey, 1885-1954",
-       "lcna": "no94037856"
-      }
-     },
-     {"issue": {"issue-date": "1926-01"}, 
-      "title": "Whipped Cream",
-      "title-note": "part 3? of 5?",
-      "note": "Renewal record appears in the Books section of CCE.",
-      "author": {
-       "authorized": "Moss, Geoffrey, 1885-1954",
-       "lcna": "no94037856"
-      }
-     },
      {"issue": {"issue-date": "1926-02"}, 
       "title": "Whipped Cream",
       "title-note": "part 4? of 5?",
@@ -52,6 +26,21 @@
        "authorized": "Moss, Geoffrey, 1885-1954",
        "lcna": "no94037856"
       }
+     },
+     {"issue": {"issue-date": "1926-June-July"}, 
+      "title": "Far End",
+      "note": "It is not clear if this was published in a combined June-July issue, or in two parts in June and July issues.",
+      "author": {
+       "authorized": "Sinclair, May",
+       "lcna": "n50023565"
+      }
+     },
+     {"issue": {"issue-date": "1929-02"}, 
+      "title": "Paying Guests",
+      "author": {
+       "authorized": "Benson, E. F. (Edward Frederic), 1867-1940",
+       "lcna": "n50057239"
+      }
      }
    ],
    "additional-note" : "This is a British publication.  Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US.",
@@ -59,5 +48,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-05-06"
+   "last-updated": "2021-01-28"
 }

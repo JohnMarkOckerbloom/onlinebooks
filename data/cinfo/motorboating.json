@@ -2,33 +2,32 @@
    "title": "Motor Boating",
    "online": "1",
    "first-renewed-issue": 
-     {"issue-date": "1925-01", "volume": "35", "number": "1"},
-   "first-renewed-issue-source": "1952",
-   "first-renewed-contribution": {"issue": {"issue-date": "1957-02"}},
-   "first-renewed-contribution-source": "database",
-   "renewed-issue-completeness": "active/1925",
-   "renewed-issues": [
-     {"issue-date": "1925-01", "volume": "35", "number": "1"},
-     {"issue-date": "1925-02", "volume": "35", "number": "2"},
-     {"issue-date": "1925-03", "volume": "35", "number": "3"},
-     {"issue-date": "1925-04", "volume": "35", "number": "4"},
-     {"issue-date": "1925-05", "volume": "35", "number": "5"},
-     {"issue-date": "1925-06", "volume": "35", "number": "6"},
-     {"issue-date": "1925-07", "volume": "36", "number": "1"},
-     {"issue-date": "1925-08", "volume": "36", "number": "2"},
-     {"issue-date": "1925-09", "volume": "36", "number": "3"},
-     {"issue-date": "1925-10", "volume": "36", "number": "4"},
-     {"issue-date": "1925-11", "volume": "36", "number": "5"},
-     {"issue-date": "1925-12", "volume": "36", "number": "6"},
-     {"issue-date": "1926-01", "volume": "37", "number": "1",
-          "cdate": "1925-12-28"},
      {"issue-date": "1926-02", "volume": "37", "number": "2",
           "cdate": "1926-01-22"},
-     {"issue-date": "1926-03", "volume": "37", "number": "3"}
+   "first-renewed-issue-source": "1953-JulDec",
+   "first-renewed-contribution": {"issue": {"issue-date": "1957-02"}},
+   "first-renewed-contribution-source": "database",
+   "renewed-issue-completeness": "active/1926",
+   "renewed-issues": [
+     {"issue-date": "1926-02", "volume": "37", "number": "2",
+          "cdate": "1926-01-22"},
+     {"issue-date": "1926-03", "volume": "37", "number": "3"},
+     {"issue-date": "1926-04", "volume": "37", "number": "4"},
+     {"issue-date": "1926-05", "volume": "37", "number": "5"},
+     {"issue-date": "1926-06", "volume": "37", "number": "6"},
+     {"issue-date": "1926-07", "volume": "38", "number": "1"},
+     {"issue-date": "1926-08", "volume": "38", "number": "2"},
+     {"issue-date": "1926-09", "volume": "38", "number": "3"},
+     {"issue-date": "1926-10", "volume": "38", "number": "4"},
+     {"issue-date": "1926-11", "volume": "38", "number": "5"},
+     {"issue-date": "1926-12", "volume": "38", "number": "6"},
+     {"issue-date": "1927-01", "volume": "39", "number": "1"},
+     {"issue-date": "1927-02", "volume": "39", "number": "2"},
+     {"issue-date": "1927-03", "volume": "39", "number": "3"}
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-01-09"
+   "last-updated": "2021-01-09"
 }

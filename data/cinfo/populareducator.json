@@ -3,29 +3,21 @@
    "title-note": "American education magazine, 1800s-1926",
    "online": "1",
    "first-renewed-issue": 
-      {"issue-date": "1925-03", "volume": "42", "number": "7"},
-   "first-renewed-issue-source": "1953-JanJun",
+      {"issue-date": "1926-04", "volume": "43", "number": "8"}, 
+   "first-renewed-issue-source": "1954-JanJun",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce",
    "last-issue": {"issue-date": "1926-05", "volume": "43", "number": "9"},
    "succeeded-by": [{"id": "primarypoped", 
       "note": "Primary Education-Popular Educator"}],
-   "renewed-issue-completeness": "active/1925",
+   "renewed-issue-completeness": "active/end",
    "renewed-issues": [
-      {"issue-date": "1925-03", "volume": "42", "number": "7"},
-      {"issue-date": "1925-04", "volume": "42", "number": "8"},
-      {"issue-date": "1925-05", "volume": "42", "number": "9"}, 
-      {"issue-date": "1925-06", "volume": "42", "number": "10"}, 
-      {"issue-date": "1925-09", "volume": "43", "number": "1"}, 
-      {"issue-date": "1925-10", "volume": "43", "number": "2"}, 
-      {"issue-date": "1925-11", "volume": "43", "number": "3"}, 
-      {"issue-date": "1925-12", "volume": "43", "number": "4"}, 
-      {"issue-date": "1926-01", "volume": "43", "number": "5",
-        "cdate": "1925-12-29"}
+      {"issue-date": "1926-04", "volume": "43", "number": "8"}, 
+      {"issue-date": "1926-05", "volume": "43", "number": "9"}
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-01-14"
+   "last-updated": "2021-01-14"
 }

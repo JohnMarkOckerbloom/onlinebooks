@@ -7,15 +7,48 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": 
-      {"issue": {"issue-date": "1925-10"}},
-   "first-renewed-contribution-source": "1952-JulDec",
+      {"issue": {"issue-date": "1928-01"}},
+   "first-renewed-contribution-source": "1955-JanJun",
    "last-issue": {"issue-date": "1931-01", "volume": "23", "number": "1"},
+   "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1925-10"}, 
-      "title": "David Grayson: Adventurer",
+     {"issue": {"issue-date": "1928-01"},
+      "title": "Portrait",
+       "author": {
+         "authorized": "Beach, Rex, 1877-1949",
+         "lcna": "n84804866"
+       }
+     },
+     {"issue": {"issue-date": "1930-05"},
+      "title": "The Stalking Horse",
+      "title-note": "part 1 of 4",
       "author": {
-       "authorized": "Dyer, Walter A. (Walter Alden), 1878-1943",
-       "lcna": "nr90004051"
+       "authorized": "Sabatini, Rafael, 1875-1950",
+       "lcna": "n50016255"
+      }
+     },
+     {"issue": {"issue-date": "1930-06"},
+      "title": "The Stalking Horse",
+      "title-note": "part 2 of 4",
+      "author": {
+       "authorized": "Sabatini, Rafael, 1875-1950",
+       "lcna": "n50016255"
+      }
+     },
+     {"issue": {"issue-date": "1930-07"},
+      "title": "The Stalking Horse",
+      "title-note": "part 3 of 4",
+      "author": {
+       "authorized": "Sabatini, Rafael, 1875-1950",
+       "lcna": "n50016255"
+      }
+     },
+     {"issue": {"issue-date": "1930-08"},
+      "title": "The Stalking Horse",
+      "title-note": "part 4 of 4",
+      "author": {
+       "authorized": "Sabatini, Rafael, 1875-1950",
+       "lcna": "n50016255"
       }
      }
    ],
@@ -24,5 +57,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-04-26"
+   "last-updated": "2021-01-27"
 }

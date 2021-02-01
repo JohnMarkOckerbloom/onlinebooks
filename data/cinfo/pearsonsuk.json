@@ -12,43 +12,11 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": 
-      {"issue": {"issue-date": "1925-08", "volume": "60", "number": "356"}},
-   "first-renewed-contribution-source": "1953-JanJun",
+      {"issue": {"issue-date": "1926-05", "volume": "61", "number": "365"}},
+   "first-renewed-contribution-source": "1953-JulDec",
    "last-issue": {"issue-date": "1939-11", "volume": "88", "number": "527"},
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1925-08", "volume": "60", "number": "356"},
-      "title": "The Loyalty of Peter Drayton",
-      "note": "Renewal record appears in the Books section of CCE.",
-      "author": {
-       "authorized": "McNeile, H. C. (Herman Cyril), 1888-1937",
-       "lcna": "no96039399"
-      }
-     },
-     {"issue": {"issue-date": "1925-09", "volume": "60", "number": "357"},
-      "title": "The Message",
-      "note": "Renewal record appears in the Books section of CCE. Author name is a pseudonym for H. C. McNeile.",
-      "author": {
-       "authorized": "Sapper, 1888-1937",
-       "lcna": "n85822242"
-      }
-     },
-     {"issue": {"issue-date": "1925-10", "volume": "60", "number": "358"},
-      "title": "Three of a Kind",
-      "note": "Renewal record appears in the Books section of CCE. Author name is a pseudonym for H. C. McNeile.",
-      "author": {
-       "authorized": "Sapper, 1888-1937",
-       "lcna": "n85822242"
-      }
-     },
-     {"issue": {"issue-date": "1925-11", "volume": "60", "number": "359"},
-      "title": "A Matter of Voice",
-      "note": "Renewal record appears in the Books section of CCE. Author name is a pseudonym for H. C. McNeile.",
-      "author": {
-       "authorized": "Sapper, 1888-1937",
-       "lcna": "n85822242"
-      }
-     },
      {"issue": {"issue-date": "1926-05", "volume": "61", "number": "365"},
       "title": "The Rout of the Oliver Samuelsons",
       "note": "Author name is a pseudonym for H. C. McNeile.",
@@ -183,5 +151,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-01-21"
+   "last-updated": "2021-01-13"
 }

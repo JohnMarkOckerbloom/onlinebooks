@@ -2,13 +2,14 @@
    "title": "Cases Argued and Decided in the Supreme Court of the United States",
    "online": "1",
    "first-renewed-issue":
-      {"issue-date": "1923-October term", "volume": "68", "cdate": "1925-02-05"},
-   "first-renewed-issue-source": "1952",
-   "renewed-issue-completeness": "active/1925",
-   "renewed-issues": [
-      {"issue-date": "1923-October term", "volume": "68", "cdate": "1925-02-05"},
       {"issue-date": "1924-October term", "volume": "69", "cdate": "1926-01-25"},
-      {"issue-date": "1925-October term", "volume": "70", "cdate": "1927-02-07"}
+   "first-renewed-issue-source": "1953-JanJun",
+   "renewed-issue-completeness": "active/1927",
+   "renewed-issues": [
+      {"issue-date": "1924-October term", "volume": "69", "cdate": "1926-01-25"},
+      {"issue-date": "1925-October term", "volume": "70", "cdate": "1927-02-07"},
+      {"issue-date": "1926-October term", "cdate": "1928-01-25"},
+      {"issue-date": "1927-October term", "cdate": "1929-01-21"}
    ],
    "additional-notes": [
     "Rulings and opinions issued by the US Supreme Court are in the public domain.  The publisher may claim copyright on original notes, summaries, and annotations it adds.",
@@ -18,5 +19,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-01-25"
+   "last-updated": "2021-01-02"
 }

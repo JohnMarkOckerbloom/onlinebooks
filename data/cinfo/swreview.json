@@ -1,27 +1,61 @@
 {
    "title": "Southwest Review",
+   "online": "1",
    "contents": [
       {"url": "https://www.jstor.org/journal/southwestreview",
       "note": "JSTOR (full text also available for subscription or payment)"}
    ],
+   "preceded-by": [{"id": "txreview", "note": "The Texas Review"}],
+   "first-issue": {"issue-date": "1924-10", "volume": "10", "number": "1"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1925-07"}},
-   "first-renewed-contribution-source": "1953-JanJun",
+     {"issue": {"issue-date": "1928-01", "volume": "13", "number": "2"}}, 
+   "first-renewed-contribution-source": "1955-JanJun",
+   "renewed-contribution-completeness": "active/1928",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1925-07"}, 
-      "title": "The Man Who Died at Twelve o'Clock",
-      "note": "This is a short story, not the play of the same title by this author.",
+     {"issue": {"issue-date": "1928-01", "volume": "13", "number": "2"}, 
+      "title": "John Caldwell Calhoun",
+      "note": "CCE renewal record puts this article in the January 1928 issue; JSTOR has it in volume 13, number 2 (1927)",
       "author": {
-         "authorized": "Green, Paul, 1894-1981",
-         "lcna": "n79056649"
-       }
+         "authorized": "Bradford, Gamaliel, 1863-1932",
+         "lcna": "n50042916"
+      }
+     },
+     {"issue": {"issue-date": "1928-01", "volume": "13", "number": "2"}, 
+      "title": "John Booth's Pony Express",
+      "note": "Title as given in CCE renewal record. Dobie's main article in this issue is titled 'The Saga of the Saddle'.",
+      "author": {
+       "authorized": "Dobie, J. Frank (James Frank), 1888-1964",
+       "lcna": "n79021385"
+      }
+     },
+     {"issue": {"issue-date": "1928-10", "volume": "14", "number": "1"}, 
+      "title": "The Joker",
+      "author": {
+         "authorized": "Stevenson, Philip, 1896-1965",
+         "lcna": "no2002007736"
+      }
+     },
+     {"issue": {"issue-date": "1929-Spring", "volume": "14", "number": "3"}, 
+      "title": "Prelude to Murder",
+      "author": {
+         "authorized": "Stevenson, Philip, 1896-1965",
+         "lcna": "no2002007736"
+      }
+     },
+     {"issue": {"issue-date": "1929-Autumn", "volume": "15", "number": "1"}, 
+      "title": "Fantasy From New Spain",
+      "author": {
+         "authorized": "Stevenson, Philip, 1896-1965",
+         "lcna": "no2002007736"
+      }
      }
    ],
+   "additional-note": "Issue dates in the CCE renewal records are not always the same as issue dates in the JSTOR contents listings.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-05-26"
+   "last-updated": "2021-01-16"
 }

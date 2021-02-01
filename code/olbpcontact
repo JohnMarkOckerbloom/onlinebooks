@@ -566,6 +566,7 @@ sub badlinkform {
   makereplypart($q, $badlinkparams);
 }
 
+
 # if there's 4 or more hrefs in a comment, it's a good sign it's spam
 
 sub spamcomment {
@@ -607,6 +608,18 @@ sub spambadlink {
     $str = $1;
     $spamcount += 1;
     return 1 if ($spamcount == $SPAMLIMIT);
+  }
+  return 0;
+}
+
+# if it's a bad-link report on an extended shelves book
+# but has no title, and a comment with an http or a .com in it, 
+# it's probably spam
+
+sub spamsolicitation {
+  my ($ref, $title, $comments) = @_;
+  if (!$title && $ref =~ /key=[a-np-z]/ && ($comments =~ /http|\.com/)) {
+    return 1;
   }
   return 0;
 }
@@ -667,7 +680,8 @@ sub analyze_form {
       $str .= uc($field) . " " . _stripspace($q->param($field), 1)  . "\n";
     }
   }
-  if (spamcomment($comments) || spambadlink($ref, $wref, $comments)
+  if (spamcomment($comments) || spambadlink($ref, $wref, $comments) ||
+      spamsolicitation($ref, $title, $comments)
       || $email =~ /\@email.tst/
       || $email =~ /cergplwqx/
       || $email =~ /explainthebusiness/

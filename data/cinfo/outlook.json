@@ -8,24 +8,10 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution":
-      {"issue": {"issue-date": "1925-01-28"}},
-   "first-renewed-contribution-source": "1952-JanJun",
+     {"issue": {"issue-date": "1929-02-13"}},
+   "first-renewed-contribution-source": "1956-JulDec",
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1925-01-28"}, 
-      "title": "The Swamp in Spate",
-      "author": {
-       "authorized": "Rutledge, Archibald, 1883-1973",
-       "lcna": "n50031762"
-      }
-     },
-     {"issue": {"issue-date": "1925-11-11"}, 
-      "title": "Wild Brother Reconnoiters",
-      "author": {
-       "authorized": "Rutledge, Archibald, 1883-1973",
-       "lcna": "n50031762"
-      }
-     },
      {"issue": {"issue-date": "1929-02-13"},
       "title": "Let's Go Somewhere",
       "author": {
@@ -267,5 +253,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-01-21"
+   "last-updated": "2021-01-13"
 }

@@ -4,184 +4,32 @@
    "online": "1",
    "first-issue": {"issue-date": "1867-11-02", "volume": "1", "number": "1"},
    "first-renewed-issue": 
-     {"issue-date": "1925-02", "volume": "60", "number": "2",
-          "cdate": "1925-01-25"},
-   "first-renewed-issue-source": "1952",
-   "first-renewed-contribution": 
-     {"issue": {"issue-date": "1925-02", "volume": "60", "number": "2"}},
-   "first-renewed-contribution-source": "1952-JanJun",
-   "renewed-issue-completeness": "active/1925",
-   "renewed-issues": [
-     {"issue-date": "1925-02", "volume": "60", "number": "2",
-          "cdate": "1925-01-25"},
-     {"issue-date": "1925-03", "volume": "60", "number": "3"},
-     {"issue-date": "1925-04"},
-     {"issue-date": "1925-05"},
-     {"issue-date": "1925-06"},
-     {"issue-date": "1925-07"},
-     {"issue-date": "1925-08"},
-     {"issue-date": "1925-09"},
-     {"issue-date": "1925-10"},
-     {"issue-date": "1925-11"},
-     {"issue-date": "1925-12"},
-     {"issue-date": "1926-01", "cdate": "1925-12-25"},
      {"issue-date": "1926-02", "cdate": "1926-01-25"},
-     {"issue-date": "1926-03"}
+   "first-renewed-issue-source": "1953-JulDec",
+   "first-renewed-contribution": 
+     {"issue": {"issue-date": "1926-02"}}, 
+   "first-renewed-contribution-source": "1953-JanJun",
+   "renewed-issue-completeness": "active/1926",
+   "renewed-issues": [
+     {"issue-date": "1926-02", "cdate": "1926-01-25"},
+     {"issue-date": "1926-03"},
+     {"issue-date": "1926-04", "volume": "60", "number": "4"},
+     {"issue-date": "1926-05", "volume": "60", "number": "5"},
+     {"issue-date": "1926-06", "volume": "60", "number": "6"},
+     {"issue-date": "1926-07", "volume": "60", "number": "7"},
+     {"issue-date": "1926-08", "volume": "60", "number": "8"},
+     {"issue-date": "1926-09", "volume": "60", "number": "9"},
+     {"issue-date": "1926-10", "volume": "60", "number": "10"},
+     {"issue-date": "1926-11", "volume": "60", "number": "11"},
+     {"issue-date": "1926-12", "volume": "60", "number": "12"},
+     {"issue-date": "1927-01", "volume": "61", "number": "1",
+      "cdate": "1926-12-28"},
+     {"issue-date": "1927-02", "volume": "61", "number": "2",
+      "cdate": "1927-01-29"},
+     {"issue-date": "1927-03", "volume": "61", "number": "3"}
    ],
-   "renewed-contribution-completeness": "active/1925",
+   "renewed-contribution-completeness": "active/1926",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1925-02", "volume": "60", "number": "2"},
-      "title": "Spring Flow'rets",
-      "author": {
-         "authorized": "Connell, Richard Edward, 1893-1949",
-         "lcna": "n50028704"
-       }
-     },
-     {"issue": {"issue-date": "1925-03", "volume": "60", "number": "3"}, 
-      "title": "Gentlemen Prefer Blondes",
-      "title-note": "part 1 of 6",
-      "author": {
-       "authorized": "Loos, Anita, 1893-1981",
-       "lcna": "n50043422"
-      }
-     },
-     {"issue": {"issue-date": "1925-04", "volume": "60", "number": "4"}, 
-      "title": "Savage",
-      "author": {
-       "authorized": "Bacon, Josephine Daskam, 1876-1961",
-       "lcna": "n50020293"
-      }
-     },
-     {"issue": {"issue-date": "1925-04", "volume": "60", "number": "4"}, 
-      "title": "Gentlemen Prefer Blondes",
-      "title-note": "part 2 of 6",
-      "author": {
-       "authorized": "Loos, Anita, 1893-1981",
-       "lcna": "n50043422"
-      }
-     },
-     {"issue": {"issue-date": "1925-05", "volume": "60", "number": "5"}, 
-      "title": "Gentlemen Prefer Blondes",
-      "title-note": "part 3 of 6",
-      "author": {
-       "authorized": "Loos, Anita, 1893-1981",
-       "lcna": "n50043422"
-      }
-     },
-     {"issue": {"issue-date": "1925-05", "volume": "60", "number": "5"}, 
-      "title": "Yours Truly Paris",
-      "author": {
-       "authorized": "Weiman, Rita, 1889-1954",
-       "lcna": "n89129751"
-      }
-     },
-     {"issue": {"issue-date": "1925-06", "volume": "60", "number": "6"}, 
-      "title": "A Meeting in Mayfair",
-      "author": {
-       "authorized": "Borden, Mary",
-       "lcna": "n89600063"
-      }
-     },
-     {"issue": {"issue-date": "1925-06", "volume": "60", "number": "6"}, 
-      "title": "Gentlemen Prefer Blondes",
-      "title-note": "part 4 of 6",
-      "author": {
-       "authorized": "Loos, Anita, 1893-1981",
-       "lcna": "n50043422"
-      }
-     },
-     {"issue": {"issue-date": "1925-07", "volume": "60", "number": "7"}, 
-      "title": "Gentlemen Prefer Blondes",
-      "title-note": "part 5 of 6",
-      "author": {
-       "authorized": "Loos, Anita, 1893-1981",
-       "lcna": "n50043422"
-      }
-     },
-     {"issue": {"issue-date": "1925-07", "volume": "60", "number": "7"}, 
-      "title": "Fed Up",
-      "author": {
-       "authorized": "Duganne, Phyllis, 1899-1976",
-       "lcna": "n90719514"
-      }
-     },
-     {"issue": {"issue-date": "1925-08", "volume": "60", "number": "8"}, 
-      "title": "Gentlemen Prefer Blondes",
-      "title-note": "part 6 of 6",
-      "author": {
-       "authorized": "Loos, Anita, 1893-1981",
-       "lcna": "n50043422"
-      }
-     },
-     {"issue": {"issue-date": "1925-09", "volume": "60", "number": "9"}, 
-      "title": "Two From a Chorus",
-      "author": {
-       "authorized": "Duganne, Phyllis, 1899-1976",
-       "lcna": "n90719514"
-      }
-     },
-     {"issue": {"issue-date": "1925-09", "volume": "60", "number": "9"}, 
-      "title": "The Great Pandolfo",
-      "author": {
-       "authorized": "Locke, William John, 1863-1930",
-       "lcna": "n84141474"
-      }
-     },
-     {"issue": {"issue-date": "1925-09", "volume": "60", "number": "9"}, 
-      "title": "The Green Hat",
-      "title-note": "part 1 of 2",
-      "author": {
-         "authorized": "Arlen, Michael, 1895-1956",
-         "lcna": "n50001591"
-       }
-     },
-     {"issue": {"issue-date": "1925-10"}, 
-      "title": "The Green Hat",
-      "title-note": "part 2 of 2",
-      "author": {
-         "authorized": "Arlen, Michael, 1895-1956",
-         "lcna": "n50001591"
-       }
-     },
-     {"issue": {"issue-date": "1925-10"},
-      "title": "Harmer John",
-      "title-note": "part 1 of 4",
-      "author": {
-         "authorized": "Walpole, Hugh, 1884-1941",
-         "lcna": "n79151207"
-       }
-     },
-     {"issue": {"issue-date": "1925-11"},
-      "title": "Harmer John",
-      "title-note": "part 2 of 4",
-      "author": {
-         "authorized": "Walpole, Hugh, 1884-1941",
-         "lcna": "n79151207"
-       }
-     },
-     {"issue": {"issue-date": "1925-12"},
-      "title": "Harmer John",
-      "title-note": "part 3 of 4",
-      "author": {
-         "authorized": "Walpole, Hugh, 1884-1941",
-         "lcna": "n79151207"
-       }
-     },
-     {"issue": {"issue-date": "1926-01"},
-      "title": "The End of the Flight",
-      "author": {
-       "authorized": "Maugham, W. Somerset (William Somerset), 1874-1965",
-       "lcna": "n79036830"
-      }
-     },
-     {"issue": {"issue-date": "1926-01"},
-      "title": "Harmer John",
-      "title-note": "part 4 of 4",
-      "author": {
-         "authorized": "Walpole, Hugh, 1884-1941",
-         "lcna": "n79151207"
-       }
-     },
      {"issue": {"issue-date": "1926-02"}, 
       "title": "The Sign of the Crooked Cross",
       "author": {
@@ -271,11 +119,32 @@
         "authorized": "Mason, A. E. W. (Alfred Edward Woodley), 1865-1948",
         "lcna": "n50043662"
        }
+     },
+     {"issue": {"issue-date": "1927-06"}, 
+      "title": "Old Charleston",
+      "author": {
+       "authorized": "Ferber, Edna, 1887-1968",
+       "lcna": "n79077439"
+      }
+     },
+     {"issue": {"issue-date": "1927-10"},
+       "title": "The Cat That Lived at the Ritz",
+       "author": {
+         "authorized": "Bromfield, Louis, 1896-1956",
+         "lcna": "n80040365"
+       }
+     },
+     {"issue": {"issue-date": "1928-01"},
+       "title": "The Urn",
+       "author": {
+         "authorized": "Bromfield, Louis, 1896-1956",
+         "lcna": "n80040365"
+       }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-01-07"
+   "last-updated": "2021-01-04"
 }

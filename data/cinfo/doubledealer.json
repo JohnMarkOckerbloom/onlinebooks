@@ -10,20 +10,11 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": 
-      {"issue": {"issue-date": "1925-January-February",
-       "volume": "7", "number": "nos. 41-42"}},
-   "first-renewed-contribution-source": "1952-JulDec",
+     {"issue": {"issue-date": "1926-05", "volume": "8", "number": "48"}},
+   "first-renewed-contribution-source": "1953-JulDec",
    "last-issue": {"issue-date": "1926-05", "volume": "8", "number": "48"},
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1925-January-February",
-                "volume": "7", "number": "nos. 41-42"},
-      "title": "Testament: One Puzzled Concerning Himself",
-      "author": {
-       "authorized": "Anderson, Sherwood, 1876-1941",
-       "lcna": "n79045519"
-      }
-     },
      {"issue": {"issue-date": "1926-05", "volume": "8", "number": "48"},
         "title": "Epithalamium in a Modern Manner",
         "author": {
@@ -36,5 +27,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-01-22"
+   "last-updated": "2021-01-14"
 }

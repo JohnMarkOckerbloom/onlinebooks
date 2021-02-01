@@ -21,24 +21,10 @@
       {"issue-date": "1964-01", "volume": "65", "number": "1"}
    ],
    "first-renewed-contribution": 
-      {"issue": {"issue-date": "1925-06"}},
-   "first-renewed-contribution-source": "1953-JanJun",
+      {"issue": {"issue-date": "1926-08"}}, 
+   "first-renewed-contribution-source": "1954-JanJun",
    "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
-       {"issue": {"issue-date": "1925-06"}, 
-        "title": "And a Woman",
-        "author": {
-         "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
-         "lcna": "no90021257"
-        }
-       },
-       {"issue": {"issue-date": "1925-07"}, 
-        "title": "The Chinese Jane",
-        "author": {
-         "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
-         "lcna": "no90021257"
-        }
-       },
        {"issue": {"issue-date": "1926-08"}, 
         "title": "Miscast",
         "title-note": "part 1 of 2",
@@ -321,5 +307,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-01-21"
+   "last-updated": "2021-01-12"
 }

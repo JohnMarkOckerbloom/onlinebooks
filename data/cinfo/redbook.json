@@ -9,28 +9,14 @@
    "first-issue":
       {"issue-date": "1903-05", "volume": "1", "number": "1"},
    "first-renewed-issue":
-      {"issue-date": "1925-02", "volume": "44", "number": "4",
-        "cdate": "1925-01-12"},
-   "first-renewed-issue-source": "1952",
+      {"issue-date": "1926-02", "volume": "46", "number": "4",  
+           "cdate": "1926-01-12"},
+   "first-renewed-issue-source": "1953-JanJun",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1925-02", "volume": "44", "number": "4"}},
-   "first-renewed-contribution-source": "1952-JanJun",
-   "renewed-issue-completeness": "active/1925",
+     {"issue": {"issue-date": "1926-02", "volume": "46", "number": "4"}},
+   "first-renewed-contribution-source": "1953-JanJun",
+   "renewed-issue-completeness": "active/1926",
    "renewed-issues": [
-      {"issue-date": "1925-02", "volume": "44", "number": "4",
-        "cdate": "1925-01-12"},
-      {"issue-date": "1925-03", "volume": "44", "number": "5"},
-      {"issue-date": "1925-04", "volume": "44", "number": "6"},
-      {"issue-date": "1925-05", "volume": "45", "number": "1"},
-      {"issue-date": "1925-06", "volume": "45", "number": "2"},
-      {"issue-date": "1925-07", "volume": "45", "number": "3"},
-      {"issue-date": "1925-08", "volume": "45", "number": "4"},
-      {"issue-date": "1925-09", "volume": "45", "number": "5"},
-      {"issue-date": "1925-10", "volume": "45", "number": "6"},
-      {"issue-date": "1925-11", "volume": "46", "number": "1"},
-      {"issue-date": "1925-12", "volume": "46", "number": "2"},
-      {"issue-date": "1926-01", "volume": "46", "number": "3",
-           "cdate": "1925-12-12"},
       {"issue-date": "1926-02", "volume": "46", "number": "4",  
            "cdate": "1926-01-12"},
       {"issue-date": "1926-03", "volume": "46", "number": "5"},
@@ -39,251 +25,24 @@
       {"issue-date": "1926-06", "volume": "47", "number": "2"},
       {"issue-date": "1926-07", "volume": "47", "number": "3"},
       {"issue-date": "1926-08", "volume": "47", "number": "4"},
-      {"issue-date": "1926-09", "volume": "47", "number": "5"}
+      {"issue-date": "1926-09", "volume": "47", "number": "5"},
+      {"issue-date": "1926-10", "volume": "47", "number": "6"},
+      {"issue-date": "1926-11", "volume": "48", "number": "1"},
+      {"issue-date": "1926-12", "volume": "48", "number": "2"},
+      {"issue-date": "1927-01", "volume": "48", "number": "3",
+       "cdate": "1926-12-12"},
+      {"issue-date": "1927-02", "volume": "48", "number": "4",
+       "cdate": "1927-01-12"},
+      {"issue-date": "1927-03", "volume": "48", "number": "5"},
+      {"issue-date": "1927-04", "volume": "48", "number": "6"},
+      {"issue-date": "1927-05", "volume": "49", "number": "1"},
+      {"issue-date": "1927-06", "volume": "49", "number": "2"},
+      {"issue-date": "1927-07", "volume": "49", "number": "3"},
+      {"issue-date": "1927-08", "volume": "49", "number": "4"},
+      {"issue-date": "1927-09", "volume": "49", "number": "5"}
    ],
-   "renewed-contribution-completeness": "active/1925",
+   "renewed-contribution-completeness": "active/1926",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1925-02", "volume": "44", "number": "4"}, 
-      "title": "Lame Ducks",
-      "author": {
-       "authorized": "Bacon, Josephine Daskam, 1876-1961",
-       "lcna": "n50020293"
-      }
-     },
-     {"issue": {"issue-date": "1925-02", "volume": "44", "number": "4"}, 
-      "title": "Tomorrow",
-      "author": {
-       "authorized": "Patri, Angelo, 1876-1965",
-       "lcna": "n91079923"
-      }
-     },
-     {"issue": {"issue-date": "1925-03", "volume": "44", "number": "5"}, 
-      "title": "Fine Feathers",
-      "author": {
-       "authorized": "Burnet, Dana, 1888-1962",
-       "lcna": "n88172670"
-      }
-     },
-     {"issue": {"issue-date": "1925-03", "volume": "44", "number": "5"}, 
-      "title": "One",
-      "author": {
-       "authorized": "Patri, Angelo, 1876-1965",
-       "lcna": "n91079923"
-      }
-     },
-     {"issue": {"issue-date": "1925-04", "volume": "44", "number": "6"}, 
-      "title": "Thea Zell",
-      "author": {
-         "authorized": "Tarkington, Booth, 1869-1946",
-         "lcna": "n79078124"
-       }
-     },
-     {"issue": {"issue-date": "1925-04", "volume": "44", "number": "6"}, 
-      "title": "Said with Soap",
-      "author": {
-       "authorized": "Beaumont, Gerald",
-       "lcna": "no89001874"
-      }
-     },
-     {"issue": {"issue-date": "1925-04", "volume": "44", "number": "6"}, 
-      "title": "The Folks",
-      "author": {
-       "authorized": "Patri, Angelo, 1876-1965",
-       "lcna": "n91079923"
-      }
-     },
-     {"issue": {"issue-date": "1925-05", "volume": "45", "number": "1"}, 
-      "title": "Mr. Bisbee's Princess",
-      "author": {
-         "authorized": "Street, Julian, 1879-1947",
-         "lcna": "n86114725"
-       }
-     },
-     {"issue": {"issue-date": "1925-05", "volume": "45", "number": "1"}, 
-      "title": "Honeymoon",
-      "author": {
-       "authorized": "Banning, Margaret Culkin, 1891-1982",
-       "lcna": "n86086096"
-      }
-     },
-     {"issue": {"issue-date": "1925-05", "volume": "45", "number": "1"}, 
-      "title": "Butterflies",
-      "author": {
-       "authorized": "Patri, Angelo, 1876-1965",
-       "lcna": "n91079923"
-      }
-     },
-     {"issue": {"issue-date": "1925-06", "volume": "45", "number": "2"}, 
-      "title": "A Family Matter",
-      "note": "CCE files this renewal under Harold Hopper Titus (who was a philosophy professor, 1894-1984), though it is more likely to be Harold Titus (the novelist, 1888-1967)",
-      "author": {
-       "name": "Harold Titus"
-      }
-     },
-     {"issue": {"issue-date": "1925-06", "volume": "45", "number": "2"}, 
-      "title": "The Closed Door",
-      "author": {
-       "authorized": "Patri, Angelo, 1876-1965",
-       "lcna": "n91079923"
-      }
-     },
-     {"issue": {"issue-date": "1925-07", "volume": "45", "number": "3"}, 
-      "title": "Silk Velvet",
-      "author": {
-       "authorized": "Banning, Margaret Culkin, 1891-1982",
-       "lcna": "n86086096"
-      }
-     },
-     {"issue": {"issue-date": "1925-07", "volume": "45", "number": "3"}, 
-      "title": "Secrets",
-      "author": {
-       "authorized": "Patri, Angelo, 1876-1965",
-       "lcna": "n91079923"
-      }
-     },
-     {"issue": {"issue-date": "1925-08", "volume": "45", "number": "4"}, 
-      "title": "Heavenbent",
-      "title-note": "part 1 of 2",
-      "author": {
-       "authorized": "Beaumont, Gerald",
-       "lcna": "no89001874"
-      }
-     },
-     {"issue": {"issue-date": "1925-08", "volume": "45", "number": "4"}, 
-      "title": "Miracle Workers",
-      "author": {
-       "authorized": "Patri, Angelo, 1876-1965",
-       "lcna": "n91079923"
-      }
-     },
-     {"issue": {"issue-date": "1925-09", "volume": "45", "number": "5"}, 
-      "title": "The Adjuster",
-      "author": {
-       "authorized": "Fitzgerald, F. Scott (Francis Scott), 1896-1940",
-       "lcna": "n79006871"
-      }
-     },
-     {"issue": {"issue-date": "1925-09", "volume": "45", "number": "5"}, 
-      "title": "Heavenbent",
-      "title-note": "part 2 of 2",
-      "author": {
-       "authorized": "Beaumont, Gerald",
-       "lcna": "no89001874"
-      }
-     },
-     {"issue": {"issue-date": "1925-09", "volume": "45", "number": "5"}, 
-      "title": "As the Lilies",
-      "author": {
-       "authorized": "Patri, Angelo, 1876-1965",
-       "lcna": "n91079923"
-      }
-     },
-     {"issue": {"issue-date": "1925-10", "volume": "45", "number": "6"},
-      "title": "Geraldine",
-      "author": {
-         "authorized": "Tarkington, Booth, 1869-1946",
-         "lcna": "n79078124"
-       }
-     },
-     {"issue": {"issue-date": "1925-10", "volume": "45", "number": "6"},
-      "title": "Release",
-      "author": {
-         "authorized": "McFee, William, 1881-1966",
-         "lcna": "n82053296"
-      }
-     },
-     {"issue": {"issue-date": "1925-10", "volume": "45", "number": "6"},
-      "title": "Gay Old Bird",
-      "author": {
-       "authorized": "Dale, Virginia",
-       "lcna": "no94005647"
-      }
-     },
-     {"issue": {"issue-date": "1925-10", "volume": "45", "number": "6"},
-      "title": "Sadie of the Desert",
-      "author": {
-       "authorized": "Cram, Mildred, 1889-1985",
-       "lcna": "n87847192"
-      }
-     },
-     {"issue": {"issue-date": "1925-10", "volume": "45", "number": "6"},
-      "title": "The Shadows",
-      "author": {
-       "authorized": "Patri, Angelo, 1876-1965",
-       "lcna": "n91079923"
-      }
-     },
-     {"issue": {"issue-date": "1925-11", "volume": "46", "number": "1"},
-      "title": "The Garden of the Bey",
-      "author": {
-         "authorized": "McFee, William, 1881-1966",
-         "lcna": "n82053296"
-      }
-     },
-     {"issue": {"issue-date": "1925-11", "volume": "46", "number": "1"},
-      "title": "The 'D' Box",
-      "author": {
-         "authorized": "Connell, Richard Edward, 1893-1949",
-         "lcna": "n50028704"
-       }
-     },
-     {"issue": {"issue-date": "1925-11", "volume": "46", "number": "1"}, 
-      "title": "The Beautiful Isle",
-      "author": {
-       "authorized": "Patri, Angelo, 1876-1965",
-       "lcna": "n91079923"
-      }
-     },
-     {"issue": {"issue-date": "1925-12", "volume": "46", "number": "2"},
-      "title": "You Can't Always Tell",
-      "author": {
-         "authorized": "MacGrath, Harold, 1871-1932",
-         "lcna": "n82053296"
-      }
-     },
-     {"issue": {"issue-date": "1926-01", "volume": "46", "number": "3"},
-      "title": "The Rich Boy",
-      "title-note": "part 1 of 2",
-      "author": {
-       "authorized": "Fitzgerald, F. Scott (Francis Scott), 1896-1940",
-       "lcna": "n79006871"
-      }
-     },
-     {"issue": {"issue-date": "1926-01", "volume": "46", "number": "3"},
-      "title": "The Virgin of Loreto",
-      "author": {
-         "authorized": "McFee, William, 1881-1966",
-         "lcna": "n82053296"
-      }
-     },
-     {"issue": {"issue-date": "1926-01", "volume": "46", "number": "3"},
-      "title": "Common Ground",
-      "author": {
-       "authorized": "Beaumont, Gerald",
-       "lcna": "no89001874"
-      }
-     },
-     {"issue": {"issue-date": "1926-01", "volume": "46", "number": "3"},
-      "title": "Flapping Wings",
-      "author": {
-       "authorized": "Weiman, Rita, 1889-1954",
-       "lcna": "n89129751"
-      }
-     },
-     {"issue": {"issue-date": "1926-01", "volume": "46", "number": "3"},
-      "title": "No Sense of Humor",
-      "author": {
-       "authorized": "Banning, Margaret Culkin, 1891-1982",
-       "lcna": "n86086096"
-      }
-     },
-     {"issue": {"issue-date": "1926-01", "volume": "46", "number": "3"},
-      "title": "Too Tight",
-      "author": {
-       "authorized": "Patri, Angelo, 1876-1965",
-       "lcna": "n91079923"
-      }
-     },
      {"issue": {"issue-date": "1926-02", "volume": "46", "number": "4"},
       "title": "Tides",
       "title-note": "part 1 of 8",
@@ -418,6 +177,13 @@
       ]
      },
      {"issue": {"issue-date": "1926-07", "volume": "47", "number": "3"},
+      "title": "The Love Altar",
+      "author": {
+       "authorized": "Weiman, Rita, 1889-1954",
+       "lcna": "n89129751"
+      }
+     },
+     {"issue": {"issue-date": "1926-07", "volume": "47", "number": "3"},
       "title": "The Armoire",
       "author": {
          "authorized": "McFee, William, 1881-1966",
@@ -447,6 +213,132 @@
        "lcna": "n86086096"
       }
      },
+     {"issue": {"issue-date": "1926-12", "volume": "48", "number": "2"},
+      "title": "Dinner is Served",
+      "author": {
+       "authorized": "Weiman, Rita, 1889-1954",
+       "lcna": "n89129751"
+      }
+     },
+     {"issue": {"issue-date": "1927-02", "volume": "48", "number": "4"},
+      "title": "At the Villa Agostino",
+      "author": {
+         "authorized": "McFee, William, 1881-1966",
+         "lcna": "n82053296"
+      }
+     },
+     {"issue": {"issue-date": "1927-03", "volume": "48", "number": "5"},
+      "title": "The Lover",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1927-05", "volume": "49", "number": "1"},
+      "title": "The Wife of the Dictator",
+      "author": {
+         "authorized": "McFee, William, 1881-1966",
+         "lcna": "n82053296"
+      }
+     },
+     {"issue": {"issue-date": "1927-07", "volume": "49", "number": "3"},
+       "title": "Wolf Song",
+       "title-note": "part 1 of 2",
+       "author": {
+         "authorized": "Fergusson, Harvey, 1890-1971",
+         "lcna": "n50026892"
+       }
+     },
+     {"issue": {"issue-date": "1927-07", "volume": "49", "number": "3"},
+      "title": "The Roving Heart",
+      "author": {
+         "authorized": "McFee, William, 1881-1966",
+         "lcna": "n82053296"
+      }
+     },
+     {"issue": {"issue-date": "1927-08", "volume": "49", "number": "4"},
+       "title": "Wolf Song",
+       "title-note": "part 2 of 2",
+       "author": {
+         "authorized": "Fergusson, Harvey, 1890-1971",
+         "lcna": "n50026892"
+       }
+     },
+     {"issue": {"issue-date": "1927-09", "volume": "49", "number": "5"}, 
+      "title": "Little Clown Lost",
+      "title-note": "part 1 of 4",
+      "author": {
+         "authorized": "Benefield, Barry, 1877-1971",
+         "lcna": "no90003376"
+       }
+     },
+     {"issue": {"issue-date": "1927-09", "volume": "49", "number": "5"}, 
+      "title": "What You Want in Life",
+      "author": {
+       "authorized": "Wylie, I. A. R. (Ida Alexa Ross), 1885-1959",
+       "lcna": "n87860300"
+      }
+     },
+     {"issue": {"issue-date": "1927-09", "volume": "49", "number": "5"}, 
+      "title": "When the Gods Smile",
+      "author": {
+       "authorized": "Weiman, Rita, 1889-1954",
+       "lcna": "n89129751"
+      }
+     },
+     {"issue": {"issue-date": "1927-10", "volume": "49", "number": "6"}, 
+      "title": "A Million Dollars",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1927-10", "volume": "49", "number": "6"}, 
+      "title": "Little Clown Lost",
+      "title-note": "part 2 of 4",
+      "author": {
+         "authorized": "Benefield, Barry, 1877-1971",
+         "lcna": "no90003376"
+       }
+     },
+     {"issue": {"issue-date": "1927-10", "volume": "49", "number": "6"}, 
+      "title": "Not Exactly Good-Looking",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1927-11", "volume": "50", "number": "1"}, 
+      "title": "Uncle Tiberius' Bedtime Story",
+      "note": "Title as given in CCE renewal record. FictionMags gives title of Connell's story in this issue as 'Don't Be a Cat'. I have not examined the issue in question.",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1927-11", "volume": "50", "number": "1"}, 
+      "title": "Little Clown Lost",
+      "title-note": "part 3 of 4",
+      "author": {
+         "authorized": "Benefield, Barry, 1877-1971",
+         "lcna": "no90003376"
+       }
+     },
+     {"issue": {"issue-date": "1927-12", "volume": "50", "number": "2"}, 
+      "title": "Little Clown Lost",
+      "title-note": "part 4 of 4",
+      "author": {
+         "authorized": "Benefield, Barry, 1877-1971",
+         "lcna": "no90003376"
+       }
+     },
+     {"issue": {"issue-date": "1927-12", "volume": "50", "number": "2"}, 
+      "title": "The Kick",
+      "author": {
+       "authorized": "Weiman, Rita, 1889-1954",
+       "lcna": "n89129751"
+      }
+     },
      {"issue": {"issue-date": "1943-10", "volume": "81", "number": "6"},
         "title": "Mother's Little Helper",
         "note": "CCE states this was published in the October 1943 Blue Book, but FictionMags and some CCE inconsistencies suggest it may have instead been published in Redbook, in the issue for the same month. I have not examined the issues in question.",
@@ -468,5 +360,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-01-19"
+   "last-updated": "2021-01-15"
 }

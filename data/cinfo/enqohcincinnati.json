@@ -7,52 +7,11 @@
    ],
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
-   "first-renewed-contribution": {"issue": {"issue-date": "1925-01-11"}},
-   "first-renewed-contribution-source": "1952-JanJun",
-   "renewed-contribution-completeness": "active/1926",
+   "first-renewed-contribution":
+     {"issue": {"issue-date": "1927-11-27"}},
+   "first-renewed-contribution-source": "1954-JulDec",
+   "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1925-01-11"},
-      "title": "First Aid for Loony Biddle",
-      "author": {
-         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
-         "lcna": "n78089036"
-       }
-     },
-     {"issue": {"issue-date": "1925-02-15"},
-      "title": "Growing Boy",
-      "author": {
-         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
-         "lcna": "n78089036"
-       }
-     },
-     {"issue": {"issue-date": "1925-03-15"},
-      "title": "Mr. Connolly, Music Lover",
-      "author": {
-         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
-         "lcna": "n78089036"
-       }
-     },
-     {"issue": {"issue-date": "1925-03-22"},
-      "title": "Elfreda and the Mad Busman",
-      "author": {
-       "authorized": "Wylie, I. A. R. (Ida Alexa Ross), 1885-1959",
-       "lcna": "n87860300"
-      }
-     },
-     {"issue": {"issue-date": "1925-04-19"},
-      "title": "Archie, Art Conoisseur",
-      "author": {
-         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
-         "lcna": "n78089036"
-       }
-     },
-     {"issue": {"issue-date": "1925-04-26"},
-      "title": "Rabble Rouser",
-      "author": {
-       "authorized": "Tarkington, Booth, 1869-1946",
-       "lcna": "n79078124"
-      }
-     },
      {"issue": {"issue-date": "1927-11-27"},
       "title": "Success, Happiness and Life As an Art",
       "author": {
@@ -66,11 +25,75 @@
          "authorized": "White, Stewart Edward, 1873-1946",
          "lcna": "n50020243"
       }
+     },
+     {"issue": {"issue-date": "1928-07-01"},
+      "title": "Germany's Mystery Cruiser",
+      "title-note": "part 1 of 8",
+      "author": {
+         "authorized": "Niezychowski, Alfred von",
+         "lcna": "nr2006014391"
+      }
+     },
+     {"issue": {"issue-date": "1928-07-08"},
+      "title": "Germany's Mystery Cruiser",
+      "title-note": "part 2 of 8",
+      "author": {
+         "authorized": "Niezychowski, Alfred von",
+         "lcna": "nr2006014391"
+      }
+     },
+     {"issue": {"issue-date": "1928-07-15"},
+      "title": "Germany's Mystery Cruiser",
+      "title-note": "part 3 of 8",
+      "author": {
+         "authorized": "Niezychowski, Alfred von",
+         "lcna": "nr2006014391"
+      }
+     },
+     {"issue": {"issue-date": "1928-07-22"},
+      "title": "Germany's Mystery Cruiser",
+      "title-note": "part 4 of 8",
+      "author": {
+         "authorized": "Niezychowski, Alfred von",
+         "lcna": "nr2006014391"
+      }
+     },
+     {"issue": {"issue-date": "1928-07-29"},
+      "title": "Germany's Mystery Cruiser",
+      "title-note": "part 5 of 8",
+      "author": {
+         "authorized": "Niezychowski, Alfred von",
+         "lcna": "nr2006014391"
+      }
+     },
+     {"issue": {"issue-date": "1928-08-05"},
+      "title": "Germany's Mystery Cruiser",
+      "title-note": "part 6 of 8",
+      "author": {
+         "authorized": "Niezychowski, Alfred von",
+         "lcna": "nr2006014391"
+      }
+     },
+     {"issue": {"issue-date": "1928-08-12"},
+      "title": "Germany's Mystery Cruiser",
+      "title-note": "part 7 of 8",
+      "author": {
+         "authorized": "Niezychowski, Alfred von",
+         "lcna": "nr2006014391"
+      }
+     },
+     {"issue": {"issue-date": "1928-08-19"},
+      "title": "Germany's Mystery Cruiser",
+      "title-note": "part 8 of 8",
+      "author": {
+         "authorized": "Niezychowski, Alfred von",
+         "lcna": "nr2006014391"
+      }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-01-22"
+   "last-updated": "2021-01-22"
 }

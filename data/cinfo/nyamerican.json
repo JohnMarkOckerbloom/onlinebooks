@@ -3,28 +3,28 @@
    "first-renewed-issue": {"issue-date": "1926-05-16"},
    "first-renewed-issue-source": "1953-JulDec",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1925-02-13"}},
-   "first-renewed-contribution-source": "1952-JanJun",
+     {"issue": {"issue-date": "1926-02-17"}},
+   "first-renewed-contribution-source": "1953-JanJun",
    "renewed-issue-completeness": "active/1926",
    "renewed-issues": [
       {"issue-date": "1926-05-16"}
    ],
-   "renewed-contribution-completeness": "active/1925",
+   "renewed-contribution-completeness": "active/1926",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1925-02-13"},
-       "title": "Toots and Casper",
-       "note": "Listed as work for hire by Jimmy Murphy as an employee of King Features Syndicate.  King Features is the author for copyright purposes.",
-       "authors": [
-        {"authorized": "King Features Syndicate", "lcna": "n82010039"},
-        {"authorized": "Murphy, Jimmy, 1891-1965", "lcna": "n95000162"}
-       ]
-     },
      {"issue": {"issue-date": "1926-02-17"},
        "title": "Lenglen Like Spanish Toreador",
        "author": {
           "authorized": "Blasco Ibáñez, Vicente, 1867-1928",
           "lcna": "n79046157"
        }
+     },
+     {"issue": {"issue-date": "1926-04-25"},
+       "title": "Toots & Casper. Isn't it Odd",
+       "note": "Renewed under Artwork. Listed as work for hire by Jimmy Murphy as an employee of King Features Syndicate.  King Features is the author for copyright purposes.",
+       "authors": [
+          {"authorized": "Murphy, Jimmy, 1891-1965", "lcna": "n95000162"},
+           {"authorized": "King Features Syndicate", "lcna": "n82010039"}
+       ]
      },
      {"issue": {"issue-date": "1926-05-31"},
       "title": "Henry Ford's Own Story, the Great Today, the Greater Tomorrow",
@@ -46,7 +46,7 @@
      {"issue": {"issue-date": "1926-10-10"},
       "title": "Private Letters of Joseph Conrad",
       "title-note": "second installment",
-      "note": "Later renewals this year by Conrad are probably from this series as well.",
+      "note": "Later renewals this year by Conrad listed below are probably from this series as well.",
       "author": {
          "authorized": "Conrad, Joseph, 1857-1924",
          "lcna": "n79054067"
@@ -74,13 +74,22 @@
          "authorized": "Conrad, Joseph, 1857-1924",
          "lcna": "n79054067"
       }
+     },
+     {"issue": {"issue-date": "1927-05-09"},
+       "title": "Merely Margy, an Awfully Sweet Girl",
+       "note": "Renewed under Artwork. Listed as work for hire by John Held, Jr., as an employee of King Features Syndicate.  King Features is the author for copyright purposes.",
+       "authors": [
+          {"authorized": "Held, John, Jr., 1889-1958", "lcna": "n50028528"},
+          {"authorized": "King Features Syndicate", "lcna": "n82010039"}
+       ]
      }
    ],
+   "comment": "Pick up with 1955 both under Contributions and Artwork",
    "additional-note": 
-   "Some images from the New York American were renewed separately in the Artwork section, rather than in the Contributions to Periodicals section.  The first such image with an active copyright is by Jimmy Murphy as an employee of King Features Syndicate, and is titled 'Toots & Casper. Isn't it odd.'.  It ran in the April 25, 1926 issue, and was renewed in 1953.",
+   "Some images from the New York American were renewed separately in the Artwork section, rather than in the Contributions to Periodicals section.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-01-27"
+   "last-updated": "2021-01-28"
 }

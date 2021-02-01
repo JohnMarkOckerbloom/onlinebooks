@@ -1,17 +1,17 @@
 {
-   "title": "The American Standard",
-   "title-note": "Ku-Klux Klan affiliated periodical, 1924-1925",
+   "title": "American Standard",
+   "title-note": "1924-1925",
+   "online": "1",
    "first-issue": 
        {"issue-date": "1924-02-09", "volume": "1", "number": "1"}, 
-   "first-renewed-issue": "none",
-   "first-renewed-issue-source": "cce",
-   "first-renewed-contribution": "none",
-   "first-renewed-contribution-source": "cce",
+   "rights-statement": "NoC-US",
    "last-issue": 
        {"issue-date": "1925-12-15", "volume": "2", "number": "24"}, 
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2017-12-21"
+   "acknowledgement": 
+      "Thanks to Peter Sullivan for copyright research on this title.",
+   "last-updated": "2021-01-22"
 }

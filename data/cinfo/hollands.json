@@ -4,16 +4,10 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": 
-      {"issue": {"issue-date": "1925-11"}},
-   "first-renewed-contribution-source": "1952-JulDec",
+     {"issue": {"issue-date": "1926-04"}},
+   "first-renewed-contribution-source": "1953-JanJun",
+   "renewed-contribution-completness": "active/1926",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1925-11"}, 
-      "title": "To Look 'em in the Eye",
-      "note": "CCE files this renewal under Harold Hopper Titus (who was a philosophy professor, 1894-1984), though it is more likely to be Harold Titus (the novelist, 1888-1967)",
-      "author": {
-       "name": "Harold Titus"
-      }
-     },
      {"issue": {"issue-date": "1926-04"},
       "title": "Love Laughs at Doctors",
       "author": {
@@ -27,11 +21,73 @@
       "author": {
        "name": "Harold Titus"
       }
+     },
+     {"issue": {"issue-date": "1926-11"}, 
+      "title": "Other Tomorrow",
+      "title-note": "part 1 of 6",
+      "author": {
+       "authorized": "Cohen, Octavus Roy, 1891-1959",
+       "lcna": "n87896297"
+      }
+     },
+     {"issue": {"issue-date": "1926-12"}, 
+      "title": "Other Tomorrow",
+      "title-note": "part 2 of 6",
+      "author": {
+       "authorized": "Cohen, Octavus Roy, 1891-1959",
+       "lcna": "n87896297"
+      }
+     },
+     {"issue": {"issue-date": "1927-01"}, 
+      "title": "Other Tomorrow",
+      "title-note": "part 3 of 6",
+      "author": {
+       "authorized": "Cohen, Octavus Roy, 1891-1959",
+       "lcna": "n87896297"
+      }
+     },
+     {"issue": {"issue-date": "1927-02"}, 
+      "title": "Other Tomorrow",
+      "title-note": "part 4 of 6",
+      "author": {
+       "authorized": "Cohen, Octavus Roy, 1891-1959",
+       "lcna": "n87896297"
+      }
+     },
+     {"issue": {"issue-date": "1927-03"}, 
+      "title": "Other Tomorrow",
+      "title-note": "part 5 of 6",
+      "author": {
+       "authorized": "Cohen, Octavus Roy, 1891-1959",
+       "lcna": "n87896297"
+      }
+     },
+     {"issue": {"issue-date": "1927-04"}, 
+      "title": "Other Tomorrow",
+      "title-note": "part 6 of 6",
+      "author": {
+       "authorized": "Cohen, Octavus Roy, 1891-1959",
+       "lcna": "n87896297"
+      }
+     },
+     {"issue": {"issue-date": "1927-10"}, 
+      "title": "Gray Terror",
+      "author": {
+         "authorized": "Titus, Harold, 1888-1967",
+         "lcna": "no2008175553"
+      }
+     },
+     {"issue": {"issue-date": "1927-12"}, 
+      "title": "The Children's Mother",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-06-03"
+   "last-updated": "2021-01-25"
 }

@@ -1,6 +1,5 @@
 {
    "title": "Journal of Medicinal and Pharmaceutical Chemistry",
-   "aka": ["Journal of Medicinal Chemistry"],
    "contents": [
       {"url": "https://pubs.acs.org/loi/jmcmar",
       "note": "Official journal site (full text also available for subscription or payment)"}
@@ -12,9 +11,22 @@
    "first-renewed-issue-source": "database",
    "first-renewed-contribution": "none", 
    "first-renewed-contribution-source": "database",
+   "last-issue":
+      {"issue-date": "1962-11", "volume": "5", "number": "6"},
+   "succeeded-by":
+      [{"id": "jmedicchem", "note": "Journal of Medicinal Chemistry"}],
+   "renewed-issue-completeness": "active/end",
+   "renewed-issues": [
+      {"issue-date": "1962-01", "volume": "5", "number": "1"},
+      {"issue-date": "1962-03", "volume": "5", "number": "2"},
+      {"issue-date": "1962-05", "volume": "5", "number": "3"},
+      {"issue-date": "1962-07", "volume": "5", "number": "4"},
+      {"issue-date": "1962-09", "volume": "5", "number": "5"},
+      {"issue-date": "1962-11", "volume": "5", "number": "6"}
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-07-13"
+   "last-updated": "2021-01-27"
 }

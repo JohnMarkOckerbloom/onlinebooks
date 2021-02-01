@@ -5,28 +5,35 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1925-03"}},
-   "first-renewed-contribution-source": "1952-JanJun",
-   "renewed-contribution-completeness": "active/1925",
+     {"issue": {"issue-date": "1929-04"}}, 
+   "first-renewed-contribution-source": "1957-JanJun",
+   "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1925-03"}, 
-      "title": "Permit: A Rare Game Fish of the Coral Shoals",
+     {"issue": {"issue-date": "1929-04"}, 
+      "title": "The Wrath of the Raped",
       "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
+       "authorized": "Kantor, MacKinlay, 1904-1977",
+       "lcna": "n79140979"
       }
      },
-     {"issue": {"issue-date": "1925-10"},
-      "title": "A Woodland Courtship",
+     {"issue": {"issue-date": "1930-06"}, 
+      "title": "One Flew East",
       "author": {
-       "authorized": "Rutledge, Archibald, 1883-1973",
-       "lcna": "n50031762"
+       "authorized": "Kantor, MacKinlay, 1904-1977",
+       "lcna": "n79140979"
       }
+     },
+     {"issue": {"issue-date": "1958-08"},
+        "title": "The Sound of Rain",
+        "author": {
+         "authorized": "Olson, Sigurd F., 1899-1982",
+         "lcna": "n79045068"
+        }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-01-21"
+   "last-updated": "2021-01-26"
 }

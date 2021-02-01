@@ -3,79 +3,80 @@
    "title-note": "US Methodist magazine for girls",
    "first-renewed-issue":  "none",
    "first-renewed-issue-source": "cce+database",
-   "first-renewed-contribution": {
-      "issue": {"issue-date": "1925-01-18"}
-   },
-   "first-renewed-contribution-source": "1952-JanJun",
+   "first-renewed-contribution": 
+     {"issue": {"issue-date": "1926-12-19"}},
+   "first-renewed-contribution-source": "1954-JanJun",
+   "renewed-contribution-completness": "active/autorenewals",
    "renewed-contributions": [  
-     {"issue": {"issue-date": "1925-01-18"},
-      "title": "Two Little Colonial Dames",
-      "title-note": "chapter 1 of 8",
+     {"issue": {"issue-date": "1926-12-19"},
+      "title": "Milady at Arms",
+      "title-note": "part 1 of 8",
       "author": {
        "authorized": "Sherman, Edith Bishop, 1889-",
        "lcna": "no96009230"
       }
      },
-     {"issue": {"issue-date": "1925-01-25"},
-      "title": "Two Little Colonial Dames",
-      "title-note": "chapter 2 of 8",
+     {"issue": {"issue-date": "1926-12-26"},
+      "title": "Milady at Arms",
+      "title-note": "part 2 of 8",
       "author": {
        "authorized": "Sherman, Edith Bishop, 1889-",
        "lcna": "no96009230"
       }
      },
-     {"issue": {"issue-date": "1925-02-01"},
-      "title": "Two Little Colonial Dames",
-      "title-note": "chapter 3 of 8",
+     {"issue": {"issue-date": "1927-01-02", "cdate": "1926-12-17"},
+      "title": "Milady at Arms",
+      "title-note": "part 3 of 8",
       "author": {
        "authorized": "Sherman, Edith Bishop, 1889-",
        "lcna": "no96009230"
       }
      },
-     {"issue": {"issue-date": "1925-02-08"},
-      "title": "Two Little Colonial Dames",
-      "title-note": "chapter 4 of 8",
+     {"issue": {"issue-date": "1927-01-09", "cdate": "1926-12-23"},
+      "title": "Milady at Arms",
+      "title-note": "part 4 of 8",
       "author": {
        "authorized": "Sherman, Edith Bishop, 1889-",
        "lcna": "no96009230"
       }
      },
-     {"issue": {"issue-date": "1925-02-15"},
-      "title": "Two Little Colonial Dames",
-      "title-note": "chapter 5 of 8",
+     {"issue": {"issue-date": "1927-01-16", "cdate": "1926-12-31"},
+      "title": "Milady at Arms",
+      "title-note": "part 5 of 8",
       "author": {
        "authorized": "Sherman, Edith Bishop, 1889-",
        "lcna": "no96009230"
       }
      },
-     {"issue": {"issue-date": "1925-02-22"},
-      "title": "Two Little Colonial Dames",
-      "title-note": "chapter 6 of 8",
+     {"issue": {"issue-date": "1927-01-23", "cdate": "1927-01-06"},
+      "title": "Milady at Arms",
+      "title-note": "part 6 of 8",
       "author": {
        "authorized": "Sherman, Edith Bishop, 1889-",
        "lcna": "no96009230"
       }
      },
-     {"issue": {"issue-date": "1925-03-01"},
-      "title": "Two Little Colonial Dames",
-      "title-note": "chapter 7 of 8",
+     {"issue": {"issue-date": "1927-01-30"},
+      "title": "Milady at Arms",
+      "title-note": "part 7 of 8",
       "author": {
        "authorized": "Sherman, Edith Bishop, 1889-",
        "lcna": "no96009230"
       }
      },
-     {"issue": {"issue-date": "1925-03-08"},
-      "title": "Two Little Colonial Dames",
-      "title-note": "chapter 8 of 8",
+     {"issue": {"issue-date": "1927-02-06"},
+      "title": "Milady at Arms",
+      "title-note": "part 8 of 8",
       "author": {
        "authorized": "Sherman, Edith Bishop, 1889-",
        "lcna": "no96009230"
       }
      }
    ],
+   "additional-note": "We do not know when this serial ceased publication. It could have been well before 1964, but in any case we did not find any active renewals filed up until then except for those listed here.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-04-20"
+   "last-updated": "2021-01-27"
 }

@@ -7,57 +7,32 @@
    ],
    "online": "1",
    "first-renewed-issue":
-     {"issue-date": "1925-02", "cdate": "1925-01-15",
-        "volume": "54", "number": "6"},
-   "first-renewed-issue-source": "1952",
-   "first-renewed-contribution": 
-     {"issue": {"issue-date": "1925-05", "volume": "55", "number": "3"}},
-   "first-renewed-contribution-source": "1952-JanJun",
+     {"issue-date": "1926-02", "cdate": "1926-01-15",
+        "volume": "56", "number": "6"},
+   "first-renewed-issue-source": "1953-JulDec",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce",
    "last-issue": {"issue-date": "1926-12", "volume": "58", "number": "4"},
    "renewed-issue-completeness": "active/end",
    "see-also": [{"id": "ainsleesmart", "note": "Ainslee's Smart Love Stories"}],
    "renewed-issues": [
-     {"issue-date": "1925-02", "cdate": "1925-01-15",
-        "volume": "54", "number": "6"},
-     {"issue-date": "1925-03", "volume": "55", "number": "1"},
-     {"issue-date": "1925-04", "volume": "55", "number": "2"},
-     {"issue-date": "1925-05", "volume": "55", "number": "3"},
-     {"issue-date": "1925-06", "volume": "55", "number": "4"},
-     {"issue-date": "1925-07", "volume": "55", "number": "5"},
-     {"issue-date": "1925-08", "volume": "55", "number": "6"},
-     {"issue-date": "1925-09", "volume": "56", "number": "1"},
-     {"issue-date": "1925-10", "volume": "56", "number": "2"},
-     {"issue-date": "1925-11", "volume": "56", "number": "3"},
-     {"issue-date": "1925-12", "volume": "56", "number": "4"},
-     {"issue-date": "1926-01", "cdate": "1925-12-15",
-        "volume": "56", "number": "5"},
      {"issue-date": "1926-02", "cdate": "1926-01-15",
         "volume": "56", "number": "6"},
-     {"issue-date": "1925-03", "volume": "57", "number": "1"},
-     {"issue-date": "1925-04", "volume": "57", "number": "2"},
-     {"issue-date": "1925-05", "volume": "57", "number": "3"},
-     {"issue-date": "1925-06", "volume": "57", "number": "4"},
-     {"issue-date": "1925-07", "volume": "57", "number": "5"},
-     {"issue-date": "1925-08", "volume": "57", "number": "6"},
-     {"issue-date": "1925-09", "volume": "58", "number": "1"},
-     {"issue-date": "1925-10", "volume": "58", "number": "2"},
-     {"issue-date": "1925-11", "volume": "58", "number": "3"},
+     {"issue-date": "1926-03", "volume": "57", "number": "1"},
+     {"issue-date": "1926-04", "volume": "57", "number": "2"},
+     {"issue-date": "1926-05", "volume": "57", "number": "3"},
+     {"issue-date": "1926-06", "volume": "57", "number": "4"},
+     {"issue-date": "1926-07", "volume": "57", "number": "5"},
+     {"issue-date": "1926-08", "volume": "57", "number": "6"},
+     {"issue-date": "1926-09", "volume": "58", "number": "1"},
+     {"issue-date": "1926-10", "volume": "58", "number": "2"},
+     {"issue-date": "1926-11", "volume": "58", "number": "3"},
      {"issue-date": "1926-12", "volume": "58", "number": "4"}
-   ],
-   "renewed-contribution-completeness": "active/end",
-   "renewed-contributions": [
-     {"issue": {"issue-date": "1925-05", "volume": "55", "number": "3"},
-      "title": "That Persistent Primitive",
-      "author": {
-       "authorized": "Duganne, Phyllis, 1899-1976",
-       "lcna": "n90719514"
-      }
-     }
    ],
    "additional-note": "The first few issues of Ainslee's Smart Love Stories, from late 1934 and early 1935, were also published as Ainslee's.  See that listing for renewal information.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-01-04"
+   "last-updated": "2021-01-02"
 }

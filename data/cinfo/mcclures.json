@@ -9,20 +9,12 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1925-10", "series": "new",
-      "volume": "1", "number": "6"}}, 
-   "first-renewed-contribution-source": "1952-JulDec",
+     {"issue": {"issue-date": "1926-06", "volume": "56", "number": "6"}},
+   "first-renewed-contribution-source": "1953-JanJun",
    "last-issue": {"issue-date": "1929-03", "volume": "62", "number": "3"},
    "see-also": [{"id": "smartset", "note": "The Smart Set"}],
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1925-10", "series": "new", "volume": "1", "number": "6"}, 
-      "title": "Marie",
-      "author": {
-       "authorized": "McNeile, H. C. (Herman Cyril), 1888-1937",
-       "lcna": "no96039399"
-      }
-     },
      {"issue": {"issue-date": "1926-06", "volume": "56", "number": "6"},
       "title": "The First Story Ever Told",
        "note": "Volume numbering reset with this issue.",
@@ -237,5 +229,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-01-19"
+   "last-updated": "2021-01-25"
 }

@@ -7,8 +7,8 @@
      {"issue-date": "1934-07", "volume": "154", "number": "1"},
    "first-renewed-issue-source": "1962-JanJun",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1925-03"}},
-   "first-renewed-contribution-source": "1953-JanJun",
+     {"issue": {"issue-date": "1926-03"}},
+   "first-renewed-contribution-source": "1953-JulDec",
    "first-autorenewed-issue": 
      {"issue-date": "1964-02", "cdate": "1964-01-16",
       "volume": "213", "number": "2"},
@@ -340,41 +340,6 @@
    ],
    "renewed-contribution-completeness": "active/1943",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1925-03"},
-        "title": "The Grace of Lambs",
-        "author": {
-         "authorized": "Komroff, Manuel, 1890-1974",
-         "lcna": "n79110548"
-        }
-     },
-     {"issue": {"issue-date": "1925-07"},
-        "title": "Fool o' the Moon",
-        "author": {
-         "authorized": "Lowell, Amy, 1874-1925",
-         "lcna": "n79076111"
-        }
-     },
-     {"issue": {"issue-date": "1925-09"},
-        "title": "How Does it Feel to be Free",
-        "author": {
-         "authorized": "Komroff, Manuel, 1890-1974",
-         "lcna": "n79110548"
-        }
-     },
-     {"issue": {"issue-date": "1925-12"},
-        "title": "Sing: A Song of Sixpence",
-        "author": {
-         "authorized": "Hall, James Norman, 1887-1951",
-         "lcna": "n79054917"
-        }
-     },
-     {"issue": {"issue-date": "1926-01"},
-        "title": "Hippocrene",
-        "author": {
-         "authorized": "Lowell, Amy, 1874-1925",
-         "lcna": "n79076111"
-        }
-     },
      {"issue": {"issue-date": "1926-03"},
         "title": "On Looking at a Copy",
         "author": {
@@ -2798,5 +2763,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-04-26"
+   "last-updated": "2021-01-14"
 }

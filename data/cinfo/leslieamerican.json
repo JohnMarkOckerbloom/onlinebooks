@@ -9,186 +9,13 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution":
-      {"issue": {"issue-date": "1925-03", "cdate": "1925-01-24",
-                 "volume": "99", "number": "3"}},
-   "first-renewed-contribution-source": "1952-JanJun",
+      {"issue": {"issue-date": "1926-03", "cdate": "1926-01-26",
+                 "volume": "101", "number": "3"}},
+   "first-renewed-contribution-source": "1953-JanJun",
    "last-issue": {"issue-date": "1956-08", "volume": "162", "number": "2"},
    "see-also": [{"id": "americanatc", "note": "American (American Tobacco Company magazine, 1940s)"}],
    "renewed-contribution-completeness": "active/1929",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1925-03", "volume": "99", "number": "3"},
-      "title": "Spare Parts",
-      "author": {
-       "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
-       "lcna": "no90021257"
-      }
-     },
-     {"issue": {"issue-date": "1925-03", "volume": "99", "number": "3"},
-      "title": "Adventures in Understanding",
-      "title-note": "part 7 of 12",
-      "note": "Author name is a pseudonym for Ray Stannard Baker",
-      "author": {
-         "authorized": "Grayson, David, 1870-1946",
-         "lcna": "n88084521"
-       }
-     },
-     {"issue": {"issue-date": "1925-03", "volume": "99", "number": "3"},
-      "title": "Rocking Moon",
-      "title-note": "part 6 of 6",
-      "author": {
-         "authorized": "Willoughby, Barrett, -1959",
-         "lcna": "n94074965"
-      }
-     },
-     {"issue": {"issue-date": "1925-04", "volume": "99", "number": "4"},
-      "title": "Adventures in Understanding",
-      "title-note": "part 8 of 12",
-      "note": "Author name is a pseudonym for Ray Stannard Baker",
-      "author": {
-         "authorized": "Grayson, David, 1870-1946",
-         "lcna": "n88084521"
-       }
-     },
-     {"issue": {"issue-date": "1925-05", "volume": "99", "number": "5"},
-      "title": "Adventures in Understanding",
-      "title-note": "part 9 of 12",
-      "note": "Author name is a pseudonym for Ray Stannard Baker",
-      "author": {
-         "authorized": "Grayson, David, 1870-1946",
-         "lcna": "n88084521"
-       }
-     },
-     {"issue": {"issue-date": "1925-05", "volume": "99", "number": "5"},
-      "title": "Don't Go to Any Trouble",
-      "author": {
-       "authorized": "Banning, Margaret Culkin, 1891-1982",
-       "lcna": "n86086096"
-      }
-     },
-     {"issue": {"issue-date": "1925-06", "volume": "99", "number": "6"},
-      "title": "Adventures in Understanding",
-      "title-note": "part 10 of 12",
-      "note": "Author name is a pseudonym for Ray Stannard Baker",
-      "author": {
-         "authorized": "Grayson, David, 1870-1946",
-         "lcna": "n88084521"
-       }
-     },
-     {"issue": {"issue-date": "1925-06", "volume": "99", "number": "6"},
-      "title": "Looking Forward to the Great Adventure",
-      "author": {
-       "authorized": "Tarkington, Booth, 1869-1946",
-       "lcna": "n79078124"
-      }
-     },
-     {"issue": {"issue-date": "1925-06", "volume": "99", "number": "6"},
-      "title": "I Went to the Klondyke on My Father's Shoulders",
-      "author": {
-         "authorized": "Willoughby, Barrett, -1959",
-         "lcna": "n94074965"
-      }
-     },
-     {"issue": {"issue-date": "1925-06", "volume": "99", "number": "6"},
-      "title": "Such a Nice Old Man",
-      "author": {
-       "name": "Marion Valensi"
-      }
-     },
-     {"issue": {"issue-date": "1925-07", "volume": "100", "number": "1"},
-      "title": "Adventures in Understanding",
-      "title-note": "part 11 of 12",
-      "note": "Author name is a pseudonym for Ray Stannard Baker",
-      "author": {
-         "authorized": "Grayson, David, 1870-1946",
-         "lcna": "n88084521"
-       }
-     },
-     {"issue": {"issue-date": "1925-07", "volume": "100", "number": "1"},
-      "title": "Thrilling Days in Dawson When the Klondyke Rusk Was On",
-      "author": {
-         "authorized": "Willoughby, Barrett, -1959",
-         "lcna": "n94074965"
-      }
-     },
-     {"issue": {"issue-date": "1925-08", "volume": "100", "number": "2"},
-      "title": "Adventures in Understanding",
-      "title-note": "part 12 of 12",
-      "note": "Author name is a pseudonym for Ray Stannard Baker",
-      "author": {
-         "authorized": "Grayson, David, 1870-1946",
-         "lcna": "n88084521"
-       }
-     },
-     {"issue": {"issue-date": "1925-08", "volume": "100", "number": "2"},
-      "title": "King of the Arctic Trails",
-      "author": {
-         "authorized": "Willoughby, Barrett, -1959",
-         "lcna": "n94074965"
-      }
-     },
-     {"issue": {"issue-date": "1925-09", "volume": "100", "number": "3"},
-      "title": "Wild Things in Tight Places",
-      "author": {
-       "authorized": "Rutledge, Archibald, 1883-1973",
-       "lcna": "n50031762"
-      }
-     },
-     {"issue": {"issue-date": "1925-10", "volume": "100", "number": "4"},
-      "title": "They Love Their Home",
-      "author": {
-       "authorized": "Rutledge, Archibald, 1883-1973",
-       "lcna": "n50031762"
-      }
-     },
-     {"issue": {"issue-date": "1925-11", "volume": "100", "number": "5"},
-      "title": "A Trail Blazers Adventures at the Top of the World",
-      "author": {
-         "authorized": "Willoughby, Barrett, -1959",
-         "lcna": "n94074965"
-      }
-     },
-     {"issue": {"issue-date": "1925-12", "volume": "100", "number": "6"},
-      "title": "When Debt Comes in at the Door",
-      "author": {
-       "authorized": "Banning, Margaret Culkin, 1891-1982",
-       "lcna": "n86086096"
-      }
-     },
-     {"issue": {"issue-date": "1925-12", "volume": "100", "number": "6"},
-      "title": "The Phantom of the Forest",
-      "author": {
-       "authorized": "Rutledge, Archibald, 1883-1973",
-       "lcna": "n50031762"
-      }
-     },
-     {"issue": {"issue-date": "1925-12", "volume": "100", "number": "6"},
-      "title": "Happiness Now",
-      "author": {
-       "authorized": "Tarkington, Booth, 1869-1946",
-       "lcna": "n79078124"
-      }
-     },
-     {"issue": {"issue-date": "1926-01", "volume": "101", "number": "1"},
-      "title": "The Sunset Derby",
-      "author": {
-         "authorized": "Pelley, William Dudley, 1890-1965",
-         "lcna": "n83065963"
-       }
-     },
-     {"issue": {"issue-date": "1926-01", "volume": "101", "number": "1"},
-      "title": "Let Dot Do It",
-      "author": {
-         "authorized": "Kilbourne, Fannie, 1890-",
-         "lcna": "no93026233"
-       }
-     },
-     {"issue": {"issue-date": "1926-01", "volume": "101", "number": "1"},
-      "title": "Father of Pictures",
-      "author": {
-         "authorized": "Willoughby, Barrett, -1959",
-         "lcna": "n94074965"
-      }
-     },
      {"issue": {"issue-date": "1926-03", "volume": "101", "number": "3"},
       "title": "Do You Believe in Luck?",
       "author": {
@@ -1569,5 +1396,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-05-10"
+   "last-updated": "2021-01-17"
 }

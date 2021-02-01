@@ -1,19 +1,19 @@
 {
    "title": "Social Forces",
-   "aka": ["The Journal of Social Forces"],
    "online": "1",
+   "preceded-by":
+      [{"id": "jsocialforces", "note": "The Journal of Social Forces"}],
    "first-issue": 
-     {"issue-date": "1922-11", "volume": "1", "number": "1"},
+     {"issue-date": "1925-09", "volume": "4", "number": "1"},
    "first-renewed-issue":
      {"issue-date": "1948-10", "volume": "27", "number": "1"},
    "first-renewed-issue-source": "1976-JulDec",
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1950-10", "volume": "29", "number": "1"}},
    "first-renewed-contribution-source": "database",
-   "additional-note": "Published under the title The Journal of Social Forces from 1922 to 1925.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-04-01"
+   "last-updated": "2021-01-31"
 }

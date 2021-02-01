@@ -8,31 +8,17 @@
    "first-issue":
       {"issue-date": "1922-02", "volume": "1", "number": "1"},
    "first-renewed-issue":
-      {"issue-date": "1925-02", "volume": "9", "number": "6",
-         "cdate": "1925-01-20"},
-   "first-renewed-issue-source": "1952",
+      {"issue-date": "1926-02", "volume": "11", "number": "6",
+               "cdate": "1926-01-15"},
+   "first-renewed-issue-source": "1953-JanJun",
    "first-renewed-contribution":
-      {"issue": {"issue-date": "1925-12", "volume": "11", "number": "4"}},
-   "first-renewed-contribution-source": "1952-JulDec",
+      {"issue": {"issue-date": "1926-04", "volume": "12", "number": "2"}},
+   "first-renewed-contribution-source": "1953-JanJun",
    "last-issue":
       {"issue-date": "1930-06", "volume": "20", "number": "4"},
    "succeeded-by": [{"id": "excitement", "note": "Excitement"}],
-   "renewed-issue-completeness": "active/1925",
+   "renewed-issue-completeness": "active/1926",
    "renewed-issues": [
-      {"issue-date": "1925-02", "volume": "9", "number": "6",
-         "cdate": "1925-01-20"},
-      {"issue-date": "1925-03", "volume": "10", "number": "1"},
-      {"issue-date": "1925-04", "volume": "10", "number": "2"}, 
-      {"issue-date": "1925-05", "volume": "10", "number": "3"},
-      {"issue-date": "1925-06", "volume": "10", "number": "4"},  
-      {"issue-date": "1925-07", "volume": "10", "number": "5"},
-      {"issue-date": "1925-08", "volume": "10", "number": "6"}, 
-      {"issue-date": "1925-09", "volume": "11", "number": "1"},
-      {"issue-date": "1925-10", "volume": "11", "number": "2"}, 
-      {"issue-date": "1925-11", "volume": "11", "number": "3"},
-      {"issue-date": "1925-12", "volume": "11", "number": "4"},
-      {"issue-date": "1926-01", "volume": "11", "number": "5",
-               "cdate": "1925-12-15"}, 
       {"issue-date": "1926-02", "volume": "11", "number": "6",
                "cdate": "1926-01-15"},
       {"issue-date": "1926-03", "volume": "12", "number": "1"},
@@ -43,17 +29,23 @@
       {"issue-date": "1926-08", "volume": "12", "number": "6"}, 
       {"issue-date": "1926-09", "volume": "13", "number": "1"},
       {"issue-date": "1926-10", "volume": "13", "number": "2"},
-      {"issue-date": "1926-11", "volume": "13", "number": "3"}
+      {"issue-date": "1926-11", "volume": "13", "number": "3"},
+      {"issue-date": "1926-12", "volume": "13", "number": "4"},
+      {"issue-date": "1927-01", "volume": "13", "number": "5",
+       "cdate": "1926-12-15"},
+      {"issue-date": "1927-02", "volume": "13", "number": "6",
+       "cdate":"1927-01-14"},
+      {"issue-date": "1927-03", "volume": "14", "number": "1"},
+      {"issue-date": "1927-04", "volume": "14", "number": "2"}, 
+      {"issue-date": "1927-05", "volume": "14", "number": "3"}, 
+      {"issue-date": "1927-06", "volume": "14", "number": "4"}, 
+      {"issue-date": "1927-07", "volume": "14", "number": "5"}, 
+      {"issue-date": "1927-08", "volume": "14", "number": "6"}, 
+      {"issue-date": "1927-09", "volume": "15", "number": "1"}, 
+      {"issue-date": "1927-10", "volume": "15", "number": "2"}
    ],
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1925-12", "volume": "11", "number": "4"},
-      "title": "Captain's Holiday",
-      "author": {
-         "authorized": "Raine, Norman Reilly, 1895-1971",
-         "lcna": "n85342738"
-      }
-     },
      {"issue": {"issue-date": "1926-04", "volume": "12", "number": "2"},
       "title": "Command",
       "author": {
@@ -80,5 +72,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-05-19"
+   "last-updated": "2021-01-16"
 }

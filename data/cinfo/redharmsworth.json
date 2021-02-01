@@ -10,88 +10,59 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution":
-      {"issue": {"issue-date": "1925-07-31", "number": "395"}}, 
-   "first-renewed-contribution-source": "1953-JanJun",
+      {"issue": {"issue-date": "1928-09-21", "number": "476"}}, 
+   "first-renewed-contribution-source": "1956-JanJun",
    "last-issue": {"issue-date": "1939-09", "number": "620"},
-   "renewed-contribution-completeness": "active/1925",
+   "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1925-07-31", "number": "395"}, 
-      "title": "Tomorrow's Tangle",
-      "title-note": "part 1 of 8",
-      "note": "Renewal record appears in the Books section of CCE.",
+     {"issue": {"issue-date": "1928-09-21", "number": "476"}, 
+      "title": "The Guarded Halo",
+      "title-note": "part 1 of 5",
       "author": {
        "authorized": "Pedler, Margaret",
        "lcna": "nr2002022198"
       }
      },
-     {"issue": {"issue-date": "1925-08-14", "number": "396"}, 
-      "title": "Tomorrow's Tangle",
-      "title-note": "part 2 of 8",
-      "note": "Renewal record appears in the Books section of CCE.",
+     {"issue": {"issue-date": "1928-10-05", "number": "477"}, 
+      "title": "The Guarded Halo",
+      "title-note": "part 2 of 5",
       "author": {
        "authorized": "Pedler, Margaret",
        "lcna": "nr2002022198"
       }
      },
-     {"issue": {"issue-date": "1925-08-28", "number": "397"}, 
-      "title": "Tomorrow's Tangle",
-      "title-note": "part 3 of 8",
-      "note": "Renewal record appears in the Books section of CCE.",
+     {"issue": {"issue-date": "1928-10-19", "number": "478"}, 
+      "title": "The Guarded Halo",
+      "title-note": "part 3 of 5",
       "author": {
        "authorized": "Pedler, Margaret",
        "lcna": "nr2002022198"
       }
      },
-     {"issue": {"issue-date": "1925-09-11", "number": "398"}, 
-      "title": "Tomorrow's Tangle",
-      "title-note": "part 4 of 8",
-      "note": "Renewal record appears in the Books section of CCE.",
+     {"issue": {"issue-date": "1928-11-02", "number": "479"}, 
+      "title": "The Guarded Halo",
+      "title-note": "part 4 of 5",
       "author": {
        "authorized": "Pedler, Margaret",
        "lcna": "nr2002022198"
       }
      },
-     {"issue": {"issue-date": "1925-09-25", "number": "399"}, 
-      "title": "Tomorrow's Tangle",
-      "title-note": "part 5 of 8",
-      "note": "Renewal record appears in the Books section of CCE.",
-      "author": {
-       "authorized": "Pedler, Margaret",
-       "lcna": "nr2002022198"
-      }
-     },
-     {"issue": {"issue-date": "1925-10-09", "number": "400"}, 
-      "title": "Tomorrow's Tangle",
-      "title-note": "part 6 of 8",
-      "note": "Renewal record appears in the Books section of CCE.",
-      "author": {
-       "authorized": "Pedler, Margaret",
-       "lcna": "nr2002022198"
-      }
-     },
-     {"issue": {"issue-date": "1925-10-23", "number": "401"}, 
-      "title": "Tomorrow's Tangle",
-      "title-note": "part 7 of 8",
-      "note": "Renewal record appears in the Books section of CCE.",
-      "author": {
-       "authorized": "Pedler, Margaret",
-       "lcna": "nr2002022198"
-      }
-     },
-     {"issue": {"issue-date": "1925-11-06", "number": "402"}, 
-      "title": "Tomorrow's Tangle",
-      "title-note": "part 8 of 8",
-      "note": "Renewal record appears in the Books section of CCE.",
+     {"issue": {"issue-date": "1928-11-30", "number": "481"}, 
+      "title": "The Guarded Halo",
+      "title-note": "part 5 of 5",
       "author": {
        "authorized": "Pedler, Margaret",
        "lcna": "nr2002022198"
       }
      }
    ],
-   "additional-note" : "This is a British publication.  Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US.",
+   "additional-notes": [
+     "This is a British publication.  Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US.",
+     "While the November 16, 1928 issue is not specifically mentioned in the CCE renewal record for 'The Guarded Halo', one should check for an installment of that story before concluding the issue is in the public domain."
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-01-15"
+   "last-updated": "2021-01-15"
 }

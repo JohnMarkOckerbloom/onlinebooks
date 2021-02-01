@@ -8,41 +8,17 @@
       "note": "FictionMags"}
    ],
    "first-renewed-issue": 
-     {"issue-date": "1925-01-07", "volume": "74", "number": "6"},
-   "first-renewed-issue-source": "1952",
+     {"issue-date": "1926-01-07", "volume": "78", "number": "6"},
+   "first-renewed-issue-source": "1953-JanJun",
    "first-renewed-contribution":
-    {"issue": {"issue-date": "1925-01-07", "volume": "74", "number": "6"}},
-   "first-renewed-contribution-source": "1953-JanJun",
+    {"issue": {"issue-date": "1926-02-07", "volume": "79", "number": "2"}},
+   "first-renewed-contribution-source": "1953-JulDec",
    "last-issue": {"issue-date": "1931-10", "volume": "103", "number": "6"},
    "see-also": [
       {"id": "completestories", "note": "Complete Stories"}
    ],
-   "renewed-issue-completeness": "active/1925",
+   "renewed-issue-completeness": "active/1926",
    "renewed-issues": [
-     {"issue-date": "1925-01-07", "volume": "74", "number": "6"},
-     {"issue-date": "1925-01-20", "volume": "75", "number": "1"},
-     {"issue-date": "1925-02-07", "volume": "75", "number": "2"},
-     {"issue-date": "1925-02-20", "volume": "75", "number": "3"},
-     {"issue-date": "1925-03-07", "volume": "75", "number": "4"},
-     {"issue-date": "1925-03-20", "volume": "75", "number": "5"},
-     {"issue-date": "1925-04-07", "volume": "75", "number": "6"},
-     {"issue-date": "1925-06-20", "volume": "76", "number": "1"},
-     {"issue-date": "1925-05-07", "volume": "76", "number": "2"},
-     {"issue-date": "1925-05-20", "volume": "76", "number": "3"},
-     {"issue-date": "1925-06-07", "volume": "76", "number": "4"},
-     {"issue-date": "1925-06-20", "volume": "76", "number": "5"},
-     {"issue-date": "1925-07-07", "volume": "76", "number": "6"},
-     {"issue-date": "1925-07-20", "volume": "77", "number": "1"},
-     {"issue-date": "1925-08-07", "volume": "77", "number": "2"},
-     {"issue-date": "1925-08-20", "volume": "77", "number": "3"},
-     {"issue-date": "1925-09-07", "volume": "77", "number": "4"},
-     {"issue-date": "1925-09-20", "volume": "77", "number": "5"},
-     {"issue-date": "1925-10-07", "volume": "77", "number": "6"},
-     {"issue-date": "1925-10-20", "volume": "78", "number": "1"},
-     {"issue-date": "1925-11-07", "volume": "78", "number": "2"},
-     {"issue-date": "1925-11-20", "volume": "78", "number": "3"},
-     {"issue-date": "1925-12-07", "volume": "78", "number": "4"},
-     {"issue-date": "1925-12-20", "volume": "78", "number": "5"}, 
      {"issue-date": "1926-01-07", "volume": "78", "number": "6"},
      {"issue-date": "1926-01-20", "volume": "79", "number": "1"},
      {"issue-date": "1926-02-07", "volume": "79", "number": "2"},
@@ -63,70 +39,69 @@
      {"issue-date": "1926-09-20", "volume": "81", "number": "5"},
      {"issue-date": "1926-10-07", "volume": "81", "number": "6"},
      {"issue-date": "1926-10-20", "volume": "82", "number": "1"},
-     {"issue-date": "1926-11-07", "volume": "82", "number": "2"}
+     {"issue-date": "1926-11-07", "volume": "82", "number": "2"},
+     {"issue-date": "1926-11-20", "volume": "82", "number": "3"},
+     {"issue-date": "1926-12-07", "volume": "82", "number": "4"},
+     {"issue-date": "1926-12-20", "volume": "82", "number": "5"},
+     {"issue-date": "1927-01-07", "volume": "82", "number": "6"},
+     {"issue-date": "1927-01-20", "volume": "83", "number": "1"},
+     {"issue-date": "1927-02-07", "volume": "83", "number": "2"},
+     {"issue-date": "1927-02-20", "volume": "83", "number": "3"},
+     {"issue-date": "1927-03-07", "volume": "83", "number": "4"},
+     {"issue-date": "1927-03-20", "volume": "83", "number": "5"},
+     {"issue-date": "1927-04-07", "volume": "83", "number": "6"},
+     {"issue-date": "1927-04-20", "volume": "84", "number": "1"},
+     {"issue-date": "1927-05-07", "volume": "84", "number": "2"},
+     {"issue-date": "1927-05-20", "volume": "84", "number": "3"},
+     {"issue-date": "1927-06-07", "volume": "84", "number": "4"},
+     {"issue-date": "1927-06-20", "volume": "84", "number": "5"},
+     {"issue-date": "1927-07-07", "volume": "84", "number": "6"},
+     {"issue-date": "1927-07-20", "volume": "85", "number": "1"},
+     {"issue-date": "1927-08-07", "volume": "85", "number": "2"},
+     {"issue-date": "1927-08-20", "volume": "85", "number": "3"},
+     {"issue-date": "1927-09-07", "volume": "85", "number": "4"},
+     {"issue-date": "1927-09-24", "volume": "85", "number": "5"},
+     {"issue-date": "1927-10-01", "volume": "85", "number": "6"}
    ],
-   "renewed-contribution-completeness": "active/1925",
+   "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1925-01-07", "volume": "74", "number": "6"},
-      "title": "Temescal",
-      "title-note": "part 1 of 5",
-      "author": {
-       "authorized": "Knibbs, Henry Herbert, 1874-1945",
-       "lcna": "no96011372"
-      }
-     },
-     {"issue": {"issue-date": "1925-01-20", "volume": "75", "number": "1"},
-      "title": "Temescal",
-      "title-note": "part 2 of 5",
-      "author": {
-       "authorized": "Knibbs, Henry Herbert, 1874-1945",
-       "lcna": "no96011372"
-      }
-     },
-     {"issue": {"issue-date": "1925-02-07", "volume": "75", "number": "2"},
-      "title": "Temescal",
-      "title-note": "part 3 of 5",
-      "author": {
-       "authorized": "Knibbs, Henry Herbert, 1874-1945",
-       "lcna": "no96011372"
-      }
-     },
-     {"issue": {"issue-date": "1925-02-20", "volume": "75", "number": "3"},
-      "title": "Temescal",
-      "title-note": "part 4 of 5",
-      "author": {
-       "authorized": "Knibbs, Henry Herbert, 1874-1945",
-       "lcna": "no96011372"
-      }
-     },
-     {"issue": {"issue-date": "1925-03-07", "volume": "75", "number": "4"},
-      "title": "Temescal",
-      "title-note": "part 5 of 5",
-      "author": {
-       "authorized": "Knibbs, Henry Herbert, 1874-1945",
-       "lcna": "no96011372"
-      }
-     },
-     {"issue": {"issue-date": "1925-05-20", "volume": "76", "number": "3"},
-      "title": "The Sungazers",
-      "author": {
-       "authorized": "Knibbs, Henry Herbert, 1874-1945",
-       "lcna": "no96011372"
-      }
-     },
-     {"issue": {"issue-date": "1925-10-07", "volume": "77", "number": "6"},
-      "title": "The Nameless Terror",
-      "note": "Credited on cover to 'Sapper', McNeile's pseudonym",
-      "author": {
-       "authorized": "McNeile, H. C. (Herman Cyril), 1888-1937",
-       "lcna": "no96039399"
-      }
-     },
      {"issue": {"issue-date": "1926-02-07", "volume": "79", "number": "2"},
       "title": "Light of the West",
       "author": {
        "authorized": "Haycox, Ernest, 1899-1950",
        "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1926-05-07", "volume": "80", "number": "2"},
+      "title": "The Goddess From the Shades",
+      "title-note": "part 1 of 4",
+      "author": {
+       "authorized": "Buchan, John, 1875-1940",
+       "lcna": "n79045167"
+      }
+     },
+     {"issue": {"issue-date": "1926-05-20", "volume": "80", "number": "3"},
+      "title": "The Goddess From the Shades",
+      "title-note": "part 2 of 4",
+      "author": {
+       "authorized": "Buchan, John, 1875-1940",
+       "lcna": "n79045167"
+      }
+     },
+     {"issue": {"issue-date": "1926-06-07", "volume": "80", "number": "4"},
+      "title": "The Goddess From the Shades",
+      "title-note": "part 3 of 4",
+      "author": {
+       "authorized": "Buchan, John, 1875-1940",
+       "lcna": "n79045167"
+      }
+     },
+     {"issue": {"issue-date": "1926-06-20", "volume": "80", "number": "5"},
+      "title": "The Goddess From the Shades",
+      "title-note": "part 4 of 4",
+      "author": {
+       "authorized": "Buchan, John, 1875-1940",
+       "lcna": "n79045167"
       }
      },
      {"issue": {"issue-date": "1926-10-07", "volume": "81", "number": "6"},
@@ -135,14 +110,86 @@
        "authorized": "Stacpoole, H. De Vere (Henry De Vere), 1863-1951",
        "lcna": "n84006520"
       }
+     },
+     {"issue": {"issue-date": "1926-10-07", "volume": "81", "number": "6"},
+      "title": "The Split Canyon Hold-Up",
+      "author": {
+       "authorized": "Lynde, Francis, 1856-1930",
+       "lcna": "n88093606"
+      }
+     },
+     {"issue": {"issue-date": "1927-01-07", "volume": "82", "number": "6"},
+      "title": "The Fighting Gringo",
+      "author": {
+       "authorized": "Knibbs, Henry Herbert, 1874-1945",
+       "lcna": "no96011372"
+      }
+     },
+     {"issue": {"issue-date": "1927-03-07", "volume": "83", "number": "4"},
+      "title": "The Easy Mark",
+      "author": {
+       "authorized": "Lynde, Francis, 1856-1930",
+       "lcna": "n88093606"
+      }
+     },
+     {"issue": {"issue-date": "1927-07-24", "volume": "85", "number": "5"},
+      "title": "The Blue Envelope",
+      "author": {
+       "authorized": "Lynde, Francis, 1856-1930",
+       "lcna": "n88093606"
+      }
+     },
+     {"issue": {"issue-date": "1927-12-03", "volume": "87", "number": "3"},
+      "title": "The Devil to Pay",
+      "author": {
+       "authorized": "Lynde, Francis, 1856-1930",
+       "lcna": "n88093606"
+      }
+     },
+     {"issue": {"issue-date": "1928-02-18", "volume": "89", "number": "2"},
+      "title": "A Lone Hand",
+      "author": {
+       "authorized": "Lynde, Francis, 1856-1930",
+       "lcna": "n88093606"
+      }
+     },
+     {"issue": {"issue-date": "1928-07-07", "volume": "92", "number": "4"},
+      "title": "The Vanishing Point",
+      "author": {
+       "authorized": "Lynde, Francis, 1856-1930",
+       "lcna": "n88093606"
+      }
+     },
+     {"issue": {"issue-date": "1929-01-20", "volume": "94", "number": "3"},
+      "title": "Marked Men",
+      "note": "Issue date given as January 20, 1929 in indicia and December 20, 1928 on the cover.",
+      "author": {
+       "authorized": "Buck, Charles Neville, 1879-1957",
+       "lcna": "no93001477"
+      }
+     },
+     {"issue": {"issue-date": "1930-First February number",
+                "volume": "98", "number": "4"},
+      "title": "The Earthquakers",
+      "author": {
+       "authorized": "Lynde, Francis, 1856-1930",
+       "lcna": "n88093606"
+      }
+     },
+     {"issue": {"issue-date": "1931-10", "volume": "103", "number": "6"},
+      "title": "Winning His Corks",
+      "author": {
+         "authorized": "Pinkerton, Robert E. (Robert Eugene), 1882-1970",
+         "lcna": "no2003073197"
+       }
      }
    ],
    "additional-notes" : [
-      "Active contribution renewals are recorded beginning in the 1952 July-December CCE volume, but the earliest actively renewed contribution is noted in the 1953 January-June volume.",
+      "Known as The Popular Stories beginning with the September 24, 1927 issue. Resumed the Popular Magazine name in 1928.",
      "This magazine was absorbed by Complete Stories in October 1931. That magazine then published as The Popular Complete Stories until July 1932."],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-01-18"
+   "last-updated": "2021-01-14"
 }

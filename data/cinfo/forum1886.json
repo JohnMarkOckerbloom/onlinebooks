@@ -5,41 +5,10 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution":
-      {"issue": {"issue-date": "1925-02", "cdate": "1925-01-14"}},
-   "first-renewed-contribution-source": "1952-JanJun",
-   "renewed-contribution-completeness": "active/1925",
+     {"issue": {"issue-date": "1926-03"}}, 
+   "first-renewed-contribution-source": "1953-JanJun",
+   "renewed-contribution-completeness": "active/1930",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1925-02"}, 
-      "title": "Soundings",
-      "title-note": "part 5 of 7",
-      "author": {
-       "authorized": "Gibbs, A. Hamilton (Arthur Hamilton), 1888-1964",
-       "lcna": "no96023633"
-      }
-     },
-     {"issue": {"issue-date": "1925-03"}, 
-      "title": "Soundings",
-      "title-note": "part 6 of 7",
-      "author": {
-       "authorized": "Gibbs, A. Hamilton (Arthur Hamilton), 1888-1964",
-       "lcna": "no96023633"
-      }
-     },
-     {"issue": {"issue-date": "1925-04"}, 
-      "title": "Soundings",
-      "title-note": "part 7 of 7",
-      "author": {
-       "authorized": "Gibbs, A. Hamilton (Arthur Hamilton), 1888-1964",
-       "lcna": "no96023633"
-      }
-     },
-     {"issue": {"issue-date": "1925-09"}, 
-      "title": "Saint-Pol in the Sun",
-      "author": {
-       "authorized": "Coffin, Robert P. Tristram (Robert Peter Tristram), 1892-1955",
-       "lcna": "n50030030"
-      }
-     },
      {"issue": {"issue-date": "1926-03"}, 
       "title": "The Veiled Feminists of Atlantis",
       "author": {
@@ -60,11 +29,244 @@
          "authorized": "Huxley, Julian, 1887-1975",
          "lcna": "n80057245"
         }
+     },
+     {"issue": {"issue-date": "1926-08"},
+      "title": "In Defense of Authors",
+      "author": {
+       "authorized": "Train, Arthur, 1875-1945",
+       "lcna": "n50014661"
+      }
+     },
+     {"issue": {"issue-date": "1927-01"},
+        "title": "Death Comes for the Archbishop",
+        "title-note": "part 1 of 6",
+        "author": {
+         "authorized": "Cather, Willa, 1873-1947",
+         "lcna": "n80015717"
+        }
+     },
+     {"issue": {"issue-date": "1927-02"},
+        "title": "Death Comes for the Archbishop",
+        "title-note": "part 2 of 6",
+        "author": {
+         "authorized": "Cather, Willa, 1873-1947",
+         "lcna": "n80015717"
+        }
+     },
+     {"issue": {"issue-date": "1927-03"},
+      "title": "An Accident on the Quai Voltaire",
+      "author": {
+       "authorized": "Borden, Mary",
+       "using": "Mary Spears",
+       "lcna": "n89600063"
+      }
+     },
+     {"issue": {"issue-date": "1927-03"},
+        "title": "Death Comes for the Archbishop",
+        "title-note": "part 3 of 6",
+        "author": {
+         "authorized": "Cather, Willa, 1873-1947",
+         "lcna": "n80015717"
+        }
+     },
+     {"issue": {"issue-date": "1927-04"},
+        "title": "Death Comes for the Archbishop",
+        "title-note": "part 4 of 6",
+        "author": {
+         "authorized": "Cather, Willa, 1873-1947",
+         "lcna": "n80015717"
+        }
+     },
+     {"issue": {"issue-date": "1927-05"},
+      "title": "Herodias the White",
+      "author": {
+       "authorized": "Sass, Herbert Ravenel, 1884-1958",
+       "lcna": "n88224199"
+      }
+     },
+     {"issue": {"issue-date": "1927-05"},
+        "title": "Death Comes for the Archbishop",
+        "title-note": "part 5 of 6",
+        "author": {
+         "authorized": "Cather, Willa, 1873-1947",
+         "lcna": "n80015717"
+        }
+     },
+     {"issue": {"issue-date": "1927-06"},
+        "title": "Death Comes for the Archbishop",
+        "title-note": "part 6 of 6",
+        "author": {
+         "authorized": "Cather, Willa, 1873-1947",
+         "lcna": "n80015717"
+        }
+     },
+     {"issue": {"issue-date": "1927-07"}, 
+      "title": "The Book of Tenants",
+      "author": {
+       "authorized": "Coffin, Robert P. Tristram (Robert Peter Tristram), 1892-1955",
+       "lcna": "n50030030"
+      }
+     },
+     {"issue": {"issue-date": "1927-09"}, 
+        "title": "Nightingale",
+        "author": {
+         "authorized": "Lawrence, D. H. (David Herbert), 1885-1930",
+         "lcna": "n79018450"
+        }
+     },
+     {"issue": {"issue-date": "1927-10"},
+        "title": "Ferdinand and the Taste for Cheese",
+        "author": {
+         "authorized": "Morley, Christopher, 1890-1957",
+         "lcna": "n50006133"
+        }
+     },
+     {"issue": {"issue-date": "1927-12"}, 
+      "title": "Gilt Heels and Captains' Boots",
+      "author": {
+       "authorized": "Coffin, Robert P. Tristram (Robert Peter Tristram), 1892-1955",
+       "lcna": "n50030030"
+      }
+     },
+     {"issue": {"issue-date": "1928-02"}, 
+        "title": "Escaped Cock",
+        "author": {
+         "authorized": "Lawrence, D. H. (David Herbert), 1885-1930",
+         "lcna": "n79018450"
+        }
+     },
+     {"issue": {"issue-date": "1928-02"}, 
+      "title": "The Glass Eater's Story",
+      "author": {
+         "authorized": "Marquis, Don, 1878-1937",
+         "lcna": "n50041532"
+       }
+     },
+     {"issue": {"issue-date": "1928-03"},
+        "title": "The End of the Borden Case",
+        "author": {
+         "authorized": "Pearson, Edmund Lester, 1880-1937",
+         "lcna": "n50012420"
+        }
+     },
+     {"issue": {"issue-date": "1928-05"},
+      "title": "Stigma of Wealth",
+      "title-note": "part 1 of 2",
+      "author": {
+       "authorized": "Train, Arthur, 1875-1945",
+       "lcna": "n50014661"
+      }
+     },
+     {"issue": {"issue-date": "1928-06"},
+        "title": "Really My Dear",
+        "author": {
+         "authorized": "Morley, Christopher, 1890-1957",
+         "lcna": "n50006133"
+        }
+     },
+     {"issue": {"issue-date": "1928-06"},
+      "title": "Stigma of Wealth",
+      "title-note": "part 2 of 2",
+      "author": {
+       "authorized": "Train, Arthur, 1875-1945",
+       "lcna": "n50014661"
+      }
+     },
+     {"issue": {"issue-date": "1928-07"},
+      "title": "The Humanism of Irving Babbitt",
+      "author": {
+       "authorized": "Eliot, T. S. (Thomas Stearns), 1888-1965",
+       "lcna": "n79006870"
+      }
+     },
+     {"issue": {"issue-date": "1928-10"},
+      "title": "The Wardens of the Shoals",
+      "author": {
+         "authorized": "McFee, William, 1881-1966",
+         "lcna": "n82053296"
+      }
+     },
+     {"issue": {"issue-date": "1928-12"},
+        "title": "Goods and Chattels",
+        "author": {
+         "authorized": "Benét, Laura",
+         "lcna": "n50008105"
+        }
+     },
+     {"issue": {"issue-date": "1928-12"},
+        "title": "The Return of Christ",
+        "author": {
+         "authorized": "Ficke, Arthur Davison, 1883-1945",
+         "lcna": "n82119450"
+        }
+     },
+     {"issue": {"issue-date": "1928-12"},
+        "title": "High Wind in Jamaica",
+        "author": {
+         "authorized": "Hughes, Richard, 1900-1976",
+         "lcna": "n50034197"
+        }
+     },
+     {"issue": {"issue-date": "1929-01"}, 
+        "title": "Cocksure Women and Hensure Men",
+        "author": {
+         "authorized": "Lawrence, D. H. (David Herbert), 1885-1930",
+         "lcna": "n79018450"
+        }
+     },
+     {"issue": {"issue-date": "1929-02"},
+        "title": "Double Birthday",
+        "author": {
+         "authorized": "Cather, Willa, 1873-1947",
+         "lcna": "n80015717"
+        }
+     },
+     {"issue": {"issue-date": "1929-06"},
+        "title": "At Schoharie Crossing",
+        "author": {
+         "authorized": "Edmonds, Walter D. (Walter Dumaux), 1903-1998",
+         "lcna": "n79083990"
+        }
+     },
+     {"issue": {"issue-date": "1929-08"},
+        "title": "The Old Jew's Tale",
+        "author": {
+         "authorized": "Edmonds, Walter D. (Walter Dumaux), 1903-1998",
+         "lcna": "n79083990"
+        }
+     },
+     {"issue": {"issue-date": "1930-04"},
+      "title": "A Rose for Emily",
+      "author": {
+         "authorized": "Faulkner, William, 1897-1962",
+         "lcna": "n79003304"
+      }
+     },
+     {"issue": {"issue-date": "1931-04"}, 
+      "title": "The Country Weekly",
+      "author": {
+       "authorized": "Anderson, Sherwood, 1876-1941",
+       "lcna": "n79045519"
+      }
+     },
+     {"issue": {"issue-date": "1931-07"},
+      "title": "Without Flame",
+      "author": {
+       "authorized": "White, Nelia Gardner, 1894-1957",
+       "lcna": "no93013886"
+      }
+     },
+     {"issue": {"issue-date": "1932-01"},
+        "title": "The Cruise of the Cashalot",
+        "author": {
+         "authorized": "Edmonds, Walter D. (Walter Dumaux), 1903-1998",
+         "lcna": "n79083990"
+        }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-01-26"
+   "last-updated": "2021-01-23"
 }

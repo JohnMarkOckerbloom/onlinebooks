@@ -8,6 +8,7 @@
    "first-renewed-contribution": 
       {"issue": {"issue-date": "1933-09"}},
    "first-renewed-contribution-source": "1961-JanJun",
+   "renewed-issue-completeness": "active/1926",
    "renewed-issues": [
       {"issue-date": "1926-04", "volume": "4", "number": "48"},
       {"issue-date": "1926-05", "volume": "5", "number": "49"},
@@ -16,12 +17,26 @@
       {"issue-date": "1926-11", "volume": "5", "number": "55"},
       {"issue-date": "1926-12", "volume": "5", "number": "56"},
       {"issue-date": "1927-01", "volume": "5", "number": "57",
-       "cdate": "1926-12-20"}
+       "cdate": "1926-12-20"},
+      {"issue-date": "1927-02", "volume": "5", "number": "58",
+       "cdate": "1927-01-18"},
+      {"issue-date": "1927-03", "volume": "5", "number": "59"},
+      {"issue-date": "1927-04", "volume": "5", "number": "60"},
+      {"issue-date": "1927-05", "volume": "6", "number": "61"},
+      {"issue-date": "1927-06", "volume": "6", "number": "62"},
+      {"issue-date": "1927-07", "volume": "6", "number": "63"},
+      {"issue-date": "1927-08", "volume": "6", "number": "64"},
+      {"issue-date": "1927-09", "volume": "6", "number": "65"},
+      {"issue-date": "1927-10", "volume": "6", "number": "66"},
+      {"issue-date": "1927-11", "volume": "6", "number": "67"},
+      {"issue-date": "1927-12", "volume": "6", "number": "68"},
+      {"issue-date": "1928-01", "volume": "6", "number": "69",
+       "cdate": "1927-12-16"}
    ],
    "additional-note": "This magazine includes reprints and condensations of articles originally published elsewhere.  Those may have their own copyrights, and we have not systematically checked their renewal status.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-01-19"
+   "last-updated": "2021-01-15"
 }

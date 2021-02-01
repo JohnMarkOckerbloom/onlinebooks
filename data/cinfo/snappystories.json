@@ -9,45 +9,11 @@
    "first-issue": {"issue-date": "1912-08", "volume": "1", "number": "1"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
-   "first-renewed-contribution":
-      {"issue": {"issue-date": "1925-09-20", "volume": "93", "number": "2"}},
-   "first-renewed-contribution-source": "1953-JulDec",
-   "renewed-contributions": [
-     {"issue": {"issue-date": "1925-09-20", "volume": "93", "number": "2"},
-        "title": "How She Lied to Her Boy Friend",
-        "author": {
-         "authorized": "Raphaelson, Samson, 1896-1983",
-         "lcna": "n79034504"
-        }
-     },
-     {"issue": {"issue-date": "1925-10-05", "volume": "93", "number": "3"},
-        "title": "The Madness of Men",
-        "title-note": "part 1 of 2",
-        "author": {
-         "authorized": "Raphaelson, Samson, 1896-1983",
-         "lcna": "n79034504"
-        }
-     },
-     {"issue": {"issue-date": "1925-10-20", "volume": "94", "number": "1"},
-        "title": "The Madness of Men",
-        "title-note": "part 2 of 2",
-        "author": {
-         "authorized": "Raphaelson, Samson, 1896-1983",
-         "lcna": "n79034504"
-        }
-     },
-     {"issue": {"issue-date": "1925-11-05", "volume": "94", "number": "2"},
-        "title": "He Wanted to Marry a Rich Girl",
-        "author": {
-         "authorized": "Raphaelson, Samson, 1896-1983",
-         "lcna": "n79034504"
-        }
-     }
-   ],
-   "additional-note" : "Active contribution renewals are recorded beginning in the 1953 January-June CCE volume, but the earliest actively renewed contribution is noted in the 1953 July-December volume.",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-05-30"
+   "last-updated": "2021-01-28"
 }

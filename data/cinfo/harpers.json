@@ -7,28 +7,14 @@
       "note": "FictionMags (might not include nonfiction contents)"}
    ],
    "first-renewed-issue": 
-     {"issue-date": "1925-02", "volume": "150", "number": "897",
-        "cdate": "1925-01-23"},
-   "first-renewed-issue-source": "1952",
+     {"issue-date": "1926-02", "volume": "152", "number": "909",
+        "cdate": "1926-01-22"},
+   "first-renewed-issue-source": "1953-JulDec",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1925-04", "volume": "150", "number": "899"}},
-   "first-renewed-contribution-source": "1952-JanJun",
-   "renewed-issue-completeness": "active/1925",
+     {"issue": {"issue-date": "1926-02", "volume": "152", "number": "909"}},
+   "first-renewed-contribution-source": "1954-JanJun",
+   "renewed-issue-completeness": "active/1926",
    "renewed-issues": [
-     {"issue-date": "1925-02", "volume": "150", "number": "897",
-        "cdate": "1925-01-23"},
-     {"issue-date": "1925-03", "volume": "150", "number": "898"},
-     {"issue-date": "1925-04", "volume": "150", "number": "899"},
-     {"issue-date": "1925-05", "volume": "150", "number": "900"},
-     {"issue-date": "1925-06", "volume": "150", "number": "901"},
-     {"issue-date": "1925-07", "volume": "151", "number": "902"},
-     {"issue-date": "1925-08", "volume": "151", "number": "903"},
-     {"issue-date": "1925-09", "volume": "151", "number": "904"},
-     {"issue-date": "1925-10", "volume": "151", "number": "905"},
-     {"issue-date": "1925-11", "volume": "151", "number": "906"},
-     {"issue-date": "1925-12", "volume": "152", "number": "907"},
-     {"issue-date": "1926-01", "volume": "152", "number": "908",
-        "cdate": "1925-12-22"},
      {"issue-date": "1926-02", "volume": "152", "number": "909",
         "cdate": "1926-01-22"},
      {"issue-date": "1926-03", "volume": "152", "number": "910"},
@@ -38,79 +24,37 @@
      {"issue-date": "1926-07", "volume": "153", "number": "914"},
      {"issue-date": "1926-08", "volume": "153", "number": "915"},
      {"issue-date": "1926-09", "volume": "153", "number": "916"},
-     {"issue-date": "1926-10", "volume": "153", "number": "917"}
+     {"issue-date": "1926-10", "volume": "153", "number": "917"},
+     {"issue-date": "1926-11", "volume": "153", "number": "918"},
+     {"issue-date": "1926-12", "volume": "154", "number": "919"},
+     {"issue-date": "1927-01", "volume": "154", "number": "920"},
+     {"issue-date": "1927-02", "volume": "154", "number": "921"},
+     {"issue-date": "1927-03", "volume": "154", "number": "922"},
+     {"issue-date": "1927-04", "volume": "154", "number": "923"},
+     {"issue-date": "1927-05", "volume": "154", "number": "924"},
+     {"issue-date": "1927-06", "volume": "155", "number": "925"},
+     {"issue-date": "1927-07", "volume": "155", "number": "926"},
+     {"issue-date": "1927-08", "volume": "155", "number": "927"},
+     {"issue-date": "1927-09", "volume": "155", "number": "928"},
+     {"issue-date": "1927-10", "volume": "155", "number": "929"}
    ],
-   "renewed-contribution-completeness": "active/1925",
+   "renewed-contribution-completeness": "active/1926",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1925-04", "volume": "150", "number": "899"},
-      "title": "Cartagena de Indias",
-      "author": {
-         "authorized": "McFee, William, 1881-1966",
-         "lcna": "n82053296"
-      }
-     },
-     {"issue": {"issue-date": "1925-05", "volume": "150", "number": "900"},
-        "title": "When Hell Froze",
+     {"issue": {"issue-date": "1926-02", "volume": "152", "number": "909"},
+        "title": "The Arrow",
+        "title-note": "part 1 of 2",
         "author": {
-         "authorized": "Steele, Wilbur Daniel, 1886-1970",
-         "lcna": "no98007702"
+         "authorized": "Morley, Christopher, 1890-1957",
+         "lcna": "n50006133"
         }
      },
-     {"issue": {"issue-date": "1925-06", "volume": "151", "number": "901"},
-        "title": "In a Powder Closet",
+     {"issue": {"issue-date": "1926-03", "volume": "152", "number": "910"},
+        "title": "The Arrow",
+        "title-note": "part 2 of 2",
         "author": {
-         "authorized": "Lowell, Amy, 1874-1925",
-         "lcna": "n79076111"
+         "authorized": "Morley, Christopher, 1890-1957",
+         "lcna": "n50006133"
         }
-     },
-     {"issue": {"issue-date": "1925-06", "volume": "151", "number": "901"},
-      "title": "Mud, Mussolini and the Motors",
-      "author": {
-         "authorized": "McFee, William, 1881-1966",
-         "lcna": "n82053296"
-      }
-     },
-     {"issue": {"issue-date": "1925-08", "volume": "151", "number": "903"},
-      "title": "Don",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1925-08", "volume": "151", "number": "903"},
-      "title": "By Air to the High Plateau",
-      "author": {
-         "authorized": "McFee, William, 1881-1966",
-         "lcna": "n82053296"
-      }
-     },
-     {"issue": {"issue-date": "1925-09", "volume": "151", "number": "904"},
-        "title": "The Man Who Saw Through Heaven",
-        "author": {
-         "authorized": "Steele, Wilbur Daniel, 1886-1970",
-         "lcna": "no98007702"
-        }
-     },
-     {"issue": {"issue-date": "1925-10", "volume": "151", "number": "905"},
-        "title": "Folie de Minuit",
-        "author": {
-         "authorized": "Lowell, Amy, 1874-1925",
-         "lcna": "n79076111"
-        }
-     },
-     {"issue": {"issue-date": "1925-10", "volume": "151", "number": "905"},
-        "title": "Blue Murder",
-        "author": {
-         "authorized": "Steele, Wilbur Daniel, 1886-1970",
-         "lcna": "no98007702"
-        }
-     },
-     {"issue": {"issue-date": "1926-01", "volume": "152", "number": "908"},
-      "title": "The Perfect Juror",
-      "author": {
-       "authorized": "Banning, Margaret Culkin, 1891-1982",
-       "lcna": "n86086096"
-      }
      },
      {"issue": {"issue-date": "1926-07", "volume": "153", "number": "914"}, 
       "title": "Cramped Style",
@@ -119,17 +63,120 @@
        "lcna": "n86086096"
       }
      },
+     {"issue": {"issue-date": "1926-08", "volume": "153", "number": "915"},
+        "title": "Bubbles",
+        "author": {
+         "authorized": "Steele, Wilbur Daniel, 1886-1970",
+         "lcna": "no98007702"
+        }
+     },
      {"issue": {"issue-date": "1926-09", "volume": "153", "number": "916"}, 
       "title": "La Bella Gina",
       "author": {
        "authorized": "Kelly, Eleanor Mercein, 1880-1968",
        "lcna": "no92032469"
       }
+     },
+     {"issue": {"issue-date": "1926-12", "volume": "154", "number": "919"},
+        "title": "Pleased to Meet You",
+        "title-note": "part 1 of 3",
+        "author": {
+         "authorized": "Morley, Christopher, 1890-1957",
+         "lcna": "n50006133"
+        }
+     },
+     {"issue": {"issue-date": "1927-01", "volume": "154", "number": "920"}, 
+        "title": "A Drink of Water",
+        "author": {
+         "authorized": "Steele, Wilbur Daniel, 1886-1970",
+         "lcna": "no98007702"
+        }
+     },
+     {"issue": {"issue-date": "1927-01", "volume": "154", "number": "920"}, 
+        "title": "Pleased to Meet You",
+        "title-note": "part 2 of 3",
+        "author": {
+         "authorized": "Morley, Christopher, 1890-1957",
+         "lcna": "n50006133"
+        }
+     },
+     {"issue": {"issue-date": "1927-01", "volume": "154", "number": "920"}, 
+      "title": "The Vanishing of Vaudrey",
+      "author": {
+       "authorized": "Chesterton, G. K. (Gilbert Keith), 1874-1936",
+       "lcna": "n79021157"
+      }
+     },
+     {"issue": {"issue-date": "1927-03", "volume": "154", "number": "921"}, 
+        "title": "Pleased to Meet You",
+        "title-note": "part 3 of 3",
+        "author": {
+         "authorized": "Morley, Christopher, 1890-1957",
+         "lcna": "n50006133"
+        }
+     },
+     {"issue": {"issue-date": "1927-03", "volume": "154", "number": "922"}, 
+      "title": "The Red Moon of Meru",
+      "author": {
+       "authorized": "Chesterton, G. K. (Gilbert Keith), 1874-1936",
+       "lcna": "n79021157"
+      }
+     },
+     {"issue": {"issue-date": "1927-03", "volume": "154", "number": "922"}, 
+      "title": "Amateur",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1927-05", "volume": "154", "number": "924"}, 
+      "title": "When it Happened",
+      "note": "Title as given in CCE. FictionMags gives title as 'When it Happens'. I have not examined the issue in question.",
+      "author": {
+       "authorized": "Hopper, James, 1876-1956",
+       "lcna": "n00068220"
+      }
+     },
+     {"issue": {"issue-date": "1927-06", "volume": "155", "number": "925"}, 
+      "title": "The Tiger",
+      "author": {
+         "authorized": "Walpole, Hugh, 1884-1941",
+         "lcna": "n79151207"
+       }
+     },
+     {"issue": {"issue-date": "1927-08", "volume": "155", "number": "927"},
+        "title": "Sooth: A Short Story",
+        "author": {
+         "authorized": "Steele, Wilbur Daniel, 1886-1970",
+         "lcna": "no98007702"
+        }
+     },
+     {"issue": {"issue-date": "1927-09", "volume": "155", "number": "928"},
+      "title": "Night Club",
+      "author": {
+       "authorized": "Brush, Katharine, 1902-1952",
+       "lcna": "no93001232"
+      }
+     },
+     {"issue": {"issue-date": "1927-10", "volume": "155", "number": "929"},
+      "title": "Great Man",
+      "author": {
+       "authorized": "Brush, Katharine, 1902-1952",
+       "lcna": "no93001232"
+      }
+     },
+     {"issue": {"issue-date": "1927-10", "volume": "155", "number": "929"},
+      "title": "The Mood of Mechanism",
+      "author": {
+         "authorized": "McFee, William, 1881-1966",
+         "lcna": "n82053296"
+      }
      }
    ],
+   "additional-note": "Active contribution renewals are recorded beginning in the 1953 July-December CCE volume, but the earliest actively renewed contribution is noted in the 1954 January-June volume.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-01-08"
+   "last-updated": "2021-01-19"
 }

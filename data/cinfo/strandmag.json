@@ -9,34 +9,10 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": 
-      {"issue": {"issue-date": "1925-07", "volume": "70", "number": "415"}},
-   "first-renewed-contribution-source": "1953-JanJun",
-   "renewed-contribution-completeness": "active/1925",
+     {"issue": {"issue-date": "1926-02", "volume": "71", "number": "422"}},
+   "first-renewed-contribution-source": "1953-JulDec",
+   "renewed-contribution-completeness": "active/1927",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1925-07", "volume": "70", "number": "415"},
-      "title": "A Native Superstition",
-      "note": "Author name is a pseudonym for H. C. McNeile",
-      "author": {
-       "authorized": "Sapper, 1888-1937",
-       "lcna": "n85822242"
-      }
-     },
-     {"issue": {"issue-date": "1925-11", "volume": "70", "number": "419"},
-      "title": "The Rubber Strap",
-      "note": "Renewal record appears in the Books section of CCE. Author name is a pseudonym for H. C. McNeile",
-      "author": {
-       "authorized": "Sapper, 1888-1937",
-       "lcna": "n85822242"
-      }
-     },
-     {"issue": {"issue-date": "1925-12", "volume": "70", "number": "420"},
-      "title": "Word of Honour",
-      "note": "Renewal record appears in the Books section of CCE. Author name is a pseudonym for H. C. McNeile",
-      "author": {
-       "authorized": "Sapper, 1888-1937",
-       "lcna": "n85822242"
-      }
-     },
      {"issue": {"issue-date": "1926-02", "volume": "71", "number": "422"},
       "title": "Touch and Go",
       "note": "Author name is a pseudonym for H. C. McNeile",
@@ -44,6 +20,61 @@
        "authorized": "Sapper, 1888-1937",
        "lcna": "n85822242"
       }
+     },
+     {"issue": {"issue-date": "1926-12", "volume": "72", "number": "432"},
+      "title": "A Hundred Per Cent",
+      "author": {
+       "authorized": "McNeile, H. C. (Herman Cyril), 1888-1937",
+       "lcna": "no96039399"
+      }
+     },
+     {"issue": {"issue-date": "1927-02", "volume": "73", "number": "434"},
+      "title": "Dilemma",
+      "note": "Author name is a pseudonym for H. C. McNeile",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     },
+     {"issue": {"issue-date": "1927-03", "volume": "73", "number": "435"},
+      "title": "A Hopeless Case",
+      "note": "Author name is a pseudonym for H. C. McNeile",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     },
+     {"issue": {"issue-date": "1928-06", "volume": "75", "number": "450"},
+      "title": "Ukridge and the Old Stepper",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1928-06", "volume": "75", "number": "450"},
+      "title": "The Female of the Species",
+      "title-note": "installment",
+      "note": "Author name is a pseudonym for H. C. McNeile",
+      "author": {
+        "authorized": "Sapper, 1888-1937",
+        "lcna": "n85822242"
+       }
+     },
+     {"issue": {"issue-date": "1928-07", "volume": "75", "number": "451"},
+      "title": "The Passing of Ambrose",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1928-07", "volume": "75", "number": "451"},
+      "title": "The Female of the Species",
+      "title-note": "installment",
+      "note": "Author name is a pseudonym for H. C. McNeile",
+      "author": {
+        "authorized": "Sapper, 1888-1937",
+        "lcna": "n85822242"
+       }
      }
    ],
    "additional-note" : "This is a British publication.  Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US.",
@@ -51,5 +82,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-01-23"
+   "last-updated": "2021-01-28"
 }

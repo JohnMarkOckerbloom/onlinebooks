@@ -2,22 +2,13 @@
    "title": "Journal of Biological Chemistry",
    "online": "1",
    "first-renewed-issue":
-     {"issue-date": "1925-01", "volume": "62", "number": "3"},
-   "first-renewed-issue-source": "1952",
+     {"issue-date": "1925-11", "volume": "66", "number": "1",
+      "cdate": "1926-01-05"},
+   "first-renewed-issue-source": "1953-JulDec",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
-   "renewed-issue-completeness": "active/1925",
+   "renewed-issue-completeness": "active/1926",
    "renewed-issues": [
-     {"issue-date": "1925-01", "volume": "62", "number": "3"},
-     {"issue-date": "1925-02", "volume": "63", "number": "1"},
-     {"issue-date": "1925-03", "volume": "63", "number": "2"},
-     {"issue-date": "1925-04", "volume": "63", "number": "3"},
-     {"issue-date": "1925-05", "volume": "64", "number": "1"},
-     {"issue-date": "1925-06", "volume": "64", "number": "2"},
-     {"issue-date": "1925-07", "volume": "64", "number": "3"},
-     {"issue-date": "1925-08", "volume": "65", "number": "1"},
-     {"issue-date": "1925-09", "volume": "65", "number": "2"},
-     {"issue-date": "1925-10", "volume": "65", "number": "3"},
      {"issue-date": "1925-11", "volume": "66", "number": "1",
       "cdate": "1926-01-05"},
      {"issue-date": "1925-12", "volume": "66", "number": "2",
@@ -33,11 +24,24 @@
      {"issue-date": "1926-09", "volume": "70", "number": "1"},
      {"issue-date": "1926-10", "volume": "70", "number": "2"},
      {"issue-date": "1926-11", "volume": "70", "number": "3"},
-     {"issue-date": "1926-12", "volume": "71", "number": "1"}
+     {"issue-date": "1926-12", "volume": "71", "number": "1"},
+     {"issue-date": "1927-01", "volume": "71", "number": "2"},
+     {"issue-date": "1927-02", "volume": "71", "number": "3"},
+     {"issue-date": "1927-03", "volume": "72", "number": "1"},
+     {"issue-date": "1927-04", "volume": "72", "number": "2"},
+     {"issue-date": "1927-05", "volume": "73", "number": "1"},
+     {"issue-date": "1927-06", "volume": "73", "number": "2"},
+     {"issue-date": "1927-07", "volume": "74", "number": "1"},
+     {"issue-date": "1927-08", "volume": "74", "number": "2"},
+     {"issue-date": "1927-09", "volume": "74", "number": "3"},
+     {"issue-date": "1927-10", "volume": "75", "number": "1"},
+     {"issue-date": "1927-11", "volume": "75", "number": "2"},
+     {"issue-date": "1927-12", "volume": "75", "number": "3"}
    ],
+   "additional-note": "The publisher made this journal open access, including for past issues, as of January 2021.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-01-21"
+   "last-updated": "2021-01-20"
 }

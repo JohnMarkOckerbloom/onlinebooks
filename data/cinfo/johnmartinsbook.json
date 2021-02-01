@@ -2,25 +2,28 @@
    "title": "John Martin's Book",
    "online": "1",
    "first-renewed-issue":
-     {"issue-date": "1925-03", "volume": "31", "number": "3"},
-   "first-renewed-issue-source": "1953-JanJun",
+     {"issue-date": "1926-02", "volume": "33", "number": "2",
+       "cdate": "1926-01-18"},
+   "first-renewed-issue-source": "1954-JanJun",
    "first-renewed-contribution":
      {"issue": {"issue-date": "1931-04"}},
    "first-renewed-contribution-source": "1958-JanJun",
-   "renewed-issue-completeness": "active/1925",
+   "renewed-issue-completeness": "active/1926",
    "renewed-issues": [
-     {"issue-date": "1925-03", "volume": "31", "number": "3"},
-     {"issue-date": "1925-04", "volume": "31", "number": "4"},
-     {"issue-date": "1925-05", "volume": "31", "number": "5"},
-     {"issue-date": "1925-06", "volume": "31", "number": "6"},
-     {"issue-date": "1925-07", "volume": "32", "number": "1"},
-     {"issue-date": "1925-08", "volume": "32", "number": "2"},
-     {"issue-date": "1925-09", "volume": "32", "number": "3"},
-     {"issue-date": "1925-10", "volume": "32", "number": "4"},
-     {"issue-date": "1925-11", "volume": "32", "number": "5"},
-     {"issue-date": "1925-12", "volume": "32", "number": "6"},
-     {"issue-date": "1926-01", "volume": "33", "number": "1",
-       "cdate": "1925-12-18"}
+     {"issue-date": "1926-02", "volume": "33", "number": "2",
+       "cdate": "1926-01-18"},
+     {"issue-date": "1926-03", "volume": "33", "number": "3"},
+     {"issue-date": "1926-04", "volume": "33", "number": "4"},
+     {"issue-date": "1926-05", "volume": "33", "number": "5"},
+     {"issue-date": "1926-06", "volume": "33", "number": "6"},
+     {"issue-date": "1926-07", "volume": "34", "number": "1"},
+     {"issue-date": "1926-08", "volume": "34", "number": "2"},
+     {"issue-date": "1926-09", "volume": "34", "number": "3"},
+     {"issue-date": "1926-10", "volume": "34", "number": "4"},
+     {"issue-date": "1926-11", "volume": "34", "number": "5"},
+     {"issue-date": "1926-12", "volume": "34", "number": "6"},
+     {"issue-date": "1927-01", "volume": "35", "number": "1"},
+     {"issue-date": "1927-02", "volume": "35", "number": "2"}
    ],
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
@@ -36,5 +39,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-01-08"
+   "last-updated": "2021-01-07"
 }

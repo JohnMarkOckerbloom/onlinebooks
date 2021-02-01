@@ -3,24 +3,12 @@
    "title-note": "Hearst Magazines, 1903-",
    "online": "1",
    "first-renewed-issue":
-      {"issue-date": "1925-01", "volume": "43", "number": "2"},
-   "first-renewed-issue-source": "1952",
+      {"issue-date": "1926-01", "volume": "45", "number": "1"},
+   "first-renewed-issue-source": "1953-JulDec",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
-   "renewed-issue-completeness": "active/1925",
+   "renewed-issue-completeness": "active/1926",
    "renewed-issues": [
-      {"issue-date": "1925-01", "volume": "43", "number": "2"},
-      {"issue-date": "1925-02", "volume": "43", "number": "3"},
-      {"issue-date": "1925-03", "volume": "43", "number": "4"},
-      {"issue-date": "1925-04", "volume": "43", "number": "5"},
-      {"issue-date": "1925-05", "volume": "43", "number": "6"},
-      {"issue-date": "1925-06", "volume": "43", "number": "7"},
-      {"issue-date": "1925-07", "volume": "44", "number": "1"},
-      {"issue-date": "1925-08", "volume": "44", "number": "2"},
-      {"issue-date": "1925-09", "volume": "44", "number": "3"},
-      {"issue-date": "1925-10", "volume": "44", "number": "4"},
-      {"issue-date": "1925-11", "volume": "44", "number": "5"},
-      {"issue-date": "1925-12", "volume": "44", "number": "6"},
       {"issue-date": "1926-01", "volume": "45", "number": "1"},
       {"issue-date": "1926-02", "volume": "45", "number": "2"},
       {"issue-date": "1926-03", "volume": "45", "number": "3"},
@@ -32,11 +20,23 @@
       {"issue-date": "1926-09", "volume": "46", "number": "3"},
       {"issue-date": "1926-10", "volume": "46", "number": "4"},
       {"issue-date": "1926-11", "volume": "46", "number": "5"},
-      {"issue-date": "1926-12", "volume": "46", "number": "6"}
+      {"issue-date": "1926-12", "volume": "46", "number": "6"},
+      {"issue-date": "1927-01", "volume": "47", "number": "1"},
+      {"issue-date": "1927-02", "volume": "47", "number": "2"},
+      {"issue-date": "1927-03", "volume": "47", "number": "3"},
+      {"issue-date": "1927-04", "volume": "47", "number": "4"},
+      {"issue-date": "1927-05", "volume": "47", "number": "5"},
+      {"issue-date": "1927-06", "volume": "47", "number": "6"},
+      {"issue-date": "1927-07", "volume": "48", "number": "1"},
+      {"issue-date": "1927-08", "volume": "48", "number": "2"},
+      {"issue-date": "1927-09", "volume": "48", "number": "3"},
+      {"issue-date": "1927-10", "volume": "48", "number": "4"},
+      {"issue-date": "1927-11", "volume": "48", "number": "5"},
+      {"issue-date": "1927-12", "volume": "48", "number": "6"}
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-01-27"
+   "last-updated": "2021-01-20"
 }

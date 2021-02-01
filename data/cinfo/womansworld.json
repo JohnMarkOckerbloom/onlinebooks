@@ -5,17 +5,10 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution":
-      {"issue": {"issue-date": "1925-11"}},
-   "first-renewed-contribution-source": "1952-JulDec",
+     {"issue": {"issue-date": "1928-01"}},
+   "first-renewed-contribution-source": "1955-JulDec",
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1925-11"},
-      "title": "The Great Human Being",
-      "note": "CCE files this renewal under Harold Hopper Titus (who was a philosophy professor, 1894-1984), though it might instead be Harold Titus (the novelist, 1888-1967)",
-      "author": {
-       "name": "Harold Titus"
-      }
-     },
      {"issue": {"issue-date": "1928-01"},
       "title": "Here Comes the Bandwagon",
       "title-note": "part 1 of 10",
@@ -192,5 +185,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-05-10"
+   "last-updated": "2021-01-27"
 }

@@ -1,140 +1,18 @@
 {
    "title": "Woman's Home Companion",
    "online": "1",
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/FMI/link.asp?magid=WHC",
+       "note": "FictionMags (partial)"}
+   ],
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1925-03", "volume": "52", "number": "3",
-                "cdate": "1925-01-22"}},
-   "first-renewed-contribution-source": "1952-JanJun",
-   "renewed-contribution-completeness": "active/1925",
+     {"issue": {"issue-date": "1926-03", "volume": "53", "number": "3",
+                "cdate": "1926-01-25"}},
+   "first-renewed-contribution-source": "1953-JanJun",
+   "renewed-contribution-completeness": "active/1926",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1925-03", "volume": "52", "number": "3"},
-      "title": "Debts of John Goodwin",
-      "author": {
-       "authorized": "Hopper, James, 1876-1956",
-       "lcna": "n00068220"
-      }
-     },
-     {"issue": {"issue-date": "1925-03", "volume": "52", "number": "3"},
-      "title": "Roads of Doubt",
-      "title-note": "part 2 of 3",
-      "author": {
-         "authorized": "Raine, William MacLeod, 1871-1954",
-         "lcna": "n90682348"
-      }
-     },
-     {"issue": {"issue-date": "1925-03", "volume": "52", "number": "3"},
-      "title": "The Man Nobody Knows",
-      "title-note": "part 4 of 6",
-      "author": {
-       "authorized": "Barton, Bruce, 1886-1967",
-       "lcna": "n86114512"
-      }
-     },
-     {"issue": {"issue-date": "1925-04", "volume": "52", "number": "4"}, 
-      "title": "The Detour",
-      "author": {
-       "authorized": "Poole, Ernest, 1880-1950",
-       "lcna": "n88071985"
-      }
-     },
-     {"issue": {"issue-date": "1925-04", "volume": "52", "number": "4"}, 
-      "title": "Roads of Doubt",
-      "title-note": "part 3 of 3",
-      "author": {
-         "authorized": "Raine, William MacLeod, 1871-1954",
-         "lcna": "n90682348"
-      }
-     },
-     {"issue": {"issue-date": "1925-04", "volume": "52", "number": "4"}, 
-      "title": "The Man Nobody Knows",
-      "title-note": "part 5 of 6",
-      "author": {
-       "authorized": "Barton, Bruce, 1886-1967",
-       "lcna": "n86114512"
-      }
-     },
-     {"issue": {"issue-date": "1925-05", "volume": "52", "number": "5"}, 
-      "title": "The Man Nobody Knows",
-      "title-note": "part 6 of 6",
-      "author": {
-       "authorized": "Barton, Bruce, 1886-1967",
-       "lcna": "n86114512"
-      }
-     },
-     {"issue": {"issue-date": "1925-06", "volume": "52", "number": "6"}, 
-      "title": "Three Ladies",
-       "author": {
-         "authorized": "Miller, Alice Duer, 1874-1942",
-         "lcna": "n83057208"
-       }
-     },
-     {"issue": {"issue-date": "1925-09", "volume": "52", "number": "9"}, 
-      "title": "One of my Oldest Friends",
-      "author": {
-       "authorized": "Fitzgerald, F. Scott (Francis Scott), 1896-1940",
-       "lcna": "n79006871"
-      }
-     },
-     {"issue": {"issue-date": "1925-10", "volume": "52", "number": "10"}, 
-      "title": "The Happy Ending",
-       "author": {
-         "authorized": "Miller, Alice Duer, 1874-1942",
-         "lcna": "n83057208"
-       }
-     },
-     {"issue": {"issue-date": "1925-10", "volume": "52", "number": "10"}, 
-      "title": "The Cesar Honfleur",
-      "author": {
-         "authorized": "Benefield, Barry, 1877-1971",
-         "lcna": "no90003376"
-       }
-     },
-     {"issue": {"issue-date": "1925-10", "volume": "52", "number": "10"}, 
-      "title": "The Grass Island",
-      "author": {
-         "authorized": "Field, Rachel, 1894-1942",
-         "lcna": "n50023354"
-       }
-     },
-     {"issue": {"issue-date": "1925-11", "volume": "52", "number": "11"}, 
-      "title": "Not in the Guide-Book",
-      "author": {
-       "authorized": "Fitzgerald, F. Scott (Francis Scott), 1896-1940",
-       "lcna": "n79006871"
-      }
-     },
-     {"issue": {"issue-date": "1925-11", "volume": "52", "number": "11"}, 
-      "title": "In the City Without a Heart",
-      "author": {
-       "authorized": "Bacon, Josephine Daskam, 1876-1961",
-       "lcna": "n50020293"
-      }
-     },
-     {"issue": {"issue-date": "1925-11", "volume": "52", "number": "11"}, 
-      "title": "Behind the Social Note",
-      "title-note": "part 1 of 3",
-       "author": {
-         "authorized": "Miller, Alice Duer, 1874-1942",
-         "lcna": "n83057208"
-       }
-     },
-     {"issue": {"issue-date": "1925-12", "volume": "52", "number": "12"}, 
-      "title": "Not to Be Opened Till Christmas",
-       "author": {
-         "authorized": "Miller, Alice Duer, 1874-1942",
-         "lcna": "n83057208"
-       }
-     },
-     {"issue": {"issue-date": "1926-01", "volume": "53", "number": "1"}, 
-      "title": "Behind the Social Note",
-      "title-note": "part 2 of 3",
-       "author": {
-         "authorized": "Miller, Alice Duer, 1874-1942",
-         "lcna": "n83057208"
-       }
-     },
      {"issue": {"issue-date": "1926-03", "volume": "53", "number": "3"}, 
       "title": "The Secret Chaperone",
       "author": {
@@ -216,6 +94,21 @@
        "lcna": "n79077439"
       }
      },
+     {"issue": {"issue-date": "1926-07", "volume": "53", "number": "7"}, 
+      "title": "Her Son's Wife",
+      "author": {
+       "authorized": "Fisher, Dorothy Canfield, 1879-1958",
+       "lcna": "n50005248"
+      }
+     },
+     {"issue": {"issue-date": "1926-08", "volume": "53", "number": "8"}, 
+      "title": "The Clean Up",
+      "title-note": "part 1 of 3",
+      "author": {
+       "authorized": "Luther, Mark Lee, 1872-1951",
+       "lcna": "no2010079743"
+      }
+     },
      {"issue": {"issue-date": "1926-08", "volume": "53", "number": "8"}, 
       "title": "Show Boat",
       "title-note": "part 5 of 6",
@@ -239,6 +132,14 @@
        "lcna": "n79077439"
       }
      },
+     {"issue": {"issue-date": "1926-09", "volume": "53", "number": "9"}, 
+      "title": "The Clean Up",
+      "title-note": "part 2 of 3",
+      "author": {
+       "authorized": "Luther, Mark Lee, 1872-1951",
+       "lcna": "no2010079743"
+      }
+     },
      {"issue": {"issue-date": "1926-10", "volume": "53", "number": "10"}, 
       "title": "Tar's Day of Bravery",
       "author": {
@@ -254,12 +155,27 @@
          "lcna": "n90608121"
       }
      },
+     {"issue": {"issue-date": "1926-10", "volume": "53", "number": "10"}, 
+      "title": "The Clean Up",
+      "title-note": "part 3 of 3",
+      "author": {
+       "authorized": "Luther, Mark Lee, 1872-1951",
+       "lcna": "no2010079743"
+      }
+     },
      {"issue": {"issue-date": "1926-11", "volume": "53", "number": "11"}, 
       "title": "Cherry Square",
       "title-note": "part 2 of 3",
       "author": {
          "authorized": "Richmond, Grace S. (Grace Smith), 1866-1959",
          "lcna": "n90608121"
+      }
+     },
+     {"issue": {"issue-date": "1926-11", "volume": "53", "number": "11"}, 
+      "title": "Tar's Wonderful Sunday",
+      "author": {
+       "authorized": "Anderson, Sherwood, 1876-1941",
+       "lcna": "n79045519"
       }
      },
      {"issue": {"issue-date": "1926-12", "volume": "53", "number": "12"}, 
@@ -283,11 +199,129 @@
          "authorized": "Richmond, Grace S. (Grace Smith), 1866-1959",
          "lcna": "n90608121"
       }
+     },
+     {"issue": {"issue-date": "1927-01", "volume": "54", "number": "1"}, 
+      "title": "The Thin Red Line",
+      "author": {
+       "authorized": "Fairbank, Janet Ayer, 1878-1951",
+       "lcna": "no2004009783"
+      }
+     },
+     {"issue": {"issue-date": "1927-01", "volume": "54", "number": "1"}, 
+      "title": "What Makes a Boy Afraid",
+      "author": {
+       "authorized": "Anderson, Sherwood, 1876-1941",
+       "lcna": "n79045519"
+      }
+     },
+     {"issue": {"issue-date": "1927-02", "volume": "54", "number": "2"}, 
+      "title": "Here Was Magic",
+      "author": {
+       "authorized": "Fisher, Dorothy Canfield, 1879-1958",
+       "lcna": "n50005248"
+      }
+     },
+     {"issue": {"issue-date": "1927-04", "volume": "54", "number": "4"}, 
+      "title": "Too Old to Matter",
+      "author": {
+       "authorized": "Upson, William Hazlett, 1891-1975",
+       "lcna": "n90676728"
+      }
+     },
+     {"issue": {"issue-date": "1927-04", "volume": "54", "number": "4"}, 
+      "title": "A Basque Windfall",
+      "author": {
+       "authorized": "Fisher, Dorothy Canfield, 1879-1958",
+       "lcna": "n50005248"
+      }
+     },
+     {"issue": {"issue-date": "1927-04", "volume": "54", "number": "4"}, 
+      "title": "Gideon",
+      "title-note": "installment 1",
+      "author": {
+       "authorized": "Gillmore, Inez Haynes, 1873-1970",
+       "lcna": "n85372376"
+      }
+     },
+     {"issue": {"issue-date": "1927-05", "volume": "54", "number": "5"}, 
+      "title": "Wherefore Art Thou, Romeo?",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+      }
+     },
+     {"issue": {"issue-date": "1927-05", "volume": "54", "number": "5"}, 
+      "title": "Gideon",
+      "title-note": "installment 2",
+      "author": {
+       "authorized": "Gillmore, Inez Haynes, 1873-1970",
+       "lcna": "n85372376"
+      }
+     },
+     {"issue": {"issue-date": "1927-06", "volume": "54", "number": "6"}, 
+      "title": "At the South Gate",
+      "title-note": "part 1 of 3",
+      "author": {
+         "authorized": "Richmond, Grace S. (Grace Smith), 1866-1959",
+         "lcna": "n90608121"
+      }
+     },
+     {"issue": {"issue-date": "1927-06", "volume": "54", "number": "6"}, 
+      "title": "Gideon",
+      "title-note": "installment 3",
+      "author": {
+       "authorized": "Gillmore, Inez Haynes, 1873-1970",
+       "lcna": "n85372376"
+      }
+     },
+     {"issue": {"issue-date": "1927-07", "volume": "54", "number": "7"}, 
+      "title": "Marvel Takes No Chances",
+      "author": {
+         "authorized": "Kilbourne, Fannie, 1890-",
+         "lcna": "no93026233"
+       }
+     },
+     {"issue": {"issue-date": "1927-07", "volume": "54", "number": "7"}, 
+      "title": "At the South Gate",
+      "title-note": "part 2 of 3",
+      "author": {
+         "authorized": "Richmond, Grace S. (Grace Smith), 1866-1959",
+         "lcna": "n90608121"
+      }
+     },
+     {"issue": {"issue-date": "1927-08", "volume": "54", "number": "8"}, 
+      "title": "Hit in the Head",
+      "author": {
+       "authorized": "Hopper, James, 1876-1956",
+       "lcna": "n00068220"
+      }
+     },
+     {"issue": {"issue-date": "1927-08", "volume": "54", "number": "8"}, 
+      "title": "At the South Gate",
+      "title-note": "part 3 of 3",
+      "author": {
+         "authorized": "Richmond, Grace S. (Grace Smith), 1866-1959",
+         "lcna": "n90608121"
+      }
+     },
+     {"issue": {"issue-date": "1927-09", "volume": "54", "number": "9"}, 
+      "title": "Rendezvous",
+      "author": {
+       "authorized": "Gillmore, Inez Haynes, 1873-1970",
+       "lcna": "n85372376"
+      }
+     },
+     {"issue": {"issue-date": "1928-01", "volume": "55", "number": "1"}, 
+      "title": "Mrs. Bender and Napoleon",
+      "author": {
+       "authorized": "Tarkington, Booth, 1869-1946",
+       "lcna": "n79078124"
+      }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-01-20"
+   "last-updated": "2021-01-27"
 }

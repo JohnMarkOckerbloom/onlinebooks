@@ -2,55 +2,16 @@
    "title": "Country Gentleman",
    "online": "1",
    "first-renewed-issue": 
-     {"issue-date": "1925-01-10", "volume": "90", "number": "2",
-         "cdate": "1925-01-08"},
-   "first-renewed-issue-source": "1952",
+     {"issue-date": "1926-02", "volume": "91", "number": "2",
+      "cdate": "1926-01-28"},
+   "first-renewed-issue-source": "1953-JulDec",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1925-01-10", "volume": "90", "number": "2"}},
-   "first-renewed-contribution-source": "1952-JulDec",
-   "renewed-issue-completeness": "active/1925",
+     {"issue": {"issue-date": "1926-02", "volume": "91", "number": "2"}},
+   "first-renewed-contribution-source": "1953-JanJun",
+   "renewed-issue-completeness": "active/1926",
    "renewed-issues": [
-     {"issue-date": "1925-01-10", "volume": "90", "number": "2",
-         "cdate": "1925-01-08"},
-     {"issue-date": "1925-01-17", "volume": "90", "number": "3"},
-     {"issue-date": "1925-01-24", "volume": "90", "number": "4"},
-     {"issue-date": "1925-01-31", "volume": "90", "number": "5"},
-     {"issue-date": "1925-02-07", "volume": "90", "number": "6"},
-     {"issue-date": "1925-02-14", "volume": "90", "number": "7"},
-     {"issue-date": "1925-02-21", "volume": "90", "number": "8"},
-     {"issue-date": "1925-02-28", "volume": "90", "number": "9"},
-     {"issue-date": "1925-03-07", "volume": "90", "number": "10"},
-     {"issue-date": "1925-03-14", "volume": "90", "number": "11"},
-     {"issue-date": "1925-03-21", "volume": "90", "number": "12"},
-     {"issue-date": "1925-03-28", "volume": "90", "number": "13"},
-     {"issue-date": "1925-04-04", "volume": "90", "number": "14"},
-     {"issue-date": "1925-04-11", "volume": "90", "number": "15"},
-     {"issue-date": "1925-04-18", "volume": "90", "number": "16"},
-     {"issue-date": "1925-04-25", "volume": "90", "number": "17"},
-     {"issue-date": "1925-05-02", "volume": "90", "number": "18"},
-     {"issue-date": "1925-05-09", "volume": "90", "number": "19"},
-     {"issue-date": "1925-05-16", "volume": "90", "number": "20"},
-     {"issue-date": "1925-05-23", "volume": "90", "number": "21"},
-     {"issue-date": "1925-05-30", "volume": "90", "number": "22"},
-     {"issue-date": "1925-06-06", "volume": "90", "number": "23"},
-     {"issue-date": "1925-06-13", "volume": "90", "number": "24"},
-     {"issue-date": "1925-06-20", "volume": "90", "number": "25"},
-     {"issue-date": "1925-06-27", "volume": "90", "number": "26"},
-     {"issue-date": "1925-07-04", "volume": "90", "number": "27"},
-     {"issue-date": "1925-07-11", "volume": "90", "number": "28"},
-     {"issue-date": "1925-07-18", "volume": "90", "number": "29"},
-     {"issue-date": "1925-07-25", "volume": "90", "number": "30"},
-     {"issue-date": "1925-08-01", "volume": "90", "number": "31"},
-     {"issue-date": "1925-08-08", "volume": "90", "number": "32"},
-     {"issue-date": "1925-08-15", "volume": "90", "number": "33"},
-     {"issue-date": "1925-08-22", "volume": "90", "number": "34"},
-     {"issue-date": "1925-09", "volume": "90", "number": "35"},
-     {"issue-date": "1925-10", "volume": "90", "number": "36"},
-     {"issue-date": "1925-11", "volume": "90", "number": "37"},
-     {"issue-date": "1925-12", "volume": "90", "number": "38"},
-     {"issue-date": "1926-01", "volume": "91", "number": "1",
-      "cdate": "1925-12-31"},
-     {"issue-date": "1926-02", "volume": "91", "number": "2"},
+     {"issue-date": "1926-02", "volume": "91", "number": "2",
+      "cdate": "1926-01-28"},
      {"issue-date": "1926-03", "volume": "91", "number": "3"},
      {"issue-date": "1926-04", "volume": "91", "number": "4"},     
      {"issue-date": "1926-05", "volume": "91", "number": "5"},
@@ -62,174 +23,16 @@
      {"issue-date": "1926-11", "volume": "91", "number": "11"},
      {"issue-date": "1926-12", "volume": "91", "number": "12"},
      {"issue-date": "1927-01", "volume": "92", "number": "1",
-      "cdate": "1926-12-30"}
+      "cdate": "1926-12-30"},
+     {"issue-date": "1927-02", "volume": "92", "number": "2"},
+     {"issue-date": "1927-03", "volume": "92", "number": "3"},
+     {"issue-date": "1927-04", "volume": "92", "number": "4"},     
+     {"issue-date": "1927-05", "volume": "92", "number": "5"},
+     {"issue-date": "1927-06", "volume": "92", "number": "6"},
+     {"issue-date": "1927-07", "volume": "92", "number": "7"}
    ],
    "renewed-contribution-completeness": "active/1928",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1925-01-10"},
-      "title": "Dark Rosaleen",
-      "title-note": "part 3 of 5",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1925-01-17"},
-      "title": "Dark Rosaleen",
-      "title-note": "part 4 of 5",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1925-01-24"},
-      "title": "Dark Rosaleen",
-      "title-note": "part 5 of 5",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1925-03-28"}, 
-      "title": "The Deer Stalker",
-      "title-note": "part 1 of 11",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1925-04-04"}, 
-      "title": "The Deer Stalker",
-      "title-note": "part 2 of 11",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1925-04-11"}, 
-      "title": "The Deer Stalker",
-      "title-note": "part 3 of 11",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1925-04-18"}, 
-      "title": "The Deer Stalker",
-      "title-note": "part 4 of 11",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1925-04-25"}, 
-      "title": "The Deer Stalker",
-      "title-note": "part 5 of 11",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1925-05-02"}, 
-      "title": "The Deer Stalker",
-      "title-note": "part 6 of 11",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1925-05-09"}, 
-      "title": "The Deer Stalker",
-      "title-note": "part 7 of 11",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1925-05-16"}, 
-      "title": "The Deer Stalker",
-      "title-note": "part 8 of 11",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1925-05-23"}, 
-      "title": "The Deer Stalker",
-      "title-note": "part 9 of 11",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1925-05-30"}, 
-      "title": "The Deer Stalker",
-      "title-note": "part 10 of 11",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1925-06-06"}, 
-      "title": "The Deer Stalker",
-      "title-note": "part 11 of 11",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1925-06-20"},
-      "title": "Hayfoot Strawfoot",
-      "author": {
-       "authorized": "Duganne, Phyllis, 1899-1976",
-       "lcna": "n90719514"
-      }
-     },
-     {"issue": {"issue-date": "1925-07-04"},
-      "title": "Historical",
-      "author": {
-       "authorized": "Duganne, Phyllis, 1899-1976",
-       "lcna": "n90719514"
-      }
-     },
-     {"issue": {"issue-date": "1925-10"}, 
-      "title": "The Whip",
-      "author": {
-       "authorized": "Bercovici, Konrad, 1882-1961",
-       "lcna": "n50006835"
-      }
-     },
-     {"issue": {"issue-date": "1925-10"}, 
-      "title": "Adventure in the Pacific",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1925-11"}, 
-      "title": "The Shark of Galapagos",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1925-12"}, 
-      "title": "The Mongrel",
-      "author": {
-       "authorized": "Bercovici, Konrad, 1882-1961",
-       "lcna": "n50006835"
-      }
-     },
-     {"issue": {"issue-date": "1925-12"}, 
-      "title": "Rooster, Fish & Leaping Whales",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
      {"issue": {"issue-date": "1926-02"},
        "title": "Trimmed With Feathers",
        "author": {
@@ -648,10 +451,9 @@
       }
      }
    ],
-   "additional-note" : "Active renewals are recorded beginning in the 1952 January-June CCE volume, but the earliest active renewed contribution is noted in the 1952 July-December volume.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-10-03"
+   "last-updated": "2021-01-03"
 }

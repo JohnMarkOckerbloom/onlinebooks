@@ -2,7 +2,7 @@
    "title": "The Public Health Nurse",
    "online": "1",
    "first-renewed-issue": 
-     {"issue-date": "1925-05", "volume": "17", "number": "5"},
+     {"issue-date": "1926-01", "volume": "18", "number": "1"},
    "first-renewed-issue-source": "1953-JanJun",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce",
@@ -10,15 +10,8 @@
      {"issue-date": "1931-06", "volume": "23", "number": "6"},
    "succeeded-by":
        [{"id": "pubhealthnursing", "note": "Public Health Nursing"}],
-   "renewed-issue-completeness": "active/1925",
+   "renewed-issue-completeness": "active/1926",
    "renewed-issues": [
-     {"issue-date": "1925-05", "volume": "17", "number": "5"},
-     {"issue-date": "1925-07", "volume": "17", "number": "7"},
-     {"issue-date": "1925-08", "volume": "17", "number": "8"},
-     {"issue-date": "1925-09", "volume": "17", "number": "9"},
-     {"issue-date": "1925-10", "volume": "17", "number": "10"},
-     {"issue-date": "1925-11", "volume": "17", "number": "11"},
-     {"issue-date": "1925-12", "volume": "17", "number": "12"},
      {"issue-date": "1926-01", "volume": "18", "number": "1"},
      {"issue-date": "1926-02", "volume": "18", "number": "2"},
      {"issue-date": "1926-03", "volume": "18", "number": "3"},
@@ -30,11 +23,23 @@
      {"issue-date": "1926-09", "volume": "18", "number": "9"},
      {"issue-date": "1926-10", "volume": "18", "number": "10"},
      {"issue-date": "1926-11", "volume": "18", "number": "11"},
-     {"issue-date": "1926-12", "volume": "18", "number": "12"}
+     {"issue-date": "1926-12", "volume": "18", "number": "12"},
+     {"issue-date": "1927-01", "volume": "19", "number": "1"},
+     {"issue-date": "1927-02", "volume": "19", "number": "2"},
+     {"issue-date": "1927-03", "volume": "19", "number": "3"},
+     {"issue-date": "1927-04", "volume": "19", "number": "4"},
+     {"issue-date": "1927-05", "volume": "19", "number": "5"},
+     {"issue-date": "1927-06", "volume": "19", "number": "6"},
+     {"issue-date": "1927-07", "volume": "19", "number": "7"},
+     {"issue-date": "1927-08", "volume": "19", "number": "8"},
+     {"issue-date": "1927-09", "volume": "19", "number": "9"},
+     {"issue-date": "1927-10", "volume": "19", "number": "10"},
+     {"issue-date": "1927-11", "volume": "19", "number": "11"},
+     {"issue-date": "1927-12", "volume": "19", "number": "12"}
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-01-14"
+   "last-updated": "2021-01-15"
 }

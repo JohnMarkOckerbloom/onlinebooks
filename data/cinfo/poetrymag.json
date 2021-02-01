@@ -3,30 +3,16 @@
    "online": "1",
    "contents": [
       {"url": "https://www.jstor.org/journal/poetry",
-      "note": "JSTOR (full text also available; after 1924 may require subscription or payment)"}
+      "note": "JSTOR (full text also available; after 1925 may require subscription or payment)"}
    ],
    "first-renewed-issue": 
      {"issue-date": "1944-01", "volume": "63", "number": "3"},
    "first-renewed-issue-source": "1971",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1925-08"}},
-   "first-renewed-contribution-source": "1952-JulDec",
+     {"issue": {"issue-date": "1927-01"}},
+   "first-renewed-contribution-source": "1954-JanJun",
    "renewed-contribution-completeness": "active/1940",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1925-08"},
-      "title": "Sonnet (Dawn-Late Summer)",
-       "author": {
-         "authorized": "Riggs, Lynn, 1899-1954",
-         "lcna": "n82013440"
-       }
-     },
-     {"issue": {"issue-date": "1925-12"},
-        "title": "The Madonna of Carthagena",
-        "author": {
-         "authorized": "Lowell, Amy, 1874-1925",
-         "lcna": "n79076111"
-        }
-     },
      {"issue": {"issue-date": "1927-01"},
       "title": "White Petal Nanitch",
       "author": {
@@ -819,5 +805,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-04-20"
+   "last-updated": "2021-01-04"
 }

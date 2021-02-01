@@ -1,6 +1,7 @@
 {
    "title": "Frontier Stories",
    "aka": ["The Frontier", "Frontier Stories of Pioneer Days"],
+   "online": "1",
    "contents": [
       {"url": "http://www.philsp.com/homeville/WFI/link.asp?magid=FR1",
        "note": "FictionMags"}
@@ -10,45 +11,98 @@
      {"issue-date": "1929-06", "volume": "10", "number": "2"},
    "first-renewed-issue-source": "1957-JanJun",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1925-04", "volume": "2", "number": "1"}},
-   "first-renewed-contribution-source": "1952-JanJun",
+     {"issue": {"issue-date": "1926-03", "volume": "3", "number": "6"}}, 
+   "first-renewed-contribution-source": "1953-JulDec",
    "last-issue": {"issue-date": "1953-Winter", "volume": "18", "number": "10"},
+   "renewed-issue-completeness": "active/end",
+   "renewed-issues": [
+     {"issue-date": "1929-06", "volume": "10", "number": "2"},
+     {"issue-date": "1929-07", "volume": "10", "number": "3"},
+     {"issue-date": "1929-08", "volume": "10", "number": "4"},
+     {"issue-date": "1929-09", "volume": "10", "number": "5"},
+     {"issue-date": "1929-10", "volume": "10", "number": "6"},
+     {"issue-date": "1929-11", "volume": "10", "number": "7"},
+     {"issue-date": "1929-12", "volume": "10", "number": "8"}
+   ],
+   "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1925-04", "volume": "2", "number": "1"}, 
-      "title": "When the Outlaw Rode in Oklahoma",
-      "note": "Title as given in CCE renewal record.  FictionMags records a story by this author in that issue titled 'Bill Tilghman' which might or might not be the same contribution.",
+     {"issue": {"issue-date": "1926-03", "volume": "3", "number": "6"}, 
+      "title": "Frontier Blood",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1926-06", "volume": "4", "number": "3"}, 
+      "title": "The Code",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1926-07", "volume": "4", "number": "4"}, 
+      "title": "Sons of the Forest Edge",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1926-09", "volume": "4", "number": "6"}, 
+      "title": "Wild Bill, Marshall of Hays and Abilene",
+      "author": {
+       "authorized": "Wilstach, Frank Jenners, 1865-1933",
+       "lcna": "n81119418"
+      }
+     },
+     {"issue": {"issue-date": "1928-01", "volume": "7", "number": "4"}, 
+      "title": "Texas As Was",
       "author": {
          "authorized": "Raine, William MacLeod, 1871-1954",
          "lcna": "n90682348"
       }
      },
-     {"issue": {"issue-date": "1925-04", "volume": "2", "number": "1"}, 
-      "title": "Red Knives",
+     {"issue": {"issue-date": "1929-04", "volume": "10", "number": "1"}, 
+      "title": "Night Raid",
       "author": {
        "authorized": "Haycox, Ernest, 1899-1950",
        "lcna": "n79065126"
       }
      },
-     {"issue": {"issue-date": "1925-12", "volume": "3", "number": "3"}, 
-      "title": "Roll Along Missouri",
+     {"issue": {"issue-date": "1929-10", "volume": "10", "number": "6"}, 
+      "title": "Free Range",
       "author": {
-       "authorized": "Haycox, Ernest, 1899-1950",
-       "lcna": "n79065126"
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
       }
      },
-     {"issue": {"issue-date": "1925-12", "volume": "3", "number": "3"}, 
-      "title": "The Saga of Billy the Kid",
+     {"issue": {"issue-date": "1929-11", "volume": "10", "number": "7"}, 
+      "title": "Smoking Guns",
       "author": {
-         "authorized": "Burns, Walter Noble, 1872-1932",
-         "lcna": "n92023934"
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
       }
      },
-     {"issue": {"issue-date": "1926-01", "volume": "3", "number": "4"}, 
-      "title": "Sun Woman",
-       "author": {
-         "authorized": "Schultz, James Willard, 1859-1947",
-         "lcna": "n81141869"
-       }
+     {"issue": {"issue-date": "1940-Winter", "volume": "14", "number": "9"}, 
+      "title": "Firebrand",
+      "note": "A 1969 CCE renewal record puts this story in the Winter 1941 issue of Frontier Stories, but FictionMags and the Winter 1940 issue cover instead put it in the Winter 1940 issue.  A 1969 renewal may be too late to cover stories in that issue",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
+     {"issue": {"issue-date": "1941-Winter", "volume": "15", "number": "1"}, 
+      "title": "Firebrand",
+      "note": "A 1969 CCE renewal record puts this story in the Winter 1941 issue of Frontier Stories, but FictionMags and the Winter 1940 issue cover instead put it in the Winter 1940 issue.  A 1969 renewal may be too late to cover stories in that issue",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
+     {"issue": {"issue-date": "1950-Winter", "volume": "18", "number": "1"}, 
+      "title": "Bowie, Famous Blade of the Alamo",
+      "author": {
+       "name": "James D. Lucey"
+      }
      }
    ],
    "additional-note": "The magazine was titled 'The Frontier' up to the November 1926 issue, and 'Frontier Stories' thereafter.   Some issues late in the run add 'of Pioneer Days' to the cover title in smaller lettering.",
@@ -56,5 +110,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-05-31"
+   "last-updated": "2021-01-23"
 }

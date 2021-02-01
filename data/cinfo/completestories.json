@@ -16,39 +16,15 @@
    ],
    "first-issue": {"issue-date": "1924-01-01", "volume": "1", "number": "1"},
    "first-renewed-issue": 
-     {"issue-date": "1925-01-10", "volume": "2", "number": "4"},
-   "first-renewed-issue-source": "1952",
+     {"issue-date": "1926-01-10", "volume": "6", "number": "4"},
+   "first-renewed-issue-source": "1953-JanJun",
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1927-11"}},
    "first-renewed-contribution-source": "1954-JulDec",
    "last-issue": 
      {"issue-date": "1937-September-October", "volume": "43", "number": "1"},
-   "renewed-issue-completeness": "active/1925",
+   "renewed-issue-completeness": "active/1926",
    "renewed-issues": [
-     {"issue-date": "1925-01-10", "volume": "2", "number": "4"},
-     {"issue-date": "1925-01-25", "volume": "2", "number": "5"},
-     {"issue-date": "1925-02-10", "volume": "2", "number": "6"},
-     {"issue-date": "1925-02-25", "volume": "3", "number": "1"},
-     {"issue-date": "1925-03-10", "volume": "3", "number": "2"},
-     {"issue-date": "1925-03-25", "volume": "3", "number": "3"},
-     {"issue-date": "1925-04-10", "volume": "3", "number": "4"},
-     {"issue-date": "1925-04-25", "volume": "3", "number": "5"},
-     {"issue-date": "1925-05-10", "volume": "3", "number": "6"},
-     {"issue-date": "1925-05-25", "volume": "4", "number": "1"},
-     {"issue-date": "1925-06-10", "volume": "4", "number": "2"},
-     {"issue-date": "1925-06-25", "volume": "4", "number": "3"},
-     {"issue-date": "1925-07-10", "volume": "4", "number": "4"},
-     {"issue-date": "1925-07-25", "volume": "4", "number": "5"},
-     {"issue-date": "1925-08-10", "volume": "4", "number": "6"},
-     {"issue-date": "1925-08-25", "volume": "5", "number": "1"},
-     {"issue-date": "1925-09-10", "volume": "5", "number": "2"},
-     {"issue-date": "1925-09-25", "volume": "5", "number": "3"},
-     {"issue-date": "1925-10-10", "volume": "5", "number": "4"},
-     {"issue-date": "1925-10-25", "volume": "5", "number": "5"},
-     {"issue-date": "1925-11-10", "volume": "5", "number": "6"},
-     {"issue-date": "1925-11-25", "volume": "6", "number": "1"},
-     {"issue-date": "1925-12-10", "volume": "6", "number": "2"},
-     {"issue-date": "1925-12-25", "volume": "6", "number": "3"},
      {"issue-date": "1926-01-10", "volume": "6", "number": "4"},
      {"issue-date": "1926-01-25", "volume": "6", "number": "5"},
      {"issue-date": "1926-04-10", "volume": "7", "number": "4"},
@@ -68,9 +44,38 @@
      {"issue-date": "1927-01", "volume": "9", "number": "6",
       "cdate": "1926-12-15"},
      {"issue-date": "1927-02", "volume": "10", "number": "1",
-      "cdate": "1927-01-14"}
+      "cdate": "1927-01-14"},
+     {"issue-date": "1927-03", "volume": "10", "number": "2"},
+     {"issue-date": "1927-04", "volume": "10", "number": "3"},
+     {"issue-date": "1927-05", "volume": "10", "number": "4"},
+     {"issue-date": "1927-06", "volume": "10", "number": "5"},
+     {"issue-date": "1927-07", "volume": "10", "number": "6"},
+     {"issue-date": "1927-08", "volume": "11", "number": "1"},
+     {"issue-date": "1927-09", "volume": "11", "number": "2"},
+     {"issue-date": "1927-10", "volume": "11", "number": "3"}
    ],
    "renewed-contributions": [
+     {"issue": {"issue-date": "1932-01-15", "volume": "26", "number": "4"},
+      "title": "Heritage",
+      "author": {
+         "authorized": "Titus, Harold, 1888-1967",
+         "lcna": "no2008175553"
+      }
+     },
+     {"issue": {"issue-date": "1932-05-15", "volume": "27", "number": "6"},
+      "title": "Hang Up My Gun",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1932-06-01", "volume": "28", "number": "1"},
+      "title": "The Kid From River Red",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
      {"issue": {"issue-date": "1932-08-01", "volume": "28", "number": "5"},
       "title": "Three Men on the Moon",
       "note": "A CCE renewal record lists this title as appearing in the August 1932 issue of 'Complete Adventure Novelettes' but FictionMags instead places that story in this magazine issue.",
@@ -86,5 +91,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-10-03"
+   "last-updated": "2021-01-14"
 }

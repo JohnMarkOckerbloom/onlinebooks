@@ -8,8 +8,8 @@
      {"issue-date": "1964-01-11", "cdate": "1964-01-03",
       "volume": "150", "number": "2"},
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1925-04-22"}},
-   "first-renewed-contribution-source": "1952-JanJun",
+     {"issue": {"issue-date": "1926-12-01"}},
+   "first-renewed-contribution-source": "1953-JulDec",
    "renewed-issue-completeness": "active/1950",
    "renewed-issues": [
      {"issue-date": "1927-03-09", "volume": "50", "number": "640"},
@@ -471,27 +471,6 @@
    ],
    "renewed-contribution-completeness": "active/1931",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1925-04-22"},
-      "title": "Architects",
-      "author": {
-       "authorized": "Benét, Stephen Vincent, 1898-1943",
-       "lcna": "n50007691"
-      }
-     },
-     {"issue": {"issue-date": "1925-07-15"},
-        "title": "Preface to an Occasion",
-        "author": {
-         "authorized": "Lowell, Amy, 1874-1925",
-         "lcna": "n79076111"
-        }
-     },
-     {"issue": {"issue-date": "1925-10-07"},
-        "title": "To a Gentleman",
-        "author": {
-         "authorized": "Lowell, Amy, 1874-1925",
-         "lcna": "n79076111"
-        }
-     },
      {"issue": {"issue-date": "1926-12-01"},
         "title": "Annihilation",
         "author": {
@@ -691,5 +670,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-10-31"
+   "last-updated": "2021-01-22"
 }

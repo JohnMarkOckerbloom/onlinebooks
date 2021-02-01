@@ -6,58 +6,13 @@
       {"url": "http://www.philsp.com/homeville/FMI/link.asp?magid=HRS",
        "note": "FictionMags (most issues)"}
    ],
-   "first-renewed-issue":
-      {"issue-date": "1925-02", "volume": "47", "number": "2",
-         "cdate": "1925-01-20"},
-   "first-renewed-issue-source": "1952",
-   "first-renewed-contribution": 
-     {"issue": {"issue-date": "1925-02", "volume": "47", "number": "2"}},
-   "first-renewed-contribution-source": "1952-JanJun",
+   "rights-statement": "NoC-US",
    "last-issue": {"issue-date": "1925-02", "volume": "47", "number": "2"},
    "succeeded-by": [{"id": "cosmopolitan", "note": "Cosmopolitan"}],
-   "renewed-issue-completeness": "active/1925-02",
-   "renewed-issues": [
-      {"issue-date": "1925-02", "volume": "47", "number": "2",
-         "cdate": "1925-01-20"}
-   ],
-   "renewed-contribution-completeness": "active/1925-02",
-   "renewed-contributions": [
-     {"issue": {"issue-date": "1925-02", "volume": "47", "number": "2"},
-      "title": "That Royle Girl",
-      "title-note": "part 3 of 8",
-      "author": {
-       "authorized": "Balmer, Edwin, 1883-1959",
-       "lcna": "no92024746"
-      }
-     },
-     {"issue": {"issue-date": "1925-02", "volume": "47", "number": "2"},
-      "title": "The Baby Party",
-      "author": {
-       "authorized": "Fitzgerald, F. Scott (Francis Scott), 1896-1940",
-       "lcna": "n79006871"
-      }
-     },
-     {"issue": {"issue-date": "1925-02", "volume": "47", "number": "2"},
-      "title": "The Painted Veil",
-      "title-note": "part 4 of 5",
-      "author": {
-       "authorized": "Maugham, W. Somerset (William Somerset), 1874-1965",
-       "lcna": "n79036830"
-      }
-     },
-     {"issue": {"issue-date": "1925-02", "volume": "47", "number": "2"},
-      "title": "The Ancient Highway",
-      "title-note": "part 5 of 9",
-      "author": {
-       "authorized": "Curwood, James Oliver, 1878-1927",
-       "lcna": "n50020530"
-      }
-     }
-   ],
    "additional-note": "For issues after February 1925, see Cosmopolitan, which absorbed this magazine the following month.  (Issues were published as 'Hearst's International and Cosmopolitan' for some decades afterwards, but 'Cosmopolitan' was the more prominently displayed part of the title.)",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-01-07"
+   "last-updated": "2021-01-04"
 }

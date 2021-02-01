@@ -1,0 +1,35 @@
+{
+   "title": "Current Digest",
+   "title-note": "West Publishing",
+   "first-issue": {"issue-date": "1926-09", "number": "432"},
+   "first-renewed-issue": {"issue-date": "1926-09", "number": "432"},
+   "first-renewed-issue-source": "1954-JanJun",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce+database",
+   "preceded-by":
+     [{"id": "americandigest",
+       "note": "American Digest (Monthly advance sheets, Key number series)"}],
+   "renewed-issue-completeness": "active/1926",
+   "renewed-issues": [
+     {"issue-date": "1926-09", "number": "432"},
+     {"issue-date": "1926-10", "number": "433"},
+     {"issue-date": "1926-11", "number": "434"},
+     {"issue-date": "1926-12", "number": "435"},
+     {"issue-date": "1926", "volume": "1", "number": "Semi-annual edition"},
+     {"issue-date": "1926", "volume": "1", "number": "Annual edition"},
+     {"issue-date": "1927-01", "number": "436"},
+     {"issue-date": "1927-02", "number": "437"},
+     {"issue-date": "1927-03", "number": "438"},
+     {"issue-date": "1927-04", "number": "439"},
+     {"issue-date": "1927-05", "number": "440"},
+     {"issue-date": "1927-07", "number": "442"},
+     {"issue-date": "1927-08", "number": "443"},
+     {"issue-date": "1927", "volume": "2", "number": "Semi-annual edition"}
+   ],
+   "additional-note": "The monthly issues are described as 'monthly advance sheets, key number series' and are renewed under Periodicals. The annual and semi-annual editions are renewed under Books, as are a number of index volumes not covered here.",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2021-01-02"
+}
