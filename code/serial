@@ -142,6 +142,7 @@ sub showmag {
     print "<ul>\n";
     foreach $sr (@{$recr->{SREF}}) {
       my ($years, $url, $desc) = split(/ /, $sr, 3);
+      $desc =~ s/\*THIS\*/"<cite>" . $name . "<\/cite>"/ge;
       if ($desc =~ /(.*)\*(.*)\*(.*)/) {
          $desc = "$1<a href=\"$url\">$2</a>$3";
         $years =~ s/_/ /g;

@@ -1,0 +1,91 @@
+{
+   "title": "True Romances",
+   "aka": ["True Romance"],
+   "online": "1",
+   "first-renewed-issue":
+      {"issue-date": "1944-01", "volume": "38", "number": "5"},
+   "first-renewed-issue-source": "1971",
+   "first-renewed-contribution": {"issue": {"issue-date": "1926-08"}},
+   "first-renewed-contribution-source": "1954-JulDec",
+   "first-autorenewed-issue":
+      {"issue-date": "1964-02", "volume": "77", "number": "6",
+       "cdate": "1964-01-02"},
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1926-08"},
+        "title": "The Price of a Husband",
+        "author": {
+         "name": "Victoria Moore"
+        }
+     },
+     {"issue": {"issue-date": "1926-12"},
+        "title": "My Woman and Yours",
+        "title-note": "part 1 of 2",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "using": "Arnold Fountain",
+         "lcna": "n79041782"
+        }
+     },
+     {"issue": {"issue-date": "1927-01"},
+        "title": "My Woman and Yours",
+        "title-note": "part 2 of 2",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "using": "Arnold Fountain",
+         "lcna": "n79041782"
+        }
+     },
+     {"issue": {"issue-date": "1930-02"},
+        "title": "Betsy of Old Baltimore",
+        "title-note": "part 1 of 4",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "using": "Arnold Fountain",
+         "lcna": "n79041782"
+        }
+     },
+     {"issue": {"issue-date": "1930-03"},
+        "title": "Betsy of Old Baltimore",
+        "title-note": "part 2 of 4",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "using": "Arnold Fountain",
+         "lcna": "n79041782"
+        }
+     },
+     {"issue": {"issue-date": "1930-04"},
+        "title": "Betsy of Old Baltimore",
+        "title-note": "part 3 of 4",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "using": "Arnold Fountain",
+         "lcna": "n79041782"
+        }
+     },
+     {"issue": {"issue-date": "1930-05"},
+        "title": "Betsy of Old Baltimore",
+        "title-note": "part 4 of 4",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "using": "Arnold Fountain",
+         "lcna": "n79041782"
+        }
+     },
+     {"issue": {"issue-date": "1934-09"},
+       "title": "Doctor's Temptation",
+       "author": {
+         "name": "L. Lindley Mulkey"
+       }
+     }
+   ],
+   "additional-notes" : [
+     "Active contribution renewals are recorded beginning in the 1953 July-December CCE volume, but the earliest active renewed contribution is noted in the 1954 July-December volume.",
+     "This magazine was renamed 'True Romance' in the 1940s."
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2021-02-06"
+}

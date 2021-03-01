@@ -3,8 +3,12 @@
    "title-note": "New York, 1893-1935",
    "aka": ["New Outlook", "Outlook and Independent"],
    "online": "1",
-   "see-also": [{"id": "independentus1848",
-        "note": "The Independent (New York magazine, 1848-1928)"}],
+   "see-also": [
+       {"id": "outlookuk",
+        "note": "The Outlook (London, 1898-1928)"},
+       {"id": "independentus1848",
+        "note": "The Independent (New York magazine, 1848-1928)"}
+   ],
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution":
@@ -253,5 +257,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-01-13"
+   "last-updated": "2021-02-26"
 }

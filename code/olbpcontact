@@ -618,7 +618,7 @@ sub spambadlink {
 
 sub spamsolicitation {
   my ($ref, $title, $comments) = @_;
-  if (!$title && $ref =~ /key=[a-np-z]/ && ($comments =~ /http|\.com/)) {
+  if (!$title && ($ref =~ /key=[a-np-z]/) && ($comments =~ /http|\.com/)) {
     return 1;
   }
   return 0;

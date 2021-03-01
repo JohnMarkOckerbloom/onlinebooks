@@ -1,6 +1,8 @@
 {
    "title": "Harper's Magazine",
-   "aka": ["Harper's"],
+   "aka": ["Harper's",
+           "When Conan Doyle Was Sherlock Holmes (only for a misfiled contribution renewal; see record details)"
+   ],
    "online": "1",
    "contents": [
       {"url": "http://www.philsp.com/homeville/FMI/link.asp?magid=HRP",
@@ -171,6 +173,14 @@
          "authorized": "McFee, William, 1881-1966",
          "lcna": "n82053296"
       }
+     },
+     {"issue": {"issue-date": "1949-01", "volume": "198", "number": "1184"},
+      "title": "When Conan Doyle Was Sherlock Holmes",
+      "note": "This is misfiled in the 1976 July-December CCE in Periodicals, listed as a renewal for a periodical titled 'When Conan Doyle Was Sherlock Holmes', instead of as a renewal for an article by that name that appeared in the Harper's issue with the indicated issue date and number.",
+      "author": {
+         "authorized": "Carr, John Dickson, 1906-1977",
+         "lcna": "n79021589"
+      }
      }
    ],
    "additional-note": "Active contribution renewals are recorded beginning in the 1953 July-December CCE volume, but the earliest actively renewed contribution is noted in the 1954 January-June volume.",
@@ -178,5 +188,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-01-19"
+   "last-updated": "2021-02-21"
 }

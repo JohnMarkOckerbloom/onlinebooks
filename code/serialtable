@@ -36,20 +36,23 @@ my $muse_journals = $pkgdir . "muse/muse_journal_metadata_2019.tsv";
 #my $ovid_complete = $pkgdir . "wolters/Ovid_Global_AllJournals_2020-07-05.txt";
 my $ovid_complete = $pkgdir . "wolters/Ovid_Global_AllJournals_2021-01-26.txt";
 
-my $oxford_archive = $pkgdir . "oxford/OxfordUniversityPress_Global_2020JournalsArchiveAllTitles_2020-06-04.txt";
+#my $oxford_archive = $pkgdir . "oxford/OxfordUniversityPress_Global_2020JournalsArchiveAllTitles_2020-06-04.txt";
+my $oxford_archive = $pkgdir . "oxford/OxfordUniversityPress_Global_2021JournalsArchiveAllTitles_2020-10-30.txt";
 
 #my $penn_serials = $pkgdir . "penn/Serials before 1964.csv";
 my $penn_serials = $pkgdir . "penn/Serials (All)  - Problem Columns Removed 052220.csv";
 
+#my $proquest_archive = $pkgdir . "proquest/PeriodicalsArchiveOnlineOld.tsv";
 my $proquest_archive = $pkgdir . "proquest/PeriodicalsArchiveOnline.tsv";
 
-my $sage_journals = $pkgdir . "sage/sj_deep_backfile_2020_title_list_2019.09.17.txt";
+#my $sage_journals = $pkgdir . "sage/sj_deep_backfile_2020_title_list_2019.09.17.txt";
+my $sage_journals = $pkgdir . "sage/SAGE Complete Deep Backfile Purchase 2021 List.txt";
 
 #my $scidirect_journals = $pkgdir . "elsevier/ScienceDirectStandard_Global_ScienceDirectAvailableJournals_2020-12-10.txt";
 my $scidirect_journals = $pkgdir . "elsevier/ScienceDirectStandard_Global_ScienceDirectAvailableJournals_2021-01-31.txt";
 my $sim_journals = $pkgdir . "sim/SIM-MASTER-TITLE-2017.txt";
-#my $springer_journals = $pkgdir . "springer/Springer_Global_Complete_Journals_2020-01-07.txt";
-my $springer_journals = $pkgdir . "springer/Springer_Global_Complete_Journals_2020-07-01.txt";
+#my $springer_journals = $pkgdir . "springer/Springer_Global_Complete_Journals_2020-07-01.txt";
+my $springer_journals = $pkgdir . "springer/Springer_Global_Complete_Journals_2021-02-01.txt";
 my $taylor_global = $pkgdir . "taylor/TaylorandFrancisOnline_Global_DatabaseOAReadandPublish_2019-09-18.txt";
 my $taylor_classic = $pkgdir . "taylor/ClassicAggregation.txt";
 my $wikipedia = $pkgdir . "wikipedia/articleperiodicals.csv";
@@ -92,7 +95,7 @@ my $tables = {
       parser=>\&pqparser, filter=>\&pre64andolbp},
   "sagepremier-available" =>
      {file => $sage_journals, reader=>\&readsagefile,
-      parser=>\&sageparser, filter=>\&pre64andolbp},
+      parser=>\&sageparser, filter=>\&sortedfilter64},
   "scidirect-available" =>
      {file => $scidirect_journals, reader=>\&readtsvfile,
       parser=>\&kbartparser, filter=>\&pre64andolbp},
@@ -245,6 +248,10 @@ sub sageparser {
     if ($backstart =~ /(\d\d\d\d)\)/) {
       $start = $1;
     }
+    my $backend = $result->{"Backfile Last Issue Online"};
+    if ($backend =~ /(\d\d\d\d)\)/) {
+      $end = $1;
+    }
     my $title = $result->{$sagetitlefield};
     $title =~ s/(.*), The$/The $1/;          # deinvert "The" titles
     my @issns = ();
@@ -263,6 +270,7 @@ sub sageparser {
     }
     $rec->{title} = $title;
     $rec->{start} = $start;
+    $rec->{end} = $end;
     $rec->{pkgid} = $result->{URL};
     push @recs, $rec;
   }
@@ -530,8 +538,8 @@ sub oxfordfilter {
 
 sub sortedfilter64 {
   my (@recs) = @_;
-  @recs = sort_titles(@recs);
-  return pre64andolbp(@recs);
+  @recs = pre64andolbp(@recs);
+  return sort_titles(@recs);
 }
 
 
@@ -970,7 +978,8 @@ sub readsagefile {
       # remove byte order marker if present
       $fieldnames[0] = $1;
   }
-  $sagetitlefield = $fieldnames[0];   # Title field comes first; name varies
+  #$sagetitlefield = $fieldnames[0];   # Title field comes first; name varies
+  $sagetitlefield = $fieldnames[1];   # Title field comes second; name varies
   while (my $row = shift @rows) {
     #  have to fix mis-encoded non-ASCII characters
     $row =~ s/\x9f/\xfc/g;    # u with umlaut

@@ -1,5 +1,6 @@
 {
    "title": "The New Yorker",
+   "aka": ["The Explorers (only for a misfiled contribution renewal; see record details)"],
    "online": "1",
    "contents": [
       {"url": "http://www.philsp.com/homeville/FMI/link.asp?magid=NYM",
@@ -360,11 +361,19 @@
        "authorized": "Parker, Dorothy, 1893-1967",
        "lcna": "n50050331"
       }
+     },
+     {"issue": {"issue-date": "1938-05-12", "volume": "14", "number": "14"},
+      "title": "The Explorers",
+      "note": "This is misfiled in the 1965 CCE in Periodicals, listed as a renewal for a magazine titled 'The Explorers', instead of as a renewal for a story by that name that appeared in the New Yorker with the indicated issue date and number.",
+      "author": {
+         "authorized": "Weidman, Jerome, 1913-1998",
+         "lcna": "n50022730"
+      }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-01-10"
+   "last-updated": "2021-02-21"
 }

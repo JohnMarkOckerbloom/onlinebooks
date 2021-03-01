@@ -1,0 +1,23 @@
+{
+   "title": "Street & Smith's Sport Comics",
+   "contents": [
+      {"url": "https://www.comics.org/series/12526/",
+       "note": "Grand Comics Database"}
+   ],
+   "first-issue":
+      {"issue-date": "1940", "volume": "1", "number": "1"},
+   "first-renewed-issue":
+      {"issue-date": "1940", "volume": "1", "number": "1"},
+   "first-renewed-issue-source": "1967",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce",
+   "last-issue":
+      {"issue-date": "1941-11", "volume": "1", "number": "4"},
+   "succeeded-by":
+     [{"id": "truesportpic", "note": "True Sport Picture Stories"}],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2021-02-06"
+}

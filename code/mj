@@ -21,10 +21,12 @@ my %ADJECTIVE = (
  "Argentina" => "an Argentinian",
  "Australia" => "an Australian",
  "Austria" => "an Austrian",
+ "Azerbaijan" => "an Azerbaijani",
  "Belgium" => "a Belgian",
  "Bolivia" => "a Bolivian",
  "Brazil" => "a Brazilian",
  "Canada" => "a Canadian",
+ "Chile" => "a Chilean",
  "Colombia" => "a Colombian",
  "Costa Rica" => "a Costa Rican",
  "Croatia" => "a Croatian",
@@ -56,6 +58,7 @@ my %ADJECTIVE = (
  "Portugal" => "a Portuguese",
  "Russia" => "a Russian",
  "Scotland" => "a Scottish",
+ "Serbia" => "a Serbian",
  "Slovakia" => "a Slovakian",
  "South Africa" => "a South African",
  "Spain" => "a Spanish",
@@ -146,7 +149,7 @@ sub countrynote {
   }
   return undef if (!$origin);
   if ($country eq "Iran") {
-     return "This is $origin. As of when this entry was last updated, the United States has no copyright relations with them, so publications originating there do not have copyright protection in the US. The US copyright status of this journal may change if they establish copyright relations with the US, either directly or via treaties like the Berne Convention."
+     return "This is $origin. As of when this entry was last updated, the United States has no copyright relations with $country, so publications originating there do not have copyright protection in the US. The US copyright status of this journal may change if they establish copyright relations with the US, either directly or via treaties like the Berne Convention."
   }
   return "This is $origin. Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US.";
 }
@@ -313,9 +316,12 @@ if (!($args->{issn} =~ /^\d\d\d\d-\d\d\d[\dX]$/)) {
 my $rec = makesubmissionrec($args->{issn});
 my $str = makejson($rec, $args->{rights}, $args->{contents});
 writejson($args->{olbpid}, $str);
-if (($rec->{FREESTUFF} && $rec->{FREESTUFF} =~ /\S/) ||
+if (($rec->{FREESTUFF} && ($rec->{FREESTUFF} ne "none")
+      && $rec->{FREESTUFF} =~ /\S/) ||
    ($args->{comment} && $args->{comment} ne "none")) {
-  $str = makeolbprec($rec, $args);
-  my $serialpool = new OLBP::SubmissionPool(dir=>$pooldir, name=>$serialdir);
-  $serialpool->record_submission(string=>$str);
+  if (!$args->{norec}) {
+    $str = makeolbprec($rec, $args);
+    my $serialpool = new OLBP::SubmissionPool(dir=>$pooldir, name=>$serialdir);
+    $serialpool->record_submission(string=>$str);
+  }
 }

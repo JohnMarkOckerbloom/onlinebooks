@@ -1,15 +1,21 @@
 {
    "title": "Hobbies",
    "title-note": "Buffalo Society of Natural Sciences periodical",
+   "online": "1",
+   "first-issue":
+     {"issue-date": "1920-05", "volume": "1", "number": "1"}, 
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
+   "last-issue":
+     {"issue-date": "1958-02", "volume": "38", "number": "3"}, 
+   "succeeded-by": [{"id": "sciencemarch", "note": "Science on the March"}],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
    "acknowledgement": 
       "Thanks to Ken Raining for copyright research on this title.",
-   "last-updated": "2021-01-11"
+   "last-updated": "2021-02-26"
 }
