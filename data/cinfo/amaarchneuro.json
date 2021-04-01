@@ -1,0 +1,34 @@
+{
+   "title": "A. M. A. Archives of Neurology",
+   "preceded-by":
+      [{"id": "amaarchneupsy",
+        "note": "A. M. A. Archives of Neurology and Psychiatry"}],
+   "first-issue": 
+     {"issue-date": "1959-07", "volume": "1", "number": "1"},
+   "first-renewed-issue": 
+     {"issue-date": "1960-01", "volume": "2", "number": "1"},
+   "first-renewed-issue-source": "database",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "database",
+   "last-issue": 
+     {"issue-date": "1960-06", "volume": "2", "number": "6"},
+   "succeeded-by":
+      [{"id": "archneurology",
+        "note": "Archives of Neurology"}],
+   "renewed-issue-completeness": "active/end",
+   "renewed-issues": [
+     {"issue-date": "1960-01", "volume": "2", "number": "1"},
+     {"issue-date": "1960-02", "volume": "2", "number": "2"},
+     {"issue-date": "1960-03", "volume": "2", "number": "3"},
+     {"issue-date": "1960-04", "volume": "2", "number": "4"},
+     {"issue-date": "1960-05", "volume": "2", "number": "5"},
+     {"issue-date": "1960-07", "volume": "2", "number": "6"}
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "acknowledgement": 
+      "Thanks to Eri Mizukane for copyright research on this title.",
+   "last-updated": "2021-03-02"
+}

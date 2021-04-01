@@ -1,5 +1,9 @@
 {
    "title": "Archives des Maladies du Coeur et des Vaisseaux",
+   "preceded-by":
+       [{"id": "archmalcovasan",
+         "note": "Archives des Maladies du Coeur, des Vaisseaux et du Sang"}],
+   "first-issue": {"issue-date": "1937-04", "volume": "30", "number": "4"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",

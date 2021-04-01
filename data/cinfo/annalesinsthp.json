@@ -1,9 +1,12 @@
 {
    "title": "Annales de l'Institut Henri Poincaré",
+   "online": "1",
+   "first-issue": {"issue-date": "1930", "volume": "1", "number": "1"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
+   "last-issue": {"issue-date": "1964", "volume": "18", "number": "4"},
    "see-also":
      [{"id": "annihpnonlin",
        "note": "Annales de l'Institut Henri Poincaré: Analyse non Linéaire"}],
@@ -15,5 +18,5 @@
    },
    "acknowledgement": 
       "Thanks to Mallika Sircar for copyright research on this title.",
-   "last-updated": "2021-02-16"
+   "last-updated": "2021-03-29"
 }

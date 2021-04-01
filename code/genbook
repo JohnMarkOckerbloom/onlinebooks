@@ -766,6 +766,23 @@ sub enhance_title_subjects {
    }
 }
 
+# This generates a file that at this point simply notes
+# which titles have subjects.  Used to know when it makes
+# sense to link to a subject that's actually about a work.
+
+sub maketitlesubjectfile {
+  my %titlesubhash = ();
+  foreach my $key (%tsubkeys) {
+     $key = OLBP::BookRecord::search_key_for_subject($key);
+     $titlesubhash{$key} = 1;
+  }
+  foreach my $key (%ntsubkeys) {
+     $key = OLBP::BookRecord::search_key_for_subject($key);
+     $titlesubhash{$key} = 1;
+  }
+  packhashtofile("booktitlesubs", \%titlesubhash);
+}
+
 sub makesubjectfiles {
   my %subhash = ();
    
@@ -797,6 +814,9 @@ sub makesubjectfiles {
                             @brecs));
   }
   packhashtofile("subjectbooks", \%subhash);
+
+  # Now record which title subjects exist
+  maketitlesubjectfile();
 
   # Now compile two arrays: one of the sorted subjects (write to index)
   # and another of the subject info with following information
@@ -886,6 +906,11 @@ readbooks;
 checkauthorxrefs;
 if ($ARGV[0] eq "validate") {
   # Don't index; just check that 
+  exit 0;
+}
+if ($ARGV[0] eq "justserials") {
+  # we use this when we want to regenerate serials without rebuilding everything
+  makeserialhashfile;
   exit 0;
 }
 

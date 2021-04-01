@@ -1,11 +1,15 @@
 {
    "title": "Cinéma",
+   "title-note": "French periodical, 1954-1999",
    "first-issue": {"issue-date": "1954-11", "number": "1"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "database",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "database",
    "last-issue": {"issue-date": "1999-12", "number": "600"},
+   "see-also":
+       [{"id": "thecinema1950",
+         "note": "The Cinema (Penguin Books annual, 1950-1952)"}],
    "additional-note": 
       "This is a French publication. Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US.",
    "responsibility": {
@@ -14,5 +18,5 @@
    },
    "acknowledgement": 
       "Thanks to Ken Raining for copyright research on this title.",
-   "last-updated": "2020-08-04"
+   "last-updated": "2021-03-17"
 }

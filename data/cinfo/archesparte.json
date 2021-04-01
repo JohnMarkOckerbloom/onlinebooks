@@ -1,5 +1,9 @@
 {
    "title": "Archivo Español de Arte",
+   "online": "1",
+   "preceded-by": 
+     [{"id": "archespartarq", 
+       "note": "Archivo Español de Arte y Arqueología"}],
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
@@ -12,5 +16,5 @@
    },
    "acknowledgement": 
       "Thanks to Ed Deegan for copyright research on this title.",
-   "last-updated": "2021-02-05"
+   "last-updated": "2021-03-15"
 }

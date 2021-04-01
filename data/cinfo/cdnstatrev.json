@@ -1,5 +1,9 @@
 {
    "title": "Canadian Statistical Review",
+   "online": "1",
+   "preceded-by":
+     [{"id": "mnrvbusstatca", "note": "Monthly Review of Business Statistics"}],
+   "first-issue": {"issue-date": "1948-01", "volume": "23", "number": "1"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
@@ -12,5 +16,5 @@
    },
    "acknowledgement": 
       "Thanks to Joe Kishman for copyright research on this title.",
-   "last-updated": "2021-02-01"
+   "last-updated": "2021-03-10"
 }

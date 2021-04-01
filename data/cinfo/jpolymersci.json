@@ -14,6 +14,14 @@
    "first-renewed-issue-source": "1974",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
+   "succeeded-by": [
+     {"id": "jpolymscia1963",
+      "note": "Journal of Polymer Science, Part A: General Papers"},
+     {"id": "jpolymscib1963",
+      "note": "Journal of Polymer Science, Part B: Polymer Letters"},
+     {"id": "jpolymscic1963",
+      "note": "Journal of Polymer Science, Part C: Polymer Symposia"}
+   ],
    "additional-notes": ["The first issue was titled 'Journal of Polymer Research'. 'Journal of Polymer Science' was used for the second and later issues.",
     "This journal split into multiple parts in 1963, which were reorganized multiple times thereafter.  In 2020 the remaining parts were recombined under the general 'Journal of Polymer Science' title."
    ],
@@ -21,5 +29,7 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-05-09"
+   "acknowledgement": 
+      "Thanks to Felice Gollotti for copyright research on this title.",
+   "last-updated": "2021-03-08"
 }

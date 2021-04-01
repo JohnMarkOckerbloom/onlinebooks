@@ -690,6 +690,7 @@ sub analyze_form {
       || $title =~ /^cheap /
       || $title =~ / sunglasses /
       || $title =~ /trump vote mask/
+      || $title =~ /dfdsf/
       || $title =~ /ister misery 1901/
       || $title =~ /googlegoogle/
       || $title =~ /jeffrearoom/

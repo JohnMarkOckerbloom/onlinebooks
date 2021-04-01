@@ -13,9 +13,13 @@
       {"issue": {"issue-date": "1956-02", "volume": "50", "number": "2"}},
    "first-renewed-contribution-source": "database",
    "last-issue": {"issue-date": "1969-12", "volume": "63", "number": "11"},
+   "succeeded-by": [{"id": "amlibraries",
+                    "note": "American Libraries"}],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-05-30"
+   "acknowledgement": 
+      "Thanks to Eri Mizukane for copyright research on this title.",
+   "last-updated": "2021-03-24"
 }
