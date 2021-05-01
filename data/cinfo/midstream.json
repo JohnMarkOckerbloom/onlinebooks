@@ -1,5 +1,6 @@
 {
    "title": "Midstream",
+   "title-note": "American Jewish periodical",
    "first-issue": {"issue-date": "1955-Autumn", "volume": "1", "number": "1"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "database",
@@ -9,9 +10,11 @@
    "first-renewed-contribution":
      {"issue": {"issue-date": "1955-Autumn"}},
    "first-renewed-contribution-source": "database",
+   "see-also": [{"id": "midstream1961", 
+               "note": "Mid-Stream (ecumenical Christian periodical, 1961-2002)"}],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-03-09"
+   "last-updated": "2021-04-06"
 }

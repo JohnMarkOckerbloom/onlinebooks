@@ -26,6 +26,9 @@ my $badissnmap = {};
 #my $cambridge_journals = $pkgdir . "cambridge/CUP_All_journals_2020-12-10.txt";
 my $cambridge_journals = $pkgdir . "cambridge/CUP_All_journals_2021-01-30.txt";
 
+my $hathipilot_serials = $pkgdir . "hathitrust/localplusus.tsv";
+my $hathipilot_wdquery = $pkgdir . "hathitrust/wikihathiserial.csv";
+
 #my $jstor_merged = $pkgdir . "jstor/JSTOR_ArchiveTitles_2020-07-09.txt";
 my $jstor_merged = $pkgdir . "jstor/JSTOR_ArchiveTitles_2021-01-31.txt";
 my $jstor_split = $pkgdir . "jstor/JSTOR_Global_AllArchiveTitles_2021-01-31.txt";
@@ -41,6 +44,8 @@ my $oxford_archive = $pkgdir . "oxford/OxfordUniversityPress_Global_2021Journals
 
 #my $penn_serials = $pkgdir . "penn/Serials before 1964.csv";
 my $penn_serials = $pkgdir . "penn/Serials (All)  - Problem Columns Removed 052220.csv";
+#my $penn2_serials = $pkgdir . "penn/Serials (All)  - Problem Columns Removed 052220 - Run 041221.csv";
+my $penn2_serials = $pkgdir . "penn/Catch22.csv";
 
 #my $proquest_archive = $pkgdir . "proquest/PeriodicalsArchiveOnlineOld.tsv";
 my $proquest_archive = $pkgdir . "proquest/PeriodicalsArchiveOnline.tsv";
@@ -69,6 +74,12 @@ my $tables = {
   "cambridge-journals" =>
      {file => $cambridge_journals, reader=>\&readtsvfile,
       parser=>\&kbartparser, filter=>\&pre64andolbp},
+  "hathitrust-pilot" =>
+     {file => $hathipilot_serials, reader=>\&readtsvfile,
+      parser=>\&htpilotparser, filter=>\&sortedfilterwitholbp},
+  "hathitrust-pilot-test" =>
+     {file => $hathipilot_serials, reader=>\&readtsvfile,
+      parser=>\&htpilotparser, filter=>\&sort_titles},
   "jstor-consolidated-candidates" =>
      {file => $jstor_merged, reader=>\&readtsvfile,
       parser=>\&jstorparser, filter=>\&pre64andolbp},
@@ -89,6 +100,9 @@ my $tables = {
       parser=>\&kbartparser, filter=>\&oxfordfilter},
   "penn-serials" =>
      {file => $penn_serials, reader=>\&readcsvfile,
+      parser=>\&pennparser, filter=>\&pennfilter},
+  "penn-serials-test" =>
+     {file => $penn2_serials, reader=>\&readcsvfile,
       parser=>\&pennparser, filter=>\&pennfilter},
   "proquest-archive" =>
      {file => $proquest_archive, reader=>\&readpqfile,
@@ -506,6 +520,46 @@ sub pennparser {
   return @recs;
 }
 
+my $hathirecordprefix = "https://catalog.hathitrust.org/Record/";
+
+sub htpilotparser {
+  my ($set, @results) = @_;
+  my @recs = ();
+  my ($hathiolbp, $hathiissns) = readhathipilotfile($hathipilot_wdquery);
+  foreach my $result (@results) {
+    my $title = $result->{title};
+    my $htid = $result->{htid};
+    $htid =~ s/^0*//;
+    my $start = int($result->{start_date});
+    my $end = int($result->{end_date});
+    my $rec = find_pub_record($hathiolbp->{$htid},
+                              keys %{$hathiissns->{$htid}});
+    if (!$rec) {
+      $rec = {};
+    # } else {
+    #  print "Found a rec for $htid!\n";
+    }
+    $rec->{title} = $title;
+    $rec->{start} = int($rec->{start});
+    if ($rec->{end}) {
+      $rec->{end} = int($rec->{end});
+    }
+    if ($start) {
+      if (!$rec->{start} || $rec->{start} > $start) {
+        $rec->{start} = $start;
+      }
+    }
+    if ($end && ($end != 9999)) {
+      if (!$rec->{end} || $rec->{end} < $end) {
+        $rec->{end} = $end;
+      }
+    }
+    $rec->{pkgid} ||= $hathirecordprefix . $htid;
+    push @recs, $rec;
+  }
+  return @recs;
+} 
+
 # pre64andolbp is a filter that returns records in the provided set
 # that have coverage before the end of copyright renewals (i.e. pre-1964)
 # or that have coverage listed in The Online Books Page
@@ -540,6 +594,22 @@ sub sortedfilter64 {
   my (@recs) = @_;
   @recs = pre64andolbp(@recs);
   return sort_titles(@recs);
+}
+
+sub sortedfilterwitholbp {
+  my (@recs) = @_;
+  my @filteredrecs = ();
+  foreach my $rec (@recs) {
+    next if (!$rec->{olbp});  # Needs OLBP record, but not necessarily ISSN
+    if ($rec->{end} && $rec->{end} <= $renewals_end) {
+      push @filteredrecs, $rec;
+    } elsif ($rec->{start} && $rec->{start} <= $renewals_end) {
+      push @filteredrecs, $rec;
+    } elsif ($rec->{coverage}) {
+      push @filteredrecs, $rec;
+    }
+  }
+  return sort_titles(@filteredrecs);
 }
 
 
@@ -1104,6 +1174,31 @@ sub readwikidata {
     $rec->{start} = simplifywikidate($pub->{start});
     $rec->{end} = simplifywikidate($pub->{end});
   }
+}
+
+sub readhathipilotfile {
+  my ($hathifile) = @_;
+  my @rows = readcsvfile($hathifile);
+  my $hathiolbp;
+  my $hathiissns;
+  foreach my $row (@rows) {
+    my $olbpid = $row->{olbpid};
+    my $hathiid = $row->{hathitrustid};
+    $hathiid =~ s/^0*//;
+    my $issn = $row->{issn};
+    my $wikidataid = $row->{wikidataid};
+    my $qid = "";
+    if ($wikidataid =~ /(Q.*)/) {
+      $qid = $1;
+    }
+    if ($olbpid) {
+      $hathiolbp->{$hathiid} = $olbpid;
+    }
+    if ($issn) {
+      $hathiissns->{$hathiid}->{$issn} = 1;
+    }
+  }
+  return ($hathiolbp, $hathiissns);
 }
 
 sub readserialset {

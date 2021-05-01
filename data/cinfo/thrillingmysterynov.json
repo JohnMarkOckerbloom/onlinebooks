@@ -17,9 +17,13 @@
         "note": "Renewal record and contents identify this as v22, no. 2"}, 
    "first-renewed-issue-source": "1972",
    "first-renewed-contribution-source": "1967-JanJun",
+   "last-issue": 
+       {"issue-date": "1947-05", "volume": "26", "number": "3"},
+   "succeeded-by":
+      [{"id": "detectmystnov", "note": "Detective Mystery Novel Magazine"}],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-01-01"
+   "last-updated": "2021-04-11"
 }

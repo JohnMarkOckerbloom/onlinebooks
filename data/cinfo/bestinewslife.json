@@ -1,17 +1,21 @@
 {
    "title": "Best's Insurance News: Life Edition",
+   "online": "1",
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
-   "see-also": 
-      [{"id": "bestinewsfire",
-        "note": "Best's Insurance News: Fire and Casualty Edition"}],
+   "see-also": [
+      {"id": "besticassurmisc",
+     "note": "Best's Insurance News: Casualty, Surety and Miscellaneous Edition"},
+      {"id": "bestinewsfire",
+        "note": "Best's Insurance News: Fire and Casualty Edition"}
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
    "acknowledgement": 
       "Thanks to Scott F Andrews for copyright research on this title.",
-   "last-updated": "2021-03-23"
+   "last-updated": "2021-04-06"
 }
