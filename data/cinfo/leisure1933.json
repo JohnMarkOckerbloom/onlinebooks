@@ -1,0 +1,25 @@
+{
+   "title": "Leisure",
+   "title-note": "1933-1938",
+   "first-issue": {"issue-date": "1933-11", "volume": "1", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce",
+   "first-renewed-contribution": {"issue": {"issue-date": "1935-03"}},
+   "first-renewed-contribution-source": "1962-JulDec",
+   "last-issue": {"issue-date": "1938-12", "volume": "5", "number": "12"},
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1935-03"},
+      "title": "Books Add Centuries to Your Life",
+      "author": {
+         "authorized": "Hughes, Rupert, 1872-1956",
+         "lcna": "n86012047"
+      }
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2021-05-11"
+}

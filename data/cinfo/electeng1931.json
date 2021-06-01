@@ -1,6 +1,9 @@
 {
    "title": "Electrical Engineering",
    "title-note": "US, 1931-1963",
+   "preceded-by": 
+    [{"id": "jaiee",
+      "note": "Journal of the American Institute of Electrical Engineers"}],
    "first-issue": {"issue-date": "1931-01", "volume": "50", "number": "1"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
@@ -16,5 +19,5 @@
    },
    "acknowledgement": 
       "Thanks to Eli Baum for copyright research on this title.",
-   "last-updated": "2020-07-28"
+   "last-updated": "2021-05-24"
 }

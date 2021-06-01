@@ -1183,19 +1183,21 @@ sub readhathipilotfile {
   my $hathiissns;
   foreach my $row (@rows) {
     my $olbpid = $row->{olbpid};
-    my $hathiid = $row->{hathitrustid};
-    $hathiid =~ s/^0*//;
+    my $hathiids = $row->{hathitrustids};
     my $issn = $row->{issn};
     my $wikidataid = $row->{wikidataid};
     my $qid = "";
     if ($wikidataid =~ /(Q.*)/) {
       $qid = $1;
     }
-    if ($olbpid) {
-      $hathiolbp->{$hathiid} = $olbpid;
-    }
-    if ($issn) {
-      $hathiissns->{$hathiid}->{$issn} = 1;
+    foreach my $hathiid (split /\s+/, $hathiids) {
+      $hathiid =~ s/^0*//;
+      if ($olbpid) {
+        $hathiolbp->{$hathiid} = $olbpid;
+      }
+      if ($issn) {
+        $hathiissns->{$hathiid}->{$issn} = 1;
+      }
     }
   }
   return ($hathiolbp, $hathiissns);

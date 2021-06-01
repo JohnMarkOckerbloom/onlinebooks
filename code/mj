@@ -18,6 +18,7 @@ my $serialdir= "serials";
 my $serialscript = "https://onlinebooks.library.upenn.edu/webbin/serial";
 
 my %ADJECTIVE = (
+ "Albania" => "an Albanian",
  "Argentina" => "an Argentinian",
  "Australia" => "an Australian",
  "Austria" => "an Austrian",
@@ -59,6 +60,7 @@ my %ADJECTIVE = (
  "Pakistan" => "a Pakistani",
  "Poland" => "a Polish",
  "Portugal" => "a Portuguese",
+ "Romania" => "a Romanian",
  "Russia" => "a Russian",
  "Scotland" => "a Scottish",
  "Serbia" => "a Serbian",

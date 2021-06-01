@@ -1,7 +1,13 @@
 {
    "title": "Car and Driver",
+   "online": "1",
+   "preceded-by": [{"id": "sportscarsill", "note": "Sports Cars Illustrated"}],
+   "first-issue": {"issue-date": "1961-04", "volume": "6", "number": "10"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "database",
+   "first-autorenewed-issue":
+      {"issue-date": "1964-03", "volume": "9", "number": "9",
+       "cdate": "1964-01-20"},
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "database",
    "responsibility": {
@@ -10,5 +16,5 @@
    },
    "acknowledgement": 
       "Thanks to Joe Kishman for copyright research on this title.",
-   "last-updated": "2021-03-31"
+   "last-updated": "2021-05-25"
 }

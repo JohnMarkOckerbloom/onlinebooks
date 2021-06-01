@@ -1,5 +1,6 @@
 {
    "title": "Journal of Legal Education",
+   "online": "1",
    "contents": [
       {"url": "https://www.jstor.org/journal/jlegaleducation",
        "note": "JSTOR (full text also available for subscription or payment)"}
@@ -7,6 +8,8 @@
    "first-issue": {"issue-date": "1948-Autumn", "volume": "1", "number": "1"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
+   "first-autorenewed-issue":
+      {"issue-date": "1964", "volume": "16", "number": "3"},
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
    "responsibility": {
@@ -15,5 +18,5 @@
    },
    "acknowledgement": 
       "Thanks to Felice Gollotti for copyright research on this title.",
-   "last-updated": "2020-12-21"
+   "last-updated": "2021-05-09"
 }

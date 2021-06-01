@@ -101,13 +101,15 @@ GROUP BY ?id ?article ?olbpid ?startdate ?enddate
 LIMIT 100000
 !;
 
-$HATHI_QUERY = qq!SELECT ?wikidataid ?olbpid ?hathitrustid ?issn
+$HATHI_QUERY = qq!SELECT ?wikidataid ?olbpid ?issn
+       (group_concat(?hathitrustid) as ?hathitrustids)
 WHERE
 {
   ?wikidataid wdt:P1844 ?hathitrustid;
               wdt:P5396 ?olbpid .
    OPTIONAL {?wikidataid wdt:P236 ?issn}
 }
+GROUP BY ?wikidataid ?olbpid ?issn
 ORDER BY ?wikidataid
 LIMIT 100000
 !;

@@ -9,9 +9,19 @@
    },
    "first-renewed-contribution-source": "1971-JulDec",
    "last-issue": {"issue-date": "1972-12"},
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1944-02-15"},
+        "title": "Humans in Bondage",
+        "author": {
+         "authorized": "Smith, Lillian (Lillian Eugenia), 1897-1966 ",
+         "lcna": "n50013297"
+        }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-03-06"
+   "last-updated": "2021-05-02"
 }
