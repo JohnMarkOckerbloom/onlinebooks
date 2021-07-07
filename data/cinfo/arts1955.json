@@ -1,0 +1,67 @@
+{
+   "title": "Arts",
+   "title-note": "New York, 1955-1961",
+   "preceded-by": [{"id": "artsdigest", "note": "Arts Digest"}],
+   "first-issue": {"issue-date": "1955-10", "volume": "30", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "database",
+   "first-renewed-contribution": {"issue": {"issue-date": "1955-11"}},
+   "first-renewed-contribution-source": "database",
+   "last-issue":
+     {"issue-date": "1961-May/June", "volume": "35", "number": "no. 8/9"},
+   "succeeded-by":
+      [{"id": "artsmag1961", "note": "Arts Magazine (1961-1992)"}],
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1955-11"},
+      "title": "Brancusi",
+      "author": {
+         "authorized": "Williams, William Carlos, 1883-1963",
+         "lcna": "n79060075"
+      }
+     },
+     {"issue": {"issue-date": "1956-11"},
+      "title": "On Monet",
+      "author": {
+         "authorized": "Kramer, Hilton",
+         "lcna": "n79126824"
+      }
+     },
+     {"issue": {"issue-date": "1957-02"},
+      "title": "Jackson Pollock",
+      "author": {
+         "authorized": "Kramer, Hilton",
+         "lcna": "n79126824"
+      }
+     },
+     {"issue": {"issue-date": "1958-04"},
+      "title": "Robert Andrew Parker",
+      "author": {
+         "authorized": "Moore, Marianne, 1887-1972",
+         "lcna": "n50016866"
+      }
+     },
+     {"issue": {"issue-date": "1958-04"},
+      "title": "Josef Albers",
+      "author": {
+         "authorized": "Kramer, Hilton",
+         "lcna": "n79126824"
+      }
+     },
+     {"issue": {"issue-date": "1958-05"},
+      "title": "Juan Gris",
+      "author": {
+         "authorized": "Kramer, Hilton",
+         "lcna": "n79126824"
+      }
+     }
+   ],
+   "additional-note": "End date based on Penn cataloging. Copyright registrations continued in CCE under the 'Arts' title through March 1962.  The first registration recorded in CCE for 'Arts Magazine' is for the April 1962 issue. Some renewals mentioning 'Arts Magazine' are for contributions to this title.",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "acknowledgement": 
+      "Thanks to Scott F Andrews and Ed Deegan for copyright research on this title.",
+   "last-updated": "2021-06-09"
+}

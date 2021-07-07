@@ -1007,6 +1007,10 @@ sub display_page {
          if ($contr->{"editor"}) {
            $str .= ", ed. by " . $self->_display_person($contr->{"editor"});
          }
+         if ($contr->{"illustrator"}) {
+           $str .=
+              ", ill. by " . $self->_display_person($contr->{"illustrator"});
+         }
          if ($contr->{"translator"}) {
            $str .= ", trans. by " .
                $self->_display_person($contr->{"translator"});

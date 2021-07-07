@@ -1,5 +1,13 @@
 {
    "title": "Military Affairs",
+   "contents": [
+      {"url": "https://www.jstor.org/journal/militaryaffairs",
+       "note": "JSTOR (full text also available for subscription or payment)"}
+   ],
+   "preceded-by":
+      [{"id": "jammilinst",
+        "note": "The Journal of the American Military Institute"}],
+   "first-issue": {"issue-date": "1941-Spring", "volume": "5", "number": "1"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
@@ -10,5 +18,5 @@
    },
    "acknowledgement": 
       "Thanks to Shelton Henderson for copyright research on this title.",
-   "last-updated": "2021-05-25"
+   "last-updated": "2021-06-11"
 }

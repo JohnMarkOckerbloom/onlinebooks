@@ -686,6 +686,7 @@ sub analyze_form {
       || $email =~ /cergplwqx/
       || $email =~ /explainthebusiness/
       || $email =~ /arachni\@email/
+      || $email =~ /egoriu8hs\@mail/
       || $title =~ /^About[a-z][a-z][a-z][a-z][a-z]/
       || $title =~ /^cheap /
       || $title =~ / sunglasses /
