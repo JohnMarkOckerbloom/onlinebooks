@@ -8,10 +8,19 @@
    "first-renewed-contribution": {"issue": {"issue-date": "1926-10"}},
    "first-renewed-contribution-source": "1954-JulDec",
    "last-issue": {"issue-date": "1929-05", "volume": "20", "number": "7"},
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1926-10"},
+        "title": "Kaleidoscopia",
+        "author": {
+         "name": "Seymour Stern"
+        }
+     }
+   ],
    "additional-note": "Some issues contain maps and songs written by Robert Edwards, who edited the magazine from 1921 to 1926, and some of these items bear their own copyright notices.  It is possible that some of them have copyright renewals recorded in the CCE Maps or Music volumes, which we have not systematically surveyed.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-06-28"
+   "last-updated": "2021-07-19"
 }

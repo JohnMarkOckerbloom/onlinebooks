@@ -13,7 +13,7 @@
    "first-renewed-contribution":
       {"issue-date": "1926-05-01", "volume": "66", "number": "1"},
    "first-renewed-contribution-source": "1954-JanJun",
-   "renewed-issue-completeness": "active/1926",
+   "renewed-issue-completeness": "active/1927",
    "renewed-issues": [
       {"issue-date": "1926-01-15", "volume": "64", "number": "6",
        "cdate": "1926-01-15"},
@@ -59,9 +59,37 @@
       {"issue-date": "1927-08-15", "volume": "71", "number": "2"},
       {"issue-date": "1927-09-01", "volume": "71", "number": "3"},
       {"issue-date": "1927-09-15", "volume": "71", "number": "4"},
-      {"issue-date": "1927-10-01", "volume": "71", "number": "5"}
+      {"issue-date": "1927-10-01", "volume": "71", "number": "5"},
+      {"issue-date": "1927-10-15", "volume": "71", "number": "6"},
+      {"issue-date": "1927-11-01", "volume": "72", "number": "1"},
+      {"issue-date": "1927-11-15", "volume": "72", "number": "2"},
+      {"issue-date": "1927-12-01", "volume": "72", "number": "3"},
+      {"issue-date": "1927-12-15", "volume": "72", "number": "4"},
+      {"issue-date": "1928-01-01", "volume": "72", "number": "5",
+       "cdate": "1927-12-31"},
+      {"issue-date": "1928-01-15", "volume": "72", "number": "6",
+       "cdate": "1928-01-13"},
+      {"issue-date": "1928-02-01", "volume": "73", "number": "1"},
+      {"issue-date": "1928-02-15", "volume": "73", "number": "2"},
+      {"issue-date": "1928-03-01", "volume": "73", "number": "3"},
+      {"issue-date": "1928-03-15", "volume": "73", "number": "4"},
+      {"issue-date": "1928-04-01", "volume": "73", "number": "5"},
+      {"issue-date": "1928-04-15", "volume": "73", "number": "6"},
+      {"issue-date": "1928-05-01", "volume": "74", "number": "1"},
+      {"issue-date": "1928-05-15", "volume": "74", "number": "2"},
+      {"issue-date": "1928-06-01", "volume": "74", "number": "3"},
+      {"issue-date": "1928-06-15", "volume": "74", "number": "4"},
+      {"issue-date": "1928-07-01", "volume": "74", "number": "5"},
+      {"issue-date": "1928-07-15", "volume": "74", "number": "6"},
+      {"issue-date": "1928-08-01", "volume": "75", "number": "1"},
+      {"issue-date": "1928-08-15", "volume": "75", "number": "2"},
+      {"issue-date": "1928-09-01", "volume": "75", "number": "3"},
+      {"issue-date": "1928-09-15", "volume": "75", "number": "4"},
+      {"issue-date": "1928-11-01", "volume": "75", "number": "5"},
+      {"issue-date": "1928-11-15", "volume": "75", "number": "6"},
+      {"issue-date": "1928-12-01", "volume": "76", "number": "1"}
    ],
-   "renewed-contribution-completeness": "active/1926",
+   "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
      {"issue": {"issue-date": "1926-05-01", "volume": "66", "number": "1"},
       "title": "A Feather in His Cap",
@@ -111,11 +139,95 @@
          "authorized": "Gardner, Erle Stanley, 1889-1970",
          "lcna": "n79071101"
        }
+     },
+     {"issue": {"issue-date": "1927-08-15", "volume": "71", "number": "2"},
+      "title": "Ribbons of Light",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1928-02-01", "volume": "73", "number": "1"},
+      "title": "Lord of the High Places",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1928-04-01", "volume": "73", "number": "5"},
+      "title": "Claws of the Man-Bird",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1928-07-01", "volume": "74", "number": "5"},
+      "title": "Trapped in Darkness",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1928-09-01", "volume": "75", "number": "3"},
+      "title": "Case of the Crushed Carnation",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1929-01-01", "volume": "76", "number": "3"},
+      "title": "Phantom Bullets",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1929-03-01", "volume": "77", "number": "1"},
+      "title": "Claws of Crime",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1929-06-01", "volume": "78", "number": "1"},
+      "title": "Manacled Vengeance",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1929-06-15", "volume": "78", "number": "2"},
+      "title": "King of the Eagle Clan",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1929-09-15", "volume": "79", "number": "2"},
+      "title": "Hawks of the Midnight Sky",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1930-03-01", "volume": "81", "number": "1"},
+      "title": "Midnight Justice",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1936-08", "volume": "99", "number": "2"},
+      "title": "Alias Killer Keene",
+      "author": {
+         "authorized": "McFarlane, Leslie, 1902-1977",
+         "lcna": "n85181161"
+       }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-01-17"
+   "last-updated": "2021-07-19"
 }

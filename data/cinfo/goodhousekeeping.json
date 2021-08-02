@@ -12,7 +12,7 @@
    }, 
    "first-renewed-contribution": {"issue": {"issue-date": "1926-02"}},
    "first-renewed-contribution-source": "1953-JulDec",
-   "renewed-issue-completeness": "active/1926",
+   "renewed-issue-completeness": "active/1927",
    "renewed-issues": [
      {"issue-date": "1926-02", "volume": "82", "number": "2",
        "cdate": "1926-01-25"},
@@ -24,9 +24,21 @@
      {"issue-date": "1926-09", "volume": "83", "number": "3"},
      {"issue-date": "1926-10", "volume": "83", "number": "4"},
      {"issue-date": "1926-11", "volume": "83", "number": "5"},
-     {"issue-date": "1926-12", "volume": "83", "number": "6"}
+     {"issue-date": "1926-12", "volume": "83", "number": "6"},
+     {"issue-date": "1927-02", "volume": "84", "number": "2",
+       "cdate": "1927-01-25"},
+     {"issue-date": "1927-03", "volume": "84", "number": "3"},
+     {"issue-date": "1927-04", "volume": "84", "number": "4"},
+     {"issue-date": "1927-05", "volume": "84", "number": "5"},
+     {"issue-date": "1927-06", "volume": "84", "number": "6"},
+     {"issue-date": "1927-07", "volume": "85", "number": "2"},
+     {"issue-date": "1927-08", "volume": "85", "number": "2"},
+     {"issue-date": "1927-09", "volume": "85", "number": "3"},
+     {"issue-date": "1927-10", "volume": "85", "number": "4"},
+     {"issue-date": "1927-11", "volume": "85", "number": "5"},
+     {"issue-date": "1927-12", "volume": "85", "number": "6"}
    ],
-   "renewed-contribution-completeness": "active/1926",
+   "renewed-contribution-completeness": "active/1927",
    "renewed-contributions": [
      {"issue": {"issue-date": "1926-02"},
       "title": "Perella",
@@ -253,6 +265,13 @@
        "lcna": "n50031762"
       }
      },
+     {"issue": {"issue-date": "1927-07"}, 
+      "title": "The Baby Who Had No Place to Go",
+      "author": {
+       "authorized": "Gale, Zona, 1874-1938",
+       "lcna": "n50058620"
+      }
+     },
      {"issue": {"issue-date": "1927-08"}, 
       "title": "Where Do They Get It",
       "author": {
@@ -260,11 +279,34 @@
        "lcna": "n90622304"
       }
      },
+     {"issue": {"issue-date": "1927-09"}, 
+      "title": "Rose Amarilla",
+      "author": {
+       "authorized": "Squier, Emma-Lindsay, 1892-1941",
+       "lcna": "no2007059420"
+      }
+     },
      {"issue": {"issue-date": "1927-10"}, 
       "title": "The Magic of Still Waters",
       "author": {
        "authorized": "Sass, Herbert Ravenel, 1884-1958",
        "lcna": "n88224199"
+      }
+     },
+     {"issue": {"issue-date": "1927-11"},
+      "title": "Eliza for Common",
+      "title-note": "installment",
+      "note": "Author is Anna Buchan writing under a pseudonym. A 1955 renewal record for the book mentions that chapters were published 'abroad' in this issue of Good Housekeeping, possibly in the British edition.",
+      "author": {
+       "authorized": "Douglas, O.",
+       "lcna": "n86865734"
+      }
+     },
+     {"issue": {"issue-date": "1927-11"}, 
+      "title": "The Bride of the Sacred Well",
+      "author": {
+       "authorized": "Squier, Emma-Lindsay, 1892-1941",
+       "lcna": "no2007059420"
       }
      },
      {"issue": {"issue-date": "1927-12"}, 
@@ -287,6 +329,177 @@
        "authorized": "Rutledge, Archibald, 1883-1973",
        "lcna": "n50031762"
       }
+     },
+     {"issue": {"issue-date": "1927-12"},
+      "title": "Eliza for Common",
+      "title-note": "installment",
+      "note": "Author is Anna Buchan writing under a pseudonym. A 1955 renewal record for the book mentions that chapters were published 'abroad' in this issue of Good Housekeeping, possibly in the British edition.",
+      "author": {
+       "authorized": "Douglas, O.",
+       "lcna": "n86865734"
+      }
+     },
+     {"issue": {"issue-date": "1928-01"}, 
+      "title": "The Problem of Family Adjustment",
+      "author": {
+       "authorized": "Cosgrave, Jessica G. (Jessica Garretson), 1873-1949",
+       "lcna": "n2002134809"
+      }
+     },
+     {"issue": {"issue-date": "1928-01"},
+      "title": "Eliza for Common",
+      "title-note": "installment",
+      "note": "Author is Anna Buchan writing under a pseudonym. A 1955 renewal record for the book mentions that chapters were published 'abroad' in this issue of Good Housekeeping, possibly in the British edition.",
+      "author": {
+       "authorized": "Douglas, O.",
+       "lcna": "n86865734"
+      }
+     },
+     {"issue": {"issue-date": "1928-01"}, 
+      "title": "The Road of the Glorious Leyendas",
+      "author": {
+       "authorized": "Squier, Emma-Lindsay, 1892-1941",
+       "lcna": "no2007059420"
+      }
+     },
+     {"issue": {"issue-date": "1928-02"}, 
+      "title": "The Problem of Popularity",
+      "author": {
+       "authorized": "Cosgrave, Jessica G. (Jessica Garretson), 1873-1949",
+       "lcna": "n2002134809"
+      }
+     },
+     {"issue": {"issue-date": "1928-02"},
+      "title": "Eliza for Common",
+      "title-note": "installment",
+      "note": "Author is Anna Buchan writing under a pseudonym. A 1955 renewal record for the book mentions that chapters were published 'abroad' in this issue of Good Housekeeping, possibly in the British edition.",
+      "author": {
+       "authorized": "Douglas, O.",
+       "lcna": "n86865734"
+      }
+     },
+     {"issue": {"issue-date": "1928-03"}, 
+      "title": "The Problem of Affections",
+      "author": {
+       "authorized": "Cosgrave, Jessica G. (Jessica Garretson), 1873-1949",
+       "lcna": "n2002134809"
+      }
+     },
+     {"issue": {"issue-date": "1928-03"},
+      "title": "Eliza for Common",
+      "title-note": "installment",
+      "note": "Author is Anna Buchan writing under a pseudonym. A 1955 renewal record for the book mentions that chapters were published 'abroad' in this issue of Good Housekeeping, possibly in the British edition.",
+      "author": {
+       "authorized": "Douglas, O.",
+       "lcna": "n86865734"
+      }
+     },
+     {"issue": {"issue-date": "1928-03"},
+      "title": "Name in the Night",
+      "author": {
+       "authorized": "Hopper, James, 1876-1956",
+       "lcna": "n00068220"
+      }
+     },
+     {"issue": {"issue-date": "1928-03"}, 
+      "title": "The Leopard's Kiss",
+      "author": {
+       "authorized": "Squier, Emma-Lindsay, 1892-1941",
+       "lcna": "no2007059420"
+      }
+     },
+     {"issue": {"issue-date": "1928-04"}, 
+      "title": "The Problem of Self-Expression",
+      "author": {
+       "authorized": "Cosgrave, Jessica G. (Jessica Garretson), 1873-1949",
+       "lcna": "n2002134809"
+      }
+     },
+     {"issue": {"issue-date": "1928-04"},
+      "title": "Eliza for Common",
+      "title-note": "installment",
+      "note": "Author is Anna Buchan writing under a pseudonym. A 1955 renewal record for the book mentions that chapters were published 'abroad' in this issue of Good Housekeeping, possibly in the British edition.",
+      "author": {
+       "authorized": "Douglas, O.",
+       "lcna": "n86865734"
+      }
+     },
+     {"issue": {"issue-date": "1928-04"},
+      "title": "Money Sense",
+      "author": {
+       "authorized": "Monroe, Anne Shannon, 1877-1942",
+       "lcna": "n90622304"
+      }
+     },
+     {"issue": {"issue-date": "1928-05"},
+      "title": "Are You Jealous of Your Friends?",
+      "author": {
+       "authorized": "Monroe, Anne Shannon, 1877-1942",
+       "lcna": "n90622304"
+      }
+     },
+     {"issue": {"issue-date": "1928-05"}, 
+      "title": "Harp of Queen",
+      "author": {
+       "authorized": "Squier, Emma-Lindsay, 1892-1941",
+       "lcna": "no2007059420"
+      }
+     },
+     {"issue": {"issue-date": "1928-06"},
+      "title": "Squiffy",
+      "author": {
+       "authorized": "Hopper, James, 1876-1956",
+       "lcna": "n00068220"
+      }
+     },
+     {"issue": {"issue-date": "1928-06"},
+      "title": "Tiger! Tiger!",
+      "author": {
+       "authorized": "Morrow, Honoré, 1880-1940",
+       "lcna": "n00068220"
+      }
+     },
+     {"issue": {"issue-date": "1928-06"},
+      "title": "Birds of God",
+      "author": {
+       "authorized": "Sass, Herbert Ravenel, 1884-1958",
+       "lcna": "n88224199"
+      }
+     },
+     {"issue": {"issue-date": "1928-08"}, 
+      "title": "The Little Lost Sars of Chalpaia",
+      "author": {
+       "authorized": "Squier, Emma-Lindsay, 1892-1941",
+       "lcna": "no2007059420"
+      }
+     },
+     {"issue": {"issue-date": "1928-12"},
+      "title": "Christmas Lists",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1928-12"},
+      "title": "God's Old Fields",
+      "author": {
+         "authorized": "Benefield, Barry, 1877-1971",
+         "lcna": "no90003376"
+      }
+     },
+     {"issue": {"issue-date": "1928-12"},
+      "title": "A Chrismas Legend of Hamelin Town",
+      "author": {
+       "authorized": "Dawson, Coningsby, 1883-1959",
+       "lcna": "n83230982"
+      }
+     },
+     {"issue": {"issue-date": "1928-12"}, 
+      "title": "Wild Broter Winter Through",
+      "author": {
+       "authorized": "Rutledge, Archibald, 1883-1973",
+       "lcna": "n50031762"
+      }
      }
    ],
    "additional-note": "Active contribution renewals are recorded beginning in the 1953 January-June CCE volume, but the earliest actively renewed contribution is noted in the 1953 July-December volume.",
@@ -294,5 +507,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-01-19"
+   "last-updated": "2021-07-19"
 }

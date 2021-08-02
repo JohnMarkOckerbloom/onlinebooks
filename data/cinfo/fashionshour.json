@@ -1,12 +1,29 @@
 {
    "title": "Fashions of the Hour",
    "first-renewed-issue": "none",
-   "first-renewed-issue-source": "cce",
+   "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": {"issue": {"issue-date": "1926-06"}},
    "first-renewed-contribution-source": "1954-JanJun",
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1926-06"},
+        "title": "The Stupid Magician",
+        "author": {
+         "authorized": "Morley, Christopher, 1890-1957",
+         "lcna": "n50006133"
+        }
+     },
+     {"issue": {"issue-date": "1934-Spring"},
+        "title": "To Welcome in the Season",
+        "author": {
+         "authorized": "McGinley, Phyllis, 1905-1978",
+         "lcna": "n50007804"
+        }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-08-10"
+   "last-updated": "2021-07-20"
 }

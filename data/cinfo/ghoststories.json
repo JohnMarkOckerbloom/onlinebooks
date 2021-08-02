@@ -13,6 +13,7 @@
    "first-renewed-contribution":
       {"issue": {"issue-date": "1926-07", "volume": "1", "number": "1"}},
    "first-renewed-contribution-source": "1953-JanJun",
+   "renewed-contribution-completeness": "active/1927",
    "renewed-contributions": [
      {"issue": {"issue-date": "1926-07", "volume": "1", "number": "1"},
         "title": "He Fell in Love With a Ghost",
@@ -37,11 +38,29 @@
          "using": "Arnold Fountain",
          "lcna": "n79041782"
         }
+     },
+     {"issue": {"issue-date": "1927-04", "volume": "2", "number": "4"},
+        "title": "The Street of Laughing Ghosts",
+        "note": "Author as given in CCE renewal record.  FictionMags credits this story to 'Stanley Dixon as told to Arthur Lake'.",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "using": "Arnold Fountain",
+         "lcna": "n79041782"
+        }
+     },
+     {"issue": {"issue-date": "1927-12", "volume": "3", "number": "6"},
+        "title": "Has Iceland Proved That Ghosts Exist",
+        "note": "Author name as given in CCE renewal record.  FictionMags credits this contribution to Samri Frikell, another Oursler pseudonym.",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "using": "Arnold Fountain",
+         "lcna": "n79041782"
+        }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-05-30"
+   "last-updated": "2021-07-20"
 }

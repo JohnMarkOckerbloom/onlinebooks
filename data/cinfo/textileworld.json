@@ -1,5 +1,8 @@
 {
    "title": "Textile World",
+   "online": "1",
+   "preceded-by": [{"id": "textlwldjnl", "note": "Textile World Journal"}],
+   "first-issue": {"issue-date": "1921-02-05", "volume": "59", "number": "6"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
@@ -10,5 +13,5 @@
    },
    "acknowledgement": 
       "Thanks to Timothy Wells for copyright research on this title.",
-   "last-updated": "2021-06-04"
+   "last-updated": "2021-07-21"
 }

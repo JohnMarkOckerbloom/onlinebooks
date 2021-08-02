@@ -9,7 +9,7 @@
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1926-02"}}, 
    "first-renewed-contribution-source": "1953-JanJun",
-   "renewed-issue-completeness": "active/1926",
+   "renewed-issue-completeness": "active/1927",
    "renewed-issues": [
      {"issue-date": "1926-02", "cdate": "1926-01-25"},
      {"issue-date": "1926-03"},
@@ -26,9 +26,23 @@
       "cdate": "1926-12-28"},
      {"issue-date": "1927-02", "volume": "61", "number": "2",
       "cdate": "1927-01-29"},
-     {"issue-date": "1927-03", "volume": "61", "number": "3"}
+     {"issue-date": "1927-03", "volume": "61", "number": "3"},
+     {"issue-date": "1927-04", "volume": "61", "number": "4"},
+     {"issue-date": "1927-05", "volume": "61", "number": "5"},
+     {"issue-date": "1927-06", "volume": "61", "number": "6"},
+     {"issue-date": "1927-07", "volume": "61", "number": "7"},
+     {"issue-date": "1927-08", "volume": "61", "number": "8"},
+     {"issue-date": "1927-09", "volume": "61", "number": "9"},
+     {"issue-date": "1927-10", "volume": "61", "number": "10"},
+     {"issue-date": "1927-11", "volume": "61", "number": "11"},
+     {"issue-date": "1927-12", "volume": "61", "number": "12"},
+     {"issue-date": "1928-01", "volume": "62", "number": "1",
+      "cdate": "1927-12-28"},
+     {"issue-date": "1928-02", "volume": "62", "number": "2",
+      "cdate": "1927-01-28"},
+     {"issue-date": "1928-03", "volume": "62", "number": "3"}
    ],
-   "renewed-contribution-completeness": "active/1926",
+   "renewed-contribution-completeness": "active/1930",
    "renewed-contributions": [
      {"issue": {"issue-date": "1926-02"}, 
       "title": "The Sign of the Crooked Cross",
@@ -127,6 +141,13 @@
        "lcna": "n79077439"
       }
      },
+     {"issue": {"issue-date": "1927-09"}, 
+      "title": "Upper Chambers",
+      "author": {
+       "authorized": "Gale, Zona, 1874-1938",
+       "lcna": "n50058620"
+      }
+     },
      {"issue": {"issue-date": "1927-10"},
        "title": "The Cat That Lived at the Ritz",
        "author": {
@@ -140,11 +161,321 @@
          "authorized": "Bromfield, Louis, 1896-1956",
          "lcna": "n80040365"
        }
+     },
+     {"issue": {"issue-date": "1928-02"},
+       "title": "These Young People of Today",
+       "author": {
+        "authorized": "Tarkington, Booth, 1869-1946",
+        "lcna": "n79078124"
+       }
+     },
+     {"issue": {"issue-date": "1928-04"},
+       "title": "How to Behave, Though a Debutante",
+       "title-note": "part 1 of 4",
+       "author": {
+         "authorized": "Post, Emily, 1872-1960",
+         "lcna": "n50019815"
+       }
+     },
+     {"issue": {"issue-date": "1928-05"},
+       "title": "How to Behave, Though a Debutante",
+       "title-note": "part 2 of 4",
+       "author": {
+         "authorized": "Post, Emily, 1872-1960",
+         "lcna": "n50019815"
+       }
+     },
+     {"issue": {"issue-date": "1928-06"},
+       "title": "How to Behave, Though a Debutante",
+       "title-note": "part 3 of 4",
+       "author": {
+         "authorized": "Post, Emily, 1872-1960",
+         "lcna": "n50019815"
+       }
+     },
+     {"issue": {"issue-date": "1928-07"},
+       "title": "How to Behave, Though a Debutante",
+       "title-note": "part 4 of 4",
+       "author": {
+         "authorized": "Post, Emily, 1872-1960",
+         "lcna": "n50019815"
+       }
+     },
+     {"issue": {"issue-date": "1928-09"},
+      "title": "Dinner",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1928-12"},
+      "title": "High Walls",
+      "title-note": "part 1 of 6",
+      "author": {
+       "authorized": "Tuckerman, Arthur",
+       "lcna": "no2004082808"
+      }
+     },
+     {"issue": {"issue-date": "1929-01"},
+      "title": "High Walls",
+      "title-note": "part 1 of 6",
+      "author": {
+       "authorized": "Tuckerman, Arthur",
+       "lcna": "no2004082808"
+      }
+     },
+     {"issue": {"issue-date": "1929-01"},
+      "title": "Beauty",
+      "author": {
+       "authorized": "Anderson, Sherwood, 1876-1941",
+       "lcna": "n79045519"
+      }
+     },
+     {"issue": {"issue-date": "1929-02"},
+      "title": "King of Cats",
+      "author": {
+       "authorized": "Benét, Stephen Vincent, 1898-1943",
+       "lcna": "n50007691"
+      }
+     },
+     {"issue": {"issue-date": "1929-02"},
+      "title": "High Walls",
+      "title-note": "part 3 of 6",
+      "author": {
+       "authorized": "Tuckerman, Arthur",
+       "lcna": "no2004082808"
+      }
+     },
+     {"issue": {"issue-date": "1929-02"},
+      "title": "At the Feet of the Enemy",
+      "author": {
+         "authorized": "Cobb, Irvin S. (Irvin Shrewsbury), 1876-1944",
+         "lcna": "n50032217"
+      }
+     },
+     {"issue": {"issue-date": "1929-03"},
+       "title": "Romantic Letter",
+       "author": {
+         "authorized": "Bromfield, Louis, 1896-1956",
+         "lcna": "n80040365"
+       }
+     },
+     {"issue": {"issue-date": "1929-03"},
+      "title": "Contract",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1929-03"},
+      "title": "High Walls",
+      "title-note": "part 4 of 6",
+      "author": {
+       "authorized": "Tuckerman, Arthur",
+       "lcna": "no2004082808"
+      }
+     },
+     {"issue": {"issue-date": "1929-04"},
+       "title": "Father",
+       "author": {
+         "authorized": "Edginton, May, 1883-1957",
+         "lcna": "n87911804"
+       }
+     },
+     {"issue": {"issue-date": "1929-04"},
+      "title": "High Walls",
+      "title-note": "part 5 of 6",
+      "author": {
+       "authorized": "Tuckerman, Arthur",
+       "lcna": "no2004082808"
+      }
+     },
+     {"issue": {"issue-date": "1929-05"},
+      "title": "High Walls",
+      "title-note": "part 6 of 6",
+      "author": {
+       "authorized": "Tuckerman, Arthur",
+       "lcna": "no2004082808"
+      }
+     },
+     {"issue": {"issue-date": "1929-09"},
+      "title": "There Was a Ship",
+      "title-note": "part 1 of 7",
+      "author": {
+       "authorized": "Le Gallienne, Richard, 1866-1947",
+       "lcna": "n80057179"
+      }
+     },
+     {"issue": {"issue-date": "1929-10"},
+      "title": "There Was a Ship",
+      "title-note": "part 2 of 7",
+      "author": {
+       "authorized": "Le Gallienne, Richard, 1866-1947",
+       "lcna": "n80057179"
+      }
+     },
+     {"issue": {"issue-date": "1929-11"},
+      "title": "There Was a Ship",
+      "title-note": "part 3 of 7",
+      "author": {
+       "authorized": "Le Gallienne, Richard, 1866-1947",
+       "lcna": "n80057179"
+      }
+     },
+     {"issue": {"issue-date": "1929-11"},
+        "title": "On Riding",
+        "author": {
+         "authorized": "Skinner, Cornelia Otis, 1901-1979",
+         "lcna": "n50053317"
+        }
+     },
+     {"issue": {"issue-date": "1929-12"},
+      "title": "There Was a Ship",
+      "title-note": "part 4 of 7",
+      "author": {
+       "authorized": "Le Gallienne, Richard, 1866-1947",
+       "lcna": "n80057179"
+      }
+     },
+     {"issue": {"issue-date": "1930-01"},
+      "title": "There Was a Ship",
+      "title-note": "part 5 of 7",
+      "author": {
+       "authorized": "Le Gallienne, Richard, 1866-1947",
+       "lcna": "n80057179"
+      }
+     },
+     {"issue": {"issue-date": "1930-02"},
+      "title": "There Was a Ship",
+      "title-note": "part 6 of 7",
+      "author": {
+       "authorized": "Le Gallienne, Richard, 1866-1947",
+       "lcna": "n80057179"
+      }
+     },
+     {"issue": {"issue-date": "1930-02"},
+      "title": "Cakes and Ale",
+      "title-note": "part 1 of 5",
+      "author": {
+       "authorized": "Maugham, W. Somerset (William Somerset), 1874-1965",
+       "lcna": "n79036830"
+      }
+     },
+     {"issue": {"issue-date": "1930-02"},
+      "title": "True to Life",
+      "author": {
+       "authorized": "Nichols, Beverley, 1898-1983",
+       "lcna": "n85232177"
+      }
+     },
+     {"issue": {"issue-date": "1930-03"},
+      "title": "There Was a Ship",
+      "title-note": "part 7 of 7",
+      "author": {
+       "authorized": "Le Gallienne, Richard, 1866-1947",
+       "lcna": "n80057179"
+      }
+     },
+     {"issue": {"issue-date": "1930-03"},
+      "title": "Cakes and Ale",
+      "title-note": "part 2 of 5",
+      "author": {
+       "authorized": "Maugham, W. Somerset (William Somerset), 1874-1965",
+       "lcna": "n79036830"
+      }
+     },
+     {"issue": {"issue-date": "1930-04"},
+      "title": "Cakes and Ale",
+      "title-note": "part 3 of 5",
+      "author": {
+       "authorized": "Maugham, W. Somerset (William Somerset), 1874-1965",
+       "lcna": "n79036830"
+      }
+     },
+     {"issue": {"issue-date": "1930-05"},
+      "title": "Cakes and Ale",
+      "title-note": "part 4 of 5",
+      "author": {
+       "authorized": "Maugham, W. Somerset (William Somerset), 1874-1965",
+       "lcna": "n79036830"
+      }
+     },
+     {"issue": {"issue-date": "1930-06"},
+      "title": "Cakes and Ale",
+      "title-note": "part 5 of 5",
+      "author": {
+       "authorized": "Maugham, W. Somerset (William Somerset), 1874-1965",
+       "lcna": "n79036830"
+      }
+     },
+     {"issue": {"issue-date": "1930-09"},
+      "title": "Flower o' Spring",
+      "author": {
+       "authorized": "Farnol, Jeffery, 1878-1952",
+       "lcna": "n50011921"
+      }
+     },
+     {"issue": {"issue-date": "1930-10"},
+      "title": "The Ambassadress Dances",
+      "author": {
+         "authorized": "Hughes, Rupert, 1872-1956",
+         "lcna": "n86012047"
+       }
+     },
+     {"issue": {"issue-date": "1930-12"},
+      "title": "There Must Be Something More",
+      "note": "CCE renewal filed under 'Ward, C. H.' heading, but this appears to be an error.",
+      "author": {
+         "authorized": "Waugh, Alec, 1898-1981",
+         "lcna": "n50023750"
+       }
+     },
+     {"issue": {"issue-date": "1931-07"},
+      "title": "Mrs. Trevalyn Serves Tea",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1931-09"},
+        "title": "Hey Nonny",
+        "author": {
+         "authorized": "Skinner, Cornelia Otis, 1901-1979",
+         "lcna": "n50053317"
+        }
+     },
+     {"issue": {"issue-date": "1931-11"},
+      "title": "Custody of the Child",
+      "author": {
+       "authorized": "Benét, Stephen Vincent, 1898-1943",
+       "lcna": "n50007691"
+      }
+     },
+     {"issue": {"issue-date": "1932-01"},
+      "title": "Flippertigibbet",
+      "author": {
+         "authorized": "Waugh, Alec, 1898-1981",
+         "lcna": "n50023750"
+       }
+     },
+     {"issue": {"issue-date": "1932-03"},
+        "title": "The Wrong Party",
+        "author": {
+         "authorized": "Skinner, Cornelia Otis, 1901-1979",
+         "lcna": "n50053317"
+        }
+     },
+     {"issue": {"issue-date": "1932-06"},
+        "title": "The Captain's Table",
+        "author": {
+         "authorized": "Skinner, Cornelia Otis, 1901-1979",
+         "lcna": "n50053317"
+        }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-01-04"
+   "last-updated": "2021-07-20"
 }

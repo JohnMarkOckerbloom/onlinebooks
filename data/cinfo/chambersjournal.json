@@ -6,7 +6,7 @@
    "first-renewed-contribution":
       {"issue": {"issue-date": "1926-02-06"}}, 
    "first-renewed-contribution-source": "1953-JulDec",
-   "renewed-contribution-completeness": "active/1930",
+   "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
      {"issue": {"issue-date": "1926-February 6 - March 27,"}, 
       "title": "The Key Above the Door: A Novel",
@@ -41,6 +41,24 @@
        "authorized": "Walsh, Maurice, 1879-1964",
        "lcna": "n85277099"
       }
+     },
+     {"issue": {"issue-date": "1932-January-March"}, 
+      "title": "Blackcock's Feather",
+      "title-note": "installments",
+      "note": "Exact issues not specified.",
+      "author": {
+       "authorized": "Walsh, Maurice, 1879-1964",
+       "lcna": "n85277099"
+      }
+     },
+     {"issue": {"cdate": "1934-February 26 - May 28,"},
+      "title": "The Free Fishers",
+      "title-note": "installments",
+      "note": "Exact issues not specified.",
+      "author": {
+       "authorized": "Buchan, John, 1875-1940",
+       "lcna": "n79045167"
+      }
      }
    ],
    "additional-note" : "This is a British publication.  Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US.",
@@ -48,5 +66,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-01-28"
+   "last-updated": "2021-07-22"
 }

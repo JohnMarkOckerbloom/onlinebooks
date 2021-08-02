@@ -13,7 +13,7 @@
    "first-renewed-contribution":
      {"issue": {"issue-date": "1926-02-13"}},
    "first-renewed-contribution-source": "1953-JanJun",
-   "renewed-issue-completeness": "active/1926",
+   "renewed-issue-completeness": "active/1927",
    "renewed-issues": [
      {"issue-date": "1926-01-02", "volume": "1", "number": "46"},
      {"issue-date": "1926-01-09", "volume": "1", "number": "47"},
@@ -116,9 +116,63 @@
      {"issue-date": "1927-11-05", "volume": "3", "number": "38"},
      {"issue-date": "1927-11-12", "volume": "3", "number": "39"},
      {"issue-date": "1927-11-19", "volume": "3", "number": "40"},
-     {"issue-date": "1927-11-26", "volume": "3", "number": "41"}
+     {"issue-date": "1927-11-26", "volume": "3", "number": "41"},
+     {"issue-date": "1927-12-03", "volume": "3", "number": "42"},
+     {"issue-date": "1927-12-10", "volume": "3", "number": "43"},
+     {"issue-date": "1927-12-17", "volume": "3", "number": "44"},
+     {"issue-date": "1927-12-24", "volume": "3", "number": "45"},
+     {"issue-date": "1927-12-31", "volume": "3", "number": "46"},
+     {"issue-date": "1928-01-07", "volume": "3", "number": "47"},
+     {"issue-date": "1928-01-14", "volume": "3", "number": "48"},
+     {"issue-date": "1928-01-21", "volume": "3", "number": "49"},
+     {"issue-date": "1928-01-28", "volume": "3", "number": "50"},
+     {"issue-date": "1928-02-04", "volume": "3", "number": "51"},
+     {"issue-date": "1928-02-11", "volume": "3", "number": "52"},
+     {"issue-date": "1928-02-18", "volume": "3", "number": "53"},
+     {"issue-date": "1928-02-25", "volume": "4", "number": "1"},
+     {"issue-date": "1928-03-03", "volume": "4", "number": "2"},
+     {"issue-date": "1928-03-10", "volume": "4", "number": "3"},
+     {"issue-date": "1928-03-17", "volume": "4", "number": "4"},
+     {"issue-date": "1928-03-24", "volume": "4", "number": "5"},
+     {"issue-date": "1928-03-31", "volume": "4", "number": "6"},
+     {"issue-date": "1928-04-07", "volume": "4", "number": "7"},
+     {"issue-date": "1928-04-14", "volume": "4", "number": "8"},
+     {"issue-date": "1928-04-21", "volume": "4", "number": "9"},
+     {"issue-date": "1928-04-28", "volume": "4", "number": "10"},
+     {"issue-date": "1928-05-05", "volume": "4", "number": "11"},
+     {"issue-date": "1928-05-12", "volume": "4", "number": "12"},
+     {"issue-date": "1928-05-19", "volume": "4", "number": "13"},
+     {"issue-date": "1928-05-26", "volume": "4", "number": "14"},
+     {"issue-date": "1928-06-02", "volume": "4", "number": "15"},
+     {"issue-date": "1928-06-09", "volume": "4", "number": "16"},
+     {"issue-date": "1928-06-16", "volume": "4", "number": "17"},
+     {"issue-date": "1928-06-23", "volume": "4", "number": "18"},
+     {"issue-date": "1928-06-30", "volume": "4", "number": "19"},
+     {"issue-date": "1928-07-07", "volume": "4", "number": "20"},
+     {"issue-date": "1928-07-14", "volume": "4", "number": "21"},
+     {"issue-date": "1928-07-21", "volume": "4", "number": "22"},
+     {"issue-date": "1928-07-28", "volume": "4", "number": "23"},
+     {"issue-date": "1928-08-04", "volume": "4", "number": "24"},
+     {"issue-date": "1928-08-11", "volume": "4", "number": "25"},
+     {"issue-date": "1928-08-18", "volume": "4", "number": "26"},
+     {"issue-date": "1928-08-25", "volume": "4", "number": "27"},
+     {"issue-date": "1928-09-01", "volume": "4", "number": "28"},
+     {"issue-date": "1928-09-08", "volume": "4", "number": "29"},
+     {"issue-date": "1928-09-15", "volume": "4", "number": "30"},
+     {"issue-date": "1928-09-22", "volume": "4", "number": "31"},
+     {"issue-date": "1928-09-29", "volume": "4", "number": "32"},
+     {"issue-date": "1928-10-06", "volume": "4", "number": "33"},
+     {"issue-date": "1928-10-13", "volume": "4", "number": "34"},
+     {"issue-date": "1928-10-20", "volume": "4", "number": "35"},
+     {"issue-date": "1928-10-27", "volume": "4", "number": "36"},
+     {"issue-date": "1928-11-03", "volume": "4", "number": "37"},
+     {"issue-date": "1928-11-10", "volume": "4", "number": "38"},
+     {"issue-date": "1928-11-17", "volume": "4", "number": "39"},
+     {"issue-date": "1928-11-24", "volume": "4", "number": "40"},
+     {"issue-date": "1928-12-01", "volume": "4", "number": "41"},
+     {"issue-date": "1928-12-08", "volume": "4", "number": "42"}
    ],
-   "renewed-contribution-completeness": "active/1926",
+   "renewed-contribution-completeness": "active/1927",
    "renewed-contributions": [
      {"issue": {"issue-date": "1926-02-13"},
       "title": "Dialogue at Three in the Morning",
@@ -249,6 +303,13 @@
        "lcna": "n50050331"
       }
      },
+     {"issue": {"issue-date": "1927-03-19"},
+      "title": "An Evening on Ice",
+      "author": {
+       "authorized": "White, E. B. (Elwyn Brooks), 1899-1985",
+       "lcna": "n79054648"
+      }
+     },
      {"issue": {"issue-date": "1927-03-26"},
       "title": "Songs Not Encumbered by Reticence",
       "title-note": "installment 4",
@@ -348,6 +409,13 @@
        "lcna": "no93001232"
       }
      },
+     {"issue": {"issue-date": "1927-11-05"},
+      "title": "Now That I'm Organized",
+      "author": {
+       "authorized": "White, E. B. (Elwyn Brooks), 1899-1985",
+       "lcna": "n79054648"
+      }
+     },
      {"issue": {"issue-date": "1927-11-12"},
         "title": "The Great Camera Mysteries",
         "author": {
@@ -362,6 +430,164 @@
        "lcna": "n50050331"
       }
      },
+     {"issue": {"issue-date": "1927-12-31"},
+        "title": "Carte des Vins",
+        "author": {
+         "authorized": "Morley, Christopher, 1890-1957",
+         "lcna": "n50006133"
+        }
+     },
+     {"issue": {"issue-date": "1928-01-07"},
+      "title": "Waste Not, Want Not",
+      "author": {
+       "authorized": "Brush, Katharine, 1902-1952",
+       "lcna": "no93001232"
+      }
+     },
+     {"issue": {"issue-date": "1928-01-07"},
+      "title": "Songs for the Nearest Harmonica",
+      "author": {
+       "authorized": "Parker, Dorothy, 1893-1967",
+       "lcna": "n50050331"
+      }
+     },
+     {"issue": {"issue-date": "1928-02-11"},
+      "title": "A Terrible Day Tomorrow",
+      "author": {
+       "authorized": "Parker, Dorothy, 1893-1967",
+       "lcna": "n50050331"
+      }
+     },
+     {"issue": {"issue-date": "1928-02-18"},
+        "title": "Wooing Song for Sir Toby",
+        "author": {
+         "authorized": "Morley, Christopher, 1890-1957",
+         "lcna": "n50006133"
+        }
+     },
+     {"issue": {"issue-date": "1928-03-03"},
+      "title": "Henry Ford",
+      "title-note": "part 1 of 4",
+      "author": {
+       "authorized": "Busch, Niven, 1903-1991",
+       "lcna": "n79109747"
+      }
+     },
+     {"issue": {"issue-date": "1928-03-10"},
+      "title": "Henry Ford",
+      "title-note": "part 2 of 4",
+      "author": {
+       "authorized": "Busch, Niven, 1903-1991",
+       "lcna": "n79109747"
+      }
+     },
+     {"issue": {"issue-date": "1928-03-17"},
+      "title": "Henry Ford",
+      "title-note": "part 3 of 4",
+      "author": {
+       "authorized": "Busch, Niven, 1903-1991",
+       "lcna": "n79109747"
+      }
+     },
+     {"issue": {"issue-date": "1928-03-24"},
+      "title": "Henry Ford",
+      "title-note": "part 4 of 4",
+      "author": {
+       "authorized": "Busch, Niven, 1903-1991",
+       "lcna": "n79109747"
+      }
+     },
+     {"issue": {"issue-date": "1928-04-28"},
+        "title": "General Utility",
+        "author": {
+         "authorized": "Woollcott, Alexander, 1887-1943",
+         "lcna": "n80024589"
+        }
+     },
+     {"issue": {"issue-date": "1928-05-05"},
+      "title": "Song for the Forenoon",
+      "author": {
+       "authorized": "White, E. B. (Elwyn Brooks), 1899-1985",
+       "lcna": "n79054648"
+      }
+     },
+     {"issue": {"issue-date": "1928-05-12"},
+      "title": "Just a Little One",
+      "author": {
+       "authorized": "Parker, Dorothy, 1893-1967",
+       "lcna": "n50050331"
+      }
+     },
+     {"issue": {"issue-date": "1928-05-12"},
+        "title": "The Owner of Ben Finney",
+        "author": {
+         "authorized": "Woollcott, Alexander, 1887-1943",
+         "lcna": "n80024589"
+        }
+     },
+     {"issue": {"issue-date": "1928-05-26"},
+      "title": "Song for Nearest Harmonica",
+      "author": {
+       "authorized": "Parker, Dorothy, 1893-1967",
+       "lcna": "n50050331"
+      }
+     },
+     {"issue": {"issue-date": "1928-06-23"},
+        "title": "The Peanut Roaster",
+        "author": {
+         "authorized": "Morley, Christopher, 1890-1957",
+         "lcna": "n50006133"
+        }
+     },
+     {"issue": {"issue-date": "1928-07-07"},
+      "title": "G. B. S. Practically in Person",
+      "author": {
+       "authorized": "Parker, Dorothy, 1893-1967",
+       "lcna": "n50050331"
+      }
+     },
+     {"issue": {"issue-date": "1928-08-11"},
+      "title": "Harry Stevens",
+      "author": {
+       "authorized": "Busch, Niven, 1903-1991",
+       "lcna": "n79109747"
+      }
+     },
+     {"issue": {"issue-date": "1928-08-18"},
+      "title": "The Mantle of Whistler",
+      "author": {
+       "authorized": "Parker, Dorothy, 1893-1967",
+       "lcna": "n50050331"
+      }
+     },
+     {"issue": {"issue-date": "1928-09-01"},
+      "title": "Out of the Silence",
+      "author": {
+       "authorized": "Parker, Dorothy, 1893-1967",
+       "lcna": "n50050331"
+      }
+     },
+     {"issue": {"issue-date": "1928-09-08"},
+      "title": "The Garter",
+      "author": {
+       "authorized": "Parker, Dorothy, 1893-1967",
+       "lcna": "n50050331"
+      }
+     },
+     {"issue": {"issue-date": "1928-10-13"},
+        "title": "Office Boy of Destiny",
+        "author": {
+         "authorized": "Woollcott, Alexander, 1887-1943",
+         "lcna": "n80024589"
+        }
+     },
+     {"issue": {"issue-date": "1928-12-01"},
+        "title": "Portrait of a Man With Red Hair (Harpo Marx)",
+        "author": {
+         "authorized": "Woollcott, Alexander, 1887-1943",
+         "lcna": "n80024589"
+        }
+     },
      {"issue": {"issue-date": "1938-05-12", "volume": "14", "number": "14"},
       "title": "The Explorers",
       "note": "This is misfiled in the 1965 CCE in Periodicals, listed as a renewal for a magazine titled 'The Explorers', instead of as a renewal for a story by that name that appeared in the New Yorker with the indicated issue date and number.",
@@ -375,5 +601,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-02-21"
+   "last-updated": "2021-07-20"
 }

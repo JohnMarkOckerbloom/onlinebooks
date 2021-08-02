@@ -1,5 +1,4 @@
-{
-   "title": "Motor",
+{ "title": "Motor",
    "title-note": "Hearst Magazines, 1903-",
    "online": "1",
    "first-renewed-issue":
@@ -7,7 +6,7 @@
    "first-renewed-issue-source": "1953-JulDec",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
-   "renewed-issue-completeness": "active/1926",
+   "renewed-issue-completeness": "active/1927",
    "renewed-issues": [
       {"issue-date": "1926-01", "volume": "45", "number": "1"},
       {"issue-date": "1926-02", "volume": "45", "number": "2"},
@@ -32,11 +31,23 @@
       {"issue-date": "1927-09", "volume": "48", "number": "3"},
       {"issue-date": "1927-10", "volume": "48", "number": "4"},
       {"issue-date": "1927-11", "volume": "48", "number": "5"},
-      {"issue-date": "1927-12", "volume": "48", "number": "6"}
+      {"issue-date": "1927-12", "volume": "48", "number": "6"},
+      {"issue-date": "1928-01", "volume": "49", "number": "1"},
+      {"issue-date": "1928-02", "volume": "49", "number": "2"},
+      {"issue-date": "1928-03", "volume": "49", "number": "3"},
+      {"issue-date": "1928-04", "volume": "49", "number": "4"},
+      {"issue-date": "1928-05", "volume": "49", "number": "5"},
+      {"issue-date": "1928-06", "volume": "49", "number": "6"},
+      {"issue-date": "1928-07", "volume": "50", "number": "1"},
+      {"issue-date": "1928-08", "volume": "50", "number": "2"},
+      {"issue-date": "1928-09", "volume": "50", "number": "3"},
+      {"issue-date": "1928-10", "volume": "50", "number": "4"},
+      {"issue-date": "1928-11", "volume": "50", "number": "5"},
+      {"issue-date": "1928-12", "volume": "50", "number": "6"}
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-01-20"
+   "last-updated": "2021-07-20"
 }

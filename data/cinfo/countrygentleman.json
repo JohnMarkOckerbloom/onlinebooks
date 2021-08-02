@@ -8,7 +8,7 @@
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1926-02", "volume": "91", "number": "2"}},
    "first-renewed-contribution-source": "1953-JanJun",
-   "renewed-issue-completeness": "active/1926",
+   "renewed-issue-completeness": "active/1927",
    "renewed-issues": [
      {"issue-date": "1926-02", "volume": "91", "number": "2",
       "cdate": "1926-01-28"},
@@ -29,9 +29,23 @@
      {"issue-date": "1927-04", "volume": "92", "number": "4"},     
      {"issue-date": "1927-05", "volume": "92", "number": "5"},
      {"issue-date": "1927-06", "volume": "92", "number": "6"},
-     {"issue-date": "1927-07", "volume": "92", "number": "7"}
+     {"issue-date": "1927-07", "volume": "92", "number": "7"},
+     {"issue-date": "1927-08", "volume": "92", "number": "8"},
+     {"issue-date": "1927-09", "volume": "92", "number": "9"},
+     {"issue-date": "1927-10", "volume": "92", "number": "10"},
+     {"issue-date": "1927-11", "volume": "92", "number": "11"},
+     {"issue-date": "1927-12", "volume": "92", "number": "12"},
+     {"issue-date": "1928-01", "volume": "93", "number": "1",
+      "cdate": "1927-12-29"},
+     {"issue-date": "1928-02", "volume": "93", "number": "2",
+      "cdate": "1928-01-26"},
+     {"issue-date": "1928-03", "volume": "93", "number": "3"},
+     {"issue-date": "1928-04", "volume": "93", "number": "4"},     
+     {"issue-date": "1928-05", "volume": "93", "number": "5"},
+     {"issue-date": "1928-06", "volume": "93", "number": "6"},
+     {"issue-date": "1928-07", "volume": "93", "number": "7"}
    ],
-   "renewed-contribution-completeness": "active/1928",
+   "renewed-contribution-completeness": "active/1931",
    "renewed-contributions": [
      {"issue": {"issue-date": "1926-02"},
        "title": "Trimmed With Feathers",
@@ -296,7 +310,7 @@
      {"issue": {"issue-date": "1928-07"}, 
       "title": "The Tiger God Comes Home",
       "author": {
-       "authorized": "Squier, Emma-Lindsay, 1892-",
+       "authorized": "Squier, Emma-Lindsay, 1892-1941",
        "lcna": "no2007059420"
       }
      },
@@ -422,11 +436,33 @@
          "lcna": "no2008175553"
       }
      },
+     {"issue": {"issue-date": "1929-05"}, 
+      "title": "The Luck Cat",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
      {"issue": {"issue-date": "1929-07"}, 
       "title": "Looker-After",
       "author": {
          "authorized": "Titus, Harold, 1888-1967",
          "lcna": "no2008175553"
+      }
+     },
+     {"issue": {"issue-date": "1929-07"}, 
+      "title": "Mustard Flower",
+      "author": {
+       "authorized": "Jackson, Margaret Weymouth",
+       "lcna": "no94014713"
+      }
+     },
+     {"issue": {"issue-date": "1929-09"}, 
+      "title": "Pricking Thumbs",
+      "title-note": "part 1 of 3",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
       }
      },
      {"issue": {"issue-date": "1929-09"}, 
@@ -443,17 +479,270 @@
          "lcna": "no96006587"
        }
      },
+     {"issue": {"issue-date": "1929-10"},
+      "title": "Pricking Thumbs",
+      "title-note": "part 2 of 3",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
+     {"issue": {"issue-date": "1929-11"},
+      "title": "Pricking Thumbs",
+      "title-note": "part 3 of 3",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
      {"issue": {"issue-date": "1929-12"}, 
       "title": "Moment of Glory",
       "author": {
          "authorized": "Titus, Harold, 1888-1967",
          "lcna": "no2008175553"
       }
+     },
+     {"issue": {"issue-date": "1929-12"}, 
+      "title": "Rustlers of Silver River",
+      "title-note": "part 1 of 5",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1929-12"}, 
+      "title": "The First Witness",
+      "author": {
+       "authorized": "Jackson, Margaret Weymouth",
+       "lcna": "no94014713"
+      }
+     },
+     {"issue": {"issue-date": "1930-01"}, 
+      "title": "Rustlers of Silver River",
+      "title-note": "part 2 of 5",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1930-02"}, 
+      "title": "Rustlers of Silver River",
+      "title-note": "part 3 of 5",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1930-03"}, 
+      "title": "Rustlers of Silver River",
+      "title-note": "part 4 of 5",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1930-03"}, 
+      "title": "Loyalty",
+      "author": {
+         "authorized": "Titus, Harold, 1888-1967",
+         "lcna": "no2008175553"
+      }
+     },
+     {"issue": {"issue-date": "1930-04"}, 
+      "title": "Rustlers of Silver River",
+      "title-note": "part 5 of 5",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1930-05"}, 
+      "title": "Drums of the Yaqui",
+      "author": {
+       "authorized": "Squier, Emma-Lindsay, 1892-1941",
+       "lcna": "no2007059420"
+      }
+     },
+     {"issue": {"issue-date": "1930-11"}, 
+      "title": "The Iron Cross",
+      "author": {
+         "authorized": "Raine, Norman Reilly, 1895-1971",
+         "lcna": "n85342738"
+      }
+     },
+     {"issue": {"issue-date": "1930-12"},
+      "title": "Brains Don't Count in Harleyburg",
+      "author": {
+         "authorized": "Kilbourne, Fannie, 1890-",
+         "lcna": "no93026233"
+       }
+     },
+     {"issue": {"issue-date": "1931-02"}, 
+      "title": "Road Open",
+      "author": {
+         "authorized": "Titus, Harold, 1888-1967",
+         "lcna": "no2008175553"
+      }
+     },
+     {"issue": {"issue-date": "1931-05"}, 
+      "title": "Tranquility",
+      "author": {
+         "authorized": "Titus, Harold, 1888-1967",
+         "lcna": "no2008175553"
+      }
+     },
+     {"issue": {"issue-date": "1931-06"},
+      "title": "Wolves Preferred",
+      "author": {
+       "authorized": "Case, Robert Ormond, 1895-1964",
+       "lcna": "no95027451"
+      }
+     },
+     {"issue": {"issue-date": "1931-12"}, 
+      "title": "Raiders of Spanish Peaks",
+      "title-note": "part 1 of 6",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1932-01"}, 
+      "title": "Raiders of Spanish Peaks",
+      "title-note": "part 2 of 6",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1932-01"}, 
+      "title": "Extra Nice",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
+     {"issue": {"issue-date": "1932-01"}, 
+      "title": "Sleet Storm",
+      "author": {
+       "name": "Louise Lambertson Vaughan"
+      }
+     },
+     {"issue": {"issue-date": "1932-02"},
+      "title": "The Bulls of the Woods",
+      "author": {
+       "authorized": "Case, Robert Ormond, 1895-1964",
+       "lcna": "no95027451"
+      }
+     },
+     {"issue": {"issue-date": "1932-02"},
+      "title": "Raiders of Spanish Peaks",
+      "title-note": "part 3 of 6",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1932-03"},
+      "title": "Raiders of Spanish Peaks",
+      "title-note": "part 4 of 6",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1932-04"}, 
+      "title": "Springboard",
+      "author": {
+       "authorized": "Duganne, Phyllis, 1899-1976",
+       "lcna": "n90719514"
+      }
+     },
+     {"issue": {"issue-date": "1932-04"},
+      "title": "Raiders of Spanish Peaks",
+      "title-note": "part 5 of 6",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1932-05"},
+      "title": "The Uncapapas Arrow",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
+     {"issue": {"issue-date": "1932-05"},
+      "title": "Raiders of Spanish Peaks",
+      "title-note": "part 6 of 6",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1932-05"}, 
+      "title": "Lone Wolf",
+      "author": {
+         "authorized": "Titus, Harold, 1888-1967",
+         "lcna": "no2008175553"
+      }
+     },
+     {"issue": {"issue-date": "1932-09"}, 
+      "title": "Sod and Twig",
+      "title-note": "part 1 of 3",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
+     {"issue": {"issue-date": "1932-10"}, 
+      "title": "Sod and Twig",
+      "title-note": "part 2 of 3",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
+     {"issue": {"issue-date": "1932-11"}, 
+      "title": "Business Before Pleasure",
+      "author": {
+         "authorized": "Titus, Harold, 1888-1967",
+         "lcna": "no2008175553"
+      }
+     },
+     {"issue": {"issue-date": "1932-11"}, 
+      "title": "Sod and Twig",
+      "title-note": "part 3 of 3",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
+     {"issue": {"issue-date": "1933-01"}, 
+      "title": "Shears",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
+     {"issue": {"issue-date": "1933-02"}, 
+      "title": "Section Two, Township Six",
+      "author": {
+       "authorized": "Moore, Olga",
+       "lcna": "no2010089781"
+      }
+     },
+     {"issue": {"issue-date": "1933-05"},
+       "title": "Sap Business",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-01-03"
+   "last-updated": "2021-07-19"
 }

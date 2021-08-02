@@ -3,7 +3,9 @@
    "first-renewed-issue":
       {"issue-date": "1926-01-01", "volume": "October 1925 term", "number": "nos. 5-6"},
    "first-renewed-issue-source": "1953-JanJun",
-   "renewed-issue-completeness": "active/1926",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce+database",
+   "renewed-issue-completeness": "active/1927",
    "renewed-issues": [
       {"issue-date": "1926-01-01", "volume": "October 1925 term", "number": "nos. 5-6"},
       {"issue-date": "1926-02-01", "volume": "October 1925 term", "number": "7"},
@@ -26,7 +28,22 @@
       {"issue-date": "1927-02-15", "volume": "October 1926 term", "number": "8"},
       {"issue-date": "1927-03-15", "volume": "October 1926 term", "number": "9"},
       {"issue-date": "1927-04-01", "volume": "October 1926 term", "number": "10"},
-      {"issue-date": "1927-04-15", "volume": "October 1926 term", "number": "11"}
+      {"issue-date": "1927-04-15", "volume": "October 1926 term", "number": "11"},
+      {"issue-date": "1927-05-02", "volume": "October 1926 term", "number": "12"},
+      {"issue-date": "1927-05-16", "volume": "October 1926 term", "number": "13"},
+      {"issue-date": "1927-06-01", "volume": "October 1926 term", "number": "14"},
+      {"issue-date": "1927-06-15", "volume": "October 1926 term", "number": "15"},
+      {"issue-date": "1927-07-01", "volume": "October 1926 term", "number": "16"},
+      {"issue-date": "1927-11-01", "volume": "October 1927 term", "number": "1"},
+      {"issue-date": "1927-11-15", "volume": "October 1927 term", "number": "2"},
+      {"issue-date": "1927-12-01", "volume": "October 1927 term", "number": "3"},
+      {"issue-date": "1927-12-15", "volume": "October 1927 term", "number": "4"},
+      {"issue-date": "1928-01-16", "volume": "October 1927 term", "number": "5"},
+      {"issue-date": "1928-02-01", "volume": "October 1927 term", "number": "6"},
+      {"issue-date": "1928-03-01", "volume": "October 1927 term", "number": "7"},
+      {"issue-date": "1928-03-15", "volume": "October 1927 term", "number": "8"},
+      {"issue-date": "1928-04-02", "volume": "October 1927 term", "number": "9"},
+      {"issue-date": "1928-04-16", "volume": "October 1927 term", "number": "10"}
    ],
    "additional-note": 
     "Rulings and opinions issued by the US Supreme Court are in the public domain.  The publisher may claim copyright on original notes, summaries, and annotations it adds.",
@@ -34,5 +51,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-01-18"
+   "last-updated": "2021-07-19"
 }

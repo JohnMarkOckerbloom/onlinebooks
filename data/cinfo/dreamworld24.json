@@ -12,9 +12,74 @@
    "first-renewed-contribution-source": "1953-JanJun",
    "see-also": [{"id": "dreamworld57",
                  "note": "Dream World (science fiction magazine, 1957)"}],
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1926-08"},
+        "title": "Little Lost Girl in Old New York",
+        "title-note": "part 1 of 6",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "using": "Arnold Fountain",
+         "lcna": "n79041782"
+        }
+     },
+     {"issue": {"issue-date": "1926-09"},
+        "title": "Little Lost Girl in Old New York",
+        "title-note": "part 2 of 6",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "using": "Arnold Fountain",
+         "lcna": "n79041782"
+        }
+     },
+     {"issue": {"issue-date": "1926-10"},
+        "title": "Little Lost Girl in Old New York",
+        "title-note": "part 3 of 6",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "using": "Arnold Fountain",
+         "lcna": "n79041782"
+        }
+     },
+     {"issue": {"issue-date": "1926-11"},
+        "title": "Little Lost Girl in Old New York",
+        "title-note": "part 4 of 6",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "using": "Arnold Fountain",
+         "lcna": "n79041782"
+        }
+     },
+     {"issue": {"issue-date": "1926-12"},
+        "title": "A Little Lost Girl",
+        "title-note": "part 5 of 6",
+        "note": "This appears to be part of Fountain's 6-part story published from August 1926 through January 1927, though its CCE renewal record uses a slightly differen title.",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "using": "Arnold Fountain",
+         "lcna": "n79041782"
+        }
+     },
+     {"issue": {"issue-date": "1927-01"},
+        "title": "Little Lost Girl in Old New York",
+        "title-note": "part 6 of 6",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "using": "Arnold Fountain",
+         "lcna": "n79041782"
+        }
+     },
+     {"issue": {"issue-date": "1929-04"},
+        "title": "Master of Ceremonies",
+        "authors": [
+          {"authorized": "Mearson, Lyon, 1888-1966", "lcna": "no96034232"},
+          {"authorized": "Hershey, Burnet, 1896-1971", "lcna": "no92006482"}
+        ]
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-01-22"
+   "last-updated": "2021-07-20"
 }

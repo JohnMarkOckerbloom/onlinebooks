@@ -5,17 +5,160 @@
       {"url": "http://www.philsp.com/homeville/CFI/link.asp?magid=CLU",
        "note": "FictionMags"}
    ],
-   "first-issue":
-     {"issue-date": "1926-09", "volume": "1", "number": "1"},
    "first-renewed-issue":
      {"issue-date": "1933-10", "volume": "30", "number": "5"},
    "first-renewed-issue-source": "1960-JulDec",
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1926-10", "volume": "1", "number": "2"}},
    "first-renewed-contribution-source": "1954-JanJun",
+   "renewed-contribution-completeness": "active/1927",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1926-10", "volume": "1", "number": "2"},
+      "title": "The Rough Shadow",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1927-03", "volume": "2", "number": "3"},
+      "title": "The Cards of Death",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1927-05", "volume": "3", "number": "1"},
+      "title": "Fair Warning",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1927-06", "volume": "3", "number": "2"},
+      "title": "The Red Skull",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1928-02-25", "volume": "5", "number": "3"},
+      "title": "The Door of Death",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1928-05-25", "volume": "7", "number": "1"},
+      "title": "The Guilty Trail",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1928-06-10", "volume": "7", "number": "2"},
+      "title": "Bill and the Tappers",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1928-06-10", "volume": "7", "number": "2"},
+      "title": "The Death Shadow",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1928-07-10", "volume": "7", "number": "4"},
+      "title": "The Feminine Touch",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1928-07-25", "volume": "8", "number": "1"},
+      "title": "The Diamond of Destiny",
+      "note": "Title per issue cover and FictionMags.  CCE renewal record gives title as 'The Diamonds of Destiny'.",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1928-08-10", "volume": "8", "number": "2"},
+      "title": "The Fall Guy",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1928-08-25", "volume": "8", "number": "3"},
+      "title": "Hard-Boiled",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1928-10-25", "volume": "9", "number": "3"},
+      "title": "Ripples of Doom",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1928-11-10", "volume": "9", "number": "4"},
+      "title": "A Point of Honor",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1929-05-10", "volume": "12", "number": "4"},
+      "title": "The Crime Critic",
+      "author": {
+         "authorized": "Elston, Allan Vaughan, 1887-1976",
+         "lcna": "no90023204"
+       }
+     },
+     {"issue": {"issue-date": "1929-05-25", "volume": "13", "number": "1"},
+      "title": "On the Up and Up",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1929-07-25", "volume": "14", "number": "1"},
+      "title": "State's Evidence",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1929-08-25", "volume": "14", "number": "3"},
+      "title": "Diamonds of Death",
+      "note": "Issue date per FictionMags listing.  CCE renewal record gives issue date as August 10. (Cover labels this issue as 'Second Aug. No.'",
+      "author": {
+         "authorized": "Elston, Allan Vaughan, 1887-1976",
+         "lcna": "no90023204"
+       }
+     },
+     {"issue": {"issue-date": "1929-08-25", "volume": "14", "number": "3"},
+      "title": "The Hand of the Tong",
+      "author": {
+         "authorized": "Elston, Allan Vaughan, 1887-1976",
+         "lcna": "no90023204"
+       }
+     },
+     {"issue": {"issue-date": "1929-09-25", "volume": "15", "number": "1"},
+      "title": "The Winning Hand",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-10-14"
+   "last-updated": "2021-07-22"
 }

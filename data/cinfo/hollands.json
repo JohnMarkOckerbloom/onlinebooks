@@ -6,7 +6,7 @@
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1926-04"}},
    "first-renewed-contribution-source": "1953-JanJun",
-   "renewed-contribution-completness": "active/1926",
+   "renewed-contribution-completeness": "active/1938",
    "renewed-contributions": [
      {"issue": {"issue-date": "1926-04"},
       "title": "Love Laughs at Doctors",
@@ -17,7 +17,7 @@
      },
      {"issue": {"issue-date": "1926-07"}, 
       "title": "Needed",
-      "note": "CCE files this renewal under Harold Hopper Titus (who was a philosophy professor, 1894-1984), though it is more likely to be Harold Titus (the novelist, 1888-1967)",
+      "note": "CCE files this renewal under Harold Hopper Titus (who was a philosophy professor, 1896-1984), though it is more likely to be Harold Titus (the novelist, 1888-1967)",
       "author": {
        "name": "Harold Titus"
       }
@@ -83,11 +83,80 @@
        "authorized": "Banning, Margaret Culkin, 1891-1982",
        "lcna": "n86086096"
       }
+     },
+     {"issue": {"issue-date": "1928-05"}, 
+      "title": "Miss Mattie's Big Moment",
+      "author": {
+         "authorized": "Titus, Harold, 1888-1967",
+         "lcna": "no2008175553"
+      }
+     },
+     {"issue": {"issue-date": "1928-11"}, 
+      "title": "Gold Bullets",
+      "title-note": "part 1 of 6",
+      "author": {
+       "authorized": "Booth, Charles G. (Charles Gordon), 1896-1949",
+       "lcna": "no90021252"
+      }
+     },
+     {"issue": {"issue-date": "1928-12"}, 
+      "title": "Gold Bullets",
+      "title-note": "part 2 of 6",
+      "author": {
+       "authorized": "Booth, Charles G. (Charles Gordon), 1896-1949",
+       "lcna": "no90021252"
+      }
+     },
+     {"issue": {"issue-date": "1929-01"}, 
+      "title": "Gold Bullets",
+      "title-note": "part 3 of 6",
+      "author": {
+       "authorized": "Booth, Charles G. (Charles Gordon), 1896-1949",
+       "lcna": "no90021252"
+      }
+     },
+     {"issue": {"issue-date": "1929-02"}, 
+      "title": "Gold Bullets",
+      "title-note": "part 4 of 6",
+      "author": {
+       "authorized": "Booth, Charles G. (Charles Gordon), 1896-1949",
+       "lcna": "no90021252"
+      }
+     },
+     {"issue": {"issue-date": "1929-03"}, 
+      "title": "Gold Bullets",
+      "title-note": "part 5 of 6",
+      "author": {
+       "authorized": "Booth, Charles G. (Charles Gordon), 1896-1949",
+       "lcna": "no90021252"
+      }
+     },
+     {"issue": {"issue-date": "1929-04"}, 
+      "title": "Gold Bullets",
+      "title-note": "part 6 of 6",
+      "author": {
+       "authorized": "Booth, Charles G. (Charles Gordon), 1896-1949",
+       "lcna": "no90021252"
+      }
+     },
+     {"issue": {"issue-date": "1932-03"}, 
+      "title": "One Fisherman's Luck",
+      "author": {
+         "authorized": "Titus, Harold, 1888-1967",
+         "lcna": "no2008175553"
+      }
+     },
+     {"issue": {"issue-date": "1938-01"}, 
+      "title": "Engagement in the Andes",
+      "author": {
+         "authorized": "Allen, Virginia Paxton, 1903-1968",
+         "lcna": "no2020122296"
+      }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-01-25"
+   "last-updated": "2021-07-19"
 }

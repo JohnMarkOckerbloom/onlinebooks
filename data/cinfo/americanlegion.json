@@ -9,9 +9,377 @@
    "first-renewed-contribution":
      {"issue": {"issue-date": "1926-10"}},
    "first-renewed-contribution-source": "1953-JulDec",
+   "renewed-contribution-completeness": "active/1949",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1926-10"}, 
+      "title": "Keep Looking and Some Day You'll See Them",
+      "author": {
+       "authorized": "Sass, Herbert Ravenel, 1884-1958",
+       "lcna": "n88224199"
+      }
+     },
+     {"issue": {"issue-date": "1926-10"},
+      "title": "House on the Square",
+      "author": {
+       "authorized": "Weiman, Rita, 1889-1954",
+       "lcna": "n89129751"
+      }
+     },
+     {"issue": {"issue-date": "1926-12"}, 
+      "title": "Our National Bird",
+      "author": {
+       "authorized": "Sass, Herbert Ravenel, 1884-1958",
+       "lcna": "n88224199"
+      }
+     },
+     {"issue": {"issue-date": "1927-08"}, 
+       "title": "Knowing Paris",
+       "author": {
+        "authorized": "Tarkington, Booth, 1869-1946",
+        "lcna": "n79078124"
+       }
+     },
+     {"issue": {"issue-date": "1928-08"}, 
+       "title": "The Man in the White Slicker",
+       "title-note": "part 1 of 7",
+       "author": {
+        "authorized": "Nason, Leonard H. (Leonard Hastings), 1895-1970",
+        "lcna": "no2002077800"
+       }
+     },
+     {"issue": {"issue-date": "1928-09"}, 
+       "title": "The Man in the White Slicker",
+       "title-note": "part 2 of 7",
+       "author": {
+        "authorized": "Nason, Leonard H. (Leonard Hastings), 1895-1970",
+        "lcna": "no2002077800"
+       }
+     },
+     {"issue": {"issue-date": "1928-10"}, 
+       "title": "The Man in the White Slicker",
+       "title-note": "part 3 of 7",
+       "author": {
+        "authorized": "Nason, Leonard H. (Leonard Hastings), 1895-1970",
+        "lcna": "no2002077800"
+       }
+     },
+     {"issue": {"issue-date": "1928-11"}, 
+       "title": "The Man in the White Slicker",
+       "title-note": "part 4 of 7",
+       "author": {
+        "authorized": "Nason, Leonard H. (Leonard Hastings), 1895-1970",
+        "lcna": "no2002077800"
+       }
+     },
+     {"issue": {"issue-date": "1928-12"}, 
+       "title": "The Man in the White Slicker",
+       "title-note": "part 5 of 7",
+       "author": {
+        "authorized": "Nason, Leonard H. (Leonard Hastings), 1895-1970",
+        "lcna": "no2002077800"
+       }
+     },
+     {"issue": {"issue-date": "1929-01"}, 
+       "title": "The Man in the White Slicker",
+       "title-note": "part 6 of 7",
+       "author": {
+        "authorized": "Nason, Leonard H. (Leonard Hastings), 1895-1970",
+        "lcna": "no2002077800"
+       }
+     },
+     {"issue": {"issue-date": "1929-02"}, 
+       "title": "The Man in the White Slicker",
+       "title-note": "part 7 of 7",
+       "author": {
+        "authorized": "Nason, Leonard H. (Leonard Hastings), 1895-1970",
+        "lcna": "no2002077800"
+       }
+     },
+     {"issue": {"issue-date": "1930-01"}, 
+       "title": "Livingston Brothers",
+       "title-note": "part 1 of 9",
+       "author": {
+        "authorized": "Nason, Leonard H. (Leonard Hastings), 1895-1970",
+        "lcna": "no2002077800"
+       }
+     },
+     {"issue": {"issue-date": "1930-02"}, 
+       "title": "Livingston Brothers",
+       "title-note": "part 2 of 9",
+       "author": {
+        "authorized": "Nason, Leonard H. (Leonard Hastings), 1895-1970",
+        "lcna": "no2002077800"
+       }
+     },
+     {"issue": {"issue-date": "1930-03"}, 
+       "title": "Livingston Brothers",
+       "title-note": "part 3 of 9",
+       "author": {
+        "authorized": "Nason, Leonard H. (Leonard Hastings), 1895-1970",
+        "lcna": "no2002077800"
+       }
+     },
+     {"issue": {"issue-date": "1930-04"}, 
+       "title": "Livingston Brothers",
+       "title-note": "part 4 of 9",
+       "author": {
+        "authorized": "Nason, Leonard H. (Leonard Hastings), 1895-1970",
+        "lcna": "no2002077800"
+       }
+     },
+     {"issue": {"issue-date": "1930-05"}, 
+       "title": "Livingston Brothers",
+       "title-note": "part 5 of 9",
+       "author": {
+        "authorized": "Nason, Leonard H. (Leonard Hastings), 1895-1970",
+        "lcna": "no2002077800"
+       }
+     },
+     {"issue": {"issue-date": "1930-06"}, 
+       "title": "Livingston Brothers",
+       "title-note": "part 6 of 9",
+       "author": {
+        "authorized": "Nason, Leonard H. (Leonard Hastings), 1895-1970",
+        "lcna": "no2002077800"
+       }
+     },
+     {"issue": {"issue-date": "1930-07"}, 
+       "title": "Livingston Brothers",
+       "title-note": "part 7 of 9",
+       "author": {
+        "authorized": "Nason, Leonard H. (Leonard Hastings), 1895-1970",
+        "lcna": "no2002077800"
+       }
+     },
+     {"issue": {"issue-date": "1930-08"}, 
+       "title": "Livingston Brothers",
+       "title-note": "part 8 of 9",
+       "author": {
+        "authorized": "Nason, Leonard H. (Leonard Hastings), 1895-1970",
+        "lcna": "no2002077800"
+       }
+     },
+     {"issue": {"issue-date": "1930-09"}, 
+       "title": "Livingston Brothers",
+       "title-note": "part 9 of 9",
+       "author": {
+        "authorized": "Nason, Leonard H. (Leonard Hastings), 1895-1970",
+        "lcna": "no2002077800"
+       }
+     },
+     {"issue": {"issue-date": "1931-01"},
+        "title": "I Might Just as Well Have Played Hooky",
+        "author": {
+         "authorized": "Woollcott, Alexander, 1887-1943",
+         "lcna": "n80024589"
+        }
+     },
+     {"issue": {"issue-date": "1931-01"},
+       "title": "$10.00 Down",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1931-09"},
+      "title": "The War We Lost by Pacificism",
+      "title-note": "part 1 of 2",
+      "author": {
+         "authorized": "Hughes, Rupert, 1872-1956",
+         "lcna": "n86012047"
+       }
+     },
+     {"issue": {"issue-date": "1931-10"},
+      "title": "The War We Lost by Pacificism",
+      "title-note": "part 2 of 2",
+      "author": {
+         "authorized": "Hughes, Rupert, 1872-1956",
+         "lcna": "n86012047"
+       }
+     },
+     {"issue": {"issue-date": "1932-02"},
+      "title": "What We Owe to Washington",
+      "author": {
+         "authorized": "Hughes, Rupert, 1872-1956",
+         "lcna": "n86012047"
+       }
+     },
+     {"issue": {"issue-date": "1932-06"},
+      "title": "War in Washington's Time and Now",
+      "author": {
+         "authorized": "Hughes, Rupert, 1872-1956",
+         "lcna": "n86012047"
+       }
+     },
+     {"issue": {"issue-date": "1932-10"},
+      "title": "No Army, No War: The False Equation",
+      "author": {
+         "authorized": "Hughes, Rupert, 1872-1956",
+         "lcna": "n86012047"
+       }
+     },
+     {"issue": {"issue-date": "1933-08"},
+      "title": "Paper Made the Mare Go: Inflation and the Soldier's Money",
+      "author": {
+         "authorized": "Hughes, Rupert, 1872-1956",
+         "lcna": "n86012047"
+       }
+     },
+     {"issue": {"issue-date": "1934-08"},
+      "title": "Youth Must Choose",
+      "author": {
+         "authorized": "Hughes, Rupert, 1872-1956",
+         "lcna": "n86012047"
+       }
+     },
+     {"issue": {"issue-date": "1935-01"},
+      "title": "Memories of M. I. D.",
+      "title-note": "part 1 of 4",
+      "author": {
+         "authorized": "Hughes, Rupert, 1872-1956",
+         "lcna": "n86012047"
+       }
+     },
+     {"issue": {"issue-date": "1935-02"},
+      "title": "Memories of M. I. D.",
+      "title-note": "part 2 of 4",
+      "author": {
+         "authorized": "Hughes, Rupert, 1872-1956",
+         "lcna": "n86012047"
+       }
+     },
+     {"issue": {"issue-date": "1935-03"},
+      "title": "Memories of M. I. D.",
+      "title-note": "part 3 of 4",
+      "author": {
+         "authorized": "Hughes, Rupert, 1872-1956",
+         "lcna": "n86012047"
+       }
+     },
+     {"issue": {"issue-date": "1935-04"},
+      "title": "Memories of M. I. D.",
+      "title-note": "part 4 of 4",
+      "author": {
+         "authorized": "Hughes, Rupert, 1872-1956",
+         "lcna": "n86012047"
+       }
+     },
+     {"issue": {"issue-date": "1935-10"},
+      "title": "The Sabotage of the Pacifists: What Price Pacifism?",
+      "author": {
+         "authorized": "Hughes, Rupert, 1872-1956",
+         "lcna": "n86012047"
+       }
+     },
+     {"issue": {"issue-date": "1937-02"}, 
+      "title": "Drummer Boy",
+      "author": {
+       "authorized": "Kantor, MacKinlay, 1904-1977",
+       "lcna": "n79140979"
+      }
+     },
+     {"issue": {"issue-date": "1937-08"}, 
+      "title": "Big Doings at Dobb's Depot",
+      "author": {
+       "authorized": "Kantor, MacKinlay, 1904-1977",
+       "lcna": "n79140979"
+      }
+     },
+     {"issue": {"issue-date": "1938-05"},
+      "title": "The Mud Puppy",
+      "author": {
+       "authorized": "Upson, William Hazlett, 1891-1975",
+       "lcna": "n90676728"
+      }
+     },
+     {"issue": {"issue-date": "1939-12"},
+      "title": "Not Foch, but Yvonne",
+      "author": {
+       "authorized": "Upson, William Hazlett, 1891-1975",
+       "lcna": "n90676728"
+      }
+     },
+     {"issue": {"issue-date": "1941-07"}, 
+       "title": "Lady Hamilton and Her Nelson",
+       "author": {
+        "authorized": "Tarkington, Booth, 1869-1946",
+        "lcna": "n79078124"
+       }
+     },
+     {"issue": {"issue-date": "1944-08"},
+      "title": "Blackie",
+      "author": {
+        "authorized": "Gallico, Paul, 1897-1976",
+        "lcna": "n79114016"
+      }
+     },
+     {"issue": {"issue-date": "1945-03"},
+      "title": "Night Bus to Cleveland",
+      "author": {
+        "authorized": "Gallico, Paul, 1897-1976",
+        "lcna": "n79114016"
+      }
+     },
+     {"issue": {"issue-date": "1945-03"},
+      "title": "Make the Training Military",
+      "author": {
+         "authorized": "Hughes, Rupert, 1872-1956",
+         "lcna": "n86012047"
+       }
+     },
+     {"issue": {"issue-date": "1945-05"},
+      "title": "After the Nips Surrender",
+      "author": {
+         "authorized": "Hughes, Rupert, 1872-1956",
+         "lcna": "n86012047"
+       }
+     },
+     {"issue": {"issue-date": "1945-08"},
+      "title": "Operation Whitefish",
+      "author": {
+         "authorized": "Shulman, Max, 1919-1988",
+         "lcna": "n86086097"
+       }
+     },
+     {"issue": {"issue-date": "1945-10"},
+      "title": "Quitter",
+      "author": {
+        "authorized": "Gallico, Paul, 1897-1976",
+        "lcna": "n79114016"
+      }
+     },
+     {"issue": {"issue-date": "1946-01"},
+      "title": "Under the Bluff",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1946-06"},
+      "title": "Strictly Stinky",
+      "author": {
+         "authorized": "Cluett, Jack",
+         "lcna": "no2011022430"
+       }
+     },
+     {"issue": {"issue-date": "1949-12"}, 
+      "title": "The Long Watch",
+      "author": {
+        "authorized": "Heinlein, Robert A. (Robert Anson), 1907-1988", 
+        "lcna": "n79067868"
+      }
+     },
+     {"issue": {"issue-date": "1950-12"}, 
+      "title": "The General Went Home",
+      "author": {
+        "authorized": "Holmes, Marjorie, 1910-2002",
+        "lcna": "n79053758"
+      }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-06-08"
+   "last-updated": "2021-07-19"
 }

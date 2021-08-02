@@ -8,7 +8,7 @@
    "first-renewed-contribution":
       {"issue": {"issue-date": "1926-03"}},
    "first-renewed-contribution-source": "1953-JulDec",
-   "renewed-issue-completeness": "active/1926",
+   "renewed-issue-completeness": "active/1927",
    "renewed-issues": [
       {"issue-date": "1926-02", "volume": "25", "number": "6",
        "cdate": "1926-01-20"}, 
@@ -35,9 +35,23 @@
       {"issue-date": "1927-09", "volume": "29", "number": "1"},
       {"issue-date": "1927-10", "volume": "29", "number": "2"},
       {"issue-date": "1927-11", "volume": "29", "number": "3"},
-      {"issue-date": "1927-12", "volume": "29", "number": "4"}
+      {"issue-date": "1927-12", "volume": "29", "number": "4"},
+      {"issue-date": "1928-01", "volume": "29", "number": "5",
+       "cdate": "1927-12-06"}, 
+      {"issue-date": "1928-02", "volume": "29", "number": "6",
+       "cdate": "1928-01-20"}, 
+      {"issue-date": "1928-03", "volume": "30", "number": "1"},
+      {"issue-date": "1928-04", "volume": "30", "number": "2"},
+      {"issue-date": "1928-05", "volume": "30", "number": "3"},
+      {"issue-date": "1928-06", "volume": "30", "number": "4"},
+      {"issue-date": "1928-07", "volume": "30", "number": "5"},
+      {"issue-date": "1928-08", "volume": "30", "number": "6"},
+      {"issue-date": "1928-09", "volume": "31", "number": "1"},
+      {"issue-date": "1928-10", "volume": "31", "number": "2"},
+      {"issue-date": "1928-11", "volume": "31", "number": "3"},
+      {"issue-date": "1928-12", "volume": "31", "number": "4"}
    ],
-   "renewed-contribution-completeness": "active/1926",
+   "renewed-contribution-completeness": "active/1933",
    "renewed-contributions" : [
      {"issue": {"issue-date": "1926-03"},
       "title": "Notes Out of a Man's Life",
@@ -171,6 +185,358 @@
        "authorized": "Anderson, Sherwood, 1876-1941",
        "lcna": "n79045519"
       }
+     },
+     {"issue": {"issue-date": "1928-01"},
+      "title": "A Sentimental Journey",
+      "author": {
+       "authorized": "Anderson, Sherwood, 1876-1941",
+       "lcna": "n79045519"
+      }
+     },
+     {"issue": {"issue-date": "1928-02"},
+      "title": "On Being a Country Editor",
+      "author": {
+       "authorized": "Anderson, Sherwood, 1876-1941",
+       "lcna": "n79045519"
+      }
+     },
+     {"issue": {"issue-date": "1928-04"},
+      "title": "A Complete Handbook of Opinion",
+      "author": {
+       "authorized": "Anderson, Sherwood, 1876-1941",
+       "lcna": "n79045519"
+      }
+     },
+     {"issue": {"issue-date": "1928-04"},
+      "title": "Just Walking",
+      "author": {
+       "authorized": "Anderson, Sherwood, 1876-1941",
+       "lcna": "n79045519"
+      }
+     },
+     {"issue": {"issue-date": "1928-06"},
+      "title": "Small Town Notes",
+      "author": {
+       "authorized": "Anderson, Sherwood, 1876-1941",
+       "lcna": "n79045519"
+      }
+     },
+     {"issue": {"issue-date": "1928-07"},
+        "title": "The Slightly Murderous Halinglers",
+        "author": {
+         "authorized": "Pearson, Edmund Lester, 1880-1937",
+         "lcna": "n50012420"
+        }
+     },
+     {"issue": {"issue-date": "1928-09"},
+        "title": "The Confessions of Eleanor Burton",
+        "author": {
+         "authorized": "Pearson, Edmund Lester, 1880-1937",
+         "lcna": "n50012420"
+        }
+     },
+     {"issue": {"issue-date": "1928-10"},
+        "title": "Long Distance",
+        "author": {
+          "authorized": "Parker, Dorothy, 1893-1967",
+          "lcna": "n50050331"
+        }
+     },
+     {"issue": {"issue-date": "1928-12"},
+        "title": "Fashions in Love",
+        "author": {
+         "authorized": "Huxley, Aldous, 1894-1963",
+         "lcna": "n80057246"
+        }
+     },
+     {"issue": {"issue-date": "1929-03"},
+      "title": "Why They Got Married",
+      "author": {
+       "authorized": "Anderson, Sherwood, 1876-1941",
+       "lcna": "n79045519"
+      }
+     },
+     {"issue": {"issue-date": "1929-04"},
+      "title": "Small Town Notes",
+      "author": {
+       "authorized": "Anderson, Sherwood, 1876-1941",
+       "lcna": "n79045519"
+      }
+     },
+     {"issue": {"issue-date": "1929-05"},
+      "title": "Country Town Notes",
+      "author": {
+       "authorized": "Anderson, Sherwood, 1876-1941",
+       "lcna": "n79045519"
+      }
+     },
+     {"issue": {"issue-date": "1929-05"},
+        "title": "A Disagreement With Mr. Shaw",
+        "author": {
+         "authorized": "Huxley, Aldous, 1894-1963",
+         "lcna": "n80057246"
+        }
+     },
+     {"issue": {"issue-date": "1929-07"},
+      "title": "Small Town Notes",
+      "author": {
+       "authorized": "Anderson, Sherwood, 1876-1941",
+       "lcna": "n79045519"
+      }
+     },
+     {"issue": {"issue-date": "1929-07"},
+        "title": "Silence is Golden",
+        "author": {
+         "authorized": "Huxley, Aldous, 1894-1963",
+         "lcna": "n80057246"
+        }
+     },
+     {"issue": {"issue-date": "1929-07"},
+        "title": "Sex Appeal",
+        "author": {
+         "authorized": "Lawrence, D. H. (David Herbert), 1885-1930",
+         "lcna": "n79018450"
+        }
+     },
+     {"issue": {"issue-date": "1929-08"},
+      "title": "Virginia",
+      "author": {
+       "authorized": "Anderson, Sherwood, 1876-1941",
+       "lcna": "n79045519"
+      }
+     },
+     {"issue": {"issue-date": "1929-09"},
+      "title": "Small Town Notes",
+      "author": {
+       "authorized": "Anderson, Sherwood, 1876-1941",
+       "lcna": "n79045519"
+      }
+     },
+     {"issue": {"issue-date": "1929-10"},
+      "title": "Country Squires",
+      "author": {
+       "authorized": "Anderson, Sherwood, 1876-1941",
+       "lcna": "n79045519"
+      }
+     },
+     {"issue": {"issue-date": "1930-01"},
+      "title": "These Mountaineers",
+      "author": {
+       "authorized": "Anderson, Sherwood, 1876-1941",
+       "lcna": "n79045519"
+      }
+     },
+     {"issue": {"issue-date": "1930-03"},
+      "title": "Domestic and Juvenile",
+      "author": {
+       "authorized": "Anderson, Sherwood, 1876-1941",
+       "lcna": "n79045519"
+      }
+     },
+     {"issue": {"issue-date": "1930-05"},
+      "title": "Coast Defender",
+      "author": {
+       "authorized": "Tully, Jim",
+       "lcna": "n81119676"
+      }
+     },
+     {"issue": {"issue-date": "1930-06"},
+      "title": "An Interview With Shaw",
+      "author": {
+       "authorized": "Tully, Jim",
+       "lcna": "n81119676"
+      }
+     },
+     {"issue": {"issue-date": "1930-07"},
+      "title": "Ireland Farewell",
+      "author": {
+       "authorized": "Tully, Jim",
+       "lcna": "n81119676"
+      }
+     },
+     {"issue": {"issue-date": "1930-08"},
+      "title": "Hyde Park and the Hecklers",
+      "author": {
+       "authorized": "Tully, Jim",
+       "lcna": "n81119676"
+      }
+     },
+     {"issue": {"issue-date": "1930-09"},
+      "title": "Article on Wells",
+      "author": {
+       "authorized": "Tully, Jim",
+       "lcna": "n81119676"
+      }
+     },
+     {"issue": {"issue-date": "1931-02"},
+      "title": "We Leave No Stone Unturned",
+      "authors": [
+         {"authorized": "Ford, Corey, 1902-1969",
+         "lcna": "n50024813"},
+         {"name": "Howard Deitz"}
+      ]
+     },
+     {"issue": {"issue-date": "1931-09"},
+      "title": "The Cry in the Night",
+      "author": {
+       "authorized": "Anderson, Sherwood, 1876-1941",
+       "lcna": "n79045519"
+      }
+     },
+     {"issue": {"issue-date": "1931-10"},
+      "title": "The Theatre",
+      "author": {
+       "authorized": "Nathan, George Jean, 1882-1958",
+       "lcna": "n50033299"
+      }
+     },
+     {"issue": {"issue-date": "1931-11"},
+      "title": "The Theatre",
+      "author": {
+       "authorized": "Nathan, George Jean, 1882-1958",
+       "lcna": "n50033299"
+      }
+     },
+     {"issue": {"issue-date": "1931-12"},
+      "title": "The Theatre",
+      "author": {
+       "authorized": "Nathan, George Jean, 1882-1958",
+       "lcna": "n50033299"
+      }
+     },
+     {"issue": {"issue-date": "1932-01"},
+      "title": "The Theatre",
+      "author": {
+       "authorized": "Nathan, George Jean, 1882-1958",
+       "lcna": "n50033299"
+      }
+     },
+     {"issue": {"issue-date": "1932-02"},
+      "title": "The Theatre",
+      "author": {
+       "authorized": "Nathan, George Jean, 1882-1958",
+       "lcna": "n50033299"
+      }
+     },
+     {"issue": {"issue-date": "1932-03"},
+      "title": "The Theatre",
+      "author": {
+       "authorized": "Nathan, George Jean, 1882-1958",
+       "lcna": "n50033299"
+      }
+     },
+     {"issue": {"issue-date": "1932-04"},
+      "title": "The Theatre",
+      "author": {
+       "authorized": "Nathan, George Jean, 1882-1958",
+       "lcna": "n50033299"
+      }
+     },
+     {"issue": {"issue-date": "1932-05"},
+      "title": "The Theatre",
+      "author": {
+       "authorized": "Nathan, George Jean, 1882-1958",
+       "lcna": "n50033299"
+      }
+     },
+     {"issue": {"issue-date": "1933-03"},
+      "title": "Satire on Time Magazine",
+      "author": {
+        "authorized": "Ford, Corey, 1902-1969",
+        "lcna": "n50024813"
+      }
+     },
+     {"issue": {"issue-date": "1933-04"},
+      "title": "Honey",
+      "author": {
+        "authorized": "Gallico, Paul, 1897-1976",
+        "lcna": "n79114016"
+      }
+     },
+     {"issue": {"issue-date": "1933-07"},
+      "title": "Wedding Present",
+      "author": {
+        "authorized": "Hale, Nancy, 1908-1988",
+        "lcna": "n50018614"
+      }
+     },
+     {"issue": {"issue-date": "1933-08"},
+      "title": "How to Relieve Practically Everybody",
+      "note": "Author name is a pseudonym for Corey Ford",
+      "author": {
+        "authorized": "Riddell, John, 1902-1969",
+        "lcna": "no93037487"
+      }
+     },
+     {"issue": {"issue-date": "1933-09"},
+      "title": "Hotel Kid",
+      "author": {
+         "authorized": "O’Hara, John, 1905-1970",
+         "lcna": "n79060653"
+      }
+     },
+     {"issue": {"issue-date": "1933-10"},
+      "title": "The Old Order",
+      "author": {
+         "authorized": "Horgan, Paul, 1903-1995",
+         "lcna": "n79060797"
+      }
+     },
+     {"issue": {"issue-date": "1933-11"},
+      "title": "Horse Thief",
+      "author": {
+         "authorized": "Caldwell, Erskine, 1903-1987",
+         "lcna": "n78095661"
+      }
+     },
+     {"issue": {"issue-date": "1933-11"},
+      "title": "A Detail of the Depression",
+      "author": {
+         "authorized": "Cobb, Irvin S. (Irvin Shrewsbury), 1876-1944",
+         "lcna": "n50032217"
+      }
+     },
+     {"issue": {"issue-date": "1933-12"},
+      "title": "Now There Is Peace",
+      "author": {
+         "authorized": "Sherman, Richard, 1905-1962",
+         "lcna": "n86105811"
+      }
+     },
+     {"issue": {"issue-date": "1934-01"},
+      "title": "The Intimate Recital",
+      "author": {
+         "authorized": "Horgan, Paul, 1903-1995",
+         "lcna": "n79060797"
+      }
+     },
+     {"issue": {"issue-date": "1934-03"},
+      "title": "Name Me Five, A Questionnaire",
+      "author": {
+         "authorized": "Bryan, J., III (Joseph), 1904-1993",
+         "lcna": "n79073631"
+      }
+     },
+     {"issue": {"issue-date": "1934-04"},
+      "title": "Go Dine Your Enemy",
+      "author": {
+         "authorized": "Beer, Thomas, 1889-1940",
+         "lcna": "n79151185"
+      }
+     },
+     {"issue": {"issue-date": "1934-05"},
+      "title": "Nonsense, Renewed",
+      "author": {
+         "authorized": "Beer, Thomas, 1889-1940",
+         "lcna": "n79151185"
+      }
+     },
+     {"issue": {"issue-date": "1934-06"},
+      "title": "Polly en Famille",
+      "author": {
+         "authorized": "Eckstein, Gustav, 1890-1981",
+         "lcna": "n84803816"
+      }
      }
    ],
    "additional-note" : "Active contribution renewals are recorded beginning in the 1953 January-June CCE volume, but the earliest actively renewed contribution is noted in the 1953 July-December volume.",
@@ -178,5 +544,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-01-22"
+   "last-updated": "2021-07-19"
 }

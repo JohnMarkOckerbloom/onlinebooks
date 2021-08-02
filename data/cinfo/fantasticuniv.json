@@ -1,0 +1,24 @@
+{
+   "title": "Fantastic Universe",
+   "title-note": "US science fiction magazine, 1953-1960",
+   "contents": [
+      {"url": "http://www.isfdb.org/cgi-bin/pe.cgi?18631",
+       "note": "ISFDB"},
+      {"url": "http://www.philsp.com/homeville/SFI/link.asp?magid=FUN",
+       "note": "Galactic Central"}
+   ],
+   "first-issue":
+     {"issue-date": "1953-June-July", "volume": "1", "number": "1"}, 
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "database",
+   "first-renewed-contribution":
+     {"issue": {"issue-date": "1953-June-July", "volume": "1", "number": "1"}}, 
+   "first-renewed-contribution-source": "database",
+   "last-issue":
+     {"issue-date": "1960-03", "volume": "12", "number": "5"}, 
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2021-07-26"
+}
