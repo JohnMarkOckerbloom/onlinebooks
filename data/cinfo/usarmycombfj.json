@@ -1,0 +1,20 @@
+{
+   "title": "United States Army Combat Forces Journal",
+   "aka": ["Combat Forces Journal", "U.S. Army Combat Forces Journal"],
+   "first-issue": {"issue-date": "1950-08", "volume": "1", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce",
+   "first-renewed-contribution": {
+      "issue": {"cdate": "1950"}
+   },
+   "first-renewed-contribution-source": "database",
+   "last-issue": {"issue-date": "1954-07", "volume": "4", "number": "12"},
+   "succeeded-by":
+     [{"id": "armycombatfj", "note": "The Army Combat Forces Journal"}],
+   "additional-note": "A 1978 renewal for the 1950 book 'The Soldier's Load' by S. L. A. Marshall mentions that portions appeared originally in 'the Combat Forces Journal' [sic].  We do not know in what issues those portions appeared, but since this journal did not begin until 1950, this renewal is likely to cover those portions. Aside from that renewal, there is also a renewal for an article by the same author explicitly mentioned as running in the June 1951 issue. Those are the only renewals we have found that explicitly mention this serial.",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2021-08-05"
+}

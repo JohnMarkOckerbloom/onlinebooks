@@ -84,7 +84,7 @@ $bodystart =  "<body>";
             "8h.htm" => "HTML",
             "8h.zip" => "zipped HTML",
             "0.txt" => "Unicode",
-            "0.zip" => "zipped Unicode",
+            "0.zip" => "Zipped Unicode",
             "doc.doc" => "Microsoft Word",
             "doc.zip" => "zipped Microsoft Word",
             "w.doc" => "Microsoft Word",
@@ -123,7 +123,7 @@ $bodystart =  "<body>";
             "tei/tei.tei" => "TEI",
             "tei.zip" => "Zipped TEI",
             "tif" => "TIFF",
-            "txt" => "Text",
+            "txt" => "Plain text",
             "t/t.tex" => "LaTeX",
             "t.tex" => "LaTeX",
             "t.zip" => "Zipped LaTeX",
@@ -136,7 +136,7 @@ $bodystart =  "<body>";
             "x/x.xml" => "XML",
             "x.xml" => "XML",
             "x.zip" => "Zipped XML",
-            "zip" => "Zip");
+            "zip" => "Zip file");
 
 # End of configuration options -- don't modify below unless you
 # know what you're doing

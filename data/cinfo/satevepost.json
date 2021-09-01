@@ -1,5 +1,6 @@
 {
    "title": "The Saturday Evening Post",
+   "aka": ["Girl in Hiding (only for misfiled contribution renewals; see record details)"],
    "online": "1",
    "contents": [
       {"url": "http://www.philsp.com/homeville/FMI/link.asp?magid=SEP",
@@ -1601,11 +1602,61 @@
          "authorized": "Tupper, Tristram",
          "lcna": "no2008073453"
        }
+     },
+     {"issue": {"issue-date": "1950-04-08", "volume": "222", "number": "41"},
+      "title": "Girl in Hiding",
+      "title-note": "part 1 of 6",
+      "author": {
+         "authorized": "Lanham, Edwin, 1904-1979",
+         "lcna": "n84077724"
+      }
+     },
+     {"issue": {"issue-date": "1950-04-15", "volume": "222", "number": "42"},
+      "title": "Girl in Hiding",
+      "title-note": "part 2 of 6",
+      "author": {
+         "authorized": "Lanham, Edwin, 1904-1979",
+         "lcna": "n84077724"
+      }
+     },
+     {"issue": {"issue-date": "1950-04-22", "volume": "222", "number": "43"},
+      "title": "Girl in Hiding",
+      "title-note": "part 3 of 6",
+      "note": "This is misfiled in the 1977 January-June CCE in Periodicals, listed as a renewal for a periodical titled 'Girl in Hiding', instead of as a renewal for an installment of a story by that name that appeared in the Saturday Evening Post issue with the indicated issue date and number.",
+      "author": {
+         "authorized": "Lanham, Edwin, 1904-1979",
+         "lcna": "n84077724"
+      }
+     },
+     {"issue": {"issue-date": "1950-04-29", "volume": "222", "number": "44"},
+      "title": "Girl in Hiding",
+      "title-note": "part 4 of 6",
+      "author": {
+         "authorized": "Lanham, Edwin, 1904-1979",
+         "lcna": "n84077724"
+      }
+     },
+     {"issue": {"issue-date": "1950-05-06", "volume": "222", "number": "45"},
+      "title": "Girl in Hiding",
+      "title-note": "part 5 of 6",
+      "author": {
+         "authorized": "Lanham, Edwin, 1904-1979",
+         "lcna": "n84077724"
+      }
+     },
+     {"issue": {"issue-date": "1950-05-13", "volume": "222", "number": "46"},
+      "title": "Girl in Hiding",
+      "note": "This is misfiled in the 1977 January-June CCE in Periodicals, listed as a renewal for a periodical titled 'Girl in Hiding', instead of as a renewal for an installment of a story by that name that appeared in the Saturday Evening Post issue with the indicated issue date and number.",
+      "title-note": "part 6 of 6",
+      "author": {
+         "authorized": "Lanham, Edwin, 1904-1979",
+         "lcna": "n84077724"
+      }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-05-15"
+   "last-updated": "2021-08-07"
 }

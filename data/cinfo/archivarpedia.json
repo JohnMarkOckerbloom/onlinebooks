@@ -1,5 +1,8 @@
 {
-   "title": "Archivos Argentinos de Pediatría",
+   "title": "Archivos Argentinos de Pediatría",
+   "online": "1",
+   "preceded-by":
+    [{"id": "archlatamped", "note": "Archivos Latino-Americanos de Pediatría"}],
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
@@ -12,5 +15,5 @@
    },
    "acknowledgement": 
       "Thanks to Ed Deegan for copyright research on this title.",
-   "last-updated": "2021-05-05"
+   "last-updated": "2021-08-06"
 }

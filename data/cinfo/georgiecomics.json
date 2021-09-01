@@ -1,0 +1,74 @@
+{
+   "title": "Georgie Comics",
+   "aka": ["Georgie", "Georgie and Judy Comics"],
+   "contents": [
+      {"url": "https://www.comics.org/series/414/",
+       "note": "Grand Comics Database (1945-1948)"},
+      {"url": "https://www.comics.org/series/637/",
+       "note": "Grand Comics Database (Georgie and Judy Comics, 1949)"},
+      {"url": "https://www.comics.org/series/638/",
+       "note": "Grand Comics Database (1949-1952)"}
+   ],
+   "first-issue":
+      {"issue-date": "1945-Spring", "number": "1"},
+   "first-renewed-issue":
+      {"issue-date": "1945-Spring", "number": "1"},
+   "first-renewed-issue-source": "1977-JulDec",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce+database",
+   "last-issue":
+      {"issue-date": "1952-10", "number": "39"},
+   "renewed-issue-completeness": "active/end",
+   "comment": "Fill in with cocatalog entries when that's up",
+   "renewed-issues": [
+      {"issue-date": "1945-Spring", "number": "1"},
+      {"issue-date": "1945-Summer", "number": "2"},
+      {"issue-date": "1945-Fall", "number": "3"},
+      {"issue-date": "1946-01", "number": "4"},
+      {"issue-date": "1946-04", "number": "5"},
+      {"issue-date": "1946-Summer", "number": "6"},
+      {"issue-date": "1946-09", "number": "7"},
+      {"issue-date": "1946-11", "number": "8"},
+      {"issue-date": "1947-01", "number": "9"},
+      {"issue-date": "1947-04", "number": "10"},
+      {"issue-date": "1947-06", "number": "11"},
+      {"issue-date": "1947-09", "number": "12"},
+      {"issue-date": "1947-11", "number": "13"},
+      {"issue-date": "1948-01", "number": "14"},
+      {"issue-date": "1948-03", "number": "15"},
+      {"issue-date": "1948-05", "number": "16"},
+      {"issue-date": "1948-07", "number": "17"},
+      {"issue-date": "1948-09", "number": "18"},
+      {"issue-date": "1948-11", "number": "19"},
+      {"issue-date": "1949-01", "number": "20"},
+      {"issue-date": "1949-03", "number": "21"},
+      {"issue-date": "1949-05", "number": "22"},
+      {"issue-date": "1949-07", "number": "23"},
+      {"issue-date": "1949-11", "number": "24"},
+      {"issue-date": "1950-02", "number": "25"},
+      {"issue-date": "1950-06", "number": "26"},
+      {"issue-date": "1950-09", "number": "27"},
+      {"issue-date": "1950-12", "number": "28"},
+      {"issue-date": "1951-02", "number": "29"},
+      {"issue-date": "1951-04", "number": "30",
+       "note": "Issue date as per cover. A renewal record for a 'March 1951' issue appears intended to refer to this issue (which otherwise has no renewal record)."},
+      {"issue-date": "1951-06", "number": "31"},
+      {"issue-date": "1951-08", "number": "32"},
+      {"issue-date": "1951-10", "number": "33"},
+      {"issue-date": "1951-12", "number": "34"},
+      {"issue-date": "1952-02", "number": "35"},
+      {"issue-date": "1952-04", "number": "36"},
+      {"issue-date": "1952-06", "number": "37"},
+      {"issue-date": "1952-08", "number": "38"},
+      {"issue-date": "1952-10", "number": "39"}
+   ],
+   "additional-notes": [
+     "Published as Georgie and Judy Comics from January through  May 1949 (#20-22). Issues from #28 onward were renewed under the title 'Georgie'.",
+    "A note in the 1972 CCE Periodicals volume says to 'consult copyright office' for full issue renewal information.  The first cataloged issue renewal, mentioned in the July-December 1977 CCE Periodicals volume, is for the first issue, and was filed in 1972."
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2021-08-18"
+}

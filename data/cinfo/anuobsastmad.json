@@ -1,5 +1,8 @@
 {
    "title": "Anuario del Observatorio Astronómico de Madrid",
+   "online": "1",
+   "preceded-by":
+     [{"id": "anuobsmadrid", "note": "Anuario del Observatorio de Madrid"}],
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
@@ -12,5 +15,5 @@
    },
    "acknowledgement": 
       "Thanks to Peter Sullivan for copyright research on this title.",
-   "last-updated": "2021-04-21"
+   "last-updated": "2021-08-20"
 }

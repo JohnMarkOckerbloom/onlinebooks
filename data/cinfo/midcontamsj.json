@@ -1,9 +1,6 @@
 {
    "title": "Midcontinent American Studies Journal",
-   "contents": [
-      {"url": "https://www.jstor.org/journal/midamerstudj",
-       "note": "JSTOR (full text also available for subscription or payment)"}
-   ],
+   "online": "1",
    "preceded-by":
       [{"id": "jcentmsvalasa",
         "note": "Journal of the Central Mississippi Valley American Studies Association"}],
@@ -13,11 +10,13 @@
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "database",
    "last-issue": {"issue-date": "1970-Fall", "volume": "11", "number": "2"},
+   "succeeded-by":
+      [{"id": "amerstudies1971", "note": "American Studies"}],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
    "acknowledgement": 
       "Thanks to Shelton Henderson for copyright research on this title.",
-   "last-updated": "2021-04-13"
+   "last-updated": "2021-08-17"
 }
