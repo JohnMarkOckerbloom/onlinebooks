@@ -23,8 +23,8 @@ my $olbpserial = {};
 my $issnserial = {};
 my $badissnmap = {};
 
-#my $cambridge_journals = $pkgdir . "cambridge/CUP_All_journals_2020-12-10.txt";
 my $cambridge_journals = $pkgdir . "cambridge/CUP_All_journals_2021-01-30.txt";
+#my $cambridge_journals = $pkgdir . "cambridge/CUP_All_journals_2021-09-10.txt";
 
 my $hathipilot_serials = $pkgdir . "hathitrust/localplusus.tsv";
 my $hathipilot_wdquery = $pkgdir . "hathitrust/wikihathiserial.csv";

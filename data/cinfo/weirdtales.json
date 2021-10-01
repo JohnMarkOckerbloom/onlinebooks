@@ -76,7 +76,7 @@
          "note": "Issue number repeats for May and July issues."},
       {"issue-date": "1947-09", "volume": "39", "number": "12"}
    ],
-   "renewed-contribution-completeness": "active/1949",
+   "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
        {"issue": {"issue-date": "1926-08", "volume": "8", "number": "2"}, 
         "title": "The Woman of the Wood",
@@ -1914,6 +1914,13 @@
        }
       },
       {"issue": {"issue-date": "1950-05", "volume": "42", "number": "4"},
+       "title": "Tell Your Fortune",
+       "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+       }
+      },
+      {"issue": {"issue-date": "1950-05", "volume": "42", "number": "4"},
        "title": "The Last Three Ships",
        "author": {
           "authorized": "St. Clair, Margaret",
@@ -1959,13 +1966,225 @@
           "using": "James MacCreagh"
          }
        ]
+      },
+      {"issue": {"issue-date": "1950-09", "volume": "42", "number": "6"},
+       "title": "The Shadow From the Steeple",
+       "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+       }
+      },
+      {"issue": {"issue-date": "1950-09", "volume": "42", "number": "6"},
+       "title": "Pott's Triumph",
+       "author": {
+         "authorized": "Derleth, August, 1909-1971",
+         "lcna": "n50002948"
+       }
+      },
+      {"issue": {"issue-date": "1950-11", "volume": "43", "number": "1"},
+       "title": "The Dead Man",
+       "author": {
+          "authorized": "Leiber, Fritz, 1910-1992",
+          "lcna": "n79054477"
+       }
+      },
+      {"issue": {"issue-date": "1950-11", "volume": "43", "number": "1"},
+       "title": "The Invisible Reweaver",
+       "author": {
+          "authorized": "St. Clair, Margaret",
+          "lcna": "n85038071"
+       }
+      },
+      {"issue": {"issue-date": "1951-01", "volume": "43", "number": "2"},
+       "title": "Something From Out There",
+       "author": {
+         "authorized": "Derleth, August, 1909-1971",
+         "lcna": "n50002948"
+       }
+      },
+      {"issue": {"issue-date": "1951-05", "volume": "43", "number": "4"},
+       "title": "Notebook Found in a Deserted House",
+       "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+       }
+      },
+      {"issue": {"issue-date": "1951-05", "volume": "43", "number": "4"},
+       "title": "The Keeper of the Key",
+       "author": {
+         "authorized": "Derleth, August, 1909-1971",
+         "lcna": "n50002948"
+       }
+      },
+      {"issue": {"issue-date": "1951-07", "volume": "43", "number": "5"},
+       "title": "A Knocking in the Wall",
+       "author": {
+         "authorized": "Derleth, August, 1909-1971",
+         "lcna": "n50002948"
+       }
+      },
+      {"issue": {"issue-date": "1951-07", "volume": "43", "number": "5"},
+       "title": "The Little Red Owl",
+       "author": {
+          "authorized": "St. Clair, Margaret",
+          "lcna": "n85038071"
+       }
+      },
+      {"issue": {"issue-date": "1951-11", "volume": "44", "number": "1"},
+       "title": "The Bird",
+       "author": {
+          "authorized": "St. Clair, Margaret",
+          "lcna": "n85038071"
+       }
+      },
+      {"issue": {"issue-date": "1951-11", "volume": "44", "number": "1"},
+       "title": "Hector",
+       "author": {
+         "authorized": "Derleth, August, 1909-1971",
+         "using": "Michael West",
+         "lcna": "n50002948"
+       }
+      },
+      {"issue": {"issue-date": "1951-11", "volume": "44", "number": "1"},
+       "title": "The Night They Crashed the Party",
+       "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+       }
+      },
+      {"issue": {"issue-date": "1951-11", "volume": "44", "number": "1"},
+       "title": "When the Night Wind Howls",
+       "authors": [
+         {"authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+          "lcna": "n80057222"},
+         {"authorized": "Pratt, Fletcher, 1897-1956",
+          "lcna": "n50021577"}
+       ]
+      },
+      {"issue": {"issue-date": "1952-01", "volume": "44", "number": "2"},
+       "title": "The Black Island",
+       "author": {
+         "authorized": "Derleth, August, 1909-1971",
+         "lcna": "n50002948"
+       }
+      },
+      {"issue": {"issue-date": "1952-01", "volume": "44", "number": "2"},
+       "title": "Lucy Comes to Stay",
+       "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+       }
+      },
+      {"issue": {"issue-date": "1952-03", "volume": "44", "number": "3"},
+       "title": "The Place of Desolation",
+       "author": {
+         "authorized": "Derleth, August, 1909-1971",
+         "lcna": "n50002948"
+       }
+      },
+      {"issue": {"issue-date": "1952-05", "volume": "44", "number": "4"},
+       "title": "The Night Road",
+       "author": {
+         "authorized": "Derleth, August, 1909-1971",
+         "lcna": "n50002948"
+       }
+      },
+      {"issue": {"issue-date": "1952-07", "volume": "44", "number": "5"},
+       "title": "Hell's Bells",
+       "note": "Author name as given on issue cover.  Renewal record gives pseudonymous last name as 'Munroe'.",
+       "author": {
+         "authorized": "Russell, Eric Frank, 1905-1978",
+         "using": "Duncan H. Munro",
+         "lcna": "n81062502"
+       }
+      },
+      {"issue": {"issue-date": "1952-09", "volume": "44", "number": "6"},
+       "title": "Island of the Hands",
+       "author": {
+          "authorized": "St. Clair, Margaret",
+          "lcna": "n85038071"
+       }
+      },
+      {"issue": {"issue-date": "1952-09", "volume": "44", "number": "6"},
+       "title": "Where To, Please?",
+       "authors": [
+         {"authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+          "lcna": "n80057222"},
+         {"authorized": "Pratt, Fletcher, 1897-1956",
+          "lcna": "n50021577"}
+       ]
+      },
+      {"issue": {"issue-date": "1952-09", "volume": "44", "number": "6"},
+       "title": "The Lost Path",
+       "author": {
+         "authorized": "Derleth, August, 1909-1971",
+         "lcna": "n50002948"
+       }
+      },
+      {"issue": {"issue-date": "1953-01", "volume": "44", "number": "8"},
+       "title": "Wet Straw",
+       "author": {
+        "authorized": "Matheson, Richard, 1926-2013",
+        "lcna": "n79068485"
+       }
+      },
+      {"issue": {"issue-date": "1953-01", "volume": "44", "number": "8"},
+       "title": "Sexton, Sexton, in the Wall",
+       "author": {
+         "authorized": "Derleth, August, 1909-1971",
+         "lcna": "n50002948"
+       }
+      },
+      {"issue": {"issue-date": "1953-03", "volume": "45", "number": "1"},
+       "title": "Slime",
+       "author": {
+         "authorized": "Brennan, Joseph Payne, 1918-1990",
+         "lcna": "n50044271"
+       }
+      },
+      {"issue": {"issue-date": "1953-03", "volume": "45", "number": "1"},
+       "title": "Caveat Emptor",
+       "note": "Pratt is credited along with De Camp in FictionMags, but only De Camp is mentioned in the online renewal record for this story. I have not examined the issue in question.",
+       "authors": [
+         {"authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+          "lcna": "n80057222"},
+         {"authorized": "Pratt, Fletcher, 1897-1956",
+          "lcna": "n50021577"}
+       ]
+      },
+      {"issue": {"issue-date": "1953-07", "volume": "45", "number": "3"},
+       "title": "Slaughter House",
+       "author": {
+        "authorized": "Matheson, Richard, 1926-2013",
+        "lcna": "n79068485"
+       }
+      },
+      {"issue": {"issue-date": "1953-07", "volume": "45", "number": "3"},
+       "title": "On the Elevator",
+       "author": {
+         "authorized": "Brennan, Joseph Payne, 1918-1990",
+         "lcna": "n50044271"
+       }
+      },
+      {"issue": {"issue-date": "1954-03", "volume": "46", "number": "1"},
+       "title": "Brenda",
+       "author": {
+          "authorized": "St. Clair, Margaret",
+          "lcna": "n85038071"
+       }
+      },
+      {"issue": {"issue-date": "1954-05", "volume": "46", "number": "2"},
+       "title": "The Place in the Woods",
+       "author": {
+         "authorized": "Derleth, August, 1909-1971",
+         "lcna": "n50002948"
+       }
       }
    ],
-   "comment": "Resume with the registered works database",
    "additional-note": "This magazine occasionally included reprints (which are often noted in the contents databases we link to here). We have not systematically surveyed the copyright status of stories reprinted in this magazine.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-01-13"
+   "last-updated": "2021-09-08"
 }

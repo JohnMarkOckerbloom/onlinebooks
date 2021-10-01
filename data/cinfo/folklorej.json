@@ -6,6 +6,10 @@
       {"url": "https://www.tandfonline.com/loi/rfol20",
       "note": "Official journal site (full text also available for subscription or payment)"}
    ],
+   "preceded-by": [
+     {"id": "archaeorev1888", "note": "The Archaeological Review"},
+     {"id": "folklorejou", "note": "The Folk-Lore Journal"}
+   ],
    "first-renewed-issue":  "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
@@ -15,5 +19,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-06-03"
+   "last-updated": "2021-09-16"
 }

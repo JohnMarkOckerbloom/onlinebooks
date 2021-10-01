@@ -1,0 +1,40 @@
+{
+   "title": "Startling Detective Adventures",
+   "online": "1",
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/CFI/link.asp?magid=STRDA",
+       "note": "FictionMags (selected issues)"}
+   ],
+   "first-issue":
+     {"issue-date": "1929-12", "volume": "4", "number": "19"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce",
+   "first-renewed-contribution":
+       {"issue": {"issue-date": "1933-11"}},
+   "first-renewed-contribution-source": "1960-JulDec",
+   "last-issue":
+     {"issue-date": "1941-09", "volume": "26", "number": "158"},
+   "succeeded-by": [{"id": "startdetect", "note": "Startling Detective"}],
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1933-11"},
+      "title": "The Maniac Mystery",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1933-12"},
+      "title": "The Death Trail",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2021-09-10"
+}

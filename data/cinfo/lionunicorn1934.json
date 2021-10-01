@@ -1,0 +1,26 @@
+{
+   "title": "The Lion and Unicorn",
+   "title-note": "New York, 1934",
+   "first-issue":
+     {"issue-date": "1934-October-November", "volume": "1", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce",
+   "first-renewed-contribution":
+      {"issue": {"issue-date": "1934-October-November"}},
+   "first-renewed-contribution-source": "1962-JanJun",
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+      {"issue": {"issue-date": "1934-October-November"},
+       "title": "Frost in October",
+       "author": {
+         "authorized": "Derleth, August, 1909-1971",
+         "lcna": "n50002948"
+       }
+      }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2021-09-11"
+}
