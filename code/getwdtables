@@ -137,9 +137,14 @@ sub query_wikidata {
     $queryURL .= "&format=${format}";
     $req = new HTTP::Request(GET=>$queryURL);
   }
+  # Seem to be having problems with cert verification, so turning off for now
+  # $ua->ssl_opts( "verify_hostname" => 0 );
   my $res = $ua->request($req);
-  my $str = $res->content;
-  return $str;
+  if ($res->is_success) {
+     return $res->content;
+  }
+  print STDERR $res->status_line, "\n";
+  exit 0;
 }
 
 sub make_idhash {
@@ -194,8 +199,11 @@ sub writetofile {
 
 
 my $agent = "DeepBackfile/0.1";
-my $data = JSON::decode_json(
-               query_wikidata($agent, $COPYRIGHT_ID_QUERY, "json"));
+my $response = query_wikidata($agent, $COPYRIGHT_ID_QUERY, "json");
+if ($response =~ /^C/) {
+  die ($response);
+}
+my $data = JSON::decode_json($response);
 my $idhash = make_idhash($data);
 packhashtofile($wikistage, $idhash);
 if (!shift_file("$idxdir$wikistage.hsh", "$idxdir$wikiprod.hsh",

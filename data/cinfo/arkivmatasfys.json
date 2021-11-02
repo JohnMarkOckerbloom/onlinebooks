@@ -5,7 +5,12 @@
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce",
-   "succeeded-by": [{"id": "arkivformat", "note": "Arkiv för Matematik"}],
+   "succeeded-by": [
+     {"id": "arkivforastro", "note": "Arkiv för Astronomi"},
+     {"id": "arkivforfysik", "note": "Arkiv för Fysik"},
+     {"id": "arkivforgeofys", "note": "Arkiv för Geofysik"},
+     {"id": "arkivformat", "note": "Arkiv för Matematik"}
+   ],
    "additional-note":
       "This is a Swedish publication. Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US.",
    "responsibility": {
@@ -14,5 +19,5 @@
    },
    "acknowledgement": 
       "Thanks to Peter Sullivan for copyright research on this title.",
-   "last-updated": "2020-09-17"
+   "last-updated": "2020-10-11"
 }

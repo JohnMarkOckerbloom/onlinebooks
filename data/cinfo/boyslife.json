@@ -707,7 +707,7 @@
       "title-note": "part 1 of 4",
       "note": "A 1980 renewal for the 1952 book of this title mentions the Boys' Life serialization, and may cover it as well.",
       "author": {
-         "authorized": " Brier, Howard M.",
+         "authorized": "Brier, Howard M.",
          "lcna": "no95043050"
       }
      },
@@ -716,7 +716,7 @@
       "title-note": "part 2 of 4",
       "note": "A 1980 renewal for the 1952 book of this title mentions the Boys' Life serialization, and may cover it as well.",
       "author": {
-         "authorized": " Brier, Howard M.",
+         "authorized": "Brier, Howard M.",
          "lcna": "no95043050"
       }
      },
@@ -731,7 +731,7 @@
       "title-note": "part 3 of 4",
       "note": "A 1980 renewal for the 1952 book of this title mentions the Boys' Life serialization, and may cover it as well.",
       "author": {
-         "authorized": " Brier, Howard M.",
+         "authorized": "Brier, Howard M.",
          "lcna": "no95043050"
       }
      },
@@ -747,9 +747,15 @@
       "title-note": "part 4 of 4",
       "note": "A 1980 renewal for the 1952 book of this title mentions the Boys' Life serialization, and may cover it as well.",
       "author": {
-         "authorized": " Brier, Howard M.",
+         "authorized": "Brier, Howard M.",
          "lcna": "no95043050"
       }
+     },
+     {"issue": {"issue-date": "1953-10"},
+        "title": "Wild Dogs of the Sourland",
+        "author": {
+           "name": "Keith Robertson"
+        }
      }
    ],
    "comment": "pick up with database, item 47 in date order",
@@ -757,5 +763,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-09-30"
+   "last-updated": "2021-10-01"
 }

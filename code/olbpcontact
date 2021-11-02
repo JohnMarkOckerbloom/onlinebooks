@@ -700,6 +700,7 @@ sub analyze_form {
       || $wref =~ /seoestore/
       || $comments =~ /getpeople.io/i
       || $comments =~ /yoga studio/i
+      || $comments =~ /sexlovers/i
       || $title =~ / michael kors /
       || $libname =~ / michael kors /
       || $libsite =~ /brinkster.net/) {

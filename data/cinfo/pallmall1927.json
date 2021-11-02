@@ -1,0 +1,24 @@
+{
+   "title": "Pall Mall Magazine",
+   "title-note": "1927-1929",
+   "preceded-by":
+      [{"id": "nashandpallmall",
+        "note": "Nash's and Pall Mall Magazine (1914-1927)"}],
+   "first-issue": {"issue-date": "1927-05", "volume": "1", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce",
+   "first-renewed-contribution": 
+    {"issue": {"issue-date": "1927-05", "volume": "1", "number": "1"}},
+   "first-renewed-contribution-source": "1954-JulDec",
+   "last-issue": {"issue-date": "1929-09", "volume": "5", "number": "5"},
+   "succeeded-by":
+      [{"id": "nashpallmall", "note": "Nash's-Pall Mall Magazine (1929-1937)"}],
+   "additional-note": "This is a British publication. Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US.",
+   "see-also":
+      [{"id": "pallmallmag", "note": "The Pall Mall Magazine (1893-1914)"}],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2021-10-14"
+}

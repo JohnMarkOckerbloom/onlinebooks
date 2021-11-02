@@ -5,7 +5,10 @@
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
-   "see-also": [{"id": "education", "note": "Education (American journal)"}],
+   "see-also": [
+     {"id": "education", "note": "Education (American journal)"},
+     {"id": "educommyrbk", "note": "The Education Committees Year Book"}
+   ],
    "additional-note": 
       "This is a British publication. Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US.",
    "responsibility": {
@@ -14,5 +17,5 @@
    },
    "acknowledgement": 
       "Thanks to Kelsey LeClair for copyright research on this title.",
-   "last-updated": "2021-09-01"
+   "last-updated": "2021-10-01"
 }

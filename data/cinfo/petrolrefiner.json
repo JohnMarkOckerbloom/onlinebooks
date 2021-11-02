@@ -1,0 +1,22 @@
+{
+   "title": "Petroleum Refiner",
+   "preceded-by":
+     [{"id": "refnatgasman",
+       "note": "Refiner and Natural Gasoline Manufacturer"}],
+   "first-issue": {"issue-date": "1942-08", "volume": "21", "number": "8"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce+database",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce+database",
+   "last-issue": {"issue-date": "1961-04", "volume": "40", "number": "4"},
+   "succeeded-by":
+     [{"id": "hcprocpetref",
+       "note": "Hydrocarbon Processing and Petroleum Refiner"}],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "acknowledgement": 
+      "Thanks to Felice Gollotti for copyright research on this title.",
+   "last-updated": "2021-10-06"
+}

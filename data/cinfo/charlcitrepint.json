@@ -1,11 +1,17 @@
 {
    "title": "Charles City Republican Intelligencer",
+   "online": "1",
+   "preceded-by":
+     [{"id": "stchcirepint",
+       "note": "St. Charles City Republican Intelligencer"}],
    "rights-statement": "NoC-US",
+   "succeeded-by":
+     [{"id": "charlcitintel", "note": "Charles City Intelligencer"}],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
    "acknowledgement": 
       "Thanks to Joe Kishman for copyright research on this title.",
-   "last-updated": "2021-09-30"
+   "last-updated": "2021-10-04"
 }

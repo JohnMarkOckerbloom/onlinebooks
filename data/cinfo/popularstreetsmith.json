@@ -1,6 +1,6 @@
 {
    "title": "The Popular Magazine",
-   "title-note": "Street and Smith",
+   "title-note": "Street and Smith, 1903-1931",
    "aka": ["The Popular", "The Popular Stories"],
    "online": "1",
    "contents": [
@@ -15,7 +15,8 @@
    "first-renewed-contribution-source": "1953-JulDec",
    "last-issue": {"issue-date": "1931-10", "volume": "103", "number": "6"},
    "see-also": [
-      {"id": "completestories", "note": "Complete Stories"}
+      {"id": "completestories", "note": "Complete Stories"},
+      {"id": "popular1937", "note": "The Popular (1937)"}
    ],
    "renewed-issue-completeness": "active/1927",
    "renewed-issues": [
@@ -239,5 +240,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-07-22"
+   "last-updated": "2021-10-05"
 }

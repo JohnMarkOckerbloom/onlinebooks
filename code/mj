@@ -38,6 +38,7 @@ my %ADJECTIVE = (
  "Ecuador" => "an Ecuadorian",
  "England" => "a British",
  "Egypt" => "an Egyptian",
+ "Estonia" => "an Estonian",
  "Finland" => "a Finnish",
  "France" => "a French",
  "Germany" => "a German",
@@ -60,6 +61,7 @@ my %ADJECTIVE = (
  "Nigeria" => "a Nigerian",
  "Norway" => "a Norwegian",
  "Pakistan" => "a Pakistani",
+ "Peru" => "a Peruvian",
  "Poland" => "a Polish",
  "Portugal" => "a Portuguese",
  "Romania" => "a Romanian",
@@ -77,6 +79,7 @@ my %ADJECTIVE = (
  "United Kingdom" => "a British",
  "Uruguay" => "an Uruguayan",
  "Venezuela" => "a Venezuelan",
+ "Wales" => "a Welsh",
  "Zimbabwe" => "a Zimbabwean",
 );
 
