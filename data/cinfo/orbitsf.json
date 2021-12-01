@@ -1,0 +1,89 @@
+{
+   "title": "Orbit Science Fiction",
+   "aka": ["Orbit"],
+   "title-note": "1953-1954",
+   "contents": [
+      {"url": "http://www.isfdb.org/cgi-bin/pe.cgi?19513",
+       "note": "ISFDB"},
+      {"url": "http://www.philsp.com/homeville/SFI/link.asp?magid=OSF",
+       "note": "Galactic Central"}
+   ],
+   "first-issue": {"issue-date": "1953", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "database",
+   "first-renewed-contribution":
+       {"issue": {"issue-date": "1953", "number": "1"}},
+   "first-renewed-contribution-source": "database",
+   "last-issue": {"issue-date": "1954-November-December", "number": "5"},
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1953", "number": "1"}, 
+      "title": "Fritzchen",
+      "author": {
+       "authorized": "Beaumont, Charles, 1929-1967",
+       "lcna": "n84200880"
+      }
+     },
+     {"issue": {"issue-date": "1953", "number": "2"}, 
+      "title": "Place of Meeting",
+      "author": {
+       "authorized": "Beaumont, Charles, 1929-1967",
+       "lcna": "n84200880"
+      }
+     },
+     {"issue": {"issue-date": "1954-July-August", "number": "3"},
+      "title": "Fellow of the Bees",
+      "author": {
+       "authorized": "Dickson, Gordon R.",
+       "lcna": "n79109204"
+      }
+     },
+     {"issue": {"issue-date": "1954-July-August", "number": "3"},
+      "title": "Hair of the Dog",
+      "author": {
+       "authorized": "Beaumont, Charles, 1929-1967",
+       "lcna": "n84200880"
+      }
+     },
+     {"issue": {"issue-date": "1954-July-August", "number": "3"},
+      "title": "The Ungrateful House",
+      "author": {
+        "authorized": "Derleth, August, 1909-1971",
+        "lcna": "n50002948"
+      }
+     },
+     {"issue": {"issue-date": "1954-September-October", "number": "4"},
+      "title": "Danger Past",
+      "author": {
+        "authorized": "Gunn, James E., 1923-",
+        "lcna": "n79068460"
+      }
+     },
+     {"issue": {"issue-date": "1954-September-October", "number": "4"},
+      "title": "The Thinker and the Thought",
+      "author": {
+        "authorized": "Derleth, August, 1909-1971",
+        "lcna": "n50002948"
+      }
+     },
+     {"issue": {"issue-date": "1954-November-December", "number": "5"},
+      "title": "The Queer Critter",
+      "author": {
+       "authorized": "Dickson, Gordon R.",
+       "lcna": "n79109204"
+      }
+     },
+     {"issue": {"issue-date": "1954-November-December", "number": "5"},
+      "title": "The Penfield Misadventure",
+      "author": {
+        "authorized": "Derleth, August, 1909-1971",
+        "lcna": "n50002948"
+      }
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2021-11-09"
+}

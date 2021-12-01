@@ -1,6 +1,10 @@
 {
    "title": "The Journal of the Institution of Electrical Engineers",
+   "online": "1",
    "title-note": "1889-1940",
+   "preceded-by": 
+     [{"id": "jsoctelengelec", 
+       "note": "Journal of the Society of Telegraph-Engineers and Electricians"}],
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": "none",
@@ -18,5 +22,5 @@
    },
    "acknowledgement": 
       "Thanks to Felice Gollotti for copyright research on this title.",
-   "last-updated": "2021-10-18"
+   "last-updated": "2021-11-08"
 }

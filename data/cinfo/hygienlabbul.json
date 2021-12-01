@@ -1,9 +1,12 @@
 {
    "title": "Hygienic Laboratory Bulletin",
+   "online": "1",
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce",
+   "succeeded-by":
+     [{"id": "nihbul1930", "note": "National Institute of Health Bulletin"}],
    "additional-note": "This is a US government publication.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
@@ -11,5 +14,5 @@
    },
    "acknowledgement": 
       "Thanks to Nat Bender for copyright research on this title.",
-   "last-updated": "2021-10-13"
+   "last-updated": "2021-11-22"
 }
