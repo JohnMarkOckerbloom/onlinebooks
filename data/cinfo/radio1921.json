@@ -2,13 +2,15 @@
    "title": "Radio",
    "title-note": "technically oriented magazine; 1921-1947",
    "online": "1",
+   "preceded-by": [{"id": "pacradionews", "note": "Pacific Radio News"}],
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce",
+   "succeeded-by": [{"id": "audioengrng", "note": "Audio Engineering"}],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-06-20"
+   "last-updated": "2021-12-15"
 }

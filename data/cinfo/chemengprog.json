@@ -1,5 +1,10 @@
 {
    "title": "Chemical Engineering Progress",
+   "preceded-by":
+     [{"id": "transaice",
+       "note": "Transactions of the American Institute of Chemical Engineers"}],
+   "first-issue":
+     {"issue-date": "1947-01", "volume": "43", "number": "1"},
    "first-renewed-issue":
      {"issue-date": "1961-07", "volume": "57", "number": "7"},
    "first-renewed-issue-source": "database",
@@ -11,5 +16,5 @@
    },
    "acknowledgement": 
       "Thanks to Joe Kishman for copyright research on this title.",
-   "last-updated": "2021-11-17"
+   "last-updated": "2021-12-21"
 }

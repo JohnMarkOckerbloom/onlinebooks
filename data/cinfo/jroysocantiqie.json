@@ -1,6 +1,9 @@
 {
    "title": "The Journal of the Royal Society of Antiquaries of Ireland",
    "online": "1",
+   "preceded-by":
+      [{"id": "jroyhistarchie",
+        "note": "The Journal of the Royal Historical and Archaeological Association of Ireland"}],
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
@@ -10,5 +13,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-01-13"
+   "last-updated": "2021-12-03"
 }

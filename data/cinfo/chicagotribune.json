@@ -1,6 +1,7 @@
 {
    "title": "Chicago Tribune",
    "aka": ["Chicago Daily Tribune", "Chicago Sunday Tribune"],
+   "online": "1",
    "see-also": [
       {"id": "chitribunemagbooks",
        "note": "Chicago Tribune Magazine of Books"}
@@ -698,5 +699,7 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-07-22"
+   "acknowledgement": 
+      "Thanks to Joe Kishman for copyright research on this title.",
+   "last-updated": "2021-12-21"
 }
