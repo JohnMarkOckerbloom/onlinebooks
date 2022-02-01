@@ -1,22 +1,18 @@
 {
    "title": "American Girl",
    "title-note": "Girl Scouts magazine, 1920-1979",
+   "online": "1",
+   "preceded-by": [{"id": "rally1917", "note": "The Rally"}],
+   "first-issue": 
+           {"issue-date": "1920-06", "volume": "3", "number": "9"},
    "first-renewed-issue": 
            {"issue-date": "1956-02", "volume": "39", "number": "2"},
    "first-renewed-issue-source": "database",
    "first-renewed-contribution": 
-      {"issue": {"issue-date": "1926-02"}},
-   "first-renewed-contribution-source": "1953-JanJun",
+      {"issue": {"issue-date": "1928-02"}},
+   "first-renewed-contribution-source": "1955-JanJun",
    "renewed-contribution-completeness": "active/1931",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1926-02", "cdate": "1926-01-21"},
-      "title": "Waul & Dyke, Inc.",
-      "title-note": "part 5 of 5",
-      "author": {
-       "authorized": "Eliot, Ethel Cook, 1890-1972",
-       "lcna": "n97107379"
-      }
-     },
      {"issue": {"issue-date": "1928-02"},
       "title": "Upstairs, Downstairs",
       "title-note": "part 1 of 5",
@@ -122,5 +118,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-01-16"
+   "last-updated": "2022-01-06"
 }

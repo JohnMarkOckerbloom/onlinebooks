@@ -2,28 +2,14 @@
    "title": "Vanity Fair",
    "online": "1",
    "first-renewed-issue": 
-      {"issue-date": "1926-02", "volume": "25", "number": "6",
-       "cdate": "1926-01-20"}, 
-   "first-renewed-issue-source": "1953-JulDec",
+      {"issue-date": "1927-02", "volume": "27", "number": "6",
+       "cdate": "1927-01-20"}, 
+   "first-renewed-issue-source": "1954-JulDec",
    "first-renewed-contribution":
-      {"issue": {"issue-date": "1926-03"}},
-   "first-renewed-contribution-source": "1953-JulDec",
+      {"issue": {"issue-date": "1927-02"}},
+   "first-renewed-contribution-source": "1954-JanJun",
    "renewed-issue-completeness": "active/1927",
    "renewed-issues": [
-      {"issue-date": "1926-02", "volume": "25", "number": "6",
-       "cdate": "1926-01-20"}, 
-      {"issue-date": "1926-03", "volume": "26", "number": "1"},
-      {"issue-date": "1926-04", "volume": "26", "number": "2"},
-      {"issue-date": "1926-05", "volume": "26", "number": "3"},
-      {"issue-date": "1926-06", "volume": "26", "number": "4"},
-      {"issue-date": "1926-07", "volume": "26", "number": "5"},
-      {"issue-date": "1926-08", "volume": "26", "number": "6"},
-      {"issue-date": "1926-09", "volume": "27", "number": "1"},
-      {"issue-date": "1926-10", "volume": "27", "number": "2"},
-      {"issue-date": "1926-11", "volume": "27", "number": "3"},
-      {"issue-date": "1926-12", "volume": "27", "number": "4"},
-      {"issue-date": "1927-01", "volume": "27", "number": "5",
-       "cdate": "1926-12-20"}, 
       {"issue-date": "1927-02", "volume": "27", "number": "6",
        "cdate": "1927-01-20"}, 
       {"issue-date": "1927-03", "volume": "28", "number": "1"},
@@ -53,69 +39,6 @@
    ],
    "renewed-contribution-completeness": "active/1933",
    "renewed-contributions" : [
-     {"issue": {"issue-date": "1926-03"},
-      "title": "Notes Out of a Man's Life",
-      "author": {
-       "authorized": "Anderson, Sherwood, 1876-1941",
-       "lcna": "n79045519"
-      }
-     },
-     {"issue": {"issue-date": "1926-06"},
-      "title": "An Antidote from de Bustun Tippotty",
-      "author": {
-       "authorized": "Gross, Milt, 1895-1953",
-       "lcna": "n82151528"
-      }
-     },
-     {"issue": {"issue-date": "1926-07"},
-      "title": "Hello, Big Boy",
-      "author": {
-       "authorized": "Anderson, Sherwood, 1876-1941",
-       "lcna": "n79045519"
-      }
-     },
-     {"issue": {"issue-date": "1926-08"},
-      "title": "New Orleans: A Prose Poem in the Expressionist Manner",
-      "author": {
-       "authorized": "Anderson, Sherwood, 1876-1941",
-       "lcna": "n79045519"
-      }
-     },
-     {"issue": {"issue-date": "1926-09"},
-      "title": "The South",
-      "author": {
-       "authorized": "Anderson, Sherwood, 1876-1941",
-       "lcna": "n79045519"
-      }
-     },
-     {"issue": {"issue-date": "1926-10"},
-      "title": "Chicago, A Feeling",
-      "author": {
-       "authorized": "Anderson, Sherwood, 1876-1941",
-       "lcna": "n79045519"
-      }
-     },
-     {"issue": {"issue-date": "1926-11"},
-      "title": "A Great Factory",
-      "author": {
-       "authorized": "Anderson, Sherwood, 1876-1941",
-       "lcna": "n79045519"
-      }
-     },
-     {"issue": {"issue-date": "1926-12"},
-      "title": "A Criminal's Christmas",
-      "author": {
-       "authorized": "Anderson, Sherwood, 1876-1941",
-       "lcna": "n79045519"
-      }
-     },
-     {"issue": {"issue-date": "1927-01"},
-      "title": "The Far West",
-      "author": {
-       "authorized": "Anderson, Sherwood, 1876-1941",
-       "lcna": "n79045519"
-      }
-     },
      {"issue": {"issue-date": "1927-02"},
       "title": "Prohibition",
       "author": {
@@ -539,10 +462,9 @@
       }
      }
    ],
-   "additional-note" : "Active contribution renewals are recorded beginning in the 1953 January-June CCE volume, but the earliest actively renewed contribution is noted in the 1953 July-December volume.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-07-19"
+   "last-updated": "2022-01-06"
 }

@@ -7,17 +7,10 @@
        {"issue-date": "1931-02", "volume": "7", "number": "1"},
    "first-renewed-issue-source": "1959-JanJun",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1926-03"}},
-   "first-renewed-contribution-source": "1953-JanJun",
+     {"issue": {"issue-date": "1941-November-December"}}, 
+   "first-renewed-contribution-source": "1969-JulDec",
    "renewed-contribution-completeness": "active/1949",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1926-03"}, 
-      "title": "The Cobbler's",
-      "author": {
-         "authorized": "Field, Rachel, 1894-1942",
-         "lcna": "n50023354"
-       }
-     },
      {"issue": {"issue-date": "1941-November-December"}, 
       "title": "Music My Rampart",
       "author": {
@@ -87,5 +80,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-03-21"
+   "last-updated": "2022-01-13"
 }

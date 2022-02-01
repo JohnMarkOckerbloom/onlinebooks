@@ -4,48 +4,10 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1926-04"}},
-   "first-renewed-contribution-source": "1953-JanJun",
+     {"issue": {"issue-date": "1927-02", "cdate": "1927-01-15"}}, 
+   "first-renewed-contribution-source": "1954-JulDec",
    "renewed-contribution-completeness": "active/1938",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1926-04"},
-      "title": "Love Laughs at Doctors",
-      "author": {
-       "authorized": "Duganne, Phyllis, 1899-1976",
-       "lcna": "n90719514"
-      }
-     },
-     {"issue": {"issue-date": "1926-07"}, 
-      "title": "Needed",
-      "note": "CCE files this renewal under Harold Hopper Titus (who was a philosophy professor, 1896-1984), though it is more likely to be Harold Titus (the novelist, 1888-1967)",
-      "author": {
-       "name": "Harold Titus"
-      }
-     },
-     {"issue": {"issue-date": "1926-11"}, 
-      "title": "Other Tomorrow",
-      "title-note": "part 1 of 6",
-      "author": {
-       "authorized": "Cohen, Octavus Roy, 1891-1959",
-       "lcna": "n87896297"
-      }
-     },
-     {"issue": {"issue-date": "1926-12"}, 
-      "title": "Other Tomorrow",
-      "title-note": "part 2 of 6",
-      "author": {
-       "authorized": "Cohen, Octavus Roy, 1891-1959",
-       "lcna": "n87896297"
-      }
-     },
-     {"issue": {"issue-date": "1927-01"}, 
-      "title": "Other Tomorrow",
-      "title-note": "part 3 of 6",
-      "author": {
-       "authorized": "Cohen, Octavus Roy, 1891-1959",
-       "lcna": "n87896297"
-      }
-     },
      {"issue": {"issue-date": "1927-02"}, 
       "title": "Other Tomorrow",
       "title-note": "part 4 of 6",
@@ -158,5 +120,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-07-19"
+   "last-updated": "2022-01-11"
 }

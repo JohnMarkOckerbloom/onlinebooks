@@ -3,19 +3,13 @@
    "online": "1",
    "first-issue": {"issue-date": "1925-04", "volume": "1", "number": "1"},
    "first-renewed-issue": 
-      {"issue-date": "1926-04", "volume": "2", "number": "2",
-       "cdate": "1926-03-13"},
-   "first-renewed-issue-source": "1954-JanJun",
-   "first-renewed-contribution": {"issue": {"issue-date": "1926-07"}},
-   "first-renewed-contribution-source": "1953-JanJun",
+      {"issue-date": "1927-04", "volume": "3", "number": "2",
+       "cdate": "1927-03-15"},
+   "first-renewed-issue-source": "1954-JulDec",
+   "first-renewed-contribution": {"issue": {"issue-date": "1927-04"}},
+   "first-renewed-contribution-source": "1954-JulDec",
    "renewed-issue-completeness": "active/1927",
    "renewed-issues": [
-      {"issue-date": "1926-04", "volume": "2", "number": "2",
-       "cdate": "1926-03-13"},
-      {"issue-date": "1926-07", "volume": "2", "number": "3"},
-      {"issue-date": "1926-10", "volume": "2", "number": "4"},
-      {"issue-date": "1927-01", "volume": "3", "number": "1",
-       "cdate": "1926-12-15"},
       {"issue-date": "1927-04", "volume": "3", "number": "2",
        "cdate": "1927-03-15"},
       {"issue-date": "1927-07", "volume": "3", "number": "3"},
@@ -29,20 +23,6 @@
    ],
    "renewed-contribution-completeness": "active/1928",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1926-07"},
-      "title": "In the Santee Swamp",
-      "author": {
-       "authorized": "Rutledge, Archibald, 1883-1973",
-       "lcna": "n50031762"
-      }
-     },
-     {"issue": {"issue-date": "1926-10"},
-      "title": "A Diamond Delta",
-      "author": {
-       "authorized": "Rutledge, Archibald, 1883-1973",
-       "lcna": "n50031762"
-      }
-     },
      {"issue": {"issue-date": "1927-04"},
       "title": "Feminine Traits in Wild Things",
       "author": {
@@ -102,9 +82,10 @@
         }
      }
    ],
+   "additional-note": "Active contribution renewals are recorded beginning in the 1954 January-June CCE volume, but the earliest actively renewed contribution is noted in the 1954 July-December volume.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-07-19"
+   "last-updated": "2022-01-02"
 }

@@ -3,13 +3,13 @@
    "online": "1",
    "contents": [
       {"url": "https://www.jstor.org/journal/militaryengineer",
-      "note": "JSTOR (full text also available; after 1925 may require subscription or payment)"}
+      "note": "JSTOR (full text also available; after 1926 may require subscription or payment)"}
    ],
    "preceded-by": [{"id": "profmemoirsace", "note": "Professional Memoirs"}],
    "first-issue":
      {"issue-date": "1920-January-February", "volume": "12", "number": "61"},
    "first-renewed-issue":
-     {"issue-date": "1926-March-April", "volume": "18", "number": "98"},
+     {"issue-date": "1927-January-February", "volume": "19", "number": "103"},
    "first-renewed-issue-source": "1954-JanJun",
    "first-autorenewed-issue":
      {"issue-date": "1964-January-February", "volume": "56", "number": "369"},
@@ -17,11 +17,6 @@
    "first-renewed-contribution-source": "cce+database",
    "renewed-issue-completeness": "active/1927",
    "renewed-issues": [
-     {"issue-date": "1926-March-April", "volume": "18", "number": "98"},
-     {"issue-date": "1926-May-June", "volume": "18", "number": "99"},
-     {"issue-date": "1926-July-August", "volume": "18", "number": "100"},
-     {"issue-date": "1926-September-October", "volume": "18", "number": "101"},
-     {"issue-date": "1926-November-December", "volume": "18", "number": "102"},
      {"issue-date": "1927-January-February", "volume": "19", "number": "103"},
      {"issue-date": "1927-March-April", "volume": "19", "number": "104"},
      {"issue-date": "1927-May-June", "volume": "19", "number": "105"},
@@ -39,5 +34,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-07-20"
+   "last-updated": "2022-01-08"
 }

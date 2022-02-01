@@ -2,25 +2,13 @@
    "title": "St. Nicholas Magazine",
    "online": "1",
    "first-renewed-issue": 
-     {"issue-date": "1926-01", "volume": "53", "number": "3"},
-   "first-renewed-issue-source": "1953-JulDec",
+     {"issue-date": "1927-01", "volume": "54", "number": "3"},
+   "first-renewed-issue-source": "1954-JulDec",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1926-08"}},
-   "first-renewed-contribution-source": "1953-JulDec",
+     {"issue": {"issue-date": "1927-10"}},
+   "first-renewed-contribution-source": "1954-JulDec",
    "renewed-issue-completeness": "active/1927",
    "renewed-issues": [
-     {"issue-date": "1926-01", "volume": "53", "number": "3"},
-     {"issue-date": "1926-02", "volume": "53", "number": "4"},
-     {"issue-date": "1926-03", "volume": "53", "number": "5"},
-     {"issue-date": "1926-04", "volume": "53", "number": "6"},
-     {"issue-date": "1926-05", "volume": "53", "number": "7"},
-     {"issue-date": "1926-06", "volume": "53", "number": "8"},
-     {"issue-date": "1926-07", "volume": "53", "number": "9"},
-     {"issue-date": "1926-08", "volume": "53", "number": "10"},
-     {"issue-date": "1926-09", "volume": "53", "number": "11"},
-     {"issue-date": "1926-10", "volume": "53", "number": "12"},
-     {"issue-date": "1926-11", "volume": "54", "number": "1"},
-     {"issue-date": "1926-12", "volume": "54", "number": "2"},
      {"issue-date": "1927-01", "volume": "54", "number": "3"},
      {"issue-date": "1927-02", "volume": "54", "number": "4"},
      {"issue-date": "1927-03", "volume": "54", "number": "5"},
@@ -48,55 +36,6 @@
    ],
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1926-08"}, 
-      "title": "Cranberry Road",
-      "author": {
-         "authorized": "Field, Rachel, 1894-1942",
-         "lcna": "n50023354"
-       }
-     },
-     {"issue": {"issue-date": "1926-08"}, 
-      "title": "The Cuckoo-Clock Shop",
-      "author": {
-         "authorized": "Field, Rachel, 1894-1942",
-         "lcna": "n50023354"
-       }
-     },
-     {"issue": {"issue-date": "1926-08"}, 
-      "title": "General Store",
-      "author": {
-         "authorized": "Field, Rachel, 1894-1942",
-         "lcna": "n50023354"
-       }
-     },
-     {"issue": {"issue-date": "1926-08"}, 
-      "title": "Houses",
-      "author": {
-         "authorized": "Field, Rachel, 1894-1942",
-         "lcna": "n50023354"
-       }
-     },
-     {"issue": {"issue-date": "1926-08"}, 
-      "title": "If Once You Have Slept on an Island",
-      "author": {
-         "authorized": "Field, Rachel, 1894-1942",
-         "lcna": "n50023354"
-       }
-     },
-     {"issue": {"issue-date": "1926-08"}, 
-      "title": "Parrots",
-      "author": {
-         "authorized": "Field, Rachel, 1894-1942",
-         "lcna": "n50023354"
-       }
-     },
-     {"issue": {"issue-date": "1926-08"}, 
-      "title": "What? No More Witches in New York",
-      "author": {
-         "authorized": "Field, Rachel, 1894-1942",
-         "lcna": "n50023354"
-       }
-     },
      {"issue": {"issue-date": "1927-10"},
         "title": "The Story of Louise's Garden",
         "author": {
@@ -269,5 +208,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-07-19"
+   "last-updated": "2022-01-12"
 }

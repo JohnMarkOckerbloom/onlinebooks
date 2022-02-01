@@ -1,0 +1,20 @@
+{
+   "title": "The American Review of Tuberculosis",
+   "online": "1",
+   "first-issue": {"issue-date": "1917-03", "volume": "1", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce+database",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce+database",
+   "last-issue": {"issue-date": "1954-12", "volume": "70", "number": "6"},
+   "succeeded-by":
+     [{"id": "amrevtuberpul",
+       "note": "The American Review of Tuberculosis and Pulmonary Diseases"}],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "acknowledgement": 
+      "Thanks to Peter Sullivan for copyright research on this title.",
+   "last-updated": "2022-01-11"
+}

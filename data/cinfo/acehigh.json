@@ -1,6 +1,5 @@
 {
    "title": "Ace-High Magazine",
-   "online": "1",
    "aka": ["Ace-High Western Magazine", "Ace-High Western Stories"],
    "contents": [
       {"url": "http://www.philsp.com/homeville/WFI/link.asp?magid=ACEHI",
@@ -14,8 +13,8 @@
       {"issue-date": "1936-08", "series": "new", "volume": "1", "number": "1"},
    "first-renewed-issue-source": "1963-JulDec",
    "first-renewed-contribution": 
-      {"issue": {"issue-date": "1926-12-18", "volume": "33", "number": "4"}},
-   "first-renewed-contribution-source": "1954-JanJun",
+      {"issue": {"issue-date": "1930-10-10", "volume": "56", "number": "4"}},
+   "first-renewed-contribution-source": "1958-JulDec",
    "renewed-issue-completeness": "active/end",
    "renewed-issues": [
       {"issue-date": "1936-08", "volume": "1", "number": "1"},
@@ -113,20 +112,6 @@
    ],
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1926-12-18", "volume": "33", "number": "4"},
-      "title": "The Meandering Trail",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1927-01-18", "volume": "34", "number": "2"},
-      "title": "The Game Winner",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
      {"issue": {"issue-date": "1930-10-10", "volume": "56", "number": "4"},
         "title": "Pecos on the Prod",
         "author": {
@@ -468,10 +453,13 @@
      }
    ],
    "last-issue": {"issue-date": "1951-06", "volume": "24", "number": "3"},
-   "additional-note": "Publication was suspended after the January 1935 issue until the August 1936 issue,  At that point, volume numbering reset to 1 and the title changed to 'Ace-High Western Magazine' to distinguish it from the spinoff 'Ace-High Detective Magazine'.  Title reverted to 'Ace-High Magazine' beginning with the March 1937 issue. Volume numbering went to 80 in the November 1937 issue, and then reset to 1 in 1940, the year the title changed to 'Ace-High Western Stories', used until publication ceased in 1951.",
+   "additional-notes": [
+      "Active contribution renewals are recorded beginning in the 1958 January-June CCE volume, but the earliest renewed contribution is noted in the 1958 July-December volume.",
+      "Publication was suspended after the January 1935 issue until the August 1936 issue,  At that point, volume numbering reset to 1 and the title changed to 'Ace-High Western Magazine' to distinguish it from the spinoff 'Ace-High Detective Magazine'.  Title reverted to 'Ace-High Magazine' beginning with the March 1937 issue. Volume numbering went to 80 in the November 1937 issue, and then reset to 1 in 1940, the year the title changed to 'Ace-High Western Stories', used until publication ceased in 1951."
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-03-11"
+   "last-updated": "2022-01-04"
 }

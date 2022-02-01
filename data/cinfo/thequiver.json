@@ -4,28 +4,10 @@
    "online": "1",
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
-   "first-renewed-contribution": {"issue-date": "1926-05"},
-   "first-renewed-contribution-source": "1953-JulDec",
+   "first-renewed-contribution": {"issue": {"issue-date": "1927-05"}},
+   "first-renewed-contribution-source": "1954-JulDec",
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1926-05"},
-      "title": "The Proper Place",
-      "title-note": "chapters 29-34, installment 1 of 2",
-      "note": "Author is Anna Buchan writing under a pseudonym.",
-      "author": {
-        "authorized": "Douglas, O.",
-        "lcna": "n86865734"
-      }
-     },
-     {"issue": {"issue-date": "1926-06"},
-      "title": "The Proper Place",
-      "title-note": "chapters 29-34, installment 2 of 2",
-      "note": "Author is Anna Buchan writing under a pseudonym.",
-      "author": {
-        "authorized": "Douglas, O.",
-        "lcna": "n86865734"
-      }
-     },
      {"issue": {"issue-date": "1927-05"},
       "title": "Thunderstorm",
       "title-note": "The Gift in the Gauntlet, chapters 30-33",
@@ -59,5 +41,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-01-22"
+   "last-updated": "2022-01-06"
 }

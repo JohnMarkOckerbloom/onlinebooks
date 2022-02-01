@@ -2,29 +2,16 @@
    "title": "Country Gentleman",
    "online": "1",
    "first-renewed-issue": 
-     {"issue-date": "1926-02", "volume": "91", "number": "2",
-      "cdate": "1926-01-28"},
-   "first-renewed-issue-source": "1953-JulDec",
+     {"issue-date": "1927-02", "volume": "92", "number": "2",
+      "cdate": "1927-01-26"},
+   "first-renewed-issue-source": "1954-JulDec",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1926-02", "volume": "91", "number": "2"}},
-   "first-renewed-contribution-source": "1953-JanJun",
+     {"issue": {"issue-date": "1927-02", "volume": "92", "number": "2"}},
+   "first-renewed-contribution-source": "1954-JanJun",
    "renewed-issue-completeness": "active/1927",
    "renewed-issues": [
-     {"issue-date": "1926-02", "volume": "91", "number": "2",
-      "cdate": "1926-01-28"},
-     {"issue-date": "1926-03", "volume": "91", "number": "3"},
-     {"issue-date": "1926-04", "volume": "91", "number": "4"},     
-     {"issue-date": "1926-05", "volume": "91", "number": "5"},
-     {"issue-date": "1926-06", "volume": "91", "number": "6"},
-     {"issue-date": "1926-07", "volume": "91", "number": "7"},
-     {"issue-date": "1926-08", "volume": "91", "number": "8"},
-     {"issue-date": "1926-09", "volume": "91", "number": "9"},
-     {"issue-date": "1926-10", "volume": "91", "number": "10"},
-     {"issue-date": "1926-11", "volume": "91", "number": "11"},
-     {"issue-date": "1926-12", "volume": "91", "number": "12"},
-     {"issue-date": "1927-01", "volume": "92", "number": "1",
-      "cdate": "1926-12-30"},
-     {"issue-date": "1927-02", "volume": "92", "number": "2"},
+     {"issue-date": "1927-02", "volume": "92", "number": "2",
+      "cdate": "1927-01-26"},
      {"issue-date": "1927-03", "volume": "92", "number": "3"},
      {"issue-date": "1927-04", "volume": "92", "number": "4"},     
      {"issue-date": "1927-05", "volume": "92", "number": "5"},
@@ -47,93 +34,6 @@
    ],
    "renewed-contribution-completeness": "active/1931",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1926-02"},
-       "title": "Trimmed With Feathers",
-       "author": {
-         "authorized": "Adams, Samuel Hopkins, 1871-1958",
-         "lcna": "n50037535"
-       }
-     },
-     {"issue": {"issue-date": "1926-04"}, 
-      "title": "Shooting the Rogue",
-      "title-note": "part 1 of 2",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1926-05"},
-      "title": "The Sobbin' Women",
-      "author": {
-       "authorized": "Benét, Stephen Vincent, 1898-1943",
-       "lcna": "n50007691"
-      }
-     },
-     {"issue": {"issue-date": "1926-04"}, 
-      "title": "Shooting the Rogue",
-      "title-note": "part 2 of 2",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1926-06"},
-      "title": "The Thunderer",
-      "title-note": "part 1 of 4",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1926-07"},
-      "title": "The Thunderer",
-      "title-note": "part 2 of 4",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1926-08"},
-      "title": "The Thunderer",
-      "title-note": "part 3 of 4",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1926-09"},
-      "title": "The Thunderer",
-      "title-note": "part 4 of 4",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1926-10"}, 
-      "title": "Sirocco",
-      "author": {
-       "authorized": "Bercovici, Konrad, 1882-1961",
-       "lcna": "n50006835"
-      }
-     },
-     {"issue": {"issue-date": "1926-11"},
-      "title": "Miss Willie Lou and the Swan",
-      "author": {
-       "authorized": "Benét, Stephen Vincent, 1898-1943",
-       "lcna": "n50007691"
-      }
-     },
-     {"issue": {"issue-date": "1927-01"}, 
-      "title": "Sheep Raising in New Zealand",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
      {"issue": {"issue-date": "1927-02"}, 
       "title": "My Son's First Bear",
       "author": {
@@ -744,5 +644,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-07-19"
+   "last-updated": "2022-01-07"
 }

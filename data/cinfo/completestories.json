@@ -16,8 +16,9 @@
    ],
    "first-issue": {"issue-date": "1924-01-01", "volume": "1", "number": "1"},
    "first-renewed-issue": 
-     {"issue-date": "1926-01-10", "volume": "6", "number": "4"},
-   "first-renewed-issue-source": "1953-JanJun",
+     {"issue-date": "1927-02", "volume": "10", "number": "1",
+      "cdate": "1927-01-14"},
+   "first-renewed-issue-source": "1954-JanJun",
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1927-11"}},
    "first-renewed-contribution-source": "1954-JulDec",
@@ -25,24 +26,6 @@
      {"issue-date": "1937-September-October", "volume": "43", "number": "1"},
    "renewed-issue-completeness": "active/1927",
    "renewed-issues": [
-     {"issue-date": "1926-01-10", "volume": "6", "number": "4"},
-     {"issue-date": "1926-01-25", "volume": "6", "number": "5"},
-     {"issue-date": "1926-04-10", "volume": "7", "number": "4"},
-     {"issue-date": "1926-04-25", "volume": "7", "number": "5"},
-     {"issue-date": "1926-05-10", "volume": "7", "number": "6"},
-     {"issue-date": "1926-05-25", "volume": "8", "number": "1"},
-     {"issue-date": "1926-06-10", "volume": "8", "number": "2"},
-     {"issue-date": "1926-06-25", "volume": "8", "number": "3"},
-     {"issue-date": "1926-07-10", "volume": "8", "number": "4"},
-     {"issue-date": "1926-07-25", "volume": "8", "number": "5"},
-     {"issue-date": "1926-08-10", "volume": "8", "number": "6"},
-     {"issue-date": "1926-08-25", "volume": "9", "number": "1"},
-     {"issue-date": "1926-09-10", "volume": "9", "number": "2"},
-     {"issue-date": "1926-09-25", "volume": "9", "number": "3"},
-     {"issue-date": "1926-11", "volume": "9", "number": "4"},
-     {"issue-date": "1926-12", "volume": "9", "number": "5"},
-     {"issue-date": "1927-01", "volume": "9", "number": "6",
-      "cdate": "1926-12-15"},
      {"issue-date": "1927-02", "volume": "10", "number": "1",
       "cdate": "1927-01-14"},
      {"issue-date": "1927-03", "volume": "10", "number": "2"},
@@ -136,5 +119,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-07-22"
+   "last-updated": "2022-01-07"
 }

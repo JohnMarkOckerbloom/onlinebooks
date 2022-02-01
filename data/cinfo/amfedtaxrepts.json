@@ -2,17 +2,29 @@
    "title": "American Federal Tax Reports",
    "online": "1",
    "first-renewed-issue":
-     {"cdate": "1926-02-26", "volume": "5", "number": "5"},
-   "first-renewed-issue-source": "1953-JanJun",
+     {"cdate": "1927-01-22", "volume": "5", "number": "whole volume edition"},
+   "first-renewed-issue-source": "1954-JanJun",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
+   "renewed-issue-completeness": "active/1927",
+   "renewed-issues": [
+     {"cdate": "1927-01-22", "volume": "5", "number": "whole volume edition"},
+     {"cdate": "1927-02-23", "volume": "6", "number": "1"},
+     {"issue-date": "1927-05", "volume": "6", "number": "2"},
+     {"issue-date": "1927-08", "volume": "6", "number": "3"},
+     {"issue-date": "1927-11", "volume": "6", "number": "4"},
+     {"issue-date": "1928-02", "volume": "6", "number": "5"},
+     {"issue-date": "1928-08", "volume": "6", "number": "7"},
+     {"issue-date": "1928-11", "volume": "6", "number": "8"},
+     {"cdate": "1928-12-24", "volume": "6", "number": "whole volume edition"}
+   ],
    "additional-notes": [
-      "Issue renewals appear in the Books section of CCE rather than in the Periodicals section.",
+      "Issue renewals appear in the Books section of CCE rather than in the Periodicals section. Some are first published as individual numbers, and then as part of a revised whole-volume edition. The oldest whole volume edition with an active copyright is volume 5; the oldest single issue with one is volume 6 number 1.",
       "Contents of this serial may be reprinted from other West publications."
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-01-16"
+   "last-updated": "2022-01-05"
 }

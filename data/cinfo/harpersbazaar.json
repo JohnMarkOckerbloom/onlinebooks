@@ -4,26 +4,14 @@
    "online": "1",
    "first-issue": {"issue-date": "1867-11-02", "volume": "1", "number": "1"},
    "first-renewed-issue": 
-     {"issue-date": "1926-02", "cdate": "1926-01-25"},
-   "first-renewed-issue-source": "1953-JulDec",
+     {"issue-date": "1927-02", "volume": "61", "number": "2",
+      "cdate": "1927-01-29"},
+   "first-renewed-issue-source": "1954-JulDec",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1926-02"}}, 
-   "first-renewed-contribution-source": "1953-JanJun",
+     {"issue": {"issue-date": "1927-06"}}, 
+   "first-renewed-contribution-source": "1955-JanJun",
    "renewed-issue-completeness": "active/1927",
    "renewed-issues": [
-     {"issue-date": "1926-02", "cdate": "1926-01-25"},
-     {"issue-date": "1926-03"},
-     {"issue-date": "1926-04", "volume": "60", "number": "4"},
-     {"issue-date": "1926-05", "volume": "60", "number": "5"},
-     {"issue-date": "1926-06", "volume": "60", "number": "6"},
-     {"issue-date": "1926-07", "volume": "60", "number": "7"},
-     {"issue-date": "1926-08", "volume": "60", "number": "8"},
-     {"issue-date": "1926-09", "volume": "60", "number": "9"},
-     {"issue-date": "1926-10", "volume": "60", "number": "10"},
-     {"issue-date": "1926-11", "volume": "60", "number": "11"},
-     {"issue-date": "1926-12", "volume": "60", "number": "12"},
-     {"issue-date": "1927-01", "volume": "61", "number": "1",
-      "cdate": "1926-12-28"},
      {"issue-date": "1927-02", "volume": "61", "number": "2",
       "cdate": "1927-01-29"},
      {"issue-date": "1927-03", "volume": "61", "number": "3"},
@@ -44,96 +32,6 @@
    ],
    "renewed-contribution-completeness": "active/1930",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1926-02"}, 
-      "title": "The Sign of the Crooked Cross",
-      "author": {
-       "authorized": "Gibbs, Philip, 1877-1962",
-       "lcna": "n85232177"
-      }
-     },
-     {"issue": {"issue-date": "1926-03"}, 
-      "title": "Tampico",
-      "title-note": "part 1 of 6",
-      "author": {
-       "authorized": "Hergesheimer, Joseph, 1880-1954",
-       "lcna": "n50034979"
-      }
-     },
-     {"issue": {"issue-date": "1926-04"}, 
-      "title": "Tampico",
-      "title-note": "part 2 of 6",
-      "author": {
-       "authorized": "Hergesheimer, Joseph, 1880-1954",
-       "lcna": "n50034979"
-      }
-     },
-     {"issue": {"issue-date": "1926-05"}, 
-      "title": "Tampico",
-      "title-note": "part 3 of 6",
-      "author": {
-       "authorized": "Hergesheimer, Joseph, 1880-1954",
-       "lcna": "n50034979"
-      }
-     },
-     {"issue": {"issue-date": "1926-06"}, 
-      "title": "Tampico",
-      "title-note": "part 4 of 6",
-      "author": {
-       "authorized": "Hergesheimer, Joseph, 1880-1954",
-       "lcna": "n50034979"
-      }
-     },
-     {"issue": {"issue-date": "1926-06"},
-      "title": "Portrait of a Gentleman",
-      "author": {
-         "authorized": "Arlen, Michael, 1895-1956",
-         "lcna": "n50001591"
-       }
-     },
-     {"issue": {"issue-date": "1926-07"}, 
-      "title": "Tampico",
-      "title-note": "part 5 of 6",
-      "author": {
-       "authorized": "Hergesheimer, Joseph, 1880-1954",
-       "lcna": "n50034979"
-      }
-     },
-     {"issue": {"issue-date": "1926-08"}, 
-      "title": "Tampico",
-      "title-note": "part 6 of 6",
-      "author": {
-       "authorized": "Hergesheimer, Joseph, 1880-1954",
-       "lcna": "n50034979"
-      }
-     },
-     {"issue": {"issue-date": "1926-09"},
-       "title": "The Duchess and Lady Torrent",
-       "author": {
-        "authorized": "Mason, A. E. W. (Alfred Edward Woodley), 1865-1948",
-        "lcna": "n50043662"
-       }
-     },
-     {"issue": {"issue-date": "1926-09"},
-      "title": "The Closed Shop",
-      "author": {
-       "authorized": "Maugham, W. Somerset (William Somerset), 1874-1965",
-       "lcna": "n79036830"
-      }
-     },
-     {"issue": {"issue-date": "1926-10"},
-      "title": "The Creative Impulse",
-      "author": {
-       "authorized": "Maugham, W. Somerset (William Somerset), 1874-1965",
-       "lcna": "n79036830"
-      }
-     },
-     {"issue": {"issue-date": "1926-12"},
-       "title": "The Strange Case of Joan",
-       "author": {
-        "authorized": "Mason, A. E. W. (Alfred Edward Woodley), 1865-1948",
-        "lcna": "n50043662"
-       }
-     },
      {"issue": {"issue-date": "1927-06"}, 
       "title": "Old Charleston",
       "author": {
@@ -477,5 +375,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-07-20"
+   "last-updated": "2022-01-06"
 }

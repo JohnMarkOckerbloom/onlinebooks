@@ -7,109 +7,11 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": 
-      {"issue": {"issue-date": "1926-05"}}, 
-   "first-renewed-contribution-source": "1953-JulDec",
+      {"issue": {"issue-date": "1927-02", "cdate": "1927-01-28"}}, 
+   "first-renewed-contribution-source": "1955-JanJun",
    "last-issue": {"issue-date": "1942-06", "volume": "82", "number": "2"},
    "renewed-contribution-completeness": "active/1929",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1926-05"}, 
-      "title": "Kindred of the Barn and Pasture",
-      "author": {
-       "authorized": "Dyer, Walter A. (Walter Alden), 1878-1943",
-       "lcna": "nr90004051"
-      }
-     },
-     {"issue": {"issue-date": "1926-06"}, 
-      "title": "Nearest of Kin",
-      "author": {
-       "authorized": "Dyer, Walter A. (Walter Alden), 1878-1943",
-       "lcna": "nr90004051"
-      }
-     },
-     {"issue": {"issue-date": "1926-07"}, 
-      "title": "Kindred of Quack and Cackle",
-      "author": {
-       "authorized": "Dyer, Walter A. (Walter Alden), 1878-1943",
-       "lcna": "nr90004051"
-      }
-     },
-     {"issue": {"issue-date": "1926-07"}, 
-      "title": "The Great American Pastime",
-      "author": {
-       "authorized": "Townsend, Reginald T. (Reginald Townsend), 1890-",
-       "lcna": "no98087493"
-      }
-     },
-     {"issue": {"issue-date": "1926-08"}, 
-      "title": "Kindred of the Hearthside",
-      "author": {
-       "authorized": "Dyer, Walter A. (Walter Alden), 1878-1943",
-       "lcna": "nr90004051"
-      }
-     },
-     {"issue": {"issue-date": "1926-08"}, 
-      "title": "The Lure of the Auction",
-      "author": {
-       "authorized": "Townsend, Reginald T. (Reginald Townsend), 1890-",
-       "lcna": "no98087493"
-      }
-     },
-     {"issue": {"issue-date": "1926-09"}, 
-      "title": "Kindred of the Tree-Tops",
-      "author": {
-       "authorized": "Dyer, Walter A. (Walter Alden), 1878-1943",
-       "lcna": "nr90004051"
-      }
-     },
-     {"issue": {"issue-date": "1926-09"}, 
-      "title": "The Itinerant Antiquer Traverses Pennsylvania",
-      "author": {
-       "authorized": "Guild, Lurelle Van Arsdale, 1898-1985",
-       "lcna": "nr00037164"
-      }
-     },
-     {"issue": {"issue-date": "1926-09"}, 
-      "title": "Concerning Antiques",
-      "author": {
-       "authorized": "Townsend, Reginald T. (Reginald Townsend), 1890-",
-       "lcna": "no98087493"
-      }
-     },
-     {"issue": {"issue-date": "1926-10"}, 
-      "title": "Kindred of the Woods and Fields",
-      "author": {
-       "authorized": "Dyer, Walter A. (Walter Alden), 1878-1943",
-       "lcna": "nr90004051"
-      }
-     },
-     {"issue": {"issue-date": "1926-10"}, 
-      "title": "Sky-Lines",
-      "author": {
-       "authorized": "Townsend, Reginald T. (Reginald Townsend), 1890-",
-       "lcna": "no98087493"
-      }
-     },
-     {"issue": {"issue-date": "1926-11"}, 
-      "title": "In Praise of Dawn",
-      "author": {
-       "authorized": "Townsend, Reginald T. (Reginald Townsend), 1890-",
-       "lcna": "no98087493"
-      }
-     },
-     {"issue": {"issue-date": "1926-12"}, 
-      "title": "The Same Old Christmas",
-      "author": {
-       "authorized": "Townsend, Reginald T. (Reginald Townsend), 1890-",
-       "lcna": "no98087493"
-      }
-     },
-     {"issue": {"issue-date": "1927-01"}, 
-      "title": "The Open Season for Art",
-      "author": {
-       "authorized": "Townsend, Reginald T. (Reginald Townsend), 1890-",
-       "lcna": "no98087493"
-      }
-     },
      {"issue": {"issue-date": "1927-02"}, 
       "title": "Trophies",
       "author": {
@@ -227,5 +129,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-07-22"
+   "last-updated": "2022-01-07"
 }

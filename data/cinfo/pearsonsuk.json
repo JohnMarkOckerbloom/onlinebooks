@@ -12,43 +12,11 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": 
-      {"issue": {"issue-date": "1926-05", "volume": "61", "number": "365"}},
-   "first-renewed-contribution-source": "1953-JulDec",
+     {"issue": {"issue-date": "1927-02", "volume": "63", "number": "374"}},
+   "first-renewed-contribution-source": "1954-JulDec",
    "last-issue": {"issue-date": "1939-11", "volume": "88", "number": "527"},
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1926-05", "volume": "61", "number": "365"},
-      "title": "The Rout of the Oliver Samuelsons",
-      "note": "Author name is a pseudonym for H. C. McNeile.",
-      "author": {
-       "authorized": "Sapper, 1888-1937",
-       "lcna": "n85822242"
-      }
-     },
-     {"issue": {"issue-date": "1926-06", "volume": "61", "number": "366"},
-      "title": "The Eleventh Hour",
-      "note": "Author name is a pseudonym for H. C. McNeile.",
-      "author": {
-       "authorized": "Sapper, 1888-1937",
-       "lcna": "n85822242"
-      }
-     },
-     {"issue": {"issue-date": "1926-08", "volume": "62", "number": "368"},
-      "title": "The Taming of Sydney Marsham",
-      "note": "Author name is a pseudonym for H. C. McNeile.",
-      "author": {
-       "authorized": "Sapper, 1888-1937",
-       "lcna": "n85822242"
-      }
-     },
-     {"issue": {"issue-date": "1926-11", "volume": "62", "number": "371"},
-      "title": "Billie Finds the Answer",
-      "note": "Author name is a pseudonym for H. C. McNeile.",
-      "author": {
-       "authorized": "Sapper, 1888-1937",
-       "lcna": "n85822242"
-      }
-     },
      {"issue": {"issue-date": "1927-02", "volume": "63", "number": "374"},
       "title": "When Carruthers Laughed",
       "note": "Author name is a pseudonym for H. C. McNeile.",
@@ -146,10 +114,12 @@
       }
      }
    ],
-   "additional-note" : "This is a British publication.  Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US. There was also an American Pearson's magazine published from 1899 to 1925, but it did not always publish the same content at the same time.",
+   "additional-notes": [
+     "This is a British publication.  Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US.",
+     "There is a renewed 1927 registration for 'Bille Finds the Answer' by H. C. McNeile published in the November 1926 issue of Pearson's.  We are not sure this copyright is still in force in the US, but we mention it here for completeness."],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-01-13"
+   "last-updated": "2022-01-14"
 }

@@ -10,19 +10,13 @@
    "first-issue":
       {"issue-date": "1923-03", "volume": "1", "number": "1"},
    "first-renewed-issue":
-      {"issue-date": "1926-02", "volume": "7", "number": "2",
-       "cdate": "1926-01-01"},
-   "first-renewed-issue-source": "1953-JanJun",
+      {"issue-date": "1928-04", "volume": "11", "number": "4"},
+   "first-renewed-issue-source": "1956-JanJun",
    "first-renewed-contribution": 
-      {"issue": {"issue-date": "1926-08", "volume": "8", "number": "2"}}, 
-   "first-renewed-contribution-source": "1953-JulDec",
+      {"issue": {"issue-date": "1929-06", "volume": "13", "number": "6"}},
+   "first-renewed-contribution-source": "1957-JanJun",
    "renewed-issue-completeness": "active/autorenewals",
    "renewed-issues": [
-      {"issue-date": "1926-02", "volume": "7", "number": "2",
-       "cdate": "1926-01-01"},
-      {"issue-date": "1926-03", "volume": "7", "number": "3"},
-      {"issue-date": "1926-04", "volume": "7", "number": "4"},
-      {"issue-date": "1926-05", "volume": "7", "number": "5"},
       {"issue-date": "1928-04", "volume": "11", "number": "4"},
       {"issue-date": "1928-05", "volume": "11", "number": "5"},
       {"issue-date": "1930-04", "volume": "15", "number": "4"},
@@ -78,13 +72,6 @@
    ],
    "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
-       {"issue": {"issue-date": "1926-08", "volume": "8", "number": "2"}, 
-        "title": "The Woman of the Wood",
-        "author": {
-         "authorized": "Merritt, Abraham, 1884-1943",
-         "lcna": "n50036727"
-        }
-       },
       {"issue": {"issue-date": "1929-06", "volume": "13", "number": "6"},
        "title": "The House on the Highway",
        "author": {
@@ -2186,5 +2173,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-09-08"
+   "last-updated": "2022-01-06"
 }

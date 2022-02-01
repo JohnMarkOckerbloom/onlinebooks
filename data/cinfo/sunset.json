@@ -5,31 +5,10 @@
     {"issue-date": "1929-02", "volume": "62", "number": "2"},
    "first-renewed-issue-source": "1957-JanJun",
    "first-renewed-contribution":
-      {"issue": {"issue-date": "1926-04"}},
+      {"issue": {"issue-date": "1927-02"}},
    "first-renewed-contribution-source": "1954-JanJun",
    "renewed-contribution-completeness": "active/1949",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1926-04"},
-      "title": "Log of the Gladiator",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1926-05"},
-      "title": "The Passing Alaskan",
-      "author": {
-         "authorized": "Willoughby, Barrett, -1959",
-         "lcna": "n94074965"
-      }
-     },
-     {"issue": {"issue-date": "1926-06"},
-      "title": "Now Listen",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-      }
-     },
      {"issue": {"issue-date": "1927-02"},
       "title": "This Man and This Woman",
       "title-note": "part 1 of 5",
@@ -120,10 +99,9 @@
      }
    ],
    "comment" : "For contribution renewals, pick up with the works database.",
-   "additional-note" : "Active contribution renewals are recorded beginning in the 1953 July-December CCE volume, but the earliest actively renewed contribution is noted in the 1954 January-June volume.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-03-17"
+   "last-updated": "2022-01-12"
 }

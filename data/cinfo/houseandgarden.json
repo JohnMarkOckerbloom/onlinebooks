@@ -4,29 +4,16 @@
    "online": "1",
    "first-issue": {"issue-date": "1901-06", "volume": "1", "number": "1"},
    "first-renewed-issue":
-     {"issue-date": "1926-02", "volume": "49", "number": "2",
-      "cdate": "1926-01-20"},
-   "first-renewed-issue-source": "1953-JulDec",
+     {"issue-date": "1927-02", "volume": "51", "number": "2",
+      "cdate": "1927-01-20"},
+   "first-renewed-issue-source": "1954-JulDec",
    "first-renewed-contribution":
      {"issue": {"issue-date": "1940-08"}},
    "first-renewed-contribution-source": "1967-JulDec",
    "renewed-issue-completeness": "active/1927",
    "renewed-issues": [
-     {"issue-date": "1926-02", "volume": "49", "number": "2",
-      "cdate": "1926-01-20"},
-     {"issue-date": "1926-03", "volume": "49", "number": "3"},
-     {"issue-date": "1926-04", "volume": "49", "number": "4"},
-     {"issue-date": "1926-05", "volume": "49", "number": "5"},
-     {"issue-date": "1926-06", "volume": "49", "number": "6"},
-     {"issue-date": "1926-07", "volume": "50", "number": "1",
-      "note": "CCE renewal record gives volume number for this issue as 48."},
-     {"issue-date": "1926-08", "volume": "50", "number": "2"},
-     {"issue-date": "1926-09", "volume": "50", "number": "3"},
-     {"issue-date": "1926-10", "volume": "50", "number": "4"},
-     {"issue-date": "1926-11", "volume": "50", "number": "5"},
-     {"issue-date": "1926-12", "volume": "50", "number": "6"},
-     {"issue-date": "1927-01", "volume": "51", "number": "1"},
-     {"issue-date": "1927-02", "volume": "51", "number": "2"},
+     {"issue-date": "1927-02", "volume": "51", "number": "2",
+      "cdate": "1927-01-20"},
      {"issue-date": "1927-03", "volume": "51", "number": "3"},
      {"issue-date": "1927-04", "volume": "51", "number": "4"},
      {"issue-date": "1927-05", "volume": "51", "number": "5"},
@@ -57,5 +44,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-01-19"
+   "last-updated": "2022-01-13"
 }

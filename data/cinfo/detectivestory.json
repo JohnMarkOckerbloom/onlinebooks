@@ -8,69 +8,15 @@
    ],
    "first-issue": {"issue-date": "1915-10-05", "volume": "1", "number": "1"},
    "first-renewed-issue": 
-     {"issue-date": "1926-01-09", "volume": "80", "number": "6",
-       "cdate": "1926-01-05"},
-   "first-renewed-issue-source": "1953-JanJun",
+     {"issue-date": "1927-01-08", "volume": "89", "number": "4",
+      "cdate": "1927-01-03"},  
+   "first-renewed-issue-source": "1954-JanJun",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1926-03-06", "volume": "82", "number": "2"}}, 
-   "first-renewed-contribution-source": "1953-JulDec",
+     {"issue": {"issue-date": "1927-02-19", "volume": "90", "number": "4"}},
+   "first-renewed-contribution-source": "1954-JanJun",
    "last-issue": {"issue-date": "1949-Summer", "volume": "177", "number": "1"},
    "renewed-issue-completeness": "active/1927",
    "renewed-issues": [
-     {"issue-date": "1926-01-09", "volume": "80", "number": "6",
-       "cdate": "1926-01-05"},
-     {"issue-date": "1926-01-16", "volume": "81", "number": "1"},
-     {"issue-date": "1926-01-23", "volume": "81", "number": "2"},
-     {"issue-date": "1926-01-30", "volume": "81", "number": "3"}, 
-     {"issue-date": "1926-02-06", "volume": "81", "number": "4"}, 
-     {"issue-date": "1926-02-13", "volume": "81", "number": "5"}, 
-     {"issue-date": "1926-02-20", "volume": "81", "number": "6"}, 
-     {"issue-date": "1926-02-27", "volume": "82", "number": "1"}, 
-     {"issue-date": "1926-03-06", "volume": "82", "number": "2"},    
-     {"issue-date": "1926-03-13", "volume": "82", "number": "3"},  
-     {"issue-date": "1926-03-20", "volume": "82", "number": "4"},  
-     {"issue-date": "1926-03-37", "volume": "82", "number": "5"},  
-     {"issue-date": "1926-04-03", "volume": "82", "number": "6"},  
-     {"issue-date": "1926-04-10", "volume": "83", "number": "1"},  
-     {"issue-date": "1926-04-17", "volume": "83", "number": "2"},  
-     {"issue-date": "1926-04-24", "volume": "83", "number": "3"},  
-     {"issue-date": "1926-05-01", "volume": "83", "number": "4"},  
-     {"issue-date": "1926-05-08", "volume": "83", "number": "5"},  
-     {"issue-date": "1926-05-15", "volume": "83", "number": "6"},            
-     {"issue-date": "1926-05-22", "volume": "84", "number": "1"},  
-     {"issue-date": "1926-05-29", "volume": "84", "number": "2"},  
-     {"issue-date": "1926-06-05", "volume": "84", "number": "3"},  
-     {"issue-date": "1926-06-12", "volume": "84", "number": "4"},  
-     {"issue-date": "1926-06-19", "volume": "84", "number": "5"},  
-     {"issue-date": "1926-06-26", "volume": "84", "number": "6"},  
-     {"issue-date": "1926-07-03", "volume": "85", "number": "1"},  
-     {"issue-date": "1926-07-10", "volume": "85", "number": "2"},  
-     {"issue-date": "1926-07-17", "volume": "85", "number": "3"},  
-     {"issue-date": "1926-07-24", "volume": "85", "number": "4"},  
-     {"issue-date": "1926-07-31", "volume": "85", "number": "5"},  
-     {"issue-date": "1926-08-07", "volume": "85", "number": "6"},  
-     {"issue-date": "1926-08-14", "volume": "86", "number": "1"},  
-     {"issue-date": "1926-08-21", "volume": "86", "number": "2"},  
-     {"issue-date": "1926-08-28", "volume": "86", "number": "3"},  
-     {"issue-date": "1926-09-04", "volume": "86", "number": "4"},  
-     {"issue-date": "1926-09-11", "volume": "86", "number": "5"},  
-     {"issue-date": "1926-09-18", "volume": "86", "number": "6"},  
-     {"issue-date": "1926-09-25", "volume": "87", "number": "1"},  
-     {"issue-date": "1926-10-02", "volume": "87", "number": "2"},  
-     {"issue-date": "1926-10-09", "volume": "87", "number": "3"},  
-     {"issue-date": "1926-10-16", "volume": "87", "number": "4"},  
-     {"issue-date": "1926-10-23", "volume": "87", "number": "5"},  
-     {"issue-date": "1926-10-30", "volume": "87", "number": "6"},  
-     {"issue-date": "1926-11-06", "volume": "88", "number": "1"},  
-     {"issue-date": "1926-11-13", "volume": "88", "number": "2"},  
-     {"issue-date": "1926-11-20", "volume": "88", "number": "3"},  
-     {"issue-date": "1926-11-27", "volume": "88", "number": "4"},  
-     {"issue-date": "1926-12-04", "volume": "88", "number": "5"},  
-     {"issue-date": "1926-12-11", "volume": "88", "number": "6"},
-     {"issue-date": "1926-12-18", "volume": "89", "number": "1"},  
-     {"issue-date": "1926-12-25", "volume": "89", "number": "2"},  
-     {"issue-date": "1927-01-01", "volume": "89", "number": "3",  
-      "cdate": "1926-12-27"},  
      {"issue-date": "1927-01-08", "volume": "89", "number": "4",
       "cdate": "1927-01-03"},  
      {"issue-date": "1927-01-15", "volume": "89", "number": "5"},  
@@ -172,210 +118,6 @@
    ],
    "renewed-contribution-completeness": "active/1927",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1926-03-06", "volume": "82", "number": "2"}, 
-      "title": "Bells",
-      "author": {
-       "authorized": "Haycox, Ernest, 1899-1950",
-       "lcna": "n79065126"
-      }
-     },
-     {"issue": {"issue-date": "1926-04-17", "volume": "83", "number": "2"},
-      "title": "Anybody's Pearls",
-      "author": {
-        "authorized": "Footner, Hulbert, 1879-1944",
-        "lcna": "n88202699"
-      }
-     },
-     {"issue": {"issue-date": "1926-04-24", "volume": "83", "number": "3"},
-      "title": "The Girl From Scotland Yard",
-      "title-note": "part 1 of 5",
-      "author": {
-        "authorized": "Wallace, Edgar, 1875-1932",
-        "lcna": "n80034938"
-      }
-     },
-     {"issue": {"issue-date": "1926-05-01", "volume": "83", "number": "4"},
-      "title": "The Girl From Scotland Yard",
-      "title-note": "part 2 of 5",
-      "author": {
-        "authorized": "Wallace, Edgar, 1875-1932",
-        "lcna": "n80034938"
-      }
-     },
-     {"issue": {"issue-date": "1926-05-08", "volume": "83", "number": "5"},
-      "title": "The Girl From Scotland Yard",
-      "title-note": "part 3 of 5",
-      "author": {
-        "authorized": "Wallace, Edgar, 1875-1932",
-        "lcna": "n80034938"
-      }
-     },
-     {"issue": {"issue-date": "1926-05-15", "volume": "83", "number": "6"},
-      "title": "The Girl From Scotland Yard",
-      "title-note": "part 4 of 5",
-      "author": {
-        "authorized": "Wallace, Edgar, 1875-1932",
-        "lcna": "n80034938"
-      }
-     },
-     {"issue": {"issue-date": "1926-05-22", "volume": "84", "number": "1"},
-      "title": "The Girl From Scotland Yard",
-      "title-note": "part 5 of 5",
-      "author": {
-        "authorized": "Wallace, Edgar, 1875-1932",
-        "lcna": "n80034938"
-      }
-     },
-     {"issue": {"issue-date": "1926-06-05", "volume": "84", "number": "3"},
-      "title": "The Traitor's Gate",
-      "title-note": "part 1 of 5",
-      "author": {
-        "authorized": "Wallace, Edgar, 1875-1932",
-        "lcna": "n80034938"
-      }
-     },
-     {"issue": {"issue-date": "1926-06-05", "volume": "84", "number": "3"},
-      "title": "The Girl or the Pearls (Getting the Girl)",
-      "author": {
-        "authorized": "Footner, Hulbert, 1879-1944",
-        "lcna": "n88202699"
-      }
-     },
-     {"issue": {"issue-date": "1926-06-12", "volume": "84", "number": "4"},
-      "title": "The Traitor's Gate",
-      "title-note": "part 2 of 5",
-      "author": {
-        "authorized": "Wallace, Edgar, 1875-1932",
-        "lcna": "n80034938"
-      }
-     },
-     {"issue": {"issue-date": "1926-06-19", "volume": "84", "number": "5"},
-      "title": "The Traitor's Gate",
-      "title-note": "part 3 of 5",
-      "author": {
-        "authorized": "Wallace, Edgar, 1875-1932",
-        "lcna": "n80034938"
-      }
-     },
-     {"issue": {"issue-date": "1926-06-26", "volume": "84", "number": "6"},
-      "title": "The Traitor's Gate",
-      "title-note": "part 4 of 5",
-      "author": {
-        "authorized": "Wallace, Edgar, 1875-1932",
-        "lcna": "n80034938"
-      }
-     },
-     {"issue": {"issue-date": "1926-07-03", "volume": "85", "number": "1"},
-      "title": "The Traitor's Gate",
-      "title-note": "part 5 of 5",
-      "author": {
-        "authorized": "Wallace, Edgar, 1875-1932",
-        "lcna": "n80034938"
-      }
-     },
-     {"issue": {"issue-date": "1926-07-10", "volume": "85", "number": "2"},
-      "title": "That Which I Feared",
-      "title-note": "part 1 of 6",
-      "author": {
-        "authorized": "Thayer, Lee, 1874-1973",
-        "lcna": "no96020957"
-      }
-     },
-     {"issue": {"issue-date": "1926-07-17", "volume": "85", "number": "3"},
-      "title": "That Which I Feared",
-      "title-note": "part 2 of 6",
-      "author": {
-        "authorized": "Thayer, Lee, 1874-1973",
-        "lcna": "no96020957"
-      }
-     },
-     {"issue": {"issue-date": "1926-07-24", "volume": "85", "number": "4"},
-      "title": "That Which I Feared",
-      "title-note": "part 3 of 6",
-      "author": {
-        "authorized": "Thayer, Lee, 1874-1973",
-        "lcna": "no96020957"
-      }
-     },
-     {"issue": {"issue-date": "1926-07-31", "volume": "85", "number": "5"},
-      "title": "That Which I Feared",
-      "title-note": "part 4 of 6",
-      "author": {
-        "authorized": "Thayer, Lee, 1874-1973",
-        "lcna": "no96020957"
-      }
-     },
-     {"issue": {"issue-date": "1926-08-07", "volume": "85", "number": "6"},
-      "title": "That Which I Feared",
-      "title-note": "part 5 of 6",
-      "author": {
-        "authorized": "Thayer, Lee, 1874-1973",
-        "lcna": "no96020957"
-      }
-     },
-     {"issue": {"issue-date": "1926-08-14", "volume": "86", "number": "1"},
-      "title": "That Which I Feared",
-      "title-note": "part 6 of 6",
-      "author": {
-        "authorized": "Thayer, Lee, 1874-1973",
-        "lcna": "no96020957"
-      }
-     },
-     {"issue": {"issue-date": "1926-08-21", "volume": "86", "number": "2"}, 
-      "title": "An Old Coot's Money",
-      "note": "Title as given in CCE.  FictionMags gives title as 'An Old Coot's Money Box'.  I have not examined the issue in question.",
-      "author": {
-       "authorized": "Haycox, Ernest, 1899-1950",
-       "lcna": "n79065126"
-      }
-     },
-     {"issue": {"issue-date": "1926-10-02", "volume": "87", "number": "2"}, 
-      "title": "A Pushin' Fella",
-      "author": {
-       "authorized": "Haycox, Ernest, 1899-1950",
-       "lcna": "n79065126"
-      }
-     },
-     {"issue": {"issue-date": "1926-11-06", "volume": "88", "number": "1"},
-      "title": "Terror Keep",
-      "title-note": "part 1 of 5",
-      "author": {
-        "authorized": "Wallace, Edgar, 1875-1932",
-        "lcna": "n80034938"
-      }
-     },
-     {"issue": {"issue-date": "1926-11-13", "volume": "88", "number": "2"},
-      "title": "Terror Keep",
-      "title-note": "part 2 of 5",
-      "author": {
-        "authorized": "Wallace, Edgar, 1875-1932",
-        "lcna": "n80034938"
-      }
-     },
-     {"issue": {"issue-date": "1926-11-20", "volume": "88", "number": "3"},
-      "title": "Terror Keep",
-      "title-note": "part 3 of 5",
-      "author": {
-        "authorized": "Wallace, Edgar, 1875-1932",
-        "lcna": "n80034938"
-      }
-     },
-     {"issue": {"issue-date": "1926-11-27", "volume": "88", "number": "4"},
-      "title": "Terror Keep",
-      "title-note": "part 4 of 5",
-      "author": {
-        "authorized": "Wallace, Edgar, 1875-1932",
-        "lcna": "n80034938"
-      }
-     },
-     {"issue": {"issue-date": "1926-12-04", "volume": "88", "number": "5"},
-      "title": "Terror Keep",
-      "title-note": "part 5 of 5",
-      "author": {
-        "authorized": "Wallace, Edgar, 1875-1932",
-        "lcna": "n80034938"
-      }
-     },
      {"issue": {"issue-date": "1927-02-19", "volume": "90", "number": "4"},
       "title": "The Squealer",
       "title-note": "part 1 of 4",
@@ -777,17 +519,16 @@
      },
      {"issue": {"issue-date": "1928-11-17", "volume": "105", "number": "5"},
       "title": "The Flying Squad",
-      "title-note": "part 1 of 3?",
+      "title-note": "part 3 of 3?",
       "author": {
         "authorized": "Wallace, Edgar, 1875-1932",
         "lcna": "n80034938"
       }
      }
    ],
-   "additional-note" : "Active contribution renewals are recorded beginning in the 1953 January-June CCE volume, but the earliest active renewed contribution is noted in the 1953 July-December volume.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-07-20"
+   "last-updated": "2022-01-09"
 }

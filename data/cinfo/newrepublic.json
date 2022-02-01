@@ -8,8 +8,8 @@
      {"issue-date": "1964-01-11", "cdate": "1964-01-03",
       "volume": "150", "number": "2"},
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1926-12-01"}},
-   "first-renewed-contribution-source": "1953-JulDec",
+     {"issue": {"issue-date": "1927-03-09"}},
+   "first-renewed-contribution-source": "1954-JanJun",
    "renewed-issue-completeness": "active/1950",
    "renewed-issues": [
      {"issue-date": "1927-03-09", "volume": "50", "number": "640"},
@@ -471,20 +471,6 @@
    ],
    "renewed-contribution-completeness": "active/1931",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1926-12-01"},
-        "title": "Annihilation",
-        "author": {
-         "authorized": "Aiken, Conrad, 1889-1973",
-         "lcna": "n80060447"
-        }
-     },
-     {"issue": {"issue-date": "1926-12-08"},
-        "title": "At a Concert",
-        "author": {
-         "authorized": "Aiken, Conrad, 1889-1973",
-         "lcna": "n80060447"
-        }
-     },
      {"issue": {"issue-date": "1927-03-09"},
       "title": "The Lost Wife",
       "author": {
@@ -670,5 +656,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-01-22"
+   "last-updated": "2022-01-10"
 }

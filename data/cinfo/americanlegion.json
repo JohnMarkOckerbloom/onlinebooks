@@ -7,31 +7,10 @@
        {"issue-date": "1944-11", "volume": "37", "number": "5"},
    "first-renewed-issue-source": "1972",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1926-10"}},
-   "first-renewed-contribution-source": "1953-JulDec",
+     {"issue": {"issue-date": "1927-08"}},
+   "first-renewed-contribution-source": "1954-JulDec",
    "renewed-contribution-completeness": "active/1949",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1926-10"}, 
-      "title": "Keep Looking and Some Day You'll See Them",
-      "author": {
-       "authorized": "Sass, Herbert Ravenel, 1884-1958",
-       "lcna": "n88224199"
-      }
-     },
-     {"issue": {"issue-date": "1926-10"},
-      "title": "House on the Square",
-      "author": {
-       "authorized": "Weiman, Rita, 1889-1954",
-       "lcna": "n89129751"
-      }
-     },
-     {"issue": {"issue-date": "1926-12"}, 
-      "title": "Our National Bird",
-      "author": {
-       "authorized": "Sass, Herbert Ravenel, 1884-1958",
-       "lcna": "n88224199"
-      }
-     },
      {"issue": {"issue-date": "1927-08"}, 
        "title": "Knowing Paris",
        "author": {
@@ -381,5 +360,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-07-19"
+   "last-updated": "2022-01-06"
 }

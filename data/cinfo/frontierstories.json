@@ -11,8 +11,8 @@
      {"issue-date": "1929-06", "volume": "10", "number": "2"},
    "first-renewed-issue-source": "1957-JanJun",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1926-03", "volume": "3", "number": "6"}}, 
-   "first-renewed-contribution-source": "1953-JulDec",
+     {"issue": {"issue-date": "1928-01", "volume": "7", "number": "4"}}, 
+   "first-renewed-contribution-source": "1954-JulDec",
    "last-issue": {"issue-date": "1953-Winter", "volume": "18", "number": "10"},
    "renewed-issue-completeness": "active/end",
    "renewed-issues": [
@@ -26,34 +26,6 @@
    ],
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1926-03", "volume": "3", "number": "6"}, 
-      "title": "Frontier Blood",
-      "author": {
-       "authorized": "Haycox, Ernest, 1899-1950",
-       "lcna": "n79065126"
-      }
-     },
-     {"issue": {"issue-date": "1926-06", "volume": "4", "number": "3"}, 
-      "title": "The Code",
-      "author": {
-       "authorized": "Haycox, Ernest, 1899-1950",
-       "lcna": "n79065126"
-      }
-     },
-     {"issue": {"issue-date": "1926-07", "volume": "4", "number": "4"}, 
-      "title": "Sons of the Forest Edge",
-      "author": {
-       "authorized": "Haycox, Ernest, 1899-1950",
-       "lcna": "n79065126"
-      }
-     },
-     {"issue": {"issue-date": "1926-09", "volume": "4", "number": "6"}, 
-      "title": "Wild Bill, Marshall of Hays and Abilene",
-      "author": {
-       "authorized": "Wilstach, Frank Jenners, 1865-1933",
-       "lcna": "n81119418"
-      }
-     },
      {"issue": {"issue-date": "1928-01", "volume": "7", "number": "4"}, 
       "title": "Texas As Was",
       "author": {
@@ -110,5 +82,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-01-23"
+   "last-updated": "2022-01-10"
 }

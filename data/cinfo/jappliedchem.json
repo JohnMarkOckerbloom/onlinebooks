@@ -1,6 +1,9 @@
 {
    "title": "Journal of Applied Chemistry",
    "title-note": "Society of Chemical Industry, 1951-1970",
+   "preceded-by":
+      [{"id": "jsocchemind",
+        "note": "Journal of the Society of Chemical Industry"}],
    "first-issue": {"issue-date": "1951-01", "volume": "1", "number": "1"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "database",

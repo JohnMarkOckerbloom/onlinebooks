@@ -6,39 +6,13 @@
       {"issue-date": "1944-01", "volume": "36", "number": "2"},
    "first-renewed-issue-source": "1971",
    "first-renewed-contribution": 
-      {"issue": {"issue-date": "1926-11"}},
-   "first-renewed-contribution-source": "1953-JulDec",
+      {"issue": {"issue-date": "1927-02", "cdate": "1927-01-01"}},
+   "first-renewed-contribution-source": "1954-JanJun",
    "first-autorenewed-issue":
       {"issue-date": "1964-02", "volume": "74", "number": "4", 
        "cdate": "1964-01-02"},
    "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1926-11"},
-        "title": "Such is Life",
-        "author": {
-         "authorized": "Oursler, Fulton, 1893-1952",
-         "using": "Arnold Fountain",
-         "lcna": "n79041782"
-        }
-     },
-     {"issue": {"issue-date": "1926-12"},
-        "title": "The Virgin Wife",
-        "title-note": "part 1 of 5",
-        "author": {
-         "authorized": "Oursler, Fulton, 1893-1952",
-         "using": "Arnold Fountain",
-         "lcna": "n79041782"
-        }
-     },
-     {"issue": {"issue-date": "1927-01"},
-        "title": "The Virgin Wife",
-        "title-note": "part 2 of 5",
-        "author": {
-         "authorized": "Oursler, Fulton, 1893-1952",
-         "using": "Arnold Fountain",
-         "lcna": "n79041782"
-        }
-     },
      {"issue": {"issue-date": "1927-02"},
         "title": "The Virgin Wife",
         "title-note": "part 3 of 5",

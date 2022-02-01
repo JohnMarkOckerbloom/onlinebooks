@@ -3,8 +3,9 @@
    "online": "1",
    "first-issue": {"issue-date": "1922-02", "volume": "1", "number": "1"},
    "first-renewed-issue":
-      {"issue-date": "1926-04", "volume": "4", "number": "48"},
-   "first-renewed-issue-source": "1953-JanJun",
+      {"issue-date": "1927-02", "volume": "5", "number": "58",
+       "cdate": "1927-01-18"},
+   "first-renewed-issue-source": "1954-JanJun",
    "first-renewed-contribution": 
       {"issue": {"issue-date": "1933-09"}},
    "first-renewed-contribution-source": "1961-JanJun",
@@ -14,14 +15,6 @@
    ],
    "renewed-issue-completeness": "active/1927",
    "renewed-issues": [
-      {"issue-date": "1926-04", "volume": "4", "number": "48"},
-      {"issue-date": "1926-05", "volume": "5", "number": "49"},
-      {"issue-date": "1926-06", "volume": "5", "number": "50"},
-      {"issue-date": "1926-10", "volume": "5", "number": "54"},
-      {"issue-date": "1926-11", "volume": "5", "number": "55"},
-      {"issue-date": "1926-12", "volume": "5", "number": "56"},
-      {"issue-date": "1927-01", "volume": "5", "number": "57",
-       "cdate": "1926-12-20"},
       {"issue-date": "1927-02", "volume": "5", "number": "58",
        "cdate": "1927-01-18"},
       {"issue-date": "1927-03", "volume": "5", "number": "59"},
@@ -56,5 +49,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-10-05"
+   "last-updated": "2022-01-22"
 }

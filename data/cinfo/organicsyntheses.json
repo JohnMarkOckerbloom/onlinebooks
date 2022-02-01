@@ -2,8 +2,8 @@
    "title": "Organic Syntheses",
    "online": "1",
    "first-issue": {"issue-date": "1921", "volume": "1"},
-   "first-renewed-issue": {"issue-date": "1926", "volume": "6"},
-   "first-renewed-issue-source": "1953-JulDec",
+   "first-renewed-issue": {"issue-date": "1929", "volume": "9"},
+   "first-renewed-issue-source": "1956-JulDec",
    "first-autorenewed-issue": {"issue-date": "1964", "volume": "44"},
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
@@ -11,7 +11,6 @@
       [{"id": "orgsynthcol", "note": "Organic Syntheses: Collective Volume"}],
    "renewed-issue-completeness": "active/autorenewals",
    "renewed-issues": [
-      {"issue-date": "1926", "volume": "6"},
       {"issue-date": "1929", "volume": "9"},
       {"issue-date": "1932", "volume": "12"},
       {"issue-date": "1934", "volume": "14"},
@@ -44,5 +43,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-01-12"
+   "last-updated": "2022-01-10"
 }

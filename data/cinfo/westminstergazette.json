@@ -5,19 +5,11 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": 
-      {"issue": {"issue-date": "1926-06-03"}},
-   "first-renewed-contribution-source": "1954-JanJun",
+      {"issue": {"issue-date": "1927-01-03"}},
+   "first-renewed-contribution-source": "1955-JanJun",
    "last-issue": {"issue-date": "1928-01-31", "number": "10773"},
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1926-06-03"},
-      "title": "The D'Arblay Mystery",
-      "title-note": "installment 15",
-      "author": {
-         "authorized": "Freeman, R. Austin (Richard Austin), 1862-1943",
-         "lcna": "n50026377"
-      }
-     },
      {"issue": {"issue-date": "1927-January 3-March 3,"},
       "title": "The Rowforest Plot",
       "title-note": "installments",
@@ -649,5 +641,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-01-27"
+   "last-updated": "2022-01-06"
 }

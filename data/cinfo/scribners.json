@@ -6,12 +6,12 @@
        "note": "FictionMags (partial)"}
    ],
    "first-renewed-issue": 
-      {"issue-date": "1926-02", "volume": "79", "number": "2",
-       "cdate": "1926-01-27"},
-   "first-renewed-issue-source": "1954-JanJun",
+      {"issue-date": "1927-02", "volume": "81", "number": "2",
+       "cdate": "1927-01-21"},
+   "first-renewed-issue-source": "1955-JanJun",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1926-02", "volume": "79", "number": "2"}}, 
-   "first-renewed-contribution-source": "1953-JanJun",
+     {"issue": {"issue-date": "1927-02", "volume": "81", "number": "2"}},
+   "first-renewed-contribution-source": "1954-JanJun",
    "last-issue": {"issue-date": "1939-05", "volume": "105", "number": "5"},
    "succeeded-by": [
       {"id": "scribnerscomment",
@@ -19,20 +19,6 @@
    ],
    "renewed-issue-completeness": "active/1927",
    "renewed-issues": [
-      {"issue-date": "1926-02", "volume": "79", "number": "2",
-       "cdate": "1926-01-27"},
-      {"issue-date": "1926-03", "volume": "79", "number": "3"}, 
-      {"issue-date": "1926-04", "volume": "79", "number": "4"}, 
-      {"issue-date": "1926-05", "volume": "79", "number": "5"}, 
-      {"issue-date": "1926-06", "volume": "79", "number": "6"},       
-      {"issue-date": "1926-07", "volume": "80", "number": "1"}, 
-      {"issue-date": "1926-08", "volume": "80", "number": "2"},
-      {"issue-date": "1926-09", "volume": "80", "number": "3"},
-      {"issue-date": "1926-10", "volume": "80", "number": "4"},
-      {"issue-date": "1926-11", "volume": "80", "number": "5"},
-      {"issue-date": "1926-12", "volume": "80", "number": "6"},
-      {"issue-date": "1927-01", "volume": "81", "number": "1",
-       "cdate": "1926-12-24"},
       {"issue-date": "1927-02", "volume": "81", "number": "2",
        "cdate": "1927-01-21"},
       {"issue-date": "1927-03", "volume": "81", "number": "3"}, 
@@ -62,90 +48,6 @@
    ],
    "renewed-contribution-completeness": "active/1927",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1926-02", "volume": "79", "number": "2"}, 
-      "title": "The Silver Spoon",
-      "title-note": "part 3 of 9",
-      "author": {
-       "authorized": "Galsworthy, John, 1867-1933",
-       "lcna": "n79041972"
-      }
-     },
-     {"issue": {"issue-date": "1926-03", "volume": "79", "number": "3"}, 
-      "title": "The Silver Spoon",
-      "title-note": "part 4 of 9",
-      "author": {
-       "authorized": "Galsworthy, John, 1867-1933",
-       "lcna": "n79041972"
-      }
-     },
-     {"issue": {"issue-date": "1926-04", "volume": "79", "number": "4"}, 
-      "title": "Claustrophobia",
-      "author": {
-       "authorized": "Goodloe, Abbe Carter, 1874-1960",
-       "lcna": "n82128971"
-      }
-     },
-     {"issue": {"issue-date": "1926-04", "volume": "79", "number": "4"}, 
-      "title": "The Silver Spoon",
-      "title-note": "part 5 of 9",
-      "author": {
-       "authorized": "Galsworthy, John, 1867-1933",
-       "lcna": "n79041972"
-      }
-     },
-     {"issue": {"issue-date": "1926-05", "volume": "79", "number": "5"}, 
-      "title": "The Silver Spoon",
-      "title-note": "part 6 of 9",
-      "author": {
-       "authorized": "Galsworthy, John, 1867-1933",
-       "lcna": "n79041972"
-      }
-     },
-     {"issue": {"issue-date": "1926-06", "volume": "79", "number": "6"}, 
-      "title": "The Silver Spoon",
-      "title-note": "part 7 of 9",
-      "author": {
-       "authorized": "Galsworthy, John, 1867-1933",
-       "lcna": "n79041972"
-      }
-     },
-     {"issue": {"issue-date": "1926-07", "volume": "80", "number": "1"}, 
-        "title": "End of the Tow Path",
-        "author": {
-         "authorized": "Edmonds, Walter D. (Walter Dumaux), 1903-1998",
-         "lcna": "n79083990"
-        }
-     },
-     {"issue": {"issue-date": "1926-07", "volume": "80", "number": "1"}, 
-      "title": "The Silver Spoon",
-      "title-note": "part 8 of 9",
-      "author": {
-       "authorized": "Galsworthy, John, 1867-1933",
-       "lcna": "n79041972"
-      }
-     },
-     {"issue": {"issue-date": "1926-08", "volume": "80", "number": "2"}, 
-      "title": "The Silver Spoon",
-      "title-note": "part 9 of 9",
-      "author": {
-       "authorized": "Galsworthy, John, 1867-1933",
-       "lcna": "n79041972"
-      }
-     },
-     {"issue": {"issue-date": "1926-12", "volume": "80", "number": "6"}, 
-      "title": "Passers By",
-      "author": {
-       "authorized": "Galsworthy, John, 1867-1933",
-       "lcna": "n79041972"
-      }
-     },
-     {"issue": {"issue-date": "1926-12", "volume": "80", "number": "6"}, 
-      "title": "Another Wife",
-      "author": {
-       "authorized": "Anderson, Sherwood, 1876-1941",
-       "lcna": "n79045519"
-      }
-     },
      {"issue": {"issue-date": "1927-02", "volume": "81", "number": "2"},
       "title": "When the Turtles Sing",
       "author": {
@@ -306,5 +208,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-07-19"
+   "last-updated": "2022-01-12"
 }

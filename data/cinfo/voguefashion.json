@@ -1,24 +1,16 @@
 {
    "title": "Vogue Fashion Bi-Monthly",
-   "aka": ["Vogue Incorporating Vanity Fair"],
    "first-issue": 
      {"issue-date": "1925-October-November", "volume" : "1", "number": "1"},
    "first-renewed-issue": 
-     {"issue-date": "1926-April-May", "volume" : "1", "number": "4",
-      "cdate": "1926-02-25"}, 
-   "first-renewed-issue-source": "1953-JulDec",
+     {"issue-date": "1927-April-May", "volume" : "2", "number": "4",
+      "cdate": "1927-02-25"}, 
+   "first-renewed-issue-source": "1954-JulDec",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce",
    "see-also": [ {"id": "vogue", "note": "Vogue"}],
-   "renewed-issue-completeness": "active/1926",
+   "renewed-issue-completeness": "active/1927",
    "renewed-issues": [
-     {"issue-date": "1926-April-May", "volume" : "1", "number": "4",
-      "cdate": "1926-02-25"}, 
-     {"issue-date": "1926-June-July", "volume" : "1", "number": "5"},
-     {"issue-date": "1926-August-September", "volume" : "1", "number": "6"},
-     {"issue-date": "1926-October-November", "volume" : "1", "number": "7"},
-     {"issue-date": "1927-February-March", "volume" : "2", "number": "3",
-      "cdate": "1926-12-23"}, 
      {"issue-date": "1927-April-May", "volume" : "2", "number": "4",
       "cdate": "1927-02-25"}, 
      {"issue-date": "1927-June-July", "volume" : "2", "number": "5"}
@@ -27,5 +19,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-01-22"
+   "last-updated": "2022-01-09"
 }

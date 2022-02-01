@@ -4,25 +4,15 @@
           "Aeronautical Digest"],
    "online": "1",
    "first-renewed-issue": 
-      {"issue-date": "1926-02", "volume": "8", "number": "2"},
-   "first-renewed-issue-source": "1954-JanJun",
+      {"issue-date": "1927-02", "volume": "10", "number": "2",
+       "cdate": "1927-01-31"},
+   "first-renewed-issue-source": "1955-JanJun",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
    "renewed-issue-completeness": "active/end",
    "renewed-issues": [
-      {"issue-date": "1926-02", "volume": "8", "number": "2"},
-      {"issue-date": "1926-03", "volume": "8", "number": "3"},
-      {"issue-date": "1926-04", "volume": "8", "number": "4"},
-      {"issue-date": "1926-05", "volume": "8", "number": "5"},
-      {"issue-date": "1926-06", "volume": "8", "number": "6"},
-      {"issue-date": "1926-07", "volume": "9", "number": "1"},
-      {"issue-date": "1926-08", "volume": "9", "number": "2"},
-      {"issue-date": "1926-09", "volume": "9", "number": "3"},
-      {"issue-date": "1926-10", "volume": "9", "number": "4"},
-      {"issue-date": "1926-11", "volume": "9", "number": "5"},
-      {"issue-date": "1926-12", "volume": "9", "number": "6"},
-      {"issue-date": "1927-01", "volume": "10", "number": "1"},
-      {"issue-date": "1927-02", "volume": "10", "number": "2"},
+      {"issue-date": "1927-02", "volume": "10", "number": "2",
+       "cdate": "1927-01-31"},
       {"issue-date": "1927-03", "volume": "10", "number": "3"},
       {"issue-date": "1927-04", "volume": "10", "number": "4"},
       {"issue-date": "1927-05", "volume": "10", "number": "5"},
@@ -51,5 +41,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-04-11"
+   "last-updated": "2022-01-04"
 }

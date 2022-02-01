@@ -1,16 +1,18 @@
 {
    "title": "International Index to Periodicals",
    "online": "1",
-   "first-renewed-issue": "none",
-   "first-renewed-issue-source": "cce+database",
+   "first-renewed-issue": {"issue-date": "April 1940 - March 1943",
+      "cdate": "1943", "volume": "9"},
+   "first-renewed-issue-source": "1971-JulDec",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
    "see-also": [{"id": "rgperiodicals",
                 "note": "Readers' Guide to Periodical Literature"}
    ],
+   "additional-note": "The renewal for volume 9 was the only one filed for this title, and was filed under Books, not Periodicals.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-06-08"
+   "last-updated": "2022-01-30"
 }

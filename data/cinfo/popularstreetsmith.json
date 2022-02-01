@@ -8,11 +8,11 @@
       "note": "FictionMags"}
    ],
    "first-renewed-issue": 
-     {"issue-date": "1926-01-07", "volume": "78", "number": "6"},
-   "first-renewed-issue-source": "1953-JanJun",
+     {"issue-date": "1927-01-07", "volume": "82", "number": "6"},
+   "first-renewed-issue-source": "1954-JanJun",
    "first-renewed-contribution":
-    {"issue": {"issue-date": "1926-02-07", "volume": "79", "number": "2"}},
-   "first-renewed-contribution-source": "1953-JulDec",
+    {"issue": {"issue-date": "1927-01-07", "volume": "82", "number": "6"}},
+   "first-renewed-contribution-source": "1954-JulDec",
    "last-issue": {"issue-date": "1931-10", "volume": "103", "number": "6"},
    "see-also": [
       {"id": "completestories", "note": "Complete Stories"},
@@ -20,30 +20,6 @@
    ],
    "renewed-issue-completeness": "active/1927",
    "renewed-issues": [
-     {"issue-date": "1926-01-07", "volume": "78", "number": "6"},
-     {"issue-date": "1926-01-20", "volume": "79", "number": "1"},
-     {"issue-date": "1926-02-07", "volume": "79", "number": "2"},
-     {"issue-date": "1926-02-20", "volume": "79", "number": "3"},
-     {"issue-date": "1926-03-07", "volume": "79", "number": "4"},
-     {"issue-date": "1926-03-20", "volume": "79", "number": "5"},
-     {"issue-date": "1926-04-07", "volume": "79", "number": "6"},
-     {"issue-date": "1926-04-20", "volume": "80", "number": "1"},
-     {"issue-date": "1926-05-07", "volume": "80", "number": "2"},
-     {"issue-date": "1926-05-20", "volume": "80", "number": "3"},
-     {"issue-date": "1926-06-07", "volume": "80", "number": "4"},
-     {"issue-date": "1926-06-20", "volume": "80", "number": "5"},
-     {"issue-date": "1926-07-07", "volume": "80", "number": "6"},
-     {"issue-date": "1926-07-20", "volume": "81", "number": "1"},
-     {"issue-date": "1926-08-07", "volume": "81", "number": "2"},
-     {"issue-date": "1926-08-20", "volume": "81", "number": "3"},
-     {"issue-date": "1926-09-07", "volume": "81", "number": "4"},
-     {"issue-date": "1926-09-20", "volume": "81", "number": "5"},
-     {"issue-date": "1926-10-07", "volume": "81", "number": "6"},
-     {"issue-date": "1926-10-20", "volume": "82", "number": "1"},
-     {"issue-date": "1926-11-07", "volume": "82", "number": "2"},
-     {"issue-date": "1926-11-20", "volume": "82", "number": "3"},
-     {"issue-date": "1926-12-07", "volume": "82", "number": "4"},
-     {"issue-date": "1926-12-20", "volume": "82", "number": "5"},
      {"issue-date": "1927-01-07", "volume": "82", "number": "6"},
      {"issue-date": "1927-01-20", "volume": "83", "number": "1"},
      {"issue-date": "1927-02-07", "volume": "83", "number": "2"},
@@ -114,59 +90,6 @@
    ],
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1926-02-07", "volume": "79", "number": "2"},
-      "title": "Light of the West",
-      "author": {
-       "authorized": "Haycox, Ernest, 1899-1950",
-       "lcna": "n79065126"
-      }
-     },
-     {"issue": {"issue-date": "1926-05-07", "volume": "80", "number": "2"},
-      "title": "The Goddess From the Shades",
-      "title-note": "part 1 of 4",
-      "author": {
-       "authorized": "Buchan, John, 1875-1940",
-       "lcna": "n79045167"
-      }
-     },
-     {"issue": {"issue-date": "1926-05-20", "volume": "80", "number": "3"},
-      "title": "The Goddess From the Shades",
-      "title-note": "part 2 of 4",
-      "author": {
-       "authorized": "Buchan, John, 1875-1940",
-       "lcna": "n79045167"
-      }
-     },
-     {"issue": {"issue-date": "1926-06-07", "volume": "80", "number": "4"},
-      "title": "The Goddess From the Shades",
-      "title-note": "part 3 of 4",
-      "author": {
-       "authorized": "Buchan, John, 1875-1940",
-       "lcna": "n79045167"
-      }
-     },
-     {"issue": {"issue-date": "1926-06-20", "volume": "80", "number": "5"},
-      "title": "The Goddess From the Shades",
-      "title-note": "part 4 of 4",
-      "author": {
-       "authorized": "Buchan, John, 1875-1940",
-       "lcna": "n79045167"
-      }
-     },
-     {"issue": {"issue-date": "1926-10-07", "volume": "81", "number": "6"},
-      "title": "The Mystery of Uncle Bollard",
-      "author": {
-       "authorized": "Stacpoole, H. De Vere (Henry De Vere), 1863-1951",
-       "lcna": "n84006520"
-      }
-     },
-     {"issue": {"issue-date": "1926-10-07", "volume": "81", "number": "6"},
-      "title": "The Split Canyon Hold-Up",
-      "author": {
-       "authorized": "Lynde, Francis, 1856-1930",
-       "lcna": "n88093606"
-      }
-     },
      {"issue": {"issue-date": "1927-01-07", "volume": "82", "number": "6"},
       "title": "The Fighting Gringo",
       "author": {
@@ -240,5 +163,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-10-05"
+   "last-updated": "2022-01-13"
 }

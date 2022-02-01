@@ -8,10 +8,10 @@
           "cdate": "1928-12-24"},
    "first-renewed-issue-source": "1956-JulDec",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1926-04", "volume": "7", "number": "28"}},
-   "first-renewed-contribution-source": "1953-JulDec",
+     {"issue": {"issue-date": "1927-03"}},
+   "first-renewed-contribution-source": "1954-JulDec",
    "see-also": [{"id": "americana1925", "note": "Americana"}],
-   "renewed-issue-completeness": "active/1928",
+   "renewed-issue-completeness": "active/1930",
    "renewed-issues": [
        {"issue-date": "1929-01", "volume": "16", "number": "61",
           "cdate": "1928-12-24"},
@@ -26,59 +26,23 @@
        {"issue-date": "1929-09", "volume": "18", "number": "69"},
        {"issue-date": "1929-10", "volume": "18", "number": "70"},
        {"issue-date": "1929-11", "volume": "18", "number": "71"},
-       {"issue-date": "1929-12", "volume": "18", "number": "72"}
+       {"issue-date": "1929-12", "volume": "18", "number": "72"},
+       {"issue-date": "1930-02", "volume": "19", "number": "74"},
+       {"issue-date": "1930-03", "volume": "19", "number": "75"},
+       {"issue-date": "1930-04", "volume": "19", "number": "76"},
+       {"issue-date": "1930-05", "volume": "20", "number": "77"},
+       {"issue-date": "1930-06", "volume": "20", "number": "78"},
+       {"issue-date": "1930-07", "volume": "20", "number": "79"},
+       {"issue-date": "1930-08", "volume": "20", "number": "80"},
+       {"issue-date": "1930-09", "volume": "21", "number": "81"},
+       {"issue-date": "1930-10", "volume": "21", "number": "82"},
+       {"issue-date": "1930-11", "volume": "21", "number": "83"},
+       {"issue-date": "1930-12", "volume": "21", "number": "84"},
+       {"issue-date": "1931-01", "volume": "22", "number": "85"}
    ],
+   "comment": "Pick up issue renewals with 1959",
    "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1926-04", "volume": "7", "number": "28"},
-      "title": "The Retreat From Utopia",
-      "author": {
-         "authorized": "MacGrath, Harold, 1871-1932",
-         "lcna": "n82053296"
-      }
-     },
-     {"issue": {"issue-date": "1926-07"},
-      "title": "Whitman in Camden",
-      "author": {
-       "authorized": "Yorke, Dane, 1889-",
-       "lcna": "no2001008155"
-      }
-     },
-     {"issue": {"issue-date": "1926-09"},
-      "title": "Death in the Woods",
-      "author": {
-       "authorized": "Anderson, Sherwood, 1876-1941",
-       "lcna": "n79045519"
-      }
-     },
-     {"issue": {"issue-date": "1926-09"},
-      "title": "Nathalia From Brooklyn",
-      "author": {
-       "authorized": "Johnson, Nunnally",
-       "lcna": "n79134929"
-      }
-     },
-     {"issue": {"issue-date": "1926-11"},
-      "title": "The Untarnished Shield",
-      "author": {
-         "authorized": "McFee, William, 1881-1966",
-         "lcna": "n82053296"
-      }
-     },
-     {"issue": {"issue-date": "1926-11"},
-      "title": "Of the Dead of a Forsaken Country",
-      "author": {
-         "authorized": "Davis, H. L. (Harold Lenoir), 1896-1960",
-         "lcna": "n50036181"
-      }
-     },
-     {"issue": {"issue-date": "1926-12"},
-        "title": "Five Portraits on Galvanized Iron",
-        "author": {
-         "authorized": "De Casseres, Benjamin, 1873-1945",
-         "lcna": "n82206440"
-        }
-     },
      {"issue": {"issue-date": "1927-03"},
         "title": "Santa Fé Sketches",
         "author": {
@@ -1493,12 +1457,12 @@
      }
    ],
    "additional-notes": [
-      "Published as New American Mercury for a short time in the early 1950s.",
-      "A 1954 renewal for the 1926 volume of Americana may cover 1926 contributions to this magazine that were included in that volume."
+      "Active contribution renewals are recorded beginning in the 1954 January-June CCE volume, but the earliest renewed contribution is noted in the 1954 July-December volume.",
+      "Published as New American Mercury for a short time in the early 1950s."
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-07-19"
+   "last-updated": "2022-01-04"
 }

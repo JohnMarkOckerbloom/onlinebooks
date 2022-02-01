@@ -7,40 +7,14 @@
       "note": "FictionMags"}
    ],
    "first-renewed-issue":
-      {"issue-date": "1926-01-15", "volume": "64", "number": "6",
-       "cdate": "1926-01-15"},
-   "first-renewed-issue-source": "1953-JanJun",
+      {"issue-date": "1927-01-15", "volume": "68", "number": "6",
+       "cdate": "1927-01-14"},
+   "first-renewed-issue-source": "1954-JanJun",
    "first-renewed-contribution":
-      {"issue-date": "1926-05-01", "volume": "66", "number": "1"},
+      {"issue": {"issue-date": "1927-02-01", "volume": "69", "number": "1"}},
    "first-renewed-contribution-source": "1954-JanJun",
    "renewed-issue-completeness": "active/1927",
    "renewed-issues": [
-      {"issue-date": "1926-01-15", "volume": "64", "number": "6",
-       "cdate": "1926-01-15"},
-      {"issue-date": "1926-02-01", "volume": "65", "number": "1"},
-      {"issue-date": "1926-02-15", "volume": "65", "number": "2"},
-      {"issue-date": "1926-03-01", "volume": "65", "number": "3"},
-      {"issue-date": "1926-03-15", "volume": "65", "number": "4"},
-      {"issue-date": "1926-04-01", "volume": "65", "number": "5"},
-      {"issue-date": "1926-04-15", "volume": "65", "number": "6"},
-      {"issue-date": "1926-05-01", "volume": "66", "number": "1"},
-      {"issue-date": "1926-05-15", "volume": "66", "number": "2"},
-      {"issue-date": "1926-06-01", "volume": "66", "number": "3"},
-      {"issue-date": "1926-06-15", "volume": "66", "number": "4"},
-      {"issue-date": "1926-07-01", "volume": "66", "number": "5"},
-      {"issue-date": "1926-07-15", "volume": "66", "number": "6"},
-      {"issue-date": "1926-08-01", "volume": "67", "number": "1"},
-      {"issue-date": "1926-08-15", "volume": "67", "number": "2"},
-      {"issue-date": "1926-09-01", "volume": "67", "number": "3"},
-      {"issue-date": "1926-09-15", "volume": "67", "number": "4"},
-      {"issue-date": "1926-10-01", "volume": "67", "number": "5"},
-      {"issue-date": "1926-10-15", "volume": "67", "number": "6"},
-      {"issue-date": "1926-11-01", "volume": "68", "number": "1"},
-      {"issue-date": "1926-11-15", "volume": "68", "number": "2"},
-      {"issue-date": "1926-12-01", "volume": "68", "number": "3"},
-      {"issue-date": "1926-12-15", "volume": "68", "number": "4"},
-      {"issue-date": "1927-01-01", "volume": "68", "number": "5",
-       "cdate": "1926-12-31"},
       {"issue-date": "1927-01-15", "volume": "68", "number": "6",
        "cdate": "1927-01-14"},
       {"issue-date": "1927-02-01", "volume": "69", "number": "1"},
@@ -91,27 +65,6 @@
    ],
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1926-05-01", "volume": "66", "number": "1"},
-      "title": "A Feather in His Cap",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1926-09-01", "volume": "67", "number": "3"},
-      "title": "A Time-Lock Triangle",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1926-11-15", "volume": "68", "number": "2"},
-      "title": "More Than Skin Deep",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
      {"issue": {"issue-date": "1927-02-01", "volume": "69", "number": "1"},
       "title": "Three Days to Midnight",
       "author": {
@@ -229,5 +182,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-07-19"
+   "last-updated": "2022-01-08"
 }

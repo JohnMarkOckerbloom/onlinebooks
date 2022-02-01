@@ -586,8 +586,9 @@ sub firstrenewal_year {
     my $firstissue = _get_first_renewed_issue($json);
     my $contissue;
     my $firstcont = _get_first_renewed_contribution($json);
-    if ($firstcont && $firstcont ne "none") {
-      $contissue = $firstcont->{"issue"};
+    if ($firstcont && ref($firstcont)) {
+       #  Accommodate old version of first-contribution-renewal w/o "issue"
+      $contissue = $firstcont->{"issue"} || $firstcont;
     }
     my $firstyear = $NOYEAR;
     foreach my $issue ($firstautoissue, $firstissue, $contissue) {

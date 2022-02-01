@@ -5,36 +5,10 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1926-02", "cdate": "1926-01-16"}}, 
-   "first-renewed-contribution-source": "1953-JanJun",
+     {"issue": {"issue-date": "1929-02"}}, 
+   "first-renewed-contribution-source": "1956-JanJun",
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1926-02"}, 
-      "title": "Whipped Cream",
-      "title-note": "part 4? of 5?",
-      "note": "Renewal record appears in the Books section of CCE.",
-      "author": {
-       "authorized": "Moss, Geoffrey, 1885-1954",
-       "lcna": "no94037856"
-      }
-     },
-     {"issue": {"issue-date": "1926-03"}, 
-      "title": "Whipped Cream",
-      "title-note": "part 5? of 5?",
-      "note": "Renewal record appears in the Books section of CCE.",
-      "author": {
-       "authorized": "Moss, Geoffrey, 1885-1954",
-       "lcna": "no94037856"
-      }
-     },
-     {"issue": {"issue-date": "1926-June-July"}, 
-      "title": "Far End",
-      "note": "It is not clear if this was published in a combined June-July issue, or in two parts in June and July issues.",
-      "author": {
-       "authorized": "Sinclair, May",
-       "lcna": "n50023565"
-      }
-     },
      {"issue": {"issue-date": "1929-02"}, 
       "title": "Paying Guests",
       "author": {
@@ -48,5 +22,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-01-28"
+   "last-updated": "2022-01-06"
 }

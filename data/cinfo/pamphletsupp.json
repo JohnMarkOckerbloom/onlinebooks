@@ -1,16 +1,17 @@
 {
    "title": "Pamphlet Supplement",
-   "first-issue":
-        {"issue-date": "1923-07", "volume": "1", "number": "1"},
+   "title-note": "US compiled statutes and/or US code",
+   "aka": ["Federal Statutes Annotated: Pamphlet Supplement",
+           "United States Code Annotated: Pamphlet Supplement"],
    "first-renewed-issue":
-        {"issue-date": "1926-02", "volume": "2", "number": "1"},
-   "first-renewed-issue-source": "1953-JanJun",
+        {"issue-date": "1927-02", "volume": "1"},
+   "first-renewed-issue-source": "1954-JanJun",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
-   "additional-note": "Issues of this serial were typically renewed as books, and not as periodicals.",
+   "additional-note": "The exact title varied somewhat by issue.  Issues of this serial were typically renewed as books, and not as periodicals. Some issues covered the Statues and Code separately, some together. Some cumulative supplements after this date also have active renewals.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-01-28"
+   "last-updated": "2022-01-22"
 }

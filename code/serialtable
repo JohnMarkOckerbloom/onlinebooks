@@ -37,8 +37,8 @@ my $jstor_split = $pkgdir . "jstor/JSTOR_Global_AllArchiveTitles_2021-10-08.txt"
 
 my $muse_journals = $pkgdir . "muse/muse_journal_metadata_2019.tsv";
 
-#my $ovid_complete = $pkgdir . "wolters/Ovid_Global_AllJournals_2020-07-05.txt";
-my $ovid_complete = $pkgdir . "wolters/Ovid_Global_AllJournals_2021-01-26.txt";
+my $ovid_complete = $pkgdir . "wolters/Ovid_Global_AllJournals_2022-01-23.txt";
+#my $ovid_complete = $pkgdir . "wolters/Ovid_Global_AllJournals_2021-01-26.txt";
 
 my $oxford_archive = $pkgdir . "oxford/OxfordUniversityPress_Global_2021JournalsArchiveAllTitles_2021-09-23.txt";
 #my $oxford_archive = $pkgdir . "oxford/OxfordUniversityPress_Global_2021JournalsArchiveAllTitles_2020-10-30.txt";
@@ -57,13 +57,13 @@ my $sage_journals = $pkgdir . "sage/SAGE Complete Deep Backfile Purchase 2021 Li
 #my $scidirect_journals = $pkgdir . "elsevier/ScienceDirectStandard_Global_ScienceDirectAvailableJournals_2021-01-31.txt";
 my $scidirect_journals = $pkgdir . "elsevier/ScienceDirectStandard_Global_ScienceDirectAvailableJournals_2021-10-07.txt";
 my $sim_journals = $pkgdir . "sim/SIM-MASTER-TITLE-2017.txt";
-#my $springer_journals = $pkgdir . "springer/Springer_Global_Complete_Journals_2020-07-01.txt";
-my $springer_journals = $pkgdir . "springer/Springer_Global_Complete_Journals_2021-02-01.txt";
+#my $springer_journals = $pkgdir . "springer/Springer_Global_Complete_Journals_2021-02-01.txt";
+my $springer_journals = $pkgdir . "springer/Springer_Global_Complete_Journals_2022-01-03.txt";
 my $taylor_global = $pkgdir . "taylor/TaylorandFrancisOnline_Global_DatabaseOAReadandPublish_2019-09-18.txt";
 my $taylor_classic = $pkgdir . "taylor/ClassicAggregation.txt";
 my $wikipedia = $pkgdir . "wikipedia/articleperiodicals.csv";
-#my $wiley_all = $pkgdir . "wiley/wiley_alljournals_2020-05-01.txt";
-my $wiley_all = $pkgdir . "wiley/wiley_alljournals_2021-01-01.txt";
+my $wiley_all = $pkgdir . "wiley/headeradded_wiley_alljournals_2021-10-01.txt";
+#my $wiley_all = $pkgdir . "wiley/wiley_alljournals_2021-01-01.txt";
 
 my $sagetitlefield = "Title";  # just a placeholder; varies by file
 
@@ -95,7 +95,7 @@ my $tables = {
       parser=>\&muselongparser, filter=>\&pre64andolbp},
   "ovid-complete" =>
      {file => $ovid_complete, reader=>\&readtsvfile,
-      parser=>\&kbartparser, filter=>\&pre64andolbp},
+      parser=>\&kbartparser, filter=>\&oxfordfilter},
   "oxford-archive" =>
      {file => $oxford_archive, reader=>\&readoxfordfile,
       parser=>\&kbartparser, filter=>\&oxfordfilter},
@@ -123,7 +123,7 @@ my $tables = {
       parser=>\&simparser, filter=>\&pre64andolbp},
   "springer-journals" =>
      {file => $springer_journals, reader=>\&readspringerfile,
-      parser=>\&kbartparser, filter=>\&pre64andolbp},
+      parser=>\&kbartparser, filter=>\&sortedfilter64},
   "taylor-global" =>
      {file => $taylor_global, reader=>\&readtsvfile,
       parser=>\&kbartparser, filter=>\&pre64andolbp},
@@ -139,7 +139,7 @@ my $tables = {
       parser=>\&kbartparser, filter=>\&sortedfilter64}
 };
 
-my $renewals_start = 1926;
+my $renewals_start = 1927;
 my $renewals_end   = 1963;
 
 my $gapcode = "-||-";
@@ -217,7 +217,7 @@ sub kbartparser {
     my $issn = stripspace($result->{print_identifier});
     my $eissn = stripspace($result->{online_identifier});
     if ($issn) {
-      if (!($issn =~ /^\d\d\d\d-\d\d\d[\dX]$/)) {
+      if (!($issn =~ /^\d\d\d\d-\d\d\d[\dXx]$/)) {
         print STDERR "Unexpected ISSN for $title: $issn\n";
       } else {
         push @issns, normalize_issn($issn);
@@ -979,10 +979,10 @@ sub unmess_utf8 {
 sub readwileyfile {
   my ($filename, %params) = @_;
   my @results;
-  # open my $fh, "<:encoding(utf8)", $filename or die "filename: $!";
+  open my $fh, "<:encoding(utf8)", $filename or die "filename: $!";
   # uncomment above when troubleshooting character encodings
   # and put in extra backslash in fixes below
-  open my $fh, "<", $filename or die "filename: $!";
+  # open my $fh, "<", $filename or die "filename: $!";
   my $row = <$fh>;
   $row =~ s/ //g;                     # eliminate spaces in field names
   my @fieldnames = split /\t/, $row;
@@ -1011,8 +1011,8 @@ sub readspringerfile {
   my ($filename, %params) = @_;
   my @results;
   # open my $fh, "<:encoding(utf-16)", $filename or die "filename: $!";
-  open my $fh, "<:encoding(utf-8)", $filename or die "filename: $!";
-  # open my $fh, "<", $filename or die "filename: $!";
+  # open my $fh, "<:encoding(utf-8)", $filename or die "filename: $!";
+  open my $fh, "<", $filename or die "filename: $!";
   my $row = <$fh>;
   my @fieldnames = split /\t/, $row;
   if ($fieldnames[0] =~ /\x{feff}(.*)/) {

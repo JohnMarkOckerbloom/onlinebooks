@@ -2,46 +2,21 @@
    "title": "Adventure",
    "online": "1",
    "contents": [
-      {"url": "http://www.philsp.com/homeville/GFI/b1.htm#A1",
+      {"url": "http://www.philsp.com/homeville/GFI/link.asp?magid=ADV",
        "note": "FictionMags"}
    ],
    "first-issue": {"issue-date": "1910-11", "volume": "1", "number": "1"},
    "first-renewed-issue":
-       {"issue-date": "1926-02-20", "volume": "57", "number": "2",
-        "cdate": "1926-01-06"},
-   "first-renewed-issue-source": "1953-JulDec",
+       {"issue-date": "1927-01-15", "volume": "61", "number": "3",
+        "cdate": "1927-01-07"},
+   "first-renewed-issue-source": "1954-JulDec",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1926-02-28", "volume": "57", "number": "3"}},
+     {"issue": {"issue-date": "1927-01-15", "volume": "61", "number": "3"}},
    "first-renewed-contribution-source": "1954-JanJun",
    "renewed-issue-completeness": "active/1931",
    "renewed-issues": [
-       {"issue-date": "1926-02-20", "volume": "57", "number": "2",
-        "cdate": "1926-01-06"},
-       {"issue-date": "1926-02-28", "volume": "57", "number": "3"},
-       {"issue-date": "1926-03-10", "volume": "57", "number": "4"},
-       {"issue-date": "1926-03-20", "volume": "57", "number": "5"},
-       {"issue-date": "1926-03-30", "volume": "57", "number": "6"},
-       {"issue-date": "1926-04-08", "volume": "58", "number": "1"},
-       {"issue-date": "1926-04-23", "volume": "58", "number": "2"},
-       {"issue-date": "1926-05-08", "volume": "58", "number": "3"},
-       {"issue-date": "1926-05-23", "volume": "58", "number": "4"},
-       {"issue-date": "1926-06-08", "volume": "58", "number": "5"},
-       {"issue-date": "1926-06-23", "volume": "58", "number": "6"},
-       {"issue-date": "1926-07-08", "volume": "59", "number": "1"},
-       {"issue-date": "1926-07-23", "volume": "59", "number": "2"},
-       {"issue-date": "1926-08-08", "volume": "59", "number": "3"},
-       {"issue-date": "1926-08-23", "volume": "59", "number": "4"},
-       {"issue-date": "1926-09-08", "volume": "59", "number": "5"},
-       {"issue-date": "1926-09-23", "volume": "59", "number": "6"},
-       {"issue-date": "1926-10-08", "volume": "60", "number": "1"},
-       {"issue-date": "1926-10-23", "volume": "60", "number": "2"},
-       {"issue-date": "1926-11-08", "volume": "60", "number": "3"},
-       {"issue-date": "1926-11-23", "volume": "60", "number": "4"},
-       {"issue-date": "1926-12-08", "volume": "60", "number": "5"},
-       {"issue-date": "1926-12-23", "volume": "60", "number": "6"},
-       {"issue-date": "1926-12-31", "volume": "61", "number": "1"},
-       {"issue-date": "1927-01-01", "volume": "61", "number": "2"},
-       {"issue-date": "1927-01-15", "volume": "61", "number": "3"},
+       {"issue-date": "1927-01-15", "volume": "61", "number": "3",
+        "cdate": "1927-01-07"},
        {"issue-date": "1927-02-01", "volume": "61", "number": "4"},
        {"issue-date": "1927-02-15", "volume": "61", "number": "5"},
        {"issue-date": "1927-03-01", "volume": "61", "number": "6"},
@@ -184,189 +159,8 @@
        {"issue-date": "1932-11-15", "volume": "84", "number": "5"}
    ],
    "comment": "Pick up issue renewals with 1960,",
-   "renewed-contribution-completeness": "active/1926",
+   "renewed-contribution-completeness": "active/1927",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1926-02-28", "volume": "57", "number": "3"},
-      "title": "Log Cabin Men",
-      "title-note": "part 1 of 5",
-       "author": {
-         "authorized": "Pendexter, Hugh, 1875-1940",
-         "lcna": "no2010022727"
-       }
-     },
-     {"issue": {"issue-date": "1926-03-10", "volume": "57", "number": "4"},
-      "title": "Gray",
-        "author": {
-         "authorized": "Friel, Arthur O. (Arthur Olney), 1885-1959",
-         "lcna": "nb2007020100"
-       }
-     },
-     {"issue": {"issue-date": "1926-03-10", "volume": "57", "number": "4"},
-      "title": "Log Cabin Men",
-      "title-note": "part 2 of 5",
-       "author": {
-         "authorized": "Pendexter, Hugh, 1875-1940",
-         "lcna": "no2010022727"
-       }
-     },
-     {"issue": {"issue-date": "1926-03-20", "volume": "57", "number": "5"},
-      "title": "Log Cabin Men",
-      "title-note": "part 3 of 5",
-       "author": {
-         "authorized": "Pendexter, Hugh, 1875-1940",
-         "lcna": "no2010022727"
-       }
-     },
-     {"issue": {"issue-date": "1926-03-30", "volume": "57", "number": "6"},
-      "title": "Log Cabin Men",
-      "title-note": "part 4 of 5",
-       "author": {
-         "authorized": "Pendexter, Hugh, 1875-1940",
-         "lcna": "no2010022727"
-       }
-     },
-     {"issue": {"issue-date": "1926-04-08", "volume": "58", "number": "1"},
-      "title": "Log Cabin Men",
-      "title-note": "part 2 of 5",
-       "author": {
-         "authorized": "Pendexter, Hugh, 1875-1940",
-         "lcna": "no2010022727"
-       }
-     },
-     {"issue": {"issue-date": "1926-05-08", "volume": "58", "number": "3"},
-      "title": "Justice",
-        "author": {
-         "authorized": "Friel, Arthur O. (Arthur Olney), 1885-1959",
-         "lcna": "nb2007020100"
-       }
-     },
-     {"issue": {"issue-date": "1926-05-08", "volume": "58", "number": "3"},
-      "title": "Trial by Fire",
-      "author": {
-       "authorized": "Haycox, Ernest, 1899-1950",
-       "lcna": "n79065126"
-      }
-     },
-     {"issue": {"issue-date": "1926-06-08", "volume": "58", "number": "5"},
-      "title": "The Island of France",
-      "author": {
-       "authorized": "Wetjen, Albert Richard, 1900-1948",
-       "lcna": "no2009138376"
-      }
-     },
-     {"issue": {"issue-date": "1926-07-08", "volume": "59", "number": "1"},
-      "title": "A Cup of Sugar",
-      "author": {
-       "authorized": "Haycox, Ernest, 1899-1950",
-       "lcna": "n79065126"
-      }
-     },
-     {"issue": {"issue-date": "1926-07-23", "volume": "59", "number": "2"},
-      "title": "With Grape and Bayonet",
-      "author": {
-       "authorized": "Haycox, Ernest, 1899-1950",
-       "lcna": "n79065126"
-      }
-     },
-     {"issue": {"issue-date": "1926-09-08", "volume": "59", "number": "5"},
-      "title": "The Traitor",
-      "author": {
-       "authorized": "Haycox, Ernest, 1899-1950",
-       "lcna": "n79065126"
-      }
-     },
-     {"issue": {"issue-date": "1926-09-23", "volume": "59", "number": "6"},
-      "title": "A Battle Piece",
-      "author": {
-       "authorized": "Haycox, Ernest, 1899-1950",
-       "lcna": "n79065126"
-      }
-     },
-     {"issue": {"issue-date": "1926-09-23", "volume": "59", "number": "6"},
-      "title": "Durandal",
-      "author": {
-       "authorized": "Lamb, Harold, 1892-1962",
-       "lcna": "n50037864"
-      }
-     },
-     {"issue": {"issue-date": "1926-10-23", "volume": "60", "number": "2"},
-      "title": "Treasure",
-      "title-note": "part 1 of 6",
-      "author": {
-         "authorized": "Young, Gordon, 1886-1948",
-         "lcna": "no95047273"
-      }
-     },
-     {"issue": {"issue-date": "1926-11-08", "volume": "60", "number": "3"},
-      "title": "Treasure",
-      "title-note": "part 2 of 6",
-      "author": {
-         "authorized": "Young, Gordon, 1886-1948",
-         "lcna": "no95047273"
-      }
-     },
-     {"issue": {"issue-date": "1926-11-23", "volume": "60", "number": "4"},
-      "title": "Treasure",
-      "title-note": "part 3 of 6",
-      "author": {
-         "authorized": "Young, Gordon, 1886-1948",
-         "lcna": "no95047273"
-      }
-     },
-     {"issue": {"issue-date": "1926-12-08", "volume": "60", "number": "5"},
-      "title": "The Wolf Master",
-      "author": {
-       "authorized": "Lamb, Harold, 1892-1962",
-       "lcna": "n50037864"
-      }
-     },
-     {"issue": {"issue-date": "1926-12-08", "volume": "60", "number": "5"},
-      "title": "Treasure",
-      "title-note": "part 4 of 6",
-      "author": {
-         "authorized": "Young, Gordon, 1886-1948",
-         "lcna": "no95047273"
-      }
-     },
-     {"issue": {"issue-date": "1926-12-23", "volume": "60", "number": "6"},
-      "title": "Treasure",
-      "title-note": "part 5 of 6",
-      "author": {
-         "authorized": "Young, Gordon, 1886-1948",
-         "lcna": "no95047273"
-      }
-     },
-     {"issue": {"issue-date": "1926-12-31", "volume": "61", "number": "1"},
-      "title": "The Fighting Years",
-      "title-note": "part 1 of 6?",
-       "author": {
-         "authorized": "Pendexter, Hugh, 1875-1940",
-         "lcna": "no2010022727"
-       }
-     },
-     {"issue": {"issue-date": "1926-12-31", "volume": "61", "number": "1"},
-      "title": "Treasure",
-      "title-note": "part 6 of 6",
-      "author": {
-         "authorized": "Young, Gordon, 1886-1948",
-         "lcna": "no95047273"
-      }
-     },
-     {"issue": {"issue-date": "1927-01-01", "volume": "61", "number": "2"},
-      "title": "The Fighting Years",
-      "title-note": "part 2 of 6?",
-       "author": {
-         "authorized": "Pendexter, Hugh, 1875-1940",
-         "lcna": "no2010022727"
-       }
-     },
-     {"issue": {"issue-date": "1927-01-01", "volume": "61", "number": "2"},
-      "title": "The Red Flame of Erinpura",
-      "author": {
-         "authorized": "Mundy, Talbot, 1879-1940",
-         "lcna": "n82224112"
-      }
-     },
      {"issue": {"issue-date": "1927-01-15", "volume": "61", "number": "3"},
       "title": "The Fighting Years",
       "title-note": "part 3 of 6?",
@@ -380,6 +174,13 @@
       "author": {
        "authorized": "Lamb, Harold, 1892-1962",
        "lcna": "n50037864"
+      }
+     },
+     {"issue": {"issue-date": "1927-02-01", "volume": "61", "number": "4"},
+      "title": "Salt",
+      "author": {
+       "authorized": "Friel, Arthur O. (Arthur Olney), 1885-1959",
+       "lcna": "nb2007020100"
       }
      },
      {"issue": {"issue-date": "1927-02-01", "volume": "61", "number": "4"},
@@ -415,6 +216,13 @@
        }
      },
      {"issue": {"issue-date": "1927-05-01", "volume": "62", "number": "4"},
+      "title": "Kingbird",
+       "author": {
+         "authorized": "Pendexter, Hugh, 1875-1940",
+         "lcna": "no2010022727"
+       }
+     },
+     {"issue": {"issue-date": "1927-05-01", "volume": "62", "number": "4"},
       "title": "Rusudan",
       "author": {
        "authorized": "Lamb, Harold, 1892-1962",
@@ -435,11 +243,35 @@
        "lcna": "n79065126"
       }
      },
+     {"issue": {"issue-date": "1927-07-01", "volume": "63", "number": "2"},
+      "title": "Thicker Than Water",
+      "title-note": "part 1 of 3",
+      "author": {
+         "authorized": "Tuttle, W. C. (Wilbur C.), 1883-1969",
+         "lcna": "n83190878"
+      }
+     },
+     {"issue": {"issue-date": "1927-07-15", "volume": "63", "number": "3"},
+      "title": "Thicker Than Water",
+      "title-note": "part 2 of 3",
+      "author": {
+         "authorized": "Tuttle, W. C. (Wilbur C.), 1883-1969",
+         "lcna": "n83190878"
+      }
+     },
      {"issue": {"issue-date": "1927-07-15", "volume": "63", "number": "3"},
       "title": "Winds of Rebellion",
       "author": {
        "authorized": "Haycox, Ernest, 1899-1950",
        "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1927-08-01", "volume": "63", "number": "4"},
+      "title": "Thicker Than Water",
+      "title-note": "part 3 of 3",
+      "author": {
+         "authorized": "Tuttle, W. C. (Wilbur C.), 1883-1969",
+         "lcna": "n83190878"
       }
      },
      {"issue": {"issue-date": "1927-08-15", "volume": "63", "number": "5"},
@@ -495,13 +327,141 @@
          "authorized": "Tuttle, W. C. (Wilbur C.), 1883-1969",
          "lcna": "n83190878"
       }
+     },
+     {"issue": {"issue-date": "1927-11-15", "volume": "64", "number": "5"},
+      "title": "The Sun Chasers",
+      "title-note": "part 1 of 5",
+       "author": {
+         "authorized": "Pendexter, Hugh, 1875-1940",
+         "lcna": "no2010022727"
+       }
+     },
+     {"issue": {"issue-date": "1927-12-01", "volume": "64", "number": "6"},
+      "title": "The Sun Chasers",
+      "title-note": "part 2 of 5",
+       "author": {
+         "authorized": "Pendexter, Hugh, 1875-1940",
+         "lcna": "no2010022727"
+       }
+     },
+     {"issue": {"issue-date": "1927-12-15", "volume": "65", "number": "1"},
+      "title": "The Sun Chasers",
+      "title-note": "part 3 of 5",
+       "author": {
+         "authorized": "Pendexter, Hugh, 1875-1940",
+         "lcna": "no2010022727"
+       }
+     },
+     {"issue": {"issue-date": "1928-01-01", "volume": "65", "number": "2"},
+      "title": "The Sun Chasers",
+      "title-note": "part 4 of 5",
+       "author": {
+         "authorized": "Pendexter, Hugh, 1875-1940",
+         "lcna": "no2010022727"
+       }
+     },
+     {"issue": {"issue-date": "1928-01-15", "volume": "65", "number": "3"},
+      "title": "The Sun Chasers",
+      "title-note": "part 5 of 5",
+       "author": {
+         "authorized": "Pendexter, Hugh, 1875-1940",
+         "lcna": "no2010022727"
+       }
+     },
+     {"issue": {"issue-date": "1928-02-01", "volume": "65", "number": "4"},
+      "title": "Texas Man",
+      "title-note": "part 1 of 5",
+      "author": {
+         "authorized": "Raine, William MacLeod, 1871-1954",
+         "lcna": "n90682348"
+      }
+     },
+     {"issue": {"issue-date": "1928-02-15", "volume": "65", "number": "5"},
+      "title": "Texas Man",
+      "title-note": "part 2 of 5",
+      "author": {
+         "authorized": "Raine, William MacLeod, 1871-1954",
+         "lcna": "n90682348"
+      }
+     },
+     {"issue": {"issue-date": "1928-02-15", "volume": "65", "number": "5"},
+      "title": "Tramp Ship Style",
+      "author": {
+       "authorized": "Wetjen, Albert Richard, 1900-1948",
+       "lcna": "no2009138376"
+      }
+     },
+     {"issue": {"issue-date": "1928-03-01", "volume": "65", "number": "6"},
+      "title": "Texas Man",
+      "title-note": "part 3 of 5",
+      "author": {
+         "authorized": "Raine, William MacLeod, 1871-1954",
+         "lcna": "n90682348"
+      }
+     },
+     {"issue": {"issue-date": "1928-03-15", "volume": "66", "number": "1"},
+      "title": "Texas Man",
+      "title-note": "part 4 of 5",
+      "author": {
+         "authorized": "Raine, William MacLeod, 1871-1954",
+         "lcna": "n90682348"
+      }
+     },
+     {"issue": {"issue-date": "1928-04-01", "volume": "66", "number": "2"},
+      "title": "Texas Man",
+      "title-note": "part 5 of 5",
+      "author": {
+         "authorized": "Raine, William MacLeod, 1871-1954",
+         "lcna": "n90682348"
+      }
+     },
+     {"issue": {"issue-date": "1928-05-01", "volume": "66", "number": "4"},
+      "title": "The Little Things",
+      "author": {
+         "authorized": "Raine, Norman Reilly, 1895-1971",
+         "lcna": "n85342738"
+      }
+     },
+     {"issue": {"issue-date": "1928-09-15", "volume": "68", "number": "1"},
+      "title": "Watch Fires",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1928-11-01", "volume": "68", "number": "4"},
+      "title": "The Wheel of Destiny",
+      "author": {
+         "authorized": "Mundy, Talbot, 1879-1940",
+         "lcna": "n82224112"
+      }
+     },
+     {"issue": {"issue-date": "1928-11-15", "volume": "68", "number": "5"},
+      "title": "Big League Miracle",
+      "author": {
+         "authorized": "Mundy, Talbot, 1879-1940",
+         "lcna": "n82224112"
+      }
+     },
+     {"issue": {"issue-date": "1928-12-01", "volume": "68", "number": "6"},
+      "title": "On the Road to Allah's Heaven",
+      "author": {
+         "authorized": "Mundy, Talbot, 1879-1940",
+         "lcna": "n82224112"
+      }
+     },
+     {"issue": {"issue-date": "1929-01-01", "volume": "69", "number": "2"},
+      "title": "The Golden River",
+      "author": {
+         "authorized": "Mundy, Talbot, 1879-1940",
+         "lcna": "n82224112"
+      }
      }
    ],
-   "comment": "Pick up contribution renewals with 1955 JanJun",
-   "additional-note": "Active contribution renewals are recorded beginning in the 1953 July-December CCE volume, but the earliest actively renewed contribution is noted in the 1954 January-June volume.",
+   "comment": "Pick up contribution renewals with 1956 JanJun",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-01-18"
+   "last-updated": "2022-01-02"
 }

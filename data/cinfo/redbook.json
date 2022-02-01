@@ -9,28 +9,14 @@
    "first-issue":
       {"issue-date": "1903-05", "volume": "1", "number": "1"},
    "first-renewed-issue":
-      {"issue-date": "1926-02", "volume": "46", "number": "4",  
-           "cdate": "1926-01-12"},
-   "first-renewed-issue-source": "1953-JanJun",
+      {"issue-date": "1927-02", "volume": "48", "number": "4",
+       "cdate": "1927-01-12"},
+   "first-renewed-issue-source": "1954-JanJun",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1926-02", "volume": "46", "number": "4"}},
-   "first-renewed-contribution-source": "1953-JanJun",
+     {"issue": {"issue-date": "1927-02", "volume": "48", "number": "4"}},
+   "first-renewed-contribution-source": "1954-JanJun",
    "renewed-issue-completeness": "active/1927",
    "renewed-issues": [
-      {"issue-date": "1926-02", "volume": "46", "number": "4",  
-           "cdate": "1926-01-12"},
-      {"issue-date": "1926-03", "volume": "46", "number": "5"},
-      {"issue-date": "1926-04", "volume": "46", "number": "6"},
-      {"issue-date": "1926-05", "volume": "47", "number": "1"},
-      {"issue-date": "1926-06", "volume": "47", "number": "2"},
-      {"issue-date": "1926-07", "volume": "47", "number": "3"},
-      {"issue-date": "1926-08", "volume": "47", "number": "4"},
-      {"issue-date": "1926-09", "volume": "47", "number": "5"},
-      {"issue-date": "1926-10", "volume": "47", "number": "6"},
-      {"issue-date": "1926-11", "volume": "48", "number": "1"},
-      {"issue-date": "1926-12", "volume": "48", "number": "2"},
-      {"issue-date": "1927-01", "volume": "48", "number": "3",
-       "cdate": "1926-12-12"},
       {"issue-date": "1927-02", "volume": "48", "number": "4",
        "cdate": "1927-01-12"},
       {"issue-date": "1927-03", "volume": "48", "number": "5"},
@@ -57,183 +43,6 @@
    ],
    "renewed-contribution-completeness": "active/1927",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1926-02", "volume": "46", "number": "4"},
-      "title": "Tides",
-      "title-note": "part 1 of 8",
-      "authors": [
-        {"name": "Ada Street"},
-        {"authorized": "Street, Julian, 1879-1947", "lcna": "n86114725"}
-      ]
-     },
-     {"issue": {"issue-date": "1926-02", "volume": "46", "number": "4"},
-      "title": "The Rich Boy",
-      "title-note": "part 2 of 2",
-      "author": {
-       "authorized": "Fitzgerald, F. Scott (Francis Scott), 1896-1940",
-       "lcna": "n79006871"
-      }
-     },
-     {"issue": {"issue-date": "1926-03", "volume": "46", "number": "5"},
-       "title": "Gigolo",
-       "author": {
-         "authorized": "Adams, Samuel Hopkins, 1871-1958",
-         "lcna": "n50037535"
-       }
-     },
-     {"issue": {"issue-date": "1926-03", "volume": "46", "number": "5"},
-      "title": "The Sword of Doctor Damocles",
-      "author": {
-         "authorized": "McFee, William, 1881-1966",
-         "lcna": "n82053296"
-      }
-     },
-     {"issue": {"issue-date": "1926-03", "volume": "46", "number": "5"},
-      "title": "Tides",
-      "title-note": "part 2 of 8",
-      "authors": [
-        {"name": "Ada Street"},
-        {"authorized": "Street, Julian, 1879-1947", "lcna": "n86114725"}
-      ]
-     },
-     {"issue": {"issue-date": "1926-04", "volume": "46", "number": "6"},
-      "title": "Tides",
-      "title-note": "part 3 of 8",
-      "authors": [
-        {"name": "Ada Street"},
-        {"authorized": "Street, Julian, 1879-1947", "lcna": "n86114725"}
-      ]
-     },
-     {"issue": {"issue-date": "1926-04", "volume": "46", "number": "6"},
-      "title": "Dreams for Marjorie",
-      "author": {
-       "authorized": "Duganne, Phyllis, 1899-1976",
-       "lcna": "n90719514"
-      }
-     },
-     {"issue": {"issue-date": "1926-04", "volume": "46", "number": "6"},
-      "title": "High Noon",
-      "author": {
-       "authorized": "Patri, Angelo, 1876-1965",
-       "lcna": "n91079923"
-      }
-     },
-     {"issue": {"issue-date": "1926-05", "volume": "47", "number": "1"}, 
-      "title": "Tides",
-      "title-note": "part 4 of 8",
-      "authors": [
-        {"name": "Ada Street"},
-        {"authorized": "Street, Julian, 1879-1947", "lcna": "n86114725"}
-      ]
-     },
-     {"issue": {"issue-date": "1926-05", "volume": "47", "number": "1"}, 
-      "title": "The Feeder",
-      "author": {
-       "authorized": "Cram, Mildred, 1889-1985",
-       "lcna": "n87847192"
-      }
-     },
-     {"issue": {"issue-date": "1926-05", "volume": "47", "number": "1"}, 
-      "title": "Everybody's Niche",
-      "author": {
-       "authorized": "Patri, Angelo, 1876-1965",
-       "lcna": "n91079923"
-      }
-     },
-     {"issue": {"issue-date": "1926-06", "volume": "47", "number": "2"}, 
-      "title": "The Dance",
-      "author": {
-       "authorized": "Fitzgerald, F. Scott (Francis Scott), 1896-1940",
-       "lcna": "n79006871"
-      }
-     },
-     {"issue": {"issue-date": "1926-06", "volume": "47", "number": "2"}, 
-      "title": "Take a Fellow Your Size",
-      "author": {
-       "authorized": "Benét, Stephen Vincent, 1898-1943",
-       "lcna": "n50007691"
-      }
-     },
-     {"issue": {"issue-date": "1926-06", "volume": "47", "number": "2"}, 
-      "title": "Tides",
-      "title-note": "part 5 of 8",
-      "authors": [
-        {"name": "Ada Street"},
-        {"authorized": "Street, Julian, 1879-1947", "lcna": "n86114725"}
-      ]
-     },
-     {"issue": {"issue-date": "1926-06", "volume": "47", "number": "2"}, 
-      "title": "The Vanished Passenger",
-      "author": {
-         "authorized": "McFee, William, 1881-1966",
-         "lcna": "n82053296"
-      }
-     },
-     {"issue": {"issue-date": "1926-06", "volume": "47", "number": "2"}, 
-      "title": "Me",
-      "author": {
-       "authorized": "Patri, Angelo, 1876-1965",
-       "lcna": "n91079923"
-      }
-     },
-     {"issue": {"issue-date": "1926-07", "volume": "47", "number": "3"},
-      "title": "Nobody at All",
-      "author": {
-       "authorized": "Banning, Margaret Culkin, 1891-1982",
-       "lcna": "n86086096"
-      }
-     },
-     {"issue": {"issue-date": "1926-07", "volume": "47", "number": "3"},
-      "title": "Tides",
-      "title-note": "part 6 of 8",
-      "authors": [
-        {"name": "Ada Street"},
-        {"authorized": "Street, Julian, 1879-1947", "lcna": "n86114725"}
-      ]
-     },
-     {"issue": {"issue-date": "1926-07", "volume": "47", "number": "3"},
-      "title": "The Love Altar",
-      "author": {
-       "authorized": "Weiman, Rita, 1889-1954",
-       "lcna": "n89129751"
-      }
-     },
-     {"issue": {"issue-date": "1926-07", "volume": "47", "number": "3"},
-      "title": "The Armoire",
-      "author": {
-         "authorized": "McFee, William, 1881-1966",
-         "lcna": "n82053296"
-      }
-     },
-     {"issue": {"issue-date": "1926-08", "volume": "47", "number": "4"},
-      "title": "Tides",
-      "title-note": "part 7 of 8",
-      "authors": [
-        {"name": "Ada Street"},
-        {"authorized": "Street, Julian, 1879-1947", "lcna": "n86114725"}
-      ]
-     },
-     {"issue": {"issue-date": "1926-09", "volume": "47", "number": "5"},
-      "title": "Tides",
-      "title-note": "part 8 of 8",
-      "authors": [
-        {"name": "Ada Street"},
-        {"authorized": "Street, Julian, 1879-1947", "lcna": "n86114725"}
-      ]
-     },
-     {"issue": {"issue-date": "1926-11", "volume": "48", "number": "1"}, 
-      "title": "The Bride Book",
-      "author": {
-       "authorized": "Banning, Margaret Culkin, 1891-1982",
-       "lcna": "n86086096"
-      }
-     },
-     {"issue": {"issue-date": "1926-12", "volume": "48", "number": "2"},
-      "title": "Dinner is Served",
-      "author": {
-       "authorized": "Weiman, Rita, 1889-1954",
-       "lcna": "n89129751"
-      }
-     },
      {"issue": {"issue-date": "1927-02", "volume": "48", "number": "4"},
       "title": "At the Villa Agostino",
       "author": {
@@ -573,5 +382,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-07-19"
+   "last-updated": "2022-01-12"
 }

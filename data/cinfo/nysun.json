@@ -6,15 +6,29 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1926-12-18"}},
-   "first-renewed-contribution-source": "1954-JanJun",
-   "renewed-contribution-completeness": "active/1926",
+     {"issue": {"issue-date": "1930-03-21"}},
+   "first-renewed-contribution-source": "1957-JulDec",
+   "renewed-contribution-completeness": "active/1930",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1926-12-28"},
-      "title": "Footprints",
+     {"issue": {"issue-date": "1930-03-21"},
+       "title": "Italian Woman on MacDougal Street",
        "author": {
-         "authorized": "Riggs, Lynn, 1899-1954",
-         "lcna": "n82013440"
+        "authorized": "Benét, Laura",
+        "lcna": "n50008105"
+       }
+     },
+     {"issue": {"issue-date": "1930-04-26"},
+       "title": "The Cat",
+       "author": {
+        "authorized": "Benét, Laura",
+        "lcna": "n50008105"
+       }
+     },
+     {"issue": {"issue-date": "1930-06-24"},
+       "title": "The Guinea Pig",
+       "author": {
+        "authorized": "Benét, Laura",
+        "lcna": "n50008105"
        }
      }
    ],
@@ -25,5 +39,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-01-28"
+   "last-updated": "2022-01-10"
 }

@@ -9,28 +9,16 @@
       "note": "FictionMags (might not include nonfiction contents)"}
    ],
    "first-renewed-issue": 
-     {"issue-date": "1926-02", "volume": "152", "number": "909",
-        "cdate": "1926-01-22"},
-   "first-renewed-issue-source": "1953-JulDec",
+     {"issue-date": "1927-02", "volume": "154", "number": "921",
+      "cdate": "1927-01-18"},
+   "first-renewed-issue-source": "1954-JulDec",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1926-02", "volume": "152", "number": "909"}},
-   "first-renewed-contribution-source": "1954-JanJun",
+     {"issue": {"issue-date": "1927-02", "volume": "154", "number": "921"}}, 
+   "first-renewed-contribution-source": "1954-JulDec",
    "renewed-issue-completeness": "active/1927",
    "renewed-issues": [
-     {"issue-date": "1926-02", "volume": "152", "number": "909",
-        "cdate": "1926-01-22"},
-     {"issue-date": "1926-03", "volume": "152", "number": "910"},
-     {"issue-date": "1926-04", "volume": "152", "number": "911"},
-     {"issue-date": "1926-05", "volume": "152", "number": "912"},
-     {"issue-date": "1926-06", "volume": "152", "number": "913"},
-     {"issue-date": "1926-07", "volume": "153", "number": "914"},
-     {"issue-date": "1926-08", "volume": "153", "number": "915"},
-     {"issue-date": "1926-09", "volume": "153", "number": "916"},
-     {"issue-date": "1926-10", "volume": "153", "number": "917"},
-     {"issue-date": "1926-11", "volume": "153", "number": "918"},
-     {"issue-date": "1926-12", "volume": "154", "number": "919"},
-     {"issue-date": "1927-01", "volume": "154", "number": "920"},
-     {"issue-date": "1927-02", "volume": "154", "number": "921"},
+     {"issue-date": "1927-02", "volume": "154", "number": "921",
+      "cdate": "1927-01-18"},
      {"issue-date": "1927-03", "volume": "154", "number": "922"},
      {"issue-date": "1927-04", "volume": "154", "number": "923"},
      {"issue-date": "1927-05", "volume": "154", "number": "924"},
@@ -56,73 +44,6 @@
    ],
    "renewed-contribution-completeness": "active/1927",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1926-02", "volume": "152", "number": "909"},
-        "title": "The Arrow",
-        "title-note": "part 1 of 2",
-        "author": {
-         "authorized": "Morley, Christopher, 1890-1957",
-         "lcna": "n50006133"
-        }
-     },
-     {"issue": {"issue-date": "1926-03", "volume": "152", "number": "910"},
-        "title": "The Arrow",
-        "title-note": "part 2 of 2",
-        "author": {
-         "authorized": "Morley, Christopher, 1890-1957",
-         "lcna": "n50006133"
-        }
-     },
-     {"issue": {"issue-date": "1926-07", "volume": "153", "number": "914"}, 
-      "title": "Cramped Style",
-      "author": {
-       "authorized": "Banning, Margaret Culkin, 1891-1982",
-       "lcna": "n86086096"
-      }
-     },
-     {"issue": {"issue-date": "1926-08", "volume": "153", "number": "915"},
-        "title": "Bubbles",
-        "author": {
-         "authorized": "Steele, Wilbur Daniel, 1886-1970",
-         "lcna": "no98007702"
-        }
-     },
-     {"issue": {"issue-date": "1926-09", "volume": "153", "number": "916"}, 
-      "title": "La Bella Gina",
-      "author": {
-       "authorized": "Kelly, Eleanor Mercein, 1880-1968",
-       "lcna": "no92032469"
-      }
-     },
-     {"issue": {"issue-date": "1926-12", "volume": "154", "number": "919"},
-        "title": "Pleased to Meet You",
-        "title-note": "part 1 of 3",
-        "author": {
-         "authorized": "Morley, Christopher, 1890-1957",
-         "lcna": "n50006133"
-        }
-     },
-     {"issue": {"issue-date": "1927-01", "volume": "154", "number": "920"}, 
-        "title": "A Drink of Water",
-        "author": {
-         "authorized": "Steele, Wilbur Daniel, 1886-1970",
-         "lcna": "no98007702"
-        }
-     },
-     {"issue": {"issue-date": "1927-01", "volume": "154", "number": "920"}, 
-        "title": "Pleased to Meet You",
-        "title-note": "part 2 of 3",
-        "author": {
-         "authorized": "Morley, Christopher, 1890-1957",
-         "lcna": "n50006133"
-        }
-     },
-     {"issue": {"issue-date": "1927-01", "volume": "154", "number": "920"}, 
-      "title": "The Vanishing of Vaudrey",
-      "author": {
-       "authorized": "Chesterton, G. K. (Gilbert Keith), 1874-1936",
-       "lcna": "n79021157"
-      }
-     },
      {"issue": {"issue-date": "1927-02", "volume": "154", "number": "921"}, 
         "title": "Pleased to Meet You",
         "title-note": "part 3 of 3",
@@ -260,10 +181,10 @@
       }
      }
    ],
-   "additional-note": "Active contribution renewals are recorded beginning in the 1953 July-December CCE volume, but the earliest actively renewed contribution is noted in the 1954 January-June volume.",
+   "additional-note": "Active contribution renewals are recorded beginning in the 1954 January-June CCE volume, but the earliest actively renewed contribution is noted in the 1954 July-December volume.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-07-20"
+   "last-updated": "2022-01-06"
 }

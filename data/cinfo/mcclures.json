@@ -9,141 +9,13 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1926-06", "volume": "56", "number": "6"}},
-   "first-renewed-contribution-source": "1953-JanJun",
+     {"issue": {"issue-date": "1927-02", "volume": "58", "number": "2",
+      "cdate": "1927-01-17"}},
+   "first-renewed-contribution-source": "1954-JanJun",
    "last-issue": {"issue-date": "1929-03", "volume": "62", "number": "3"},
    "see-also": [{"id": "smartset", "note": "The Smart Set"}],
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1926-06", "volume": "56", "number": "6"},
-      "title": "The First Story Ever Told",
-       "note": "Volume numbering reset with this issue.",
-      "author": {
-       "authorized": "Tarkington, Booth, 1869-1946",
-       "lcna": "n79078124"
-      }
-     },
-     {"issue": {"issue-date": "1926-06", "volume": "56", "number": "6"},
-       "title": "Summer Bachelors",
-       "title-note": "part 1 of 5?",
-       "author": {
-         "authorized": "Adams, Samuel Hopkins, 1871-1958",
-         "lcna": "n50037535"
-       }
-     },
-     {"issue": {"issue-date": "1926-07", "volume": "57", "number": "1"},
-       "title": "Hot Saturday",
-       "title-note": "part 1 of 3",
-       "author": {
-         "authorized": "Fergusson, Harvey, 1890-1971",
-         "lcna": "n50026892"
-       }
-     },
-     {"issue": {"issue-date": "1926-07", "volume": "57", "number": "1"},
-       "title": "Summer Bachelors",
-       "title-note": "part 2 of 5?",
-       "author": {
-         "authorized": "Adams, Samuel Hopkins, 1871-1958",
-         "lcna": "n50037535"
-       }
-     },
-     {"issue": {"issue-date": "1926-08", "volume": "57", "number": "2"},
-       "title": "Hot Saturday",
-       "title-note": "part 2 of 3",
-       "author": {
-         "authorized": "Fergusson, Harvey, 1890-1971",
-         "lcna": "n50026892"
-       }
-     },
-     {"issue": {"issue-date": "1926-08", "volume": "57", "number": "2"},
-       "title": "Summer Bachelors",
-       "title-note": "part 3 of 5?",
-       "author": {
-         "authorized": "Adams, Samuel Hopkins, 1871-1958",
-         "lcna": "n50037535"
-       }
-     },
-     {"issue": {"issue-date": "1926-09", "volume": "57", "number": "3"},
-       "title": "The Captain Herself",
-       "title-note": "part 1 of 2",
-       "note": "Author is Lily Adams Beck writing under an alternate name.",
-       "author": {
-         "authorized": "Moresby, Louis, -1931",
-         "lcna": "no96058054"
-       }
-     },
-     {"issue": {"issue-date": "1926-09", "volume": "57", "number": "3"},
-       "title": "Summer Bachelors",
-       "title-note": "part 4 of 5?",
-       "author": {
-         "authorized": "Adams, Samuel Hopkins, 1871-1958",
-         "lcna": "n50037535"
-       }
-     },
-     {"issue": {"issue-date": "1926-09", "volume": "57", "number": "3"},
-       "title": "Hot Saturday",
-       "title-note": "part 3 of 3",
-       "author": {
-         "authorized": "Fergusson, Harvey, 1890-1971",
-         "lcna": "n50026892"
-       }
-     },
-     {"issue": {"issue-date": "1926-10", "volume": "57", "number": "4"},
-       "title": "The New Eve",
-       "title-note": "part 1 of 6",
-       "author": {
-         "authorized": "Deeping, Warwick, 1877-1950",
-         "lcna": "n82131987"
-       }
-     },
-     {"issue": {"issue-date": "1926-10", "volume": "57", "number": "4"},
-       "title": "Summer Bachelors",
-       "title-note": "part 5 of 5?",
-       "author": {
-         "authorized": "Adams, Samuel Hopkins, 1871-1958",
-         "lcna": "n50037535"
-       }
-     },
-     {"issue": {"issue-date": "1926-10", "volume": "57", "number": "4"},
-       "title": "The Captain Herself",
-       "title-note": "part 2 of 2",
-       "note": "Author is Lily Adams Beck writing under an alternate name.",
-       "author": {
-         "authorized": "Moresby, Louis, -1931",
-         "lcna": "no96058054"
-       }
-     },
-     {"issue": {"issue-date": "1926-11", "volume": "57", "number": "5"},
-       "title": "The New Eve",
-       "title-note": "part 2 of 6",
-       "author": {
-         "authorized": "Deeping, Warwick, 1877-1950",
-         "lcna": "n82131987"
-       }
-     },
-     {"issue": {"issue-date": "1926-12", "volume": "57", "number": "6"},
-       "title": "The New Eve",
-       "title-note": "part 3 of 6",
-       "author": {
-         "authorized": "Deeping, Warwick, 1877-1950",
-         "lcna": "n82131987"
-       }
-     },
-     {"issue": {"issue-date": "1927-01", "volume": "58", "number": "1"},
-       "title": "A Scarlet Woman",
-       "author": {
-         "authorized": "Bromfield, Louis, 1896-1956",
-         "lcna": "n80040365"
-       }
-     },
-     {"issue": {"issue-date": "1927-01", "volume": "58", "number": "1"},
-       "title": "The New Eve",
-       "title-note": "part 4 of 6",
-       "author": {
-         "authorized": "Deeping, Warwick, 1877-1950",
-         "lcna": "n82131987"
-       }
-     },
      {"issue": {"issue-date": "1927-02", "volume": "58", "number": "2"},
        "title": "The New Eve",
        "title-note": "part 5 of 6",
@@ -229,5 +101,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-01-25"
+   "last-updated": "2022-01-13"
 }

@@ -4,28 +4,10 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution":
-      {"issue": {"issue-date": "1926-02-06"}}, 
-   "first-renewed-contribution-source": "1953-JulDec",
+      {"issue": {"issue-date": "1927-12-03"}}, 
+   "first-renewed-contribution-source": "1955-JulDec",
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1926-February 6 - March 27,"}, 
-      "title": "The Key Above the Door: A Novel",
-      "title-note": "installments from chapters 9-16",
-      "note": "Exact issues not specified.",
-      "author": {
-       "authorized": "Walsh, Maurice, 1879-1964",
-       "lcna": "n85277099"
-      }
-     },
-     {"issue": {"issue-date": "1926-April 3 - May 22,"}, 
-      "title": "The Key Above the Door: A Novel",
-      "title-note": "installments from chapters 17-26",
-      "note": "Exact issues not specified.",
-      "author": {
-       "authorized": "Walsh, Maurice, 1879-1964",
-       "lcna": "n85277099"
-      }
-     },
      {"issue": {"issue-date": "December 3, 1927 - March 31, 1928"}, 
       "title": "While Rivers Run",
       "title-note": "installments",
@@ -66,5 +48,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-07-22"
+   "last-updated": "2022-01-09"
 }

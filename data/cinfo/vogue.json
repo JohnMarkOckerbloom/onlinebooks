@@ -4,9 +4,8 @@
    "aka": ["Vogue Incorporating Vanity Fair"],
    "first-issue": {"issue-date": "1892-12-17", "volume" : "1", "number": "1"},
    "first-renewed-issue": 
-     {"issue-date": "1926-01-15", "volume" : "67", "number": "2",
-      "cdate": "1926-01-10"},
-   "first-renewed-issue-source": "1953-JulDec",
+     {"issue-date": "1927-02-01", "volume" : "69", "number": "3"},
+   "first-renewed-issue-source": "1954-JulDec",
    "first-renewed-contribution": {
        "issue": {"issue-date": "1929-03-16"}
    },
@@ -21,32 +20,6 @@
    ],
    "renewed-issue-completeness": "active/1927",
    "renewed-issues": [
-     {"issue-date": "1926-01-15", "volume" : "67", "number": "2",
-      "cdate": "1926-01-10"},
-     {"issue-date": "1926-02-01", "volume" : "67", "number": "3"},
-     {"issue-date": "1926-02-15", "volume" : "67", "number": "4"},
-     {"issue-date": "1926-03-01", "volume" : "67", "number": "5"},
-     {"issue-date": "1926-03-15", "volume" : "67", "number": "6"},
-     {"issue-date": "1926-04-01", "volume" : "67", "number": "7"},
-     {"issue-date": "1926-04-15", "volume" : "67", "number": "8"},
-     {"issue-date": "1926-05-01", "volume" : "67", "number": "9"},
-     {"issue-date": "1926-05-15", "volume" : "67", "number": "10"},
-     {"issue-date": "1926-06-01", "volume" : "67", "number": "11"},
-     {"issue-date": "1926-06-15", "volume" : "67", "number": "12"},
-     {"issue-date": "1926-07-01", "volume" : "68", "number": "1"},
-     {"issue-date": "1926-07-15", "volume" : "68", "number": "2"},
-     {"issue-date": "1926-08-01", "volume" : "68", "number": "3"},
-     {"issue-date": "1926-08-15", "volume" : "68", "number": "4"},
-     {"issue-date": "1926-09-01", "volume" : "68", "number": "5"},
-     {"issue-date": "1926-09-15", "volume" : "68", "number": "6"},
-     {"issue-date": "1926-10-01", "volume" : "68", "number": "7"},
-     {"issue-date": "1926-10-15", "volume" : "68", "number": "8"},
-     {"issue-date": "1926-11-01", "volume" : "68", "number": "9"},
-     {"issue-date": "1926-11-15", "volume" : "68", "number": "10"},
-     {"issue-date": "1926-12-01", "volume" : "68", "number": "11"},
-     {"issue-date": "1926-12-15", "volume" : "68", "number": "12"},
-     {"issue-date": "1927-01-01", "volume" : "69", "number": "1",
-      "cdate": "1926-12-24"},
      {"issue-date": "1927-02-01", "volume" : "69", "number": "3"},
      {"issue-date": "1927-02-15", "volume" : "69", "number": "4"},
      {"issue-date": "1927-03-01", "volume" : "69", "number": "5"},
@@ -100,5 +73,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-07-19"
+   "last-updated": "2022-01-08"
 }

@@ -3,28 +3,18 @@
    "online": "1",
    "first-issue": {"issue-date": "1885-05-02", "volume": "1", "number": "1"},
    "first-renewed-issue":
-     {"issue-date": "1926-02", "volume": "82", "number": "2",
-       "cdate": "1926-01-25"},
-   "first-renewed-issue-source": "1953-JulDec",
+     {"issue-date": "1927-02", "volume": "84", "number": "2",
+       "cdate": "1927-01-25"},
+   "first-renewed-issue-source": "1955-JanJun",
    "first-autorenewed-issue": {
     "issue-date": "1964-02", "cdate": "1964-01-16",
     "volume": "158", "number": "2"
    }, 
-   "first-renewed-contribution": {"issue": {"issue-date": "1926-02"}},
-   "first-renewed-contribution-source": "1953-JulDec",
+   "first-renewed-contribution": 
+     {"issue": {"issue-date": "1927-02"}}, 
+   "first-renewed-contribution-source": "1954-JanJun",
    "renewed-issue-completeness": "active/1927",
    "renewed-issues": [
-     {"issue-date": "1926-02", "volume": "82", "number": "2",
-       "cdate": "1926-01-25"},
-     {"issue-date": "1926-03", "volume": "82", "number": "3"},
-     {"issue-date": "1926-04", "volume": "82", "number": "4"},
-     {"issue-date": "1926-05", "volume": "82", "number": "5"},
-     {"issue-date": "1926-06", "volume": "82", "number": "6"},
-     {"issue-date": "1926-08", "volume": "83", "number": "2"},
-     {"issue-date": "1926-09", "volume": "83", "number": "3"},
-     {"issue-date": "1926-10", "volume": "83", "number": "4"},
-     {"issue-date": "1926-11", "volume": "83", "number": "5"},
-     {"issue-date": "1926-12", "volume": "83", "number": "6"},
      {"issue-date": "1927-02", "volume": "84", "number": "2",
        "cdate": "1927-01-25"},
      {"issue-date": "1927-03", "volume": "84", "number": "3"},
@@ -40,147 +30,6 @@
    ],
    "renewed-contribution-completeness": "active/1927",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1926-02"},
-      "title": "Perella",
-      "title-note": "part 3 of 9",
-      "author": {
-       "authorized": "Locke, William John, 1863-1930",
-       "lcna": "n84141474"
-      }
-     },
-     {"issue": {"issue-date": "1926-03"},
-      "title": "Perella",
-      "title-note": "part 4 of 9",
-      "author": {
-       "authorized": "Locke, William John, 1863-1930",
-       "lcna": "n84141474"
-      }
-     },
-     {"issue": {"issue-date": "1926-04"},
-      "title": "True Thomas",
-      "author": {
-       "authorized": "Benét, Stephen Vincent, 1898-1943",
-       "lcna": "n50007691"
-      }
-     },
-     {"issue": {"issue-date": "1926-04"},
-      "title": "Thursday's Swan Had a Crumpled Wing",
-      "note": "Author as credited in the issue.  CCE credits the story to Stephen Vincent Benét; that appears to be an error, though it is unclear whether the error was made by the Copyright Office, or by Benét's widow, who is listed as the renewal claimant. Benét did write another story in the same issue.",
-      "author": {
-       "authorized": "Abbott, Eleanor Hallowell, 1872-1958",
-       "lcna": "no92023552"
-      }
-     },
-     {"issue": {"issue-date": "1926-04"},
-      "title": "Perella",
-      "title-note": "part 5 of 9",
-      "author": {
-       "authorized": "Locke, William John, 1863-1930",
-       "lcna": "n84141474"
-      }
-     },
-     {"issue": {"issue-date": "1926-04"},
-      "title": "The Way of Understanding",
-      "author": {
-       "authorized": "Monroe, Anne Shannon, 1877-1942",
-       "lcna": "n90622304"
-      }
-     },
-     {"issue": {"issue-date": "1926-05"},
-      "title": "Perella",
-      "title-note": "part 6 of 9",
-      "author": {
-       "authorized": "Locke, William John, 1863-1930",
-       "lcna": "n84141474"
-      }
-     },
-     {"issue": {"issue-date": "1926-05"},
-      "title": "Polly with a Present",
-      "author": {
-       "authorized": "Monroe, Anne Shannon, 1877-1942",
-       "lcna": "n90622304"
-      }
-     },
-     {"issue": {"issue-date": "1926-06"},
-      "title": "Perella",
-      "title-note": "part 7 of 9",
-      "author": {
-       "authorized": "Locke, William John, 1863-1930",
-       "lcna": "n84141474"
-      }
-     },
-     {"issue": {"issue-date": "1926-07"},
-      "title": "Perella",
-      "title-note": "part 8 of 9",
-      "author": {
-       "authorized": "Locke, William John, 1863-1930",
-       "lcna": "n84141474"
-      }
-     },
-     {"issue": {"issue-date": "1926-07"},
-      "title": "The Highest Criticism",
-      "author": {
-       "authorized": "Monroe, Anne Shannon, 1877-1942",
-       "lcna": "n90622304"
-      }
-     },
-     {"issue": {"issue-date": "1926-07"},
-      "title": "A Watcher in the Woods",
-      "author": {
-       "authorized": "Sass, Herbert Ravenel, 1884-1958",
-       "lcna": "n88224199"
-      }
-     },
-     {"issue": {"issue-date": "1926-07"},
-      "title": "Stubborn Jim",
-      "author": {
-       "authorized": "Hopper, James, 1876-1956",
-       "lcna": "n00068220"
-      }
-     },
-     {"issue": {"issue-date": "1926-08"},
-      "title": "Perella",
-      "title-note": "part 9 of 9",
-      "author": {
-       "authorized": "Locke, William John, 1863-1930",
-       "lcna": "n84141474"
-      }
-     },
-     {"issue": {"issue-date": "1926-10"}, 
-      "title": "On the Wings of a Bird",
-      "author": {
-       "authorized": "Sass, Herbert Ravenel, 1884-1958",
-       "lcna": "n88224199"
-      }
-     },
-     {"issue": {"issue-date": "1926-11"}, 
-      "title": "The Fortunate Face",
-      "author": {
-       "authorized": "Gibbs, Philip, 1877-1962",
-       "lcna": "n85232177"
-      }
-     },
-     {"issue": {"issue-date": "1927-01"}, 
-      "title": "Habit",
-      "author": {
-       "authorized": "Cosgrave, Jessica G. (Jessica Garretson), 1873-1949",
-       "lcna": "n2002134809"
-      }
-     },
-     {"issue": {"issue-date": "1927-01"}, 
-      "title": "The Mind of Your Child",
-      "author": {
-       "authorized": "Cosgrave, Jessica G. (Jessica Garretson), 1873-1949",
-       "lcna": "n2002134809"
-      }
-     },
-     {"issue": {"issue-date": "1927-01"}, 
-      "title": "The Power of Thought",
-      "author": {
-       "authorized": "Cosgrave, Jessica G. (Jessica Garretson), 1873-1949",
-       "lcna": "n2002134809"
-      }
-     },
      {"issue": {"issue-date": "1927-02"}, 
       "title": "Concentration",
       "author": {
@@ -502,10 +351,9 @@
       }
      }
    ],
-   "additional-note": "Active contribution renewals are recorded beginning in the 1953 January-June CCE volume, but the earliest actively renewed contribution is noted in the 1953 July-December volume.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-07-19"
+   "last-updated": "2022-01-11"
 }

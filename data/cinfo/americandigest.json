@@ -1,29 +1,13 @@
 {
    "title": "American Digest",
    "title-note": "Monthly advance sheets, Key number series, through mid-1926",
-   "first-renewed-issue":
-     {"issue-date": "1925-12", "cdate": "1926-01-05", "number": "423"},
-   "first-renewed-issue-source": "1953-JanJun",
-   "first-renewed-contribution": "none",
-   "first-renewed-contribution-source": "cce",
+   "rights-statement": "NoC-US",
    "last-issue": {"issue-date": "1926-08", "number": "431"},
-   "renewed-issue-completeness": "active/end",
-   "renewed-issues": [
-     {"issue-date": "1925-12", "cdate": "1926-01-05", "number": "423"},
-     {"issue-date": "1926-01", "number": "424"},
-     {"issue-date": "1926-02", "number": "425"},
-     {"issue-date": "1926-03", "number": "426"},
-     {"issue-date": "1926-04", "number": "427"},
-     {"issue-date": "1926-05", "number": "428"},
-     {"issue-date": "1926-06", "number": "429"},
-     {"issue-date": "1926-07", "number": "430"},
-     {"issue-date": "1926-08", "number": "431"}
-   ],
    "succeeded-by": [{"id": "currentdigest", "note": "Current Digest"}],
    "additional-note": "The American Digest system takes somewhat different forms from mid-1926 onward.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-01-02"
+   "last-updated": "2022-01-22"
 }

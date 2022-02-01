@@ -1,80 +1,13 @@
 {
    "title": "New York American",
-   "first-renewed-issue": {"issue-date": "1926-05-16"},
-   "first-renewed-issue-source": "1953-JulDec",
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1926-02-17"}},
-   "first-renewed-contribution-source": "1953-JanJun",
-   "renewed-issue-completeness": "active/1926",
-   "renewed-issues": [
-      {"issue-date": "1926-05-16"}
-   ],
-   "renewed-contribution-completeness": "active/1926",
+     {"issue": {"issue-date": "1927-05-09"}},
+   "first-renewed-contribution-source": "1954-JanJun",
+   "last-issue": {"issue-date": "1937-06-24"},
+   "renewed-contribution-completeness": "active/1927",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1926-02-17"},
-       "title": "Lenglen Like Spanish Toreador",
-       "author": {
-          "authorized": "Blasco Ibáñez, Vicente, 1867-1928",
-          "lcna": "n79046157"
-       }
-     },
-     {"issue": {"issue-date": "1926-04-25"},
-       "title": "Toots & Casper. Isn't it Odd",
-       "note": "Renewed under Artwork. Listed as work for hire by Jimmy Murphy as an employee of King Features Syndicate.  King Features is the author for copyright purposes.",
-       "authors": [
-          {"authorized": "Murphy, Jimmy, 1891-1965", "lcna": "n95000162"},
-           {"authorized": "King Features Syndicate", "lcna": "n82010039"}
-       ]
-     },
-     {"issue": {"issue-date": "1926-05-31"},
-      "title": "Henry Ford's Own Story, the Great Today, the Greater Tomorrow",
-      "authors": [
-        {"authorized": "Ford, Henry, 1863-1947",
-          "lcna": "n79055385"},
-        {"authorized": "Crowther, Samuel, 1880-1947",
-          "lcna": "n87937828"}
-      ]
-     },
-     {"issue": {"issue-date": "1926-10-03"},
-      "title": "Private Letters of Joseph Conrad",
-      "title-note": "first installment",
-      "author": {
-         "authorized": "Conrad, Joseph, 1857-1924",
-         "lcna": "n79054067"
-      }
-     },
-     {"issue": {"issue-date": "1926-10-10"},
-      "title": "Private Letters of Joseph Conrad",
-      "title-note": "second installment",
-      "note": "Later renewals this year by Conrad listed below are probably from this series as well.",
-      "author": {
-         "authorized": "Conrad, Joseph, 1857-1924",
-         "lcna": "n79054067"
-      }
-     },
-     {"issue": {"issue-date": "1926-10-17"},
-      "title": "I Quarry Out My English Like a Coal Miner in a Pit",
-      "title-note": "3d installment",
-      "author": {
-         "authorized": "Conrad, Joseph, 1857-1924",
-         "lcna": "n79054067"
-      }
-     },
-     {"issue": {"issue-date": "1926-10-24"},
-      "title": "My Landing in New York",
-      "title-note": "4th installment",
-      "author": {
-         "authorized": "Conrad, Joseph, 1857-1924",
-         "lcna": "n79054067"
-      }
-     },
-     {"issue": {"issue-date": "1926-10-31"},
-      "title": "I Refused British Knighthood",
-      "author": {
-         "authorized": "Conrad, Joseph, 1857-1924",
-         "lcna": "n79054067"
-      }
-     },
      {"issue": {"issue-date": "1927-05-09"},
        "title": "Merely Margy, an Awfully Sweet Girl",
        "note": "Renewed under Artwork. Listed as work for hire by John Held, Jr., as an employee of King Features Syndicate.  King Features is the author for copyright purposes.",
@@ -82,14 +15,76 @@
           {"authorized": "Held, John, Jr., 1889-1958", "lcna": "n50028528"},
           {"authorized": "King Features Syndicate", "lcna": "n82010039"}
        ]
+     },
+     {"issue": {"issue-date": "1928-05-20"}, 
+      "title": "A Scheme for All Human Conduct",
+      "author": {
+       "authorized": "Wells, H. G. (Herbert George), 1866-1946",
+       "lcna": "n79063613"
+      }
+     },
+     {"issue": {"issue-date": "1928-05-27"}, 
+      "title": "One Government for the Whole World",
+      "author": {
+       "authorized": "Wells, H. G. (Herbert George), 1866-1946",
+       "lcna": "n79063613"
+      }
+     },
+     {"issue": {"issue-date": "1928-06-03"}, 
+      "title": "The Open Conspiracy",
+      "title-note": "3rd installment",
+      "author": {
+       "authorized": "Wells, H. G. (Herbert George), 1866-1946",
+       "lcna": "n79063613"
+      }
+     },
+     {"issue": {"issue-date": "1928-06-10"}, 
+      "title": "The Open Conspiracy",
+      "title-note": "4th installment",
+      "author": {
+       "authorized": "Wells, H. G. (Herbert George), 1866-1946",
+       "lcna": "n79063613"
+      }
+     },
+     {"issue": {"issue-date": "1928-06-17"}, 
+      "title": "The Open Conspiracy",
+      "title-note": "5th installment",
+      "author": {
+       "authorized": "Wells, H. G. (Herbert George), 1866-1946",
+       "lcna": "n79063613"
+      }
+     },
+     {"issue": {"issue-date": "1928-06-24"}, 
+      "title": "The Open Conspiracy",
+      "title-note": "6th installment",
+      "author": {
+       "authorized": "Wells, H. G. (Herbert George), 1866-1946",
+       "lcna": "n79063613"
+      }
+     },
+     {"issue": {"issue-date": "1928-07-01"}, 
+      "title": "The Open Conspiracy",
+      "title-note": "7th installment",
+      "author": {
+       "authorized": "Wells, H. G. (Herbert George), 1866-1946",
+       "lcna": "n79063613"
+      }
+     },
+     {"issue": {"issue-date": "1928-07-08"}, 
+      "title": "The Open Conspiracy",
+      "title-note": "7th installment",
+      "author": {
+       "authorized": "Wells, H. G. (Herbert George), 1866-1946",
+       "lcna": "n79063613"
+      }
      }
    ],
-   "comment": "Pick up with 1955 both under Contributions and Artwork",
+   "comment": "Pick up with 1956 both under Contributions and Artwork",
    "additional-note": 
    "Some images from the New York American were renewed separately in the Artwork section, rather than in the Contributions to Periodicals section.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-01-28"
+   "last-updated": "2022-01-10"
 }

@@ -2,9 +2,9 @@
    "title": "The Century",
    "online": "1",
    "first-renewed-issue": 
-      {"issue-date": "1926-02", "volume": "111", "number": "4",
-        "cdate": "1926-01-25"},
-   "first-renewed-issue-source": "1953-JulDec",
+      {"issue-date": "1927-02", "volume": "113", "number": "4",
+       "cdate": "1927-01-20"},
+   "first-renewed-issue-source": "1954-JulDec",
    "first-renewed-contribution":
      {"issue": {"issue-date": "1927-08"}},
    "first-renewed-contribution-source": "1955-JanJun",
@@ -12,20 +12,6 @@
      {"issue-date": "1930-Spring", "volume": "120", "number": "2"},
    "renewed-issue-completeness": "active/1927",
    "renewed-issues": [
-      {"issue-date": "1926-02", "volume": "111", "number": "4",
-        "cdate": "1926-01-25"},
-      {"issue-date": "1926-03", "volume": "111", "number": "5"},
-      {"issue-date": "1926-04", "volume": "111", "number": "6"},
-      {"issue-date": "1926-05", "volume": "112", "number": "1"},
-      {"issue-date": "1926-06", "volume": "112", "number": "2"},
-      {"issue-date": "1926-07", "volume": "112", "number": "3"},
-      {"issue-date": "1926-08", "volume": "112", "number": "4"},
-      {"issue-date": "1926-09", "volume": "112", "number": "5"},
-      {"issue-date": "1926-10", "volume": "112", "number": "6"},
-      {"issue-date": "1926-11", "volume": "113", "number": "1"},
-      {"issue-date": "1926-12", "volume": "113", "number": "2"},
-      {"issue-date": "1927-01", "volume": "113", "number": "3",
-       "cdate": "1926-12-20"},
       {"issue-date": "1927-02", "volume": "113", "number": "4",
        "cdate": "1927-01-20"},
       {"issue-date": "1927-03", "volume": "113", "number": "5"},
@@ -137,5 +123,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-07-22"
+   "last-updated": "2022-01-06"
 }

@@ -5,38 +5,10 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1926-03"}}, 
-   "first-renewed-contribution-source": "1953-JanJun",
+     {"issue": {"issue-date": "1927-01"}}, 
+   "first-renewed-contribution-source": "1954-JulDec",
    "renewed-contribution-completeness": "active/1930",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1926-03"}, 
-      "title": "The Veiled Feminists of Atlantis",
-      "author": {
-       "authorized": "Tarkington, Booth, 1869-1946",
-       "lcna": "n79078124"
-      }
-     },
-     {"issue": {"issue-date": "1926-03"}, 
-      "title": "Devon the Delectable",
-      "author": {
-       "authorized": "Coffin, Robert P. Tristram (Robert Peter Tristram), 1892-1955",
-       "lcna": "n50030030"
-      }
-     },
-     {"issue": {"issue-date": "1926-07"},
-        "title": "The Courtship of Animals",
-        "author": {
-         "authorized": "Huxley, Julian, 1887-1975",
-         "lcna": "n80057245"
-        }
-     },
-     {"issue": {"issue-date": "1926-08"},
-      "title": "In Defense of Authors",
-      "author": {
-       "authorized": "Train, Arthur, 1875-1945",
-       "lcna": "n50014661"
-      }
-     },
      {"issue": {"issue-date": "1927-01"},
         "title": "Death Comes for the Archbishop",
         "title-note": "part 1 of 6",
@@ -264,9 +236,10 @@
         }
      }
    ],
+   "additional-note": "Active contribution renewals are recorded beginning in the 1954 January-June CCE volume, but the earliest renewed contribution is noted in the 1954 July-December volume.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-01-23"
+   "last-updated": "2022-01-06"
 }

@@ -8,48 +8,13 @@
    "first-renewed-issue":  "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1926-04", "volume": "54", "number": "4"}},
-   "first-renewed-contribution-source": "1953-JanJun",
+     {"issue": {"issue-date": "1927-02", "volume": "56", "number": "2",
+      "cdate": "1927-01-03"}},
+   "first-renewed-contribution-source": "1954-JulDec",
    "last-issue":  {"issue-date": "1929-03", "volume": "60", "number": "3"},
    "succeeded-by":  [{"id": "everyromance", "note": "Everybody's-Romance"}],
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1926-04", "volume": "54", "number": "4"},
-      "title": "The Very Good Man",
-      "author": {
-        "authorized": "Wallace, Edgar, 1875-1932",
-        "lcna": "n80034938"
-      }
-     },
-     {"issue": {"issue-date": "1926-06", "volume": "54", "number": "6"},
-      "title": "Mike Donovan of Ireland",
-      "author": {
-        "name": "Guy Fletcher"
-      }
-     },
-     {"issue": {"issue-date": "1926-08", "volume": "55", "number": "2"},
-      "title": "The Great Sham",
-      "author": {
-        "authorized": "Wallace, Edgar, 1875-1932",
-        "lcna": "n80034938"
-      }
-     },
-     {"issue": {"issue-date": "1927-01", "volume": "56", "number": "1"},
-      "title": "The Flying Kestrel",
-      "title-note": "part 1 of 4",
-      "author": {
-         "authorized": "Dingle, A. E., 1874-1947",
-         "lcna": "no2016118807"
-      }
-     },
-     {"issue": {"issue-date": "1927-01", "volume": "56", "number": "1"},
-      "title": "Cholera at Bukit Batu",
-      "note": "CCE renewal record places this story in the December 1926 issue, but it actually ran in the January 1927 issue, not the December 1926 issue.",
-      "author": {
-        "authorized": "Blochman, Lawrence G. (Lawrence Goldtree), 1900-1975",
-        "lcna": "n50016555"
-      }
-     },
      {"issue": {"issue-date": "1927-02", "volume": "56", "number": "2"},
       "title": "The Flying Kestrel",
       "title-note": "part 2 of 4",
@@ -227,9 +192,10 @@
       }
      }
    ],
+   "additional-note" : "Active contribution renewals are recorded beginning in the 1954 January-June CCE volume, but the earliest actively renewed contribution is noted in the 1954 July-December volume.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-01-23"
+   "last-updated": "2022-01-10"
 }

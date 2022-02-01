@@ -9,25 +9,10 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1926-02", "volume": "71", "number": "422"}},
-   "first-renewed-contribution-source": "1953-JulDec",
+     {"issue": {"issue-date": "1927-02", "volume": "73", "number": "434"}},
+   "first-renewed-contribution-source": "1954-JulDec",
    "renewed-contribution-completeness": "active/1927",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1926-02", "volume": "71", "number": "422"},
-      "title": "Touch and Go",
-      "note": "Author name is a pseudonym for H. C. McNeile",
-      "author": {
-       "authorized": "Sapper, 1888-1937",
-       "lcna": "n85822242"
-      }
-     },
-     {"issue": {"issue-date": "1926-12", "volume": "72", "number": "432"},
-      "title": "A Hundred Per Cent",
-      "author": {
-       "authorized": "McNeile, H. C. (Herman Cyril), 1888-1937",
-       "lcna": "no96039399"
-      }
-     },
      {"issue": {"issue-date": "1927-02", "volume": "73", "number": "434"},
       "title": "Dilemma",
       "note": "Author name is a pseudonym for H. C. McNeile",
@@ -77,10 +62,13 @@
        }
      }
    ],
-   "additional-note" : "This is a British publication.  Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US.",
+   "additional-notes": [
+    "This is a British publication.  Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US.",
+    "The story 'A Hundred Per Cent' by H. C. McNeile, published in the December 1926 issue of The Strand, also has a US copyright registration dated 1927. We are not sure that this is still in force, but mention it here for completeness."
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-01-28"
+   "last-updated": "2022-01-12"
 }

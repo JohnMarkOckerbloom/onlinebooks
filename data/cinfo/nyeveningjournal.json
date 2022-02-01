@@ -1,33 +1,46 @@
 {
    "title": "New York Evening Journal",
    "aka": ["New York Journal"],
-   "first-renewed-issue": {"issue-date": "1926-07-03", "number": "14633"},
-   "first-renewed-issue-source": "1954-JanJun",
+   "first-renewed-issue":
+      {"issue-date": "1929-02-11", "number": "15433"},
+   "first-renewed-issue-source": "1956-JulDec",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1926-01-16"}},
-   "first-renewed-contribution-source": "1953-JanJun",
-   "renewed-issue-completeness": "active/1926",
+     {"issue": {"issue-date": "1927-09-12"}},
+   "first-renewed-contribution-source": "1954-JulDec",
+   "last-issue": {"issue-date": "1937-06-24"},
+   "renewed-issue-completeness": "active/end",
    "renewed-issues": [
-      {"issue-date": "1926-07-03", "number": "14633"}
+      {"issue-date": "1929-02-11", "number": "15433"},
+      {"issue-date": "1929-02-12", "number": "15434"},
+      {"issue-date": "1929-02-13", "number": "15435"},
+      {"issue-date": "1929-02-14", "number": "15436"},
+      {"issue-date": "1929-02-15", "number": "15437"},
+      {"issue-date": "1929-02-16", "number": "15438"},
+      {"issue-date": "1929-02-18", "number": "15439"},
+      {"issue-date": "1929-02-19", "number": "15440"},
+      {"issue-date": "1929-02-20", "number": "15441"},
+      {"issue-date": "1929-02-21", "number": "15442"},
+      {"issue-date": "1929-02-22", "number": "15443"},
+      {"issue-date": "1929-02-23", "number": "15444"},
+      {"issue-date": "1929-02-25", "number": "15445"},
+      {"issue-date": "1929-02-26", "number": "15446"},
+      {"issue-date": "1929-02-27", "number": "15447"},
+      {"issue-date": "1929-02-28", "number": "15448"},
+      {"issue-date": "1929-03-01", "number": "15449"},
+      {"issue-date": "1929-03-02", "number": "15450"},
+      {"issue-date": "1929-03-04", "number": "15451"},
+      {"issue-date": "1929-03-05", "number": "15452"},
+      {"issue-date": "1929-03-06", "number": "15453"},
+      {"issue-date": "1929-03-07", "number": "15454"},
+      {"issue-date": "1929-03-08", "number": "15455"},
+      {"issue-date": "1929-03-09", "number": "15456"},
+      {"issue-date": "1929-03-11", "number": "15457"},
+      {"issue-date": "1929-03-12", "number": "15458"},
+      {"issue-date": "1929-03-13", "number": "15459"},
+      {"issue-date": "1929-03-14", "number": "15460"}
     ],
-   "renewed-contribution-completeness": "active/1926",
+   "renewed-contribution-completeness": "active/1927",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1926-01-16"},
-       "title": "Us Husbands. What Do You Mean, I Never Go Out",
-       "note": "Renewed under Artwork. Listed as work for hire by George Herriman as an employee of King Features Syndicate.  King Features is the author for copyright purposes.",
-       "authors": [
-        {"authorized": "Herriman, George, 1880-1944", "lcna": "n50036897"},
-        {"authorized": "King Features Syndicate", "lcna": "n82010039"}
-       ]
-     },
-     {"issue": {"issue-date": "1926-01-30"},
-       "title": "Dumb Dora",
-       "note": "Listed as work for hire by Murat Bernard Young (aka Chic Young) as an employee of King Features Syndicate.  King Features is the author for copyright purposes.",
-       "authors": [
-        {"authorized": "Young, Chic, 1901-1973", "lcna": "n82032404"},
-        {"authorized": "King Features Syndicate", "lcna": "n82010039"}
-       ]
-     },
      {"issue": {"issue-date": "1927-09-12"},
        "title": "Becky",
        "title-note": "part 1 of 46",
@@ -361,10 +374,10 @@
      }
    ],
    "additional-note": 
-   "Some images from the New York Evening Journal were renewed separately in the Artwork section, rather than in the Contributions to Periodicals section.  The first such image with an active copyright ran in the January 16, 1926 issue, and was renewed in 1953.  The first contribution to be renewed in the Contributions to periodicals section of the CCE ran in the January 30, 1926 issue, and was also renewed in 1953.",
+   "Some images from the New York Evening Journal were renewed separately in the Artwork section, rather than in the Contributions to Periodicals section.  The first such image with an active copyright ran in the March 3, 1928 issue, and was renewed in 1955.  The first contribution to be renewed in the Contributions to periodicals section of the CCE ran in the September 12, 1927 issue, and was also renewed in 1954.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-01-09"
+   "last-updated": "2022-01-10"
 }

@@ -7,60 +7,16 @@
    ],
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
-   "first-renewed-contribution":
-       {"issue": {"issue-date": "1926-02-01", "volume": "8", "number": "2"}},
-   "first-renewed-contribution-source": "1953-JulDec",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce",
    "last-issue": {"issue-date": "1927-08", "volume": "11", "number": "5"},
    "succeeded-by":
       [{"id": "myststor1927",
         "note": "Mystery Stories (pulp magazine, 1927-1929)"}],
    "renewed-contribution-completeness": "active/end",
-   "renewed-contributions": [
-     {"issue": {"issue-date": "1926-02-01", "volume": "8", "number": "2"},
-      "title": "Who Rideth Alone",
-      "title-note": "part 2 of 5?",
-      "note": "The first part appeared in the January 15, 1926 issue, copyrighted in 1925 and now in the public domain.",
-      "author": {
-       "authorized": "Wren, Percival Christopher, 1885-1941",
-       "lcna": "no96014381"
-      }
-     },
-     {"issue": {"issue-date": "1926-02-15", "volume": "8", "number": "3"},
-      "title": "Who Rideth Alone",
-      "title-note": "part 3 of 5?",
-      "author": {
-       "authorized": "Wren, Percival Christopher, 1885-1941",
-       "lcna": "no96014381"
-      }
-     },
-     {"issue": {"issue-date": "1926-03-01", "volume": "8", "number": "4"},
-      "title": "Who Rideth Alone",
-      "title-note": "part 4 of 5?",
-      "author": {
-       "authorized": "Wren, Percival Christopher, 1885-1941",
-       "lcna": "no96014381"
-      }
-     },
-     {"issue": {"issue-date": "1926-03-15", "volume": "8", "number": "5"},
-      "title": "Who Rideth Alone",
-      "title-note": "part 5 of 5?",
-      "note": "This issue is mentioned in the CCE renewal record for this story, but the story is not mentioned in FictionMags's table of contents for this issue. I have not examined the issue myself.",
-      "author": {
-       "authorized": "Wren, Percival Christopher, 1885-1941",
-       "lcna": "no96014381"
-      }
-     },
-     {"issue": {"issue-date": "1926-04-01", "volume": "8", "number": "6"},
-      "title": "The Under Dog",
-      "author": {
-         "authorized": "Christie, Agatha, 1890-1976",
-         "lcna": "n79038407"
-       }
-     }
-   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-07-20"
+   "last-updated": "2022-01-10"
 }

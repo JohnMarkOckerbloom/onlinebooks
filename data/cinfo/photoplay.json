@@ -5,6 +5,9 @@
    "first-renewed-issue":
       {"issue-date": "1944-01", "volume": "24", "number": "2"},
    "first-renewed-issue-source": "1971",
+   "first-renewed-contribution": 
+      {"issue": {"issue-date": "1927-12"}}, 
+   "first-renewed-contribution-source": "1954-JulDec",
    "renewed-issue-completeness": "active/autorenewals",
    "renewed-issues": [
       {"issue-date": "1944-01", "volume": "24", "number": "2"},
@@ -20,27 +23,8 @@
       {"issue-date": "1945-05", "volume": "26", "number": "6"},
       {"issue-date": "1964-01", "volume": "65", "number": "1"}
    ],
-   "first-renewed-contribution": 
-      {"issue": {"issue-date": "1926-08"}}, 
-   "first-renewed-contribution-source": "1954-JanJun",
    "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
-       {"issue": {"issue-date": "1926-08"}, 
-        "title": "Miscast",
-        "title-note": "part 1 of 2",
-        "author": {
-         "authorized": "Weiman, Rita, 1889-1954",
-         "lcna": "n89129751"
-        }
-       },
-       {"issue": {"issue-date": "1926-09"}, 
-        "title": "Miscast",
-        "title-note": "part 2 of 2",
-        "author": {
-         "authorized": "Weiman, Rita, 1889-1954",
-         "lcna": "n89129751"
-        }
-       },
        {"issue": {"issue-date": "1927-12"}, 
         "title": "Peter's Wife",
         "author": {
@@ -307,5 +291,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-07-19"
+   "last-updated": "2022-01-06"
 }

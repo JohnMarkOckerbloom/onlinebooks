@@ -6,18 +6,11 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution":
-      {"issue": {"issue-date": "1926-08"}},
-   "first-renewed-contribution-source": "1953-JulDec",
+      {"issue": {"issue-date": "1927-02"}},
+   "first-renewed-contribution-source": "1955-JanJun",
    "renewed-issue-completeness": "active/autorenewals",
    "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1926-08"},
-      "title": "The Other Foot",
-      "author": {
-       "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
-       "lcna": "no90021257"
-      }
-     },
      {"issue": {"issue-date": "1927-02"},
        "title": "The Secret Way",
        "title-note": "part 1 of 6",
@@ -74,9 +67,10 @@
        }
      }
    ],
+   "additional-note": "Active contribution renewals are recorded beginning in the 1954 January-June CCE volume, but the earliest renewed contribution is noted in the 1955 January-June volume.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-06-10"
+   "last-updated": "2022-01-10"
 }

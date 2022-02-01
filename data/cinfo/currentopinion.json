@@ -1,13 +1,11 @@
 {
    "title": "Current Opinion",
    "online": "1",
-   "first-renewed-issue": "none",
-   "first-renewed-issue-source": "cce",
-   "first-renewed-contribution": "none",
-   "first-renewed-contribution-source": "cce",
+   "preceded-by": [{"id": "currentlit", "note": "Current Literature"}],
+   "rights-statement": "NoC-US",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-01-08"
+   "last-updated": "2022-01-30"
 }

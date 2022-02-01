@@ -9,54 +9,10 @@
      {"issue-date": "1930-09", "volume": "9", "number": "4"},
    "first-renewed-issue-source": "1958-JulDec",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1926-04"}},
-   "first-renewed-contribution-source": "1953-JanJun",
+     {"issue": {"issue-date": "1927-02", "volume": "5", "number": "9"}},
+   "first-renewed-contribution-source": "1954-JulDec",
    "renewed-contribution-completeness": "active/1929",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1926-04", "volume": "4", "number": "11"},
-      "title": "The Man Who Burned a Hole in His Coat",
-      "author": {
-       "authorized": "Burnet, Dana, 1888-1962",
-       "lcna": "n88172670"
-      }
-     },
-     {"issue": {"issue-date": "1926-05", "volume": "4", "number": "12"},
-      "title": "The Shadowy Crown",
-      "author": {
-       "authorized": "Benét, Stephen Vincent, 1898-1943",
-       "lcna": "n50007691"
-      }
-     },
-     {"issue": {"issue-date": "1926-05", "volume": "4", "number": "12"},
-      "title": "The Pretenders",
-      "note": "Title and issue as claimed in CCE renewal record.  It may be an alternate title for 'The Shadowy Crown', which we found in this issue, and which has a separate renewal record. We have not found a story titled 'The Pretenders' in that issue, or elsewhere to date.",
-      "author": {
-       "authorized": "Benét, Stephen Vincent, 1898-1943",
-       "lcna": "n50007691"
-      }
-     },
-     {"issue": {"issue-date": "1926-08", "volume": "5", "number": "3"},
-      "title": "The Question Puller",
-      "author": {
-       "authorized": "Williams, Ben Ames, 1889-1953",
-       "lcna": "n80006285"
-      }
-     },
-     {"issue": {"issue-date": "1926-10", "volume": "5", "number": "5"},
-      "title": "Backfire",
-      "note": "CCE files this renewal under Harold Hopper Titus (who was a philosophy professor, 1896-1984), though it is more likely to be Harold Titus (the novelist, 1888-1967)",
-      "author": {
-         "authorized": "Titus, Harold, 1888-1967",
-         "lcna": "no2008175553"
-      }
-     },
-     {"issue": {"issue-date": "1926-11", "volume": "5", "number": "6"},
-      "title": "The Mystery-Lover",
-      "author": {
-         "authorized": "Connell, Richard Edward, 1893-1949",
-         "lcna": "n50028704"
-       }
-     },
      {"issue": {"issue-date": "1927-02", "volume": "5", "number": "9"},
       "title": "The Bayonet in the Wall",
       "author": {
@@ -212,5 +168,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-07-20"
+   "last-updated": "2022-01-10"
 }

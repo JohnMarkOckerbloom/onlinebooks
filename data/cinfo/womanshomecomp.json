@@ -8,219 +8,10 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1926-03", "volume": "53", "number": "3",
-                "cdate": "1926-01-25"}},
-   "first-renewed-contribution-source": "1953-JanJun",
-   "renewed-contribution-completeness": "active/1926",
+     {"issue": {"issue-date": "1927-04", "volume": "54", "number": "4"}},
+   "first-renewed-contribution-source": "1954-JanJun",
+   "renewed-contribution-completeness": "active/1927",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1926-03", "volume": "53", "number": "3"}, 
-      "title": "The Secret Chaperone",
-      "author": {
-         "authorized": "Benefield, Barry, 1877-1971",
-         "lcna": "no90003376"
-       }
-     },
-     {"issue": {"issue-date": "1926-04", "volume": "53", "number": "4"},
-      "title": "Show Boat",
-      "title-note": "part 1 of 6",
-      "author": {
-       "authorized": "Ferber, Edna, 1887-1968",
-       "lcna": "n79077439"
-      }
-     },
-     {"issue": {"issue-date": "1926-04", "volume": "53", "number": "4"},
-      "title": "Behind the Social Note",
-      "title-note": "part 3 of 3",
-       "author": {
-         "authorized": "Miller, Alice Duer, 1874-1942",
-         "lcna": "n83057208"
-       }
-     },
-     {"issue": {"issue-date": "1926-05", "volume": "53", "number": "5"}, 
-      "title": "With Banners Blowing",
-      "author": {
-         "authorized": "Benefield, Barry, 1877-1971",
-         "lcna": "no90003376"
-       }
-     },
-     {"issue": {"issue-date": "1926-05", "volume": "53", "number": "5"}, 
-      "title": "Suzette",
-      "author": {
-       "authorized": "Bercovici, Konrad, 1882-1961",
-       "lcna": "n50006835"
-      }
-     },
-     {"issue": {"issue-date": "1926-05", "volume": "53", "number": "5"}, 
-      "title": "Poor Papa",
-      "author": {
-       "name": "Marion Valensi"
-      }
-     },
-     {"issue": {"issue-date": "1926-05", "volume": "53", "number": "5"}, 
-      "title": "Show Boat",
-      "title-note": "part 2 of 6",
-      "author": {
-       "authorized": "Ferber, Edna, 1887-1968",
-       "lcna": "n79077439"
-      }
-     },
-     {"issue": {"issue-date": "1926-06", "volume": "53", "number": "6"}, 
-      "title": "Show Boat",
-      "title-note": "part 3 of 6",
-      "author": {
-       "authorized": "Ferber, Edna, 1887-1968",
-       "lcna": "n79077439"
-      }
-     },
-     {"issue": {"issue-date": "1926-06", "volume": "53", "number": "6"}, 
-      "title": "Small Boy Looks at His World",
-      "author": {
-       "authorized": "Anderson, Sherwood, 1876-1941",
-       "lcna": "n79045519"
-      }
-     },
-     {"issue": {"issue-date": "1926-06", "volume": "53", "number": "6"}, 
-      "title": "Tar Moorhead's Father",
-      "author": {
-       "authorized": "Anderson, Sherwood, 1876-1941",
-       "lcna": "n79045519"
-      }
-     },
-     {"issue": {"issue-date": "1926-07", "volume": "53", "number": "7"}, 
-      "title": "Show Boat",
-      "title-note": "part 4 of 6",
-      "author": {
-       "authorized": "Ferber, Edna, 1887-1968",
-       "lcna": "n79077439"
-      }
-     },
-     {"issue": {"issue-date": "1926-07", "volume": "53", "number": "7"}, 
-      "title": "Her Son's Wife",
-      "author": {
-       "authorized": "Fisher, Dorothy Canfield, 1879-1958",
-       "lcna": "n50005248"
-      }
-     },
-     {"issue": {"issue-date": "1926-08", "volume": "53", "number": "8"}, 
-      "title": "The Clean Up",
-      "title-note": "part 1 of 3",
-      "author": {
-       "authorized": "Luther, Mark Lee, 1872-1951",
-       "lcna": "no2010079743"
-      }
-     },
-     {"issue": {"issue-date": "1926-08", "volume": "53", "number": "8"}, 
-      "title": "Show Boat",
-      "title-note": "part 5 of 6",
-      "author": {
-       "authorized": "Ferber, Edna, 1887-1968",
-       "lcna": "n79077439"
-      }
-     },
-     {"issue": {"issue-date": "1926-09", "volume": "53", "number": "9"}, 
-      "title": "Worlds of Fancy and of Facts",
-      "author": {
-       "authorized": "Anderson, Sherwood, 1876-1941",
-       "lcna": "n79045519"
-      }
-     },
-     {"issue": {"issue-date": "1926-09", "volume": "53", "number": "9"}, 
-      "title": "Show Boat",
-      "title-note": "part 6 of 6",
-      "author": {
-       "authorized": "Ferber, Edna, 1887-1968",
-       "lcna": "n79077439"
-      }
-     },
-     {"issue": {"issue-date": "1926-09", "volume": "53", "number": "9"}, 
-      "title": "The Clean Up",
-      "title-note": "part 2 of 3",
-      "author": {
-       "authorized": "Luther, Mark Lee, 1872-1951",
-       "lcna": "no2010079743"
-      }
-     },
-     {"issue": {"issue-date": "1926-10", "volume": "53", "number": "10"}, 
-      "title": "Tar's Day of Bravery",
-      "author": {
-       "authorized": "Anderson, Sherwood, 1876-1941",
-       "lcna": "n79045519"
-      }
-     },
-     {"issue": {"issue-date": "1926-10", "volume": "53", "number": "10"}, 
-      "title": "Cherry Square",
-      "title-note": "part 1 of 3",
-      "author": {
-         "authorized": "Richmond, Grace S. (Grace Smith), 1866-1959",
-         "lcna": "n90608121"
-      }
-     },
-     {"issue": {"issue-date": "1926-10", "volume": "53", "number": "10"}, 
-      "title": "The Clean Up",
-      "title-note": "part 3 of 3",
-      "author": {
-       "authorized": "Luther, Mark Lee, 1872-1951",
-       "lcna": "no2010079743"
-      }
-     },
-     {"issue": {"issue-date": "1926-11", "volume": "53", "number": "11"}, 
-      "title": "Cherry Square",
-      "title-note": "part 2 of 3",
-      "author": {
-         "authorized": "Richmond, Grace S. (Grace Smith), 1866-1959",
-         "lcna": "n90608121"
-      }
-     },
-     {"issue": {"issue-date": "1926-11", "volume": "53", "number": "11"}, 
-      "title": "Tar's Wonderful Sunday",
-      "author": {
-       "authorized": "Anderson, Sherwood, 1876-1941",
-       "lcna": "n79045519"
-      }
-     },
-     {"issue": {"issue-date": "1926-12", "volume": "53", "number": "12"}, 
-      "title": "The Mirror",
-      "author": {
-       "authorized": "Burnet, Dana, 1888-1962",
-       "lcna": "n88172670"
-      }
-     },
-     {"issue": {"issue-date": "1926-12", "volume": "53", "number": "12"}, 
-      "title": "Christmas Eve's Day",
-      "author": {
-         "authorized": "Benefield, Barry, 1877-1971",
-         "lcna": "no90003376"
-       }
-     },
-     {"issue": {"issue-date": "1926-12", "volume": "53", "number": "12"}, 
-      "title": "Cherry Square",
-      "title-note": "part 3 of 3",
-      "author": {
-         "authorized": "Richmond, Grace S. (Grace Smith), 1866-1959",
-         "lcna": "n90608121"
-      }
-     },
-     {"issue": {"issue-date": "1927-01", "volume": "54", "number": "1"}, 
-      "title": "The Thin Red Line",
-      "author": {
-       "authorized": "Fairbank, Janet Ayer, 1878-1951",
-       "lcna": "no2004009783"
-      }
-     },
-     {"issue": {"issue-date": "1927-01", "volume": "54", "number": "1"}, 
-      "title": "What Makes a Boy Afraid",
-      "author": {
-       "authorized": "Anderson, Sherwood, 1876-1941",
-       "lcna": "n79045519"
-      }
-     },
-     {"issue": {"issue-date": "1927-02", "volume": "54", "number": "2"}, 
-      "title": "Here Was Magic",
-      "author": {
-       "authorized": "Fisher, Dorothy Canfield, 1879-1958",
-       "lcna": "n50005248"
-      }
-     },
      {"issue": {"issue-date": "1927-04", "volume": "54", "number": "4"}, 
       "title": "Too Old to Matter",
       "author": {
@@ -241,6 +32,13 @@
       "author": {
        "authorized": "Gillmore, Inez Haynes, 1873-1970",
        "lcna": "n85372376"
+      }
+     },
+     {"issue": {"issue-date": "1927-05", "volume": "54", "number": "5"}, 
+      "title": "Your Way and Mine",
+      "author": {
+       "authorized": "Fitzgerald, F. Scott (Francis Scott), 1896-1940",
+       "lcna": "n79006871"
       }
      },
      {"issue": {"issue-date": "1927-05", "volume": "54", "number": "5"}, 
@@ -282,6 +80,14 @@
        }
      },
      {"issue": {"issue-date": "1927-07", "volume": "54", "number": "7"}, 
+      "title": "Her Mother's Jewels",
+      "title-note": "part 1 of 3",
+       "author": {
+         "authorized": "Miller, Alice Duer, 1874-1942",
+         "lcna": "n83057208"
+       }
+     },
+     {"issue": {"issue-date": "1927-07", "volume": "54", "number": "7"}, 
       "title": "At the South Gate",
       "title-note": "part 2 of 3",
       "author": {
@@ -304,11 +110,43 @@
          "lcna": "n90608121"
       }
      },
+     {"issue": {"issue-date": "1927-08", "volume": "54", "number": "8"}, 
+      "title": "Her Mother's Jewels",
+      "title-note": "part 2 of 3",
+       "author": {
+         "authorized": "Miller, Alice Duer, 1874-1942",
+         "lcna": "n83057208"
+       }
+     },
      {"issue": {"issue-date": "1927-09", "volume": "54", "number": "9"}, 
       "title": "Rendezvous",
       "author": {
        "authorized": "Gillmore, Inez Haynes, 1873-1970",
        "lcna": "n85372376"
+      }
+     },
+     {"issue": {"issue-date": "1927-09", "volume": "54", "number": "9"}, 
+      "title": "Her Mother's Jewels",
+      "title-note": "part 3 of 3",
+       "author": {
+         "authorized": "Miller, Alice Duer, 1874-1942",
+         "lcna": "n83057208"
+       }
+     },
+     {"issue": {"issue-date": "1927-11", "volume": "54", "number": "11"},
+      "title": "The Foolish Virgin",
+      "title-note": "part 1 of 6",
+      "author": {
+       "authorized": "Norris, Kathleen Thompson, 1880-1966",
+       "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1927-12", "volume": "54", "number": "12"},
+      "title": "The Foolish Virgin",
+      "title-note": "part 2 of 6",
+      "author": {
+       "authorized": "Norris, Kathleen Thompson, 1880-1966",
+       "lcna": "n50006075"
       }
      },
      {"issue": {"issue-date": "1928-01", "volume": "55", "number": "1"}, 
@@ -317,11 +155,152 @@
        "authorized": "Tarkington, Booth, 1869-1946",
        "lcna": "n79078124"
       }
+     },
+     {"issue": {"issue-date": "1928-01", "volume": "55", "number": "1"}, 
+      "title": "The Foolish Virgin",
+      "title-note": "part 3 of 6",
+      "author": {
+       "authorized": "Norris, Kathleen Thompson, 1880-1966",
+       "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1928-02", "volume": "55", "number": "2"}, 
+      "title": "The Duck and the Dog",
+      "author": {
+       "authorized": "Gillmore, Inez Haynes, 1873-1970",
+       "lcna": "n85372376"
+      }
+     },
+     {"issue": {"issue-date": "1928-02", "volume": "55", "number": "2"}, 
+      "title": "The Foolish Virgin",
+      "title-note": "part 4 of 6",
+      "author": {
+       "authorized": "Norris, Kathleen Thompson, 1880-1966",
+       "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1928-03", "volume": "55", "number": "3"}, 
+      "title": "Ultraviolet",
+      "title-note": "part 1 of 5",
+      "author": {
+       "authorized": "Webster, Henry Kitchell, 1875-1932",
+       "lcna": "n50023782"
+      }
+     },
+     {"issue": {"issue-date": "1928-03", "volume": "55", "number": "3"}, 
+      "title": "The Foolish Virgin",
+      "title-note": "part 5 of 6",
+      "author": {
+       "authorized": "Norris, Kathleen Thompson, 1880-1966",
+       "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1928-04", "volume": "55", "number": "4"}, 
+      "title": "The Foolish Virgin",
+      "title-note": "part 6 of 6",
+      "author": {
+       "authorized": "Norris, Kathleen Thompson, 1880-1966",
+       "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1928-04", "volume": "55", "number": "4"}, 
+      "title": "Ultraviolet",
+      "title-note": "part 2 of 5",
+      "author": {
+       "authorized": "Webster, Henry Kitchell, 1875-1932",
+       "lcna": "n50023782"
+      }
+     },
+     {"issue": {"issue-date": "1928-05", "volume": "55", "number": "5"}, 
+      "title": "Ultraviolet",
+      "title-note": "part 3 of 5",
+      "author": {
+       "authorized": "Webster, Henry Kitchell, 1875-1932",
+       "lcna": "n50023782"
+      }
+     },
+     {"issue": {"issue-date": "1928-06", "volume": "55", "number": "6"}, 
+      "title": "Mamba's Daughters",
+      "title-note": "part 1 of 6",
+      "author": {
+       "authorized": "Heyward, DuBose, 1885-1940",
+       "lcna": "n50041800"
+      }
+     },
+     {"issue": {"issue-date": "1928-06", "volume": "55", "number": "6"}, 
+      "title": "Ultraviolet",
+      "title-note": "part 4 of 5",
+      "author": {
+       "authorized": "Webster, Henry Kitchell, 1875-1932",
+       "lcna": "n50023782"
+      }
+     },
+     {"issue": {"issue-date": "1928-07", "volume": "55", "number": "7"}, 
+      "title": "Mamba's Daughters",
+      "title-note": "part 2 of 6",
+      "author": {
+       "authorized": "Heyward, DuBose, 1885-1940",
+       "lcna": "n50041800"
+      }
+     },
+     {"issue": {"issue-date": "1928-07", "volume": "55", "number": "7"}, 
+      "title": "Ultraviolet",
+      "title-note": "part 5 of 5",
+      "author": {
+       "authorized": "Webster, Henry Kitchell, 1875-1932",
+       "lcna": "n50023782"
+      }
+     },
+     {"issue": {"issue-date": "1928-08", "volume": "55", "number": "8"}, 
+      "title": "Mamba's Daughters",
+      "title-note": "part 3 of 6",
+      "author": {
+       "authorized": "Heyward, DuBose, 1885-1940",
+       "lcna": "n50041800"
+      }
+     },
+     {"issue": {"issue-date": "1928-09", "volume": "55", "number": "9"}, 
+      "title": "Masks",
+      "author": {
+       "authorized": "Gillmore, Inez Haynes, 1873-1970",
+       "lcna": "n85372376"
+      }
+     },
+     {"issue": {"issue-date": "1928-09", "volume": "55", "number": "9"}, 
+      "title": "Mamba's Daughters",
+      "title-note": "part 4 of 6",
+      "author": {
+       "authorized": "Heyward, DuBose, 1885-1940",
+       "lcna": "n50041800"
+      }
+     },
+     {"issue": {"issue-date": "1928-10", "volume": "55", "number": "10"}, 
+      "title": "Mamba's Daughters",
+      "title-note": "part 5 of 6",
+      "author": {
+       "authorized": "Heyward, DuBose, 1885-1940",
+       "lcna": "n50041800"
+      }
+     },
+     {"issue": {"issue-date": "1928-11", "volume": "55", "number": "11"}, 
+      "title": "Mamba's Daughters",
+      "title-note": "part 6 of 6",
+      "author": {
+       "authorized": "Heyward, DuBose, 1885-1940",
+       "lcna": "n50041800"
+      }
+     },
+     {"issue": {"issue-date": "1928-12", "volume": "55", "number": "12"}, 
+      "title": "The Law is a Jealous Mistress",
+      "author": {
+         "authorized": "Benefield, Barry, 1877-1971",
+         "lcna": "no90003376"
+       }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-01-27"
+   "last-updated": "2022-01-05"
 }

@@ -11,6 +11,7 @@
       "issue": {"issue-date": "1939-08-27"}
    },
    "first-renewed-contribution-source": "1967-JanJun",
+   "renewed-contribution-completeness": "active/1949",
    "renewed-contributions": [
      {"issue": {"issue-date": "1939-08-27"},
       "title": "Hideout in Heaven",
@@ -19,6 +20,14 @@
          "lcna": "n79112369"
        },
        "note": "Renewal record specifies This Week magazine section, Pacific Coast edition."
+     },
+     {"issue": {"issue-date": "1940-03-22"},
+      "title": "Five Great Whiskies Skillfully Wedded into One Golden Wedding",
+      "note": "Advertisement by J Stirling Getchell, Inc., as work for hire for Joseph S. Finch & Co., which is the author for copyright purposes.",
+      "authors": [
+        {"name": "J. Stirling Getchell, Inc."},
+        {"name": "Joseph S. Finch & Co."}
+      ]
      },
      {"issue": {"issue-date": "1941-12-21"},
       "title": "Prayer for a Child",
@@ -131,6 +140,14 @@
        },
        "note": "Renewal record specifies This Week magazine section."
      },
+     {"issue": {"issue-date": "1949-05-22"},
+      "title": "Savage Flight",
+      "author": {
+         "authorized": "La Farge, Oliver, 1901-1963",
+         "lcna": "n79007018"
+       },
+       "note": "Renewal record specifies This Week magazine section."
+     },
      {"issue": {"issue-date": "1949-09-25"},
       "title": "Marvin, the Successful Ghost",
       "author": {
@@ -207,5 +224,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-01-01"
+   "last-updated": "2022-01-19"
 }
