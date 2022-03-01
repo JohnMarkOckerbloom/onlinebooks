@@ -1,0 +1,47 @@
+{
+   "title": "The Farmer's Wife",
+   "online": "1",
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce",
+   "first-renewed-contribution": {"issue": {"issue-date": "1934-01"}},
+   "first-renewed-contribution-source": "1961-JanJun",
+   "last-issue": {"issue-date": "1939-04", "volume": "42", "number": "4"},
+   "see-also": [{"id": "farmjournal", "note": "Farm Journal"}],
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1934-01"}, 
+      "title": "White Paint",
+      "author": {
+       "authorized": "Jackson, Margaret Weymouth",
+       "lcna": "no94014713"
+      }
+     },
+     {"issue": {"issue-date": "1934-03"}, 
+      "title": "Samantha Walks",
+      "author": {
+       "authorized": "Jackson, Margaret Weymouth",
+       "lcna": "no94014713"
+      }
+     },
+     {"issue": {"issue-date": "1934-07"}, 
+      "title": "Clear Creek Token",
+      "author": {
+       "authorized": "Jackson, Margaret Weymouth",
+       "lcna": "no94014713"
+      }
+     },
+     {"issue": {"issue-date": "1936-04"}, 
+      "title": "The Tongue is a Little Member",
+      "author": {
+       "authorized": "Jackson, Margaret Weymouth",
+       "lcna": "no94014713"
+      }
+     }
+   ],
+   "additional-note": "The Farmer's Wife was absorbed by Farm Journal in 1939, and that publication continued for some years afterwards as Farm Journal and Farmer's Wife. See that publication's record for renewals citing that combined name.",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2022-02-21"
+}

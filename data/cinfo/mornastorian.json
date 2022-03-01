@@ -1,5 +1,8 @@
 {
    "title": "The Morning Astorian",
+   "online": "1",
+   "preceded-by":
+     [{"id": "dailymornastor", "note": "The Daily Morning Astorian"}],
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": "none",
@@ -11,5 +14,5 @@
    },
    "acknowledgement": 
       "Thanks to Shelton Henderson for copyright research on this title.",
-   "last-updated": "2021-08-25"
+   "last-updated": "2021-02-26"
 }

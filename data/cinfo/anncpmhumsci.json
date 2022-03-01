@@ -1,9 +1,12 @@
 {
    "title": "Annals of the Cape Provincial Museums: Human Sciences",
+   "online": "1",
    "preceded-by": 
      [{"id": "annalscapeprmus",
        "note": "Annals of the Cape Provincial Museums"}],
    "rights-statement": "InC",
+   "succeeded-by": [
+     {"id": "anneastcapemus", "note": "Annals of the Eastern Cape Museums"}],
    "additional-note": 
       "This is a South African publication. Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US.",
    "responsibility": {
@@ -12,5 +15,5 @@
    },
    "acknowledgement": 
       "Thanks to Peter Sullivan for copyright research on this title.",
-   "last-updated": "2022-01-31"
+   "last-updated": "2022-02-01"
 }

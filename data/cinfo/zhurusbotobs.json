@@ -2,10 +2,13 @@
    "title": "Zhurnal Russkogo Botanicheskogo Obshchestva",
    "title-note": "1916-1931",
    "aka": ["Journal de la Société Botanique de Russie"],
+   "online": "1",
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce",
+   "succeeded-by":
+     [{"id": "botzhursssr", "note": "Botanicheskiĭ Zhurnal SSSR"}],
    "additional-note": 
       "This is a Russian publication. Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US.",
    "responsibility": {
@@ -14,5 +17,5 @@
    },
    "acknowledgement": 
       "Thanks to Eli Baum for copyright research on this title.",
-   "last-updated": "2021-08-16"
+   "last-updated": "2022-02-03"
 }

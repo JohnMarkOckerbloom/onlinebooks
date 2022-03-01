@@ -22,17 +22,18 @@ my $wikidatafile = $wikidir . "wikiperiodicals.csv";
 my $olbpserial = {};
 my $issnserial = {};
 my $badissnmap = {};
+my $badissnid = {};
 
-my $cambridge_journals = $pkgdir . "cambridge/CUP_All_journals_2021-01-30.txt";
-#my $cambridge_journals = $pkgdir . "cambridge/CUP_All_journals_2021-09-10.txt";
+my $cambridge_journals = $pkgdir . "cambridge/CUP_All_journals_2022-02-04.txt";
+#my $cambridge_journals = $pkgdir . "cambridge/CUP_All_journals_2021-01-30.txt";
 
 my $hathipilot_serials = $pkgdir . "hathitrust/localplusus.tsv";
 my $hathipilot_wdquery = $pkgdir . "hathitrust/wikihathiserial.csv";
 
-#my $jstor_merged = $pkgdir . "jstor/JSTOR_ArchiveTitles_2021-01-31.txt";
-my $jstor_merged = $pkgdir . "jstor/JSTOR_ArchiveTitles_2021-10-08.txt";
-#my $jstor_split = $pkgdir . "jstor/JSTOR_Global_AllArchiveTitles_2021-01-31.txt";
-my $jstor_split = $pkgdir . "jstor/JSTOR_Global_AllArchiveTitles_2021-10-08.txt";
+#my $jstor_merged = $pkgdir . "jstor/JSTOR_ArchiveTitles_2021-10-08.txt";
+my $jstor_merged = $pkgdir . "jstor/JSTOR_ArchiveTitles_2022-02-05.txt";
+#my $jstor_split = $pkgdir . "jstor/JSTOR_Global_AllArchiveTitles_2021-10-08.txt";
+my $jstor_split = $pkgdir . "jstor/JSTOR_Global_AllArchiveTitles_2022-02-05.txt";
 
 
 my $muse_journals = $pkgdir . "muse/muse_journal_metadata_2019.tsv";
@@ -40,8 +41,9 @@ my $muse_journals = $pkgdir . "muse/muse_journal_metadata_2019.tsv";
 my $ovid_complete = $pkgdir . "wolters/Ovid_Global_AllJournals_2022-01-23.txt";
 #my $ovid_complete = $pkgdir . "wolters/Ovid_Global_AllJournals_2021-01-26.txt";
 
-my $oxford_archive = $pkgdir . "oxford/OxfordUniversityPress_Global_2021JournalsArchiveAllTitles_2021-09-23.txt";
-#my $oxford_archive = $pkgdir . "oxford/OxfordUniversityPress_Global_2021JournalsArchiveAllTitles_2020-10-30.txt";
+#my $oxford_archive = $pkgdir . "oxford/OxfordUniversityPress_Global_2021JournalsArchiveAllTitles_2021-09-23.txt";
+my $oxford_archive = $pkgdir . "oxford/OxfordUniversityPress_Global_2022JournalsArchiveAllTitles_2022-01-28.txt";
+#my $oxford_archive = $pkgdir . "oxford/OxfordUniversityPress_Global_2022JournalsArchiveCollection_2022-01-28.txt";
 
 #my $penn_serials = $pkgdir . "penn/Serials before 1964.csv";
 my $penn_serials = $pkgdir . "penn/Serials (All)  - Problem Columns Removed 052220.csv";
@@ -51,11 +53,11 @@ my $penn2_serials = $pkgdir . "penn/Catch22.csv";
 #my $proquest_archive = $pkgdir . "proquest/PeriodicalsArchiveOnlineOld.tsv";
 my $proquest_archive = $pkgdir . "proquest/PeriodicalsArchiveOnline.tsv";
 
-#my $sage_journals = $pkgdir . "sage/sj_deep_backfile_2020_title_list_2019.09.17.txt";
-my $sage_journals = $pkgdir . "sage/SAGE Complete Deep Backfile Purchase 2021 List.txt";
+# my $sage_journals = $pkgdir . "sage/SAGE Complete Deep Backfile Purchase 2021 List.txt";
+my $sage_journals = $pkgdir . "sage/2022back22-p_back22-p_deep_backfile_2022_list_title_list.txt";
 
-#my $scidirect_journals = $pkgdir . "elsevier/ScienceDirectStandard_Global_ScienceDirectAvailableJournals_2021-01-31.txt";
-my $scidirect_journals = $pkgdir . "elsevier/ScienceDirectStandard_Global_ScienceDirectAvailableJournals_2021-10-07.txt";
+#my $scidirect_journals = $pkgdir . "elsevier/ScienceDirectStandard_Global_ScienceDirectAvailableJournals_2021-10-07.txt";
+my $scidirect_journals = $pkgdir . "elsevier/ScienceDirectStandard_Global_ScienceDirectAvailableJournals_2022-02-05.txt";
 my $sim_journals = $pkgdir . "sim/SIM-MASTER-TITLE-2017.txt";
 #my $springer_journals = $pkgdir . "springer/Springer_Global_Complete_Journals_2021-02-01.txt";
 my $springer_journals = $pkgdir . "springer/Springer_Global_Complete_Journals_2022-01-03.txt";
@@ -254,10 +256,14 @@ sub kbartparser {
   return @recs;
 }
 
+my $SAGESTUB = "https://us.sagepub.com/en-us/nam/product/";
+
 sub sageparser {
   my ($set, @results) = @_;
   my @recs = ();
+  # print STDERR "There are " . scalar(@results) . " results\n";
   foreach my $result (@results) {
+    # print STDERR "Checking out $result\n";
     my $start = "";
     my $backstart = $result->{"Backfile First Issue Online"};
     if ($backstart =~ /(\d\d\d\d)\)/) {
@@ -283,10 +289,13 @@ sub sageparser {
     foreach my $issn (@issns) {
       $rec->{issns}->{$issn} = 1;
     }
+    # my $url = $result->{URL};
+    my $url = $SAGESTUB . $issns[0];
+    # print STDERR "$title is at $url and goes from $start to $end\n";
     $rec->{title} = $title;
     $rec->{start} = $start;
     $rec->{end} = $end;
-    $rec->{pkgid} = $result->{URL};
+    $rec->{pkgid} = $url;
     push @recs, $rec;
   }
   return @recs;
@@ -795,6 +804,9 @@ sub readbadissns {
     if (/(\d\d\d\d-\d\d\d[\dxX])\s*\-\>\s*(\d\d\d\d-\d\d\d[\dxX])/) {
       my ($badissn, $goodissn) = ($1, $2);
       $badissnmap->{$badissn} = $goodissn;
+    } elsif (/^(\d\d\d\d-\d\d\d[\dxX])\s*\-\>\s*([a-z0-9]+)/) {
+      my ($badissn, $olbpid) = ($1, $2);
+      $badissnid->{$badissn} = $olbpid;
     }
   }
   close $fh;
@@ -1042,9 +1054,13 @@ sub readsagefile {
   my ($filename, %params) = @_;
   my @results;
   open my $fh, "<", $filename or die "filename: $!";
-  my $content = <$fh>;
-  my @rows = split /\r/, $content;
-  my @fieldnames = split /\t/, (shift @rows);
+  #my $content = <$fh>;
+  #my @rows = split /\r/, $content;
+  my @rows = <$fh>;
+  #print STDERR "There are " . scalar(@rows) . "rows\n";
+  my $fieldrow = shift @rows;
+  $fieldrow =~ s/[\r\n]//g;
+  my @fieldnames = split /\t/, $fieldrow;
   if ($fieldnames[0] =~ /\x{feff}(.*)/) {
       # remove byte order marker if present
       $fieldnames[0] = $1;
@@ -1063,6 +1079,7 @@ sub readsagefile {
         $fields[$i] =~ s/^\"(.*)\"$/$1/;
       }
       $hash{$fieldnames[$i]} = $fields[$i];
+      # print STDERR "$fieldnames[$i] gets $fields[$i]\n";
     }
     push @results, \%hash;
   }
@@ -1237,6 +1254,18 @@ sub filterserialset {
   return @recs;
 }
 
+sub link_recs_with_no_valid_issns {
+  foreach my $badissn (keys %{$badissnid}) {
+    if ($issnserial->{$badissn}) {
+      my $rec = $issnserial->{$badissn};
+      if (!$rec->{olbp}) {
+        $rec->{olbp} = $badissnid->{$badissn};
+        # print STDERR "Assigning OLBP record $badissnid->{$badissn} to record with iSSN $badissn\n";
+      }
+    }
+  }
+}
+
 sub tsv_line {
   my ($arrayref) = @_;
   my $str = "";
@@ -1402,6 +1431,7 @@ readbadissns($badissnfile);
 readbookfile($bookfile);
 readwikidata($wikidatafile);
 my @recs = readserialset($serialset);
+link_recs_with_no_valid_issns();
 @recs = filterserialset($serialset, @recs);
 my $str = maketable($tableonly, @recs);
 if ($tableonly) {
