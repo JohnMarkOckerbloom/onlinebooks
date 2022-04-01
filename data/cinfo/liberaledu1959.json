@@ -1,7 +1,13 @@
 {
    "title": "Liberal Education",
+   "preceded-by":
+     [{"id": "assocamcolbul",
+       "note": "Association of American Colleges Bulletin"}],
+   "online": "1",
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "database",
+   "first-autorenewed-issue":
+      {"issue-date": "1964-03", "volume": "50", "number": "1"},
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "database",
    "responsibility": {
@@ -10,5 +16,5 @@
    },
    "acknowledgement": 
       "Thanks to Shelton Henderson for copyright research on this title.",
-   "last-updated": "2022-02-16"
+   "last-updated": "2022-03-15"
 }

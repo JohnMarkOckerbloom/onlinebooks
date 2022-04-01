@@ -4,12 +4,672 @@
    "first-renewed-issue":
       {"issue-date": "1957-01-09", "volume": "74", "number": "2"},
    "first-renewed-issue-source": "database",
+   "first-autorenewed-issue":
+      {"issue-date": "1964-01-08", "volume": "81", "number": "2",
+       "cdate": "1964-01-06"},
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1940-12"}},
+     {"issue": {"issue-date": "1940-10-02"}},
    "first-renewed-contribution-source": "1967-JulDec",
+   "renewed-issue-completeness": "active/autorenewals",
+   "renewed-issues": [
+      {"issue-date": "1957-01-09", "volume": "74", "number": "2"},
+      {"issue-date": "1957-01-16", "volume": "74", "number": "3"},
+      {"issue-date": "1957-01-23", "volume": "74", "number": "4"},
+      {"issue-date": "1957-01-30", "volume": "74", "number": "5"},
+      {"issue-date": "1957-02-06", "volume": "74", "number": "6"},
+      {"issue-date": "1957-02-13", "volume": "74", "number": "7"},
+      {"issue-date": "1957-02-20", "volume": "74", "number": "8"},
+      {"issue-date": "1957-02-27", "volume": "74", "number": "9"},
+      {"issue-date": "1957-03-06", "volume": "74", "number": "10"},
+      {"issue-date": "1957-03-13", "volume": "74", "number": "11"},
+      {"issue-date": "1957-03-20", "volume": "74", "number": "12"},
+      {"issue-date": "1957-03-27", "volume": "74", "number": "13"},
+      {"issue-date": "1957-04-03", "volume": "74", "number": "14"},
+      {"issue-date": "1957-04-10", "volume": "74", "number": "15"},
+      {"issue-date": "1957-04-17", "volume": "74", "number": "16"},
+      {"issue-date": "1957-04-24", "volume": "74", "number": "17"},
+      {"issue-date": "1957-05-01", "volume": "74", "number": "18"},
+      {"issue-date": "1957-05-08", "volume": "74", "number": "19"},
+      {"issue-date": "1957-05-15", "volume": "74", "number": "20"},
+      {"issue-date": "1957-05-22", "volume": "74", "number": "21"},
+      {"issue-date": "1957-05-29", "volume": "74", "number": "22"},
+      {"issue-date": "1957-06-05", "volume": "74", "number": "23"},
+      {"issue-date": "1957-06-12", "volume": "74", "number": "24"},
+      {"issue-date": "1957-06-19", "volume": "74", "number": "25"},
+      {"issue-date": "1957-06-26", "volume": "74", "number": "26"},
+      {"issue-date": "1957-07-03", "volume": "74", "number": "27"},
+      {"issue-date": "1957-07-10", "volume": "74", "number": "28"},
+      {"issue-date": "1957-07-17", "volume": "74", "number": "29"},
+      {"issue-date": "1957-07-24", "volume": "74", "number": "30"},
+      {"issue-date": "1957-07-31", "volume": "74", "number": "31"},
+      {"issue-date": "1957-08-07", "volume": "74", "number": "32"},
+      {"issue-date": "1957-08-14", "volume": "74", "number": "33"},
+      {"issue-date": "1957-08-21", "volume": "74", "number": "34"},
+      {"issue-date": "1957-08-28", "volume": "74", "number": "35"},
+      {"issue-date": "1957-09-04", "volume": "74", "number": "36"},
+      {"issue-date": "1957-09-11", "volume": "74", "number": "37"},
+      {"issue-date": "1957-09-18", "volume": "74", "number": "38"},
+      {"issue-date": "1957-09-25", "volume": "74", "number": "39"},
+      {"issue-date": "1957-10-02", "volume": "74", "number": "40"},
+      {"issue-date": "1957-10-09", "volume": "74", "number": "41"},
+      {"issue-date": "1957-10-16", "volume": "74", "number": "42"},
+      {"issue-date": "1957-10-23", "volume": "74", "number": "43"},
+      {"issue-date": "1957-10-30", "volume": "74", "number": "44"},
+      {"issue-date": "1957-11-06", "volume": "74", "number": "45"},
+      {"issue-date": "1957-11-13", "volume": "74", "number": "46"},
+      {"issue-date": "1957-11-20", "volume": "74", "number": "47"},
+      {"issue-date": "1957-11-27", "volume": "74", "number": "48"},
+      {"issue-date": "1957-12-04", "volume": "74", "number": "49"},
+      {"issue-date": "1957-12-11", "volume": "74", "number": "50"},
+      {"issue-date": "1957-12-18", "volume": "74", "number": "51"},
+      {"issue-date": "1957-12-25", "volume": "74", "number": "52"},
+      {"issue-date": "1958-01-08", "volume": "75", "number": "2"},
+      {"issue-date": "1958-01-15", "volume": "75", "number": "3"},
+      {"issue-date": "1958-01-22", "volume": "75", "number": "4"},
+      {"issue-date": "1958-01-29", "volume": "75", "number": "5"},
+      {"issue-date": "1958-02-05", "volume": "75", "number": "6"},
+      {"issue-date": "1958-02-12", "volume": "75", "number": "7"},
+      {"issue-date": "1958-02-19", "volume": "75", "number": "8"},
+      {"issue-date": "1958-02-26", "volume": "75", "number": "9"},
+      {"issue-date": "1958-03-05", "volume": "75", "number": "10"},
+      {"issue-date": "1958-03-12", "volume": "75", "number": "11"},
+      {"issue-date": "1958-03-19", "volume": "75", "number": "12"},
+      {"issue-date": "1958-03-26", "volume": "75", "number": "13"},
+      {"issue-date": "1958-04-02", "volume": "75", "number": "14"},
+      {"issue-date": "1958-04-09", "volume": "75", "number": "15"},
+      {"issue-date": "1958-04-16", "volume": "75", "number": "16"},
+      {"issue-date": "1958-04-23", "volume": "75", "number": "17"},
+      {"issue-date": "1958-04-30", "volume": "75", "number": "18"},
+      {"issue-date": "1959-01-14", "volume": "76", "number": "2"},
+      {"issue-date": "1959-01-21", "volume": "76", "number": "3"},
+      {"issue-date": "1959-01-28", "volume": "76", "number": "4"},
+      {"issue-date": "1959-02-04", "volume": "76", "number": "5"},
+      {"issue-date": "1959-02-11", "volume": "76", "number": "6"},
+      {"issue-date": "1959-02-18", "volume": "76", "number": "7"},
+      {"issue-date": "1959-02-25", "volume": "76", "number": "8"},
+      {"issue-date": "1959-03-04", "volume": "76", "number": "9"},
+      {"issue-date": "1959-03-11", "volume": "76", "number": "10"},
+      {"issue-date": "1959-03-18", "volume": "76", "number": "11"},
+      {"issue-date": "1959-03-25", "volume": "76", "number": "12"},
+      {"issue-date": "1959-04-08", "volume": "76", "number": "14"},
+      {"issue-date": "1959-04-15", "volume": "76", "number": "15"},
+      {"issue-date": "1959-04-29", "volume": "76", "number": "17"},
+      {"issue-date": "1959-05-06", "volume": "76", "number": "18"},
+      {"issue-date": "1959-05-13", "volume": "76", "number": "19"},
+      {"issue-date": "1959-05-20", "volume": "76", "number": "20"},
+      {"issue-date": "1959-05-27", "volume": "76", "number": "21"},
+      {"issue-date": "1959-06-03", "volume": "76", "number": "22"},
+      {"issue-date": "1959-06-10", "volume": "76", "number": "23"},
+      {"issue-date": "1959-06-17", "volume": "76", "number": "24"},
+      {"issue-date": "1959-06-24", "volume": "76", "number": "25",
+       "note": "The renewal record calls this number 24, but logically it would be number 25."},
+      {"issue-date": "1959-07-01", "volume": "76", "number": "26"},
+      {"issue-date": "1959-07-08", "volume": "76", "number": "27"},
+      {"issue-date": "1959-07-15", "volume": "76", "number": "28"},
+      {"issue-date": "1959-07-22", "volume": "76", "number": "29"},
+      {"issue-date": "1959-07-29", "volume": "76", "number": "30"},
+      {"issue-date": "1959-08-05", "volume": "76", "number": "31"},
+      {"issue-date": "1959-08-12", "volume": "76", "number": "32"},
+      {"issue-date": "1959-08-26", "volume": "76", "number": "34"},
+      {"issue-date": "1959-09-02", "volume": "76", "number": "35"},
+      {"issue-date": "1959-09-09", "volume": "76", "number": "36"},
+      {"issue-date": "1959-09-16", "volume": "76", "number": "37"},
+      {"issue-date": "1959-09-23", "volume": "76", "number": "38"},
+      {"issue-date": "1959-09-30", "volume": "76", "number": "39"},
+      {"issue-date": "1959-10-07", "volume": "76", "number": "40"},
+      {"issue-date": "1959-10-14", "volume": "76", "number": "41"},
+      {"issue-date": "1959-10-21", "volume": "76", "number": "42"},
+      {"issue-date": "1959-10-28", "volume": "76", "number": "43"},
+      {"issue-date": "1959-11-04", "volume": "76", "number": "44"},
+      {"issue-date": "1959-11-11", "volume": "76", "number": "45"},
+      {"issue-date": "1959-11-18", "volume": "76", "number": "46"},
+      {"issue-date": "1959-11-25", "volume": "76", "number": "47"},
+      {"issue-date": "1959-12-02", "volume": "76", "number": "48"},
+      {"issue-date": "1959-12-09", "volume": "76", "number": "49"},
+      {"issue-date": "1959-12-16", "volume": "76", "number": "50"},
+      {"issue-date": "1959-12-23", "volume": "76", "number": "51"},
+      {"issue-date": "1959-12-30", "volume": "76", "number": "52"},
+      {"issue-date": "1960-01-06", "volume": "77", "number": "1"},
+      {"issue-date": "1960-01-13", "volume": "77", "number": "2"},
+      {"issue-date": "1960-01-20", "volume": "77", "number": "3"},
+      {"issue-date": "1960-01-27", "volume": "77", "number": "4"},
+      {"issue-date": "1960-02-03", "volume": "77", "number": "5"},
+      {"issue-date": "1960-02-10", "volume": "77", "number": "6"},
+      {"issue-date": "1960-02-17", "volume": "77", "number": "7"},
+      {"issue-date": "1960-02-24", "volume": "77", "number": "8",
+       "note": "Renewal record says 'Vol. 72 [i.e. 77]'"},
+      {"issue-date": "1960-03-02", "volume": "77", "number": "9"},
+      {"issue-date": "1960-03-09", "volume": "77", "number": "10"},
+      {"issue-date": "1960-03-16", "volume": "77", "number": "11"},
+      {"issue-date": "1960-03-12", "volume": "77", "number": "12"},
+      {"issue-date": "1960-03-30", "volume": "77", "number": "13",
+       "note": "Renewal record says 'Vol. 72 [i.e. 77]'"},
+      {"issue-date": "1960-04-06", "volume": "77", "number": "14",
+       "note": "Renewal record says 'Vol. 72 [i.e. 77]'"},
+      {"issue-date": "1960-04-13", "volume": "77", "number": "15"},
+      {"issue-date": "1960-04-20", "volume": "77", "number": "16"},
+      {"issue-date": "1960-04-27", "volume": "77", "number": "17"},
+      {"issue-date": "1960-05-04", "volume": "77", "number": "18"},
+      {"issue-date": "1960-05-11", "volume": "77", "number": "19"},
+      {"issue-date": "1960-05-18", "volume": "77", "number": "20"},
+      {"issue-date": "1960-05-25", "volume": "77", "number": "21"},
+      {"issue-date": "1960-06-01", "volume": "77", "number": "22"},
+      {"issue-date": "1960-06-08", "volume": "77", "number": "23"},
+      {"issue-date": "1960-06-15", "volume": "77", "number": "24"},
+      {"issue-date": "1960-06-22", "volume": "77", "number": "25"},
+      {"issue-date": "1960-06-29", "volume": "77", "number": "26"},
+      {"issue-date": "1960-07-06", "volume": "77", "number": "27"},
+      {"issue-date": "1960-07-13", "volume": "77", "number": "28"},
+      {"issue-date": "1960-07-20", "volume": "77", "number": "29"},
+      {"issue-date": "1960-07-27", "volume": "77", "number": "30"},
+      {"issue-date": "1960-08-03", "volume": "77", "number": "31"},
+      {"issue-date": "1960-08-10", "volume": "77", "number": "32"},
+      {"issue-date": "1960-08-17", "volume": "77", "number": "33"},
+      {"issue-date": "1960-08-24", "volume": "77", "number": "34"},
+      {"issue-date": "1960-08-31", "volume": "77", "number": "35"},
+      {"issue-date": "1960-09-07", "volume": "77", "number": "36"},
+      {"issue-date": "1960-09-14", "volume": "77", "number": "37"},
+      {"issue-date": "1960-09-21", "volume": "77", "number": "38"},
+      {"issue-date": "1960-09-28", "volume": "77", "number": "39"},
+      {"issue-date": "1960-10-05", "volume": "77", "number": "40"},
+      {"issue-date": "1960-10-12", "volume": "77", "number": "41"},
+      {"issue-date": "1960-10-19", "volume": "77", "number": "42"},
+      {"issue-date": "1960-10-26", "volume": "77", "number": "43"},
+      {"issue-date": "1960-11-02", "volume": "77", "number": "44"},
+      {"issue-date": "1960-11-09", "volume": "77", "number": "45"},
+      {"issue-date": "1960-11-16", "volume": "77", "number": "46"},
+      {"issue-date": "1960-11-23", "volume": "77", "number": "47"},
+      {"issue-date": "1960-11-30", "volume": "77", "number": "48"},
+      {"issue-date": "1960-12-07", "volume": "77", "number": "49"},
+      {"issue-date": "1960-12-14", "volume": "77", "number": "50"},
+      {"issue-date": "1960-12-21", "volume": "77", "number": "51"},
+      {"issue-date": "1960-12-28", "volume": "77", "number": "52"},
+      {"issue-date": "1961-01-04", "volume": "78", "number": "1"},
+      {"issue-date": "1961-01-11", "volume": "78", "number": "2"},
+      {"issue-date": "1961-01-18", "volume": "78", "number": "3"},
+      {"issue-date": "1961-01-25", "volume": "78", "number": "4"},
+      {"issue-date": "1961-02-01", "volume": "78", "number": "5"},
+      {"issue-date": "1961-02-08", "volume": "78", "number": "6"},
+      {"issue-date": "1961-02-15", "volume": "78", "number": "7"},
+      {"issue-date": "1961-02-22", "volume": "78", "number": "8"},
+      {"issue-date": "1961-03-01", "volume": "78", "number": "9"},
+      {"issue-date": "1961-03-08", "volume": "78", "number": "10"},
+      {"issue-date": "1961-03-15", "volume": "78", "number": "11"},
+      {"issue-date": "1961-03-22", "volume": "78", "number": "12"},
+      {"issue-date": "1961-03-29", "volume": "78", "number": "13"},
+      {"issue-date": "1961-04-05", "volume": "78", "number": "14"},
+      {"issue-date": "1961-04-12", "volume": "78", "number": "15"},
+      {"issue-date": "1961-04-19", "volume": "78", "number": "16"},
+      {"issue-date": "1961-04-26", "volume": "78", "number": "17"},
+      {"issue-date": "1961-05-03", "volume": "78", "number": "18"},
+      {"issue-date": "1961-05-10", "volume": "78", "number": "19"},
+      {"issue-date": "1961-05-17", "volume": "78", "number": "20"},
+      {"issue-date": "1961-05-24", "volume": "78", "number": "21"},
+      {"issue-date": "1961-05-31", "volume": "78", "number": "22"},
+      {"issue-date": "1961-06-07", "volume": "78", "number": "23"},
+      {"issue-date": "1961-06-14", "volume": "78", "number": "24"},
+      {"issue-date": "1961-06-21", "volume": "78", "number": "25"},
+      {"issue-date": "1961-06-28", "volume": "78", "number": "26"},
+      {"issue-date": "1961-07-05", "volume": "78", "number": "27"},
+      {"issue-date": "1961-07-12", "volume": "78", "number": "28"},
+      {"issue-date": "1961-07-19", "volume": "78", "number": "29"},
+      {"issue-date": "1961-07-26", "volume": "78", "number": "30"},
+      {"issue-date": "1961-08-02", "volume": "78", "number": "31"},
+      {"issue-date": "1961-08-09", "volume": "78", "number": "32"},
+      {"issue-date": "1961-08-16", "volume": "78", "number": "33"},
+      {"issue-date": "1961-08-23", "volume": "78", "number": "34"},
+      {"issue-date": "1961-08-30", "volume": "78", "number": "35"},
+      {"issue-date": "1961-09-06", "volume": "78", "number": "36"},
+      {"issue-date": "1961-09-13", "volume": "78", "number": "37"},
+      {"issue-date": "1961-09-20", "volume": "78", "number": "38"},
+      {"issue-date": "1961-09-27", "volume": "78", "number": "39"},
+      {"issue-date": "1961-10-04", "volume": "78", "number": "40"},
+      {"issue-date": "1961-10-11", "volume": "78", "number": "41"},
+      {"issue-date": "1961-10-18", "volume": "78", "number": "42"},
+      {"issue-date": "1961-10-25", "volume": "78", "number": "43"},
+      {"issue-date": "1961-11-01", "volume": "78", "number": "44"},
+      {"issue-date": "1961-11-04", "volume": "78", "number": "45",
+       "note": "Date as given in renewal record."},
+      {"issue-date": "1961-11-15", "volume": "78", "number": "46"},
+      {"issue-date": "1961-11-22", "volume": "78", "number": "47"},
+      {"issue-date": "1961-11-29", "volume": "78", "number": "48"},
+      {"issue-date": "1961-12-06", "volume": "78", "number": "49"},
+      {"issue-date": "1961-12-13", "volume": "78", "number": "50"},
+      {"issue-date": "1961-12-20", "volume": "78", "number": "51"},
+      {"issue-date": "1961-12-27", "volume": "78", "number": "52"},
+      {"issue-date": "1962-01-03", "volume": "79", "number": "1"},
+      {"issue-date": "1963-01-09", "volume": "80", "number": "2"},
+      {"issue-date": "1963-01-16", "volume": "80", "number": "3"},
+      {"issue-date": "1963-01-23", "volume": "80", "number": "4"},
+      {"issue-date": "1963-01-30", "volume": "80", "number": "5"},
+      {"issue-date": "1963-02-06", "volume": "80", "number": "6"},
+      {"issue-date": "1963-02-13", "volume": "80", "number": "7"},
+      {"issue-date": "1963-02-20", "volume": "80", "number": "8"},
+      {"issue-date": "1963-02-27", "volume": "80", "number": "9"},
+      {"issue-date": "1963-03-06", "volume": "80", "number": "10"},
+      {"issue-date": "1963-03-13", "volume": "80", "number": "11"},
+      {"issue-date": "1963-03-20", "volume": "80", "number": "12"},
+      {"issue-date": "1963-03-27", "volume": "80", "number": "13"},
+      {"issue-date": "1963-04-03", "volume": "80", "number": "14"},
+      {"issue-date": "1963-04-10", "volume": "80", "number": "15"},
+      {"issue-date": "1963-04-17", "volume": "80", "number": "16"},
+      {"issue-date": "1963-04-24", "volume": "80", "number": "17"},
+      {"issue-date": "1963-05-01", "volume": "80", "number": "18"},
+      {"issue-date": "1963-05-08", "volume": "80", "number": "19"},
+      {"issue-date": "1963-05-15", "volume": "80", "number": "20"},
+      {"issue-date": "1963-05-22", "volume": "80", "number": "21"},
+      {"issue-date": "1963-05-29", "volume": "80", "number": "22"},
+      {"issue-date": "1963-06-05", "volume": "80", "number": "23"},
+      {"issue-date": "1963-06-12", "volume": "80", "number": "24"},
+      {"issue-date": "1963-06-19", "volume": "80", "number": "25"},
+      {"issue-date": "1963-06-26", "volume": "80", "number": "26"},
+      {"issue-date": "1963-07-03", "volume": "80", "number": "27"},
+      {"issue-date": "1963-07-10", "volume": "80", "number": "28"},
+      {"issue-date": "1963-07-17", "volume": "80", "number": "29"},
+      {"issue-date": "1963-07-24", "volume": "80", "number": "30"},
+      {"issue-date": "1963-07-31", "volume": "80", "number": "31"},
+      {"issue-date": "1963-08-07", "volume": "80", "number": "32"},
+      {"issue-date": "1963-08-14", "volume": "80", "number": "33"},
+      {"issue-date": "1963-08-21", "volume": "80", "number": "34"},
+      {"issue-date": "1963-08-28", "volume": "80", "number": "35"},
+      {"issue-date": "1963-09-04", "volume": "80", "number": "36"},
+      {"issue-date": "1963-09-11", "volume": "80", "number": "37"},
+      {"issue-date": "1963-09-18", "volume": "80", "number": "38"},
+      {"issue-date": "1963-09-25", "volume": "80", "number": "39"},
+      {"issue-date": "1963-10-02", "volume": "80", "number": "40"},
+      {"issue-date": "1963-10-09", "volume": "80", "number": "41"},
+      {"issue-date": "1963-10-16", "volume": "80", "number": "42"},
+      {"issue-date": "1963-10-23", "volume": "80", "number": "43"},
+      {"issue-date": "1963-10-30", "volume": "80", "number": "44"},
+      {"issue-date": "1963-11-06", "volume": "80", "number": "45"},
+      {"issue-date": "1963-11-13", "volume": "80", "number": "46"},
+      {"issue-date": "1963-11-20", "volume": "80", "number": "47"},
+      {"issue-date": "1963-11-27", "volume": "80", "number": "48"},
+      {"issue-date": "1963-12-04", "volume": "80", "number": "49"},
+      {"issue-date": "1963-12-11", "volume": "80", "number": "50"},
+      {"issue-date": "1963-12-18", "volume": "80", "number": "51"},
+      {"issue-date": "1963-12-25", "volume": "80", "number": "52"},
+      {"issue-date": "1964-01-01", "volume": "81", "number": "1",
+       "cdate": "1963-12-30"}
+   ],
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1940-10-02"},
+        "title": "Luther",
+        "author": {
+         "authorized": "Auden, W. H. (Wystan Hugh), 1907-1973",
+         "lcna": "n79054316"
+        }
+     },
+     {"issue": {"issue-date": "1941-08-27"},
+        "title": "O Holy Time",
+        "author": {
+         "authorized": "Pierce, Edith Lovejoy, 1904-1983",
+         "lcna": "n2008034789"
+        }
+     },
+     {"issue": {"issue-date": "1941-10-15"},
+        "title": "The Glory of God",
+        "author": {
+         "authorized": "Harkness, Georgia Elma, 1891-1974",
+         "lcna": "n50026027"
+        }
+     },
+     {"issue": {"issue-date": "1941-11-19"},
+        "title": "Abandon Hope All Ye Who Enter Here",
+        "author": {
+         "authorized": "Pierce, Edith Lovejoy, 1904-1983",
+         "lcna": "n2008034789"
+        }
+     },
+     {"issue": {"issue-date": "1941-12-03"},
+        "title": "National Emergency",
+        "author": {
+         "authorized": "Pierce, Edith Lovejoy, 1904-1983",
+         "lcna": "n2008034789"
+        }
+     },
+     {"issue": {"issue-date": "1941-12-17"},
+        "title": "Pattern",
+        "author": {
+         "authorized": "Pierce, Edith Lovejoy, 1904-1983",
+         "lcna": "n2008034789"
+        }
+     },
+     {"issue": {"issue-date": "1942-03-25"},
+        "title": "Civitas Dei",
+        "author": {
+         "authorized": "Pierce, Edith Lovejoy, 1904-1983",
+         "lcna": "n2008034789"
+        }
+     },
+     {"issue": {"issue-date": "1942-06-17"},
+        "title": "Cemetery",
+        "author": {
+         "authorized": "Pierce, Edith Lovejoy, 1904-1983",
+         "lcna": "n2008034789"
+        }
+     },
+     {"issue": {"issue-date": "1942-09-30"},
+        "title": "Decline and Fall",
+        "author": {
+         "authorized": "Pierce, Edith Lovejoy, 1904-1983",
+         "lcna": "n2008034789"
+        }
+     },
+     {"issue": {"issue-date": "1942-12-23"},
+        "title": "Unto His Own",
+        "author": {
+         "authorized": "Pierce, Edith Lovejoy, 1904-1983",
+         "lcna": "n2008034789"
+        }
+     },
+     {"issue": {"issue-date": "1943-02-10"},
+        "title": "Our Father: From In This Our Day",
+        "author": {
+         "authorized": "Pierce, Edith Lovejoy, 1904-1983",
+         "lcna": "n2008034789"
+        }
+     },
+     {"issue": {"issue-date": "1943-02-24"},
+        "title": "Let My People Go: From In This Our Day",
+        "author": {
+         "authorized": "Pierce, Edith Lovejoy, 1904-1983",
+         "lcna": "n2008034789"
+        }
+     },
+     {"issue": {"issue-date": "1943-03-17"},
+        "title": "Remember Thy Covenant: From In This Our Day",
+        "author": {
+         "authorized": "Pierce, Edith Lovejoy, 1904-1983",
+         "lcna": "n2008034789"
+        }
+     },
+     {"issue": {"issue-date": "1943-03-24"},
+        "title": "Living Light",
+        "author": {
+         "authorized": "Harkness, Georgia Elma, 1891-1974",
+         "lcna": "n50026027"
+        }
+     },
+     {"issue": {"issue-date": "1943-03-24"},
+        "title": "The Candle: From In This Our Day",
+        "author": {
+         "authorized": "Pierce, Edith Lovejoy, 1904-1983",
+         "lcna": "n2008034789"
+        }
+     },
+     {"issue": {"issue-date": "1943-03-31"},
+        "title": "Water Line: From In This Our Day",
+        "author": {
+         "authorized": "Pierce, Edith Lovejoy, 1904-1983",
+         "lcna": "n2008034789"
+        }
+     },
+     {"issue": {"issue-date": "1943-06-16"},
+        "title": "Had There Been Peace: From In This Our Day",
+        "author": {
+         "authorized": "Pierce, Edith Lovejoy, 1904-1983",
+         "lcna": "n2008034789"
+        }
+     },
+     {"issue": {"issue-date": "1943-06-30"},
+        "title": "Our Hearts Are Restless: From In This Our Day",
+        "author": {
+         "authorized": "Pierce, Edith Lovejoy, 1904-1983",
+         "lcna": "n2008034789"
+        }
+     },
+     {"issue": {"issue-date": "1943-08-11"},
+        "title": "The Mount of Vision",
+        "author": {
+         "authorized": "Harkness, Georgia Elma, 1891-1974",
+         "lcna": "n50026027"
+        }
+     },
+     {"issue": {"issue-date": "1943-10-20"},
+        "title": "As it Was in the Beginning: From In This Our Day",
+        "author": {
+         "authorized": "Pierce, Edith Lovejoy, 1904-1983",
+         "lcna": "n2008034789"
+        }
+     },
+     {"issue": {"issue-date": "1943-12-08"},
+        "title": "In the Wilderness: From 'Therefore Choose Life'",
+        "author": {
+         "authorized": "Pierce, Edith Lovejoy, 1904-1983",
+         "lcna": "n2008034789"
+        }
+     },
+     {"issue": {"issue-date": "1943-12-22"},
+      "title": "Can the Church Be Religious?",
+       "author": {
+          "authorized": "Buck, Pearl S. (Pearl Sydenstricker), 1892-1973",
+          "lcna": "n79026662"
+        }
+     },
+     {"issue": {"issue-date": "1944-02-23"},
+        "title": "Eclipse",
+        "author": {
+         "authorized": "Pierce, Edith Lovejoy, 1904-1983",
+         "lcna": "n2008034789"
+        }
+     },
+     {"issue": {"issue-date": "1944-03-08"},
+        "title": "The Birds Have a Greater Wisdom",
+        "author": {
+         "authorized": "Pierce, Edith Lovejoy, 1904-1983",
+         "lcna": "n2008034789"
+        }
+     },
+     {"issue": {"issue-date": "1944-04-05"},
+        "title": "A Mother Watches",
+        "author": {
+         "authorized": "Pierce, Edith Lovejoy, 1904-1983",
+         "lcna": "n2008034789"
+        }
+     },
+     {"issue": {"issue-date": "1944-05-17"},
+        "title": "Supplication",
+        "author": {
+         "authorized": "Pierce, Edith Lovejoy, 1904-1983",
+         "lcna": "n2008034789"
+        }
+     },
+     {"issue": {"issue-date": "1944-06-14"},
+        "title": "Fog in the Valley",
+        "author": {
+         "authorized": "Pierce, Edith Lovejoy, 1904-1983",
+         "lcna": "n2008034789"
+        }
+     },
+     {"issue": {"issue-date": "1944-07-19"},
+        "title": "Hands",
+        "author": {
+         "authorized": "Pierce, Edith Lovejoy, 1904-1983",
+         "lcna": "n2008034789"
+        }
+     },
+     {"issue": {"issue-date": "1944-09-06"},
+        "title": "To the Warmakers",
+        "author": {
+         "authorized": "Pierce, Edith Lovejoy, 1904-1983",
+         "lcna": "n2008034789"
+        }
+     },
+     {"issue": {"issue-date": "1944-09-27"},
+        "title": "Strange How the Glistening Fruit",
+        "author": {
+         "authorized": "Pierce, Edith Lovejoy, 1904-1983",
+         "lcna": "n2008034789"
+        }
+     },
+     {"issue": {"issue-date": "1944-10-04"},
+        "title": "Knowledge of Good and Evil",
+        "author": {
+         "authorized": "Pierce, Edith Lovejoy, 1904-1983",
+         "lcna": "n2008034789"
+        }
+     },
+     {"issue": {"issue-date": "1944-10-04"},
+        "title": "The Lightning Fell",
+        "author": {
+         "authorized": "Pierce, Edith Lovejoy, 1904-1983",
+         "lcna": "n2008034789"
+        }
+     },
+     {"issue": {"issue-date": "1949-05-18"},
+        "title": "Return to Reality",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "lcna": "n79041782"
+        }
+     },
+     {"issue": {"issue-date": "1951-06-27"},
+      "title": "What Asians Want",
+       "author": {
+          "authorized": "Buck, Pearl S. (Pearl Sydenstricker), 1892-1973",
+          "lcna": "n79026662"
+        }
+     },
+     {"issue": {"issue-date": "1951-12-19"},
+      "title": "Your Boy and U. M. T.",
+       "author": {
+          "authorized": "Buck, Pearl S. (Pearl Sydenstricker), 1892-1973",
+          "lcna": "n79026662"
+        }
+     },
+     {"issue": {"issue-date": "1954-10-13"},
+        "title": "Meditation for a Young Boy Confirmed",
+        "author": {
+         "authorized": "Paton, Alan",
+         "lcna": "n79058640"
+        }
+     },
+     {"issue": {"issue-date": "1955-11-30"},
+      "title": "To Claim Freedom is Not Enough",
+      "author": {
+         "authorized": "Faulkner, William, 1897-1962",
+         "lcna": "n79003304"
+      }
+     },
+     {"issue": {"issue-date": "1957-09-18"},
+      "title": "Semite According to the Flesh",
+      "author": {
+         "authorized": "Cohen, Arthur A. (Arthur Allen), 1928-1986",
+         "lcna": "n79039770"
+      }
+     },
+     {"issue": {"issue-date": "1958-09-10"},
+      "title": "Triumph of Religion-in-General",
+      "note": "Renewal record gives publication date of September 2, and the registration ID of the September 3 issue, but the article actually ran in the September 10 issue.",
+      "author": {
+         "authorized": "Marty, Martin E., 1928-",
+         "lcna": "n79142958"
+      }
+     },
+     {"issue": {"issue-date": "1958-09-24"},
+      "note": "Publication date given as September 22.",
+      "title": "New Man in Religionized America",
+      "author": {
+         "authorized": "Marty, Martin E., 1928-",
+         "lcna": "n79142958"
+      }
+     },
+     {"issue": {"issue-date": "1958-10-15"},
+      "note": "Publication date given as October 13.",
+      "title": "New Establishment",
+      "author": {
+         "authorized": "Marty, Martin E., 1928-",
+         "lcna": "n79142958"
+      }
+     },
+     {"issue": {"issue-date": "1958-10-29"},
+      "note": "Publication date given as October 27.",
+      "title": "Protestantism in Panurbia",
+      "author": {
+         "authorized": "Marty, Martin E., 1928-",
+         "lcna": "n79142958"
+      }
+     },
+     {"issue": {"issue-date": "1958-11-12"},
+      "note": "Publication date given as November 10.",
+      "title": "Revival of Interest",
+      "author": {
+         "authorized": "Marty, Martin E., 1928-",
+         "lcna": "n79142958"
+      }
+     },
+     {"issue": {"issue-date": "1958-11-26"},
+      "note": "Publication date given as November 24.",
+      "title": "Remnant: Retreat and Renewal",
+      "author": {
+         "authorized": "Marty, Martin E., 1928-",
+         "lcna": "n79142958"
+      }
+     },
+     {"issue": {"issue-date": "1958-12-31"},
+      "note": "Renewal record gives publication date of December 29, and the registration ID of the December 31 issue. No article with this title or credited to this author appears in this issue, but this issue's unsigned editorial 'The Year the Revival Passed Crest' includes material that also appeared in Martin Marty's 1959 book of this title.",
+      "title": "The New Shape of American Religion",
+      "author": {
+         "authorized": "Marty, Martin E., 1928-",
+         "lcna": "n79142958"
+      }
+     },
+     {"issue": {"issue-date": "1959-09-09"},
+      "title": "The Tragic Necessity of the Reformation",
+      "author": {
+         "authorized": "Pelikan, Jaroslav, 1923-2006",
+         "lcna": "n50009026"
+      }
+     },
+     {"issue": {"issue-date": "1960-02-17"},
+      "title": "Rules for the Dialogue",
+      "author": {
+        "authorized": "Brown, Robert McAfee, 1920-2001",
+        "lcna": "n80049838"
+      }
+     },
+     {"issue": {"issue-date": "1960-09-28"},
+      "title": "From Outlawry of War to A-Bomb",
+      "author": {
+        "authorized": "Bainton, Roland H. (Roland Herbert), 1894-1984",
+        "lcna": "n50020872"
+      }
+     },
+     {"issue": {"issue-date": "1961-02-22"},
+        "title": "Seven Stanzas at Easter",
+        "author": {
+         "authorized": "Updike, John",
+         "lcna": "n79018616"
+        }
+     },
+     {"issue": {"issue-date": "1962-08-15"},
+        "title": "They Vote With Their Feet",
+        "author": {
+         "authorized": "Rothberg, Abraham",
+         "lcna": "n50047454"
+        }
+     },
+     {"issue": {"issue-date": "1962-09-26"},
+        "title": "To Parsifal Long After",
+        "author": {
+         "authorized": "Reynolds, Tim",
+         "lcna": "n80128803"
+        }
+     },
+     {"issue": {"issue-date": "1963-06-12"},
+        "title": "Letter From Birmingham Jail",
+        "author": {
+         "authorized": "King, Martin Luther, Jr., 1929-1968",
+         "lcna": "n79084324"
+        }
+     }
+   ],
+   "additional-note": "A 1987 renewal for the 1959 book 'The New Shape of American Religion' by Martin Marty notes that it was previously published as a series of articles in Christian Century magazine. The specific issues are not mentioned, but the renewal could cover articles published in 1959 that appear in this book. (Some of the 1958 contribution renewals shown here appear likely to have been for articles included in the book.)",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-01-05"
+   "last-updated": "2022-03-15"
 }

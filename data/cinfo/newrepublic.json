@@ -469,7 +469,7 @@
      {"issue-date": "1964-01-04", "cdate": "1963-12-27",
       "volume": "150", "number": "1"}
    ],
-   "renewed-contribution-completeness": "active/1931",
+   "renewed-contribution-completeness": "active/1936",
    "renewed-contributions": [
      {"issue": {"issue-date": "1927-03-09"},
       "title": "The Lost Wife",
@@ -643,18 +643,410 @@
        "lcna": "nr94037574"
       }
      },
+     {"issue": {"issue-date": "1932-04-13"},
+      "title": "After the Poet Archias",
+      "author": {
+         "authorized": "Humphries, Rolfe",
+         "lcna": "n50034126"
+      }
+     },
+     {"issue": {"issue-date": "1932-06-15"},
+      "title": "Episode in Elysium",
+      "author": {
+         "authorized": "Humphries, Rolfe",
+         "lcna": "n50034126"
+      }
+     },
      {"issue": {"issue-date": "1932-08-17"},
       "title": "Casanova",
       "author": {
          "authorized": "Wilson, Edmund, 1895-1972",
          "lcna": "n79043459"
       }
+     },
+     {"issue": {"issue-date": "1932-12-21"}, 
+      "title": "The Social Cant",
+      "author": {
+       "authorized": "MacLeish, Archibald, 1892-1982",
+       "lcna": "n80015459"
+      }
+     },
+     {"issue": {"issue-date": "1933-04-12"},
+      "title": "Race's Splendor. Gray the Day. Night Piece. Over the World's Rim",
+      "author": {
+         "authorized": "Faulkner, William, 1897-1962",
+         "lcna": "n79003304"
+      }
+     },
+     {"issue": {"issue-date": "1933-04-19"},
+      "title": "Ship of Night",
+      "author": {
+         "authorized": "Faulkner, William, 1897-1962",
+         "lcna": "n79003304"
+      }
+     },
+     {"issue": {"issue-date": "1933-05-03"},
+      "title": "Man Comes, Man Goes",
+      "author": {
+         "authorized": "Faulkner, William, 1897-1962",
+         "lcna": "n79003304"
+      }
+     },
+     {"issue": {"issue-date": "1934-09-05"},
+      "title": "Ode in a Night of Threatening Weather",
+      "author": {
+         "authorized": "McHugh, Vincent, 1904-1983",
+         "lcna": "n50013499"
+      }
+     },
+     {"issue": {"issue-date": "1934-12-12"},
+      "title": "The Wizard of Chitenago",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1934-12-26"},
+      "title": "Sonnets at Christmas",
+      "author": {
+         "authorized": "Tate, Allen, 1899-1979",
+         "lcna": "n80044856"
+      }
+     },
+     {"issue": {"issue-date": "1935-01-23"}, 
+      "title": "William Cardinal O'Connell, Recollections of Seventy Years, by His Eminence, William Cardinal O'Connell, Boston: Book Review",
+      "author": {
+       "authorized": "Connolly, James B. (James Brendan), 1868-1957",
+       "lcna": "no90002215"
+      }
+     },
+     {"issue": {"issue-date": "1935-03-20"}, 
+      "title": "The Forty Days of Thomas Wolfe",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1935-03-27"}, 
+      "title": "Men and Ghosts",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1935-04-03"}, 
+      "title": "Everyday Life in Hell",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1935-04-24"}, 
+      "title": "Wells in the Kremlin",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1935-05-01"}, 
+      "title": "Fellow Traveler",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1935-05-15"}, 
+      "title": "Muddletown",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1935-06-05"}, 
+      "title": "News From New Guinea",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1935-07-03"}, 
+        "title": "Prayer",
+        "author": {
+         "authorized": "Roethke, Theodore, 1908-1963",
+         "lcna": "n79060436"
+        }
+     },
+     {"issue": {"issue-date": "1935-07-03"}, 
+        "title": "Political Lexicon",
+        "author": {
+         "authorized": "Rosten, Leo, 1908-1997",
+         "lcna": "n80051100"
+        }
+     },
+     {"issue": {"issue-date": "1935-07-24"}, 
+      "title": "Directions for Making a Genius",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1935-08-21"}, 
+      "title": "Hell Under England",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1935-08-28"}, 
+      "title": "Echoes of a Crime",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1935-09-04"}, 
+      "title": "Oregon Trail",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1935-09-11"}, 
+        "title": "Feud",
+        "author": {
+         "authorized": "Roethke, Theodore, 1908-1963",
+         "lcna": "n79060436"
+        }
+     },
+     {"issue": {"issue-date": "1935-09-18"}, 
+      "title": "The Poet's Privacy",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1935-10-02"}, 
+      "title": "Men of Good Intentions",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1935-10-09"}, 
+      "title": "The Road to Damascus",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1935-10-09"}, 
+      "title": "Man is Weak",
+      "author": {
+         "authorized": "McHugh, Vincent, 1904-1983",
+         "lcna": "n50013499"
+      }
+     },
+     {"issue": {"issue-date": "1935-10-23"},
+      "title": "On Planting a Small Lilac in Vermont",
+      "author": {
+        "authorized": "Taggard, Genevieve, 1894-1948",
+        "lcna": "n80080301"
+      }
+     },
+     {"issue": {"issue-date": "1935-12-25"},
+      "title": "Lindsay and Masters",
+      "author": {
+       "authorized": "Anderson, Sherwood, 1876-1941",
+       "lcna": "n79045519"
+      }
+     },
+     {"issue": {"issue-date": "1936-01-08"},
+      "title": "A Good One",
+      "author": {
+       "authorized": "Anderson, Sherwood, 1876-1941",
+       "lcna": "n79045519"
+      }
+     },
+     {"issue": {"issue-date": "1936-01-08"},
+      "title": "Poem for Amy Lowell",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1936-02-12"}, 
+      "title": "The Personal Element",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1936-02-26"}, 
+      "title": "Footnotes to a Life of Marx",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1936-03-11"},
+        "title": "A Sum in Addition",
+        "author": {
+         "authorized": "March, William, 1893-1954",
+         "lcna": "n83043036"
+        }
+     },
+     {"issue": {"issue-date": "1936-04-01"},
+        "title": "Good Year",
+        "author": {
+         "authorized": "Saroyan, William, 1908-1981",
+         "lcna": "n78095781"
+        }
+     },
+     {"issue": {"issue-date": "1936-04-08"}, 
+      "title": "Comrade Trotsky",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1936-04-15"}, 
+      "title": "Baudelaire as Revolutionist",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1936-04-22"}, 
+      "title": "The Making of a Writer",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1936-04-29"}, 
+      "title": "A Game of Chess",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1936-05-20"}, 
+      "title": "Afterthoughts on T. S. Eliot",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1936-06-03"}, 
+      "title": "Flight From the Masses",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1936-06-10"},
+      "title": "Postscript to a Paragraph",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1936-06-17"},
+      "title": "The Rebirth of Tragedy",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1936-06-24"}, 
+      "title": "The Last Great European",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1936-09-22"}, 
+      "title": "Eugene O'Neill",
+      "author": {
+       "authorized": "Trilling, Lionel, 1905-1975",
+       "lcna": "n79023110"
+      }
+     },
+     {"issue": {"issue-date": "1937-01-20"},
+      "title": "Tribute to Dr. Machen",
+       "author": {
+          "authorized": "Buck, Pearl S. (Pearl Sydenstricker), 1892-1973",
+          "lcna": "n79026662"
+        }
+     },
+     {"issue": {"issue-date": "1937-02-10"}, 
+      "title": "Willa Cather",
+      "author": {
+       "authorized": "Trilling, Lionel, 1905-1975",
+       "lcna": "n79023110"
+      }
+     },
+     {"issue": {"issue-date": "1937-04-07"},
+      "title": "Lull",
+      "author": {
+         "authorized": "Humphries, Rolfe",
+         "lcna": "n50034126"
+      }
+     },
+     {"issue": {"issue-date": "1937-05-05"},
+      "title": "Hemingway Reports Spain",
+      "author": {
+        "authorized": "Hemingway, Ernest, 1899-1961",
+        "lcna": "n78078534"
+      }
+     },
+     {"issue": {"issue-date": "1937-06-23"},
+        "title": "Notes From Hollywood",
+        "author": {
+         "authorized": "Saroyan, William, 1908-1981",
+         "lcna": "n78095781"
+        }
+     },
+     {"issue": {"issue-date": "1937-07-28"},
+      "title": "Conversations at Midnight",
+      "author": {
+       "authorized": "Millay, Edna St. Vincent, 1892-1950",
+       "lcna": "n79062746"
+      }
+     },
+     {"issue": {"issue-date": "1937-08-26"},
+      "title": "Van Wyck Brooks",
+      "author": {
+       "authorized": "Smith, Bernard, 1907-1999",
+       "lcna": "n93042109"
+      }
+     },
+     {"issue": {"issue-date": "1937-09-01"}, 
+        "title": "Autumnal",
+        "author": {
+         "authorized": "Roethke, Theodore, 1908-1963",
+         "lcna": "n79060436"
+        }
+     },
+     {"issue": {"issue-date": "1937-09-01"}, 
+        "title": "The Heron",
+        "author": {
+         "authorized": "Roethke, Theodore, 1908-1963",
+         "lcna": "n79060436"
+        }
+     },
+     {"issue": {"issue-date": "1937-12-22"}, 
+        "title": "In Praise of Prairie",
+        "author": {
+         "authorized": "Roethke, Theodore, 1908-1963",
+         "lcna": "n79060436"
+        }
      }
    ],
-   "comment": "Resume contribution searches with 1960 Jan-Jun",
+   "comment": "Resume contribution searches with 1965 Jan-Jun",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-01-10"
+   "last-updated": "2022-03-30"
 }
