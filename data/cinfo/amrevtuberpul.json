@@ -1,13 +1,14 @@
 {
    "title": "The American Review of Tuberculosis and Pulmonary Diseases",
+   "online": "1",
    "preceded-by":
      [{"id": "amrevtuberc", "note": "The American Review of Tuberculosis"}],
-   "first-issue": {"issue-date": "1955", "volume": "71"},
+   "first-issue": {"issue-date": "1955-01", "volume": "71", "number": "1"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "database",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "database",
-   "last-issue": {"issue-date": "1959-06", "volume": "79"},
+   "last-issue": {"issue-date": "1959-06", "volume": "79", "number": "6"},
    "succeeded-by":
      [{"id": "amrevrespdis",
        "note": "The American Review of Respiratory Disease"}],
@@ -17,5 +18,5 @@
    },
    "acknowledgement": 
       "Thanks to Peter Sullivan for copyright research on this title.",
-   "last-updated": "2022-01-05"
+   "last-updated": "2022-04-15"
 }

@@ -469,7 +469,7 @@
      {"issue-date": "1964-01-04", "cdate": "1963-12-27",
       "volume": "150", "number": "1"}
    ],
-   "renewed-contribution-completeness": "active/1936",
+   "renewed-contribution-completeness": "active/1942",
    "renewed-contributions": [
      {"issue": {"issue-date": "1927-03-09"},
       "title": "The Lost Wife",
@@ -545,7 +545,7 @@
          "lcna": "n80060447"
         }
      },
-     {"issue": {"issue-date": "1929-09-16"},
+     {"issue": {"issue-date": "1929-09-18"},
         "title": "Song",
         "author": {
          "authorized": "Benét, Stephen Vincent, 1898-1943",
@@ -965,7 +965,14 @@
        "lcna": "n79081720"
       }
      },
-     {"issue": {"issue-date": "1936-09-22"}, 
+     {"issue": {"issue-date": "1936-08-26"},
+      "title": "Van Wyck Brooks",
+      "author": {
+       "authorized": "Smith, Bernard, 1907-1999",
+       "lcna": "n93042109"
+      }
+     },
+     {"issue": {"issue-date": "1936-09-23"}, 
       "title": "Eugene O'Neill",
       "author": {
        "authorized": "Trilling, Lionel, 1905-1975",
@@ -993,6 +1000,13 @@
          "lcna": "n50034126"
       }
      },
+     {"issue": {"issue-date": "1937-04-28"},
+      "title": "Future of Democracy",
+      "author": {
+         "authorized": "Dewey, John, 1859-1952",
+         "lcna": "n79060532"
+      }
+     },
      {"issue": {"issue-date": "1937-05-05"},
       "title": "Hemingway Reports Spain",
       "author": {
@@ -1014,11 +1028,12 @@
        "lcna": "n79062746"
       }
      },
-     {"issue": {"issue-date": "1937-08-26"},
-      "title": "Van Wyck Brooks",
+     {"issue": {"issue-date": "1937-08-25"}, 
+      "title": "To Madrid",
+      "title-note": "part 1 of 5",
       "author": {
-       "authorized": "Smith, Bernard, 1907-1999",
-       "lcna": "n93042109"
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
       }
      },
      {"issue": {"issue-date": "1937-09-01"}, 
@@ -1035,18 +1050,2052 @@
          "lcna": "n79060436"
         }
      },
+     {"issue": {"issue-date": "1937-09-01"}, 
+      "title": "To Madrid",
+      "title-note": "part 2 of 5",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1937-09-08"}, 
+      "title": "Eight Melons",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1937-09-15", "cdate": "1937-09-09"}, 
+      "title": "To Madrid",
+      "title-note": "part 3 of 5: Offensive on Two Fronts",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1937-09-22", "cdate": "1937-09-16"}, 
+      "title": "To Madrid",
+      "title-note": "part 4 of 5: Three Spanish Kids",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1937-10-06", "cdate": "1937-09-30"}, 
+      "title": "To Madrid",
+      "title-note": "part 5 of 5: International Brigade",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1937-10-20"}, 
+      "title": "Hemingway, Work in Progress",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1937-12-08"},
+      "title": "Cousin Swift, You Will Never Be a Poet",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
      {"issue": {"issue-date": "1937-12-22"}, 
         "title": "In Praise of Prairie",
         "author": {
          "authorized": "Roethke, Theodore, 1908-1963",
          "lcna": "n79060436"
         }
+     },
+     {"issue": {"issue-date": "1937-12-29"}, 
+      "title": "Nobel Prize Novel",
+      "title-note": "1",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1938-01-05"}, 
+      "title": "Nobel Prize Novel",
+      "title-note": "2",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1938-01-05"}, 
+      "title": "Bounding Line",
+      "author": {
+        "authorized": "Taggard, Genevieve, 1894-1948",
+        "lcna": "n80080301"
+      }
+     },
+     {"issue": {"issue-date": "1938-01-12"},
+      "title": "Hemingway Reports Spain; Selections From Dispatches",
+      "author": {
+        "authorized": "Hemingway, Ernest, 1899-1961",
+        "lcna": "n78078534"
+      }
+     },
+     {"issue": {"issue-date": "1938-01-12"},
+      "title": "Red China",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1938-01-19"}, 
+      "title": "Mr. Huxley's New Jerusalem",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1938-01-26"}, 
+      "title": "George P. Babbitt's Revenge",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1938-02-02"}, 
+        "title": "Interlude",
+        "author": {
+         "authorized": "Roethke, Theodore, 1908-1963",
+         "lcna": "n79060436"
+        }
+     },
+     {"issue": {"issue-date": "1938-02-02"}, 
+      "title": "Reviewers on Parade, I",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1938-02-02"},
+        "title": "Two Stems",
+        "note": "CCE renewal record gives date only as February 1938, but the original registration number and copyright date given match the February 2, 1928 issue.",
+        "author": {
+         "authorized": "Bynner, Witter, 1881-1968",
+         "lcna": "n50032943"
+        }
+     },
+     {"issue": {"issue-date": "1938-02-09"}, 
+      "title": "Reviewers on Parade, II",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1938-02-23"}, 
+      "title": "Tomorrow Morning",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1938-03-02"}, 
+      "title": "Apocalypse",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1938-03-09"},
+      "title": "Twilight of the Expatriates",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1938-03-16"}, 
+      "title": "The Golden Legend",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1938-03-23"}, 
+      "title": "Second Thoughts on Joseph",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1938-03-30"}, 
+      "title": "The Maugham Enigma",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1938-04-06"},
+      "title": "Shut Up That Russian Novel",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1938-04-13"}, 
+      "title": "The Arts in Russia",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1938-04-20"}, 
+      "title": "Heavenly City",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1938-04-20"}, 
+      "title": "W. B. Yeats; A Vision",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1938-04-27"},
+      "title": "Hemingway Reports Spain",
+      "author": {
+        "authorized": "Hemingway, Ernest, 1899-1961",
+        "lcna": "n78078534"
+      }
+     },
+     {"issue": {"issue-date": "1938-04-27"},
+      "title": "Peggy Bacon, Poet With Pictures",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1938-04-27"},
+      "title": "There Have to Be Censors",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1938-05-04"}, 
+      "title": "The Ascent of Man",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1938-05-18"}, 
+        "title": "The Bat",
+        "author": {
+         "authorized": "Roethke, Theodore, 1908-1963",
+         "lcna": "n79060436"
+        }
+     },
+     {"issue": {"issue-date": "1938-05-18"}, 
+      "title": "Moscow Trial, 1938",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1938-05-25"}, 
+      "title": "Moscow Trial, II",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1938-06-01"},
+      "title": "Laurence Housman; My Brother, A. E. Housman",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1938-06-08"},
+      "title": "Hemingway Reports Spain",
+      "author": {
+        "authorized": "Hemingway, Ernest, 1899-1961",
+        "lcna": "n78078534"
+      }
+     },
+     {"issue": {"issue-date": "1938-06-29"},
+        "title": "Whether in the Cathedral's Shadow",
+        "author": {
+         "authorized": "Prokosch, Frederic, 1908-1989",
+         "lcna": "n50021456"
+        }
+     },
+     {"issue": {"issue-date": "1938-06-29"},
+      "title": "Justice to Edith Wharton",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1938-06-29"},
+      "title": "W. B. Yeats, The Herne's Egg",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1938-07-06"},
+      "title": "Karl Marx; Prometheus and Lucifer",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1938-07-20"}, 
+      "title": "Silence in Mallorca",
+      "author": {
+        "authorized": "Taggard, Genevieve, 1894-1948",
+        "lcna": "n80080301"
+      }
+     },
+     {"issue": {"issue-date": "1938-07-20"}, 
+      "title": "Marx Decides to Change the World",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1938-08-03"}, 
+      "title": "Poetry Tomorrow",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1938-08-03"}, 
+      "title": "Young Man From Manchester",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1938-08-17"}, 
+      "title": "Marx-Engels Partnership",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1938-08-17"}, 
+        "title": "Red and Mildred",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1938-09-07"}, 
+      "title": "Marx-Engels; Grinding the Lenz",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1938-09-21"}, 
+      "title": "Poet in Politics",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1938-09-21"}, 
+        "title": "Boys of All Ages",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1938-09-28"}, 
+      "title": "Socialists and Symbolists",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1938-10-05"},
+        "title": "Benny and the Budapests",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1938-10-19"}, 
+      "title": "Partisan Review",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1938-10-26"}, 
+      "title": "Edith Wharton, The Buccaneers",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1938-10-26"}, 
+      "title": "Tribute to Ben Franklin",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1938-11-09"}, 
+      "title": "Oates and O'Neill; Complete Greek Drama",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1938-11-09"}, 
+      "title": "Red Ivory Tower",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1938-11-30"}, 
+        "title": "Two for Our Side",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1938-12-07"}, 
+      "title": "A Foreword on the Books That Changed Our Minds",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1938-12-07"}, 
+      "title": "E. H. Carr, Michael Bukunin",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1938-12-14"}, 
+        "title": "Whether to Laugh or Cry",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1938-12-21"}, 
+      "title": "A Foreword on the Books That Changed Our Minds",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1938-12-28"}, 
+      "title": "Lord of These Elements",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1938-12-28"}, 
+        "title": "The Good With the Bad",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1939-01-18"},
+      "title": "W. H. Auden: The Oxford Book of Light Verse",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1939-01-18"},
+      "title": "Transatlantic Review",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1939-01-25"}, 
+      "title": "The Ghost of an Anglophile",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1939-01-25"}, 
+      "title": "Sanctuary",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1939-02-01"}, 
+        "title": "Whose Theatre is This?",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1939-02-08"}, 
+      "title": "Some Letters After 1848",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1939-02-15"}, 
+      "title": "Yeats and O'Faolain",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1939-02-22"},
+        "title": "It's Criminal",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1939-03-01"},
+      "title": "The Antigone of Sophocles: An English Version by Dudley Fitts and Robert Fitzgerald",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1939-03-01"},
+        "title": "The Great Durante",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1939-03-01"},
+        "title": "Random Political Reflections",
+        "author": {
+         "authorized": "Roethke, Theodore, 1908-1963",
+         "lcna": "n79060436"
+        }
+     },
+     {"issue": {"issue-date": "1939-03-08"}, 
+      "title": "Odon von Horvath; The Age of the Fish",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1939-03-08"}, 
+      "title": "Train Through the Tatras",
+      "author": {
+        "authorized": "Caldwell, Erskine, 1903-1987",
+        "lcna": "n78095661"
+      }
+     },
+     {"issue": {"issue-date": "1939-03-22"},
+      "title": "Lionel Trilling, Matthew Arnold",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1939-04-05"}, 
+        "title": "Cruise Stopover",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1939-04-19"}, 
+      "title": "Boas and the Mind of Primitive Man",
+      "author": {
+       "authorized": "Radin, Paul, 1883-1959",
+       "lcna": "n50052440"
+      }
+     },
+     {"issue": {"issue-date": "1939-04-19"}, 
+        "title": "Sources of Merriment",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1939-04-26"}, 
+      "title": "The Playwright in Paradise",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1939-05-03"}, 
+      "title": "Marxist Humanism",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1939-05-03"}, 
+      "title": "American Tragedy",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1939-05-10"},
+      "title": "Wang Lung's Children",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1939-05-17"},
+      "title": "Christopher Isherwood, Goodbye to Berlin",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1939-05-17"},
+        "title": "The Boy From the Back Row",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1939-05-31"}, 
+      "title": "Exiles of the Arts",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1939-06-07"},
+      "title": "Soldier of Japan",
+       "author": {
+          "authorized": "Buck, Pearl S. (Pearl Sydenstricker), 1892-1973",
+          "lcna": "n79026662"
+        }
+     },
+     {"issue": {"issue-date": "1939-06-14"}, 
+      "title": "Disillusionment",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1939-06-21"},
+      "title": "Notes on a Writer's Congress",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1939-06-28"}, 
+      "title": "H. C. Earwicker and Family",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1939-06-28"}, 
+        "title": "No Hands",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1939-07-05"},
+        "title": "The Man at the Wheel",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1939-07-12"},
+      "title": "The Dream of H. C. Earwicker",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1939-07-19"},
+      "title": "Thomas Wolfe's Legacy",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1939-07-26"},
+      "title": "Nathanael West, The Day of the Locust",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1939-08-02"}, 
+        "title": "Speaking of Jazz, I",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1939-08-09"},
+      "title": "Death of a Prophet",
+      "author": {
+       "authorized": "Menninger, Karl A. (Karl Augustus), 1893-1990",
+       "lcna": "n50036990"
+      }
+     },
+     {"issue": {"issue-date": "1939-08-09"},
+        "title": "Triumphal Entry",
+        "author": {
+         "authorized": "Norman, Charles, 1904-1996",
+         "lcna": "n50005991"
+        }
+     },
+     {"issue": {"issue-date": "1939-08-30"},
+      "title": "The Poetical Works of John Keats, ed. H. W. Garrod",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1939-09-27"}, 
+        "title": "Pay-Off on Odets, 1",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1939-10-04"}, 
+      "title": "The End of the Reasoning Man",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1939-10-04"}, 
+        "title": "Odets, II and Et Cetera",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1939-10-04"}, 
+      "title": "The Nonesuch Dickens",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1939-10-11"}, 
+      "title": "The End of the Reasoning Man",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1939-10-18"},
+      "title": "Karl Marx, The German Ideology; and Engels, Revolution in Spain; A. L.  Harris, Pure Capitalism and the Disappearance of the Middle Class",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1939-10-25"},
+      "title": "Lost Battalion",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1939-10-25"},
+        "title": "Candlewicks",
+        "author": {
+         "authorized": "Bynner, Witter, 1881-1968",
+         "lcna": "n50032943"
+        }
+     },
+     {"issue": {"issue-date": "1939-11-01"},
+        "title": "Mr. Capra Goes Someplace",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1939-11-08"},
+        "title": "Lens",
+        "author": {
+         "authorized": "Horgan, Paul, 1903-1995",
+         "lcna": "n79060797"
+        }
+     },
+     {"issue": {"issue-date": "1939-11-08"},
+      "title": "A Farewell to the 1930's",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1939-11-15"},
+      "title": "Herr Vogt",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1939-11-22"}, 
+        "title": "Our Enemy the Sea",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1939-11-29"}, 
+        "title": "Poetaster",
+        "author": {
+         "authorized": "Roethke, Theodore, 1908-1963",
+         "lcna": "n79060436"
+        }
+     },
+     {"issue": {"issue-date": "1939-12-06"}, 
+        "title": "Fast One",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1939-12-20"}, 
+        "title": "Praise",
+        "author": {
+         "authorized": "Roethke, Theodore, 1908-1963",
+         "lcna": "n79060436"
+        }
+     },
+     {"issue": {"issue-date": "1939-12-20"}, 
+      "title": "T. S. Eliot, Old Possum's Book of Practical Cats; Gertrude Stein, The World is Round",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1940-01-08"},
+        "title": "Out to Lunch",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1940-01-08"},
+      "title": "Karl Marx; Poet of Commodities",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1940-01-15"},
+        "title": "On the Records",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1940-01-15"},
+        "title": "A Newspaper is Killed",
+        "author": {
+         "name": "Gordon Gaskill"
+        }
+     },
+     {"issue": {"issue-date": "1940-02-12"},
+        "title": "Show for the People",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1940-02-12"},
+        "title": "Lull",
+        "author": {
+         "authorized": "Roethke, Theodore, 1908-1963",
+         "lcna": "n79060436"
+        }
+     },
+     {"issue": {"issue-date": "1940-02-12"},
+        "title": "That Street Glance",
+        "author": {
+         "authorized": "Scott, Winfield Townley, 1910-1968",
+         "lcna": "n50005603"
+        }
+     },
+     {"issue": {"issue-date": "1940-02-19"},
+        "title": "Steinbeck's Other Vineyard, in the American Language",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1940-02-19"},
+      "title": "The Emotional Pattern in Marx",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1940-03-04"},
+      "title": "The Two Scrooges",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1940-03-11"},
+        "title": "It's a Disney; Sand and Salt",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1940-03-11"},
+      "title": "Dickens, the Two Scrooges",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1940-03-25"},
+      "title": "Maury Maverick in San Antonio",
+      "author": {
+       "authorized": "Anderson, Sherwood, 1876-1941",
+       "lcna": "n79045519"
+      }
+     },
+     {"issue": {"issue-date": "1940-04-01"},
+      "title": "The Mystery of Edwin Drood",
+      "title-note": "part 1 of 2?",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1940-04-08"},
+        "title": "Slight Cases of Marriage",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1940-04-08"},
+      "title": "The Mystery of Edwin Drood",
+      "title-note": "part 2 of 2?",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1940-04-22"},
+      "title": "C. M. Shaw, Bernard's Brethren",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1940-05-06"}, 
+        "title": "Highway Michigan",
+        "author": {
+         "authorized": "Roethke, Theodore, 1908-1963",
+         "lcna": "n79060436"
+        }
+     },
+     {"issue": {"issue-date": "1940-05-13"}, 
+      "title": "Creative Efforts",
+      "author": {
+        "authorized": "Taggard, Genevieve, 1894-1948",
+        "lcna": "n80080301"
+      }
+     },
+     {"issue": {"issue-date": "1940-06-10"},
+      "title": "Leon Trotsky, The Living Thoughts of Karl Marx",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1940-06-17"},
+        "title": "Hollywood Town",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1940-06-17"},
+      "title": "Tract for the Times",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1940-06-24"}, 
+      "title": "Religious Freedom",
+      "author": {
+       "authorized": "Frankfurter, Felix, 1882-1965",
+       "lcna": "n50025733"
+      }
+     },
+     {"issue": {"issue-date": "1940-07-01"},
+      "title": "Archibald MacLeish and the Word",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1940-07-08"},
+      "title": "Winter Landscape",
+      "author": {
+         "authorized": "Berryman, John, 1914-1972",
+         "lcna": "n79142591"
+      }
+     },
+     {"issue": {"issue-date": "1940-08-05"},
+      "title": "William Rothenstein: Men and Memories",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1940-08-12"},
+      "title": "In Memoriam",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1940-08-19"},
+      "title": "New America's Primer",
+      "note": "Renewal record in CCE gives issue date as August 17, but the original registration for the issue gives its date as August 19.",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1940-08-26"},
+      "title": "Frang Hoellering, The Defenders",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1940-08-26"},
+      "title": "Propaganda in Our Time",
+      "author": {
+       "authorized": "Lerner, Max, 1902-1992",
+       "lcna": "n79147884"
+      }
+     },
+     {"issue": {"issue-date": "1940-09-09"},
+      "title": "Shipwreck",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1940-09-16"},
+        "title": "Hitchcock in Hollywood; Easy Come; Fifty-Four Forty and Fight Too, Signed Wadsworth Mulrooney",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1940-09-16"},
+      "title": "Trust-Buster's White Paper",
+      "author": {
+       "authorized": "Lerner, Max, 1902-1992",
+       "lcna": "n79147884"
+      }
+     },
+     {"issue": {"issue-date": "1940-09-23"}, 
+      "title": "Handy",
+      "author": {
+        "authorized": "Caldwell, Erskine, 1903-1987",
+        "lcna": "n78095661"
+      }
+     },
+     {"issue": {"issue-date": "1940-09-23"},
+        "title": "The Business of Being Funny",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1940-09-23"},
+      "title": "This Man's Army",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1940-10-07"},
+      "title": "Mr. Brooks, Second Phase",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1940-10-07"},
+      "title": "From the Finland Station",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1940-10-14"},
+      "title": "The Country I Remember",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1940-10-21"},
+        "title": "Trial by Time",
+        "author": {
+         "authorized": "Ferril, Thomas Hornsby, 1896-1988",
+         "lcna": "n50001135"
+        }
+     },
+     {"issue": {"issue-date": "1940-10-28"},
+      "title": "Ernest Hemingway, For Whom the Bell Tolls",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1940-11-04"},
+        "title": "Less Time for Comedy",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1940-11-04"},
+        "title": "I Was There But I Didn't See It Happen",
+        "author": {
+          "authorized": "McCarthy, Mary, 1912-1989",
+          "lcna": "n79060089"
+        }
+     },
+     {"issue": {"issue-date": "1940-11-11"},
+        "title": "A Job Lot of Poetry",
+        "author": {
+         "authorized": "Jarrell, Randall, 1914-1965",
+         "lcna": "n79076730"
+        }
+     },
+     {"issue": {"issue-date": "1940-11-11"},
+      "title": "The Boys in the Back Room, James M. Cain and John O'Hara",
+      "title-note": "part 1 of 2",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1940-11-18"},
+        "title": "Young Man With a Horn Again",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1940-11-18"},
+      "title": "The Boys in the Back Room, James M. Cain and John O'Hara",
+      "title-note": "part 2 of 2",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1940-11-18"},
+        "title": "Diaghilev and a Disciple",
+        "author": {
+         "authorized": "Nabokov, Vladimir Vladimirovich, 1899-1977",
+         "lcna": "n81015312"
+        }
+     },
+     {"issue": {"issue-date": "1940-11-25"},
+        "title": "Both Fantasy and Fancy",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1940-11-25"},
+        "title": "Crystal and Ruby",
+        "author": {
+         "authorized": "Nabokov, Vladimir Vladimirovich, 1899-1977",
+         "lcna": "n81015312"
+        }
+     },
+     {"issue": {"issue-date": "1940-12-09"}, 
+        "title": "Animal, Vegetable and Mineral",
+        "author": {
+         "authorized": "Bogan, Louise, 1897-1970",
+         "lcna": "n50010084"
+        }
+     },
+     {"issue": {"issue-date": "1940-12-09"}, 
+        "title": "Poets: Old, New, and Aging",
+        "author": {
+         "authorized": "Jarrell, Randall, 1914-1965",
+         "lcna": "n79076730"
+        }
+     },
+     {"issue": {"issue-date": "1940-12-09"},
+      "title": "The Californians, Storm and Steinbeck; An Appeal for James Joyce",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1940-12-09"},
+        "title": "Mr. Masefield and Clio",
+        "author": {
+         "authorized": "Nabokov, Vladimir Vladimirovich, 1899-1977",
+         "lcna": "n81015312"
+        }
+     },
+     {"issue": {"issue-date": "1940-12-16"},
+      "title": "The Californians",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1940-12-30"},
+        "title": "The Old-Fashioned Way",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1940-12-30"},
+      "title": "Defense and the Slave-Men",
+      "author": {
+       "authorized": "Lerner, Max, 1902-1992",
+       "lcna": "n79147884"
+      }
+     },
+     {"issue": {"issue-date": "1941-01-13"},
+      "title": "The People's Theatre",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1941-01-13"},
+      "title": "A Fighting Faith in Labor",
+      "author": {
+       "authorized": "Lerner, Max, 1902-1992",
+       "lcna": "n79147884"
+      }
+     },
+     {"issue": {"issue-date": "1941-01-13"},
+        "title": "Homes for Dukhobors",
+        "author": {
+         "authorized": "Nabokov, Vladimir Vladimirovich, 1899-1977",
+         "lcna": "n81015312"
+        }
+     },
+     {"issue": {"issue-date": "1941-01-20"}, 
+      "title": "Death of a Hero",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1941-01-20"}, 
+        "title": "He Should of Stood in Bed and Odd Ends",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1941-01-20"}, 
+      "title": "The Job in the White House",
+      "author": {
+       "authorized": "Lerner, Max, 1902-1992",
+       "lcna": "n79147884"
+      }
+     },
+     {"issue": {"issue-date": "1941-01-27"},
+      "title": "Men of Good Will",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1941-01-27"},
+      "title": "Hamlet and the Presidency",
+      "author": {
+       "authorized": "Lerner, Max, 1902-1992",
+       "lcna": "n79147884"
+      }
+     },
+     {"issue": {"issue-date": "1941-02-03"},
+      "title": "Jeremiad",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1941-02-03"},
+        "title": "The Spirits; 100 Proof and Collected Waxworks",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1941-02-03"},
+      "title": "Landscape With Judges",
+      "author": {
+       "authorized": "Lerner, Max, 1902-1992",
+       "lcna": "n79147884"
+      }
+     },
+     {"issue": {"issue-date": "1941-02-10"},
+      "title": "Max Eastman in 1941",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1941-02-10"},
+      "title": "I Thought of Lincoln",
+      "author": {
+       "authorized": "Lerner, Max, 1902-1992",
+       "lcna": "n79147884"
+      }
+     },
+     {"issue": {"issue-date": "1941-02-17"},
+        "title": "The Rhetoricians",
+        "author": {
+         "authorized": "Jarrell, Randall, 1914-1965",
+         "lcna": "n79076730"
+        }
+     },
+     {"issue": {"issue-date": "1941-02-24"},
+      "title": "Poets as Reviewers",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1941-02-24"},
+        "title": "Jazz at Random: Ilth, Ichor and Ahoy",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1941-02-24"},
+      "title": "The Supreme Court and Labor",
+      "author": {
+       "authorized": "Lerner, Max, 1902-1992",
+       "lcna": "n79147884"
+      }
+     },
+     {"issue": {"issue-date": "1941-03-03"}, 
+      "title": "The Boston Story",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1941-03-03"}, 
+      "title": "The Burning of the Textbooks",
+      "author": {
+       "authorized": "Lerner, Max, 1902-1992",
+       "lcna": "n79147884"
+      }
+     },
+     {"issue": {"issue-date": "1941-03-03"}, 
+      "title": "Reflections on a Harsh Age",
+      "author": {
+       "authorized": "Lerner, Max, 1902-1992",
+       "lcna": "n79147884"
+      }
+     },
+     {"issue": {"issue-date": "1941-03-10"},
+      "title": "The Next-to-Longest Novel",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1941-03-17"},
+        "title": "Mr. Jarrell Replies",
+        "author": {
+         "authorized": "Jarrell, Randall, 1914-1965",
+         "lcna": "n79076730"
+        }
+     },
+     {"issue": {"issue-date": "1941-03-17"},
+        "title": "Bachelor of Artifice and Who Was That Lady?",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1941-03-17"},
+      "title": "Communist Teachers",
+      "author": {
+       "authorized": "Lerner, Max, 1902-1992",
+       "lcna": "n79147884"
+      }
+     },
+     {"issue": {"issue-date": "1941-03-24"},
+      "title": "Rudyard Kipling's Verse: Brazilian Sketches",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1941-03-24"},
+        "title": "Democracy at the Box Office; What's Your Story?",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1941-03-31"},
+      "title": "Miss Glasgow's Purgatorio",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1941-04-07"}, 
+      "title": "Auden in America",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1941-04-07"}, 
+        "title": "Noted From Trial by Time",
+        "author": {
+         "authorized": "Ferril, Thomas Hornsby, 1896-1988",
+         "lcna": "n50001135"
+        }
+     },
+     {"issue": {"issue-date": "1941-04-07"},
+      "title": "The People's Century",
+      "author": {
+       "authorized": "Lerner, Max, 1902-1992",
+       "lcna": "n79147884"
+      }
+     },
+     {"issue": {"issue-date": "1941-04-14"},
+      "title": "Remembering Hart Crane",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1941-04-14"},
+        "title": "Review of Revuers",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1941-04-21"},
+        "title": "Roosters",
+        "author": {
+         "authorized": "Bishop, Elizabeth, 1911-1979",
+         "lcna": "n79047629"
+        }
+     },
+     {"issue": {"issue-date": "1941-04-21"},
+        "title": "World and its Life Are Her Dream; London; Variations; 90 North",
+        "author": {
+         "authorized": "Jarrell, Randall, 1914-1965",
+         "lcna": "n79076730"
+        }
+     },
+     {"issue": {"issue-date": "1941-04-21"},
+      "title": "American Writing, 1941",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1941-04-21"},
+      "title": "Wound and the Bow",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1941-04-21"},
+      "title": "Mr. Churchill Speaks",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1941-04-21"},
+        "title": "Mozart and Salieri",
+        "author": {
+         "authorized": "Nabokov, Vladimir Vladimirovich, 1899-1977",
+         "lcna": "n81015312"
+        }
+     },
+     {"issue": {"issue-date": "1941-04-28"},
+      "title": "Where the World is Going",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1941-04-28"},
+      "title": "Meeting the Blitz on Labor",
+      "author": {
+       "authorized": "Lerner, Max, 1902-1992",
+       "lcna": "n79147884"
+      }
+     },
+     {"issue": {"issue-date": "1941-05-05"},
+      "title": "Poets and Prophets",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1941-05-05"},
+        "title": "Safari, So Good",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1941-05-12"},
+      "title": "Impersonal History",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1941-05-19"},
+        "title": "Mr. William Shakespeare",
+        "author": {
+         "authorized": "Nabokov, Vladimir Vladimirovich, 1899-1977",
+         "lcna": "n81015312"
+        }
+     },
+     {"issue": {"issue-date": "1941-06-02"},
+        "title": "Citizen Welles",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1941-06-02"},
+      "title": "Punishment and Crime",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1941-06-09"},
+      "title": "Hitler's American Dream",
+      "author": {
+       "authorized": "Lerner, Max, 1902-1992",
+       "lcna": "n79147884"
+      }
+     },
+     {"issue": {"issue-date": "1941-06-16"},
+        "title": "Welles and His Wonders, II",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1941-06-23"},
+        "title": "Fritz Lang and Company and Horation on the Bridge",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1941-06-30"},
+        "title": "Behind the Camera: Lang and Too Much of Too Little",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1941-07-07"},
+        "title": "Fritz Lang, Continued and Pencil, Pad, and Purpose",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1941-07-07"},
+      "title": "Russia and the War of Ideas",
+      "author": {
+       "authorized": "Lerner, Max, 1902-1992",
+       "lcna": "n79147884"
+      }
+     },
+     {"issue": {"issue-date": "1941-07-14"},
+        "title": "To the Promissory Land, I: NY to LA. If Beale Street Could Talk",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1941-07-21"},
+        "title": "Contemporary Poetry Criticism",
+        "author": {
+         "authorized": "Jarrell, Randall, 1914-1965",
+         "lcna": "n79076730"
+        }
+     },
+     {"issue": {"issue-date": "1941-08-04"},
+        "title": "To the Promissory Land, II: Hollywood Will Fool You if You Don't Watch Out, Didn't it? Through the Mill",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1941-08-04"},
+        "title": "Art of Translation",
+        "author": {
+         "authorized": "Nabokov, Vladimir Vladimirovich, 1899-1977",
+         "lcna": "n81015312"
+        }
+     },
+     {"issue": {"issue-date": "1941-08-11"},
+      "title": "Dollar a Year Democracy",
+      "author": {
+       "authorized": "Lerner, Max, 1902-1992",
+       "lcna": "n79147884"
+      }
+     },
+     {"issue": {"issue-date": "1941-08-18"},
+        "title": "To the Promissory Land III: The Man Who Invented Hollywood",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1941-08-18"},
+      "title": "Black Earth",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1941-09-01"}, 
+        "title": "Bronte Fantasies",
+        "author": {
+         "authorized": "Bogan, Louise, 1897-1970",
+         "lcna": "n50010084"
+        }
+     },
+     {"issue": {"issue-date": "1941-09-08"}, 
+        "title": "Hollywood is More So; Sime",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1941-09-08"}, 
+      "title": "The Triumphant Lie",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1941-09-22"},
+        "title": "Before the Cameras Roll; Boy on Horseback",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1941-09-22"},
+      "title": "Not All Our Poetry",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1941-09-27"},
+        "title": "Double-Talk Tales; For Whom is That Bell For?",
+        "note": "CCE renewal record for this contribution says it ran in The New Republic, but the date and original registration ID instead match the September 27, 1941 issue of the Saturday Review of Literature, and there is no New Republic issue with this date.",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1941-10-06"},
+      "title": "England Under Glass",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1941-10-06"},
+        "title": "Critical Scholars",
+        "author": {
+         "authorized": "Jarrell, Randall, 1914-1965",
+         "lcna": "n79076730"
+        }
+     },
+     {"issue": {"issue-date": "1941-10-13"},
+        "title": "The Lights Look Down; Who Goes There?",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1941-10-20"},
+      "title": "The Saint in Politics",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1941-10-27"},
+        "title": "Two For the Show, Happy Days are Here Again",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1941-11-03"}, 
+      "title": "Wolfe and the Lost People",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1941-11-10"},
+        "title": "Happy Endings, Stories, Tall and Short",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1941-11-10"},
+        "title": "Three Poets",
+        "author": {
+         "authorized": "Bogan, Louise, 1897-1970",
+         "lcna": "n50010084"
+        }
+     },
+     {"issue": {"issue-date": "1941-11-17"}, 
+        "title": "Hollywood Footnote, The Snows of Yesterday",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1941-11-24"},
+        "title": "Land of Dreams and Nightmares",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1941-11-24"},
+      "title": "Mr. Brooks Dissenting",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1941-12-01"},
+      "title": "Mr. Brooks Dissenting, II",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1941-12-08"},
+        "title": "Children Selecting Books in a Library. The Difficult Resolution. The Christmas Roses",
+        "author": {
+         "authorized": "Jarrell, Randall, 1914-1965",
+         "lcna": "n79076730"
+        }
+     },
+     {"issue": {"issue-date": "1941-12-08"},
+        "title": "My Landlady",
+        "author": {
+         "authorized": "Rosenfeld, Isaac, 1918-1956",
+         "lcna": "n87938119"
+        }
+     },
+     {"issue": {"issue-date": "1941-12-15"},
+        "title": "Bright Hokum. Laughter, Not Immoderate",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1942-01-19"},
+        "title": "Moneychangers in the Tempo",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1942-02-02"},
+        "title": "The Case of the Critics, Reading for Pleasure",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1942-02-09"},
+        "title": "Records: A Start on Jazz",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1942-02-09"},
+      "title": "Taps at Assembly",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1942-03-16"},
+      "title": "What Price Conquest?",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1942-05-04"},
+      "title": "Chicago Poem",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1942-05-25"},
+      "title": "Bad Company",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1942-06-01"},
+      "title": "Total Victory",
+       "author": {
+          "authorized": "Buck, Pearl S. (Pearl Sydenstricker), 1892-1973",
+          "lcna": "n79026662"
+        }
+     },
+     {"issue": {"issue-date": "1942-06-01"},
+      "title": "Washington is Like Hell",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1942-06-22"},
+      "title": "The Dispossessed",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1942-06-29"},
+      "title": "Go Down to Faulkner's Land",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1942-07-13"},
+      "title": "Tribute to Mary Vorse",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1942-07-20"},
+      "title": "Koestler: The Disenchanted",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1942-08-03"},
+      "title": "The Red and the Black",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1942-08-24"},
+      "title": "The Man Who Lived Twice",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1942-09-28"},
+      "title": "The Soldier and the Saint",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1942-10-05"},
+      "title": "Spender, Auden and After",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1942-10-12"},
+      "title": "Journey in the Slave States",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1942-10-26", "cdate": "1942-10-22"}, 
+      "title": "Geography of Our Times",
+      "author": {
+       "authorized": "MacLeish, Archibald, 1892-1982",
+       "lcna": "n80015459"
+      }
+     },
+     {"issue": {"issue-date": "1942-12-21"},
+      "title": "Make it Freedom's War",
+       "author": {
+          "authorized": "Buck, Pearl S. (Pearl Sydenstricker), 1892-1973",
+          "lcna": "n79026662"
+        }
+     },
+     {"issue": {"issue-date": "1942-12-28"},
+      "title": "But Listen, Dorothy",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1942-12-28"},
+      "title": "Science and Synthetic Rubber",
+      "author": {
+        "authorized": "Williams, Albert Rhys, 1883-1962",
+        "lcna": "n50024702"
+      }
+     },
+     {"issue": {"issue-date": "1943-01-11"},
+      "title": "Men of Good Will",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1943-01-18"},
+      "title": "The Imp of the Perverse",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1943-02-08"},
+      "title": "The Hosting of the Shee",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1943-02-15"},
+      "title": "Our Passion is Our Task",
+      "author": {
+       "authorized": "Kazin, Alfred, 1915-1998",
+       "lcna": "n79038435"
+      }
+     },
+     {"issue": {"issue-date": "1943-03-08"},
+      "title": "Mencken and Mark Twain",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1943-03-22"},
+      "title": "The Book of Martyrs",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1943-03-29"},
+      "title": "Yankee Army in the South",
+      "author": {
+       "name": "Frank E. Smith"
+      }
+     },
+     {"issue": {"issue-date": "1943-05-24"},
+      "title": "Graham Greene",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1943-05-31"},
+      "title": "The End of the New Deal",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1943-06-07"},
+      "title": "Beyond Poetry",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1943-08-23"},
+        "title": "Soldier (T.P.)",
+        "author": {
+         "authorized": "Jarrell, Randall, 1914-1965",
+         "lcna": "n79076730"
+        }
+     },
+     {"issue": {"issue-date": "1943-08-23"},
+        "title": "Troop Train",
+        "author": {
+         "authorized": "Shapiro, Karl, 1913-2000",
+         "lcna": "n79021704"
+        }
      }
    ],
-   "comment": "Resume contribution searches with 1965 Jan-Jun",
+   "comment": "Resume contribution searches with 1971 Jan-Jun",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-03-30"
+   "last-updated": "2022-04-10"
 }

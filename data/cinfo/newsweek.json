@@ -1,6 +1,7 @@
 {
    "title": "Newsweek",
    "aka": ["News-Week"],
+   "online": "1",
    "first-renewed-issue": 
        {"issue-date": "1951-01-08", "volume": "37", "number": "2"},
    "first-renewed-issue-source": "database",
@@ -8,9 +9,145 @@
        "issue": {"issue-date": "1939-11-13"}
    },
    "first-renewed-contribution-source": "1967-JulDec",
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1939-11-13"},
+      "title": "Pre-Thanksgiving Turkeys",
+      "author": {
+       "authorized": "Nathan, George Jean, 1882-1958",
+       "lcna": "n50033299"
+      }
+     },
+     {"issue": {"issue-date": "1939-11-20"},
+      "title": "Arrivals and Departures",
+      "author": {
+       "authorized": "Nathan, George Jean, 1882-1958",
+       "lcna": "n50033299"
+      }
+     },
+     {"issue": {"cdate": "1940-04-18"},
+       "title": "For Your Severest Critics, Your Real Friends",
+       "note": "Listed as work for hire by Brown & Thomas for Schenley Industries. Schenley Industries is the author for copyright purposes.",
+       "authors": [
+        {"name": "Brown & Thomas Advertising Corp."},
+        {"authorized": "Schenley Industries", "lcna": "no2013030492"}
+       ]
+     },
+     {"issue": {"cdate": "1940-05-16"},
+       "title": "For Your Severest Critics, Your Real Friends",
+       "note": "Listed as work for hire by Brown & Thomas for Schenley Industries. Schenley Industries is the author for copyright purposes.",
+       "authors": [
+        {"name": "Brown & Thomas Advertising Corp."},
+        {"authorized": "Schenley Industries", "lcna": "no2013030492"}
+       ]
+     },
+     {"issue": {"cdate": "1940-05-30"},
+       "title": "What Every Man Wants to Know About a Woman",
+       "note": "Listed as work for hire by Brown & Thomas for Schenley Industries. Schenley Industries is the author for copyright purposes.",
+       "authors": [
+        {"name": "Brown & Thomas Advertising Corp."},
+        {"authorized": "Schenley Industries", "lcna": "no2013030492"}
+       ]
+     },
+     {"issue": {"cdate": "1940-06-27"},
+       "title": "What Every Woman Wants to Know About a Man",
+       "note": "Listed as work for hire by Brown & Thomas for Schenley Industries. Schenley Industries is the author for copyright purposes.",
+       "authors": [
+        {"name": "Brown & Thomas Advertising Corp."},
+        {"authorized": "Schenley Industries", "lcna": "no2013030492"}
+       ]
+     },
+     {"issue": {"cdate": "1940-07-04"},
+       "title": "For Your Severest Critics, Your Real Friends",
+       "note": "Listed as work for hire by Brown & Thomas for Schenley Industries. Schenley Industries is the author for copyright purposes.",
+       "authors": [
+        {"name": "Brown & Thomas Advertising Corp."},
+        {"authorized": "Schenley Industries", "lcna": "no2013030492"}
+       ]
+     },
+     {"issue": {"issue-date": "1943-12-06"},
+        "title": "Oursler's Questionbox",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "lcna": "n79041782"
+        }
+     },
+     {"issue": {"issue-date": "1945-05-14"},
+        "title": "Dead Men Do Talk",
+        "author": {
+         "authorized": "Chandler, Raymond, 1888-1959",
+         "lcna": "n79113919"
+        }
+     },
+     {"issue": {"issue-date": "1948-08-23"}, 
+      "title": "Prejudices: New Series",
+      "author": {
+       "authorized": "Mencken, H. L. (Henry Louis), 1880-1956",
+       "lcna": "n80036702"
+      }
+     },
+     {"issue": {"issue-date": "1949-07-25"}, 
+      "title": "Last of Lanny?",
+      "author": {
+       "authorized": "Sinclair, Upton, 1878-1968",
+       "using": "Arthur Stirling",
+       "lcna": "n79127862"
+      }
+     },
+     {"issue": {"issue-date": "1950-07-03"},
+        "title": "Albert Spaulding playing violin",
+        "title-note": "photograph",
+        "author": {
+         "authorized": "Orkin, Ruth",
+         "lcna": "n78034078"
+        }
+     },
+     {"issue": {"issue-date": "1952-12-22"},
+        "title": "Big Brother Week",
+        "author": {
+         "authorized": "Rockwell, Norman, 1894-1978",
+         "lcna": "n79039542"
+        }
+     },
+     {"issue": {"issue-date": "1952-12-22"},
+        "title": "Artists",
+        "author": {
+         "authorized": "Rockwell, Norman, 1894-1978",
+         "lcna": "n79039542"
+        }
+     },
+     {"issue": {"issue-date": "1959-03-02"},
+        "title": "Hello Saroyan, Goodby",
+        "author": {
+         "authorized": "Saroyan, William, 1908-1981",
+         "lcna": "n78095781"
+        }
+     },
+     {"issue": {"issue-date": "1959-06-15"},
+      "title": "A Fu Manchu Said, I Shall Live",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1962-05-21"},
+        "title": "Buoyant Return",
+        "author": {
+         "authorized": "Bemelmans, Ludwig, 1898-1962",
+         "lcna": "n50007160"
+        }
+     },
+     {"issue": {"issue-date": "1962-10-15"},
+        "title": "Madeline's Master",
+        "author": {
+         "authorized": "Bemelmans, Ludwig, 1898-1962",
+         "lcna": "n50007160"
+        }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-01-11"
+   "last-updated": "2022-04-23"
 }

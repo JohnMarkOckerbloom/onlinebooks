@@ -1,14 +1,19 @@
 {
    "title": "Brooklyn Museum Bulletin",
+   "preceded-by":
+      [{"id": "bklynmusqtly", "note": "The Brooklyn Museum Quarterly"}],
+   "online": "1",
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
+   "succeeded-by":
+      [{"id": "bklynmusannual", "note": "The Brooklyn Museum Annual"}],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
    "acknowledgement": 
       "Thanks to Scott F Andrews for copyright research on this title.",
-   "last-updated": "2022-03-29"
+   "last-updated": "2022-04-04"
 }
