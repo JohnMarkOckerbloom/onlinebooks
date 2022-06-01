@@ -1,5 +1,9 @@
 {
-   "title": "Hygiène Mentale",
+   "title": "L'Hygiène Mentale",
+   "online": "1",
+   "preceded-by":
+     [{"id": "infalienneur",
+       "note": "L'Informateur des Aliénistes et des Neurologistes"}],
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
@@ -12,5 +16,5 @@
    },
    "acknowledgement": 
       "Thanks to Nat Bender for copyright research on this title.",
-   "last-updated": "2021-10-13"
+   "last-updated": "2022-05-25"
 }

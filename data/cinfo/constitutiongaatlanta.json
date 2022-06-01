@@ -1,14 +1,21 @@
 {
    "title": "Atlanta Constitution",
+   "online": "1",
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": {
        "issue": {"issue-date": "1940-02-09"}
    },
    "first-renewed-contribution-source": "1967-JanJun",
+   "see-also":
+     [{"id": "ajcsunmag",
+       "note": "Sunday Magazine (Atlanta Journal and Constitution)"}],
+   "additional-note": "Those considering the copyright status of this newspaper's content should consider both the renewal mentioned in the Sunday Magazine record, and the presence of nationally syndicated content.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2017-12-29"
+   "acknowledgement": 
+      "Thanks to Pete Sullivan for copyright research on this title.",
+   "last-updated": "2022-05-23"
 }

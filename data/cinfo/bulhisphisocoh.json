@@ -4,11 +4,15 @@
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
+   "last-issue": {"issue-date": "1963-10", "volume": "21", "number": "4"},
+   "succeeded-by": 
+      [{"id": "bulcinhistsoc",
+        "note": "Bulletin (Cincinnati Historical Society)"}],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
    "acknowledgement": 
       "Thanks to Pete Sullivan for copyright research on this title.",
-   "last-updated": "2020-11-02"
+   "last-updated": "2022-05-19"
 }

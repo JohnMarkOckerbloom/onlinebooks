@@ -1,0 +1,35 @@
+{
+   "title": "Kid Colt",
+   "title-note": "1948-1949",
+   "contents": [
+      {"url": "https://www.comics.org/series/565/",
+       "note": "Grand Comics Database"}
+   ],
+   "first-issue":
+      {"issue-date": "1948-08", "volume": "1", "number": "1"},
+   "first-renewed-issue":
+      {"issue-date": "1948-08", "volume": "1", "number": "1"},
+   "first-renewed-issue-source": "1977-JulDec",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce",
+   "last-issue":
+     {"issue-date": "1949-02", "volume": "1", "number": "4"},
+   "succeeded-by":
+     [{"id": "kidcoltoutlaw", "note": "Kid Colt Outlaw"}],
+   "renewed-issue-completeness": "active/end",
+   "renewed-issues": [
+     {"issue-date": "1948-08", "volume": "1", "number": "1"},
+     {"issue-date": "1948-10", "volume": "1", "number": "2"},
+     {"issue-date": "1948-12", "volume": "1", "number": "3"},
+     {"issue-date": "1949-02", "volume": "1", "number": "4"}
+   ],
+   "additional-notes": [
+     "A note in the July-December 1976 Periodicals volume says to 'consult copyright office' for full issue renewal information.  The first cataloged issue renewal, mentioned in the July-December 1977 CCE Periodicals volume, is for the August 1948 issue, and was filed in May 1976.",
+     "Number 3 and 4 have 'Kid Colt Outlaw' on the cover, but the indicia title, and the title under which these issues were renewed, was simply 'Kit Colt'."
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2022-05-23"
+}
