@@ -15,11 +15,15 @@ use OLBP::Entities;
 use OLBP::Hash;
 use utf8;
 
-my $skosntfile = $ARGV[0] || "subjects-sorted.nt";
-my $ntfile = $ARGV[0] || "mads-subjects-sorted.nt ";
-# my $overridefile = "overrides-skos";
-my $overridefile = "overrides-mads";
-my $fmt = "mads";
+my $TESTID = "sh85003545";
+
+#my $skosntfile = $ARGV[0] || "skos-subjects-sorted.nt";
+my $ntfile = $ARGV[0] || "skos-subjects-sorted.nt";
+#my $ntfile = $ARGV[0] || "mads-subjects-sorted.nt ";
+my $overridefile = "overrides-skos";
+# my $overridefile = "overrides-mads";
+#my $fmt = "mads";
+my $fmt = "skos";
 
 my $wikimap = "../wikimap";
 my $fastmap = "../fast/locmap";
@@ -265,7 +269,8 @@ sub get_predicate_uri {
     # may need to unescape uri; not doing for now";
     return $1;
   }
-  error("$pred not a brackets URI");
+  return undef;  #legit if not there
+  # error("$pred not a brackets URI (in $triple->[0]|$triple->[1]|$triple->[2]");
 }
 
 # returns the string plus some info about its content
@@ -311,6 +316,13 @@ sub get_next_triple {
   }
   $line =~ s/\s*\.\s*$//;
   $line = n3_unescape($line);
+  # Some id.loc.gov URIs are inconsistently https: -- turn all into http:
+  #  (commented out lines below are for testing this)
+  # my $oldline = $line;
+  $line =~ s!<https://id.loc.gov!<http://id.loc.gov!g;
+  #if ($oldline ne $line) {
+  #  print "$oldline is now $line\n";
+  #}
   my @list = split /\s+/, $line, 3;
   return \@list;
 }
@@ -378,7 +390,7 @@ sub get_names_from_secondary_file {
   open IN, "< $fname" or return 0;
   binmode(IN, ":utf8");
   while (my $line = <IN>) {
-    if ($line =~ m!^<http://id.loc.gov/authorities/subjects/(\S*)>\s+<$PREF_PRED>\s+\"(.*)\"\@en!) {
+    if ($line =~ m!^<https?://id.loc.gov/authorities/subjects/(\S*)>\s+<$PREF_PRED>\s+\"(.*)\"\@en!) {
       $secondaryname->{$1} = n3_unescape($2);
     }
   }
@@ -393,6 +405,8 @@ sub add_empty_recs_from_secondary {
   foreach my $id (keys %{$secondaryname}) {
     if ($secondaryname->{$id} && !defined($recs->{$id}) &&
         !($dontbother->{$id})) {
+      # Don't add the FAST-based records
+      next if ($id =~ /-781$/);
       my $rec = {};
       $rec->{id} = $id;
       $rec->{name} = $secondaryname->{$id};
@@ -405,6 +419,9 @@ sub add_empty_recs_from_secondary {
     }
   }
 }
+
+my %skos_blank_alts = ("sh2022005397" => 1);
+# my %skos_invalid_ids = ("sh2018001858" => 1);
 
 sub n3_entity_record {
   my ($entity, $id, $ohash) = @_;
@@ -423,9 +440,13 @@ sub n3_entity_record {
   }
   if ($rec->{id} =~ /^sj/) {
     # mark this entry as for kids (we prob. won't use it therefore)
+    # print "This is a kids entry starting with sj\n";
     $rec->{kids} = 1;
   }
   foreach my $triple (@{$entity}) {
+    #if (!($triple->[1])) {
+    #   error("Couldn't find a predicate", $rec);
+    #}
     my $pred = get_predicate_uri($triple);
     my ($obj, $objtype) = get_object_details($triple);
     # special case: _:LL is an undefined entity; ignore all assertions w it
@@ -458,8 +479,14 @@ sub n3_entity_record {
          # This seems to just be stubs and a few accidental subjects
          #  which we can consider deleted
         $rec->{deleted} = 1;
-      } elsif ($obj =~ /(\#DeprecatedAuthority|\#Variant)/) {
-         # Consider deprecated and variant authorities deleted
+      # } elsif ($obj =~ /(\#DeprecatedAuthority|\#Variant)/) {
+      } elsif ($obj =~ /\#DeprecatedAuthority/) {
+         # Consider deprecated authorities deleted
+        $rec->{deleted} = 1;
+      } elsif ($obj =~ /\#Variant/) {
+         # Variant without DeprecatedAuthority is OK
+      } elsif ($obj =~ /\#HierarchicalGeographic/) {
+        # I only saw one odd nonstandard sub with this; consider it deleted
         $rec->{deleted} = 1;
       } elsif (!$expectedtype{$obj}) {
         error("Unrecognized type: $obj\n");
@@ -478,18 +505,27 @@ sub n3_entity_record {
           $rec->{name} = $ohash->{$id};
           error("putting $ohash->{$id} into conflicted record", $rec, 1);
         } elsif ($rec->{name} ne $obj) {
-          error("already had a name ($rec->{name}) when we hit $obj", $rec, 1);
+          if (($rec->{name} ne $obj . ".") && (!($obj =~ /^_\:n/))) {
+            error("already had a name ($rec->{name}) when we hit $obj", $rec, 1);
+          }
         }
       } else {
         $rec->{name} = $obj;
       }
+      #if ($id eq $TESTID) {
+      #  print "SEEING THE ID $id now named $rec->{name}\n";
+      #}
     } elsif ($pred eq $ALT_PRED || $pred eq $SKOS_NOTE
              || $pred eq $MADS_NOTE || $pred eq $MADS_VLABEL) {
       if ($objtype && uc($objtype) ne "EN") {
         error("unexpected language: $objtype", $rec);
       }
       if (!$obj) {
-        error("unexpected (blank?) altlabel: $obj", $rec);
+        if ($skos_blank_alts{$rec->{id}}) {
+          error("skipping expected blank altlabel", $rec, 1);
+        } else {
+          error("unexpected (blank?) altlabel: $obj", $rec);
+        }
       }
       if ($obj =~ /,\s*$/) {
         # this is a truncated label; ignore it
@@ -554,7 +590,7 @@ sub n3_entity_record {
       # these map to other ontologies; ignore for now
     } elsif ($pred eq $SEE_ALSO) {
       # currently just seems to be for deleted entities - ignore for now
-    } elsif ($pred =~ /$SKOSPREFIX#(editorial|editorialNote|example|changeNote)/) {
+    } elsif ($pred =~ /$SKOSPREFIX#(editorial|editorialNote|example|changeNote|historyNote)/) {
       # I think these are just internal notes we can ignore
       # "editorial" seems to be an erroneous name for editorialNote
     } elsif ($pred eq $NOTATION) {
@@ -567,7 +603,7 @@ sub n3_entity_record {
        # MADS equivalent of PatternHeading - ignore here too
     } elsif ($pred =~ /$MADSPREFIX#classification/) {
        # LC call numbers for subjects - cool, but we ignore for now
-    } elsif ($pred =~ /$MADSPREFIX#(editorialNote|exampleNote)/) {
+    } elsif ($pred =~ /$MADSPREFIX#(editorialNote|exampleNote|historyNote)/) {
        # various MADS notes we can ignore
     } elsif ($pred =~ /$MADSPREFIX#(adminMetadata|componentList|elementList|hasSource|identifiesRWO)/) {
        # various other MADS predicates we can ignore
@@ -585,6 +621,9 @@ sub n3_entity_record {
     } elsif ($pred =~ m!http://id.loc.gov/vocabulary/identifiers!) {
        # Mappings to slightly different control number forms
        #  and a few internal local identifiers - can be ignored
+    } elsif ($pred =~ m!$RDFSPREFIX#label!) {
+       # Seems to be generic label used in some obsolete subjects
+       #  (not an actual heading), so ignorable
     } else {
       error("unrecognized predicate: $pred", $rec);
     }
@@ -667,9 +706,21 @@ sub readfile {
     } elsif ($eid =~ m!^<$AUTHPREFIX/(childrensS|s)ubjects/(\w+)>!) {
       # print "adding a record\n";
       $eid = $2;
+      #if ($skos_invalid_ids{$eid}) {
+      #  error("skipping known bad subject ID $eid", 0, 1),
+      #  $dontbother->{$eid} = 1;
+      #  next;
+      #}
       my $rec = n3_entity_record($entity, $eid, $ohash);
+      #if ($eid =~ /$TESTID/) {
+      #    print "$eid now has $rec\n";
+      #}
       next if (!$rec || !$rec->{id});
       if ($rec->{kids} || $rec->{sub} || $rec->{genre} || $rec->{deleted}) {
+        if ($eid =~ /$TESTID/) {
+          print "Don't bother invoked for $eid: " . 
+             "kids: " . $rec->{kids} . " sub: $rec->{sub} " . " genre: ". $rec->{genre} . " deleted: " . $rec->{deleted} . "\n";
+        }
         $dontbother->{$eid} = 1;
         next;
       }
@@ -680,6 +731,9 @@ sub readfile {
       $recs->{$rec->{id}} = $rec;
       my $name = $rec->{name};
       my $label = normalizelabel($name);
+      if ($id eq $TESTID) {
+        print "Adding record for $id (name: $name, label $label\n";
+      }
       if ($labelids->{$label}) {
         my $orec = $recs->{$labelids->{$label}};
         my $oname = $orec->{name};
@@ -701,6 +755,18 @@ sub readfile {
       next;
     } elsif ($eid =~ m!id.loc.gov/vocabulary!) {
       # More dangling subjects in the MADS file - ignore
+    } elsif ($eid =~ m!authorities//!) {
+      # Double-slash subjects appear to be errors; correct subs also in file
+      error("skipping unusual subject $eid", 0, 1),
+      next;
+    } elsif ($eid =~ m!\.>!) {
+      # Subject IDs with periods appear to be errors; correct subs also in file
+      error("skipping unusual subject $eid", 0, 1),
+      next;
+    } elsif ($eid =~ m!\-781\>!) {
+      # The 781 seem to be redundant FAST terms?
+      # error("skipping 781 subject $eid", 0, 1),
+      next;
     } else {
        print "didn't expect $eid as a subject\n";
        exit 0;
@@ -776,7 +842,7 @@ binmode STDOUT, ":utf8";
 print "aliases is $aliases\n";
 
 my $ohash = read_overrides($overridefile);
-get_names_from_secondary_file($skosntfile);
+# get_names_from_secondary_file($skosntfile);
 my ($recs, $labelids) = readfile($ntfile, $ohash);
 add_empty_recs_from_secondary($recs, $labelids);
 print "recs is $recs, labelids is $labelids\n";
@@ -797,8 +863,10 @@ foreach my $id (keys %{$recs}) {
     my $key = normalizelabel($alias);
     $searchterm = simplified($key);
     $inuse->{$searchterm} ||= 1;
-    $aliases->{$key} .= "|$subst";
-    print "Adding $subst as UF for $key\n";
+    if (lc($subst) ne $key) {
+      $aliases->{$key} .= "|$subst";
+      print "Adding $subst as UF for $key\n";
+    }
   }
   # print "$id: $label ($name)\n$desc\n";
 }

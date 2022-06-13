@@ -21,6 +21,9 @@ my $maxcsvfilesize = "20000000";
 my $minarticlefilesize = "1600000";
 my $maxarticlefilesize = "3000000";
 
+my $minhathifilesize = "9000000";
+my $maxhathifilesize = "20000000";
+
 my $csvstage   = "wikipstage.csv";
 my $csvprod    = "wikiperiodicals.csv";
 
@@ -28,7 +31,10 @@ my $acsvstage   = "articlepstage.csv";
 my $acsvprod    = "articleperiodicals.csv";
 
 my $hcsvstage   = "wikihathistage.csv";
-my $hcsvprod    = "wikihathiserial.csv";
+my $hcsvprod    = "wikihathiserials.csv";
+#my $hcsvprod    = "wikihathiserial.csv";
+
+my $agent = "DeepBackfile/0.1";
 
 $COPYRIGHT_ID_QUERY = qq!SELECT ?olbpid ?wikidataid ?article 
        (group_concat(?issn) as ?issns)
@@ -101,17 +107,40 @@ GROUP BY ?id ?article ?olbpid ?startdate ?enddate
 LIMIT 100000
 !;
 
-$HATHI_QUERY = qq!SELECT ?wikidataid ?olbpid ?issn
-       (group_concat(?hathitrustid) as ?hathitrustids)
+#$HATHI_QUERY = qq!SELECT ?wikidataid ?olbpid ?issn
+#       (group_concat(?hathitrustid) as ?hathitrustids)
+#WHERE
+#{
+#  ?wikidataid wdt:P1844 ?hathitrustid;
+#              wdt:P5396 ?olbpid .
+#   OPTIONAL {?wikidataid wdt:P236 ?issn}
+#}
+#GROUP BY ?wikidataid ?olbpid ?issn
+#ORDER BY ?wikidataid
+#LIMIT 100000
+#!;
+
+$NEW_HATHI_QUERY = qq!SELECT ?wikidataid ?olbpid ?start ?end
+(group_concat(?issn) as ?issns)
+(group_concat(?hathiid) as ?hathiids)
 WHERE
 {
-  ?wikidataid wdt:P1844 ?hathitrustid;
-              wdt:P5396 ?olbpid .
-   OPTIONAL {?wikidataid wdt:P236 ?issn}
+   wd:Q2217301 ^wdt:P279*/^wdt:P31 ?wikidataid .
+  OPTIONAL {?wikidataid wdt:P236 ?issn}
+  OPTIONAL {?wikidataid wdt:P1844 ?hathiid}
+  OPTIONAL {?wikidataid wdt:P5396 ?olbpid}
+  OPTIONAL {?wikidataid wdt:P571 ?start}
+  OPTIONAL {?wikidataid wdt:P576 ?end}
+  OPTIONAL {?wikidataid wdt:P582 ?end}
+  OPTIONAL {?wikidataid wdt:P2669 ?end} 
+
+
+  FILTER (BOUND(?olbpid) || BOUND(?hathiid) || BOUND(?issn))
+
 }
-GROUP BY ?wikidataid ?olbpid ?issn
+GROUP BY ?wikidataid ?olbpid ?start ?end
 ORDER BY ?wikidataid
-LIMIT 100000
+LIMIT 200000
 !;
 
 sub packhashtofile {
@@ -197,8 +226,23 @@ sub writetofile {
   close $fh;
 }
 
+sub do_hathi_query {
+  print "Doing a Hathitrust query\n";
+  my $hathidata = query_wikidata($agent, $NEW_HATHI_QUERY, "csv");
+  my $csvpath = "$hathidir$hcsvstage";
+  writetofile($csvpath, $hathidata);
+  my $hpath = "$hathidir$hcsvprod";
+  if (!shift_file("$csvpath", "$hpath", $minhathifilesize, $maxhathifilesize)) {
+    print STDERR "Didn't like the look of $csvpath\n";
+  }
+  exit 0;
+}
 
-my $agent = "DeepBackfile/0.1";
+
+if ($ARGV[0] eq "hathi") {
+  do_hathi_query;
+}
+
 my $response = query_wikidata($agent, $COPYRIGHT_ID_QUERY, "json");
 if ($response =~ /^C/) {
   die ($response);
@@ -230,14 +274,14 @@ if (!shift_file("$csvpath", "$newpath",
   exit 0;
 }
 
-my $hathidata = query_wikidata($agent, $HATHI_QUERY, "csv");
-$csvpath = "$hathidir$hcsvstage";
-writetofile($csvpath, $hathidata);
-my $hpath = "$hathidir$hcsvprod";
-if (!shift_file("$csvpath", "$hpath",
-    10000, 1000000)) {
-  print STDERR "Didn't like the look of $csvpath\n";
-  exit 0;
-}
+# my $hathidata = query_wikidata($agent, $HATHI_QUERY, "csv");
+#$csvpath = "$hathidir$hcsvstage";
+#writetofile($csvpath, $hathidata);
+#my $hpath = "$hathidir$hcsvprod";
+#if (!shift_file("$csvpath", "$hpath",
+#    10000, 1000000)) {
+#  print STDERR "Didn't like the look of $csvpath\n";
+#  exit 0;
+#}
 
 
