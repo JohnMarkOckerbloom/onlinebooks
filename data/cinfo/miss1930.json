@@ -1,0 +1,47 @@
+{
+   "title": "Miss 1930",
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/GFI/link.asp?magid=MIS29",
+      "note": "FictionMags (selected issues only; with predecessor Miss 1929)"}
+   ],
+   "preceded-by": [{"id": "miss1929", "note": "Miss 1929"}],
+   "first-issue": {"issue-date": "1930-01"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce",
+   "first-renewed-contribution": 
+      {"issue": {"issue-date": "1930-01"}},
+   "first-renewed-contribution-source": "1957-JulDec",
+   "last-issue": {"issue-date": "1930-04"},
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1930-01"},
+      "title": "The Masquerader",
+      "title-note": "part 1 of 2",
+      "author": {
+       "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
+       "lcna": "no90021257"
+      }
+     },
+     {"issue": {"issue-date": "1930-02"},
+      "title": "The Masquerader",
+      "title-note": "part 2 of 2",
+      "author": {
+       "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
+       "lcna": "no90021257"
+      }
+     },
+     {"issue": {"issue-date": "1930-03"},
+      "title": "Lost on the Rue de la Something",
+      "author": {
+       "authorized": "Duganne, Phyllis, 1899-1976",
+       "lcna": "n90719514"
+      }
+     }
+   ],
+   "additional-note": "Active contribution renewals are recorded beginning in the 1957 January-June CCE volume, but the earliest renewed contribution is noted in the 1957 July-December volume.",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2022-06-05"
+}

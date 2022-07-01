@@ -13,6 +13,7 @@ $uecode{"nbsp"}   = 0x00a0;
 $uecode{"iexcl"}  = 0x00a1;
 $uecode{"curren"} = 0x00a4;
 $uecode{"sect"}   = 0x00a7;
+$uecode{"uml"}    = 0x00a8;
 $uecode{"laquo"}  = 0x00ab;
 $uecode{"reg"}    = 0x00ae;
 $uecode{"macr"}   = 0x00af;
@@ -414,7 +415,7 @@ my $_codes = {
   ',' => [0xff0c, 0x3001, 0xff64],
   '.' => [0xff0e, 0xff65],
   ';' => [0xff1b],
-  '\'' => [0x02b9, 0x02bb, 0x02bc, 0x2018, 0x2019, 0xff07],
+  '\'' => [0x02b9, 0x02bb, 0x02bc, 0x02bd, 0x2018, 0x2019, 0xa78c, 0xff07],
   '!' => [0x01c3],
   '?' => [0xff1f],
   # CJK left and right corner brackets function as quote mks
@@ -500,6 +501,7 @@ my %_normalized = ("acute" => "'",
                    "thorn" => "th",
                    "times" => "x",
                    "trade" => "tm",
+                   "uml" => ":",
                    );
 
 my %_normalnum;
@@ -603,7 +605,7 @@ sub utf8ify_entities {
     my ($first, $pattern, $rest) = ($1, $2, $3);
     my $newstr = "\&$pattern;";
     if ($uecode{$pattern}) {
-      print STDERR "$pattern going to code $uecode{$pattern}\n";
+      # print STDERR "$pattern going to code $uecode{$pattern}\n";
       $newstr = chr($uecode{$pattern});
     } if ($pattern =~ /#x(.+)/ && length($1) < 7) {
       my $hex = hex($1);

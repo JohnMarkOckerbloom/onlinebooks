@@ -18,6 +18,9 @@ my $pkgdir   = $datadir . "packages/";
 my $bookfile = $datadir . "wbookfile";
 my $badissnfile = $datadir . "badissns";
 my $wikidatafile = $wikidir . "wikiperiodicals.csv";
+#my $hathisummaryfile = "$homedir/bibdata/hathifile/issnsfound";
+my $hathisummaryfile = "$homedir/bibdata/hathifile/serialsfound2";
+my $hathiussummaryfile = "$homedir/bibdata/hathifile/serialsfoundusoclc";
 
 my $olbpserial = {};
 my $issnserial = {};
@@ -27,6 +30,8 @@ my $badissnid = {};
 my $cambridge_journals = $pkgdir . "cambridge/CUP_All_journals_2022-02-04.txt";
 #my $cambridge_journals = $pkgdir . "cambridge/CUP_All_journals_2021-01-30.txt";
 
+#my $hathi_serials = $pkgdir . "hathitrust/wikihathiserials.csv";
+my $hathi_serials = $pkgdir . "hathitrust/wikihathioclcserials.csv";
 my $hathipilot_serials = $pkgdir . "hathitrust/localplusus.tsv";
 my $hathipilot_wdquery = $pkgdir . "hathitrust/wikihathiserial.csv";
 
@@ -77,6 +82,12 @@ my $tables = {
   "cambridge-journals" =>
      {file => $cambridge_journals, reader=>\&readtsvfile,
       parser=>\&kbartparser, filter=>\&pre64andolbp},
+  "hathitrust" =>
+     {file => $hathi_serials, reader=>\&readcsvfile,
+      parser=>\&htfilesparser, filter=>\&hathisortedfilter},
+  "hathitrust-us" =>
+     {file => $hathi_serials, reader=>\&readcsvfile,
+      parser=>\&htfilesparser, filter=>\&hathisortedfilter},
   "hathitrust-pilot" =>
      {file => $hathipilot_serials, reader=>\&readtsvfile,
       parser=>\&htpilotparser, filter=>\&sortedfilterwitholbp},
@@ -532,6 +543,59 @@ sub pennparser {
 
 my $hathirecordprefix = "https://catalog.hathitrust.org/Record/";
 
+sub htfilesparser {
+  my ($set, @results) = @_;
+  my @recs = ();
+  my $hathisummary;
+  if ($set eq "hathitrust-us") {
+    $hathisummary = readhathisummary($hathiussummaryfile);
+  } else {
+    $hathisummary = readhathisummary($hathisummaryfile);
+  }
+  foreach my $result (@results) {
+    my $wdid = $result->{wikidataid};
+    $wdid =~ s/.*\///;         # Wikidata URL is in file. Remove all before /
+    my $olbp = $result->{olbpid};
+    my $start = $result->{start_date};
+    my $end = $result->{end_date};
+    my @issns = split /\s+/, $result->{issns};
+    my @hathiids = split /\s+/, $result->{hathiids};
+    my @oclcids = split /\s+/, $result->{oclcs};
+    my $rec = find_pub_record($olbp, @issns);
+    if (!$rec) {
+      $rec = {};
+    }
+    foreach my $issn (@issns) {
+      $rec->{issns}->{$issn} = 1;
+      $rec->{hathiline} ||= $hathisummary->{issnkey}->{$issn};
+    }
+    if (!$rec->{hathiline} && @hathiids) {
+      foreach my $hid (@hathiids) {
+        $rec->{hathiline} ||= $hathisummary->{hkey}->{$hid};
+      }
+    }
+    if (!$rec->{hathiline} && @oclcids) {
+      foreach my $oid (@oclcids) {
+        # print "Assigning a hathiline for OCLC ID $oid\n";
+        $rec->{hathiline} ||= $hathisummary->{okey}->{$oid};
+      }
+    }
+    if ($rec->{hathiline}) {
+      $rec->{title} ||= $rec->{hathiline}->{title};
+      $rec->{pkgid} ||= $hathirecordprefix . $rec->{hathiline}->{prefid};
+      $start = $rec->{hathiline}->{min};
+      $end = $rec->{hathiline}->{max};
+    }
+    $rec->{wikidata} ||= $wdid;
+    $rec->{start} ||= $start;
+    $rec->{start} = ($rec->{start} ? int($rec->{start}) : "");
+    $rec->{end} ||= $end;
+    $rec->{end} = ($rec->{end} ? int($rec->{end}) : "");
+    push @recs, $rec;
+  }
+  return @recs;
+}
+
 sub htpilotparser {
   my ($set, @results) = @_;
   my @recs = ();
@@ -622,6 +686,21 @@ sub sortedfilterwitholbp {
   return sort_titles(@filteredrecs);
 }
 
+sub hathisortedfilter {
+  my (@recs) = @_;
+  my @filteredrecs = ();
+  foreach my $rec (@recs) {
+    next if (!$rec->{title});  # Anything in hathifile should have a title
+    next if (!$rec->{pkgid});  # Anything in hathifile should have a title
+    if ($rec->{olbp} || ($rec->{start} && ($rec->{start} <= $renewals_end))) {
+      push @filteredrecs, $rec;
+    } elsif ($rec->{hathiline} && $rec->{hathiline}->{open}) {
+      push @filteredrecs, $rec;
+    }
+  }
+  return sort_titles(@filteredrecs);
+}
+
 
 sub pennfilter {
   my (@recs) = @_;
@@ -673,6 +752,9 @@ sub addissns {
 sub addcoverage {
   my ($str, $rec) = @_;
   push @{$rec->{coverage}}, $str;
+  if ($str =~ /hathitrust.org/) {
+    $rec->{hashathilink} = 1;
+  }
 }
 
 sub coverage_summary {
@@ -765,6 +847,7 @@ sub reportrecord {
 sub readbookfile {
   my ($bookfile, $verbose) = @_;
   open IN, "< $bookfile" or die "Can't read $bookfile";
+  binmode IN, ":utf8";
   my $id = "";
   my $rec;
   while (<IN>) {
@@ -775,7 +858,9 @@ sub readbookfile {
       $olbpserial->{$id} = $rec;
       $rec->{olbp} = $id;
     } elsif ($id && /^TITLE\s+(.*\S)\s*$/) {
-      $rec->{title} = $1;
+      my $title = $1;
+      $title = OLBP::Entities::utf8ify_entities($title);
+      $rec->{title} = $title;
     } elsif ($id && /^ISSN\s+(.*\S)\s*$/) {
       addissns($1, $rec);
     } elsif ($id && /^SREF\s+(\S+)/) {
@@ -1194,6 +1279,43 @@ sub readwikidata {
   }
 }
 
+sub readhathisummary {
+  my ($hathifile) = @_;
+  my $hathisummary;
+  open HATHISUM, "< $hathifile" or die "Can't open Hathi summary $hathifile\n";
+  binmode HATHISUM, ":utf8";
+  while (my $line = <HATHISUM>) {
+    chop $line;
+    my $linerec = {};
+    my @fields = split /\|/, $line;
+    my $issn = $fields[0];
+    my $title = $fields[6];
+    $title =~ s/[\x80-\xa1\xa6\xa8\xac\x{202a}]//g;  # filter some bad chars
+    if ($issn) {
+      $linerec->{issn} = $issn;
+    }
+    $linerec->{open} = $fields[3];
+    $linerec->{min} = $fields[4];
+    $linerec->{max} = $fields[5];
+    $linerec->{title} = $title;
+    my @hathiids = split /\s+/, $fields[1];
+    my @oclcids = split /\s+/, $fields[2];
+    $linerec->{prefid} = $hathiids[0];
+    if ($issn) {
+      $hathisummary->{issnkey}->{$issn} = $linerec;
+    }
+    foreach my $hid (@hathiids) {
+      $hathisummary->{hkey}->{$hid} = $linerec;
+    }
+    foreach my $oid (@oclcids) {
+      # print "Adding $oid (for iSSN $issn)\n";
+      $hathisummary->{okey}->{$oid} = $linerec;
+    }
+  }
+  close HATHISUM;
+  return $hathisummary;
+}
+
 sub readhathipilotfile {
   my ($hathifile) = @_;
   my @rows = readcsvfile($hathifile);
@@ -1328,6 +1450,11 @@ sub maketable {
       if (!$freerange && $cinfo->online_predecessor(json=>$rec)) {
         $freerange = "Predecessor";
       }
+    }
+    if (!$freerange &&
+         $rec->{hathiline} && $rec->{hathiline}->{open}) { 
+      # Used to link HathiTrust serials that are open but not in OLBP yet
+      $freerange = "Available";
     }
     if ($copyright eq "Unknown") { 
       if (int($rec->{end}) && $rec->{end} < $renewals_start) {

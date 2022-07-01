@@ -1,0 +1,24 @@
+{
+   "title": "Amazing Stories Annual",
+   "online": "1",
+   "contents": [
+      {"url": "http://www.isfdb.org/cgi-bin/title.cgi?137166",
+       "note": "ISFDB"},
+      {"url": "http://www.philsp.com/homeville/SFI/link.asp?magid=ASA",
+       "note": "Galactic Central"}
+   ],
+   "first-issue": {"issue-date": "1927", "volume": "1", "number": "1"}, 
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce",
+   "last-issue": {"issue-date": "1927", "volume": "1", "number": "1"}, 
+   "succeeded-by":
+      [{"id": "amazstorqtly", "note": "Amazing Stories Quarterly"}],
+   "see-also": [{"id": "amazingstories", "note": "Amazing Stories"}],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2022-06-28"
+}

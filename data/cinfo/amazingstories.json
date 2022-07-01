@@ -12,9 +12,15 @@
    "first-issue": {"issue-date": "1926-04"}, 
    "first-renewed-issue":
         {"issue-date": "1954-05", "volume": "28", "number": "2"}, 
+   "first-renewed-issue-source": "database",
    "first-autorenewed-issue": {
     "issue-date": "1964-03", "cdate": "1964-01-20", "volume": "38", "number": "3"
    }, 
+   "first-renewed-contribution":
+       {"issue": {"issue-date": "1932-12", "volume": "7", "number": "9"}},
+   "first-renewed-contribution-source": "1960-JanJun",
+   "see-also": [{"id": "amazstorann", "note": "Amazing Stories Annual"},
+                {"id": "amazstorqtly", "note": "Amazing Stories Quarterly"}],
    "renewed-issues": [
       {"issue-date": "1954-05", "volume": "28", "number": "2"},
       {"issue-date": "1954-07", "volume": "28", "number": "3"},
@@ -29,8 +35,6 @@
       {"issue-date": "1955-12", "volume": "29", "number": "7"}
    ], 
    "renewed-issue-completeness": "active/autorenewals",
-   "first-renewed-contribution":
-       {"issue": {"issue-date": "1932-12", "volume": "7", "number": "9"}},
    "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
        {"issue": {"issue-date": "1932-12", "volume": "7", "number": "9"},
@@ -1958,5 +1962,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-05-22"
+   "last-updated": "2022-06-28"
 }

@@ -798,6 +798,26 @@ sub display_olbp_cover {
   return $self->display_page(filename=>$params{id}, json=>$json);
 }
 
+sub _creator_list {
+  my ($self, $role, @creators) = @_;
+  my $str = ",";
+  if ($role) {
+    $str .= " $role";
+  }
+  $str .= " by ";
+  for (my $i = 0; $i < scalar @creators; $i++) {
+    $str .= $self->_display_person($creators[$i]);
+    if ($i < scalar(@creators) - 1) {
+      if ($i < scalar(@creators) - 2) {
+        $str .= ", ";
+      } else {
+        $str .= " and ";
+      }
+    }
+  }
+  return $str;
+}
+
 sub display_page {
   my ($self, %params) = @_;
   my $fname = $params{filename};
@@ -992,18 +1012,7 @@ sub display_page {
          if ($contr->{"author"}) {
            $str .= ", by " . $self->_display_person($contr->{"author"});
          } elsif ($contr->{"authors"}) {
-           $str .= ", by ";
-           my @authorlist = @{$contr->{"authors"}};
-           for (my $i = 0; $i < scalar @authorlist; $i++) {
-             $str .= $self->_display_person($authorlist[$i]);
-             if ($i < scalar(@authorlist) - 1) {
-               if ($i < scalar(@authorlist) - 2) {
-                 $str .= ", ";
-               } else {
-                 $str .= " and ";
-               }
-             }
-           }
+           $str .= $self->_creator_list("", @{$contr->{"authors"}});
          }
          if ($contr->{"editor"}) {
            $str .= ", ed. by " . $self->_display_person($contr->{"editor"});
@@ -1015,6 +1024,8 @@ sub display_page {
          if ($contr->{"translator"}) {
            $str .= ", trans. by " .
                $self->_display_person($contr->{"translator"});
+         } elsif ($contr->{"translators"}) {
+           $str .= $self->_creator_list("trans.", @{$contr->{"translators"}});
          }
          if ($contr->{"note"}) {
            $str .= ' (' . OLBP::html_encode($contr->{"note"}) . ')';

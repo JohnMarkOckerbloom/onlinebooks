@@ -25,6 +25,7 @@ my $FTLURL  = $OLBPURL . "webbin/ftl";
 my $CINFOURL= $OLBPURL . "webbin/cinfo";
 my $BFURL   = $OLBPURL . "webbin/backfile";
 my $PENNBF  = $BFURL . "/penn-serials";
+my $HATHIBF = $BFURL . "/hathitrust";
 my $COPYURL = $OLBPURL . "cce/";
 my $FPURL   = $COPYURL . "firstperiod.html";
 my $REGURL  = "https://cocatalog.loc.gov/";
@@ -398,6 +399,10 @@ sub bigserialform {
   </p>
 |;
   print qq!<form method="POST">!;
+  my $bftable = $q->param("bftable");
+  if ($bftable) {
+    print qq!<input type="hidden" name="bftable" value="$bftable">\n!;
+  }
   print qq!<section>!;
   print qq!<h3>Identify the serial you're interested in</h3> !;
   print formrow(caption=>"Title", fieldname=>"title", default=>$titledefault);
@@ -414,7 +419,12 @@ sub bigserialform {
     my $hint = "";
     if ($issndefault) {
       my $hinturl = "https://franklin.library.upenn.edu/catalog?utf8=%E2%9C%93&search_field=isxn_search&q=$issndefault";
-      $hint = qq! (Penn's <a href="$hinturl" target="deepfranklin">Franklin record</a> may say.)!;
+      my $catalog = (($bftable =~ /^hathitrust/) ? "catalog" : "Franklin");
+      my $whose = (($bftable =~ /^hathitrust/) ? "HathiTrust's" : "Penn's");
+      if ($bftable =~ /^hathitrust/) {
+        $hinturl =  "https://catalog.hathitrust.org/Search/Home?lookfor=$issndefault&searchtype=isn&filter[]=format%3ASerial";
+      }
+      $hint = qq! ($whose <a href="$hinturl" target="deepcatalog">$catalog record</a> may say.)!;
     }
     print formrow(caption=>
       "Does this serial originate in the US, or some other country?$hint",
@@ -479,7 +489,7 @@ sub bigserialform {
   }
   print qq!Good places to search include $hathilink, $ialink, $wclink!;
   print qq! and $pubtext.  Keep in mind that links on WorldCat !;
-  print qq! and publisher sites may be available to Penn users !;
+  print qq! and publisher sites may be available to users at your institution !;
   print qq! due to a subscription, or may require payment to access. !;
   print qq! Such content does not count as free for our purposes.!;
   print qq!</p>!;
@@ -685,12 +695,14 @@ sub analyze_form {
       || $email =~ /\@email.tst/
       || $email =~ /cergplwqx/
       || $email =~ /explainthebusiness/
+      || $email =~ /seoxplorer/
       || $email =~ /arachni\@email/
       || $email =~ /egoriu8hs\@mail/
       || $title =~ /^About[a-z][a-z][a-z][a-z][a-z]/
       || $title =~ /^cheap /
       || $title =~ / sunglasses /
       || $title =~ /trump vote mask/
+      || $title =~ /earn money/i
       || $title =~ /dfdsf/
       || $title =~ /ister misery 1901/
       || $title =~ /googlegoogle/
@@ -700,9 +712,11 @@ sub analyze_form {
       || $wref =~ /seoestore/
       || $comments =~ /getpeople.io/i
       || $comments =~ /yoga studio/i
+      || $comments =~ /gift card/i
       || $comments =~ /freight forwarder/i
       || $comments =~ /sexlovers/i
       || $comments =~ /intimate photo/i
+      || $comments =~ /afflat3e1.com/i
       || $title =~ / michael kors /
       || $libname =~ / michael kors /
       || $libsite =~ /brinkster.net/) {
@@ -737,7 +751,10 @@ sub process_form {
       print qq!<a href="$BFURL">return to the Deep backfile page</a>
        or <a href="$OLBPURL">The Online Books Page</a>!;
     } elsif ($params->{type} eq "bigserial") {
-      print qq!<a href="$PENNBF">return to the Penn Libraries Deep backfile page</a>
+      my $bftable = $q->param("bftable");
+      my $bfurl = (($bftable =~ /^hathitrust/) ? $HATHIBF : $PENNBF);
+      my $bfname = (($bftable =~ /^hathitrust/) ? "HathiTrust" : "Penn Libraries");
+      print qq!<a href="$bfurl">return to the $bfname Deep backfile page</a>
        or <a href="$OLBPURL">The Online Books Page</a>!;
     } else {
       print qq!<a href="$OLBPURL">return to The Online Books Page</a>!;

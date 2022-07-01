@@ -1,7 +1,8 @@
 {
-   "title": "Art Journal",
-   "title-note": "1839-1912",
+   "title": "The Art Journal",
+   "title-note": "1849-1912",
    "online": "1",
+   "preceded-by": [{"id": "artunion1839", "note": "The Art-Union"}],
    "rights-statement": "NoC-US",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
@@ -9,5 +10,5 @@
    },
    "acknowledgement": 
       "Thanks to Iren Sokolova for copyright research on this title.",
-   "last-updated": "2020-10-23"
+   "last-updated": "2022-06-29"
 }

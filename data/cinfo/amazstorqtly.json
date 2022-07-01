@@ -1,0 +1,30 @@
+{
+   "title": "Amazing Stories Quarterly",
+   "online": "1",
+   "contents": [
+      {"url": "http://www.isfdb.org/cgi-bin/pe.cgi?19337",
+       "note": "ISFDB (original series)"},
+      {"url": "http://www.isfdb.org/cgi-bin/pe.cgi?47720",
+       "note": "ISFDB (reissue series)"},
+      {"url": "http://www.philsp.com/homeville/SFI/link.asp?magid=AMQ",
+       "note": "Galactic Central (original series)"},
+      {"url": "http://www.philsp.com/homeville/SFI/link.asp?magid=ASQ",
+       "note": "Galactic Central (reissue series)"}
+   ],
+   "preceded-by": [{"id": "amazstorann", "note": "Amazing Stories Annual"}],
+   "first-issue": {"issue-date": "1928-Winter", "volume": "1", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce+database",
+   "first-renewed-contribution":
+      {"issue": {"issue-date": "1940-Fall", "volume": "1", "number": "1",
+                 "series": "reissue"}},
+   "first-renewed-contribution-source": "1967-JulDec",
+   "last-issue": {"issue-date": "1951-Spring"},
+   "additional-note": "The original series noted above ran from 1928 to 1934.  The reissue series noted above, which ran from 1940 through 1951, consisted of rebound bundles of Amazing Stories magazine issues with new covers.  Some of the contributions to those issues may have their own actively renewed copyrights, the first of which is noted above as the first renewed contribution.  See the Amazing Stories copyright information record for more details on potentially renewed copyrights.",
+   "see-also": [{"id": "amazingstories", "note": "Amazing Stories"}],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2022-06-28"
+}

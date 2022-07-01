@@ -9,6 +9,7 @@ use OLBP::PendingSerials;
 use utf8;
 
 my $usebigforpenn = 1;
+my $usebigforhathi = 1;
 
 my $serverurl = "https://onlinebooks.library.upenn.edu/";
 my $cceurl    = $serverurl . "cce/";
@@ -199,6 +200,9 @@ sub print_table {
     my $online = $result->{"Free issue years"};
     if ($olbpid && $online eq "Predecessor") {
       print_cell($online, "$contenturl=$olbpid&pr=1");
+    } elsif ($localid && ($online eq "Available")) {
+      # This assumes localid is a URL (which is currently always is)
+      print_cell($online, $localid);
     } elsif ($olbpid && $online) {
       print_cell($online, "$contenturl=$olbpid");
     } else {
@@ -207,6 +211,8 @@ sub print_table {
     my $feedbackurl = $contacturl;
     if ($usebigforpenn && $arg eq "penn-serials") {
       $feedbackurl =~ s/backfile/bigserial/;
+    } elsif ($usebigforhathi && ($arg =~ /^hathitrust/)) {
+      $feedbackurl =~ s/backfile/bigserial&bftable=$arg/;
     }
     $feedbackurl .= "&qissn=" . OLBP::url_encode($issn);
     $feedbackurl .= "&qtitle=" . OLBP::url_encode($title);

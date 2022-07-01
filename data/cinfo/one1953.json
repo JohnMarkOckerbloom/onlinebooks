@@ -1,0 +1,27 @@
+{
+   "title": "One",
+   "title-note": "American gay magazine, 1953-1972",
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "database",
+   "first-renewed-contribution":
+     {"issue": {"issue-date": "1955-01"}},
+   "first-renewed-contribution-source": "database",
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+       {"issue": {"issue-date": "1955-01"}, 
+        "title": "The Homosexual Villian",
+        "note": "Title as spelled in online renewal record. We have not examined the issue in question.",
+        "author": {
+          "authorized": "Mailer, Norman",
+          "lcna": "n79084818"
+        }
+       }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "acknowledgement": 
+      "Thanks to Felice Gollotti for copyright research on this title.",
+   "last-updated": "2022-06-06"
+}

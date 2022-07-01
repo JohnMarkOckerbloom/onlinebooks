@@ -1,0 +1,76 @@
+{
+   "title": "U. S. News and World Report",
+   "online": "1",
+   "preceded-by": [
+     {"id": "usnews1933", "note": "The United States News (1933-1948)"},
+     {"id": "worldrept1946", "note": "World Report (1946-1948)"}
+   ],
+   "first-issue": {"issue-date": "1948-01-16", "volume": "24", "number": "3"},
+   "first-renewed-issue": 
+       {"issue-date": "1956-06-08", "volume": "40", "number": "23"},
+   "first-renewed-issue-source": "database",
+   "first-autorenewed-issue": 
+       {"issue-date": "1964-01-13", "volume": "56", "number": "2",
+        "cdate": "1964-01-06"},
+   "first-renewed-contribution":
+     {"issue": {"issue-date": "1952-11-28"}},
+   "first-renewed-contribution-source": "database",
+   "renewed-issue-completeness": "active/autorenewals",
+   "renewed-issues": [
+       {"issue-date": "1956-06-08", "volume": "40", "number": "23",
+        "note": "There is a renewal for this issue filed by Newsweek, Inc. We are not aware of Newsweek owning the rights to this issue, but the issue's 1956 registration may have been misfiled under Newsweek in the 1956 CCE. We are not sure whether Newsweek was entitled to file a renewal, or whether this renewal is valid."}
+   ],
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1952-11-28"},
+        "title": "Diary of a United States Embassy Man: 18 Months Inside Russia",
+        "author": {
+         "authorized": "Rounds, Frank, 1915-1970",
+         "lcna": "no2014108826"
+        }
+     },
+     {"issue": {"issue-date": "1954-10-01"},
+        "title": "How the Communists Got China",
+        "note": "No renewal was filed specifically for this contribution, but a 1982 renewal for the 1954 book 'Fifty Years in China' mentions that portions were published in the October 1, 1954 US News and World Report. That book renewal may cover as well the magazine portions that appeared in this issue, published under the title 'How the Communists Got China'. It may also cover the commentary by Hu Shih that follows the main magazine article, since Hu Shih is also mentioned as contributing to the book.",
+        "author": {
+         "authorized": "Stuart, John Leighton, 1876-1962",
+         "lcna": "n81042620"
+        }
+     },
+     {"issue": {"issue-date": "1955-10-28"},
+        "title": "Blunders Behind the Korean Truce",
+        "author": {
+         "authorized": "Joy, C. Turner (Charles Turner), 1895-1956",
+         "lcna": "n78081237"
+        }
+     },
+     {"issue": {"issue-date": "1956-01-20"},
+        "title": "Guided Missiles in War and Peace",
+        "author": {
+         "name": "Nels August Parson, Jr."
+        }
+     },
+     {"issue": {"issue-date": "1956-08-31"},
+        "title": "Why Japan Attacked Pearl Harbor: Inside Story As Related by Former Foreign Minister Togo",
+        "author": {
+         "authorized": "Tōgō, Shigenori, 1882-1950",
+         "lcna": "n85291769"
+        },
+        "translators": [
+          {
+            "authorized": "Tōgō, Fumihiko, 1915-1985",
+            "lcna": "n83037907"
+          },
+          {
+            "authorized": "Blakeney, Ben Bruce",
+            "lcna": "n82216365"
+          }
+        ]
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2022-06-08"
+}

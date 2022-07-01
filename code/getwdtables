@@ -31,7 +31,8 @@ my $acsvstage   = "articlepstage.csv";
 my $acsvprod    = "articleperiodicals.csv";
 
 my $hcsvstage   = "wikihathistage.csv";
-my $hcsvprod    = "wikihathiserials.csv";
+#my $hcsvprod    = "wikihathiserials.csv";
+my $hcsvprod    = "wikihathioclcserials.csv";
 #my $hcsvprod    = "wikihathiserial.csv";
 
 my $agent = "DeepBackfile/0.1";
@@ -143,6 +144,26 @@ ORDER BY ?wikidataid
 LIMIT 200000
 !;
 
+$HATHI_OCLC_QUERY = qq!SELECT ?wikidataid ?olbpid
+(group_concat(?issn) as ?issns)
+(group_concat(?hathiid) as ?hathiids)
+(group_concat(?oclc) as ?oclcs)
+WHERE
+{
+   wd:Q2217301 ^wdt:P279*/^wdt:P31 ?wikidataid .
+  OPTIONAL {?wikidataid wdt:P236 ?issn}
+  OPTIONAL {?wikidataid wdt:P1844 ?hathiid}
+  OPTIONAL {?wikidataid wdt:P5396 ?olbpid}
+  OPTIONAL {?wikidataid wdt:P243 ?oclc}
+
+  FILTER (BOUND(?olbpid) || BOUND(?hathiid) || BOUND(?issn) || BOUND(?oclc))
+
+}
+GROUP BY ?wikidataid ?olbpid
+ORDER BY ?wikidataid
+LIMIT 200000
+!;
+ 
 sub packhashtofile {
   my ($name, $hashref) = @_;
   my $fname = OLBP::hashfilename($name, $idxdir);
@@ -228,7 +249,8 @@ sub writetofile {
 
 sub do_hathi_query {
   print "Doing a Hathitrust query\n";
-  my $hathidata = query_wikidata($agent, $NEW_HATHI_QUERY, "csv");
+  #  my $hathidata = query_wikidata($agent, $NEW_HATHI_QUERY, "csv");
+  my $hathidata = query_wikidata($agent, $HATHI_OCLC_QUERY, "csv");
   my $csvpath = "$hathidir$hcsvstage";
   writetofile($csvpath, $hathidata);
   my $hpath = "$hathidir$hcsvprod";
