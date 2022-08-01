@@ -6,10 +6,47 @@
    "first-renewed-contribution":
      {"issue": {"issue-date": "1962-01"}},
    "first-renewed-contribution-source": "database",
-   "additional-note": "The first contribution renewal specifically mentioning this magazine is for an article in the January 1962 issue. However, some of the articles in this magazine are condensed or reprinted from prior publications.  We have not checked the copyright status of those articles.",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1962-01"},
+      "title": "A Gutter Full of Dreams",
+      "note": "Issue date for this contribution determined from Negro Digest volume 11 index, and the copyright date.",
+      "author": {
+         "authorized": "Simmons, Herbert",
+         "lcna": "n95100052"
+      }
+     },
+     {"issue": {"issue-date": "1962-09"},
+      "title": "Letter to the editor",
+      "author": {
+         "authorized": "Hansberry, Lorraine, 1930-1965",
+         "lcna": "n50017744"
+      }
+     },
+     {"issue": {"issue-date": "1962-09"},
+      "title": "When I Read of the Rose of Dachau: Poem; Bill Collector in Harlem: Poem",
+      "author": {
+         "authorized": "Emanuel, James A., 1921-2013",
+         "lcna": "n80010517"
+      }
+     },
+     {"issue": {"issue-date": "1963-03"},
+      "title": "The Only Man on Liberty Street",
+      "author": {
+         "name": "William A. Kelley"
+      }
+     },
+     {"issue": {"issue-date": "1963-09"},
+      "title": "Time is the Gift (Poem)",
+      "author": {
+         "authorized": "Emanuel, James A., 1921-2013",
+         "lcna": "n80010517"
+      }
+     }
+   ],
+   "additional-note": "We list here all of the contributions whose renewal records specifically mention this magazine, and that were published before 1964, when renewals became automatic. However, some of the articles in this magazine are condensed or reprinted from prior publications.  We have not checked the copyright status of those articles.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-02-26"
+   "last-updated": "2022-07-30"
 }

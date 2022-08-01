@@ -30,7 +30,6 @@ my $badissnid = {};
 my $cambridge_journals = $pkgdir . "cambridge/CUP_All_journals_2022-02-04.txt";
 #my $cambridge_journals = $pkgdir . "cambridge/CUP_All_journals_2021-01-30.txt";
 
-#my $hathi_serials = $pkgdir . "hathitrust/wikihathiserials.csv";
 my $hathi_serials = $pkgdir . "hathitrust/wikihathioclcserials.csv";
 my $hathipilot_serials = $pkgdir . "hathitrust/localplusus.tsv";
 my $hathipilot_wdquery = $pkgdir . "hathitrust/wikihathiserial.csv";

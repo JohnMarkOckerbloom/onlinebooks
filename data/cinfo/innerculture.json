@@ -1,13 +1,17 @@
 {
    "title": "Inner Culture",
+   "aka": ["Inner Culture for Self-Realization"],
    "first-renewed-issue":
      {"issue-date": "1943-January-March", "volume": "14", "number": "3"},
    "first-renewed-issue-source": "1970",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce",
+   "last-issue":
+     {"issue-date": "1944-April-June", "volume": "15", "number": "4"},
+   "succeeded-by": [{"id": "eastwest1944", "note": "East-West"}],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-10-22"
+   "last-updated": "2022-07-24"
 }

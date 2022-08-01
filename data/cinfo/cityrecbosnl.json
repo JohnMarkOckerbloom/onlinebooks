@@ -1,11 +1,15 @@
 {
    "title": "The City Record, and Boston News-Letter",
+   "online": "1",
    "rights-statement": "NoC-US",
+   "succeeded-by":
+     [{"id": "bosnlcityrec",
+       "note": "The Boston News-Letter, and City Record"}],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
    "acknowledgement": 
       "Thanks to Scott F Andrews for copyright research on this title.",
-   "last-updated": "2022-06-29"
+   "last-updated": "2022-07-06"
 }

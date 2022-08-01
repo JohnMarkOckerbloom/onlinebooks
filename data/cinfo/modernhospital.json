@@ -4,11 +4,13 @@
    "first-issue": {"issue-date": "1913-09", "volume": "1", "number": "1"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
+   "first-autorenewed-issue":
+      {"issue-date": "1964-01", "volume": "102", "number": "1"},
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1927-01"}},
    "first-renewed-contribution-source": "1954-JulDec",
    "last-issue": {"issue-date": "1974-03", "volume": "122", "number": "3"},
-   "renewed-contribution-completeness": "active/1929",
+   "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
        {"issue": {"issue-date": "1927-01"},
         "title": "Introducing the Chairman of the Building Committee",
@@ -60,11 +62,137 @@
          "authorized": "Goldwater, S. S. (Sigismund Schulz), 1873-1942",
          "lcna": "no2004124639"
         }
+       },
+       {"issue": {"issue-date": "1930-04"},
+        "title": "The Privilege of Being a Hospital Trustee",
+        "author": {
+         "authorized": "Goldwater, S. S. (Sigismund Schulz), 1873-1942",
+         "lcna": "no2004124639"
+        }
+       },
+       {"issue": {"issue-date": "1930-05"},
+        "title": "Kings County Hospital, New York City",
+        "author": {
+         "authorized": "Goldwater, S. S. (Sigismund Schulz), 1873-1942",
+         "lcna": "no2004124639"
+        }
+       },
+       {"issue": {"issue-date": "1930-06"},
+        "title": "Faulty Mental Attitudes in Patients and How to Correct Them",
+        "author": {
+         "authorized": "Goldwater, S. S. (Sigismund Schulz), 1873-1942",
+         "lcna": "no2004124639"
+        }
+       },
+       {"issue": {"issue-date": "1930-07"},
+        "title": "The Hospital and the Dollar",
+        "author": {
+         "authorized": "Goldwater, S. S. (Sigismund Schulz), 1873-1942",
+         "lcna": "no2004124639"
+        }
+       },
+       {"issue": {"issue-date": "1930-08"},
+        "title": "Should Hospital Staffs Strike",
+        "author": {
+         "authorized": "Goldwater, S. S. (Sigismund Schulz), 1873-1942",
+         "lcna": "no2004124639"
+        }
+       },
+       {"issue": {"issue-date": "1930-09"},
+        "title": "Seeing Hospitals With Florence Nightingale",
+        "author": {
+         "authorized": "Goldwater, S. S. (Sigismund Schulz), 1873-1942",
+         "lcna": "no2004124639"
+        }
+       },
+       {"issue": {"issue-date": "1930-10"},
+        "title": "The Mount Sinai Hospital, New York City, Semi-Private Pavilion",
+        "author": {
+         "authorized": "Goldwater, S. S. (Sigismund Schulz), 1873-1942",
+         "lcna": "no2004124639"
+        }
+       },
+       {"issue": {"issue-date": "1930-12"},
+        "title": "Should the Hospital Tell?",
+        "author": {
+         "authorized": "Goldwater, S. S. (Sigismund Schulz), 1873-1942",
+         "lcna": "no2004124639"
+        }
+       },
+       {"issue": {"issue-date": "1931-04"},
+        "title": "Trampling on the Rules",
+        "author": {
+         "authorized": "Goldwater, S. S. (Sigismund Schulz), 1873-1942",
+         "lcna": "no2004124639"
+        }
+       },
+       {"issue": {"issue-date": "1931-06"},
+        "title": "Patients and Policies",
+        "author": {
+         "authorized": "Goldwater, S. S. (Sigismund Schulz), 1873-1942",
+         "lcna": "no2004124639"
+        }
+       },
+       {"issue": {"issue-date": "1931-08"},
+        "title": "Wilmington General Hospital, Wilmington Delaware, Communicable Disease Unit",
+        "author": {
+         "authorized": "Goldwater, S. S. (Sigismund Schulz), 1873-1942",
+         "lcna": "no2004124639"
+        }
+       },
+       {"issue": {"issue-date": "1931-09"},
+        "title": "Allegheny General Hospital, Pittsburgh, Pennsylvania",
+        "author": {
+         "authorized": "Goldwater, S. S. (Sigismund Schulz), 1873-1942",
+         "lcna": "no2004124639"
+        }
+       },
+       {"issue": {"issue-date": "1932-01"},
+        "title": "By What Criteria Shall the Trustee Judge His Hospital?",
+        "author": {
+         "authorized": "Goldwater, S. S. (Sigismund Schulz), 1873-1942",
+         "lcna": "no2004124639"
+        }
+       },
+       {"issue": {"issue-date": "1932-03"},
+        "title": "Outlining a Building Program for a General Hospital",
+        "author": {
+         "authorized": "Goldwater, S. S. (Sigismund Schulz), 1873-1942",
+         "lcna": "no2004124639"
+        }
+       },
+       {"issue": {"issue-date": "1932-05"},
+        "title": "The Meadowbrook Hospital, Nassau County, New York",
+        "author": {
+         "authorized": "Goldwater, S. S. (Sigismund Schulz), 1873-1942",
+         "lcna": "no2004124639"
+        }
+       },
+       {"issue": {"issue-date": "1933-03"},
+        "title": "Monroe County Home Infirmary, Rochester, New York",
+        "author": {
+         "authorized": "Goldwater, S. S. (Sigismund Schulz), 1873-1942",
+         "lcna": "no2004124639"
+        }
+       },
+       {"issue": {"issue-date": "1933-04"},
+        "title": "The Hospital, the Family Doctor, and the Patient",
+        "author": {
+         "authorized": "Goldwater, S. S. (Sigismund Schulz), 1873-1942",
+         "lcna": "no2004124639"
+        }
+       },
+       {"issue": {"issue-date": "1933-08"},
+        "title": "Out-Patient Department Requires Careful Planning",
+        "author": {
+         "authorized": "Goldwater, S. S. (Sigismund Schulz), 1873-1942",
+         "lcna": "no2004124639"
+        }
        }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-01-25"
+   "last-updated": "2022-07-05"
 }

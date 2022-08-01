@@ -1,9 +1,13 @@
 {
    "title": "Legislative History of the Committee on Foreign Relations, United States Senate",
+   "online": "1",
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
+   "succeeded-by":
+     [{"id": "larcfrussen",
+       "note": "Legislative Activities Report of the Committee on Foreign Relations, United States Senate"}],
    "additional-note": "This is a US government publication.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
@@ -11,5 +15,5 @@
    },
    "acknowledgement": 
       "Thanks to Shelton Henderson for copyright research on this title.",
-   "last-updated": "2022-01-13"
+   "last-updated": "2022-07-29"
 }

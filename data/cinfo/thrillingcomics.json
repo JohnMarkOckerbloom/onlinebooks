@@ -1,5 +1,6 @@
 {
    "title": "Thrilling Comics",
+   "online": "1",
    "contents": [
       {"url": "https://www.comics.org/series/169/",
        "note": "Grand Comics Database"}
@@ -11,6 +12,9 @@
    "first-renewed-issue-source": "1967",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
+   "last-issue": 
+       {"issue-date": "1951-04", "number": "80"}, 
+   "renewed-issue-completeness": "active/end",
    "renewed-issues": [
        {"issue-date": "1940-02", "volume": "1", "number": "1"}, 
        {"issue-date": "1940-03", "volume": "1", "number": "2"}, 
@@ -48,5 +52,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-11-16"
+   "last-updated": "2022-07-01"
 }

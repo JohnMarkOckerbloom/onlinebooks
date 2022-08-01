@@ -62,7 +62,7 @@
      {"issue-date": "1932-04-02", "volume": "89", "number": "14"},
      {"issue-date": "1932-04-09", "volume": "89", "number": "15"}
    ],
-   "renewed-contribution-completeness": "active/1927",
+   "renewed-contribution-completeness": "active/1930",
    "renewed-contributions": [
      {"issue": {"issue-date": "1927-01-22", "volume": "79", "number": "4"},
       "title": "Jim, the Conqueror",
@@ -752,8 +752,15 @@
        }
      },
      {"issue": {"issue-date": "1928-02-11", "volume": "81", "number": "6"},
+      "title": "The White Room",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1928-02-11", "volume": "81", "number": "6"},
       "title": "The White Room in Washington",
-      "note": "Title as given in CCE. FictionMags gives title simply as 'The White Room'. I have not checked the issue myself.",
+      "note": "We are not sure if this is the same contribution as the one above, but there is a separate renewal record for this title.  The renewal was filed in 1955; the renewal above was filed in 1956. FictionMags mentions 'The White Room', but not 'The White Room in Washington', in the table of contents for this issue.",
       "author": {
          "authorized": "Rohmer, Sax, 1883-1959",
          "lcna": "n50020802"
@@ -766,6 +773,13 @@
         "lcna": "n80034938"
       }
      },
+     {"issue": {"issue-date": "1928-03-10", "volume": "81", "number": "10"},
+      "title": "Daniels and the Lion",
+      "author": {
+         "authorized": "Wiggam, Albert Edward, 1871-1957",
+         "lcna": "no00096431"
+       }
+     },
      {"issue": {"issue-date": "1928-03-24", "volume": "81", "number": "12"},
        "title": "No More Parties",
        "author": {
@@ -775,7 +789,7 @@
      },
      {"issue": {"issue-date": "1928-04-28", "volume": "81", "number": "17"},
       "title": "The Sooper Speaker",
-      "title-note": "Title as given in CCE renewal record.  FictionMags gives title as 'The Sooper Speaking'. We have not examined the issue in question.",
+      "note": "Title as given in CCE renewal record.  FictionMags gives title as 'The Sooper Speaking'. We have not examined the issue in question.",
       "author": {
         "authorized": "Wallace, Edgar, 1875-1932",
         "lcna": "n80034938"
@@ -867,6 +881,21 @@
        }
      },
      {"issue": {"issue-date": "1928-06-23", "volume": "81", "number": "25"},
+      "title": "The Fly Catcher",
+      "note": "Title as given in CCE renewal record.  FictionMags gives title as 'The Flycatcher'. We have not examined the issue in question.",
+      "author": {
+         "authorized": "Cary, Lucian, 1886-1971",
+         "lcna": "no90003387"
+       }
+     },
+     {"issue": {"issue-date": "1928-06-23", "volume": "81", "number": "25"},
+      "title": "Laugh Clown",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1928-06-23", "volume": "81", "number": "25"},
        "title": "A Mean Joke",
        "author": {
          "authorized": "Marquis, Don, 1878-1937",
@@ -879,6 +908,13 @@
        "authorized": "Banning, Margaret Culkin, 1891-1982",
        "lcna": "n86086096"
       }
+     },
+     {"issue": {"issue-date": "1928-06-30", "volume": "81", "number": "26"},
+      "title": "How Could She Do It",
+      "author": {
+         "authorized": "Cary, Lucian, 1886-1971",
+         "lcna": "no90003387"
+       }
      },
      {"issue": {"issue-date": "1928-07-07", "volume": "82", "number": "1"},
        "title": "A King's Job",
@@ -939,6 +975,20 @@
          "lcna": "n50041532"
        }
      },
+     {"issue": {"issue-date": "1928-08-04", "volume": "82", "number": "5"},
+      "title": "The Wife of Riley",
+      "author": {
+       "authorized": "Witwer, H. C. (Harry Charles), 1890-1929",
+       "lcna": "no92032170"
+      }
+     },
+     {"issue": {"issue-date": "1928-08-11", "volume": "82", "number": "6"},
+      "title": "Weary River",
+      "author": {
+       "authorized": "Cooper, Courtney Ryley, 1886-1940 ",
+       "lcna": "n84141944"
+      }
+     },
      {"issue": {"issue-date": "1928-08-11", "volume": "82", "number": "6"},
       "title": "Make Believe Wife",
       "title-note": "part 4 of 9",
@@ -993,6 +1043,14 @@
       }
      },
      {"issue": {"issue-date": "1928-09-01", "volume": "82", "number": "9"},
+      "title": "Just Politics",
+      "title-note": "part 1 of 2",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1928-09-01", "volume": "82", "number": "9"},
       "title": "Make Believe Wife",
       "title-note": "part 7 of 9",
       "author": {
@@ -1006,6 +1064,14 @@
       "author": {
          "authorized": "Norris, Kathleen Thompson, 1880-1966",
          "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1928-09-15", "volume": "82", "number": "11"},
+      "title": "Just Politics",
+      "title-note": "part 2 of 2",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
       }
      },
      {"issue": {"issue-date": "1928-09-15", "volume": "82", "number": "11"},
@@ -1023,9 +1089,16 @@
          "lcna": "n50006075"
       }
      },
+     {"issue": {"issue-date": "1928-09-15", "volume": "82", "number": "11"},
+      "title": "How Musical Are You?",
+      "author": {
+         "authorized": "Wiggam, Albert Edward, 1871-1957",
+         "lcna": "no00096431"
+       }
+     },
      {"issue": {"issue-date": "1928-09-22", "volume": "82", "number": "12"},
        "title": "The Master of Sinister House",
-       "title-note": "part 1 of 8?",
+       "title-note": "part 1 of 13",
        "author": {
          "authorized": "Oppenheim, E. Phillips (Edward Phillips), 1866-1946",
          "lcna": "n50003335"
@@ -1033,15 +1106,22 @@
      },
      {"issue": {"issue-date": "1928-09-29", "volume": "82", "number": "13"},
        "title": "The Master of Sinister House",
-       "title-note": "part 2 of 8?",
+       "title-note": "part 2 of 13",
        "author": {
          "authorized": "Oppenheim, E. Phillips (Edward Phillips), 1866-1946",
          "lcna": "n50003335"
        }
      },
      {"issue": {"issue-date": "1928-10-06", "volume": "82", "number": "14"},
+      "title": "Can You Keep a Secret",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1928-10-06", "volume": "82", "number": "14"},
        "title": "The Master of Sinister House",
-       "title-note": "part 3 of 8?",
+       "title-note": "part 3 of 13",
        "author": {
          "authorized": "Oppenheim, E. Phillips (Edward Phillips), 1866-1946",
          "lcna": "n50003335"
@@ -1049,23 +1129,38 @@
      },
      {"issue": {"issue-date": "1928-10-13", "volume": "82", "number": "15"},
        "title": "The Master of Sinister House",
-       "title-note": "part 4 of 8?",
+       "title-note": "part 4 of 13",
        "author": {
          "authorized": "Oppenheim, E. Phillips (Edward Phillips), 1866-1946",
          "lcna": "n50003335"
        }
      },
      {"issue": {"issue-date": "1928-10-20", "volume": "82", "number": "16"},
+      "title": "No Lady",
+      "author": {
+         "authorized": "Cary, Lucian, 1886-1971",
+         "lcna": "no90003387"
+       }
+     },
+     {"issue": {"issue-date": "1928-10-20", "volume": "82", "number": "16"},
        "title": "The Master of Sinister House",
-       "title-note": "part 5 of 8?",
+       "title-note": "part 5 of 13",
        "author": {
          "authorized": "Oppenheim, E. Phillips (Edward Phillips), 1866-1946",
          "lcna": "n50003335"
        }
      },
-     {"issue": {"issue-date": "1928-09-27", "volume": "82", "number": "17"},
+     {"issue": {"issue-date": "1928-10-27", "volume": "82", "number": "17"},
+      "title": "The Shepherd of Guadaloupe",
+      "title-note": "part 1 of 11",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1928-10-27", "volume": "82", "number": "17"},
        "title": "The Master of Sinister House",
-       "title-note": "part 6 of 8?",
+       "title-note": "part 6 of 13",
        "author": {
          "authorized": "Oppenheim, E. Phillips (Edward Phillips), 1866-1946",
          "lcna": "n50003335"
@@ -1073,17 +1168,33 @@
      },
      {"issue": {"issue-date": "1928-11-03", "volume": "82", "number": "18"},
        "title": "The Master of Sinister House",
-       "title-note": "part 7 of 8?",
+       "title-note": "part 7 of 13",
        "author": {
          "authorized": "Oppenheim, E. Phillips (Edward Phillips), 1866-1946",
          "lcna": "n50003335"
        }
+     },
+     {"issue": {"issue-date": "1928-11-03", "volume": "82", "number": "18"},
+      "title": "The Shepherd of Guadaloupe",
+      "title-note": "part 2 of 11",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
      },
      {"issue": {"issue-date": "1928-11-10", "volume": "82", "number": "19"}, 
       "title": "Doorknobs",
       "author": {
          "authorized": "Duganne, Phyllis, 1899-1976",
          "lcna": "n90719514"
+      }
+     },
+     {"issue": {"issue-date": "1928-11-10", "volume": "82", "number": "19"}, 
+      "title": "The Shepherd of Guadaloupe",
+      "title-note": "part 3 of 11",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
       }
      },
      {"issue": {"issue-date": "1928-11-10", "volume": "82", "number": "19"}, 
@@ -1095,7 +1206,62 @@
      },
      {"issue": {"issue-date": "1928-11-10", "volume": "82", "number": "19"}, 
        "title": "The Master of Sinister House",
-       "title-note": "part 8 of 8?",
+       "title-note": "part 8 of 13",
+       "author": {
+         "authorized": "Oppenheim, E. Phillips (Edward Phillips), 1866-1946",
+         "lcna": "n50003335"
+       }
+     },
+     {"issue": {"issue-date": "1928-11-17", "volume": "82", "number": "20"}, 
+      "title": "The Shepherd of Guadaloupe",
+      "title-note": "part 4 of 11",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1928-11-17", "volume": "82", "number": "20"}, 
+       "title": "The Master of Sinister House",
+       "title-note": "part 9 of 13",
+       "author": {
+         "authorized": "Oppenheim, E. Phillips (Edward Phillips), 1866-1946",
+         "lcna": "n50003335"
+       }
+     },
+     {"issue": {"issue-date": "1928-11-24", "volume": "82", "number": "21"}, 
+      "title": "The Shepherd of Guadaloupe",
+      "title-note": "part 5 of 11",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1928-11-24", "volume": "82", "number": "21"}, 
+       "title": "The Master of Sinister House",
+       "title-note": "part 10 of 13",
+       "author": {
+         "authorized": "Oppenheim, E. Phillips (Edward Phillips), 1866-1946",
+         "lcna": "n50003335"
+       }
+     },
+     {"issue": {"issue-date": "1928-12-01", "volume": "82", "number": "22"},
+      "title": "Peter Kills the Bear",
+       "author": {
+         "authorized": "Erskine, John, 1879-1951",
+         "lcna": "n50012296"
+       }
+     },
+     {"issue": {"issue-date": "1928-12-01", "volume": "82", "number": "22"},
+      "title": "The Shepherd of Guadaloupe",
+      "title-note": "part 6 of 11",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1928-12-01", "volume": "82", "number": "22"},
+       "title": "The Master of Sinister House",
+       "title-note": "part 11 of 13",
        "author": {
          "authorized": "Oppenheim, E. Phillips (Edward Phillips), 1866-1946",
          "lcna": "n50003335"
@@ -1108,18 +1274,2533 @@
          "lcna": "n90719514"
       }
      },
+     {"issue": {"issue-date": "1928-12-08", "volume": "82", "number": "23"},
+      "title": "The Shepherd of Guadaloupe",
+      "title-note": "part 7 of 11",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1928-12-08", "volume": "82", "number": "23"},
+       "title": "The Master of Sinister House",
+       "title-note": "part 12 of 13",
+       "author": {
+         "authorized": "Oppenheim, E. Phillips (Edward Phillips), 1866-1946",
+         "lcna": "n50003335"
+       }
+     },
+     {"issue": {"issue-date": "1928-12-15", "volume": "82", "number": "24"},
+      "title": "Too Collegiate",
+      "author": {
+         "authorized": "Cary, Lucian, 1886-1971",
+         "lcna": "no90003387"
+       }
+     },
+     {"issue": {"issue-date": "1928-12-15", "volume": "82", "number": "24"},
+      "title": "The Shepherd of Guadaloupe",
+      "title-note": "part 8 of 11",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1928-12-15", "volume": "82", "number": "24"},
+       "title": "The Master of Sinister House",
+       "title-note": "part 13 of 13",
+       "author": {
+         "authorized": "Oppenheim, E. Phillips (Edward Phillips), 1866-1946",
+         "lcna": "n50003335"
+       }
+     },
      {"issue": {"issue-date": "1928-12-22", "volume": "82", "number": "25"},
       "title": "Just What She Wanted",
       "author": {
        "authorized": "Burnet, Dana, 1888-1962",
        "lcna": "n88172670"
       }
+     },
+     {"issue": {"issue-date": "1928-12-22", "volume": "82", "number": "25"},
+      "title": "The Shepherd of Guadaloupe",
+      "title-note": "part 9 of 11",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1928-12-29", "volume": "82", "number": "26"},
+      "title": "The Shepherd of Guadaloupe",
+      "title-note": "part 10 of 11",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1929-01-05", "volume": "83", "number": "1"},
+      "title": "The Shepherd of Guadaloupe",
+      "title-note": "part 11 of 11",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1929-01-12", "volume": "83", "number": "2"},
+      "title": "Cat Luck",
+      "author": {
+       "authorized": "Farnol, Jeffery, 1878-1952",
+       "lcna": "n50011921"
+      }
+     },
+     {"issue": {"issue-date": "1929-01-12", "volume": "83", "number": "2"},
+      "title": "Adrift in New York",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1929-01-12", "volume": "83", "number": "2"},
+      "title": "The Third Accident",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1929-02-02", "volume": "83", "number": "5"},
+      "title": "The Cross-Eyed South-Paw",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1929-02-02", "volume": "83", "number": "5"},
+      "title": "With Rope and Gun",
+      "note": "Title as given in CCE renewal record.  FictionMags gives title as 'With Rope and Gum'. We have not examined the issue in question.",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1929-02-09", "volume": "83", "number": "6"},
+       "title": "Bad News",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1929-02-16", "volume": "83", "number": "7"},
+      "title": "Three on a Match",
+      "note": "Issue designation as per FictionMags. The CCE renewal record puts this story in the March 9, 1929 issue. We have not checked the issues in question.",
+      "author": {
+       "authorized": "Squier, Emma-Lindsay, 1892-1941",
+       "lcna": "no2007059420"
+      }
+     },
+     {"issue": {"issue-date": "1929-02-16", "volume": "83", "number": "7"},
+      "title": "Onward and Upward",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1929-02-23", "volume": "83", "number": "8"},
+      "title": "The Loud American",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1929-03-02", "volume": "83", "number": "9"},
+      "title": "The Boy Entertainer",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1929-03-09", "volume": "83", "number": "10"},
+      "title": "Three on a Match",
+      "note": "Issue designation as per CCE. FictionMags puts this story in the February 16, 1929 issue. We have not checked the issues in question.",
+      "author": {
+       "authorized": "Squier, Emma-Lindsay, 1892-1941",
+       "lcna": "no2007059420"
+      }
+     },
+     {"issue": {"issue-date": "1929-03-16", "volume": "83", "number": "11"},
+      "title": "The Boomerang",
+      "author": {
+         "authorized": "Titus, Harold, 1888-1967",
+         "lcna": "no2008175553"
+      }
+     },
+     {"issue": {"issue-date": "1929-03-16", "volume": "83", "number": "11"},
+      "title": "Pluck and Luck",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1929-03-16", "volume": "83", "number": "11"},
+      "title": "Him and Her",
+      "author": {
+       "authorized": "Brush, Katharine, 1900-1952",
+       "lcna": "no93001232"
+      }
+     },
+     {"issue": {"issue-date": "1929-03-23", "volume": "83", "number": "12"},
+      "title": "After All These Years",
+      "note": "Title as given in CCE renewal record.  FictionMags gives title as 'After Three Years'. We have not examined the issue in question.",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1929-03-23", "volume": "83", "number": "12"},
+      "title": "Paul, the Fiddler",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1929-04-06", "volume": "83", "number": "14"}, 
+      "title": "Summer Lightning",
+      "title-note": "part 1 of 12",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1929-04-06", "volume": "83", "number": "14"}, 
+      "title": "The End of the Story",
+      "author": {
+         "authorized": "Marquand, John P. (John Phillips), 1893-1960",
+         "lcna": "n79061320"
+       }
+     },
+     {"issue": {"issue-date": "1929-04-13", "volume": "83", "number": "15"},
+      "title": "Summer Lightning",
+      "title-note": "part 2 of 12",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1929-04-13", "volume": "83", "number": "15"},
+       "title": "The Red Van",
+       "author": {
+         "authorized": "Deeping, Warwick, 1877-1950",
+         "lcna": "n82131987"
+       }
+     },
+     {"issue": {"issue-date": "1929-04-13", "volume": "83", "number": "15"},
+      "title": "Reuben, the Young Artist",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1929-04-20", "volume": "83", "number": "16"},
+      "title": "Summer Lightning",
+      "title-note": "part 3 of 12",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1929-04-27", "volume": "83", "number": "17"},
+      "title": "Summer Lightning",
+      "title-note": "part 4 of 12",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1929-05-04", "volume": "83", "number": "18"},
+      "title": "The Day the World Ended",
+      "title-note": "part 1 of 12",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1929-05-04", "volume": "83", "number": "18"},
+      "title": "Summer Lightning",
+      "title-note": "part 5 of 12",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1929-05-11", "volume": "83", "number": "19"},
+      "title": "The Solid Gold Article",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1929-05-11", "volume": "83", "number": "19"},
+      "title": "Footprints",
+      "author": {
+       "authorized": "Farnol, Jeffery, 1878-1952",
+       "lcna": "n50011921"
+      }
+     },
+     {"issue": {"issue-date": "1929-05-11", "volume": "83", "number": "19"},
+      "title": "The Day the World Ended",
+      "title-note": "part 2 of 12",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1929-05-11", "volume": "83", "number": "19"},
+      "title": "Summer Lightning",
+      "title-note": "part 6 of 12",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1929-05-11", "volume": "83", "number": "19"},
+      "title": "Keeper of the Bees",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1929-05-18", "volume": "83", "number": "20"},
+      "title": "Summer Lightning",
+      "title-note": "part 7 of 12",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1929-05-18", "volume": "83", "number": "20"},
+      "title": "The Day the World Ended",
+      "title-note": "part 3 of 12",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1929-05-25", "volume": "83", "number": "21"},
+      "title": "Summer Lightning",
+      "title-note": "part 8 of 12",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1929-05-25", "volume": "83", "number": "21"},
+      "title": "The Day the World Ended",
+      "title-note": "part 4 of 12",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1929-06-01", "volume": "83", "number": "22"},
+      "title": "Summer Lightning",
+      "title-note": "part 9 of 12",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1929-06-01", "volume": "83", "number": "22"},
+      "title": "The Day the World Ended",
+      "title-note": "part 5 of 12",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1929-06-08", "volume": "83", "number": "23"},
+      "title": "The Day the World Ended",
+      "title-note": "part 6 of 12",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1929-06-08", "volume": "83", "number": "23"},
+      "title": "Summer Lightning",
+      "title-note": "part 10 of 12",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1929-06-15", "volume": "83", "number": "24"},
+       "title": "The Strong Grasses",
+       "author": {
+         "authorized": "Marquis, Don, 1878-1937",
+         "lcna": "n50041532"
+       }
+     },
+     {"issue": {"issue-date": "1929-06-15", "volume": "83", "number": "24"},
+      "title": "Ringside Seat",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1929-06-15", "volume": "83", "number": "24"},
+      "title": "Summer Lightning",
+      "title-note": "part 11 of 12",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1929-06-15", "volume": "83", "number": "24"},
+      "title": "The Day the World Ended",
+      "title-note": "part 7 of 12",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1929-06-22", "volume": "83", "number": "25"},
+      "title": "Still Waters",
+      "title-note": "part 1 of 8",
+      "author": {
+         "authorized": "Van de Water, Frederic F., 1890-1968",
+         "lcna": "n82046903"
+      }
+     },
+     {"issue": {"issue-date": "1929-06-22", "volume": "83", "number": "25"},
+      "title": "The Day the World Ended",
+      "title-note": "part 8 of 12",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1929-06-22", "volume": "83", "number": "25"},
+      "title": "Summer Lightning",
+      "title-note": "part 12 of 12",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1929-06-29", "volume": "83", "number": "26"},
+      "title": "Sax Appeal (Alex the Greater)",
+      "author": {
+       "authorized": "Witwer, H. C. (Harry Charles), 1890-1929",
+       "lcna": "no92032170"
+      }
+     },
+     {"issue": {"issue-date": "1929-06-29", "volume": "83", "number": "26"},
+      "title": "Still Waters",
+      "title-note": "part 2 of 8",
+      "author": {
+         "authorized": "Van de Water, Frederic F., 1890-1968",
+         "lcna": "n82046903"
+      }
+     },
+     {"issue": {"issue-date": "1929-06-29", "volume": "83", "number": "26"},
+      "title": "The Day the World Ended",
+      "title-note": "part 9 of 12",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1929-07-06", "volume": "84", "number": "1"},
+      "title": "Why We Have Left Hands",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1929-07-06", "volume": "84", "number": "1"},
+      "title": "The Day the World Ended",
+      "title-note": "part 10 of 12",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1929-07-06", "volume": "84", "number": "1"},
+      "title": "Still Waters",
+      "title-note": "part 3 of 8",
+      "author": {
+         "authorized": "Van de Water, Frederic F., 1890-1968",
+         "lcna": "n82046903"
+      }
+     },
+     {"issue": {"issue-date": "1929-07-13", "volume": "84", "number": "2"},
+      "title": "Still Waters",
+      "title-note": "part 4 of 8",
+      "author": {
+         "authorized": "Van de Water, Frederic F., 1890-1968",
+         "lcna": "n82046903"
+      }
+     },
+     {"issue": {"issue-date": "1929-07-13", "volume": "84", "number": "2"},
+      "title": "Silk Hat",
+      "author": {
+       "authorized": "Brush, Katharine, 1900-1952",
+       "lcna": "no93001232"
+      }
+     },
+     {"issue": {"issue-date": "1929-07-13", "volume": "84", "number": "2"},
+      "title": "The Day the World Ended",
+      "title-note": "part 11 of 12",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1929-07-20", "volume": "84", "number": "3"},
+      "title": "April Escapade",
+      "title-note": "part 1 of 10",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1929-07-20", "volume": "84", "number": "3"},
+       "title": "Believer",
+      "note": "Title as given in CCE renewal record.  FictionMags gives title as 'Just a Believer'. We have not examined the issue in question.",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1929-07-20", "volume": "84", "number": "3"},
+      "title": "The Day the World Ended",
+      "title-note": "part 12 of 12",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1929-07-20", "volume": "84", "number": "3"},
+      "title": "Still Waters",
+      "title-note": "part 5 of 8",
+      "author": {
+         "authorized": "Van de Water, Frederic F., 1890-1968",
+         "lcna": "n82046903"
+      }
+     },
+     {"issue": {"issue-date": "1929-07-20", "volume": "84", "number": "3"},
+      "title": "Ragged",
+      "note": "Title as given in CCE renewal record.  FictionMags gives title as 'Bagged'. We have not examined the issue in question.",
+      "author": {
+       "authorized": "Farnol, Jeffery, 1878-1952",
+       "lcna": "n50011921"
+      }
+     },
+     {"issue": {"issue-date": "1929-07-27", "volume": "84", "number": "4"},
+      "title": "April Escapade",
+      "title-note": "part 2 of 10",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1929-07-27", "volume": "84", "number": "4"},
+      "title": "Tee Time",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1929-07-27", "volume": "84", "number": "4"},
+      "title": "The Rook",
+      "author": {
+       "authorized": "Farnol, Jeffery, 1878-1952",
+       "lcna": "n50011921"
+      }
+     },
+     {"issue": {"issue-date": "1929-07-27", "volume": "84", "number": "4"},
+      "title": "Still Waters",
+      "title-note": "part 6 of 8",
+      "author": {
+         "authorized": "Van de Water, Frederic F., 1890-1968",
+         "lcna": "n82046903"
+      }
+     },
+     {"issue": {"issue-date": "1929-08-03", "volume": "84", "number": "5"},
+      "title": "April Escapade",
+      "title-note": "part 3 of 10",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1929-08-03", "volume": "84", "number": "5"},
+      "title": "Still Waters",
+      "title-note": "part 7 of 8",
+      "author": {
+         "authorized": "Van de Water, Frederic F., 1890-1968",
+         "lcna": "n82046903"
+      }
+     },
+     {"issue": {"issue-date": "1929-08-10", "volume": "84", "number": "6"},
+      "title": "A Young Man in Peril",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1929-08-10", "volume": "84", "number": "6"},
+      "title": "April Escapade",
+      "title-note": "part 4 of 10",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1929-08-10", "volume": "84", "number": "6"},
+       "title": "Five Grand",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1929-08-10", "volume": "84", "number": "6"},
+      "title": "Oh Shoot",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1929-08-10", "volume": "84", "number": "6"},
+      "title": "Still Waters",
+      "title-note": "part 8 of 8",
+      "author": {
+         "authorized": "Van de Water, Frederic F., 1890-1968",
+         "lcna": "n82046903"
+      }
+     },
+     {"issue": {"issue-date": "1929-08-17", "volume": "84", "number": "7"},
+      "title": "April Escapade",
+      "title-note": "part 5 of 10",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1929-08-24", "volume": "84", "number": "8"},
+       "title": "Alibi",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1929-08-24", "volume": "84", "number": "8"},
+      "title": "April Escapade",
+      "title-note": "part 6 of 10",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1929-08-31", "volume": "84", "number": "9"},
+      "title": "A Nice Quiet Racket",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1929-08-31", "volume": "84", "number": "9"},
+      "title": "April Escapade",
+      "title-note": "part 7 of 10",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1929-09-07", "volume": "84", "number": "10"},
+      "title": "April Escapade",
+      "title-note": "part 8 of 10",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1929-09-14", "volume": "84", "number": "11"},
+      "title": "Bad News for Pitchers",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1929-09-14", "volume": "84", "number": "11"},
+      "title": "April Escapade",
+      "title-note": "part 9 of 10",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1929-09-21", "volume": "84", "number": "12"},
+      "title": "The Yellow Jacket Feud",
+      "title-note": "part 1 of 12",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1929-09-21", "volume": "84", "number": "12"},
+      "title": "April Escapade",
+      "title-note": "part 10 of 10",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1929-09-28", "volume": "84", "number": "13"},
+      "title": "King Karney",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1929-09-28", "volume": "84", "number": "13"},
+      "title": "The Yellow Jacket Feud",
+      "title-note": "part 2 of 12",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1929-09-28", "volume": "84", "number": "13"},
+      "title": "Any Ice Today Lady",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1929-10-05", "volume": "84", "number": "14"}, 
+      "title": "The Yellow Jacket Feud",
+      "title-note": "part 3 of 12",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1929-10-05", "volume": "84", "number": "14"}, 
+      "title": "Punch and Rudy",
+      "author": {
+       "authorized": "Witwer, H. C. (Harry Charles), 1890-1929",
+       "lcna": "no92032170"
+      }
+     },
+     {"issue": {"issue-date": "1929-10-05", "volume": "84", "number": "14"}, 
+      "title": "A Prudent Man",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
+     {"issue": {"issue-date": "1929-10-12", "volume": "84", "number": "15"}, 
+      "title": "The Yellow Jacket Feud",
+      "title-note": "part 4 of 12",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1929-10-12", "volume": "84", "number": "15"}, 
+      "title": "Cubs Win World Championship",
+       "note": "Title as given in CCE renewal record.  FictionMags gives title as 'Cubs Win World Series'. We have not examined the issue in question.",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1929-10-19", "volume": "84", "number": "16"}, 
+      "title": "The Yellow Jacket Feud",
+      "title-note": "part 5 of 12",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1929-10-26", "volume": "84", "number": "17"},
+      "title": "The Night Visitor",
+      "author": {
+       "authorized": "Bennett, Arnold, 1867-1931",
+       "lcna": "n79095154"
+      }
+     },
+     {"issue": {"issue-date": "1929-10-26", "volume": "84", "number": "17"},
+      "title": "Papa",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1929-10-26", "volume": "84", "number": "17"},
+      "title": "The Yellow Jacket Feud",
+      "title-note": "part 6 of 12",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1929-11-02", "volume": "84", "number": "18"},
+       "title": "Meddling Through",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1929-11-02", "volume": "84", "number": "18"},
+      "title": "The Yellow Jacket Feud",
+      "title-note": "part 7 of 12",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1929-11-09", "volume": "84", "number": "19"},
+      "title": "The Yellow Jacket Feud",
+      "title-note": "part 8 of 12",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1929-11-09", "volume": "84", "number": "19"},
+      "title": "Tomorrow",
+      "author": {
+       "authorized": "Farnol, Jeffery, 1878-1952",
+       "lcna": "n50011921"
+      }
+     },
+     {"issue": {"issue-date": "1929-11-16", "volume": "84", "number": "20"},
+      "title": "The Yellow Jacket Feud",
+      "title-note": "part 9 of 12",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1929-11-23", "volume": "84", "number": "21"},
+      "title": "The Yellow Jacket Feud",
+      "title-note": "part 10 of 12",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1929-11-30", "volume": "84", "number": "22"},
+      "title": "If I Was Alone With You",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1929-11-30", "volume": "84", "number": "22"},
+      "title": "Army Black and Navy Blue",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1929-11-30", "volume": "84", "number": "22"},
+      "title": "The Yellow Jacket Feud",
+      "title-note": "part 11 of 12",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1929-12-07", "volume": "84", "number": "23"},
+       "title": "No Romance",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1929-12-07", "volume": "84", "number": "23"},
+      "title": "The Yellow Jacket Feud",
+      "title-note": "part 12 of 12",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1929-12-21", "volume": "84", "number": "25"},
+      "title": "Bobby or Bust",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1930-01-04", "volume": "85", "number": "1"},
+      "title": "Thick Turk",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1930-01-11", "volume": "85", "number": "2"},
+      "title": "At the Palace da Nostra",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1930-01-18", "volume": "85", "number": "3"},
+      "title": "Mothers",
+      "author": {
+       "authorized": "Irwin, Wallace, 1876-1959",
+       "lcna": "n97112081"
+      }
+     },
+     {"issue": {"issue-date": "1930-01-18", "volume": "85", "number": "3"},
+      "title": "Jewels of the Dead",
+      "author": {
+       "authorized": "Squier, Emma-Lindsay, 1892-1941",
+       "lcna": "no2007059420"
+      }
+     },
+     {"issue": {"issue-date": "1930-02-01", "volume": "85", "number": "5"},
+       "title": "Lillian",
+       "author": {
+         "authorized": "Runyon, Damon, 1880-1946",
+         "lcna": "n80049533"
+       }
+     },
+     {"issue": {"issue-date": "1930-02-15", "volume": "85", "number": "7"},
+       "title": "Stepdaughters of War",
+       "title-note": "part 1 of 6",
+       "note": "Author is Evadne Price writing under a pseudonym.",
+       "author": {
+         "authorized": "Smith, Helen Zenna, 1896-1985",
+         "lcna": "n88013768"
+       }
+     },
+     {"issue": {"issue-date": "1930-02-22", "volume": "85", "number": "8"},
+       "title": "Stepdaughters of War",
+       "title-note": "part 2 of 6",
+       "note": "Author is Evadne Price writing under a pseudonym.",
+       "author": {
+         "authorized": "Smith, Helen Zenna, 1896-1985",
+         "lcna": "n88013768"
+       }
+     },
+     {"issue": {"issue-date": "1930-03-01", "volume": "85", "number": "9"},
+       "title": "Stepdaughters of War",
+       "title-note": "part 3 of 6",
+       "note": "Author is Evadne Price writing under a pseudonym.",
+       "author": {
+         "authorized": "Smith, Helen Zenna, 1896-1985",
+         "lcna": "n88013768"
+       }
+     },
+     {"issue": {"issue-date": "1930-03-08", "volume": "85", "number": "10"},
+      "title": "Fu Manchu's Daughter",
+      "title-note": "part 1 of 12",
+      "note": "Title as given on issue cover.  The CCE renewal record gives the title as 'Daughter of Fu Manchu'.",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1930-03-08", "volume": "85", "number": "10"},
+       "title": "Stepdaughters of War",
+       "title-note": "part 4 of 6",
+       "note": "Author is Evadne Price writing under a pseudonym.",
+       "author": {
+         "authorized": "Smith, Helen Zenna, 1896-1985",
+         "lcna": "n88013768"
+       }
+     },
+     {"issue": {"issue-date": "1930-03-08", "volume": "85", "number": "10"},
+      "title": "Two Wise Men",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1930-03-15", "volume": "85", "number": "11"},
+       "title": "The Heart is Young",
+       "author": {
+         "authorized": "Edginton, May, 1883-1957",
+         "lcna": "n87911804"
+       }
+     },
+     {"issue": {"issue-date": "1930-03-15", "volume": "85", "number": "11"},
+       "title": "Stepdaughters of War",
+       "title-note": "part 5 of 6",
+       "note": "Author is Evadne Price writing under a pseudonym.",
+       "author": {
+         "authorized": "Smith, Helen Zenna, 1896-1985",
+         "lcna": "n88013768"
+       }
+     },
+     {"issue": {"issue-date": "1930-03-15", "volume": "85", "number": "11"},
+      "title": "Fu Manchu's Daughter",
+      "title-note": "part 2 of 12",
+      "note": "Title as given on March 8 issue cover.  The CCE renewal record gives the title as 'Daughter of Fu Manchu'.",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1930-03-22", "volume": "85", "number": "12"},
+      "title": "The Busdriver's Dream",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1930-03-22", "volume": "85", "number": "12"},
+      "title": "Fu Manchu's Daughter",
+      "title-note": "part 3 of 12",
+      "note": "Title as given on March 8 issue cover.  The CCE renewal record gives the title as 'Daughter of Fu Manchu'.",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1930-03-22", "volume": "85", "number": "12"},
+       "title": "Social Error",
+       "author": {
+         "authorized": "Runyon, Damon, 1880-1946",
+         "lcna": "n80049533"
+       }
+     },
+     {"issue": {"issue-date": "1930-03-22", "volume": "85", "number": "12"},
+      "title": "Capitol Fun",
+      "author": {
+       "authorized": "Irwin, Wallace, 1876-1959",
+       "lcna": "n97112081"
+      }
+     },
+     {"issue": {"issue-date": "1930-03-22", "volume": "85", "number": "12"},
+      "title": "Memory Course",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1930-03-22", "volume": "85", "number": "12"},
+       "title": "Stepdaughters of War",
+       "title-note": "part 6 of 6",
+       "note": "Author is Evadne Price writing under a pseudonym.",
+       "author": {
+         "authorized": "Smith, Helen Zenna, 1896-1985",
+         "lcna": "n88013768"
+       }
+     },
+     {"issue": {"issue-date": "1930-03-29", "volume": "85", "number": "13"},
+      "title": "Enemy",
+      "author": {
+         "authorized": "Remarque, Erich Maria, 1898-1970",
+         "lcna": "n84223789"
+       }
+     },
+     {"issue": {"issue-date": "1930-03-29", "volume": "85", "number": "13"},
+      "title": "George and the Perfect Lady",
+      "author": {
+         "authorized": "Cary, Lucian, 1886-1971",
+         "lcna": "no90003387"
+       }
+     },
+     {"issue": {"issue-date": "1930-03-29", "volume": "85", "number": "13"},
+      "title": "Fu Manchu's Daughter",
+      "title-note": "part 4 of 12",
+      "note": "Title as given on March 8 issue cover.  The CCE renewal record gives the title as 'Daughter of Fu Manchu'.",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1930-03-29", "volume": "85", "number": "13"},
+      "title": "Doomed",
+      "author": {
+       "authorized": "Irwin, Wallace, 1876-1959",
+       "lcna": "n97112081"
+      }
+     },
+     {"issue": {"issue-date": "1930-04-05", "volume": "85", "number": "14"},
+      "title": "Fu Manchu's Daughter",
+      "title-note": "part 5 of 12",
+      "note": "Title as given on March 8 issue cover.  The CCE renewal record gives the title as 'Daughter of Fu Manchu'.",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1930-04-12", "volume": "85", "number": "15"},
+       "title": "Kick",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1930-04-12", "volume": "85", "number": "15"},
+      "title": "Fu Manchu's Daughter",
+      "title-note": "part 6 of 12",
+      "note": "Title as given on March 8 issue cover.  The CCE renewal record gives the title as 'Daughter of Fu Manchu'.",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1930-04-19", "volume": "85", "number": "16"},
+      "title": "Second Act Curtain",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1930-04-19", "volume": "85", "number": "16"},
+      "title": "Heads Together",
+      "author": {
+       "authorized": "Irwin, Wallace, 1876-1959",
+       "lcna": "n97112081"
+      }
+     },
+     {"issue": {"issue-date": "1930-04-19", "volume": "85", "number": "16"},
+      "title": "Fu Manchu's Daughter",
+      "title-note": "part 7 of 12",
+      "note": "Title as given on March 8 issue cover.  The CCE renewal record gives the title as 'Daughter of Fu Manchu'.",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1930-04-26", "volume": "85", "number": "17"},
+      "title": "Won't You Be William?",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1930-04-26", "volume": "85", "number": "17"},
+      "title": "Fu Manchu's Daughter",
+      "title-note": "part 8 of 12",
+      "note": "Title as given on March 8 issue cover.  The CCE renewal record gives the title as 'Daughter of Fu Manchu'.",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1930-05-03", "volume": "85", "number": "18"},
+      "title": "Fu Manchu's Daughter",
+      "title-note": "part 9 of 12",
+      "note": "Title as given on March 8 issue cover.  The CCE renewal record gives the title as 'Daughter of Fu Manchu'.",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1930-05-03", "volume": "85", "number": "18"},
+      "title": "Above the Stars",
+      "author": {
+       "authorized": "Irwin, Wallace, 1876-1959",
+       "lcna": "n97112081"
+      }
+     },
+     {"issue": {"issue-date": "1930-05-10", "volume": "85", "number": "19"},
+       "title": "Father Means Well",
+       "title-note": "part 1 of 12",
+       "note": "Title as given in CCE renewal record.  FictionMags gives title as 'Both Were Young'. We have not examined the issues in question.",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1930-05-10", "volume": "85", "number": "19"},
+      "title": "Fu Manchu's Daughter",
+      "title-note": "part 10 of 12",
+      "note": "Title as given on March 8 issue cover.  The CCE renewal record gives the title as 'Daughter of Fu Manchu'.",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1930-05-17", "volume": "85", "number": "20"},
+       "title": "Father Means Well",
+       "title-note": "part 2 of 12",
+       "note": "Title as given in CCE renewal record.  FictionMags gives title as 'Both Were Young'. We have not examined the issues in question.",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1930-05-17", "volume": "85", "number": "20"},
+      "title": "Fu Manchu's Daughter",
+      "title-note": "part 11 of 12",
+      "note": "Title as given on March 8 issue cover.  The CCE renewal record gives the title as 'Daughter of Fu Manchu'.",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1930-05-24", "volume": "85", "number": "21"},
+       "title": "Father Means Well",
+       "title-note": "part 3 of 12",
+       "note": "Title as given in CCE renewal record.  FictionMags gives title as 'Both Were Young'. We have not examined the issues in question.",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1930-05-24", "volume": "85", "number": "21"},
+      "title": "Fu Manchu's Daughter",
+      "title-note": "part 12 of 12",
+      "note": "Title as given on March 8 issue cover.  The CCE renewal record gives the title as 'Daughter of Fu Manchu'.",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1930-05-31", "volume": "85", "number": "22"},
+      "title": "When There Was Danger",
+      "author": {
+       "authorized": "Connolly, James B. (James Brendan), 1868-1957",
+       "lcna": "no90002215"
+      }
+     },
+     {"issue": {"issue-date": "1930-05-31", "volume": "85", "number": "22"},
+       "title": "Father Means Well",
+       "title-note": "part 4 of 12",
+       "note": "Title as given in CCE renewal record.  FictionMags gives title as 'Both Were Young'. We have not examined the issues in question.",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1930-06-07", "volume": "85", "number": "23"},
+      "title": "The Battle of the Bottle",
+      "author": {
+       "authorized": "Irwin, Wallace, 1876-1959",
+       "lcna": "n97112081"
+      }
+     },
+     {"issue": {"issue-date": "1930-06-07", "volume": "85", "number": "23"},
+      "title": "She Should Have Told Him",
+      "title-note": "Title as given in CCE renewal record.  FictionMags gives title as 'Should She Have Told Him?' We have not examined the issue in question.",
+      "author": {
+         "authorized": "Cary, Lucian, 1886-1971",
+         "lcna": "no90003387"
+       }
+     },
+     {"issue": {"issue-date": "1930-06-07", "volume": "85", "number": "23"},
+       "title": "Father Means Well",
+       "title-note": "part 5 of 12",
+       "note": "Title as given in CCE renewal record.  FictionMags gives title as 'Both Were Young'. We have not examined the issues in question.",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1930-06-14", "volume": "85", "number": "24"},
+      "title": "Last Stroke",
+      "author": {
+       "authorized": "Hopper, James, 1876-1956",
+       "lcna": "n00068220"
+      }
+     },
+     {"issue": {"issue-date": "1930-06-14", "volume": "85", "number": "24"},
+       "title": "Father Means Well",
+       "title-note": "part 6 of 12",
+       "note": "Title as given in CCE renewal record.  FictionMags gives title as 'Both Were Young'. We have not examined the issues in question.",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1930-06-21", "volume": "85", "number": "25"},
+       "title": "Father Means Well",
+       "title-note": "part 7 of 12",
+       "note": "Title as given in CCE renewal record.  FictionMags gives title as 'Both Were Young'. We have not examined the issues in question.",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1930-06-28", "volume": "85", "number": "26"},
+      "title": "The Hazzard",
+       "note": "Title as spelled in CCE renewal record.  FictionMags spells title as 'The Hazard'. We have not examined the issue in question.",
+      "author": {
+       "authorized": "Farnol, Jeffery, 1878-1952",
+       "lcna": "n50011921"
+      }
+     },
+     {"issue": {"issue-date": "1930-06-28", "volume": "85", "number": "26"},
+      "title": "Silence Round Verdun",
+       "note": "Title as given in CCE renewal record.  FictionMags gives title as 'Silence'. We have not examined the issue in question.",
+      "author": {
+         "authorized": "Remarque, Erich Maria, 1898-1970",
+         "lcna": "n84223789"
+       }
+     },
+     {"issue": {"issue-date": "1930-06-28", "volume": "85", "number": "26"},
+       "title": "Father Means Well",
+       "title-note": "part 8 of 12",
+       "note": "Title as given in CCE renewal record.  FictionMags gives title as 'Both Were Young'. We have not examined the issues in question.",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1930-07-05", "volume": "86", "number": "1"},
+      "title": "Simon Pure",
+      "author": {
+         "authorized": "Marquand, John P. (John Phillips), 1893-1960",
+         "lcna": "n79061320"
+       }
+     },
+     {"issue": {"issue-date": "1930-07-05", "volume": "86", "number": "1"},
+      "title": "A Waiter in Tony's",
+      "title-note": "Title as given on issue cover.  The CCE renewal record gives the title as 'A Waiter at Tony's'.",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1930-07-05", "volume": "86", "number": "1"},
+       "title": "Father Means Well",
+       "title-note": "part 9 of 12",
+       "note": "Title as given in CCE renewal record.  FictionMags gives title as 'Both Were Young'. We have not examined the issues in question.",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1930-07-05", "volume": "86", "number": "1"},
+      "title": "Better Than a Horse Shoe",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1930-07-12", "volume": "86", "number": "2"},
+       "title": "Father Means Well",
+       "title-note": "part 10 of 12",
+       "note": "Title as given in CCE renewal record.  FictionMags gives title as 'Both Were Young'. We have not examined the issues in question.",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1930-07-12", "volume": "86", "number": "2"},
+       "title": "She Tells the Reporter",
+       "author": {
+         "authorized": "Marquis, Don, 1878-1937",
+         "lcna": "n50041532"
+       }
+     },
+     {"issue": {"issue-date": "1930-07-19", "volume": "86", "number": "3"},
+      "title": "Pitchers Are Peculiar",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1930-07-19", "volume": "86", "number": "3"},
+       "title": "Father Means Well",
+       "title-note": "part 11 of 12",
+       "note": "Title as given in CCE renewal record.  FictionMags gives title as 'Both Were Young'. We have not examined the issues in question.",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1930-07-26", "volume": "86", "number": "4"},
+       "title": "Father Means Well",
+       "title-note": "part 12 of 12",
+       "note": "Title as given in CCE renewal record.  FictionMags gives title as 'Both Were Young'. We have not examined the issues in question.",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1930-08-02", "volume": "86", "number": "5"},
+      "title": "Flying Switch",
+      "author": {
+         "authorized": "Davis, H. L. (Harold Lenoir), 1896-1960",
+         "lcna": "n50036181"
+      }
+     },
+     {"issue": {"issue-date": "1930-08-02", "volume": "86", "number": "5"},
+       "title": "Fair and Stormy",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1930-08-09", "volume": "86", "number": "6"},
+      "title": "The Wrong Number",
+      "note": "Title as given in CCE renewal record.  FictionMags gives title as 'Right Number'. We have not examined the issue in question.",
+      "author": {
+       "name": "Bernice Brown Brush"
+      }
+     },
+     {"issue": {"issue-date": "1930-08-09", "volume": "86", "number": "6"},
+      "title": "A Touch of Romance",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1930-08-23", "volume": "86", "number": "8"},
+      "title": "Where Karl Had Fought",
+      "author": {
+         "authorized": "Remarque, Erich Maria, 1898-1970",
+         "lcna": "n84223789"
+       }
+     },
+     {"issue": {"issue-date": "1930-08-30", "volume": "86", "number": "9"},
+      "title": "Sacrifice Hit",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1930-09-06", "volume": "86", "number": "10"},
+       "title": "Crack of Doom",
+       "author": {
+         "authorized": "Marquis, Don, 1878-1937",
+         "lcna": "n50041532"
+       }
+     },
+     {"issue": {"issue-date": "1930-09-06", "volume": "86", "number": "10"},
+       "title": "Long Odds",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1930-09-13", "volume": "86", "number": "11"},
+       "title": "Butch Minds the Baby",
+       "author": {
+         "authorized": "Runyon, Damon, 1880-1946",
+         "lcna": "n80049533"
+       }
+     },
+     {"issue": {"issue-date": "1930-09-13", "volume": "86", "number": "11"},
+       "title": "Help Yourself",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1930-09-20", "volume": "86", "number": "12"}, 
+      "title": "The Pilot Boat",
+      "author": {
+       "authorized": "Connolly, James B. (James Brendan), 1868-1957",
+       "lcna": "no90002215"
+      }
+     },
+     {"issue": {"issue-date": "1930-09-20", "volume": "86", "number": "12"}, 
+      "title": "Big Money",
+      "title-note": "part 1 of 12",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1930-09-27", "volume": "86", "number": "13"},
+      "title": "Big Money",
+      "title-note": "part 2 of 12",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1930-09-27", "volume": "86", "number": "13"},
+       "title": "The Unthinkable Thing",
+       "author": {
+         "authorized": "Brackett, Charles, 1892-1969",
+         "lcna": "n85151724"
+       }
+     },
+     {"issue": {"issue-date": "1930-09-27", "volume": "86", "number": "13"},
+      "title": "A Little Appreciation",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1930-09-27", "volume": "86", "number": "13"},
+      "title": "The White House Coat",
+       "note": "Title as given in CCE renewal record.  FictionMags gives title as 'The White House Goat'. We have not examined the issue in question.",
+      "author": {
+       "authorized": "Irwin, Wallace, 1876-1959",
+       "lcna": "n97112081"
+      }
+     },
+     {"issue": {"issue-date": "1930-10-04", "volume": "86", "number": "14"},
+       "title": "Arrest of Prince Basil",
+       "author": {
+        "authorized": "Komroff, Manuel, 1890-1974",
+        "lcna": "n79110548"
+       }
+     },
+     {"issue": {"issue-date": "1930-10-04", "volume": "86", "number": "14"},
+      "title": "The Charming of Willie Lord",
+       "note": "Title as given in CCE renewal record.  FictionMags gives title as 'The Shaming of Willie Lord'. We have not examined the issue in question.",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1930-10-04", "volume": "86", "number": "14"},
+      "title": "Big Money",
+      "title-note": "part 3 of 12",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1930-10-04", "volume": "86", "number": "14"},
+      "title": "Bustin' Through",
+      "author": {
+       "authorized": "Connolly, James B. (James Brendan), 1868-1957",
+       "lcna": "no90002215"
+      }
+     },
+     {"issue": {"issue-date": "1930-10-11", "volume": "86", "number": "15"},
+      "title": "Robbers' Roost",
+      "title-note": "part 1 of 12",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1930-10-11", "volume": "86", "number": "15"},
+      "title": "Man of Destiny",
+      "author": {
+       "authorized": "Farnol, Jeffery, 1878-1952",
+       "lcna": "n50011921"
+      }
+     },
+     {"issue": {"issue-date": "1930-10-11", "volume": "86", "number": "15"},
+      "title": "Big Money",
+      "title-note": "part 4 of 12",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1930-10-18", "volume": "86", "number": "16"},
+      "title": "Don Constanzio Dares",
+      "author": {
+       "authorized": "Squier, Emma-Lindsay, 1892-1941",
+       "lcna": "no2007059420"
+      }
+     },
+     {"issue": {"issue-date": "1930-10-18", "volume": "86", "number": "16"},
+       "title": "Men Are Such Brutes",
+       "author": {
+         "authorized": "Brackett, Charles, 1892-1969",
+         "lcna": "n85151724"
+       }
+     },
+     {"issue": {"issue-date": "1930-10-18", "volume": "86", "number": "16"},
+      "title": "Big Money",
+      "title-note": "part 5 of 12",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1930-10-18", "volume": "86", "number": "16"},
+      "title": "Robbers' Roost",
+      "title-note": "part 2 of 12",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1930-10-25", "volume": "86", "number": "17"},
+       "title": "Just a Couple of Lambs",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1930-10-25", "volume": "86", "number": "17"},
+      "title": "Robbers' Roost",
+      "title-note": "part 3 of 12",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1930-10-25", "volume": "86", "number": "17"},
+      "title": "Big Money",
+      "title-note": "part 6 of 12",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1930-11-01", "volume": "86", "number": "18"},
+      "title": "The Duchess of Yorkville",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1930-11-01", "volume": "86", "number": "18"},
+      "title": "Big Money",
+      "title-note": "part 7 of 12",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1930-11-01", "volume": "86", "number": "18"},
+      "title": "Robbers' Roost",
+      "title-note": "part 4 of 12",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1930-11-08", "volume": "86", "number": "19"},
+      "title": "Robbers' Roost",
+      "title-note": "part 5 of 12",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1930-11-08", "volume": "86", "number": "19"},
+      "title": "Big Money",
+      "title-note": "part 8 of 12",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1930-11-15", "volume": "86", "number": "20"},
+      "title": "Pardon This Intrusion",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1930-11-15", "volume": "86", "number": "20"},
+      "title": "Robbers' Roost",
+      "title-note": "part 6 of 12",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1930-11-15", "volume": "86", "number": "20"},
+      "title": "Big Money",
+      "title-note": "part 9 of 12",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1930-11-22", "volume": "86", "number": "21"},
+      "title": "Going to Bed at Nine o'Clock",
+      "author": {
+         "authorized": "Cary, Lucian, 1886-1971",
+         "lcna": "no90003387"
+       }
+     },
+     {"issue": {"issue-date": "1930-11-22", "volume": "86", "number": "21"},
+      "title": "Big Money",
+      "title-note": "part 10 of 12",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1930-11-22", "volume": "86", "number": "21"},
+      "title": "Robbers' Roost",
+      "title-note": "part 7 of 12",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1930-11-22", "volume": "86", "number": "21"},
+       "title": "Appetite",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1930-11-29", "volume": "86", "number": "22"},
+      "title": "Midnight at Tony's",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1930-11-29", "volume": "86", "number": "22"},
+      "title": "Big Money",
+      "title-note": "part 11 of 12",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1930-11-29", "volume": "86", "number": "22"},
+      "title": "Robbers' Roost",
+      "title-note": "part 8 of 12",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1930-12-06", "volume": "86", "number": "23"},
+       "title": "City Simple",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1930-12-06", "volume": "86", "number": "23"},
+      "title": "Robbers' Roost",
+      "title-note": "part 9 of 12",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1930-12-06", "volume": "86", "number": "23"},
+      "title": "Wild Sweet Romance",
+       "note": "Title as given in CCE renewal record.  FictionMags gives title as 'Sweet, Wild Romance'. We have not examined the issue in question.",
+      "author": {
+       "authorized": "Hopper, James, 1876-1956",
+       "lcna": "n00068220"
+      }
+     },
+     {"issue": {"issue-date": "1930-12-06", "volume": "86", "number": "23"},
+      "title": "Big Money",
+      "title-note": "part 12 of 12",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1930-12-13", "volume": "86", "number": "24"},
+      "title": "The Road Back",
+      "title-note": "part 1 of 12",
+      "note": "Translated by Arthur Wesley Wheen as a work for hire.  Remarque is the author of the translation for copyright purposes, as well as the author of the original German text.",
+      "author": {
+         "authorized": "Remarque, Erich Maria, 1898-1970",
+         "lcna": "n84223789"
+       }
+     },
+     {"issue": {"issue-date": "1930-12-13", "volume": "86", "number": "24"},
+      "title": "Food After Midnight",
+      "author": {
+         "authorized": "Cary, Lucian, 1886-1971",
+         "lcna": "no90003387"
+       }
+     },
+     {"issue": {"issue-date": "1930-12-13", "volume": "86", "number": "24"},
+      "title": "Robbers' Roost",
+      "title-note": "part 10 of 12",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1930-12-20", "volume": "86", "number": "25"},
+       "title": "The Lily of St. Pierre",
+       "author": {
+         "authorized": "Runyon, Damon, 1880-1946",
+         "lcna": "n80049533"
+       }
+     },
+     {"issue": {"issue-date": "1930-12-20", "volume": "86", "number": "25"},
+      "title": "The Road Back",
+      "title-note": "part 2 of 12",
+      "note": "Translated by Arthur Wesley Wheen as a work for hire.  Remarque is the author of the translation for copyright purposes, as well as the author of the original German text.",
+      "author": {
+         "authorized": "Remarque, Erich Maria, 1898-1970",
+         "lcna": "n84223789"
+       }
+     },
+     {"issue": {"issue-date": "1930-12-20", "volume": "86", "number": "25"},
+      "title": "Robbers' Roost",
+      "title-note": "part 11 of 12",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1930-12-27", "volume": "86", "number": "26"},
+       "title": "A Lady of Resource",
+       "title-note": "part 1 of 11",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1930-12-27", "volume": "86", "number": "26"},
+      "title": "Glorious Buccaneer",
+      "author": {
+       "authorized": "Squier, Emma-Lindsay, 1892-1941",
+       "lcna": "no2007059420"
+      }
+     },
+     {"issue": {"issue-date": "1930-12-27", "volume": "86", "number": "26"},
+      "title": "The Road Back",
+      "title-note": "part 3 of 12",
+      "note": "Translated by Arthur Wesley Wheen as a work for hire.  Remarque is the author of the translation for copyright purposes, as well as the author of the original German text.",
+      "author": {
+         "authorized": "Remarque, Erich Maria, 1898-1970",
+         "lcna": "n84223789"
+       }
+     },
+     {"issue": {"issue-date": "1930-12-27", "volume": "86", "number": "26"},
+      "title": "It's Just Life",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1930-12-27", "volume": "86", "number": "26"},
+      "title": "Robbers' Roost",
+      "title-note": "part 12 of 12",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1930-12-27", "volume": "86", "number": "26"},
+       "title": "The Referee Says",
+       "author": {
+         "authorized": "Marquis, Don, 1878-1937",
+         "lcna": "n50041532"
+       }
+     },
+     {"issue": {"issue-date": "1931-01-03", "volume": "87", "number": "1"},
+       "title": "A Lady of Resource",
+       "title-note": "part 2 of 11",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1931-01-03", "volume": "87", "number": "1"},
+      "title": "The Road Back",
+      "title-note": "part 4 of 12",
+      "note": "Translated by Arthur Wesley Wheen as a work for hire.  Remarque is the author of the translation for copyright purposes, as well as the author of the original German text.",
+      "author": {
+         "authorized": "Remarque, Erich Maria, 1898-1970",
+         "lcna": "n84223789"
+       }
+     },
+     {"issue": {"issue-date": "1931-01-03", "volume": "87", "number": "1"},
+      "title": "Marry in Haste",
+      "author": {
+         "authorized": "Duganne, Phyllis, 1899-1976",
+         "lcna": "n90719514"
+      }
+     },
+     {"issue": {"issue-date": "1931-01-10", "volume": "87", "number": "2"},
+       "title": "Too Much Pep",
+       "author": {
+         "authorized": "Runyon, Damon, 1880-1946",
+         "lcna": "n80049533"
+       }
+     },
+     {"issue": {"issue-date": "1931-01-10", "volume": "87", "number": "2"},
+       "title": "A Lady of Resource",
+       "title-note": "part 3 of 11",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1931-01-10", "volume": "87", "number": "2"},
+      "title": "The Road Back",
+      "title-note": "part 5 of 12",
+      "note": "Translated by Arthur Wesley Wheen as a work for hire.  Remarque is the author of the translation for copyright purposes, as well as the author of the original German text.",
+      "author": {
+         "authorized": "Remarque, Erich Maria, 1898-1970",
+         "lcna": "n84223789"
+       }
+     },
+     {"issue": {"issue-date": "1931-01-10", "volume": "87", "number": "2"},
+       "title": "A Lady of Resource",
+       "title-note": "part 4 of 11",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1931-01-17", "volume": "87", "number": "3"},
+      "title": "The Road Back",
+      "title-note": "part 6 of 12",
+      "note": "Translated by Arthur Wesley Wheen as a work for hire.  Remarque is the author of the translation for copyright purposes, as well as the author of the original German text.",
+      "author": {
+         "authorized": "Remarque, Erich Maria, 1898-1970",
+         "lcna": "n84223789"
+       }
+     },
+     {"issue": {"issue-date": "1931-01-24", "volume": "87", "number": "4"},
+      "title": "The Polecat's Pal",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1931-01-24", "volume": "87", "number": "4"},
+      "title": "The Road Back",
+      "title-note": "part 7 of 12",
+      "note": "Translated by Arthur Wesley Wheen as a work for hire.  Remarque is the author of the translation for copyright purposes, as well as the author of the original German text.",
+      "author": {
+         "authorized": "Remarque, Erich Maria, 1898-1970",
+         "lcna": "n84223789"
+       }
+     },
+     {"issue": {"issue-date": "1931-01-24", "volume": "87", "number": "4"},
+       "title": "A Lady of Resource",
+       "title-note": "part 5 of 11",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1931-01-31", "volume": "87", "number": "5"},
+       "title": "A Lady of Resource",
+       "title-note": "part 6 of 11",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1931-01-31", "volume": "87", "number": "5"},
+      "title": "The Road Back",
+      "title-note": "part 8 of 12",
+      "note": "Translated by Arthur Wesley Wheen as a work for hire.  Remarque is the author of the translation for copyright purposes, as well as the author of the original German text.",
+      "author": {
+         "authorized": "Remarque, Erich Maria, 1898-1970",
+         "lcna": "n84223789"
+       }
+     },
+     {"issue": {"issue-date": "1931-02-07", "volume": "87", "number": "6"},
+       "title": "A Lady of Resource",
+       "title-note": "part 7 of 11",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1931-02-07", "volume": "87", "number": "6"},
+      "title": "The Road Back",
+      "title-note": "part 9 of 12",
+      "note": "Translated by Arthur Wesley Wheen as a work for hire.  Remarque is the author of the translation for copyright purposes, as well as the author of the original German text.",
+      "author": {
+         "authorized": "Remarque, Erich Maria, 1898-1970",
+         "lcna": "n84223789"
+       }
+     },
+     {"issue": {"issue-date": "1931-02-14", "volume": "87", "number": "7"},
+       "title": "A Lady of Resource",
+       "title-note": "part 8 of 11",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1931-02-14", "volume": "87", "number": "7"},
+      "title": "The Road Back",
+      "title-note": "part 10 of 12",
+      "note": "Translated by Arthur Wesley Wheen as a work for hire.  Remarque is the author of the translation for copyright purposes, as well as the author of the original German text.",
+      "author": {
+         "authorized": "Remarque, Erich Maria, 1898-1970",
+         "lcna": "n84223789"
+       }
+     },
+     {"issue": {"issue-date": "1931-02-21", "volume": "87", "number": "8"},
+      "title": "The Road Back",
+      "title-note": "part 11 of 12",
+      "note": "Translated by Arthur Wesley Wheen as a work for hire.  Remarque is the author of the translation for copyright purposes, as well as the author of the original German text.",
+      "author": {
+         "authorized": "Remarque, Erich Maria, 1898-1970",
+         "lcna": "n84223789"
+       }
+     },
+     {"issue": {"issue-date": "1931-02-21", "volume": "87", "number": "8"},
+       "title": "A Lady of Resource",
+       "title-note": "part 9 of 11",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1931-02-28", "volume": "87", "number": "9"},
+      "title": "Yu'an Hee See Laughs",
+      "title-note": "part 1 of 12",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1931-02-28", "volume": "87", "number": "9"},
+      "title": "Dolorosa Here I Come",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1931-02-28", "volume": "87", "number": "9"},
+      "title": "The Road Back",
+      "title-note": "part 12 of 12",
+      "note": "Translated by Arthur Wesley Wheen as a work for hire.  Remarque is the author of the translation for copyright purposes, as well as the author of the original German text.",
+      "author": {
+         "authorized": "Remarque, Erich Maria, 1898-1970",
+         "lcna": "n84223789"
+       }
+     },
+     {"issue": {"issue-date": "1931-02-28", "volume": "87", "number": "9"},
+       "title": "A Lady of Resource",
+       "title-note": "part 10 of 11",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1931-03-07", "volume": "87", "number": "10"},
+      "title": "Yu'an Hee See Laughs",
+      "title-note": "part 2 of 12",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1931-03-07", "volume": "87", "number": "10"},
+       "title": "A Lady of Resource",
+       "title-note": "part 11 of 11",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1931-03-14", "volume": "87", "number": "11"},
+      "title": "Yu'an Hee See Laughs",
+      "title-note": "part 3 of 12",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1931-03-14", "volume": "87", "number": "11"},
+      "title": "Patient #13",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1931-03-21", "volume": "87", "number": "12"}, 
+      "title": "Yu'an Hee See Laughs",
+      "title-note": "part 4 of 12",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1931-03-21", "volume": "87", "number": "12"}, 
+       "title": "Fried Potatoes",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1931-03-21", "volume": "87", "number": "12"}, 
+      "title": "Speaking of Farnsworth",
+      "author": {
+       "name": "Bernice Brown Brush"
+      }
+     },
+     {"issue": {"issue-date": "1931-03-21", "volume": "87", "number": "12"}, 
+      "title": "The Deathless Miracle",
+      "note": "Title and issue per FictionMags.  CCE does not record a renewal with this story or issue title, but does record a renewal for 'Angel Unawares (Deathless Miracle)' in the March 28 issue. We have not examined the issues in quesstion.",
+      "author": {
+       "authorized": "Farnol, Jeffery, 1878-1952",
+       "lcna": "n50011921"
+      }
+     },
+     {"issue": {"issue-date": "1931-03-28", "volume": "87", "number": "13"},
+       "title": "Just Dumb Enough",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1931-03-28", "volume": "87", "number": "13"},
+      "title": "Yu'an Hee See Laughs",
+      "title-note": "part 5 of 12",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1931-03-28", "volume": "87", "number": "13"},
+      "title": "Angel Unawares (Deathless Miracle)",
+      "note": "Title and issue per CCE renewal record.  FictionMags does not record a story with this title or author in this issue, but does mention a story 'Deathless Miracle' by Farnol in the March 21 issue. We have not examined the issues in quesstion.",
+      "author": {
+       "authorized": "Farnol, Jeffery, 1878-1952",
+       "lcna": "n50011921"
+      }
+     },
+     {"issue": {"issue-date": "1931-04-04", "volume": "87", "number": "14"},
+      "title": "Spring in the Heart",
+      "note": "Issue date as given on cover.  CCE renewal record gives issue date as April 14; that appears to be an error.",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1931-04-04", "volume": "87", "number": "14"},
+      "title": "Yu'an Hee See Laughs",
+      "title-note": "part 6 of 12",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1931-04-11", "volume": "87", "number": "15"},
+      "title": "Yu'an Hee See Laughs",
+      "title-note": "part 7 of 12",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1931-04-18", "volume": "87", "number": "16"},
+       "title": "What a Pal",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1931-04-18", "volume": "87", "number": "16"},
+      "title": "Yu'an Hee See Laughs",
+      "title-note": "part 8 of 12",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1931-04-25", "volume": "87", "number": "17"},
+       "title": "Gentlemen, the King",
+       "author": {
+         "authorized": "Runyon, Damon, 1880-1946",
+         "lcna": "n80049533"
+       }
+     },
+     {"issue": {"issue-date": "1931-04-25", "volume": "87", "number": "17"},
+      "title": "Yu'an Hee See Laughs",
+      "title-note": "part 9 of 12",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1931-05-02", "volume": "87", "number": "18"},
+      "title": "Yu'an Hee See Laughs",
+      "title-note": "part 10 of 12",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1931-05-02", "volume": "87", "number": "18"},
+      "title": "Bay Window",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1931-05-09", "volume": "87", "number": "19"},
+      "title": "Yu'an Hee See Laughs",
+      "title-note": "part 11 of 12",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1931-05-09", "volume": "87", "number": "19"},
+      "title": "A Moose on Roller Skates",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1931-05-16", "volume": "87", "number": "20"},
+       "title": "The Social Secretary",
+       "title-note": "part 1 of 5",
+       "author": {
+         "authorized": "Brackett, Charles, 1892-1969",
+         "lcna": "n85151724"
+       }
+     },
+     {"issue": {"issue-date": "1931-05-16", "volume": "87", "number": "20"},
+       "title": "Bloodhounds of Broadway",
+       "author": {
+         "authorized": "Runyon, Damon, 1880-1946",
+         "lcna": "n80049533"
+       }
+     },
+     {"issue": {"issue-date": "1931-05-16", "volume": "87", "number": "20"},
+      "title": "Yu'an Hee See Laughs",
+      "title-note": "part 12 of 12",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1931-05-23", "volume": "87", "number": "21"},
+       "title": "The Social Secretary",
+       "title-note": "part 2 of 5",
+       "author": {
+         "authorized": "Brackett, Charles, 1892-1969",
+         "lcna": "n85151724"
+       }
+     },
+     {"issue": {"issue-date": "1931-05-30", "volume": "87", "number": "22"},
+       "title": "The Social Secretary",
+       "title-note": "part 3 of 5",
+       "author": {
+         "authorized": "Brackett, Charles, 1892-1969",
+         "lcna": "n85151724"
+       }
+     },
+     {"issue": {"issue-date": "1931-06-06", "volume": "87", "number": "23"},
+      "title": "The Backslider",
+      "note": "CCE renewal record spells author first name 'Lucien'.",
+      "author": {
+         "authorized": "Cary, Lucian, 1886-1971",
+         "lcna": "no90003387"
+       }
+     },
+     {"issue": {"issue-date": "1931-06-06", "volume": "87", "number": "23"},
+       "title": "The Social Secretary",
+       "title-note": "part 4 of 5",
+       "author": {
+         "authorized": "Brackett, Charles, 1892-1969",
+         "lcna": "n85151724"
+       }
+     },
+     {"issue": {"issue-date": "1931-06-13", "volume": "87", "number": "24"},
+       "title": "The Social Secretary",
+       "title-note": "part 5 of 5",
+       "author": {
+         "authorized": "Brackett, Charles, 1892-1969",
+         "lcna": "n85151724"
+       }
+     },
+     {"issue": {"issue-date": "1931-06-20", "volume": "87", "number": "25"},
+      "title": "McQuestion Rides",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1931-06-20", "volume": "87", "number": "25"},
+      "title": "T'Want Do No Harm",
+      "note": "CCE renewal record spells author first name 'Lucien'.",
+      "author": {
+         "authorized": "Cary, Lucian, 1886-1971",
+         "lcna": "no90003387"
+       }
+     },
+     {"issue": {"issue-date": "1931-06-20", "volume": "87", "number": "25"},
+      "title": "A Friendly Game",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1931-07-04", "volume": "88", "number": "1"},
+      "title": "The Medicine Girl",
+      "title-note": "part 1 of 5",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1931-07-04", "volume": "88", "number": "1"},
+      "title": "Officer's Choice",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1931-07-11", "volume": "88", "number": "2"},
+      "title": "Room for Two",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1931-07-11", "volume": "88", "number": "2"},
+      "title": "The Medicine Girl",
+      "title-note": "part 2 of 5",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1931-07-18", "volume": "88", "number": "3"}, 
+      "title": "The Medicine Girl",
+      "title-note": "part 3 of 5",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1931-07-18", "volume": "88", "number": "3"}, 
+      "title": "Retribution",
+      "author": {
+       "name": "Bernice Brown Brush"
+      }
+     },
+     {"issue": {"issue-date": "1931-07-25", "volume": "88", "number": "4"}, 
+      "title": "The Medicine Girl",
+      "title-note": "part 4 of 5",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1931-08-01", "volume": "88", "number": "5"},
+      "title": "A Look of Scorn",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1931-08-01", "volume": "88", "number": "5"},
+      "title": "The Medicine Girl",
+      "title-note": "part 5 of 5",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1931-08-22", "volume": "88", "number": "8"}, 
+      "title": "Secret Sentence",
+      "author": {
+       "name": "Bernice Brown Brush"
+      }
+     },
+     {"issue": {"issue-date": "1931-08-29", "volume": "88", "number": "9"},
+      "title": "Little Queen of Pearls",
+      "note": "Title as given in CCE renewal record. FictionMags gives title as 'Queen of Pearls'. We have not examined the issue ourselves.",
+      "author": {
+       "authorized": "Squier, Emma-Lindsay, 1892-1941",
+       "lcna": "no2007059420"
+      }
+     },
+     {"issue": {"issue-date": "1931-09-05", "volume": "88", "number": "10"},
+      "title": "Racing Final",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1931-09-12", "volume": "88", "number": "11"},
+      "title": "Through the Nose",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1931-09-19", "volume": "88", "number": "12"},
+      "title": "The Practically Perfect Young Man",
+      "note": "CCE renewal record spells author first name 'Lucien'. Title as given in CCE renewal record; FictionMags gives title simply as 'Practically Perfect'.",
+      "author": {
+         "authorized": "Cary, Lucian, 1886-1971",
+         "lcna": "no90003387"
+       }
+     },
+     {"issue": {"issue-date": "1931-09-19", "volume": "88", "number": "12"},
+       "title": "Hindsight",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1931-09-26", "volume": "88", "number": "13"},
+       "title": "The Snatching of Bookie Bob",
+       "author": {
+         "authorized": "Runyon, Damon, 1880-1946",
+         "lcna": "n80049533"
+       }
+     },
+     {"issue": {"issue-date": "1931-09-26", "volume": "88", "number": "13"},
+      "title": "An Evening's Entertainment",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1931-10-03", "volume": "88", "number": "14"},
+      "title": "Omit Flowers",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1931-10-10", "volume": "88", "number": "15"},
+      "title": "One to the Button",
+      "note": "CCE renewal record spells author first name 'Lucien'.",
+      "author": {
+         "authorized": "Cary, Lucian, 1886-1971",
+         "lcna": "no90003387"
+       }
+     },
+     {"issue": {"issue-date": "1931-10-10", "volume": "88", "number": "15"},
+      "title": "Something for Nothing",
+      "author": {
+       "authorized": "Squier, Emma-Lindsay, 1892-1941",
+       "lcna": "no2007059420"
+      }
+     },
+     {"issue": {"issue-date": "1931-10-24", "volume": "88", "number": "17"},
+      "title": "The Hideaway",
+      "note": "CCE renewal record spells author first name 'Lucien'.",
+      "author": {
+         "authorized": "Cary, Lucian, 1886-1971",
+         "lcna": "no90003387"
+       }
+     },
+     {"issue": {"issue-date": "1931-11-07", "volume": "88", "number": "19"},
+      "title": "The Mare Queerless",
+      "note": "Title as given in CCE renewal record. FictionMags gives title as 'Little Queerless'. We have not examined the issue ourselves.",
+      "author": {
+       "authorized": "Hopper, James, 1876-1956",
+       "lcna": "n00068220"
+      }
+     },
+     {"issue": {"issue-date": "1931-11-21", "volume": "88", "number": "21"},
+       "title": "The Big Pink",
+       "title-note": "part 1 of 12",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1931-11-28", "volume": "88", "number": "22"},
+      "title": "Girl and the Quarterback",
+      "note": "Title as given in CCE renewal record. FictionMags gives title as 'My Quarterback'. We have not examined the issue ourselves.",
+      "author": {
+       "authorized": "Hopper, James, 1876-1956",
+       "lcna": "n00068220"
+      }
+     },
+     {"issue": {"issue-date": "1931-11-28", "volume": "88", "number": "22"},
+       "title": "The Big Pink",
+       "title-note": "part 2 of 12",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1931-12-05", "volume": "88", "number": "23"},
+      "title": "When You Carry the Star",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1931-12-05", "volume": "88", "number": "23"},
+       "title": "The Big Pink",
+       "title-note": "part 3 of 12",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1931-12-12", "volume": "88", "number": "24"},
+      "title": "The Toy Parade",
+      "author": {
+       "authorized": "Hopper, James, 1876-1956",
+       "lcna": "n00068220"
+      }
+     },
+     {"issue": {"issue-date": "1931-12-12", "volume": "88", "number": "24"},
+       "title": "The Big Pink",
+       "title-note": "part 4 of 12",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1931-12-12", "volume": "88", "number": "24"},
+      "title": "The White Buck",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1931-12-19", "volume": "88", "number": "25"},
+      "title": "Only Vulgar People Quarrel",
+      "author": {
+         "authorized": "Cary, Lucian, 1886-1971",
+         "lcna": "no90003387"
+       }
+     },
+     {"issue": {"issue-date": "1931-12-19", "volume": "88", "number": "25"},
+      "title": "The Tenth Word",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1931-12-19", "volume": "88", "number": "25"},
+       "title": "The Big Pink",
+       "title-note": "part 5 of 12",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1931-12-26", "volume": "88", "number": "26"},
+      "title": "Windy Bill",
+      "author": {
+         "authorized": "Raine, Norman Reilly, 1895-1971",
+         "lcna": "n85342738"
+      }
+     },
+     {"issue": {"issue-date": "1931-12-26", "volume": "88", "number": "26"},
+       "title": "The Big Pink",
+       "title-note": "part 6 of 12",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1932-01-02", "volume": "89", "number": "1"},
+       "title": "The Big Pink",
+       "title-note": "part 7 of 12",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1932-01-09", "volume": "89", "number": "2"},
+       "title": "The Big Pink",
+       "title-note": "part 8 of 12",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
      }
    ],
+   "comment": "Pick up with 1959 Jan-Jun contribution renewals.",
    "additional-note": "Active contribution renewals are recorded beginning in the 1954 January-June CCE volume, but the earliest renewed contribution is noted in the 1954 July-December volume.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-05-22"
+   "last-updated": "2022-07-26"
 }

@@ -25,7 +25,7 @@ my $FTLURL  = $OLBPURL . "webbin/ftl";
 my $CINFOURL= $OLBPURL . "webbin/cinfo";
 my $BFURL   = $OLBPURL . "webbin/backfile";
 my $PENNBF  = $BFURL . "/penn-serials";
-my $HATHIBF = $BFURL . "/hathitrust";
+my $HATHIBF = $BFURL . "/hathitrust-us";
 my $COPYURL = $OLBPURL . "cce/";
 my $FPURL   = $COPYURL . "firstperiod.html";
 my $REGURL  = "https://cocatalog.loc.gov/";
@@ -702,6 +702,7 @@ sub analyze_form {
       || $title =~ /^cheap /
       || $title =~ / sunglasses /
       || $title =~ /trump vote mask/
+      || $title =~ /still.*business/i
       || $title =~ /earn money/i
       || $title =~ /dfdsf/
       || $title =~ /ister misery 1901/
@@ -711,12 +712,18 @@ sub analyze_form {
       || $ref =~ /seoestore/
       || $wref =~ /seoestore/
       || $comments =~ /getpeople.io/i
+      || $comments =~ /pxl.to/i
+      || $comments =~ /fiverrtalents/i
       || $comments =~ /yoga studio/i
+      || (($comments =~ /SEO/) && ($comments =~ /Google/))
       || $comments =~ /gift card/i
       || $comments =~ /freight forwarder/i
       || $comments =~ /sexlovers/i
       || $comments =~ /intimate photo/i
+      || $comments =~ /business.*http/i
       || $comments =~ /afflat3e1.com/i
+      || $comments =~ /pommellsmarketing/i
+      || $comments =~ /renowebdesignnv/
       || $title =~ / michael kors /
       || $libname =~ / michael kors /
       || $libsite =~ /brinkster.net/) {

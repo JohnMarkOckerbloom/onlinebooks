@@ -1,7 +1,10 @@
 {
    "title": "Forest Science",
+   "online": "1",
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "database",
+   "first-autorenewed-issue":
+     {"issue-date": "1964-03", "volume": "10", "number": "1"},
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "database",
    "responsibility": {
@@ -10,5 +13,5 @@
    },
    "acknowledgement": 
       "Thanks to Shelton Henderson for copyright research on this title.",
-   "last-updated": "2021-12-10"
+   "last-updated": "2022-07-14"
 }
