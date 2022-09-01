@@ -1,14 +1,21 @@
 {
    "title": "New York History",
+   "preceded-by":
+      [{"id": "qtlyjnysha",
+       "note": "The Quarterly Journal of the New York State Historical Association"}],
    "first-issue": {"issue-date": "1932-01", "volume": "13", "number": "1"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution":
      {"issue": {"issue-date": "1949-04"}},
    "first-renewed-contribution-source": "1977-JanJun",
+   "see-also":
+      [{"id": "nyshaproc",
+       "note": "Proceedings of the New York State Historical Association"}],
+   "additional-note": "Early volumes of this journal were also published in annual compilations as the Proceedings of the New York State Historical Association, sometimes with additional introductory material.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-05-17"
+   "last-updated": "2022-08-31"
 }

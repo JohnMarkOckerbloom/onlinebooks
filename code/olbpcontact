@@ -704,11 +704,11 @@ sub analyze_form {
       || $title =~ /trump vote mask/
       || $title =~ /still.*business/i
       || $title =~ /earn money/i
+      || $title =~ /quick question/i
       || $title =~ /dfdsf/
       || $title =~ /ister misery 1901/
       || $title =~ /googlegoogle/
       || $title =~ /jeffrearoom/
-      || $ref =~ /hoverboard/
       || $ref =~ /seoestore/
       || $wref =~ /seoestore/
       || $comments =~ /getpeople.io/i
@@ -716,6 +716,7 @@ sub analyze_form {
       || $comments =~ /fiverrtalents/i
       || $comments =~ /yoga studio/i
       || (($comments =~ /SEO/) && ($comments =~ /Google/))
+      || (($comments =~ /SEO/) && ($comments =~ /http/))
       || $comments =~ /gift card/i
       || $comments =~ /freight forwarder/i
       || $comments =~ /sexlovers/i

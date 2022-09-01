@@ -62,7 +62,7 @@
      {"issue-date": "1932-04-02", "volume": "89", "number": "14"},
      {"issue-date": "1932-04-09", "volume": "89", "number": "15"}
    ],
-   "renewed-contribution-completeness": "active/1930",
+   "renewed-contribution-completeness": "active/1931",
    "renewed-contributions": [
      {"issue": {"issue-date": "1927-01-22", "volume": "79", "number": "4"},
       "title": "Jim, the Conqueror",
@@ -537,7 +537,7 @@
      },
      {"issue": {"issue-date": "1927-11-05", "volume": "80", "number": "19"},
       "title": "The Zone Map",
-      "title-note": "Title as given in CCE renewal record.  FictionMags gives title as 'The Emperor of America' and notes 'The Zone Map' as an alternate title.",
+      "note": "Title as given in CCE renewal record.  FictionMags gives title as 'The Emperor of America' and notes 'The Zone Map' as an alternate title.",
       "author": {
          "authorized": "Rohmer, Sax, 1883-1959",
          "lcna": "n50020802"
@@ -2480,7 +2480,7 @@
      },
      {"issue": {"issue-date": "1930-06-07", "volume": "85", "number": "23"},
       "title": "She Should Have Told Him",
-      "title-note": "Title as given in CCE renewal record.  FictionMags gives title as 'Should She Have Told Him?' We have not examined the issue in question.",
+      "note": "Title as given in CCE renewal record.  FictionMags gives title as 'Should She Have Told Him?' We have not examined the issue in question.",
       "author": {
          "authorized": "Cary, Lucian, 1886-1971",
          "lcna": "no90003387"
@@ -2554,7 +2554,7 @@
      },
      {"issue": {"issue-date": "1930-07-05", "volume": "86", "number": "1"},
       "title": "A Waiter in Tony's",
-      "title-note": "Title as given on issue cover.  The CCE renewal record gives the title as 'A Waiter at Tony's'.",
+      "note": "Title as given on issue cover.  The CCE renewal record gives the title as 'A Waiter at Tony's'.",
       "author": {
          "authorized": "Connell, Richard Edward, 1893-1949",
          "lcna": "n50028704"
@@ -3490,6 +3490,14 @@
        }
      },
      {"issue": {"issue-date": "1931-06-13", "volume": "87", "number": "24"},
+       "title": "The Wrong Wife",
+       "title-note": "part 1 of 12",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1931-06-13", "volume": "87", "number": "24"},
        "title": "The Social Secretary",
        "title-note": "part 5 of 5",
        "author": {
@@ -3519,6 +3527,22 @@
        "lcna": "n88172670"
       }
      },
+     {"issue": {"issue-date": "1931-06-20", "volume": "87", "number": "25"},
+       "title": "The Wrong Wife",
+       "title-note": "part 2 of 12",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1931-06-27", "volume": "87", "number": "26"},
+       "title": "The Wrong Wife",
+       "title-note": "part 3 of 12",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
      {"issue": {"issue-date": "1931-07-04", "volume": "88", "number": "1"},
       "title": "The Medicine Girl",
       "title-note": "part 1 of 5",
@@ -3534,6 +3558,14 @@
        "lcna": "n79065126"
       }
      },
+     {"issue": {"issue-date": "1931-07-04", "volume": "88", "number": "1"},
+       "title": "The Wrong Wife",
+       "title-note": "part 4 of 12",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
      {"issue": {"issue-date": "1931-07-11", "volume": "88", "number": "2"},
       "title": "Room for Two",
       "author": {
@@ -3542,11 +3574,27 @@
       }
      },
      {"issue": {"issue-date": "1931-07-11", "volume": "88", "number": "2"},
+       "title": "The Wrong Wife",
+       "title-note": "part 5 of 12",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1931-07-11", "volume": "88", "number": "2"},
       "title": "The Medicine Girl",
       "title-note": "part 2 of 5",
       "author": {
          "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
          "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1931-07-18", "volume": "88", "number": "3"}, 
+       "title": "The Wrong Wife",
+       "title-note": "part 6 of 12",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
        }
      },
      {"issue": {"issue-date": "1931-07-18", "volume": "88", "number": "3"}, 
@@ -3571,6 +3619,14 @@
          "lcna": "n78089036"
        }
      },
+     {"issue": {"issue-date": "1931-07-25", "volume": "88", "number": "4"}, 
+       "title": "The Wrong Wife",
+       "title-note": "part 7 of 12",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
      {"issue": {"issue-date": "1931-08-01", "volume": "88", "number": "5"},
       "title": "A Look of Scorn",
       "author": {
@@ -3586,11 +3642,51 @@
          "lcna": "n78089036"
        }
      },
+     {"issue": {"issue-date": "1931-08-01", "volume": "88", "number": "5"},
+       "title": "The Wrong Wife",
+       "title-note": "part 8 of 12",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1931-08-08", "volume": "88", "number": "6"},
+       "title": "The Wrong Wife",
+       "title-note": "part 9 of 12",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1931-08-15", "volume": "88", "number": "7"},
+       "title": "The Wrong Wife",
+       "title-note": "part 10 of 12",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1931-08-22", "volume": "88", "number": "8"}, 
+       "title": "The Wrong Wife",
+       "title-note": "part 11 of 12",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
      {"issue": {"issue-date": "1931-08-22", "volume": "88", "number": "8"}, 
       "title": "Secret Sentence",
       "author": {
        "name": "Bernice Brown Brush"
       }
+     },
+     {"issue": {"issue-date": "1931-08-29", "volume": "88", "number": "9"},
+       "title": "The Wrong Wife",
+       "title-note": "part 12 of 12",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
      },
      {"issue": {"issue-date": "1931-08-29", "volume": "88", "number": "9"},
       "title": "Little Queen of Pearls",
@@ -3606,6 +3702,13 @@
          "authorized": "Connell, Richard Edward, 1893-1949",
          "lcna": "n50028704"
        }
+     },
+     {"issue": {"issue-date": "1931-09-05", "volume": "88", "number": "10"},
+      "title": "After You",
+      "author": {
+       "authorized": "Connolly, James B. (James Brendan), 1868-1957",
+       "lcna": "no90002215"
+      }
      },
      {"issue": {"issue-date": "1931-09-12", "volume": "88", "number": "11"},
       "title": "Through the Nose",
@@ -3665,6 +3768,13 @@
        "lcna": "no2007059420"
       }
      },
+     {"issue": {"issue-date": "1931-10-17", "volume": "88", "number": "16"},
+      "title": "When East Goes West",
+      "author": {
+         "authorized": "Russell, John, 1885-1956",
+         "lcna": "no2005032715"
+      }
+     },
      {"issue": {"issue-date": "1931-10-24", "volume": "88", "number": "17"},
       "title": "The Hideaway",
       "note": "CCE renewal record spells author first name 'Lucien'.",
@@ -3681,12 +3791,42 @@
        "lcna": "n00068220"
       }
      },
+     {"issue": {"issue-date": "1931-11-14", "volume": "88", "number": "20"},
+       "title": "Hold 'em, Yale",
+       "author": {
+         "authorized": "Runyon, Damon, 1880-1946",
+         "lcna": "n80049533"
+       }
+     },
      {"issue": {"issue-date": "1931-11-21", "volume": "88", "number": "21"},
        "title": "The Big Pink",
        "title-note": "part 1 of 12",
        "author": {
          "authorized": "Kahler, Hugh MacNair, 1883-1969",
          "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1931-11-21", "volume": "88", "number": "21"},
+       "title": "Poor Little Man",
+       "note": "This contribution was renewed under this title, and again under the title 'Hold-Up', which apparently was an alternate title for the same story.  We are not sure which title was used in this issue. FictionMags gives the title 'Poor Little Man' in its table of contents for this issue.",
+       "author": {
+         "authorized": "Pollock, Channing, 1880-1946",
+         "lcna": "n87914071"
+       }
+     },
+     {"issue": {"issue-date": "1931-11-21", "volume": "88", "number": "21"},
+       "title": "Josef's Wife",
+       "author": {
+         "authorized": "Remarque, Erich Maria, 1898-1970",
+         "lcna": "n84223789"
+       }
+     },
+     {"issue": {"issue-date": "1931-11-28", "volume": "88", "number": "22"},
+       "title": "Annett's Love Story",
+       "note": "Title as spelled in CCE renewal record.  FictionMags spells title as 'Annette's Love Story'. We have not examined the issue in question.",
+       "author": {
+         "authorized": "Remarque, Erich Maria, 1898-1970",
+         "lcna": "n84223789"
        }
      },
      {"issue": {"issue-date": "1931-11-28", "volume": "88", "number": "22"},
@@ -3713,6 +3853,13 @@
       }
      },
      {"issue": {"issue-date": "1931-12-05", "volume": "88", "number": "23"},
+       "title": "The Strange Fate of Johann Bartok",
+       "author": {
+         "authorized": "Remarque, Erich Maria, 1898-1970",
+         "lcna": "n84223789"
+       }
+     },
+     {"issue": {"issue-date": "1931-12-05", "volume": "88", "number": "23"},
        "title": "The Big Pink",
        "title-note": "part 3 of 12",
        "author": {
@@ -3726,6 +3873,13 @@
        "authorized": "Hopper, James, 1876-1956",
        "lcna": "n00068220"
       }
+     },
+     {"issue": {"issue-date": "1931-12-12", "volume": "88", "number": "24"},
+       "title": "Maybe a Queen",
+       "author": {
+         "authorized": "Runyon, Damon, 1880-1946",
+         "lcna": "n80049533"
+       }
      },
      {"issue": {"issue-date": "1931-12-12", "volume": "88", "number": "24"},
        "title": "The Big Pink",
@@ -3780,12 +3934,40 @@
        }
      },
      {"issue": {"issue-date": "1932-01-02", "volume": "89", "number": "1"},
+      "title": "The Turkish Yataghan",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1932-01-02", "volume": "89", "number": "1"},
        "title": "The Big Pink",
        "title-note": "part 7 of 12",
        "author": {
          "authorized": "Kahler, Hugh MacNair, 1883-1969",
          "lcna": "no96006587"
        }
+     },
+     {"issue": {"issue-date": "1932-01-02", "volume": "89", "number": "1"},
+      "title": "Something Appalling",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1932-01-09", "volume": "89", "number": "2"},
+       "title": "For a Pal",
+       "author": {
+         "authorized": "Runyon, Damon, 1880-1946",
+         "lcna": "n80049533"
+       }
+     },
+     {"issue": {"issue-date": "1932-01-09", "volume": "89", "number": "2"},
+      "title": "Like a Gloucesterman",
+      "author": {
+       "authorized": "Connolly, James B. (James Brendan), 1868-1957",
+       "lcna": "no90002215"
+      }
      },
      {"issue": {"issue-date": "1932-01-09", "volume": "89", "number": "2"},
        "title": "The Big Pink",
@@ -3794,13 +3976,1051 @@
          "authorized": "Kahler, Hugh MacNair, 1883-1969",
          "lcna": "no96006587"
        }
+     },
+     {"issue": {"issue-date": "1932-01-16", "volume": "89", "number": "3"},
+      "title": "Red and Ted",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1932-01-16", "volume": "89", "number": "3"},
+       "title": "The Big Pink",
+       "title-note": "part 9 of 12",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1932-01-23", "volume": "89", "number": "4"},
+      "title": "Light of Atlantis",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1932-01-23", "volume": "89", "number": "4"},
+       "title": "The Big Pink",
+       "title-note": "part 10 of 12",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1932-01-30", "volume": "89", "number": "5"},
+       "title": "Broadway Financier",
+       "author": {
+         "authorized": "Runyon, Damon, 1880-1946",
+         "lcna": "n80049533"
+       }
+     },
+     {"issue": {"issue-date": "1932-01-30", "volume": "89", "number": "5"},
+       "title": "The Big Pink",
+       "title-note": "part 11 of 12",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1932-01-30", "volume": "89", "number": "5"},
+      "title": "Sure to Love",
+      "note": "Title as given in CCE renewal record. FictionMags gives title as 'Sure to Lose'. We have not examined the issue ourselves.",
+      "author": {
+         "authorized": "Cary, Lucian, 1886-1971",
+         "lcna": "no90003387"
+       }
+     },
+     {"issue": {"issue-date": "1932-02-06", "volume": "89", "number": "6"},
+       "title": "The Big Pink",
+       "title-note": "part 12 of 12",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1932-02-06", "volume": "89", "number": "6"},
+      "title": "The Owl",
+      "author": {
+       "authorized": "Farnol, Jeffery, 1878-1952",
+       "lcna": "n50011921"
+      }
+     },
+     {"issue": {"issue-date": "1932-02-13", "volume": "89", "number": "7"},
+      "title": "The Gracious Lady",
+      "title-note": "part 1 of 12",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1932-02-13", "volume": "89", "number": "7"},
+      "title": "Brandon's Folly",
+      "note": "Title as given in CCE renewal record. FictionMags gives title as 'Brandow's Folly'. We have not examined the issue ourselves.",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1932-02-20", "volume": "89", "number": "8"},
+      "title": "The Strange Attacks on Mr. Hoover",
+      "author": {
+       "authorized": "Train, Arthur, 1875-1945",
+       "lcna": "n50014661"
+      }
+     },
+     {"issue": {"issue-date": "1932-02-20", "volume": "89", "number": "8"},
+      "title": "The Gracious Lady",
+      "title-note": "part 2 of 12",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1932-02-20", "volume": "89", "number": "8"},
+      "title": "Hole in One",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1932-02-27", "volume": "89", "number": "9"},
+      "title": "Unguarded Queen",
+      "title-note": "part 1 of 12",
+      "author": {
+       "authorized": "Train, Arthur, 1875-1945",
+       "lcna": "n50014661"
+      }
+     },
+     {"issue": {"issue-date": "1932-02-27", "volume": "89", "number": "9"},
+       "title": "Swashbuckler",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1932-02-27", "volume": "89", "number": "9"},
+      "title": "The Gracious Lady",
+      "title-note": "part 3 of 12",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1932-03-05", "volume": "89", "number": "10"},
+      "title": "Unguarded Queen",
+      "title-note": "part 2 of 12",
+      "author": {
+       "authorized": "Train, Arthur, 1875-1945",
+       "lcna": "n50014661"
+      }
+     },
+     {"issue": {"issue-date": "1932-03-05", "volume": "89", "number": "10"},
+      "title": "Don't Tell the Boy",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1932-03-05", "volume": "89", "number": "10"},
+      "title": "The Gracious Lady",
+      "title-note": "part 4 of 12",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1932-03-12", "volume": "89", "number": "11"},
+      "title": "Unguarded Queen",
+      "title-note": "part 3 of 12",
+      "author": {
+       "authorized": "Train, Arthur, 1875-1945",
+       "lcna": "n50014661"
+      }
+     },
+     {"issue": {"issue-date": "1932-03-12", "volume": "89", "number": "11"},
+      "title": "The Gracious Lady",
+      "title-note": "part 5 of 12",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1932-03-19", "volume": "89", "number": "12"},
+      "title": "Unguarded Queen",
+      "title-note": "part 4 of 12",
+      "author": {
+       "authorized": "Train, Arthur, 1875-1945",
+       "lcna": "n50014661"
+      }
+     },
+     {"issue": {"issue-date": "1932-03-19", "volume": "89", "number": "12"},
+      "title": "The Gracious Lady",
+      "title-note": "part 6 of 12",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1932-03-19", "volume": "89", "number": "12"},
+       "title": "Divided We Fall",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1932-03-19", "volume": "89", "number": "12"},
+      "title": "The Cat's Away",
+      "author": {
+         "authorized": "Cary, Lucian, 1886-1971",
+         "lcna": "no90003387"
+       }
+     },
+     {"issue": {"issue-date": "1932-03-26", "volume": "89", "number": "13"},
+       "title": "Little Miss Marker",
+       "author": {
+         "authorized": "Runyon, Damon, 1880-1946",
+         "lcna": "n80049533"
+       }
+     },
+     {"issue": {"issue-date": "1932-03-26", "volume": "89", "number": "13"},
+      "title": "Unguarded Queen",
+      "title-note": "part 5 of 12",
+      "author": {
+       "authorized": "Train, Arthur, 1875-1945",
+       "lcna": "n50014661"
+      }
+     },
+     {"issue": {"issue-date": "1932-03-26", "volume": "89", "number": "13"},
+      "title": "The Gracious Lady",
+      "title-note": "part 7 of 12",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1932-03-26", "volume": "89", "number": "13"},
+      "title": "A Dog's Chance",
+      "note": "Title as given in CCE renewal record. FictionMags gives the title of a Farnol story in this issue as 'Not Much to Look At'. A story with the title 'A Dog's Chance' does appear in a later book of short stories by Farnol; we have not checked to see if it is the same story under a different title.",
+      "author": {
+       "authorized": "Farnol, Jeffery, 1878-1952",
+       "lcna": "n50011921"
+      }
+     },
+     {"issue": {"issue-date": "1932-04-02", "volume": "89", "number": "14"},
+      "title": "They're All That Way",
+      "author": {
+         "authorized": "Cary, Lucian, 1886-1971",
+         "lcna": "no90003387"
+       }
+     },
+     {"issue": {"issue-date": "1932-04-02", "volume": "89", "number": "14"},
+      "title": "Unguarded Queen",
+      "title-note": "part 6 of 12",
+      "author": {
+       "authorized": "Train, Arthur, 1875-1945",
+       "lcna": "n50014661"
+      }
+     },
+     {"issue": {"issue-date": "1932-04-02", "volume": "89", "number": "14"},
+      "title": "The Gracious Lady",
+      "title-note": "part 8 of 12",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1932-04-09", "volume": "89", "number": "15"},
+      "title": "Instrument of Providence",
+      "author": {
+       "authorized": "Tarkington, Booth, 1869-1946",
+       "lcna": "n79078124"
+      }
+     },
+     {"issue": {"issue-date": "1932-04-09", "volume": "89", "number": "15"},
+      "title": "Unguarded Queen",
+      "title-note": "part 7 of 12",
+      "author": {
+       "authorized": "Train, Arthur, 1875-1945",
+       "lcna": "n50014661"
+      }
+     },
+     {"issue": {"issue-date": "1932-04-09", "volume": "89", "number": "15"},
+      "title": "The Gracious Lady",
+      "title-note": "part 9 of 12",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1932-04-16", "volume": "89", "number": "16"},
+      "title": "Unguarded Queen",
+      "title-note": "part 8 of 12",
+      "author": {
+       "authorized": "Train, Arthur, 1875-1945",
+       "lcna": "n50014661"
+      }
+     },
+     {"issue": {"issue-date": "1932-04-16", "volume": "89", "number": "16"},
+      "title": "The Gracious Lady",
+      "title-note": "part 10 of 12",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1932-04-23", "volume": "89", "number": "17"},
+      "title": "The Spirit of the Black Hawk",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1932-04-23", "volume": "89", "number": "17"},
+      "title": "The Gracious Lady",
+      "title-note": "part 11 of 12",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1932-04-23", "volume": "89", "number": "17"},
+      "title": "Unguarded Queen",
+      "title-note": "part 9 of 12",
+      "author": {
+       "authorized": "Train, Arthur, 1875-1945",
+       "lcna": "n50014661"
+      }
+     },
+     {"issue": {"issue-date": "1932-04-30", "volume": "89", "number": "18"},
+      "title": "Perilous Strands",
+      "author": {
+       "authorized": "Tarkington, Booth, 1869-1946",
+       "lcna": "n79078124"
+      }
+     },
+     {"issue": {"issue-date": "1932-04-30", "volume": "89", "number": "18"},
+      "title": "Unguarded Queen",
+      "title-note": "part 10 of 12",
+      "author": {
+       "authorized": "Train, Arthur, 1875-1945",
+       "lcna": "n50014661"
+      }
+     },
+     {"issue": {"issue-date": "1932-04-30", "volume": "89", "number": "18"},
+      "title": "The Gracious Lady",
+      "title-note": "part 12 of 12",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1932-05-07", "volume": "89", "number": "19"},
+      "title": "The Mask of Fu Manchu",
+      "title-note": "part 1 of 12",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1932-05-07", "volume": "89", "number": "19"},
+      "title": "Nightgown",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1932-05-07", "volume": "89", "number": "19"},
+      "title": "One More River",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1932-05-07", "volume": "89", "number": "19"},
+      "title": "Unguarded Queen",
+      "title-note": "part 11 of 12",
+      "author": {
+       "authorized": "Train, Arthur, 1875-1945",
+       "lcna": "n50014661"
+      }
+     },
+     {"issue": {"issue-date": "1932-05-14", "volume": "89", "number": "20"},
+      "title": "The Mask of Fu Manchu",
+      "title-note": "part 2 of 12",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1932-05-14", "volume": "89", "number": "20"},
+      "title": "Unguarded Queen",
+      "title-note": "part 12 of 12",
+      "author": {
+       "authorized": "Train, Arthur, 1875-1945",
+       "lcna": "n50014661"
+      }
+     },
+     {"issue": {"issue-date": "1932-05-21", "volume": "89", "number": "21"},
+      "title": "Hot Water",
+      "title-note": "part 1 of 12",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1932-05-21", "volume": "89", "number": "21"},
+      "title": "The Mask of Fu Manchu",
+      "title-note": "part 3 of 12",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1932-05-21", "volume": "89", "number": "21"},
+      "title": "The Happy Worrier",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1932-05-28", "volume": "89", "number": "22"},
+      "title": "A Present for Patricia",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1932-05-28", "volume": "89", "number": "22"},
+      "title": "Hot Water",
+      "title-note": "part 2 of 12",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1932-05-28", "volume": "89", "number": "22"},
+      "title": "The Mask of Fu Manchu",
+      "title-note": "part 4 of 12",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1932-06-04", "volume": "89", "number": "23"},
+      "title": "What Happened to Philip Hope",
+      "note": "Title as given in CCE renewal record. FictionMags gives title as 'What Happened to Philip Home'. We have not examined the issue ourselves.",
+      "author": {
+         "authorized": "Cary, Lucian, 1886-1971",
+         "lcna": "no90003387"
+       }
+     },
+     {"issue": {"issue-date": "1932-06-04", "volume": "89", "number": "23"},
+       "title": "By Request",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1932-06-04", "volume": "89", "number": "23"},
+      "title": "Hot Water",
+      "title-note": "part 3 of 12",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1932-06-04", "volume": "89", "number": "23"},
+      "title": "The Mask of Fu Manchu",
+      "title-note": "part 5 of 12",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1932-06-04", "volume": "89", "number": "23"},
+      "title": "Lucy Ann's Chair",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1932-06-11", "volume": "89", "number": "24"},
+       "title": "Dream Street Rose",
+       "author": {
+         "authorized": "Runyon, Damon, 1880-1946",
+         "lcna": "n80049533"
+       }
+     },
+     {"issue": {"issue-date": "1932-06-11", "volume": "89", "number": "24"},
+      "title": "Steak With Onions",
+      "author": {
+         "authorized": "Cary, Lucian, 1886-1971",
+         "lcna": "no90003387"
+       }
+     },
+     {"issue": {"issue-date": "1932-06-11", "volume": "89", "number": "24"},
+      "title": "The Mask of Fu Manchu",
+      "title-note": "part 6 of 12",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1932-06-11", "volume": "89", "number": "24"},
+      "title": "Hot Water",
+      "title-note": "part 4 of 12",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1932-06-18", "volume": "89", "number": "25"},
+      "title": "The Bravo",
+      "author": {
+       "authorized": "Tarkington, Booth, 1869-1946",
+       "lcna": "n79078124"
+      }
+     },
+     {"issue": {"issue-date": "1932-06-18", "volume": "89", "number": "25"},
+      "title": "Hot Water",
+      "title-note": "part 5 of 12",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1932-06-18", "volume": "89", "number": "25"},
+      "title": "One of These Days",
+      "note": "Title as given in CCE renewal record. FictionMags gives title as 'One of Those Days'. We have not examined the issue ourselves.",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1932-06-18", "volume": "89", "number": "25"},
+      "title": "The Mask of Fu Manchu",
+      "title-note": "part 7 of 12",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1932-06-25", "volume": "89", "number": "26"},
+      "title": "Asleep on the Deep",
+      "author": {
+       "authorized": "Hopper, James, 1876-1956",
+       "lcna": "n00068220"
+      }
+     },
+     {"issue": {"issue-date": "1932-06-25", "volume": "89", "number": "26"},
+      "title": "Hot Water",
+      "title-note": "part 6 of 12",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1932-06-25", "volume": "89", "number": "26"},
+      "title": "The Mask of Fu Manchu",
+      "title-note": "part 8 of 12",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1932-07-02", "volume": "90", "number": "1"},
+       "title": "The Candidate",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1932-07-02", "volume": "90", "number": "1"},
+      "title": "The Mask of Fu Manchu",
+      "title-note": "part 9 of 12",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1932-07-02", "volume": "90", "number": "1"},
+      "title": "Hot Water",
+      "title-note": "part 7 of 12",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1932-07-09", "volume": "90", "number": "2"},
+       "title": "Old Friends Meet at Dinner",
+       "author": {
+         "authorized": "Marquis, Don, 1878-1937",
+         "lcna": "n50041532"
+       }
+     },
+     {"issue": {"issue-date": "1932-07-09", "volume": "90", "number": "2"},
+      "title": "The Mask of Fu Manchu",
+      "title-note": "part 10 of 12",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1932-07-09", "volume": "90", "number": "2"},
+      "title": "Cloud's on the Circle-P",
+       "note": "Title as punctuated in CCE renewal record.  FictionMags gives title as 'Clouds on the Circle-P'. We have not examined the issue in question.",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1932-07-09", "volume": "90", "number": "2"},
+      "title": "Hot Water",
+      "title-note": "part 8 of 12",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1932-07-16", "volume": "90", "number": "3"},
+      "title": "The End of Adventure",
+      "author": {
+       "authorized": "Dawson, Coningsby, 1883-1959",
+       "lcna": "n83230982"
+      }
+     },
+     {"issue": {"issue-date": "1932-07-16", "volume": "90", "number": "3"},
+      "title": "Hot Water",
+      "title-note": "part 9 of 12",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1932-07-16", "volume": "90", "number": "3"},
+      "title": "The Mask of Fu Manchu",
+      "title-note": "part 11 of 12",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1932-07-16", "volume": "90", "number": "3"},
+      "title": "Crumbs",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1932-07-23", "volume": "90", "number": "4"},
+      "title": "Found Out",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1932-07-23", "volume": "90", "number": "4"},
+      "title": "Hot Water",
+      "title-note": "part 10 of 12",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1932-07-23", "volume": "90", "number": "4"},
+      "title": "The Mask of Fu Manchu",
+      "title-note": "part 12 of 12",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1932-07-30", "volume": "90", "number": "5"},
+      "title": "Wife for Sale",
+      "title-note": "part 1 of 10",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1932-07-30", "volume": "90", "number": "5"},
+      "title": "No Way to Win a Girl",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1932-07-30", "volume": "90", "number": "5"},
+      "title": "Hot Water",
+      "title-note": "part 11 of 12",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1932-07-30", "volume": "90", "number": "5"},
+      "title": "Let's Be Crazy",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1932-08-06", "volume": "90", "number": "6"},
+      "title": "Men Don't Understand",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1932-08-06", "volume": "90", "number": "6"},
+      "title": "Wife for Sale",
+      "title-note": "part 2 of 10",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1932-08-06", "volume": "90", "number": "6"},
+       "title": "The Last Thing",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1932-08-06", "volume": "90", "number": "6"},
+      "title": "Hot Water",
+      "title-note": "part 12 of 12",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1932-08-13", "volume": "90", "number": "7"},
+      "title": "The Frightened Lady",
+      "title-note": "part 1 of 10",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1932-08-13", "volume": "90", "number": "7"},
+      "title": "The Girl Without It",
+      "author": {
+         "authorized": "Cary, Lucian, 1886-1971",
+         "lcna": "no90003387"
+       }
+     },
+     {"issue": {"issue-date": "1932-08-13", "volume": "90", "number": "7"},
+      "title": "Wife for Sale",
+      "title-note": "part 3 of 10",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1932-08-20", "volume": "90", "number": "8"},
+      "title": "The Frightened Lady",
+      "title-note": "part 2 of 10",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1932-08-20", "volume": "90", "number": "8"},
+      "title": "Wife for Sale",
+      "title-note": "part 4 of 10",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1932-08-27", "volume": "90", "number": "9"},
+      "title": "Wife for Sale",
+      "title-note": "part 5 of 10",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1932-08-27", "volume": "90", "number": "9"},
+      "title": "The Frightened Lady",
+      "title-note": "part 3 of 10",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1932-09-03", "volume": "90", "number": "10"},
+      "title": "They Couldn't Be Friends",
+      "author": {
+         "authorized": "Cary, Lucian, 1886-1971",
+         "lcna": "no90003387"
+       }
+     },
+     {"issue": {"issue-date": "1932-09-03", "volume": "90", "number": "10"},
+       "title": "A Social Conspiracy",
+       "author": {
+         "authorized": "Marquis, Don, 1878-1937",
+         "lcna": "n50041532"
+       }
+     },
+     {"issue": {"issue-date": "1932-09-03", "volume": "90", "number": "10"},
+      "title": "Wife for Sale",
+      "title-note": "part 6 of 10",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1932-09-03", "volume": "90", "number": "10"},
+      "title": "The Frightened Lady",
+      "title-note": "part 4 of 10",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1932-09-10", "volume": "90", "number": "11"},
+      "title": "The Frightened Lady",
+      "title-note": "part 5 of 10",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1932-09-10", "volume": "90", "number": "11"},
+      "title": "Wife for Sale",
+      "title-note": "part 7 of 10",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1932-09-10", "volume": "90", "number": "11"},
+      "title": "Life Watch",
+      "author": {
+       "authorized": "Case, Robert Ormond, 1895-1964",
+       "lcna": "no95027451"
+      }
+     },
+     {"issue": {"issue-date": "1932-09-17", "volume": "90", "number": "12"},
+       "title": "Take Your Punishment",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1932-09-17", "volume": "90", "number": "12"},
+      "title": "The Frightened Lady",
+      "title-note": "part 6 of 10",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1932-09-17", "volume": "90", "number": "12"},
+      "title": "Wife for Sale",
+      "title-note": "part 8 of 10",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1932-09-24", "volume": "90", "number": "13"},
+      "title": "Don't Tell My Wife",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1932-09-24", "volume": "90", "number": "13"},
+      "title": "Wife for Sale",
+      "title-note": "part 9 of 10",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1932-09-24", "volume": "90", "number": "13"},
+      "title": "The Frightened Lady",
+      "title-note": "part 7 of 10",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1932-10-01", "volume": "90", "number": "14"},
+      "title": "The Girl Who Made Good",
+      "author": {
+         "authorized": "Duganne, Phyllis, 1899-1976",
+         "lcna": "n90719514"
+      }
+     },
+     {"issue": {"issue-date": "1932-10-01", "volume": "90", "number": "14"},
+      "title": "Wife for Sale",
+      "title-note": "part 10 of 10",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1932-10-01", "volume": "90", "number": "14"},
+      "title": "The Frightened Lady",
+      "title-note": "part 8 of 10",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1932-10-08", "volume": "90", "number": "15"},
+      "title": "The Frightened Lady",
+      "title-note": "part 9 of 10",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1932-10-15", "volume": "90", "number": "16"},
+       "title": "Be Your Age",
+       "author": {
+         "authorized": "Marquis, Don, 1878-1937",
+         "lcna": "n50041532"
+       }
+     },
+     {"issue": {"issue-date": "1932-10-15", "volume": "90", "number": "16"},
+      "title": "The Frightened Lady",
+      "title-note": "part 10 of 10",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1932-10-22", "volume": "90", "number": "17"},
+       "title": "A Financial Deal",
+       "author": {
+         "authorized": "Marquis, Don, 1878-1937",
+         "lcna": "n50041532"
+       }
+     },
+     {"issue": {"issue-date": "1932-10-22", "volume": "90", "number": "17"},
+      "title": "So This is the Underworld",
+      "author": {
+         "authorized": "Cary, Lucian, 1886-1971",
+         "lcna": "no90003387"
+       }
+     },
+     {"issue": {"issue-date": "1932-10-29", "volume": "90", "number": "18"},
+       "title": "Something With a Kick",
+       "author": {
+         "authorized": "Marquis, Don, 1878-1937",
+         "lcna": "n50041532"
+       }
+     },
+     {"issue": {"issue-date": "1932-11-05", "volume": "90", "number": "19"},
+       "title": "As a Man Thinketh",
+       "author": {
+         "authorized": "Marquis, Don, 1878-1937",
+         "lcna": "n50041532"
+       }
+     },
+     {"issue": {"issue-date": "1932-11-12", "volume": "90", "number": "20"},
+      "title": "What Can a Father Do",
+      "author": {
+         "authorized": "Cary, Lucian, 1886-1971",
+         "lcna": "no90003387"
+       }
+     },
+     {"issue": {"issue-date": "1932-11-12", "volume": "90", "number": "20"},
+       "title": "No Liberty Without Jails",
+       "author": {
+         "authorized": "Marquis, Don, 1878-1937",
+         "lcna": "n50041532"
+       }
+     },
+     {"issue": {"issue-date": "1932-11-19", "volume": "90", "number": "21"},
+      "title": "The Young Know Best",
+      "author": {
+         "authorized": "Phillips, Teresa Hyde",
+         "lcna": "no2013063407"
+      }
+     },
+     {"issue": {"issue-date": "1932-11-19", "volume": "90", "number": "21"},
+       "title": "In Danger of Office",
+       "author": {
+         "authorized": "Marquis, Don, 1878-1937",
+         "lcna": "n50041532"
+       }
+     },
+     {"issue": {"issue-date": "1932-11-26", "volume": "90", "number": "22"},
+       "title": "On the Up and Up",
+       "author": {
+         "authorized": "Marquis, Don, 1878-1937",
+         "lcna": "n50041532"
+       }
+     },
+     {"issue": {"issue-date": "1932-12-03", "volume": "90", "number": "23"},
+       "title": "The Way of Unrighteousness",
+       "note": "Title as given in CCE renewal record.  FictionMags gives title as 'The Way of the Unrighteous'. We have not examined the issue in question.",
+       "author": {
+         "authorized": "Marquis, Don, 1878-1937",
+         "lcna": "n50041532"
+       }
+     },
+     {"issue": {"issue-date": "1932-12-03", "volume": "90", "number": "23"},
+      "title": "Tip-Off",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1932-12-10", "volume": "90", "number": "24"},
+      "title": "Just to Be Stubborn",
+      "author": {
+         "authorized": "Cary, Lucian, 1886-1971",
+         "lcna": "no90003387"
+       }
+     },
+     {"issue": {"issue-date": "1932-12-10", "volume": "90", "number": "24"},
+       "title": "The Plight of a President",
+       "author": {
+         "authorized": "Marquis, Don, 1878-1937",
+         "lcna": "n50041532"
+       }
+     },
+     {"issue": {"issue-date": "1932-12-17", "volume": "90", "number": "25"},
+       "title": "The Limber Intellect",
+       "author": {
+         "authorized": "Marquis, Don, 1878-1937",
+         "lcna": "n50041532"
+       }
+     },
+     {"issue": {"issue-date": "1932-12-24", "volume": "90", "number": "26"},
+      "title": "Strong Man Wanted",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1932-12-24", "volume": "90", "number": "26"},
+      "title": "Now I've Got You",
+      "author": {
+         "authorized": "Cary, Lucian, 1886-1971",
+         "lcna": "no90003387"
+       }
+     },
+     {"issue": {"issue-date": "1932-12-24", "volume": "90", "number": "26"},
+      "title": "When a Woman Turns Hard",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
      }
    ],
-   "comment": "Pick up with 1959 Jan-Jun contribution renewals.",
+   "comment": "Pick up with 1960 Jan-Jun contribution renewals.",
    "additional-note": "Active contribution renewals are recorded beginning in the 1954 January-June CCE volume, but the earliest renewed contribution is noted in the 1954 July-December volume.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-07-26"
+   "last-updated": "2022-08-07"
 }

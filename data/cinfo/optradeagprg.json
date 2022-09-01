@@ -1,15 +1,17 @@
 {
    "title": "Operation of the Trade Agreements Program",
+   "online": "1",
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
    "additional-note": "This is a US government publication.",
+   "succeeded-by": [{"id": "yearintrade", "note": "The Year in Trade"}],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
    "acknowledgement": 
       "Thanks to Felice Gollotti for copyright research on this title.",
-   "last-updated": "2022-06-13"
+   "last-updated": "2022-08-30"
 }

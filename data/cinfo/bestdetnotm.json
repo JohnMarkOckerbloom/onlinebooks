@@ -1,0 +1,26 @@
+{
+   "title": "Best Detective Novel of the Month",
+   "first-issue":
+     {"cdate": "1942-06-09", "volume": "1", "number": "1"},
+   "first-renewed-issue":
+     {"cdate": "1942-06-09", "volume": "1", "number": "1"},
+   "first-renewed-issue-source": "1977-JulDec",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce",
+   "last-issue":
+     {"cdate": "1942-09-28", "volume": "1", "number": "3"},
+   "succeeded-by":
+      [{"id": "bestdetselect", "note": "Best Detective Selection"}],
+   "renewed-issue-completeness": "active/end",
+   "renewed-issues": [
+     {"cdate": "1942-06-09", "volume": "1", "number": "1"},
+     {"cdate": "1942-08-10", "volume": "1", "number": "2"},
+     {"cdate": "1942-09-28", "volume": "1", "number": "3"}
+   ],
+   "additional-note": "A note in the 1971 CCE Periodicals volume says to 'consult copyright office' for full issue renewal information.  The renewal for the first issue was recorded in the July-December 1977 CCE Periodicals volume, and was filed in 1970.",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2022-08-30"
+}

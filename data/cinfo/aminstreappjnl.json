@@ -1,0 +1,35 @@
+{
+   "title": "American Institute of Real Estate Appraisers Journal",
+   "aka": ["American Institute of Real Estate Appraisers of the National Association of Real Estate Boards Journal",
+          "The Journal of the American Institute of Real Estate Appraisers",
+          "The Journal of the American Institute of Real Estate Appraisers of the National Association of Real Estate Boards"
+   ],
+   "first-issue":
+     {"issue-date": "1932-10", "volume": "1", "number": "1"},
+   "first-renewed-issue":
+     {"issue-date": "1937-10", "volume": "5", "number": "4"},
+   "first-renewed-issue-source": "1965",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce",
+   "last-issue":
+     {"issue-date": "1939-10", "volume": "7", "number": "4"},
+   "succeeded-by": [{"id": "appraisaljnl", "note": "The Appraisal Journal"}],
+   "renewed-issue-completeness": "active/end",
+   "renewed-issues": [
+     {"issue-date": "1937-10", "volume": "5", "number": "4"},
+     {"issue-date": "1938-01", "volume": "6", "number": "1"},
+     {"issue-date": "1938-04", "volume": "6", "number": "2"},
+     {"issue-date": "1938-07", "volume": "6", "number": "3"},
+     {"issue-date": "1938-10", "volume": "6", "number": "4"},
+     {"issue-date": "1939-01", "volume": "7", "number": "1"},
+     {"issue-date": "1939-04", "volume": "7", "number": "2"},
+     {"issue-date": "1939-07", "volume": "7", "number": "3"},
+     {"issue-date": "1939-10", "volume": "7", "number": "4"}
+   ],
+   "additional-note": "Date of last issue based on journal name given in CCE renewal records.  Some Worldcat records have this journal changing its name to 'The Appraisal Journal' in the middle of volume 7, rather than after its end.",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2022-08-28"
+}

@@ -1,17 +1,19 @@
 {
    "title": "American Practitioner and Digest of Treatment",
+   "preceded-by":
+      [{"id": "amerprac1946", "note": "American Practitioner (1946-1949)"}],
    "first-issue":
       {"issue-date": "1950-01", "volume": "1", "number": "1"},
    "first-renewed-issue":
       {"issue-date": "1951-01", "volume": "2", "number": "1"},
    "first-renewed-issue-source": "database",
    "first-renewed-contribution": "none",
-   "first-renewed-contribution-source": "database",
+   "first-renewed-contribution-source": "cce+database",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
    "acknowledgement": 
       "Thanks to Peter Sullivan for copyright research on this title.",
-   "last-updated": "2021-12-20"
+   "last-updated": "2022-08-16"
 }

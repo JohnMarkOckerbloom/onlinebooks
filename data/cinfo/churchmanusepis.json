@@ -7,9 +7,29 @@
    "first-renewed-contribution": 
       {"issue": {"issue-date": "1943-12-15", "volume": "157", "number": "22"}},
    "first-renewed-contribution-source": "1971-JanJun",
+   "see-also": 
+      [{"id": "churchmanuk", 
+        "note": "Churchman (Church Society periodical, 1879-2020)"}],
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1943-12-15", "volume": "157", "number": "22"},
+      "title": "Had I Been One of Those",
+      "author": {
+       "authorized": "Newton, Joseph Fort, 1876-1950",
+       "lcna": "n50006008"
+      }
+     },
+     {"issue": {"issue-date": "1944-04-01", "volume": "158", "number": "7"},
+      "title": "Easter, the Festival of Life",
+      "author": {
+       "authorized": "Newton, Joseph Fort, 1876-1950",
+       "lcna": "n50006008"
+      }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-02-24"
+   "last-updated": "2022-08-01"
 }

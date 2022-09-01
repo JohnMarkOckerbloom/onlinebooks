@@ -338,7 +338,7 @@
      {"issue-date": "1963-12", "volume": "212", "number": "6"},
      {"issue-date": "1964-01", "volume": "213", "number": "1"}
    ],
-   "renewed-contribution-completeness": "active/1943",
+   "renewed-contribution-completeness": "active/1944",
    "renewed-contributions": [
      {"issue": {"issue-date": "1927-02"},
         "title": "Mercury",
@@ -2652,6 +2652,13 @@
          "lcna": "n79008239"
         }
      },
+     {"issue": {"issue-date": "1944-05"},
+        "title": "Night Watch",
+        "author": {
+         "authorized": "Tomlinson, H. M. (Henry Major), 1873-1958",
+         "lcna": "n50016828"
+        }
+     },
      {"issue": {"issue-date": "1944-06"},
         "title": "Surprise",
         "author": {
@@ -2680,11 +2687,23 @@
          "lcna": "n50005603"
         }
      },
-     {"issue": {"issue-date": "1944-11"},
+     {"issue": {"issue-date": "1944-06"},
         "title": "My Formal Education",
         "author": {
          "authorized": "Smith, Elinor Goulding",
          "lcna": "n80156640"
+        }
+     },
+     {"issue": {"issue-date": "1944-06"},
+        "title": "Mark Twain, Business Man: Letters and Memoirs",
+        "title-note": "part 1 of 6",
+        "author": {
+         "authorized": "Twain, Mark, 1835-1910",
+         "lcna": "n79021164"
+        },
+        "editor": {
+         "authorized": "Webster, Samuel Charles",
+         "lcna": "n94088866"
         }
      },
      {"issue": {"issue-date": "1944-07"},
@@ -2701,6 +2720,25 @@
          "lcna": "n87825967"
         }
      },
+     {"issue": {"issue-date": "1944-07"},
+        "title": "Mark Twain, Business Man: Letters and Memoirs",
+        "title-note": "part 2 of 6",
+        "author": {
+         "authorized": "Twain, Mark, 1835-1910",
+         "lcna": "n79021164"
+        },
+        "editor": {
+         "authorized": "Webster, Samuel Charles",
+         "lcna": "n94088866"
+        }
+     },
+     {"issue": {"issue-date": "1944-07"},
+        "title": "My Heart's in My Mouth",
+        "author": {
+         "authorized": "Kimbrough, Emily, 1899-1989",
+         "lcna": "n50048171"
+        }
+     },
      {"issue": {"issue-date": "1944-08"},
         "title": "Preface",
         "author": {
@@ -2715,11 +2753,31 @@
          "lcna": "n87825967"
         }
      },
-     {"issue": {"issue-date": "1944-07"},
+     {"issue": {"issue-date": "1944-08"},
         "title": "First Day Finish",
         "author": {
          "authorized": "West, Jessamyn",
          "lcna": "n79077176"
+        }
+     },
+     {"issue": {"issue-date": "1944-08"},
+        "title": "Mark Twain, Business Man: Letters and Memoirs",
+        "title-note": "part 3 of 6",
+        "author": {
+         "authorized": "Twain, Mark, 1835-1910",
+         "lcna": "n79021164"
+        },
+        "editor": {
+         "authorized": "Webster, Samuel Charles",
+         "lcna": "n94088866"
+        }
+     },
+     {"issue": {"issue-date": "1944-08"},
+        "title": "I Tried to Be a Communist",
+        "title-note": "part 1 of 2",
+        "author": {
+         "authorized": "Wright, Richard, 1908-1960",
+         "lcna": "n80036620"
         }
      },
      {"issue": {"issue-date": "1944-09"},
@@ -2729,11 +2787,62 @@
          "lcna": "n87825967"
         }
      },
+     {"issue": {"issue-date": "1944-09"},
+        "title": "Mark Twain, Business Man: Letters and Memoirs",
+        "title-note": "part 4 of 6",
+        "author": {
+         "authorized": "Twain, Mark, 1835-1910",
+         "lcna": "n79021164"
+        },
+        "editor": {
+         "authorized": "Webster, Samuel Charles",
+         "lcna": "n94088866"
+        }
+     },
+     {"issue": {"issue-date": "1944-09"},
+        "title": "I Tried to Be a Communist",
+        "title-note": "part 2 of 2",
+        "author": {
+         "authorized": "Wright, Richard, 1908-1960",
+         "lcna": "n80036620"
+        }
+     },
+     {"issue": {"issue-date": "1944-10"},
+        "title": "Mark Twain, Business Man: Letters and Memoirs",
+        "title-note": "part 5 of 6",
+        "author": {
+         "authorized": "Twain, Mark, 1835-1910",
+         "lcna": "n79021164"
+        },
+        "editor": {
+         "authorized": "Webster, Samuel Charles",
+         "lcna": "n94088866"
+        }
+     },
+     {"issue": {"issue-date": "1944-10"},
+        "title": "A Forgotten Poet",
+        "author": {
+         "authorized": "Nabokov, Vladimir Vladimirovich, 1899-1977",
+         "lcna": "n81015312"
+        }
+     },
      {"issue": {"issue-date": "1944-11"},
         "title": "How I Acquired My Lack of Poise",
         "author": {
          "authorized": "Smith, Elinor Goulding",
          "lcna": "n80156640"
+        }
+     },
+     {"issue": {"issue-date": "1944-11"},
+        "title": "Mark Twain, Business Man: Letters and Memoirs",
+        "title-note": "part 6 of 6",
+        "author": {
+         "authorized": "Twain, Mark, 1835-1910",
+         "lcna": "n79021164"
+        },
+        "editor": {
+         "authorized": "Webster, Samuel Charles",
+         "lcna": "n94088866"
         }
      },
      {"issue": {"issue-date": "1944-12"},
@@ -2750,6 +2859,135 @@
          "lcna": "n79077176"
         }
      },
+     {"issue": {"issue-date": "1945-01"},
+        "title": "The Ivory Lab",
+        "author": {
+         "authorized": "Barzun, Jacques, 1907-2012",
+         "lcna": "n79135237"
+        }
+     },
+     {"issue": {"issue-date": "1945-01"},
+        "title": "Time and Ebb",
+        "author": {
+         "authorized": "Nabokov, Vladimir Vladimirovich, 1899-1977",
+         "lcna": "n81015312"
+        }
+     },
+     {"issue": {"issue-date": "1945-01"},
+        "title": "Flesh and Blood",
+        "author": {
+         "authorized": "Critchell, Laurence",
+         "lcna": "no2020058974"
+        }
+     },
+     {"issue": {"issue-date": "1945-02"},
+        "title": "Deans Within Deans",
+        "author": {
+         "authorized": "Barzun, Jacques, 1907-2012",
+         "lcna": "n79135237"
+        }
+     },
+     {"issue": {"issue-date": "1945-03"},
+        "title": "Cat's Eye",
+        "author": {
+          "authorized": "Van Druten, John, 1901-1957",
+          "lcna": "n86041327"
+        }
+     },
+     {"issue": {"issue-date": "1945-04"},
+        "title": "Story for the Slicks",
+        "author": {
+         "authorized": "Smith, Elinor Goulding",
+         "lcna": "n80156640"
+        }
+     },
+     {"issue": {"issue-date": "1945-05"}, 
+      "title": "Epithalamion for a Western World",
+      "author": {
+       "authorized": "Coffin, Robert P. Tristram (Robert Peter Tristram), 1892-1955",
+       "lcna": "n50030030"
+      }
+     },
+     {"issue": {"issue-date": "1945-06"}, 
+      "title": "The Egg and I",
+      "title-note": "part 1 of 3",
+      "author": {
+       "authorized": "MacDonald, Betty Bard",
+       "lcna": "n50037446"
+      }
+     },
+     {"issue": {"issue-date": "1945-06"}, 
+        "title": "Emily Dickinson",
+        "author": {
+         "authorized": "Scott, Winfield Townley, 1910-1968",
+         "lcna": "n50005603"
+        }
+     },
+     {"issue": {"issue-date": "1945-07"}, 
+      "title": "The Egg and I",
+      "title-note": "part 2 of 3",
+      "author": {
+       "authorized": "MacDonald, Betty Bard",
+       "lcna": "n50037446"
+      }
+     },
+     {"issue": {"issue-date": "1945-07"}, 
+        "title": "Forgive Me, Stranger",
+        "author": {
+         "authorized": "Scott, Winfield Townley, 1910-1968",
+         "lcna": "n50005603"
+        }
+     },
+     {"issue": {"issue-date": "1945-07"}, 
+        "title": "The Meetinghouse",
+        "author": {
+         "authorized": "West, Jessamyn",
+         "lcna": "n79077176"
+        }
+     },
+     {"issue": {"issue-date": "1945-08"}, 
+      "title": "The Egg and I",
+      "title-note": "part 3 of 3",
+      "author": {
+       "authorized": "MacDonald, Betty Bard",
+       "lcna": "n50037446"
+      }
+     },
+     {"issue": {"issue-date": "1945-09"},
+        "title": "The Buried Leaf",
+        "author": {
+         "authorized": "West, Jessamyn",
+         "lcna": "n79077176"
+        }
+     },
+     {"issue": {"issue-date": "1945-10"}, 
+      "title": "Holy Well",
+      "author": {
+       "authorized": "Coffin, Robert P. Tristram (Robert Peter Tristram), 1892-1955",
+       "lcna": "n50030030"
+      }
+     },
+     {"issue": {"issue-date": "1945-10"},
+        "title": "My Sister and the Three Fat Pigs",
+        "author": {
+         "authorized": "Smith, Elinor Goulding",
+         "lcna": "n80156640"
+        }
+     },
+     {"issue": {"issue-date": "1945-10"},
+        "title": "Saw Gang",
+        "author": {
+         "authorized": "Stegner, Wallace, 1909-1993",
+         "lcna": "n79021163"
+        }
+     },
+     {"issue": {"issue-date": "1945-11"},
+        "title": "Smoked Cheese",
+        "author": {
+         "authorized": "Dahl, Roald",
+         "lcna": "n79055236"
+        }
+     },
      {"issue": {"issue-date": "1959-01"},
         "title": "The Efficacy of Prayer",
         "author": {
@@ -2758,6 +2996,7 @@
         }
      }
    ],
+   "comment": "Pick up contrbutions with 1973.",
    "additional-notes": [
      "Active contribution renewals are recorded beginning in the 1954 July-December CCE volume, but the earliest renewed contribution is noted in the 1955 January-June volume.",
      "A 1971 renewal for the book 'The Little Locksmith' by Katherine Butler Hathaway notes that it was published serially in the Atlantic Monthly from September 1942 to January 1943.  This renewal is likely to be too late to cover the magazine publication; however, there were renewals filed for the magazine issues themselves."
@@ -2766,5 +3005,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-07-11"
+   "last-updated": "2022-08-29"
 }

@@ -9,6 +9,8 @@ my $csvdir = "/home/LIBRARY/ockerblo/bibdata/wikipedia/";
 my $packagedir = "/home/LIBRARY/ockerblo/bookdb/packages/wikipedia/";
 my $hathidir = "/home/LIBRARY/ockerblo/bookdb/packages/hathitrust/";
 
+my $bookdir = "/home/LIBRARY/ockerblo/bookdb/";
+
 my $wikistage = "wikistage";
 my $wikiprod  = "wikidata";
 
@@ -24,6 +26,9 @@ my $maxarticlefilesize = "3000000";
 my $minhathifilesize = "9000000";
 my $maxhathifilesize = "20000000";
 
+my $minbookfilesize = "18000000";
+my $maxbookfilesize = "36000000";
+
 my $csvstage   = "wikipstage.csv";
 my $csvprod    = "wikiperiodicals.csv";
 
@@ -34,6 +39,9 @@ my $hcsvstage   = "wikihathistage.csv";
 #my $hcsvprod    = "wikihathiserials.csv";
 my $hcsvprod    = "wikihathioclcserials.csv";
 #my $hcsvprod    = "wikihathiserial.csv";
+
+my $bcsvstage   = "bookwikiidstage.csv";
+my $bcsvprod    = "bookwikiids.csv";
 
 my $agent = "DeepBackfile/0.1";
 
@@ -106,6 +114,21 @@ WHERE
 GROUP BY ?id ?article ?olbpid ?startdate ?enddate
          ?idLabel ?idDescription
 LIMIT 100000
+!;
+
+$BOOK_QUERY = qq!SELECT DISTINCT ?id ?article
+WHERE
+{
+  ?article schema:about ?id .
+  ?article schema:inLanguage "en" .
+  ?article schema:isPartOf <https://en.wikipedia.org/> .
+  ?id wdt:P31/wdt:P279* wd:Q7725634
+
+  SERVICE wikibase:label
+     { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en" }
+}
+GROUP BY ?id ?article
+LIMIT 300000
 !;
 
 #$HATHI_QUERY = qq!SELECT ?wikidataid ?olbpid ?issn
@@ -260,9 +283,26 @@ sub do_hathi_query {
   exit 0;
 }
 
+sub do_book_query {
+  print "Doing a book query\n";
+  my $bookdata = query_wikidata($agent, $BOOK_QUERY, "csv");
+  my $csvpath = "$bookdir$bcsvstage";
+  writetofile($csvpath, $bookdata);
+  my $ppath = "$bookdir$bcsvprod";
+  if (!shift_file("$csvpath", "$ppath", $minbookfilesize, $maxbookfilesize)) {
+     print STDERR "Didn't like the look of $csvpath\n";
+  }
+  exit 0;
+}
+
+
+
 
 if ($ARGV[0] eq "hathi") {
   do_hathi_query;
+}
+if ($ARGV[0] eq "book") {
+  do_book_query;
 }
 
 my $response = query_wikidata($agent, $COPYRIGHT_ID_QUERY, "json");

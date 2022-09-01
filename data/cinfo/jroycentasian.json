@@ -1,5 +1,9 @@
 {
    "title": "Journal of the Royal Central Asian Society",
+   "preceded-by":
+     [{"id": "jcentasiansoc", "note": "Journal of the Central Asian Society"}],
+   "first-issue":
+      {"issue-date": "1931-07", "volume": "18", "number": "part 3"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
@@ -12,5 +16,5 @@
    },
    "acknowledgement": 
       "Thanks to Felice Gollotti for copyright research on this title.",
-   "last-updated": "2021-12-13"
+   "last-updated": "2021-08-09"
 }

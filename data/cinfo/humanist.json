@@ -1,14 +1,61 @@
 {
    "title": "The Humanist",
+   "online": "1",
    "first-renewed-issue": 
      {"issue-date": "Winter 1946-1947", "volume": "6", "number": "3"},
    "first-renewed-issue-source": "1974",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1942-Winter", "cdate": "1942-12-15"}},
+     {"issue": {"issue-date": "1942-Winter", "volume": "2", "number": "4"}},
    "first-renewed-contribution-source": "1970-JanJun",
+   "renewed-issue-completeness": "active/autorenewals",
+   "renewed-issues": [
+     {"issue-date": "Winter 1946-1947", "volume": "6", "number": "3"},
+     {"issue-date": "1947-Spring", "volume": "6", "number": "4"},
+     {"issue-date": "1947-06", "volume": "7", "number": "1"},
+     {"issue-date": "1947-Autumn", "volume": "7", "number": "2"},
+     {"issue-date": "1947-Winter", "volume": "7", "number": "3"},
+     {"issue-date": "1948-06", "volume": "8", "number": "1"}
+   ],
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1942-Winter", "volume": "2", "number": "4"},
+        "title": "Mater Dolorosa",
+        "author": {
+         "authorized": "Bynner, Witter, 1881-1968",
+         "lcna": "n50032943"
+        }
+     },
+     {"issue": {"issue-date": "1951-October-November", "volume": "11", "number": "5"},
+        "title": "Statement in 'Authors and Humanism'",
+        "author": {
+         "authorized": "Cummings, E. E. (Edward Estlin), 1894-1962",
+         "lcna": "n79038464"
+        }
+     },
+     {"issue": {"issue-date": "1957-November-December", "volume": "17", "number": "6"}, 
+      "title": "Escape Into Reality",
+       "author": {
+         "authorized": "Asimov, Isaac, 1920-1992",
+         "lcna": "n80126289"
+       }
+     },
+     {"issue": {"issue-date": "1961-March-April", "volume": "21", "number": "2"},
+      "title": "Not As Children",
+      "author": {
+         "authorized": "Booth, Philip, 1925-2007",
+         "lcna": "n80057320"
+      }
+     },
+     {"issue": {"issue-date": "1962-September-October", "volume": "22", "number": "5"},
+        "title": "A Sad Story",
+        "author": {
+         "name": "Tim Reynolds"
+        }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-02-15"
+   "last-updated": "2022-08-05"
 }

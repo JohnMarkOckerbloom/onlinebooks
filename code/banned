@@ -1,0 +1,108 @@
+#!/usr/bin/perl
+
+use lib "nlib";
+use lib "/websites/OnlineBooks/nonpublic/lib";
+use CGI;
+use OLBP;
+use OLBP::BannedWork;
+use CGI::Carp qw(fatalsToBrowser);
+use strict;
+
+my $server = "https://onlinebooks.library.upenn.edu";
+my $bandir  = $OLBP::dbdir . "banned/";
+my $workdir = $bandir . "works/";
+my $infodir = $bandir . "info/";
+my $datadir  = $OLBP::dbdir . "indexes/";
+my $hashname = "wdtowp";
+
+my $scriptname = '/webbin/banned/';
+my $default    = $server . $scriptname;
+
+my $wdtowp;
+
+sub startpage {
+  my ($title) = @_;
+  binmode STDOUT, ":utf8";
+  print "Content-type: text/html\n\n";
+  if ($title) {
+    print "<html><head><title>$title</title></head>";
+    print qq!
+<link rel="stylesheet" type="text/css" href="/banned.css" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+!;
+    print "<body>\n";
+    print "<header><h1>$title</h1></header>\n";
+  }
+}
+
+sub endpage {
+  print "</body></html>\n";
+}
+
+sub get_info {
+  my $name = shift;
+  return "" if (!$name || $name =~ /[^a-z0-9\-]/);
+  my $path = $infodir . "$name.html";
+  my $str = "";
+  open my $fh, "< $path" or return "";
+  binmode $fh, ":utf8";
+  while (<$fh>) {
+    $str .= $_;
+  }
+  close $fh;
+  return $str;
+}
+ 
+sub showfrontpage {
+  my $arg = shift;
+  startpage("Read Banned Books");
+  my $str = get_info("main");
+  print $str;
+  endpage();
+  exit 0;
+}
+
+sub show_work {
+  my ($id) = @_;
+  my $fname = "$datadir$hashname.hsh";
+  my $wdhash = new OLBP::Hash(name=>$hashname, filename=>$fname, cache=>1);
+  my $work = new OLBP::BannedWork(dir=>$workdir, id=>$id, wdhash=>$wdhash);
+  my $page;
+  my $title = $work->get_title();
+  if ($title) {
+    $page = $work->display_html();
+  }
+  if ($page) {
+    startpage("Read Banned Books: $title");
+    print $page;
+    endpage();
+  } else {
+    getout();
+  }
+}
+
+sub getout {
+  print "Location: $default\n\n";
+  exit 0;
+}
+
+my $q = new CGI;
+my $argstr = $q->url(-path_info=>1);
+$argstr =~ s/(.*)\/banned\/?//;
+if (!$argstr) {
+  showfrontpage("nothing");
+} 
+
+# validate inputs
+if ($argstr =~ /[^a-zA-Z0-9\-\/]/) {
+  getout();
+}
+
+my @args = split '/', $argstr;
+if ($args[0] eq "work") {
+  show_work($args[1]);
+  exit 0;
+}
+
+getout();
+
