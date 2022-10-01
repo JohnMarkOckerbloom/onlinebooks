@@ -6,9 +6,10 @@ use OLBP;
 my @month = ("January", "February", "March", "April", "May", "June", "July",
              "August", "September", "October", "November", "December");
 
-my $serverurl   = "https://onlinebooks.library.upenn.edu/";
-my $imageprefix = $serverurl . "covers/";
-my $cgiprefix   = $serverurl . "webbin/";
+my $serverurl    = "https://onlinebooks.library.upenn.edu/";
+my $imageprefix  = $serverurl . "covers/";
+my $cgiprefix    = $serverurl . "webbin/";
+my $bannedscript = $cgiprefix . "banned";
 
 my $wpprefix     = "https://en.wikipedia.org/wiki/";
 my $ltworkprefix = "https://www.librarything.com/work/";
@@ -18,6 +19,29 @@ my $bookshopprefix   = "https://bookshop.org/books?";
 my $amazonprefix     = "https://www.amazon.com/s?";
 my $bnprefix         = "https://www.barnesandnoble.com/s/";
 my $bookfinderprefix = "https://www.bookfinder.com/search/?mode=basic&st=sr&ac=qr&lang=any&";
+
+my $states = {
+  'AL' => "Alabama", 'AK' => "Alaska", 'AZ' => "Arizona", 'AR' => "Arkansas",
+  'CA' => "California", 'CO' => "Colorado", 'CT' => "Connecticut",
+  'DE' => "Delaware", 'DC' => "District of Columbia", 'FL' => "Florida",
+  'GA' => "Georgia", 'HI' => "Hawaii",
+  'ID' => "Idaho", 'IL' => "Illinois", 'IN' => "Indiana", 'IA' => "Iowa",
+  'KS' => "Kansas", 'KY' => "Kentucky", 'LA' => "Louisiana",
+  'MD' => "Maryland", 'MA' => "Massachusetts", 'ME' => "Maine",
+  'MI' => "Michigan", 'MS' => "Mississippi", 'MN' => "Minnesota",
+  'MO' => "Missouri", 'MT' => "Montana",
+  'NE' => "Nebraska", 'NV' => "Nevada", 'NH' => "New Hampshire",
+  'NJ' => "New Jersey", 'NM' => "New Mexico",
+  'NY' => "New York",
+  'NC' => "North Carolina", 'ND' => "North Dakota",
+  'OH' => "Ohio", 'OK' => "Oklahoma", 'OR' => "Oregon",
+  'PA' => "Pennsylvania", 'PR' => "Puerto Rico", 'RI' => "Rhode Island",
+  'SC' => "South Carolina", 'SD' => "South Dakota",
+  'TN' => "Tennessee", 'TX' => "Texas", 'UT' => "Utah",
+  'VA' => "Virginia", 'VI' => "Virgin Islands", 'VT' => "Vermont",
+  'WA' => "Washington", "WV" => "West Virginia",
+  "WI" => "Wisconsin", 'WY' => "Wyoming"
+};
 
 sub _readjsonfile {
   my ($self, $path) = @_;
@@ -36,6 +60,7 @@ sub get_json {
   my $fname = $params{filename};
   $fname =~ s/[^A-Za-z0-9\-]//g;     # sanitize input
   my $path = $self->{dir} . $fname . ".json";
+  $self->{title} = $path;
   return $self->_readjsonfile($path);
 }
 
@@ -51,10 +76,8 @@ sub _tabrow {
   return $str;
 }
 
-sub get_title {
-  my ($self, %params) = @_;
-  return $self->{title};
-}
+sub get_id { return shift->{id}};
+sub get_title { return shift->{title}};
 
 sub _isdatesuffix {
   my $s = shift;
@@ -100,6 +123,9 @@ sub _location_string {
   my $str = "";
   my $loccode = "";
   if (ref($location)) { 
+    if ($location->{"name"}) {
+      return $location->{"name"};
+    }
     $loccode = $location->{"code"};
   } else {
     $loccode = $location;
@@ -107,19 +133,34 @@ sub _location_string {
   $str = $loccode;
   if ($loccode eq "US") {
     $str = "United States";
+  } elsif ($loccode =~ /^US-([A-Z][A-Z])(-.*)?/) {
+    my ($statecode, $locality) = ($1, $2);
+    $str = $states->{$statecode};
+    if ($2) {
+      $str = "$locality, $str";
+    }
   } elsif ($loccode eq "IR") {
     $str = "Iran";
   }
   return $str;
 }
 
-# Right now we're only returning the authorized form of a unique author
+# Right now we're only returning the authorized form of an author or editor
 # but we'll get more robust as we need to
 
 sub _first_author {
   my ($self) = @_;
   my $json = $self->{json};
   my $author = $json->{"author"};
+  if (!$author && $json->{"authors"}) {
+    $author = $json->{"authors"}->[0];
+  }
+  if (!$author) {
+    $author = $json->{"editor"};
+  }
+  if (!$author && $json->{"editors"}) {
+    $author = $json->{"editors"}->[0];
+  }
   if ($author) {
     return $author->{"authorized"};
   };
@@ -152,6 +193,10 @@ sub _basic_info_html {
   if ($json->{"author"}) {
     my $authorstr .= $self->_display_person($json->{"author"});
     $str .= $self->_tabrow(attr=>"Author", value=>$authorstr);
+  };
+  if ($json->{"editor"}) {
+    my $authorstr .= $self->_display_person($json->{"editor"});
+    $str .= $self->_tabrow(attr=>"Editor", value=>$authorstr);
   };
   my $firstpub = $json->{"first-published"};
   my $pubstr = "";
@@ -205,9 +250,10 @@ sub _about_html {
   my $wdhash = $self->{wdhash};
   if ($wdhash && $qid) {
     my $article = $wdhash->get_value(key=>$qid);
+    $article ||= $json->{wikipedia};
     if ($article) {
       push @aboutlinks, _about_link_html($article, $wpprefix, "Wikipedia");
-    }
+    } 
   }
   my $ltid = $json->{librarything};
   if ($ltid) {
@@ -326,7 +372,7 @@ sub _book_access_html {
   return $str;
 }
 
-sub _cover_display_html {
+sub cover_display_html {
   my ($self, %params) = @_;
   my $str = "";
   my $json = $self->{json};
@@ -336,18 +382,40 @@ sub _cover_display_html {
   my $filename = $cover->{file};
   my $alt = $cover->{alt};
   my $url = $imageprefix . $filename;
-  $str = qq!<div class="cover-frame">!;
+  my $linkurl = "";
+  my $frameclassstr = "cover-frame";
+  $frameclassstr .= " cover-on-page" if (!$params{brief});
+  $str = qq!<div class="$frameclassstr">!;
   $str .= qq!<div class="cover-image">!;
+  if ($params{link}) {
+    my $id = $self->{id};
+    $linkurl = "$bannedscript/work/$id";
+    $str .= qq!<a href="$linkurl">!;
+  }
   $str .= qq!<img src="$url" alt="$alt">!;
+  if ($params{link}) {
+    $str .= qq!</a>!;
+  }
   $str .= "</div>";
   $str .= qq!<div class="cover-text">!;
-  my $desc = $cover->{description};
-  my $source = $cover->{source};
-  my $sourceurl = $cover->{url};
-  if ($desc) {
-    $str .= qq!$desc (Source: <a href="$sourceurl">$source</a>)!;
-  } else {
-    $str .= qq!Source: <a href="$sourceurl">$source</a>!;
+  if ($params{brief}) {
+    my $title = $self->get_title();
+    my $titlestr = "<cite>$title</cite>";
+    if ($linkurl) {
+      $titlestr = qq!<a href="$linkurl">$titlestr</a>!;
+    }
+    my $authorstr = $self->get_author_summary();
+    $str .= qq!$titlestr<br>by $authorstr!;
+  }
+  else {
+    my $desc = $cover->{description};
+    my $source = $cover->{source};
+    my $sourceurl = $cover->{url};
+    if ($desc) {
+      $str .= qq!$desc (Source: <a href="$sourceurl">$source</a>)!;
+    } else {
+      $str .= qq!Source: <a href="$sourceurl">$source</a>!;
+    }
   }
   $str .= "</div></div>";
   return $str;
@@ -365,10 +433,9 @@ sub _incident_html {
     }
   }
   if ($heading) {
-    $str = "<strong>$heading:</strong> $description";
-  } else {
-    $str = $description;
+    $str = "<strong>$heading:</strong> ";
   }
+  $str .= OLBP::BannedUtils::expand_html_template($description);
   return $str;
 }
 
@@ -381,7 +448,7 @@ sub _documentation_display_html {
   $str = qq!<div class="documentation">!;
   if ($json->{overview}) {
     $str .= qq!<div class="overview">!;
-    $str = $json->{overview};
+    $str .= OLBP::BannedUtils::expand_html_template($json->{overview});
     $str .= qq!</div>!;
   }
   if ($json->{incidents}) {
@@ -397,18 +464,115 @@ sub _documentation_display_html {
   return $str;
 }
 
+sub _category_display_html {
+  my ($self, %params) = @_;
+  my $str = "";
+  my @cats = $self->get_categories(implicit=>1);
+  my @links = ();
+  if (scalar(@cats) > 1) {
+    foreach my $cat (sort @cats) {
+      next if ($cat eq "all");
+      my $url = "$bannedscript/category/$cat";
+      push @links, qq!<a href="$url">$cat</a>!;
+    }
+    $str = "<p><strong>Categories:</strong> " . join(' | ', @links) . "</p>\n";
+  }
+  return $str;
+}
+
 sub display_html {
   my ($self, %params) = @_;
   my $str = "";
   $str .= "<div>";
-  $str .= $self->_cover_display_html();
+  $str .= $self->cover_display_html();
   $str .= $self->_basic_info_html();
   $str .= "</div>";
   $str .= "<br>";
   $str .= $self->_book_access_html();
   $str .= "<hr>\n";
   $str .= $self->_documentation_display_html();
+  $str .= $self->_category_display_html();
   return $str;
+}
+
+sub get_publication_date {
+  my ($self, %params) = @_;
+  my $json = $self->{json};
+  return "" if (!$json);
+  my $fp = $json->{"first-published"};
+  return "" if (!$fp);
+  return $fp->{"date"};
+}
+
+sub get_publication_year {
+  my ($self, %params) = @_;
+  my $date = $self->get_publication_date();
+  if ($date =~ /^(\d\d\d\d)/) {
+    return $1;
+  }
+  return 0;
+}
+
+# returns a quick author/editor/etc. credit for a summary line
+# just doing a quick summary for now
+
+sub get_author_summary {
+  my ($self, %params) = @_;
+  my $json = $self->{json};
+  return "" if (!$json);
+  if ($json->{"author"}) {
+    return $self->_display_person($json->{"author"});
+  }
+  if ($json->{"editor"}) {
+    return $self->_display_person($json->{"editor"}) . " (ed.)";
+  }
+  return "";
+}
+
+sub get_recent_censorship_year {
+  my ($self, %params) = @_;
+  my $json = $self->{json};
+  my $latest = 0;
+  return 0 if (!$json);
+  my $incidents = $json->{"incidents"};
+  foreach my $incident (@{$incidents}) {
+    my $date = $incident->{date};
+    if ($date =~ /^(\d\d\d\d)/) {
+      my $year = $date;
+      if (!$latest || ($year < $latest)) {
+        $latest = $year;
+      }
+    }
+  }
+  return $latest;
+}
+
+sub is_readable_online {
+  my ($self, %params) = @_;
+  my $json = $self->{json};
+  return 0 if (!$json);
+  return 1 if ($json->{"online"} || $json->{"online-work"});
+  return 0;
+}
+
+sub get_categories {
+  my ($self, %params) = @_;
+  my $json = $self->{json};
+  my @categories = ();
+  if ($json && $json->{categories}) { 
+    @categories = @{$json->{categories}};
+  }
+  if ($params{implicit}) {
+    push @categories, "all";
+    if ($self->is_readable_online()) {
+      push @categories, "online";
+    }
+    my $year = $self->get_recent_censorship_year();
+    if ($year && $year > 2010) {
+      push @categories, "recent-censorship";
+    }
+  }
+  return @categories;
 }
 
 sub _initialize {
@@ -416,7 +580,7 @@ sub _initialize {
   $self->{dir} = $params{dir};
   $self->{id} = $params{id};
   $self->{wdhash} = $params{wdhash};
-  $self->{parser} = JSON->new->allow_nonref;
+  $self->{parser} = OLBP::BannedUtils::get_json_parser();
   if ($self->{id}) {
     $self->{json} = $self->get_json(filename=>$self->{id});
   }

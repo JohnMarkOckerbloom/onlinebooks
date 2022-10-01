@@ -9,7 +9,7 @@
    "first-renewed-contribution":
       {"issue": {"issue-date": "1945-11"}},
    "first-renewed-contribution-source": "1973-JanJun",
-   "renewed-issue-completeness": "active/1927",
+   "renewed-issue-completeness": "active/1928",
    "renewed-issues": [
      {"issue-date": "1927-01", "volume": "11", "number": "1"},
      {"issue-date": "1927-02", "volume": "11", "number": "2"},
@@ -36,7 +36,15 @@
      {"issue-date": "1928-09", "volume": "14", "number": "3"},
      {"issue-date": "1928-10", "volume": "14", "number": "4"},
      {"issue-date": "1928-11", "volume": "14", "number": "5"},
-     {"issue-date": "1928-12", "volume": "14", "number": "6"}
+     {"issue-date": "1928-12", "volume": "14", "number": "6"},
+     {"issue-date": "1929-01", "volume": "15", "number": "1",
+      "cdate": "1928-12-31"},
+     {"issue-date": "1929-02", "volume": "15", "number": "2",
+      "cdate": "1929-01-31"},
+     {"issue-date": "1929-03", "volume": "15", "number": "3"},
+     {"issue-date": "1929-04", "volume": "15", "number": "4"},
+     {"issue-date": "1929-05", "volume": "15", "number": "5"},
+     {"issue-date": "1929-06", "volume": "15", "number": "6"}
    ],
    "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
@@ -98,5 +106,5 @@
    },
    "acknowledgement": 
       "Thanks to Peter Sullivan for copyright research on this title.",
-   "last-updated": "2022-01-05"
+   "last-updated": "2022-09-05"
 }

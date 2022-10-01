@@ -1,10 +1,18 @@
 {
    "title": "Journal of the South African Institute of Mining and Metallurgy",
+   "online": "1",
+   "preceded-by":
+      [{"id": "jchemmetminsa",
+        "note": "Journal of the Chemical, Metallurgical and Mining Society of South Africa"}],
    "first-issue": {"issue-date": "1956-08", "volume": "57", "number": "1"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "database",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "database",
+   "last-issue": {"issue-date": "2006-08", "volume": "106", "number": "8"},
+   "succeeded-by":
+      [{"id": "jsrnainstminmet",
+        "note": "Journal of the Southern African Institute of Mining and Metallurgy"}],
    "additional-note": 
       "This is a South African publication. Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US.",
    "responsibility": {
@@ -13,5 +21,5 @@
    },
    "acknowledgement": 
       "Thanks to Felice Gollotti for copyright research on this title.",
-   "last-updated": "2022-01-05"
+   "last-updated": "2022-09-02"
 }

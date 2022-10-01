@@ -146,10 +146,10 @@ sub showpools {
   # print "<li>" . poolsummary($bulkpool, "From a bulk submitter") . "</li></ul>";
   print "<li>" . poolsummary($bulkpool, "From bulk submitters") . "</li></ul>";
   # print "</ul>";
-  print "(Due to the editor's travels, new submissions may not be processed before September.)"
+  # print "(Due to the editor's travels, new submissions may not be processed before September.)"
   # print "(Due to a recently-ended freeze on site updates in June and July, we may take longer than usual to reply as we catch up on submissions.)"
   # print "(New additions may not appear until the next daily update.)"
-  # print "(Most submitters get listings or acknowledgements within a few business days.  Bulk and anonymous submissions may take longer to process, as may submissions for books not in English.)";
+  print "(Most submitters get listings or acknowledgements within a few business days.  Bulk and anonymous submissions may take longer to process, as may submissions for books not in English.)";
 }
 
 # stripspace removes interior newlines, excess spaces, leading and trailing
@@ -294,6 +294,9 @@ sub analyze_form {
   } elsif ($email =~ /\.(bid|top)$/ && $comments =~ /http.*http/) {
     # Most .bid and .top submissions are spam.  This one auto-diverts them
     # to spam if there are 2 or more http links in the comments
+    $pool = new OLBP::SubmissionPool(name=>$spamdir);
+  } elsif ($email =~ /reliable-mail.com/) {
+    # This email address is consistently used in quick spam links
     $pool = new OLBP::SubmissionPool(name=>$spamdir);
   } elsif ($email =~ /email\.tst$/) {
     # A favorite domain of hacking attempts for some reason

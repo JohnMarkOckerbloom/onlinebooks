@@ -1,0 +1,49 @@
+#!/usr/bin/perl
+
+use lib "nlib";
+use OLBP::BannedWork;
+use OLBP::BannedSet;
+
+my $homedir = "/home/LIBRARY/ockerblo/";
+my $banneddir = "$homedir/digital/nonpublic/bookdb/banned/";
+my $bannedworkdir = "$banneddir/works/";
+my $bannedsetdir  = "$banneddir/categories/";
+
+sub banned_work_ids {
+  my @ids = ();
+  opendir DIR, $bannedworkdir or die "Can't open $bannedworkdir";
+  my @files = readdir DIR;
+  foreach my $name (@files) {
+    if ($name =~ /(.*).json$/) {
+      push @ids, $1;
+    }
+  }
+  closedir DIR;
+  return @ids;
+}
+
+sub make_tables {
+  my (@ids) = @_;
+  my $tables = {};
+  foreach my $id (@ids) {
+    my $work = new OLBP::BannedWork(dir=>$bannedworkdir, id=>$id);
+    my @categories = $work->get_categories(implicit=>1);
+    foreach my $category (@categories) {
+      push @{$tables->{$category}}, $work;
+    }
+  }
+  return $tables;
+}
+
+sub write_categories {
+  my ($tables) = @_;
+  foreach my $category (keys %{$tables}) {
+    my $set = new OLBP::BannedSet(dir=>$bannedsetdir,
+                                  id=>$category, works=>$tables->{$category});
+    $set->write_table();
+  }
+}
+
+my @ids = banned_work_ids();
+my $tables = make_tables(@ids);
+write_categories($tables);

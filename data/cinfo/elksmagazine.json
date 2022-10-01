@@ -8,10 +8,17 @@
    "first-renewed-issue": 
      {"issue-date": "1930-09", "volume": "9", "number": "4"},
    "first-renewed-issue-source": "1958-JulDec",
+   "first-autorenewed-issue": 
+     {"issue-date": "1964-02", "volume": "42", "number": "9",
+      "cdate": "1964-01-25"},
    "first-renewed-contribution":
      {"issue": {"issue-date": "1927-02", "volume": "5", "number": "9"}},
    "first-renewed-contribution-source": "1954-JulDec",
-   "renewed-contribution-completeness": "active/1929",
+   "renewed-issue-completeness": "active/autorenewals",
+   "renewed-issues": [
+     {"issue-date": "1930-09", "volume": "9", "number": "4"}
+   ],
+   "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
      {"issue": {"issue-date": "1927-02", "volume": "5", "number": "9"},
       "title": "The Bayonet in the Wall",
@@ -162,11 +169,365 @@
        "authorized": "Benét, Stephen Vincent, 1898-1943",
        "lcna": "n50007691"
       }
+     },
+     {"issue": {"issue-date": "1930-06", "volume": "9", "number": "1"},
+      "title": "There is a Tide",
+      "author": {
+       "authorized": "Davis, Elmer, 1890-1958",
+       "lcna": "n50035523"
+      }
+     },
+     {"issue": {"issue-date": "1930-06", "volume": "9", "number": "1"},
+      "title": "New Wings for America",
+      "author": {
+       "authorized": "Poole, Ernest, 1880-1950",
+       "lcna": "n88071985"
+      }
+     },
+     {"issue": {"issue-date": "1930-06", "volume": "9", "number": "1"},
+      "title": "The Miracle Man of the Turf",
+      "author": {
+       "authorized": "O’Donnell, Jack, 1886-1965",
+       "lcna": "no89005464"
+      }
+     },
+     {"issue": {"issue-date": "1930-09", "volume": "9", "number": "4"},
+      "title": "The Quest of Sir Thomas",
+      "author": {
+       "authorized": "Connolly, James B. (James Brendan), 1868-1957",
+       "lcna": "no90002215"
+      }
+     },
+     {"issue": {"issue-date": "1930-10", "volume": "9", "number": "5"}, 
+      "title": "When is a Playwright?",
+       "author": {
+         "name": "John Chapman"
+       }
+     },
+     {"issue": {"issue-date": "1930-10", "volume": "9", "number": "5"}, 
+        "title": "Pride of India",
+        "authors": [
+           {"authorized": "Peattie, Donald Culross, 1898-1964",
+            "lcna": "n80023580"},
+           {"authorized": "Peattie, Louise Redfield, 1900-1965",
+            "lcna": "no93028235"}
+        ]
+     },
+     {"issue": {"issue-date": "1930-10", "volume": "9", "number": "5"}, 
+      "title": "Adventure",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
+     {"issue": {"issue-date": "1930-12", "volume": "9", "number": "7"},
+      "title": "A Plea for Bad Golf",
+       "author": {
+         "authorized": "Beach, Rex, 1877-1949",
+         "lcna": "n84804866"
+       }
+     },
+     {"issue": {"issue-date": "1931-11", "volume": "10", "number": "6"}, 
+      "title": "Possible Johnny",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
+     {"issue": {"issue-date": "1931-12", "volume": "10", "number": "7"}, 
+      "title": "Present When Needed",
+      "author": {
+         "authorized": "Titus, Harold, 1888-1967",
+         "lcna": "no2008175553"
+      }
+     },
+     {"issue": {"issue-date": "1932-01", "volume": "10", "number": "8"},
+      "title": "Under Northern Stars",
+      "title-note": "part 1 of 5",
+      "author": {
+         "authorized": "Raine, William MacLeod, 1871-1954",
+         "lcna": "n90682348"
+      }
+     },
+     {"issue": {"issue-date": "1932-04", "volume": "10", "number": "11"}, 
+      "title": "Pop Time Plays Ball",
+      "author": {
+         "authorized": "Titus, Harold, 1888-1967",
+         "lcna": "no2008175553"
+      }
+     },
+     {"issue": {"issue-date": "1932-05", "volume": "10", "number": "12"},
+      "title": "Under Northern Stars",
+      "title-note": "part 5 of 5",
+      "author": {
+         "authorized": "Raine, William MacLeod, 1871-1954",
+         "lcna": "n90682348"
+      }
+     },
+     {"issue": {"issue-date": "1932-06", "volume": "11", "number": "1"}, 
+      "title": "Him an' Alexander",
+      "author": {
+         "authorized": "Titus, Harold, 1888-1967",
+         "lcna": "no2008175553"
+      }
+     },
+     {"issue": {"issue-date": "1933-04", "volume": "11", "number": "11"},
+      "title": "All the Brothers Were Keoughs",
+      "author": {
+         "authorized": "Phillips, Teresa Hyde",
+         "lcna": "no2013063407"
+      }
+     },
+     {"issue": {"issue-date": "1933-08", "volume": "12", "number": "3"},
+      "title": "The Razor",
+      "author": {
+       "authorized": "Connolly, James B. (James Brendan), 1868-1957",
+       "lcna": "no90002215"
+      }
+     },
+     {"issue": {"issue-date": "1934-01", "volume": "12", "number": "8"}, 
+      "title": "The Slough Devil",
+      "author": {
+       "authorized": "Kantor, MacKinlay, 1904-1977",
+       "lcna": "n79140979"
+      }
+     },
+     {"issue": {"issue-date": "1934-06", "volume": "13", "number": "1"}, 
+      "title": "Blue Sedan",
+      "author": {
+       "authorized": "Cobb, Irvin S. (Irvin Shrewsbury), 1876-1944",
+       "lcna": "n50032217"
+      }
+     },
+     {"issue": {"issue-date": "1935-03", "volume": "13", "number": "10"},
+      "title": "You Try It",
+      "author": {
+        "authorized": "Gallico, Paul, 1897-1976",
+        "lcna": "n79114016"
+      }
+     },
+     {"issue": {"issue-date": "1935-05", "volume": "13", "number": "12"},
+      "title": "Croix de Guerre",
+      "author": {
+         "authorized": "Phillips, Teresa Hyde",
+         "lcna": "no2013063407"
+      }
+     },
+     {"issue": {"issue-date": "1935-05", "volume": "13", "number": "12"},
+      "title": "Paradise",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1935-11", "volume": "14", "number": "6"},
+      "title": "Reprieve",
+      "author": {
+         "authorized": "Phillips, Teresa Hyde",
+         "lcna": "no2013063407"
+      }
+     },
+     {"issue": {"issue-date": "1935-11", "volume": "14", "number": "6"},
+      "title": "The Ballad of Bill Bozeman",
+      "author": {
+       "authorized": "Upson, William Hazlett, 1891-1975",
+       "lcna": "n90676728"
+      }
+     },
+     {"issue": {"issue-date": "1936-01", "volume": "14", "number": "8"},
+      "title": "Going My Way",
+      "author": {
+         "authorized": "Coxe, George Harmon, 1901-1984",
+         "lcna": "n50017906"
+      }
+     },
+     {"issue": {"issue-date": "1936-07", "volume": "15", "number": "2"},
+      "title": "Face of Stone",
+      "title-note": "part 1 of 2",
+      "author": {
+       "authorized": "Walsh, Maurice, 1879-1964",
+       "lcna": "n85277099"
+      }
+     },
+     {"issue": {"issue-date": "1936-08", "volume": "15", "number": "3"},
+      "title": "Face of Stone",
+      "title-note": "part 2 of 2",
+      "author": {
+       "authorized": "Walsh, Maurice, 1879-1964",
+       "lcna": "n85277099"
+      }
+     },
+     {"issue": {"issue-date": "1936-10", "volume": "15", "number": "5"}, 
+      "title": "The Sheriff Gets the Mail",
+      "author": {
+       "authorized": "Kantor, MacKinlay, 1904-1977",
+       "lcna": "n79140979"
+      }
+     },
+     {"issue": {"issue-date": "1936-11", "volume": "15", "number": "6"},
+      "title": "Thanks for What",
+      "author": {
+         "authorized": "Phillips, Teresa Hyde",
+         "lcna": "no2013063407"
+      }
+     },
+     {"issue": {"issue-date": "1938-09", "volume": "17", "number": "4"},
+      "title": "Ask Me No Questions",
+      "author": {
+         "authorized": "Nebel, Frederick",
+         "lcna": "n80020640"
+      }
+     },
+     {"issue": {"issue-date": "1939-07", "volume": "18", "number": "2"},
+      "title": "Inside Track",
+      "author": {
+         "authorized": "Nostrand, Howard",
+         "lcna": "n80087851"
+      }
+     },
+     {"issue": {"issue-date": "1939-11", "volume": "18", "number": "6"},
+      "title": "Time to Remember",
+      "author": {
+         "authorized": "Phillips, Teresa Hyde",
+         "using": "Fergus Ferguson",
+         "lcna": "no2013063407"
+      }
+     },
+     {"issue": {"issue-date": "1940-09", "volume": "19", "number": "4"},
+      "title": "A Watch and the Wilderness",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1941-12", "volume": "20", "number": "7"},
+      "title": "A Thing to Live For",
+      "author": {
+        "authorized": "Blassingame, Wyatt",
+        "lcna": "n79054083"
+      }
+     },
+     {"issue": {"issue-date": "1942-06", "volume": "21", "number": "1"},
+      "title": "A Man and His Dog",
+      "author": {
+        "authorized": "Beauchamp, D. D. (Daniel D.), 1908-1969",
+        "lcna": "no95008383"
+      }
+     },
+     {"issue": {"issue-date": "1942-08", "volume": "21", "number": "3"},
+      "title": "Satan and Sam Shay",
+      "author": {
+        "authorized": "Arthur, Robert",
+        "lcna": "n79029815"
+      }
+     },
+     {"issue": {"issue-date": "1944-01", "volume": "22", "number": "8"},
+      "title": "Welcome Home Soldier",
+      "author": {
+         "authorized": "Nebel, Frederick",
+         "lcna": "n80020640"
+      }
+     },
+     {"issue": {"issue-date": "1947-01", "volume": "25", "number": "8"},
+      "title": "Back of the Moon",
+      "note": "Title as given in issue.  CCE renewal record gives title as 'Man in the Moon (Back of the Moon)'",
+      "author": {
+        "authorized": "Heinlein, Robert A. (Robert Anson), 1907-1988",
+        "lcna": "n79067868"
+      }
+     },
+     {"issue": {"issue-date": "1950-02", "volume": "28", "number": "9"},
+        "title": "Deep Dive: A Short Story",
+        "author": {
+          "authorized": "Yerkow, Charles, 1912-",
+          "lcna": "n79021029"
+        }
+     },
+     {"issue": {"issue-date": "1950-06", "volume": "29", "number": "1"},
+        "title": "Miami Invites You to Fish",
+        "author": {
+          "authorized": "Wylie, Philip, 1902-1971",
+          "lcna": "n79145476"
+        }
+     },
+     {"issue": {"issue-date": "1951-03", "volume": "29", "number": "10"},
+      "title": "Ami, Go Home!",
+      "authors": [
+         {"authorized": "Ford, Corey, 1902-1969", "lcna": "n50024813"},
+         {"authorized": "Mahurin, Walker M.", "lcna": "n93002498"}
+       ]
+     },
+     {"issue": {"issue-date": "1951-04", "volume": "29", "number": "11"},
+      "title": "You Can Always Tell a Fisherman",
+      "author": {
+         "authorized": "Ford, Corey, 1902-1969",
+         "lcna": "n50024813"
+       }
+     },
+     {"issue": {"issue-date": "1954-01", "volume": "32", "number": "8"},
+        "title": "Wait in the Night: A Short Story",
+        "author": {
+          "authorized": "Yerkow, Charles, 1912-",
+          "lcna": "n79021029"
+        }
+     },
+     {"issue": {"issue-date": "1957-05", "volume": "35", "number": "12"},
+        "title": "Danger Struck: A Short Story",
+        "author": {
+          "authorized": "Yerkow, Charles, 1912-",
+          "lcna": "n79021029"
+        }
+     },
+     {"issue": {"issue-date": "1957-06", "volume": "36", "number": "1"},
+        "title": "Pipe to Big Bill: A Short Story",
+        "author": {
+          "authorized": "Yerkow, Charles, 1912-",
+          "lcna": "n79021029"
+        }
+     },
+     {"issue": {"issue-date": "1958-07", "volume": "37", "number": "2"},
+      "title": "The Impossible Thief",
+       "author": {
+         "authorized": "Cave, Hugh B. (Hugh Barnett), 1910-2004",
+         "lcna": "n86057831"
+       }
+     },
+     {"issue": {"issue-date": "1959-01", "volume": "37", "number": "8"},
+        "title": "Lines of Iron: A Short Story",
+        "note": "Copyright renewal record says this story appeared in the February 1959 issue, but we instead found it in the January 1959 issue.",
+        "author": {
+          "authorized": "Yerkow, Charles, 1912-",
+          "lcna": "n79021029"
+        }
+     },
+     {"issue": {"issue-date": "1960-01", "volume": "38", "number": "8"},
+        "title": "No Bed of Pearls: A Short Story",
+        "note": "Copyright renewal record says this story appeared in the February 1960 issue, but we instead found it in the January 1960 issue.",
+        "author": {
+          "authorized": "Yerkow, Charles, 1912-",
+          "lcna": "n79021029"
+        }
+     },
+     {"issue": {"issue-date": "1962-01", "volume": "40", "number": "8"},
+        "title": "The Man From Sudden",
+        "author": {
+          "authorized": "Alter, Robert Edmond",
+          "lcna": "n50021476"
+        }
+     },
+     {"issue": {"issue-date": "1963-01", "volume": "41", "number": "8"},
+        "title": "Wrangler's Reward",
+        "author": {
+          "authorized": "Alter, Robert Edmond",
+          "lcna": "n50021476"
+        }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-01-10"
+   "last-updated": "2022-09-21"
 }

@@ -701,6 +701,7 @@ sub analyze_form {
       || $title =~ /^About[a-z][a-z][a-z][a-z][a-z]/
       || $title =~ /^cheap /
       || $title =~ / sunglasses /
+      || $title =~ /Unutty/
       || $title =~ /trump vote mask/
       || $title =~ /still.*business/i
       || $title =~ /earn money/i
@@ -720,6 +721,8 @@ sub analyze_form {
       || $comments =~ /gift card/i
       || $comments =~ /freight forwarder/i
       || $comments =~ /sexlovers/i
+      || $comments =~ / robot/i
+      || $comments =~ / AI /i
       || $comments =~ /intimate photo/i
       || $comments =~ /business.*http/i
       || $comments =~ /afflat3e1.com/i

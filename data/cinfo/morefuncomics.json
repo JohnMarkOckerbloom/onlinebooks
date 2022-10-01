@@ -1,10 +1,15 @@
 {
    "title": "More Fun Comics",
-   "aka": ["More Fun", "New Fun"],
+   "aka": ["More Fun"],
+   "online": "1",
    "contents": [
+      {"url": "https://www.comics.org/series/75/",
+       "note": "Grand Comics Database (issues 7-8)"},
       {"url": "https://www.comics.org/series/74/",
-       "note": "Grand Comics Database"}
+       "note": "Grand Comics Database (issues 9-127)"}
    ],
+   "preceded-by": [{"id": "newfun1935", "note": "New Fun"}],
+   "first-issue": {"issue-date": "1936-01", "number": "7"},
    "first-renewed-issue": {"issue-date": "1938-07", "number": "33"},
    "first-renewed-issue-source": "1965",
    "first-renewed-contribution": 
@@ -15,5 +20,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-03-13"
+   "last-updated": "2022-09-30"
 }

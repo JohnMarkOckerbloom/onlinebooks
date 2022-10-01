@@ -21,6 +21,7 @@ my $wikidatafile = $wikidir . "wikiperiodicals.csv";
 #my $hathisummaryfile = "$homedir/bibdata/hathifile/issnsfound";
 my $hathisummaryfile = "$homedir/bibdata/hathifile/serialsfound2";
 my $hathiussummaryfile = "$homedir/bibdata/hathifile/serialsfoundusoclc";
+# my $hathiussummaryfile = "$homedir/bibdata/hathifile/serialsfoundusoclc-old";
 
 my $olbpserial = {};
 my $issnserial = {};

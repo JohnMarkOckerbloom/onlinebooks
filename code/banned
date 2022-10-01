@@ -5,12 +5,16 @@ use lib "/websites/OnlineBooks/nonpublic/lib";
 use CGI;
 use OLBP;
 use OLBP::BannedWork;
+use OLBP::BannedSet;
+use OLBP::BannedUtils;
+use OLBP::BannedCitation;
 use CGI::Carp qw(fatalsToBrowser);
 use strict;
 
 my $server = "https://onlinebooks.library.upenn.edu";
 my $bandir  = $OLBP::dbdir . "banned/";
 my $workdir = $bandir . "works/";
+my $catdir = $bandir . "categories/";
 my $infodir = $bandir . "info/";
 my $datadir  = $OLBP::dbdir . "indexes/";
 my $hashname = "wdtowp";
@@ -25,18 +29,19 @@ sub startpage {
   binmode STDOUT, ":utf8";
   print "Content-type: text/html\n\n";
   if ($title) {
-    print "<html><head><title>$title</title></head>";
+    print "<!DOCTYPE html>\n";
+    print qq!<html lang="en"><head><title>$title</title>!;
     print qq!
 <link rel="stylesheet" type="text/css" href="/banned.css" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 !;
-    print "<body>\n";
+    print "</head><body>\n";
     print "<header><h1>$title</h1></header>\n";
   }
 }
 
 sub endpage {
-  print "</body></html>\n";
+  print qq!<p style="text-align:center"><i>Edited by John Mark Ockerbloom (onlinebook&#115;@&#112;obox.upenn.edu), who is solely responsible for its content.<br><a href="https://onlinebooks.library.upenn.edu/webbin/banned/">Read Banned Books</a> is a featured exhibit of <a href="http://onlinebooks.library.upenn.edu/">The Online Books Page</a> and is subject to its <a href="https://onlinebooks.library.upenn.edu/licenses.html">copyrights and licenses</a>.</i></p></body></html>\n!;
 }
 
 sub get_info {
@@ -52,20 +57,40 @@ sub get_info {
   close $fh;
   return $str;
 }
- 
+
 sub showfrontpage {
   my $arg = shift;
   startpage("Read Banned Books");
   my $str = get_info("main");
-  print $str;
+  print OLBP::BannedUtils::expand_html_template($str);
   endpage();
   exit 0;
 }
+
+sub showinfopage {
+  my $arg = shift;
+  my $str = get_info($arg);
+  my $pagetitle = "";
+  if ($str =~ /{pt:([^}]*)}/) {
+    $pagetitle = $1;
+  }
+  my $title = "Read Banned Books";
+  if ($pagetitle) {
+    $title .= ": $pagetitle";
+  }
+  startpage($title);
+  print OLBP::BannedUtils::expand_html_template($str);
+  endpage();
+  exit 0;
+}
+
 
 sub show_work {
   my ($id) = @_;
   my $fname = "$datadir$hashname.hsh";
   my $wdhash = new OLBP::Hash(name=>$hashname, filename=>$fname, cache=>1);
+  my $cattable = "$catdir$id.tsv";
+  getout() if (! -e ("$workdir" . "$id.json"));
   my $work = new OLBP::BannedWork(dir=>$workdir, id=>$id, wdhash=>$wdhash);
   my $page;
   my $title = $work->get_title();
@@ -81,12 +106,33 @@ sub show_work {
   }
 }
 
+sub show_category {
+  my ($id) = @_;
+  my $cattable = "$catdir$id.tsv";
+  getout() if (! -e $cattable);
+  my $set = new OLBP::BannedSet(dir=>$catdir, id=>$id, workdir=>$workdir);
+  my $page = $set->display_html();
+  my $title = $set->get_title();
+  # Later, add the nicer title from the json file
+  startpage("Read Banned Books: $title");
+  print $page;
+  endpage();
+}
+
+sub show_category_row {
+  my ($id) = @_;
+  my $cattable = "$catdir$id.tsv";
+  getout() if (! -e $cattable);
+  my $set = new OLBP::BannedSet(dir=>$catdir, id=>$id, workdir=>$workdir);
+}
+
 sub getout {
   print "Location: $default\n\n";
   exit 0;
 }
 
 my $q = new CGI;
+srand;
 my $argstr = $q->url(-path_info=>1);
 $argstr =~ s/(.*)\/banned\/?//;
 if (!$argstr) {
@@ -101,6 +147,14 @@ if ($argstr =~ /[^a-zA-Z0-9\-\/]/) {
 my @args = split '/', $argstr;
 if ($args[0] eq "work") {
   show_work($args[1]);
+  exit 0;
+}
+if ($args[0] eq "category") {
+  show_category($args[1]);
+  exit 0;
+}
+if ($args[0] eq "info") {
+  showinfopage($args[1]);
   exit 0;
 }
 
