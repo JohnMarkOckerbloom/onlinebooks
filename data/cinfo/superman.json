@@ -2,8 +2,8 @@
    "title": "Superman",
    "aka": ["Superman Comics", "Superman Quarterly"],
    "see-also": [
-      {"id": "actioncomics",
-       "note": "Action Comics"}
+      {"id": "actioncomics", "note": "Action Comics"},
+      {"id": "supermantim", "note": "Superman-Tim"}
    ],
    "first-issue": {"cdate": "1939-05-13", "number": "1"},
    "first-renewed-issue": {"cdate": "1939-05-13", "number": "1"},
@@ -18,5 +18,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2017-12-29"
+   "last-updated": "2022-10-03"
 }

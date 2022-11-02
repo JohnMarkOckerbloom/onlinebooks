@@ -1,5 +1,6 @@
 {
    "title": "Thrilling Detective",
+   "online": "1",
    "contents": [
       {"url": "http://www.philsp.com/homeville/CFI/link.asp?magid=THD",
        "note": "FictionMags Index"}
@@ -15,6 +16,7 @@
    "first-renewed-contribution-source": "1960-JulDec",
    "last-issue": 
        {"issue-date": "1953-Fall", "volume": "71", "number": "4"}, 
+   "renewed-issue-completeness": "active/end",
    "renewed-issues": [
        {"issue-date": "1935-11", "volume": "16", "number": "3"}, 
        {"issue-date": "1935-12", "volume": "17", "number": "1"}, 
@@ -108,7 +110,46 @@
        {"issue-date": "1943-04", "volume": "47", "number": "1"},
        {"issue-date": "1943-05", "volume": "47", "number": "2"},
        {"issue-date": "1943-06", "volume": "47", "number": "3"},
-       {"issue-date": "1943-07", "volume": "48", "number": "1"}
+       {"issue-date": "1943-07", "volume": "48", "number": "1"},
+       {"issue-date": "1943-08", "volume": "48", "number": "2"},
+       {"issue-date": "1943-09", "volume": "48", "number": "3"},
+       {"issue-date": "1943-10", "volume": "49", "number": "1"},
+       {"issue-date": "1943-11", "volume": "49", "number": "2"},
+       {"issue-date": "1943-12", "volume": "49", "number": "3"},
+       {"issue-date": "1944-01", "volume": "50", "number": "1"},
+       {"issue-date": "1944-02", "volume": "50", "number": "2"},
+       {"issue-date": "1944-03", "volume": "50", "number": "3"},
+       {"issue-date": "1944-04", "volume": "51", "number": "1"},
+       {"issue-date": "1944-05", "volume": "51", "number": "2"},
+       {"issue-date": "1944-06", "volume": "51", "number": "3"},
+       {"issue-date": "1944-07", "volume": "52", "number": "1"},
+       {"issue-date": "1944-08", "volume": "52", "number": "2"},
+       {"issue-date": "1944-09", "volume": "52", "number": "3"},
+       {"issue-date": "1944-10", "volume": "53", "number": "1"},
+       {"issue-date": "1944-11", "volume": "53", "number": "2"},
+       {"issue-date": "1944-12", "volume": "53", "number": "3"},
+       {"issue-date": "1945-01", "volume": "54", "number": "1"},
+       {"issue-date": "1945-02", "volume": "54", "number": "2"},
+       {"issue-date": "1945-03", "volume": "54", "number": "3"},
+       {"issue-date": "1945-04", "volume": "55", "number": "1"},
+       {"issue-date": "1945-05", "volume": "55", "number": "1",
+         "note": "This is the second issue with this number."},
+       {"issue-date": "1945-06", "volume": "55", "number": "2"},
+       {"issue-date": "1945-07", "volume": "56", "number": "1"},
+       {"issue-date": "1945-08", "volume": "56", "number": "2"},
+       {"issue-date": "1945-09", "volume": "56", "number": "3"},
+       {"issue-date": "1945-11", "volume": "57", "number": "1"},
+       {"issue-date": "1946-01", "volume": "57", "number": "2"},
+       {"issue-date": "1946-03", "volume": "57", "number": "3"},
+       {"issue-date": "1946-05", "volume": "58", "number": "1"},
+       {"issue-date": "1946-07", "volume": "58", "number": "2"},
+       {"issue-date": "1946-10", "volume": "58", "number": "3"},
+       {"issue-date": "1946-12", "volume": "59", "number": "1"},
+       {"issue-date": "1947-02", "volume": "59", "number": "2"},
+       {"issue-date": "1947-04", "volume": "59", "number": "3"},
+       {"issue-date": "1947-06", "volume": "60", "number": "1"},
+       {"issue-date": "1947-08", "volume": "60", "number": "2"},
+       {"issue-date": "1947-10", "volume": "60", "number": "3"}
    ],
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
@@ -169,6 +210,76 @@
          "lcna": "n79045202"
       }
      },
+     {"issue": {"issue-date": "1950-08", "volume": "66", "number": "2"},
+      "title": "Quest for a Killer",
+      "note": "There was no renewal filed specifically for this contribution, but it is a reprint of a story that first ran in the Summer 1943 issue of Exciting Detective. That issue has a renewed copyright.",
+      "author": {
+         "authorized": "Daniels, Norman, 1905-1995",
+         "lcna": "n90610296"
+      }
+     },
+     {"issue": {"issue-date": "1950-10", "volume": "66", "number": "3"},
+      "title": "Focus on Murder",
+      "note": "There was no renewal filed specifically for this contribution, but it is a reprint of a story that first ran in the June 1940 issue of Detective Novels. That issue has a renewed copyright.",
+      "author": {
+         "authorized": "Benton, John L.",
+         "lcna": "no95004083"
+      }
+     },
+     {"issue": {"issue-date": "1950-12", "volume": "67", "number": "1"},
+      "title": "Quest for a Killer",
+      "note": "There was no renewal filed specifically for this contribution, but it is a reprint of a story that first ran in the Spring 1942 issue of Exciting Detective. That issue has a renewed copyright.",
+      "author": {
+         "authorized": "Daniels, Norman, 1905-1995",
+         "lcna": "n90610296"
+      }
+     },
+     {"issue": {"issue-date": "1951-02", "volume": "67", "number": "2"},
+      "title": "Sign of the Noose",
+      "note": "There was no renewal filed specifically for this contribution, but it is a reprint of a story that first ran in the February 1942 issue of Detective Novels. That issue has a renewed copyright.",
+      "author": {
+         "name": "Robert Wallace"
+      }
+     },
+     {"issue": {"issue-date": "1951-04", "volume": "67", "number": "3"},
+      "title": "Dying to Meet You",
+      "note": "There was no renewal filed specifically for this contribution, but it is a reprint of a story that first ran in the February 1942 issue of Popular Detective. That issue has a renewed copyright.",
+      "author": {
+         "name": "G. T. Fleming-Roberts"
+      }
+     },
+     {"issue": {"issue-date": "1951-04", "volume": "67", "number": "3"},
+      "title": "Murder Memos",
+      "note": "There was no renewal filed specifically for this contribution, but it is a reprint of a story that first ran in the March 1943 issue of G-Men Detective. That issue has a renewed copyright.",
+      "author": {
+         "authorized": "Archibald, Joe, 1898-",
+         "lcna": "n50023505"
+      }
+     },
+     {"issue": {"issue-date": "1951-06", "volume": "68", "number": "1"},
+      "title": "What Price Murder",
+      "note": "There was no renewal filed specifically for this contribution, but it is an abridged reprint of a novel with a renewed 1942 copyright.",
+      "author": {
+         "authorized": "Adams, Cleve F. (Cleve Franklin), 1895-1949",
+         "lcna": "no93014794"
+      }
+     },
+     {"issue": {"issue-date": "1951-12", "volume": "69", "number": "1"},
+      "title": "Exit This Way",
+      "note": "There was no renewal filed specifically for this contribution, but it is a reprint of a novel with a renewed 1950 copyright.",
+      "author": {
+         "authorized": "Heberden, M. V. (Mary Violet), 1906-1965",
+         "lcna": "n82070360"
+      }
+     },
+     {"issue": {"issue-date": "1951-12", "volume": "69", "number": "1"},
+      "title": "The Farmer Takes a Life",
+      "note": "There was no renewal filed specifically for this contribution, but it is a reprint of a story that first ran in the May 1943 issue of Detective Tales. That issue has a renewed copyright.",
+      "author": {
+         "authorized": "Turner, Robert, 1915-1980",
+         "lcna": "n50050097"
+      }
+     },
      {"issue": {"issue-date": "1953-04", "volume": "71", "number": "2"},
       "title": "The Colonel's Pride",
       "author": {
@@ -185,9 +296,10 @@
       }
      }
    ],
+   "additional-note": "Some early 1950s issues of this magazine include reprints from earlier publications, some of which may still have active copyrights.  We have not systematically surveyed such reprints, but the FictionMags tables of contents will generally note the original publication of a reprinted story.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-11-16"
+   "last-updated": "2022-10-15"
 }

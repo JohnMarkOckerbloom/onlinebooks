@@ -716,13 +716,16 @@ sub analyze_form {
       || $comments =~ /pxl.to/i
       || $comments =~ /fiverrtalents/i
       || $comments =~ /yoga studio/i
+      || $comments =~ /your (business|company|sales)/i
       || (($comments =~ /SEO/) && ($comments =~ /Google/))
       || (($comments =~ /SEO/) && ($comments =~ /http/))
       || $comments =~ /gift card/i
       || $comments =~ /freight forwarder/i
+      || $comments =~ /issues.*website/i
       || $comments =~ /sexlovers/i
       || $comments =~ / robot/i
       || $comments =~ / AI /i
+      || $comments =~ /salesai/i
       || $comments =~ /intimate photo/i
       || $comments =~ /business.*http/i
       || $comments =~ /afflat3e1.com/i

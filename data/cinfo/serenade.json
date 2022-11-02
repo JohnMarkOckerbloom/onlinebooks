@@ -1,0 +1,26 @@
+{
+   "title": "Serenade",
+   "title-note": "Tower Magazines, 1930s",
+   "preceded-by":
+      [{"id": "illuslovemag", "note": "The Illustrated Love Magazine"}],
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce",
+   "first-renewed-contribution":
+      {"issue": {"issue-date": "1934-02"}},
+   "first-renewed-contribution-source": "1961-JulDec",
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1934-02"},
+      "title": "The Harder They Fall",
+      "author": {
+         "authorized": "Wylie, Philip, 1902-1971",
+         "lcna": "n79145476"
+       }
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2022-10-01"
+}

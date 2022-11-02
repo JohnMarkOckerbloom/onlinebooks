@@ -11,6 +11,7 @@
    "first-renewed-contribution":
        {"issue": {"issue-date": "1930-08"}},
    "first-renewed-contribution-source": "1957-JulDec",
+   "succeeded-by": [{"id": "serenade", "note": "Serenade"}],
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
      {"issue": {"issue-date": "1930-08"}, 
@@ -299,5 +300,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-07-18"
+   "last-updated": "2022-10-01"
 }
