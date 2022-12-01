@@ -1,12 +1,19 @@
 {
    "title": "Columbia Democrat and Star of the North",
    "title-note": "Pennsylvania newspaper",
+   "online": "1",
+   "preceded-by": [
+      {"id": "columpadembga",
+       "note": "Columbia Democrat and Bloomsburg General Advertiser"},
+      {"id": "starnorpabloom", "note": "The Star of the North"}
+   ],
    "rights-statement": "NoC-US",
+   "succeeded-by": [{"id": "bloomsburgdem", "note": "Bloomsburg Democrat"}],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
    "acknowledgement": 
       "Thanks to Scott F Andrews for copyright research on this title.",
-   "last-updated": "2022-10-19"
+   "last-updated": "2022-11-18"
 }

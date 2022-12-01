@@ -7,7 +7,7 @@
    "first-renewed-issue-source": "1954-JanJun",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
-   "renewed-issue-completeness": "active/1927",
+   "renewed-issue-completeness": "active/1928",
    "renewed-issues": [
       {"issue-date": "1926-October-December", "cdate": "1927-02-24",
           "volume": "14", "number": "4"},
@@ -18,12 +18,17 @@
        "volume": "15", "number": "4"},
       {"issue-date": "1928-January-March", "volume": "16", "number": "1"},
       {"issue-date": "1928-April-June", "volume": "16", "number": "2"},
-      {"issue-date": "1928-July-September", "volume": "16", "number": "3"}
+      {"issue-date": "1928-July-September", "volume": "16", "number": "3"},
+      {"issue-date": "1928-October-December", "cdate": "1929-02-11",
+       "volume": "16", "number": "4"},
+      {"issue-date": "1929-January-March", "volume": "17", "number": "1"},
+      {"issue-date": "1929-October-December", "cdate": "1930-02-10",
+       "volume": "17", "number": "4"}
    ],
    "additional-note": "Some renewal records for this index are listed in the Books section of the CCE, and others in the Periodicals section.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-01-10"
+   "last-updated": "2022-11-02"
 }

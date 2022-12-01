@@ -6,7 +6,7 @@
    "first-renewed-issue-source": "1954-JanJun",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
-   "renewed-issue-completeness": "active/1927",
+   "renewed-issue-completeness": "active/1930",
    "renewed-issues": [
      {"issue-date": "1927-01-20", "volume": "10", "number": "3"},
      {"issue-date": "1927-03", "volume": "8", "number": "6"},
@@ -21,13 +21,30 @@
      {"issue-date": "1928-07-20", "volume": "11", "number": "6"},
      {"issue-date": "1928-09-15", "volume": "8", "number": "1"},
      {"issue-date": "1928-09-20", "volume": "12", "number": "1"},
-     {"issue-date": "1928-11-20", "volume": "12", "number": "2"}
+     {"issue-date": "1928-11-20", "volume": "12", "number": "2"},
+     {"issue-date": "1929-01-20", "volume": "12", "number": "3"},
+     {"issue-date": "1929-03-20", "volume": "12", "number": "4"},
+     {"issue-date": "1929-05-20", "volume": "12", "number": "5"},
+     {"issue-date": "1929-07-20", "volume": "12", "number": "6"},
+     {"issue-date": "1929-09-20", "volume": "13", "number": "1"},
+     {"issue-date": "1929-11-20", "volume": "13", "number": "2"},
+     {"issue-date": "1930-01-20", "volume": "13", "number": "3"},
+     {"issue-date": "1930-03-20", "volume": "13", "number": "4"},
+     {"issue-date": "1930-05-20", "volume": "13", "number": "5"},
+     {"issue-date": "1930-07-20", "volume": "13", "number": "6"},
+     {"issue-date": "1930-09-20", "volume": "14", "number": "1"},
+     {"issue-date": "1930-11-20", "volume": "14", "number": "2"},
+     {"issue-date": "1931-01-20", "volume": "14", "number": "3"},
+     {"issue-date": "1931-03-20", "volume": "14", "number": "4"},
+     {"issue-date": "1931-05-20", "volume": "14", "number": "5"},
+     {"issue-date": "1931-07-20", "volume": "14", "number": "6"},
+     {"issue-date": "1931-09-20", "volume": "15", "number": "1"},
+     {"issue-date": "1931-11", "volume": "15", "number": "2"}
     ],
-    "comment": "Entered all issue renewals through 1955-JulDec",
     "additional-note": "Issues in volume 8 were published between 1925 and 1928, not all in order, interspersed with issues in volumes 9-11.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-01-13"
+   "last-updated": "2022-11-02"
 }

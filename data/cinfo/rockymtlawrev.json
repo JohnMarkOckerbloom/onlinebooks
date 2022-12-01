@@ -10,9 +10,17 @@
    "last-issue": {"issue-date": "1962-Summer", "volume": "34", "number": "4"},
    "succeeded-by":
      [{"id": "ucololawrev", "note": "University of Colorado Law Review"}],
+   "renewed-issue-completeness": "active/1930",
+   "renewed-issues": [
+      {"issue-date": "1929-02", "volume": "1", "number": "2"},
+      {"issue-date": "1929-04", "volume": "1", "number": "3"},
+      {"issue-date": "1929-06", "volume": "1", "number": "4"},
+      {"issue-date": "1930-04", "volume": "2", "number": "3"},
+      {"issue-date": "1930-11", "volume": "3", "number": "1"}
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-04-29"
+   "last-updated": "2022-11-02"
 }

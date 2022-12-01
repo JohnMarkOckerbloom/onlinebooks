@@ -13,11 +13,32 @@
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1930-10", "volume": "1", "number": "1"}},
    "first-renewed-contribution-source": "1957-JulDec",
+   "renewed-issue-completeness": "active/1932",
+   "renewed-issues": [
+     {"issue-date": "1930-11", "volume": "1", "number": "2"},
+     {"issue-date": "1930-12", "volume": "1", "number": "3"},
+     {"issue-date": "1931-01", "volume": "1", "number": "4",
+      "cdate": "1930-11-30"},
+     {"issue-date": "1931-02", "volume": "2", "number": "1",
+      "cdate": "1930-12-30"},
+     {"issue-date": "1931-03", "volume": "2", "number": "2",
+      "cdate": "1931-02-05"},
+     {"issue-date": "1931-04", "volume": "2", "number": "3"},
+     {"issue-date": "1931-05", "volume": "2", "number": "4"},
+     {"issue-date": "1931-06", "volume": "3", "number": "1"},
+     {"issue-date": "1931-07", "volume": "3", "number": "2"},
+     {"issue-date": "1931-08", "volume": "3", "number": "3"},
+     {"issue-date": "1931-09", "volume": "3", "number": "4"},
+     {"issue-date": "1931-10", "volume": "4", "number": "1"},
+     {"issue-date": "1931-11", "volume": "4", "number": "2"},
+     {"issue-date": "1931-12", "volume": "4", "number": "3"},
+     {"issue-date": "1932-04", "volume": "5", "number": "3"}
+   ],
    "additional-note":
        "Some contribution renewals identify this magazine as Detective Action Magazine, but the title as published was consistently 'Detective Action Stories'.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-04-11"
+   "last-updated": "2022-11-02"
 }

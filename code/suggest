@@ -146,10 +146,10 @@ sub showpools {
   # print "<li>" . poolsummary($bulkpool, "From a bulk submitter") . "</li></ul>";
   print "<li>" . poolsummary($bulkpool, "From bulk submitters") . "</li></ul>";
   # print "</ul>";
-  print "(Due to the editor's travels, new submissions may not be processed before November.)"
-  # print "(Due to a recently-ended freeze on site updates in June and July, we may take longer than usual to reply as we catch up on submissions.)"
+  # print "(Due to the editor's travels, new submissions may not be processed before November.)"
+  # print "(Due to the editor's recent travels, we may take longer than usual to reply as we catch up on submissions.)"
   # print "(New additions may not appear until the next daily update.)"
-  # print "(Most submitters get listings or acknowledgements within a few business days.  Bulk and anonymous submissions may take longer to process, as may submissions for books not in English.)";
+  print "(Most submitters get listings or acknowledgements within a few business days.  Bulk and anonymous submissions may take longer to process, as may submissions for books not in English.)";
 }
 
 # stripspace removes interior newlines, excess spaces, leading and trailing

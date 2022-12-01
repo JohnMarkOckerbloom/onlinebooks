@@ -16,9 +16,24 @@
       {"issue-date": "1931-04", "volume": "22", "number": "2"},
    "succeeded-by":
       [{"id": "collegestories", "note": "Street & Smith's College Stories"}],
+   "renewed-issue-completeness": "active/end",
+   "renewed-issues": [
+      {"issue-date": "1930-07", "volume": "20", "number": "5"},
+      {"issue-date": "1930-08", "volume": "20", "number": "6"},
+      {"issue-date": "1930-09", "volume": "21", "number": "1"},
+      {"issue-date": "1930-10", "volume": "21", "number": "2"},
+      {"issue-date": "1930-11", "volume": "21", "number": "3"},
+      {"issue-date": "1930-12", "volume": "21", "number": "4"},
+      {"issue-date": "1931-01", "volume": "21", "number": "5",
+       "cdate": "1930-12-19"},
+      {"issue-date": "1931-02", "volume": "21", "number": "6",
+       "cdate": "1931-01-16"},
+      {"issue-date": "1931-03", "volume": "22", "number": "1"},
+      {"issue-date": "1931-04", "volume": "22", "number": "2"}
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-05-19"
+   "last-updated": "2022-11-02"
 }

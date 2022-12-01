@@ -14,8 +14,8 @@ my $bookdir = "/home/LIBRARY/ockerblo/bookdb/";
 my $wikistage = "wikistage";
 my $wikiprod  = "wikidata";
 
-my $minwpfilesize = "50000";
-my $maxwpfilesize = "500000";
+my $minwpfilesize = "90000";
+my $maxwpfilesize = "900000";
 
 my $mincsvfilesize = "9000000";
 my $maxcsvfilesize = "20000000";

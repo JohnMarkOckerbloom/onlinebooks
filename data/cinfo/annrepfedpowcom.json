@@ -1,9 +1,13 @@
 {
    "title": "Annual Report of the Federal Power Commission",
+   "online": "1",
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
+   "succeeded-by":
+      [{"id": "annrepferc",
+        "note": "Annual Report (Federal Energy Regulatory Commission)"}],
    "additional-note": "This is a US government publication.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
@@ -11,5 +15,5 @@
    },
    "acknowledgement": 
       "Thanks to Pete Sullivan for copyright research on this title.",
-   "last-updated": "2022-09-07"
+   "last-updated": "2022-11-29"
 }

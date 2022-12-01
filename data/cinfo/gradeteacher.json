@@ -9,10 +9,32 @@
    "first-renewed-issue-source": "1957-JanJun",
    "first-renewed-contribution": {"issue": {"issue-date": "1960-01"}},
    "first-renewed-contribution-source": "database",
-   "additional-note": "Volume number for first issue as given in CCE. The issues following it are in volume 47.  I have not examined issues to know whether the unusual numbering was in the original or was a typographical error introduced in the CCE record.",
+   "renewed-issue-completeness": "active/1930",
+   "renewed-issues": [ 
+      {"issue-date": "1929-04", "volume": "57", "number": "8"},
+      {"issue-date": "1929-09", "volume": "47", "number": "1"},
+      {"issue-date": "1929-10", "volume": "47", "number": "2"},
+      {"issue-date": "1929-11", "volume": "47", "number": "3"},
+      {"issue-date": "1929-12", "volume": "47", "number": "4"},
+      {"issue-date": "1930-01", "volume": "47", "number": "5",
+       "cdate": "1929-12-16"},
+      {"issue-date": "1930-02", "volume": "47", "number": "6",
+       "cdate": "1930-01-11"},
+      {"issue-date": "1930-03", "volume": "47", "number": "7"},
+      {"issue-date": "1930-04", "volume": "47", "number": "8"},
+      {"issue-date": "1930-05", "volume": "47", "number": "9"},
+      {"issue-date": "1930-06", "volume": "47", "number": "10"},
+      {"issue-date": "1930-09", "volume": "48", "number": "1"},
+      {"issue-date": "1930-10", "volume": "48", "number": "2"},
+      {"issue-date": "1930-11", "volume": "48", "number": "3"},
+      {"issue-date": "1930-12", "volume": "48", "number": "4"},
+      {"issue-date": "1931-01", "volume": "48", "number": "5",
+       "cdate": "1930-12-15"}
+   ],
+   "additional-note": "Volume number for first issue as given in CCE. The issues following it are in volume 47.  We have not examined issues to know whether the unusual numbering was in the original or was a typographical error introduced in the CCE record.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-03-21"
+   "last-updated": "2022-11-02"
 }

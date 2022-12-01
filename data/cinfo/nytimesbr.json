@@ -9,7 +9,7 @@
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1941-05-18"}},
    "first-renewed-contribution-source": "1968-JanJun",
-   "renewed-issue-completeness": "active/1927",
+   "renewed-issue-completeness": "active/1928",
    "renewed-issues": [
       {"issue-date": "1927-01-02", "volume": "76", "number": "25180"},
       {"issue-date": "1927-01-09", "volume": "76", "number": "25187"},
@@ -67,12 +67,23 @@
       {"issue-date": "1928-01-08"},
       {"issue-date": "1928-01-15"},
       {"issue-date": "1928-01-22"},
-      {"issue-date": "1928-01-29"}
+      {"issue-date": "1928-01-29"},
+      {"issue-date": "1928-02-05"},
+      {"issue-date": "1928-02-12"},
+      {"issue-date": "1928-02-19"},
+      {"issue-date": "1928-02-26"},
+      {"issue-date": "1928-03-04"},
+      {"issue-date": "1928-03-11"},
+      {"issue-date": "1928-03-18"},
+      {"issue-date": "1928-03-25"}
    ],
-   "additional-note": "Published as a special section of The New York Times.  In some intervals in the 1920s, it was combined with the New York Times Magazine and published as 'The New York Times Book Review and Magazine'.",
+   "additional-notes": [
+      "Published as a special section of The New York Times.  In some intervals in the 1920s, it was combined with the New York Times Magazine and published as 'The New York Times Book Review and Magazine'.",
+      "Listed here are renewals filed specifically for the Book Review.  The New York Times began filing general renewals for issues from April 1, 1928 onward.  We assume those renewals also covered the Book Review."
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-01-10"
+   "last-updated": "2022-11-02"
 }

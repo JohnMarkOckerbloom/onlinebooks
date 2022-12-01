@@ -10,7 +10,7 @@
      {"issue-date": "1931-06", "volume": "23", "number": "6"},
    "succeeded-by":
        [{"id": "pubhealthnursing", "note": "Public Health Nursing"}],
-   "renewed-issue-completeness": "active/1927",
+   "renewed-issue-completeness": "active/end",
    "renewed-issues": [
      {"issue-date": "1927-01", "volume": "19", "number": "1"},
      {"issue-date": "1927-02", "volume": "19", "number": "2"},
@@ -35,11 +35,41 @@
      {"issue-date": "1928-09", "volume": "20", "number": "9"},
      {"issue-date": "1928-10", "volume": "20", "number": "10"},
      {"issue-date": "1928-11", "volume": "20", "number": "11"},
-     {"issue-date": "1928-12", "volume": "20", "number": "12"}
+     {"issue-date": "1928-12", "volume": "20", "number": "12"},
+     {"issue-date": "1929-01", "volume": "21", "number": "1"},
+     {"issue-date": "1929-02", "volume": "21", "number": "2"},
+     {"issue-date": "1929-03", "volume": "21", "number": "3"},
+     {"issue-date": "1929-04", "volume": "21", "number": "4"},
+     {"issue-date": "1929-05", "volume": "21", "number": "5"},
+     {"issue-date": "1929-06", "volume": "21", "number": "6"},
+     {"issue-date": "1929-07", "volume": "21", "number": "7"},
+     {"issue-date": "1929-08", "volume": "21", "number": "8"},
+     {"issue-date": "1929-09", "volume": "21", "number": "9"},
+     {"issue-date": "1929-10", "volume": "21", "number": "10"},
+     {"issue-date": "1929-11", "volume": "21", "number": "11"},
+     {"issue-date": "1929-12", "volume": "21", "number": "12"},
+     {"issue-date": "1930-01", "volume": "22", "number": "1"},
+     {"issue-date": "1930-02", "volume": "22", "number": "2"},
+     {"issue-date": "1930-03", "volume": "22", "number": "3"},
+     {"issue-date": "1930-04", "volume": "22", "number": "4"},
+     {"issue-date": "1930-05", "volume": "22", "number": "5"},
+     {"issue-date": "1930-06", "volume": "22", "number": "6"},
+     {"issue-date": "1930-07", "volume": "22", "number": "7"},
+     {"issue-date": "1930-08", "volume": "22", "number": "8"},
+     {"issue-date": "1930-09", "volume": "22", "number": "9"},
+     {"issue-date": "1930-10", "volume": "22", "number": "10"},
+     {"issue-date": "1930-11", "volume": "22", "number": "11"},
+     {"issue-date": "1930-12", "volume": "22", "number": "12"},
+     {"issue-date": "1931-01", "volume": "23", "number": "1"},
+     {"issue-date": "1931-02", "volume": "23", "number": "2"},
+     {"issue-date": "1931-03", "volume": "23", "number": "3"},
+     {"issue-date": "1931-04", "volume": "23", "number": "4"},
+     {"issue-date": "1931-05", "volume": "23", "number": "5"},
+     {"issue-date": "1931-06", "volume": "23", "number": "6"}
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-01-16"
+   "last-updated": "2022-11-02"
 }

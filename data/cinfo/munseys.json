@@ -12,7 +12,12 @@
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1928-03", "volume": "93", "number": "2"}},
    "first-renewed-contribution-source": "1955-JanJun",
-   "renewed-issue-completeness": "active/1927",
+   "last-issue":
+     {"issue-date": "1929-10", "volume": "98", "number": "1"},
+   "succeeded-by":
+     [{"id": "allstory1929",
+       "note": "All-Story (romance fiction magazine, 1929-1955)"}],
+   "renewed-issue-completeness": "active/end",
    "renewed-issues": [
      {"issue-date": "1927-02", "volume": "90", "number": "1",
       "cdate": "1927-01-20"},
@@ -38,9 +43,22 @@
      {"issue-date": "1928-08", "volume": "94", "number": "3"},
      {"issue-date": "1928-09", "volume": "94", "number": "4"},
      {"issue-date": "1928-10", "volume": "95", "number": "1"},
-     {"issue-date": "1928-11", "volume": "95", "number": "2"}
+     {"issue-date": "1928-11", "volume": "95", "number": "2"},
+     {"issue-date": "1928-12", "volume": "95", "number": "3"},
+     {"issue-date": "1929-01", "volume": "95", "number": "4",
+      "cdate": "1928-12-20"},
+     {"issue-date": "1929-02", "volume": "96", "number": "1",
+      "cdate": "1929-01-19"},
+     {"issue-date": "1929-03", "volume": "96", "number": "2"},
+     {"issue-date": "1929-04", "volume": "96", "number": "3"},
+     {"issue-date": "1929-05", "volume": "96", "number": "4"},
+     {"issue-date": "1929-06", "volume": "97", "number": "1"},
+     {"issue-date": "1929-07", "volume": "97", "number": "2"},
+     {"issue-date": "1929-08", "volume": "97", "number": "3"},
+     {"issue-date": "1929-09", "volume": "97", "number": "4"},
+     {"issue-date": "1929-10", "volume": "98", "number": "1"}
    ],
-   "renewed-contribution-completeness": "active/1929",
+   "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
      {"issue": {"issue-date": "1928-03", "volume": "93", "number": "2"},
       "title": "The Ghost Walker",
@@ -68,5 +86,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-01-10"
+   "last-updated": "2022-11-02"
 }

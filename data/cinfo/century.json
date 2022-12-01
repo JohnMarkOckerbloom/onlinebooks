@@ -10,7 +10,7 @@
    "first-renewed-contribution-source": "1955-JanJun",
    "last-issue":
      {"issue-date": "1930-Spring", "volume": "120", "number": "2"},
-   "renewed-issue-completeness": "active/1927",
+   "renewed-issue-completeness": "active/end",
    "renewed-issues": [
       {"issue-date": "1927-02", "volume": "113", "number": "4",
        "cdate": "1927-01-20"},
@@ -37,7 +37,20 @@
       {"issue-date": "1928-09", "volume": "116", "number": "5"},
       {"issue-date": "1928-10", "volume": "116", "number": "6"},
       {"issue-date": "1928-11", "volume": "117", "number": "1"},
-      {"issue-date": "1928-12", "volume": "117", "number": "2"}
+      {"issue-date": "1928-12", "volume": "117", "number": "2"},
+      {"issue-date": "1929-01", "volume": "117", "number": "3",
+       "cdate": "1928-12-20"},
+      {"issue-date": "1929-02", "volume": "117", "number": "4",
+       "cdate": "1929-01-19"},
+      {"issue-date": "1929-03", "volume": "117", "number": "5"},
+      {"issue-date": "1929-04", "volume": "117", "number": "6"},
+      {"issue-date": "1929-05", "volume": "118", "number": "1"},
+      {"issue-date": "1929-06", "volume": "118", "number": "2"},
+      {"issue-date": "1929-07", "volume": "118", "number": "3"},
+      {"issue-date": "1929-08", "volume": "118", "number": "4"},
+      {"issue-date": "1929-Autumn", "volume": "119", "number": "1"},
+      {"issue-date": "1930-Winter", "volume": "120", "number": "1"},
+      {"issue-date": "1930-Spring", "volume": "120", "number": "2"}
    ],
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
@@ -123,5 +136,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-05-22"
+   "last-updated": "2022-11-02"
 }

@@ -68,9 +68,15 @@
      {"issue-date": "1930-11", "volume": "47", "number": "11"},
      {"issue-date": "1930-12", "volume": "47", "number": "12"},
      {"issue-date": "1931-01", "volume": "48", "number": "1",
-        "cdate": "1930-12-16"}
+        "cdate": "1930-12-16"},
+     {"issue-date": "1931-02", "volume": "48", "number": "2",
+        "cdate": "1931-01-20"},
+     {"issue-date": "1931-03", "volume": "48", "number": "3"},
+     {"issue-date": "1931-04", "volume": "48", "number": "4"},
+     {"issue-date": "1931-05", "volume": "48", "number": "5"},
+     {"issue-date": "1931-06", "volume": "48", "number": "6"},
+     {"issue-date": "1931-07", "volume": "48", "number": "7"}
    ],
-   "comments": "To add more issue renewals, start with 1958 Jul-Dec",
    "renewed-contribution-completeness": "active/1929",
    "renewed-contributions": [
      {"issue": {"issue-date": "1927-02", "volume": "44", "number": "2"},

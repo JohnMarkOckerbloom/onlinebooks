@@ -1,6 +1,9 @@
 {
    "title": "Les Études Philosophiques",
    "online": "1",
+   "preceded-by":
+      [{"id": "bulsocetphilse", 
+        "note": "Bulletin de la Société d'Études Philosophiques du Sud-Est"}],
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
@@ -13,5 +16,5 @@
    },
    "acknowledgement": 
       "Thanks to Edith Mulhern for copyright research on this title.",
-   "last-updated": "2020-11-12"
+   "last-updated": "2022-11-16"
 }

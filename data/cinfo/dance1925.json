@@ -1,6 +1,8 @@
 {
    "title": "Dance Magazine",
-   "aka": ["The Dance"],
+   "title-note": "1925-1931",
+   "aka": ["The Dance (1925-1931)", "The Dance Magazine of Stage and Screen"],
+   "title": "Dance Magazine",
    "preceded-by": [{"id": "dancelovers", "note": "Dance Lovers' Magazine"}],
    "first-issue":
      {"issue-date": "1925-12", "volume": "5", "number": "2"},
@@ -9,9 +11,23 @@
    "first-renewed-contribution": 
       {"issue": {"issue-date": "1929-10"}},
    "first-renewed-contribution-source": "1956-JulDec",
+   "last-issue":
+     {"issue-date": "1931-12", "volume": "17", "number": "2"},
+   "see-also": [{"id": "dancemag", "note": "Dance Magazine (1942-present)"}],
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1929-10"},
+        "title": "So This is Television",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "using": "Arnold Fountain",
+         "lcna": "n79041782"
+        }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-06-02"
+   "last-updated": "2022-11-17"
 }

@@ -11,7 +11,7 @@
    "first-renewed-contribution-source": "cce",
    "last-issue": {"issue-date": "1929-03", "volume": "46", "number": "7"},
    "succeeded-by": [{"id": "gradeteacher", "note": "Grade Teacher"}],
-   "renewed-issue-completeness": "active/1927",
+   "renewed-issue-completeness": "active/end",
    "renewed-issues": [
       {"issue-date": "1927-03", "volume": "44", "number": "7"},
       {"issue-date": "1927-04", "volume": "44", "number": "8"},
@@ -33,11 +33,14 @@
       {"issue-date": "1928-11", "volume": "46", "number": "3"},
       {"issue-date": "1928-12", "volume": "46", "number": "4"},
       {"issue-date": "1929-01", "volume": "46", "number": "5",
-       "cdate": "1928-12-12"}
+       "cdate": "1928-12-12"},
+      {"issue-date": "1929-02", "volume": "46", "number": "6",
+       "cdate": "1929-01-19"},
+      {"issue-date": "1929-03", "volume": "46", "number": "7"}
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-01-12"
+   "last-updated": "2022-11-02"
 }

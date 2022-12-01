@@ -707,7 +707,10 @@ sub analyze_form {
       || $title =~ /earn money/i
       || $title =~ /quick question/i
       || $title =~ /dfdsf/
+      || $title =~ /still running/
+      || $title =~ /tax assistance/i
       || $title =~ /ister misery 1901/
+      || $title =~ /amazing deal/i
       || $title =~ /googlegoogle/
       || $title =~ /jeffrearoom/
       || $ref =~ /seoestore/
@@ -715,8 +718,10 @@ sub analyze_form {
       || $comments =~ /getpeople.io/i
       || $comments =~ /pxl.to/i
       || $comments =~ /fiverrtalents/i
-      || $comments =~ /yoga studio/i
+      || $comments =~ /ultimate tool/i
       || $comments =~ /your (business|company|sales)/i
+      || $comments =~ /(network|digital|email|local) marketing/i
+      || $comments =~ /unsub(marketing|scribe)/i
       || (($comments =~ /SEO/) && ($comments =~ /Google/))
       || (($comments =~ /SEO/) && ($comments =~ /http/))
       || $comments =~ /gift card/i

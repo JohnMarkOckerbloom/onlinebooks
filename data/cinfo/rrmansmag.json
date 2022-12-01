@@ -12,10 +12,41 @@
    "first-renewed-contribution": 
       {"issue": {"issue-date": "1930-08"}},
    "first-renewed-contribution-source": "1958-JulDec",
+   "renewed-issue-completeness": "active/1930",
+   "renewed-issues": [
+      {"issue-date": "1929-12", "series": "2", "volume": "1", "number": "1"},
+      {"issue-date": "1930-01", "series": "2", "volume": "1", "number": "2",
+       "cdate": "1929-12-31"},
+      {"issue-date": "1930-02", "series": "2", "volume": "1", "number": "3",
+       "cdate": "1930-02-01"},
+      {"issue-date": "1930-03", "series": "2", "volume": "1", "number": "4"},
+      {"issue-date": "1930-04", "series": "2", "volume": "2", "number": "1"},
+      {"issue-date": "1930-05", "series": "2", "volume": "2", "number": "2"},
+      {"issue-date": "1930-06", "series": "2", "volume": "2", "number": "3"},
+      {"issue-date": "1930-07", "series": "2", "volume": "2", "number": "4"},
+      {"issue-date": "1930-08", "series": "2", "volume": "3", "number": "1"},
+      {"issue-date": "1930-09", "series": "2", "volume": "3", "number": "2"},
+      {"issue-date": "1930-10", "series": "2", "volume": "3", "number": "3"},
+      {"issue-date": "1930-11", "series": "2", "volume": "3", "number": "4"},
+      {"issue-date": "1930-12", "series": "2", "volume": "4", "number": "1"},
+      {"issue-date": "1931-01", "series": "2", "volume": "4", "number": "2",
+       "cdate": "1930-12-31"},
+      {"issue-date": "1931-02", "series": "2", "volume": "4", "number": "3",
+       "cdate": "1931-01-31"},
+      {"issue-date": "1931-03", "series": "2", "volume": "4", "number": "4"},
+      {"issue-date": "1931-04", "series": "2", "volume": "5", "number": "1"},
+      {"issue-date": "1931-05", "series": "2", "volume": "5", "number": "2"},
+      {"issue-date": "1931-06", "series": "2", "volume": "5", "number": "3"},
+      {"issue-date": "1931-07", "series": "2", "volume": "5", "number": "4"},
+      {"issue-date": "1931-08", "series": "2", "volume": "6", "number": "1"},
+      {"issue-date": "1931-09", "series": "2", "volume": "6", "number": "2"},
+      {"issue-date": "1931-10", "series": "2", "volume": "6", "number": "3"},
+      {"issue-date": "1931-11", "series": "2", "volume": "6", "number": "4"}
+   ],
    "additional-note": "The first series ran from 1906 until 1919, when it was absorbed by the Argosy.  The second series began in 1929.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-04-13"
+   "last-updated": "2022-11-02"
 }
