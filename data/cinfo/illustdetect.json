@@ -1,0 +1,87 @@
+{
+   "title": "The Illustrated Detective Magazine",
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/CFI/link.asp?magid=IDM",
+       "note": "FictionMags"}
+   ],
+   "first-issue": 
+       {"issue-date": "1929-12", "volume": "1", "number": "1"}, 
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce",
+   "first-renewed-contribution": {
+     "issue": {"issue-date": "1931-05", "volume": "3", "number": "5"} 
+   },
+   "first-renewed-contribution-source": "1958-JanJun",
+   "last-issue": 
+       {"issue-date": "1932-09", "volume": "6", "number": "3"}, 
+   "succeeded-by": [{"id": "mystery1932", "note": "Mystery (1932-1935)"}],
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1931-05", "volume": "3", "number": "5"}, 
+      "title": "Terror Beach",
+      "author": {
+       "authorized": "Adams, Samuel Hopkins, 1871-1958",
+       "lcna": "n50037535"
+      }
+     },
+     {"issue": {"issue-date": "1931-06", "volume": "3", "number": "6"},
+      "title": "Counterfeit",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+       }
+     },
+     {"issue": {"issue-date": "1931-11", "volume": "4", "number": "5"}, 
+      "title": "The Seven Curses",
+      "title-note": "Gransden House part 1",
+      "author": {
+       "authorized": "Adams, Samuel Hopkins, 1871-1958",
+       "lcna": "n50037535"
+      }
+     },
+     {"issue": {"issue-date": "1931-12", "volume": "4", "number": "6"}, 
+      "title": "The Double Crime",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+       }
+     },
+     {"issue": {"issue-date": "1931-12", "volume": "4", "number": "6"}, 
+      "title": "The Menage",
+      "title-note": "Gransden House part 2",
+      "note": "Title and issue as given in CCE renewal record.  FictionMags gives the title of the Adams story in this issue as 'The Telephone Murders'. We have not examined the issue in question.",
+      "author": {
+       "authorized": "Adams, Samuel Hopkins, 1871-1958",
+       "lcna": "n50037535"
+      }
+     },
+     {"issue": {"issue-date": "1932-04", "volume": "5", "number": "4"}, 
+      "title": "Magic Words",
+      "note": "Issue as given in FictionMags index.  CCE renewal record places this story instead in the May 1932 issue. We have not examined the issues in question.",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+       }
+     },
+     {"issue": {"issue-date": "1932-05", "volume": "5", "number": "5"}, 
+      "title": "Magic Words",
+      "note": "Issue as given in CCE renewal record.  FictionMags places this story instead in the April 1932 issue. We have not examined the issues in question.",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+       }
+     },
+     {"issue": {"issue-date": "1932-06", "volume": "5", "number": "6"},
+      "title": "Philo Vance on the Case",
+      "author": {
+       "authorized": "Van Dine, S. S.",
+       "lcna": "n79117174"
+      }
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2022-12-27"
+}

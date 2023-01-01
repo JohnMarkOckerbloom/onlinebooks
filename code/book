@@ -403,7 +403,7 @@ sub doauthorwords {
       print " (We eliminate common words from the search.)";
     }
     print "</p><p>You can ";
-    print "<a href=\"$OLBP::searchpage\">try another search</a></p>";
+    print "<a href=\"$OLBP::searchpage\">try another search</a>.</p>";
     return;
   }
   my %allhithash;
@@ -713,11 +713,50 @@ or searching options of <a href="$OLBP::homepage">The Online Books Page</a>.
 !;
 }
 
+# We preprocess request parameters to do some validation of given
+# parameters, and ensure we're not getting parameters or values we
+# don't expect (e.g. if someone is trying to hack into our script).
+# If we do, the $BADPARAM value will be set in the returned hash,
+# and the calling script can take appropriate action (like redirecting
+# to the start page)
+
+my @validparams = ("amode", "author", "c", "index", "key", "keywords",
+                   "showtitles", "title", "tmode", "type");
+
+my $BOGUSPARAM = "bogusparam";
+
 sub unpad {
   my $str = shift;
   $str =~ s/^\s+//;
   $str =~ s/\s+$//;
   return $str;
+}
+
+sub request_params {
+  my $q = shift;
+  my $hashref = {};
+  my %validnames = map {$_ => 1} @validparams;
+  my @requestnames = $q->param();
+  foreach my $name (@requestnames) {
+    if (!($validnames{$name})) {
+      $hashref->{$BOGUSPARAM} = 1;
+      return $hashref;
+    }
+    my $value = $q->param($name);
+    # could add some sanitization or malice checks on the value here if wanted
+    $hashref->{$name} = unpad($value);
+  }
+  return $hashref;
+}
+
+sub send_them_home {
+  print "Location: $OLBP::homepage\n\n";
+  exit 0;
+}
+
+sub send_them_to_search {
+  print "Location: $OLBP::searchpage\n\n";
+  exit 0;
 }
 
 $q = new CGI;
@@ -735,18 +774,23 @@ my %browsedesc = ("author" => "authors",
 my ($browsetype, $browsekey, $browseindex);
 my $search;
 
-my $collection = $q->param('c') || "c";
+my $requestparam = request_params($q);
+if ($requestparam->{$BOGUSPARAM}) {
+  send_them_home();
+}
+
+my $collection = $requestparam->{'c'} || "c";
 # Sanitize collection input to avoid XSS; only valid values "x" and "c"
 if ($collection ne "x" && $collection ne "c") {
    $collection = "c";
 }
 
 if ($cmd eq "browse") {
-  $browsetype = $q->param('type');
-  $browsekey = $q->param('key');
-  $browseindex = $q->param('index') || -1;
+  $browsetype = $requestparam->{'type'};
+  $browsekey = $requestparam->{'key'};
+  $browseindex = $requestparam->{'index'} || -1;
 } elsif ($cmd eq "lookupname") {
-  my $key = $q->param('key');
+  my $key = $requestparam->{'key'};
   if ($key) {
     my $skey = OLBP::BookRecord::sort_key_for_name($key);
     my $notestr = gethashval("authornotes", $skey);
@@ -768,7 +812,7 @@ if ($cmd eq "browse") {
     &showlookupname($key, $libchoice, $note);
   }
 } elsif ($cmd eq "lookupid") {
-  my $key = $q->param('key');
+  my $key = $requestparam->{'key'};
   my $found = 0;
   if ($key && !($key =~ /^\d/)) {
     # numeric-only identifiers are internal; don't let them be shown
@@ -789,26 +833,25 @@ if ($cmd eq "browse") {
     }
   }
   if (!$found) {
-    print "Location: $OLBP::homepage\n\n";
-    exit 0;
+    send_them_home();
   }
 } elsif ($cmd eq "callover") {
   &startpage("Call number overview");
-  my $key = $q->param('key');
+  my $key = $requestparam->{'key'};
   showcalloverview($key, $collection);
 } elsif ($cmd =~ /^make(author|title)page/) {
   $browsetype = $1;
   $browseindex = 0;
 } elsif ($cmd =~ /^(author|title)start/) {
   $browsetype = $1;
-  $browsekey = $q->param('keywords');
+  $browsekey = $requestparam->{'keywords'};
   if ($browsekey =~ /^(_nonletter|_start)$/) {
     $browsekey = "";
   }
   undef $browseindex;
 } elsif ($cmd eq "subjectstart") {
   $browsetype = "lccn";
-  $browsekey = $q->param('keywords');
+  $browsekey = $requestparam->{'keywords'};
   $browsekey =~ s/-.*//;
   undef $browseindex;
 } elsif ($cmd =~ "makesubjectpage") {
@@ -831,17 +874,17 @@ if ($cmd eq "browse") {
     do_isindex_page($cmd);
   }
 } elsif ($cmd eq "search") {
-  $search->{authorkey} = unpad($q->param('author'));
+  $search->{authorkey} = $requestparam->{'author'};
   utf8::decode($search->{authorkey});
-  $search->{titlekey} = unpad($q->param('title'));
+  $search->{titlekey} = $requestparam->{'title'};
   utf8::decode($search->{titlekey});
-  $search->{amode} = $q->param('amode');
-  $search->{tmode} = $q->param('tmode');
-  $search->{showtitles} = $q->param('showtitles');
+  $search->{amode} = $requestparam->{'amode'};
+  $search->{tmode} = $requestparam->{'tmode'};
+  $search->{showtitles} = $requestparam->{'showtitles'};
   $search->{chunksize} = $default_browse_chunk;
 } else {
   # We don't recognize the command; head home
-  print "Location: $OLBP::homepage\n\n";
+  send_them_home();
 }
 
 if ($browsetype) {
@@ -864,6 +907,10 @@ if ($browsetype) {
              $default_browse_chunk, $collection, $libchoice);
   }
 } elsif ($search) {
+  if (!($search->{authorkey}) && !($search->{titlekey})) {
+    # no search parameters we recognize
+    send_them_to_search();
+  };
   my $title = "Search Results";
   &startpage($title);
   if ($search->{authorkey}) {
@@ -890,7 +937,7 @@ if (!$pagestarted) {
 
 print OLBP::choicelist();
 
-if ($cmd eq "lookupid" && $q && $q->param('key') =~ /^olbp/) {
+if ($cmd eq "lookupid" && $q && $requestparam->{'key'} =~ /^olbp/) {
   print $OLBP::cc0bodyend;
 } else {
   print $OLBP::bodyend;

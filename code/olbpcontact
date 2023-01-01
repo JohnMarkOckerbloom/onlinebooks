@@ -731,6 +731,7 @@ sub analyze_form {
       || $comments =~ / robot/i
       || $comments =~ / AI /i
       || $comments =~ /salesai/i
+      || $comments =~ /adsense/i
       || $comments =~ /intimate photo/i
       || $comments =~ /business.*http/i
       || $comments =~ /afflat3e1.com/i

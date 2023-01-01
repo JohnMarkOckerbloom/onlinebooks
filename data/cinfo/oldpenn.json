@@ -1,11 +1,12 @@
 {
-   "title": "Winchester daily bulletin",
+   "title": "Old Penn",
+   "online": "1",
    "rights-statement": "NoC-US",
+   "succeeded-by":
+      [{"id": "pagazette1918", "note": "The Pennsylvania Gazette"}],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "acknowledgement": 
-      "Thanks to Eli Baum for copyright research on this title.",
-   "last-updated": "2022-10-17"
+   "last-updated": "2022-12-08"
 }
