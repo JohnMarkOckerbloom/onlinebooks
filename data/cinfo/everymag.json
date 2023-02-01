@@ -8,129 +8,13 @@
    "first-renewed-issue":  "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1927-02", "volume": "56", "number": "2",
-      "cdate": "1927-01-03"}},
-   "first-renewed-contribution-source": "1954-JulDec",
+     {"issue": {"issue-date": "1928-02", "volume": "58", "number": "2", 
+      "cdate": "1928-01-04"}}, 
+   "first-renewed-contribution-source": "1955-JulDec",
    "last-issue":  {"issue-date": "1929-03", "volume": "60", "number": "3"},
    "succeeded-by":  [{"id": "everyromance", "note": "Everybody's-Romance"}],
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1927-02", "volume": "56", "number": "2"},
-      "title": "The Flying Kestrel",
-      "title-note": "part 2 of 4",
-      "author": {
-         "authorized": "Dingle, A. E., 1874-1947",
-         "lcna": "no2016118807"
-      }
-     },
-     {"issue": {"issue-date": "1927-03", "volume": "56", "number": "3"},
-      "title": "The Flying Kestrel",
-      "title-note": "part 3 of 4",
-      "author": {
-         "authorized": "Dingle, A. E., 1874-1947",
-         "lcna": "no2016118807"
-      }
-     },
-     {"issue": {"issue-date": "1927-03", "volume": "56", "number": "3"},
-      "title": "A Man's Measure",
-      "author": {
-         "authorized": "Titus, Harold, 1888-1967",
-         "lcna": "no2008175553"
-      }
-     },
-     {"issue": {"issue-date": "1927-04", "volume": "56", "number": "4"},
-      "title": "The Flying Kestrel",
-      "title-note": "part 4 of 4",
-      "author": {
-         "authorized": "Dingle, A. E., 1874-1947",
-         "lcna": "no2016118807"
-      }
-     },
-     {"issue": {"issue-date": "1927-05", "volume": "56", "number": "5"},
-      "title": "Captains Fugacious",
-       "author": {
-         "authorized": "Pendexter, Hugh, 1875-1940",
-         "lcna": "no2010022727"
-       }
-     },
-     {"issue": {"issue-date": "1927-06", "volume": "56", "number": "6"},
-      "title": "Hot Sake",
-      "note": "CCE renewal record places this story in the May 1927 issue, but it actually ran in the June 1927 issue, not the May 1927 issue.",
-      "author": {
-        "authorized": "Blochman, Lawrence G. (Lawrence Goldtree), 1900-1975",
-        "lcna": "n50016555"
-      }
-     },
-     {"issue": {"issue-date": "1927-08", "volume": "57", "number": "2"},
-      "title": "The Biggest Man on Board",
-      "note": "There was no renewal filed for this story; however, it is a reprint of a story originally published in the April 1927 issue of Cassell's that is likely to have an active copyright due to GATT restoration.",
-      "author": {
-       "authorized": "Shaw, Frank H. (Frank Hubert), 1878-",
-       "lcna": "no99031097"
-      }
-     },
-     {"issue": {"issue-date": "1927-10", "volume": "57", "number": "4"}, 
-      "title": "The Desert Moon Mystery",
-      "title-note": "part 1 of 5",
-      "author": {
-       "authorized": "Strahan, Kay Cleaver, 1888-1941",
-       "lcna": "no95043185"
-      }
-     },
-     {"issue": {"issue-date": "1927-11", "volume": "57", "number": "5"}, 
-      "title": "The Desert Moon Mystery",
-      "title-note": "part 2 of 5",
-      "author": {
-       "authorized": "Strahan, Kay Cleaver, 1888-1941",
-       "lcna": "no95043185"
-      }
-     },
-     {"issue": {"issue-date": "1927-12", "volume": "57", "number": "6"}, 
-      "title": "The Capture of Ping-Chow",
-      "author": {
-        "authorized": "Blochman, Lawrence G. (Lawrence Goldtree), 1900-1975",
-        "lcna": "n50016555"
-      }
-     },
-     {"issue": {"issue-date": "1927-12", "volume": "57", "number": "6"}, 
-      "title": "The Roaring Towns",
-      "title-note": "part 2 of 6",
-       "author": {
-         "authorized": "Pendexter, Hugh, 1875-1940",
-         "lcna": "no2010022727"
-       }
-     },
-     {"issue": {"issue-date": "1927-12", "volume": "57", "number": "6"}, 
-      "title": "The Desert Moon Mystery",
-      "title-note": "part 3 of 5",
-      "author": {
-       "authorized": "Strahan, Kay Cleaver, 1888-1941",
-       "lcna": "no95043185"
-      }
-     },
-     {"issue": {"issue-date": "1928-01", "volume": "58", "number": "1"}, 
-      "title": "The Roaring Towns",
-      "title-note": "part 3 of 6",
-       "author": {
-         "authorized": "Pendexter, Hugh, 1875-1940",
-         "lcna": "no2010022727"
-       }
-     },
-     {"issue": {"issue-date": "1928-01", "volume": "58", "number": "1"}, 
-      "title": "The Bullet Guide",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1928-01", "volume": "58", "number": "1"}, 
-      "title": "The Desert Moon Mystery",
-      "title-note": "part 4 of 5",
-      "author": {
-       "authorized": "Strahan, Kay Cleaver, 1888-1941",
-       "lcna": "no95043185"
-      }
-     },
      {"issue": {"issue-date": "1928-02", "volume": "58", "number": "2"}, 
       "title": "The Roaring Towns",
       "title-note": "part 4 of 6",
@@ -192,10 +76,9 @@
       }
      }
    ],
-   "additional-note" : "Active contribution renewals are recorded beginning in the 1954 January-June CCE volume, but the earliest actively renewed contribution is noted in the 1954 July-December volume.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-01-10"
+   "last-updated": "2023-01-02"
 }

@@ -5,19 +5,310 @@
    "first-renewed-issue": 
        {"issue-date": "1961-09", "volume": "42", "number": "292"},
    "first-renewed-issue-source": "database",
-   "renewed-issues": [
-      {"issue-date": "1961-09", "volume": "42", "number": "292"}
-   ], 
-   "renewed-issue-completeness": "active/autorenewals",
    "first-autorenewed-issue": 
       {"issue-date": "1964-03", "cdate": "1964-01-24",
         "volume": "45", "number": "322"},
    "first-renewed-contribution": 
       {"issue": {"issue-date": "1945-06", "volume": "17", "number": "97"}},
    "first-renewed-contribution-source": "1972-JanJun",
+   "renewed-issue-completeness": "active/autorenewals",
+   "renewed-issues": [
+      {"issue-date": "1961-09", "volume": "42", "number": "292"}
+   ], 
+   "renewed-contribution-completeness": "active/1949",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1945-06", "volume": "17", "number": "97"},
+        "title": "The Kill of the Battle Ship Tirpitz",
+        "author": {
+         "authorized": "Forester, C. S. (Cecil Scott), 1899-1966",
+         "lcna": "n50024850"
+        }
+     },
+     {"issue": {"issue-date": "1945-09"},
+        "title": "The Unsinkable",
+        "author": {
+         "authorized": "Forester, C. S. (Cecil Scott), 1899-1966",
+         "lcna": "n50024850"
+        }
+     },
+     {"issue": {"issue-date": "1946-01"},
+      "title": "No Horses Can Do That to Me",
+      "author": {
+         "authorized": "Smith, H. Allen (Harry Allen), 1907-1976",
+         "lcna": "n50013428"
+       }
+     },
+     {"issue": {"issue-date": "1946-01"},
+      "title": "Give Us This Day",
+      "author": {
+        "authorized": "Gallico, Paul, 1897-1976",
+        "lcna": "n79114016"
+      }
+     },
+     {"issue": {"issue-date": "1946-06"},
+      "title": "The Case of the Movie Murder",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1946-07"},
+      "title": "You Get the Point",
+      "author": {
+        "authorized": "Gallico, Paul, 1897-1976",
+        "lcna": "n79114016"
+      }
+     },
+     {"issue": {"issue-date": "1946-09"},
+      "title": "Brethren of the Singing Reel",
+      "author": {
+        "authorized": "Gallico, Paul, 1897-1976",
+        "lcna": "n79114016"
+      }
+     },
+     {"issue": {"issue-date": "1946-10"},
+      "title": "Was Them the Days, Boys?",
+      "author": {
+        "authorized": "Gallico, Paul, 1897-1976",
+        "lcna": "n79114016"
+      }
+     },
+     {"issue": {"issue-date": "1946-11"},
+      "title": "Scoop",
+      "author": {
+        "authorized": "Gallico, Paul, 1897-1976",
+        "lcna": "n79114016"
+      }
+     },
+     {"issue": {"issue-date": "1947-01"},
+      "title": "The Year Santa Stayed Away",
+      "author": {
+       "authorized": "Schulberg, Budd",
+       "lcna": "n79045099"
+      }
+     },
+     {"issue": {"issue-date": "1947-02"},
+      "title": "Captain With the Book and Gun",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1947-08"},
+      "title": "Horror House",
+      "author": {
+        "authorized": "Gallico, Paul, 1897-1976",
+        "lcna": "n79114016"
+      }
+     },
+     {"issue": {"issue-date": "1947-10"},
+      "title": "Reporter's Dream",
+      "author": {
+        "authorized": "Gallico, Paul, 1897-1976",
+        "lcna": "n79114016"
+      }
+     },
+     {"issue": {"issue-date": "1947-12"},
+      "title": "Kickback",
+      "author": {
+        "authorized": "Gallico, Paul, 1897-1976",
+        "lcna": "n79114016"
+      }
+     },
+     {"issue": {"issue-date": "1948-02"},
+      "title": "Story Writer's Dream",
+      "author": {
+        "authorized": "Gallico, Paul, 1897-1976",
+        "lcna": "n79114016"
+      }
+     },
+     {"issue": {"issue-date": "1948-03"},
+      "title": "Wilson Mizner Lays a Few Bets",
+      "author": {
+        "authorized": "Johnston, Alva",
+        "lcna": "n85324645"
+      }
+     },
+     {"issue": {"issue-date": "1948-03"},
+      "title": "Dixie's Fat Cats",
+      "author": {
+         "authorized": "Gowen, Emmett, 1902-",
+         "lcna": "no93014587"
+      }
+     },
+     {"issue": {"issue-date": "1948-09"},
+      "title": "How Low Down is the Mangy Coyote",
+      "author": {
+       "authorized": "Dobie, J. Frank (James Frank), 1888-1964",
+       "lcna": "n79021385"
+      }
+     },
+     {"issue": {"issue-date": "1948-11"},
+      "title": "Cinderella Daddy",
+      "author": {
+        "authorized": "Gallico, Paul, 1897-1976",
+        "lcna": "n79114016"
+      }
+     },
+     {"issue": {"issue-date": "1948-12"},
+      "title": "Adventure in Necrolatry",
+      "author": {
+        "authorized": "Gallico, Paul, 1897-1976",
+        "lcna": "n79114016"
+      }
+     },
+     {"issue": {"issue-date": "1948-12"},
+      "title": "How Tough is Wild Turkey",
+      "author": {
+         "authorized": "Ford, Corey, 1902-1969",
+         "lcna": "n50024813"
+       }
+     },
+     {"issue": {"issue-date": "1949-01"},
+      "title": "The Big Cats Walk Alone",
+      "author": {
+        "authorized": "Mannix, Daniel P. (Daniel Pratt), 1911-1997",
+        "lcna": "n81053670"
+      }
+     },
+     {"issue": {"issue-date": "1949-02"},
+      "title": "There Are No Average Sailfish",
+      "author": {
+        "authorized": "Wylie, Philip, 1902-1971",
+        "lcna": "n79145476"
+      }
+     },
+     {"issue": {"issue-date": "1949-04"},
+      "title": "The Middle Class Murder",
+      "author": {
+        "authorized": "Gallico, Paul, 1897-1976",
+        "lcna": "n79114016"
+      }
+     },
+     {"issue": {"issue-date": "1949-04"},
+      "title": "The Cutie That Opened the West",
+      "authors": [
+        {"authorized": "Ford, Corey, 1902-1969", "lcna": "n50024813"},
+        {"authorized": "Candy, Robert, 1920-", "lcna": "n88011742"}
+      ]
+     },
+     {"issue": {"issue-date": "1949-06"},
+      "title": "Fightin' Critter",
+      "author": {
+        "authorized": "Mannix, Daniel P. (Daniel Pratt), 1911-1997",
+        "lcna": "n81053670"
+      }
+     },
+     {"issue": {"issue-date": "1949-06"},
+      "title": "That Long Count Long Ago",
+      "author": {
+        "authorized": "Gallico, Paul, 1897-1976",
+        "lcna": "n79114016"
+      }
+     },
+     {"issue": {"issue-date": "1949-09"},
+      "title": "A Marlin is a Fighting Fish",
+      "author": {
+        "authorized": "Wylie, Philip, 1902-1971",
+        "lcna": "n79145476"
+      }
+     },
+     {"issue": {"issue-date": "1949-09"},
+      "title": "Sportsmanship",
+      "author": {
+        "authorized": "Ruark, Robert, 1915-1965",
+        "lcna": "n50025989"
+      }
+     },
+     {"issue": {"issue-date": "1949-12"},
+      "title": "Fighting Dogs",
+      "author": {
+        "authorized": "Mannix, Daniel P. (Daniel Pratt), 1911-1997",
+        "lcna": "n81053670"
+      }
+     },
+     {"issue": {"issue-date": "1949-12"},
+      "title": "Mister Puckett and the Fabulous Fish",
+      "author": {
+         "authorized": "Gowen, Emmett, 1902-",
+         "lcna": "no93014587"
+      }
+     },
+     {"issue": {"issue-date": "1950-01"},
+      "title": "How to Ride Up a Wall",
+      "author": {
+         "authorized": "Gresham, William Lindsay, 1909-1962",
+         "lcna": "no96049311"
+      }
+     },
+     {"issue": {"issue-date": "1950-02"},
+      "title": "The Pleasures of Bug Hunting",
+      "author": {
+         "authorized": "Smith, H. Allen (Harry Allen), 1907-1976",
+         "lcna": "n50013428"
+       }
+     },
+     {"issue": {"issue-date": "1950-03"},
+      "title": "Double the Guard at Gettysburg",
+      "author": {
+         "authorized": "Smith, H. Allen (Harry Allen), 1907-1976",
+         "lcna": "n50013428"
+       }
+     },
+     {"issue": {"issue-date": "1950-03"},
+      "title": "The Man Who Borrowed California",
+      "author": {
+         "authorized": "Scullin, George",
+         "lcna": "nb2019015953"
+       }
+     },
+     {"issue": {"issue-date": "1950-04"},
+      "title": "Paradise",
+      "author": {
+        "authorized": "Ruark, Robert, 1915-1965",
+        "lcna": "n50025989"
+      }
+     },
+     {"issue": {"issue-date": "1950-04"},
+      "title": "Them Golden Gauntlets",
+      "author": {
+        "authorized": "Gallico, Paul, 1897-1976",
+        "lcna": "n79114016"
+      }
+     },
+     {"issue": {"issue-date": "1950-04"},
+      "title": "The Lake That Got Away",
+      "authors": [
+        {"authorized": "Ford, Corey, 1902-1969", "lcna": "n50024813"},
+        {"authorized": "MacBain, Alastair", "lcna": "no2003012703"}
+      ]
+     },
+     {"issue": {"issue-date": "1950-05"},
+      "title": "Get Them Pictures",
+      "author": {
+        "authorized": "Gallico, Paul, 1897-1976",
+        "lcna": "n79114016"
+      }
+     },
+     {"issue": {"issue-date": "1950-06"},
+      "title": "The Death of Manolete",
+      "author": {
+        "authorized": "Conrad, Barnaby, 1922-2013",
+        "lcna": "n82214495"
+      }
+     },
+     {"issue": {"issue-date": "1950-09"},
+        "title": "The Golden Days of Moonshine",
+        "author": {
+         "authorized": "Asbury, Herbert, 1891-1963",
+         "lcna": "n85289789"
+        }
+     }
+   ],
+   "comment": "Pick up renewals with registered works database.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-03-11"
+   "last-updated": "2023-01-18"
 }

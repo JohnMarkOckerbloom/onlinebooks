@@ -8,11 +8,11 @@
       "note": "FictionMags"}
    ],
    "first-renewed-issue": 
-     {"issue-date": "1927-01-07", "volume": "82", "number": "6"},
-   "first-renewed-issue-source": "1954-JanJun",
+     {"issue-date": "1928-01-07", "volume": "88", "number": "2"},
+   "first-renewed-issue-source": "1955-JanJun",
    "first-renewed-contribution":
-    {"issue": {"issue-date": "1927-01-07", "volume": "82", "number": "6"}},
-   "first-renewed-contribution-source": "1954-JulDec",
+     {"issue": {"issue-date": "1928-02-18", "volume": "89", "number": "2"}},
+   "first-renewed-contribution-source": "1955-JulDec",
    "last-issue": {"issue-date": "1931-10", "volume": "103", "number": "6"},
    "see-also": [
       {"id": "completestories", "note": "Complete Stories"},
@@ -20,38 +20,6 @@
    ],
    "renewed-issue-completeness": "active/end",
    "renewed-issues": [
-     {"issue-date": "1927-01-07", "volume": "82", "number": "6"},
-     {"issue-date": "1927-01-20", "volume": "83", "number": "1"},
-     {"issue-date": "1927-02-07", "volume": "83", "number": "2"},
-     {"issue-date": "1927-02-20", "volume": "83", "number": "3"},
-     {"issue-date": "1927-03-07", "volume": "83", "number": "4"},
-     {"issue-date": "1927-03-20", "volume": "83", "number": "5"},
-     {"issue-date": "1927-04-07", "volume": "83", "number": "6"},
-     {"issue-date": "1927-04-20", "volume": "84", "number": "1"},
-     {"issue-date": "1927-05-07", "volume": "84", "number": "2"},
-     {"issue-date": "1927-05-20", "volume": "84", "number": "3"},
-     {"issue-date": "1927-06-07", "volume": "84", "number": "4"},
-     {"issue-date": "1927-06-20", "volume": "84", "number": "5"},
-     {"issue-date": "1927-07-07", "volume": "84", "number": "6"},
-     {"issue-date": "1927-07-20", "volume": "85", "number": "1"},
-     {"issue-date": "1927-08-07", "volume": "85", "number": "2"},
-     {"issue-date": "1927-08-20", "volume": "85", "number": "3"},
-     {"issue-date": "1927-09-07", "volume": "85", "number": "4"},
-     {"issue-date": "1927-09-24", "volume": "85", "number": "5"},
-     {"issue-date": "1927-10-01", "volume": "85", "number": "6"},
-     {"issue-date": "1927-10-08", "volume": "86", "number": "1"},
-     {"issue-date": "1927-10-15", "volume": "86", "number": "2"},
-     {"issue-date": "1927-10-22", "volume": "86", "number": "3"},
-     {"issue-date": "1927-10-29", "volume": "86", "number": "4"},
-     {"issue-date": "1927-11-05", "volume": "86", "number": "5"},
-     {"issue-date": "1927-11-12", "volume": "86", "number": "6"},
-     {"issue-date": "1927-11-19", "volume": "87", "number": "1"},
-     {"issue-date": "1927-11-26", "volume": "87", "number": "2"},
-     {"issue-date": "1927-12-03", "volume": "87", "number": "3"},
-     {"issue-date": "1927-12-10", "volume": "87", "number": "4"},
-     {"issue-date": "1927-12-17", "volume": "87", "number": "5"},
-     {"issue-date": "1927-12-24", "volume": "87", "number": "6"},
-     {"issue-date": "1927-12-31", "volume": "88", "number": "1"},
      {"issue-date": "1928-01-07", "volume": "88", "number": "2"},
      {"issue-date": "1928-01-14", "volume": "88", "number": "3"},
      {"issue-date": "1928-01-21", "volume": "88", "number": "4"},
@@ -159,34 +127,6 @@
    ],
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1927-01-07", "volume": "82", "number": "6"},
-      "title": "The Fighting Gringo",
-      "author": {
-       "authorized": "Knibbs, Henry Herbert, 1874-1945",
-       "lcna": "no96011372"
-      }
-     },
-     {"issue": {"issue-date": "1927-03-07", "volume": "83", "number": "4"},
-      "title": "The Easy Mark",
-      "author": {
-       "authorized": "Lynde, Francis, 1856-1930",
-       "lcna": "n88093606"
-      }
-     },
-     {"issue": {"issue-date": "1927-07-24", "volume": "85", "number": "5"},
-      "title": "The Blue Envelope",
-      "author": {
-       "authorized": "Lynde, Francis, 1856-1930",
-       "lcna": "n88093606"
-      }
-     },
-     {"issue": {"issue-date": "1927-12-03", "volume": "87", "number": "3"},
-      "title": "The Devil to Pay",
-      "author": {
-       "authorized": "Lynde, Francis, 1856-1930",
-       "lcna": "n88093606"
-      }
-     },
      {"issue": {"issue-date": "1928-02-18", "volume": "89", "number": "2"},
       "title": "A Lone Hand",
       "author": {
@@ -232,5 +172,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-11-02"
+   "last-updated": "2023-01-05"
 }

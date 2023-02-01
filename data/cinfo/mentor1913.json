@@ -7,18 +7,11 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": 
-      {"issue": {"issue-date": "1928-01", "cdate": "1927-12-21"}},
-   "first-renewed-contribution-source": "1955-JanJun",
+     {"issue": {"issue-date": "1930-05"}},
+   "first-renewed-contribution-source": "1957-JanJun",
    "last-issue": {"issue-date": "1931-01", "volume": "23", "number": "1"},
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1928-01", "cdate": "1927-12-21"},
-      "title": "Portrait",
-       "author": {
-         "authorized": "Beach, Rex, 1877-1949",
-         "lcna": "n84804866"
-       }
-     },
      {"issue": {"issue-date": "1930-05"},
       "title": "The Stalking Horse",
       "title-note": "part 1 of 4",
@@ -57,5 +50,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-12-14"
+   "last-updated": "2023-01-01"
 }

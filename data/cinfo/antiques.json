@@ -4,27 +4,14 @@
    "online": "1",
    "first-issue": {"issue-date": "1922-01", "volume": "1", "number": "1"},
    "first-renewed-issue": 
-     {"issue-date": "1927-01", "volume": "11", "number": "1"},
-   "first-renewed-issue-source": "1954-JulDec",
+     {"issue-date": "1928-02", "volume": "13", "number": "2",
+      "cdate": "1928-01-30"},
+   "first-renewed-issue-source": "1955-JulDec",
    "first-renewed-contribution":
       {"issue": {"issue-date": "1945-11"}},
    "first-renewed-contribution-source": "1973-JanJun",
    "renewed-issue-completeness": "active/1930",
    "renewed-issues": [
-     {"issue-date": "1927-01", "volume": "11", "number": "1"},
-     {"issue-date": "1927-02", "volume": "11", "number": "2"},
-     {"issue-date": "1927-03", "volume": "11", "number": "3"},
-     {"issue-date": "1927-04", "volume": "11", "number": "4"},
-     {"issue-date": "1927-05", "volume": "11", "number": "5"},
-     {"issue-date": "1927-06", "volume": "11", "number": "6"},
-     {"issue-date": "1927-07", "volume": "12", "number": "1"},
-     {"issue-date": "1927-08", "volume": "12", "number": "2"},
-     {"issue-date": "1927-09", "volume": "12", "number": "3"},
-     {"issue-date": "1927-10", "volume": "12", "number": "4"},
-     {"issue-date": "1927-11", "volume": "12", "number": "5"},
-     {"issue-date": "1927-12", "volume": "12", "number": "6"},
-     {"issue-date": "1928-01", "volume": "13", "number": "1",
-      "cdate": "1927-12-28"},
      {"issue-date": "1928-02", "volume": "13", "number": "2",
       "cdate": "1928-01-30"},
      {"issue-date": "1928-03", "volume": "13", "number": "3"},
@@ -134,5 +121,5 @@
    },
    "acknowledgement": 
       "Thanks to Peter Sullivan for copyright research on this title.",
-   "last-updated": "2022-11-02"
+   "last-updated": "2023-01-02"
 }

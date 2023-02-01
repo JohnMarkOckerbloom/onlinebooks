@@ -6,12 +6,12 @@
        "note": "FictionMags (partial)"}
    ],
    "first-renewed-issue": 
-      {"issue-date": "1927-02", "volume": "81", "number": "2",
-       "cdate": "1927-01-21"},
-   "first-renewed-issue-source": "1955-JanJun",
+      {"issue-date": "1928-02", "volume": "83", "number": "2",
+       "cdate": "1928-01-25"},
+   "first-renewed-issue-source": "1955-JulDec",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1927-02", "volume": "81", "number": "2"}},
-   "first-renewed-contribution-source": "1954-JanJun",
+     {"issue": {"issue-date": "1928-02", "volume": "83", "number": "2"}},
+   "first-renewed-contribution-source": "1955-JanJun",
    "last-issue": {"issue-date": "1939-05", "volume": "105", "number": "5"},
    "succeeded-by": [
       {"id": "scribnerscomment",
@@ -19,20 +19,6 @@
    ],
    "renewed-issue-completeness": "active/1930",
    "renewed-issues": [
-      {"issue-date": "1927-02", "volume": "81", "number": "2",
-       "cdate": "1927-01-21"},
-      {"issue-date": "1927-03", "volume": "81", "number": "3"}, 
-      {"issue-date": "1927-04", "volume": "81", "number": "4"}, 
-      {"issue-date": "1927-05", "volume": "81", "number": "5"}, 
-      {"issue-date": "1927-06", "volume": "81", "number": "6"},       
-      {"issue-date": "1927-07", "volume": "82", "number": "1"}, 
-      {"issue-date": "1927-08", "volume": "82", "number": "2"},
-      {"issue-date": "1927-09", "volume": "82", "number": "3"},
-      {"issue-date": "1927-10", "volume": "82", "number": "4"},
-      {"issue-date": "1927-11", "volume": "82", "number": "5"},
-      {"issue-date": "1927-12", "volume": "82", "number": "6"},
-      {"issue-date": "1928-01", "volume": "83", "number": "1",
-       "cdate": "1927-12-28"},
       {"issue-date": "1928-02", "volume": "83", "number": "2",
        "cdate": "1928-01-25"},
       {"issue-date": "1928-03", "volume": "83", "number": "3"}, 
@@ -87,111 +73,8 @@
       {"issue-date": "1931-10", "volume": "90", "number": "4"},
       {"issue-date": "1931-11", "volume": "90", "number": "5"}
    ],
-   "renewed-contribution-completeness": "active/1927",
+   "renewed-contribution-completeness": "active/1930",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1927-02", "volume": "81", "number": "2"},
-      "title": "When the Turtles Sing",
-      "author": {
-         "authorized": "Marquis, Don, 1878-1937",
-         "lcna": "n50041532"
-       }
-     },
-     {"issue": {"issue-date": "1927-03", "volume": "81", "number": "3"},
-      "title": "The Killers",
-      "author": {
-         "authorized": "Hemingway, Ernest, 1899-1961",
-         "lcna": "n78078534"
-       }
-     },
-     {"issue": {"issue-date": "1927-05", "volume": "81", "number": "5"},
-      "title": "The Canary Murder Case",
-      "title-note": "part 1 of 4",
-      "author": {
-       "authorized": "Van Dine, S. S.",
-       "lcna": "n79117174"
-      }
-     },
-     {"issue": {"issue-date": "1927-06", "volume": "81", "number": "6"},
-      "title": "The Canary Murder Case",
-      "title-note": "part 2 of 4",
-      "author": {
-       "authorized": "Van Dine, S. S.",
-       "lcna": "n79117174"
-      }
-     },
-     {"issue": {"issue-date": "1927-07", "volume": "82", "number": "1"},
-      "title": "The Canary Murder Case",
-      "title-note": "part 3 of 4",
-      "author": {
-       "authorized": "Van Dine, S. S.",
-       "lcna": "n79117174"
-      }
-     },
-     {"issue": {"issue-date": "1927-08", "volume": "82", "number": "2"},
-      "title": "A Keeper of Tradition",
-      "author": {
-         "authorized": "Marquis, Don, 1878-1937",
-         "lcna": "n50041532"
-       }
-     },
-     {"issue": {"issue-date": "1927-08", "volume": "82", "number": "2"},
-      "title": "The Canary Murder Case",
-      "title-note": "part 4 of 4",
-      "author": {
-       "authorized": "Van Dine, S. S.",
-       "lcna": "n79117174"
-      }
-     },
-     {"issue": {"issue-date": "1927-08", "volume": "82", "number": "2"},
-        "title": "New Deal",
-        "author": {
-         "authorized": "Steele, Wilbur Daniel, 1886-1970",
-         "lcna": "no98007702"
-        }
-     },
-     {"issue": {"issue-date": "1927-11", "volume": "82", "number": "5"},
-        "title": "Your Obituary, Well Written",
-        "author": {
-         "authorized": "Aiken, Conrad, 1889-1973",
-         "lcna": "n80060447"
-        }
-     },
-     {"issue": {"issue-date": "1927-11", "volume": "82", "number": "5"},
-        "title": "Stick 'em Up",
-        "author": {
-         "authorized": "Hope, Edward, 1896-1958",
-         "lcna": "no89019131"
-        }
-     },
-     {"issue": {"issue-date": "1927-12", "volume": "82", "number": "6"},
-      "title": "The Flea, the Pup, and the Millennium",
-      "author": {
-         "authorized": "Marquis, Don, 1878-1937",
-         "lcna": "n50041532"
-       }
-     },
-     {"issue": {"issue-date": "1928-01", "volume": "83", "number": "1"}, 
-      "title": "A Silent Wooing",
-      "author": {
-       "authorized": "Galsworthy, John, 1867-1933",
-       "lcna": "n79041972"
-      }
-     },
-     {"issue": {"issue-date": "1928-01", "volume": "83", "number": "1"}, 
-      "title": "O'Meara, the Mayflower and Mrs.  MacLirr",
-      "author": {
-         "authorized": "Marquis, Don, 1878-1937",
-         "lcna": "n50041532"
-       }
-     },
-     {"issue": {"issue-date": "1928-01", "volume": "83", "number": "1"}, 
-      "title": "The Greene Murder Case",
-      "title-note": "part 1 of 4",
-      "author": {
-       "authorized": "Van Dine, S. S.",
-       "lcna": "n79117174"
-      }
-     },
      {"issue": {"issue-date": "1928-02", "volume": "83", "number": "2"},
         "title": "Spider Spider",
         "author": {
@@ -237,17 +120,348 @@
        "lcna": "n79117174"
       }
      },
+     {"issue": {"issue-date": "1928-06", "volume": "83", "number": "6"},
+        "title": "Duet in September",
+        "author": {
+         "authorized": "Edmonds, Walter D. (Walter Dumaux), 1903-1998",
+         "lcna": "n79083990"
+        }
+     },
+     {"issue": {"issue-date": "1928-07", "volume": "84", "number": "1"},
+        "title": "Two Stories: Regret for Youth and Predicament",
+        "author": {
+         "authorized": "Callaghan, Morley, 1903-1990",
+         "lcna": "n79006957"
+        }
+     },
+     {"issue": {"issue-date": "1928-08", "volume": "84", "number": "2"},
+        "title": "Soldier Harmon",
+        "author": {
+         "authorized": "Callaghan, Morley, 1903-1990",
+         "lcna": "n79006957"
+        }
+     },
      {"issue": {"issue-date": "1928-08", "volume": "84", "number": "2"},
         "title": "Farewell! Farewell!",
         "author": {
          "authorized": "Aiken, Conrad, 1889-1973",
          "lcna": "n80060447"
         }
+     },
+     {"issue": {"issue-date": "1928-12", "volume": "84", "number": "6"},
+        "title": "In His Own Country",
+        "title-note": "part 1 of 3",
+        "author": {
+         "authorized": "Callaghan, Morley, 1903-1990",
+         "lcna": "n79006957"
+        }
+     },
+     {"issue": {"issue-date": "1929-02", "volume": "85", "number": "2"},
+        "title": "In His Own Country",
+        "title-note": "part 2 of 3",
+        "author": {
+         "authorized": "Callaghan, Morley, 1903-1990",
+         "lcna": "n79006957"
+        }
+     },
+     {"issue": {"issue-date": "1929-03", "volume": "85", "number": "3"},
+        "title": "In His Own Country",
+        "title-note": "part 3 of 3",
+        "author": {
+         "authorized": "Callaghan, Morley, 1903-1990",
+         "lcna": "n79006957"
+        }
+     },
+     {"issue": {"issue-date": "1929-05", "volume": "85", "number": "5"},
+      "title": "A Farewell to Arms",
+      "title-note": "part 1 of 6",
+      "author": {
+        "authorized": "Hemingway, Ernest, 1899-1961",
+        "lcna": "n78078534"
+      }
+     },
+     {"issue": {"issue-date": "1929-06", "volume": "85", "number": "6"},
+      "title": "A Farewell to Arms",
+      "title-note": "part 2 of 6",
+      "author": {
+        "authorized": "Hemingway, Ernest, 1899-1961",
+        "lcna": "n78078534"
+      }
+     },
+     {"issue": {"issue-date": "1929-07", "volume": "86", "number": "1"},
+      "title": "A Farewell to Arms",
+      "title-note": "part 3 of 6",
+      "author": {
+        "authorized": "Hemingway, Ernest, 1899-1961",
+        "lcna": "n78078534"
+      }
+     },
+     {"issue": {"issue-date": "1929-08", "volume": "86", "number": "2"},
+      "title": "A Farewell to Arms",
+      "title-note": "part 4 of 6",
+      "author": {
+        "authorized": "Hemingway, Ernest, 1899-1961",
+        "lcna": "n78078534"
+      }
+     },
+     {"issue": {"issue-date": "1929-09", "volume": "86", "number": "3"},
+      "title": "A Farewell to Arms",
+      "title-note": "part 5 of 6",
+      "author": {
+        "authorized": "Hemingway, Ernest, 1899-1961",
+        "lcna": "n78078534"
+      }
+     },
+     {"issue": {"issue-date": "1929-10", "volume": "86", "number": "4"},
+      "title": "A Farewell to Arms",
+      "title-note": "part 6 of 6",
+      "author": {
+        "authorized": "Hemingway, Ernest, 1899-1961",
+        "lcna": "n78078534"
+      }
+     },
+     {"issue": {"issue-date": "1930-01", "volume": "87", "number": "1"},
+      "title": "Matter of Standards",
+      "author": {
+         "authorized": "Street, Julian, 1879-1947",
+         "lcna": "n86114725"
+       }
+     },
+     {"issue": {"issue-date": "1930-01", "volume": "87", "number": "1"},
+      "title": "In a Strange Town",
+      "author": {
+       "authorized": "Anderson, Sherwood, 1876-1941",
+       "lcna": "n79045519"
+      }
+     },
+     {"issue": {"issue-date": "1930-01", "volume": "87", "number": "1"},
+        "title": "Character",
+        "author": {
+         "authorized": "Hale, Nancy, 1908-1988",
+         "lcna": "n50018614"
+        }
+     },
+     {"issue": {"issue-date": "1930-02", "volume": "87", "number": "2"},
+      "title": "Procedure",
+      "author": {
+       "authorized": "Connolly, James B. (James Brendan), 1868-1957",
+       "lcna": "no90002215"
+      }
+     },
+     {"issue": {"issue-date": "1930-03", "volume": "87", "number": "3"},
+        "title": "The Hills",
+        "author": {
+         "authorized": "Ficke, Arthur Davison, 1883-1945",
+         "lcna": "n82119450"
+        }
+     },
+     {"issue": {"issue-date": "1930-06", "volume": "87", "number": "6"},
+       "title": "A Very Late Spring",
+       "author": {
+         "authorized": "Caldwell, Erskine, 1903-1987",
+         "lcna": "n78095661"
+       }
+     },
+     {"issue": {"issue-date": "1930-06", "volume": "87", "number": "6"},
+       "title": "The Mating of Marjorie",
+       "author": {
+         "authorized": "Caldwell, Erskine, 1903-1987",
+         "lcna": "n78095661"
+       }
+     },
+     {"issue": {"issue-date": "1930-06", "volume": "87", "number": "6"},
+       "title": "The Land of Juan de Dios",
+       "author": {
+         "authorized": "Young, Stark, 1881-1963",
+         "lcna": "n80002589"
+       }
+     },
+     {"issue": {"issue-date": "1930-06", "volume": "87", "number": "6"},
+       "title": "J. E. B. Stuart: Harper's Ferry, Stuart's First Appearance",
+       "author": {
+         "authorized": "Thomason, John W., Jr. (John William), 1893-1944",
+         "lcna": "n83130300"
+       }
+     },
+     {"issue": {"issue-date": "1930-07", "volume": "88", "number": "1"},
+      "title": "Cotton Mill",
+      "author": {
+       "authorized": "Anderson, Sherwood, 1876-1941",
+       "lcna": "n79045519"
+      }
+     },
+     {"issue": {"issue-date": "1930-07", "volume": "88", "number": "1"},
+       "title": "J. E. B. Stuart: Stuart's First War Year",
+       "author": {
+         "authorized": "Thomason, John W., Jr. (John William), 1893-1944",
+         "lcna": "n83130300"
+       }
+     },
+     {"issue": {"issue-date": "1930-08", "volume": "88", "number": "2"},
+        "title": "S. S. San Pedro",
+        "author": {
+         "authorized": "Cozzens, James Gould, 1903-1978",
+         "lcna": "n79061394"
+        }
+     },
+     {"issue": {"issue-date": "1930-08", "volume": "88", "number": "2"},
+        "title": "Lady in a Green Dress",
+        "author": {
+         "authorized": "Callaghan, Morley, 1903-1990",
+         "lcna": "n79006957"
+        }
+     },
+     {"issue": {"issue-date": "1930-08", "volume": "88", "number": "2"},
+       "title": "J. E. B. Stuart: The Seven Day's Battle and Events Leading Up to the Second Manassas Campaign",
+       "author": {
+         "authorized": "Thomason, John W., Jr. (John William), 1893-1944",
+         "lcna": "n83130300"
+       }
+     },
+     {"issue": {"issue-date": "1930-09", "volume": "88", "number": "3"},
+       "title": "J. E. B. Stuart: Sharpsburg and the Maryland campaign of Lee prior to Chancellorsville",
+       "author": {
+         "authorized": "Thomason, John W., Jr. (John William), 1893-1944",
+         "lcna": "n83130300"
+       }
+     },
+     {"issue": {"issue-date": "1930-09", "volume": "88", "number": "3"},
+      "title": "Puritan Shadow",
+      "author": {
+       "authorized": "Train, Arthur, 1875-1945",
+       "lcna": "n50014661"
+      }
+     },
+     {"issue": {"issue-date": "1930-10", "volume": "88", "number": "4"},
+       "title": "J. E. B. Stuart: The Wilderness and Yellow Tavern",
+       "author": {
+         "authorized": "Thomason, John W., Jr. (John William), 1893-1944",
+         "lcna": "n83130300"
+       }
+     },
+     {"issue": {"issue-date": "1930-12", "volume": "88", "number": "6"},
+      "title": "It's a Woman's Age",
+      "author": {
+       "authorized": "Anderson, Sherwood, 1876-1941",
+       "lcna": "n79045519"
+      }
+     },
+     {"issue": {"issue-date": "1931-01", "volume": "89", "number": "1"},
+      "title": "Dry September",
+      "author": {
+         "authorized": "Faulkner, William, 1897-1962",
+         "lcna": "n79003304"
+      }
+     },
+     {"issue": {"issue-date": "1931-02", "volume": "89", "number": "2"},
+        "title": "Cracker Chidlings",
+        "author": {
+         "authorized": "Rawlings, Marjorie Kinnan, 1896-1953",
+         "lcna": "n50054037"
+        }
+     },
+     {"issue": {"issue-date": "1931-03", "volume": "89", "number": "3"},
+        "title": "The Weigher of Souls",
+        "author": {
+         "authorized": "Maurois, André, 1885-1967",
+         "lcna": "n80067081"
+        }
+     },
+     {"issue": {"issue-date": "1931-04", "volume": "89", "number": "4"},
+        "title": "Jacob's Ladder",
+        "author": {
+         "authorized": "Rawlings, Marjorie Kinnan, 1896-1953",
+         "lcna": "n50054037"
+        }
+     },
+     {"issue": {"issue-date": "1931-04", "volume": "89", "number": "4"},
+       "title": "Dorothy",
+       "author": {
+         "authorized": "Caldwell, Erskine, 1903-1987",
+         "lcna": "n78095661"
+       }
+     },
+     {"issue": {"issue-date": "1931-05", "volume": "89", "number": "5"},
+       "title": "The Corduroy Pants",
+       "author": {
+         "authorized": "Caldwell, Erskine, 1903-1987",
+         "lcna": "n78095661"
+       }
+     },
+     {"issue": {"issue-date": "1931-06", "volume": "89", "number": "6"},
+      "title": "Spotted Horses",
+      "author": {
+         "authorized": "Faulkner, William, 1897-1962",
+         "lcna": "n79003304"
+      }
+     },
+     {"issue": {"issue-date": "1931-08", "volume": "90", "number": "2"},
+        "title": "Colloque Sentimentale",
+        "author": {
+         "authorized": "Hale, Nancy, 1908-1988",
+         "lcna": "n50018614"
+        }
+     },
+     {"issue": {"issue-date": "1931-09", "volume": "90", "number": "3"},
+        "title": "Three Ghosts of America",
+        "author": {
+         "authorized": "Maurois, André, 1885-1967",
+         "lcna": "n80067081"
+        }
+     },
+     {"issue": {"issue-date": "1931-11", "volume": "90", "number": "5"},
+        "title": "Farewell to Cuba",
+        "author": {
+         "authorized": "Cozzens, James Gould, 1903-1978",
+         "lcna": "n79061394"
+        }
+     },
+     {"issue": {"issue-date": "1931-11", "volume": "90", "number": "5"},
+        "title": "Mr. Powers",
+        "author": {
+         "authorized": "Gordon, Caroline, 1895-1981",
+         "lcna": "n80040363"
+        }
+     },
+     {"issue": {"issue-date": "1931-11", "volume": "90", "number": "5"},
+        "title": "The Revival of the Scholar-Gentleman",
+        "author": {
+         "authorized": "Eastman, Max, 1883-1969",
+         "lcna": "n50024420"
+        }
+     },
+     {"issue": {"issue-date": "1931-11", "volume": "90", "number": "5"},
+      "title": "Echoes of the Jazz Age",
+      "author": {
+       "authorized": "Fitzgerald, F. Scott (Francis Scott), 1896-1940",
+       "lcna": "n79006871"
+      }
+     },
+     {"issue": {"issue-date": "1931-12", "volume": "90", "number": "6"},
+      "title": "Alone",
+      "author": {
+         "authorized": "O'Hara, John, 1905-1970",
+         "lcna": "n79060653"
+      }
+     },
+     {"issue": {"issue-date": "1931-12", "volume": "90", "number": "6"},
+        "title": "A Plumb Clare Conscience",
+        "author": {
+         "authorized": "Rawlings, Marjorie Kinnan, 1896-1953",
+         "lcna": "n50054037"
+        }
+     },
+     {"issue": {"issue-date": "1931-12", "volume": "90", "number": "6"},
+        "title": "Given Woman",
+        "author": {
+         "name": "Jose Villa"
+        }
      }
    ],
+   "comment": "Pick up contributions with 1959 Jan-Jun",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-11-02"
+   "last-updated": "2023-01-26"
 }

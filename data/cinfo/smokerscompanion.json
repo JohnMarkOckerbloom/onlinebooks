@@ -1,25 +1,11 @@
 {
    "title": "The Smokers Companion",
    "first-issue": {"issue-date": "1927-03", "volume": "1", "number": "1"},
-   "first-renewed-issue": "none",
-   "first-renewed-issue-source": "cce",
-   "first-renewed-contribution": 
-      {"issue": {"issue-date": "1927-05"}},
-   "first-renewed-contribution-source": "1955-JanJun",
+   "rights-statement": "NoC-US",
    "last-issue": {"issue-date": "1927-09", "volume": "2", "number": "1"},
-   "renewed-contribution-completeness": "active/end",
-   "renewed-contributions": [
-     {"issue": {"issue-date": "1927-05"}, 
-      "title": "The Gobbler of God",
-      "author": {
-       "authorized": "MacKaye, Percy, 1875-1956",
-       "lcna": "n50041470"
-      }
-     }
-   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-02-24"
+   "last-updated": "2023-01-01"
 }

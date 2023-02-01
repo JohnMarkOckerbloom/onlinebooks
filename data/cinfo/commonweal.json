@@ -5,17 +5,10 @@
        {"issue-date": "1942-02-06", "volume": "35", "number": "16"},
    "first-renewed-issue-source": "1970",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1927-11-23"}}, 
-   "first-renewed-contribution-source": "1955-JanJun",
+     {"issue": {"issue-date": "1929-01-23"}},
+   "first-renewed-contribution-source": "1956-JulDec",
    "renewed-contribution-completeness": "active/1956",
    "renewed-contributions": [
-      {"issue": {"issue-date": "1927-11-23"},
-        "title": "Letter on Death Comes for the Archbishop",
-        "author": {
-         "authorized": "Cather, Willa, 1873-1947",
-         "lcna": "n80015717"
-        }
-      },
       {"issue": {"issue-date": "1929-01-23"},
         "title": "Change",
         "author": {
@@ -886,5 +879,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-05-22"
+   "last-updated": "2023-01-02"
 }

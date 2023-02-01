@@ -4,18 +4,12 @@
    "first-issue":
      {"issue-date": "1921-02", "volume": "1", "number": "1"},
    "first-renewed-issue":
-     {"issue-date": "1927-02", "volume": "7", "number": "1"},
-   "first-renewed-issue-source": "1955-JanJun",
+     {"issue-date": "1928-02", "volume": "8", "number": "1"},
+   "first-renewed-issue-source": "1956-JanJun",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
    "renewed-issue-completeness": "active/1930",
    "renewed-issues": [
-     {"issue-date": "1927-02", "volume": "7", "number": "1"},
-     {"issue-date": "1927-04", "volume": "7", "number": "2"},
-     {"issue-date": "1927-06", "volume": "7", "number": "3"},
-     {"issue-date": "1927-08", "volume": "7", "number": "4"},
-     {"issue-date": "1927-10", "volume": "7", "number": "5"},
-     {"issue-date": "1927-12", "volume": "7", "number": "6"},
      {"issue-date": "1928-02", "volume": "8", "number": "1"},
      {"issue-date": "1928-04", "volume": "8", "number": "2"},
      {"issue-date": "1928-06", "volume": "8", "number": "3"},
@@ -43,5 +37,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-11-02"
+   "last-updated": "2023-01-04"
 }

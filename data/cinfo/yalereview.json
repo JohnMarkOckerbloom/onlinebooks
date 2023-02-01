@@ -5,17 +5,10 @@
       {"issue-date": "1934-Autumn", "volume": "24", "number": "1"},
    "first-renewed-issue-source": "1962-JulDec",
    "first-renewed-contribution":
-      {"issue": {"issue-date": "1927-10"}},
-   "first-renewed-contribution-source": "1954-JulDec",
+     {"issue": {"issue-date": "1928-07"}}, 
+   "first-renewed-contribution-source": "1955-JanJun",
    "renewed-contribution-completeness": "active/1950",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1927-10"},
-      "title": "American Names",
-      "author": {
-       "authorized": "Benét, Stephen Vincent, 1898-1943",
-       "lcna": "n50007691"
-      }
-     },
      {"issue": {"issue-date": "1928-07"}, 
       "title": "Whom Poets Have Neglected",
       "author": {
@@ -527,5 +520,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-05-22"
+   "last-updated": "2023-01-02"
 }

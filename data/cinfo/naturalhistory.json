@@ -4,19 +4,16 @@
    "first-issue":
       {"issue-date": "1919-01", "volume": "19", "number": "1"},
    "first-renewed-issue":
-      {"issue-date": "1927-January-February", "volume": "27", "number": "1"},
-   "first-renewed-issue-source": "1954-JulDec",
+      {"issue-date": "1927-November-December", "volume": "27", "number": "6",
+       "cdate": "1928-02-29"},
+   "first-renewed-issue-source": "1955-JulDec",
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1941-03"}},
    "first-renewed-contribution-source": "1968-JanJun",
    "renewed-issue-completeness": "active/1930",
    "renewed-issues": [
-      {"issue-date": "1927-January-February", "volume": "27", "number": "1"},
-      {"issue-date": "1927-March-April", "volume": "27", "number": "2"},
-      {"issue-date": "1927-May-June", "volume": "27", "number": "3"},
-      {"issue-date": "1927-July-August", "volume": "27", "number": "4"},
-      {"issue-date": "1927-September-October", "volume": "27", "number": "5"},
-      {"issue-date": "1927-November-December", "volume": "27", "number": "6"},
+      {"issue-date": "1927-November-December", "volume": "27", "number": "6",
+       "cdate": "1928-02-29"},
       {"issue-date": "1928-September-October", "volume": "28", "number": "5"},
       {"issue-date": "1928-November-December", "volume": "28", "number": "6"},
       {"issue-date": "1929-January-February", "volume": "29", "number": "1"},
@@ -42,5 +39,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-11-02"
+   "last-updated": "2023-01-03"
 }

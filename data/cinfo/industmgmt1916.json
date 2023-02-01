@@ -1,10 +1,10 @@
 {
    "title": "Industrial Management",
    "title-note": "1916-1927",
-   "first-renewed-issue": "none",
-   "first-renewed-issue-source": "cce",
-   "first-renewed-contribution": "none",
-   "first-renewed-contribution-source": "cce",
+   "online": "1",
+   "first-issue": {"issue-date": "1916-11", "volume": "52", "number": "2"},
+   "rights-statement": "NoC-US",
+   "last-issue": {"issue-date": "1927-12", "volume": "74", "number": "6"},
    "see-also":
       [{"id": "industmgmt1959", "note": "Industrial Management (1959-)"}],
    "responsibility": {
@@ -13,5 +13,5 @@
    },
    "acknowledgement": 
       "Thanks to Nat Bender for copyright research on this title.",
-   "last-updated": "2022-04-22"
+   "last-updated": "2023-01-04"
 }

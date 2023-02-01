@@ -3,14 +3,14 @@
    "online": "1",
    "contents": [
       {"url": "https://www.jstor.org/journal/poetry",
-      "note": "JSTOR (full text also available; after 1926 may require subscription or payment)"}
+      "note": "JSTOR (full text also available; after 1927 may require subscription or payment)"}
    ],
    "first-renewed-issue": 
      {"issue-date": "1944-01", "volume": "63", "number": "4"},
    "first-renewed-issue-source": "1971",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1927-01"}},
-   "first-renewed-contribution-source": "1954-JanJun",
+     {"issue": {"issue-date": "1928-08"}},
+   "first-renewed-contribution-source": "1955-JulDec",
    "renewed-issue-completeness": "active/1949",
    "renewed-issues": [
      {"issue-date": "1944-01", "volume": "63", "number": "4"},
@@ -88,26 +88,6 @@
    "comment": "Pick up issue renewals in database.",
    "renewed-contribution-completeness": "active/1942",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1927-01"},
-      "title": "White Petal Nanitch",
-      "author": {
-         "authorized": "Davis, H. L. (Harold Lenoir), 1896-1960",
-         "lcna": "n50036181"
-      }
-     },
-     {"issue": {"issue-date": "1927-05"},
-        "title": "Croquis",
-        "author": {
-         "name": "Hazel Collister Hutchison"
-        }
-     },
-     {"issue": {"issue-date": "1927-07"},
-        "title": "Sonnets",
-        "author": {
-         "authorized": "Aiken, Conrad, 1889-1973",
-         "lcna": "n80060447"
-        }
-     },
      {"issue": {"issue-date": "1928-08"},
       "title": "Hour After Dawn",
        "author": {
@@ -1174,5 +1154,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-10-11"
+   "last-updated": "2023-01-03"
 }

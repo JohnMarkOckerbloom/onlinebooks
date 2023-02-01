@@ -3,20 +3,21 @@
    "first-issue": 
       {"issue-date": "1926-03", "volume": "1", "number": "1"},
    "first-renewed-issue": 
-      {"issue-date": "1927-01", "volume": "2", "number": "2"},
-   "first-renewed-issue-source": "1955-JanJun",
+      {"issue-date": "1928-01", "volume": "1", "number": "3"},
+   "first-renewed-issue-source": "1956-JanJun",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce",
    "renewed-issue-completeness": "active/1949",
    "renewed-issues": [
-      {"issue-date": "1927-01", "volume": "2", "number": "2"},
       {"issue-date": "1928-01", "volume": "1", "number": "3"}
    ],
-   "additional-note": 
-      "We do not know how long this periodical, from the Unit System Company in Harrisburg, PA, was published, but have not to date found evidence of issues published after 1928. We have nonetheless checked for renewals in all CCE volumes through 1978.",
+   "additional-notes":  [
+      "Volume 1 number 3 is dated after some issues in volume 2 whose copyrights have now expired.",
+      "We do not know how long this periodical, from the Unit System Company in Harrisburg, PA, was published, but have not to date found evidence of issues published after 1928. We have nonetheless checked for renewals in all CCE volumes through 1978."
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-01-05"
+   "last-updated": "2023-01-04"
 }

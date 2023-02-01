@@ -1,18 +1,31 @@
 {
    "title": "New York American",
+   "aka": ["New York Sunday American"],
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1927-05-09"}},
-   "first-renewed-contribution-source": "1954-JanJun",
+     {"issue": {"issue-date": "1928-03-18"}},
+   "first-renewed-contribution-source": "1956-JanJun",
    "last-issue": {"issue-date": "1937-06-24"},
-   "renewed-contribution-completeness": "active/1927",
+   "succeeded-by":
+      [{"id": "nyjnlamerican", "note": "New York Journal-American"}],
+   "see-also":
+      [{"id": "amweeklysunday", "note": "American Weekly Sunday Magazine"}],
+   "renewed-contribution-completeness": "active/1928",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1927-05-09"},
-       "title": "Merely Margy, an Awfully Sweet Girl",
-       "note": "Renewed under Artwork. Listed as work for hire by John Held, Jr., as an employee of King Features Syndicate.  King Features is the author for copyright purposes.",
+     {"issue": {"issue-date": "1928-03-18"},
+       "title": "Bringing Up Father",
+       "note": "Renewed under Artwork. Listed as work for hire by George McManus as an employee of King Features Syndicate.  King Features is the author for copyright purposes.",
        "authors": [
-          {"authorized": "Held, John, Jr., 1889-1958", "lcna": "n50028528"},
+          {"authorized": "McManus, George, 1884-1954", "lcna": "n90608607"},
+          {"authorized": "King Features Syndicate", "lcna": "n82010039"}
+       ]
+     },
+     {"issue": {"issue-date": "1928-03-25"},
+       "title": "Bringing Up Father",
+       "note": "Renewed under Artwork. Listed as work for hire by George McManus as an employee of King Features Syndicate.  King Features is the author for copyright purposes.",
+       "authors": [
+          {"authorized": "McManus, George, 1884-1954", "lcna": "n90608607"},
           {"authorized": "King Features Syndicate", "lcna": "n82010039"}
        ]
      },
@@ -77,14 +90,113 @@
        "authorized": "Wells, H. G. (Herbert George), 1866-1946",
        "lcna": "n79063613"
       }
+     },
+     {"issue": {"issue-date": "1928-11-18"}, 
+      "title": "Into Thin Air",
+      "title-note": "part 1 of 10",
+       "authors": [
+          {"authorized": "Winslow, Horatio, 1882-1972", "lcna": "no95043693"},
+          {"authorized": "Quirk, Leslie W., 1882-1960", "lcna": "no2009070074"}
+       ]
+     },
+     {"issue": {"issue-date": "1928-11-25"}, 
+      "title": "Into Thin Air",
+      "title-note": "part 2 of 10",
+       "authors": [
+          {"authorized": "Winslow, Horatio, 1882-1972", "lcna": "no95043693"},
+          {"authorized": "Quirk, Leslie W., 1882-1960", "lcna": "no2009070074"}
+       ]
+     },
+     {"issue": {"issue-date": "1928-12-02"}, 
+      "title": "Into Thin Air",
+      "title-note": "part 3 of 10",
+       "authors": [
+          {"authorized": "Winslow, Horatio, 1882-1972", "lcna": "no95043693"},
+          {"authorized": "Quirk, Leslie W., 1882-1960", "lcna": "no2009070074"}
+       ]
+     },
+     {"issue": {"issue-date": "1928-12-09"}, 
+      "title": "Into Thin Air",
+      "title-note": "part 4 of 10",
+       "authors": [
+          {"authorized": "Winslow, Horatio, 1882-1972", "lcna": "no95043693"},
+          {"authorized": "Quirk, Leslie W., 1882-1960", "lcna": "no2009070074"}
+       ]
+     },
+     {"issue": {"issue-date": "1928-12-16"}, 
+      "title": "Into Thin Air",
+      "title-note": "part 5 of 10",
+       "authors": [
+          {"authorized": "Winslow, Horatio, 1882-1972", "lcna": "no95043693"},
+          {"authorized": "Quirk, Leslie W., 1882-1960", "lcna": "no2009070074"}
+       ]
+     },
+     {"issue": {"issue-date": "1928-12-23"}, 
+      "title": "Into Thin Air",
+      "title-note": "part 6 of 10",
+       "authors": [
+          {"authorized": "Winslow, Horatio, 1882-1972", "lcna": "no95043693"},
+          {"authorized": "Quirk, Leslie W., 1882-1960", "lcna": "no2009070074"}
+       ]
+     },
+     {"issue": {"issue-date": "1928-12-30"}, 
+      "title": "Into Thin Air",
+      "title-note": "part 7 of 10",
+       "authors": [
+          {"authorized": "Winslow, Horatio, 1882-1972", "lcna": "no95043693"},
+          {"authorized": "Quirk, Leslie W., 1882-1960", "lcna": "no2009070074"}
+       ]
+     },
+     {"issue": {"issue-date": "1929-01-06"}, 
+      "title": "Into Thin Air",
+      "title-note": "part 8 of 10",
+       "authors": [
+          {"authorized": "Winslow, Horatio, 1882-1972", "lcna": "no95043693"},
+          {"authorized": "Quirk, Leslie W., 1882-1960", "lcna": "no2009070074"}
+       ]
+     },
+     {"issue": {"issue-date": "1929-01-13"}, 
+      "title": "Into Thin Air",
+      "title-note": "part 9 of 10",
+       "authors": [
+          {"authorized": "Winslow, Horatio, 1882-1972", "lcna": "no95043693"},
+          {"authorized": "Quirk, Leslie W., 1882-1960", "lcna": "no2009070074"}
+       ]
+     },
+     {"issue": {"issue-date": "1929-01-20"}, 
+      "title": "Into Thin Air",
+      "title-note": "part 10 of 10",
+       "authors": [
+          {"authorized": "Winslow, Horatio, 1882-1972", "lcna": "no95043693"},
+          {"authorized": "Quirk, Leslie W., 1882-1960", "lcna": "no2009070074"}
+       ]
+     },
+     {"issue": {"issue-date": "1929-October 14 - November 30,"}, 
+      "title": "The Science of Life",
+      "note": "Exact issues not specified in CCE renewal record.",
+      "authors": [
+        {"authorized": "Wells, H. G. (Herbert George), 1866-1946",
+        "lcna": "n79063613"},
+        {"authorized": "Huxley, Julian, 1887-1975",
+        "lcna": "n80057245"},
+        {"authorized": "Wells, G. P. (George Philip)",
+        "lcna": "n84135381"}
+      ]
+     },
+     {"issue": {"issue-date": "1929-10-20"},
+      "title": "What's in a Name?",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
      }
    ],
-   "comment": "Pick up with 1956 both under Contributions and Artwork",
+   "comment": "Pick up with 1957 under Artwork and under Contributions",
    "additional-note": 
-   "Some images from the New York American were renewed separately in the Artwork section, rather than in the Contributions to Periodicals section.",
+   "Some images from the New York American were renewed separately in the Artwork section, rather than in the Contributions to Periodicals section. The active Artwork renewals begin in the 1956 January-June volume; the active Contributions to Periodicals renewals begin in the 1955 January-June volume.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-01-10"
+   "last-updated": "2023-01-07"
 }

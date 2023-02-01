@@ -9,26 +9,10 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1927-02", "volume": "73", "number": "434"}},
-   "first-renewed-contribution-source": "1954-JulDec",
-   "renewed-contribution-completeness": "active/1927",
+     {"issue": {"issue-date": "1928-06", "volume": "75", "number": "450"}},
+   "first-renewed-contribution-source": "1955-JanJun",
+   "renewed-contribution-completeness": "active/1928",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1927-02", "volume": "73", "number": "434"},
-      "title": "Dilemma",
-      "note": "Author name is a pseudonym for H. C. McNeile",
-      "author": {
-       "authorized": "Sapper, 1888-1937",
-       "lcna": "n85822242"
-      }
-     },
-     {"issue": {"issue-date": "1927-03", "volume": "73", "number": "435"},
-      "title": "A Hopeless Case",
-      "note": "Author name is a pseudonym for H. C. McNeile",
-      "author": {
-       "authorized": "Sapper, 1888-1937",
-       "lcna": "n85822242"
-      }
-     },
      {"issue": {"issue-date": "1928-06", "volume": "75", "number": "450"},
       "title": "Ukridge and the Old Stepper",
       "author": {
@@ -60,15 +44,56 @@
         "authorized": "Sapper, 1888-1937",
         "lcna": "n85822242"
        }
+     },
+     {"issue": {"issue-date": "1928-10", "volume": "76", "number": "454"},
+      "title": "The Story of Spedegue's Dropper",
+      "note": "This contribution appears to have both a 1928 ad interim registration and a 1929 regular copyright registration.",
+      "author": {
+       "authorized": "Doyle, Arthur Conan, 1859-1930",
+       "lcna": "n79082292"
+      }
+     },
+     {"issue": {"issue-date": "1929-01", "volume": "77", "number": "457"},
+      "title": "The Disintegration Machine",
+      "author": {
+       "authorized": "Doyle, Arthur Conan, 1859-1930",
+       "lcna": "n79082292"
+      }
+     },
+     {"issue": {"issue-date": "1929-03", "volume": "77", "number": "459"},
+      "title": "The Man Who Gave Up Smoking",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1929-04", "volume": "77", "number": "460"},
+      "title": "The Lord of the Dark Face: The Dangers of the Deep",
+      "author": {
+       "authorized": "Doyle, Arthur Conan, 1859-1930",
+       "lcna": "n79082292"
+      }
+     },
+     {"issue": {"issue-date": "1929-05", "volume": "77", "number": "461"},
+      "title": "The Lord of the Dark Face: The Crisis",
+      "author": {
+       "authorized": "Doyle, Arthur Conan, 1859-1930",
+       "lcna": "n79082292"
+      }
+     },
+     {"issue": {"issue-date": "1929-08", "volume": "78", "number": "464"},
+      "title": "Prospects for Wambledon",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
      }
    ],
-   "additional-notes": [
+   "additional-note":
     "This is a British publication.  Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US.",
-    "The story 'A Hundred Per Cent' by H. C. McNeile, published in the December 1926 issue of The Strand, also has a US copyright registration dated 1927. We are not sure that this is still in force, but mention it here for completeness."
-   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-01-12"
+   "last-updated": "2023-01-03"
 }

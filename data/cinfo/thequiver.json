@@ -4,19 +4,11 @@
    "online": "1",
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
-   "first-renewed-contribution": {"issue": {"issue-date": "1927-05"}},
-   "first-renewed-contribution-source": "1954-JulDec",
+   "first-renewed-contribution":
+     {"issue": {"issue-date": "1930-03"}},
+   "first-renewed-contribution-source": "1957-JulDec",
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1927-05"},
-      "title": "Thunderstorm",
-      "title-note": "The Gift in the Gauntlet, chapters 30-33",
-      "author": {
-        "authorized": "Reynolds, Baillie, Mrs.",
-        "name": "Mrs. Baillie Reynolds",
-        "lcna": "n82070806"
-      }
-     },
      {"issue": {"issue-date": "1930-03"},
       "title": "The Day of Small Things",
       "title-note": "chapters 26-33, installment 1 of 2",
@@ -41,5 +33,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-01-06"
+   "last-updated": "2023-01-04"
 }

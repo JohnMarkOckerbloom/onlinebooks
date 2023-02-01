@@ -2,9 +2,9 @@
    "title": "National Geographic Magazine",
    "online": "1",
    "first-renewed-issue": 
-      {"issue-date": "1927-02", "volume": "51", "number": "2",
-        "cdate": "1927-01-11"},
-   "first-renewed-issue-source": "1954-JanJun",
+      {"issue-date": "1928-02", "volume": "53", "number": "2",
+        "cdate": "1928-01-14"},
+   "first-renewed-issue-source": "1955-JanJun",
    "first-renewed-contribution":
      {"issue": {"issue-date": "1928-02"}}, 
    "first-renewed-contribution-source": "1955-JanJun",
@@ -13,20 +13,6 @@
        "note": "Facts for Advertisers (National Geographic)"}],
    "renewed-issue-completeness": "active/1930",
    "renewed-issues": [
-      {"issue-date": "1927-02", "volume": "51", "number": "2",
-        "cdate": "1927-01-11"},
-      {"issue-date": "1927-03", "volume": "51", "number": "3"},
-      {"issue-date": "1927-04", "volume": "51", "number": "4"},
-      {"issue-date": "1927-05", "volume": "51", "number": "5"},
-      {"issue-date": "1927-06", "volume": "51", "number": "6"},
-      {"issue-date": "1927-07", "volume": "52", "number": "1"},
-      {"issue-date": "1927-08", "volume": "52", "number": "2"},
-      {"issue-date": "1927-09", "volume": "52", "number": "3"},
-      {"issue-date": "1927-10", "volume": "52", "number": "4"},
-      {"issue-date": "1927-11", "volume": "52", "number": "5"},
-      {"issue-date": "1927-12", "volume": "52", "number": "6"},
-      {"issue-date": "1928-01", "volume": "53", "number": "1",
-        "cdate": "1927-12-16"},
       {"issue-date": "1928-02", "volume": "53", "number": "2",
         "cdate": "1928-01-14"},
       {"issue-date": "1928-03", "volume": "53", "number": "3"},
@@ -105,5 +91,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-11-02"
+   "last-updated": "2023-01-03"
 }

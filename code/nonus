@@ -14,7 +14,7 @@ $scripturl = $cgiurl . "book/";
 
 
 $bookcount = "3 million";
-$pdlimit   = 1926;
+$pdlimit   = 1927;
 $climit    = $pdlimit + 1;
 
 %codes = 

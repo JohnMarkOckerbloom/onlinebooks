@@ -6,39 +6,11 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1927-05"}},
+     {"issue": {"issue-date": "1928-03"}}, 
    "first-renewed-contribution-source": "1955-JanJun",
    "last-issue": {"issue-date": "1933-03", "volume": "76", "number": "3"},
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1927-05"}, 
-      "title": "The Half Pint Flask",
-      "author": {
-       "authorized": "Heyward, DuBose, 1885-1940",
-       "lcna": "n50041800"
-      }
-     },
-     {"issue": {"issue-date": "1927-07"}, 
-      "title": "Rhyme of a Rouster",
-      "author": {
-       "authorized": "Burman, Ben Lucien, 1895-1984",
-       "lcna": "n50032333"
-      }
-     },
-     {"issue": {"issue-date": "1927-12"},
-      "title": "The Maid-Servant at the Inn",
-      "author": {
-       "authorized": "Parker, Dorothy, 1893-1967",
-       "lcna": "n50050331"
-      }
-     },
-     {"issue": {"issue-date": "1928-01"},
-      "title": "A Telephone Call",
-      "author": {
-       "authorized": "Parker, Dorothy, 1893-1967",
-       "lcna": "n50050331"
-      }
-     },
      {"issue": {"issue-date": "1928-03"}, 
       "title": "Talks with Thomas Hardy at Max Gate, 1920-1922",
       "author": {
@@ -344,10 +316,9 @@
        }
      }
    ],
-   "additional-note": "Active contribution renewals are recorded beginning in the 1954 July-December CCE volume, but the earliest renewed contribution is noted in the 1955 January-June volume.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-09-02"
+   "last-updated": "2023-01-02"
 }

@@ -2,17 +2,17 @@
    "title": "The New York Times",
    "online": "1",
    "see-also": [
-      {"id": "nytimesbr", "note": "New York Times Book Review"},
-      {"id": "nytimesindex", "note": "New York Times Index"},
-      {"id": "nytimesmag", "note": "New York Times Magazine"},
+      {"id": "nytimesbr", "note": "The New York Times Book Review"},
+      {"id": "nytimesindex", "note": "The New York Times Index"},
+      {"id": "nytimesmag", "note": "The New York Times Magazine"},
       {"id": "midweekpictorial", "note": "Mid-Week Pictorial"}
    ],
    "first-renewed-issue":
       {"issue-date": "1928-04-01", "volume": "77", "number": "25635"},
    "first-renewed-issue-source": "1956-JanJun",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1927-01-09"}},
-   "first-renewed-contribution-source": "1955-JanJun",
+     {"issue": {"issue-date": "1929-10-06"}},
+   "first-renewed-contribution-source": "1957-JulDec",
    "renewed-issue-completeness": "active/1930",
    "renewed-issues": [
       {"issue-date": "1928-04-01", "volume": "77", "number": "25635"},
@@ -1171,12 +1171,12 @@
       {"issue-date": "1931-04-30", "volume": "80", "number": "26759"}
    ],
    "additional-notes": [
-     "Special sections of New York Times, such as the Book Review and Magazine, have earlier issue renewals than the first whole-issue renewal noted here. CCE renewal records specifically mentioning the Book Review or Magazine by name are listed separately.",
+     "Special sections of New York Times, such as the Book Review and Magazine, have earlier issue renewals than the first whole-issue renewal noted here. They may also have earlier contribution renewals than the first contribution renewal noted here. CCE renewal records specifically mentioning the Book Review or Magazine by name are listed separately.",
      "Some renewals for Sunday issues are for specific sections of the newspaper (but there may also be renewals for other sections of the same issue, including numbered sections corresponding to the Book Review and Magazine). See the CCE records for details."
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-11-02"
+   "last-updated": "2023-01-04"
 }

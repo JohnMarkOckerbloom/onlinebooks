@@ -2,31 +2,20 @@
    "title": "McCall's",
    "aka": ["McCall's Magazine"],
    "online": "1",
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/FMI/link.asp?magid=MCC",
+       "note": "FictionMags (partial; mostly only fiction contents of selected issues)"}
+   ],
    "see-also": [{"id": "mccallsmealplanner", "note": "McCall's Meal Planner"}],
    "first-renewed-issue":
-      {"issue-date": "1927-02", "volume": "54", "number": "5",
-          "cdate": "1927-01-10"},
-   "first-renewed-issue-source": "1954-JanJun",
+      {"issue-date": "1928-02", "volume": "55", "number": "5",
+        "cdate": "1928-01-10"},
+   "first-renewed-issue-source": "1955-JanJun",
    "first-renewed-contribution":
-    {"issue": {"issue-date": "1927-02"}}, 
-   "first-renewed-contribution-source": "1954-JanJun",
+    {"issue": {"issue-date": "1928-02"}}, 
+   "first-renewed-contribution-source": "1955-JanJun",
    "renewed-issue-completeness": "active/1930",
    "renewed-issues": [
-      {"issue-date": "1927-02", "volume": "54", "number": "5",
-          "cdate": "1927-01-10"},
-      {"issue-date": "1927-03", "volume": "54", "number": "6"},
-      {"issue-date": "1927-04", "volume": "54", "number": "7"},
-      {"issue-date": "1927-05", "volume": "54", "number": "8"},      
-      {"issue-date": "1927-06", "volume": "54", "number": "9"},
-      {"issue-date": "1927-07", "volume": "54", "number": "10"},
-      {"issue-date": "1927-08", "volume": "54", "number": "11"},
-      {"issue-date": "1927-09", "volume": "54", "number": "11",
-         "note": "Issue number as given in registration. Should be 12."},
-      {"issue-date": "1927-10", "volume": "55", "number": "1"},
-      {"issue-date": "1927-11", "volume": "55", "number": "2"},
-      {"issue-date": "1927-12", "volume": "55", "number": "3"},
-      {"issue-date": "1928-01", "volume": "55", "number": "4",
-        "cdate": "1927-12-10"},
       {"issue-date": "1928-02", "volume": "55", "number": "5",
         "cdate": "1928-01-10"},
       {"issue-date": "1928-03", "volume": "55", "number": "6"},
@@ -79,117 +68,8 @@
       {"issue-date": "1931-08", "volume": "58", "number": "11"},
       {"issue-date": "1931-09", "volume": "58", "number": "12"}
    ],
-   "renewed-contribution-completeness": "active/1927",
+   "renewed-contribution-completeness": "active/1928",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1927-02"},
-      "title": "The Magic Garden",
-      "title-note": "part 5 of 6",
-       "author": {
-         "authorized": "Stratton-Porter, Gene, 1863-1924",
-         "lcna": "n79127897"
-       }
-     },
-     {"issue": {"issue-date": "1927-03"},
-      "title": "The Magic Garden",
-      "title-note": "part 6 of 6",
-       "author": {
-         "authorized": "Stratton-Porter, Gene, 1863-1924",
-         "lcna": "n79127897"
-       }
-     },
-     {"issue": {"issue-date": "1927-04"},
-      "title": "Betty, Use Your Bean",
-      "author": {
-         "authorized": "Kilbourne, Fannie, 1890-",
-         "lcna": "no93026233"
-       }
-     },
-     {"issue": {"issue-date": "1927-09"},
-       "title": "The Fox Woman",
-       "title-note": "part 1 of 5",
-       "author": {
-         "authorized": "Bartley, Nalbro, 1888-1952",
-         "lcna": "no92024706"
-       }
-     },
-     {"issue": {"issue-date": "1927-09"},
-       "title": "Let's Go to Hinky-Dink's",
-       "author": {
-         "authorized": "Bromfield, Louis, 1896-1956",
-         "lcna": "n80040365"
-       }
-     },
-     {"issue": {"issue-date": "1927-10"},
-       "title": "Fairy-Kist",
-       "author": {
-         "authorized": "Kipling, Rudyard, 1865-1936",
-         "lcna": "n79103792"
-       }
-     },
-     {"issue": {"issue-date": "1927-10"},
-       "title": "The Fox Woman",
-       "title-note": "part 2 of 5",
-       "author": {
-         "authorized": "Bartley, Nalbro, 1888-1952",
-         "lcna": "no92024706"
-       }
-     },
-     {"issue": {"issue-date": "1927-10"},
-      "title": "The Plains of Abraham",
-      "title-note": "part 1 of 6",
-      "author": {
-       "authorized": "Curwood, James Oliver, 1878-1927",
-       "lcna": "n50020530"
-      }
-     },
-     {"issue": {"issue-date": "1927-11"},
-       "title": "The Fox Woman",
-       "title-note": "part 3 of 5",
-       "author": {
-         "authorized": "Bartley, Nalbro, 1888-1952",
-         "lcna": "no92024706"
-       }
-     },
-     {"issue": {"issue-date": "1927-11"},
-      "title": "The Plains of Abraham",
-      "title-note": "part 2 of 6",
-      "author": {
-       "authorized": "Curwood, James Oliver, 1878-1927",
-       "lcna": "n50020530"
-      }
-     },
-     {"issue": {"issue-date": "1927-12"},
-       "title": "The Fox Woman",
-       "title-note": "part 4 of 5",
-       "author": {
-         "authorized": "Bartley, Nalbro, 1888-1952",
-         "lcna": "no92024706"
-       }
-     },
-     {"issue": {"issue-date": "1927-12"},
-      "title": "The Plains of Abraham",
-      "title-note": "part 3 of 6",
-      "author": {
-       "authorized": "Curwood, James Oliver, 1878-1927",
-       "lcna": "n50020530"
-      }
-     },
-     {"issue": {"issue-date": "1928-01"},
-       "title": "The Fox Woman",
-       "title-note": "part 5 of 5",
-       "author": {
-         "authorized": "Bartley, Nalbro, 1888-1952",
-         "lcna": "no92024706"
-       }
-     },
-     {"issue": {"issue-date": "1928-01"},
-      "title": "The Plains of Abraham",
-      "title-note": "part 4 of 6",
-      "author": {
-       "authorized": "Curwood, James Oliver, 1878-1927",
-       "lcna": "n50020530"
-      }
-     },
      {"issue": {"issue-date": "1928-02"},
       "title": "The Plains of Abraham",
       "title-note": "part 5 of 6",
@@ -254,6 +134,20 @@
       }
      },
      {"issue": {"issue-date": "1928-05"},
+        "title": "In a Clearing",
+        "author": {
+         "authorized": "Edmonds, Walter D. (Walter Dumaux), 1903-1998",
+         "lcna": "n79083990"
+        }
+     },
+     {"issue": {"issue-date": "1928-05"},
+      "title": "Target",
+      "author": {
+         "authorized": "Avery, Stephen Morehouse, 1893-1948",
+         "lcna": "no89011696"
+      }
+     },
+     {"issue": {"issue-date": "1928-05"},
       "title": "Stairs of Sand",
       "title-note": "part 3 of 5",
       "author": {
@@ -309,6 +203,13 @@
       }
      },
      {"issue": {"issue-date": "1928-11"},
+      "title": "The Camp Robber",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1928-11"},
       "title": "Good Old Uncle Homer",
       "author": {
        "authorized": "Johnson, Nunnally",
@@ -322,17 +223,234 @@
          "lcna": "n50006133"
         }
      },
-     {"issue": {"issue-date": "1928-12"},
-      "title": "The Shadowey Lady of Noel",
+     {"issue": {"issue-date": "1929-01"},
+        "title": "Wayfarer's Inn",
+        "author": {
+         "authorized": "Woollcott, Alexander, 1887-1943",
+         "lcna": "n80024589"
+        }
+     },
+     {"issue": {"issue-date": "1929-02"},
+      "title": "The Romantic Prince",
+      "title-note": "part 1 of 5",
       "author": {
-       "authorized": "Squier, Emma-Lindsay, 1892-1941",
-       "lcna": "no2007059420"
+       "authorized": "Sabatini, Rafael, 1875-1950",
+       "lcna": "n50016255"
       }
+     },
+     {"issue": {"issue-date": "1929-02"},
+        "title": "The Front Page",
+        "author": {
+         "authorized": "Woollcott, Alexander, 1887-1943",
+         "lcna": "n80024589"
+        }
+     },
+     {"issue": {"issue-date": "1929-02"},
+        "title": "Adventures in Religion",
+        "title-note": "part 1 of 9",
+        "author": {
+         "authorized": "King, Basil, 1859-1928",
+         "lcna": "no90015484"
+        }
+     },
+     {"issue": {"issue-date": "1929-03"},
+      "title": "Hide in the Dark",
+      "title-note": "part 1 of 7",
+      "author": {
+       "authorized": "Hart, Frances Noyes, 1890-1943",
+       "lcna": "no95048084"
+      }
+     },
+     {"issue": {"issue-date": "1929-03"},
+      "title": "The Romantic Prince",
+      "title-note": "part 2 of 5",
+      "author": {
+       "authorized": "Sabatini, Rafael, 1875-1950",
+       "lcna": "n50016255"
+      }
+     },
+     {"issue": {"issue-date": "1929-03"},
+        "title": "Two Moments From The Kingdom of God",
+        "author": {
+         "authorized": "Woollcott, Alexander, 1887-1943",
+         "lcna": "n80024589"
+        }
+     },
+     {"issue": {"issue-date": "1929-03"},
+        "title": "Adventures in Religion",
+        "title-note": "part 2 of 9",
+        "author": {
+         "authorized": "King, Basil, 1859-1928",
+         "lcna": "no90015484"
+        }
+     },
+     {"issue": {"issue-date": "1929-04"},
+      "title": "Hide in the Dark",
+      "title-note": "part 2 of 7",
+      "author": {
+       "authorized": "Hart, Frances Noyes, 1890-1943",
+       "lcna": "no95048084"
+      }
+     },
+     {"issue": {"issue-date": "1929-04"},
+      "title": "The Romantic Prince",
+      "title-note": "part 3 of 5",
+      "author": {
+       "authorized": "Sabatini, Rafael, 1875-1950",
+       "lcna": "n50016255"
+      }
+     },
+     {"issue": {"issue-date": "1929-04"},
+        "title": "The Actor From Genesee Depot",
+        "author": {
+         "authorized": "Woollcott, Alexander, 1887-1943",
+         "lcna": "n80024589"
+        }
+     },
+     {"issue": {"issue-date": "1929-04"},
+        "title": "Adventures in Religion",
+        "title-note": "part 3 of 9",
+        "author": {
+         "authorized": "King, Basil, 1859-1928",
+         "lcna": "no90015484"
+        }
+     },
+     {"issue": {"issue-date": "1929-05"},
+      "title": "Hide in the Dark",
+      "title-note": "part 3 of 7",
+      "author": {
+       "authorized": "Hart, Frances Noyes, 1890-1943",
+       "lcna": "no95048084"
+      }
+     },
+     {"issue": {"issue-date": "1929-05"},
+      "title": "The Romantic Prince",
+      "title-note": "part 4 of 5",
+      "author": {
+       "authorized": "Sabatini, Rafael, 1875-1950",
+       "lcna": "n50016255"
+      }
+     },
+     {"issue": {"issue-date": "1929-05"},
+        "title": "The Perfect Alibi",
+        "author": {
+         "authorized": "Woollcott, Alexander, 1887-1943",
+         "lcna": "n80024589"
+        }
+     },
+     {"issue": {"issue-date": "1929-05"},
+        "title": "Adventures in Religion",
+        "title-note": "part 4 of 9",
+        "author": {
+         "authorized": "King, Basil, 1859-1928",
+         "lcna": "no90015484"
+        }
+     },
+     {"issue": {"issue-date": "1929-06"},
+      "title": "Hide in the Dark",
+      "title-note": "part 4 of 7",
+      "author": {
+       "authorized": "Hart, Frances Noyes, 1890-1943",
+       "lcna": "no95048084"
+      }
+     },
+     {"issue": {"issue-date": "1929-06"},
+      "title": "The Romantic Prince",
+      "title-note": "part 5 of 5",
+      "author": {
+       "authorized": "Sabatini, Rafael, 1875-1950",
+       "lcna": "n50016255"
+      }
+     },
+     {"issue": {"issue-date": "1929-06"},
+        "title": "Over the River",
+        "author": {
+         "authorized": "Woollcott, Alexander, 1887-1943",
+         "lcna": "n80024589"
+        }
+     },
+     {"issue": {"issue-date": "1929-06"},
+        "title": "Adventures in Religion",
+        "title-note": "part 5 of 9",
+        "author": {
+         "authorized": "King, Basil, 1859-1928",
+         "lcna": "no90015484"
+        }
+     },
+     {"issue": {"issue-date": "1929-07"},
+      "title": "Hide in the Dark",
+      "title-note": "part 5 of 7",
+      "author": {
+       "authorized": "Hart, Frances Noyes, 1890-1943",
+       "lcna": "no95048084"
+      }
+     },
+     {"issue": {"issue-date": "1929-07"},
+        "title": "Rejection Slips",
+        "author": {
+         "authorized": "Woollcott, Alexander, 1887-1943",
+         "lcna": "n80024589"
+        }
+     },
+     {"issue": {"issue-date": "1929-07"},
+        "title": "Adventures in Religion",
+        "title-note": "part 6 of 9",
+        "author": {
+         "authorized": "King, Basil, 1859-1928",
+         "lcna": "no90015484"
+        }
+     },
+     {"issue": {"issue-date": "1929-08"},
+      "title": "Hide in the Dark",
+      "title-note": "part 6 of 7",
+      "author": {
+       "authorized": "Hart, Frances Noyes, 1890-1943",
+       "lcna": "no95048084"
+      }
+     },
+     {"issue": {"issue-date": "1929-08"},
+        "title": "Adventures in Religion",
+        "title-note": "part 7 of 9",
+        "author": {
+         "authorized": "King, Basil, 1859-1928",
+         "lcna": "no90015484"
+        }
+     },
+     {"issue": {"issue-date": "1929-09"},
+       "title": "The Satisfaction of a Gentleman",
+       "author": {
+         "authorized": "Kipling, Rudyard, 1865-1936",
+         "lcna": "n79103792"
+       }
+     },
+     {"issue": {"issue-date": "1929-09"},
+      "title": "Hide in the Dark",
+      "title-note": "part 7 of 7",
+      "author": {
+       "authorized": "Hart, Frances Noyes, 1890-1943",
+       "lcna": "no95048084"
+      }
+     },
+     {"issue": {"issue-date": "1929-09"},
+        "title": "Adventures in Religion",
+        "title-note": "part 8 of 9",
+        "author": {
+         "authorized": "King, Basil, 1859-1928",
+         "lcna": "no90015484"
+        }
+     },
+     {"issue": {"issue-date": "1929-10"},
+        "title": "Adventures in Religion",
+        "title-note": "part 9 of 9",
+        "author": {
+         "authorized": "King, Basil, 1859-1928",
+         "lcna": "no90015484"
+        }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-11-02"
+   "last-updated": "2023-01-01"
 }

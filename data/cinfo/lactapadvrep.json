@@ -1,19 +1,14 @@
 {
    "title": "Louisiana Courts of Appeal Advance Reports",
    "first-renewed-issue":
-      {"issue-date": "1927-02", "volume": "5", "number": "14"},
-   "first-renewed-issue-source": "1954-JanJun",
+      {"issue-date": "1927-12", "volume": "7", "number": "20",
+       "cdate": "1928-01-06"},
+   "first-renewed-issue-source": "1955-JanJun",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
    "see-also": [{"id": "louisianarepts", "note": "Louisiana Reports"}],
    "renewed-issue-completeness": "active/1929",
    "renewed-issues": [
-      {"issue-date": "1927-02", "volume": "5", "number": "14"},
-      {"issue-date": "1927-03", "volume": "5", "number": "15"},
-      {"issue-date": "1927-04", "volume": "5", "number": "16"},
-      {"issue-date": "1927-07", "volume": "6", "number": "17"},
-      {"issue-date": "1927-08", "volume": "6", "number": "18"},
-      {"issue-date": "1927-09", "volume": "6", "number": "19"},
       {"issue-date": "1927-12", "volume": "7", "number": "20",
        "cdate": "1928-01-06"},
       {"issue-date": "1928-02", "volume": "7", "number": "21"},
@@ -51,5 +46,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-11-02"
+   "last-updated": "2023-01-05"
 }

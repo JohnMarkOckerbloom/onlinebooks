@@ -5,18 +5,10 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1928-01"}},
+     {"issue": {"issue-date": "1928-02", "cdate": "1928-01-04"}},
    "first-renewed-contribution-source": "1955-JulDec",
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1928-01"},
-      "title": "Here Comes the Bandwagon",
-      "title-note": "part 1 of 10",
-      "author": {
-       "authorized": "Gates, H. L. (Henry Leyford), 1878-1937",
-       "lcna": "n86016407"
-      }
-     },
      {"issue": {"issue-date": "1928-02"},
       "title": "Here Comes the Bandwagon",
       "title-note": "part 2 of 10",
@@ -185,5 +177,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-01-27"
+   "last-updated": "2023-01-02"
 }

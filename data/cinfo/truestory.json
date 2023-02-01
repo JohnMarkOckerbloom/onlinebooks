@@ -5,85 +5,14 @@
       {"issue-date": "1944-01", "volume": "49", "number": "6"},
    "first-renewed-issue-source": "1971",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1927-02", "cdate": "1927-01-05"}},
-   "first-renewed-contribution-source": "1954-JulDec",
+     {"issue": {"issue-date": "1928-02", "cdate": "1928-01-05"}},
+   "first-renewed-contribution-source": "1955-JanJun",
    "first-autorenewed-issue":
       {"issue-date": "1964-02", "volume": "90", "number": "1",
        "cdate": "1964-01-02"},
-   "renewed-contribution-completeness": "active/1927",
+   "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1927-02"},
-        "title": "Stranger Than Fiction",
-        "title-note": "recurring feature",
-        "author": {
-         "authorized": "Oursler, Fulton, 1893-1952",
-         "using": "Arnold Fountain",
-         "lcna": "n79041782"
-        }
-     },
-     {"issue": {"issue-date": "1927-03"},
-        "title": "The Bullet of Fate, Stranger Than Fiction",
-        "author": {
-         "authorized": "Oursler, Fulton, 1893-1952",
-         "using": "Arnold Fountain",
-         "lcna": "n79041782"
-        }
-     },
-     {"issue": {"issue-date": "1927-05"},
-        "title": "Stranger Than Fiction",
-        "title-note": "recurring feature",
-        "author": {
-         "authorized": "Oursler, Fulton, 1893-1952",
-         "using": "Arnold Fountain",
-         "lcna": "n79041782"
-        }
-     },
-     {"issue": {"issue-date": "1927-07"},
-        "title": "Such is Life",
-        "title-note": "recurring feature",
-        "author": {
-         "authorized": "Oursler, Fulton, 1893-1952",
-         "using": "Arnold Fountain",
-         "lcna": "n79041782"
-        }
-     },
-     {"issue": {"issue-date": "1927-09"},
-        "title": "Such is Life",
-        "title-note": "recurring feature",
-        "author": {
-         "authorized": "Oursler, Fulton, 1893-1952",
-         "using": "Arnold Fountain",
-         "lcna": "n79041782"
-        }
-     },
-     {"issue": {"issue-date": "1927-09"},
-        "title": "Stranger Than Fiction",
-        "title-note": "recurring feature",
-        "author": {
-         "authorized": "Oursler, Fulton, 1893-1952",
-         "using": "Arnold Fountain",
-         "lcna": "n79041782"
-        }
-     },
-     {"issue": {"issue-date": "1927-10"},
-        "title": "Such is Life",
-        "title-note": "recurring feature",
-        "author": {
-         "authorized": "Oursler, Fulton, 1893-1952",
-         "using": "Arnold Fountain",
-         "lcna": "n79041782"
-        }
-     },
-     {"issue": {"issue-date": "1928-01"},
-        "title": "Such is Life",
-        "title-note": "recurring feature",
-        "author": {
-         "authorized": "Oursler, Fulton, 1893-1952",
-         "using": "Arnold Fountain",
-         "lcna": "n79041782"
-        }
-     },
-     {"issue": {"issue-date": "1928-02"},
+     {"issue": {"issue-date": "1928-02", "cdate": "1928-01-05"},
         "title": "The Little School Teachers Story",
         "author": {
          "authorized": "Oursler, Fulton, 1893-1952",
@@ -91,7 +20,7 @@
          "lcna": "n79041782"
         }
      },
-     {"issue": {"issue-date": "1928-02"},
+     {"issue": {"issue-date": "1928-02", "cdate": "1928-01-05"},
         "title": "The Most Remarkable Will in the World",
         "author": {
          "authorized": "Oursler, Fulton, 1893-1952",
@@ -114,12 +43,53 @@
          "using": "Arnold Fountain",
          "lcna": "n79041782"
         }
+     },
+     {"issue": {"issue-date": "1936-01"},
+        "title": "Ideal Marriage",
+        "author": {
+         "name": "Arthur L. Greene"
+        }
+     },
+     {"issue": {"issue-date": "1940-01"},
+        "title": "Mrs. Garner Tells About Her Evil Old Man",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "lcna": "n79041782"
+        }
+     },
+     {"issue": {"issue-date": "1941-02"},
+        "title": "She Sat Helpless While Her Best Friend was Murdered",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "using": "Arnold Fountain",
+         "lcna": "n79041782"
+        }
+     },
+     {"issue": {"issue-date": "1949-02"},
+      "title": "A Good Word for Mom",
+      "author": {
+       "authorized": "Baldwin, Faith, 1893-1978",
+       "lcna": "n80051885"
+      }
+     },
+     {"issue": {"issue-date": "1953-10"},
+      "title": "Inner Beauty",
+      "author": {
+       "authorized": "Baldwin, Faith, 1893-1978",
+       "lcna": "n80051885"
+      }
+     },
+     {"issue": {"issue-date": "1955-06"},
+        "title": "After Glow",
+        "author": {
+         "authorized": "Rockwell, Norman, 1894-1978",
+         "lcna": "n79039542"
+        }
      }
    ],
-   "additional-note": "Active contribution renewals are recorded beginning in the 1954 January-June CCE volume, but the earliest renewed contribution is noted in the 1954 July-December volume.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-01-12"
+   "last-updated": "2023-01-06"
 }

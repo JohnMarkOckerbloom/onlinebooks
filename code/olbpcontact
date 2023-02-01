@@ -701,8 +701,10 @@ sub analyze_form {
       || $title =~ /^About[a-z][a-z][a-z][a-z][a-z]/
       || $title =~ /^cheap /
       || $title =~ / sunglasses /
+      || $title =~ / nude /
       || $title =~ /Unutty/
       || $title =~ /trump vote mask/
+      || $title =~ /^I will be your/
       || $title =~ /still.*business/i
       || $title =~ /earn money/i
       || $title =~ /quick question/i

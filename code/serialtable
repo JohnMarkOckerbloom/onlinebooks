@@ -28,17 +28,17 @@ my $issnserial = {};
 my $badissnmap = {};
 my $badissnid = {};
 
-my $cambridge_journals = $pkgdir . "cambridge/CUP_All_journals_2022-02-04.txt";
-#my $cambridge_journals = $pkgdir . "cambridge/CUP_All_journals_2021-01-30.txt";
+# my $cambridge_journals = $pkgdir . "cambridge/CUP_All_journals_2022-02-04.txt";
+my $cambridge_journals = $pkgdir . "cambridge/CUP-Journals-Downloaded-2023-01-27.txt";
 
 my $hathi_serials = $pkgdir . "hathitrust/wikihathioclcserials.csv";
 my $hathipilot_serials = $pkgdir . "hathitrust/localplusus.tsv";
 my $hathipilot_wdquery = $pkgdir . "hathitrust/wikihathiserial.csv";
 
-#my $jstor_merged = $pkgdir . "jstor/JSTOR_ArchiveTitles_2021-10-08.txt";
-my $jstor_merged = $pkgdir . "jstor/JSTOR_ArchiveTitles_2022-02-05.txt";
-#my $jstor_split = $pkgdir . "jstor/JSTOR_Global_AllArchiveTitles_2021-10-08.txt";
-my $jstor_split = $pkgdir . "jstor/JSTOR_Global_AllArchiveTitles_2022-02-05.txt";
+# my $jstor_merged = $pkgdir . "jstor/JSTOR_ArchiveTitles_2022-02-05.txt";
+my $jstor_merged = $pkgdir . "jstor/JSTOR_ArchiveTitles_2023-01-27.txt";
+# my $jstor_split = $pkgdir . "jstor/JSTOR_Global_AllArchiveTitles_2022-02-05.txt";
+my $jstor_split = $pkgdir . "jstor/JSTOR_Global_AllArchiveTitles_2023-01-27.txt";
 
 
 my $muse_journals = $pkgdir . "muse/muse_journal_metadata_2019.tsv";
@@ -46,8 +46,8 @@ my $muse_journals = $pkgdir . "muse/muse_journal_metadata_2019.tsv";
 my $ovid_complete = $pkgdir . "wolters/Ovid_Global_AllJournals_2022-01-23.txt";
 #my $ovid_complete = $pkgdir . "wolters/Ovid_Global_AllJournals_2021-01-26.txt";
 
-#my $oxford_archive = $pkgdir . "oxford/OxfordUniversityPress_Global_2021JournalsArchiveAllTitles_2021-09-23.txt";
-my $oxford_archive = $pkgdir . "oxford/OxfordUniversityPress_Global_2022JournalsArchiveAllTitles_2022-01-28.txt";
+#my $oxford_archive = $pkgdir . "oxford/OxfordUniversityPress_Global_2022JournalsArchiveAllTitles_2022-01-28.txt";
+my $oxford_archive = $pkgdir . "oxford/OxfordUniversityPress_Global_2023JournalsArchiveAllTitles_2023-01-31.txt";
 #my $oxford_archive = $pkgdir . "oxford/OxfordUniversityPress_Global_2022JournalsArchiveCollection_2022-01-28.txt";
 
 #my $penn_serials = $pkgdir . "penn/Serials before 1964.csv";
@@ -61,8 +61,8 @@ my $proquest_archive = $pkgdir . "proquest/PeriodicalsArchiveOnline.tsv";
 # my $sage_journals = $pkgdir . "sage/SAGE Complete Deep Backfile Purchase 2021 List.txt";
 my $sage_journals = $pkgdir . "sage/2022back22-p_back22-p_deep_backfile_2022_list_title_list.txt";
 
-#my $scidirect_journals = $pkgdir . "elsevier/ScienceDirectStandard_Global_ScienceDirectAvailableJournals_2021-10-07.txt";
-my $scidirect_journals = $pkgdir . "elsevier/ScienceDirectStandard_Global_ScienceDirectAvailableJournals_2022-02-05.txt";
+# my $scidirect_journals = $pkgdir . "elsevier/ScienceDirectStandard_Global_ScienceDirectAvailableJournals_2022-02-05.txt";
+my $scidirect_journals = $pkgdir . "elsevier/ScienceDirectStandard_Global_ScienceDirectAvailableJournals_2023-01-27.txt";
 my $sim_journals = $pkgdir . "sim/SIM-MASTER-TITLE-2017.txt";
 #my $springer_journals = $pkgdir . "springer/Springer_Global_Complete_Journals_2021-02-01.txt";
 my $springer_journals = $pkgdir . "springer/Springer_Global_Complete_Journals_2022-01-03.txt";
@@ -152,7 +152,7 @@ my $tables = {
       parser=>\&kbartparser, filter=>\&sortedfilter64}
 };
 
-my $renewals_start = 1927;
+my $renewals_start = 1928;
 my $renewals_end   = 1963;
 
 my $gapcode = "-||-";

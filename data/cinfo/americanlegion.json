@@ -7,17 +7,10 @@
        {"issue-date": "1944-11", "volume": "37", "number": "5"},
    "first-renewed-issue-source": "1972",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1927-08"}},
-   "first-renewed-contribution-source": "1954-JulDec",
+     {"issue": {"issue-date": "1928-08"}}, 
+   "first-renewed-contribution-source": "1956-JanJun",
    "renewed-contribution-completeness": "active/1949",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1927-08"}, 
-       "title": "Knowing Paris",
-       "author": {
-        "authorized": "Tarkington, Booth, 1869-1946",
-        "lcna": "n79078124"
-       }
-     },
      {"issue": {"issue-date": "1928-08"}, 
        "title": "The Man in the White Slicker",
        "title-note": "part 1 of 7",
@@ -360,5 +353,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-01-06"
+   "last-updated": "2023-01-02"
 }

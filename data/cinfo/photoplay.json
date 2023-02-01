@@ -6,8 +6,8 @@
       {"issue-date": "1944-01", "volume": "24", "number": "2"},
    "first-renewed-issue-source": "1971",
    "first-renewed-contribution": 
-      {"issue": {"issue-date": "1927-12"}}, 
-   "first-renewed-contribution-source": "1954-JulDec",
+      {"issue": {"issue-date": "1928-02"}}, 
+   "first-renewed-contribution-source": "1955-JanJun",
    "renewed-issue-completeness": "active/autorenewals",
    "renewed-issues": [
       {"issue-date": "1944-01", "volume": "24", "number": "2"},
@@ -25,13 +25,6 @@
    ],
    "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
-       {"issue": {"issue-date": "1927-12"}, 
-        "title": "Peter's Wife",
-        "author": {
-         "authorized": "Burnet, Dana, 1888-1962",
-         "lcna": "n88172670"
-        }
-       },
        {"issue": {"issue-date": "1928-02"}, 
         "title": "Sweet Sixteen",
         "author": {
@@ -291,5 +284,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-01-06"
+   "last-updated": "2023-01-03"
 }

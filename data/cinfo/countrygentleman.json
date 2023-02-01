@@ -2,28 +2,14 @@
    "title": "Country Gentleman",
    "online": "1",
    "first-renewed-issue": 
-     {"issue-date": "1927-02", "volume": "92", "number": "2",
-      "cdate": "1927-01-26"},
-   "first-renewed-issue-source": "1954-JulDec",
+     {"issue-date": "1928-02", "volume": "93", "number": "2",
+      "cdate": "1928-01-26"},
+   "first-renewed-issue-source": "1955-JulDec",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1927-02", "volume": "92", "number": "2"}},
-   "first-renewed-contribution-source": "1954-JanJun",
+     {"issue": {"issue-date": "1928-02"}}, 
+   "first-renewed-contribution-source": "1955-JanJun",
    "renewed-issue-completeness": "active/1930",
    "renewed-issues": [
-     {"issue-date": "1927-02", "volume": "92", "number": "2",
-      "cdate": "1927-01-26"},
-     {"issue-date": "1927-03", "volume": "92", "number": "3"},
-     {"issue-date": "1927-04", "volume": "92", "number": "4"},     
-     {"issue-date": "1927-05", "volume": "92", "number": "5"},
-     {"issue-date": "1927-06", "volume": "92", "number": "6"},
-     {"issue-date": "1927-07", "volume": "92", "number": "7"},
-     {"issue-date": "1927-08", "volume": "92", "number": "8"},
-     {"issue-date": "1927-09", "volume": "92", "number": "9"},
-     {"issue-date": "1927-10", "volume": "92", "number": "10"},
-     {"issue-date": "1927-11", "volume": "92", "number": "11"},
-     {"issue-date": "1927-12", "volume": "92", "number": "12"},
-     {"issue-date": "1928-01", "volume": "93", "number": "1",
-      "cdate": "1927-12-29"},
      {"issue-date": "1928-02", "volume": "93", "number": "2",
       "cdate": "1928-01-26"},
      {"issue-date": "1928-03", "volume": "93", "number": "3"},
@@ -76,127 +62,6 @@
    ],
    "renewed-contribution-completeness": "active/1931",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1927-02"}, 
-      "title": "My Son's First Bear",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1927-02"}, 
-      "title": "Islanders",
-      "author": {
-         "authorized": "Titus, Harold, 1888-1967",
-         "lcna": "no2008175553"
-      }
-     },
-     {"issue": {"issue-date": "1927-03"}, 
-      "title": "Open Range",
-      "title-note": "part 1 of 5",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1927-04"}, 
-      "title": "Open Range",
-      "title-note": "part 2 of 5",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1927-04"}, 
-      "title": "The Soil and the Sea",
-      "author": {
-         "authorized": "Titus, Harold, 1888-1967",
-         "lcna": "no2008175553"
-      }
-     },
-     {"issue": {"issue-date": "1927-05"}, 
-      "title": "Open Range",
-      "title-note": "part 3 of 5",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1927-05"}, 
-      "title": "Lights Up",
-      "title-note": "part 1 of 5",
-      "author": {
-         "authorized": "Richmond, Grace S. (Grace Smith), 1866-1959",
-         "lcna": "n90608121"
-      }
-     },
-     {"issue": {"issue-date": "1927-06"}, 
-      "title": "Open Range",
-      "title-note": "part 4 of 5",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1927-06"}, 
-      "title": "Lights Up",
-      "title-note": "part 2 of 5",
-      "author": {
-         "authorized": "Richmond, Grace S. (Grace Smith), 1866-1959",
-         "lcna": "n90608121"
-      }
-     },
-     {"issue": {"issue-date": "1927-07"}, 
-      "title": "Open Range",
-      "title-note": "part 5 of 5",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1927-07"}, 
-      "title": "Lights Up",
-      "title-note": "part 3 of 5",
-      "author": {
-         "authorized": "Richmond, Grace S. (Grace Smith), 1866-1959",
-         "lcna": "n90608121"
-      }
-     },
-     {"issue": {"issue-date": "1927-07"}, 
-      "title": "The Pavilion Queen",
-      "author": {
-         "name": "Ida M. Evans"
-      }
-     },
-     {"issue": {"issue-date": "1927-08"}, 
-      "title": "Lights Up",
-      "title-note": "part 4 of 5",
-      "author": {
-         "authorized": "Richmond, Grace S. (Grace Smith), 1866-1959",
-         "lcna": "n90608121"
-      }
-     },
-     {"issue": {"issue-date": "1927-09"}, 
-      "title": "Lights Up",
-      "title-note": "part 5 of 5",
-      "author": {
-         "authorized": "Richmond, Grace S. (Grace Smith), 1866-1959",
-         "lcna": "n90608121"
-      }
-     },
-     {"issue": {"issue-date": "1927-10"}, 
-      "title": "The Seat of Violence",
-      "author": {
-       "authorized": "Williams, Ben Ames, 1889-1953",
-       "lcna": "n80006285"
-      }
-     },
-     {"issue": {"issue-date": "1927-11"},
-      "title": "The Fool Killer",
-      "author": {
-       "authorized": "Benét, Stephen Vincent, 1898-1943",
-       "lcna": "n50007691"
-      }
-     },
      {"issue": {"issue-date": "1928-02"}, 
       "title": "The Avalanche",
       "title-note": "part 1 of 3",
@@ -686,5 +551,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-11-02"
+   "last-updated": "2023-01-02"
 }

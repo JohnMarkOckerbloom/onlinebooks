@@ -2,29 +2,19 @@
    "title": "The New Republic",
    "online": "1",
    "first-renewed-issue": 
-     {"issue-date": "1927-03-09", "volume": "50", "number": "640"},
+     {"issue-date": "1928-01-11", "volume": "53", "number": "684",
+      "cdate": "1928-01-05"},
    "first-renewed-issue-source": "1955-JanJun",
    "first-autorenewed-issue": 
      {"issue-date": "1964-01-11", "cdate": "1964-01-03",
       "volume": "150", "number": "2"},
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1927-03-09"}},
-   "first-renewed-contribution-source": "1954-JanJun",
+     {"issue": {"issue-date": "1928-04-25"}},
+   "first-renewed-contribution-source": "1955-JanJun",
    "renewed-issue-completeness": "active/1950",
    "renewed-issues": [
-     {"issue-date": "1927-03-09", "volume": "50", "number": "640"},
-     {"issue-date": "1927-03-23", "volume": "50", "number": "642"},
-     {"issue-date": "1927-06-29", "volume": "51", "number": "656"},
-     {"issue-date": "1927-07-13", "volume": "51", "number": "658"},
-     {"issue-date": "1927-07-20", "volume": "51", "number": "659"},
-     {"issue-date": "1927-08-10", "volume": "51", "number": "662"},
-     {"issue-date": "1927-08-17", "volume": "51", "number": "663"},
-     {"issue-date": "1927-08-24", "volume": "52", "number": "664"},
-     {"issue-date": "1927-11-23", "volume": "53", "number": "677"},
-     {"issue-date": "1927-11-30", "volume": "53", "number": "678"},
-     {"issue-date": "1927-12-28", "volume": "53", "number": "682"},
-     {"issue-date": "1928-01-04", "volume": "53", "number": "683"},
-     {"issue-date": "1928-01-11", "volume": "53", "number": "684"},
+     {"issue-date": "1928-01-11", "volume": "53", "number": "684",
+      "cdate": "1928-01-05"},
      {"issue-date": "1928-01-18", "volume": "53", "number": "685"},
      {"issue-date": "1928-02-08", "volume": "53", "number": "688"},
      {"issue-date": "1930-08-13", "volume": "63", "number": "819"},
@@ -471,34 +461,6 @@
    ],
    "renewed-contribution-completeness": "active/1942",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1927-03-09"},
-      "title": "The Lost Wife",
-      "author": {
-       "authorized": "Benét, Stephen Vincent, 1898-1943",
-       "lcna": "n50007691"
-      }
-     },
-     {"issue": {"issue-date": "1927-05-18"},
-      "title": "Italy, 1927",
-      "author": {
-        "authorized": "Hemingway, Ernest, 1899-1961",
-        "lcna": "n78078534"
-      }
-     },
-     {"issue": {"issue-date": "1927-07-06"},
-        "title": "State of Mind",
-        "author": {
-         "authorized": "Aiken, Conrad, 1889-1973",
-         "lcna": "n80060447"
-        }
-     },
-     {"issue": {"issue-date": "1927-07-13"},
-      "title": "The Sexes",
-      "author": {
-       "authorized": "Parker, Dorothy, 1893-1967",
-       "lcna": "n50050331"
-      }
-     },
      {"issue": {"issue-date": "1928-04-25"},
       "title": "Still Season",
        "author": {
@@ -3097,5 +3059,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-04-10"
+   "last-updated": "2023-01-03"
 }

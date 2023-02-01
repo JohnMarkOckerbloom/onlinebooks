@@ -12,49 +12,14 @@
      {"issue-date": "1964-02", "volume": "42", "number": "9",
       "cdate": "1964-01-25"},
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1927-02", "volume": "5", "number": "9"}},
-   "first-renewed-contribution-source": "1954-JulDec",
+     {"issue": {"issue-date": "1928-06", "volume": "7", "number": "1"}},
+   "first-renewed-contribution-source": "1955-JanJun",
    "renewed-issue-completeness": "active/autorenewals",
    "renewed-issues": [
      {"issue-date": "1930-09", "volume": "9", "number": "4"}
    ],
    "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1927-02", "volume": "5", "number": "9"},
-      "title": "The Bayonet in the Wall",
-      "author": {
-       "authorized": "Burman, Ben Lucien, 1895-1984",
-       "lcna": "n50032333"
-      }
-     },
-     {"issue": {"issue-date": "1927-03", "volume": "5", "number": "10"},
-      "title": "The Fifth Cross",
-      "author": {
-       "authorized": "Burman, Ben Lucien, 1895-1984",
-       "lcna": "n50032333"
-      }
-     },
-     {"issue": {"issue-date": "1927-07", "volume": "6", "number": "2"},
-      "title": "Spy",
-      "author": {
-       "authorized": "Burman, Ben Lucien, 1895-1984",
-       "lcna": "n50032333"
-      }
-     },
-     {"issue": {"issue-date": "1927-07", "volume": "6", "number": "2"},
-      "title": "Gratitude",
-      "author": {
-       "authorized": "Upson, William Hazlett, 1891-1975",
-       "lcna": "n90676728"
-      }
-     },
-     {"issue": {"issue-date": "1927-12", "volume": "6", "number": "7"},
-      "title": "Care to Lay a Little Wager",
-      "author": {
-         "authorized": "Raine, Norman Reilly, 1895-1971",
-         "lcna": "n85342738"
-      }
-     },
      {"issue": {"issue-date": "1928-06", "volume": "7", "number": "1"},
       "title": "The Giant's House",
       "author": {
@@ -529,5 +494,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-09-21"
+   "last-updated": "2023-01-02"
 }

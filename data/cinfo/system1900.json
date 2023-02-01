@@ -3,17 +3,15 @@
    "title-note": "magazine for business and professional people, 1900-1927",
    "online": "1",
    "first-issue": {"issue-date": "1900-12", "volume": "1", "number": "1"},
-   "first-renewed-issue": "none",
-   "first-renewed-issue-source": "cce",
-   "first-renewed-contribution": "none",
-   "first-renewed-contribution-source": "cce",
+   "rights-statement": "NoC-US",
    "last-issue": {"issue-date": "1927-05", "volume": "51", "number": "5"},
    "succeeded-by": [{"id": "magofbusiness",
       "note": "The Magazine of Business"}],
+   "see-also": [{"id": "system1928", "note": "System (1928-1931)"}],
    "renewed-contribution-completeness": "active/end",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-01-08"
+   "last-updated": "2023-01-06"
 }

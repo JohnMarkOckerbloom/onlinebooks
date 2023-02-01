@@ -4,14 +4,14 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution":
-      {"issue": {"issue-date": "1927-12-03"}}, 
+      {"issue": {"issue-date": "1928-01-07"}}, 
    "first-renewed-contribution-source": "1955-JulDec",
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "December 3, 1927 - March 31, 1928"}, 
+     {"issue": {"issue-date": "1928-January 7 - March 31,"}, 
       "title": "While Rivers Run",
       "title-note": "installments",
-      "note": "Exact issues not specified.",
+      "note": "Exact issues not specified. The serialization begins in the December 3, 1927 issue; the January 7, 1928 issue appears to be the earliest without an expired 1927 copyright.",
       "author": {
        "authorized": "Walsh, Maurice, 1879-1964",
        "lcna": "n85277099"
@@ -48,5 +48,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-01-09"
+   "last-updated": "2023-01-02"
 }

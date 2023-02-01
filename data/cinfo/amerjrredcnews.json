@@ -7,31 +7,10 @@
       {"issue-date": "1964-02", "cdate": "1964-01-20",
        "volume": "45", "number": "5"},
    "first-renewed-contribution":
-      {"issue": {"issue-date": "1927-02"}}, 
-   "first-renewed-contribution-source": "1954-JanJun",
+     {"issue": {"issue-date": "1942-09"}}, 
+   "first-renewed-contribution-source": "1969-JulDec",
    "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1927-02"},
-      "title": "Marash, Son of Palok",
-      "author": {
-         "authorized": "Miller, Elizabeth Cleveland, 1889-1936",
-         "lcna": "no2008002999"
-      }
-     },
-     {"issue": {"issue-date": "1927-09"},
-      "title": "The Swim in Kirl",
-      "author": {
-         "authorized": "Miller, Elizabeth Cleveland, 1889-1936",
-         "lcna": "no2008002999"
-      }
-     },
-     {"issue": {"issue-date": "1927-10"},
-      "title": "Bor, the Shepherd Girl",
-      "author": {
-         "authorized": "Miller, Elizabeth Cleveland, 1889-1936",
-         "lcna": "no2008002999"
-      }
-     },
      {"issue": {"issue-date": "1942-09"}, 
       "title": "The Rescue",
        "author": {
@@ -142,5 +121,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-01-15"
+   "last-updated": "2023-01-02"
 }

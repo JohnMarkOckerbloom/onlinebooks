@@ -3,7 +3,8 @@
    "first-issue":
       {"issue-date": "1926-10", "volume": "1", "number": "1"},
    "first-renewed-issue":
-      {"issue-date": "1927-10", "volume": "2", "number": "10"},
+      {"issue-date": "1928-02", "volume": "3", "number": "2",
+       "cdate": "1928-01-16"},
    "first-renewed-issue-source": "1955-JulDec",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce",
@@ -12,11 +13,6 @@
    "succeeded-by": [{"id": "parentsmag", "note": "The Parents' Magazine"}],
    "renewed-issue-completeness": "active/end",
    "renewed-issues": [
-      {"issue-date": "1927-10", "volume": "2", "number": "10"},
-      {"issue-date": "1927-11", "volume": "2", "number": "11"},
-      {"issue-date": "1927-12", "volume": "2", "number": "12"},
-      {"issue-date": "1928-01", "volume": "3", "number": "1",
-       "cdate": "1927-12-14"},
       {"issue-date": "1928-02", "volume": "3", "number": "2",
        "cdate": "1928-01-16"},
       {"issue-date": "1928-03", "volume": "3", "number": "3"},
@@ -30,5 +26,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-11-02"
+   "last-updated": "2023-01-02"
 }

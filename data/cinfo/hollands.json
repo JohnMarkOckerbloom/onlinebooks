@@ -4,48 +4,10 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1927-02", "cdate": "1927-01-15"}}, 
-   "first-renewed-contribution-source": "1954-JulDec",
+     {"issue": {"issue-date": "1928-05"}}, 
+   "first-renewed-contribution-source": "1955-JanJun",
    "renewed-contribution-completeness": "active/1938",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1927-02"}, 
-      "title": "Other Tomorrow",
-      "title-note": "part 4 of 6",
-      "author": {
-       "authorized": "Cohen, Octavus Roy, 1891-1959",
-       "lcna": "n87896297"
-      }
-     },
-     {"issue": {"issue-date": "1927-03"}, 
-      "title": "Other Tomorrow",
-      "title-note": "part 5 of 6",
-      "author": {
-       "authorized": "Cohen, Octavus Roy, 1891-1959",
-       "lcna": "n87896297"
-      }
-     },
-     {"issue": {"issue-date": "1927-04"}, 
-      "title": "Other Tomorrow",
-      "title-note": "part 6 of 6",
-      "author": {
-       "authorized": "Cohen, Octavus Roy, 1891-1959",
-       "lcna": "n87896297"
-      }
-     },
-     {"issue": {"issue-date": "1927-10"}, 
-      "title": "Gray Terror",
-      "author": {
-         "authorized": "Titus, Harold, 1888-1967",
-         "lcna": "no2008175553"
-      }
-     },
-     {"issue": {"issue-date": "1927-12"}, 
-      "title": "The Children's Mother",
-      "author": {
-       "authorized": "Banning, Margaret Culkin, 1891-1982",
-       "lcna": "n86086096"
-      }
-     },
      {"issue": {"issue-date": "1928-05"}, 
       "title": "Miss Mattie's Big Moment",
       "author": {
@@ -120,5 +82,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-01-11"
+   "last-updated": "2023-01-04"
 }

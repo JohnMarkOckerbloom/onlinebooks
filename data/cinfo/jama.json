@@ -10,17 +10,10 @@
        {"issue-date": "1960-01-09", "volume": "172", "number": "2"},
    "first-renewed-issue-source": "database",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1927-05-28", "volume": "88", "number": "22"}}, 
-   "first-renewed-contribution-source": "1954-JulDec",
+      {"issue": {"issue-date": "1932-10-29", "volume": "99", "number": "18"}}, 
+   "first-renewed-contribution-source": "1960-JanJun",
    "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
-       {"issue": {"issue-date": "1927-05-28", "volume": "88", "number": "22"}, 
-        "title": "The Specialist: What Shall We Do With Him?",
-        "author": {
-         "authorized": "Goldwater, S. S. (Sigismund Schulz), 1873-1942",
-         "lcna": "no2004124639"
-        }
-       },
        {"issue": {"issue-date": "1932-10-29", "volume": "99", "number": "18"}, 
         "title": "Wanted: A Proper Accounting of Free Medical Service",
         "author": {
@@ -33,5 +26,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-01-25"
+   "last-updated": "2023-01-03"
 }

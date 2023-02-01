@@ -5,101 +5,10 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1927-01"}}, 
-   "first-renewed-contribution-source": "1954-JulDec",
+     {"issue": {"issue-date": "1928-02"}}, 
+   "first-renewed-contribution-source": "1955-JanJun",
    "renewed-contribution-completeness": "active/1930",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1927-01"},
-        "title": "Death Comes for the Archbishop",
-        "title-note": "part 1 of 6",
-        "author": {
-         "authorized": "Cather, Willa, 1873-1947",
-         "lcna": "n80015717"
-        }
-     },
-     {"issue": {"issue-date": "1927-02"},
-        "title": "Death Comes for the Archbishop",
-        "title-note": "part 2 of 6",
-        "author": {
-         "authorized": "Cather, Willa, 1873-1947",
-         "lcna": "n80015717"
-        }
-     },
-     {"issue": {"issue-date": "1927-03"},
-      "title": "An Accident on the Quai Voltaire",
-      "author": {
-       "authorized": "Borden, Mary",
-       "using": "Mary Spears",
-       "lcna": "n89600063"
-      }
-     },
-     {"issue": {"issue-date": "1927-03"},
-        "title": "Death Comes for the Archbishop",
-        "title-note": "part 3 of 6",
-        "author": {
-         "authorized": "Cather, Willa, 1873-1947",
-         "lcna": "n80015717"
-        }
-     },
-     {"issue": {"issue-date": "1927-04"},
-        "title": "Death Comes for the Archbishop",
-        "title-note": "part 4 of 6",
-        "author": {
-         "authorized": "Cather, Willa, 1873-1947",
-         "lcna": "n80015717"
-        }
-     },
-     {"issue": {"issue-date": "1927-05"},
-      "title": "Herodias the White",
-      "author": {
-       "authorized": "Sass, Herbert Ravenel, 1884-1958",
-       "lcna": "n88224199"
-      }
-     },
-     {"issue": {"issue-date": "1927-05"},
-        "title": "Death Comes for the Archbishop",
-        "title-note": "part 5 of 6",
-        "author": {
-         "authorized": "Cather, Willa, 1873-1947",
-         "lcna": "n80015717"
-        }
-     },
-     {"issue": {"issue-date": "1927-06"},
-        "title": "Death Comes for the Archbishop",
-        "title-note": "part 6 of 6",
-        "author": {
-         "authorized": "Cather, Willa, 1873-1947",
-         "lcna": "n80015717"
-        }
-     },
-     {"issue": {"issue-date": "1927-07"}, 
-      "title": "The Book of Tenants",
-      "author": {
-       "authorized": "Coffin, Robert P. Tristram (Robert Peter Tristram), 1892-1955",
-       "lcna": "n50030030"
-      }
-     },
-     {"issue": {"issue-date": "1927-09"}, 
-        "title": "Nightingale",
-        "author": {
-         "authorized": "Lawrence, D. H. (David Herbert), 1885-1930",
-         "lcna": "n79018450"
-        }
-     },
-     {"issue": {"issue-date": "1927-10"},
-        "title": "Ferdinand and the Taste for Cheese",
-        "author": {
-         "authorized": "Morley, Christopher, 1890-1957",
-         "lcna": "n50006133"
-        }
-     },
-     {"issue": {"issue-date": "1927-12"}, 
-      "title": "Gilt Heels and Captains' Boots",
-      "author": {
-       "authorized": "Coffin, Robert P. Tristram (Robert Peter Tristram), 1892-1955",
-       "lcna": "n50030030"
-      }
-     },
      {"issue": {"issue-date": "1928-02"}, 
         "title": "Escaped Cock",
         "author": {
@@ -236,10 +145,9 @@
         }
      }
    ],
-   "additional-note": "Active contribution renewals are recorded beginning in the 1954 January-June CCE volume, but the earliest renewed contribution is noted in the 1954 July-December volume.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-01-06"
+   "last-updated": "2023-01-03"
 }

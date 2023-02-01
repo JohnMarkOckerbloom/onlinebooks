@@ -1,6 +1,6 @@
 {
    "title": "The Magazine of Business",
-   "preceded-by": [{"id": "system1900", "note": "System"}],
+   "preceded-by": [{"id": "system1900", "note": "System (1900-1927)"}],
    "first-issue": {"issue-date": "1927-06", "volume": "51", "number": "6"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
@@ -8,9 +8,11 @@
       {"issue": {"issue-date": "1929-01"}},
    "first-renewed-contribution-source": "1956-JulDec",
    "last-issue": {"issue-date": "1929-08", "volume": "56", "number": "2"},
+   "see-also": [{"id": "system1928", "note": "System (1928-1931)"}],
+   "additional-note": "This publication continued the issue numbering of System (1900-1927) after it ended. After this publication ended, another periodical called System that had started in 1928 with volume 1 took over the issue numbering of this publication.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-03-19"
+   "last-updated": "2023-01-06"
 }

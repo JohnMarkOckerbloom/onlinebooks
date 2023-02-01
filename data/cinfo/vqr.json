@@ -3,19 +3,14 @@
    "online": "1",
    "first-issue": {"issue-date": "1925-04", "volume": "1", "number": "1"},
    "first-renewed-issue": 
-      {"issue-date": "1927-04", "volume": "3", "number": "2",
-       "cdate": "1927-03-15"},
-   "first-renewed-issue-source": "1954-JulDec",
-   "first-renewed-contribution": {"issue": {"issue-date": "1927-04"}},
-   "first-renewed-contribution-source": "1954-JulDec",
+      {"issue-date": "1928-04", "volume": "4", "number": "2",
+       "cdate": "1928-03-12"},
+   "first-renewed-issue-source": "1955-JulDec",
+   "first-renewed-contribution":
+     {"issue": {"issue-date": "1928-07"}}, 
+   "first-renewed-contribution-source": "1955-JanJun",
    "renewed-issue-completeness": "active/1930",
    "renewed-issues": [
-      {"issue-date": "1927-04", "volume": "3", "number": "2",
-       "cdate": "1927-03-15"},
-      {"issue-date": "1927-07", "volume": "3", "number": "3"},
-      {"issue-date": "1927-10", "volume": "3", "number": "4"},
-      {"issue-date": "1928-01", "volume": "4", "number": "1",
-       "cdate": "1927-12-13"},
       {"issue-date": "1928-04", "volume": "4", "number": "2",
        "cdate": "1928-03-12"},
       {"issue-date": "1928-07", "volume": "4", "number": "3"},
@@ -41,34 +36,6 @@
    ],
    "renewed-contribution-completeness": "active/1928",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1927-04"},
-      "title": "Feminine Traits in Wild Things",
-      "author": {
-       "authorized": "Rutledge, Archibald, 1883-1973",
-       "lcna": "n50031762"
-      }
-     },
-     {"issue": {"issue-date": "1927-07"}, 
-      "title": "Captain Pye",
-      "author": {
-       "authorized": "Coffin, Robert P. Tristram (Robert Peter Tristram), 1892-1955",
-       "lcna": "n50030030"
-      }
-     },
-     {"issue": {"issue-date": "1928-01"},
-        "title": "Henry Clay",
-        "author": {
-         "authorized": "Bradford, Gamaliel, 1863-1932",
-         "lcna": "n50042916"
-        }
-     },
-     {"issue": {"issue-date": "1928-01"},
-      "title": "Children of the Night",
-      "author": {
-       "authorized": "Rutledge, Archibald, 1883-1973",
-       "lcna": "n50031762"
-      }
-     },
      {"issue": {"issue-date": "1928-07"}, 
       "title": "Codfish Chowder and Sun",
       "author": {
@@ -100,10 +67,9 @@
         }
      }
    ],
-   "additional-note": "Active contribution renewals are recorded beginning in the 1954 January-June CCE volume, but the earliest actively renewed contribution is noted in the 1954 July-December volume.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-11-02"
+   "last-updated": "2023-01-02"
 }

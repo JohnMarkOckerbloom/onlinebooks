@@ -1,0 +1,28 @@
+{
+   "title": "Journal of the American Welding Society",
+   "aka": ["American Welding Society Journal"],
+   "online": "1",
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce",
+   "first-renewed-contribution": 
+      {"issue": {"issue-date": "1933-08", "volume": "12", "number": "8"}},
+   "first-renewed-contribution-source": "1961-JulDec",
+   "succeeded-by": [{"id": "weldingjnl", "note": "Welding Journal"}],
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1933-08", "volume": "12", "number": "8"},
+        "title": "The Practical Design of Welded Steel Structures",
+        "author": {
+         "authorized": "Priest, H. Malcolm",
+         "lcna": "no2009191960"
+        }
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "acknowledgement": 
+      "Thanks to Eli Baum for copyright research on this title.",
+   "last-updated": "2023-01-30"
+}

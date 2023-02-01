@@ -11,26 +11,12 @@
       {"issue-date": "1938-03", "volume": "43", "number": "3"},
    "first-renewed-issue-source": "1965",
    "first-renewed-contribution": 
-      {"issue": {"issue-date": "1927-04-20", "volume": "6", "number": "2"}},
-   "first-renewed-contribution-source": "1954-JanJun",
+     {"issue": {"issue-date": "1928-12-12", "volume": "18", "number": "5"}},
+   "first-renewed-contribution-source": "1956-JanJun",
    "last-issue":
       {"issue-date": "1953-Fall", "volume": "79", "number": "2"},
    "renewed-contribution-completeness": "active/1928",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1927-04-20", "volume": "6", "number": "2"},
-      "title": "Aces Back to Back",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1927-05-05", "volume": "6", "number": "2"},
-      "title": "A Load of Dynamite",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
      {"issue": {"issue-date": "1928-12-12", "volume": "18", "number": "5"},
       "title": "Free Grass",
       "title-note": "part 1 of 6",
@@ -145,5 +131,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-01-12"
+   "last-updated": "2023-01-01"
 }

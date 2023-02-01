@@ -6,21 +6,14 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1927-06"}},
-   "first-renewed-contribution-source": "1955-JanJun",
+     {"issue": {"issue-date": "1931-12"}},
+   "first-renewed-contribution-source": "1959-JanJun",
    "last-issue": {"issue-date": "1942-10", "volume": "42", "number": "10"},
    "succeeded-by": [{"id": "asiaandamericas", "note": "Asia and the Americas"}],
    "see-also":
       [{"id": "asia1951", "note": "Asia (Vietnamese quarterly, 1951-1955)"}],
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1927-06"},
-      "title": "Mr. Crooked",
-      "author": {
-       "authorized": "Cooper, Merian C.",
-       "lcna": "no90010570"
-      }
-     },
      {"issue": {"issue-date": "1931-12"},
       "title": "The First Wife",
       "title-note": "part 1 of 2",
@@ -330,5 +323,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-08-11"
+   "last-updated": "2023-01-02"
 }

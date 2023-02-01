@@ -5,9 +5,11 @@
       {"issue-date": "1929-02-11", "number": "15433"},
    "first-renewed-issue-source": "1956-JulDec",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1927-09-12"}},
-   "first-renewed-contribution-source": "1954-JulDec",
+     {"issue": {"issue-date": "1928-03-03"}},
+   "first-renewed-contribution-source": "1955-JulDec",
    "last-issue": {"issue-date": "1937-06-24"},
+   "succeeded-by":
+      [{"id": "nyjnlamerican", "note": "New York Journal-American"}],
    "renewed-issue-completeness": "active/end",
    "renewed-issues": [
       {"issue-date": "1929-02-11", "number": "15433"},
@@ -39,330 +41,8 @@
       {"issue-date": "1929-03-13", "number": "15459"},
       {"issue-date": "1929-03-14", "number": "15460"}
     ],
-   "renewed-contribution-completeness": "active/1927",
+   "renewed-contribution-completeness": "active/1936",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1927-09-12"},
-       "title": "Becky",
-       "title-note": "part 1 of 46",
-       "author": {
-         "name": "Rayner Seelig"
-       }
-     },
-     {"issue": {"issue-date": "1927-09-13"},
-       "title": "Becky",
-       "title-note": "part 2 of 46",
-       "author": {
-         "name": "Rayner Seelig"
-       }
-     },
-     {"issue": {"issue-date": "1927-09-14"},
-       "title": "Becky",
-       "title-note": "part 3 of 46",
-       "author": {
-         "name": "Rayner Seelig"
-       }
-     },
-     {"issue": {"issue-date": "1927-09-15"},
-       "title": "Becky",
-       "title-note": "part 4 of 46",
-       "author": {
-         "name": "Rayner Seelig"
-       }
-     },
-     {"issue": {"issue-date": "1927-09-16"},
-       "title": "Becky",
-       "title-note": "part 5 of 46",
-       "author": {
-         "name": "Rayner Seelig"
-       }
-     },
-     {"issue": {"issue-date": "1927-09-17"},
-       "title": "Becky",
-       "title-note": "part 6 of 46",
-       "author": {
-         "name": "Rayner Seelig"
-       }
-     },
-     {"issue": {"issue-date": "1927-09-19"},
-       "title": "Becky",
-       "title-note": "part 7 of 46",
-       "author": {
-         "name": "Rayner Seelig"
-       }
-     },
-     {"issue": {"issue-date": "1927-09-20"},
-       "title": "Becky",
-       "title-note": "part 8 of 46",
-       "author": {
-         "name": "Rayner Seelig"
-       }
-     },
-     {"issue": {"issue-date": "1927-09-21"},
-       "title": "Becky",
-       "title-note": "part 9 of 46",
-       "author": {
-         "name": "Rayner Seelig"
-       }
-     },
-     {"issue": {"issue-date": "1927-09-22"},
-       "title": "Becky",
-       "title-note": "part 10 of 46",
-       "author": {
-         "name": "Rayner Seelig"
-       }
-     },
-     {"issue": {"issue-date": "1927-09-23"},
-       "title": "Becky",
-       "title-note": "part 11 of 46",
-       "author": {
-         "name": "Rayner Seelig"
-       }
-     },
-     {"issue": {"issue-date": "1927-09-24"},
-       "title": "Becky",
-       "title-note": "part 12 of 46",
-       "author": {
-         "name": "Rayner Seelig"
-       }
-     },
-     {"issue": {"issue-date": "1927-09-26"},
-       "title": "Becky",
-       "title-note": "part 13 of 46",
-       "author": {
-         "name": "Rayner Seelig"
-       }
-     },
-     {"issue": {"issue-date": "1927-09-27"},
-       "title": "Becky",
-       "title-note": "part 14 of 46",
-       "author": {
-         "name": "Rayner Seelig"
-       }
-     },
-     {"issue": {"issue-date": "1927-09-28"},
-       "title": "Becky",
-       "title-note": "part 15 of 46",
-       "author": {
-         "name": "Rayner Seelig"
-       }
-     },
-     {"issue": {"issue-date": "1927-09-29"},
-       "title": "Becky",
-       "title-note": "part 16 of 46",
-       "author": {
-         "name": "Rayner Seelig"
-       }
-     },
-     {"issue": {"issue-date": "1927-09-30"},
-       "title": "Becky",
-       "title-note": "part 17 of 46",
-       "author": {
-         "name": "Rayner Seelig"
-       }
-     },
-     {"issue": {"issue-date": "1927-10-03"},
-       "title": "Becky",
-       "title-note": "part 18 of 46",
-       "author": {
-         "name": "Rayner Seelig"
-       }
-     },
-     {"issue": {"issue-date": "1927-10-04"},
-       "title": "Becky",
-       "title-note": "part 19 of 46",
-       "author": {
-         "name": "Rayner Seelig"
-       }
-     },
-     {"issue": {"issue-date": "1927-10-05"},
-       "title": "Becky",
-       "title-note": "part 20 of 46",
-       "author": {
-         "name": "Rayner Seelig"
-       }
-     },
-     {"issue": {"issue-date": "1927-10-06"},
-       "title": "Becky",
-       "title-note": "part 21 of 46",
-       "author": {
-         "name": "Rayner Seelig"
-       }
-     },
-     {"issue": {"issue-date": "1927-10-07"},
-       "title": "Becky",
-       "title-note": "part 22 of 46",
-       "author": {
-         "name": "Rayner Seelig"
-       }
-     },
-     {"issue": {"issue-date": "1927-10-10"},
-       "title": "Becky",
-       "title-note": "part 23 of 46",
-       "author": {
-         "name": "Rayner Seelig"
-       }
-     },
-     {"issue": {"issue-date": "1927-10-11"},
-       "title": "Becky",
-       "title-note": "part 24 of 46",
-       "author": {
-         "name": "Rayner Seelig"
-       }
-     },
-     {"issue": {"issue-date": "1927-10-12"},
-       "title": "Becky",
-       "title-note": "part 25 of 46",
-       "author": {
-         "name": "Rayner Seelig"
-       }
-     },
-     {"issue": {"issue-date": "1927-10-13"},
-       "title": "Becky",
-       "title-note": "part 26 of 46",
-       "author": {
-         "name": "Rayner Seelig"
-       }
-     },
-     {"issue": {"issue-date": "1927-10-14"},
-       "title": "Becky",
-       "title-note": "part 27 of 46",
-       "author": {
-         "name": "Rayner Seelig"
-       }
-     },
-     {"issue": {"issue-date": "1927-10-15"},
-       "title": "Becky",
-       "title-note": "part 28 of 46",
-       "author": {
-         "name": "Rayner Seelig"
-       }
-     },
-     {"issue": {"issue-date": "1927-10-17"},
-       "title": "Becky",
-       "title-note": "part 29 of 46",
-       "author": {
-         "name": "Rayner Seelig"
-       }
-     },
-     {"issue": {"issue-date": "1927-10-18"},
-       "title": "Becky",
-       "title-note": "part 30 of 46",
-       "author": {
-         "name": "Rayner Seelig"
-       }
-     },
-     {"issue": {"issue-date": "1927-10-19"},
-       "title": "Becky",
-       "title-note": "part 31 of 46",
-       "author": {
-         "name": "Rayner Seelig"
-       }
-     },
-     {"issue": {"issue-date": "1927-10-20"},
-       "title": "Becky",
-       "title-note": "part 32 of 46",
-       "author": {
-         "name": "Rayner Seelig"
-       }
-     },
-     {"issue": {"issue-date": "1927-10-21"},
-       "title": "Becky",
-       "title-note": "part 33 of 46",
-       "author": {
-         "name": "Rayner Seelig"
-       }
-     },
-     {"issue": {"issue-date": "1927-10-22"},
-       "title": "Becky",
-       "title-note": "part 34 of 46",
-       "author": {
-         "name": "Rayner Seelig"
-       }
-     },
-     {"issue": {"issue-date": "1927-10-24"},
-       "title": "Becky",
-       "title-note": "part 35 of 46",
-       "author": {
-         "name": "Rayner Seelig"
-       }
-     },
-     {"issue": {"issue-date": "1927-10-25"},
-       "title": "Becky",
-       "title-note": "part 36 of 46",
-       "author": {
-         "name": "Rayner Seelig"
-       }
-     },
-     {"issue": {"issue-date": "1927-10-26"},
-       "title": "Becky",
-       "title-note": "part 37 of 46",
-       "author": {
-         "name": "Rayner Seelig"
-       }
-     },
-     {"issue": {"issue-date": "1927-10-27"},
-       "title": "Becky",
-       "title-note": "part 38 of 46",
-       "author": {
-         "name": "Rayner Seelig"
-       }
-     },
-     {"issue": {"issue-date": "1927-10-28"},
-       "title": "Becky",
-       "title-note": "part 39 of 46",
-       "author": {
-         "name": "Rayner Seelig"
-       }
-     },
-     {"issue": {"issue-date": "1927-10-29"},
-       "title": "Becky",
-       "title-note": "part 40 of 46",
-       "author": {
-         "name": "Rayner Seelig"
-       }
-     },
-     {"issue": {"issue-date": "1927-10-31"},
-       "title": "Becky",
-       "title-note": "part 41 of 46",
-       "author": {
-         "name": "Rayner Seelig"
-       }
-     },
-     {"issue": {"issue-date": "1927-11-01"},
-       "title": "Becky",
-       "title-note": "part 42 of 46",
-       "author": {
-         "name": "Rayner Seelig"
-       }
-     },
-     {"issue": {"issue-date": "1927-11-02"},
-       "title": "Becky",
-       "title-note": "part 43 of 46",
-       "author": {
-         "name": "Rayner Seelig"
-       }
-     },
-     {"issue": {"issue-date": "1927-11-03"},
-       "title": "Becky",
-       "title-note": "part 44 of 46",
-       "author": {
-         "name": "Rayner Seelig"
-       }
-     },
-     {"issue": {"issue-date": "1927-11-04"},
-       "title": "Becky",
-       "title-note": "part 45 of 46",
-       "author": {
-         "name": "Rayner Seelig"
-       }
-     },
-     {"issue": {"issue-date": "1927-11-05"},
-       "title": "Becky",
-       "title-note": "part 46 of 46",
-       "author": {
-         "name": "Rayner Seelig"
-       }
-     },
      {"issue": {"issue-date": "1928-03-03"},
        "title": "Sappo",
        "note": "Renewed under Artwork. Listed as work for hire by E. C. Segar as an employee of King Features Syndicate.  King Features is the author for copyright purposes.",
@@ -371,13 +51,37 @@
          "lcna": "n86814505"},
         {"authorized": "King Features Syndicate", "lcna": "n82010039"}
        ]
+     },
+     {"issue": {"issue-date": "1930-01-11"},
+       "title": "Thimble Theatre",
+       "author": {
+         "authorized": "King Features Syndicate",
+         "lcna": "n82010039"
+        }
+     },
+     {"issue": {"issue-date": "1930-10-06"},
+       "title": "Little Annie Rooney",
+       "author": {
+         "authorized": "King Features Syndicate",
+         "lcna": "n82010039"
+        }
+     },
+     {"issue": {"issue-date": "1937-02-13"},
+       "title": "Prince Valiant",
+       "note": "Listed as work for hire by Hal Foster as an employee of King Features Syndicate.  King Features is the author for copyright purposes.",
+       "authors": [
+        {"authorized": "Foster, Harold R. (Harold Rudolf), 1892-1982",
+         "lcna": "n82119206"},
+        {"authorized": "King Features Syndicate", "lcna": "n82010039"}
+       ]
      }
    ],
+   "comment": "Got all Contributions under this name. Need to check 1965 Artwork for art that might have appeared in the Journal.  There are also some renewals for contributions, and possibly artwork, in the merged Journal and American.",
    "additional-note": 
-   "Some images from the New York Evening Journal were renewed separately in the Artwork section, rather than in the Contributions to Periodicals section.  The first such image with an active copyright ran in the March 3, 1928 issue, and was renewed in 1955.  The first contribution to be renewed in the Contributions to periodicals section of the CCE ran in the September 12, 1927 issue, and was also renewed in 1954.",
+   "Some images from the New York Evening Journal were renewed separately in the Artwork section, rather than in the Contributions to Periodicals section.  The first such image with an active copyright ran in the March 3, 1928 issue, and was renewed in 1955.  The first contribution to have an active renewal in the Contributions to Periodicals section of the CCE ran in the January 11, 1930 issue, and was renewed in 1958.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-01-10"
+   "last-updated": "2023-01-07"
 }

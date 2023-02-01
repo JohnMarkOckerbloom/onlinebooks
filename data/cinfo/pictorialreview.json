@@ -3,31 +3,19 @@
    "online": "1",
    "first-issue": {"issue-date": "1899-09", "volume": "1", "number": "1"},
    "first-renewed-issue": 
-      {"issue-date": "1927-02", "volume": "28", "number": "5",
-       "cdate": "1927-02-01"},
-   "first-renewed-issue-source": "1954-JulDec",
+      {"issue-date": "1928-02", "volume": "29", "number": "5",
+       "cdate": "1928-01-25"},
+   "first-renewed-issue-source": "1955-JanJun",
    "first-renewed-contribution": 
-      {"issue": {"issue-date": "1927-02", "volume": "28", "number": "5"}}, 
+      {"issue": {"issue-date": "1928-02", "volume": "29", "number": "5"}}, 
    "first-renewed-contribution-source": "1955-JanJun",
    "last-issue": {"issue-date": "1937-04", "volume": "38", "number": "7"},
    "succeeded-by":
      [{"id": "picreviewdelineator", "note": "Pictorial Review-Delineator"}],
    "renewed-issue-completeness": "active/end",
    "renewed-issues": [
-      {"issue-date": "1927-02", "volume": "28", "number": "5",
-       "cdate": "1927-02-01"},
-      {"issue-date": "1927-03", "volume": "28", "number": "6"},
-      {"issue-date": "1927-04", "volume": "28", "number": "7"},
-      {"issue-date": "1927-05", "volume": "28", "number": "8"},
-      {"issue-date": "1927-06", "volume": "28", "number": "9"},
-      {"issue-date": "1927-07", "volume": "28", "number": "10"},
-      {"issue-date": "1927-08", "volume": "28", "number": "11"},
-      {"issue-date": "1927-09", "volume": "28", "number": "12"},
-      {"issue-date": "1927-10", "volume": "29", "number": "1"},
-      {"issue-date": "1927-11", "volume": "29", "number": "2"},
-      {"issue-date": "1927-12", "volume": "29", "number": "3"},
-      {"issue-date": "1928-01", "volume": "29", "number": "4"},
-      {"issue-date": "1928-02", "volume": "29", "number": "5"},
+      {"issue-date": "1928-02", "volume": "29", "number": "5",
+       "cdate": "1928-01-25"},
       {"issue-date": "1928-03", "volume": "29", "number": "6"},
       {"issue-date": "1928-04", "volume": "29", "number": "7"},
       {"issue-date": "1928-05", "volume": "29", "number": "8"},
@@ -133,182 +121,233 @@
       {"issue-date": "1937-03", "volume": "38", "number": "6"},
       {"issue-date": "1937-04", "volume": "38", "number": "7"}
    ],
-   "renewed-contribution-completeness": "active/1927",
+   "renewed-contribution-completeness": "active/1928",
    "renewed-contributions": [
-      {"issue": {"issue-date": "1927-02", "volume": "28", "number": "5"}, 
-       "title": "Gay and Gallant Ladies: Belle Starr, Gadfly of the Civil War",
-       "author": {
-        "authorized": "Rogers, Cameron, 1900-1971",
-        "lcna": "no90016727"
-       }
-      },
-      {"issue": {"issue-date": "1927-04", "volume": "28", "number": "7"}, 
-       "title": "Minstrels in the Mist",
-       "author": {
-        "authorized": "Burman, Ben Lucien, 1895-1984",
-        "lcna": "n50032333"
-       }
-      },
-      {"issue": {"issue-date": "1927-05", "volume": "28", "number": "8"}, 
-       "title": "The Unfinished House",
-       "author": {
-        "authorized": "Bercovici, Konrad, 1882-1961",
-        "lcna": "n50006835"
-       }
-      },
-      {"issue": {"issue-date": "1927-05", "volume": "28", "number": "8"}, 
-       "title": "Twilight Sleep",
-       "author": {
-        "authorized": "Wharton, Edith, 1862-1937",
-        "lcna": "n79151500"
-       }
-      },
-      {"issue": {"issue-date": "1927-07", "volume": "28", "number": "10"}, 
-       "title": "Sailor, Sailor",
-       "author": {
-        "authorized": "Steele, Wilbur Daniel, 1886-1970",
-        "lcna": "no98007702"
-       }
-      },
-      {"issue": {"issue-date": "1927-08", "volume": "28", "number": "11"}, 
-       "title": "Speed",
-       "author": {
-        "authorized": "Steele, Wilbur Daniel, 1886-1970",
-        "lcna": "no98007702"
-       }
-      },
-      {"issue": {"issue-date": "1927-08", "volume": "28", "number": "11"}, 
-       "title": "The Aristocratic Miss Brewster",
-       "title-note": "part 1 of 3",
-       "author": {
-        "authorized": "Lincoln, Joseph Crosby, 1870-1944",
-        "lcna": "n81010311"
-       }
-      },
-      {"issue": {"issue-date": "1927-09", "volume": "28", "number": "12"}, 
-       "title": "The Fun of Being a Mother",
-       "author": {
-        "authorized": "Norris, Kathleen Thompson, 1880-1966",
-        "lcna": "n50006075"
-       }
-      },
-      {"issue": {"issue-date": "1927-09", "volume": "28", "number": "12"}, 
-        "title": "One Blonde Mouse",
-        "author": {
-         "authorized": "Hope, Edward, 1896-1958",
-         "lcna": "no89019131"
-        }
-      },
-      {"issue": {"issue-date": "1927-09", "volume": "28", "number": "12"}, 
-       "title": "The Aristocratic Miss Brewster",
-       "title-note": "part 2 of 3",
-       "author": {
-        "authorized": "Lincoln, Joseph Crosby, 1870-1944",
-        "lcna": "n81010311"
-       }
-      },
-      {"issue": {"issue-date": "1927-10", "volume": "29", "number": "1"}, 
-       "title": "The Take Out Bid",
-       "author": {
-        "authorized": "Banning, Margaret Culkin, 1891-1982",
-        "lcna": "n86086096"
-       }
-      },
-      {"issue": {"issue-date": "1927-10", "volume": "29", "number": "1"}, 
-       "title": "I Am He",
-       "author": {
-        "authorized": "Freedman, David, 1898-1936",
-        "lcna": "no93014604"
-       }
-      },
-      {"issue": {"issue-date": "1927-10", "volume": "29", "number": "1"}, 
-       "title": "American Comedy",
-       "author": {
-        "authorized": "Steele, Wilbur Daniel, 1886-1970",
-        "lcna": "no98007702"
-       }
-      },
-      {"issue": {"issue-date": "1927-10", "volume": "29", "number": "1"}, 
-       "title": "The Aristocratic Miss Brewster",
-       "title-note": "part 3 of 3",
-       "author": {
-        "authorized": "Lincoln, Joseph Crosby, 1870-1944",
-        "lcna": "n81010311"
-       }
-      },
-      {"issue": {"issue-date": "1927-12", "volume": "29", "number": "3"}, 
-       "title": "Alias Santa Claus",
-       "author": {
-        "authorized": "Wilde, Percival, 1887-1953",
-        "lcna": "n80050877"
-       }
-      },
-      {"issue": {"issue-date": "1928-01", "volume": "29", "number": "4"},
-       "title": "Chiribo",
-       "author": {
-        "authorized": "Freedman, David, 1898-1936",
-        "lcna": "no93014604"
-       }
-      },
-      {"issue": {"issue-date": "1928-02", "volume": "29", "number": "5"}, 
-       "title": "Children of Noah",
-       "author": {
-        "authorized": "Burman, Ben Lucien, 1895-1984",
-        "lcna": "n50032333"
-       }
-      },
-      {"issue": {"issue-date": "1928-04", "volume": "29", "number": "7"},
-       "title": "Fifi and the Helping Hand",
-       "author": {
-         "authorized": "Adams, Samuel Hopkins, 1871-1958",
-         "lcna": "n50037535"
-       }
-      },
-      {"issue": {"issue-date": "1928-04", "volume": "29", "number": "7"},
-       "title": "The Children",
-       "title-note": "part 1 of 5",
-       "author": {
-        "authorized": "Wharton, Edith, 1862-1937",
-        "lcna": "n79151500"
-       }
-      },
-      {"issue": {"issue-date": "1928-05", "volume": "29", "number": "8"},
-       "title": "The Children",
-       "title-note": "part 2 of 5",
-       "author": {
-        "authorized": "Wharton, Edith, 1862-1937",
-        "lcna": "n79151500"
-       }
-      },
-      {"issue": {"issue-date": "1928-06", "volume": "29", "number": "9"},
-       "title": "The Children",
-       "title-note": "part 3 of 5",
-       "author": {
-        "authorized": "Wharton, Edith, 1862-1937",
-        "lcna": "n79151500"
-       }
-      },
-      {"issue": {"issue-date": "1928-07", "volume": "29", "number": "10"},
-       "title": "The Children",
-       "title-note": "part 4 of 5",
-       "author": {
-        "authorized": "Wharton, Edith, 1862-1937",
-        "lcna": "n79151500"
-       }
-      },
-      {"issue": {"issue-date": "1928-08", "volume": "29", "number": "11"},
-       "title": "The Children",
-       "title-note": "part 5 of 5",
-       "author": {
-        "authorized": "Wharton, Edith, 1862-1937",
-        "lcna": "n79151500"
-       }
+     {"issue": {"issue-date": "1928-02", "volume": "29", "number": "5"}, 
+      "title": "Children of Noah",
+      "author": {
+       "authorized": "Burman, Ben Lucien, 1895-1984",
+       "lcna": "n50032333"
       }
+     },
+     {"issue": {"issue-date": "1928-03", "volume": "29", "number": "6"},
+        "title": "Mary Drake and William Todd",
+        "title-note": "part 1 of 2",
+        "note": "Title as given in CCE renewal record. FictionMags gives title as 'Mary Drake and Will Todd'.  We have not examined the issue in question.",
+        "author": {
+         "authorized": "Steele, Wilbur Daniel, 1886-1970",
+         "lcna": "no98007702"
+        }
+     },
+     {"issue": {"issue-date": "1928-04", "volume": "29", "number": "7"},
+        "title": "Mary Drake and William Todd",
+        "title-note": "part 2 of 2",
+        "note": "Title as given in CCE renewal record. FictionMags gives title as 'Mary Drake and Will Todd'.  We have not examined the issue in question.",
+        "author": {
+         "authorized": "Steele, Wilbur Daniel, 1886-1970",
+         "lcna": "no98007702"
+        }
+     },
+     {"issue": {"issue-date": "1928-04", "volume": "29", "number": "7"},
+      "title": "Fifi and the Helping Hand",
+      "author": {
+        "authorized": "Adams, Samuel Hopkins, 1871-1958",
+        "lcna": "n50037535"
+      }
+     },
+     {"issue": {"issue-date": "1928-04", "volume": "29", "number": "7"},
+      "title": "The Children",
+      "title-note": "part 1 of 5",
+      "author": {
+       "authorized": "Wharton, Edith, 1862-1937",
+       "lcna": "n79151500"
+      }
+     },
+     {"issue": {"issue-date": "1928-05", "volume": "29", "number": "8"},
+      "title": "The Children",
+      "title-note": "part 2 of 5",
+      "author": {
+       "authorized": "Wharton, Edith, 1862-1937",
+       "lcna": "n79151500"
+      }
+     },
+     {"issue": {"issue-date": "1928-06", "volume": "29", "number": "9"},
+        "title": "Lightning",
+        "author": {
+         "authorized": "Steele, Wilbur Daniel, 1886-1970",
+         "lcna": "no98007702"
+        }
+     },
+     {"issue": {"issue-date": "1928-06", "volume": "29", "number": "9"},
+      "title": "The Children",
+      "title-note": "part 3 of 5",
+      "author": {
+       "authorized": "Wharton, Edith, 1862-1937",
+       "lcna": "n79151500"
+      }
+     },
+     {"issue": {"issue-date": "1928-07", "volume": "29", "number": "10"},
+      "title": "The Children",
+      "title-note": "part 4 of 5",
+      "author": {
+       "authorized": "Wharton, Edith, 1862-1937",
+       "lcna": "n79151500"
+      }
+     },
+     {"issue": {"issue-date": "1928-08", "volume": "29", "number": "11"},
+      "title": "The Children",
+      "title-note": "part 5 of 5",
+      "author": {
+       "authorized": "Wharton, Edith, 1862-1937",
+       "lcna": "n79151500"
+      }
+     },
+     {"issue": {"issue-date": "1928-09", "volume": "29", "number": "12"},
+        "title": "Winter Wheat",
+        "author": {
+         "authorized": "Steele, Wilbur Daniel, 1886-1970",
+         "lcna": "no98007702"
+        }
+     },
+     {"issue": {"issue-date": "1928-10", "volume": "30", "number": "1"},
+        "title": "From One Generation to Another",
+        "author": {
+         "authorized": "Steele, Wilbur Daniel, 1886-1970",
+         "lcna": "no98007702"
+        }
+     },
+     {"issue": {"issue-date": "1928-10", "volume": "30", "number": "1"},
+      "title": "This Strange Adventure",
+      "title-note": "part 1 of 5",
+      "author": {
+       "authorized": "Rinehart, Mary Roberts, 1876-1958",
+       "lcna": "n78078535"
+      }
+     },
+     {"issue": {"issue-date": "1928-11", "volume": "30", "number": "2"},
+      "title": "This Strange Adventure",
+      "title-note": "part 2 of 5",
+      "author": {
+       "authorized": "Rinehart, Mary Roberts, 1876-1958",
+       "lcna": "n78078535"
+      }
+     },
+     {"issue": {"issue-date": "1928-12", "volume": "30", "number": "3"},
+      "title": "This Strange Adventure",
+      "title-note": "part 3 of 5",
+      "author": {
+       "authorized": "Rinehart, Mary Roberts, 1876-1958",
+       "lcna": "n78078535"
+      }
+     },
+     {"issue": {"issue-date": "1929-01", "volume": "30", "number": "4"},
+      "title": "This Strange Adventure",
+      "title-note": "part 4 of 5",
+      "author": {
+       "authorized": "Rinehart, Mary Roberts, 1876-1958",
+       "lcna": "n78078535"
+      }
+     },
+     {"issue": {"issue-date": "1929-01", "volume": "30", "number": "4"},
+      "title": "Beau Pest",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1929-02", "volume": "30", "number": "5"}, 
+      "title": "The Little Lobster",
+      "author": {
+       "authorized": "Jackson, Margaret Weymouth",
+       "lcna": "no94014713"
+      }
+     },
+     {"issue": {"issue-date": "1929-02", "volume": "30", "number": "5"}, 
+      "title": "This Strange Adventure",
+      "title-note": "part 5 of 5",
+      "author": {
+       "authorized": "Rinehart, Mary Roberts, 1876-1958",
+       "lcna": "n78078535"
+      }
+     },
+     {"issue": {"issue-date": "1929-03", "volume": "30", "number": "6"},
+        "title": "Silver Sword",
+        "author": {
+         "authorized": "Steele, Wilbur Daniel, 1886-1970",
+         "lcna": "no98007702"
+        }
+     },
+     {"issue": {"issue-date": "1929-03", "volume": "30", "number": "6"},
+      "title": "The Ace of Clubs",
+      "author": {
+         "authorized": "Starrett, Vincent, 1886-1974",
+         "lcna": "n50023295"
+      }
+     },
+     {"issue": {"issue-date": "1929-05", "volume": "30", "number": "8"},
+        "title": "Survivor",
+        "author": {
+         "authorized": "Steele, Wilbur Daniel, 1886-1970",
+         "lcna": "no98007702"
+        }
+     },
+     {"issue": {"issue-date": "1929-06", "volume": "30", "number": "9"},
+      "title": "Bunny's Aunt Mathilda (Portrait of a Maiden Aunt)",
+      "author": {
+       "authorized": "Brush, Katharine, 1900-1952",
+       "lcna": "no93001232"
+      }
+     },
+     {"issue": {"issue-date": "1929-06", "volume": "30", "number": "9"},
+      "title": "Is America a Paradise for Women?",
+      "author": {
+         "authorized": "Lewis, Sinclair, 1885-1951",
+         "lcna": "n79023149"
+       }
+     },
+     {"issue": {"issue-date": "1929-07", "volume": "30", "number": "10"},
+      "title": "His Big Day",
+      "title-note": "part 1 of 2",
+      "note": "Title as given on issue cover.  CCE renewal record gives title as 'The Big Day'.",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1929-08", "volume": "30", "number": "11"},
+      "title": "His Big Day",
+      "title-note": "part 2 of 2",
+      "note": "Title as given on July issue cover.  CCE renewal record gives title as 'The Big Day'.",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1929-09", "volume": "30", "number": "12"},
+      "title": "Town Girl",
+      "author": {
+       "authorized": "Brush, Katharine, 1900-1952",
+       "lcna": "no93001232"
+      }
+     },
+     {"issue": {"issue-date": "1929-10", "volume": "31", "number": "1"}, 
+      "title": "The World's Best Butler",
+      "author": {
+       "authorized": "Irwin, Wallace, 1876-1959",
+       "lcna": "n97112081"
+      }
+     },
+     {"issue": {"issue-date": "1929-11", "volume": "31", "number": "2"},
+      "title": "The Funny Man",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     }
    ],
-   "additional-note": "Active contribution renewals are recorded beginning in the 1954 January-June CCE volume, but the earliest renewed contribution is noted in the 1955 January-June volume.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-01-10"
+   "last-updated": "2023-01-03"
 }

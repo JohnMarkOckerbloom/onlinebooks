@@ -4,30 +4,16 @@
    "online": "1",
    "first-issue": {"issue-date": "1867-11-02", "volume": "1", "number": "1"},
    "first-renewed-issue": 
-     {"issue-date": "1927-02", "volume": "61", "number": "2",
-      "cdate": "1927-01-29"},
-   "first-renewed-issue-source": "1954-JulDec",
+     {"issue-date": "1928-02", "volume": "62", "number": "2",
+      "cdate": "1928-01-28"},
+   "first-renewed-issue-source": "1955-JulDec",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1927-06"}}, 
+     {"issue": {"issue-date": "1928-02"}},
    "first-renewed-contribution-source": "1955-JanJun",
    "renewed-issue-completeness": "active/1930",
    "renewed-issues": [
-     {"issue-date": "1927-02", "volume": "61", "number": "2",
-      "cdate": "1927-01-29"},
-     {"issue-date": "1927-03", "volume": "61", "number": "3"},
-     {"issue-date": "1927-04", "volume": "61", "number": "4"},
-     {"issue-date": "1927-05", "volume": "61", "number": "5"},
-     {"issue-date": "1927-06", "volume": "61", "number": "6"},
-     {"issue-date": "1927-07", "volume": "61", "number": "7"},
-     {"issue-date": "1927-08", "volume": "61", "number": "8"},
-     {"issue-date": "1927-09", "volume": "61", "number": "9"},
-     {"issue-date": "1927-10", "volume": "61", "number": "10"},
-     {"issue-date": "1927-11", "volume": "61", "number": "11"},
-     {"issue-date": "1927-12", "volume": "61", "number": "12"},
-     {"issue-date": "1928-01", "volume": "62", "number": "1",
-      "cdate": "1927-12-28"},
      {"issue-date": "1928-02", "volume": "62", "number": "2",
-      "cdate": "1927-01-28"},
+      "cdate": "1928-01-28"},
      {"issue-date": "1928-03", "volume": "62", "number": "3"},
      {"issue-date": "1928-04", "volume": "62", "number": "4"},
      {"issue-date": "1928-05", "volume": "62", "number": "5"},
@@ -75,34 +61,6 @@
    ],
    "renewed-contribution-completeness": "active/1930",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1927-06"}, 
-      "title": "Old Charleston",
-      "author": {
-       "authorized": "Ferber, Edna, 1887-1968",
-       "lcna": "n79077439"
-      }
-     },
-     {"issue": {"issue-date": "1927-09"}, 
-      "title": "Upper Chambers",
-      "author": {
-       "authorized": "Gale, Zona, 1874-1938",
-       "lcna": "n50058620"
-      }
-     },
-     {"issue": {"issue-date": "1927-10"},
-       "title": "The Cat That Lived at the Ritz",
-       "author": {
-         "authorized": "Bromfield, Louis, 1896-1956",
-         "lcna": "n80040365"
-       }
-     },
-     {"issue": {"issue-date": "1928-01"},
-       "title": "The Urn",
-       "author": {
-         "authorized": "Bromfield, Louis, 1896-1956",
-         "lcna": "n80040365"
-       }
-     },
      {"issue": {"issue-date": "1928-02"},
        "title": "These Young People of Today",
        "author": {
@@ -418,5 +376,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-11-02"
+   "last-updated": "2023-01-03"
 }

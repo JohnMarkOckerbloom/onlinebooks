@@ -6,57 +6,11 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution":
-       {"issue": {"issue-date": "1927-02", "cdate": "1927-01-25"}},
-   "first-renewed-contribution-source": "1954-JanJun",
+     {"issue": {"issue-date": "1928-02", "cdate": "1928-01-25"}},
+   "first-renewed-contribution-source": "1955-JanJun",
    "last-issue": {"issue-date": "1932-07", "volume": "61", "number": "7"},
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1927-02"},
-      "title": "Joseph Conrad Life and Letters",
-      "title-note": "part 4 of 4",
-      "author": {
-         "authorized": "Conrad, Joseph, 1857-1924",
-         "lcna": "n79054067"
-      }
-     },
-     {"issue": {"issue-date": "1927-04"}, 
-      "title": "This Man Lawrence",
-      "author": {
-       "authorized": "Shaw, Bernard, 1856-1950",
-       "lcna": "n79006533"
-      }
-     },
-     {"issue": {"issue-date": "1927-07"},
-      "title": "Count Luckner, the Sea Devil",
-      "title-note": "part 1 of 3",
-      "author": {
-         "authorized": "Thomas, Lowell, 1892-1981",
-         "lcna": "n79139713"
-      }
-     },
-     {"issue": {"issue-date": "1927-08"},
-      "title": "Count Luckner, the Sea Devil",
-      "title-note": "part 2 of 3",
-      "author": {
-         "authorized": "Thomas, Lowell, 1892-1981",
-         "lcna": "n79139713"
-      }
-     },
-     {"issue": {"issue-date": "1927-09"},
-      "title": "Count Luckner, the Sea Devil",
-      "title-note": "part 3 of 3",
-      "author": {
-         "authorized": "Thomas, Lowell, 1892-1981",
-         "lcna": "n79139713"
-      }
-     },
-     {"issue": {"issue-date": "1928-01"},
-      "title": "Mayor Thompson of Chicago",
-      "author": {
-         "authorized": "Nichols, Beverley, 1898-1983",
-         "lcna": "n50003695"
-      }
-     },
      {"issue": {"issue-date": "1928-02"},
       "title": "Hunger as a Cause of War",
       "author": {
@@ -345,5 +299,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-01-05"
+   "last-updated": "2023-01-02"
 }

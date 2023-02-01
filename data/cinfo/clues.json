@@ -10,31 +10,10 @@
      {"issue-date": "1933-10", "volume": "30", "number": "5"},
    "first-renewed-issue-source": "1960-JulDec",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1927-03", "volume": "2", "number": "3"}},
-   "first-renewed-contribution-source": "1954-JanJun",
-   "renewed-contribution-completeness": "active/1927",
+     {"issue": {"issue-date": "1928-02-25", "volume": "5", "number": "3"}},
+   "first-renewed-contribution-source": "1955-JanJun",
+   "renewed-contribution-completeness": "active/1928",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1927-03", "volume": "2", "number": "3"},
-      "title": "The Cards of Death",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1927-05", "volume": "3", "number": "1"},
-      "title": "Fair Warning",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1927-06", "volume": "3", "number": "2"},
-      "title": "The Red Skull",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
      {"issue": {"issue-date": "1928-02-25", "volume": "5", "number": "3"},
       "title": "The Door of Death",
       "author": {
@@ -127,6 +106,13 @@
          "lcna": "n79071101"
        }
      },
+     {"issue": {"issue-date": "1929-08-10", "volume": "14", "number": "2"},
+      "title": "Narrative Continued by the Doctor",
+      "author": {
+         "authorized": "Elston, Allan Vaughan, 1887-1976",
+         "lcna": "no90023204"
+       }
+     },
      {"issue": {"issue-date": "1929-08-25", "volume": "14", "number": "3"},
       "title": "Diamonds of Death",
       "note": "Issue date per FictionMags listing.  CCE renewal record gives issue date as August 10. (Cover labels this issue as 'Second Aug. No.'",
@@ -138,12 +124,141 @@
      {"issue": {"issue-date": "1929-08-25", "volume": "14", "number": "3"},
       "title": "The Hand of the Tong",
       "author": {
-         "authorized": "Elston, Allan Vaughan, 1887-1976",
-         "lcna": "no90023204"
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
        }
+     },
+     {"issue": {"issue-date": "1929-09-10", "volume": "14", "number": "4"},
+      "title": "The Killing of Bronx Magee",
+      "note": "Author name is a pseudonym used by Richard W. Rowan and Lassiter Wren. This appears to be one of their 'Baffles' contributions.",
+      "author": {
+         "authorized": "McKay, Randle",
+         "lcna": "n2006052936"
+      }
+     },
+     {"issue": {"issue-date": "1929-09-10", "volume": "14", "number": "4"},
+      "title": "The Montjoy Diamond",
+      "note": "Author name is a pseudonym used by Richard W. Rowan and Lassiter Wren. This appears to be one of their 'Baffles' contributions.",
+      "author": {
+         "authorized": "McKay, Randle",
+         "lcna": "n2006052936"
+      }
+     },
+     {"issue": {"issue-date": "1929-09-25", "volume": "15", "number": "1"},
+      "title": "The Abandoned Picnic",
+      "note": "Author name is a pseudonym used by Richard W. Rowan and Lassiter Wren. This appears to be one of their 'Baffles' contributions.",
+      "author": {
+         "authorized": "McKay, Randle",
+         "lcna": "n2006052936"
+      }
+     },
+     {"issue": {"issue-date": "1929-09-25", "volume": "15", "number": "1"},
+      "title": "The German Forest Mystery",
+      "note": "Author name is a pseudonym used by Richard W. Rowan and Lassiter Wren. This appears to be one of their 'Baffles' contributions.",
+      "author": {
+         "authorized": "McKay, Randle",
+         "lcna": "n2006052936"
+      }
      },
      {"issue": {"issue-date": "1929-09-25", "volume": "15", "number": "1"},
       "title": "The Winning Hand",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1929-10-10", "volume": "15", "number": "2"},
+      "title": "The Bradford Farm Mystery",
+      "note": "Author name is a pseudonym used by Richard W. Rowan and Lassiter Wren. This appears to be one of their 'Baffles' contributions.",
+      "author": {
+         "authorized": "McKay, Randle",
+         "lcna": "n2006052936"
+      }
+     },
+     {"issue": {"issue-date": "1929-10-10", "volume": "15", "number": "2"},
+      "title": "The Murder of Diana Ballister",
+      "note": "Author name is a pseudonym used by Richard W. Rowan and Lassiter Wren. This appears to be one of their 'Baffles' contributions.",
+      "author": {
+         "authorized": "McKay, Randle",
+         "lcna": "n2006052936"
+      }
+     },
+     {"issue": {"issue-date": "1929-10-25", "volume": "15", "number": "3"},
+      "title": "The Affair at the Three Knights",
+      "note": "Author name is a pseudonym used by Richard W. Rowan and Lassiter Wren. This appears to be one of their 'Baffles' contributions.",
+      "author": {
+         "authorized": "McKay, Randle",
+         "lcna": "n2006052936"
+      }
+     },
+     {"issue": {"issue-date": "1929-10-25", "volume": "15", "number": "3"},
+      "title": "Detective Donovan's Cable",
+      "note": "Author name is a pseudonym used by Richard W. Rowan and Lassiter Wren. This appears to be one of their 'Baffles' contributions.",
+      "author": {
+         "authorized": "McKay, Randle",
+         "lcna": "n2006052936"
+      }
+     },
+     {"issue": {"issue-date": "1929-11-10", "volume": "15", "number": "4"},
+      "title": "The Death of Worthington Hunt",
+      "note": "Author name is a pseudonym used by Richard W. Rowan and Lassiter Wren. This appears to be one of their 'Baffles' contributions.",
+      "author": {
+         "authorized": "McKay, Randle",
+         "lcna": "n2006052936"
+      }
+     },
+     {"issue": {"issue-date": "1929-11-10", "volume": "15", "number": "4"},
+      "title": "Four Post Cards for Zurich",
+      "note": "Author name is a pseudonym used by Richard W. Rowan and Lassiter Wren. This appears to be one of their 'Baffles' contributions.",
+      "author": {
+         "authorized": "McKay, Randle",
+         "lcna": "n2006052936"
+      }
+     },
+     {"issue": {"issue-date": "1929-11-10", "volume": "15", "number": "4"},
+      "title": "Letter of the Law",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1929-11-25", "volume": "16", "number": "1"},
+      "title": "Kennedy the Con Man",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1929-12-25", "volume": "16", "number": "3"},
+      "title": "The Surprise Party",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1930-03-25", "volume": "18", "number": "1"},
+      "title": "The Gems of Tai Lee",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1930-05-25", "volume": "19", "number": "1"},
+      "title": "Loose Threads of Crime",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1930-06-25", "volume": "19", "number": "3"},
+      "title": "Gods Who Frown",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1930-07-25", "volume": "20", "number": "1"},
+      "title": "Stained",
       "author": {
          "authorized": "Gardner, Erle Stanley, 1889-1970",
          "lcna": "n79071101"
@@ -154,5 +269,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-05-23"
+   "last-updated": "2023-01-02"
 }

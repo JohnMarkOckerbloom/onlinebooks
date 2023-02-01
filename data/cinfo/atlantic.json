@@ -7,8 +7,8 @@
      {"issue-date": "1934-07", "volume": "154", "number": "1"},
    "first-renewed-issue-source": "1962-JanJun",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1927-02"}},
-   "first-renewed-contribution-source": "1955-JanJun",
+     {"issue": {"issue-date": "1928-03"}},
+   "first-renewed-contribution-source": "1956-JanJun",
    "first-autorenewed-issue": 
      {"issue-date": "1964-02", "cdate": "1964-01-16",
       "volume": "213", "number": "2"},
@@ -340,89 +340,6 @@
    ],
    "renewed-contribution-completeness": "active/1944",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1927-02"},
-        "title": "Mercury",
-        "author": {
-         "authorized": "Lawrence, D. H. (David Herbert), 1885-1930",
-         "lcna": "n79018450"
-        }
-     },
-     {"issue": {"issue-date": "1927-04"},
-        "title": "Funakura",
-        "author": {
-         "authorized": "Eckstein, Gustav, 1890-1981",
-         "lcna": "n84803816"
-        }
-     },
-     {"issue": {"issue-date": "1927-05"},
-        "title": "Jalna",
-        "title-note": "part 1 of 6",
-        "author": {
-         "authorized": "De la Roche, Mazo, 1879-1961",
-         "lcna": "n50040407"
-        }
-     },
-     {"issue": {"issue-date": "1927-06"},
-        "title": "Jalna",
-        "title-note": "part 2 of 6",
-        "author": {
-         "authorized": "De la Roche, Mazo, 1879-1961",
-         "lcna": "n50040407"
-        }
-     },
-     {"issue": {"issue-date": "1927-07"},
-        "title": "Fifty Grand",
-        "author": {
-         "authorized": "Hemingway, Ernest, 1899-1961",
-         "lcna": "n78078534"
-        }
-     },
-     {"issue": {"issue-date": "1927-07"},
-        "title": "Jalna",
-        "title-note": "part 3 of 6",
-        "author": {
-         "authorized": "De la Roche, Mazo, 1879-1961",
-         "lcna": "n50040407"
-        }
-     },
-     {"issue": {"issue-date": "1927-08"},
-        "title": "Jalna",
-        "title-note": "part 4 of 6",
-        "author": {
-         "authorized": "De la Roche, Mazo, 1879-1961",
-         "lcna": "n50040407"
-        }
-     },
-     {"issue": {"issue-date": "1927-09"},
-        "title": "Jalna",
-        "title-note": "part 5 of 6",
-        "author": {
-         "authorized": "De la Roche, Mazo, 1879-1961",
-         "lcna": "n50040407"
-        }
-     },
-     {"issue": {"issue-date": "1927-10"},
-        "title": "Jalna",
-        "title-note": "part 6 of 6",
-        "author": {
-         "authorized": "De la Roche, Mazo, 1879-1961",
-         "lcna": "n50040407"
-        }
-     },
-     {"issue": {"issue-date": "1927-10"},
-        "title": "Makurasaki",
-        "author": {
-         "authorized": "Eckstein, Gustav, 1890-1981",
-         "lcna": "n84803816"
-        }
-     },
-     {"issue": {"issue-date": "1928-01"},
-        "title": "The Voice of the Archangel",
-        "author": {
-         "authorized": "Edmonds, Walter D. (Walter Dumaux), 1903-1998",
-         "lcna": "n79083990"
-        }
-     },
      {"issue": {"issue-date": "1928-03"},
         "title": "My Lady's Tea",
         "author": {
@@ -2998,12 +2915,12 @@
    ],
    "comment": "Pick up contrbutions with 1973.",
    "additional-notes": [
-     "Active contribution renewals are recorded beginning in the 1954 July-December CCE volume, but the earliest renewed contribution is noted in the 1955 January-June volume.",
+     "Active contribution renewals are recorded beginning in the 1955 July-December CCE volume, but the earliest actively renewed contribution is noted in the 1956 January-June volume.",
      "A 1971 renewal for the book 'The Little Locksmith' by Katherine Butler Hathaway notes that it was published serially in the Atlantic Monthly from September 1942 to January 1943.  This renewal is likely to be too late to cover the magazine publication; however, there were renewals filed for the magazine issues themselves."
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-08-29"
+   "last-updated": "2023-01-02"
 }

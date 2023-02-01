@@ -6,117 +6,11 @@
       {"issue-date": "1936-01", "series": "2", "volume": "1", "number": "4"},
    "first-renewed-issue-source": "1963-JulDec",
    "first-renewed-contribution":
-      {"issue": {"issue-date": "1927-05", "volume": "11", "number": "2"}},
-   "first-renewed-contribution-source": "1954-JanJun",
-   "renewed-contribution-completeness": "active/1927",
+     {"issue": {"issue-date": "1928-03", "volume": "13", "number": "4",
+      "cdate": "1928-02-01"}},
+   "first-renewed-contribution-source": "1955-JanJun",
+   "renewed-contribution-completeness": "active/1928",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1927-05", "volume": "11", "number": "2"},
-      "title": "Mrs. Davenant's Diamond",
-      "note": "Title as given in CCE renewal record. FictionMags gives title as 'Mrs. Davenant's Diamonds'. I have not examined the issue in question.",
-      "author": {
-       "authorized": "Benét, Stephen Vincent, 1898-1943",
-       "lcna": "n50007691"
-      }
-     },
-     {"issue": {"issue-date": "1927-08", "volume": "12", "number": "1"},
-      "title": "Children of the Ritz",
-      "title-note": "part 1 of 4",
-      "author": {
-       "authorized": "Woolrich, Cornell, 1903-1968",
-       "lcna": "n79038547"
-      }
-     },
-     {"issue": {"issue-date": "1927-09", "volume": "12", "number": "2"},
-      "title": "Senior and Junior",
-      "author": {
-         "authorized": "Connell, Richard Edward, 1893-1949",
-         "lcna": "n50028704"
-       }
-     },
-     {"issue": {"issue-date": "1927-09", "volume": "12", "number": "2"},
-      "title": "Children of the Ritz",
-      "title-note": "part 2 of 4",
-      "author": {
-       "authorized": "Woolrich, Cornell, 1903-1968",
-       "lcna": "n79038547"
-      }
-     },
-     {"issue": {"issue-date": "1927-10", "volume": "12", "number": "3"},
-      "title": "The Vanguard",
-      "title-note": "part 1 of 4",
-      "author": {
-       "authorized": "Bennett, Arnold, 1867-1931",
-       "lcna": "n79095154"
-      }
-     },
-     {"issue": {"issue-date": "1927-10", "volume": "12", "number": "3"},
-      "title": "Children of the Ritz",
-      "title-note": "part 3 of 4",
-      "author": {
-       "authorized": "Woolrich, Cornell, 1903-1968",
-       "lcna": "n79038547"
-      }
-     },
-     {"issue": {"issue-date": "1927-10", "volume": "12", "number": "3"},
-      "title": "All the King's Horses",
-      "author": {
-       "authorized": "Brush, Katharine, 1900-1952",
-       "lcna": "no93001232"
-      }
-     },
-     {"issue": {"issue-date": "1927-11", "volume": "12", "number": "4"},
-      "title": "The Young Man's Slave",
-      "author": {
-       "authorized": "Banning, Margaret Culkin, 1891-1982",
-       "lcna": "n86086096"
-      }
-     },
-     {"issue": {"issue-date": "1927-11", "volume": "12", "number": "4"},
-      "title": "The Vanguard",
-      "title-note": "part 2 of 4",
-      "author": {
-       "authorized": "Bennett, Arnold, 1867-1931",
-       "lcna": "n79095154"
-      }
-     },
-     {"issue": {"issue-date": "1927-11", "volume": "12", "number": "4"},
-      "title": "Children of the Ritz",
-      "title-note": "part 4 of 4",
-      "author": {
-       "authorized": "Woolrich, Cornell, 1903-1968",
-       "lcna": "n79038547"
-      }
-     },
-     {"issue": {"issue-date": "1927-12", "volume": "13", "number": "1"},
-      "title": "The Vanguard",
-      "title-note": "part 3 of 4",
-      "author": {
-       "authorized": "Bennett, Arnold, 1867-1931",
-       "lcna": "n79095154"
-      }
-     },
-     {"issue": {"issue-date": "1927-12", "volume": "13", "number": "1"},
-      "title": "Princeton",
-      "author": {
-       "authorized": "Fitzgerald, F. Scott (Francis Scott), 1896-1940",
-       "lcna": "n79006871"
-      }
-     },
-     {"issue": {"issue-date": "1928-01", "volume": "13", "number": "2"},
-      "title": "The Vanguard",
-      "title-note": "part 4 of 4",
-      "author": {
-       "authorized": "Bennett, Arnold, 1867-1931",
-       "lcna": "n79095154"
-      }
-     },
-     {"issue": {"issue-date": "1928-02", "volume": "13", "number": "3"},
-      "title": "A Friendly Visit From Mr. Sitz",
-      "author": {
-         "authorized": "Connell, Richard Edward, 1893-1949",
-         "lcna": "n50028704"
-       }
-     },
      {"issue": {"issue-date": "1928-03", "volume": "13", "number": "4"},
       "title": "Bon Voyage",
       "author": {
@@ -231,6 +125,13 @@
        "lcna": "no89009028"
       }
      },
+     {"issue": {"issue-date": "1928-10", "volume": "15", "number": "3"},
+      "title": "Who Can Fall in Love After Thirty",
+      "author": {
+       "authorized": "Fitzgerald, F. Scott (Francis Scott), 1896-1940",
+       "lcna": "n79006871"
+      }
+     },
      {"issue": {"issue-date": "1928-11", "volume": "15", "number": "4"},
       "title": "A Couple of Quick Ones",
       "title-note": "part 3 of 3",
@@ -245,6 +146,101 @@
        "authorized": "Bennett, Arnold, 1867-1931",
        "lcna": "n79095154"
       }
+     },
+     {"issue": {"issue-date": "1928-12", "volume": "16", "number": "1"},
+       "title": "Pointed Heels",
+       "title-note": "part 1 of 2",
+       "author": {
+         "authorized": "Brackett, Charles, 1892-1969",
+         "lcna": "n85151724"
+       }
+     },
+     {"issue": {"issue-date": "1929-01", "volume": "16", "number": "2"},
+       "title": "Pointed Heels",
+       "title-note": "part 2 of 2",
+       "author": {
+         "authorized": "Brackett, Charles, 1892-1969",
+         "lcna": "n85151724"
+       }
+     },
+     {"issue": {"issue-date": "1929-01", "volume": "16", "number": "2"},
+      "title": "I Refuse to Take Life Seriously",
+      "author": {
+       "authorized": "Brush, Katharine, 1900-1952",
+       "lcna": "no93001232"
+      }
+     },
+     {"issue": {"issue-date": "1929-02", "volume": "16", "number": "3"},
+      "title": "Speakeasy (Gaudy Lady)",
+      "author": {
+       "authorized": "Brush, Katharine, 1900-1952",
+       "lcna": "no93001232"
+      }
+     },
+     {"issue": {"issue-date": "1929-07", "volume": "17", "number": "4"},
+      "title": "The Original Follies Girl",
+      "authors": [
+        {"authorized": "Fitzgerald, F. Scott (Francis Scott), 1896-1940",
+         "lcna": "n79006871"},
+        {"authorized": "Fitzgerald, Zelda, 1900-1948",
+         "lcna": "n50003067"}
+      ]
+     },
+     {"issue": {"issue-date": "1929-08", "volume": "18", "number": "1"},
+      "title": "Immoral",
+      "title-note": "part 1 of 2",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1929-08", "volume": "18", "number": "1"},
+      "title": "The Way to Put Them in Their Place",
+      "author": {
+         "authorized": "Cary, Lucian, 1886-1971",
+         "lcna": "no90003387"
+       }
+     },
+     {"issue": {"issue-date": "1929-09", "volume": "18", "number": "2"},
+      "title": "Immoral",
+      "title-note": "part 2 of 2",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1929-10", "volume": "18", "number": "3"},
+      "title": "One Lovely Moron",
+      "title-note": "part 1 of 3",
+      "author": {
+         "authorized": "Cary, Lucian, 1886-1971",
+         "lcna": "no90003387"
+       }
+     },
+     {"issue": {"issue-date": "1929-10", "volume": "18", "number": "3"},
+      "title": "The Southern Girl",
+      "authors": [
+        {"authorized": "Fitzgerald, F. Scott (Francis Scott), 1896-1940",
+         "lcna": "n79006871"},
+        {"authorized": "Fitzgerald, Zelda, 1900-1948",
+         "lcna": "n50003067"}
+      ]
+     },
+     {"issue": {"issue-date": "1929-11", "volume": "18", "number": "4"},
+      "title": "One Lovely Moron",
+      "title-note": "part 2 of 3",
+      "author": {
+         "authorized": "Cary, Lucian, 1886-1971",
+         "lcna": "no90003387"
+       }
+     },
+     {"issue": {"issue-date": "1929-12", "volume": "19", "number": "1"},
+      "title": "One Lovely Moron",
+      "title-note": "part 3 of 3",
+      "author": {
+         "authorized": "Cary, Lucian, 1886-1971",
+         "lcna": "no90003387"
+       }
      }
    ],
    "additional-note": "A second series of this periodical began in 1934, in conjunction with one of its ownership changes.  (The magazine changed hands multiple times in the 1930s, with some publication hiatuses.  It was also known as 'College Humor and Sense' for a time during 1933 and 1934.) I am not aware of the second series being marked as such; rather, the volume and issue numbering simply restarted at 1 in 1934.",
@@ -252,5 +248,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-05-22"
+   "last-updated": "2023-01-02"
 }

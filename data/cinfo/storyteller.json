@@ -9,18 +9,11 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1927-09", "volume": "41", "number": "245"}},
-   "first-renewed-contribution-source": "1955-JanJun",
+     {"issue": {"issue-date": "1929-03", "volume": "44", "number": "263"}},
+   "first-renewed-contribution-source": "1957-JanJun",
    "last-issue": {"issue-date": "1937-11"},
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1927-09", "volume": "41", "number": "245"},
-      "title": "The Story of Ching-Kwei and the Destinies",
-      "author": {
-       "authorized": "Bramah, Ernest, 1868-1942",
-       "lcna": "n50014273"
-      }
-     },
      {"issue": {"issue-date": "1929-03", "volume": "44", "number": "263"},
       "title": "The Purple Jewel",
       "author": {
@@ -100,10 +93,13 @@
        }
      }
    ],
-   "additional-note" : "This is a British publication.  Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US.",
+   "additional-notes": [
+      "'The Story of Ching-Kwei and the Destinies' by Ernest Bramah was published in the September 1927 Story-Teller.  It has a 1927 ad interim copyright.  The story was also published in the US in 'The Story of Wan and the Remarkable Shrub, and The Story of Ching-Kwei and the Destinies' with a 1928 copyright.  The 1955 renewal mentions both publications.  We assume that the copyright to the 1927 publication has expired in the US as of 2023, but we note it here for completeness.",
+      "This is a British publication.  Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US."
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-01-27"
+   "last-updated": "2023-01-06"
 }

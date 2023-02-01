@@ -8,177 +8,11 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1927-04", "volume": "54", "number": "4"}},
-   "first-renewed-contribution-source": "1954-JanJun",
-   "renewed-contribution-completeness": "active/1928",
+     {"issue": {"issue-date": "1928-03", "volume": "55", "number": "3",
+      "cdate": "1928-01-28"}}, 
+   "first-renewed-contribution-source": "1955-JanJun",
+   "renewed-contribution-completeness": "active/1929",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1927-04", "volume": "54", "number": "4"}, 
-      "title": "Too Old to Matter",
-      "author": {
-       "authorized": "Upson, William Hazlett, 1891-1975",
-       "lcna": "n90676728"
-      }
-     },
-     {"issue": {"issue-date": "1927-04", "volume": "54", "number": "4"}, 
-      "title": "A Basque Windfall",
-      "author": {
-       "authorized": "Fisher, Dorothy Canfield, 1879-1958",
-       "lcna": "n50005248"
-      }
-     },
-     {"issue": {"issue-date": "1927-04", "volume": "54", "number": "4"}, 
-      "title": "Gideon",
-      "title-note": "installment 1",
-      "author": {
-       "authorized": "Gillmore, Inez Haynes, 1873-1970",
-       "lcna": "n85372376"
-      }
-     },
-     {"issue": {"issue-date": "1927-05", "volume": "54", "number": "5"}, 
-      "title": "Your Way and Mine",
-      "author": {
-       "authorized": "Fitzgerald, F. Scott (Francis Scott), 1896-1940",
-       "lcna": "n79006871"
-      }
-     },
-     {"issue": {"issue-date": "1927-05", "volume": "54", "number": "5"}, 
-      "title": "Wherefore Art Thou, Romeo?",
-      "author": {
-         "authorized": "Connell, Richard Edward, 1893-1949",
-         "lcna": "n50028704"
-      }
-     },
-     {"issue": {"issue-date": "1927-05", "volume": "54", "number": "5"}, 
-      "title": "Gideon",
-      "title-note": "installment 2",
-      "author": {
-       "authorized": "Gillmore, Inez Haynes, 1873-1970",
-       "lcna": "n85372376"
-      }
-     },
-     {"issue": {"issue-date": "1927-06", "volume": "54", "number": "6"}, 
-      "title": "At the South Gate",
-      "title-note": "part 1 of 3",
-      "author": {
-         "authorized": "Richmond, Grace S. (Grace Smith), 1866-1959",
-         "lcna": "n90608121"
-      }
-     },
-     {"issue": {"issue-date": "1927-06", "volume": "54", "number": "6"}, 
-      "title": "Gideon",
-      "title-note": "installment 3",
-      "author": {
-       "authorized": "Gillmore, Inez Haynes, 1873-1970",
-       "lcna": "n85372376"
-      }
-     },
-     {"issue": {"issue-date": "1927-07", "volume": "54", "number": "7"}, 
-      "title": "Marvel Takes No Chances",
-      "author": {
-         "authorized": "Kilbourne, Fannie, 1890-",
-         "lcna": "no93026233"
-       }
-     },
-     {"issue": {"issue-date": "1927-07", "volume": "54", "number": "7"}, 
-      "title": "Her Mother's Jewels",
-      "title-note": "part 1 of 3",
-       "author": {
-         "authorized": "Miller, Alice Duer, 1874-1942",
-         "lcna": "n83057208"
-       }
-     },
-     {"issue": {"issue-date": "1927-07", "volume": "54", "number": "7"}, 
-      "title": "At the South Gate",
-      "title-note": "part 2 of 3",
-      "author": {
-         "authorized": "Richmond, Grace S. (Grace Smith), 1866-1959",
-         "lcna": "n90608121"
-      }
-     },
-     {"issue": {"issue-date": "1927-08", "volume": "54", "number": "8"}, 
-      "title": "Hit in the Head",
-      "author": {
-       "authorized": "Hopper, James, 1876-1956",
-       "lcna": "n00068220"
-      }
-     },
-     {"issue": {"issue-date": "1927-08", "volume": "54", "number": "8"}, 
-      "title": "At the South Gate",
-      "title-note": "part 3 of 3",
-      "author": {
-         "authorized": "Richmond, Grace S. (Grace Smith), 1866-1959",
-         "lcna": "n90608121"
-      }
-     },
-     {"issue": {"issue-date": "1927-08", "volume": "54", "number": "8"}, 
-      "title": "Her Mother's Jewels",
-      "title-note": "part 2 of 3",
-       "author": {
-         "authorized": "Miller, Alice Duer, 1874-1942",
-         "lcna": "n83057208"
-       }
-     },
-     {"issue": {"issue-date": "1927-09", "volume": "54", "number": "9"}, 
-      "title": "Rendezvous",
-      "author": {
-       "authorized": "Gillmore, Inez Haynes, 1873-1970",
-       "lcna": "n85372376"
-      }
-     },
-     {"issue": {"issue-date": "1927-09", "volume": "54", "number": "9"}, 
-      "title": "Her Mother's Jewels",
-      "title-note": "part 3 of 3",
-       "author": {
-         "authorized": "Miller, Alice Duer, 1874-1942",
-         "lcna": "n83057208"
-       }
-     },
-     {"issue": {"issue-date": "1927-11", "volume": "54", "number": "11"},
-      "title": "The Foolish Virgin",
-      "title-note": "part 1 of 6",
-      "author": {
-       "authorized": "Norris, Kathleen Thompson, 1880-1966",
-       "lcna": "n50006075"
-      }
-     },
-     {"issue": {"issue-date": "1927-12", "volume": "54", "number": "12"},
-      "title": "The Foolish Virgin",
-      "title-note": "part 2 of 6",
-      "author": {
-       "authorized": "Norris, Kathleen Thompson, 1880-1966",
-       "lcna": "n50006075"
-      }
-     },
-     {"issue": {"issue-date": "1928-01", "volume": "55", "number": "1"}, 
-      "title": "Mrs. Bender and Napoleon",
-      "author": {
-       "authorized": "Tarkington, Booth, 1869-1946",
-       "lcna": "n79078124"
-      }
-     },
-     {"issue": {"issue-date": "1928-01", "volume": "55", "number": "1"}, 
-      "title": "The Foolish Virgin",
-      "title-note": "part 3 of 6",
-      "author": {
-       "authorized": "Norris, Kathleen Thompson, 1880-1966",
-       "lcna": "n50006075"
-      }
-     },
-     {"issue": {"issue-date": "1928-02", "volume": "55", "number": "2"}, 
-      "title": "The Duck and the Dog",
-      "author": {
-       "authorized": "Gillmore, Inez Haynes, 1873-1970",
-       "lcna": "n85372376"
-      }
-     },
-     {"issue": {"issue-date": "1928-02", "volume": "55", "number": "2"}, 
-      "title": "The Foolish Virgin",
-      "title-note": "part 4 of 6",
-      "author": {
-       "authorized": "Norris, Kathleen Thompson, 1880-1966",
-       "lcna": "n50006075"
-      }
-     },
      {"issue": {"issue-date": "1928-03", "volume": "55", "number": "3"}, 
       "title": "Ultraviolet",
       "title-note": "part 1 of 5",
@@ -529,12 +363,27 @@
       }
      },
      {"issue": {"issue-date": "1929-11", "volume": "56", "number": "11"},
+      "title": "The Great Blackbeard Mystery",
+      "note": "Title as given in CCE renewal record.  FictionMags gives title as 'Great Blackboard Mystery'. We have not examined the issue in question.",
+       "author": {
+         "authorized": "Miller, Alice Duer, 1874-1942",
+         "lcna": "n83057208"
+       }
+     },
+     {"issue": {"issue-date": "1929-11", "volume": "56", "number": "11"},
       "title": "Cimarron",
       "title-note": "part 1 of 7",
       "author": {
        "authorized": "Ferber, Edna, 1887-1968",
        "lcna": "n79077439"
       }
+     },
+     {"issue": {"issue-date": "1929-12", "volume": "56", "number": "12"},
+      "title": "The Rummage Sale",
+       "author": {
+         "authorized": "Miller, Alice Duer, 1874-1942",
+         "lcna": "n83057208"
+       }
      },
      {"issue": {"issue-date": "1929-12", "volume": "56", "number": "12"},
       "title": "Cimarron",
@@ -551,12 +400,175 @@
        "authorized": "Ferber, Edna, 1887-1968",
        "lcna": "n79077439"
       }
+     },
+     {"issue": {"issue-date": "1930-01", "volume": "57", "number": "1"},
+      "title": "Corinna Annoys a Marquis",
+       "author": {
+         "authorized": "Miller, Alice Duer, 1874-1942",
+         "lcna": "n83057208"
+       }
+     },
+     {"issue": {"issue-date": "1930-02", "volume": "57", "number": "2"},
+      "title": "All for Bud",
+      "author": {
+       "authorized": "Irwin, Wallace, 1876-1959",
+       "lcna": "n97112081"
+      }
+     },
+     {"issue": {"issue-date": "1930-02", "volume": "57", "number": "2"},
+      "title": "High Fences",
+      "title-note": "part 1 of 4",
+      "author": {
+         "authorized": "Richmond, Grace S. (Grace Smith), 1866-1959",
+         "lcna": "n90608121"
+      }
+     },
+     {"issue": {"issue-date": "1930-02", "volume": "57", "number": "2"},
+      "title": "Cimarron",
+      "title-note": "part 4 of 7",
+      "author": {
+       "authorized": "Ferber, Edna, 1887-1968",
+       "lcna": "n79077439"
+      }
+     },
+     {"issue": {"issue-date": "1930-03", "volume": "57", "number": "3"},
+      "title": "Cimarron",
+      "title-note": "part 5 of 7",
+      "author": {
+       "authorized": "Ferber, Edna, 1887-1968",
+       "lcna": "n79077439"
+      }
+     },
+     {"issue": {"issue-date": "1930-03", "volume": "57", "number": "3"},
+      "title": "High Fences",
+      "title-note": "part 2 of 4",
+      "author": {
+         "authorized": "Richmond, Grace S. (Grace Smith), 1866-1959",
+         "lcna": "n90608121"
+      }
+     },
+     {"issue": {"issue-date": "1930-04", "volume": "57", "number": "4"},
+        "title": "Neighbor Rosicky",
+        "title-note": "part 1 of 2",
+        "author": {
+         "authorized": "Cather, Willa, 1873-1947",
+         "lcna": "n80015717"
+        }
+     },
+     {"issue": {"issue-date": "1930-04", "volume": "57", "number": "4"},
+      "title": "Go Get 'er",
+      "author": {
+       "authorized": "Irwin, Wallace, 1876-1959",
+       "lcna": "n97112081"
+      }
+     },
+     {"issue": {"issue-date": "1930-04", "volume": "57", "number": "4"},
+      "title": "Cimarron",
+      "title-note": "part 6 of 7",
+      "author": {
+       "authorized": "Ferber, Edna, 1887-1968",
+       "lcna": "n79077439"
+      }
+     },
+     {"issue": {"issue-date": "1930-04", "volume": "57", "number": "4"},
+      "title": "High Fences",
+      "title-note": "part 3 of 4",
+      "author": {
+         "authorized": "Richmond, Grace S. (Grace Smith), 1866-1959",
+         "lcna": "n90608121"
+      }
+     },
+     {"issue": {"issue-date": "1930-05", "volume": "57", "number": "5"},
+        "title": "Neighbor Rosicky",
+        "title-note": "part 2 of 2",
+        "author": {
+         "authorized": "Cather, Willa, 1873-1947",
+         "lcna": "n80015717"
+        }
+     },
+     {"issue": {"issue-date": "1930-05", "volume": "57", "number": "5"},
+      "title": "Cimarron",
+      "title-note": "part 7 of 7",
+      "author": {
+       "authorized": "Ferber, Edna, 1887-1968",
+       "lcna": "n79077439"
+      }
+     },
+     {"issue": {"issue-date": "1930-05", "volume": "57", "number": "5"},
+      "title": "High Fences",
+      "title-note": "part 4 of 4",
+      "author": {
+         "authorized": "Richmond, Grace S. (Grace Smith), 1866-1959",
+         "lcna": "n90608121"
+      }
+     },
+     {"issue": {"issue-date": "1930-05", "volume": "57", "number": "5"},
+      "title": "The Lucky Lawrences",
+      "title-note": "1st installment, part 1 of 6",
+      "author": {
+       "authorized": "Norris, Kathleen Thompson, 1880-1966",
+       "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1930-06", "volume": "57", "number": "6"},
+      "title": "The Lucky Lawrences",
+      "title-note": "1st installment, part 2 of 6",
+      "author": {
+       "authorized": "Norris, Kathleen Thompson, 1880-1966",
+       "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1930-07", "volume": "57", "number": "7"},
+      "title": "Why Be Mean",
+      "author": {
+       "authorized": "Hopper, James, 1876-1956",
+       "lcna": "n00068220"
+      }
+     },
+     {"issue": {"issue-date": "1930-07", "volume": "57", "number": "7"},
+      "title": "The Lucky Lawrences",
+      "title-note": "1st installment, part 3 of 6",
+      "author": {
+       "authorized": "Norris, Kathleen Thompson, 1880-1966",
+       "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1930-08", "volume": "57", "number": "8"},
+      "title": "The Lucky Lawrences",
+      "title-note": "1st installment, part 4 of 6",
+      "author": {
+       "authorized": "Norris, Kathleen Thompson, 1880-1966",
+       "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1930-09", "volume": "57", "number": "9"},
+      "title": "The Lucky Lawrences",
+      "title-note": "1st installment, part 5 of 6",
+      "author": {
+       "authorized": "Norris, Kathleen Thompson, 1880-1966",
+       "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1930-10", "volume": "57", "number": "10"},
+      "title": "The Lucky Lawrences",
+      "title-note": "1st installment, part 6 of 6",
+      "author": {
+       "authorized": "Norris, Kathleen Thompson, 1880-1966",
+       "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1930-11", "volume": "57", "number": "11"},
+      "title": "Wags",
+      "author": {
+       "authorized": "Hopper, James, 1876-1956",
+       "lcna": "n00068220"
+      }
      }
    ],
-   "comment": "Pick up with 1957 Jan-Jun for contributions",
+   "comment": "Resume with 1958 Jan-Jun for contributions",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-09-04"
+   "last-updated": "2023-01-01"
 }

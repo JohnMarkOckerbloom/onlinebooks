@@ -7,40 +7,14 @@
       "note": "FictionMags"}
    ],
    "first-renewed-issue":
-      {"issue-date": "1927-01-15", "volume": "68", "number": "6",
-       "cdate": "1927-01-14"},
-   "first-renewed-issue-source": "1954-JanJun",
+      {"issue-date": "1928-01-15", "volume": "72", "number": "6",
+       "cdate": "1928-01-13"},
+   "first-renewed-issue-source": "1955-JanJun",
    "first-renewed-contribution":
-      {"issue": {"issue-date": "1927-02-01", "volume": "69", "number": "1"}},
-   "first-renewed-contribution-source": "1954-JanJun",
+     {"issue": {"issue-date": "1928-02-01", "volume": "73", "number": "1"}},
+   "first-renewed-contribution-source": "1955-JanJun",
    "renewed-issue-completeness": "active/1930",
    "renewed-issues": [
-      {"issue-date": "1927-01-15", "volume": "68", "number": "6",
-       "cdate": "1927-01-14"},
-      {"issue-date": "1927-02-01", "volume": "69", "number": "1"},
-      {"issue-date": "1927-02-15", "volume": "69", "number": "2"},
-      {"issue-date": "1927-03-01", "volume": "69", "number": "3"},
-      {"issue-date": "1927-03-15", "volume": "69", "number": "4"},
-      {"issue-date": "1927-04-01", "volume": "69", "number": "5"},
-      {"issue-date": "1927-04-15", "volume": "69", "number": "6"},
-      {"issue-date": "1927-05-01", "volume": "70", "number": "1"},
-      {"issue-date": "1927-05-15", "volume": "70", "number": "2"},
-      {"issue-date": "1927-06-01", "volume": "70", "number": "3"},
-      {"issue-date": "1927-06-15", "volume": "70", "number": "4"},
-      {"issue-date": "1927-07-01", "volume": "70", "number": "5"},
-      {"issue-date": "1927-07-15", "volume": "70", "number": "6"},
-      {"issue-date": "1927-08-01", "volume": "71", "number": "1"},
-      {"issue-date": "1927-08-15", "volume": "71", "number": "2"},
-      {"issue-date": "1927-09-01", "volume": "71", "number": "3"},
-      {"issue-date": "1927-09-15", "volume": "71", "number": "4"},
-      {"issue-date": "1927-10-01", "volume": "71", "number": "5"},
-      {"issue-date": "1927-10-15", "volume": "71", "number": "6"},
-      {"issue-date": "1927-11-01", "volume": "72", "number": "1"},
-      {"issue-date": "1927-11-15", "volume": "72", "number": "2"},
-      {"issue-date": "1927-12-01", "volume": "72", "number": "3"},
-      {"issue-date": "1927-12-15", "volume": "72", "number": "4"},
-      {"issue-date": "1928-01-01", "volume": "72", "number": "5",
-       "cdate": "1927-12-31"},
       {"issue-date": "1928-01-15", "volume": "72", "number": "6",
        "cdate": "1928-01-13"},
       {"issue-date": "1928-02-01", "volume": "73", "number": "1"},
@@ -143,41 +117,6 @@
    ],
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1927-02-01", "volume": "69", "number": "1"},
-      "title": "Three Days to Midnight",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1927-04-01", "volume": "69", "number": "5"},
-      "title": "For Higher Stakes",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1927-05-01", "volume": "70", "number": "1"},
-      "title": "The Hope-So Hunch",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1927-06-15", "volume": "70", "number": "4"},
-      "title": "On the Stroke of Twelve",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1927-08-15", "volume": "71", "number": "2"},
-      "title": "Ribbons of Light",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
      {"issue": {"issue-date": "1928-02-01", "volume": "73", "number": "1"},
       "title": "Lord of the High Places",
       "author": {
@@ -260,5 +199,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-11-02"
+   "last-updated": "2023-01-04"
 }

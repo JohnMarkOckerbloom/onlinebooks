@@ -11,19 +11,12 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1927-03", "volume": "6", "number": "34"}},
-   "first-renewed-contribution-source": "1954-JanJun",
+     {"issue": {"issue-date": "1929-04", "volume": "10", "number": "59"}},
+   "first-renewed-contribution-source": "1956-JulDec",
    "last-issue": 
       {"issue-date": "1936", "volume": "17", "number": "103"},
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1927-03", "volume": "6", "number": "34"},
-      "title": "Canyon of the Curse",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
      {"issue": {"issue-date": "1929-04", "volume": "10", "number": "59"},
       "title": "Hairtrigger Trails the Hawk",
       "author": {
@@ -42,5 +35,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-01-12"
+   "last-updated": "2023-01-04"
 }

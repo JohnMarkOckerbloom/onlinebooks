@@ -10,6 +10,7 @@ use OLBP::Name;
 $bfhash  = $datadir . "gutbooks.hsh";
 $auhash  = $datadir . "gutauthors.hsh";
 $srhash  = $datadir . "gutserials.hsh";
+$vlhash  = $datadir . "gutvolumes.hsh";
 
 $extrabfhash  = $datadir . "newgutbooks.hsh";
 $extraauhash  = $datadir . "newgutauthors.hsh";
@@ -61,6 +62,7 @@ $scriptstem = "https://onlinebooks.library.upenn.edu/webbin/gutbook";
 $numstem = $scriptstem . "/lookup?num=";
 $namestem = $scriptstem . "/author?name=";
 $serialstem = $scriptstem . "/serial?name=";
+$volumestem = $scriptstem . "/volumes?name=";
 $asearch = $olbp . "webbin/book/search?amode=start&amp;author=";
 $tsearch = $olbp . "webbin/book/search?tmode=start&amp;title=";
 
@@ -354,6 +356,15 @@ sub lookup {
         print "$title</a> are available.\n";
       }
     }
+    if ($rec{VOLUME}) {
+      my $title = $rec{VOLUME};
+      if ($title =~ /(\d+) (.*)/) {
+        $title = $2;
+        print "<br>Additional volumes of ";
+        print "<a href=\"$volumestem" . url_encode($title) . "\">";
+        print "$title</a> are available.\n";
+      }
+    }
     print "</p>\n\n";
   }
   if ($rec{EREF}) {
@@ -438,11 +449,11 @@ sub lookup {
 }
 
 sub showserialtitles {
-  my $serial = shift;
-  my @tlist = split /\n/, shift;
-  printhead("$serial issues at Project Gutenberg");
+  my ($serial, $partsname, $whatname, $titles) = @_;
+  my @tlist = split /\n/, $titles;
+  printhead("$serial $partsname at Project Gutenberg");
   print $bodystart;
-  print "<h3>Project Gutenberg Issues of</h3>";
+  print "<h3>Project Gutenberg " . ucfirst($partsname) . " of</h3>";
   print "<h1>$serial</h1>\n";
   print "<hr>\n";
   print "<table>\n";
@@ -460,8 +471,8 @@ sub showserialtitles {
   # Before trying The Online Books Page, remove articles
   $serial =~ s/^(A |An |The )//;
   print "You can also <a href=\"$tsearch" . url_encode($serial);
-  print "\">look up this serial on ";
-  print "The Online Books Page</a>, which may list additional issues ";
+  print "\">look up this $whatname on ";
+  print "The Online Books Page</a>, which may list additional $partsname ";
   print "from other sites.";
   maketail;
   exit 0;
@@ -613,6 +624,15 @@ sub printhead {
   print "</head>\n";
 }
 
+# This removes anything other than safe characters
+# for error reporting, lest any malicious URL do sketchy things
+
+sub sanitize_for_error {
+  my $str = shift;
+  $str =~ s/[^\w,\. ]//g;
+  return $str;
+}
+
 if (defined($ENV{"GATEWAY_INTERFACE"})) {
   $command = $ENV{"PATH_INFO"};
   $command = substr($command, 1);
@@ -642,7 +662,8 @@ if ($command eq "lookup") {
   if (!($looknum =~ /^[\d\.]*$/)) {   # divert anything not a number
     getout();                        # (digits and decimals only)
   }
-} elsif ($command eq "author" || $command eq "serial") {
+} elsif ($command eq "author"
+          || $command eq "serial" || $command eq "volumes") {
   $arg = url_decode($options{name});
   if (!$arg) {
     getout();
@@ -665,6 +686,7 @@ if ($command eq "author") {
   if ($str || $xstr) {
     showauthortitles($arg, $str, $xstr);
   } else {
+    $arg = sanitize_for_error($arg);
     printhead("Cannot find Project Gutenberg Author $arg");
     print $bodystart;
     print "<p class=\"ctr\">Sorry, we don't know of any Gutenberg titles ";
@@ -680,19 +702,29 @@ if ($command eq "author") {
   exit 0;
 }
 
-if ($command eq "serial") {
-  $str = gethashval($srhash, $arg);
+if ($command eq "serial" || $command eq "volumes") {
+  my $partsname = "issues";
+  my $whatname = "serial";
+  my $hash = $srhash;
+  if ($command eq "volumes") {
+    $partsname = "volumes";
+    $whatname = "set";
+    $hash = $vlhash;
+  };
+  $str = gethashval($hash, $arg);
   if ($str) {
-    showserialtitles($arg, $str);
+    showserialtitles($arg, $partsname, $whatname, $str);
   } else {
-    printhead("Cannot find Project Gutenberg Serial $arg");
+    $arg = sanitize_for_error($arg);
+    printhead("Cannot find Project Gutenberg " . ucfirst($whatname) . " $arg");
     print $bodystart;
-    print "<p class=\"ctr\">Sorry, we don't know of any Gutenberg serial ";
+    print "<p class=\"ctr\">Sorry, we don't know of any Gutenberg $whatname ";
     print "named $arg</p>";
     maketail;
   }
   exit 0;
 }
+
 
 $str = gethashval($bfhash, $looknum);
 if (!$str && (int($looknum) != $looknum)) {

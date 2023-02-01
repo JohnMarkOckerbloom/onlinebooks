@@ -8,8 +8,8 @@
           "cdate": "1928-12-24"},
    "first-renewed-issue-source": "1956-JulDec",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1927-03"}},
-   "first-renewed-contribution-source": "1954-JulDec",
+     {"issue": {"issue-date": "1928-03"}},
+   "first-renewed-contribution-source": "1955-JanJun",
    "see-also": [{"id": "americana1925", "note": "Americana"}],
    "renewed-issue-completeness": "active/1930",
    "renewed-issues": [
@@ -43,94 +43,6 @@
    "comment": "Pick up issue renewals with 1959",
    "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1927-03"},
-        "title": "Santa Fé Sketches",
-        "author": {
-         "authorized": "Sandburg, Carl, 1878-1967",
-         "lcna": "n79011105"
-        }
-     },
-     {"issue": {"issue-date": "1927-04"},
-        "title": "Hemp",
-        "author": {
-         "authorized": "Cain, James M. (James Mallahan), 1892-1977",
-         "lcna": "n80025844"
-        }
-     },
-     {"issue": {"issue-date": "1927-05"},
-      "title": "Five Poems",
-      "author": {
-       "authorized": "Anderson, Sherwood, 1876-1941",
-       "lcna": "n79045519"
-      }
-     },
-     {"issue": {"issue-date": "1927-05"},
-      "title": "The Citadel of Thrift",
-      "author": {
-       "authorized": "Yorke, Dane, 1889-",
-       "lcna": "no2001008155"
-      }
-     },
-     {"issue": {"issue-date": "1927-09"},
-      "title": "We Rob a Bank",
-      "author": {
-       "name": "Ernest Booth"
-      }
-     },
-     {"issue": {"issue-date": "1927-10"},
-      "title": "Bull Horrors",
-      "author": {
-         "authorized": "Tully, Jim",
-         "lcna": "n81119676"
-      }
-     },
-     {"issue": {"issue-date": "1927-10"},
-        "title": "Red, White and Blue",
-        "author": {
-         "authorized": "Cain, James M. (James Mallahan), 1892-1977",
-         "lcna": "n80025844"
-        }
-     },
-     {"issue": {"issue-date": "1927-11"},
-      "title": "A Texas Chain-Gang",
-      "author": {
-       "name": "Ernest Booth"
-      }
-     },
-     {"issue": {"issue-date": "1927-12"},
-      "title": "A Jury Case",
-      "author": {
-       "authorized": "Anderson, Sherwood, 1876-1941",
-       "lcna": "n79045519"
-      }
-     },
-     {"issue": {"issue-date": "1927-12"},
-      "title": "Ladies of the Mob",
-      "author": {
-       "name": "Ernest Booth"
-      }
-     },
-     {"issue": {"issue-date": "1928-01"},
-        "title": "Trial by Jury",
-        "author": {
-         "authorized": "Cain, James M. (James Mallahan), 1892-1977",
-         "lcna": "n80025844"
-        }
-     },
-     {"issue": {"issue-date": "1928-01"},
-      "title": "The Man Who Knew Coolidge",
-      "author": {
-         "authorized": "Lewis, Sinclair, 1885-1951",
-         "lcna": "n79023149"
-       }
-     },
-     {"issue": {"issue-date": "1928-01"},
-      "title": "A California Holiday",
-      "author": {
-         "authorized": "Tully, Jim",
-         "lcna": "n81119676"
-      }
-     },
      {"issue": {"issue-date": "1928-03"},
         "title": "Pastorale",
         "author": {
@@ -1456,13 +1368,11 @@
       }
      }
    ],
-   "additional-notes": [
-      "Active contribution renewals are recorded beginning in the 1954 January-June CCE volume, but the earliest renewed contribution is noted in the 1954 July-December volume.",
-      "Published as New American Mercury for a short time in the early 1950s."
-   ],
+   "additional-note": 
+      "This magazine published as New American Mercury for a short time in the early 1950s.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-05-22"
+   "last-updated": "2023-01-02"
 }

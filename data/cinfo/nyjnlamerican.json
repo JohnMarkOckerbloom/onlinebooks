@@ -1,0 +1,24 @@
+{
+   "title": "New York Journal-American",
+   "aka": ["New York Journal and American"],
+   "preceded-by":
+      [{"id": "nyamerican", "note": "New York American"},
+       {"id": "nyeveningjournal", "note": "New York Evening Journal"}],
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce+database",
+   "first-renewed-contribution":
+      {"issue": {"issue-date": "1939-05-15"}},
+   "first-renewed-contribution-source": "1966-JanJun",
+   "comment": "1966 Jan-Jun renewal is for Bringing Up Father",
+   "see-also":
+      [{"id": "amweeklysunday", "note": "American Weekly Sunday Magazine"}],
+   "additional-notes": [
+      "Some relevant renewals may have been filed under the American Weekly Sunday Magazine, included in this newspaper on Sundays.",
+      "Some renewals for material that ran in the predecessors New York American and New York Evening Journal were filed under Artwork (generally for comic strips).  We have not checked Artwork renewals for this newspaper. The first renewal shown here, for a Bringing Up Father comic strip, was filed as a periodical contribution. Other syndicated comics might also have renewals filed under other publications."
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2023-01-07"
+}

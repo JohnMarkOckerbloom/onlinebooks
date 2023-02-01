@@ -2,28 +2,14 @@
    "title": "Vanity Fair",
    "online": "1",
    "first-renewed-issue": 
-      {"issue-date": "1927-02", "volume": "27", "number": "6",
-       "cdate": "1927-01-20"}, 
-   "first-renewed-issue-source": "1954-JulDec",
+      {"issue-date": "1928-02", "volume": "29", "number": "6",
+       "cdate": "1928-01-20"}, 
+   "first-renewed-issue-source": "1955-JulDec",
    "first-renewed-contribution":
-      {"issue": {"issue-date": "1927-02"}},
-   "first-renewed-contribution-source": "1954-JanJun",
+     {"issue": {"issue-date": "1928-02"}},
+   "first-renewed-contribution-source": "1955-JanJun",
    "renewed-issue-completeness": "active/1930",
    "renewed-issues": [
-      {"issue-date": "1927-02", "volume": "27", "number": "6",
-       "cdate": "1927-01-20"}, 
-      {"issue-date": "1927-03", "volume": "28", "number": "1"},
-      {"issue-date": "1927-04", "volume": "28", "number": "2"},
-      {"issue-date": "1927-05", "volume": "28", "number": "3"},
-      {"issue-date": "1927-06", "volume": "28", "number": "4"},
-      {"issue-date": "1927-07", "volume": "28", "number": "5"},
-      {"issue-date": "1927-08", "volume": "28", "number": "6"},
-      {"issue-date": "1927-09", "volume": "29", "number": "1"},
-      {"issue-date": "1927-10", "volume": "29", "number": "2"},
-      {"issue-date": "1927-11", "volume": "29", "number": "3"},
-      {"issue-date": "1927-12", "volume": "29", "number": "4"},
-      {"issue-date": "1928-01", "volume": "29", "number": "5",
-       "cdate": "1927-12-06"}, 
       {"issue-date": "1928-02", "volume": "29", "number": "6",
        "cdate": "1928-01-20"}, 
       {"issue-date": "1928-03", "volume": "30", "number": "1"},
@@ -79,83 +65,6 @@
    ],
    "renewed-contribution-completeness": "active/1933",
    "renewed-contributions" : [
-     {"issue": {"issue-date": "1927-02"},
-      "title": "Prohibition",
-      "author": {
-       "authorized": "Anderson, Sherwood, 1876-1941",
-       "lcna": "n79045519"
-      }
-     },
-     {"issue": {"issue-date": "1927-04"},
-      "title": "A New Testament",
-      "author": {
-       "authorized": "Anderson, Sherwood, 1876-1941",
-       "lcna": "n79045519"
-      }
-     },
-     {"issue": {"issue-date": "1927-05"},
-      "title": "Educating an Author",
-      "author": {
-       "authorized": "Anderson, Sherwood, 1876-1941",
-       "lcna": "n79045519"
-      }
-     },
-     {"issue": {"issue-date": "1927-06"},
-      "title": "On Conversing With Authors",
-      "author": {
-       "authorized": "Anderson, Sherwood, 1876-1941",
-       "lcna": "n79045519"
-      }
-     },
-     {"issue": {"issue-date": "1927-07"},
-      "title": "New York",
-      "author": {
-       "authorized": "Anderson, Sherwood, 1876-1941",
-       "lcna": "n79045519"
-      }
-     },
-     {"issue": {"issue-date": "1927-07"},
-        "title": "The Unfortunate Lovers",
-        "author": {
-         "authorized": "Pearson, Edmund Lester, 1880-1937",
-         "lcna": "n50012420"
-        }
-     },
-     {"issue": {"issue-date": "1927-08"},
-      "title": "A Note on Story Tellers",
-      "author": {
-       "authorized": "Anderson, Sherwood, 1876-1941",
-       "lcna": "n79045519"
-      }
-     },
-     {"issue": {"issue-date": "1927-10"},
-      "title": "The Fight",
-      "author": {
-       "authorized": "Anderson, Sherwood, 1876-1941",
-       "lcna": "n79045519"
-      }
-     },
-     {"issue": {"issue-date": "1927-11"},
-      "title": "A Mountain Dance",
-      "author": {
-       "authorized": "Anderson, Sherwood, 1876-1941",
-       "lcna": "n79045519"
-      }
-     },
-     {"issue": {"issue-date": "1927-12"},
-      "title": "A Ghost Story",
-      "author": {
-       "authorized": "Anderson, Sherwood, 1876-1941",
-       "lcna": "n79045519"
-      }
-     },
-     {"issue": {"issue-date": "1928-01"},
-      "title": "A Sentimental Journey",
-      "author": {
-       "authorized": "Anderson, Sherwood, 1876-1941",
-       "lcna": "n79045519"
-      }
-     },
      {"issue": {"issue-date": "1928-02"},
       "title": "On Being a Country Editor",
       "author": {
@@ -434,7 +343,7 @@
      {"issue": {"issue-date": "1933-09"},
       "title": "Hotel Kid",
       "author": {
-         "authorized": "O’Hara, John, 1905-1970",
+         "authorized": "O'Hara, John, 1905-1970",
          "lcna": "n79060653"
       }
      },
@@ -506,5 +415,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-11-02"
+   "last-updated": "2023-01-26"
 }
