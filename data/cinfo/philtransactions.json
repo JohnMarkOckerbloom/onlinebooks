@@ -1,0 +1,19 @@
+{
+   "title": "Philosophical Transactions",
+   "title-note": "Royal Society of London, 1665-1886",
+   "aka": ["Philosophical Transactions of the Royal Society of London"],
+   "online": "1",
+   "rights-statement": "NoC-US",
+   "succeeded-by":
+     [{"id": "philtranspta",
+       "note": "Philosophical Transactions of the Royal Society of London, Series A"},
+      {"id": "philtransptb",
+       "note": "Philosophical Transactions of the Royal Society of London, Series B"}],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "acknowledgement": 
+      "Thanks to Felice Gollotti for copyright research on this title.",
+   "last-updated": "2023-02-14"
+}

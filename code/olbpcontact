@@ -93,16 +93,22 @@ label {
 }
 !;
 
-sub tag_form {
+sub wherefrom {
   my ($q) = @_;
-  my $str = "";
   my $from = $q->remote_host();
   # We may just be getting our gateway's IP address; if so,
   # see if it's passing in the real requester's IP via an environment variable
   my $for = $ENV{'HTTP_X_FORWARDED_FOR'};
-    if (($from eq $gateway) && $for) {
-      $from = $for;
-    }
+  if (($from eq $gateway) && $for) {
+    $from = $for;
+  }
+  return $from;
+}
+
+sub tag_form {
+  my ($q) = @_;
+  my $str = "";
+  my $from = wherefrom($q);
   my $when = time();
   $str .= "FROM $from\n";
   $str .= "AT $when\n";
@@ -622,6 +628,14 @@ sub spambadlink {
   return 0;
 }
 
+# a few known IP addresses just send spam
+
+sub spamorigin {
+  my ($ip) = @_;
+  return 1 if ($ip eq "91.240.118.252");
+  return 0;
+}
+
 # if it's a bad-link report on an extended shelves book
 # but has no title, and a comment with an http or a .com in it, 
 # it's probably spam
@@ -690,7 +704,9 @@ sub analyze_form {
       $str .= uc($field) . " " . _stripspace($q->param($field), 1)  . "\n";
     }
   }
+  my $wherefrom = wherefrom($q);
   if (spamcomment($comments) || spambadlink($ref, $wref, $comments) ||
+      spamorigin($wherefrom) ||
       spamsolicitation($ref, $title, $comments)
       || $email =~ /\@email.tst/
       || $email =~ /cergplwqx/
@@ -704,6 +720,8 @@ sub analyze_form {
       || $title =~ / nude /
       || $title =~ /Unutty/
       || $title =~ /trump vote mask/
+      || $title =~ /affiliate marketing/i
+      || $title =~ /upenn.edu/i
       || $title =~ /^I will be your/
       || $title =~ /still.*business/i
       || $title =~ /earn money/i
@@ -722,7 +740,7 @@ sub analyze_form {
       || $comments =~ /fiverrtalents/i
       || $comments =~ /ultimate tool/i
       || $comments =~ /your (business|company|sales)/i
-      || $comments =~ /(network|digital|email|local) marketing/i
+      || $comments =~ /(network|digital|email|local|online).marketing/i
       || $comments =~ /unsub(marketing|scribe)/i
       || (($comments =~ /SEO/) && ($comments =~ /Google/))
       || (($comments =~ /SEO/) && ($comments =~ /http/))

@@ -1,9 +1,12 @@
 {
    "title": "Estadística Española",
+   "online": "1",
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "database",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "database",
+   "succeeded-by":
+      [{"id": "spanjstats", "note": "Spanish Journal of Statistics"}],
    "additional-note": 
       "This is a Spanish publication. Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US.",
    "responsibility": {
@@ -12,5 +15,5 @@
    },
    "acknowledgement": 
       "Thanks to Shelton Henderson for copyright research on this title.",
-   "last-updated": "2022-09-08"
+   "last-updated": "2023-02-16"
 }

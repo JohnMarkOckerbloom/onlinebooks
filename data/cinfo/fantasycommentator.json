@@ -1,5 +1,6 @@
 {
    "title": "Fantasy Commentator",
+   "aka": ["The Immortal Storm (only for a misfiled contribution renewal; see record details)"],
    "first-renewed-issue":
       {"issue-date": "Winter 1945-1946", "volume": "1", "number": "9"},
    "first-renewed-issue-source": "1974",
@@ -7,9 +8,116 @@
       {"issue": {"issue-date": "Winter 1945-1946",
                  "volume": "1", "number": "9"}},
    "first-renewed-contribution-source": "1974-JanJun",
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "Winter 1945-1946", "volume": "1", "number": "9"},
+      "title": "The Immortal Storm: A History of Science Fiction Fandom",
+      "title-note": "part 2",
+      "author": {
+          "authorized": "Moskowitz, Sam",
+          "lcna": "n50007974"
+      }
+     },
+     {"issue": {"issue-date": "1946-Spring", "volume": "1", "number": "10"},
+      "title": "The Immortal Storm: A History of Science Fiction Fandom",
+      "title-note": "part 3",
+      "author": {
+          "authorized": "Moskowitz, Sam",
+          "lcna": "n50007974"
+      }
+     },
+     {"issue": {"issue-date": "1946-Summer", "volume": "1", "number": "11"},
+      "title": "The Immortal Storm: A History of Science Fiction Fandom",
+      "title-note": "part 4",
+      "author": {
+          "authorized": "Moskowitz, Sam",
+          "lcna": "n50007974"
+      }
+     },
+     {"issue": {"issue-date": "1946-Fall", "volume": "1", "number": "12"},
+      "title": "The Immortal Storm: A History of Science Fiction Fandom",
+      "title-note": "part 5",
+      "author": {
+          "authorized": "Moskowitz, Sam",
+          "lcna": "n50007974"
+      }
+     },
+     {"issue": {"issue-date": "1947-Spring", "volume": "2", "number": "2"},
+      "title": "The Immortal Storm: A History of Science Fiction Fandom",
+      "title-note": "part 7",
+      "author": {
+          "authorized": "Moskowitz, Sam",
+          "lcna": "n50007974"
+      }
+     },
+     {"issue": {"issue-date": "1947-Summer", "volume": "2", "number": "3"},
+      "title": "Weinbaum's Unpublished Novel, The Man Brain",
+      "author": {
+          "authorized": "Moskowitz, Sam",
+          "lcna": "n50007974"
+      }
+     },
+     {"issue": {"issue-date": "1947-Summer", "volume": "2", "number": "3"},
+      "title": "The Immortal Storm: A History of Science Fiction Fandom",
+      "title-note": "part 8",
+      "author": {
+          "authorized": "Moskowitz, Sam",
+          "lcna": "n50007974"
+      }
+     },
+     {"issue": {"issue-date": "1947-Fall", "volume": "2", "number": "4"},
+      "title": "The Immortal Storm: A History of Science Fiction Fandom",
+      "title-note": "part 9",
+      "author": {
+          "authorized": "Moskowitz, Sam",
+          "lcna": "n50007974"
+      }
+     },
+     {"issue": {"issue-date": "1948-Spring", "volume": "2", "number": "6"},
+      "title": "John Buchan: A Possible Influence on Lovecraft",
+      "author": {
+          "authorized": "Moskowitz, Sam",
+          "lcna": "n50007974"
+      }
+     },
+     {"issue": {"issue-date": "1948-Spring", "volume": "2", "number": "6"},
+      "title": "The Immortal Storm: A History of Science Fiction Fandom",
+      "title-note": "part 11",
+      "note": "Part number as given in issue.  CCE renewal record gives part number as 2.",
+      "author": {
+          "authorized": "Moskowitz, Sam",
+          "lcna": "n50007974"
+      }
+     },
+     {"issue": {"issue-date": "1948-Spring", "volume": "2", "number": "6"},
+      "title": "Edison's Conquest of Mars by Garrett P. Serviss",
+      "title-note": "book review",
+      "author": {
+          "authorized": "Moskowitz, Sam",
+          "lcna": "n50007974"
+      }
+     },
+     {"issue": {"issue-date": "1948-Summer", "volume": "2", "number": "7"},
+      "title": "The Immortal Storm: A History of Science Fiction Fandom",
+      "title-note": "part 12",
+      "note": "This is misfiled in the January-June 1976 CCE Periodicals volume, listed as a renewal for a periodical titled 'The Immortal Storm', instead of as a renewal for the contribution of that name that appeared in Fantasy Commentator with the indicated issue date and number. Part number as given in issue.",
+      "author": {
+          "authorized": "Moskowitz, Sam",
+          "lcna": "n50007974"
+      }
+     },
+     {"issue": {"issue-date": "1948-Fall", "volume": "2", "number": "8"},
+      "title": "The Immortal Storm: A History of Science Fiction Fandom",
+      "title-note": "part 13",
+      "author": {
+          "authorized": "Moskowitz, Sam",
+          "lcna": "n50007974"
+      }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-04-06"
+   "last-updated": "2023-02-16"
 }

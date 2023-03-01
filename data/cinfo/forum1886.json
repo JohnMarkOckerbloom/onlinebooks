@@ -1,13 +1,17 @@
 {
    "title": "The Forum",
-   "title-note": "American magazine, 1886-1950",
+   "title-note": "American magazine, 1886-1930",
    "online": "1",
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution":
      {"issue": {"issue-date": "1928-02"}}, 
    "first-renewed-contribution-source": "1955-JanJun",
-   "renewed-contribution-completeness": "active/1930",
+   "last-issue": {"issue-date": "1930-06", "volume": "83", "number": "6"}, 
+   "succeeded-by": [{"id": "forumcentury", "note": "Forum and Century"}],
+   "see-also":
+     [{"id": "forum1945", "note": "The Forum (American magazine, 1945-1950)"}],
+   "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
      {"issue": {"issue-date": "1928-02"}, 
         "title": "Escaped Cock",
@@ -122,32 +126,11 @@
          "authorized": "Faulkner, William, 1897-1962",
          "lcna": "n79003304"
       }
-     },
-     {"issue": {"issue-date": "1931-04"}, 
-      "title": "The Country Weekly",
-      "author": {
-       "authorized": "Anderson, Sherwood, 1876-1941",
-       "lcna": "n79045519"
-      }
-     },
-     {"issue": {"issue-date": "1931-07"},
-      "title": "Without Flame",
-      "author": {
-       "authorized": "White, Nelia Gardner, 1894-1957",
-       "lcna": "no93013886"
-      }
-     },
-     {"issue": {"issue-date": "1932-01"},
-        "title": "The Cruise of the Cashalot",
-        "author": {
-         "authorized": "Edmonds, Walter D. (Walter Dumaux), 1903-1998",
-         "lcna": "n79083990"
-        }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-01-03"
+   "last-updated": "2023-02-03"
 }

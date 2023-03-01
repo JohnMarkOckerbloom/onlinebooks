@@ -15,7 +15,7 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1931-05", "volume": "2", "number": "12"}},
+     {"issue": {"issue-date": "1931-07", "volume": "3", "number": "2"}},
    "last-issue":
       {"issue-date": "1936-04", "volume": "7", "number": "8"},
    "succeeded-by":
@@ -23,30 +23,6 @@
    "see-also": [{"id": "wonderstoriesq", "note": "Wonder Stories Quarterly"}],
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1931-05", "volume": "2", "number": "12"},
-      "title": "Utopia Island",
-      "title-note": "part 1 of 2",
-      "note": "There was no renewal filed for this story; however, it is a translation of 'Ein Flug um die Welt und die Insel der seltsamen Dinge', originally published in German in 1927 and likely to have an active copyright due to GATT restoration.",
-      "author": {
-       "authorized": "Hanstein, Otfrid von, 1869-1959",
-       "lcna": "nr97029638"
-      },
-      "translator": {
-       "name": "Francis M. Currier"
-      }
-     },
-     {"issue": {"issue-date": "1931-06", "volume": "3", "number": "1"},
-      "title": "Utopia Island",
-      "title-note": "part 2 of 2",
-      "note": "There was no renewal filed for this story; however, it is a translation of 'Ein Flug um die Welt und die Insel der seltsamen Dinge', originally published in German in 1927 and likely to have an active copyright due to GATT restoration.",
-      "author": {
-       "authorized": "Hanstein, Otfrid von, 1869-1959",
-       "lcna": "nr97029638"
-      },
-      "translator": {
-       "name": "Francis M. Currier"
-      }
-     },
      {"issue": {"issue-date": "1931-07", "volume": "3", "number": "2"},
       "title": "A Daring Trip to Mars",
       "note": "There was no renewal filed for this story; however, it is a translation of 'Auf kühner Fahrt zum Mars: Eine Kosmische Phantasie', originally published in German in 1928 and likely to have an active copyright due to GATT restoration.",
@@ -210,5 +186,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-06-27"
+   "last-updated": "2023-02-07"
 }

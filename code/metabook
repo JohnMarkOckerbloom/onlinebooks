@@ -9,6 +9,7 @@ $filedir = "/websites/OnlineBooks/nonpublic/bookdb/metafiles/";
 $serverurl = "https://onlinebooks.library.upenn.edu/";
 $booksurl = $serverurl;
 $gutlookup = $serverurl . "webbin/gutbook/lookup?num=";
+$olbplookup = $serverurl . "webbin/book/lookupid?key=";
 
 $homepage  = $booksurl;
 
@@ -88,6 +89,9 @@ sub substitute {
     $val =~ s/^\s+//;
     if ($cmd eq "pg" && ($arg> 0)) {
       return "<a href=\"$gutlookup$arg\">$val</a>";
+    }
+    if ($cmd eq "ol" && ($arg)) {
+      return "<a href=\"$olbplookup$arg\">$val</a>";
     }
   } 
   return $line;
