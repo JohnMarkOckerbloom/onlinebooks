@@ -1,0 +1,135 @@
+{
+   "title": "Fantastic Story Magazine",
+   "contents": [
+      {"url": "http://www.isfdb.org/cgi-bin/pe.cgi?23193",
+       "note": "ISFDB"},
+      {"url": "http://www.philsp.com/homeville/SFI/link.asp?magid=FSM",
+       "note": "FictionMags"}
+   ],
+   "preceded-by":
+     [{"id": "fantasticstoryqtly", "note": "Fantastic Story Quarterly"}],
+   "first-issue":
+       {"issue-date": "1951-Summer", "volume": "2", "number": "3"},
+   "first-renewed-issue":
+       {"issue-date": "1951-Summer", "volume": "2", "number": "3"},
+   "first-renewed-issue-source": "database",
+   "last-issue":
+       {"issue-date": "1955-Spring", "volume": "8", "number": "2"},
+   "renewed-issue-completeness": "active/end",
+   "renewed-issues": [
+       {"issue-date": "1951-Summer", "volume": "2", "number": "3"},
+       {"issue-date": "1951-Fall", "volume": "3", "number": "1",
+        "note": "Volume number as stated in issue.  The copyright renewal record gives the volume number as 8, but this appears to be an error."},
+       {"issue-date": "1951-Winter", "volume": "3", "number": "2"},
+       {"issue-date": "1952-Spring", "volume": "3", "number": "3"},
+       {"issue-date": "1952-Summer", "volume": "4", "number": "1"},
+       {"issue-date": "1952-Fall", "volume": "4", "number": "2"},
+       {"issue-date": "1952-11", "volume": "4", "number": "3"},
+       {"issue-date": "1953-01", "volume": "5", "number": "1"},
+       {"issue-date": "1953-03", "volume": "5", "number": "2"},
+       {"issue-date": "1953-05", "volume": "5", "number": "3"},
+       {"issue-date": "1953-07", "volume": "6", "number": "1"},
+       {"issue-date": "1953-09", "volume": "6", "number": "2"},
+       {"issue-date": "1954-Winter", "volume": "6", "number": "3"},
+       {"issue-date": "1954-Spring", "volume": "7", "number": "1"},
+       {"issue-date": "1954-Summer", "volume": "7", "number": "2"},
+       {"issue-date": "1954-Fall", "volume": "7", "number": "3"},
+       {"issue-date": "1955-Winter", "volume": "8", "number": "1"},
+       {"issue-date": "1955-Spring", "volume": "8", "number": "2"}
+   ],
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+      {"issue": {"issue-date": "1952-Winter", "volume": "3", "number": "2"}, 
+       "title": "The Blunderer",
+       "author": {
+         "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+         "lcna": "n80057222"
+       }
+      },
+      {"issue": {"issue-date": "1952-Summer", "volume": "4", "number": "1"}, 
+       "title": "Something Borrowed",
+        "author": {
+          "authorized": "Keyes, Daniel",
+          "lcna": "n80022990"
+       }
+      },
+      {"issue": {"issue-date": "1952-11", "volume": "4", "number": "3"},
+       "title": "In Sheep's Clothing",
+       "author": {
+         "authorized": "Nourse, Alan Edward", 
+         "lcna": "n79045089"
+       }
+      },
+      {"issue": {"issue-date": "1952-11", "volume": "4", "number": "3"},
+       "title": "A Family Matter",
+       "author": {
+         "authorized": "Miller, Walter M., Jr., 1923-1996",
+         "lcna": "n81120378"
+       }
+      },
+      {"issue": {"issue-date": "1953-01", "volume": "5", "number": "1"},
+       "title": "The Disinheritors",
+       "author": {
+        "authorized": "Matheson, Richard, 1926-2013",
+        "lcna": "n79068485"
+       }
+      },
+      {"issue": {"issue-date": "1953-03", "volume": "5", "number": "2"},
+       "title": "Shadow Over Mars",
+       "author": {
+        "authorized": "Brackett, Leigh",
+        "lcna": "n79065020"
+       }
+      },
+      {"issue": {"issue-date": "1953-03", "volume": "5", "number": "2"},
+       "title": "Death Ship",
+       "author": {
+        "authorized": "Matheson, Richard, 1926-2013",
+        "lcna": "n79068485"
+       }
+      },
+      {"issue": {"issue-date": "1953-03", "volume": "5", "number": "2"},
+       "title": "Baby Face",
+       "author": {
+         "authorized": "Kuttner, Henry",
+         "lcna": "n50061631"
+       }
+      },
+      {"issue": {"issue-date": "1953-07", "volume": "6", "number": "1"},
+       "title": "Lazarus II",
+       "author": {
+        "authorized": "Matheson, Richard, 1926-2013",
+        "lcna": "n79068485"
+       }
+      },
+      {"issue": {"issue-date": "1953-07", "volume": "6", "number": "1"},
+       "title": "The Indefatigable Frog",
+       "author": {
+        "authorized": "Dick, Philip K.",
+        "lcna": "n79018147"
+       }
+      },
+      {"issue": {"issue-date": "1953-September-October"},
+       "title": "Trespass; a.k.a. Mother by Protest",
+       "note": "Magazine and issue date as given in renewal record.  There is no issue of Fantastic Story with the given issue date, and FictionMags does not report any story by Matheson in the September 1953 issue.  It does, however, report a story 'Mother by Protest' by Matheson in the September-October 1953 issue of Fantastic, a different magazine.",
+       "author": {
+        "authorized": "Matheson, Richard, 1926-2013",
+        "lcna": "n79068485"
+       }
+      },
+      {"issue": {"issue-date": "1954-Winter", "volume": "6", "number": "3"},
+       "title": "The Rebels",
+       "author": {
+        "authorized": "Dickson, Gordon R.",
+        "lcna": "n79109204"
+       }
+      }
+   ],
+   "additional-note": 
+     "Many of the stories in this magazine were reprints, as noted in the tables of contents links.  We have not systematically checked to see if any of them have active renewed copyrights from their original publication.",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2023-03-08"
+}

@@ -1,5 +1,8 @@
 {
    "title": "Bird-Banding",
+   "preceded-by":
+     [{"id": "bulnebirdband",
+       "note": "Bulletin of the Northeastern Bird-Banding Association"}],
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
@@ -10,5 +13,5 @@
    },
    "acknowledgement": 
       "Thanks to Scott F Andrews for copyright research on this title.",
-   "last-updated": "2022-01-07"
+   "last-updated": "2023-04-03"
 }

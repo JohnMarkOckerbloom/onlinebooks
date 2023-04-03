@@ -1,0 +1,41 @@
+{
+   "title": "Fantastic Worlds",
+   "title-note": "1950s fanzine",
+   "contents": [
+      {"url": "https://www.isfdb.org/cgi-bin/pe.cgi?44312",
+       "note": "ISFDB"},
+      {"url": "http://www.philsp.com/homeville/SFI/link.asp?magid=FWS",
+       "note": "Galactic Central"}
+   ],
+   "first-issue":
+     {"issue-date": "1952-Summer", "volume": "1", "number": "1"}, 
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "database",
+   "first-renewed-contribution":
+     {"issue": {"issue-date": "1953-Summer", "volume": "1", "number": "4"}}, 
+   "first-renewed-contribution-source": "database",
+   "last-issue":
+     {"issue-date": "1955-Fall", "volume": "2", "number": "4"}, 
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1953-Summer", "volume": "1", "number": "4"}, 
+      "title": "Through Crisis with the Gonedaidins",
+      "author": {
+          "authorized": "Bunch, David R.",
+          "lcna": "no98121068"
+      }
+     },
+     {"issue": {"issue-date": "1953-Fall", "volume": "2", "number": "1"}, 
+      "title": "The Mad Man From Machinery Row",
+      "author": {
+          "authorized": "Bunch, David R.",
+          "lcna": "no98121068"
+      }
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2023-03-08"
+}

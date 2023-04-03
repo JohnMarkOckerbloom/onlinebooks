@@ -1,0 +1,53 @@
+{
+   "title": "Rangeland Love Stories",
+   "title-note": "Clayton Magazines, 1933-1934",
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/WFI/link.asp?magid=RNGLV",
+       "note": "FictionMags"}
+   ],
+   "preceded-by":
+     [{"id": "rangeloves1929", "note": "Rangeland Love Story Magazine"}],
+   "first-issue":
+     {"issue-date": "1933-01", "volume": "13", "number": "3"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce",
+   "first-renewed-contribution": 
+      {"issue": {"issue-date": "1933-02", "volume": "13", "number": "4"}},
+   "first-renewed-contribution-source": "1960-JulDec",
+   "last-issue":
+     {"issue-date": "1934-07", "volume": "16", "number": "3"},
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+      {"issue": {"issue-date": "1933-02", "volume": "13", "number": "4"},
+        "title": "Killer Chow",
+        "author": {
+          "name": "L. Lindley Mulkey"
+        }
+      },
+      {"issue": {"issue-date": "1933-May/June", "volume": "14", "number": "3"},
+        "title": "Moonlight Madness",
+        "author": {
+          "name": "L. Lindley Mulkey"
+        }
+      },
+      {"issue": {"issue-date": "1933-11", "volume": "14", "number": "4"},
+        "title": "Wolves of Catclaw",
+        "author": {
+          "authorized": "Rister, Claude, 1892-1960",
+          "lcna": "n88172324"
+        }
+      },
+      {"issue": {"issue-date": "1933-11", "volume": "14", "number": "4"},
+        "title": "Fleming's Folly",
+        "author": {
+          "authorized": "Keating, Lawrence A., 1903-1966",
+          "lcna": "n88089902"
+        }
+      }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2023-03-10"
+}

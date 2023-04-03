@@ -538,8 +538,8 @@ sub get_recent_censorship_year {
   foreach my $incident (@{$incidents}) {
     my $date = $incident->{date};
     if ($date =~ /^(\d\d\d\d)/) {
-      my $year = $date;
-      if (!$latest || ($year < $latest)) {
+      my $year = $1;
+      if (!$latest || ($year > $latest)) {
         $latest = $year;
       }
     }

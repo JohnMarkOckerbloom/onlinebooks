@@ -1,0 +1,33 @@
+{
+   "title": "Fellowship",
+   "title-note": "Fellowship of Reconciliation publication",
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce+database",
+   "first-renewed-contribution": 
+     {"issue": {"issue-date": "1958-09-01"}},
+   "first-renewed-contribution-source": "database",
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1958-09-01"},
+        "title": "My Pilgrimage to Nonviolence",
+        "author": {
+         "authorized": "King, Martin Luther, Jr., 1929-1968",
+         "lcna": "n79084324"
+        }
+     },
+     {"issue": {"issue-date": "1962-05-01"},
+        "title": "A Modest Protest With Feline Feeling",
+        "author": {
+         "authorized": "Neugeboren, Jay",
+         "lcna": "n79145233"
+        }
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "acknowledgement": 
+      "Thanks to Scott Andrews for copyright research on this title.",
+   "last-updated": "2023-03-22"
+}

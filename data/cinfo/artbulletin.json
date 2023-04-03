@@ -1,6 +1,11 @@
 {
    "title": "The Art Bulletin",
    "online": "1",
+   "preceded-by":
+     [{"id": "bulcolartasam",
+       "note": "The Bulletin of the College Art Association of America"}],
+   "first-issue": {"issue-date": "1919-09", "volume": "2", "number": "1"},
+   "first-renewed-issue": "none",
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
@@ -9,5 +14,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-05-26"
+   "last-updated": "2023-03-06"
 }

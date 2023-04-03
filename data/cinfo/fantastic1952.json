@@ -1,0 +1,1647 @@
+{
+   "title": "Fantastic",
+   "title-note": "science fiction and fantasy magazine, 1952-1980",
+   "aka": ["Fantastic S F Stories",
+           "Fantastic Science Fiction", "Fantastic Science Fiction Stories",
+           "Fantastic Stories", "Fantastic Stories of Imagination"],
+   "contents": [
+      {"url": "https://www.isfdb.org/cgi-bin/pe.cgi?8935",
+       "note": "ISFDB"},
+      {"url": "http://www.philsp.com/homeville/SFI/link.asp?magid=FAN",
+       "note": "FictionMags"}
+   ],
+   "online": "1",
+   "first-issue": {"issue-date": "1952-Summer", "volume": "1", "number": "1"},
+   "first-renewed-issue":
+       {"issue-date": "1954-06", "volume": "3", "number": "3"},
+   "first-renewed-issue-source": "database",
+   "first-autorenewed-issue":
+       {"issue-date": "1964-03", "volume": "13", "number": "3",
+        "cdate": "1964-01-27"},
+   "first-renewed-contribution": 
+      {"issue": {"issue-date": "1952-Summer", "volume": "1", "number": "1"}},
+   "first-renewed-contribution-source": "database",
+   "renewed-issue-completeness": "active/autorenewals",
+   "renewed-issues": [
+       {"issue-date": "1954-06", "volume": "3", "number": "3"},
+       {"issue-date": "1954-08", "volume": "3", "number": "4",
+        "note": "Issue number as given in issue.  Renewal record gives the issue number of the August 1954 issue as 5, but this is a typographical error."},
+       {"issue-date": "1954-10", "volume": "3", "number": "5"},
+       {"issue-date": "1954-12", "volume": "3", "number": "6"},
+       {"issue-date": "1955-02", "volume": "4", "number": "1"},
+       {"issue-date": "1955-04", "volume": "4", "number": "2"},
+       {"issue-date": "1955-06", "volume": "4", "number": "3"},
+       {"issue-date": "1955-08", "volume": "4", "number": "4"},
+       {"issue-date": "1955-10", "volume": "4", "number": "5"},
+       {"issue-date": "1955-12", "volume": "4", "number": "6"},
+       {"issue-date": "1956-02", "volume": "5", "number": "1"}
+   ],
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1952-Summer", "volume": "1", "number": "1"},
+      "title": "Six and Ten Are Johnny",
+      "author": {
+        "authorized": "Miller, Walter M., Jr., 1923-1996",
+        "lcna": "n81120378"
+      }
+     },
+     {"issue": {"issue-date": "1952-Summer", "volume": "1", "number": "1"},
+      "title": "The Smile",
+      "author": {
+        "authorized": "Bradbury, Ray, 1920-2012",
+        "lcna": "n79139258"
+      }
+     },
+     {"issue": {"issue-date": "1952-Summer", "volume": "1", "number": "1"},
+      "title": "What If?",
+      "author": {
+       "authorized": "Asimov, Isaac, 1920-1992",
+        "lcna": "n80126289"
+      }
+     },
+     {"issue": {"issue-date": "1952-Fall", "volume": "1", "number": "2"},
+      "title": "Sin of Hyacinth Pence",
+      "note": "Title as given in renewal record.  FictionMags gives title as 'The Sin of Hyacinth Peuch'.  We have not examined the issue in question.",
+      "author": {
+        "authorized": "Russell, Eric Frank, 1905-1978",
+        "lcna": "n81062502"
+      }
+     },
+     {"issue": {"issue-date": "1952-Fall", "volume": "1", "number": "2"},
+      "title": "The Star Dummy",
+      "author": {
+         "authorized": "Boucher, Anthony, 1911-1968",
+         "lcna": "n50019878"
+      }
+     },
+     {"issue": {"issue-date": "1952-Fall", "volume": "1", "number": "2"},
+      "title": "The Sex Opposite",
+      "author": {
+        "authorized": "Sturgeon, Theodore",
+        "lcna": "n80066908"
+      }
+     },
+     {"issue": {"issue-date": "1952-November-December", "volume": "1", "number": "3"},
+      "title": "To Fit the Crime",
+      "author": {
+       "authorized": "Matheson, Richard, 1926-2013",
+       "lcna": "n79068485"
+      }
+     },
+     {"issue": {"issue-date": "1952-November-December", "volume": "1", "number": "3"},
+      "note": "Issue as given in renewal record.  FictionMags does not report a story with this title, or with this author, in this issue, but does report one in the January-February 1953 issue. We have not examined the issues in question.",
+      "title": "Isle of Blight",
+      "author": {
+       "authorized": "Adams, Samuel Hopkins, 1871-1958",
+       "lcna": "n50037535"
+      }
+     },
+     {"issue": {"issue-date": "1953-January-February", "volume": "2", "number": "1"},
+      "title": "Mad House",
+      "author": {
+       "authorized": "Matheson, Richard, 1926-2013",
+       "lcna": "n79068485"
+      }
+     },
+     {"issue": {"issue-date": "1953-January-February", "volume": "2", "number": "1"},
+      "note": "Issue as given in FictionMags for this story.  The renewal record for this story reports it appearing in the November-December 1952 issue. We have not examined the issues in question.",
+      "title": "Isle of Blight",
+      "author": {
+       "authorized": "Adams, Samuel Hopkins, 1871-1958",
+       "lcna": "n50037535"
+      }
+     },
+     {"issue": {"issue-date": "1953-January-February", "volume": "2", "number": "1"},
+       "title": "Satan Sends Flowers",
+       "author": {
+         "authorized": "Kuttner, Henry",
+         "lcna": "n50061631"
+       }
+     },
+     {"issue": {"issue-date": "1953-January-February", "volume": "2", "number": "1"},
+       "title": "By These Presents",
+       "note": "Title as given in copyright renewal record, a separate record from the record giving the title above.  FictionMags reports the only story by Kuttner in this issue to be 'Satan Sends Flowers'.  ISFDB reports 'By These Presents' as a variant title for the story titled 'Satan Sends Flowers'.",
+       "author": {
+         "authorized": "Kuttner, Henry",
+         "lcna": "n50061631"
+       }
+      },
+     {"issue": {"issue-date": "1953-January-February", "volume": "2", "number": "1"},
+       "title": "The Lighthouse",
+       "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+       }
+     },
+     {"issue": {"issue-date": "1953-March-April", "volume": "2", "number": "2"},
+      "title": "The Cold Green Eye",
+       "author": {
+        "authorized": "Williamson, Jack, 1908-2006",
+        "lcna": "n79027136"
+      }
+     },
+     {"issue": {"issue-date": "1953-March-April", "volume": "2", "number": "2"},
+        "title": "Root of Evil",
+        "author": {
+         "authorized": "Jackson, Shirley, 1916-1965",
+         "lcna": "n79125801"
+        }
+     },
+     {"issue": {"issue-date": "1953-March-April", "volume": "2", "number": "2"},
+      "title": "Three Wishes",
+      "author": {
+       "authorized": "Anderson, Poul, 1926-2001",
+       "lcna": "n79044004"
+      }
+     },
+     {"issue": {"issue-date": "1953-May-June", "volume": "2", "number": "3"},
+      "title": "Johnny Pye and the Fool Killer",
+      "note": "While there was no renewal filed for this reprinting of the story, there is an active copyright renewal for its first publication, in the September 18, 1937 issue of the Saturday Evening Post.",
+      "author": {
+       "authorized": "Benét, Stephen Vincent, 1898-1943",
+       "lcna": "n50007691"
+      }
+     },
+     {"issue": {"issue-date": "1953-July-August", "volume": "2", "number": "4"},
+      "title": "Four Men and a Suitcase",
+      "author": {
+        "authorized": "Robin, Ralph",
+        "lcna": "n94042713"
+      }
+     },
+     {"issue": {"issue-date": "1953-July-August", "volume": "2", "number": "4"}, 
+      "title": "The Dark Room",
+      "author": {
+        "authorized": "Sturgeon, Theodore",
+        "lcna": "n80066908"
+      }
+     },
+     {"issue": {"issue-date": "1953-September-October", "volume": "2", "number": "5"}, 
+      "title": "Wolf Pack",
+      "author": {
+        "authorized": "Miller, Walter M., Jr., 1923-1996",
+        "lcna": "n81120378"
+      }
+     },
+     {"issue": {"issue-date": "1953-September-October", "volume": "2", "number": "5"}, 
+      "title": "A Great Day for the Amorous",
+      "author": {
+        "authorized": "Robin, Ralph",
+        "lcna": "n94042713"
+      }
+     },
+     {"issue": {"issue-date": "1953-September-October", "volume": "2", "number": "5"}, 
+      "title": "Mother by Protest",
+      "note": "A renewal record for 'Trespass a.k.a. Mother by Protest' by Matheson says that it ran in the September-October 1953 issue of Fantastic Story magazine.  There is no such issue of that magazine, and the closest match we can find to the story designation is this story in this issue.",
+      "author": {
+       "authorized": "Matheson, Richard, 1926-2013",
+       "lcna": "n79068485"
+      }
+     },
+    {"issue": {"issue-date": "1953-November-December", "volume": "2", "number": "6"},
+     "title": "Let's Do it for Love",
+     "author": {
+        "authorized": "Bloch, Robert, 1917-1994",
+        "lcna": "n50016557"
+     }
+    },
+    {"issue": {"issue-date": "1953-November-December", "volume": "2", "number": "6"},
+     "title": "The Wrong People",
+     "author": {
+       "authorized": "Robin, Ralph",
+      "lcna": "n94042713"
+     }
+    },
+    {"issue": {"issue-date": "1954-04", "volume": "3", "number": "2"},
+      "title": "Mister Steinway",
+      "author": {
+         "authorized": "Bloch, Robert, 1917-1994",
+         "lcna": "n50016557"
+      }
+     },
+     {"issue": {"issue-date": "1954-06", "volume": "3", "number": "3"}, 
+      "title": "The Hungry",
+      "author": {
+        "authorized": "Sheckley, Robert, 1928-2005",
+        "lcna": "n50022137"
+       }
+     },
+     {"issue": {"issue-date": "1954-06", "volume": "3", "number": "3"}, 
+      "title": "The Curious Child",
+      "author": {
+       "authorized": "Matheson, Richard, 1926-2013",
+       "lcna": "n79068485"
+      }
+     },
+     {"issue": {"issue-date": "1954-12", "volume": "3", "number": "6"},
+      "title": "The Courtship of 53 Shotl 9 G",
+      "author": {
+        "authorized": "Russell, Eric Frank, 1905-1978",
+        "using": "Niall Wilde",
+        "lcna": "n81062502"
+      }
+     },
+      {"issue": {"issue-date": "1955-02", "volume": "4", "number": "1"}, 
+       "title": "The End of the Line",
+        "author": {
+          "authorized": "Scortia, Thomas N., 1926-1986",
+          "lcna": "n79123622"
+       }
+      },
+      {"issue": {"issue-date": "1955-04", "volume": "4", "number": "2"}, 
+       "title": "Killer in the Crib",
+       "author": {
+        "authorized": "Wilson, Richard, 1920-1987",
+        "lcna": "n88059447"
+       }
+      },
+      {"issue": {"issue-date": "1955-08", "volume": "4", "number": "4"},
+       "title": "Occupation Force",
+       "author": {
+        "authorized": "Herbert, Frank",
+        "lcna": "n80044450"
+       }
+      },
+     {"issue": {"issue-date": "1956-08", "volume": "5", "number": "4"},
+      "title": "Guardian of the Crystal Gate",
+      "author": {
+        "authorized": "Silverberg, Robert",
+        "lcna": "n80126000"
+      }
+     },
+     {"issue": {"issue-date": "1956-08", "volume": "5", "number": "4"},
+      "title": "O Captain, My Captain",
+      "author": {
+        "authorized": "Silverberg, Robert",
+        "using": "Ivar Jorgensen",
+        "lcna": "n80126000"
+      }
+     },
+     {"issue": {"issue-date": "1956-08", "volume": "5", "number": "4"},
+      "title": "The Slow and the Dead",
+      "author": {
+        "authorized": "Silverberg, Robert",
+        "using": "Robert Randall",
+        "lcna": "n80126000"
+      }
+     },
+     {"issue": {"issue-date": "1956-08", "volume": "5", "number": "4"},
+      "title": "Revolt of the Synthetics",
+      "author": {
+        "authorized": "Silverberg, Robert",
+        "using": "Ralph Burke",
+        "lcna": "n80126000"
+      }
+     },
+      {"issue": {"issue-date": "1956-10", "volume": "5", "number": "5"},
+       "title": "The Pint Sized Genie",
+       "author": {
+        "authorized": "Wilhelm, Kate",
+        "lcna": "n78092017"
+       }
+      },
+     {"issue": {"issue-date": "1956-12", "volume": "5", "number": "6"},
+      "title": "Death Rattle",
+      "author": {
+        "authorized": "Slesar, Henry",
+        "using": "O. H. Leslie",
+        "lcna": "n87844215"
+      }
+     },
+     {"issue": {"issue-date": "1956-12", "volume": "5", "number": "6"},
+      "title": "Coward's Death",
+      "author": {
+        "authorized": "Slesar, Henry",
+        "using": "Ivar Jorgensen",
+        "lcna": "n87844215"
+      }
+     },
+     {"issue": {"issue-date": "1956-12", "volume": "5", "number": "6"},
+      "title": "Choke Chain",
+      "author": {
+        "authorized": "Silverberg, Robert",
+        "lcna": "n80126000"
+      }
+     },
+     {"issue": {"issue-date": "1956-12", "volume": "5", "number": "6"},
+      "title": "The Chimp",
+      "author": {
+        "authorized": "Slesar, Henry",
+        "lcna": "n87844215"
+      }
+     },
+     {"issue": {"issue-date": "1957-01", "volume": "6", "number": "1"},
+      "title": "World of Women",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1957-05", "volume": "6", "number": "4"},
+      "title": "Satan is My Ally",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1957-05", "volume": "6", "number": "4"},
+      "title": "Mourners for Hire",
+      "note": "Renewal record also gives additional title 'We Mourn for Anyone'.",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "using": "Ellis Hart",
+        "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1957-07", "volume": "6", "number": "6"}, 
+      "title": "Change of Venue",
+      "author": {
+       "authorized": "Wilson, Richard, 1920-1987",
+       "lcna": "n88059447"
+      }
+     },
+     {"issue": {"issue-date": "1957-08", "volume": "6", "number": "7"},
+      "title": "Coffin Run",
+      "note": "Renewal record says that it appears in the August 1957 issue of Fantastic Universe, but it actually ran in the August 1957 issue of this magazine.",
+      "author": {
+        "authorized": "Correy, Lee, 1928-1997",
+        "lcna": "no97043957"
+      }
+     },
+     {"issue": {"issue-date": "1957-08", "volume": "6", "number": "7"},
+      "title": "Phoenix Treatment",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1957-09", "volume": "6", "number": "8"},
+      "title": "The Cave of Miracles",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1957-09", "volume": "6", "number": "8"},
+      "title": "Damn the Metal Moon",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "using": "Ellis Hart",
+        "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1957-10", "volume": "6", "number": "9"},
+      "title": "The Moon Stealers",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "using": "E. K. Jarvis",
+        "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1957-10", "volume": "6", "number": "9"},
+      "title": "March of the Yellow Death",
+      "note": "Renewal record also gives additional title 'Battle Accommodations'.",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "using": "Ellis Hart",
+        "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1957-11", "volume": "6", "number": "10"},
+      "title": "The Wife Factory",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "using": "Clyde Mitchell",
+        "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1957-12", "volume": "6", "number": "11"},
+      "title": "If This be Utopia",
+      "note": "Renewal record also gives additional title 'The Rarest Rareie'.",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "using": "E. K. Jarvis",
+        "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1957-12", "volume": "6", "number": "11"},
+      "title": "Pot-Luck Genii",
+      "note": "Renewal record also gives additional title 'A Genie Can Be Hell'.",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "using": "Ellis Hart",
+        "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1957-12", "volume": "6", "number": "11"},
+      "title": "Revolt of the Shadows",
+      "note": "Renewal record also gives additional title 'The Shadow Revolt'.",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1958-01", "volume": "7", "number": "1"},
+      "title": "A Furnace for Your Foe",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "using": "Ellis Hart",
+        "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1958-02", "volume": "7", "number": "2"},
+      "title": "Jewel of Ecstasy",
+      "author": {
+        "authorized": "Slesar, Henry",
+        "lcna": "n87844215"
+      }
+     },
+     {"issue": {"issue-date": "1958-02", "volume": "7", "number": "2"},
+      "title": "Danger, Red!",
+      "author": {
+        "authorized": "Slesar, Henry",
+        "using": "O. H. Leslie",
+        "lcna": "n87844215"
+      }
+     },
+     {"issue": {"issue-date": "1958-03", "volume": "7", "number": "3"},
+      "title": "The Genie Takes a Wife",
+      "author": {
+        "authorized": "Slesar, Henry",
+        "lcna": "n87844215"
+      }
+     },
+     {"issue": {"issue-date": "1958-03", "volume": "7", "number": "3"},
+      "title": "Let's Repeal Love",
+      "author": {
+        "authorized": "Slesar, Henry",
+        "using": "Lee Saber",
+        "lcna": "n87844215"
+      }
+     },
+     {"issue": {"issue-date": "1958-03", "volume": "7", "number": "3"},
+      "title": "Search for Murphy's Bride",
+      "author": {
+        "authorized": "Slesar, Henry",
+        "using": "O. H. Leslie",
+        "lcna": "n87844215"
+      }
+     },
+     {"issue": {"issue-date": "1958-03", "volume": "7", "number": "3"},
+      "title": "The Lavendar Talent",
+      "note": "Title as spelled in online renewal record.  FictionMags gives title as 'The Lavender Talent'. We have not examined the issue in question.",
+      "author": {
+        "authorized": "Slesar, Henry",
+        "using": "Gerald Vance",
+        "lcna": "n87844215"
+      }
+     },
+     {"issue": {"issue-date": "1958-04", "volume": "7", "number": "4"},
+      "title": "The Creeping Coffins of Barbados",
+      "author": {
+        "authorized": "Russell, Eric Frank, 1905-1978",
+        "lcna": "n81062502"
+      }
+     },
+     {"issue": {"issue-date": "1958-05", "volume": "7", "number": "5"},
+      "title": "The Invisible Man Murder Case",
+      "author": {
+        "authorized": "Slesar, Henry",
+        "lcna": "n87844215"
+      }
+     },
+     {"issue": {"issue-date": "1958-05", "volume": "7", "number": "5"},
+       "title": "Two by Two",
+       "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "using": "E. K. Jarvis",
+          "lcna": "n50016557"
+       }
+      },
+     {"issue": {"issue-date": "1958-05", "volume": "7", "number": "5"},
+       "title": "Spawn of the Dark One",
+       "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+       }
+     },
+     {"issue": {"issue-date": "1958-05", "volume": "7", "number": "5"},
+      "title": "The Riddle of Levitation",
+      "author": {
+        "authorized": "Russell, Eric Frank, 1905-1978",
+        "lcna": "n81062502"
+      }
+     },
+     {"issue": {"issue-date": "1958-06", "volume": "7", "number": "6"},
+       "title": "The Terror in Cut-Throat Cove",
+       "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+       }
+     },
+     {"issue": {"issue-date": "1958-06", "volume": "7", "number": "6"},
+      "title": "The Madder They Come",
+      "author": {
+       "authorized": "Biggle, Lloyd, Jr., 1923-2002",
+       "lcna": "n79084085"
+      }
+     },
+     {"issue": {"issue-date": "1958-06", "volume": "7", "number": "6"},
+      "title": "Neosho's Choicest",
+      "author": {
+        "authorized": "Gunn, James E., 1923-2020",
+        "lcna": "n79068460"
+       }
+     },
+     {"issue": {"issue-date": "1958-06", "volume": "7", "number": "6"},
+       "title": "Hungarian Rhapsody",
+       "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "using": "Wilson Kane",
+          "lcna": "n50016557"
+       }
+     },
+     {"issue": {"issue-date": "1958-06", "volume": "7", "number": "6"},
+      "title": "The Ship That Vanished",
+      "author": {
+        "authorized": "Russell, Eric Frank, 1905-1978",
+        "lcna": "n81062502"
+      }
+     },
+     {"issue": {"issue-date": "1958-08", "volume": "7", "number": "8"},
+      "title": "The Girl Who Played Wolf",
+      "author": {
+       "authorized": "Dickson, Gordon R.",
+       "lcna": "n79109204"
+      }
+     },
+     {"issue": {"issue-date": "1958-08", "volume": "7", "number": "8"},
+      "title": "Satan's Footprints",
+      "author": {
+        "authorized": "Russell, Eric Frank, 1905-1978",
+        "lcna": "n81062502"
+      }
+     },
+     {"issue": {"issue-date": "1958-10", "volume": "7", "number": "10"},
+      "title": "Suicide World",
+      "note": "Renewal record also gives additional title 'Waste'.",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1958-10", "volume": "7", "number": "10"},
+      "title": "Who Stole My Mind?",
+      "note": "Title as given in online renewal record.  FictionMags gives title as 'Who Steals My Mind...'.  We have not examined the issue in question.",
+      "author": {
+       "authorized": "Biggle, Lloyd, Jr., 1923-2002",
+       "lcna": "n79084085"
+      }
+     },
+     {"issue": {"issue-date": "1958-10", "volume": "7", "number": "10"},
+       "title": "A Lesson for the Teacher",
+       "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+       }
+     },
+     {"issue": {"issue-date": "1958-11", "volume": "7", "number": "11"},
+       "title": "F. O. B. Venus",
+       "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+       }
+     },
+     {"issue": {"issue-date": "1958-12", "volume": "7", "number": "12"},
+      "title": "The Eleventh Plague",
+      "author": {
+        "authorized": "Slesar, Henry",
+        "lcna": "n87844215"
+      }
+     },
+     {"issue": {"issue-date": "1959-01", "volume": "8", "number": "1"},
+       "title": "The Screaming People",
+       "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+       }
+     },
+     {"issue": {"issue-date": "1959-02", "volume": "8", "number": "2"},
+      "title": "Like Father, Like Son",
+      "author": {
+        "authorized": "Slesar, Henry",
+        "lcna": "n87844215"
+      }
+     },
+     {"issue": {"issue-date": "1959-03", "volume": "8", "number": "3"},
+      "title": "What Crouches in the Deep?",
+      "note": "Online renewal record is for a group of contributions, including this one, credited to Arthur and Irwin Porges.  FictionMags credits only Arthur for this contribution.",
+      "author": {
+        "authorized": "Porges, Arthur, 1915-2006",
+        "lcna": "no2010083924"
+      }
+     },
+     {"issue": {"issue-date": "1959-04", "volume": "8", "number": "4"},
+      "title": "The Abnormals",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1959-04", "volume": "8", "number": "4"},
+      "title": "After the Funeral",
+      "author": {
+       "authorized": "Dickson, Gordon R.",
+       "lcna": "n79109204"
+      }
+     },
+     {"issue": {"issue-date": "1959-04", "volume": "8", "number": "4"},
+      "title": "Hear a Pin Drop",
+      "author": {
+       "authorized": "Wellen, Edward",
+       "lcna": "n93021387"
+      }
+     },
+     {"issue": {"issue-date": "1959-04", "volume": "8", "number": "4"},
+      "title": "The Ecstasy of It",
+      "author": {
+       "authorized": "Wilhelm, Kate",
+       "lcna": "n78092017"
+      }
+     },
+     {"issue": {"issue-date": "1959-04", "volume": "8", "number": "4"},
+      "title": "A Touch of Sun",
+      "authors": [
+        {"authorized": "Porges, Arthur, 1915-2006",
+         "lcna": "no2010083924"},
+        {"name": "Irwin Porges"}
+      ]
+     },
+     {"issue": {"issue-date": "1959-05", "volume": "8", "number": "5"},
+       "title": "The Hungry Eye",
+       "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+       }
+     },
+     {"issue": {"issue-date": "1959-05", "volume": "8", "number": "5"},
+      "title": "Guardian Devil",
+      "author": {
+        "authorized": "Silverberg, Robert",
+        "lcna": "n80126000"
+      }
+     },
+     {"issue": {"issue-date": "1959-05", "volume": "8", "number": "5"},
+      "title": "More Like Home",
+      "author": {
+        "name": "Raymond E. Banks"
+      }
+     },
+     {"issue": {"issue-date": "1959-06", "volume": "8", "number": "6"},
+      "title": "The Fife of Bodidharma",
+      "author": {
+        "authorized": "Smith, Cordwainer, 1913-1966",
+        "lcna": "n81083063"
+      }
+     },
+     {"issue": {"issue-date": "1959-06", "volume": "8", "number": "6"},
+      "title": "The Worth of Man",
+      "note": "Title as given in online renewal record. FictionMags gives title as 'The Worth of a Man'.  We have not examined the issue in question.",
+      "author": {
+        "authorized": "Slesar, Henry",
+        "lcna": "n87844215"
+      }
+     },
+     {"issue": {"issue-date": "1959-07", "volume": "8", "number": "7"},
+      "title": "The Forerunner",
+      "note": "Online renewal record is for a group of contributions, including this one, credited to Arthur and Irwin Porges.  FictionMags credits only Arthur for this contribution.",
+      "author": {
+        "authorized": "Porges, Arthur, 1915-2006",
+        "lcna": "no2010083924"
+      }
+     },
+     {"issue": {"issue-date": "1959-08", "volume": "8", "number": "8"},
+      "title": "The Shakespeare Manuscript",
+      "note": "Online renewal record is for a group of contributions, including this one, credited to Arthur and Irwin Porges.  FictionMags credits only Arthur for this contribution.",
+      "author": {
+        "authorized": "Porges, Arthur, 1915-2006",
+        "lcna": "no2010083924"
+      }
+     },
+     {"issue": {"issue-date": "1959-09", "volume": "8", "number": "9"},
+      "title": "The Toy",
+      "author": {
+        "authorized": "Slesar, Henry",
+        "lcna": "n87844215"
+      }
+     },
+     {"issue": {"issue-date": "1959-12", "volume": "8", "number": "12"},
+      "title": "A Message in Secret",
+      "author": {
+       "authorized": "Anderson, Poul, 1926-2001",
+       "lcna": "n79044004"
+      }
+     },
+     {"issue": {"issue-date": "1959-12", "volume": "8", "number": "12"},
+      "title": "The Clone",
+      "author": {
+        "authorized": "Thomas, Theodore L.",
+        "lcna": "n86064977"
+      }
+     },
+     {"issue": {"issue-date": "1959-12", "volume": "8", "number": "12"},
+      "title": "Was She Horrid?",
+      "author": {
+        "authorized": "Bunch, David R.",
+        "lcna": "no98121068"
+      }
+     },
+     {"issue": {"issue-date": "1960-01", "volume": "9", "number": "1"},
+       "title": "The Funnel of God",
+       "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+       }
+     },
+     {"issue": {"issue-date": "1960-01", "volume": "9", "number": "1"},
+      "title": "The Complete Father",
+      "author": {
+        "authorized": "Bunch, David R.",
+        "lcna": "no98121068"
+      }
+     },
+     {"issue": {"issue-date": "1960-02", "volume": "9", "number": "2"},
+      "title": "The Priests of Psi",
+      "note": "Title as given on issue cover. CCE renewal record gives title as 'Priest of Psi'.",
+      "author": {
+       "authorized": "Herbert, Frank",
+       "lcna": "n80044450"
+      }
+     },
+     {"issue": {"issue-date": "1960-02", "volume": "9", "number": "2"},
+      "title": "In the Complaints Service",
+      "author": {
+        "authorized": "Bunch, David R.",
+        "lcna": "no98121068"
+      }
+     },
+     {"issue": {"issue-date": "1960-02", "volume": "9", "number": "2"},
+      "title": "Off His Rocker",
+      "author": {
+        "authorized": "Porges, Arthur, 1915-2006",
+        "lcna": "no2010083924"
+      }
+     },
+     {"issue": {"issue-date": "1960-03", "volume": "9", "number": "3"},
+      "title": "Strange Shape in the Stronghold",
+      "author": {
+        "authorized": "Bunch, David R.",
+        "lcna": "no98121068"
+      }
+     },
+     {"issue": {"issue-date": "1960-03", "volume": "9", "number": "3"},
+      "title": "The Botticelli Horror",
+      "author": {
+       "authorized": "Biggle, Lloyd, Jr., 1923-2002",
+       "lcna": "n79084085"
+      }
+     },
+     {"issue": {"issue-date": "1960-04", "volume": "9", "number": "4"},
+      "title": "The Closest School",
+      "author": {
+        "authorized": "Henderson, Zenna",
+        "lcna": "n50025301"
+      }
+     },
+     {"issue": {"issue-date": "1960-04", "volume": "9", "number": "4"},
+      "title": "The Summer Visitors",
+      "author": {
+       "authorized": "Dickson, Gordon R.",
+       "lcna": "n79109204"
+      }
+     },
+     {"issue": {"issue-date": "1960-04", "volume": "9", "number": "4"},
+      "title": "Eve Times Four",
+      "author": {
+       "authorized": "Anderson, Poul, 1926-2001",
+       "lcna": "n79044004"
+      }
+     },
+     {"issue": {"issue-date": "1960-05", "volume": "9", "number": "5"},
+      "title": "A Study in Horror: The Eerie Life of H.P. Lovecraft",
+      "author": {
+        "authorized": "Moskowitz, Sam",
+        "lcna": "n50007974"
+      }
+     },
+     {"issue": {"issue-date": "1960-06", "volume": "9", "number": "6"},
+      "title": "Olaf Stapledon: Cosmic Philosopher",
+      "author": {
+        "authorized": "Moskowitz, Sam",
+        "lcna": "n50007974"
+      }
+     },
+     {"issue": {"issue-date": "1960-06", "volume": "9", "number": "6"},
+      "title": "The Fiftieth Year of April",
+      "author": {
+        "authorized": "Porges, Arthur, 1915-2006",
+        "lcna": "no2010083924"
+      }
+     },
+     {"issue": {"issue-date": "1960-07", "volume": "9", "number": "7"},
+      "title": "Karel Capek: The Man Who Invented Robots",
+      "author": {
+        "authorized": "Moskowitz, Sam",
+        "lcna": "n50007974"
+      }
+     },
+     {"issue": {"issue-date": "1960-08", "volume": "9", "number": "8"},
+       "title": "The World-Timer",
+       "author": {
+          "authorized": "Bloch, Robert, 1917-1994",
+          "lcna": "n50016557"
+       }
+     },
+     {"issue": {"issue-date": "1960-08", "volume": "9", "number": "8"},
+      "title": "Shiel and Heard: The Neglected Thinkers of SF",
+      "author": {
+        "authorized": "Moskowitz, Sam",
+        "lcna": "n50007974"
+      }
+     },
+     {"issue": {"issue-date": "1960-08", "volume": "9", "number": "8"},
+      "title": "This One's On Me",
+      "author": {
+        "authorized": "Russell, Eric Frank, 1905-1978",
+        "lcna": "n81062502"
+      }
+     },
+     {"issue": {"issue-date": "1960-08", "volume": "9", "number": "8"},
+      "title": "The Crime of Mr. Sauer",
+      "author": {
+        "authorized": "Porges, Arthur, 1915-2006",
+        "lcna": "no2010083924"
+      }
+     },
+     {"issue": {"issue-date": "1960-09", "volume": "9", "number": "9"},
+      "title": "The Shadowsmith",
+      "author": {
+        "authorized": "Porges, Arthur, 1915-2006",
+        "lcna": "no2010083924"
+      }
+     },
+     {"issue": {"issue-date": "1960-09", "volume": "9", "number": "9"},
+      "title": "The Man Who Wasn't Home",
+      "author": {
+       "authorized": "Biggle, Lloyd, Jr., 1923-2002",
+       "lcna": "n79084085"
+      }
+     },
+     {"issue": {"issue-date": "1960-09", "volume": "9", "number": "9"},
+      "title": "Philip Wylie: The Saccharine Cynic",
+      "author": {
+        "authorized": "Moskowitz, Sam",
+        "lcna": "n50007974"
+      }
+     },
+     {"issue": {"issue-date": "1960-09", "volume": "9", "number": "9"},
+      "title": "Who is Mrs. Myob?",
+      "author": {
+        "authorized": "Slesar, Henry",
+        "lcna": "n87844215"
+      }
+     },
+     {"issue": {"issue-date": "1960-10", "volume": "9", "number": "10"},
+      "title": "The Seats of Hell",
+      "author": {
+       "authorized": "Dickson, Gordon R.",
+       "lcna": "n79109204"
+      }
+     },
+     {"issue": {"issue-date": "1960-10", "volume": "9", "number": "10"},
+      "title": "A Husband's Share",
+      "author": {
+        "authorized": "Bunch, David R.",
+        "lcna": "no98121068"
+      }
+     },
+     {"issue": {"issue-date": "1960-11", "volume": "9", "number": "11"},
+      "title": "Donor",
+      "author": {
+        "authorized": "Gunn, James E., 1923-2020",
+        "lcna": "n79068460"
+       }
+     },
+     {"issue": {"issue-date": "1960-11", "volume": "9", "number": "11"},
+      "title": "A Diversion for the Baron",
+      "author": {
+        "authorized": "Porges, Arthur, 1915-2006",
+        "lcna": "no2010083924"
+      }
+     },
+     {"issue": {"issue-date": "1960-11", "volume": "9", "number": "11"},
+      "title": "A World to Choose",
+      "author": {
+       "authorized": "Anderson, Poul, 1926-2001",
+       "lcna": "n79044004"
+      }
+     },
+     {"issue": {"issue-date": "1960-11", "volume": "9", "number": "11"},
+      "title": "Long Shot",
+      "author": {
+        "authorized": "Slesar, Henry",
+        "lcna": "n87844215"
+      }
+     },
+     {"issue": {"issue-date": "1960-12", "volume": "9", "number": "12"},
+      "title": "The Melanas",
+      "author": {
+        "authorized": "Porges, Arthur, 1915-2006",
+        "lcna": "no2010083924"
+      }
+     },
+     {"issue": {"issue-date": "1960-12", "volume": "9", "number": "12"},
+      "title": "Summons of the Void",
+      "author": {
+        "authorized": "Galouye, Daniel F.",
+        "lcna": "no99085263"
+      }
+     },
+     {"issue": {"issue-date": "1961-02", "volume": "10", "number": "2"},
+      "title": "The Other Side",
+      "author": {
+        "authorized": "Porges, Arthur, 1915-2006",
+        "lcna": "no2010083924"
+      }
+     },
+     {"issue": {"issue-date": "1961-02", "volume": "10", "number": "2"},
+      "title": "We Regret",
+      "author": {
+        "authorized": "Bunch, David R.",
+        "lcna": "no98121068"
+      }
+     },
+     {"issue": {"issue-date": "1961-03", "volume": "10", "number": "3"},
+      "title": "The Big Blow-Up",
+      "author": {
+        "authorized": "Galouye, Daniel F.",
+        "lcna": "no99085263"
+      }
+     },
+     {"issue": {"issue-date": "1961-03", "volume": "10", "number": "3"},
+      "title": "Last Zero",
+      "author": {
+        "authorized": "Bunch, David R.",
+        "lcna": "no98121068"
+      }
+     },
+     {"issue": {"issue-date": "1961-04", "volume": "10", "number": "4"},
+      "title": "Descent Into the Maelstrom",
+      "author": {
+        "authorized": "Galouye, Daniel F.",
+        "lcna": "no99085263"
+      }
+     },
+     {"issue": {"issue-date": "1961-04", "volume": "10", "number": "4"},
+      "title": "Discoverers",
+      "author": {
+        "authorized": "Slesar, Henry",
+        "lcna": "n87844215"
+      }
+     },
+     {"issue": {"issue-date": "1961-05", "volume": "10", "number": "5"},
+      "title": "Introduction to 'The Garden of Fear' by Robert E. Howard",
+      "author": {
+        "authorized": "Moskowitz, Sam",
+        "lcna": "n50007974"
+      }
+     },
+     {"issue": {"issue-date": "1961-05", "volume": "10", "number": "5"},
+      "title": "The Problem Was Lubrication",
+      "author": {
+        "authorized": "Bunch, David R.",
+        "lcna": "no98121068"
+      }
+     },
+     {"issue": {"issue-date": "1961-05", "volume": "10", "number": "5"},
+      "title": "The Arrogant Vampire",
+      "author": {
+        "authorized": "Porges, Arthur, 1915-2006",
+        "lcna": "no2010083924"
+      }
+     },
+     {"issue": {"issue-date": "1961-06", "volume": "10", "number": "6"},
+      "title": "A Small Miracle of Fishhooks and Straight Pins",
+      "author": {
+        "authorized": "Bunch, David R.",
+        "lcna": "no98121068"
+      }
+     },
+     {"issue": {"issue-date": "1961-06", "volume": "10", "number": "6"},
+      "title": "Introduction to 'The Cosmic Relic' by E. F. Russell",
+      "author": {
+        "authorized": "Moskowitz, Sam",
+        "lcna": "n50007974"
+      }
+     },
+     {"issue": {"issue-date": "1961-06", "volume": "10", "number": "6"},
+      "title": "The Cosmic Relic",
+      "author": {
+        "authorized": "Russell, Eric Frank, 1905-1978",
+        "lcna": "n81062502"
+      }
+     },
+     {"issue": {"issue-date": "1961-06", "volume": "10", "number": "6"},
+      "title": "One Bad Habit",
+      "author": {
+        "authorized": "Porges, Arthur, 1915-2006",
+        "lcna": "no2010083924"
+      }
+     },
+     {"issue": {"issue-date": "1961-07", "volume": "10", "number": "7"},
+      "title": "Introduction to 'The Creator' by Clifford D. Simak",
+      "author": {
+        "authorized": "Moskowitz, Sam",
+        "lcna": "n50007974"
+      }
+     },
+     {"issue": {"issue-date": "1961-07", "volume": "10", "number": "7"},
+      "title": "Solomon's Demon",
+      "author": {
+        "authorized": "Porges, Arthur, 1915-2006",
+        "lcna": "no2010083924"
+      }
+     },
+     {"issue": {"issue-date": "1961-08", "volume": "10", "number": "8"},
+      "title": "Introduction to 'The Root of Ampoi' by Clark Ashton Smith",
+      "author": {
+        "authorized": "Moskowitz, Sam",
+        "lcna": "n50007974"
+      }
+     },
+     {"issue": {"issue-date": "1961-08", "volume": "10", "number": "8"},
+      "title": "Goodbye Atlantis!",
+      "author": {
+       "authorized": "Anderson, Poul, 1926-2001",
+       "lcna": "n79044004"
+      }
+     },
+     {"issue": {"issue-date": "1961-08", "volume": "10", "number": "8"},
+      "title": "Passage to Malish",
+      "author": {
+        "authorized": "Thomas, Theodore L.",
+        "lcna": "n86064977"
+      }
+     },
+     {"issue": {"issue-date": "1961-08", "volume": "10", "number": "8"},
+      "title": "Policeman's Lot",
+      "author": {
+        "authorized": "Slesar, Henry",
+        "lcna": "n87844215"
+      }
+     },
+     {"issue": {"issue-date": "1961-09", "volume": "10", "number": "9"},
+      "title": "Introduction to 'Ship of Darkness' by A. E. Van Vogt",
+      "author": {
+        "authorized": "Moskowitz, Sam",
+        "lcna": "n50007974"
+      }
+     },
+     {"issue": {"issue-date": "1961-09", "volume": "10", "number": "9"},
+      "title": "The Trekkers",
+      "author": {
+        "authorized": "Galouye, Daniel F.",
+        "lcna": "no99085263"
+      }
+     },
+     {"issue": {"issue-date": "1961-10", "volume": "10", "number": "10"},
+      "title": "Introduction to 'The Mother' by David H. Keller",
+      "author": {
+        "authorized": "Moskowitz, Sam",
+        "lcna": "n50007974"
+      }
+     },
+     {"issue": {"issue-date": "1961-10", "volume": "10", "number": "10"},
+      "title": "A Cabbage Named Sam",
+      "author": {
+        "authorized": "Jakes, John, 1932-",
+        "lcna": "n80035843"
+      }
+     },
+     {"issue": {"issue-date": "1961-11", "volume": "10", "number": "11"},
+      "title": "Introduction to 'To Heaven Standing Up' by Paul Ernst",
+      "author": {
+        "authorized": "Moskowitz, Sam",
+        "lcna": "n50007974"
+      }
+     },
+     {"issue": {"issue-date": "1961-11", "volume": "10", "number": "11"},
+      "title": "The Living End",
+      "author": {
+        "authorized": "Slesar, Henry",
+        "lcna": "n87844215"
+      }
+     },
+     {"issue": {"issue-date": "1961-12", "volume": "10", "number": "12"},
+      "title": "Spawn of Doom",
+      "author": {
+        "authorized": "Galouye, Daniel F.",
+        "lcna": "no99085263"
+      }
+     },
+     {"issue": {"issue-date": "1961-12", "volume": "10", "number": "12"},
+      "title": "Introduction to 'The Dead Remember' by Robert E. Howard",
+      "author": {
+        "authorized": "Moskowitz, Sam",
+        "lcna": "n50007974"
+      }
+     },
+     {"issue": {"issue-date": "1962-01", "volume": "11", "number": "1"},
+      "title": "Introduction to 'The Human Zero' by Erle Stanley Gardner",
+      "author": {
+        "authorized": "Moskowitz, Sam",
+        "lcna": "n50007974"
+      }
+     },
+     {"issue": {"issue-date": "1962-02", "volume": "11", "number": "2"},
+      "title": "Introduction to 'The Shadow Out of Space' by H. P. Lovecraft and August Derleth",
+      "author": {
+        "authorized": "Moskowitz, Sam",
+        "lcna": "n50007974"
+      }
+     },
+     {"issue": {"issue-date": "1962-03", "volume": "11", "number": "3"},
+      "title": "Joyleg",
+      "title-note": "part 1 of 2",
+      "authors": [
+       {"authorized": "Moore, Ward, 1903-1978", "lcna": "n84221928"},
+       {"authorized": "Davidson, Avram", "lcna": "n79022856"}
+      ]
+     },
+     {"issue": {"issue-date": "1962-03", "volume": "11", "number": "3"},
+      "title": "Introduction to 'Darkness on Fifth Avenue' by Murray Leinster",
+      "author": {
+        "authorized": "Moskowitz, Sam",
+        "lcna": "n50007974"
+      }
+     },
+     {"issue": {"issue-date": "1962-04", "volume": "11", "number": "4"},
+      "title": "Joyleg",
+      "title-note": "part 2 of 2",
+      "authors": [
+       {"authorized": "Moore, Ward, 1903-1978", "lcna": "n84221928"},
+       {"authorized": "Davidson, Avram", "lcna": "n79022856"}
+      ]
+     },
+     {"issue": {"issue-date": "1962-04", "volume": "11", "number": "4"},
+      "title": "Introduction to 'Non-Stop to Mars' by Jack Williamson",
+      "author": {
+        "authorized": "Moskowitz, Sam",
+        "lcna": "n50007974"
+      }
+     },
+     {"issue": {"issue-date": "1962-05", "volume": "11", "number": "5"},
+      "title": "The Survey Trip",
+      "author": {
+        "authorized": "Bunch, David R.",
+        "lcna": "no98121068"
+      }
+     },
+     {"issue": {"issue-date": "1962-05", "volume": "11", "number": "5"},
+      "title": "Introduction to 'The Past Master' by Robert Bloch",
+      "note": "Issue as designated in online CCE renewal record.  However, FictionMags places 'The Past Master' in the June 1962 issue rather than the May 1962 issue, so this introduction might have appeared there instead. We have not examined the issues in question.",
+      "author": {
+        "authorized": "Moskowitz, Sam",
+        "lcna": "n50007974"
+      }
+     },
+     {"issue": {"issue-date": "1962-06", "volume": "11", "number": "6"},
+      "title": "Ended",
+      "author": {
+        "authorized": "Bunch, David R.",
+        "lcna": "no98121068"
+      }
+     },
+     {"issue": {"issue-date": "1962-06", "volume": "11", "number": "6"},
+      "title": "Shield",
+      "title-note": "part 1 of 2?",
+      "author": {
+       "authorized": "Anderson, Poul, 1926-2001",
+       "lcna": "n79044004"
+      }
+     },
+     {"issue": {"issue-date": "1962-06", "volume": "11", "number": "6"},
+      "title": "Introduction to 'The Past Master' by Robert Bloch",
+      "note": "This is the issue in which 'The Past Master' appeared, according to FictionMags, so it might be where this introduction appeared, despite the designation in its online CCE renewal record.  We have not examined the issues in question.",
+      "author": {
+        "authorized": "Moskowitz, Sam",
+        "lcna": "n50007974"
+      }
+     },
+     {"issue": {"issue-date": "1962-07", "volume": "11", "number": "7"},
+      "title": "The Singing Statues",
+      "author": {
+       "authorized": "Ballard, J. G., 1930-2009",
+       "lcna": "n79043442"
+      }
+     },
+     {"issue": {"issue-date": "1962-07", "volume": "11", "number": "7"},
+      "title": "Introduction to 'The Dragon of Iskander' by Nat Schachner",
+      "author": {
+        "authorized": "Moskowitz, Sam",
+        "lcna": "n50007974"
+      }
+     },
+     {"issue": {"issue-date": "1962-08", "volume": "11", "number": "8"},
+      "title": "Introduction to 'The Titan' by P. Schulyer Miller",
+      "author": {
+        "authorized": "Moskowitz, Sam",
+        "lcna": "n50007974"
+      }
+     },
+     {"issue": {"issue-date": "1962-08", "volume": "11", "number": "8"},
+      "title": "Horseman",
+      "author": {
+       "authorized": "Zelazny, Roger",
+       "lcna": "n79058535"
+      }
+     },
+     {"issue": {"issue-date": "1962-09", "volume": "11", "number": "9"},
+      "title": "April in Paris",
+      "author": {
+        "authorized": "Le Guin, Ursula K., 1929-2018",
+        "lcna": "n78095474"
+      }
+     },
+     {"issue": {"issue-date": "1962-09", "volume": "11", "number": "9"},
+      "title": "Introduction to 'New Worlds' by Erle Stanley Gardner",
+      "author": {
+        "authorized": "Moskowitz, Sam",
+        "lcna": "n50007974"
+      }
+     },
+     {"issue": {"issue-date": "1962-10", "volume": "11", "number": "10"},
+      "title": "Double Timer",
+      "author": {
+        "authorized": "Disch, Thomas M.",
+        "lcna": "n79040181"
+      }
+     },
+     {"issue": {"issue-date": "1962-10", "volume": "11", "number": "10"},
+      "title": "Introduction to 'Presence of Mind' by Martin Armstrong",
+      "author": {
+        "authorized": "Moskowitz, Sam",
+        "lcna": "n50007974"
+      }
+     },
+     {"issue": {"issue-date": "1962-10", "volume": "11", "number": "10"},
+      "title": "The Teachers Rode a Wheel of Fire",
+      "author": {
+       "authorized": "Zelazny, Roger",
+       "lcna": "n79058535"
+      }
+     },
+     {"issue": {"issue-date": "1962-11", "volume": "11", "number": "11"},
+      "title": "Awareness Plan",
+      "author": {
+        "authorized": "Bunch, David R.",
+        "lcna": "no98121068"
+      }
+     },
+     {"issue": {"issue-date": "1962-11", "volume": "11", "number": "11"},
+      "title": "Introduction to 'Planetoid 127' by Edgar Wallace",
+      "author": {
+        "authorized": "Moskowitz, Sam",
+        "lcna": "n50007974"
+      }
+     },
+     {"issue": {"issue-date": "1962-11", "volume": "11", "number": "11"},
+      "title": "The Mozart Annuity",
+      "author": {
+        "authorized": "Porges, Arthur, 1915-2006",
+        "lcna": "no2010083924"
+      }
+     },
+     {"issue": {"issue-date": "1962-12", "volume": "11", "number": "12"},
+      "title": "Introduction to 'Heritage' by E. J. Derringer",
+      "author": {
+        "authorized": "Moskowitz, Sam",
+        "lcna": "n50007974"
+      }
+     },
+     {"issue": {"issue-date": "1963-01", "volume": "12", "number": "1"},
+      "title": "In the Days of King Arsgrat",
+      "author": {
+        "authorized": "Jakes, John, 1932-",
+        "lcna": "n80035843"
+      }
+     },
+     {"issue": {"issue-date": "1963-01", "volume": "12", "number": "1"},
+      "title": "Introduction to 'The Man Next Door' by Paul Ernst",
+      "author": {
+        "authorized": "Moskowitz, Sam",
+        "lcna": "n50007974"
+      }
+     },
+     {"issue": {"issue-date": "1963-01", "volume": "12", "number": "1"},
+      "title": "On the Road to Splenoba",
+      "author": {
+       "authorized": "Zelazny, Roger",
+       "lcna": "n79058535"
+      }
+     },
+     {"issue": {"issue-date": "1963-02", "volume": "12", "number": "2"},
+      "title": "Introduction to 'Let 'em Eat Space' by William Grey Bexer",
+      "author": {
+        "authorized": "Moskowitz, Sam",
+        "lcna": "n50007974"
+      }
+     },
+     {"issue": {"issue-date": "1963-02", "volume": "12", "number": "2"},
+      "title": "Final Dining",
+      "author": {
+       "authorized": "Zelazny, Roger",
+       "lcna": "n79058535"
+      }
+     },
+     {"issue": {"issue-date": "1963-03", "volume": "12", "number": "3"},
+      "title": "Physician to the Universe",
+      "author": {
+        "authorized": "Simak, Clifford D., 1904-1988",
+        "lcna": "n79082302"
+      }
+     },
+     {"issue": {"issue-date": "1963-03", "volume": "12", "number": "3"},
+      "title": "A Question of Re-Entry",
+      "author": {
+       "authorized": "Ballard, J. G., 1930-2009",
+       "lcna": "n79043442"
+      }
+     },
+     {"issue": {"issue-date": "1963-03", "volume": "12", "number": "3"},
+      "title": "Nine Starships Waiting",
+      "author": {
+       "authorized": "Zelazny, Roger",
+       "lcna": "n79058535"
+      }
+     },
+     {"issue": {"issue-date": "1963-04", "volume": "12", "number": "4"},
+      "title": "The Maltesta Collection",
+      "author": {
+       "authorized": "Zelazny, Roger",
+       "lcna": "n79058535"
+      }
+     },
+     {"issue": {"issue-date": "1963-04", "volume": "12", "number": "4"},
+      "title": "Survival Packages",
+      "author": {
+        "authorized": "Bunch, David R.",
+        "lcna": "no98121068"
+      }
+     },
+     {"issue": {"issue-date": "1963-04", "volume": "12", "number": "4"},
+      "title": "A Thing of Terrible Beauty",
+      "author": {
+       "authorized": "Zelazny, Roger",
+       "using": "Harrison Denmark",
+       "lcna": "n79058535"
+      }
+     },
+     {"issue": {"issue-date": "1963-05", "volume": "12", "number": "5"},
+      "title": "Devils in the Walls",
+      "author": {
+        "authorized": "Jakes, John, 1932-",
+        "lcna": "n80035843"
+      }
+     },
+     {"issue": {"issue-date": "1963-05", "volume": "12", "number": "5"},
+      "title": "The Message",
+      "author": {
+       "authorized": "Wellen, Edward",
+       "lcna": "n93021387"
+      }
+     },
+     {"issue": {"issue-date": "1963-05", "volume": "12", "number": "5"},
+      "title": "Threshold of the Prophet",
+      "author": {
+       "authorized": "Zelazny, Roger",
+       "lcna": "n79058535"
+      }
+     },
+     {"issue": {"issue-date": "1963-05", "volume": "12", "number": "5"},
+      "title": "One False Step",
+      "author": {
+        "authorized": "Bunch, David R.",
+        "lcna": "no98121068"
+      }
+     },
+     {"issue": {"issue-date": "1963-05", "volume": "12", "number": "5"},
+      "title": "The Screams of the Wergs",
+      "note": "Author name is a pseudonym for John Jakes.",
+      "author": {
+        "authorized": "Scotland, Jay, 1932-",
+        "lcna": "no2022144771"
+      }
+     },
+     {"issue": {"issue-date": "1963-05", "volume": "12", "number": "5"},
+      "title": "Monologue for Two",
+      "author": {
+       "authorized": "Zelazny, Roger",
+       "using": "Harrison Denmark",
+       "lcna": "n79058535"
+      }
+     },
+     {"issue": {"issue-date": "1963-05", "volume": "12", "number": "5"},
+      "title": "Introduction to 'Professor Jonkin's Cannibal Plant' by H. R. Garis",
+      "author": {
+        "authorized": "Moskowitz, Sam",
+        "lcna": "n50007974"
+      }
+     },
+     {"issue": {"issue-date": "1963-06", "volume": "12", "number": "6"},
+      "title": "The Hall of CD",
+      "author": {
+        "authorized": "Bunch, David R.",
+        "lcna": "no98121068"
+      }
+     },
+     {"issue": {"issue-date": "1963-06", "volume": "12", "number": "6"},
+      "title": "A Museum Piece",
+      "author": {
+       "authorized": "Zelazny, Roger",
+       "lcna": "n79058535"
+      }
+     },
+     {"issue": {"issue-date": "1963-06", "volume": "12", "number": "6"},
+      "title": "He That Hath Wings",
+      "note": "Issue designation as given in renewal record.  FictionMags does not report a piece with this title, or by Disch, in this issue, but such a story does appear in the July 1963 issue.",
+      "author": {
+        "authorized": "Hamilton, Edmond, 1904-1977",
+        "lcna": "n79093405"
+      }
+     },
+     {"issue": {"issue-date": "1963-07", "volume": "12", "number": "7"},
+      "title": "Introduction to 'He That Hath Wings' by Edmond Hamilton",
+      "author": {
+        "authorized": "Moskowitz, Sam",
+        "lcna": "n50007974"
+      }
+     },
+     {"issue": {"issue-date": "1963-07", "volume": "12", "number": "7"},
+      "title": "He That Hath Wings",
+      "note": "A story with this title and author is mentioned on the cover of this issue, and in FictionMags.  The renewal record for this story in the registered works database says it instead appeared in the June 1963 issue, but this appears to be incorrect.",
+      "author": {
+        "authorized": "Hamilton, Edmond, 1904-1977",
+        "lcna": "n79093405"
+      }
+     },
+     {"issue": {"issue-date": "1963-07", "volume": "12", "number": "7"},
+      "title": "Final Audit",
+      "author": {
+        "authorized": "Disch, Thomas M.",
+        "lcna": "n79040181"
+      }
+     },
+     {"issue": {"issue-date": "1963-08", "volume": "12", "number": "8"},
+      "title": "Introduction to 'The Devil in Hollywood' by Dale Clarke",
+      "author": {
+        "authorized": "Moskowitz, Sam",
+        "lcna": "n50007974"
+      }
+     },
+     {"issue": {"issue-date": "1963-08", "volume": "12", "number": "8"},
+      "title": "Sometimes I Get So Happy",
+      "note": "Title as spelled in FictionMags.  Online renewal record gives title as 'SometimesI Get So Happy'. We have not examined the issue in question.",
+      "author": {
+        "authorized": "Bunch, David R.",
+        "lcna": "no98121068"
+      }
+     },
+     {"issue": {"issue-date": "1963-09", "volume": "12", "number": "9"},
+      "title": "The Sudden Afternoon",
+      "author": {
+       "authorized": "Ballard, J. G., 1930-2009",
+       "lcna": "n79043442"
+      }
+     },
+     {"issue": {"issue-date": "1963-09", "volume": "12", "number": "9"},
+      "title": "Introduction to 'The Singing Sands of Prester John' by H. B. Jones",
+      "author": {
+        "authorized": "Moskowitz, Sam",
+        "lcna": "n50007974"
+      }
+     },
+     {"issue": {"issue-date": "1963-10", "volume": "12", "number": "10"},
+      "title": "The Screen Game",
+      "author": {
+       "authorized": "Ballard, J. G., 1930-2009",
+       "lcna": "n79043442"
+      }
+     },
+     {"issue": {"issue-date": "1963-10", "volume": "12", "number": "10"},
+      "title": "Introduction to 'The Wolf Woman' by H. Bedford Jones",
+      "author": {
+        "authorized": "Moskowitz, Sam",
+        "lcna": "n50007974"
+      }
+     },
+     {"issue": {"issue-date": "1963-10", "volume": "12", "number": "10"},
+      "title": "King Solomon's Ring",
+      "author": {
+       "authorized": "Zelazny, Roger",
+       "lcna": "n79058535"
+      }
+     },
+     {"issue": {"issue-date": "1963-11", "volume": "12", "number": "11"},
+      "title": "I, I, I Was a Spider for the SBI",
+      "author": {
+        "authorized": "Barrett, Neal, Jr., 1929-2014",
+        "lcna": "n86066373"
+      }
+     },
+     {"issue": {"issue-date": "1963-11", "volume": "12", "number": "11"},
+      "title": "Darkness Box",
+      "author": {
+        "authorized": "Le Guin, Ursula K., 1929-2018",
+        "lcna": "n78095474"
+      }
+     },
+     {"issue": {"issue-date": "1963-11", "volume": "12", "number": "11"},
+      "title": "Witch of the Four Winds",
+      "title-note": "part 1 of 2",
+      "author": {
+        "authorized": "Jakes, John, 1932-",
+        "lcna": "n80035843"
+      }
+     },
+     {"issue": {"issue-date": "1963-11", "volume": "12", "number": "11"},
+      "title": "A Thesis on Social Form and Social Control in the US",
+      "note": "Issue designation as given in renewal record.  FictionMags does not report a piece with this title, or by Disch, in this issue, but does report 'A Thesis on Social Forms and Social Controls in the U.S.A.' by Disch appearing in the January 1964 issue.",
+      "author": {
+        "authorized": "Disch, Thomas M.",
+        "lcna": "n79040181"
+      }
+     },
+     {"issue": {"issue-date": "1963-12", "volume": "12", "number": "12"},
+      "title": "After a Judgement Day",
+      "note": "Title as given on issue cover. CCE renewal record gives title as 'After a Judgement'.",
+      "author": {
+        "authorized": "Hamilton, Edmond, 1904-1977",
+        "lcna": "n79093405"
+      }
+     },
+     {"issue": {"issue-date": "1963-12", "volume": "12", "number": "12"},
+      "title": "Witch of the Four Winds",
+      "title-note": "part 2 of 2",
+      "author": {
+        "authorized": "Jakes, John, 1932-",
+        "lcna": "n80035843"
+      }
+     },
+     {"issue": {"issue-date": "1964-01", "volume": "13", "number": "1"},
+      "title": "Minnesota Gothic",
+      "author": {
+        "authorized": "Disch, Thomas M.",
+        "using": "Dobbin Thorpe",
+        "lcna": "n79040181"
+      }
+     },
+     {"issue": {"issue-date": "1964-01", "volume": "13", "number": "1"},
+      "title": "A Thesis on Social Forms and Social Controls in the U.S.A.",
+      "note": "Title and issue designation as given in FictionMags.  The copyright renewal database records a 1991 renewal for a similarly-titled work by Disch in the November 1963 issue of Fantastic that we have not been able to locate there.  The renewal might cover this piece, however.  The January 1964 issue was published and copyrighted in late 1963.",
+      "author": {
+        "authorized": "Disch, Thomas M.",
+        "lcna": "n79040181"
+      }
+     },
+     {"issue": {"issue-date": "1964-02", "volume": "13", "number": "2"},
+      "title": "Novelty Act",
+      "author": {
+       "authorized": "Dick, Philip K.",
+       "lcna": "n79018147"
+      }
+     },
+     {"issue": {"issue-date": "1964-02", "volume": "13", "number": "2"},
+      "title": "The Soft Woman",
+      "author": {
+        "authorized": "Thomas, Theodore L.",
+        "lcna": "n86064977"
+      }
+     },
+     {"issue": {"issue-date": "1964-02", "volume": "13", "number": "2"},
+      "title": "They Never Come Back from Whoosh!",
+      "author": {
+        "authorized": "Bunch, David R.",
+        "lcna": "no98121068"
+      }
+     }
+   ],
+   "additional-note": "Some issues of this magazine included reprints.  We have not systematically checked whether the original publications of those reprinted stories have active renewals. Check the table of contents listings linked from here for issue(s) you plan to use, to see if any reprints are indicated, and then check for renewals of the original publications.",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "acknowledgement": 
+      "Thanks to Scott Andrews for copyright research on this title.",
+   "last-updated": "2023-03-09"
+}

@@ -19,6 +19,9 @@ my $BIGSERIALFORMLINK   = "$SCRIPTNAME?type=bigserial";
 
 my $MAXSIZE = 4000;
 
+my $CONTROLSALT = 63249287;
+my $CONTROLDAYS = 7;
+
 my $WPURL   = "https://en.wikipedia.org/";
 my $OLBPURL = "https://onlinebooks.library.upenn.edu/";
 my $FTLURL  = $OLBPURL . "webbin/ftl";
@@ -156,7 +159,7 @@ sub _stripspace {
   my ($str, $returnspace) = @_;
   return "" if (!$str);
   if (!$returnspace) {
-    $str =~ s/[\n\r]//g;
+    $str =~ s/[\n\r]/ /g;
   }
   $str =~ s/^\s+//;
   $str =~ s/\s+$//;
@@ -165,11 +168,11 @@ sub _stripspace {
 }
 
 sub cookiepopulate {
-  my ($q) = @_;
-  my $email = _stripspace($q->param("email"));
-  my $name = _stripspace($q->param("name"));
-  my $reqok = _stripspace($q->param("reqok"));
-  my $save = _stripspace($q->param("save"));
+  my ($q, $requestparam) = @_;
+  my $email = $requestparam->{"email"};
+  my $name = $requestparam->{"name"};
+  my $reqok = $requestparam->{"reqok"};
+  my $save = $requestparam->{"save"};
   if (!$save) {
     return undef;
   }
@@ -273,7 +276,7 @@ sub showpool {
 sub default_bad_url {
   my $q = shift;
   my $referer = $q->referer();
-  if ($referer =~ /book.lookupid/) {
+  if ($referer =~ /book.*lookupid/) {
     return $referer;
   }
   return undef;
@@ -297,7 +300,9 @@ sub makereplypart {
   print qq!<hr>!;
   print qq!<input type="submit" value="Submit this suggestion">!;
   my $type = $params->{type};
-  print qq!<input type="hidden" name="type" value="$type">\n!;
+  my $control = controlcode();
+  print qq!<input type="hidden" name="type" value="$type">!;
+  print qq!<input type="hidden" name="control" value="$control">\n!;
   print qq!</form>!;
   print qq!<form action="$params->{link}">!;
   print qq!<input type="hidden" name="type" value="$type">\n!;
@@ -309,14 +314,14 @@ sub makereplypart {
 }
 
 sub backfileform {
-  my ($q) = @_;
+  my ($q, $requestparam) = @_;
   my $issndefault = "";
-  if ($q->param("qissn")) {
-    $issndefault = $q->param("qissn");
+  if ($requestparam->{"qissn"}) {
+    $issndefault = $requestparam->{"qissn"};
   }
   my $titledefault = "";
-  if ($q->param("qtitle")) {
-    $titledefault = $q->param("qtitle");
+  if ($requestparam->{"qtitle"}) {
+    $titledefault = $requestparam->{"qtitle"};
   }
   &startpage($q, "Serial information form", 0, 0);
   print qq!<h2>Request or provide information on a serial</h2>!;
@@ -352,7 +357,7 @@ sub backfileform {
   print qq!<hr><b>Do you have any information on this serial's copyrights, or anything else we should know?</b> (optional)<br>!;
   print qq!<textarea name="comments" rows="4" cols="60"></textarea>!;
   print qq!<p>!;
-  my $olbpid = $q->param("qid");
+  my $olbpid = $requestparam->{"qid"};
   if ($olbpid) {
     my $url = "$CINFOURL/$olbpid";
     print qq!We have a <a href="$url">copyright information page</a> !;
@@ -369,14 +374,14 @@ sub backfileform {
 }
 
 sub bigserialform {
-  my ($q) = @_;
+  my ($q, $requestparam) = @_;
   my $issndefault = "";
-  if ($q->param("qissn")) {
-    $issndefault = $q->param("qissn");
+  if ($requestparam->{"qissn"}) {
+    $issndefault = $requestparam->{"qissn"};
   }
   my $titledefault = "";
-  if ($q->param("qtitle")) {
-    $titledefault = $q->param("qtitle");
+  if ($requestparam->{"qtitle"}) {
+    $titledefault = $requestparam->{"qtitle"};
   }
   &startpage($q, "Serial information form", 0, 0, 1);
   print qq!<h2>Request or provide information on a serial</h2>!;
@@ -405,7 +410,7 @@ sub bigserialform {
   </p>
 |;
   print qq!<form method="POST">!;
-  my $bftable = $q->param("bftable");
+  my $bftable = $requestparam->{"bftable"};
   if ($bftable) {
     print qq!<input type="hidden" name="bftable" value="$bftable">\n!;
   }
@@ -416,7 +421,7 @@ sub bigserialform {
   print qq!</section>!;
   print qq!<hr><section>!;
   print qq!<h3>Provide information on this serial's copyrights</h3>!;
-  my $olbpid = $q->param("qid");
+  my $olbpid = $requestparam->{"qid"};
   if ($olbpid) {
     my $url = "$CINFOURL/$olbpid";
     print qq!We have a <a href="$url">copyright information page</a> !;
@@ -582,6 +587,40 @@ sub badlinkform {
   makereplypart($q, $badlinkparams);
 }
 
+sub datecode {
+   my $time = time();
+   my @timearray = localtime($time);
+   return sprintf ('%04d%02d%02d', 
+                  ($timearray[5] + 1900), ($timearray[4] + 1), $timearray[3]);
+}
+
+# a slightly transformed version of the current date
+# intended to deter casual spambots who don't check the page regularly
+
+sub controlcode {
+   my $code = datecode();
+   $code += $CONTROLSALT;
+   if ($code =~ /(\d)(\d\d\d\d\d\d)(\d)/) {
+     $code = "$3$2$1";
+   }
+   return $code;
+}
+
+sub controlcheck {
+   my ($control) = @_;
+   return 0 if (!$control);
+   if ($control =~ /(\d)(\d\d\d\d\d\d)(\d)/) {
+     $control = int("$3$2$1");
+     $control -= $CONTROLSALT;
+     my $compare = datecode();
+     if ($compare >= $control) {
+       if (($compare - $control) <= $CONTROLDAYS) {
+         return 1;
+       }
+     }
+   }
+   return 0;
+}
 
 # if there's 4 or more hrefs in a comment, it's a good sign it's spam
 
@@ -649,23 +688,22 @@ sub spamsolicitation {
 }
 
 sub analyze_form {
-  my ($q, $params) = @_;
+  my ($q, $requestparam, $params) = @_;
   my $str = "";
   my $pool;
-  my $title = _stripspace($q->param("title"));
-  my $issn = _stripspace($q->param("issn"));
-  my $ref = _stripspace($q->param("ref"));
-  my $wref = _stripspace($q->param("wref"));
-  my $email = _stripspace($q->param("email"));
-  my $name = _stripspace($q->param("name"));
-  my $reqok = _stripspace($q->param("reqok"));
-  my $libname = _stripspace($q->param("libname"));
-  my $libsite = _stripspace($q->param("libsite"));
-  my $comments = _stripspace($q->param("comments"), 1);
-  my $cinfo = $q->param("cinfo");
-  if ($cinfo) {
-    $cinfo = _stripspace($cinfo, 1);
-  }
+  my $title = $requestparam->{"title"};
+  my $creator = $requestparam->{"creator"};
+  my $issn = $requestparam->{"issn"};
+  my $ref = $requestparam->{"ref"};
+  my $wref = $requestparam->{"wref"};
+  my $email = $requestparam->{"email"};
+  my $name = $requestparam->{"name"};
+  my $reqok = $requestparam->{"reqok"};
+  my $libname = $requestparam->{"libname"};
+  my $libsite = $requestparam->{"libsite"};
+  my $comments = $requestparam->{"comments"};
+  my $control = $requestparam->{"control"};
+  my $cinfo = $requestparam->{"cinfo"};
   if ($email) {
     $email =~ s/\s//g;
     my $public = ($reqok ? "Y" : "N");
@@ -700,13 +738,14 @@ sub analyze_form {
                      "listed", "database", "firstissue", "cnotice",
                      "freestuff");
   foreach my $field (@bigserialfields) {
-    if ($q->param($field)) {
-      $str .= uc($field) . " " . _stripspace($q->param($field), 1)  . "\n";
+    if ($requestparam->{$field}) {
+      $str .= uc($field) . " " . $requestparam->{$field}  . "\n";
     }
   }
   my $wherefrom = wherefrom($q);
   if (spamcomment($comments) || spambadlink($ref, $wref, $comments) ||
       spamorigin($wherefrom) ||
+      !controlcheck($control) ||
       spamsolicitation($ref, $title, $comments)
       || $email =~ /\@email.tst/
       || $email =~ /cergplwqx/
@@ -768,8 +807,8 @@ sub analyze_form {
 }
 
 sub process_form {
-  my ($q, $params) = @_;
-  my ($str, $pool) = analyze_form($q, $params);
+  my ($q, $requestparam, $params) = @_;
+  my ($str, $pool) = analyze_form($q, $requestparam, $params);
   if (length($str) > $MAXSIZE) {
     $str = substr($str, 0, $MAXSIZE);
     $str .= "[TRUNCATED]";
@@ -779,7 +818,7 @@ sub process_form {
   if ($pool) {
     $success = $pool->record_submission(string=>$str);
   }
-  my $cookies = cookiepopulate($q);
+  my $cookies = cookiepopulate($q, $requestparam);
   if ($success) {
     &startpage($q, "Submission received", $cookies);
     print qq!<h2>Submission received</h2>!;
@@ -791,14 +830,14 @@ sub process_form {
       print qq!<a href="$BFURL">return to the Deep backfile page</a>
        or <a href="$OLBPURL">The Online Books Page</a>!;
     } elsif ($params->{type} eq "bigserial") {
-      my $bftable = $q->param("bftable");
+      my $bftable = $requestparam->{"bftable"};
       my $bfurl = (($bftable =~ /^hathitrust/) ? $HATHIBF : $PENNBF);
       my $bfname = (($bftable =~ /^hathitrust/) ? "HathiTrust" : "Penn Libraries");
       print qq!<a href="$bfurl">return to the $bfname Deep backfile page</a>
        or <a href="$OLBPURL">The Online Books Page</a>!;
     } else {
       print qq!<a href="$OLBPURL">return to The Online Books Page</a>!;
-      if ($q->param("libname") || $q->param("libsite")) {
+      if ($requestparam->{"libname"} || $requestparam->{"libsite"}) {
          print qq! or <a href="$WPURL">Wikipedia</a>!;
       }
     }
@@ -831,40 +870,83 @@ sub tempdown {
   exit 0;
 }
 
+sub send_them_home {
+  print "Location: $OLBP::homepage\n\n";
+  exit 0;
+}
+
+# We preprocess request parameters to do some validation of given
+# parameters, and ensure we're not getting parameters or values we
+# don't expect (e.g. if someone is trying to hack into our script).
+# If we do, the $BADPARAM value will be set in the returned hash,
+# and the calling script can take appropriate action (like redirecting
+# to the start page)
+
+my @validparams = ("title", "creator", "issn", "ref", "wref", 
+                   "libname", "libsite", "comments", "cinfo",
+                   "issn", "origin", "country", "simultaneous", "listed", 
+                   "database", "firstissue", "cnotice", "freestuff",
+                   "qid", "qissn", "qtitle", "bftable", 
+                   "type", "control", "email", "name", "reqok", "save");
+
+my $BOGUSPARAM = "bogusparam";
+
+sub request_params {
+  my $q = shift;
+  my $hashref = {};
+  my %validnames = map {$_ => 1} @validparams;
+  my @requestnames = $q->param();
+  foreach my $name (@requestnames) {
+    if (!($validnames{$name})) {
+      $hashref->{$BOGUSPARAM} = 1;
+      return $hashref;
+    }
+    my $value = $q->param($name);
+    # could add some sanitization or malice checks on the value here if wanted
+    $hashref->{$name} = _stripspace($value, 1);
+  }
+  return $hashref;
+}
+
+
 my $q = new CGI;
 my $cmd = $q->url(-path_info=>1);
 $cmd =~ s/(.*)\///;
 
+my $requestparam = request_params($q);
+if ($requestparam->{$BOGUSPARAM}) {
+  send_them_home();
+}
+
 # &tempdown($q);
 
-if (($q->param("type") eq "backfile") && 
-    ($q->param("issn") || $q->param("title"))) {
-  process_form($q, $backfileparams);
+my $reqtype = $requestparam->{"type"};
+
+if (($reqtype eq "backfile") && 
+    ($requestparam->{"issn"} || $requestparam->{"title"})) {
+  process_form($q, $requestparam, $backfileparams);
 }
-if (($q->param("type") eq "bigserial") && 
-    ($q->param("issn") || $q->param("title"))) {
-  process_form($q, $bigserialparams);
+if (($reqtype eq "bigserial") && 
+    ($requestparam->{"issn"} || $requestparam->{"title"})) {
+  process_form($q,  $requestparam, $bigserialparams);
 }
-if ($q->param("libname") || $q->param("libsite")) {
-  process_form($q, $wantlibraryparams);
+if ($requestparam->{"libname"} || $requestparam->{"libsite"}) {
+  process_form($q, $requestparam, $wantlibraryparams);
 }
-if (!($q->param("type") =~ /backfile|bigserial/) && 
-    ($q->param("ref") || $q->param("title"))) {
-  process_form($q, $badlinkparams);
+if (!($reqtype =~ /backfile|bigserial/) && 
+    ($requestparam->{"ref"} || $requestparam->{"title"})) {
+  process_form($q, $requestparam, $badlinkparams);
 }
-if ($q->param("type") eq "library") {
+if ($reqtype eq "library") {
   &libraryform($q);
-} elsif ($q->param("type") eq "backfile") {
-  &backfileform($q);
-} elsif ($q->param("type") eq "bigserial") {
-  &bigserialform($q);
+} elsif ($reqtype eq "backfile") {
+  &backfileform($q, $requestparam);
+} elsif ($reqtype eq "bigserial") {
+  &bigserialform($q, $requestparam);
 } else {
   &badlinkform($q);
 }
 
 # shouldn't reach here
 
-
-print "Location: $OLBP::homepage\n\n";
-exit 0;
-
+send_them_home();

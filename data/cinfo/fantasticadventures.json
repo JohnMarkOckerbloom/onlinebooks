@@ -1,6 +1,7 @@
 {
    "title": "Fantastic Adventures",
    "title-note": "SF and fantasy magazine, 1939-1953",
+   "aka": ["Fantastic Adventure (on some copyright renewals)"],
    "online": "1",
    "contents": [
       {"url": "http://www.isfdb.org/cgi-bin/pe.cgi?20289",
@@ -373,6 +374,13 @@
         }
       },
       {"issue": {"issue-date": "1951-05", "volume": "13", "number": "5"},
+        "title": "Make Room For Me",
+        "author": {
+          "authorized": "Sturgeon, Theodore",
+          "lcna": "n80066908"
+        }
+      },
+      {"issue": {"issue-date": "1951-05", "volume": "13", "number": "5"},
        "title": "The Eye of Tandyla",
         "author": {
          "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
@@ -386,11 +394,32 @@
           "lcna": "n50016557"
         }
       },
+      {"issue": {"issue-date": "1951-07", "volume": "13", "number": "7"},
+        "title": "The Traveling Crag",
+        "author": {
+          "authorized": "Sturgeon, Theodore",
+          "lcna": "n80066908"
+        }
+      },
+      {"issue": {"issue-date": "1951-08", "volume": "13", "number": "8"},
+        "title": "Excalibur and the Atom",
+        "author": {
+          "authorized": "Sturgeon, Theodore",
+          "lcna": "n80066908"
+        }
+      },
       {"issue": {"issue-date": "1951-08", "volume": "13", "number": "8"},
        "title": "Everybody Loves Irving Bommer",
        "author": {
          "authorized": "Tenn, William, 1920-2010",
          "lcna": "n88651363"
+       }
+      },
+      {"issue": {"issue-date": "1951-09", "volume": "13", "number": "9"},
+       "title": "Dark Benediction",
+       "author": {
+         "authorized": "Miller, Walter M., Jr., 1923-1996",
+         "lcna": "n81120378"
        }
       },
       {"issue": {"issue-date": "1951-10", "volume": "13", "number": "10"},
@@ -405,5 +434,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-11-10"
+   "last-updated": "2023-03-08"
 }
