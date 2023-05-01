@@ -1,6 +1,9 @@
 {
    "title": "Annual",
    "title-note": "Art and Archaeology Division, Royal Ontario Museum",
+   "preceded-by":
+     [{"id": "buldivartarcrom",
+       "note": "Bulletin of the Division of Art and Archaeology (Royal Ontario Museum)"}],
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "database",
    "first-renewed-contribution": "none",
@@ -13,5 +16,5 @@
    },
    "acknowledgement": 
       "Thanks to Peter Sullivan for copyright research on this title.",
-   "last-updated": "2022-03-29"
+   "last-updated": "2023-04-05"
 }

@@ -1,14 +1,27 @@
 {
    "title": "Cross and Crown",
+   "online": "1",
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
-   "first-renewed-contribution": {"issue": {"issue-date": "1953-09-09"}},
+   "first-renewed-contribution": {"issue": {"volume": "5", "cdate": "1953-09-09"}},
    "first-renewed-contribution-source": "database",
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"cdate": "1953-09-09", "volume": "5"},
+      "title": "Saint Bernard, Monk and Apostle",
+      "note": "Title as given in issue.  Renewal record gives title as 'Saint Bernard, Monk of Apostle'.",
+      "author": {
+       "authorized": "Merton, Thomas, 1915-1968",
+       "using": "Louis M. Merton",
+       "lcna": "n80005353"
+      }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
    "acknowledgement": 
       "Thanks to Scott Andrews for copyright research on this title.",
-   "last-updated": "2022-12-14"
+   "last-updated": "2023-04-06"
 }

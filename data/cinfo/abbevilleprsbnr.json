@@ -1,6 +1,8 @@
 {
    "title": "The Abbeville Press and Banner",
    "online": "1",
+   "preceded-by": 
+     [{"id": "abbevillebanner", "note": "The Abbeville Banner"}],
    "rights-statement": "NoC-US",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
@@ -8,5 +10,5 @@
    },
    "acknowledgement": 
       "Thanks to Joseph Kishman for copyright research on this title.",
-   "last-updated": "2020-06-12"
+   "last-updated": "2023-04-08"
 }

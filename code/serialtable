@@ -58,19 +58,19 @@ my $penn2_serials = $pkgdir . "penn/Catch22.csv";
 #my $proquest_archive = $pkgdir . "proquest/PeriodicalsArchiveOnlineOld.tsv";
 my $proquest_archive = $pkgdir . "proquest/PeriodicalsArchiveOnline.tsv";
 
-# my $sage_journals = $pkgdir . "sage/SAGE Complete Deep Backfile Purchase 2021 List.txt";
-my $sage_journals = $pkgdir . "sage/2022back22-p_back22-p_deep_backfile_2022_list_title_list.txt";
+# my $sage_journals = $pkgdir . "sage/2022back22-p_back22-p_deep_backfile_2022_list_title_list.txt";
+my $sage_journals = $pkgdir . "sage/7000031775_back23_complete_deep_backfile_purchase_2023_list.txt";
 
 # my $scidirect_journals = $pkgdir . "elsevier/ScienceDirectStandard_Global_ScienceDirectAvailableJournals_2022-02-05.txt";
 my $scidirect_journals = $pkgdir . "elsevier/ScienceDirectStandard_Global_ScienceDirectAvailableJournals_2023-01-27.txt";
 my $sim_journals = $pkgdir . "sim/SIM-MASTER-TITLE-2017.txt";
-#my $springer_journals = $pkgdir . "springer/Springer_Global_Complete_Journals_2021-02-01.txt";
-my $springer_journals = $pkgdir . "springer/Springer_Global_Complete_Journals_2022-01-03.txt";
+my $springer_journals = $pkgdir . "springer/Springer_Global_Complete_Journals_2022-12-12.txt";
+#my $springer_journals = $pkgdir . "springer/Springer_Global_Complete_Journals_2022-01-03.txt";
 my $taylor_global = $pkgdir . "taylor/TaylorandFrancisOnline_Global_DatabaseOAReadandPublish_2019-09-18.txt";
 my $taylor_classic = $pkgdir . "taylor/ClassicAggregation.txt";
 my $wikipedia = $pkgdir . "wikipedia/articleperiodicals.csv";
-my $wiley_all = $pkgdir . "wiley/headeradded_wiley_alljournals_2021-10-01.txt";
-#my $wiley_all = $pkgdir . "wiley/wiley_alljournals_2021-01-01.txt";
+#my $wiley_all = $pkgdir . "wiley/headeradded_wiley_alljournals_2021-10-01.txt";
+my $wiley_all = $pkgdir . "wiley/wiley_alljournals_2023-01-02.TXT";
 
 my $sagetitlefield = "Title";  # just a placeholder; varies by file
 
@@ -280,10 +280,11 @@ sub sageparser {
     if ($backstart =~ /(\d\d\d\d)\)/) {
       $start = $1;
     }
-    my $backend = $result->{"Backfile Last Issue Online"};
-    if ($backend =~ /(\d\d\d\d)\)/) {
-      $end = $1;
-    }
+    # my $backend = $result->{"Backfile Last Issue Online"};
+    # if ($backend =~ /(\d\d\d\d)\)/) {
+    #   $end = $1;
+    # }
+    my $end = "1998";
     my $title = $result->{$sagetitlefield};
     $title =~ s/(.*), The$/The $1/;          # deinvert "The" titles
     my @issns = ();
@@ -300,8 +301,8 @@ sub sageparser {
     foreach my $issn (@issns) {
       $rec->{issns}->{$issn} = 1;
     }
-    # my $url = $result->{URL};
-    my $url = $SAGESTUB . $issns[0];
+    my $url = $result->{URL};
+    # my $url = $SAGESTUB . $issns[0];
     # print STDERR "$title is at $url and goes from $start to $end\n";
     $rec->{title} = $title;
     $rec->{start} = $start;
@@ -1076,10 +1077,10 @@ sub unmess_utf8 {
 sub readwileyfile {
   my ($filename, %params) = @_;
   my @results;
-  open my $fh, "<:encoding(utf8)", $filename or die "filename: $!";
+  # open my $fh, "<:encoding(utf8)", $filename or die "filename: $!";
   # uncomment above when troubleshooting character encodings
   # and put in extra backslash in fixes below
-  # open my $fh, "<", $filename or die "filename: $!";
+  open my $fh, "<", $filename or die "filename: $!";
   my $row = <$fh>;
   $row =~ s/ //g;                     # eliminate spaces in field names
   my @fieldnames = split /\t/, $row;
@@ -1108,8 +1109,8 @@ sub readspringerfile {
   my ($filename, %params) = @_;
   my @results;
   # open my $fh, "<:encoding(utf-16)", $filename or die "filename: $!";
-  # open my $fh, "<:encoding(utf-8)", $filename or die "filename: $!";
-  open my $fh, "<", $filename or die "filename: $!";
+  open my $fh, "<:encoding(utf-8)", $filename or die "filename: $!";
+  # open my $fh, "<", $filename or die "filename: $!";
   my $row = <$fh>;
   my @fieldnames = split /\t/, $row;
   if ($fieldnames[0] =~ /\x{feff}(.*)/) {
