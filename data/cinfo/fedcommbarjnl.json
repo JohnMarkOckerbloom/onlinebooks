@@ -1,14 +1,18 @@
 {
    "title": "Federal Communications Bar Journal",
+   "aka": ["Journal of the Federal Communications Bar Association"],
+   "online": "1",
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
+   "succeeded-by":
+      [{"id": "fedcommlawjnl", "note": "Federal Communications Law Journal"}],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
    "acknowledgement": 
       "Thanks to Scott Andrews for copyright research on this title.",
-   "last-updated": "2022-07-12"
+   "last-updated": "2023-05-03"
 }

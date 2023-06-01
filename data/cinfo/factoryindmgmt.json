@@ -1,5 +1,8 @@
 {
    "title": "Factory and Industrial Management",
+   "preceded-by":
+     [{"id": "factory1907", "note": "Factory (Chicago, 1907-1927)"},
+      {"id": "industmgmt1916", "note": "Industrial Management"}],
    "first-issue": {"issue-date": "1928-01", "volume": "75", "number": "1"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
@@ -14,5 +17,5 @@
    },
    "acknowledgement": 
       "Thanks to Scott Andrews for copyright research on this title.",
-   "last-updated": "2023-02-14"
+   "last-updated": "2023-05-04"
 }

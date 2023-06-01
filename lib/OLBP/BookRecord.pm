@@ -877,7 +877,7 @@ sub rss_entries {
 # first subject: 80
 # second subject: 50
 # third subject: 20
-# if publication year given,  -1920 + pubyear (min 0)
+# if publication year given,  -1925 + pubyear (min 0)
 # if subject includes a year, 50 - (pubyear - subyear) (max 50, min 0)
 #  though if subject includes a range it has to be within the range
 # if it's a multi-edition work, +40
@@ -885,13 +885,13 @@ sub rss_entries {
 sub adjust_subject_scores {
   my ($self, %params) = @_;
   my $position_bonus = 80;
-  my $baselineyear = 1920;
+  my $baselineyear = 1925;
   my $pubyear = $self->_probable_publication_year();
   return undef if (!$self->{subject});
   for (my $i = 0; $i < scalar @{$self->{subject}}; $i++) {
     my $bonus = 0;
     if ($pubyear > $baselineyear && ($pubyear < $baselineyear + 150)) {
-      # someone may need to adjust the line above come 2070
+      # someone may need to adjust the line above come 2075
       $bonus += ($pubyear - $baselineyear);
     }
     my $sub = $self->{subject}->[$i];

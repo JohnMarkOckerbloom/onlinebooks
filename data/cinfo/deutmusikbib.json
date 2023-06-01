@@ -1,5 +1,9 @@
 {
    "title": "Deutsche Musikbibliographie",
+   "online": "1",
+   "preceded-by":
+      [{"id": "hofmuslitmon",
+        "note": "Hofmeisters Musikalisch-Literarischer Monatsbericht"}],
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
@@ -12,5 +16,5 @@
    },
    "acknowledgement": 
       "Thanks to Iren Sokolova for copyright research on this title.",
-   "last-updated": "2023-03-14"
+   "last-updated": "2023-05-16"
 }

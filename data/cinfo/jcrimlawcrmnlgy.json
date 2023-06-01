@@ -8,17 +8,28 @@
    "first-renewed-issue": 
       {"issue-date": "1936-November-December", "volume": "27", "number": "4"},
    "first-renewed-issue-source": "1964",
-   "first-renewed-contribution": "none",
-   "first-renewed-contribution-source": "cce+database",
+   "first-renewed-contribution": {"issue": {"issue-date": "1959-May-June"}},
+   "first-renewed-contribution-source": "database",
    "first-autorenewed-issue":
       {"issue-date": "1964-03", "volume": "55", "number": "1"},
    "see-also":
      [{"id": "amjpolicesci", "note": "The American Journal of Police Science"}],
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1959-May-June"},
+      "title": "Need for New Concepts in the Administration of Criminal Justice",
+      "note": "The online renewal record for this article mentions the date of the issue but not the name of the periodical it appeared in.  We found it in this publication.",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     }
+   ],
    "additional-note":
      "This publication absorbed the American Journal of Police Science in 1932, and continued for some time afterwards to publish a section with that title.  'Police Science' was also included in this journal's title or subtitle at various points afterwards.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-03-28"
+   "last-updated": "2023-05-18"
 }

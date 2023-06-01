@@ -1,7 +1,9 @@
 {
    "title": "Factory Management and Maintenance",
    "preceded-by": 
-     [{"id": "factoryindmgmt", "note": "Factory and Industrial Management"}],
+     [{"id": "maintengpmf",
+       "note": "Maintenance Engineering in Plants, Mills and Factories"},
+      {"id": "factoryindmgmt", "note": "Factory and Industrial Management"}],
    "first-issue": {"issue-date": "1933-03", "volume": "91", "number": "3"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",

@@ -5,9 +5,30 @@
    "first-renewed-issue-source": "1968",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
+   "renewed-issue-completeness": "active/1941",
+   "renewed-issues": [
+       {"issue-date": "1940-10", "volume": "10", "number": "10"},
+       {"issue-date": "1940-11", "volume": "10", "number": "11"},
+       {"issue-date": "1940-12", "volume": "10", "number": "12"},
+       {"issue-date": "1941-01", "volume": "11", "number": "1"},
+       {"issue-date": "1941-02", "volume": "11", "number": "2"},
+       {"issue-date": "1941-03", "volume": "11", "number": "3"},
+       {"issue-date": "1941-04", "volume": "11", "number": "4"},
+       {"issue-date": "1941-05", "volume": "11", "number": "5"},
+       {"issue-date": "1941-06", "volume": "11", "number": "6"},
+       {"issue-date": "1941-07", "volume": "11", "number": "7"},
+       {"issue-date": "1941-08", "volume": "11", "number": "8"},
+       {"issue-date": "1941-09", "volume": "11", "number": "9",
+        "note": "Renewal record is filed under Books rather than Periodicals."},
+       {"issue-date": "1941-10", "volume": "11", "number": "10"},
+       {"issue-date": "1941-11", "volume": "11", "number": "11"},
+       {"issue-date": "1941-12", "volume": "11", "number": "12"},
+       {"issue-date": "1942-01", "volume": "12", "number": "1"}
+   ],
+   "comment": "Pick up issue renewals at 1970.  v11n9 is the only issue renewal to appear in the Books section of CCE.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-10-12"
+   "last-updated": "2023-05-29"
 }

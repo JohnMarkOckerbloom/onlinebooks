@@ -1,16 +1,29 @@
 {
    "title": "Federal Probation",
+   "online": "1",
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1959-03"}},
    "first-renewed-contribution-source": "database",
-   "additional-note": "While this is a US government publication, it sometimes included contributions from private citizens that may remain under copyright in some cases, such as an article by Erle Stanley Gardner in the March 1959 issue.",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1959-03"},
+      "title": "Speaking as a Citizen",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     }
+   ],
+   "additional-notes": [
+     "While this is a US government publication, it sometimes included contributions from private citizens and publications that may remain under copyright in some cases.",
+     "The online renewal record for another article by Gardner, 'Need for New Concepts in the Administration of Criminal Justice', is formatted so that it might appear to be claimed as from this publication, but it was actually published in the Journal of Criminal Law, Criminology, and Police Science."
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
    "acknowledgement": 
       "Thanks to Scott Andrews for copyright research on this title.",
-   "last-updated": "2023-03-22"
+   "last-updated": "2023-05-18"
 }

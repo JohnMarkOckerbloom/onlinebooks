@@ -1,5 +1,7 @@
 {
    "title": "Alabama Retail Trade",
+   "preceded-by":
+    [{"id": "busnewsrtral", "note": "Business News: Retail Trade Report"}],
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "database",
    "first-renewed-contribution": "none",
@@ -10,5 +12,5 @@
    },
    "acknowledgement": 
       "Thanks to Eri Mizukane for copyright research on this title.",
-   "last-updated": "2021-03-16"
+   "last-updated": "2023-05-22"
 }

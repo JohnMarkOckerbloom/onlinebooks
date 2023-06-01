@@ -1,5 +1,9 @@
 {
    "title": "Federal Power Commission Reports",
+   "online": "1",
+   "preceded-by": 
+     [{"id": "opdecfedpwrcom",
+       "note": "Opinions and Decisions of the Federal Power Commission"}],
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "database",
    "first-renewed-contribution": "none",
@@ -11,5 +15,5 @@
    },
    "acknowledgement": 
       "Thanks to Scott Andrews for copyright research on this title.",
-   "last-updated": "2023-03-22"
+   "last-updated": "2023-05-18"
 }

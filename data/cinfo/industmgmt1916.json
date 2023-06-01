@@ -5,6 +5,8 @@
    "first-issue": {"issue-date": "1916-11", "volume": "52", "number": "2"},
    "rights-statement": "NoC-US",
    "last-issue": {"issue-date": "1927-12", "volume": "74", "number": "6"},
+   "succeeded-by":
+      [{"id": "factoryindmgmt", "note": "Factory and Industrial Management"}],
    "see-also":
       [{"id": "industmgmt1959", "note": "Industrial Management (1959-)"}],
    "responsibility": {
@@ -13,5 +15,5 @@
    },
    "acknowledgement": 
       "Thanks to Nat Bender for copyright research on this title.",
-   "last-updated": "2023-01-04"
+   "last-updated": "2023-05-04"
 }

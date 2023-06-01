@@ -14,7 +14,7 @@
    "first-renewed-contribution-source": "1955-JanJun",
    "last-issue": {"issue-date": "1956-08", "volume": "162", "number": "2"},
    "see-also": [{"id": "americanatc", "note": "American (American Tobacco Company magazine, 1940s)"}],
-   "renewed-contribution-completeness": "active/1929",
+   "renewed-contribution-completeness": "active/1930",
    "renewed-contributions": [
      {"issue": {"issue-date": "1928-03", "volume": "105", "number": "3"},
       "title": "Loved I Not Honor More",
@@ -679,6 +679,13 @@
       }
      },
      {"issue": {"issue-date": "1930-04", "volume": "109", "number": "4"},
+      "title": "Mother Wit",
+       "author": {
+         "authorized": "Miller, Alice Duer, 1874-1942",
+         "lcna": "n83057208"
+       }
+     },
+     {"issue": {"issue-date": "1930-04", "volume": "109", "number": "4"},
       "title": "The Shocking Case of Gregory K. Elwood",
       "author": {
        "authorized": "Johnson, Nunnally",
@@ -725,6 +732,13 @@
       }
      },
      {"issue": {"issue-date": "1930-06", "volume": "109", "number": "6"},
+      "title": "Monarch of All He Served",
+       "author": {
+         "authorized": "Miller, Alice Duer, 1874-1942",
+         "lcna": "n83057208"
+       }
+     },
+     {"issue": {"issue-date": "1930-06", "volume": "109", "number": "6"},
       "title": "Other People's Children",
       "author": {
        "authorized": "Tarkington, Booth, 1869-1946",
@@ -762,7 +776,8 @@
       }
      },
      {"issue": {"issue-date": "1930-07", "volume": "110", "number": "1"},
-      "title": "Tears in Her Cup",
+      "title": "Tears in Your Cup",
+      "note": "Title as given in CCE renewal record.  FictionMags gives title as 'Tears in Her Cup'.  We have not examined the issue in question.",
       "author": {
        "authorized": "Banning, Margaret Culkin, 1891-1982",
        "lcna": "n86086096"
@@ -798,11 +813,26 @@
       }
      },
      {"issue": {"issue-date": "1930-08", "volume": "110", "number": "2"},
+      "title": "Getting Paid for Having a Good Time",
+      "author": {
+         "authorized": "Hughes, Rupert, 1872-1956",
+         "lcna": "n86012047"
+       }
+     },
+     {"issue": {"issue-date": "1930-08", "volume": "110", "number": "2"},
       "title": "The King's Minion",
       "title-note": "part 5 of 7",
       "author": {
        "authorized": "Sabatini, Rafael, 1875-1950",
        "lcna": "n50016255"
+      }
+     },
+     {"issue": {"issue-date": "1930-08", "volume": "110", "number": "2"},
+      "title": "Mother of the North",
+      "note": "CCE renewal record gives issue date as August 30, 1930, and the registration record number of this issue.  FictionMags does not mention it in its issue table of contents for August 1930, though it might only be noting fiction contributions.",
+      "author": {
+         "authorized": "Willoughby, Barrett, -1959",
+         "lcna": "n94074965"
       }
      },
      {"issue": {"issue-date": "1930-09", "volume": "110", "number": "3"},
@@ -813,6 +843,13 @@
        }
      },
      {"issue": {"issue-date": "1930-09", "volume": "110", "number": "3"},
+      "title": "The White Patch",
+      "author": {
+         "authorized": "Post, Melville Davisson, 1869-1930",
+         "lcna": "n50019817"
+      }
+     },
+     {"issue": {"issue-date": "1930-09", "volume": "110", "number": "3"},
       "title": "The King's Minion",
       "title-note": "part 6 of 7",
       "author": {
@@ -821,12 +858,27 @@
       }
      },
      {"issue": {"issue-date": "1930-10", "volume": "110", "number": "4"},
+        "title": "October Occupancy",
+        "author": {
+         "authorized": "Cozzens, James Gould, 1903-1978",
+         "lcna": "n79061394"
+        }
+     },
+     {"issue": {"issue-date": "1930-10", "volume": "110", "number": "4"},
       "title": "The King's Minion",
       "title-note": "part 7 of 7",
       "author": {
        "authorized": "Sabatini, Rafael, 1875-1950",
        "lcna": "n50016255"
       }
+     },
+     {"issue": {"issue-date": "1930-11", "volume": "110", "number": "5"},
+       "title": "Four Blocks Apart",
+       "title-note": "part 5 of 6",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
      },
      {"issue": {"issue-date": "1930-11", "volume": "110", "number": "5"},
       "title": "Peace Without Victory",
@@ -841,12 +893,275 @@
        "authorized": "Banning, Margaret Culkin, 1891-1982",
        "lcna": "n86086096"
       }
+     },
+     {"issue": {"issue-date": "1930-12", "volume": "110", "number": "6"},
+       "title": "Four Blocks Apart",
+       "title-note": "part 6 of 6",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1931-01", "volume": "111", "number": "1"},
+      "title": "Brown Hussy",
+       "author": {
+         "authorized": "Miller, Alice Duer, 1874-1942",
+         "lcna": "n83057208"
+       }
+     },
+     {"issue": {"issue-date": "1931-01", "volume": "111", "number": "1"},
+      "title": "Vagabond",
+      "author": {
+         "authorized": "Smith, Edmund Ware, 1900-1967",
+         "lcna": "n91014327"
+       }
+     },
+     {"issue": {"issue-date": "1931-01", "volume": "111", "number": "1"},
+      "title": "The Lowest Form of Humor",
+      "author": {
+       "authorized": "Johnson, Nunnally",
+       "lcna": "n79134929"
+      }
+     },
+     {"issue": {"issue-date": "1931-01", "volume": "111", "number": "1"},
+      "title": "Man Can Climb High",
+      "note": "Title as given in CCE renewal record.  FictionMags gives title as 'A Man Can Climb High on His Last Legs'.",
+      "author": {
+         "authorized": "Terhune, Albert Payson, 1872-1942",
+         "lcna": "n50009920"
+      }
+     },
+     {"issue": {"issue-date": "1931-03", "volume": "111", "number": "3"},
+      "title": "Dot Finds a Man for Polly",
+      "author": {
+         "authorized": "Kilbourne, Fannie, 1890-",
+         "lcna": "no93026233"
+       }
+     },
+     {"issue": {"issue-date": "1931-04", "volume": "111", "number": "4"},
+      "title": "If I Were You",
+      "title-note": "part 1 of 4",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1931-04", "volume": "111", "number": "4"},
+      "title": "A Guttersnipe Grow Wings",
+      "note": "Title as given in CCE renewal record. FictionMags gives title as 'A Guttersnipe Grows Wings'.",
+      "author": {
+         "authorized": "Pinkerton, Robert E. (Robert Eugene), 1882-1970",
+         "lcna": "no2003073197"
+       }
+     },
+     {"issue": {"issue-date": "1931-05", "volume": "111", "number": "5"},
+      "title": "If I Were You",
+      "title-note": "part 2 of 4",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1931-06", "volume": "111", "number": "6"},
+      "title": "Captain Hawks",
+      "note": "Title as given in CCE renewal record.  FictionMags gives the title of the James Hopper story appearing in this issue as 'The World's Greatest Salesman of Speed'.",
+      "author": {
+       "authorized": "Hopper, James, 1876-1956",
+       "lcna": "n00068220"
+      }
+     },
+     {"issue": {"issue-date": "1931-06", "volume": "111", "number": "6"},
+      "title": "If I Were You",
+      "title-note": "part 3 of 4",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1931-07", "volume": "112", "number": "1"},
+      "title": "If I Were You",
+      "title-note": "part 4 of 4",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1931-08", "volume": "112", "number": "2"},
+      "title": "West of the Pecos",
+      "title-note": "part 1 of 6?",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1931-09", "volume": "112", "number": "3"},
+      "title": "West of the Pecos",
+      "title-note": "part 2 of 6?",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1931-09", "volume": "112", "number": "3"},
+      "title": "Adventures in Solitude",
+      "title-note": "installment",
+      "note": "Author is Ray Stannard Baker writing under a pseudonym.",
+        "author": {
+         "authorized": "Grayson, David, 1870-1946",
+         "lcna": "n88084521"
+        }
+     },
+     {"issue": {"issue-date": "1931-09", "volume": "112", "number": "3"},
+      "title": "The Downtrodden Sex",
+      "author": {
+         "authorized": "Kilbourne, Fannie, 1890-",
+         "lcna": "no93026233"
+       }
+     },
+     {"issue": {"issue-date": "1931-10", "volume": "112", "number": "4"},
+      "title": "The Smile That Wins",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1931-10", "volume": "112", "number": "4"},
+      "title": "Adventures in Solitude",
+      "title-note": "installment",
+      "note": "Title as given in CCE renewal record. FictionMags gives title as 'What No Man Can Take from Me: Adventures in Solitude'. Author is Ray Stannard Baker writing under a pseudonym.",
+        "author": {
+         "authorized": "Grayson, David, 1870-1946",
+         "lcna": "n88084521"
+        }
+     },
+     {"issue": {"issue-date": "1931-10", "volume": "112", "number": "4"},
+      "title": "Too Many Parties",
+      "author": {
+         "authorized": "Kilbourne, Fannie, 1890-",
+         "lcna": "no93026233"
+       }
+     },
+     {"issue": {"issue-date": "1931-10", "volume": "112", "number": "4"},
+      "title": "West of the Pecos",
+      "title-note": "part 3 of 6?",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1931-11", "volume": "112", "number": "5"},
+      "title": "The Voice From the Past",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1931-11", "volume": "112", "number": "5"},
+      "title": "West of the Pecos",
+      "title-note": "part 4 of 6?",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1931-11", "volume": "112", "number": "5"},
+      "title": "Scattergood Uses an Eraser",
+      "author": {
+       "authorized": "Kelland, Clarence Budington, 1881-1964",
+       "lcna": "n85050359"
+      }
+     },
+     {"issue": {"issue-date": "1931-12", "volume": "112", "number": "6"},
+      "title": "The Missing Mystery",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1931-12", "volume": "112", "number": "6"},
+      "title": "West of the Pecos",
+      "title-note": "part 5 of 6?",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1932-01", "volume": "113", "number": "1"},
+      "title": "Captain Posey Brings Her In",
+      "author": {
+         "authorized": "Titus, Harold, 1888-1967",
+         "lcna": "no2008175553"
+      }
+     },
+     {"issue": {"issue-date": "1932-01", "volume": "113", "number": "1"},
+      "title": "West of the Pecos",
+      "title-note": "part 6 of 6?",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1932-02", "volume": "113", "number": "2"},
+      "title": "The Bishop's Cat",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1932-02", "volume": "113", "number": "2"},
+      "title": "Scattergood Takes to His Bed",
+      "author": {
+       "authorized": "Kelland, Clarence Budington, 1881-1964",
+       "lcna": "n85050359"
+      }
+     },
+     {"issue": {"issue-date": "1932-02", "volume": "113", "number": "2"},
+      "title": "When Washington Laughed and Cried",
+      "author": {
+         "authorized": "Hughes, Rupert, 1872-1956",
+         "lcna": "n86012047"
+       }
+     },
+     {"issue": {"issue-date": "1932-02", "volume": "113", "number": "2"},
+      "title": "Wild Horse",
+      "author": {
+       "authorized": "Squier, Emma-Lindsay, 1892-1941",
+       "lcna": "no2007059420"
+      }
+     },
+     {"issue": {"issue-date": "1932-03", "volume": "113", "number": "3"}, 
+      "title": "The Bishop's Folly",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1932-03", "volume": "113", "number": "3"}, 
+       "title": "The Delphinium Blues",
+       "author": {
+        "authorized": "Benét, Stephen Vincent, 1898-1943",
+        "lcna": "n50007691"
+      }
+     },
+     {"issue": {"issue-date": "1932-04", "volume": "113", "number": "4"},
+      "title": "Out of the Dark",
+      "author": {
+       "authorized": "Tarkington, Booth, 1869-1946",
+       "lcna": "n79078124"
+      }
+     },
+     {"issue": {"issue-date": "1932-04", "volume": "113", "number": "4"},
+      "title": "Open-House",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
      }
    ],
-   "comment": "Resume contribution searches at 1958 Jan-Jun",
+   "comment": "Resume contribution searches at 1959 Jul-Dec",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-01-02"
+   "last-updated": "2023-05-29"
 }

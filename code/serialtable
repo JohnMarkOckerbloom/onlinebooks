@@ -43,8 +43,8 @@ my $jstor_split = $pkgdir . "jstor/JSTOR_Global_AllArchiveTitles_2023-01-27.txt"
 
 my $muse_journals = $pkgdir . "muse/muse_journal_metadata_2019.tsv";
 
-my $ovid_complete = $pkgdir . "wolters/Ovid_Global_AllJournals_2022-01-23.txt";
-#my $ovid_complete = $pkgdir . "wolters/Ovid_Global_AllJournals_2021-01-26.txt";
+my $ovid_complete = $pkgdir . "wolters/Ovid_Global_AllJournals_2023-05-22.txt";
+# my $ovid_complete = $pkgdir . "wolters/Ovid_Global_AllJournals_2022-01-23.txt";
 
 #my $oxford_archive = $pkgdir . "oxford/OxfordUniversityPress_Global_2022JournalsArchiveAllTitles_2022-01-28.txt";
 my $oxford_archive = $pkgdir . "oxford/OxfordUniversityPress_Global_2023JournalsArchiveAllTitles_2023-01-31.txt";

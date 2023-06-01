@@ -1,9 +1,12 @@
 {
    "title": "Opinions and Decisions of the Federal Power Commission",
+   "online": "1",
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
+   "succeeded-by":
+     [{"id": "fedpowcomrepts", "note": "Federal Power Commission Reports"}],
    "additional-note": "This is a US government publication.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
@@ -11,5 +14,5 @@
    },
    "acknowledgement": 
       "Thanks to Felice Gollotti for copyright research on this title.",
-   "last-updated": "2022-06-20"
+   "last-updated": "2023-05-18"
 }
