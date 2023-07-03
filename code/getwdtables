@@ -26,8 +26,10 @@ my $maxarticlefilesize = "3000000";
 my $minhathifilesize = "9000000";
 my $maxhathifilesize = "20000000";
 
-my $minbookfilesize = "18000000";
-my $maxbookfilesize = "36000000";
+#my $minbookfilesize = "18000000";
+#my $maxbookfilesize = "36000000";
+my $minbookfilesize = "10000000";
+my $maxbookfilesize = "30000000";
 
 my $csvstage   = "wikipstage.csv";
 my $csvprod    = "wikiperiodicals.csv";

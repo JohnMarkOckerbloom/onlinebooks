@@ -4,12 +4,24 @@
    "first-issue": {"issue-date": "1917-01", "volume": "1", "number": "1"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
+   "first-autorenewed-issue":
+      {"issue-date": "1964-01", "volume": "48", "number": "1"},
    "first-renewed-contribution":
      {"issue": {"issue-date": "1948-01"}},
    "first-renewed-contribution-source": "1975-JanJun",
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1948-01"},
+        "title": "Social Science and Social Tensions",
+        "author": {
+         "authorized": "Clark, Kenneth Bancroft, 1914-2005",
+         "lcna": "n50038687"
+        }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-04-17"
+   "last-updated": "2023-06-30"
 }

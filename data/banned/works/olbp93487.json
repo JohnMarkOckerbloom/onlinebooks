@@ -1,0 +1,33 @@
+{
+   "title": "Candide",
+   "author": {
+     "authorized": "Voltaire, 1694-1778",
+     "lcna": "n80126267"
+   },
+   "first-published":
+      {"date": "1759"},
+   "cover": 
+    {"file": "Candide1759.jpg",
+     "description": "Title page of 1759 Geneva edition.",
+     "alt": "Tan book page with text reading 'CANDIDE, ou, L'OPTIMISME, TRADUIT DE L'ALLEMAND de Mr. le Docteur RALPH'.  Below that text is a stylized bouquet, and below that a double horizontal line, and below that the text 'M D C C L I X'.'.",
+     "url": "https://en.wikipedia.org/wiki/Candide#/media/File:Candide1759.jpg",
+     "source": "Wikimedia Commons"
+   },
+   "wikidata": "Q215894",
+   "librarything": "2184",
+   "goodreads": "19380",
+   "online-work": "1",
+   "overview": "Voltaire's biting satire of optimism skewered religion, philosophy, governments, and civil, military, and religious leaders.  When first published in French in 1759, it drew condemnation from both church and state, but it also gained admiration by scholars, and is frequently taught in university classes today.  More recent censorship of the book has tended to cite the sexual aspects of some of the many examples of misconduct and atrocities depicted in the book.",
+   "categories": ["sex"],
+   "comment": "Both incidents below are from https://babel.hathitrust.org/cgi/pt?id=mdp.39015034575343&view=1up&seq=66&q1=candide",
+   "incidents": [
+      {"date": "1929",
+       "location": {"code": "US-MA"},
+       "description": "U.S. Customs seized Harvard-bound copies of Candide, claiming obscenity. Two Harvard professors defended the work, and it was later admitted in a different edition."
+      },
+      {"date": "1944",
+       "location": {"code": "US-NY"},
+       "description": "The US Post Office demanded the omission of Candide from a mailed Concord Books catalog, saying it violated laws concerning the mailing of obscene literature. The bookseller blacked out the title."
+      }
+   ]
+}

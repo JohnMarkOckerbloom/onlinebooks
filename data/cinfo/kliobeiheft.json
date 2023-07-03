@@ -1,9 +1,10 @@
 {
    "title": "Klio: Beiheft",
+   "online": "1",
    "first-renewed-issue": "none",
-   "first-renewed-issue-source": "database",
+   "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
-   "first-renewed-contribution-source": "database",
+   "first-renewed-contribution-source": "cce+database",
    "see-also": [{"id": "klio1901", "note": "Klio"}],
    "additional-notes": [
       "This is a German publication. Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US.",
@@ -15,5 +16,5 @@
    },
    "acknowledgement": 
       "Thanks to Felice Gollotti for copyright research on this title.",
-   "last-updated": "2022-04-11"
+   "last-updated": "2023-06-16"
 }

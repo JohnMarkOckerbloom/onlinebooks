@@ -1,6 +1,10 @@
 {
    "title": "Annual Abstract of Statistics",
    "title-note": "United Kingdom",
+   "online": "1",
+   "preceded-by":
+     [{"id": "statabsuk",
+       "note": "Statistical Abstract for the United Kingdom"}],
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
@@ -13,5 +17,5 @@
    },
    "acknowledgement": 
       "Thanks to Peter Sullivan for copyright research on this title.",
-   "last-updated": "2022-03-29"
+   "last-updated": "2023-06-16"
 }

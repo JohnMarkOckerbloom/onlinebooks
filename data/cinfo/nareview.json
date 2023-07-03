@@ -6,7 +6,7 @@
    "first-renewed-contribution":
      {"issue": {"issue-date": "1928-04"}}, 
    "first-renewed-contribution-source": "1955-JanJun",
-   "renewed-contribution-completeness": "active/1930",
+   "renewed-contribution-completeness": "active/1935",
    "renewed-contributions": [
      {"issue": {"issue-date": "1928-04"}, 
       "title": "District Thirteen",
@@ -31,17 +31,150 @@
        "lcna": "n50030030"
       }
      },
+     {"issue": {"issue-date": "1931-05"},
+        "title": "This Biped Botanist, This Man of Eyes",
+        "author": {
+         "authorized": "Aiken, Conrad, 1889-1973",
+         "lcna": "n80060447"
+        }
+     },
      {"issue": {"issue-date": "1931-08"},
       "title": "The Poet",
       "author": {
        "authorized": "Sackville-West, V. (Victoria), 1892-1962",
        "lcna": "n80003934"
       }
+     },
+     {"issue": {"issue-date": "1932-02"}, 
+      "title": "The Manor",
+      "author": {
+       "authorized": "Haardt, Sara, 1898-1935",
+       "lcna": "n85161027"
+      }
+     },
+     {"issue": {"issue-date": "1932-12"},
+        "title": "Rocking Chair",
+        "author": {
+         "authorized": "Callaghan, Morley, 1903-1990",
+         "lcna": "n79006957"
+        }
+     },
+     {"issue": {"issue-date": "1932-12"},
+      "title": "Point of Honor",
+      "author": {
+         "authorized": "Horgan, Paul, 1903-1995",
+         "lcna": "n79060797"
+        }
+     },
+     {"issue": {"issue-date": "1933-03"},
+        "title": "What the Younger Generation Thinks",
+        "author": {
+         "authorized": "Grattan, C. Hartley (Clinton Hartley), 1902-1980",
+         "lcna": "n50032033"
+        }
+     },
+     {"issue": {"issue-date": "1933-05"},
+      "title": "The Sun Was Over the Foreyard",
+       "author": {
+         "authorized": "McFee, William, 1881-1966",
+         "lcna": "n82053296"
+       }
+     },
+     {"issue": {"issue-date": "1933-07"},
+      "title": "Surgical Crisis",
+      "author": {
+         "authorized": "Horgan, Paul, 1903-1995",
+         "lcna": "n79060797"
+        }
+     },
+     {"issue": {"issue-date": "1933-11"},
+        "title": "The Red Pony",
+        "author": {
+         "authorized": "Steinbeck, John, 1902-1968",
+         "lcna": "n79081460"
+        }
+     },
+     {"issue": {"issue-date": "1933-12"},
+        "title": "The Great Mountains",
+        "author": {
+         "authorized": "Steinbeck, John, 1902-1968",
+         "lcna": "n79081460"
+        }
+     },
+     {"issue": {"issue-date": "1934-03"},
+       "title": "Morning in the South",
+       "author": {
+         "authorized": "Aldington, Richard, 1892-1962",
+         "lcna": "n80057251"
+       }
+     },
+     {"issue": {"issue-date": "1934-04"},
+        "title": "The Murder",
+        "author": {
+         "authorized": "Steinbeck, John, 1902-1968",
+         "lcna": "n79081460"
+        }
+     },
+     {"issue": {"issue-date": "1934-10"},
+        "title": "The Raid",
+        "author": {
+         "authorized": "Steinbeck, John, 1902-1968",
+         "lcna": "n79081460"
+        }
+     },
+     {"issue": {"issue-date": "1935-01"},
+        "title": "Christmas Carol",
+        "author": {
+         "authorized": "Saroyan, William, 1908-1981",
+         "lcna": "n78095781"
+        }
+     },
+     {"issue": {"issue-date": "1935-03"},
+        "title": "The White Quail",
+        "author": {
+         "authorized": "Steinbeck, John, 1902-1968",
+         "lcna": "n79081460"
+        }
+     },
+     {"issue": {"issue-date": "1935-06"},
+        "title": "Polyphemus",
+        "author": {
+         "authorized": "Wolfe, Thomas, 1900-1938",
+         "lcna": "n79054341"
+        }
+     },
+     {"issue": {"issue-date": "1935-09"},
+        "title": "Prologue",
+        "author": {
+         "authorized": "Engle, Paul, 1908-1991",
+         "lcna": "n79084424"
+        }
+     },
+     {"issue": {"issue-date": "1935-12"}, 
+      "title": "Mexican Small Town",
+      "author": {
+         "authorized": "Stevenson, Philip, 1896-1965",
+         "lcna": "no2002007736"
+      }
+     },
+     {"issue": {"issue-date": "1936-06"},
+      "title": "A Journey of Hope",
+      "author": {
+         "authorized": "Horgan, Paul, 1903-1995",
+         "lcna": "n79060797"
+      }
+     },
+     {"issue": {"issue-date": "1936-06"},
+        "title": "School",
+        "author": {
+         "authorized": "Saroyan, William, 1908-1981",
+         "lcna": "n78095781"
+        }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-01-03"
+   "last-updated": "2023-06-07"
 }

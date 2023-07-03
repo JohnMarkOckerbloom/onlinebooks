@@ -9,9 +9,152 @@
    "first-renewed-contribution-source": "1962-JulDec",
    "last-issue": 
      {"issue-date": "1943-Summer", "volume": "8", "number": "4"},
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1935-10"},
+      "title": "Invocation",
+      "author": {
+       "authorized": "Benét, Stephen Vincent, 1898-1943",
+       "lcna": "n50007691"
+      }
+     },
+     {"issue": {"issue-date": "1935-11"},
+        "title": "Russia",
+        "author": {
+         "authorized": "Engle, Paul, 1908-1991",
+         "lcna": "n79084424"
+        }
+     },
+     {"issue": {"issue-date": "1935-11"},
+        "title": "Vienna",
+        "author": {
+         "authorized": "Engle, Paul, 1908-1991",
+         "lcna": "n79084424"
+        }
+     },
+     {"issue": {"issue-date": "1936-11"},
+      "title": "Goober Dance",
+      "author": {
+       "authorized": "Ghiselin, Brewster, 1903-2002",
+       "lcna": "n80057026"
+      }
+     },
+     {"issue": {"issue-date": "1936-12"},
+        "title": "Canterbury",
+        "author": {
+         "authorized": "Engle, Paul, 1908-1991",
+         "lcna": "n79084424"
+        }
+     },
+     {"issue": {"issue-date": "1938-12"},
+        "title": "Tune the Old Cow Died To",
+        "author": {
+         "authorized": "March, William, 1893-1954",
+         "lcna": "n83043036"
+        }
+     },
+     {"issue": {"issue-date": "1938-12"},
+        "title": "Familiar Change",
+        "author": {
+         "authorized": "Engle, Paul, 1908-1991",
+         "lcna": "n79084424"
+        }
+     },
+     {"issue": {"issue-date": "1938-12"},
+        "title": "Farmer",
+        "author": {
+         "authorized": "Engle, Paul, 1908-1991",
+         "lcna": "n79084424"
+        }
+     },
+     {"issue": {"issue-date": "1938-12"},
+        "title": "Heritage",
+        "author": {
+         "authorized": "Engle, Paul, 1908-1991",
+         "lcna": "n79084424"
+        }
+     },
+     {"issue": {"issue-date": "1938-12"},
+        "title": "Return to Autumn",
+        "author": {
+         "authorized": "Engle, Paul, 1908-1991",
+         "lcna": "n79084424"
+        }
+     },
+     {"issue": {"issue-date": "1938-12"},
+        "title": "To You",
+        "author": {
+         "authorized": "Engle, Paul, 1908-1991",
+         "lcna": "n79084424"
+        }
+     },
+     {"issue": {"issue-date": "1939-02"},
+        "title": "Sweet Who Was the Armourer's Maid",
+        "author": {
+         "authorized": "March, William, 1893-1954",
+         "lcna": "n83043036"
+        }
+     },
+     {"issue": {"issue-date": "1939-12"},
+        "title": "Words Without Music",
+        "author": {
+         "authorized": "Seide, Michael",
+         "lcna": "n83001586"
+        }
+     },
+     {"issue": {"issue-date": "1940-01"},
+        "title": "The First Sunset",
+        "author": {
+         "authorized": "March, William, 1893-1954",
+         "lcna": "n83043036"
+        }
+     },
+     {"issue": {"issue-date": "1940-05"},
+        "title": "The Search",
+        "author": {
+         "authorized": "Roethke, Theodore, 1908-1963",
+         "lcna": "n79060436"
+        }
+     },
+     {"issue": {"issue-date": "1940-Autumn"},
+        "title": "That Continent",
+        "author": {
+         "authorized": "Engle, Paul, 1908-1991",
+         "lcna": "n79084424"
+        }
+     },
+     {"issue": {"issue-date": "1941-Summer"},
+        "title": "Sacrifice of Isaac",
+        "author": {
+         "authorized": "Seide, Michael",
+         "lcna": "n83001586"
+        }
+     },
+     {"issue": {"issue-date": "1942-Spring"},
+        "title": "The Sore Loser",
+        "author": {
+         "authorized": "Seide, Michael",
+         "lcna": "n83001586"
+        }
+     },
+     {"issue": {"issue-date": "1942-Spring"},
+        "title": "A Still Moment",
+        "author": {
+         "authorized": "Welty, Eudora, 1909-2001",
+         "lcna": "n79038434"
+        }
+     },
+     {"issue": {"issue-date": "1943-Winter"},
+        "title": "The Old Serpent",
+        "author": {
+         "authorized": "Seide, Michael",
+         "lcna": "n83001586"
+        }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-09-10"
+   "last-updated": "2023-06-07"
 }

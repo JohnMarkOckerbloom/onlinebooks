@@ -182,6 +182,14 @@ sub _display_person {
   return $str;
 }
 
+sub _show_plural_names {
+  my ($self, $arrayref) = @_;
+  return "" if (!$arrayref);
+  my @names = map {$self->_display_person($_)} @{$arrayref};
+  my $str = join ', ', @names;
+  return $str;
+}
+
 sub _basic_info_html {
   my ($self, %params) = @_;
   my $json = $self->{json};
@@ -193,10 +201,23 @@ sub _basic_info_html {
   if ($json->{"author"}) {
     my $authorstr .= $self->_display_person($json->{"author"});
     $str .= $self->_tabrow(attr=>"Author", value=>$authorstr);
-  };
+  } elsif ($json->{"authors"}) {
+    my $authorstr .= $self->_show_plural_names($json->{"authors"});
+    $str .= $self->_tabrow(attr=>"Authors", value=>$authorstr);
+  }
   if ($json->{"editor"}) {
     my $authorstr .= $self->_display_person($json->{"editor"});
     $str .= $self->_tabrow(attr=>"Editor", value=>$authorstr);
+  } elsif ($json->{"editors"}) {
+    my $authorstr .= $self->_show_plural_names($json->{"editors"});
+    $str .= $self->_tabrow(attr=>"Editors", value=>$authorstr);
+  };
+  if ($json->{"illustrator"}) {
+    my $authorstr .= $self->_display_person($json->{"illustrator"});
+    $str .= $self->_tabrow(attr=>"Illustrator", value=>$authorstr);
+  } elsif ($json->{"illustrators"}) {
+    my $authorstr .= $self->_show_plural_names($json->{"illustrators"});
+    $str .= $self->_tabrow(attr=>"Illustrators", value=>$authorstr);
   };
   my $firstpub = $json->{"first-published"};
   my $pubstr = "";
@@ -307,7 +328,8 @@ sub _bn_buy_link_html {
 
 sub _bookfinder_buy_link_html {
   my ($title, $author) = @_;
-  my $query = "author=$author&title=$title";
+  my $informalauthor = _informalname($author);
+  my $query = "author=$informalauthor&title=$title";
   $query =~ s/\s+/\+/g;
   my $url = "$bookfinderprefix$query";
   return qq!<a href="$url">Bookfinder.com</a>!;
@@ -522,6 +544,9 @@ sub get_author_summary {
   return "" if (!$json);
   if ($json->{"author"}) {
     return $self->_display_person($json->{"author"});
+  }
+  if ($json->{"authors"}) {
+    return $self->_display_person($json->{"authors"}->[0]) . " et al.";
   }
   if ($json->{"editor"}) {
     return $self->_display_person($json->{"editor"}) . " (ed.)";

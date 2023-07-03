@@ -1254,6 +1254,8 @@ sub readwikidata {
     my $start  = ($pub->{start} ? int($pub{start}) : $pub->{start});
     my $end  = ($pub->{end} ? int($pub{end}) : $pub->{end});
     my @issns  = split /\s+/, $pub->{issns};
+    # skip ones that will have better substitutes (not sure this works)
+    # next if (scalar(@issns) == 1 && $badissnmap->{$issns[0]});
     my $wdid = $wduri;
     $wdid =~ s/.*wikidata.org.entity.//;
     my $wptitle = $wpuri;
@@ -1273,10 +1275,10 @@ sub readwikidata {
       # print "Adding $olbpid to $rec\n";
       $olbpserial->{$olbpid} = $rec;
     }
-    $rec->{wikidata} = $wdid;
-    $rec->{wikipedia} = $wptitle;
-    $rec->{start} = simplifywikidate($pub->{start});
-    $rec->{end} = simplifywikidate($pub->{end});
+    $rec->{wikidata} ||= $wdid;
+    $rec->{wikipedia} ||= $wptitle;
+    $rec->{start} ||= simplifywikidate($pub->{start});
+    $rec->{end} ||= simplifywikidate($pub->{end});
   }
 }
 

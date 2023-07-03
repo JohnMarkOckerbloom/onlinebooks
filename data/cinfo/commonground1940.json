@@ -1,6 +1,6 @@
 {
    "title": "Common Ground",
-   "title-note": "1940-1949",
+   "title-note": "American magazine, 1940-1949",
    "first-issue": {"issue-date": "1940-Autumn", "volume": "1", "number": "1"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
@@ -8,9 +8,12 @@
      {"issue": {"issue-date": "1942-Autumn", "volume": "3", "number": "1"}},
    "first-renewed-contribution-source": "1970-JanJun",
    "last-issue": {"issue-date": "1949-Autumn", "volume": "10", "number": "1"},
+   "see-also":
+     [{"id": "commground1946",
+       "note": "Common Ground (Council of Christian and Jews publication)"}],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-02-15"
+   "last-updated": "2023-06-26"
 }

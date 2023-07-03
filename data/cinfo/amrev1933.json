@@ -10,9 +10,26 @@
    "first-renewed-contribution-source": "1962-JanJun",
    "last-issue": 
      {"issue-date": "1937-10", "volume": "9", "number": "4"},
+   "renewed-contribution-completeness": "active/1934",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1934-05"}, 
+      "title": "Lee in the Mountains",
+      "author": {
+        "authorized": "Davidson, Donald, 1893-1968",
+        "lcna": "n50035654"
+      }
+     },
+     {"issue": {"issue-date": "1934-05"}, 
+        "title": "Poetry: A Note in Ontology",
+        "author": {
+         "authorized": "Ransom, John Crowe, 1888-1974",
+         "lcna": "n50053936"
+        }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-03-10"
+   "last-updated": "2023-06-07"
 }

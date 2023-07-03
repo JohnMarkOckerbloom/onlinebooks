@@ -1,14 +1,33 @@
 {
    "title": "Daughters of the American Revolution Magazine",
+   "aka": ["D.A.R. Magazine"],
+   "online": "1",
+   "preceded-by":
+     [{"id": "ammonmagdar", "note": "The American Monthly Magazine"}],
+   "first-issue": {"issue-date": "1913-07", "volume": "43", "number": "1"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": {"issue": {"issue-date": "1957-02"}},
    "first-renewed-contribution-source": "database",
+   "last-issue": {"issue-date": "2001-05", "volume": "135", "number": "5"},
+   "see-also":
+     [{"id": "natlhistormag", "note": "National Historical Magazine"}],
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1957-02"},
+        "title": "Patrick Henry's Birth and Parentage",
+        "author": {
+         "authorized": "Meade, Robert Douthat, 1903-1974",
+         "lcna": "n88274304"
+        }
+     }
+   ],
+   "additional-note": "This magazine was renamed National Historical Magazine (listed separately) in 1937, but the name reverted to Daughters of the American Revolution Magazine in 1946.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
    "acknowledgement": 
       "Thanks to Iren Sokolova for copyright research on this title.",
-   "last-updated": "2022-09-28"
+   "last-updated": "2023-06-30"
 }
