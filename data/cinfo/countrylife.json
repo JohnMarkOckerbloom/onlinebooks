@@ -10,7 +10,9 @@
      {"issue": {"issue-date": "1928-02", "cdate": "1928-02-01"}}, 
    "first-renewed-contribution-source": "1955-JanJun",
    "last-issue": {"issue-date": "1942-06", "volume": "82", "number": "2"},
-   "renewed-contribution-completeness": "active/1929",
+   "see-also": 
+     [{"id": "countrylifeuk", "note": "Country Life (British magazine)"}],
+   "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
      {"issue": {"issue-date": "1928-02"}, 
       "title": "Motley",
@@ -46,11 +48,25 @@
        "authorized": "Townsend, Reginald T. (Reginald Townsend), 1890-",
        "lcna": "no98087493"
       }
+     },
+     {"issue": {"issue-date": "1935-12"}, 
+      "title": "Mexico",
+      "author": {
+       "name": "Jean Austin"
+      }
+     },
+     {"issue": {"issue-date": "1936-01"}, 
+      "title": "Mexico",
+      "author": {
+       "name": "Jean Austin"
+      }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-01-02"
+   "acknowledgement": 
+      "Thanks to Pete Sullivan for copyright research on this title.",
+   "last-updated": "2023-07-24"
 }

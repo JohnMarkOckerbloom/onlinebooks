@@ -1,15 +1,19 @@
 {
    "title": "Aviation",
    "title-note": "1922-1947",
+   "online": "1",
+   "preceded-by":
+     [{"id": "avaircraftjnl", "note": "Aviation and Aircraft Journal"}],
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce",
+   "succeeded-by": [{"id": "aviationweek", "note": "Aviation Week"}],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
    "acknowledgement": 
       "Thanks to Peter Sullivan for copyright research on this title.",
-   "last-updated": "2022-07-06"
+   "last-updated": "2022-07-21"
 }

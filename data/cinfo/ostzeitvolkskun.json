@@ -1,5 +1,8 @@
 {
    "title": "Österreichische Zeitschrift für Volkskunde",
+   "online": "1",
+   "preceded-by":
+     [{"id": "wiezeitvolkskun", "note": "Wiener Zeitschrift für Volkskunde"}],
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
@@ -12,5 +15,5 @@
    },
    "acknowledgement": 
       "Thanks to Felice Gollotti for copyright research on this title.",
-   "last-updated": "2022-07-25"
+   "last-updated": "2023-07-25"
 }

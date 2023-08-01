@@ -1,8 +1,11 @@
 {
    "title": "The Old Farmer's Almanac",
    "aka": ["The Old Farmer's Almanack"],
+   "online": "1",
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
+   "first-autorenewed-issue": 
+     {"issue-date": "1965", "cdate": "1964", "number": "173"},
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
    "responsibility": {
@@ -11,5 +14,5 @@
    },
    "acknowledgement": 
       "Thanks to Felice Gollotti for copyright research on this title.",
-   "last-updated": "2022-05-31"
+   "last-updated": "2023-07-11"
 }

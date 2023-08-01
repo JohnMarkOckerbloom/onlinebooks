@@ -34,7 +34,7 @@
       {"issue-date": "1931-07", "volume": "7", "number": "3"},
       {"issue-date": "1931-10", "volume": "7", "number": "4"}
    ],
-   "renewed-contribution-completeness": "active/1928",
+   "renewed-contribution-completeness": "active/1932",
    "renewed-contributions": [
      {"issue": {"issue-date": "1928-07"}, 
       "title": "Codfish Chowder and Sun",
@@ -65,11 +65,53 @@
          "authorized": "Lawrence, D. H. (David Herbert), 1885-1930",
          "lcna": "n79018450"
         }
+     },
+     {"issue": {"issue-date": "1930-01"},
+        "title": "Madame de Maintenon",
+        "author": {
+         "authorized": "Bradford, Gamaliel, 1863-1932",
+         "lcna": "n50042916"
+        }
+     },
+     {"issue": {"issue-date": "1931-01"},
+      "title": "J. J. Lankes and His Woodcuts",
+      "author": {
+       "authorized": "Anderson, Sherwood, 1876-1941",
+       "lcna": "n79045519"
+      }
+     },
+     {"issue": {"issue-date": "1931-07"},
+        "title": "Poor Fool, Deluded Toy, Brief Anthropomorph",
+        "note": "CCE renewal record gives serial title as 'Virginia Quarterly'.",
+        "author": {
+         "authorized": "Aiken, Conrad, 1889-1973",
+         "lcna": "n80060447"
+        }
+     },
+     {"issue": {"issue-date": "1932-10"},
+        "title": "Silent Snow, Secret Snow",
+        "author": {
+         "authorized": "Aiken, Conrad, 1889-1973",
+         "lcna": "n80060447"
+        }
+     },
+     {"issue": {"issue-date": "1933-01"},
+      "title": "A Man's Song of Life",
+      "author": {
+       "authorized": "Anderson, Sherwood, 1876-1941",
+       "lcna": "n79045519"
+      }
+     },
+     {"issue": {"issue-date": "1933-01"},
+      "title": "If a Weasel Crossed Your Path, Turn Back",
+      "author": {
+       "name": "Elizabeth Johnston"
+      }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-01-02"
+   "last-updated": "2023-07-14"
 }

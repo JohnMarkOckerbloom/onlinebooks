@@ -2,6 +2,10 @@
    "title": "Corvallis Gazette-Times",
    "aka": ["The Gazette-Times (Corvallis, Oregon)"],
    "online": "1",
+   "preceded-by": [
+     {"id": "corvallisgazt", "note": "Corvallis Gazette"},
+     {"id": "corvallistimes", "note": "The Corvallis Times"}
+   ],
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",

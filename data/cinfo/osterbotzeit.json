@@ -1,5 +1,9 @@
 {
    "title": "Österreichische Botanische Zeitschrift",
+   "online": "1",
+   "preceded-by":
+     [{"id": "oesterbotwoch",
+       "note": "Oesterreichisches Botanisches Wochenblatt"}],
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
@@ -12,5 +16,5 @@
    },
    "acknowledgement": 
       "Thanks to Felice Gollotti for copyright research on this title.",
-   "last-updated": "2022-07-25"
+   "last-updated": "2023-07-25"
 }

@@ -1,0 +1,94 @@
+{
+   "title": "Dynamic Science Fiction",
+   "contents": [
+      {"url": "https://www.isfdb.org/cgi-bin/pe.cgi?15051",
+       "note": "ISFDB"},
+      {"url": "http://www.philsp.com/homeville/SFI/link.asp?magid=DSF",
+       "note": "Galactic Central"}
+   ],
+   "first-issue":
+      {"issue-date": "1952-12", "volume": "1", "number": "1"}, 
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "database",
+   "first-renewed-contribution":
+     {"issue": {"issue-date": "1952-12", "volume": "1", "number": "1"}}, 
+   "first-renewed-contribution-source": "database",
+   "last-issue": {"issue-date": "1954-01", "volume": "1", "number": "6"},
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1952-12", "volume": "1", "number": "1"}, 
+      "title": "The Einstein Rocket",
+      "author": {
+       "authorized": "Anderson, Poul, 1926-2001",
+       "lcna": "n79044004"
+      }
+     },
+     {"issue": {"issue-date": "1953-03", "volume": "1", "number": "2"},
+      "title": "Turn of a Century",
+      "author": {
+        "authorized": "Blish, James",
+        "lcna": "n79053667"
+      }
+    },
+    {"issue": {"issue-date": "1953-06", "volume": "1", "number": "3"}, 
+     "title": "A Modern Merlin",
+     "author": {
+       "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+       "lcna": "n80057222"
+     }
+    },
+    {"issue": {"issue-date": "1953-06", "volume": "1", "number": "3"}, 
+     "title": "The Philosophy of Science Fiction",
+     "title-note": "part 2 of 2",
+     "author": {
+       "authorized": "Gunn, James E., 1923-2020",
+       "lcna": "n79068460"
+     }
+    },
+    {"issue": {"issue-date": "1953-06", "volume": "1", "number": "3"}, 
+     "title": "Never Trust an Intellectual",
+     "author": {
+       "name": "Raymond E. Banks"
+     }
+    },
+    {"issue": {"issue-date": "1953-08", "volume": "1", "number": "4"},
+     "title": "The Duplicated Man",
+     "note": "Renewal record gives first author's last name as 'Bliss'.",
+     "authors": [
+        {"authorized": "Blish, James",
+         "lcna": "n79053667"},
+        {"authorized": "Lowndes, Robert A. W. (Robert Augustine Ward), 1916-1998 ",
+         "lcna": "n81062511",
+         "using": "Michael Sherman"}
+     ]
+    },
+    {"issue": {"issue-date": "1953-10", "volume": "1", "number": "5"}, 
+      "title": "Snail's Pace",
+      "author": {
+        "authorized": "Budrys, Algis, 1931-2008",
+        "lcna": "n79060196"
+      }
+    },
+    {"issue": {"issue-date": "1953-10", "volume": "1", "number": "5"}, 
+     "title": "The Plot-Forms of Science Fiction",
+     "title-note": "part 1 of 2",
+     "author": {
+       "authorized": "Gunn, James E., 1923-2020",
+       "lcna": "n79068460"
+     }
+    },
+    {"issue": {"issue-date": "1954-01", "volume": "1", "number": "6"}, 
+     "title": "The Plot-Forms of Science Fiction",
+     "title-note": "part 2 of 2",
+     "author": {
+       "authorized": "Gunn, James E., 1923-2020",
+       "lcna": "n79068460"
+     }
+    }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2023-07-27"
+}
