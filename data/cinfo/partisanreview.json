@@ -9,7 +9,73 @@
       {"issue": {"issue-date": "1936-02", "volume": "3", "number": "1"}},
    "first-renewed-contribution-source": "1963-JulDec",
    "see-also": [{"id": "anvil1930s", "note": "The Anvil"}],
-   "renewed-contribution-completeness": "active/1939",
+   "renewed-issue-completeness": "active/1949",
+   "renewed-issues": [
+      {"issue-date": "1936-10", "volume": "3", "number": "6"},
+      {"issue-date": "1940-September-October", "volume": "7", "number": "5"},
+      {"issue-date": "1941-January-February", "volume": "8", "number": "1"},
+      {"issue-date": "1941-March-April", "volume": "8", "number": "2"},
+      {"issue-date": "1941-May-June", "volume": "8", "number": "3"},
+      {"issue-date": "1941-July-August", "volume": "8", "number": "4"},
+      {"issue-date": "1941-September-October", "volume": "8", "number": "5"},
+      {"issue-date": "1941-November-December", "volume": "8", "number": "6"},
+      {"issue-date": "1942-January-February", "volume": "9", "number": "1"},
+      {"issue-date": "1942-March-April", "volume": "9", "number": "2"},
+      {"issue-date": "1942-May-June", "volume": "9", "number": "3"},
+      {"issue-date": "1942-September-October", "volume": "9", "number": "5"},
+      {"issue-date": "1942-November-December", "volume": "9", "number": "6"},
+      {"issue-date": "1943-January-February", "volume": "10", "number": "1"},
+      {"issue-date": "1943-March-April", "volume": "10", "number": "2"},
+      {"issue-date": "1943-May-June", "volume": "10", "number": "3"},
+      {"issue-date": "1943-July-August", "volume": "10", "number": "4"},
+      {"issue-date": "1944-Winter", "volume": "11", "number": "1"},
+      {"issue-date": "1944-Spring", "volume": "11", "number": "2"},
+      {"issue-date": "1944-Summer", "volume": "11", "number": "3"},
+      {"issue-date": "1944-Fall", "volume": "11", "number": "4"},
+      {"issue-date": "1945-Winter", "volume": "12", "number": "1"},
+      {"issue-date": "1945-Spring", "volume": "12", "number": "2"},
+      {"issue-date": "1945-Summer", "volume": "12", "number": "3"},
+      {"issue-date": "1945-Fall", "volume": "12", "number": "4"},
+      {"issue-date": "1946-Winter", "volume": "13", "number": "1"},
+      {"issue-date": "1946-Spring", "volume": "13", "number": "2"},
+      {"issue-date": "1946-September-October", "volume": "13", "number": "4"},
+      {"issue-date": "1946-November-December", "volume": "13", "number": "5"},
+      {"issue-date": "1947-January-February", "volume": "14", "number": "1"},
+      {"issue-date": "1947-March-April", "volume": "14", "number": "2"},
+      {"issue-date": "1947-May-June", "volume": "14", "number": "3"},
+      {"issue-date": "1947-July-August", "volume": "14", "number": "4"},
+      {"issue-date": "1947-September-October", "volume": "14", "number": "5"},
+      {"issue-date": "1948-01", "volume": "15", "number": "1"},
+      {"issue-date": "1948-02", "volume": "15", "number": "2"},
+      {"issue-date": "1948-03", "volume": "15", "number": "3"},
+      {"issue-date": "1948-04", "volume": "15", "number": "4"},
+      {"issue-date": "1948-05", "volume": "15", "number": "5"},
+      {"issue-date": "1948-06", "volume": "15", "number": "6"},
+      {"issue-date": "1948-07", "volume": "15", "number": "7"},
+      {"issue-date": "1948-08", "volume": "15", "number": "8"},
+      {"issue-date": "1948-09", "volume": "15", "number": "9"},
+      {"issue-date": "1948-10", "volume": "15", "number": "10"},
+      {"issue-date": "1948-11", "volume": "15", "number": "11"},
+      {"issue-date": "1948-12", "volume": "15", "number": "12"},
+      {"issue-date": "1949-01", "volume": "16", "number": "1"},
+      {"issue-date": "1949-02", "volume": "16", "number": "2"},
+      {"issue-date": "1949-03", "volume": "16", "number": "3"},
+      {"issue-date": "1949-04", "volume": "16", "number": "4"},
+      {"issue-date": "1949-05", "volume": "16", "number": "5"},
+      {"issue-date": "1949-06", "volume": "16", "number": "6"},
+      {"issue-date": "1949-07", "volume": "16", "number": "7"},
+      {"issue-date": "1949-08", "volume": "16", "number": "8"},
+      {"issue-date": "1950-01", "volume": "17", "number": "1"},
+      {"issue-date": "1950-02", "volume": "17", "number": "2"},
+      {"issue-date": "1950-03", "volume": "17", "number": "3"},
+      {"issue-date": "1950-04", "volume": "17", "number": "4"},
+      {"issue-date": "1950-May-June", "volume": "17", "number": "5"},
+      {"issue-date": "1950-July-August", "volume": "17", "number": "6"},
+      {"issue-date": "1950-September-October", "volume": "17", "number": "7"},
+      {"issue-date": "1950-November-December", "volume": "17", "number": "8"}
+   ],
+   "comment": "Pick up issue renewals in the database",
+   "renewed-contribution-completeness": "active/1940",
    "renewed-contributions": [
      {"issue": {"issue-date": "1936-02"},
       "title": "Joe",
@@ -133,6 +199,13 @@
           "lcna": "n79060089"
         }
      },
+     {"issue": {"issue-date": "1940-March-April"},
+        "title": "Poetry in a Dry Season",
+        "author": {
+         "authorized": "Jarrell, Randall, 1914-1965",
+         "lcna": "n79076730"
+        }
+     },
      {"issue": {"issue-date": "1940-May-June"},
       "title": "East Coker",
       "author": {
@@ -161,6 +234,76 @@
        "lcna": "n79045067"
       }
      },
+     {"issue": {"issue-date": "1941-March-April"},
+        "title": "Washington Cathedral",
+        "author": {
+         "authorized": "Shapiro, Karl, 1913-2000",
+         "lcna": "n79021704"
+        }
+     },
+     {"issue": {"issue-date": "1941-May-June"},
+      "title": "The Dry Salvages",
+      "author": {
+       "authorized": "Eliot, T. S. (Thomas Stearns), 1888-1965",
+       "lcna": "n79006870"
+      }
+     },
+     {"issue": {"issue-date": "1941-May-June"},
+        "title": "Song: Not There",
+        "author": {
+         "authorized": "Jarrell, Randall, 1914-1965",
+         "lcna": "n79076730"
+        }
+     },
+     {"issue": {"issue-date": "1941-May-June"},
+      "title": "Initial A",
+      "author": {
+       "authorized": "Schubert, David, 1913-1946",
+       "lcna": "n87103442"
+      }
+     },
+     {"issue": {"issue-date": "1941-July-August"},
+        "title": "At the Grave of Henry James",
+        "author": {
+         "authorized": "Auden, W. H. (Wystan Hugh), 1907-1973",
+         "lcna": "n79054316"
+        }
+     },
+     {"issue": {"issue-date": "1941-September-October"},
+      "title": "The Facts of Life",
+      "author": {
+       "authorized": "Goodman, Paul, 1911-1972",
+       "lcna": "n79045067"
+      }
+     },
+     {"issue": {"issue-date": "1941-September-October"},
+        "title": "Cootchie",
+        "author": {
+         "authorized": "Bishop, Elizabeth, 1911-1979",
+         "lcna": "n79047629"
+        }
+     },
+     {"issue": {"issue-date": "1941-September-October"},
+        "title": "Jeronymos's House",
+        "author": {
+         "authorized": "Bishop, Elizabeth, 1911-1979",
+         "lcna": "n79047629"
+        }
+     },
+     {"issue": {"issue-date": "1941-September-October"},
+        "title": "Seascape",
+        "author": {
+         "authorized": "Bishop, Elizabeth, 1911-1979",
+         "lcna": "n79047629"
+        }
+     },
+     {"issue": {"issue-date": "1942-January-February"},
+        "title": "The Country Was",
+        "author": {
+         "authorized": "Jarrell, Randall, 1914-1965",
+         "lcna": "n79076730"
+        }
+     },
      {"issue": {"issue-date": "1949-02"},
       "title": "The Heart of the Park",
       "author": {
@@ -169,11 +312,11 @@
       }
      }
    ],
-   "comment": "Pick up contributions with 1968 Jan-Jun",
+   "comment": "Pick up contributions with 1969 Jan-Jun",
    "additional-note": "This publication absorbed The Anvil in 1936.  Some issues that year were titled 'Partian Review and Anvil' or 'Partisan Review-Anvil'.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-10-16"
+   "last-updated": "2023-08-24"
 }

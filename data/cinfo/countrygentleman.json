@@ -8,7 +8,7 @@
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1928-02"}}, 
    "first-renewed-contribution-source": "1955-JanJun",
-   "renewed-issue-completeness": "active/1930",
+   "renewed-issue-completeness": "active/1931",
    "renewed-issues": [
      {"issue-date": "1928-02", "volume": "93", "number": "2",
       "cdate": "1928-01-26"},
@@ -58,7 +58,21 @@
      {"issue-date": "1931-04", "volume": "101", "number": "4"},
      {"issue-date": "1931-05", "volume": "101", "number": "5"},
      {"issue-date": "1931-06", "volume": "101", "number": "6"},
-     {"issue-date": "1931-07", "volume": "101", "number": "7"}
+     {"issue-date": "1931-07", "volume": "101", "number": "7"},
+     {"issue-date": "1931-08", "volume": "101", "number": "8"},
+     {"issue-date": "1931-09", "volume": "101", "number": "9"},
+     {"issue-date": "1931-10", "volume": "101", "number": "10"},
+     {"issue-date": "1931-11", "volume": "101", "number": "11"},
+     {"issue-date": "1931-12", "volume": "101", "number": "12"},
+     {"issue-date": "1932-01", "volume": "102", "number": "1",
+      "cdate": "1931-12-15"},
+     {"issue-date": "1932-02", "volume": "102", "number": "2",
+      "cdate": "1932-01-19"},
+     {"issue-date": "1932-03", "volume": "102", "number": "3"},
+     {"issue-date": "1932-04", "volume": "102", "number": "4"},
+     {"issue-date": "1932-05", "volume": "102", "number": "5"},
+     {"issue-date": "1932-06", "volume": "102", "number": "6"},
+     {"issue-date": "1932-07", "volume": "102", "number": "7"}
    ],
    "renewed-contribution-completeness": "active/1931",
    "renewed-contributions": [
@@ -551,5 +565,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-01-02"
+   "last-updated": "2023-08-24"
 }

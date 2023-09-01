@@ -11,7 +11,7 @@
      {"issue": {"issue-date": "1928-03"}},
    "first-renewed-contribution-source": "1955-JanJun",
    "see-also": [{"id": "americana1925", "note": "Americana"}],
-   "renewed-issue-completeness": "active/1930",
+   "renewed-issue-completeness": "active/1931",
    "renewed-issues": [
        {"issue-date": "1929-01", "volume": "16", "number": "61",
           "cdate": "1928-12-24"},
@@ -38,9 +38,34 @@
        {"issue-date": "1930-10", "volume": "21", "number": "82"},
        {"issue-date": "1930-11", "volume": "21", "number": "83"},
        {"issue-date": "1930-12", "volume": "21", "number": "84"},
-       {"issue-date": "1931-01", "volume": "22", "number": "85"}
+       {"issue-date": "1931-01", "volume": "22", "number": "85"},
+       {"issue-date": "1931-02", "volume": "22", "number": "86"},
+       {"issue-date": "1931-03", "volume": "22", "number": "87"},
+       {"issue-date": "1931-04", "volume": "22", "number": "88"},
+       {"issue-date": "1931-05", "volume": "23", "number": "89"},
+       {"issue-date": "1931-06", "volume": "23", "number": "90"},
+       {"issue-date": "1931-07", "volume": "23", "number": "91"},
+       {"issue-date": "1931-08", "volume": "23", "number": "92"},
+       {"issue-date": "1931-09", "volume": "24", "number": "93"},
+       {"issue-date": "1931-10", "volume": "24", "number": "94"},
+       {"issue-date": "1931-11", "volume": "24", "number": "95"},
+       {"issue-date": "1931-12", "volume": "24", "number": "96"},
+       {"issue-date": "1932-01", "volume": "25", "number": "97",
+        "cdate": "1931-12-24"},
+       {"issue-date": "1932-02", "volume": "25", "number": "98",
+        "cdate": "1932-01-25"},
+       {"issue-date": "1932-03", "volume": "25", "number": "99"},
+       {"issue-date": "1932-04", "volume": "25", "number": "100"},
+       {"issue-date": "1932-05", "volume": "26", "number": "101"},
+       {"issue-date": "1932-06", "volume": "26", "number": "102"},
+       {"issue-date": "1932-07", "volume": "26", "number": "103"},
+       {"issue-date": "1932-08", "volume": "26", "number": "104"},
+       {"issue-date": "1932-09", "volume": "27", "number": "105"},
+       {"issue-date": "1932-10", "volume": "27", "number": "106"},
+       {"issue-date": "1932-11", "volume": "27", "number": "107"},
+       {"issue-date": "1932-12", "volume": "27", "number": "108"}
    ],
-   "comment": "Pick up issue renewals with 1959",
+   "comment": "Pick up issue renewals with 1960 Jan-Jun",
    "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
      {"issue": {"issue-date": "1928-03"},
@@ -1374,5 +1399,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-01-02"
+   "last-updated": "2023-08-24"
 }

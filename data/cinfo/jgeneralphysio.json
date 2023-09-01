@@ -6,7 +6,7 @@
    "first-renewed-issue-source": "1955-JanJun",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
-   "renewed-issue-completeness": "active/1930",
+   "renewed-issue-completeness": "active/1931",
    "renewed-issues": [
      {"issue-date": "1928-01-20", "volume": "11", "number": "3"},
      {"issue-date": "1928-03-20", "volume": "11", "number": "4"},
@@ -32,12 +32,18 @@
      {"issue-date": "1931-05-20", "volume": "14", "number": "5"},
      {"issue-date": "1931-07-20", "volume": "14", "number": "6"},
      {"issue-date": "1931-09-20", "volume": "15", "number": "1"},
-     {"issue-date": "1931-11", "volume": "15", "number": "2"}
+     {"issue-date": "1931-11", "volume": "15", "number": "2"},
+     {"issue-date": "1932-01-20", "volume": "15", "number": "3"},
+     {"issue-date": "1932-03-20", "volume": "15", "number": "4"},
+     {"issue-date": "1932-05-20", "volume": "15", "number": "5"},
+     {"issue-date": "1932-07-20", "volume": "15", "number": "6"},
+     {"issue-date": "1932-09-20", "volume": "16", "number": "1"},
+     {"issue-date": "1932-11-20", "volume": "16", "number": "2"}
     ],
-    "additional-note": "Issues in volume 8 were published between 1925 and 1928, not all in order.  The last portion of that volume to be published was number 1 of that volume, which was  published between the last issue of volume 11 and the first issue of volume 12.",
+    "additional-note": "Issues in volume 8 were published between 1925 and 1928, not all in order.  The last portion of that volume to be published was number 1 of that volume, which was published between the last issue of volume 11 and the first issue of volume 12.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-01-03"
+   "last-updated": "2023-08-24"
 }

@@ -6,7 +6,7 @@
    "first-renewed-issue-source": "1955-JulDec",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
-   "renewed-issue-completeness": "active/1930",
+   "renewed-issue-completeness": "active/1931",
    "renewed-issues": [
      {"issue-date": "1928-01", "volume": "76", "number": "1"},
      {"issue-date": "1928-02", "volume": "76", "number": "2"},
@@ -57,12 +57,24 @@
      {"issue-date": "1931-11", "volume": "94", "number": "1"},
      {"issue-date": "1931-12", "volume": "94", "number": "2"},
      {"issue-date": "1922 - 1927", "volume": "51-57", "number": "index",
-      "cdate": "1931-05-05"}
+      "cdate": "1931-05-05"},
+     {"issue-date": "1932-01", "volume": "94", "number": "3"},
+     {"issue-date": "1932-02", "volume": "95", "number": "1"},
+     {"issue-date": "1932-03", "volume": "95", "number": "2"},
+     {"issue-date": "1932-04", "volume": "96", "number": "1"},
+     {"issue-date": "1932-05", "volume": "96", "number": "2"},
+     {"issue-date": "1932-06", "volume": "96", "number": "3"},
+     {"issue-date": "1932-07", "volume": "97", "number": "1"},
+     {"issue-date": "1932-08", "volume": "97", "number": "2"},
+     {"issue-date": "1932-09", "volume": "97", "number": "3"},
+     {"issue-date": "1932-10", "volume": "98", "number": "1"},
+     {"issue-date": "1932-11", "volume": "98", "number": "2"},
+     {"issue-date": "1932-12", "volume": "99", "number": "1"}
    ],
    "additional-note": "The publisher made this journal open access, including for past issues, as of January 2021.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-01-03"
+   "last-updated": "2023-08-24"
 }

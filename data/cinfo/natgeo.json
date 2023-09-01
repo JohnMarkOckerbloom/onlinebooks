@@ -11,7 +11,7 @@
    "see-also":
      [{"id": "factsadnatgeo",
        "note": "Facts for Advertisers (National Geographic)"}],
-   "renewed-issue-completeness": "active/1930",
+   "renewed-issue-completeness": "active/1931",
    "renewed-issues": [
       {"issue-date": "1928-02", "volume": "53", "number": "2",
         "cdate": "1928-01-14"},
@@ -66,7 +66,23 @@
       {"issue-date": "1931-09", "volume": "60", "number": "3"},
       {"issue-date": "1931-10", "volume": "60", "number": "4"},
       {"issue-date": "1931-11", "volume": "60", "number": "5"},
-      {"issue-date": "1931-12", "volume": "60", "number": "6"}
+      {"issue-date": "1931-12", "volume": "60", "number": "6"},
+      {"issue-date": "1932-01", "volume": "61", "number": "1",
+       "cdate": "1931-12-22"},
+      {"issue-date": "1932-02", "volume": "61", "number": "2",
+       "cdate": "1932-01-20"},
+      {"issue-date": "1932-03", "volume": "61", "number": "3"},
+      {"issue-date": "1932-04", "volume": "61", "number": "4"},
+      {"issue-date": "1932-05", "volume": "61", "number": "5"},
+      {"issue-date": "1932-06", "volume": "61", "number": "6"},
+      {"issue-date": "1932-07", "volume": "62", "number": "1"},
+      {"issue-date": "1932-08", "volume": "62", "number": "2"},
+      {"issue-date": "1932-09", "volume": "62", "number": "3"},
+      {"issue-date": "1932-10", "volume": "62", "number": "4"},
+      {"issue-date": "1932-11", "volume": "62", "number": "5"},
+      {"issue-date": "1932-12", "volume": "62", "number": "6"},
+      {"issue-date": "1933-01", "volume": "63", "number": "1",
+       "cdate": "1932-12-16"}
    ],
    "renewed-contribution-completeness": "active/1949",
    "renewed-contributions": [
@@ -91,5 +107,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-01-03"
+   "last-updated": "2023-08-24"
 }

@@ -15,7 +15,7 @@
    "first-renewed-contribution":
      {"issue": {"issue-date": "1928-05", "volume": "156", "number": "936"}},
    "first-renewed-contribution-source": "1955-JanJun",
-   "renewed-issue-completeness": "active/1930",
+   "renewed-issue-completeness": "active/1931",
    "renewed-issues": [
      {"issue-date": "1928-02", "volume": "156", "number": "933",
       "cdate": "1928-01-18"},
@@ -68,7 +68,21 @@
      {"issue-date": "1931-07", "volume": "163", "number": "974"},
      {"issue-date": "1931-08", "volume": "163", "number": "975"},
      {"issue-date": "1931-09", "volume": "163", "number": "976"},
-     {"issue-date": "1931-10", "volume": "163", "number": "977"}
+     {"issue-date": "1931-10", "volume": "163", "number": "977"},
+     {"issue-date": "1931-11", "volume": "163", "number": "978"},
+     {"issue-date": "1931-12", "volume": "164", "number": "979"},
+     {"issue-date": "1932-01", "volume": "164", "number": "980",
+      "cdate": "1931-12-18"},
+     {"issue-date": "1932-02", "volume": "164", "number": "981",
+      "cdate": "1932-01-16"},
+     {"issue-date": "1932-03", "volume": "164", "number": "982"},
+     {"issue-date": "1932-04", "volume": "164", "number": "983"},
+     {"issue-date": "1932-05", "volume": "164", "number": "984"},
+     {"issue-date": "1932-06", "volume": "165", "number": "985"},
+     {"issue-date": "1932-07", "volume": "165", "number": "986"},
+     {"issue-date": "1932-08", "volume": "165", "number": "987"},
+     {"issue-date": "1932-09", "volume": "165", "number": "988"},
+     {"issue-date": "1932-10", "volume": "165", "number": "989"}
    ],
    "renewed-contribution-completeness": "active/1928",
    "renewed-contributions": [
@@ -211,5 +225,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-01-03"
+   "last-updated": "2023-08-24"
 }

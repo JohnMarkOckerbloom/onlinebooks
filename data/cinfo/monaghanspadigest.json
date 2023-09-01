@@ -9,7 +9,7 @@
    "first-renewed-issue-source": "1954-JanJun",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce",
-   "renewed-issue-completeness": "active/1930",
+   "renewed-issue-completeness": "active/1931",
    "renewed-issues": [
      {"issue-date": "1927-12", "volume": "29", "number": "4",
       "cdate": "1928-01-05"},
@@ -33,12 +33,16 @@
      {"issue-date": "1931-04", "volume": "33", "number": "1"},
      {"issue-date": "1931-06", "volume": "33", "number": "2"},
      {"issue-date": "1931-08", "volume": "33", "number": "3"},
-     {"issue-date": "1931-12", "volume": "33", "number": "4"}
+     {"issue-date": "1931-12", "volume": "33", "number": "4"},
+     {"issue-date": "1931", "number": "annual volume", "cdate": "1932-04-06"},
+     {"issue-date": "1932-04", "volume": "34", "number": "1"},
+     {"issue-date": "1932-06", "volume": "34", "number": "2"},
+     {"issue-date": "1932-08", "volume": "34", "number": "3"}
    ],
    "additional-note": "The first active renewal, dated December 1927, was renewed under the title 'Cumulative Annual Digest of Pennsylvania Decisions'.  Quarterly issues were usually renewed as Periodicals, though some were renewed as books. The annual issues were renewed as books.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-01-01"
+   "last-updated": "2023-08-24"
 }

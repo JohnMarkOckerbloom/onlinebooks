@@ -7,7 +7,7 @@
    "first-renewed-contribution":
      {"issue": {"issue-date": "1928-07"}},
    "first-renewed-contribution-source": "1955-JulDex",
-   "renewed-issue-completeness": "active/1930",
+   "renewed-issue-completeness": "active/1931",
    "renewed-issues": [
      {"issue-date": "1929-02", "volume": "62", "number": "2"},
      {"issue-date": "1929-03", "volume": "62", "number": "3"},
@@ -47,7 +47,19 @@
      {"issue-date": "1931-09", "volume": "67", "number": "3"},
      {"issue-date": "1931-10", "volume": "67", "number": "4"},
      {"issue-date": "1931-11", "volume": "67", "number": "5"},
-     {"issue-date": "1931-12", "volume": "67", "number": "6"}
+     {"issue-date": "1931-12", "volume": "67", "number": "6"},
+     {"issue-date": "1932-01", "volume": "68", "number": "1",
+      "cdate": "1931-12-25"},
+     {"issue-date": "1932-02", "volume": "68", "number": "2",
+      "cdate": "1932-01-20"},
+     {"issue-date": "1932-03", "volume": "68", "number": "3"},
+     {"issue-date": "1932-04", "volume": "68", "number": "4"},
+     {"issue-date": "1932-05", "volume": "68", "number": "5"},
+     {"issue-date": "1932-06", "volume": "68", "number": "6"},
+     {"issue-date": "1932-07", "volume": "69", "number": "1"},
+     {"issue-date": "1932-08", "volume": "69", "number": "2"},
+     {"issue-date": "1932-09", "volume": "69", "number": "3"},
+     {"issue-date": "1932-10", "volume": "69", "number": "4"}
    ],
    "renewed-contribution-completeness": "active/1949",
    "renewed-contributions": [
@@ -89,5 +101,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-01-04"
+   "last-updated": "2023-08-24"
 }

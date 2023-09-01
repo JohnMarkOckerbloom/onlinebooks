@@ -9,7 +9,7 @@
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1928-02"}},
    "first-renewed-contribution-source": "1955-JulDec",
-   "renewed-issue-completeness": "active/1930",
+   "renewed-issue-completeness": "active/1931",
    "renewed-issues": [
      {"issue-date": "1928-02", "volume": "34", "number": "12",
       "cdate": "1928-01-10"},
@@ -61,7 +61,24 @@
      {"issue-date": "1931-06", "volume": "38", "number": "4"},
      {"issue-date": "1931-07", "volume": "38", "number": "5"},
      {"issue-date": "1931-08", "volume": "38", "number": "6"},
-     {"issue-date": "1931-09", "volume": "38", "number": "7"}
+     {"issue-date": "1931-09", "volume": "38", "number": "7"},
+     {"issue-date": "1931-10", "volume": "38", "number": "8"},
+     {"issue-date": "1931-11", "volume": "38", "number": "9"},
+     {"issue-date": "1931-12", "volume": "38", "number": "10"},
+     {"issue-date": "1932-01", "volume": "38", "number": "11",
+      "cdate": "1931-12-17"},
+     {"issue-date": "1932-02", "volume": "38", "number": "12",
+      "cdate": "1932-01-04"},
+     {"issue-date": "1932-03", "volume": "39", "number": "1"},
+     {"issue-date": "1932-04", "volume": "39", "number": "2"},
+     {"issue-date": "1932-05", "volume": "39", "number": "3"},
+     {"issue-date": "1932-06", "volume": "39", "number": "4"},
+     {"issue-date": "1932-07", "volume": "39", "number": "5"},
+     {"issue-date": "1932-08", "volume": "39", "number": "6"},
+     {"issue-date": "1932-09", "volume": "39", "number": "7"},
+     {"issue-date": "1932-10", "volume": "39", "number": "8"},
+     {"issue-date": "1932-11", "volume": "39", "number": "9"},
+     {"issue-date": "1932-12", "volume": "39", "number": "10"}
    ],
    "additional-note":
      "This periodical includes sheet music that might have renewals under Music, rather than under Contributions to Periodicals. We have not systematically surveyed Music copyright renewals.",
@@ -69,5 +86,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-01-02"
+   "last-updated": "2023-08-24"
 }

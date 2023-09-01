@@ -6,7 +6,7 @@
    "first-renewed-contribution":
       {"issue": {"issue-date": "1954-11-08"}},
    "first-renewed-contribution-source": "database",
-   "renewed-issue-completeness": "active/1930",
+   "renewed-issue-completeness": "active/1931",
    "renewed-issues": [
       {"issue-date": "1930-10", "volume": "82", "number": "4"},
       {"issue-date": "1930-11", "volume": "82", "number": "5"},
@@ -19,11 +19,14 @@
       {"issue-date": "1931-06-01", "volume": "83", "number": "6"},
       {"issue-date": "1931-07-01", "volume": "84", "number": "1"},
       {"issue-date": "1931-08-01", "volume": "84", "number": "2"},
-      {"issue-date": "1931-09-01", "volume": "84", "number": "3"}
+      {"issue-date": "1931-09-01", "volume": "84", "number": "3"},
+      {"issue-date": "1931-10-01", "volume": "84", "number": "4"},
+      {"issue-date": "1931-11-01", "volume": "84", "number": "5"},
+      {"issue-date": "1931-12-01", "volume": "84", "number": "6"}
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-11-02"
+   "last-updated": "2023-08-24"
 }

@@ -121,7 +121,7 @@
       {"issue-date": "1937-03", "volume": "38", "number": "6"},
       {"issue-date": "1937-04", "volume": "38", "number": "7"}
    ],
-   "renewed-contribution-completeness": "active/1928",
+   "renewed-contribution-completeness": "active/1929",
    "renewed-contributions": [
      {"issue": {"issue-date": "1928-02", "volume": "29", "number": "5"}, 
       "title": "Children of Noah",
@@ -299,6 +299,13 @@
       }
      },
      {"issue": {"issue-date": "1929-06", "volume": "30", "number": "9"},
+      "title": "The Profaning of Granny Run",
+      "author": {
+       "authorized": "Burman, Ben Lucien, 1895-1984",
+       "lcna": "n50032333"
+      }
+     },
+     {"issue": {"issue-date": "1929-06", "volume": "30", "number": "9"},
       "title": "Is America a Paradise for Women?",
       "author": {
          "authorized": "Lewis, Sinclair, 1885-1951",
@@ -330,6 +337,13 @@
        "lcna": "no93001232"
       }
      },
+     {"issue": {"issue-date": "1929-09", "volume": "30", "number": "12"},
+        "title": "Surprise",
+        "author": {
+         "authorized": "Steele, Wilbur Daniel, 1886-1970",
+         "lcna": "no98007702"
+        }
+     },
      {"issue": {"issue-date": "1929-10", "volume": "31", "number": "1"}, 
       "title": "The World's Best Butler",
       "author": {
@@ -337,12 +351,138 @@
        "lcna": "n97112081"
       }
      },
+     {"issue": {"issue-date": "1929-10", "volume": "31", "number": "1"}, 
+        "title": "Conjuh",
+        "author": {
+         "authorized": "Steele, Wilbur Daniel, 1886-1970",
+         "lcna": "no98007702"
+        }
+     },
      {"issue": {"issue-date": "1929-11", "volume": "31", "number": "2"},
       "title": "The Funny Man",
       "author": {
          "authorized": "Connell, Richard Edward, 1893-1949",
          "lcna": "n50028704"
        }
+     },
+     {"issue": {"issue-date": "1929-11", "volume": "31", "number": "2"},
+      "title": "Fascination",
+      "title-note": "part 1 of 4",
+       "author": {
+         "authorized": "Miller, Alice Duer, 1874-1942",
+         "lcna": "n83057208"
+       }
+     },
+     {"issue": {"issue-date": "1929-12", "volume": "31", "number": "3"},
+      "title": "Fascination",
+      "title-note": "part 2 of 4",
+       "author": {
+         "authorized": "Miller, Alice Duer, 1874-1942",
+         "lcna": "n83057208"
+       }
+     },
+     {"issue": {"issue-date": "1930-01", "volume": "31", "number": "4"},
+      "title": "Fascination",
+      "title-note": "part 3 of 4",
+       "author": {
+         "authorized": "Miller, Alice Duer, 1874-1942",
+         "lcna": "n83057208"
+       }
+     },
+     {"issue": {"issue-date": "1930-02", "volume": "31", "number": "5"}, 
+      "title": "Rent a Husband",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1930-02", "volume": "31", "number": "5"}, 
+      "title": "The Duel of the Queens",
+      "title-note": "part 1 of 5",
+      "note": "Author name is a pseudonym for Lily Adams Beck",
+      "author": {
+         "authorized": "Barrington, E., -1931",
+         "lcna": "no96058051"
+      }
+     },
+     {"issue": {"issue-date": "1930-02", "volume": "31", "number": "5"}, 
+      "title": "Fascination",
+      "title-note": "part 4 of 4",
+       "author": {
+         "authorized": "Miller, Alice Duer, 1874-1942",
+         "lcna": "n83057208"
+       }
+     },
+     {"issue": {"issue-date": "1930-03", "volume": "31", "number": "6"}, 
+      "title": "The Duel of the Queens",
+      "title-note": "part 2 of 5",
+      "note": "Author name is a pseudonym for Lily Adams Beck",
+      "author": {
+         "authorized": "Barrington, E., -1931",
+         "lcna": "no96058051"
+      }
+     },
+     {"issue": {"issue-date": "1930-04", "volume": "31", "number": "7"}, 
+      "title": "The Duel of the Queens",
+      "title-note": "part 3 of 5",
+      "note": "Author name is a pseudonym for Lily Adams Beck",
+      "author": {
+         "authorized": "Barrington, E., -1931",
+         "lcna": "no96058051"
+      }
+     },
+     {"issue": {"issue-date": "1930-05", "volume": "31", "number": "8"}, 
+      "title": "The Dead Hand",
+      "author": {
+       "authorized": "Weiman, Rita, 1889-1954",
+       "lcna": "n89129751"
+      }
+     },
+     {"issue": {"issue-date": "1930-05", "volume": "31", "number": "8"}, 
+      "title": "The Duel of the Queens",
+      "title-note": "part 4 of 5",
+      "note": "Author name is a pseudonym for Lily Adams Beck",
+      "author": {
+         "authorized": "Barrington, E., -1931",
+         "lcna": "no96058051"
+      }
+     },
+     {"issue": {"issue-date": "1930-06", "volume": "31", "number": "9"}, 
+      "title": "The Man Who Would Be Brave",
+      "author": {
+       "authorized": "Irwin, Wallace, 1876-1959",
+       "lcna": "n97112081"
+      }
+     },
+     {"issue": {"issue-date": "1930-06", "volume": "31", "number": "9"}, 
+      "title": "The Duel of the Queens",
+      "title-note": "part 5 of 5",
+      "note": "Author name is a pseudonym for Lily Adams Beck",
+      "author": {
+         "authorized": "Barrington, E., -1931",
+         "lcna": "no96058051"
+      }
+     },
+     {"issue": {"issue-date": "1930-11", "volume": "32", "number": "2"}, 
+        "title": "The Educated Pig",
+        "author": {
+         "authorized": "Benét, Stephen Vincent, 1898-1943",
+         "lcna": "n50007691"
+        }
+     },
+     {"issue": {"issue-date": "1930-12", "volume": "32", "number": "3"}, 
+      "title": "Dr. Barbury's Vision",
+      "author": {
+       "authorized": "Johnston, Mary, 1870-1936",
+       "lcna": "n80156622"
+      }
+     },
+     {"issue": {"issue-date": "1930-12", "volume": "32", "number": "3"}, 
+      "title": "Mama's Boy",
+      "author": {
+       "authorized": "White, Nelia Gardner, 1894-1957",
+       "lcna": "no93013886"
+      }
      },
      {"issue": {"issue-date": "1933-04", "volume": "34", "number": "7"},
         "title": "Silver Fox",
@@ -356,5 +496,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-06-06"
+   "last-updated": "2023-08-24"
 }

@@ -13,7 +13,7 @@
    "first-renewed-contribution":
       {"issue-date": "1932-10-25", "volume": "37", "number": "2"},
    "first-renewed-contribution-source": "1959-JulDec",
-   "renewed-issue-completeness": "active/1930",
+   "renewed-issue-completeness": "active/1931",
    "renewed-issues": [
       {"issue-date": "1928-01-08", "volume": "18", "number": "3"},
       {"issue-date": "1928-01-22", "volume": "18", "number": "4"},
@@ -115,11 +115,40 @@
       {"issue-date": "1931-10-10", "volume": "33", "number": "1"},
       {"issue-date": "1931-10-25", "volume": "33", "number": "2"},
       {"issue-date": "1931-11-10", "volume": "33", "number": "3"},
-      {"issue-date": "1931-11-25", "volume": "33", "number": "4"}
+      {"issue-date": "1931-11-25", "volume": "33", "number": "4"},
+      {"issue-date": "1931-12-10", "volume": "33", "number": "5"},
+      {"issue-date": "1931-12-25", "volume": "33", "number": "6"},
+      {"issue-date": "1932-01-10", "volume": "34", "number": "1",
+       "cdate": "1931-12-11"},
+      {"issue-date": "1932-01-25", "volume": "34", "number": "2",
+       "cdate": "1931-12-25"},
+      {"issue-date": "1932-01-10", "volume": "34", "number": "3",
+       "cdate": "1932-01-08"},
+      {"issue-date": "1932-02-25", "volume": "34", "number": "4"},
+      {"issue-date": "1932-03-10", "volume": "34", "number": "5"},
+      {"issue-date": "1932-03-25", "volume": "34", "number": "6"},
+      {"issue-date": "1932-04-10", "volume": "35", "number": "1"},
+      {"issue-date": "1932-04-25", "volume": "35", "number": "2"},
+      {"issue-date": "1932-05-10", "volume": "35", "number": "3"},
+      {"issue-date": "1932-05-25", "volume": "35", "number": "4"},
+      {"issue-date": "1932-06-10", "volume": "35", "number": "5"},
+      {"issue-date": "1932-06-25", "volume": "35", "number": "6"},
+      {"issue-date": "1932-07-10", "volume": "36", "number": "1"},
+      {"issue-date": "1932-07-25", "volume": "36", "number": "2"},
+      {"issue-date": "1932-08-10", "volume": "36", "number": "3"},
+      {"issue-date": "1932-08-25", "volume": "36", "number": "4"},
+      {"issue-date": "1932-09-10", "volume": "36", "number": "5"},
+      {"issue-date": "1932-09-25", "volume": "36", "number": "6"},
+      {"issue-date": "1932-10-10", "volume": "37", "number": "1"},
+      {"issue-date": "1932-10-25", "volume": "37", "number": "2"},
+      {"issue-date": "1932-11-10", "volume": "37", "number": "3"},
+      {"issue-date": "1932-11-25", "volume": "37", "number": "4"},
+      {"issue-date": "1932-12-10", "volume": "37", "number": "5"},
+      {"issue-date": "1932-12-25", "volume": "37", "number": "6"}
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-01-04"
+   "last-updated": "2023-08-24"
 }

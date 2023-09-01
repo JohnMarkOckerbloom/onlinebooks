@@ -14,6 +14,11 @@
       {"issue": {"issue-date": "1932-06", "volume": "2", "number": "4"}},
    "first-renewed-contribution-source": "1959-JanJun",
    "last-issue": {"issue-date": "1953-08", "volume": "68", "number": "5"},
+   "renewed-issues": [
+     {"issue-date": "1932-07", "volume": "3", "number": "1"},
+     {"issue-date": "1932-11", "volume": "4", "number": "1"},
+     {"issue-date": "1932-12", "volume": "4", "number": "2"}
+   ],
    "additional-notes": [
       "'Dime Detective Magazine Combined With Flynn's Detective Fiction' was the cover title of most issues of this magazine between September 1944 and January  1951.",
      "Some renewals for 1938 issues of Dime Detective were misfiled under Dime Mystery in the 1965 CCE. (They can be matched with 1938 original registrations via their copyright ID numbers and volume and issue numbers.)",
@@ -23,5 +28,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-02-10"
+   "last-updated": "2023-08-24"
 }

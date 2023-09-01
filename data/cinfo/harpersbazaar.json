@@ -1,5 +1,4 @@
-{
-   "title": "Harper's Bazaar",
+{ "title": "Harper's Bazaar",
    "aka": ["Harper's Bazar"],
    "online": "1",
    "first-issue": {"issue-date": "1867-11-02", "volume": "1", "number": "1"},
@@ -10,7 +9,7 @@
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1928-02"}},
    "first-renewed-contribution-source": "1955-JanJun",
-   "renewed-issue-completeness": "active/1930",
+   "renewed-issue-completeness": "active/1931",
    "renewed-issues": [
      {"issue-date": "1928-02", "volume": "62", "number": "2",
       "cdate": "1928-01-28"},
@@ -57,7 +56,21 @@
       "cdate": "1930-12-28"},
      {"issue-date": "1931-02", "volume": "65", "number": "2",
       "cdate": "1931-01-28"},
-     {"issue-date": "1931-03", "volume": "65", "number": "3"}
+     {"issue-date": "1931-03", "volume": "65", "number": "3"},
+     {"issue-date": "1931-04", "volume": "65", "number": "4"},
+     {"issue-date": "1931-05", "volume": "65", "number": "5"},
+     {"issue-date": "1931-06", "volume": "65", "number": "6"},
+     {"issue-date": "1931-07", "volume": "65", "number": "7"},
+     {"issue-date": "1931-08", "volume": "65", "number": "8"},
+     {"issue-date": "1931-09", "volume": "65", "number": "9"},
+     {"issue-date": "1931-10", "volume": "65", "number": "10"},
+     {"issue-date": "1931-11", "volume": "65", "number": "11"},
+     {"issue-date": "1931-12", "volume": "65", "number": "12"},
+     {"issue-date": "1932-01", "volume": "66", "number": "1",
+      "cdate": "1931-12-28"},
+     {"issue-date": "1932-02", "volume": "66", "number": "2",
+      "cdate": "1932-01-28"},
+     {"issue-date": "1932-03", "volume": "66", "number": "3"}
    ],
    "renewed-contribution-completeness": "active/1930",
    "renewed-contributions": [
@@ -376,5 +389,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-01-03"
+   "last-updated": "2023-08-24"
 }

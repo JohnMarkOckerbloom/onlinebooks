@@ -10,7 +10,7 @@
    "first-renewed-contribution":
       {"issue": {"issue-date": "1945-11"}},
    "first-renewed-contribution-source": "1973-JanJun",
-   "renewed-issue-completeness": "active/1930",
+   "renewed-issue-completeness": "active/1931",
    "renewed-issues": [
      {"issue-date": "1928-02", "volume": "13", "number": "2",
       "cdate": "1928-01-30"},
@@ -59,7 +59,21 @@
      {"issue-date": "1931-03", "volume": "19", "number": "3"},
      {"issue-date": "1931-04", "volume": "19", "number": "4"},
      {"issue-date": "1931-05", "volume": "19", "number": "5"},
-     {"issue-date": "1931-06", "volume": "19", "number": "6"}
+     {"issue-date": "1931-06", "volume": "19", "number": "6"},
+     {"issue-date": "1931-07", "volume": "20", "number": "1"},
+     {"issue-date": "1931-08", "volume": "20", "number": "2"},
+     {"issue-date": "1931-09", "volume": "20", "number": "3"},
+     {"issue-date": "1931-10", "volume": "20", "number": "4"},
+     {"issue-date": "1931-11", "volume": "20", "number": "5"},
+     {"issue-date": "1931-12", "volume": "20", "number": "6"},
+     {"issue-date": "1932-01", "volume": "21", "number": "1",
+      "cdate": "1931-12-24"},
+     {"issue-date": "1932-02", "volume": "21", "number": "2",
+      "cdate": "1932-01-25"},
+     {"issue-date": "1932-03", "volume": "21", "number": "3"},
+     {"issue-date": "1932-04", "volume": "21", "number": "4"},
+     {"issue-date": "1932-05", "volume": "21", "number": "5"},
+     {"issue-date": "1932-06", "volume": "21", "number": "6"}
    ],
    "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
@@ -121,5 +135,5 @@
    },
    "acknowledgement": 
       "Thanks to Peter Sullivan for copyright research on this title.",
-   "last-updated": "2023-01-02"
+   "last-updated": "2023-08-24"
 }

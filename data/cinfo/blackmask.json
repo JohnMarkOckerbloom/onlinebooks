@@ -13,7 +13,7 @@
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1928-02", "volume": "10", "number": "12"}},
    "first-renewed-contribution-source": "1955-JanJun",
-   "renewed-issue-completeness": "active/1930",
+   "renewed-issue-completeness": "active/1931",
    "renewed-issues": [
            {"issue-date": "1928-02", "volume": "10", "number": "12",
             "cdate": "1928-01-12"},           
@@ -67,7 +67,22 @@
            {"issue-date": "1931-08", "volume": "14", "number": "6"},
            {"issue-date": "1931-09", "volume": "14", "number": "7"},
            {"issue-date": "1931-10", "volume": "14", "number": "8"},
-           {"issue-date": "1931-11", "volume": "14", "number": "9"}
+           {"issue-date": "1931-11", "volume": "14", "number": "9"},
+           {"issue-date": "1931-12", "volume": "14", "number": "10"},
+           {"issue-date": "1932-01", "volume": "14", "number": "11",
+            "cdate": "1931-12-12"},
+           {"issue-date": "1932-02", "volume": "14", "number": "12",
+            "cdate": "1932-01-12"},
+           {"issue-date": "1932-03", "volume": "15", "number": "1"},
+           {"issue-date": "1932-04", "volume": "15", "number": "2"},
+           {"issue-date": "1932-05", "volume": "15", "number": "3"},
+           {"issue-date": "1932-06", "volume": "15", "number": "4",
+            "note": "Issue numbering per FictionMags and logical issue order.  CCE registration and renewal records say that the June 1932 issue was volume 10, number 9."},
+           {"issue-date": "1932-07", "volume": "15", "number": "5"},
+           {"issue-date": "1932-08", "volume": "15", "number": "6"},
+           {"issue-date": "1932-09", "volume": "15", "number": "7"},
+           {"issue-date": "1932-10", "volume": "15", "number": "8"},
+           {"issue-date": "1932-11", "volume": "15", "number": "9"}
    ],
    "renewed-contribution-completeness": "active/1928",
    "renewed-contributions": [
@@ -251,5 +266,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-01-02"
+   "last-updated": "2023-08-24"
 }

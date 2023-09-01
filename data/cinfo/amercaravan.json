@@ -1,15 +1,99 @@
 {
    "title": "The American Caravan",
    "title-note": "yearbook of American literature",
-   "aka": ["The New American Caravan"],
-   "first-renewed-issue": "none",
-   "first-renewed-issue-source": "cce",
+   "online": "1",
+   "aka": ["The New American Caravan", "The New Caravan",
+           "The Second American Caravan"],
+   "first-issue": {"volume": "1", "issue-date": "1927"},
+   "first-renewed-issue": {"volume": "5", "cdate": "1936"},
+   "first-renewed-issue-source": "1964-JulDec",
    "first-renewed-contribution":
       {"issue": {"volume": "2", "issue-date": "1928"}},
    "first-renewed-contribution-source": "1955-JulDec",
+   "last-issue": {"volume": "5", "cdate": "1936"},
+   "additional-note": 
+       "The second volume was titled 'The Second American Caravan'.  The third was titled 'The New American Caravan'.  The fifth, and last volume we know of, was titled 'The New Caravan'. That volume was renewed under Books, and not under Periodicals.",
+   "renewed-issue-completeness": "active/end",
+   "renewed-issues": [
+    {"volume": "5", "cdate": "1936"}
+   ],
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1928", "volume": "2"}, 
+      "title": "Night Cries",
+      "author": {
+         "authorized": "Stevenson, Philip, 1896-1965",
+         "lcna": "no2002007736"
+      }
+     },
+     {"issue": {"cdate": "1929", "volume": "3"}, 
+        "title": "Midsummer Passion",
+        "author": {
+         "authorized": "Caldwell, Erskine, 1903-1987",
+         "lcna": "n78095661"
+        }
+     },
+     {"issue": {"cdate": "1929", "volume": "3"}, 
+        "title": "Tracing Life With a Finger",
+        "author": {
+         "authorized": "Caldwell, Erskine, 1903-1987",
+         "lcna": "n78095661"
+        }
+     },
+     {"issue": {"cdate": "1929", "volume": "3"}, 
+       "title": "In a Strange House; Who Tears the Serpent From the Flesh; Promenade on Any Street; Lovers Relentlessly; Rape of the Leaf; Mens Creatrix; Strange Calendar; Promise Me; For the Word is Flesh",
+       "author": {
+        "authorized": "Kunitz, Stanley, 1905-2006",
+        "lcna": "n79007720"
+       }
+     },
+     {"issue": {"cdate": "1929", "volume": "3"}, 
+       "title": "Tread the Green Grass: A Folk Fantasy in 3 Acts and 2 Interludes, With Music and Dumb-Show",
+       "author": {
+        "authorized": "Green, Paul, 1894-1981",
+        "lcna": "n79056649"
+       }
+     },
+     {"issue": {"cdate": "1931", "volume": "4"}, 
+      "title": "Ad Astra",
+      "author": {
+         "authorized": "Faulkner, William, 1897-1962",
+         "lcna": "n79003304"
+      }
+     },
+     {"issue": {"cdate": "1931", "volume": "4"}, 
+      "title": "Civilization",
+      "author": {
+         "authorized": "Stevenson, Philip, 1896-1965",
+         "lcna": "no2002007736"
+      }
+     },
+     {"issue": {"cdate": "1936", "volume": "5"},
+      "title": "Speech",
+      "author": {
+         "authorized": "Cummings, E. E. (Edward Estlin), 1894-1962",
+         "lcna": "n79038464"
+      }
+     },
+     {"issue": {"cdate": "1936", "volume": "5"},
+        "title": "Far From Cibola",
+        "author": {
+         "authorized": "Horgan, Paul, 1903-1995",
+         "lcna": "n79060797"
+        }
+     },
+     {"issue": {"cdate": "1936", "volume": "5"},
+        "title": "Big Boy Leaves Home",
+        "author": {
+         "authorized": "Wright, Richard, 1908-1960",
+         "lcna": "n80036620"
+        }
+     }
+   ],
+   "comment": "Pick up again with 1963, where you'll see renewals for the 1936 volumes.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-01-01"
+   "last-updated": "2023-08-14"
 }

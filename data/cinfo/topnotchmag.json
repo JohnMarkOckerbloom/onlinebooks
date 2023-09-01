@@ -13,7 +13,7 @@
    "first-renewed-contribution":
      {"issue": {"issue-date": "1928-02-01", "volume": "73", "number": "1"}},
    "first-renewed-contribution-source": "1955-JanJun",
-   "renewed-issue-completeness": "active/1930",
+   "renewed-issue-completeness": "active/1931",
    "renewed-issues": [
       {"issue-date": "1928-01-15", "volume": "72", "number": "6",
        "cdate": "1928-01-13"},
@@ -113,7 +113,34 @@
       {"issue-date": "1931-10-15", "volume": "87", "number": "4"},
       {"issue-date": "1931-11-01", "volume": "87", "number": "5"},
       {"issue-date": "1931-11-15", "volume": "87", "number": "6"},
-      {"issue-date": "1931-12-01", "volume": "88", "number": "1"}
+      {"issue-date": "1931-12-01", "volume": "88", "number": "1"},
+      {"issue-date": "1931-12-15", "volume": "88", "number": "2"},
+      {"issue-date": "1932-01-01", "volume": "88", "number": "3",
+       "cdate": "1931-12-02"},
+      {"issue-date": "1932-01-15", "volume": "88", "number": "4",
+       "cdate": "1931-12-16"},
+      {"issue-date": "1932-02-01", "volume": "88", "number": "5",
+        "cdate": "1931-12-31"},
+      {"issue-date": "1932-02-15", "volume": "88", "number": "6",
+        "cdate": "1932-01-15"},
+      {"issue-date": "1932-03-01", "volume": "89", "number": "1"},
+      {"issue-date": "1932-03-15", "volume": "89", "number": "2"},
+      {"issue-date": "1932-04-01", "volume": "89", "number": "3"},
+      {"issue-date": "1932-04-15", "volume": "89", "number": "4"},
+      {"issue-date": "1932-05-01", "volume": "89", "number": "5"},
+      {"issue-date": "1932-05-15", "volume": "89", "number": "6"},
+      {"issue-date": "1932-06-01", "volume": "90", "number": "1"},
+      {"issue-date": "1932-06-15", "volume": "90", "number": "2"},
+      {"issue-date": "1932-07-01", "volume": "90", "number": "3"},
+      {"issue-date": "1932-07-15", "volume": "90", "number": "4"},
+      {"issue-date": "1932-08-01", "volume": "90", "number": "5"},
+      {"issue-date": "1932-08-15", "volume": "90", "number": "6"},
+      {"issue-date": "1932-09-01", "volume": "91", "number": "1"},
+      {"issue-date": "1932-09-15", "volume": "91", "number": "2"},
+      {"issue-date": "1932-10-01", "volume": "91", "number": "3"},
+      {"issue-date": "1932-10", "volume": "91", "number": "4"},
+      {"issue-date": "1932-11", "volume": "91", "number": "5"},
+      {"issue-date": "1932-12", "volume": "91", "number": "6"}
    ],
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
@@ -199,5 +226,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-01-04"
+   "last-updated": "2023-08-24"
 }

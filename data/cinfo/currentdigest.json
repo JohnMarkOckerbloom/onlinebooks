@@ -10,7 +10,7 @@
    "preceded-by":
      [{"id": "americandigest",
        "note": "American Digest (Monthly advance sheets, Key number series)"}],
-   "renewed-issue-completeness": "active/1930",
+   "renewed-issue-completeness": "active/1931",
    "renewed-issues": [
      {"issue-date": "1927-12", "number": "447", "cdate": "1928-01-09"},
      {"issue-date": "1927", "volume": "2", "number": "Annual edition",
@@ -67,13 +67,31 @@
      {"issue-date": "1931-03", "number": "485"},
      {"issue-date": "1931-04", "number": "486"},
      {"issue-date": "1931-05", "number": "487"},
+     {"issue-date": "1931-January 1 - May 31,", "volume": "6"},
      {"issue-date": "1931-06", "number": "488"},
-     {"issue-date": "1931-07", "number": "489"}
+     {"issue-date": "1931-07", "number": "489"},
+     {"issue-date": "1931-August-September", "number": "490"},
+     {"issue-date": "1931-10", "number": "491"},
+     {"issue-date": "1931-11", "number": "492"},
+     {"issue-date": "1931-12", "number": "493"},
+     {"issue-date": "1931-June 1 - December 31,", "volume": "7",
+      "cdate": "1932-02-19"},
+     {"issue-date": "1932-01", "number": "494"},
+     {"issue-date": "1932-02", "number": "495"},
+     {"issue-date": "1932-03", "number": "496"},
+     {"issue-date": "1932-04", "number": "497"},
+     {"issue-date": "1932-05", "number": "498"},
+     {"issue-date": "1932-January 1 - May 3[1?],", "volume": "8"},
+     {"issue-date": "1932-06", "number": "499"},
+     {"issue-date": "1932-07", "number": "500"},
+     {"issue-date": "1932-August-September", "number": "501"},
+     {"issue-date": "1932-June 1 - December 31,", "volume": "9",
+      "cdate": "1933-02-24"}
    ],
    "additional-note": "The monthly issues are renewed under Periodicals, with some described as 'monthly advance sheets, key number series'. The annual and semi-annual editions are renewed under Books, as are a number of index volumes not covered here.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-01-01"
+   "last-updated": "2023-08-24"
 }

@@ -16,7 +16,7 @@
    "first-renewed-contribution-source": "cce",
    "last-issue":
      {"issue-date": "1932-09", "volume": "11", "number": "1"},
-   "renewed-issue-completeness": "active/1930",
+   "renewed-issue-completeness": "active/end",
    "renewed-issues": [
      {"issue-date": "1930-03-15", "volume": "4", "number": "1"},
      {"issue-date": "1930-04-01", "volume": "4", "number": "2"},
@@ -53,11 +53,23 @@
      {"issue-date": "1931-08", "volume": "8", "number": "6"},
      {"issue-date": "1931-09", "volume": "9", "number": "1"},
      {"issue-date": "1931-10", "volume": "9", "number": "2"},
-     {"issue-date": "1931-11", "volume": "9", "number": "3"}
+     {"issue-date": "1931-11", "volume": "9", "number": "3"},
+     {"issue-date": "1931-12", "volume": "9", "number": "4"},
+     {"issue-date": "1932-01", "volume": "9", "number": "5",
+      "cdate": "1931-12-09"},
+     {"issue-date": "1932-02", "volume": "9", "number": "6",
+      "cdate": "1932-01-13"},
+     {"issue-date": "1932-03", "volume": "10", "number": "1"},
+     {"issue-date": "1932-04", "volume": "10", "number": "2"},
+     {"issue-date": "1932-05", "volume": "10", "number": "3"},
+     {"issue-date": "1932-06", "volume": "10", "number": "4"},
+     {"issue-date": "1932-07", "volume": "10", "number": "5"},
+     {"issue-date": "1932-08", "volume": "10", "number": "6"},
+     {"issue-date": "1932-09", "volume": "11", "number": "1"}
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-11-02"
+   "last-updated": "2023-08-24"
 }

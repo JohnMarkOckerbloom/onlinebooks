@@ -13,7 +13,7 @@
       {"id": "seleccionesrd", "note": "Selecciones del Reader's Digest"},
       {"id": "selecoesrd", "note": "Selecoes do Reader's Digest"}
    ],
-   "renewed-issue-completeness": "active/1930",
+   "renewed-issue-completeness": "active/1931",
    "renewed-issues": [
       {"issue-date": "1928-02", "volume": "6", "number": "70",
        "cdate": "1928-01-31"},
@@ -65,12 +65,31 @@
       {"issue-date": "1931-06", "volume": "19", "number": "110"},
       {"issue-date": "1931-07", "volume": "19", "number": "111"},
       {"issue-date": "1931-08", "volume": "19", "number": "112"},
-      {"issue-date": "1931-09", "volume": "19", "number": "113"}
+      {"issue-date": "1931-09", "volume": "19", "number": "113"},
+      {"issue-date": "1931-10", "volume": "19", "number": "114"},
+      {"issue-date": "1931-11", "volume": "20", "number": "115"},
+      {"issue-date": "1931-12", "volume": "20", "number": "116"},
+      {"issue-date": "1932-01", "volume": "20", "number": "117",
+       "cdate": "1931-12-23"},
+      {"issue-date": "1932-02", "volume": "20", "number": "118",
+       "cdate": "1932-01-22"},
+      {"issue-date": "1932-03", "volume": "20", "number": "119"},
+      {"issue-date": "1932-04", "volume": "20", "number": "120"},
+      {"issue-date": "1932-05", "volume": "21", "number": "121"},
+      {"issue-date": "1932-06", "volume": "21", "number": "122"},
+      {"issue-date": "1932-07", "volume": "21", "number": "123"},
+      {"issue-date": "1932-08", "volume": "21", "number": "124"},
+      {"issue-date": "1932-09", "volume": "21", "number": "125"},
+      {"issue-date": "1932-10", "volume": "21", "number": "126"},
+      {"issue-date": "1932-11", "volume": "21", "number": "127"},
+      {"issue-date": "1932-12", "volume": "21", "number": "128"},
+      {"issue-date": "1933-01", "volume": "21", "number": "129",
+       "cdate": "1932-12-23"}
    ],
    "additional-note": "This magazine includes reprints and condensations of articles originally published elsewhere.  Those may have their own copyrights, and we have not systematically checked their renewal status.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-01-03"
+   "last-updated": "2023-08-24"
 }

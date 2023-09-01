@@ -1,5 +1,4 @@
-{
-   "title": "Adventure",
+{ "title": "Adventure",
    "online": "1",
    "contents": [
       {"url": "http://www.philsp.com/homeville/GFI/link.asp?magid=ADV",
@@ -135,7 +134,7 @@
        {"issue-date": "1932-11-15", "volume": "84", "number": "5"}
    ],
    "comment": "Pick up issue renewals with 1960,",
-   "renewed-contribution-completeness": "active/1928",
+   "renewed-contribution-completeness": "active/1929",
    "renewed-contributions": [
      {"issue": {"issue-date": "1928-01-15", "volume": "65", "number": "3"},
       "title": "The Sun Chasers",
@@ -360,6 +359,13 @@
       }
      },
      {"issue": {"issue-date": "1929-09-01", "volume": "71", "number": "6"},
+      "title": "Center-Fire Pride",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
+     {"issue": {"issue-date": "1929-09-01", "volume": "71", "number": "6"},
       "title": "Justice of the Range",
       "author": {
          "authorized": "Elston, Allan Vaughan, 1887-1976",
@@ -372,13 +378,248 @@
          "authorized": "Elston, Allan Vaughan, 1887-1976",
          "lcna": "no90023204"
        }
+     },
+     {"issue": {"issue-date": "1929-10-01", "volume": "72", "number": "2"},
+      "title": "The Invisible Guns of Kabul",
+      "title-note": "part 1 of 5",
+      "author": {
+         "authorized": "Mundy, Talbot, 1879-1940",
+         "lcna": "n82224112"
+      }
+     },
+     {"issue": {"issue-date": "1929-10-15", "volume": "72", "number": "3"},
+      "title": "The Invisible Guns of Kabul",
+      "title-note": "part 2 of 5",
+      "author": {
+         "authorized": "Mundy, Talbot, 1879-1940",
+         "lcna": "n82224112"
+      }
+     },
+     {"issue": {"issue-date": "1929-11-01", "volume": "72", "number": "4"},
+      "title": "The Invisible Guns of Kabul",
+      "title-note": "part 3 of 5",
+      "author": {
+         "authorized": "Mundy, Talbot, 1879-1940",
+         "lcna": "n82224112"
+      }
+     },
+     {"issue": {"issue-date": "1929-11-15", "volume": "72", "number": "5"},
+      "title": "The Invisible Guns of Kabul",
+      "title-note": "part 4 of 5",
+      "author": {
+         "authorized": "Mundy, Talbot, 1879-1940",
+         "lcna": "n82224112"
+      }
+     },
+     {"issue": {"issue-date": "1929-12-01", "volume": "72", "number": "6"},
+      "title": "The Invisible Guns of Kabul",
+      "title-note": "part 5 of 5",
+      "author": {
+         "authorized": "Mundy, Talbot, 1879-1940",
+         "lcna": "n82224112"
+      }
+     },
+     {"issue": {"issue-date": "1929-12-15", "volume": "73", "number": "1"},
+      "title": "Mystery Lake",
+      "author": {
+         "authorized": "Elston, Allan Vaughan, 1887-1976",
+         "lcna": "no90023204"
+       }
+     },
+     {"issue": {"issue-date": "1930-01-01", "volume": "73", "number": "2"},
+      "title": "Salud Senor",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
+     {"issue": {"issue-date": "1930-01-01", "volume": "73", "number": "2"},
+      "title": "Mavericks",
+      "title-note": "part 2 of 4",
+      "author": {
+       "authorized": "Tuttle, W. C. (Wilbur C.), 1883-1969",
+       "lcna": "n83190878"
+      }
+     },
+     {"issue": {"issue-date": "1930-01-15", "volume": "73", "number": "3"},
+      "title": "Mavericks",
+      "title-note": "part 3 of 4",
+      "author": {
+       "authorized": "Tuttle, W. C. (Wilbur C.), 1883-1969",
+       "lcna": "n83190878"
+      }
+     },
+     {"issue": {"issue-date": "1930-02-01", "volume": "73", "number": "4"},
+      "title": "Mystery Mountain",
+      "author": {
+         "authorized": "Elston, Allan Vaughan, 1887-1976",
+         "lcna": "no90023204"
+       }
+     },
+     {"issue": {"issue-date": "1930-02-01", "volume": "73", "number": "4"},
+      "title": "Mavericks",
+      "title-note": "part 4 of 4",
+      "author": {
+       "authorized": "Tuttle, W. C. (Wilbur C.), 1883-1969",
+       "lcna": "n83190878"
+      }
+     },
+     {"issue": {"issue-date": "1930-02-15", "volume": "73", "number": "5"}, 
+      "title": "The Bells of Valle Perdido",
+      "title-note": "part 1 of 2",
+      "author": {
+       "authorized": "Friel, Arthur O. (Arthur Olney), 1885-1959",
+       "lcna": "nb2007020100"
+      }
+     },
+     {"issue": {"issue-date": "1930-03-01", "volume": "73", "number": "6"}, 
+      "title": "The Bells of Valle Perdido",
+      "title-note": "part 2 of 2",
+      "author": {
+       "authorized": "Friel, Arthur O. (Arthur Olney), 1885-1959",
+       "lcna": "nb2007020100"
+      }
+     },
+     {"issue": {"issue-date": "1930-03-15", "volume": "74", "number": "1"},
+      "title": "Below Zero",
+      "title-note": "part 1 of 5",
+      "author": {
+         "authorized": "Titus, Harold, 1888-1967",
+         "lcna": "no2008175553"
+      }
+     },
+     {"issue": {"issue-date": "1930-04-01", "volume": "74", "number": "2"},
+      "title": "Below Zero",
+      "title-note": "part 2 of 5",
+      "author": {
+         "authorized": "Titus, Harold, 1888-1967",
+         "lcna": "no2008175553"
+      }
+     },
+     {"issue": {"issue-date": "1930-04-15", "volume": "74", "number": "3"},
+      "title": "Drawing Room B",
+      "author": {
+         "authorized": "Elston, Allan Vaughan, 1887-1976",
+         "lcna": "no90023204"
+       }
+     },
+     {"issue": {"issue-date": "1930-04-15", "volume": "74", "number": "3"},
+      "title": "Below Zero",
+      "title-note": "part 3 of 5",
+      "author": {
+         "authorized": "Titus, Harold, 1888-1967",
+         "lcna": "no2008175553"
+      }
+     },
+     {"issue": {"issue-date": "1930-05-01", "volume": "74", "number": "4"},
+      "title": "Below Zero",
+      "title-note": "part 4 of 5",
+      "author": {
+         "authorized": "Titus, Harold, 1888-1967",
+         "lcna": "no2008175553"
+      }
+     },
+     {"issue": {"issue-date": "1930-05-15", "volume": "74", "number": "5"},
+      "title": "Mystery Island",
+      "author": {
+         "authorized": "Elston, Allan Vaughan, 1887-1976",
+         "lcna": "no90023204"
+       }
+     },
+     {"issue": {"issue-date": "1930-05-15", "volume": "74", "number": "5"},
+      "title": "Below Zero",
+      "title-note": "part 5 of 5",
+      "author": {
+         "authorized": "Titus, Harold, 1888-1967",
+         "lcna": "no2008175553"
+      }
+     },
+     {"issue": {"issue-date": "1930-06-01", "volume": "74", "number": "6"},
+      "title": "Red Wine",
+       "note": "Issue as given in FictionMags.  The CCE renewal record puts this story in the June 15 issue. We have not examined the issues in question. The renewal is dated May 21, 1958, possibly too late to cover a publication in the June 1 issue.",
+      "author": {
+         "authorized": "Blochman, Lawrence G. (Lawrence Goldtree), 1900-1975",
+         "lcna": "n50016555"
+      }
+     },
+     {"issue": {"issue-date": "1930-06-15", "volume": "75", "number": "1"},
+      "title": "Red Wine",
+       "note": "Issue as given in CCE renewal record.  FictionMags puts this story in the June 1 issue. We have not examined the issues in question. The renewal is dated May 21, 1958, possibly too late to cover a publication in the June 1 issue.",
+      "author": {
+         "authorized": "Blochman, Lawrence G. (Lawrence Goldtree), 1900-1975",
+         "lcna": "n50016555"
+      }
+     },
+     {"issue": {"issue-date": "1930-11-15", "volume": "76", "number": "5"},
+      "title": "King of the World",
+      "title-note": "part 1 of 7",
+      "note": "Also renewed as 'Jimgrim, King of the World'",
+      "author": {
+         "authorized": "Mundy, Talbot, 1879-1940",
+         "lcna": "n82224112"
+      }
+     },
+     {"issue": {"issue-date": "1930-11-15", "volume": "76", "number": "5"},
+      "title": "Pigboats",
+      "title-note": "part 1 of 2",
+      "author": {
+         "authorized": "Ellsberg, Edward, 1891-1983",
+         "lcna": "n81078681"
+      }
+     },
+     {"issue": {"issue-date": "1930-12-01", "volume": "76", "number": "6"},
+      "title": "Pigboats",
+      "title-note": "part 2 of 2",
+      "author": {
+         "authorized": "Ellsberg, Edward, 1891-1983",
+         "lcna": "n81078681"
+      }
+     },
+     {"issue": {"issue-date": "1930-12-01", "volume": "76", "number": "6"},
+      "title": "Saladin's Holy War",
+      "author": {
+         "authorized": "Lamb, Harold, 1892-1962",
+         "lcna": "n50037864"
+      }
+     },
+     {"issue": {"issue-date": "1930-12-01", "volume": "76", "number": "6"},
+      "title": "King of the World",
+      "title-note": "part 2 of 7",
+      "note": "Also renewed as 'Jimgrim, King of the World'",
+      "author": {
+         "authorized": "Mundy, Talbot, 1879-1940",
+         "lcna": "n82224112"
+      }
+     },
+     {"issue": {"issue-date": "1930-12-15", "volume": "77", "number": "1"},
+      "title": "The Walls of Acre",
+      "author": {
+         "authorized": "Lamb, Harold, 1892-1962",
+         "lcna": "n50037864"
+      }
+     },
+     {"issue": {"issue-date": "1930-12-15", "volume": "77", "number": "1"},
+      "title": "King of the World",
+      "title-note": "part 3 of 7",
+      "note": "Also renewed as 'Jimgrim, King of the World'",
+      "author": {
+         "authorized": "Mundy, Talbot, 1879-1940",
+         "lcna": "n82224112"
+      }
+     },
+     {"issue": {"issue-date": "1931-01-01", "volume": "77", "number": "2"},
+      "title": "Booked for Murder",
+      "author": {
+         "authorized": "Elston, Allan Vaughan, 1887-1976",
+         "lcna": "no90023204"
+       }
      }
    ],
-   "comment": "Pick up contribution renewals with 1957 Jan-Jun",
+   "comment": "Pick up contribution renewals with 1958 Jan-Jun",
    "additional-note": "Active contribution renewals are recorded beginning in the 1955 January-June CCE volume, but the earliest renewed contribution is noted in the 1955 July-December volume.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-01-01"
+   "last-updated": "2023-08-24"
 }

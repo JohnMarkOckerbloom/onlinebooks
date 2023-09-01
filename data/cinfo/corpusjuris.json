@@ -3,13 +3,22 @@
    "first-renewed-issue":
         {"cdate": "1928-06-13", "volume": "44"},
    "first-renewed-issue-source": "1955-JulDec",
-   "renewed-issue-completeness": "active/1928",
+   "renewed-issue-completeness": "active/1931",
    "renewed-issues": [
         {"cdate": "1928-06-13", "volume": "44"},
         {"cdate": "1928-09-26", "volume": "45"},
         {"cdate": "1928-12-14", "volume": "46"},
         {"cdate": "1929-06-13", "volume": "47"},
-        {"cdate": "1929-10-02", "volume": "48"}
+        {"cdate": "1929-10-02", "volume": "48"},
+        {"cdate": "1930-04-10", "volume": "49"},
+        {"cdate": "1929-07-15", "volume": "50"},
+        {"cdate": "1929-11-29", "volume": "51"},
+        {"cdate": "1931-06-10", "volume": "53"},
+        {"cdate": "1931-07-23", "volume": "54"},
+        {"cdate": "1931-11-19", "volume": "55"},
+        {"cdate": "1932-01-15", "volume": "56"},
+        {"cdate": "1932-05-04", "volume": "57"},
+        {"cdate": "1932-09-24", "volume": "59"}
    ],
    "additional-note": 
       "There are also active renewals for annotations for Corpus Juris from 1928 and later. Issues of this serial were typically renewed as books, and not as periodicals.",
@@ -17,5 +26,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-01-02"
+   "last-updated": "2023-08-24"
 }

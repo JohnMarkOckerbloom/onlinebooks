@@ -270,7 +270,7 @@ sub showpool {
   } else {
     print "All submissions have been acted on.";
   }
-  # print "<br>(Due to the editor's travels, you might not get a response before late April.)"
+  # print "<br>(Due to the editor's travels, you might not get a response before late August.)"
 }
 
 sub default_bad_url {
