@@ -1,16 +1,21 @@
 {
-   "title": "Geologic Report Series",
-   "title-note": "New Jersey Dept. of Environmental Protection",
+   "title": "Geological Survey Reports",
+   "aka": ["Geologic Report Series"],
+   "title-note": "New Jersey Geological and Water Survey",
+   "online": "1",
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "database",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "database",
-   "additional-note":  "This is a monographic series.  Before concluding an issue is in the public domain, search for renewals for an issue under its distinctive title. We have not systematically checked issue titles for this serial.",
+   "additional-notes": [
+      "This is a monographic series.  Before concluding an issue is in the public domain, search for renewals for an issue under its distinctive title. We have not systematically checked issue titles for this serial.",
+      "Spot checks of early issues do not turn up copyright notices.  Some reports say they 'may be reproduced in whole or part provided that suitable reference to the source of the copied material is provided'."
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
    "acknowledgement": 
       "Thanks to Felice Gollotti for copyright research on this title.",
-   "last-updated": "2023-06-01"
+   "last-updated": "2023-09-22"
 }

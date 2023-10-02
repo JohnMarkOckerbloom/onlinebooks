@@ -672,6 +672,7 @@ sub spambadlink {
 sub spamorigin {
   my ($ip) = @_;
   return 1 if ($ip eq "91.240.118.252");
+  return 1 if ($ip eq "185.254.75.55"); # Tor exit node
   return 0;
 }
 
@@ -748,6 +749,7 @@ sub analyze_form {
       !controlcheck($control) ||
       spamsolicitation($ref, $title, $comments)
       || $email =~ /\@email.tst/
+      || $email =~ /testing\@example.com/
       || $email =~ /cergplwqx/
       || $email =~ /explainthebusiness/
       || $email =~ /seoxplorer/
@@ -774,6 +776,7 @@ sub analyze_form {
       || $title =~ /jeffrearoom/
       || $ref =~ /seoestore/
       || $wref =~ /seoestore/
+      || $wref =~ /example.com/
       || $comments =~ /getpeople.io/i
       || $comments =~ /pxl.to/i
       || $comments =~ /fiverrtalents/i

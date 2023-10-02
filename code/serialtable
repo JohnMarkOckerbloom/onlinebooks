@@ -1209,7 +1209,7 @@ sub readsimfile {
   return @results;
 }
 
-sub find_pub_record {
+sub find_pub_record_old {
   my ($olbpid, @issns) = @_;
   # print "Looking for $olbpid and " . join (", ", @issns). "\n";
   if ($olbpid && $olbpserial->{$olbpid}) {
@@ -1227,6 +1227,29 @@ sub find_pub_record {
     if ($betterissn && $issnserial->{$betterissn}) {
       # print STDERR "found $betterissn for $issn\n";
       return $issnserial->{$betterissn};
+    }
+  }
+  return undef;
+}
+
+sub find_pub_record {
+  my ($olbpid, @issns) = @_;
+  # print "Looking for $olbpid and " . join (", ", @issns). "\n";
+  if ($olbpid && $olbpserial->{$olbpid}) {
+    return $olbpserial->{$olbpid};
+  }
+  foreach my $issn (@issns) {
+    next if (!$issn);
+    my $betterissn = $badissnmap->{$issn};
+    if ($betterissn && $issnserial->{$betterissn}) {
+      # print STDERR "found $betterissn for $issn\n";
+      return $issnserial->{$betterissn};
+    }
+  }
+  foreach my $issn (@issns) {
+    next if (!$issn);
+    if ($issnserial->{$issn}) {
+      return $issnserial->{$issn};
     }
   }
   return undef;

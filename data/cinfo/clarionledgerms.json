@@ -2,6 +2,8 @@
    "title": "The Clarion-Ledger",
    "title-note": "Jackson, MS newspaper",
    "aka": ["The Clarion-Ledger, Jackson Daily News"],
+   "preceded-by":
+     [{"id": "clarionms", "note": "The Clarion (Mississipppi newspaper)"}],
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
@@ -12,5 +14,5 @@
    },
    "acknowledgement": 
       "Thanks to Scott F Andrews for copyright research on this title.",
-   "last-updated": "2022-07-07"
+   "last-updated": "2023-09-05"
 }

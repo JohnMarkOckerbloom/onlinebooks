@@ -1,0 +1,171 @@
+{
+   "title": "Dissent",
+   "online": "1",
+   "first-issue":
+      {"issue-date": "1954-Winter", "volume": "1", "number": "1"},
+   "first-renewed-issue":
+      {"issue-date": "1955-Winter", "volume": "2", "number": "1"},
+   "first-renewed-issue-source": "database",
+   "first-autorenewed-issue":
+      {"issue-date": "1964-Winter", "volume": "11", "number": "1"},
+   "first-renewed-contribution":
+     {"issue": {"issue-date": "1955-Winter", "volume": "2", "number": "1"}},
+   "first-renewed-contribution-source": "database",
+   "renewed-issue-completeness": "active/autorenewals",
+   "renewed-issues": [
+      {"issue-date": "1955-Winter", "volume": "2", "number": "1"},
+      {"issue-date": "1955-Spring", "volume": "2", "number": "2"},
+      {"issue-date": "1955-Summer", "volume": "2", "number": "3"},
+      {"issue-date": "1955-Autumn", "volume": "2", "number": "4"},
+      {"issue-date": "1956-Winter", "volume": "3", "number": "1"},
+      {"issue-date": "1956-Spring", "volume": "3", "number": "2"},
+      {"issue-date": "1956-Summer", "volume": "3", "number": "3"},
+      {"issue-date": "1956-Fall", "volume": "3", "number": "4"},
+      {"issue-date": "1957-Winter", "volume": "4", "number": "1"},
+      {"issue-date": "1957-Spring", "volume": "4", "number": "2"},
+      {"issue-date": "1957-Summer", "volume": "4", "number": "3"},
+      {"issue-date": "1957-Autumn", "volume": "4", "number": "4"},
+      {"issue-date": "1958-Winter", "volume": "5", "number": "1"},
+      {"issue-date": "1958-Spring", "volume": "5", "number": "2"},
+      {"issue-date": "1958-Summer", "volume": "5", "number": "3"},
+      {"issue-date": "1958-10-01", "volume": "5", "number": "4"},
+      {"issue-date": "1959-01-01", "volume": "6", "number": "1"},
+      {"issue-date": "1959-Spring", "volume": "6", "number": "2"},
+      {"issue-date": "1959-Fall", "volume": "6", "number": "4"},
+      {"issue-date": "1960-Winter", "volume": "7", "number": "1"},
+      {"issue-date": "1960-Spring", "volume": "7", "number": "2"},
+      {"issue-date": "1960-Summer", "volume": "7", "number": "3"},
+      {"issue-date": "1960-Autumn", "volume": "7", "number": "4"},
+      {"issue-date": "1961-Winter", "volume": "8", "number": "1"},
+      {"issue-date": "1961-Spring", "volume": "8", "number": "2"},
+      {"issue-date": "1961-Summer", "volume": "8", "number": "3"},
+      {"issue-date": "1961-Fall", "volume": "8", "number": "4"},
+      {"issue-date": "1963-Winter", "volume": "10", "number": "1"},
+      {"issue-date": "1963-Spring", "volume": "10", "number": "2"},
+      {"issue-date": "1963-Summer", "volume": "10", "number": "3"},
+      {"issue-date": "1963-Autumn", "volume": "10", "number": "4"}
+   ],
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1955-Winter", "volume": "2", "number": "1"},
+      "title": "Authoritarians of the Left",
+      "author": {
+       "authorized": "Howe, Irving",
+       "lcna": "n78096893"
+      }
+     },
+     {"issue": {"issue-date": "1955-Spring", "volume": "2", "number": "2"},
+      "title": "What I Think of Artistic Freedom",
+      "author": {
+          "authorized": "Mailer, Norman",
+          "lcna": "n79084818"
+      }
+     },
+     {"issue": {"issue-date": "1957-Summer", "volume": "4", "number": "3"},
+      "title": "The White Negro: Superficial Reflections on the Hipster",
+      "author": {
+          "authorized": "Mailer, Norman",
+          "lcna": "n79084818"
+      }
+     },
+     {"issue": {"issue-date": "1958-Winter", "volume": "5", "number": "1"},
+      "title": "Reflections on Hipsterism",
+      "author": {
+          "authorized": "Mailer, Norman",
+          "lcna": "n79084818"
+      }
+     },
+     {"issue": {"issue-date": "1959-01-01", "volume": "6", "number": "1"},
+      "title": "Reflections on Little Rock",
+      "author": {
+        "authorized": "Arendt, Hannah, 1906-1975",
+        "lcna": "n50023617"
+      }
+     },
+     {"issue": {"issue-date": "1959-Autumn", "volume": "6", "number": "4"},
+      "title": "New Theater and the Unions",
+      "author": {
+       "authorized": "Goodman, Paul, 1911-1972",
+       "lcna": "n79045067"
+      }
+     },
+     {"issue": {"issue-date": "1959-Autumn", "volume": "6", "number": "4"},
+      "title": "The Miners, Men Without Work: Essay",
+      "author": {
+       "authorized": "Swados, Harvey",
+       "lcna": "n50011348"
+      }
+     },
+     {"issue": {"issue-date": "1960-Winter", "volume": "7", "number": "1"},
+      "title": "Program for the Nation",
+      "author": {
+          "authorized": "Mailer, Norman",
+          "lcna": "n79084818"
+      }
+     },
+     {"issue": {"issue-date": "1960-Spring", "volume": "7", "number": "2"},
+      "title": "Growing Up Absurd",
+      "author": {
+       "authorized": "Goodman, Paul, 1911-1972",
+       "lcna": "n79045067"
+      }
+     },
+     {"issue": {"issue-date": "1960-Spring", "volume": "7", "number": "2"},
+      "title": "The University: Everyone's Goldmine",
+      "author": {
+       "authorized": "Solomon, Barbara Probst",
+       "lcna": "n82122326"
+      }
+     },
+     {"issue": {"issue-date": "1961-Summer", "volume": "8", "number": "3"},
+      "title": "Banning Cars From Manhattan",
+      "authors": [
+        { "authorized": "Goodman, Percival", "lcna": "n89126268"},
+        { "authorized": "Goodman, Paul, 1911-1972", "lcna": "n79045067"}
+      ]
+     },
+     {"issue": {"issue-date": "1961-Summer", "volume": "8", "number": "3"},
+      "title": "Person Alone",
+      "author": {
+       "authorized": "Solomon, Barbara Probst",
+       "lcna": "n82122326"
+      }
+     },
+     {"issue": {"issue-date": "1961-Summer", "volume": "8", "number": "3"},
+      "title": "A Memoir of the Thirties",
+      "author": {
+       "authorized": "Howe, Irving",
+       "lcna": "n78096893"
+      }
+     },
+     {"issue": {"issue-date": "1962-Spring", "volume": "9", "number": "2"},
+      "title": "The Young Radicals",
+      "note": "Renewal places it in 'Dissent Symposium', but this appears to be the regular Spring 1962 issue of Dissent.",
+      "author": {
+       "authorized": "Solomon, Barbara Probst",
+       "lcna": "n82122326"
+      }
+     },
+     {"issue": {"issue-date": "1963-Winter", "volume": "10", "number": "1"},
+      "title": "C. Wright Mills, a Personal Memoir",
+      "author": {
+       "authorized": "Swados, Harvey",
+       "lcna": "n50011348"
+      }
+     },
+     {"issue": {"issue-date": "1963-Winter", "volume": "10", "number": "1"},
+      "title": "Letter Written by Ad Reinhardt",
+      "author": {
+       "authorized": "Reinhardt, Ad, 1913-1967",
+       "lcna": "n79062879"
+      }
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "acknowledgement": 
+      "Thanks to Pete Sullivan for copyright research on this title.",
+   "last-updated": "2023-09-25"
+}

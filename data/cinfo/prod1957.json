@@ -1,5 +1,6 @@
 {
-   "title": "Political Research, Organization and Design",
+   "title": "Political Research: Organization and Design",
+   "online": "1",
    "first-issue": {"issue-date": "1957-09", "volume": "1", "number": "1"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "database",
@@ -7,10 +8,11 @@
    "first-renewed-contribution-source": "database",
    "last-issue": {"issue-date": "1960-06", "volume": "3", "number": "10"},
    "succeeded-by": [{"id": "amerbehavsci",
-              "note": "The American Behavioral Scientist"}],
+              "note": "American Behavioral Scientist"}],
+   "additional-note": "Some issues in volume 3 include translations of articles that had originally appeared in other publications from outside the United States. Those articles may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-06-10"
+   "last-updated": "2023-09-13"
 }

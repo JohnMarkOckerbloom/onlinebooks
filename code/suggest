@@ -296,8 +296,8 @@ sub analyze_form {
     # Most .bid and .top submissions are spam.  This one auto-diverts them
     # to spam if there are 2 or more http links in the comments
     $pool = new OLBP::SubmissionPool(name=>$spamdir);
-  } elsif ($email =~ /reliable-mail.com/) {
-    # This email address is consistently used in quick spam links
+  } elsif ($email =~ /reliable-mail.com|example.com/) {
+    # These email domains are consistently used in quick spam links
     $pool = new OLBP::SubmissionPool(name=>$spamdir);
   } elsif ($title =~ /redesign your /i) {
     # A common linkspam comein lately

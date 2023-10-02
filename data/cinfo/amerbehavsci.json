@@ -1,11 +1,12 @@
 {
-   "title": "The American Behavioral Scientist",
+   "title": "American Behavioral Scientist",
+   "online": "1",
    "contents": [
       {"url": "https://journals.sagepub.com/loi/ABS",
        "note": "Publisher site (full text also available for subscription or payment)"}
    ],
    "preceded-by": [{"id": "prod1957",
-              "note": "Political Research, Organization and Design"}],
+              "note": "Political Research: Organization and Design"}],
    "first-issue": {"issue-date": "1960-09", "volume": "4", "number": "1"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "database",
@@ -17,5 +18,5 @@
    },
    "acknowledgement": 
       "Thanks to Scott F Andrews for copyright research on this title.",
-   "last-updated": "2020-06-10"
+   "last-updated": "2023-09-13"
 }

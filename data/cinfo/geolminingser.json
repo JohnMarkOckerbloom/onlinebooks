@@ -1,9 +1,14 @@
 {
    "title": "Geology and Mining Series",
+   "title-note": "University of Nevada",
+   "online": "1",
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
+   "succeeded-by":
+     [{"id": "bulnvminesgeo",
+       "note": "Bulletin (Nevada Bureau of Mines and Geology)"}],
    "additional-note": "This is a monographic series.  Before concluding an issue is in the public domain, search for renewals for an issue under its distinctive title. We have not systematically checked issue titles for this serial.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
@@ -11,5 +16,5 @@
    },
    "acknowledgement": 
       "Thanks to Felice Gollotti for copyright research on this title.",
-   "last-updated": "2023-05-24"
+   "last-updated": "2023-09-22"
 }
