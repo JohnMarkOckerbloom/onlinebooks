@@ -1,6 +1,8 @@
 {
    "title": "The Dispatch-News",
    "title-note": "Lexington, SC",
+   "online": "1",
+   "preceded-by": [{"id": "lexscdispnews", "note": "Lexginton Dispatch-News"}],
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
@@ -11,5 +13,5 @@
    },
    "acknowledgement": 
       "Thanks to Pete Sullivan for copyright research on this title.",
-   "last-updated": "2023-09-24"
+   "last-updated": "2023-10-02"
 }

@@ -787,6 +787,7 @@ sub analyze_form {
       || (($comments =~ /SEO/) && ($comments =~ /Google/))
       || (($comments =~ /SEO/) && ($comments =~ /http/))
       || $comments =~ /gift card/i
+      || $comments =~ /free trial/i
       || $comments =~ /freight forwarder/i
       || $comments =~ /issues.*website/i
       || $comments =~ /sexlovers/i

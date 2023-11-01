@@ -1,0 +1,29 @@
+{
+   "title": "San Francisco Review Annual",
+   "preceded-by": [{"id": "sanfranrev", "note": "San Francisco Review"}],
+   "first-issue": {"volume": "1", "issue-date": "1963"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "database",
+   "first-renewed-contribution": 
+     {"issue": {"volume": "1", "issue-date": "1963"}},
+   "first-renewed-contribution-source": "database",
+   "last-issue": {"volume": "1", "issue-date": "1963"},
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1963", "volume": "1"},
+      "title": "The Ants",
+      "note": "Renewal record says this ran in the San Francisco Review, but the dating and the copyright registration ID indicate the San Francisco Review Annual.",
+      "author": {
+        "authorized": "Vliet, R. G., 1929-1984",
+        "lcna": "n79133231"
+      }
+    } 
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "acknowledgement": 
+      "Thanks to Felice Gollotti for copyright research on this title.",
+   "last-updated": "2023-10-11"
+}

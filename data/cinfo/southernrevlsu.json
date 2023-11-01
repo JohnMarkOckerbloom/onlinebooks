@@ -1,6 +1,10 @@
 {
    "title": "The Southern Review",
    "title-note": "LSU Press",
+   "contents": [
+      {"url": "https://thesouthernreview.org/issues/archive",
+       "note": "Southern Review Archive listings"}
+   ],
    "first-issue": 
     {"issue-date": "1935-07", "volume": "1", "number": "1",
      "note": "Also labeled Summer 1935."},
@@ -10,9 +14,250 @@
    "first-renewed-contribution": 
     {"issue": {"issue-date": "1935-07", "volume": "1", "number": "1"}},
    "first-renewed-contribution-source": "1963-JanJun",
+   "renewed-issue-completeness": "active/autorenewals",
+   "renewed-issues": [
+    {"issue-date": "1938-Winter", "volume": "3", "number": "3",
+     "cdate": "1937-12-21"},
+    {"issue-date": "1938-Spring", "volume": "3", "number": "4"},
+    {"issue-date": "1938-Summer", "volume": "4", "number": "1"},
+    {"issue-date": "1938-Autumn", "volume": "4", "number": "2"},
+    {"issue-date": "1939-Spring", "volume": "4", "number": "4"},
+    {"issue-date": "1939-Summer", "volume": "5", "number": "1"},
+    {"issue-date": "1939-Autumn", "volume": "5", "number": "2"},
+    {"issue-date": "1939-Winter", "volume": "5", "number": "3"},
+    {"issue-date": "1940-Spring", "volume": "5", "number": "4"},
+    {"issue-date": "1940-Autumn", "volume": "6", "number": "2"},
+    {"issue-date": "1940-Winter", "volume": "6", "number": "3"},
+    {"issue-date": "1942-Spring", "volume": "7", "number": "4"}
+   ],
+   "renewed-contribution-completeness": "active/1939",
+   "renewed-contributions": [
+    {"issue": {"issue-date": "1935-07", "volume": "1", "number": "1"},
+      "title": "The Circus",
+      "author": {
+       "authorized": "Porter, Katherine Anne, 1890-1980",
+       "lcna": "n79038436"
+      }
+     },
+     {"issue": {"issue-date": "1936-Spring"},
+       "title": "When the Light Gets Green",
+       "author": {
+        "authorized": "Warren, Robert Penn, 1905-1989",
+        "lcna": "n78091524"
+       }
+     },
+     {"issue": {"issue-date": "1936-Spring"},
+        "title": "This Lake is Mine",
+        "author": {
+         "authorized": "Ferril, Thomas Hornsby, 1896-1988",
+         "lcna": "n50001135"
+        }
+     },
+    {"issue": {"issue-date": "1937-Winter"},
+      "title": "The Old Order",
+      "author": {
+       "authorized": "Porter, Katherine Anne, 1890-1980",
+       "lcna": "n79038436"
+      }
+    },
+    {"issue": {"issue-date": "1937-Spring"},
+      "title": "Old Mortality",
+      "author": {
+       "authorized": "Porter, Katherine Anne, 1890-1980",
+       "lcna": "n79038436"
+      }
+    },
+    {"issue": {"issue-date": "1937-Spring"},
+       "title": "The Poet as Woman",
+       "author": {
+        "authorized": "Ransom, John Crowe, 1888-1974",
+        "lcna": "n50053936"
+       }
+    },
+    {"issue": {"issue-date": "1937-Summer"},
+       "title": "A Piece of News",
+       "author": {
+        "authorized": "Welty, Eudora, 1909-2001",
+        "lcna": "n79038434"
+       }
+    },
+    {"issue": {"issue-date": "1937-Autumn"},
+      "title": "Lady of My Own",
+      "author": {
+       "authorized": "Seide, Michael",
+       "lcna": "n83001586"
+      }
+    },
+    {"issue": {"issue-date": "1937-Autumn"},
+       "title": "A Memory",
+       "author": {
+        "authorized": "Welty, Eudora, 1909-2001",
+        "lcna": "n79038434"
+       }
+    },
+    {"issue": {"issue-date": "1938-Winter"},
+      "title": "Pale Horse, Pale Rider",
+      "note": "Title as given in CCE renewal record.  The table of contents on the Southern Review website gives title as 'Silent Horse, Pale Rider'.  We have not examined the issue in question.",
+      "author": {
+       "authorized": "Porter, Katherine Anne, 1890-1980",
+       "lcna": "n79038436"
+      }
+     },
+     {"issue": {"issue-date": "1938-Winter"},
+       "title": "Shakespeare at Sonnets",
+       "author": {
+        "authorized": "Ransom, John Crowe, 1888-1974",
+        "lcna": "n50053936"
+       }
+     },
+     {"issue": {"issue-date": "1938-Spring"},
+       "title": "Old Mr. Grenada",
+       "author": {
+        "authorized": "Welty, Eudora, 1909-2001",
+        "lcna": "n79038434"
+       }
+    },
+     {"issue": {"issue-date": "1938-Summer"},
+      "title": "The Bridegroom's Body",
+      "author": {
+        "authorized": "Boyle, Kay, 1902-1992",
+        "lcna": "n80080305"
+      }
+     },
+     {"issue": {"issue-date": "1938-Autumn"},
+      "title": "Bad Boy From Brooklyn",
+      "author": {
+       "authorized": "Seide, Michael",
+       "lcna": "n83001586"
+      }
+     },
+     {"issue": {"issue-date": "1938-Autumn"},
+       "title": "A Curtain of Green",
+       "author": {
+        "authorized": "Welty, Eudora, 1909-2001",
+        "lcna": "n79038434"
+       }
+    },
+     {"issue": {"issue-date": "1939-Winter"},
+      "title": "Mrs. Ulysses and Son",
+      "author": {
+       "using": "Meyer Seide",
+       "authorized": "Seide, Michael",
+       "lcna": "n83001586"
+      }
+     },
+     {"issue": {"issue-date": "1939-Winter"},
+      "title": "Love and James K. Polk",
+      "author": {
+       "authorized": "Beems, Griffith, 1902-1978",
+       "lcna": "no2020051252"
+      }
+     },
+     {"issue": {"issue-date": "1939-Spring"},
+       "title": "The Petrified Man",
+       "author": {
+        "authorized": "Welty, Eudora, 1909-2001",
+        "lcna": "n79038434"
+       }
+     },
+     {"issue": {"issue-date": "1939-Spring"},
+        "title": "Cruel and Barbarous Treatment",
+        "author": {
+          "authorized": "McCarthy, Mary, 1912-1989",
+          "lcna": "n79060089"
+        }
+     },
+     {"issue": {"issue-date": "1939-Summer"},
+        "title": "In Praise of Katherine Anne Porter",
+        "author": {
+         "authorized": "Wescott, Glenway, 1901-1987",
+         "lcna": "n50003879"
+        }
+     },
+     {"issue": {"issue-date": "1939-Summer"},
+        "title": "Flight of Sons",
+        "author": {
+         "authorized": "De Jong, David Cornel, 1901-1967",
+         "lcna": "n50042194"
+        }
+     },
+     {"issue": {"issue-date": "1939-Summer"},
+        "title": "Reflections Near a Bridge",
+        "author": {
+         "authorized": "De Jong, David Cornel, 1901-1967",
+         "lcna": "n50042194"
+        }
+     },
+     {"issue": {"issue-date": "1939-Summer"},
+        "title": "Ours is an Honest Generation",
+        "author": {
+         "authorized": "De Jong, David Cornel, 1901-1967",
+         "lcna": "n50042194"
+        }
+     },
+     {"issue": {"issue-date": "1939-Summer"},
+        "title": "Prayer on a New Year's Eve",
+        "author": {
+         "authorized": "De Jong, David Cornel, 1901-1967",
+         "lcna": "n50042194"
+        }
+     },
+     {"issue": {"issue-date": "1939-Summer"},
+        "title": "The Time Has Come",
+        "author": {
+         "authorized": "De Jong, David Cornel, 1901-1967",
+         "lcna": "n50042194"
+        }
+     },
+     {"issue": {"issue-date": "1939-Summer"},
+        "title": "Land of Milk and Honey",
+        "author": {
+         "authorized": "De Jong, David Cornel, 1901-1967",
+         "lcna": "n50042194"
+        }
+     },
+     {"issue": {"issue-date": "1939-Winter"},
+       "title": "The Hitch-Hikers",
+       "author": {
+        "authorized": "Welty, Eudora, 1909-2001",
+        "lcna": "n79038434"
+       }
+     },
+     {"issue": {"issue-date": "1940-Winter"},
+      "title": "Sunday Morning on Twentieth Street",
+      "author": {
+         "authorized": "Maltz, Albert, 1908-1985",
+         "lcna": "n79041798"
+      }
+     },
+     {"issue": {"issue-date": "1940-Spring"},
+      "title": "The Eighth Wonder",
+      "author": {
+       "using": "Meyer Seide",
+       "authorized": "Seide, Michael",
+       "lcna": "n83001586"
+      }
+     },
+     {"issue": {"issue-date": "1940-Summer"},
+      "title": "Notes on a Criticism of Thomas Hardy",
+      "author": {
+       "authorized": "Porter, Katherine Anne, 1890-1980",
+       "lcna": "n79038436"
+      }
+     },
+     {"issue": {"issue-date": "1940-Autumn"},
+      "title": "A Spinster's Tale",
+      "author": {
+       "authorized": "Taylor, Peter, 1917-1994",
+       "lcna": "n50008415"
+      }
+     }
+   ],
+   "comment": "Pick up contributions with 1968 Jan-Jun.",
+   "additional-note": "Publication was suspended between 1942 and 1965.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-12-08"
+   "last-updated": "2023-10-11"
 }

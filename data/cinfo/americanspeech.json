@@ -1,5 +1,6 @@
 {
    "title": "American Speech",
+   "online": "1",
    "contents": [
       {"url": "https://www.jstor.org/journal/americanspeech",
       "note": "JSTOR (to 1999; full text also available for subscription or payment)"},
@@ -10,13 +11,177 @@
    "first-renewed-issue":
      {"issue-date": "1951-12", "volume": "26", "number": "4"},
    "first-renewed-issue-source": "database",
+   "first-autorenewed-issue":
+     {"issue-date": "1964-02", "volume": "39", "number": "1"},
    "first-renewed-contribution": 
       {"issue": {"issue-date": "1944-02", "volume": "19", "number": "1"}},
    "first-renewed-contribution-source": "1971-JulDec",
-   "additional-note" : "Renewals are recorded beginning in the 1971 January-June CCE volume, but the earliest renewed contribution is noted in the 1971 July-December volume.",
+   "additional-note" : "Contribution renewals are recorded beginning in the 1971 January-June CCE volume, but the earliest renewed contribution is noted in the 1971 July-December volume.",
+   "renewed-issue-completeness": "active/autorenewals",
+   "renewed-issues": [
+     {"issue-date": "1951-12", "volume": "26", "number": "4"},
+     {"issue-date": "1952-02", "volume": "27", "number": "1"},
+     {"issue-date": "1952-05", "volume": "27", "number": "2"},
+     {"issue-date": "1952-10", "volume": "27", "number": "3"},
+     {"issue-date": "1952-12", "volume": "27", "number": "4"},
+     {"issue-date": "1953-02", "volume": "28", "number": "1",
+      "note": "Renewal record gives issue date as February 1952, an apparent typographical error."},
+     {"issue-date": "1953-05", "volume": "28", "number": "2"},
+     {"issue-date": "1953-10", "volume": "28", "number": "3"},
+     {"issue-date": "1953-12", "volume": "28", "number": "4"},
+     {"issue-date": "1954-02", "volume": "29", "number": "1"},
+     {"issue-date": "1954-05", "volume": "29", "number": "2"},
+     {"issue-date": "1954-10", "volume": "29", "number": "3"},
+     {"issue-date": "1954-12", "volume": "29", "number": "4"},
+     {"issue-date": "1955-02", "volume": "30", "number": "1"},
+     {"issue-date": "1955-05", "volume": "30", "number": "2"},
+     {"issue-date": "1955-10", "volume": "30", "number": "3"},
+     {"issue-date": "1955-12", "volume": "30", "number": "4"},
+     {"issue-date": "1956-10", "volume": "31", "number": "3"},
+     {"issue-date": "1956-12", "volume": "31", "number": "4"},
+     {"issue-date": "1958-02", "volume": "33", "number": "1"},
+     {"issue-date": "1958-05", "volume": "33", "number": "2"},
+     {"issue-date": "1958-10", "volume": "33", "number": "3"},
+     {"issue-date": "1958-12", "volume": "33", "number": "4"},
+     {"issue-date": "1959-02", "volume": "34", "number": "1"},
+     {"issue-date": "1959-10", "volume": "34", "number": "3"},
+     {"issue-date": "1959-12", "volume": "34", "number": "4"},
+     {"issue-date": "1960-02", "volume": "35", "number": "1"},
+     {"issue-date": "1960-10", "volume": "35", "number": "3"},
+     {"issue-date": "1960-12", "volume": "35", "number": "4"},
+     {"issue-date": "1961-02", "volume": "36", "number": "1"},
+     {"issue-date": "1961-05", "volume": "36", "number": "2"},
+     {"issue-date": "1961-10", "volume": "36", "number": "3"},
+     {"issue-date": "1961-12", "volume": "36", "number": "4"},
+     {"issue-date": "1962-02", "volume": "37", "number": "1"},
+     {"issue-date": "1962-05", "volume": "37", "number": "2"},
+     {"issue-date": "1962-10", "volume": "37", "number": "3"},
+     {"issue-date": "1962-12", "volume": "37", "number": "4"},
+     {"issue-date": "1963-02", "volume": "38", "number": "1"},
+     {"issue-date": "1963-05", "volume": "38", "number": "2"},
+     {"issue-date": "1963-10", "volume": "38", "number": "3"},
+     {"issue-date": "1963-12", "volume": "38", "number": "4"}
+   ],
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1944-02", "volume": "19", "number": "1"},
+      "title": "War Words in England",
+      "author": {
+       "authorized": "Mencken, H. L. (Henry Louis), 1880-1956",
+       "lcna": "n80036702"
+      }
+     },
+     {"issue": {"issue-date": "1944-04", "volume": "19", "number": "2"},
+        "title": "Vocabulary for Lakes, Deep Seas, and Inland Waters",
+        "author": {
+         "authorized": "Ferguson, Otis, 1907-1943",
+         "lcna": "n83001224"
+        }
+     },
+     {"issue": {"issue-date": "1944-10", "volume": "19", "number": "3"},
+      "title": "Designations for Colored Folk",
+      "author": {
+       "authorized": "Mencken, H. L. (Henry Louis), 1880-1956",
+       "lcna": "n80036702"
+      }
+     },
+     {"issue": {"issue-date": "1944-12", "volume": "19", "number": "4"},
+      "title": "American Profanity",
+      "author": {
+       "authorized": "Mencken, H. L. (Henry Louis), 1880-1956",
+       "lcna": "n80036702"
+      }
+     },
+     {"issue": {"issue-date": "1945-12", "volume": "20", "number": "4"},
+      "title": "The Founders Look Back",
+      "author": {
+       "authorized": "Mencken, H. L. (Henry Louis), 1880-1956",
+       "lcna": "n80036702"
+      }
+     },
+     {"issue": {"issue-date": "1946-02", "volume": "21", "number": "1"},
+      "title": "The Current Suffixes",
+      "author": {
+       "authorized": "Mencken, H. L. (Henry Louis), 1880-1956",
+       "lcna": "n80036702"
+      }
+     },
+     {"issue": {"issue-date": "1946-02", "volume": "21", "number": "1"},
+      "title": "Miscellany",
+      "author": {
+       "authorized": "Mencken, H. L. (Henry Louis), 1880-1956",
+       "lcna": "n80036702"
+      }
+     },
+     {"issue": {"issue-date": "1946-04", "volume": "21", "number": "2"},
+      "title": "Bulletin on 'Hon'",
+      "author": {
+       "authorized": "Mencken, H. L. (Henry Louis), 1880-1956",
+       "lcna": "n80036702"
+      }
+     },
+     {"issue": {"issue-date": "1946-12", "volume": "21", "number": "4"},
+      "title": "Verbs New and Old",
+      "author": {
+       "authorized": "Mencken, H. L. (Henry Louis), 1880-1956",
+       "lcna": "n80036702"
+      }
+     },
+     {"issue": {"issue-date": "1947-10", "volume": "22", "number": "3"},
+      "title": "Etymological Notes",
+      "author": {
+       "authorized": "Mencken, H. L. (Henry Louis), 1880-1956",
+       "lcna": "n80036702"
+      }
+     },
+     {"issue": {"issue-date": "1947-12", "volume": "22", "number": "4"},
+      "title": "Names for Americans",
+      "author": {
+       "authorized": "Mencken, H. L. (Henry Louis), 1880-1956",
+       "lcna": "n80036702"
+      }
+     },
+     {"issue": {"issue-date": "1948-02", "volume": "23", "number": "1"},
+      "title": "Verbs New and Old",
+      "author": {
+       "authorized": "Mencken, H. L. (Henry Louis), 1880-1956",
+       "lcna": "n80036702"
+      }
+     },
+     {"issue": {"issue-date": "1948-04", "volume": "23", "number": "2"},
+      "title": "American Street Names",
+      "author": {
+       "authorized": "Mencken, H. L. (Henry Louis), 1880-1956",
+       "lcna": "n80036702"
+      }
+     },
+     {"issue": {"issue-date": "1948-October-December",
+      "volume": "23", "number": "no. 3/4"},
+      "title": "What the People of American Towns Call Themselves",
+      "author": {
+       "authorized": "Mencken, H. L. (Henry Louis), 1880-1956",
+       "lcna": "n80036702"
+      }
+     },
+     {"issue": {"issue-date": "1949-02", "volume": "24", "number": "1"},
+      "title": "Some Opprobrious Nicknames",
+      "author": {
+       "authorized": "Mencken, H. L. (Henry Louis), 1880-1956",
+       "lcna": "n80036702"
+      }
+     },
+     {"issue": {"issue-date": "1961-05", "volume": "36", "number": "2"},
+      "title": "Emersonian Virtue: A Definition",
+      "title-note": "Essay",
+      "author": {
+         "authorized": "Emanuel, James A., 1921-2013",
+         "lcna": "n80010517"
+      }
+     }
+  ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-02-28"
+   "last-updated": "2023-10-06"
 }

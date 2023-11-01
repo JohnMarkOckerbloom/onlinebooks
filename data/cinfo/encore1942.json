@@ -1,6 +1,10 @@
 {
    "title": "Encore",
-   "title-note": "1942-1947",
+   "title-note": "American anthology magazine, 1942-1947",
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/FMI/link.asp?magid=ENCOR",
+       "note": "FictionMags (selected issues only)"}
+   ],
    "first-issue": {"issue-date": "1942-02", "volume": "1", "number": "1"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
@@ -8,9 +12,36 @@
      {"issue": {"issue-date": "1943-06", "volume": "3", "number": "17"}},
    "first-renewed-contribution-source": "1970-JulDec",
    "last-issue": {"issue-date": "1947-08", "volume": "12", "number": "66"},
+   "see-also":
+     [{"id": "encore1954",
+       "note": "Encore (London theatre magazine, 1954-1965)"}],
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1943-06", "volume": "3", "number": "17"},
+      "title": "Uncomfortable Casanova",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1944-08", "volume": "6", "number": "31"}, 
+      "title": "Epigrams in C Major",
+      "author": {
+       "authorized": "Mencken, H. L. (Henry Louis), 1880-1956",
+       "lcna": "n80036702"
+      }
+     },
+     {"issue": {"issue-date": "1945-10", "volume": "8", "number": "42"},
+        "title": "You and Your Sister",
+        "author": {
+         "authorized": "March, William, 1893-1954",
+         "lcna": "n83043036"
+        }
+     }
+   ],
+   "additional-note": "This magazine includes reprints of works originally published elsewhere.  Those may have their own copyrights, and we have not systematically checked their renewal status. Listed here are all of the contributions where the CCE renewal record specifically mentions Encore.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-02-21"
+   "last-updated": "2023-10-09"
 }

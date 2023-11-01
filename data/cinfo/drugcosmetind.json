@@ -1,0 +1,28 @@
+{
+   "title": "Drug and Cosmetic Industry",
+   "aka": ["DCI", "Drug and Cosmetic Industries"],
+   "online": "1",
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "database",
+   "first-renewed-contribution":
+     {"issue": {"issue-date": "1957-12", "volume": "81", "number": "6"}},
+   "first-renewed-contribution-source": "database",
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1957-12", "volume": "81", "number": "6"},
+      "title": "Sputnik and Pharmaceutical Research",
+      "note": "The renewal record for this article says it appeared in 'Drug and Cosmetic Industries', which is not quite the correct serial title.",
+      "author": {
+       "authorized": "Blish, James",
+       "lcna": "n79053667"
+      }
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "acknowledgement": 
+      "Thanks to Pete Sullivan for copyright research on this title.",
+   "last-updated": "2023-10-09"
+}

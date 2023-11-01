@@ -1,15 +1,19 @@
 {
    "title": "Atlas of Tumor Pathology",
+   "online": "1",
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
-   "additional-note": "This is a US government publication.",
+   "additional-notes": [
+     "This began as a US government publication, but later was published by a private organization. Spot checks of issues as late as the 1990s did not turn up copyright notices, but we have found them in some 21st century issues.",
+     "Issues of this serial have distinctive titles. Before concluding issues are in the public domain, search for renewals for books under those titles.  We have not systematically done such searches for this serial."
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
    "acknowledgement": 
       "Thanks to Peter Sullivan for copyright research on this title.",
-   "last-updated": "2022-05-31"
+   "last-updated": "2023-10-18"
 }
