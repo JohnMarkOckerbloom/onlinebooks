@@ -1,5 +1,6 @@
 {
    "title": "Social Service Review",
+   "online": "1",
    "contents": [
       {"url": "http://www.jstor.org/journal/sociservrevi",
        "note": "JSTOR (full text also available for subscription or payment)"}
@@ -9,14 +10,69 @@
    "first-renewed-issue":
       {"issue-date": "1953-09", "volume": "27", "number": "3"},
    "first-renewed-issue-source": "database",
+   "first-autorenewed-issue":
+      {"issue-date": "1964-03", "volume": "38", "number": "1"},
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1951-06"}},
+     {"issue": {"issue-date": "1951-06", "volume": "25", "number": "2"}},
    "first-renewed-contribution-source": "database",
+   "renewed-issue-completeness": "active/autorenewals",
+   "renewed-issues": [
+      {"issue-date": "1953-09", "volume": "27", "number": "3"},
+      {"issue-date": "1953-12", "volume": "27", "number": "4"},
+      {"issue-date": "1954-03", "volume": "28", "number": "1"},
+      {"issue-date": "1954-09", "volume": "28", "number": "3"},
+      {"issue-date": "1954-12", "volume": "28", "number": "4"},
+      {"issue-date": "1955-03", "volume": "29", "number": "1"},
+      {"issue-date": "1955-06", "volume": "29", "number": "2"},
+      {"issue-date": "1955-09", "volume": "29", "number": "3"},
+      {"issue-date": "1955-12", "volume": "29", "number": "4"},
+      {"issue-date": "1956-03", "volume": "30", "number": "1"},
+      {"issue-date": "1956-06", "volume": "30", "number": "2"},
+      {"issue-date": "1956-09", "volume": "30", "number": "3"},
+      {"issue-date": "1956-12", "volume": "30", "number": "4"},
+      {"issue-date": "1957-03", "volume": "31", "number": "1"},
+      {"issue-date": "1957-06", "volume": "31", "number": "2"},
+      {"issue-date": "1957-09", "volume": "31", "number": "3"},
+      {"issue-date": "1957-12", "volume": "31", "number": "4"},
+      {"issue-date": "1958-03", "volume": "32", "number": "1"},
+      {"issue-date": "1958-06", "volume": "32", "number": "2"},
+      {"issue-date": "1958-09", "volume": "32", "number": "3"},
+      {"issue-date": "1958-12", "volume": "32", "number": "4"},
+      {"issue-date": "1959-03", "volume": "33", "number": "1"},
+      {"issue-date": "1959-06", "volume": "33", "number": "2"},
+      {"issue-date": "1959-09", "volume": "33", "number": "3"},
+      {"issue-date": "1959-12", "volume": "33", "number": "4"},
+      {"issue-date": "1960-03", "volume": "34", "number": "1"},
+      {"issue-date": "1960-06", "volume": "34", "number": "2"},
+      {"issue-date": "1960-09", "volume": "34", "number": "3"},
+      {"issue-date": "1960-12", "volume": "34", "number": "4"},
+      {"issue-date": "1961-03", "volume": "35", "number": "1"},
+      {"issue-date": "1961-06", "volume": "35", "number": "2"},
+      {"issue-date": "1961-09", "volume": "35", "number": "3"},
+      {"issue-date": "1961-12", "volume": "35", "number": "4"},
+      {"issue-date": "1962-03", "volume": "36", "number": "1"},
+      {"issue-date": "1962-06", "volume": "36", "number": "2"},
+      {"issue-date": "1962-09", "volume": "36", "number": "3"},
+      {"issue-date": "1962-12", "volume": "36", "number": "4"},
+      {"issue-date": "1963-03", "volume": "37", "number": "1"},
+      {"issue-date": "1963-06", "volume": "37", "number": "2"},
+      {"issue-date": "1963-09", "volume": "37", "number": "3"},
+      {"issue-date": "1963-12", "volume": "37", "number": "4"}
+   ],
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1951-06", "volume": "25", "number": "2"},
+      "title": "Employment of Children and Youth at the Mid-Century",
+      "author": {
+        "name": "Sol Markoff"
+      }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
    "acknowledgement": 
       "Thanks to Felice Gollotti for copyright research on this title.",
-   "last-updated": "2022-11-08"
+   "last-updated": "2023-11-07"
 }

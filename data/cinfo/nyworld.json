@@ -8,6 +8,7 @@
      {"issue": {"issue-date": "1928-10-22"}},
    "first-renewed-contribution-source": "1955-JulDec",
    "last-issue": {"issue-date": "1931-02-27"},
+   "succeeded-by": [{"id": "nyworldtel", "note": "New York World Telegram"}],
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
      {"issue": {"issue-date": "1928-10-22"},
@@ -240,5 +241,5 @@
    },
    "acknowledgement": 
       "Thanks to Shelton Henderson for copyright research on this title.",
-   "last-updated": "2023-01-04"
+   "last-updated": "2023-11-26"
 }

@@ -1,0 +1,34 @@
+{
+   "title": "The Freeman",
+   "title-note": "American libertarian periodical, 1950-2016",
+   "online": "1",
+   "first-issue": {"issue-date": "1950-10-02", "volume": "1", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce+database",
+   "first-renewed-contribution":
+      {"issue": {"issue-date": "1951-06-04", "volume": "1", "number": "18"}},
+   "first-renewed-contribution-source": "database",
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1951-06-04", "volume": "1", "number": "18"},
+       "title": "Our Teen-Age Drug Addicts",
+       "author": {
+         "authorized": "Manchester, William, 1922-2004",
+         "lcna": "n80061140"
+       }
+     },
+     {"issue": {"issue-date": "1954-06-28", "volume": "4", "number": "20"},
+       "title": "Let's Be Prejudiced",
+       "note": "Title as given in issue.  Online renewal record gives title as 'Let's Be Prejudice'.",
+       "author": {
+         "authorized": "Krutch, Joseph Wood, 1893-1970",
+         "lcna": "n80007874"
+       }
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2023-11-06"
+}

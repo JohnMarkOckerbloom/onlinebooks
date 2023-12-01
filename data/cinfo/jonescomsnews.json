@@ -1,5 +1,7 @@
 {
    "title": "The Jones County News",
+   "online": "1",
+   "preceded-by": [{"id": "newsouthnews", "note": "The New South-News"}],
    "rights-statement": "NoC-US",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
@@ -7,5 +9,5 @@
    },
    "acknowledgement": 
       "Thanks to Nat Bender for copyright research on this title.",
-   "last-updated": "2023-06-28"
+   "last-updated": "2023-11-22"
 }

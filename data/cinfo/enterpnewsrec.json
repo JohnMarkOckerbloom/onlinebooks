@@ -1,6 +1,9 @@
 {
    "title": "Enterprise News-Record",
    "title-note": "newspaper published in Enterprise, Oregon",
+   "online": "1",
+   "preceded-by":
+     [{"id": "newsrecentor", "note": "The News-Record (Enterprise, OR)"}],
    "rights-statement": "NoC-US",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
@@ -8,5 +11,5 @@
    },
    "acknowledgement": 
       "Thanks to Pete Sullivan for copyright research on this title.",
-   "last-updated": "2023-10-22"
+   "last-updated": "2023-11-03"
 }

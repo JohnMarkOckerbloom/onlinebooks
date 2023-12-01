@@ -1,5 +1,8 @@
 {
    "title": "Annual Report of the Colored Home and Hospital",
+   "online": "1",
+   "preceded-by":
+     [{"id": "annrepcolhome", "note": "Annual Report of the Colored Home"}],
    "rights-statement": "NoC-US",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
@@ -7,5 +10,5 @@
    },
    "acknowledgement": 
       "Thanks to Peter Sullivan for copyright research on this title.",
-   "last-updated": "2022-08-15"
+   "last-updated": "2023-11-20"
 }

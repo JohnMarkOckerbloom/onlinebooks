@@ -1,0 +1,22 @@
+{
+   "title": "Brief",
+   "title-note": "1950s men's magazine",
+   "first-issue":
+      {"issue-date": "1952-12", "volume": "1", "number": "1"},
+   "first-renewed-issue":
+      {"issue-date": "1952-12", "volume": "1", "number": "1"},
+   "first-renewed-issue-source": "database",
+   "first-renewed-contribution":
+      {"issue": {"issue-date": "1953-02", "volume": "1", "number": "2"}},
+   "first-renewed-contribution-source": "database",
+   "see-also":
+      [{"id": "briefacj",
+        "note": "Brief (American Council for Judaism newsletter)"}],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "acknowledgement": 
+      "Thanks to Pete Sullivan for copyright research on this title.",
+   "last-updated": "2023-11-08"
+}
