@@ -2,6 +2,7 @@
 
 use lib "nlib";
 use POSIX qw(strftime);
+use OLBP;
 use OLBP::CopyrightInfo;
 use OLBP::Entities;
 use OLBP::PendingSerials;
@@ -752,6 +753,10 @@ sub addissns {
 sub addcoverage {
   my ($str, $rec) = @_;
   push @{$rec->{coverage}}, $str;
+  if ($str eq "present") {
+    # special case if SREF is just present: include the current year
+    addcoverage($OLBP::currentyear, $rec);
+  }
   if ($str =~ /hathitrust.org/) {
     $rec->{hashathilink} = 1;
   }

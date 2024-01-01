@@ -14,6 +14,7 @@ use OLBP::TitleBrowser;
 use OLBP::SubjectBrowser;
 use OLBP::Entities;
 
+$OLBP::currentyear = 2023;
 
 $OLBP::dbdir =  "/websites/OnlineBooks/nonpublic/bookdb/";
 

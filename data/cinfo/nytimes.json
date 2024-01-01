@@ -1567,6 +1567,95 @@
       {"issue-date": "1932-05-30", "volume": "81", "number": "27155"},
       {"issue-date": "1932-05-31", "volume": "81", "number": "27156"}
    ],
+   "renewed-contribution-completeness": "active/1935",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1929-10-06"},
+      "title": "Mr. Lardner Has His Fun",
+      "note": "CCE renewal record notes that this appeared in the drama section.",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1930-03-16"},
+      "title": "The Addison Sims of 44th Street",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1930-10-05"},
+      "title": "Jack Donahue",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1930-11-16"},
+      "title": "The Slave's Lament",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1933-05-13"},
+        "title": "Women of Jericho",
+        "author": {
+         "authorized": "McGinley, Phyllis, 1905-1978",
+         "lcna": "n50007804"
+        }
+     },
+     {"issue": {"issue-date": "1933-11-26"},
+        "title": "The Preface to a Noël Coward Cavalcade",
+        "author": {
+          "authorized": "Coward, Noel, 1899-1973",
+          "lcna": "n79071142"
+        }
+     },
+     {"issue": {"issue-date": "1935-01-28"},
+      "title": "Miss Ferber Views Vultures at Trial",
+      "author": {
+       "authorized": "Ferber, Edna, 1887-1968",
+       "lcna": "n79077439"
+       }
+     },
+     {"issue": {"issue-date": "1935-01-31"},
+      "title": "Loyalty of Wife Impresses Writer",
+       "author": {
+         "authorized": "Hurst, Fannie, 1889-1968",
+         "lcna": "n80010314"
+       }
+     },
+     {"issue": {"issue-date": "1935-05-07"},
+       "title": "Rudyard Kipling on Dangers Facing Great Britain",
+       "author": {
+         "authorized": "Kipling, Rudyard, 1865-1936",
+         "lcna": "n79103792"
+       }
+     },
+     {"issue": {"issue-date": "1936-05-02"},
+       "title": "Our Neighbor Hammond",
+       "author": {
+         "authorized": "Atkinson, Brooks, 1894-1984",
+         "lcna": "n50027009"
+       }
+     },
+     {"issue": {"issue-date": "1936-07-01"},
+       "title": "Pour Your Own; At Your Favorite Bar, Schenley's Ancient Age",
+       "note": "Listed as work for hire by Edward Pearson for Affiliated Distillers Brands Corp., which is the author for copyright purposes.",
+       "authors": [
+        {"name": "Edward Pearson"},
+        {"name": "Affiliated Distillers Brands Corp."}
+       ]
+     },
+     {"issue": {"issue-date": "1936-07-31"},
+      "title": "Reign of Armed Spanish Populace Causes Anxiety Across Frontier",
+      "author": {
+       "authorized": "Ferber, Edna, 1887-1968",
+       "lcna": "n79077439"
+       }
+     }
+   ],
    "additional-notes": [
      "Special sections of New York Times, such as the Book Review and Magazine, have earlier issue renewals than the first whole-issue renewal noted here. They may also have earlier contribution renewals than the first contribution renewal noted here. CCE renewal records specifically mentioning the Book Review or Magazine by name are listed separately.",
      "Some renewals for Sunday issues are for specific sections of the newspaper (but there may also be renewals for other sections of the same issue, including numbered sections corresponding to the Book Review and Magazine). See the CCE records for details."
@@ -1575,5 +1664,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-08-24"
+   "last-updated": "2023-12-17"
 }

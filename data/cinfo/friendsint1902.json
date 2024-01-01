@@ -1,15 +1,18 @@
 {
    "title": "Friends' Intelligencer",
-   "title-note": "1902-1955",
+   "comment": "Now describes the full run from 1844, ID notwithstanding",
+   "online": "1",
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
+   "succeeded-by":
+      [{"id": "friendsjnl1955", "note": "Friends Journal (1955-)"}],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
    "acknowledgement": 
       "Thanks to Nat Bender for copyright research on this title.",
-   "last-updated": "2023-09-07"
+   "last-updated": "2023-12-01"
 }

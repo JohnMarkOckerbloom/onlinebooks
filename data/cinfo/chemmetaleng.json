@@ -1,6 +1,8 @@
 {
    "title": "Chemical and Metallurgical Engineering",
    "online": "1",
+   "preceded-by":
+     [{"id": "metalchemeng", "note": "Metallurgical and Chemical Engineering"}],
    "first-issue": {"issue-date": "1918-07", "volume": "19", "number": "1"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
@@ -13,5 +15,5 @@
    },
    "acknowledgement": 
       "Thanks to Joe Kishman for copyright research on this title.",
-   "last-updated": "2021-12-21"
+   "last-updated": "2023-12-12"
 }

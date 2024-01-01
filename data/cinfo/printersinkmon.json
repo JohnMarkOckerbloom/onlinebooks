@@ -11,11 +11,34 @@
    "last-issue": 
      {"issue-date": "1941-12", "volume": "43"},
    "see-also": [{"id": "printersink", "note": "Printers' Ink"}],
+   "renewed-issue-completeness": "active/1937",
+   "renewed-issues": [
+     {"issue-date": "1937-06", "volume": "35", "number": "1"},
+     {"issue-date": "1937-07", "volume": "35", "number": "2"},
+     {"issue-date": "1937-08", "volume": "35", "number": "3"},
+     {"issue-date": "1937-09", "volume": "35", "number": "4",
+      "note":
+        "CCE renewal record notes this issue number is 4 but 'called 6'."},
+     {"issue-date": "1937-10", "volume": "35", "number": "5"},
+     {"issue-date": "1937-11", "volume": "35", "number": "6"},
+     {"issue-date": "1937-12", "volume": "35", "number": "7"},
+     {"issue-date": "1938-01", "volume": "36", "number": "1"},
+     {"issue-date": "1938-02", "volume": "36", "number": "2"},
+     {"issue-date": "1938-03", "volume": "36", "number": "3"},
+     {"issue-date": "1938-04", "volume": "36", "number": "4"},
+     {"issue-date": "1938-05", "volume": "36", "number": "5"},
+     {"issue-date": "1938-06", "volume": "36", "number": "6"},
+     {"issue-date": "1938-07", "volume": "37", "number": "1"},
+     {"issue-date": "1938-08", "volume": "37", "number": "2"},
+     {"issue-date": "1938-09", "volume": "37", "number": "3"},
+     {"issue-date": "1938-10", "volume": "37", "number": "4"},
+     {"issue-date": "1938-11", "volume": "37", "number": "5"}
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
    "acknowledgement": 
       "Thanks to Timothy Wells for copyright research on this title.",
-   "last-updated": "2020-09-26"
+   "last-updated": "2022-12-12"
 }

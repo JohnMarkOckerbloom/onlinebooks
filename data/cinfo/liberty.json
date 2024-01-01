@@ -238,7 +238,7 @@
      {"issue-date": "1932-01-23", "volume": "9", "number": "4"},
      {"issue-date": "1932-01-30", "volume": "9", "number": "5"}
    ],
-   "renewed-contribution-completeness": "active/1928",
+   "renewed-contribution-completeness": "active/1929",
    "renewed-contributions": [
      {"issue": {"issue-date": "1928-01-07", "volume": "5", "number": "1"},
        "title": "Rio (Brazilian Sketches)",
@@ -904,6 +904,13 @@
        }
      },
      {"issue": {"issue-date": "1929-03-16", "volume": "6", "number": "10"},
+      "title": "Dance Hall",
+      "author": {
+       "authorized": "Delmar, Viña, 1903-1990",
+       "lcna": "n50039021"
+      }
+     },
+     {"issue": {"issue-date": "1929-03-16", "volume": "6", "number": "10"},
       "title": "The Murders on the Roof",
       "title-note": "part 9 of 10",
        "author": {
@@ -994,6 +1001,13 @@
        }
      },
      {"issue": {"issue-date": "1929-07-20", "volume": "6", "number": "28"},
+      "title": "O Chivalry",
+      "author": {
+         "authorized": "Arlen, Michael, 1895-1956",
+         "lcna": "n50001591"
+       }
+     },
+     {"issue": {"issue-date": "1929-07-20", "volume": "6", "number": "28"},
        "title": "Show Girl in Hollywood",
        "title-note": "part 5 of 15",
        "author": {
@@ -1024,12 +1038,76 @@
          "lcna": "n87847177"
        }
      },
+     {"issue": {"issue-date": "1929-08-10", "volume": "6", "number": "31"},
+       "title": "Show Girl in Hollywood",
+       "title-note": "part 8 of 15",
+       "author": {
+         "authorized": "McEvoy, J. P. (Joseph Patrick), 1895-1958",
+         "lcna": "n87847177"
+       }
+     },
+     {"issue": {"issue-date": "1929-08-17", "volume": "6", "number": "32"},
+       "title": "Show Girl in Hollywood",
+       "title-note": "part 9 of 15",
+       "author": {
+         "authorized": "McEvoy, J. P. (Joseph Patrick), 1895-1958",
+         "lcna": "n87847177"
+       }
+     },
      {"issue": {"issue-date": "1929-08-24", "volume": "6", "number": "33"},
       "title": "So Few Days Left",
       "author": {
        "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
        "lcna": "no90021257"
       }
+     },
+     {"issue": {"issue-date": "1929-08-24", "volume": "6", "number": "33"},
+       "title": "Show Girl in Hollywood",
+       "title-note": "part 10 of 15",
+       "author": {
+         "authorized": "McEvoy, J. P. (Joseph Patrick), 1895-1958",
+         "lcna": "n87847177"
+       }
+     },
+     {"issue": {"issue-date": "1929-08-31", "volume": "6", "number": "34"},
+       "title": "Show Girl in Hollywood",
+       "title-note": "part 11 of 15",
+       "author": {
+         "authorized": "McEvoy, J. P. (Joseph Patrick), 1895-1958",
+         "lcna": "n87847177"
+       }
+     },
+     {"issue": {"issue-date": "1929-09-07", "volume": "6", "number": "35"},
+       "title": "Show Girl in Hollywood",
+       "title-note": "part 12 of 15",
+       "author": {
+         "authorized": "McEvoy, J. P. (Joseph Patrick), 1895-1958",
+         "lcna": "n87847177"
+       }
+     },
+     {"issue": {"issue-date": "1929-09-14", "volume": "6", "number": "36"},
+       "title": "Show Girl in Hollywood",
+       "title-note": "part 13 of 15",
+       "author": {
+         "authorized": "McEvoy, J. P. (Joseph Patrick), 1895-1958",
+         "lcna": "n87847177"
+       }
+     },
+     {"issue": {"issue-date": "1929-09-21", "volume": "6", "number": "37"},
+       "title": "Show Girl in Hollywood",
+       "title-note": "part 14 of 15",
+       "author": {
+         "authorized": "McEvoy, J. P. (Joseph Patrick), 1895-1958",
+         "lcna": "n87847177"
+       }
+     },
+     {"issue": {"issue-date": "1929-09-28", "volume": "6", "number": "38"},
+       "title": "Show Girl in Hollywood",
+       "title-note": "part 15 of 15",
+       "author": {
+         "authorized": "McEvoy, J. P. (Joseph Patrick), 1895-1958",
+         "lcna": "n87847177"
+       }
      },
      {"issue": {"issue-date": "1929-10-05", "volume": "6", "number": "39"},
       "title": "The Pearls",
@@ -1039,10 +1117,50 @@
       }
      },
      {"issue": {"issue-date": "1929-10-19", "volume": "6", "number": "41"},
+        "title": "My Mother, Lillian Russell",
+        "title-note": "part 1 of 6",
+        "author": {
+         "authorized": "Russell, Dorothy, 1884-1954",
+         "lcna": "no2010012231"
+        }
+     },
+     {"issue": {"issue-date": "1929-10-19", "volume": "6", "number": "41"},
         "title": "A Helping Hand",
         "author": {
          "authorized": "Thompson, Morton",
          "lcna": "n84804165"
+        }
+     },
+     {"issue": {"issue-date": "1929-10-26", "volume": "6", "number": "42"},
+        "title": "My Mother, Lillian Russell",
+        "title-note": "part 2 of 6",
+        "author": {
+         "authorized": "Russell, Dorothy, 1884-1954",
+         "lcna": "no2010012231"
+        }
+     },
+     {"issue": {"issue-date": "1929-11-02", "volume": "6", "number": "43"},
+        "title": "My Mother, Lillian Russell",
+        "title-note": "part 3 of 6",
+        "author": {
+         "authorized": "Russell, Dorothy, 1884-1954",
+         "lcna": "no2010012231"
+        }
+     },
+     {"issue": {"issue-date": "1929-11-09", "volume": "6", "number": "44"},
+        "title": "My Mother, Lillian Russell",
+        "title-note": "part 4 of 6",
+        "author": {
+         "authorized": "Russell, Dorothy, 1884-1954",
+         "lcna": "no2010012231"
+        }
+     },
+     {"issue": {"issue-date": "1929-11-16", "volume": "6", "number": "45"},
+        "title": "My Mother, Lillian Russell",
+        "title-note": "part 5 of 6",
+        "author": {
+         "authorized": "Russell, Dorothy, 1884-1954",
+         "lcna": "no2010012231"
         }
      },
      {"issue": {"issue-date": "1929-11-23", "volume": "6", "number": "46"},
@@ -1052,17 +1170,110 @@
        "lcna": "n79095154"
       }
      },
+     {"issue": {"issue-date": "1929-11-23", "volume": "6", "number": "46"},
+        "title": "My Mother, Lillian Russell",
+        "title-note": "part 6 of 6",
+        "author": {
+         "authorized": "Russell, Dorothy, 1884-1954",
+         "lcna": "no2010012231"
+        }
+     },
      {"issue": {"issue-date": "1929-11-30", "volume": "6", "number": "47"},
       "title": "The Lost Lover",
       "author": {
        "authorized": "Irwin, Wallace, 1876-1959",
        "lcna": "n97112081"
       }
+     },
+     {"issue": {"issue-date": "1929-12-21", "volume": "6", "number": "50"}, 
+      "title": "Youth and Beauty",
+      "author": {
+       "authorized": "Weiman, Rita, 1889-1954",
+       "lcna": "n89129751"
+      }
+     },
+     {"issue": {"issue-date": "1930-02-08", "volume": "7", "number": "6"}, 
+      "title": "Girls Believe in Girls",
+      "author": {
+       "authorized": "Fitzgerald, F. Scott (Francis Scott), 1896-1940",
+       "lcna": "n79006871"
+      }
+     },
+     {"issue": {"issue-date": "1930-02-22", "volume": "7", "number": "8"}, 
+      "title": "On Your Back",
+      "author": {
+       "authorized": "Weiman, Rita, 1889-1954",
+       "lcna": "n89129751"
+      }
+     },
+     {"issue": {"issue-date": "1930-04-05", "volume": "7", "number": "14"},
+      "title": "The Dream",
+      "author": {
+       "authorized": "Bennett, Arnold, 1867-1931",
+       "lcna": "n79095154"
+      }
+     },
+     {"issue": {"issue-date": "1930-04-26", "volume": "7", "number": "17"},
+       "title": "The Debt",
+       "author": {
+         "authorized": "Kipling, Rudyard, 1865-1936",
+         "lcna": "n79103792"
+       }
+     },
+     {"issue": {"issue-date": "1930-05-10", "volume": "7", "number": "19"}, 
+      "title": "We Meet Again",
+      "author": {
+       "authorized": "Weiman, Rita, 1889-1954",
+       "lcna": "n89129751"
+      }
+     },
+     {"issue": {"issue-date": "1930-06-07", "volume": "7", "number": "23"},
+       "title": "Thy Servant a Dog",
+       "author": {
+         "authorized": "Kipling, Rudyard, 1865-1936",
+         "lcna": "n79103792"
+       }
+     },
+     {"issue": {"issue-date": "1930-07-05", "volume": "7", "number": "27"},
+      "title": "He'd Have Said Goodbye",
+      "note": "Title as given in CCE renewal record. FictionMags gives title as 'He'd Said Good-By'. We have not examined the issue in question.",
+      "author": {
+       "authorized": "Duganne, Phyllis, 1899-1976",
+       "lcna": "n90719514"
+      }
+     },
+     {"issue": {"issue-date": "1930-07-19", "volume": "7", "number": "29"},
+      "title": "God's Gift to Women",
+      "author": {
+       "authorized": "Brennan, Frederick Hazlitt, 1901-1962",
+       "lcna": "no89011748"
+      }
+     },
+     {"issue": {"issue-date": "1930-08-23", "volume": "7", "number": "34"}, 
+      "title": "Walled City",
+      "author": {
+       "authorized": "Weiman, Rita, 1889-1954",
+       "lcna": "n89129751"
+      }
+     },
+     {"issue": {"issue-date": "1930-09-13", "volume": "7", "number": "37"},
+      "title": "Fellow Prisoners",
+      "author": {
+       "authorized": "Gibbs, Philip, 1877-1962",
+       "lcna": "n85232177"
+      }
+     },
+     {"issue": {"issue-date": "1930-11-08", "volume": "7", "number": "45"},
+       "title": "Hottest Guy in the World",
+       "author": {
+         "authorized": "Runyon, Damon, 1880-1946",
+         "lcna": "n80049533"
+       }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-08-24"
+   "last-updated": "2023-12-17"
 }

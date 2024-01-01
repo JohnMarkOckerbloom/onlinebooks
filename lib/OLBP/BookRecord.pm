@@ -14,6 +14,8 @@ my %mcode = ("Jan" => 1, "Feb" => 2,  "Mar" => 3,  "Apr" => 4,
 
 my $idnum = 0;
 
+my $currentyear = $OLBP::currentyear || 2023;
+
 my $AUTHORNAMESEP = "\x02";
 # my $AUTHORTITLESEP = "\x01";
 
@@ -397,18 +399,18 @@ sub _probable_publication_year {
     return $1;
   }
   if ($self->{serial} && $note =~ /(\d\d\d\d)-\s*$/) {
-    # open-ended: might be present or not. Assume 2014
-    return 2014;
+    # open-ended: might be present or not. Assume 
+    return $currentyear - 1;
   } elsif ($self->{serial} && $self->{SREF}) {
     my $max = 0;
     # see if we can find out from SREFs how far things extend
     foreach my $sref (@{$self->{SREF}}) {
-      if ($sref =~ /^\S*-present/) {
-        # let's assume present is 2015
-        return 2015;
+      if ($sref =~ /^\S*-present/ || $sref eq "present") {
+        return $currentyear;
       } elsif ($sref =~ /\S*-recent/) {
-        # let's assume recent is 2010
-        $max = 2010 if ($max < 2010);
+        # let's assume recent is currentyear - 5;
+        my $recentyear = $currentyear - 5;
+        $max = $recentyear if ($max < $recentyear);
       } elsif ($sref =~ /^\S*(\d\d\d\d) /) {
         # take the last year in the SREF if later than current max
         $max = $1 if ($max < $1);

@@ -274,7 +274,7 @@
      {"issue-date": "1932-12-10", "volume": "139", "number": "4"},
      {"issue-date": "1932-12-25", "volume": "139", "number": "5"}
    ],
-   "renewed-contribution-completeness": "active/1928",
+   "renewed-contribution-completeness": "active/1929",
    "renewed-contributions": [
      {"issue": {"issue-date": "1928-01-07", "volume": "98", "number": "2"},
       "title": "Sinister Halls",
@@ -575,11 +575,94 @@
         "authorized": "Wallace, Edgar, 1875-1932",
         "lcna": "n80034938"
       }
+     },
+     {"issue": {"issue-date": "1930-01-11", "volume": "115", "number": "5"},
+      "title": "Ashamed",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1930-03-01", "volume": "116", "number": "6"},
+      "title": "Lacework",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1930-03-08", "volume": "117", "number": "1"},
+      "title": "The Big Noise",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1930-04-05", "volume": "117", "number": "5"},
+      "title": "His Pet Madman",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1930-05-03", "volume": "118", "number": "3"},
+      "title": "Ringing Defiance",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1930-09-20", "volume": "121", "number": "5"},
+      "title": "The Clew of the Silver Key",
+      "title-note": "part 1 of 6",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1930-09-27", "volume": "121", "number": "6"},
+      "title": "The Clew of the Silver Key",
+      "title-note": "part 2 of 6",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1930-10-04", "volume": "122", "number": "1"},
+      "title": "The Clew of the Silver Key",
+      "title-note": "part 3 of 6",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1930-10-11", "volume": "122", "number": "2"},
+      "title": "The Clew of the Silver Key",
+      "title-note": "part 4 of 6",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1930-10-18", "volume": "122", "number": "3"},
+      "title": "The Clew of the Silver Key",
+      "title-note": "part 5 of 6",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1930-09-20", "volume": "122", "number": "4"},
+      "title": "The Clew of the Silver Key",
+      "title-note": "part 6 of 6",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-08-24"
+   "last-updated": "2023-12-09"
 }

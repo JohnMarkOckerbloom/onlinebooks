@@ -2,6 +2,10 @@
    "title": "College Humor",
    "aka": ["College Humor and Sense"],
    "online": "1",
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/FMI/link.asp?magid=COLHU",
+       "note": "FictionMags (partial; not all issues included)"}
+   ],
    "first-renewed-issue":
       {"issue-date": "1936-01", "series": "2", "volume": "1", "number": "4"},
    "first-renewed-issue-source": "1963-JulDec",
@@ -9,7 +13,7 @@
      {"issue": {"issue-date": "1928-03", "volume": "13", "number": "4",
       "cdate": "1928-02-01"}},
    "first-renewed-contribution-source": "1955-JanJun",
-   "renewed-contribution-completeness": "active/1928",
+   "renewed-contribution-completeness": "active/1929",
    "renewed-contributions": [
      {"issue": {"issue-date": "1928-03", "volume": "13", "number": "4"},
       "title": "Bon Voyage",
@@ -241,6 +245,126 @@
          "authorized": "Cary, Lucian, 1886-1971",
          "lcna": "no90003387"
        }
+     },
+     {"issue": {"issue-date": "1930-02", "number": "74"},
+      "title": "The Girl the Prince Liked",
+      "authors": [
+        {"authorized": "Fitzgerald, F. Scott (Francis Scott), 1896-1940",
+         "lcna": "n79006871"},
+        {"authorized": "Fitzgerald, Zelda, 1900-1948",
+         "lcna": "n50003067"}
+      ]
+     },
+     {"issue": {"issue-date": "1930-04", "number": "76"},
+      "title": "The Girl With Talent",
+      "authors": [
+        {"authorized": "Fitzgerald, F. Scott (Francis Scott), 1896-1940",
+         "lcna": "n79006871"},
+        {"authorized": "Fitzgerald, Zelda, 1900-1948",
+         "lcna": "n50003067"}
+      ]
+     },
+     {"issue": {"issue-date": "1930-05", "number": "77"},
+      "title": "Technique",
+      "title-note": "part 1 of 2",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1930-06", "number": "78"},
+      "title": "I Lived This Story",
+      "title-note": "part 1 of 3",
+      "note": "Author name is also given as 'Mrs. Joseph F. Johnston'.",
+      "author": {
+       "name": "Betty White"
+      }
+     },
+     {"issue": {"issue-date": "1930-06", "number": "78"},
+      "title": "Technique",
+      "title-note": "part 2 of 2",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1930-07", "number": "79"},
+      "title": "I Lived This Story",
+      "title-note": "part 2 of 3",
+      "note": "Author name is also given as 'Mrs. Joseph F. Johnston'.",
+      "author": {
+       "name": "Betty White"
+      }
+     },
+     {"issue": {"issue-date": "1930-08", "number": "80"},
+      "title": "Big Business Girl",
+      "title-note": "part 1 of 3",
+      "authors": [
+       {"name": "Patricia Reilly"},
+       {"authorized": "Swanson, H. N.", "lcna": "n88199477"}
+      ]
+     },
+     {"issue": {"issue-date": "1930-08", "number": "80"},
+      "title": "I Lived This Story",
+      "title-note": "part 3 of 3",
+      "note": "Author name is also given as 'Mrs. Joseph F. Johnston'.",
+      "author": {
+       "name": "Betty White"
+      }
+     },
+     {"issue": {"issue-date": "1930-09", "number": "81"},
+      "title": "Big Business Girl",
+      "title-note": "part 2 of 3",
+      "authors": [
+       {"name": "Patricia Reilly"},
+       {"authorized": "Swanson, H. N.", "lcna": "n88199477"}
+      ]
+     },
+     {"issue": {"issue-date": "1930-10", "number": "82"},
+      "title": "Big Business Girl",
+      "title-note": "part 3 of 3",
+      "authors": [
+       {"name": "Patricia Reilly"},
+       {"authorized": "Swanson, H. N.", "lcna": "n88199477"}
+      ]
+     },
+     {"issue": {"issue-date": "1930-11", "number": "83"},
+      "title": "Humble Eye",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1930-11", "number": "83"},
+      "title": "Huddle",
+      "title-note": "part 1 of 3",
+      "author": {
+         "authorized": "Wallace, Francis",
+         "lcna": "no89010849"
+      }
+     },
+     {"issue": {"issue-date": "1930-12", "number": "84"},
+      "title": "Huddle",
+      "title-note": "part 2 of 3",
+      "author": {
+         "authorized": "Wallace, Francis",
+         "lcna": "no89010849"
+      }
+     },
+     {"issue": {"issue-date": "1931-01", "number": "85"},
+      "title": "The Poor Working Girl",
+      "author": {
+       "authorized": "Fitzgerald, F. Scott (Francis Scott), 1896-1940",
+       "lcna": "n79006871"
+      }
+     },
+     {"issue": {"issue-date": "1931-01", "number": "85"},
+      "title": "Huddle",
+      "title-note": "part 3 of 3",
+      "author": {
+         "authorized": "Wallace, Francis",
+         "lcna": "no89010849"
+      }
      }
    ],
    "additional-note": "A second series of this periodical began in 1934, in conjunction with one of its ownership changes.  (The magazine changed hands multiple times in the 1930s, with some publication hiatuses.  It was also known as 'College Humor and Sense' for a time during 1933 and 1934.) I am not aware of the second series being marked as such; rather, the volume and issue numbering simply restarted at 1 in 1934.",
@@ -248,5 +372,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-01-02"
+   "last-updated": "2023-12-09"
 }

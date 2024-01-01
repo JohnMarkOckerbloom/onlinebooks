@@ -1,0 +1,49 @@
+{
+   "title": "Oscar Comics",
+   "aka": ["Awful Oscar"],
+   "contents": [
+      {"url": "https://www.comics.org/series/508/",
+       "note": "Grand Comics Database (Oscar Comics issues)"},
+      {"url": "https://www.comics.org/series/628/",
+       "note": "Grand Comics Database (Awful Oscar issues)"}
+   ],
+   "first-issue":
+      {"issue-date": "1947-Spring", "volume": "1", "number": "24"},
+   "first-renewed-issue": 
+      {"issue-date": "1947-Spring", "volume": "1", "number": "24"},
+   "first-renewed-issue-source": "1977-JulDec",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce",
+   "last-issue":
+      {"issue-date": "1949-11", "volume": "1", "number": "13"},
+   "renewed-issue-completeness": "active/end",
+   "renewed-issues": [
+      {"issue-date": "1947-Spring", "volume": "1", "number": "24",
+       "note": "This appears to be the first issue. We do not know for sure why it is numbered 24, but it may continue the numbering of an earlier, different comic from the same publisher."},
+      {"issue-date": "1947-Summer", "volume": "1", "number": "25"},
+      {"issue-date": "1947-Fall", "volume": "1", "number": "3",
+       "note": "Issue numbering appears to reset here to reflect the number of 'Oscar Comics' issues published to date."},
+      {"issue-date": "Winter 1947-1948", "volume": "1", "number": "4"},
+      {"issue-date": "1948-06", "volume": "1", "number": "5"},
+      {"issue-date": "1948-08", "volume": "1", "number": "6"},
+      {"issue-date": "1948-10", "volume": "1", "number": "7"},
+      {"issue-date": "1948-12", "volume": "1", "number": "8"},
+      {"issue-date": "1949-02", "volume": "1", "number": "9"},
+      {"issue-date": "1949-04", "volume": "1", "number": "10"},
+      {"issue-date": "1949-06", "volume": "1", "number": "11",
+       "note": "This issue is titled 'Awful Oscar'."},
+      {"issue-date": "1949-08", "volume": "1", "number": "12",
+       "note": "This issue is titled 'Awful Oscar'."},
+      {"issue-date": "1949-11", "volume": "1", "number": "13",
+       "note": "This issue is titles 'Oscar Comics' again. We know of no further issues."}
+   ],
+   "additional-notes": [
+      "The title changed to Awful Oscar for number 11, and then back to Oscar Comics for number 13.",
+      "A note in the 1975 CCE Periodicals volume says to 'consult copyright office' for full issue renewal information for Oscar Comics.  The renewal for the first issue was recorded in the July-December 1977 CCE Periodicals volume, and was filed in 1975. A similar note appears in the January-June 1977 Periodicals volume to consult the copyright office for full issue renewal information on Awful Oscar.  The renewal for the first issue under that title is also recorded in the  July-December 1977 CCE Periodicals volume, and was filed in February 1977."
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2023-12-21"
+}

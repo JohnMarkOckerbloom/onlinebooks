@@ -84,7 +84,7 @@
            {"issue-date": "1932-10", "volume": "15", "number": "8"},
            {"issue-date": "1932-11", "volume": "15", "number": "9"}
    ],
-   "renewed-contribution-completeness": "active/1928",
+   "renewed-contribution-completeness": "active/1931",
    "renewed-contributions": [
      {"issue": {"issue-date": "1928-02", "volume": "10", "number": "12"},
       "title": "Yellow Shadows",
@@ -238,6 +238,13 @@
        "lcna": "n80016943"
       }
      },
+     {"issue": {"issue-date": "1929-11", "volume": "12", "number": "9"},
+      "title": "Brass Tacks",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
      {"issue": {"issue-date": "1929-12", "volume": "12", "number": "10"},
       "title": "The Maltese Falcon",
       "title-note": "part 4 of 5",
@@ -245,6 +252,13 @@
        "authorized": "Hammett, Dashiell, 1894-1961",
        "lcna": "n80016943"
       }
+     },
+     {"issue": {"issue-date": "1929-12", "volume": "12", "number": "10"},
+      "title": "Triple Treachery",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
      },
      {"issue": {"issue-date": "1930-01", "volume": "12", "number": "11"}, 
       "title": "Tough Treatment",
@@ -260,11 +274,288 @@
        "authorized": "Hammett, Dashiell, 1894-1961",
        "lcna": "n80016943"
       }
+     },
+     {"issue": {"issue-date": "1930-01", "volume": "12", "number": "11"}, 
+      "title": "Double or Quits",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1930-02", "volume": "12", "number": "12"}, 
+      "title": "Alley Rat",
+      "author": {
+         "authorized": "Nebel, Frederick",
+         "lcna": "n80020640"
+      }
+     },
+     {"issue": {"issue-date": "1930-03", "volume": "13", "number": "1"},
+      "title": "The Glass Key",
+      "title-note": "part 1 of 4",
+      "note": "Title as given in CCE renewal record.  FictionMags gives the title of Hammett's contribution to this issue as 'The Glass Key: The Hat Trick', first in a monthly series of stories with titles headed 'The Glass Key'.",
+      "author": {
+       "authorized": "Hammett, Dashiell, 1894-1961",
+       "lcna": "n80016943"
+      }
+     },
+     {"issue": {"issue-date": "1930-04", "volume": "13", "number": "2"}, 
+      "title": "Wise Guy",
+      "author": {
+         "authorized": "Nebel, Frederick",
+         "lcna": "n80020640"
+      }
+     },
+     {"issue": {"issue-date": "1930-04", "volume": "13", "number": "2"}, 
+      "title": "The Glass Key",
+      "title-note": "part 2 of 4",
+      "note": "Title as given in CCE renewal record.  FictionMags gives the title of Hammett's contribution to this issue as 'The Glass Key: The Cyclone Shot', second in a monthly series of stories with titles headed 'The Glass Key'.",
+      "author": {
+       "authorized": "Hammett, Dashiell, 1894-1961",
+       "lcna": "n80016943"
+      }
+     },
+     {"issue": {"issue-date": "1930-05", "volume": "13", "number": "3"}, 
+      "title": "The Glass Key",
+      "title-note": "part 3 of 4",
+      "note": "Title as given in CCE renewal record.  FictionMags gives the title of Hammett's contribution to this issue as 'The Glass Key: Dagger Point', third in a monthly series of stories with titles headed 'The Glass Key'.",
+      "author": {
+       "authorized": "Hammett, Dashiell, 1894-1961",
+       "lcna": "n80016943"
+      }
+     },
+     {"issue": {"issue-date": "1930-05", "volume": "13", "number": "3"}, 
+      "title": "Crime Crusher",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1930-06", "volume": "13", "number": "4"}, 
+      "title": "The Glass Key",
+      "title-note": "part 4 of 4",
+      "note": "Title as given in CCE renewal record.  FictionMags gives the title of Hammett's contribution to this issue as 'The Glass Key: The Shattered Key', fourth in a monthly series of stories with titles headed 'The Glass Key'.",
+      "author": {
+       "authorized": "Hammett, Dashiell, 1894-1961",
+       "lcna": "n80016943"
+      }
+     },
+     {"issue": {"issue-date": "1930-06", "volume": "13", "number": "4"}, 
+      "title": "Hell's Kettle",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1930-07", "volume": "13", "number": "5"}, 
+      "title": "Big Shot",
+      "note": "CCE renewal record says this appeared in the June 1930 issue, but the original issue registration ID and copyright date indicate the July 1930 issue, as does FictionMags's entry for this story.",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1930-08", "volume": "13", "number": "6"}, 
+      "title": "Ten Men From Chicago",
+      "note": "Title as given on issue cover. CCE renewal record gives title as 'The Men From Chicago'.",
+      "author": {
+         "authorized": "Nebel, Frederick",
+         "lcna": "n80020640"
+      }
+     },
+     {"issue": {"issue-date": "1930-09", "volume": "13", "number": "7"}, 
+      "title": "Shakedown",
+      "note": "Title as given in CCE renewal record. FictionMags gives title as 'Shake-Down'.",
+      "author": {
+         "authorized": "Nebel, Frederick",
+         "lcna": "n80020640"
+      }
+     },
+     {"issue": {"issue-date": "1930-12", "volume": "13", "number": "10"}, 
+      "title": "The Red-Hots",
+      "author": {
+         "authorized": "Nebel, Frederick",
+         "lcna": "n80020640"
+      }
+     },
+     {"issue": {"issue-date": "1931-02", "volume": "13", "number": "12"}, 
+      "title": "Get a Load of This",
+      "author": {
+         "authorized": "Nebel, Frederick",
+         "lcna": "n80020640"
+      }
+     },
+     {"issue": {"issue-date": "1931-05", "volume": "14", "number": "3"}, 
+      "title": "Beat the Rap",
+      "author": {
+         "authorized": "Nebel, Frederick",
+         "lcna": "n80020640"
+      }
+     },
+     {"issue": {"issue-date": "1931-07", "volume": "14", "number": "5"}, 
+      "title": "Tommy Talk",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1931-07", "volume": "14", "number": "5"}, 
+      "title": "Death for a Dago",
+      "author": {
+         "authorized": "Nebel, Frederick",
+         "lcna": "n80020640"
+      }
+     },
+     {"issue": {"issue-date": "1931-08", "volume": "14", "number": "6"}, 
+      "title": "Hairy Hands",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1931-08", "volume": "14", "number": "6"}, 
+      "title": "Spare the Rod",
+      "author": {
+         "authorized": "Nebel, Frederick",
+         "lcna": "n80020640"
+      }
+     },
+     {"issue": {"issue-date": "1931-09", "volume": "14", "number": "7"}, 
+      "title": "Pearls Are Tears",
+      "author": {
+         "authorized": "Nebel, Frederick",
+         "lcna": "n80020640"
+      }
+     },
+     {"issue": {"issue-date": "1931-09", "volume": "14", "number": "7"}, 
+      "title": "Promise to Pay",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1931-10", "volume": "14", "number": "8"}, 
+      "title": "Death's Not Enough",
+      "author": {
+         "authorized": "Nebel, Frederick",
+         "lcna": "n80020640"
+      }
+     },
+     {"issue": {"issue-date": "1931-10", "volume": "14", "number": "8"}, 
+      "title": "The Hot Squat",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1931-11", "volume": "14", "number": "9"}, 
+      "title": "It's the Live Ones That Talk",
+      "author": {
+         "authorized": "Nebel, Frederick",
+         "lcna": "n80020640"
+      }
+     },
+     {"issue": {"issue-date": "1931-12", "volume": "14", "number": "10"},
+      "title": "Strictly Personal",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1932-01", "volume": "14", "number": "11"},
+      "title": "Face Up",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1932-03", "volume": "15", "number": "1"},
+      "title": "Feet First",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1932-03", "volume": "15", "number": "1"},
+      "title": "The Quick or the Dead",
+      "author": {
+         "authorized": "Nebel, Frederick",
+         "lcna": "n80020640"
+      }
+     },
+     {"issue": {"issue-date": "1932-04", "volume": "15", "number": "2"},
+      "title": "Straight Crooks",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1932-05", "volume": "15", "number": "3"},
+      "title": "Backwash",
+      "author": {
+         "authorized": "Nebel, Frederick",
+         "lcna": "n80020640"
+      }
+     },
+     {"issue": {"issue-date": "1932-05", "volume": "15", "number": "3"},
+      "title": "Under the Guns",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1932-06", "volume": "15", "number": "4"},
+      "title": "Cooking Crooks",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1932-07", "volume": "15", "number": "5"},
+      "title": "Rough Stuff",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1932-09", "volume": "15", "number": "7"},
+      "title": "Blue Murder",
+      "author": {
+         "authorized": "Whitfield, Raoul",
+         "lcna": "n80076510"
+       }
+     },
+     {"issue": {"issue-date": "1932-09", "volume": "15", "number": "7"},
+      "title": "Black and White",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1932-10", "volume": "15", "number": "8"},
+      "title": "On Two Feet",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1932-11", "volume": "15", "number": "9"},
+      "title": "Honest Money",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1932-12", "volume": "15", "number": "10"},
+      "title": "The Top Comes Off",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-08-24"
+   "last-updated": "2023-12-09"
 }

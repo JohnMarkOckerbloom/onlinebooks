@@ -25,7 +25,7 @@
       {"issue-date": "1928-03-18"},
       {"issue-date": "1928-03-25"}
    ],
-   "renewed-contribution-completeness": "active/1928",
+   "renewed-contribution-completeness": "active/1935",
    "renewed-contributions": [
      {"issue": {"issue-date": "1928-08-14"},
         "title": "Theatre by Ferry",
@@ -47,6 +47,13 @@
          "authorized": "Morley, Christopher, 1890-1957",
          "lcna": "n50006133"
         }
+     },
+     {"issue": {"issue-date": "1935-02-03"},
+        "title": "New Year's Day: A woodcut of people being drawn in sleigh",
+        "author": {
+         "authorized": "Lankes, Julius J., 1884-1960",
+         "lcna": "n84160265"
+        }
      }
    ],
    "additional-notes": [
@@ -57,5 +64,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-11-02"
+   "last-updated": "2023-12-17"
 }
