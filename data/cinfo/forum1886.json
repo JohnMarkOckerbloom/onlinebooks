@@ -5,100 +5,14 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1928-02"}}, 
-   "first-renewed-contribution-source": "1955-JanJun",
+     {"issue": {"issue-date": "1929-02", "cdate": "1929-01-12"}},
+   "first-renewed-contribution-source": "1956-JanJun",
    "last-issue": {"issue-date": "1930-06", "volume": "83", "number": "6"}, 
    "succeeded-by": [{"id": "forumcentury", "note": "Forum and Century"}],
    "see-also":
      [{"id": "forum1945", "note": "The Forum (American magazine, 1945-1950)"}],
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1928-02"}, 
-        "title": "Escaped Cock",
-        "author": {
-         "authorized": "Lawrence, D. H. (David Herbert), 1885-1930",
-         "lcna": "n79018450"
-        }
-     },
-     {"issue": {"issue-date": "1928-02"}, 
-      "title": "The Glass Eater's Story",
-      "author": {
-         "authorized": "Marquis, Don, 1878-1937",
-         "lcna": "n50041532"
-       }
-     },
-     {"issue": {"issue-date": "1928-03"},
-        "title": "The End of the Borden Case",
-        "author": {
-         "authorized": "Pearson, Edmund Lester, 1880-1937",
-         "lcna": "n50012420"
-        }
-     },
-     {"issue": {"issue-date": "1928-05"},
-      "title": "Stigma of Wealth",
-      "title-note": "part 1 of 2",
-      "author": {
-       "authorized": "Train, Arthur, 1875-1945",
-       "lcna": "n50014661"
-      }
-     },
-     {"issue": {"issue-date": "1928-06"},
-        "title": "Really My Dear",
-        "author": {
-         "authorized": "Morley, Christopher, 1890-1957",
-         "lcna": "n50006133"
-        }
-     },
-     {"issue": {"issue-date": "1928-06"},
-      "title": "Stigma of Wealth",
-      "title-note": "part 2 of 2",
-      "author": {
-       "authorized": "Train, Arthur, 1875-1945",
-       "lcna": "n50014661"
-      }
-     },
-     {"issue": {"issue-date": "1928-07"},
-      "title": "The Humanism of Irving Babbitt",
-      "author": {
-       "authorized": "Eliot, T. S. (Thomas Stearns), 1888-1965",
-       "lcna": "n79006870"
-      }
-     },
-     {"issue": {"issue-date": "1928-10"},
-      "title": "The Wardens of the Shoals",
-      "author": {
-         "authorized": "McFee, William, 1881-1966",
-         "lcna": "n82053296"
-      }
-     },
-     {"issue": {"issue-date": "1928-12"},
-        "title": "Goods and Chattels",
-        "author": {
-         "authorized": "Benét, Laura",
-         "lcna": "n50008105"
-        }
-     },
-     {"issue": {"issue-date": "1928-12"},
-        "title": "The Return of Christ",
-        "author": {
-         "authorized": "Ficke, Arthur Davison, 1883-1945",
-         "lcna": "n82119450"
-        }
-     },
-     {"issue": {"issue-date": "1928-12"},
-        "title": "High Wind in Jamaica",
-        "author": {
-         "authorized": "Hughes, Richard, 1900-1976",
-         "lcna": "n50034197"
-        }
-     },
-     {"issue": {"issue-date": "1929-01"}, 
-        "title": "Cocksure Women and Hensure Men",
-        "author": {
-         "authorized": "Lawrence, D. H. (David Herbert), 1885-1930",
-         "lcna": "n79018450"
-        }
-     },
      {"issue": {"issue-date": "1929-02"},
         "title": "Double Birthday",
         "author": {
@@ -132,5 +46,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-02-03"
+   "last-updated": "2024-01-05"
 }

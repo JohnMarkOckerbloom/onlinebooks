@@ -6,87 +6,11 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1928-03"}}, 
-   "first-renewed-contribution-source": "1955-JanJun",
+     {"issue": {"issue-date": "1929-01"}}, 
+   "first-renewed-contribution-source": "1956-JanJun",
    "last-issue": {"issue-date": "1933-03", "volume": "76", "number": "3"},
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1928-03"}, 
-      "title": "Talks with Thomas Hardy at Max Gate, 1920-1922",
-      "author": {
-       "authorized": "Collins, Vere H. (Vere Henry), 1872-1966",
-       "lcna": "n50082839"
-      }
-     },
-     {"issue": {"issue-date": "1928-05"}, 
-      "title": "Life in Letters of William Dean Howells",
-      "title-note": "part 1 of 4",
-      "author": {
-       "authorized": "Howells, William Dean, 1837-1920",
-       "lcna": "n80002569"
-      },
-      "editor": {
-       "authorized": "Howells, Mildred, 1872-1966",
-       "lcna": "no99034270"
-      }
-     },
-     {"issue": {"issue-date": "1928-06"}, 
-      "title": "Life in Letters of William Dean Howells",
-      "title-note": "part 2 of 4",
-      "author": {
-       "authorized": "Howells, William Dean, 1837-1920",
-       "lcna": "n80002569"
-      },
-      "editor": {
-       "authorized": "Howells, Mildred, 1872-1966",
-       "lcna": "no99034270"
-      }
-     },
-     {"issue": {"issue-date": "1928-08"}, 
-      "title": "Life in Letters of William Dean Howells",
-      "title-note": "part 3 of 4",
-      "author": {
-       "authorized": "Howells, William Dean, 1837-1920",
-       "lcna": "n80002569"
-      },
-      "editor": {
-       "authorized": "Howells, Mildred, 1872-1966",
-       "lcna": "no99034270"
-      }
-     },
-     {"issue": {"issue-date": "1928-09"},
-        "title": "Alonzo and Melissa",
-        "author": {
-         "authorized": "Pearson, Edmund Lester, 1880-1937",
-         "lcna": "n50012420"
-        }
-     },
-     {"issue": {"issue-date": "1928-10"}, 
-      "title": "Life in Letters of William Dean Howells",
-      "title-note": "part 4 of 4",
-      "author": {
-       "authorized": "Howells, William Dean, 1837-1920",
-       "lcna": "n80002569"
-      },
-      "editor": {
-       "authorized": "Howells, Mildred, 1872-1966",
-       "lcna": "no99034270"
-      }
-     },
-     {"issue": {"issue-date": "1928-10"}, 
-      "title": "The Wisdom of Mrs. Trevanna",
-      "author": {
-         "authorized": "Montague, C. E. (Charles Edward), 1867-1928",
-         "lcna": "n50004227"
-      }
-     },
-     {"issue": {"issue-date": "1928-10"}, 
-      "title": "The Strange Necessity",
-        "author": {
-         "authorized": "West, Rebecca, 1892-1983",
-         "lcna": "n79100227"
-        }
-     },
      {"issue": {"issue-date": "1929-01"}, 
       "title": "A London Commentary",
         "author": {
@@ -320,5 +244,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-01-02"
+   "last-updated": "2024-01-05"
 }

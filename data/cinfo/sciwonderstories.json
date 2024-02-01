@@ -9,51 +9,13 @@
    ],
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
-   "first-renewed-contribution": 
-     {"issue": {"issue-date": "1929-07", "volume": "1", "number": "1"}},
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce",
    "succeeded-by": [{"id": "wonderstories", "note": "Wonder Stories"}],
    "renewed-contribution-completeness": "active/end",
-   "renewed-contributions": [
-     {"issue": {"issue-date": "1929-07", "volume": "1", "number": "2"},
-      "title": "The Problems of Space Flying",
-      "title-note": "part 1 of 3",
-      "note": "There was no renewal filed for this story; however, it is a translation of 'Das Problem der Befahrung des Weltraums', originally published in German in 1928 and likely to have an active copyright due to GATT restoration.",
-      "author": {
-       "authorized": "Noordung, Hermann, 1892-1929",
-       "lcna": "n94085672"
-      },
-      "translator": {
-       "name": "Francis M. Currier"
-      }
-     },
-     {"issue": {"issue-date": "1929-08", "volume": "1", "number": "3"},
-      "title": "The Problems of Space Flying",
-      "title-note": "part 2 of 3",
-      "note": "There was no renewal filed for this story; however, it is a translation of 'Das Problem der Befahrung des Weltraums', originally published in German in 1928 and likely to have an active copyright due to GATT restoration.",
-      "author": {
-       "authorized": "Noordung, Hermann, 1892-1929",
-       "lcna": "n94085672"
-      },
-      "translator": {
-       "name": "Francis M. Currier"
-      }
-     },
-     {"issue": {"issue-date": "1929-09", "volume": "1", "number": "4"},
-      "title": "The Problems of Space Flying",
-      "title-note": "part 3 of 3",
-      "note": "There was no renewal filed for this story; however, it is a translation of 'Das Problem der Befahrung des Weltraums', originally published in German in 1928 and likely to have an active copyright due to GATT restoration.",
-      "author": {
-       "authorized": "Noordung, Hermann, 1892-1929",
-       "lcna": "n94085672"
-      },
-      "translator": {
-       "name": "Francis M. Currier"
-      }
-     }
-   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-11-11"
+   "last-updated": "2024-01-08"
 }

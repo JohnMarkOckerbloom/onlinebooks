@@ -8,131 +8,12 @@
    ],
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
-   "first-renewed-contribution": {"issue": {"issue-date": "1928-03"}},
+   "first-renewed-contribution":
+     {"issue": {"issue-date": "1929-02", "cdate": "1929-01-01"}},
    "first-renewed-contribution-source": "1956-JanJun",
    "see-also": [{"id": "mcclures", "note": "McClure's"}],
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1928-03"},
-      "title": "Unforbidden Fruit",
-      "title-note": "part 1 of 7",
-      "author": {
-        "authorized": "Fabian, Warner, 1871-1958",
-        "lcna": "no2018084094"
-      },
-       "note": "Author is Samuel Hopkins Adams writing under a pseudonym."
-     },
-     {"issue": {"issue-date": "1928-04"},
-      "title": "Unforbidden Fruit",
-      "title-note": "part 2 of 7",
-      "author": {
-        "authorized": "Fabian, Warner, 1871-1958",
-        "lcna": "no2018084094"
-      },
-       "note": "Author is Samuel Hopkins Adams writing under a pseudonym."
-     },
-     {"issue": {"issue-date": "1928-05"},
-      "title": "Bluffers",
-      "author": {
-        "authorized": "Carr, Robert Spencer, 1909-1994",
-        "lcna": "n90719514"
-      }
-     },
-     {"issue": {"issue-date": "1928-05"},
-      "title": "Unforbidden Fruit",
-      "title-note": "part 3 of 7",
-      "author": {
-        "authorized": "Fabian, Warner, 1871-1958",
-        "lcna": "no2018084094"
-      },
-       "note": "Author is Samuel Hopkins Adams writing under a pseudonym."
-     },
-     {"issue": {"issue-date": "1928-06"},
-      "title": "Forbidden Fruit",
-      "title-note": "part 1 of 3",
-      "author": {
-        "authorized": "Fabian, Warner, 1871-1958",
-        "lcna": "no2018084094"
-      },
-       "note": "Author is Samuel Hopkins Adams writing under a pseudonym. The relationship of this title with 'Unforbidden Fruit' is unclear. 'Forbidden Fruit' is not mentioned in the FictionMags table of contents for this issue."
-     },
-     {"issue": {"issue-date": "1928-06"},
-      "title": "Unforbidden Fruit",
-      "title-note": "part 4 of 7",
-      "author": {
-        "authorized": "Fabian, Warner, 1871-1958",
-        "lcna": "no2018084094"
-      },
-       "note": "Author is Samuel Hopkins Adams writing under a pseudonym."
-     },
-     {"issue": {"issue-date": "1928-07"},
-      "title": "Forbidden Fruit",
-      "title-note": "part 2 of 3",
-      "author": {
-        "authorized": "Fabian, Warner, 1871-1958",
-        "lcna": "no2018084094"
-       },
-       "note": "Author is Samuel Hopkins Adams writing under a pseudonym. The relationship of this title with 'Unforbidden Fruit' is unclear. 'Forbidden Fruit' is not mentioned in the FictionMags table of contents for this issue."
-      },
-     {"issue": {"issue-date": "1928-07"},
-      "title": "Unforbidden Fruit",
-      "title-note": "part 5 of 7",
-      "author": {
-        "authorized": "Fabian, Warner, 1871-1958",
-        "lcna": "no2018084094"
-      },
-       "note": "Author is Samuel Hopkins Adams writing under a pseudonym."
-     },
-     {"issue": {"issue-date": "1928-08"},
-      "title": "Forbidden Fruit",
-      "title-note": "part 3 of 3",
-      "author": {
-        "authorized": "Fabian, Warner, 1871-1958",
-        "lcna": "no2018084094"
-      },
-       "note": "Author is Samuel Hopkins Adams writing under a pseudonym. The relationship of this title with 'Unforbidden Fruit' is unclear. 'Forbidden Fruit' is not mentioned in the FictionMags table of contents for this issue."
-     },
-     {"issue": {"issue-date": "1928-08"},
-      "title": "Unforbidden Fruit",
-      "title-note": "part 6 of 7",
-      "author": {
-        "authorized": "Fabian, Warner, 1871-1958",
-        "lcna": "no2018084094"
-      },
-       "note": "Author is Samuel Hopkins Adams writing under a pseudonym."
-     },
-     {"issue": {"issue-date": "1928-09"},
-      "title": "Unforbidden Fruit",
-      "title-note": "part 7 of 7",
-      "author": {
-        "authorized": "Fabian, Warner, 1871-1958",
-        "lcna": "no2018084094"
-      },
-       "note": "Author is Samuel Hopkins Adams writing under a pseudonym."
-     },
-     {"issue": {"issue-date": "1928-12"},
-      "title": "Peter and Mrs. Pan",
-      "title-note": "part 1 of 7",
-      "author": {
-       "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
-       "lcna": "no90021257"
-      }
-     },
-     {"issue": {"issue-date": "1928-12"},
-      "title": "Service Entrance",
-      "author": {
-       "authorized": "Banning, Margaret Culkin, 1891-1982",
-       "lcna": "n86086096"
-      }
-     },
-     {"issue": {"issue-date": "1929-01"},
-      "title": "Peter and Mrs. Pan",
-      "title-note": "part 2 of 7",
-      "author": {
-       "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
-       "lcna": "no90021257"
-      }
-     },
      {"issue": {"issue-date": "1929-02"},
       "title": "The Infamous Miss Quain",
       "author": {
@@ -238,13 +119,11 @@
         }
      }
    ],
-   "additional-notes": [
+   "additional-note": 
      "Absorbed McClure's in 1929, and then published as Smart Set in Combination with McClure's, and then as the New Smart Set in late 1930.",
-     "Active contribution renewals are recorded beginning in the 1955 January-June CCE volume, but the earliest renewed contribution is noted in the 1956 January-June volume."
-  ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-01-01"
+   "last-updated": "2024-01-09"
 }

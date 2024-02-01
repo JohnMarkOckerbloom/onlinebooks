@@ -1,6 +1,7 @@
 {
    "title": "Thought",
    "title-note": "Fordham University quarterly, 1926-1992",
+   "online": "1",
    "contents": [
       {"url": "https://www.pdcnet.org/thought/toc",
       "note": "Official journal site (full text also available for subscription or payment)"}
@@ -10,13 +11,115 @@
    "first-renewed-issue-source": "cce+database",
    "first-autorenewed-issue":
      {"issue-date": "1964-Spring", "volume": "39", "number": "152"},
+   "renewed-contribution-completeness": "active/autorenewals",
    "first-renewed-contribution": 
       {"issue": {"issue-date": "1950-06", "volume": "25", "number": "97"}},
    "first-renewed-contribution-source": "1977-JulDec",
    "last-issue": {"issue-date": "1992-12", "volume": "67", "number": "267"},
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1950-06"},
+      "title": "A Study in Defoe: Moral Vision and Structural Form",
+      "authors": [
+       {"authorized": "Schorer, Mark, 1908-1977",
+        "lcna": "n50002798"},
+       {"authorized": "Random House (Firm)",
+        "lcna": "n80051803"}
+      ],
+      "note": "Random House, which commissioned this article by Mark Schorer as a work for hire for their edition of Moll Flanders, is its author for copyright purposes."
+     },
+     {"issue": {"issue-date": "1950-09"},
+        "title": "Nature, History and Poetry",
+        "author": {
+         "authorized": "Auden, W. H. (Wystan Hugh), 1907-1973",
+         "lcna": "n79054316"
+        }
+     },
+     {"issue": {"issue-date": "1951-03"},
+        "title": "Unappeasable and Peregrine: Behavior and The Four Quartets",
+        "author": {
+         "authorized": "Blackmur, R. P. (Richard P.), 1904-1965",
+         "lcna": "n80013420"
+        }
+     },
+     {"issue": {"issue-date": "1952-Spring"},
+        "title": "Notes on the Comic",
+        "author": {
+         "authorized": "Auden, W. H. (Wystan Hugh), 1907-1973",
+         "lcna": "n79054316"
+        }
+     },
+     {"issue": {"issue-date": "1954-Summer"},
+        "title": "Balaam and the Ass",
+        "author": {
+         "authorized": "Auden, W. H. (Wystan Hugh), 1907-1973",
+         "lcna": "n79054316"
+        }
+     },
+     {"issue": {"issue-date": "1954-Autumn"},
+        "title": "Symbol as Need",
+        "author": {
+         "authorized": "Percy, Walker, 1916-1990",
+         "lcna": "n80030460"
+        }
+     },
+     {"issue": {"issue-date": "1955-Spring"},
+        "title": "Ecumenism and the Catholic",
+        "author": {
+            "authorized": "Weigel, Gustave, 1906-1964",
+            "lcna": "n87819736"
+        }
+     },
+     {"issue": {"issue-date": "1959-Autumn"},
+        "title": "The Message in the Bottle",
+        "author": {
+         "authorized": "Percy, Walker, 1916-1990",
+         "lcna": "n80030460"
+        }
+     },
+     {"issue": {"issue-date": "Winter 1959-1960"},
+      "title": "The Pasternak Affair in Perspective",
+      "author": {
+       "authorized": "Merton, Thomas, 1915-1968",
+       "lcna": "n80005353"
+      }
+     },
+     {"issue": {"issue-date": "1962-03"},
+        "title": "Miracles and Contemporary Theology",
+        "author": {
+         "authorized": "Gleason, Robert W.",
+         "lcna": "n87912013"
+        }
+     },
+     {"issue": {"issue-date": "1962-09"},
+        "title": "Catholics and Corruption",
+        "author": {
+         "authorized": "Gleason, Robert W.",
+         "lcna": "n87912013"
+        }
+     },
+     {"issue": {"issue-date": "1962-09"},
+        "title": "A Protestant Image of Catholicism",
+        "author": {
+         "authorized": "Gleason, Robert W.",
+         "lcna": "n87912013"
+        }
+     },
+     {"issue": {"issue-date": "1963-Summer"},
+        "title": "The Unconditional Concern: The Theology of Paul Tillich",
+        "note": "No renewal was filed specifically for this article, but it is a portion of Tavard's 1962 book 'Paul Tillich and the Christian Message'. Its copyright renewal, filed in 1990, mentions this article.",
+        "author": {
+         "authorized": "Tavard, George H. (George Henry), 1922-2007",
+         "lcna": "n50008650"
+        }
+     }
+   ],
+   "additional-notes": [
+      "A 1985 renewal for the 1957 book 'Frontiers in American Catholicism' by Walter J. Ong mentions that some of its essays were previously published in Thought.  The essays are not identified, but this renewal might cover essays of his published in this magazine in 1957. However, we did not find any that he published there that year.",
+     "A 1985 renewal record for the 1957 book 'Strange Islands' by Thomas Merton mentions that some of its poems had previously been published in Thought and other magazines. The poems are not identified, but this renewal might cover poems of his published in this magazine in 1957 that are not mentioned above. However, we did not find any that he published there that year."
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-05-23"
+   "last-updated": "2024-01-06"
 }

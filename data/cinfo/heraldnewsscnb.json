@@ -1,6 +1,9 @@
 {
    "title": "The Herald and News",
    "title-note": "newspaper published in Newberry, SC",
+   "online": "1",
+   "preceded-by":
+     [{"id": "newbheraldnews", "note": "The Newberry Herald and News"}],
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": "none",
@@ -11,5 +14,5 @@
    },
    "acknowledgement": 
       "Thanks to Pete Sullivan for copyright research on this title.",
-   "last-updated": "2023-11-21"
+   "last-updated": "2024-01-22"
 }

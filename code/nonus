@@ -14,7 +14,7 @@ $scripturl = $cgiurl . "book/";
 
 
 $bookcount = "3 million";
-$pdlimit   = 1927;
+$pdlimit   = $OLBP::currentyear - 96;
 $climit    = $pdlimit + 1;
 
 %codes = 

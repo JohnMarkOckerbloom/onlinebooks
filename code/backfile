@@ -10,6 +10,7 @@ use utf8;
 
 my $usebigforpenn = 1;
 my $usebigforhathi = 1;
+my $usebigforwiki = 1;
 
 my $serverurl = "https://onlinebooks.library.upenn.edu/";
 my $cceurl    = $serverurl . "cce/";
@@ -212,6 +213,8 @@ sub print_table {
     if ($usebigforpenn && $arg eq "penn-serials") {
       $feedbackurl =~ s/backfile/bigserial/;
     } elsif ($usebigforhathi && ($arg =~ /^hathitrust/)) {
+      $feedbackurl =~ s/backfile/bigserial&bftable=$arg/;
+    } elsif ($usebigforwiki && ($arg =~ /^wikipedia/)) {
       $feedbackurl =~ s/backfile/bigserial&bftable=$arg/;
     }
     $feedbackurl .= "&qissn=" . OLBP::url_encode($issn);

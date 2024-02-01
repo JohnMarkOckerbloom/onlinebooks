@@ -29,6 +29,7 @@ my $CINFOURL= $OLBPURL . "webbin/cinfo";
 my $BFURL   = $OLBPURL . "webbin/backfile";
 my $PENNBF  = $BFURL . "/penn-serials";
 my $HATHIBF = $BFURL . "/hathitrust-us";
+my $WIKIBF = $BFURL . "/wikipedia-serials";
 my $COPYURL = $OLBPURL . "cce/";
 my $FPURL   = $COPYURL . "firstperiod.html";
 my $REGURL  = "https://cocatalog.loc.gov/";
@@ -63,7 +64,7 @@ my $backfileparams = {
 my $bigserialparams = {
    type => "bigserial",
    what => "submission", 
-   again => "research another serial", 
+   again => "fill out a blank form for another serial", 
    dir => "backfile",
    link => $BIGSERIALFORMLINK,
 };
@@ -373,6 +374,49 @@ sub backfileform {
   makereplypart($q, $backfileparams);
 }
 
+sub worldcatsearchlink {
+  my ($issn, $title) = @_;
+  my $wcurl = "https://worldcat.org/";
+  if ($issn) {
+     $wcurl .= "search?qt=advanced&dblist=638&q=n2:$issn";
+  } elsif ($title) {
+     $wcurl .= "search?qt=advanced&dblist=638&q=ti:"
+     . OLBP::url_encode($title);
+  }
+  return $wcurl;
+}
+
+sub formcataloglinkargs {
+  my ($bftable, $issn) = @_;
+  my $whose = "Penn's";
+  my $catalog = "Franklin";
+  my $hinturl = "https://franklin.library.upenn.edu/catalog?utf8=%E2%9C%93&search_field=isxn_search&q=$issn";
+  if ($bftable =~ /^hathitrust/) {
+     $whose = "HathiTrust's";
+     $catalog = "catalog";
+     $hinturl =  "https://catalog.hathitrust.org/Search/Home?lookfor=$issn&searchtype=isn&filter[]=format%3ASerial";
+  } elsif ($bftable =~ /^wikipedia/) {
+     $whose = "OCLC's";
+     $catalog = "Worldcat";
+     $hinturl = worldcatsearchlink($issn);
+  }
+  return ($whose, $catalog, $hinturl);
+}
+
+sub returnlinkargs {
+  my ($bftable) = @_;
+  my $bfurl = $PENNBF;
+  my $bfname = "Penn Libraries";
+  if ($bftable =~ /^hathitrust/) {
+    $bfurl = $HATHIBF;
+    $bfname = "HathiTrust";
+  } elsif ($bftable =~ /^wikipedia/) {
+    $bfurl = $WIKIBF;
+    $bfname = "Wikipedia";
+  }
+  return ($bfurl, $bfname);
+}
+
 sub bigserialform {
   my ($q, $requestparam) = @_;
   my $issndefault = "";
@@ -429,12 +473,8 @@ sub bigserialform {
   } else {
     my $hint = "";
     if ($issndefault) {
-      my $hinturl = "https://franklin.library.upenn.edu/catalog?utf8=%E2%9C%93&search_field=isxn_search&q=$issndefault";
-      my $catalog = (($bftable =~ /^hathitrust/) ? "catalog" : "Franklin");
-      my $whose = (($bftable =~ /^hathitrust/) ? "HathiTrust's" : "Penn's");
-      if ($bftable =~ /^hathitrust/) {
-        $hinturl =  "https://catalog.hathitrust.org/Search/Home?lookfor=$issndefault&searchtype=isn&filter[]=format%3ASerial";
-      }
+      my ($whose, $catalog, $hinturl) =
+          formcataloglinkargs($bftable, $issndefault);
       $hint = qq! ($whose <a href="$hinturl" target="deepcatalog">$catalog record</a> may say.)!;
     }
     print formrow(caption=>
@@ -484,13 +524,7 @@ sub bigserialform {
            OLBP::url_encode($titledefault);
   }
   my $ialink = qq!the <a href="$iaurl" target="deepia">Internet Archive</a>!;
-  my $wcurl = "https://worldcat.org/";
-  if ($issndefault) {
-     $wcurl .= "search?qt=advanced&dblist=638&q=n2:$issndefault";
-  } elsif ($titledefault) {
-     $wcurl .= "search?qt=advanced&dblist=638&q=ti:"
-              . OLBP::url_encode($titledefault);
-  }
+  my $wcurl = worldcatsearchlink($issndefault, $titledefault);
   my $wclink = qq!<a href="$wcurl" target="deepwc">WorldCat</a>!;
   my $pubtext = "a web search for the serial title";
   if ($titledefault) {
@@ -777,6 +811,7 @@ sub analyze_form {
       || $ref =~ /seoestore/
       || $wref =~ /seoestore/
       || $wref =~ /example.com/
+      || $libsite =~ /example.com/
       || $comments =~ /getpeople.io/i
       || $comments =~ /pxl.to/i
       || $comments =~ /fiverrtalents/i
@@ -835,8 +870,7 @@ sub process_form {
        or <a href="$OLBPURL">The Online Books Page</a>!;
     } elsif ($params->{type} eq "bigserial") {
       my $bftable = $requestparam->{"bftable"};
-      my $bfurl = (($bftable =~ /^hathitrust/) ? $HATHIBF : $PENNBF);
-      my $bfname = (($bftable =~ /^hathitrust/) ? "HathiTrust" : "Penn Libraries");
+      my ($bfurl, $bfname) = returnlinkargs($bftable);
       print qq!<a href="$bfurl">return to the $bfname Deep backfile page</a>
        or <a href="$OLBPURL">The Online Books Page</a>!;
     } else {

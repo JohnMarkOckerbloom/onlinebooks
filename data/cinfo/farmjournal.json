@@ -5,8 +5,8 @@
    "first-renewed-issue":
       {"issue-date": "1943-08", "volume": "67", "number": "8"},
    "first-renewed-issue-source": "1971",
-   "first-renewed-contribution": {"issue": {"issue-date": "1928-09"}},
-   "first-renewed-contribution-source": "1955-JulDec",
+   "first-renewed-contribution": {"issue": {"issue-date": "1929-05"}}, 
+   "first-renewed-contribution-source": "1956-JulDec",
    "see-also": [{"id": "farmerswife", "note": "The Farmer's Wife"}],
    "renewed-issue-completeness": "active/1952",
    "renewed-issues": [
@@ -127,13 +127,6 @@
    "comment": "Check issue renewals for multiple editions, starting in early 1950s",
    "renewed-contribution-completeness": "active/1949",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1928-09"}, 
-      "title": "The Road Rat",
-      "author": {
-       "authorized": "Gillmore, Inez Haynes, 1873-1970",
-       "lcna": "n85372376"
-      }
-     },
      {"issue": {"issue-date": "1929-05"}, 
       "title": "Dog Friday",
       "author": {
@@ -244,5 +237,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-02-22"
+   "last-updated": "2024-01-05"
 }

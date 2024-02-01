@@ -7,7 +7,7 @@
      {"issue-date": "1934-07", "volume": "154", "number": "1"},
    "first-renewed-issue-source": "1962-JanJun",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1928-03"}},
+     {"issue": {"issue-date": "1929-03"}},
    "first-renewed-contribution-source": "1956-JanJun",
    "first-autorenewed-issue": 
      {"issue-date": "1964-02", "cdate": "1964-01-16",
@@ -340,48 +340,6 @@
    ],
    "renewed-contribution-completeness": "active/1944",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1928-03"},
-        "title": "My Lady's Tea",
-        "author": {
-         "authorized": "Edmonds, Walter D. (Walter Dumaux), 1903-1998",
-         "lcna": "n79083990"
-        }
-     },
-     {"issue": {"issue-date": "1928-08"},
-        "title": "Ninety",
-        "author": {
-         "authorized": "Edmonds, Walter D. (Walter Dumaux), 1903-1998",
-         "lcna": "n79083990"
-        }
-     },
-     {"issue": {"issue-date": "1928-11"},
-        "title": "Shirahama",
-        "author": {
-         "authorized": "Eckstein, Gustav, 1890-1981",
-         "lcna": "n84803816"
-        }
-     },
-     {"issue": {"issue-date": "1928-11"},
-        "title": "Death of Red Peril",
-        "author": {
-         "authorized": "Edmonds, Walter D. (Walter Dumaux), 1903-1998",
-         "lcna": "n79083990"
-        }
-     },
-     {"issue": {"issue-date": "1928-12"},
-        "title": "This is the Life",
-        "author": {
-         "authorized": "Gilfillan, Archer B., 1886-1955",
-         "lcna": "n92112684"
-        }
-     },
-     {"issue": {"issue-date": "1929-01"},
-        "title": "The Herding Day",
-        "author": {
-         "authorized": "Gilfillan, Archer B., 1886-1955",
-         "lcna": "n92112684"
-        }
-     },
      {"issue": {"issue-date": "1929-03"},
         "title": "An Honest Deal",
         "author": {
@@ -2914,13 +2872,11 @@
      }
    ],
    "comment": "Pick up contrbutions with 1973.",
-   "additional-notes": [
-     "Active contribution renewals are recorded beginning in the 1955 July-December CCE volume, but the earliest actively renewed contribution is noted in the 1956 January-June volume.",
-     "A 1971 renewal for the book 'The Little Locksmith' by Katherine Butler Hathaway notes that it was published serially in the Atlantic Monthly from September 1942 to January 1943.  This renewal is likely to be too late to cover the magazine publication; however, there were renewals filed for the magazine issues themselves."
-   ],
+   "additional-note": 
+     "A 1971 renewal for the book 'The Little Locksmith' by Katherine Butler Hathaway notes that it was published serially in the Atlantic Monthly from September 1942 to January 1943.  This renewal is likely to be too late to cover the magazine publication; however, there were renewals filed for the magazine issues themselves.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-01-02"
+   "last-updated": "2024-01-05"
 }

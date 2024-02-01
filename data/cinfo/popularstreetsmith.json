@@ -8,11 +8,13 @@
       "note": "FictionMags"}
    ],
    "first-renewed-issue": 
-     {"issue-date": "1928-01-07", "volume": "88", "number": "2"},
-   "first-renewed-issue-source": "1955-JanJun",
+     {"issue-date": "1929-02-07", "volume": "94", "number": "4",
+      "cdate": "1929-01-04"},
+   "first-renewed-issue-source": "1956-JanJun",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1928-02-18", "volume": "89", "number": "2"}},
-   "first-renewed-contribution-source": "1955-JulDec",
+     {"issue": {"issue-date": "1930-First February number",
+                "volume": "98", "number": "4"}},
+   "first-renewed-contribution-source": "1958-JanJun",
    "last-issue": {"issue-date": "1931-10", "volume": "103", "number": "6"},
    "see-also": [
       {"id": "completestories", "note": "Complete Stories"},
@@ -20,46 +22,6 @@
    ],
    "renewed-issue-completeness": "active/end",
    "renewed-issues": [
-     {"issue-date": "1928-01-07", "volume": "88", "number": "2"},
-     {"issue-date": "1928-01-14", "volume": "88", "number": "3"},
-     {"issue-date": "1928-01-21", "volume": "88", "number": "4"},
-     {"issue-date": "1928-01-28", "volume": "88", "number": "5"},
-     {"issue-date": "1928-02-04", "volume": "88", "number": "6"},
-     {"issue-date": "1928-02-11", "volume": "89", "number": "1"},
-     {"issue-date": "1928-01-18", "volume": "89", "number": "2"},
-     {"issue-date": "1928-01-25", "volume": "89", "number": "3"},
-     {"issue-date": "1928-03-03", "volume": "89", "number": "4"},
-     {"issue-date": "1928-03-10", "volume": "89", "number": "5"},
-     {"issue-date": "1928-03-17", "volume": "89", "number": "6"},
-     {"issue-date": "1928-03-24", "volume": "90", "number": "1"},
-     {"issue-date": "1928-03-31", "volume": "90", "number": "2"},
-     {"issue-date": "1928-04-07", "volume": "90", "number": "3"},
-     {"issue-date": "1928-04-14", "volume": "90", "number": "4"},
-     {"issue-date": "1928-04-21", "volume": "90", "number": "5"},
-     {"issue-date": "1928-04-28", "volume": "90", "number": "6"},
-     {"issue-date": "1928-05-05", "volume": "91", "number": "1"},
-     {"issue-date": "1928-05-12", "volume": "91", "number": "2"},
-     {"issue-date": "1928-05-19", "volume": "91", "number": "3"},
-     {"issue-date": "1928-05-26", "volume": "91", "number": "4"},
-     {"issue-date": "1928-06-02", "volume": "91", "number": "5"},
-     {"issue-date": "1928-06-09", "volume": "91", "number": "6"},
-     {"issue-date": "1928-06-16", "volume": "92", "number": "1"},
-     {"issue-date": "1928-06-23", "volume": "92", "number": "2"},
-     {"issue-date": "1928-06-30", "volume": "92", "number": "3"},
-     {"issue-date": "1928-07-07", "volume": "92", "number": "4"},
-     {"issue-date": "1928-07-20", "volume": "92", "number": "5"},
-     {"issue-date": "1928-08-07", "volume": "92", "number": "6"},
-     {"issue-date": "1928-08-20", "volume": "93", "number": "1"},
-     {"issue-date": "1928-09-07", "volume": "93", "number": "2"},
-     {"issue-date": "1928-09-20", "volume": "93", "number": "3"},
-     {"issue-date": "1928-First November number", "volume": "93", "number": "4"},
-     {"issue-date": "1928-Second November number", "volume": "93", "number": "5"},
-     {"issue-date": "1928-First December number", "volume": "93", "number": "6"},
-     {"issue-date": "1928-Second December number", "volume": "94", "number": "1"},
-     {"issue-date": "1929-01-07", "volume": "94", "number": "2",
-      "cdate": "1928-12-07"},
-     {"issue-date": "1929-01-20", "volume": "94", "number": "3",
-      "cdate": "1928-12-28"},
      {"issue-date": "1929-02-07", "volume": "94", "number": "4",
       "cdate": "1929-01-04"},
      {"issue-date": "1929-02-20", "volume": "94", "number": "5"},
@@ -127,28 +89,6 @@
    ],
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1928-02-18", "volume": "89", "number": "2"},
-      "title": "A Lone Hand",
-      "author": {
-       "authorized": "Lynde, Francis, 1856-1930",
-       "lcna": "n88093606"
-      }
-     },
-     {"issue": {"issue-date": "1928-07-07", "volume": "92", "number": "4"},
-      "title": "The Vanishing Point",
-      "author": {
-       "authorized": "Lynde, Francis, 1856-1930",
-       "lcna": "n88093606"
-      }
-     },
-     {"issue": {"issue-date": "1929-01-20", "volume": "94", "number": "3"},
-      "title": "Marked Men",
-      "note": "Issue date given as January 20, 1929 in indicia and December 20, 1928 on the cover.",
-      "author": {
-       "authorized": "Buck, Charles Neville, 1879-1957",
-       "lcna": "no93001477"
-      }
-     },
      {"issue": {"issue-date": "1930-First February number",
                 "volume": "98", "number": "4"},
       "title": "The Earthquakers",
@@ -172,5 +112,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-01-05"
+   "last-updated": "2024-01-02"
 }

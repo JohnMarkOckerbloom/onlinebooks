@@ -7,19 +7,15 @@
    "first-issue": 
        {"issue-date": "1928-10", "volume": "1", "number": "1"},
    "first-renewed-issue":
-       {"issue-date": "1928-10", "volume": "1", "number": "1"},
-   "first-renewed-issue-source": "1955-JulDec",
+       {"issue-date": "1929-02", "volume": "1", "number": "5",
+        "cdate": "1929-01-02"},
+   "first-renewed-issue-source": "1956-JanJun",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce",
    "last-issue": {"issue-date": "1930-06", "volume": "4", "number": "3"},
    "succeeded-by": [{"id": "highspot30", "note": "High Spot Magazine"}],
    "renewed-issue-completeness": "active/end",
    "renewed-issues": [
-       {"issue-date": "1928-10", "volume": "1", "number": "1"},
-       {"issue-date": "1928-11", "volume": "1", "number": "2"},
-       {"issue-date": "1928-12", "volume": "1", "number": "3"},
-       {"issue-date": "1929-01", "volume": "1", "number": "4",
-        "cdate": "1928-12-05"},
        {"issue-date": "1929-02", "volume": "1", "number": "5",
         "cdate": "1929-01-02"},
        {"issue-date": "1929-03", "volume": "1", "number": "6"},
@@ -46,5 +42,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-07-20"
+   "last-updated": "2024-01-02"
 }

@@ -9,34 +9,11 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1928-02", "volume": "7", "number": "38"}},
-   "first-renewed-contribution-source": "1955-JanJun",
+     {"issue": {"issue-date": "1929-02", "volume": "9", "number": "50"}},
+   "first-renewed-contribution-source": "1956-JanJun",
    "last-issue": {"issue-date": "1935-09", "volume": "22", "number": "129"},
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1928-02", "volume": "7", "number": "38"},
-      "title": "Naza",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1928-08", "volume": "8", "number": "44"},
-      "title": "Sun Gold",
-      "title-note": "part 2 of 3",
-      "author": {
-         "authorized": "Pereyra, Diómedes de",
-         "lcna": "no2007135794"
-      }
-     },
-     {"issue": {"issue-date": "1928-09", "volume": "8", "number": "45"},
-      "title": "Sun Gold",
-      "title-note": "part 3 of 3",
-      "author": {
-         "authorized": "Pereyra, Diómedes de",
-         "lcna": "no2007135794"
-      }
-     },
      {"issue": {"issue-date": "1929-02", "volume": "9", "number": "50"},
       "title": "Vertical City",
       "author": {
@@ -172,5 +149,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-01-24"
+   "last-updated": "2024-01-05"
 }

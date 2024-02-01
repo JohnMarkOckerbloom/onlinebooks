@@ -2,31 +2,17 @@
    "title": "National Geographic Magazine",
    "online": "1",
    "first-renewed-issue": 
-      {"issue-date": "1928-02", "volume": "53", "number": "2",
-        "cdate": "1928-01-14"},
-   "first-renewed-issue-source": "1955-JanJun",
+      {"issue-date": "1929-02", "volume": "55", "number": "2",
+        "cdate": "1929-01-16"},
+   "first-renewed-issue-source": "1956-JanJun",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1928-02"}}, 
-   "first-renewed-contribution-source": "1955-JanJun",
+     {"issue": {"issue-date": "1955-05"}}, 
+   "first-renewed-contribution-source": "database",
    "see-also":
      [{"id": "factsadnatgeo",
        "note": "Facts for Advertisers (National Geographic)"}],
    "renewed-issue-completeness": "active/1931",
    "renewed-issues": [
-      {"issue-date": "1928-02", "volume": "53", "number": "2",
-        "cdate": "1928-01-14"},
-      {"issue-date": "1928-03", "volume": "53", "number": "3"},
-      {"issue-date": "1928-04", "volume": "53", "number": "4"},
-      {"issue-date": "1928-05", "volume": "53", "number": "5"},
-      {"issue-date": "1928-06", "volume": "53", "number": "6"},
-      {"issue-date": "1928-07", "volume": "54", "number": "1"},
-      {"issue-date": "1928-08", "volume": "54", "number": "2"},
-      {"issue-date": "1928-09", "volume": "54", "number": "3"},
-      {"issue-date": "1928-10", "volume": "54", "number": "4"},
-      {"issue-date": "1928-11", "volume": "54", "number": "5"},
-      {"issue-date": "1928-12", "volume": "54", "number": "6"},
-      {"issue-date": "1929-01", "volume": "55", "number": "1",
-        "cdate": "1928-12-13"},
       {"issue-date": "1929-02", "volume": "55", "number": "2",
         "cdate": "1929-01-16"},
       {"issue-date": "1929-03", "volume": "55", "number": "3"},
@@ -84,28 +70,9 @@
       {"issue-date": "1933-01", "volume": "63", "number": "1",
        "cdate": "1932-12-16"}
    ],
-   "renewed-contribution-completeness": "active/1949",
-   "renewed-contributions": [
-       {"issue": {"issue-date": "1928-02"}, 
-        "title": "An Even Richer Year to Come",
-        "title-note": "part 1 of 2",
-        "author": {
-         "authorized": "National Geographic Society (U.S.)",
-         "lcna": "n79042179"
-        }
-       },
-       {"issue": {"issue-date": "1928-03"}, 
-        "title": "An Even Richer Year to Come",
-        "title-note": "part 2 of 2",
-        "author": {
-         "authorized": "National Geographic Society (U.S.)",
-         "lcna": "n79042179"
-        }
-       }
-   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-08-24"
+   "last-updated": "2024-01-02"
 }

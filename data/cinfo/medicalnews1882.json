@@ -1,6 +1,9 @@
 {
    "title": "The Medical News",
    "title-note": "1882-1905",
+   "online": "1",
+   "preceded-by":
+      [{"id": "mednewsabstract", "note": "The Medical News and Abstract"}],
    "rights-statement": "NoC-US",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
@@ -8,5 +11,5 @@
    },
    "acknowledgement": 
       "Thanks to Pete Sullivan for copyright research on this title.",
-   "last-updated": "2023-12-20"
+   "last-updated": "2024-01-11"
 }

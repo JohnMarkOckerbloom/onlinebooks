@@ -1,37 +1,19 @@
 {
    "title": "The New York Times Book Review",
-   "see-also": [
-     {"id": "nytimes", "note": "The New York Times"},
-     {"id": "nytimesmag", "note": "The New York Times Magazine"}],
+   "see-also": [{"id": "nytimes", "note": "The New York Times"}],
    "first-renewed-issue":
-      {"issue-date": "1928-01-01"},
-   "first-renewed-issue-source": "1955-JulDec",
+      {"issue-date": "1940-08-04", "volume": "45", "number": "31"},
+   "first-renewed-issue-source": "1968",
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1941-05-18"}},
    "first-renewed-contribution-source": "1968-JanJun",
-   "renewed-issue-completeness": "active/1928",
-   "renewed-issues": [
-      {"issue-date": "1928-01-01"},
-      {"issue-date": "1928-01-08"},
-      {"issue-date": "1928-01-15"},
-      {"issue-date": "1928-01-22"},
-      {"issue-date": "1928-01-29"},
-      {"issue-date": "1928-02-05"},
-      {"issue-date": "1928-02-12"},
-      {"issue-date": "1928-02-19"},
-      {"issue-date": "1928-02-26"},
-      {"issue-date": "1928-03-04"},
-      {"issue-date": "1928-03-11"},
-      {"issue-date": "1928-03-18"},
-      {"issue-date": "1928-03-25"}
-   ],
    "additional-notes": [
-      "Published as a special section of The New York Times.  In some intervals in the 1920s, it was combined with the New York Times Magazine and published as 'The New York Times Book Review and Magazine'.",
-      "Listed here are renewals filed specifically for the Book Review.  The New York Times began filing general renewals for issues from April 1, 1928 onward.  We assume those renewals also covered the Book Review."
+      "The Book Review was included in Sunday issues of The New York Times. The Times began filing general renewals for issues from April 1, 1928 onward, and those renewals may cover issues of the Book Review that were included in Sunday issues.  The first issue renewal shown here is the first active renewal we have found specifically for the Book Review.",
+      "Contribution renewals listed here were renewals whose records specifically mention the Book Review. There may be additional renewals for contributions to the Book Review that do not specifically mention it."
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-01-03"
+   "last-updated": "2024-01-08"
 }

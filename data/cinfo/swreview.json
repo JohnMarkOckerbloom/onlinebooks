@@ -10,42 +10,35 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1928-01", "volume": "13", "number": "2"}}, 
-   "first-renewed-contribution-source": "1955-JanJun",
-   "renewed-contribution-completeness": "active/1928",
+     {"issue": {"issue-date": "1929-Spring", "volume": "14", "number": "3"}}, 
+   "first-renewed-contribution-source": "1956-JulDec",
+   "renewed-contribution-completeness": "active/1931",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1928-01", "volume": "13", "number": "2"}, 
-      "title": "John Caldwell Calhoun",
-      "note": "CCE renewal record puts this article in the January 1928 issue; JSTOR has it in volume 13, number 2 (1927)",
-      "author": {
-         "authorized": "Bradford, Gamaliel, 1863-1932",
-         "lcna": "n50042916"
-      }
-     },
-     {"issue": {"issue-date": "1928-01", "volume": "13", "number": "2"}, 
-      "title": "John Booth's Pony Express",
-      "note": "Title as given in CCE renewal record. Dobie's main article in this issue is titled 'The Saga of the Saddle'.",
-      "author": {
-       "authorized": "Dobie, J. Frank (James Frank), 1888-1964",
-       "lcna": "n79021385"
-      }
-     },
-     {"issue": {"issue-date": "1928-10", "volume": "14", "number": "1"}, 
-      "title": "The Joker",
-      "author": {
-         "authorized": "Stevenson, Philip, 1896-1965",
-         "lcna": "no2002007736"
-      }
-     },
      {"issue": {"issue-date": "1929-Spring", "volume": "14", "number": "3"}, 
       "title": "Prelude to Murder",
+      "note": "Issue date as stated in CCE renewal record. JSTOR dates the issue it appears in as in 1928, which suggests it might already be in the public domain.",
       "author": {
          "authorized": "Stevenson, Philip, 1896-1965",
          "lcna": "no2002007736"
+      }
+     },
+     {"issue": {"issue-date": "1929-Summer", "volume": "14", "number": "4"},
+      "title": "Mademoiselle de Lespinasse",
+      "note": "Issue date as stated in CCE renewal record. JSTOR dates the issue it appears in as in 1928, which suggests it might already be in the public domain.",
+      "author": {
+       "authorized": "Bradford, Gamaliel, 1863-1932",
+       "lcna": "n50042916"
       }
      },
      {"issue": {"issue-date": "1929-Autumn", "volume": "15", "number": "1"}, 
       "title": "Fantasy From New Spain",
+      "author": {
+         "authorized": "Stevenson, Philip, 1896-1965",
+         "lcna": "no2002007736"
+      }
+     },
+     {"issue": {"issue-date": "1930-10", "volume": "16", "number": "1"}, 
+      "title": "The Shepherd",
       "author": {
          "authorized": "Stevenson, Philip, 1896-1965",
          "lcna": "no2002007736"
@@ -57,5 +50,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-01-16"
+   "last-updated": "2024-01-07"
 }

@@ -9,7 +9,8 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1928-10", "volume": "1", "number": "1"}},
+     {"issue": {"issue-date": "1929-02", "volume": "2", "number": "1",
+                "cdate": "1929-01-03"}},
    "first-renewed-contribution-source": "1956-JanJun",
    "last-issue": {"issue-date": "1929-08", "volume": "3", "number": "3"},
    "succeeded-by": [{"id": "flyers1929", "note": "Flyers"}],
@@ -17,5 +18,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-02-20"
+   "last-updated": "2024-01-04"
 }

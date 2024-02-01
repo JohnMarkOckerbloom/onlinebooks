@@ -1,23 +1,13 @@
 {
    "title": "United States Supreme Court Advance Opinions",
-   "first-renewed-issue":
-      {"issue-date": "1928-01-16", "volume": "October 1927 term", "number": "5"},
-   "first-renewed-issue-source": "1955-JanJun",
-   "first-renewed-contribution": "none",
-   "first-renewed-contribution-source": "cce+database",
-   "renewed-issues": [
-      {"issue-date": "1928-01-16", "volume": "October 1927 term", "number": "5"},
-      {"issue-date": "1928-02-01", "volume": "October 1927 term", "number": "6"},
-      {"issue-date": "1928-03-01", "volume": "October 1927 term", "number": "7"},
-      {"issue-date": "1928-03-15", "volume": "October 1927 term", "number": "8"},
-      {"issue-date": "1928-04-02", "volume": "October 1927 term", "number": "9"},
-      {"issue-date": "1928-04-16", "volume": "October 1927 term", "number": "10"}
-   ],
+   "rights-statement": "NoC-US",
+   "last-issue": 
+      {"issue-date": "1928-04-16", "volume": "October 1927 term", "number": "10"},
    "additional-note": 
     "Rulings and opinions issued by the US Supreme Court are in the public domain.  The publisher may claim copyright on original notes, summaries, and annotations it adds.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-01-01"
+   "last-updated": "2024-01-10"
 }

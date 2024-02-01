@@ -5,28 +5,16 @@
    "first-renewed-issue":
       {"issue-date": "1944-01", "volume": "36", "number": "2"},
    "first-renewed-issue-source": "1971",
-   "first-renewed-contribution": 
-     {"issue": {"issue-date": "1928-03", "cdate": "1928-01-23"}},
-   "first-renewed-contribution-source": "1955-JanJun",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce+database",
    "first-autorenewed-issue":
       {"issue-date": "1964-02", "volume": "74", "number": "4", 
        "cdate": "1964-01-02"},
    "renewed-contribution-completeness": "active/autorenewals",
-   "renewed-contributions": [
-     {"issue": {"issue-date": "1928-03", "cdate": "1928-01-23"},
-        "title": "Now-a-Days",
-        "title-note": "part 6 of 6",
-        "author": {
-         "authorized": "Oursler, Fulton, 1893-1952",
-         "using": "Arnold Fountain",
-         "lcna": "n79041782"
-        }
-     }
-   ],
    "additional-note": "This magazine was renamed True Experience sometime in the 1940s.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-01-04"
+   "last-updated": "2023-01-06"
 }

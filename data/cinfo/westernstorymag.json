@@ -7,69 +7,16 @@
        "note": "FictionMags (most issues)"}
    ],
    "first-renewed-issue": 
-       {"issue-date": "1928-01-07", "volume": "75", "number": "1"},
-   "first-renewed-issue-source": "1955-JanJun",
+       {"issue-date": "1929-01-12", "volume": "83", "number": "6",
+        "cdate": "1929-01-04"},
+   "first-renewed-issue-source": "1956-JanJun",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1928-01-14", "volume": "75", "number": "2"}},
-   "first-renewed-contribution-source": "1955-JulDec",
+     {"issue": {"issue-date": "1929-01-12", "volume": "83", "number": "6"}},
+   "first-renewed-contribution-source": "1956-JulDec",
    "renewed-issue-completeness": "active/1931",
    "renewed-issues": [
-       {"issue-date": "1928-01-07", "volume": "75", "number": "1"},
-       {"issue-date": "1928-01-14", "volume": "75", "number": "2"},
-       {"issue-date": "1928-01-21", "volume": "75", "number": "3"},
-       {"issue-date": "1928-01-28", "volume": "75", "number": "4"},
-       {"issue-date": "1928-02-04", "volume": "75", "number": "5"},
-       {"issue-date": "1928-02-11", "volume": "75", "number": "6"},
-       {"issue-date": "1928-02-18", "volume": "76", "number": "1"},
-       {"issue-date": "1928-02-25", "volume": "76", "number": "2"},
-       {"issue-date": "1928-03-03", "volume": "76", "number": "3"},
-       {"issue-date": "1928-03-10", "volume": "76", "number": "4"},
-       {"issue-date": "1928-03-17", "volume": "76", "number": "5"},
-       {"issue-date": "1928-03-24", "volume": "76", "number": "6"},
-       {"issue-date": "1928-03-31", "volume": "77", "number": "1"},
-       {"issue-date": "1928-04-07", "volume": "77", "number": "2"},
-       {"issue-date": "1928-04-14", "volume": "77", "number": "3"},
-       {"issue-date": "1928-04-21", "volume": "77", "number": "4"},
-       {"issue-date": "1928-04-28", "volume": "77", "number": "5"},
-       {"issue-date": "1928-05-05", "volume": "77", "number": "6"},
-       {"issue-date": "1928-05-12", "volume": "78", "number": "1"},
-       {"issue-date": "1928-05-19", "volume": "78", "number": "2"},
-       {"issue-date": "1928-05-26", "volume": "78", "number": "3"},
-       {"issue-date": "1928-06-02", "volume": "78", "number": "4"},
-       {"issue-date": "1928-06-09", "volume": "78", "number": "5"},
-       {"issue-date": "1928-06-16", "volume": "78", "number": "6"},
-       {"issue-date": "1928-06-23", "volume": "79", "number": "1"},
-       {"issue-date": "1928-06-30", "volume": "79", "number": "2"},
-       {"issue-date": "1928-07-07", "volume": "79", "number": "3"},
-       {"issue-date": "1928-07-14", "volume": "79", "number": "4"},
-       {"issue-date": "1928-07-21", "volume": "79", "number": "5"},
-       {"issue-date": "1928-07-28", "volume": "79", "number": "6"},
-       {"issue-date": "1928-08-04", "volume": "80", "number": "1"},
-       {"issue-date": "1928-08-11", "volume": "80", "number": "2"},
-       {"issue-date": "1928-08-18", "volume": "80", "number": "3"},
-       {"issue-date": "1928-08-25", "volume": "80", "number": "4"},
-       {"issue-date": "1928-09-01", "volume": "80", "number": "5"},
-       {"issue-date": "1928-09-08", "volume": "80", "number": "6"},
-       {"issue-date": "1928-09-15", "volume": "81", "number": "1"},
-       {"issue-date": "1928-09-22", "volume": "81", "number": "2"},
-       {"issue-date": "1928-09-29", "volume": "81", "number": "3"},
-       {"issue-date": "1928-10-06", "volume": "81", "number": "4"},
-       {"issue-date": "1928-10-13", "volume": "81", "number": "5"},
-       {"issue-date": "1928-10-20", "volume": "81", "number": "6"},
-       {"issue-date": "1928-10-27", "volume": "82", "number": "1"},
-       {"issue-date": "1928-11-03", "volume": "82", "number": "2"},
-       {"issue-date": "1928-11-10", "volume": "82", "number": "3"},
-       {"issue-date": "1928-11-17", "volume": "82", "number": "4"},
-       {"issue-date": "1928-11-24", "volume": "82", "number": "5"},
-       {"issue-date": "1928-12-01", "volume": "82", "number": "6"},
-       {"issue-date": "1928-12-08", "volume": "83", "number": "1"},
-       {"issue-date": "1928-12-15", "volume": "83", "number": "2"},
-       {"issue-date": "1928-12-22", "volume": "83", "number": "3"},
-       {"issue-date": "1928-12-29", "volume": "83", "number": "4"},
-       {"issue-date": "1929-01-05", "volume": "83", "number": "5",
-        "cdate": "1928-12-28"},
        {"issue-date": "1929-01-12", "volume": "83", "number": "6",
-        "cdate": "1929-01-14"},
+        "cdate": "1929-01-04"},
        {"issue-date": "1929-01-19", "volume": "84", "number": "1"},
        {"issue-date": "1929-01-26", "volume": "84", "number": "2"},
        {"issue-date": "1929-02-02", "volume": "84", "number": "3"},
@@ -281,736 +228,8 @@
        {"issue-date": "1932-11-26", "volume": "117", "number": "4"},
        {"issue-date": "1932-12-03", "volume": "117", "number": "5"}
    ],
-   "renewed-contribution-completeness": "active/1928",
+   "renewed-contribution-completeness": "active/1929",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1928-01-14", "volume": "75", "number": "2"},
-      "title": "Weakling of the Wild (Hunted Riders)",
-      "title-note": "part 1 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1928-01-21", "volume": "75", "number": "3"},
-      "title": "Weakling of the Wild (Hunted Riders)",
-      "title-note": "part 2 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1928-01-28", "volume": "75", "number": "4"},
-      "title": "Riders of the Grande Ronde",
-      "title-note": "part 1 of 7",
-      "author": {
-       "authorized": "Case, Robert Ormond, 1895-1964",
-       "lcna": "no95027451"
-      }
-     },
-     {"issue": {"issue-date": "1928-01-28", "volume": "75", "number": "4"},
-      "title": "Weakling of the Wild (Hunted Riders)",
-      "title-note": "part 3 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1928-02-04", "volume": "75", "number": "5"},
-      "title": "Riders of the Grande Ronde",
-      "title-note": "part 2 of 7",
-      "author": {
-       "authorized": "Case, Robert Ormond, 1895-1964",
-       "lcna": "no95027451"
-      }
-     },
-     {"issue": {"issue-date": "1928-02-04", "volume": "75", "number": "5"},
-      "title": "Weakling of the Wild (Hunted Riders)",
-      "title-note": "part 4 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1928-02-11", "volume": "75", "number": "6"},
-      "title": "Riders of the Grande Ronde",
-      "title-note": "part 3 of 7",
-      "author": {
-       "authorized": "Case, Robert Ormond, 1895-1964",
-       "lcna": "no95027451"
-      }
-     },
-     {"issue": {"issue-date": "1928-02-11", "volume": "75", "number": "6"},
-      "title": "Weakling of the Wild (Hunted Riders)",
-      "title-note": "part 5 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1928-02-18", "volume": "76", "number": "1"},
-      "title": "Riders of the Grande Ronde",
-      "title-note": "part 4 of 7",
-      "author": {
-       "authorized": "Case, Robert Ormond, 1895-1964",
-       "lcna": "no95027451"
-      }
-     },
-     {"issue": {"issue-date": "1928-02-18", "volume": "76", "number": "1"},
-      "title": "Weakling of the Wild (Hunted Riders)",
-      "title-note": "part 6 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1928-02-25", "volume": "76", "number": "2"},
-      "title": "Tragedy Trail",
-      "title-note": "part 1 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1928-02-25", "volume": "76", "number": "2"},
-      "title": "Riders of the Grande Ronde",
-      "title-note": "part 5 of 7",
-      "author": {
-       "authorized": "Case, Robert Ormond, 1895-1964",
-       "lcna": "no95027451"
-      }
-     },
-     {"issue": {"issue-date": "1928-03-03", "volume": "76", "number": "3"},
-      "title": "Tragedy Trail",
-      "title-note": "part 2 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1928-03-03", "volume": "76", "number": "3"},
-      "title": "Riders of the Grande Ronde",
-      "title-note": "part 6 of 7",
-      "author": {
-       "authorized": "Case, Robert Ormond, 1895-1964",
-       "lcna": "no95027451"
-      }
-     },
-     {"issue": {"issue-date": "1928-03-10", "volume": "76", "number": "4"},
-      "title": "Tragedy Trail",
-      "title-note": "part 3 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1928-03-10", "volume": "76", "number": "4"},
-      "title": "Riders of the Grande Ronde",
-      "title-note": "part 7 of 7",
-      "author": {
-       "authorized": "Case, Robert Ormond, 1895-1964",
-       "lcna": "no95027451"
-      }
-     },
-     {"issue": {"issue-date": "1928-03-17", "volume": "76", "number": "5"},
-      "title": "Path to Plunder (Mystery Ranch)",
-      "title-note": "part 1 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1928-03-17", "volume": "76", "number": "5"},
-      "title": "Tragedy Trail",
-      "title-note": "part 4 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1928-03-24", "volume": "76", "number": "6"},
-      "title": "Path to Plunder (Mystery Ranch)",
-      "title-note": "part 2 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1928-03-24", "volume": "76", "number": "6"},
-      "title": "Tragedy Trail",
-      "title-note": "part 5 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1928-03-31", "volume": "77", "number": "1"},
-      "title": "Path to Plunder (Mystery Ranch)",
-      "title-note": "part 3 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1928-03-31", "volume": "77", "number": "1"},
-      "title": "Tragedy Trail",
-      "title-note": "part 6 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1928-04-07", "volume": "77", "number": "2"},
-      "title": "The Magic Gun",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Frederick, John, 1892-1944",
-       "lcna": "n88121490"
-      }
-     },
-     {"issue": {"issue-date": "1928-04-07", "volume": "77", "number": "2"},
-      "title": "Path to Plunder (Mystery Ranch)",
-      "title-note": "part 4 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1928-04-14", "volume": "77", "number": "3"},
-      "title": "Path to Plunder (Mystery Ranch)",
-      "title-note": "part 5 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1928-04-21", "volume": "77", "number": "4"},
-      "title": "Path to Plunder (Mystery Ranch)",
-      "title-note": "part 6 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1928-04-28", "volume": "77", "number": "5"},
-      "title": "The Gun Tamer",
-      "title-note": "part 1 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1928-05-05", "volume": "77", "number": "6"},
-      "title": "The Gun Tamer",
-      "title-note": "part 2 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1928-05-12", "volume": "78", "number": "1"},
-      "title": "Three on the Trail (The Killers)",
-      "title-note": "part 1 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1928-05-12", "volume": "78", "number": "1"},
-      "title": "The Gun Tamer",
-      "title-note": "part 3 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1928-05-19", "volume": "78", "number": "2"},
-      "title": "Three on the Trail (The Killers)",
-      "title-note": "part 2 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1928-05-19", "volume": "78", "number": "2"},
-      "title": "The Gun Tamer",
-      "title-note": "part 4 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1928-05-26", "volume": "78", "number": "3"},
-      "title": "Three on the Trail (The Killers)",
-      "title-note": "part 3 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1928-05-26", "volume": "78", "number": "3"},
-      "title": "The Gun Tamer",
-      "title-note": "part 5 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1928-06-02", "volume": "78", "number": "4"},
-      "title": "Three on the Trail (The Killers)",
-      "title-note": "part 4 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1928-06-02", "volume": "78", "number": "4"},
-      "title": "The Gun Tamer",
-      "title-note": "part 6 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1928-06-09", "volume": "78", "number": "5"},
-      "title": "Three on the Trail (The Killers)",
-      "title-note": "part 5 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1928-06-16", "volume": "78", "number": "6"},
-      "title": "Prairie Pawn",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Morland, Peter Henry, 1892-1944",
-       "lcna": "n88121484"
-      }
-     },
-     {"issue": {"issue-date": "1928-06-16", "volume": "78", "number": "6"},
-      "title": "Three on the Trail (The Killers)",
-      "title-note": "part 6 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1928-06-23", "volume": "79", "number": "1"},
-      "title": "The Brass Man",
-      "title-note": "part 1 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1928-06-30", "volume": "79", "number": "2"},
-      "title": "Fugitives Fire",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Morland, Peter Henry, 1892-1944",
-       "lcna": "n88121484"
-      }
-     },
-     {"issue": {"issue-date": "1928-06-30", "volume": "79", "number": "2"},
-      "title": "The Brass Man",
-      "title-note": "part 3 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1928-07-07", "volume": "79", "number": "3"},
-      "title": "The Brass Man",
-      "title-note": "part 1 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1928-07-14", "volume": "79", "number": "4"},
-      "title": "Gunman's Goal",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1928-07-14", "volume": "79", "number": "4"},
-      "title": "The Brass Man",
-      "title-note": "part 4 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1928-07-21", "volume": "79", "number": "5"},
-      "title": "The Brass Man",
-      "title-note": "part 5 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1928-07-28", "volume": "79", "number": "6"},
-      "title": "The Brass Man",
-      "title-note": "part 6 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1928-08-04", "volume": "80", "number": "1"},
-      "title": "Pillar Mountain",
-      "title-note": "part 1 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym. CCE renewal record names the author as Max Brand (another Faust pseudonym), but the cover of this issue names the author as John Frederick.",
-      "author": {
-       "authorized": "Frederick, John, 1892-1944",
-       "lcna": "n88121490"
-      }
-     },
-     {"issue": {"issue-date": "1928-08-11", "volume": "80", "number": "2"},
-      "title": "Pillar Mountain",
-      "title-note": "part 2 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym. CCE renewal record names the author as Max Brand (another Faust pseudonym), but the cover of the issue with the first installment names the author as John Frederick.",
-      "author": {
-       "authorized": "Frederick, John, 1892-1944",
-       "lcna": "n88121490"
-      }
-     },
-     {"issue": {"issue-date": "1928-08-18", "volume": "80", "number": "3"},
-      "title": "The Bright Face of Danger",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1928-08-18", "volume": "80", "number": "3"},
-      "title": "Pillar Mountain",
-      "title-note": "part 3 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym. CCE renewal record names the author as Max Brand (another Faust pseudonym), but the cover of the issue with the first installment names the author as John Frederick.",
-      "author": {
-       "authorized": "Frederick, John, 1892-1944",
-       "lcna": "n88121490"
-      }
-     },
-     {"issue": {"issue-date": "1928-08-25", "volume": "80", "number": "4"},
-      "title": "Pillar Mountain",
-      "title-note": "part 4 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym. CCE renewal record names the author as Max Brand (another Faust pseudonym), but the cover of the issue with the first installment names the author as John Frederick.",
-      "author": {
-       "authorized": "Frederick, John, 1892-1944",
-       "lcna": "n88121490"
-      }
-     },
-     {"issue": {"issue-date": "1928-09-01", "volume": "80", "number": "5"},
-      "title": "Pillar Mountain",
-      "title-note": "part 5 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym. CCE renewal record names the author as Max Brand (another Faust pseudonym), but the cover of the issue with the first installment names the author as John Frederick.",
-      "author": {
-       "authorized": "Frederick, John, 1892-1944",
-       "lcna": "n88121490"
-      }
-     },
-     {"issue": {"issue-date": "1928-09-08", "volume": "80", "number": "6"},
-      "title": "Pillar Mountain",
-      "title-note": "part 3 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym. CCE renewal record names the author as Max Brand (another Faust pseudonym), but the cover of the issue with the first installment names the author as John Frederick.",
-      "author": {
-       "authorized": "Frederick, John, 1892-1944",
-       "lcna": "n88121490"
-      }
-     },
-     {"issue": {"issue-date": "1928-09-15", "volume": "81", "number": "1"},
-      "title": "Riders for Fortune",
-      "title-note": "part 1 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1928-09-22", "volume": "81", "number": "2"},
-      "title": "Riders for Fortune",
-      "title-note": "part 2 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1928-09-29", "volume": "81", "number": "3"},
-      "title": "Through Steel and Stone",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1928-09-29", "volume": "81", "number": "3"},
-      "title": "Riders for Fortune",
-      "title-note": "part 3 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1928-10-06", "volume": "81", "number": "4"},
-      "title": "Riders for Fortune",
-      "title-note": "part 4 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1928-10-13", "volume": "81", "number": "5"},
-      "title": "The House of Gold",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1928-10-13", "volume": "81", "number": "5"},
-      "title": "Riders for Fortune",
-      "title-note": "part 5 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1928-10-20", "volume": "81", "number": "6"},
-      "title": "Riders for Fortune",
-      "title-note": "part 6 of 6",
-      "note": "Author is Frederick Faust writing under a pseudonym.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1928-10-27", "volume": "82", "number": "1"},
-      "title": "Silver Trail",
-      "title-note": "part 1 of 6?",
-      "note": "Author is Frederick Faust writing under a pseudonym. CCE renewal record reports this as only appearing in this issue, but FictionMags records this story as serialized in 6 parts between October 27 and December 1. We have not examined the issue ourselves.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1928-11-03", "volume": "82", "number": "2"},
-      "title": "Thunder Moon Goes White",
-      "title-note": "part 1 of 4?",
-      "note": "Author is Frederick Faust writing under a pseudonym. CCE renewal record reports this as a 4-part story running November 3-24, but FictionMags records this story as only appearing in this issue. We have not examined the issue ourselves.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1928-11-03", "volume": "82", "number": "2"},
-      "title": "Silver Trail",
-      "title-note": "part 2 of 6?",
-      "note": "Author is Frederick Faust writing under a pseudonym. CCE renewal record reports this as only appearing the October 27 issue, but FictionMags records this story as serialized in 6 parts between October 27 and December 1. We have not examined the issue ourselves.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1928-11-10", "volume": "82", "number": "3"},
-      "title": "Silver Trail",
-      "title-note": "part 3 of 6?",
-      "note": "Author is Frederick Faust writing under a pseudonym. CCE renewal record reports this as only appearing the October 27 issue, but FictionMags records this story as serialized in 6 parts between October 27 and December 1. We have not examined the issue ourselves.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1928-11-10", "volume": "82", "number": "3"},
-      "title": "Thunder Moon Goes White",
-      "title-note": "part 2 of 4?",
-      "note": "Author is Frederick Faust writing under a pseudonym. CCE renewal record reports this as a 4-part story running November 3-24, but FictionMags does not a report an installment of this story in this issue. We have not examined the issue ourselves.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1928-11-17", "volume": "82", "number": "4"},
-      "title": "Silver Trail",
-      "title-note": "part 4 of 6?",
-      "note": "Author is Frederick Faust writing under a pseudonym. CCE renewal record reports this as only appearing the October 27 issue, but FictionMags records this story as serialized in 6 parts between October 27 and December 1. We have not examined the issue ourselves.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1928-11-17", "volume": "82", "number": "4"},
-      "title": "Thunder Moon Goes White",
-      "title-note": "part 3 of 4?",
-      "note": "Author is Frederick Faust writing under a pseudonym. CCE renewal record reports this as a 4-part story running November 3-24, but FictionMags does not a report an installment of this story in this issue. We have not examined the issue ourselves.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1928-11-24", "volume": "82", "number": "5"},
-      "title": "Silver Trail",
-      "title-note": "part 5 of 6?",
-      "note": "Author is Frederick Faust writing under a pseudonym. CCE renewal record reports this as only appearing the October 27 issue, but FictionMags records this story as serialized in 6 parts between October 27 and December 1. We have not examined the issue ourselves.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1928-11-24", "volume": "82", "number": "5"},
-      "title": "Thunder Moon Goes White",
-      "title-note": "part 4 of 4?",
-      "note": "Author is Frederick Faust writing under a pseudonym. CCE renewal record reports this as a 4-part story running November 3-24, but FictionMags does not a report an installment of this story in this issue. We have not examined the issue ourselves.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1928-12-01", "volume": "82", "number": "6"},
-      "title": "The Lion's Share",
-      "title-note": "part 1 of 4?",
-      "note": "Author is Frederick Faust writing under a pseudonym. CCE renewal record reports this as a 4-part story running December 1-22, but FictionMags records this story as only appearing in this issue. We have not examined the issue ourselves.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1928-12-01", "volume": "82", "number": "6"},
-      "title": "Silver Trail",
-      "title-note": "part 6 of 6?",
-      "note": "Author is Frederick Faust writing under a pseudonym. CCE renewal record reports this as only appearing the October 27 issue, but FictionMags records this story as serialized in 6 parts between October 27 and December 1. We have not examined the issue ourselves.",
-      "author": {
-       "authorized": "Brand, Max, 1892-1944",
-       "lcna": "n79034951"
-      }
-     },
-     {"issue": {"issue-date": "1928-12-08", "volume": "83", "number": "1"},
-      "title": "Empty Saddles",
-      "title-note": "part 1 of 5",
-      "author": {
-       "authorized": "Wilson, Cherry",
-       "lcna": "nb96072166"
-      }
-     },
-     {"issue": {"issue-date": "1928-12-08", "volume": "83", "number": "1"},
-      "title": "The Lion's Share",
-      "title-note": "part 2 of 4?",
-      "note": "Author is Frederick Faust writing under a pseudonym. CCE renewal record reports this as a 4-part story running December 1-22, but FictionMags does not a report an installment of this story in this issue. We have not examined the issue ourselves.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1928-12-15", "volume": "83", "number": "2"},
-      "title": "Empty Saddles",
-      "title-note": "part 2 of 5",
-      "author": {
-       "authorized": "Wilson, Cherry",
-       "lcna": "nb96072166"
-      }
-     },
-     {"issue": {"issue-date": "1928-12-15", "volume": "83", "number": "2"},
-      "title": "The Lion's Share",
-      "title-note": "part 3 of 4?",
-      "note": "Author is Frederick Faust writing under a pseudonym. CCE renewal record reports this as a 4-part story running December 1-22, but FictionMags does not a report an installment of this story in this issue. We have not examined the issue ourselves.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1928-12-22", "volume": "83", "number": "3"},
-      "title": "Empty Saddles",
-      "title-note": "part 3 of 5",
-      "author": {
-       "authorized": "Wilson, Cherry",
-       "lcna": "nb96072166"
-      }
-     },
-     {"issue": {"issue-date": "1928-12-22", "volume": "83", "number": "3"},
-      "title": "The Lion's Share",
-      "title-note": "part 4 of 4?",
-      "note": "Author is Frederick Faust writing under a pseudonym. CCE renewal record reports this as a 4-part story running December 1-22, but FictionMags does not a report an installment of this story in this issue. We have not examined the issue ourselves.",
-      "author": {
-       "authorized": "Baxter, George Owen, 1892-1944",
-       "lcna": "n88121475"
-      }
-     },
-     {"issue": {"issue-date": "1928-12-29", "volume": "83", "number": "4"},
-      "title": "The Flaming Rider",
-      "title-note": "part 1 of 6?",
-      "note": "Author is Frederick Faust writing under a pseudonym. CCE renewal record reports this as a 6-part story running December 29, 1928 - February 2, 1929, but FictionMags records this story as only appearing in this issue. We have not examined the issue ourselves.",
-      "author": {
-       "authorized": "Morland, Peter Henry, 1892-1944",
-       "lcna": "n88121484"
-      }
-     },
-     {"issue": {"issue-date": "1928-12-29", "volume": "83", "number": "4"},
-      "title": "Empty Saddles",
-      "title-note": "part 4 of 5",
-      "author": {
-       "authorized": "Wilson, Cherry",
-       "lcna": "nb96072166"
-      }
-     },
-     {"issue": {"issue-date": "1929-01-05", "volume": "83", "number": "5"},
-      "title": "Empty Saddles",
-      "title-note": "part 5 of 5",
-      "author": {
-       "authorized": "Wilson, Cherry",
-       "lcna": "nb96072166"
-      }
-     },
-     {"issue": {"issue-date": "1929-01-05", "volume": "83", "number": "5"},
-      "title": "The Flaming Rider",
-      "title-note": "part 2 of 6?",
-      "note": "Author is Frederick Faust writing under a pseudonym. CCE renewal record reports this as a 6-part story running December 29, 1928 - February 2, 1929, but FictionMags does not a report an installment of this story in this issue. We have not examined the issue ourselves.",
-      "author": {
-       "authorized": "Morland, Peter Henry, 1892-1944",
-       "lcna": "n88121484"
-      }
-     },
      {"issue": {"issue-date": "1929-01-12", "volume": "83", "number": "6"},
       "title": "The Stranger",
       "title-note": "part 1 of 5",
@@ -1128,12 +347,48 @@
        "lcna": "n88121490"
       }
      },
+     {"issue": {"issue-date": "1929-03-16", "volume": "85", "number": "3"},
+      "title": "The Winged Horse",
+      "title-note": "part 5 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Frederick, John, 1892-1944",
+       "lcna": "n88121490"
+      }
+     },
+     {"issue": {"issue-date": "1929-03-23", "volume": "85", "number": "4"},
+      "title": "The Winged Horse",
+      "title-note": "part 6 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Frederick, John, 1892-1944",
+       "lcna": "n88121490"
+      }
+     },
+     {"issue": {"issue-date": "1929-04-13", "volume": "86", "number": "1"},
+      "title": "The Trail to Manhood",
+      "title-note": "part 1 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym. CCE renewal record credits it to Baxter; FictionMags credits it to Brand. We have not examined the issue in question.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
      {"issue": {"issue-date": "1929-04-20", "volume": "86", "number": "2"},
       "title": "The Throwback",
       "title-note": "part 1 of 3",
       "author": {
        "authorized": "Wilson, Cherry",
        "lcna": "nb96072166"
+      }
+     },
+     {"issue": {"issue-date": "1929-04-20", "volume": "86", "number": "2"},
+      "title": "The Trail to Manhood",
+      "title-note": "part 2 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym. CCE renewal record credits it to Baxter; FictionMags credits it to Brand. We have not examined the issue in question.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
       }
      },
      {"issue": {"issue-date": "1929-04-27", "volume": "86", "number": "3"},
@@ -1144,6 +399,15 @@
        "lcna": "nb96072166"
       }
      },
+     {"issue": {"issue-date": "1929-04-27", "volume": "86", "number": "3"},
+      "title": "The Trail to Manhood",
+      "title-note": "part 3 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym. CCE renewal record credits it to Baxter; FictionMags credits it to Brand. We have not examined the issue in question.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
      {"issue": {"issue-date": "1929-05-04", "volume": "86", "number": "4"},
       "title": "The Throwback",
       "title-note": "part 3 of 3",
@@ -1152,12 +416,163 @@
        "lcna": "nb96072166"
       }
      },
+     {"issue": {"issue-date": "1929-05-04", "volume": "86", "number": "4"},
+      "title": "The Trail to Manhood",
+      "title-note": "part 4 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym. CCE renewal record credits it to Baxter; FictionMags credits it to Brand. We have not examined the issue in question.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1929-05-11", "volume": "86", "number": "4"},
+      "title": "The Trail to Manhood",
+      "title-note": "part 5 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym. CCE renewal record credits it to Baxter; FictionMags credits it to Brand. We have not examined the issue in question.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1929-05-18", "volume": "86", "number": "6"},
+      "title": "The Trail to Manhood",
+      "title-note": "part 6 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym. CCE renewal record credits it to Baxter; FictionMags credits it to Brand. We have not examined the issue in question.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1929-05-25", "volume": "87", "number": "1"},
+      "title": "Strength of the Hills",
+      "title-note": "part 1 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1929-06-01", "volume": "87", "number": "2"},
+      "title": "Strength of the Hills",
+      "title-note": "part 2 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1929-06-08", "volume": "87", "number": "3"},
+      "title": "Strength of the Hills",
+      "title-note": "part 3 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1929-06-15", "volume": "87", "number": "4"},
+      "title": "Strength of the Hills",
+      "title-note": "part 4 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1929-06-22", "volume": "87", "number": "5"},
+      "title": "Strength of the Hills",
+      "title-note": "part 5 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1929-06-29", "volume": "87", "number": "6"},
+      "title": "Strength of the Hills",
+      "title-note": "part 6 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1929-07-06", "volume": "88", "number": "1"},
+      "title": "Rustler's Rock (The Seven of Diamonds)",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Manning, David, 1892-1944",
+       "lcna": "n88121491"
+      }
+     },
+     {"issue": {"issue-date": "1929-07-13", "volume": "88", "number": "2"},
+      "title": "Chinook: A Tale of the Far North",
+      "title-note": "part 1 of 6?",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Frederick, John, 1892-1944",
+       "lcna": "n88121490"
+      }
+     },
+     {"issue": {"issue-date": "1929-07-20", "volume": "88", "number": "3"},
+      "title": "Chinook: A Tale of the Far North",
+      "title-note": "part 2 of 6?",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Frederick, John, 1892-1944",
+       "lcna": "n88121490"
+      }
+     },
+     {"issue": {"issue-date": "1929-07-27", "volume": "88", "number": "4"},
+      "title": "Chinook: A Tale of the Far North",
+      "title-note": "part 3 of 6?",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Frederick, John, 1892-1944",
+       "lcna": "n88121490"
+      }
+     },
+     {"issue": {"issue-date": "1929-08-03", "volume": "88", "number": "5"},
+      "title": "Chinook: A Tale of the Far North",
+      "title-note": "part 4 of 6?",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Frederick, John, 1892-1944",
+       "lcna": "n88121490"
+      }
+     },
+     {"issue": {"issue-date": "1929-08-10", "volume": "88", "number": "6"},
+      "title": "Chinook: A Tale of the Far North",
+      "title-note": "part 5 of 6?",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Frederick, John, 1892-1944",
+       "lcna": "n88121490"
+      }
+     },
      {"issue": {"issue-date": "1929-08-17", "volume": "89", "number": "1"},
       "title": "The Yukon Drive",
       "title-note": "part 1 of 8",
       "author": {
        "authorized": "Case, Robert Ormond, 1895-1964",
        "lcna": "no95027451"
+      }
+     },
+     {"issue": {"issue-date": "1929-08-17", "volume": "89", "number": "1"},
+      "title": "While Bullets Sang",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1929-08-24", "volume": "89", "number": "2"},
+      "title": "Happy Valley",
+      "title-note": "part 1 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
       }
      },
      {"issue": {"issue-date": "1929-08-24", "volume": "89", "number": "2"},
@@ -1169,11 +584,36 @@
       }
      },
      {"issue": {"issue-date": "1929-08-31", "volume": "89", "number": "3"},
+      "title": "Geraldi in the Haunted Hills",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1929-08-31", "volume": "89", "number": "3"},
       "title": "The Yukon Drive",
       "title-note": "part 3 of 8",
       "author": {
        "authorized": "Case, Robert Ormond, 1895-1964",
        "lcna": "no95027451"
+      }
+     },
+     {"issue": {"issue-date": "1929-09-07", "volume": "89", "number": "4"},
+      "title": "The Danger Lover",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Manning, David, 1892-1944",
+       "lcna": "n88121491"
+      }
+     },
+     {"issue": {"issue-date": "1929-09-07", "volume": "89", "number": "4"},
+      "title": "Happy Valley",
+      "title-note": "part 3 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym. We did not find a reference in the renewal record to the issue that carried part 2.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
       }
      },
      {"issue": {"issue-date": "1929-09-07", "volume": "89", "number": "4"},
@@ -1185,11 +625,29 @@
       }
      },
      {"issue": {"issue-date": "1929-09-14", "volume": "89", "number": "5"},
+      "title": "Happy Valley",
+      "title-note": "part 4 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1929-09-14", "volume": "89", "number": "5"},
       "title": "The Yukon Drive",
       "title-note": "part 5 of 8",
       "author": {
        "authorized": "Case, Robert Ormond, 1895-1964",
        "lcna": "no95027451"
+      }
+     },
+     {"issue": {"issue-date": "1929-09-21", "volume": "89", "number": "6"},
+      "title": "Happy Valley",
+      "title-note": "part 5 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
       }
      },
      {"issue": {"issue-date": "1929-09-21", "volume": "89", "number": "6"},
@@ -1208,6 +666,15 @@
        "lcna": "no95027451"
       }
      },
+     {"issue": {"issue-date": "1929-09-28", "volume": "90", "number": "1"},
+      "title": "Happy Valley",
+      "title-note": "part 6 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
      {"issue": {"issue-date": "1929-10-05", "volume": "90", "number": "2"},
       "title": "The Yukon Drive",
       "title-note": "part 8 of 8",
@@ -1215,12 +682,278 @@
        "authorized": "Case, Robert Ormond, 1895-1964",
        "lcna": "no95027451"
       }
+     },
+     {"issue": {"issue-date": "1929-10-12", "volume": "90", "number": "3"},
+      "title": "Stormy Dorn",
+      "title-note": "part 1 of 4",
+      "author": {
+       "authorized": "Wilson, Cherry",
+       "lcna": "nb96072166"
+      }
+     },
+     {"issue": {"issue-date": "1929-10-19", "volume": "90", "number": "4"},
+      "title": "Stormy Dorn",
+      "title-note": "part 2 of 4",
+      "author": {
+       "authorized": "Wilson, Cherry",
+       "lcna": "nb96072166"
+      }
+     },
+     {"issue": {"issue-date": "1929-10-26", "volume": "90", "number": "5"},
+      "title": "Stormy Dorn",
+      "title-note": "part 3 of 4",
+      "author": {
+       "authorized": "Wilson, Cherry",
+       "lcna": "nb96072166"
+      }
+     },
+     {"issue": {"issue-date": "1929-11-02", "volume": "90", "number": "6"},
+      "title": "The Duster",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1929-11-02", "volume": "90", "number": "6"},
+      "title": "Stormy Dorn",
+      "title-note": "part 4 of 4",
+      "author": {
+       "authorized": "Wilson, Cherry",
+       "lcna": "nb96072166"
+      }
+     },
+     {"issue": {"issue-date": "1929-11-09", "volume": "91", "number": "1"},
+      "title": "Two Bronchos",
+      "title-note": "part 1 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1929-11-16", "volume": "91", "number": "2"},
+      "title": "Twisted Bars",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1929-11-16", "volume": "91", "number": "2"},
+      "title": "Two Bronchos",
+      "title-note": "part 2 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1929-11-23", "volume": "91", "number": "3"},
+      "title": "Two Bronchos",
+      "title-note": "part 3 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1929-11-30", "volume": "91", "number": "4"},
+      "title": "The Duster's Return",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1929-11-30", "volume": "91", "number": "4"},
+      "title": "Two Bronchos",
+      "title-note": "part 4 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1929-12-07", "volume": "91", "number": "5"},
+      "title": "Two Bronchos",
+      "title-note": "part 5 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1929-12-14", "volume": "91", "number": "6"}, 
+      "title": "Range Robbers",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
+     {"issue": {"issue-date": "1929-12-14", "volume": "91", "number": "6"}, 
+      "title": "Two Bronchos",
+      "title-note": "part 6 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1929-12-21", "volume": "92", "number": "1"}, 
+      "title": "The Horizon of Danger",
+      "title-note": "part 1 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym. CCE renewal record says this story was originally 'The Rescue of Broken Arrow'; both it and FictionMags note the Horizon of Danger title.",
+      "author": {
+       "authorized": "Morland, Peter Henry, 1892-1944",
+       "lcna": "n88121484"
+      }
+     },
+     {"issue": {"issue-date": "1929-12-28", "volume": "92", "number": "2"}, 
+      "title": "The Horizon of Danger",
+      "title-note": "part 2 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym. CCE renewal record says this story was originally 'The Rescue of Broken Arrow'; both it and FictionMags note the Horizon of Danger title.",
+      "author": {
+       "authorized": "Morland, Peter Henry, 1892-1944",
+       "lcna": "n88121484"
+      }
+     },
+     {"issue": {"issue-date": "1930-01-04", "volume": "92", "number": "3"}, 
+      "title": "The Horizon of Danger",
+      "title-note": "part 3 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym. CCE renewal record says this story was originally 'The Rescue of Broken Arrow'; both it and FictionMags note the Horizon of Danger title.",
+      "author": {
+       "authorized": "Morland, Peter Henry, 1892-1944",
+       "lcna": "n88121484"
+      }
+     },
+     {"issue": {"issue-date": "1930-01-11", "volume": "92", "number": "4"}, 
+      "title": "The Horizon of Danger",
+      "title-note": "part 4 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym. CCE renewal record says this story was originally 'The Rescue of Broken Arrow'; both it and FictionMags note the Horizon of Danger title.",
+      "author": {
+       "authorized": "Morland, Peter Henry, 1892-1944",
+       "lcna": "n88121484"
+      }
+     },
+     {"issue": {"issue-date": "1930-01-18", "volume": "92", "number": "5"}, 
+      "title": "The Horizon of Danger",
+      "title-note": "part 5 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym. CCE renewal record says this story was originally 'The Rescue of Broken Arrow'; both it and FictionMags note the Horizon of Danger title.",
+      "author": {
+       "authorized": "Morland, Peter Henry, 1892-1944",
+       "lcna": "n88121484"
+      }
+     },
+     {"issue": {"issue-date": "1930-01-25", "volume": "92", "number": "6"}, 
+      "title": "The Horizon of Danger",
+      "title-note": "part 6 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym. CCE renewal record says this story was originally 'The Rescue of Broken Arrow'; both it and FictionMags note the Horizon of Danger title.",
+      "author": {
+       "authorized": "Morland, Peter Henry, 1892-1944",
+       "lcna": "n88121484"
+      }
+     },
+     {"issue": {"issue-date": "1930-02-01", "volume": "93", "number": "1"},
+      "title": "Twelve Peers",
+      "title-note": "part 1 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1930-02-08", "volume": "93", "number": "2"},
+      "title": "Twelve Peers",
+      "title-note": "part 2 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1930-02-15", "volume": "93", "number": "3"},
+      "title": "Twelve Peers",
+      "title-note": "part 3 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1930-02-22", "volume": "93", "number": "4"},
+      "title": "Twelve Peers",
+      "title-note": "part 4 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1930-03-01", "volume": "93", "number": "5"},
+      "title": "Twelve Peers",
+      "title-note": "part 5 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1930-03-08", "volume": "93", "number": "6"},
+      "title": "Twelve Peers",
+      "title-note": "part 6 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1930-04-19", "volume": "94", "number": "6"}, 
+      "title": "Wet Cattle",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
+     {"issue": {"issue-date": "1930-06-21", "volume": "96", "number": "3"}, 
+      "title": "Valley Squatters",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
+     {"issue": {"issue-date": "1930-08-16", "volume": "97", "number": "5"}, 
+      "title": "The Square Shooter",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
+     {"issue": {"issue-date": "1930-09-13", "volume": "98", "number": "3"}, 
+      "title": "Into the Crimson West",
+      "author": {
+       "authorized": "Franklin, George Cory, 1872-1962",
+       "lcna": "no2013106538"
+      }
+     },
+     {"issue": {"issue-date": "1930-09-20", "volume": "98", "number": "4"}, 
+      "title": "The Devil's Pitchfork",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
+     {"issue": {"issue-date": "1930-10-11", "volume": "99", "number": "1"}, 
+      "title": "His Mother's Brand",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
      }
    ],
-   "additional-note" : "Active contribution renewals are recorded beginning in the 1955 January-June CCE volume, but the earliest actively renewed contribution is noted in the 1955 July-December volume.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-08-24"
+   "last-updated": "2024-01-02"
 }

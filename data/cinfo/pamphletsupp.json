@@ -4,14 +4,42 @@
    "aka": ["Federal Statutes Annotated: Pamphlet Supplement",
            "United States Code Annotated: Pamphlet Supplement"],
    "first-renewed-issue":
-        {"issue-date": "1928-04", "number": "1"},
-   "first-renewed-issue-source": "1955-JulDec",
+        {"issue-date": "1929-01", "number": "1"},
+   "first-renewed-issue-source": "1956-JanJun",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
-   "additional-note": "The exact title varied somewhat by issue.  Issues of this serial were typically renewed as books, and not as periodicals. Some issues covered the Statues and Code separately, some together. Some cumulative supplements after this date also have active renewals. Pamphlet numbering may have reset periodically.",
+   "renewed-issue-completeness": "active/1929",
+   "renewed-issues": [
+     {"issue-date": "1929-01", "cdate": "1929-02-09", "number": "1", 
+      "note": "United States Code Annotated, Cumulative Pamphlet Supplement"},
+     {"issue-date": "1929", "cdate": "1929-02-09", "number": "1", 
+      "note": "United States Code Pamphlet Supplement Unannotated"},
+     {"issue-date": "1929-04", "cdate": "1929-05-10", "number": "2", 
+      "note": "United States Code Annotated, Cumulative Pamphlet Supplement"},
+     {"issue-date": "1929-04", "cdate": "1929-05-14", "number": "2", 
+      "note": "United States Code Pamphlet Supplement Unannotated"},
+     {"issue-date": "1929-07", "cdate": "1929-08-01", "number": "3", 
+      "note": "United States Code Annotated, Cumulative Pamphlet Supplement"},
+     {"issue-date": "1929-07", "cdate": "1929-08-01", "number": "3", 
+      "note": "United States Code Pamphlet Supplement Unannotated"},
+     {"issue-date": "1930-01", "cdate": "1930-01-30", "number": "1", 
+      "note": "United States Code Annotated, Cumulative Pamphlet Supplement"},
+     {"issue-date": "1930-01", "cdate": "1930-01-30", "number": "1", 
+      "note": "United States Code Pamphlet Supplement Unannotated"},
+     {"issue-date": "1930-04", "cdate": "1930-05-07", "number": "2", 
+      "note": "United States Code Annotated, Cumulative Pamphlet Supplement"},
+     {"issue-date": "1930-04", "cdate": "1930-05-07", "number": "no. 1-2", 
+      "note": "United States Code Pamphlet Supplement Unannotated"},
+     {"issue-date": "1930-07", "cdate": "1930-08-07", "number": "3", 
+      "note": "United States Code Annotated, Cumulative Pamphlet Supplement"},
+     {"issue-date": "1930-07", "cdate": "1930-08-07", "number": "3", 
+      "note": "United States Code Pamphlet Supplement Unannotated"}
+   ],
+   "additional-note": 
+      "The exact title varied somewhat by issue.  Issues of this serial were typically renewed as books, but sometimes were renewed as periodicals. Some issues covered the Statues and Code separately, some together. Pamphlet numbering may have reset periodically.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-01-05"
+   "last-updated": "2024-01-08"
 }

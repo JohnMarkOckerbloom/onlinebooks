@@ -8,8 +8,8 @@
       {"issue-date": "1936-07-16", "volume": "176", "number": "3"},
    "first-renewed-issue-source": "1964",
    "first-renewed-contribution":
-      {"issue": {"issue-date": "1928-04-12"}},
-   "first-renewed-contribution-source": "1955-JulDec",
+      {"issue": {"issue-date": "1957-03-29"}},
+   "first-renewed-contribution-source": "database",
    "last-issue":
       {"issue-date": "1967-09-08", "volume": "295", "number": "5"},
    "see-also": [{"id": "printersinkmon", "note": "Printers' Ink Monthly"}],
@@ -145,13 +145,6 @@
    ],
    "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
-      {"issue": {"issue-date": "1928-04-12"},
-       "title": "The Growth of Advertising in the Conde Nast Group Has Been Continuous for the Past Six Years",
-       "author": {
-         "authorized": "Condé Nast Publications",
-         "lcna": "n80080342"
-       }
-      },
       {"issue": {"issue-date": "1957-03-29"},
        "title": "Kromecote Brand Cast Coated Papers, No. 31",
        "author": {
@@ -192,5 +185,5 @@
    },
    "acknowledgement": 
       "Thanks to Timothy Wells for copyright research on this title.",
-   "last-updated": "2023-12-12"
+   "last-updated": "2024-01-08"
 }

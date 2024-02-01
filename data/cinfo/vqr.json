@@ -3,20 +3,14 @@
    "online": "1",
    "first-issue": {"issue-date": "1925-04", "volume": "1", "number": "1"},
    "first-renewed-issue": 
-      {"issue-date": "1928-04", "volume": "4", "number": "2",
-       "cdate": "1928-03-12"},
-   "first-renewed-issue-source": "1955-JulDec",
+      {"issue-date": "1929-04", "volume": "5", "number": "2",
+       "cdate": "1929-03-12"},
+   "first-renewed-issue-source": "1956-JulDec",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1928-07"}}, 
-   "first-renewed-contribution-source": "1955-JanJun",
+     {"issue": {"issue-date": "1930-01"}},
+   "first-renewed-contribution-source": "1957-JanJun",
    "renewed-issue-completeness": "active/1931",
    "renewed-issues": [
-      {"issue-date": "1928-04", "volume": "4", "number": "2",
-       "cdate": "1928-03-12"},
-      {"issue-date": "1928-07", "volume": "4", "number": "3"},
-      {"issue-date": "1928-10", "volume": "4", "number": "4"},
-      {"issue-date": "1929-01", "volume": "5", "number": "1",
-       "cdate": "1928-12-12"},
       {"issue-date": "1929-04", "volume": "5", "number": "2",
        "cdate": "1929-03-12"},
       {"issue-date": "1929-07", "volume": "5", "number": "3"},
@@ -42,36 +36,6 @@
    ],
    "renewed-contribution-completeness": "active/1932",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1928-07"}, 
-      "title": "Codfish Chowder and Sun",
-      "author": {
-       "authorized": "Coffin, Robert P. Tristram (Robert Peter Tristram), 1892-1955",
-       "lcna": "n50030030"
-      }
-     },
-     {"issue": {"issue-date": "1928-10"}, 
-      "title": "Elephants Across the Country",
-      "title-note": "part 1 of 2",
-      "author": {
-       "authorized": "Johnston, Mary, 1870-1936",
-       "lcna": "n80156622"
-      }
-     },
-     {"issue": {"issue-date": "1929-01"}, 
-      "title": "Elephants Across the Country",
-      "title-note": "part 2 of 2",
-      "author": {
-       "authorized": "Johnston, Mary, 1870-1936",
-       "lcna": "n80156622"
-      }
-     },
-     {"issue": {"issue-date": "1929-01"}, 
-        "title": "Bogey Between the Generations",
-        "author": {
-         "authorized": "Lawrence, D. H. (David Herbert), 1885-1930",
-         "lcna": "n79018450"
-        }
-     },
      {"issue": {"issue-date": "1930-01"},
         "title": "Madame de Maintenon",
         "author": {
@@ -119,5 +83,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-08-24"
+   "last-updated": "2024-01-03"
 }

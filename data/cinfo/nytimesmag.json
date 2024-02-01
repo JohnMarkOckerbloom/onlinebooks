@@ -1,53 +1,14 @@
 {
    "title": "The New York Times Magazine",
-   "see-also": [
-     {"id": "nytimes", "note": "The New York Times"},
-     {"id": "nytimesbr", "note": "The New York Times Book Review"}],
+   "see-also": [{"id": "nytimes", "note": "The New York Times"}],
    "first-renewed-issue":
-      {"issue-date": "1928-01-01"},
-   "first-renewed-issue-source": "1955-JulDec",
+      {"issue-date": "1929-01-06"},
+   "first-renewed-issue-source": "1956-JulDec",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1928-08-14"}},
-   "first-renewed-contribution-source": "1955-JulDec",
-   "renewed-issue-completeness": "active/1928",
-   "renewed-issues": [
-      {"issue-date": "1928-01-01"},
-      {"issue-date": "1928-01-08"},
-      {"issue-date": "1928-01-15"},
-      {"issue-date": "1928-01-22"},
-      {"issue-date": "1928-01-29"},
-      {"issue-date": "1928-02-05"},
-      {"issue-date": "1928-02-12"},
-      {"issue-date": "1928-02-19"},
-      {"issue-date": "1928-02-26"},
-      {"issue-date": "1928-03-04"},
-      {"issue-date": "1928-03-11"},
-      {"issue-date": "1928-03-18"},
-      {"issue-date": "1928-03-25"}
-   ],
+     {"issue": {"issue-date": "1935-02-03"}},
+   "first-renewed-contribution-source": "1963-JanJun",
    "renewed-contribution-completeness": "active/1935",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1928-08-14"},
-        "title": "Theatre by Ferry",
-        "author": {
-         "authorized": "Morley, Christopher, 1890-1957",
-         "lcna": "n50006133"
-        }
-     },
-     {"issue": {"issue-date": "1928-11-11"},
-        "title": "Mr. J. Brooks Atkinson",
-        "author": {
-         "authorized": "Morley, Christopher, 1890-1957",
-         "lcna": "n50006133"
-        }
-     },
-     {"issue": {"issue-date": "1928-11-25"},
-        "title": "Prologue",
-        "author": {
-         "authorized": "Morley, Christopher, 1890-1957",
-         "lcna": "n50006133"
-        }
-     },
      {"issue": {"issue-date": "1935-02-03"},
         "title": "New Year's Day: A woodcut of people being drawn in sleigh",
         "author": {
@@ -57,12 +18,12 @@
      }
    ],
    "additional-notes": [
-      "Published as a special section of The New York Times.  In some intervals in the 1920s, it was combined with the New York Times Book Review and published as 'The New York Times Book Review and Magazine'.",
-      "Listed here are renewals filed specifically for the Magazine.  The New York Times began filing general renewals for issues from April 1, 1928 onward.  We assume those renewals also covered the Magazine."
+      "The Magazine was included in Sunday issues of The New York Times. The Times began filing general renewals for issues from April 1, 1928 onward.  Prior to that time, there were issue renewals specifically for the Magazine.  The first issue renewal shown here is the first active renewal we have found for a Sunday issue of The New York Times, which we assume includes the Magazine.",
+      "Contribution renewals listed here were renewals whose records specifically mention the Magazine. There may be additional renewals for contributions to the Magazine that do not specifically mention it."
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-12-17"
+   "last-updated": "2024-01-08"
 }

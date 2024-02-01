@@ -4,17 +4,15 @@
    "online": "1",
    "first-issue": {"issue-date": "1924-01", "volume": "1", "number": "1"},
    "first-renewed-issue": 
-       {"issue-date": "1929-01", "volume": "16", "number": "61",
-          "cdate": "1928-12-24"},
+       {"issue-date": "1929-02", "volume": "16", "number": "62",
+          "cdate": "1929-01-25"},
    "first-renewed-issue-source": "1956-JulDec",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1928-03"}},
-   "first-renewed-contribution-source": "1955-JanJun",
+     {"issue": {"issue-date": "1929-02"}},
+   "first-renewed-contribution-source": "1956-JanJun",
    "see-also": [{"id": "americana1925", "note": "Americana"}],
    "renewed-issue-completeness": "active/1931",
    "renewed-issues": [
-       {"issue-date": "1929-01", "volume": "16", "number": "61",
-          "cdate": "1928-12-24"},
        {"issue-date": "1929-02", "volume": "16", "number": "62",
           "cdate": "1929-01-25"},
        {"issue-date": "1929-03", "volume": "16", "number": "63"},
@@ -68,83 +66,6 @@
    "comment": "Pick up issue renewals with 1960 Jan-Jun",
    "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1928-03"},
-        "title": "Pastorale",
-        "author": {
-         "authorized": "Cain, James M. (James Mallahan), 1892-1977",
-         "lcna": "n80025844"
-        }
-     },
-     {"issue": {"issue-date": "1928-03"},
-        "title": "All Years Are Odd as 1849",
-        "author": {
-         "authorized": "Ferril, Thomas Hornsby, 1896-1988",
-         "lcna": "n50001135"
-        }
-     },
-     {"issue": {"issue-date": "1928-04"},
-        "title": "Up From Culture",
-        "author": {
-         "authorized": "Dobie, Charles Caldwell, 1881-1943",
-         "lcna": "n82054706"
-        }
-     },
-     {"issue": {"issue-date": "1928-04"},
-      "title": "Jungle Justice",
-      "author": {
-         "authorized": "Tully, Jim",
-         "lcna": "n81119676"
-      }
-     },
-     {"issue": {"issue-date": "1928-05"},
-      "title": "Thieves and Vagabonds",
-      "author": {
-         "authorized": "Tully, Jim",
-         "lcna": "n81119676"
-      }
-     },
-     {"issue": {"issue-date": "1928-06"},
-      "title": "The Giver of Life",
-      "author": {
-         "authorized": "Tully, Jim",
-         "lcna": "n81119676"
-      }
-     },
-     {"issue": {"issue-date": "1928-08"},
-        "title": "The Problem of Motive",
-        "author": {
-         "authorized": "Parshley, H. M. (Howard Madison), 1884-1953",
-         "lcna": "n80005263"
-        }
-     },
-     {"issue": {"issue-date": "1928-09"},
-      "title": "Jailbirds",
-      "author": {
-         "authorized": "Tully, Jim",
-         "lcna": "n81119676"
-      }
-     },
-     {"issue": {"issue-date": "1928-11"},
-        "title": "Fort Laramie",
-        "author": {
-         "authorized": "Ferril, Thomas Hornsby, 1896-1988",
-         "lcna": "n50001135"
-        }
-     },
-     {"issue": {"issue-date": "1928-12"},
-        "title": "Simple Annals",
-        "author": {
-         "authorized": "Brody, Catharine",
-         "lcna": "no94017211"
-        }
-     },
-     {"issue": {"issue-date": "1929-01"},
-      "title": "Crop Campers",
-      "author": {
-         "authorized": "Davis, H. L. (Harold Lenoir), 1896-1960",
-         "lcna": "n50036181"
-      }
-     },
      {"issue": {"issue-date": "1929-02"},
       "title": "Old Man Isbell's Wife",
       "author": {
@@ -1399,5 +1320,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-08-24"
+   "last-updated": "2024-01-03"
 }

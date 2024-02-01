@@ -1,13 +1,17 @@
 {
    "title": "New York Digest",
-   "see-also": [{"id": "nysupplement", "note": "New York Supplement"}],
-   "first-renewed-issue": {"cdate": "1928-07-24", "volume": "15",
-    "issue-date": "September 14, 1925 - February 16, 1928"},
-   "first-renewed-issue-source": "1954-JulDec",
-   "additional-note": "This publication appears to digest material that previously had been published in the New York Supplement, which has renewed copyrights of its own. Renewals for this publication appear in the Books section, rather than the Periodicals section, of the CCE",
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce+database",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce+database",
+   "see-also": [
+      {"id": "abbottnydigest", "note": "Abbott New York Digest"},
+      {"id": "nyanndigest", "note": "New York Annual Digest"}
+   ],
+   "additional-note": "The 1920s publication known as New York Digest appears to have been renamed or consolidated into Abbott New York Digest in 1929. The shorter New York Digest name may have been revived later, but we have not found other renewals mentioning this specific title except as cross-references to Abbott New York Digest.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-01-01"
+   "last-updated": "2024-01-08"
 }

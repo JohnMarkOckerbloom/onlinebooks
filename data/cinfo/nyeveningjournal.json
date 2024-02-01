@@ -5,8 +5,8 @@
       {"issue-date": "1929-02-11", "number": "15433"},
    "first-renewed-issue-source": "1956-JulDec",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1928-03-03"}},
-   "first-renewed-contribution-source": "1955-JulDec",
+     {"issue": {"issue-date": "1930-01-11"}},
+   "first-renewed-contribution-source": "1958-JanJun",
    "last-issue": {"issue-date": "1937-06-24"},
    "succeeded-by":
       [{"id": "nyjnlamerican", "note": "New York Journal-American"}],
@@ -43,15 +43,6 @@
     ],
    "renewed-contribution-completeness": "active/1936",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1928-03-03"},
-       "title": "Sappo",
-       "note": "Renewed under Artwork. Listed as work for hire by E. C. Segar as an employee of King Features Syndicate.  King Features is the author for copyright purposes.",
-       "authors": [
-        {"authorized": "Segar, E. C. (Elzie Crisler), 1894-1938",
-         "lcna": "n86814505"},
-        {"authorized": "King Features Syndicate", "lcna": "n82010039"}
-       ]
-     },
      {"issue": {"issue-date": "1930-01-11"},
        "title": "Thimble Theatre",
        "author": {
@@ -76,12 +67,10 @@
        ]
      }
    ],
-   "comment": "Got all Contributions under this name. Need to check 1965 Artwork for art that might have appeared in the Journal.  There are also some renewals for contributions, and possibly artwork, in the merged Journal and American.",
-   "additional-note": 
-   "Some images from the New York Evening Journal were renewed separately in the Artwork section, rather than in the Contributions to Periodicals section.  The first such image with an active copyright ran in the March 3, 1928 issue, and was renewed in 1955.  The first contribution to have an active renewal in the Contributions to Periodicals section of the CCE ran in the January 11, 1930 issue, and was renewed in 1958.",
+   "comment": "There are also some renewals for contributions in the merged Journal and American.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-01-07"
+   "last-updated": "2024-01-03"
 }

@@ -3,9 +3,9 @@
    "online": "1",
    "first-issue": {"issue-date": "1922-02", "volume": "1", "number": "1"},
    "first-renewed-issue":
-      {"issue-date": "1928-02", "volume": "6", "number": "70",
-       "cdate": "1928-01-31"},
-   "first-renewed-issue-source": "1955-JanJun",
+      {"issue-date": "1929-02", "volume": "7", "number": "82",
+       "cdate": "1929-01-16"},
+   "first-renewed-issue-source": "1956-JulDec",
    "first-renewed-contribution": 
       {"issue": {"issue-date": "1933-09"}},
    "first-renewed-contribution-source": "1961-JanJun",
@@ -15,20 +15,6 @@
    ],
    "renewed-issue-completeness": "active/1931",
    "renewed-issues": [
-      {"issue-date": "1928-02", "volume": "6", "number": "70",
-       "cdate": "1928-01-31"},
-      {"issue-date": "1928-03", "volume": "6", "number": "71"},
-      {"issue-date": "1928-04", "volume": "6", "number": "72"},
-      {"issue-date": "1928-05", "volume": "7", "number": "73"},
-      {"issue-date": "1928-06", "volume": "7", "number": "74"},
-      {"issue-date": "1928-07", "volume": "7", "number": "75"},
-      {"issue-date": "1928-08", "volume": "7", "number": "76"},
-      {"issue-date": "1928-09", "volume": "7", "number": "77"},
-      {"issue-date": "1928-10", "volume": "7", "number": "78"},
-      {"issue-date": "1928-11", "volume": "7", "number": "79"},
-      {"issue-date": "1928-12", "volume": "7", "number": "80"},
-      {"issue-date": "1929-01", "volume": "7", "number": "81",
-       "cdate": "1928-12-16"},
       {"issue-date": "1929-02", "volume": "7", "number": "82",
        "cdate": "1929-01-16"},
       {"issue-date": "1929-03", "volume": "7", "number": "83"},
@@ -91,5 +77,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-08-24"
+   "last-updated": "2024-01-03"
 }

@@ -7,32 +7,11 @@
    "first-autorenewed-issue":
       {"issue-date": "1964-01", "volume": "102", "number": "1"},
    "first-renewed-contribution": 
-      {"issue": {"issue-date": "1928-01"}},
-   "first-renewed-contribution-source": "1955-JulDec",
+      {"issue": {"issue-date": "1929-08"}},
+   "first-renewed-contribution-source": "1957-JanJun",
    "last-issue": {"issue-date": "1974-03", "volume": "122", "number": "3"},
    "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
-       {"issue": {"issue-date": "1928-01"},
-        "title": "The Drift Toward Hospital Amalgamation",
-        "author": {
-         "authorized": "Goldwater, S. S. (Sigismund Schulz), 1873-1942",
-         "lcna": "no2004124639"
-        }
-       },
-       {"issue": {"issue-date": "1928-03"},
-        "title": "The Mount Sinai Hospital School of Nursing, New York City",
-        "author": {
-         "authorized": "Goldwater, S. S. (Sigismund Schulz), 1873-1942",
-         "lcna": "no2004124639"
-        }
-       },
-       {"issue": {"issue-date": "1928-04"},
-        "title": "Beth Israel Hospital, Newark, New Jersey",
-        "author": {
-         "authorized": "Goldwater, S. S. (Sigismund Schulz), 1873-1942",
-         "lcna": "no2004124639"
-        }
-       },
        {"issue": {"issue-date": "1929-08"},
         "title": "Economic and Administrative Aspects of Hospital Planning",
         "title-note": "part 1 of 2",
@@ -187,5 +166,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-01-01"
+   "last-updated": "2024-01-05"
 }

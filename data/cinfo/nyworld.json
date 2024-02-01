@@ -5,19 +5,12 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1928-10-22"}},
-   "first-renewed-contribution-source": "1955-JulDec",
+     {"issue": {"issue-date": "1929-04-08"}},
+   "first-renewed-contribution-source": "1956-JanJun",
    "last-issue": {"issue-date": "1931-02-27"},
    "succeeded-by": [{"id": "nyworldtel", "note": "New York World Telegram"}],
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1928-10-22"},
-        "title": "St. John Ervine",
-        "author": {
-         "authorized": "Morley, Christopher, 1890-1957",
-         "lcna": "n50006133"
-        }
-     },
      {"issue": {"issue-date": "1929-04-08"},
       "title": "The Wolves of the Waterfront",
       "title-note": "part 1 of 24",
@@ -241,5 +234,5 @@
    },
    "acknowledgement": 
       "Thanks to Shelton Henderson for copyright research on this title.",
-   "last-updated": "2023-11-26"
+   "last-updated": "2024-01-05"
 }

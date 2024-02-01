@@ -2,21 +2,15 @@
    "title": "The Organist",
    "online": "1",
    "first-renewed-issue":
-      {"issue-date": "1928-03", "volume": "32", "number": "1",
-       "cdate": "1928-02-01"},
-   "first-renewed-issue-source": "1955-JulDec",
+      {"issue-date": "1929-03", "volume": "33", "number": "1",
+       "cdate": "1929-01-21"},
+   "first-renewed-issue-source": "1956-JanJun",
    "first-renewed-contribution": {"issue": {"issue-date": "1932-03"}},
    "first-renewed-contribution-source": "1960-JanJun",
    "renewed-issue-completeness": "active/1931",
    "renewed-issues": [
-      {"issue-date": "1928-03", "volume": "32", "number": "1",
-       "cdate": "1928-02-01"},
-      {"issue-date": "1928-05", "volume": "32", "number": "2"},
-      {"issue-date": "1928-07", "volume": "32", "number": "3"},
-      {"issue-date": "1928-09", "volume": "32", "number": "4"},
-      {"issue-date": "1928-11", "volume": "32", "number": "5"},
-      {"issue-date": "1929-01", "volume": "32", "number": "6"},
-      {"issue-date": "1929-03", "volume": "33", "number": "1"},
+      {"issue-date": "1929-03", "volume": "33", "number": "1",
+       "cdate": "1929-01-21"},
       {"issue-date": "1929-05", "volume": "33", "number": "2"},
       {"issue-date": "1929-07", "volume": "33", "number": "3"},
       {"issue-date": "1929-09", "volume": "33", "number": "4"},
@@ -51,5 +45,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-08-24"
+   "last-updated": "2024-01-02"
 }

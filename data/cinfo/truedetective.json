@@ -9,24 +9,10 @@
       {"issue-date": "1964-03", "cdate": "1964-01-28",
        "volume": "80", "number": "6"},
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1928-06"}},
-   "first-renewed-contribution-source": "1956-JanJun",
+     {"issue": {"issue-date": "1939-03"}},
+   "first-renewed-contribution-source": "1966-JanJun",
    "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1928-06"},
-      "title": "On the Trail of the Wells Fargo Bandits",
-      "title-note": "part 1 of 2",
-      "author": {
-       "name": "Jack Bell"
-      }
-     },
-     {"issue": {"issue-date": "1928-07"},
-      "title": "On the Trail of the Wells Fargo Bandits",
-      "title-note": "part 2 of 2",
-      "author": {
-       "name": "Jack Bell"
-      }
-     },
      {"issue": {"issue-date": "1939-03"},
         "title": "The Police and the Press: An Invincible Partnership",
         "author": {
@@ -74,11 +60,10 @@
         }
      }
    ],
-   "comment": "Pick up with database renewals.",
    "additional-note": "Began as True Detective Mysteries; name changed to True Detective in 1941. Also referred to as True Detective Stories in some copyright records.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-08-26"
+   "last-updated": "2023-01-09"
 }

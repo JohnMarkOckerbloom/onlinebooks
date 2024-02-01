@@ -3,7 +3,7 @@
    "online": "1",
    "contents": [
       {"url": "https://www.jstor.org/journal/jnegrohistory",
-      "note": "JSTOR (full text also available; after 1927 may require subscription or payment)"}
+      "note": "JSTOR (full text also available; after 1928 may require subscription or payment)"}
    ],
    "first-issue": {"issue-date": "1916-01", "volume": "1", "number": "1"},
    "first-renewed-issue": 
@@ -12,6 +12,8 @@
    "first-autorenewed-issue": 
       {"issue-date": "1964-01", "cdate": "1964-03-21",
        "volume": "49", "number": "1"},
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce+database",
    "renewed-issue-completeness": "active/autorenewals",
    "renewed-issues": [
       {"issue-date": "1940-10", "volume": "25", "number": "4"},
@@ -34,11 +36,9 @@
       {"issue-date": "1945-07", "volume": "30", "number": "3"},
       {"issue-date": "1945-10", "volume": "30", "number": "4"}
    ],
-   "first-renewed-contribution": "none",
-   "first-renewed-contribution-source": "cce+database",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-01-08"
+   "last-updated": "2024-01-23"
 }

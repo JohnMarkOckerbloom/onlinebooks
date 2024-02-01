@@ -12,68 +12,14 @@
      {"issue-date": "1964-02", "volume": "42", "number": "9",
       "cdate": "1964-01-25"},
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1928-06", "volume": "7", "number": "1"}},
-   "first-renewed-contribution-source": "1955-JanJun",
+     {"issue": {"issue-date": "1929-04", "volume": "7", "number": "11"}},
+   "first-renewed-contribution-source": "1957-JanJun",
    "renewed-issue-completeness": "active/autorenewals",
    "renewed-issues": [
      {"issue-date": "1930-09", "volume": "9", "number": "4"}
    ],
    "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1928-06", "volume": "7", "number": "1"},
-      "title": "The Giant's House",
-      "author": {
-       "authorized": "Benét, Stephen Vincent, 1898-1943",
-       "lcna": "n50007691"
-      }
-     },
-     {"issue": {"issue-date": "1928-06", "volume": "7", "number": "1"},
-      "title": "Murder at Sea",
-      "title-note": "part 1 of 5",
-      "author": {
-         "authorized": "Connell, Richard Edward, 1893-1949",
-         "lcna": "n50028704"
-       }
-     },
-     {"issue": {"issue-date": "1928-07", "volume": "7", "number": "2"},
-      "title": "Murder at Sea",
-      "title-note": "part 2 of 5",
-      "author": {
-         "authorized": "Connell, Richard Edward, 1893-1949",
-         "lcna": "n50028704"
-       }
-     },
-     {"issue": {"issue-date": "1928-08", "volume": "7", "number": "3"},
-      "title": "Murder at Sea",
-      "title-note": "part 3 of 5",
-      "author": {
-         "authorized": "Connell, Richard Edward, 1893-1949",
-         "lcna": "n50028704"
-       }
-     },
-     {"issue": {"issue-date": "1928-09", "volume": "7", "number": "4"},
-      "title": "Murder at Sea",
-      "title-note": "part 4 of 5",
-      "author": {
-         "authorized": "Connell, Richard Edward, 1893-1949",
-         "lcna": "n50028704"
-       }
-     },
-     {"issue": {"issue-date": "1928-09", "volume": "7", "number": "4"},
-      "title": "The Adventure of the Two Blind Spiders",
-      "author": {
-       "authorized": "Burman, Ben Lucien, 1895-1984",
-       "lcna": "n50032333"
-      }
-     },
-     {"issue": {"issue-date": "1928-10", "volume": "7", "number": "5"},
-      "title": "Murder at Sea",
-      "title-note": "part 5 of 5",
-      "author": {
-         "authorized": "Connell, Richard Edward, 1893-1949",
-         "lcna": "n50028704"
-       }
-     },
      {"issue": {"issue-date": "1929-04", "volume": "7", "number": "11"},
       "title": "The Lost Pilot of Shanty Bend",
       "title-note": "part 1 of 5",
@@ -490,9 +436,10 @@
         }
      }
    ],
+   "additional-note": "Active contribution renewals are recorded beginning in the 1956 July-December CCE volume, but the earliest actively renewed contribution is noted in the 1957 January-June volume.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-01-02"
+   "last-updated": "2024-01-05"
 }

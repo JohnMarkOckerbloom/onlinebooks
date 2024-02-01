@@ -11,17 +11,10 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution":
-      {"issue": {"issue-date": "1928-11-16"}}, 
-   "first-renewed-contribution-source": "1956-JanJun",
+     {"issue": {"issue-date": "1929-01-14"}}, 
+   "first-renewed-contribution-source": "1956-JulDec",
    "renewed-contribution-completeness": "active/1930",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1928-11-16"}, 
-      "title": "An Astrologer-Physician",
-      "author": {
-         "authorized": "Kipling, Rudyard, 1865-1936",
-         "lcna": "n79103792"
-      }
-     },
      {"issue": {"issue-date": "1929-01-14"}, 
       "title": "Lord Haldane's Memories",
       "title-note": "part 1 of 6",
@@ -90,5 +83,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-01-27"
+   "last-updated": "2022-01-27"
 }

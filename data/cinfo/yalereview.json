@@ -5,18 +5,11 @@
       {"issue-date": "1934-Autumn", "volume": "24", "number": "1"},
    "first-renewed-issue-source": "1962-JulDec",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1928-07"}}, 
-   "first-renewed-contribution-source": "1955-JanJun",
+     {"issue": {"issue-date": "1929-Summer", "volume": "18", "number": "4"}},
+   "first-renewed-contribution-source": "1956-JulDec",
    "renewed-contribution-completeness": "active/1950",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1928-07"}, 
-      "title": "Whom Poets Have Neglected",
-      "author": {
-       "authorized": "Coffin, Robert P. Tristram (Robert Peter Tristram), 1892-1955",
-       "lcna": "n50030030"
-      }
-     },
-     {"issue": {"issue-date": "1929-Summer"},
+     {"issue": {"issue-date": "1929-Summer", "volume": "18", "number": "4"},
       "title": "Wordsworth in the Tropics",
       "author": {
        "authorized": "Huxley, Aldous, 1894-1963",
@@ -520,5 +513,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-01-02"
+   "last-updated": "2024-01-04"
 }

@@ -6,16 +6,13 @@
       "note": "FictionMags"}
    ],
    "first-renewed-issue": 
-     {"issue-date": "1928-02-25", "volume": "122", "number": "4"},
-   "first-renewed-issue-source": "1956-JanJun",
+     {"issue-date": "1930-02-25", "volume": "130", "number": "4"},
+   "first-renewed-issue-source": "1958-JanJun",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1928-02-10", "volume": "122", "number": "3"}},
-   "first-renewed-contribution-source": "1955-JulDec",
+     {"issue": {"issue-date": "1929-03-10", "volume": "126", "number": "5"}},
+   "first-renewed-contribution-source": "1956-JanJun",
    "renewed-issue-completeness": "active/1931",
    "renewed-issues": [
-     {"issue-date": "1928-02-25", "volume": "122", "number": "4"},
-     {"issue-date": "1928-03-10", "volume": "122", "number": "5"},
-     {"issue-date": "1928-04-10", "volume": "123", "number": "1"},
      {"issue-date": "1930-02-25", "volume": "130", "number": "4"},
      {"issue-date": "1930-03-10", "volume": "130", "number": "5"},
      {"issue-date": "1930-03-25", "volume": "130", "number": "6"},
@@ -69,272 +66,8 @@
       "cdate": "1932-01-10"},
      {"issue-date": "1932-02-10", "volume": "138", "number": "3"}
    ],
-   "renewed-contribution-completeness": "active/1928",
+   "renewed-contribution-completeness": "active/1929",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1928-02-10", "volume": "122", "number": "3"},
-      "title": "The Desert Eye",
-      "author": {
-       "authorized": "Haycox, Ernest, 1899-1950",
-       "lcna": "n79065126"
-      }
-     },
-     {"issue": {"issue-date": "1928-02-25", "volume": "122", "number": "4"},
-      "title": "Secret River",
-      "author": {
-       "authorized": "Haycox, Ernest, 1899-1950",
-       "lcna": "n79065126"
-      }
-     },
-     {"issue": {"issue-date": "1928-03-10", "volume": "122", "number": "5"},
-      "title": "Mystery Range",
-      "title-note": "part 1 of 5",
-      "author": {
-       "authorized": "Seltzer, Charles Alden, 1875-1942",
-       "lcna": "n50007279"
-      }
-     },
-     {"issue": {"issue-date": "1928-03-10", "volume": "122", "number": "5"},
-      "title": "They Come Hard Boiled in the Legion",
-      "author": {
-       "authorized": "Newsom, John D. (John Dimmock)",
-       "lcna": "no2008152679"
-      }
-     },
-     {"issue": {"issue-date": "1928-03-10", "volume": "122", "number": "5"},
-      "title": "Bound South",
-      "author": {
-       "authorized": "Haycox, Ernest, 1899-1950",
-       "lcna": "n79065126"
-      }
-     },
-     {"issue": {"issue-date": "1928-03-25", "volume": "122", "number": "6"},
-      "title": "The Revenge of Florida Jack",
-      "author": {
-       "authorized": "Haycox, Ernest, 1899-1950",
-       "lcna": "n79065126"
-      }
-     },
-     {"issue": {"issue-date": "1928-03-25", "volume": "122", "number": "6"},
-      "title": "Mystery Range",
-      "title-note": "part 2 of 5",
-      "author": {
-       "authorized": "Seltzer, Charles Alden, 1875-1942",
-       "lcna": "n50007279"
-      }
-     },
-     {"issue": {"issue-date": "1928-04-10", "volume": "123", "number": "1"},
-      "title": "Silver Bob Rides West",
-      "author": {
-       "authorized": "Haycox, Ernest, 1899-1950",
-       "lcna": "n79065126"
-      }
-     },
-     {"issue": {"issue-date": "1928-04-10", "volume": "123", "number": "1"},
-      "title": "Mystery Range",
-      "title-note": "part 3 of 5",
-      "author": {
-       "authorized": "Seltzer, Charles Alden, 1875-1942",
-       "lcna": "n50007279"
-      }
-     },
-     {"issue": {"issue-date": "1928-04-25", "volume": "123", "number": "2"},
-      "title": "Starlight and Gunflame",
-      "author": {
-       "authorized": "Haycox, Ernest, 1899-1950",
-       "lcna": "n79065126"
-      }
-     },
-     {"issue": {"issue-date": "1928-04-25", "volume": "123", "number": "2"},
-      "title": "Mystery Range",
-      "title-note": "part 4 of 5",
-      "author": {
-       "authorized": "Seltzer, Charles Alden, 1875-1942",
-       "lcna": "n50007279"
-      }
-     },
-     {"issue": {"issue-date": "1928-05-10", "volume": "123", "number": "3"},
-      "title": "A Municipal Feud",
-      "author": {
-       "authorized": "Haycox, Ernest, 1899-1950",
-       "lcna": "n79065126"
-      }
-     },
-     {"issue": {"issue-date": "1928-05-10", "volume": "123", "number": "3"},
-      "title": "Mystery Range",
-      "title-note": "part 5 of 5",
-      "author": {
-       "authorized": "Seltzer, Charles Alden, 1875-1942",
-       "lcna": "n50007279"
-      }
-     },
-     {"issue": {"issue-date": "1928-05-25", "volume": "123", "number": "4"},
-      "title": "Mesquite Jenkins",
-      "title-note": "part 1 of 4",
-      "author": {
-       "authorized": "Mulford, Clarence Edward, 1883-1956",
-       "lcna": "n50006370"
-      }
-     },
-     {"issue": {"issue-date": "1928-05-25", "volume": "123", "number": "4"},
-      "title": "The Sheriff of Crooked Rib",
-      "author": {
-       "authorized": "Haycox, Ernest, 1899-1950",
-       "lcna": "n79065126"
-      }
-     },
-     {"issue": {"issue-date": "1928-05-25", "volume": "123", "number": "4"},
-      "title": "Grubstake",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1928-06-10", "volume": "123", "number": "5"},
-      "title": "Mesquite Jenkins",
-      "title-note": "part 2 of 4",
-      "author": {
-       "authorized": "Mulford, Clarence Edward, 1883-1956",
-       "lcna": "n50006370"
-      }
-     },
-     {"issue": {"issue-date": "1928-06-10", "volume": "123", "number": "5"},
-      "title": "The Fugitive Manhunter",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1928-06-25", "volume": "123", "number": "6"},
-      "title": "Mesquite Jenkins",
-      "title-note": "part 3 of 4",
-      "author": {
-       "authorized": "Mulford, Clarence Edward, 1883-1956",
-       "lcna": "n50006370"
-      }
-     },
-     {"issue": {"issue-date": "1928-07-10", "volume": "124", "number": "1"},
-      "title": "Mesquite Jenkins",
-      "title-note": "part 4 of 4",
-      "author": {
-       "authorized": "Mulford, Clarence Edward, 1883-1956",
-       "lcna": "n50006370"
-      }
-     },
-     {"issue": {"issue-date": "1928-07-10", "volume": "124", "number": "1"},
-      "title": "The Grim Canyon",
-      "author": {
-       "authorized": "Haycox, Ernest, 1899-1950",
-       "lcna": "n79065126"
-      }
-     },
-     {"issue": {"issue-date": "1928-07-25", "volume": "124", "number": "2"},
-      "title": "Gold, and the Mounted",
-      "title-note": "part 1 of 4",
-      "author": {
-         "authorized": "Hendryx, James B. (James Beardsley), 1880-1963",
-         "lcna": "no95058559"
-       }
-     },
-     {"issue": {"issue-date": "1928-08-10", "volume": "124", "number": "3"},
-      "title": "Gold, and the Mounted",
-      "title-note": "part 2 of 4",
-      "author": {
-         "authorized": "Hendryx, James B. (James Beardsley), 1880-1963",
-         "lcna": "no95058559"
-       }
-     },
-     {"issue": {"issue-date": "1928-08-25", "volume": "124", "number": "4"},
-      "title": "Guns Up",
-      "author": {
-       "authorized": "Haycox, Ernest, 1899-1950",
-       "lcna": "n79065126"
-      }
-     },
-     {"issue": {"issue-date": "1928-08-25", "volume": "124", "number": "4"},
-      "title": "Gold, and the Mounted",
-      "title-note": "part 3 of 4",
-      "author": {
-         "authorized": "Hendryx, James B. (James Beardsley), 1880-1963",
-         "lcna": "no95058559"
-       }
-     },
-     {"issue": {"issue-date": "1928-09-10", "volume": "124", "number": "5"},
-      "title": "Gold, and the Mounted",
-      "title-note": "part 4 of 4",
-      "author": {
-         "authorized": "Hendryx, James B. (James Beardsley), 1880-1963",
-         "lcna": "no95058559"
-       }
-     },
-     {"issue": {"issue-date": "1928-09-10", "volume": "124", "number": "5"},
-      "title": "Sevensticks Gambler",
-      "note": "Issue date and title as given in CCE renewal record. FictionMags reports no story by this title or by Haycox in this issue, but does report a story titled 'Sevensticks Gamblers' in the October 10, 1928 issue.  I have not examined the issues in question.",
-      "author": {
-       "authorized": "Haycox, Ernest, 1899-1950",
-       "lcna": "n79065126"
-      }
-     },
-     {"issue": {"issue-date": "1928-09-25", "volume": "124", "number": "6"},
-      "title": "Tiger Claws",
-      "title-note": "part 1 of 4",
-      "author": {
-       "authorized": "Packard, Frank L. (Frank Lucius), 1877-1942",
-       "lcna": "no97026856"
-      }
-     },
-     {"issue": {"issue-date": "1928-10-10", "volume": "125", "number": "1"},
-      "title": "Me an' Shorty",
-      "author": {
-       "authorized": "Mulford, Clarence Edward, 1883-1956",
-       "lcna": "n50006370"
-      }
-     },
-     {"issue": {"issue-date": "1928-10-10", "volume": "125", "number": "1"},
-      "title": "Sevensticks Gamblers",
-      "note": "Title and issue date as given in FictionMags index.  This appears to be the closest match to a CCE renewal record for 'Sevensticks Gambler' by Ernest Haycox that it says was in the September 10, 1928 issue, but that does not appear there in the FictionMags index.  I have not examined the issues in question.",
-      "author": {
-       "authorized": "Haycox, Ernest, 1899-1950",
-       "lcna": "n79065126"
-      }
-     },
-     {"issue": {"issue-date": "1928-10-10", "volume": "125", "number": "1"},
-      "title": "Tiger Claws",
-      "title-note": "part 2 of 4",
-      "author": {
-       "authorized": "Packard, Frank L. (Frank Lucius), 1877-1942",
-       "lcna": "no97026856"
-      }
-     },
-     {"issue": {"issue-date": "1928-10-25", "volume": "125", "number": "2"},
-      "title": "Fandango",
-      "author": {
-       "authorized": "Haycox, Ernest, 1899-1950",
-       "lcna": "n79065126"
-      }
-     },
-     {"issue": {"issue-date": "1928-10-25", "volume": "125", "number": "2"},
-      "title": "Tiger Claws",
-      "title-note": "part 3 of 4",
-      "author": {
-       "authorized": "Packard, Frank L. (Frank Lucius), 1877-1942",
-       "lcna": "no97026856"
-      }
-     },
-     {"issue": {"issue-date": "1928-11-10", "volume": "125", "number": "3"},
-      "title": "Tiger Claws",
-      "title-note": "part 4 of 4",
-      "author": {
-       "authorized": "Packard, Frank L. (Frank Lucius), 1877-1942",
-       "lcna": "no97026856"
-      }
-     },
-     {"issue": {"issue-date": "1928-11-25", "volume": "125", "number": "4"},
-      "title": "Master of His Ship",
-      "author": {
-         "authorized": "Raine, Norman Reilly, 1895-1971",
-         "lcna": "n85342738"
-      }
-     },
      {"issue": {"issue-date": "1929-03-10", "volume": "126", "number": "5"},
       "title": "Discovery Gulch",
       "author": {
@@ -443,13 +176,183 @@
        "authorized": "Haycox, Ernest, 1899-1950",
        "lcna": "n79065126"
       }
+     },
+     {"issue": {"issue-date": "1930-01-10", "volume": "130", "number": "1"},
+      "title": "Pistol Gap",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1930-01-25", "volume": "130", "number": "2"},
+      "title": "The Valiant",
+      "title-note": "part 1 of 4",
+      "author": {
+         "authorized": "Raine, William MacLeod, 1871-1954",
+         "lcna": "n90682348"
+      }
+     },
+     {"issue": {"issue-date": "1930-02-10", "volume": "130", "number": "3"},
+      "title": "The Valiant",
+      "title-note": "part 2 of 4",
+      "author": {
+         "authorized": "Raine, William MacLeod, 1871-1954",
+         "lcna": "n90682348"
+      }
+     },
+     {"issue": {"issue-date": "1930-02-25", "volume": "130", "number": "4"},
+      "title": "The Valiant",
+      "title-note": "part 3 of 4",
+      "author": {
+         "authorized": "Raine, William MacLeod, 1871-1954",
+         "lcna": "n90682348"
+      }
+     },
+     {"issue": {"issue-date": "1930-03-10", "volume": "130", "number": "5"},
+      "title": "The Valiant",
+      "title-note": "part 4 of 4",
+      "author": {
+         "authorized": "Raine, William MacLeod, 1871-1954",
+         "lcna": "n90682348"
+      }
+     },
+     {"issue": {"issue-date": "1930-03-25", "volume": "130", "number": "6"},
+      "title": "The Jungle Terror",
+      "title-note": "part 1 of 2",
+      "author": {
+       "authorized": "Le May, Alan, 1899-1964",
+       "lcna": "no93027552"
+      }
+     },
+     {"issue": {"issue-date": "1930-04-10", "volume": "131", "number": "1"},
+      "title": "Red Romain",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1930-04-10", "volume": "131", "number": "1"},
+      "title": "The Jungle Terror",
+      "title-note": "part 2 of 2",
+      "author": {
+       "authorized": "Le May, Alan, 1899-1964",
+       "lcna": "no93027552"
+      }
+     },
+     {"issue": {"issue-date": "1930-04-10", "volume": "131", "number": "1"},
+      "title": "The Guy That Bumped Grigsley",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1930-06-25", "volume": "131", "number": "6"},
+      "title": "Jimmie Dale and the Blue Envelope Murder",
+      "title-note": "part 1 of 4",
+      "author": {
+       "authorized": "Packard, Frank L. (Frank Lucius), 1877-1942",
+       "lcna": "no97026856"
+      }
+     },
+     {"issue": {"issue-date": "1930-07-10", "volume": "132", "number": "1"},
+      "title": "The Killers",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1930-07-10", "volume": "132", "number": "1"},
+      "title": "Jimmie Dale and the Blue Envelope Murder",
+      "title-note": "part 2 of 4",
+      "author": {
+       "authorized": "Packard, Frank L. (Frank Lucius), 1877-1942",
+       "lcna": "no97026856"
+      }
+     },
+     {"issue": {"issue-date": "1930-07-25", "volume": "132", "number": "2"},
+      "title": "Jimmie Dale and the Blue Envelope Murder",
+      "title-note": "part 3 of 4",
+      "author": {
+       "authorized": "Packard, Frank L. (Frank Lucius), 1877-1942",
+       "lcna": "no97026856"
+      }
+     },
+     {"issue": {"issue-date": "1930-08-10", "volume": "132", "number": "3"},
+      "title": "Jimmie Dale and the Blue Envelope Murder",
+      "title-note": "part 4 of 4",
+      "author": {
+       "authorized": "Packard, Frank L. (Frank Lucius), 1877-1942",
+       "lcna": "no97026856"
+      }
+     },
+     {"issue": {"issue-date": "1930-08-25", "volume": "132", "number": "4"},
+      "title": "Artist",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1930-09-10", "volume": "132", "number": "5"},
+      "title": "Blood on the Yukon Trail",
+      "title-note": "part 1 of 4",
+      "author": {
+         "authorized": "Hendryx, James B. (James Beardsley), 1880-1963",
+         "lcna": "no95058559"
+       }
+     },
+     {"issue": {"issue-date": "1930-09-25", "volume": "132", "number": "6"},
+      "title": "Blood on the Yukon Trail",
+      "title-note": "part 2 of 4",
+      "author": {
+         "authorized": "Hendryx, James B. (James Beardsley), 1880-1963",
+         "lcna": "no95058559"
+       }
+     },
+     {"issue": {"issue-date": "1930-10-10", "volume": "133", "number": "1"},
+      "title": "Blood on the Yukon Trail",
+      "title-note": "part 3 of 4",
+      "author": {
+         "authorized": "Hendryx, James B. (James Beardsley), 1880-1963",
+         "lcna": "no95058559"
+       }
+     },
+     {"issue": {"issue-date": "1930-10-25", "volume": "133", "number": "2"},
+      "title": "Blood on the Yukon Trail",
+      "title-note": "part 4 of 4",
+      "author": {
+         "authorized": "Hendryx, James B. (James Beardsley), 1880-1963",
+         "lcna": "no95058559"
+       }
+     },
+     {"issue": {"issue-date": "1930-11-10", "volume": "133", "number": "3"},
+      "title": "Red Clark of Tulluco",
+      "title-note": "part 1 of 3",
+      "author": {
+         "authorized": "Young, Gordon, 1886-1948",
+         "lcna": "no95047273"
+      }
+     },
+     {"issue": {"issue-date": "1930-11-25", "volume": "133", "number": "4"},
+      "title": "Red Clark of Tulluco",
+      "title-note": "part 2 of 3",
+      "author": {
+         "authorized": "Young, Gordon, 1886-1948",
+         "lcna": "no95047273"
+      }
+     },
+     {"issue": {"issue-date": "1930-12-10", "volume": "133", "number": "5"},
+      "title": "Red Clark of Tulluco",
+      "title-note": "part 3 of 3",
+      "author": {
+         "authorized": "Young, Gordon, 1886-1948",
+         "lcna": "no95047273"
+      }
      }
    ],
-   "comment": "For more contributions, start with 1957 JanJun",
-   "additional-note": "Active contribution renewals are recorded beginning in the 1955 January-June CCE volume, but the earliest contribution with an active renewal is noted in the 1955 July-December volume.",
+   "comment": "For more contributions, start with 1958 JanJun",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-08-24"
+   "last-updated": "2024-01-07"
 }

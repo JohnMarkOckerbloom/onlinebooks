@@ -1,6 +1,9 @@
 {
    "title": "The Enquirer Southerner",
    "title-note": "1870s Tarboro, NC newspaper",
+   "online": "1",
+   "succeeded-by":
+     [{"id": "tarbncsouth1875", "note": "The Tarborough Southerner"}],
    "rights-statement": "NoC-US",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
@@ -8,5 +11,5 @@
    },
    "acknowledgement": 
       "Thanks to Pete Sullivan for copyright research on this title.",
-   "last-updated": "2023-10-16"
+   "last-updated": "2024-01-11"
 }

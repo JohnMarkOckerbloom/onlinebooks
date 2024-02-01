@@ -10,15 +10,13 @@
    "first-issue":
       {"issue-date": "1923-03", "volume": "1", "number": "1"},
    "first-renewed-issue":
-      {"issue-date": "1928-04", "volume": "11", "number": "4"},
-   "first-renewed-issue-source": "1956-JanJun",
+      {"issue-date": "1930-04", "volume": "15", "number": "4"},
+   "first-renewed-issue-source": "1958-JanJun",
    "first-renewed-contribution": 
       {"issue": {"issue-date": "1929-06", "volume": "13", "number": "6"}},
    "first-renewed-contribution-source": "1957-JanJun",
    "renewed-issue-completeness": "active/autorenewals",
    "renewed-issues": [
-      {"issue-date": "1928-04", "volume": "11", "number": "4"},
-      {"issue-date": "1928-05", "volume": "11", "number": "5"},
       {"issue-date": "1930-04", "volume": "15", "number": "4"},
       {"issue-date": "1930-05", "volume": "15", "number": "5"},
       {"issue-date": "1930-06", "volume": "15", "number": "6"},
@@ -2173,5 +2171,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-02-13"
+   "last-updated": "2024-01-06"
 }

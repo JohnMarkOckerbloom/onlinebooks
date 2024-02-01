@@ -7,17 +7,10 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1928-11-24"}},
-   "first-renewed-contribution-source": "1955-JulDec",
+     {"issue": {"issue-date": "1929-11-04"}},
+   "first-renewed-contribution-source": "1956-JulDec",
    "renewed-contribution-completeness": "active/1940",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1928-11-24"},
-      "title": "The Captain of the Vestris",
-       "author": {
-         "authorized": "McFee, William, 1881-1966",
-         "lcna": "n82053296"
-       }
-     },
      {"issue": {"issue-date": "1929-11-04"},
       "title": "Moving Forward",
       "title-note": "article 1 of 14",
@@ -3960,5 +3953,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-01-01"
+   "last-updated": "2024-01-05"
 }

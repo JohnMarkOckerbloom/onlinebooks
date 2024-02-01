@@ -2,6 +2,7 @@
    "title": "The Red Magazine",
    "title-note": "Harmsworth, 1908-1939",
    "aka": ["Harmsworth's Red Magazine"],
+   "online": "1",
    "contents": [
       {"url": "http://www.philsp.com/homeville/FMI/link.asp?magid=RED",
        "note": "FictionMags (partial; mostly only fiction contributions)"}
@@ -9,60 +10,15 @@
    "first-issue": {"issue-date": "1908-06", "number": "1"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
-   "first-renewed-contribution":
-      {"issue": {"issue-date": "1928-09-21", "number": "476"}}, 
-   "first-renewed-contribution-source": "1956-JanJun",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce",
    "last-issue": {"issue-date": "1939-09", "number": "620"},
    "renewed-contribution-completeness": "active/end",
-   "renewed-contributions": [
-     {"issue": {"issue-date": "1928-09-21", "number": "476"}, 
-      "title": "The Guarded Halo",
-      "title-note": "part 1 of 5",
-      "author": {
-       "authorized": "Pedler, Margaret",
-       "lcna": "nr2002022198"
-      }
-     },
-     {"issue": {"issue-date": "1928-10-05", "number": "477"}, 
-      "title": "The Guarded Halo",
-      "title-note": "part 2 of 5",
-      "author": {
-       "authorized": "Pedler, Margaret",
-       "lcna": "nr2002022198"
-      }
-     },
-     {"issue": {"issue-date": "1928-10-19", "number": "478"}, 
-      "title": "The Guarded Halo",
-      "title-note": "part 3 of 5",
-      "author": {
-       "authorized": "Pedler, Margaret",
-       "lcna": "nr2002022198"
-      }
-     },
-     {"issue": {"issue-date": "1928-11-02", "number": "479"}, 
-      "title": "The Guarded Halo",
-      "title-note": "part 4 of 5",
-      "author": {
-       "authorized": "Pedler, Margaret",
-       "lcna": "nr2002022198"
-      }
-     },
-     {"issue": {"issue-date": "1928-11-30", "number": "481"}, 
-      "title": "The Guarded Halo",
-      "title-note": "part 5 of 5",
-      "author": {
-       "authorized": "Pedler, Margaret",
-       "lcna": "nr2002022198"
-      }
-     }
-   ],
-   "additional-notes": [
+   "additional-note": 
      "This is a British publication.  Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US.",
-     "While the November 16, 1928 issue is not specifically mentioned in the CCE renewal record for 'The Guarded Halo', one should check for an installment of that story before concluding the issue is in the public domain."
-   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-01-15"
+   "last-updated": "2024-01-07"
 }

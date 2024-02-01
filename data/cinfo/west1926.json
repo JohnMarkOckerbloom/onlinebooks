@@ -11,36 +11,13 @@
       {"issue-date": "1938-03", "volume": "43", "number": "3"},
    "first-renewed-issue-source": "1965",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1928-12-12", "volume": "18", "number": "5"}},
+     {"issue": {"issue-date": "1929-01-23", "volume": "19", "number": "2",
+      "cdate": "1929-01-09"}},
    "first-renewed-contribution-source": "1956-JanJun",
    "last-issue":
       {"issue-date": "1953-Fall", "volume": "79", "number": "2"},
-   "renewed-contribution-completeness": "active/1928",
+   "renewed-contribution-completeness": "active/1930",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1928-12-12", "volume": "18", "number": "5"},
-      "title": "Free Grass",
-      "title-note": "part 1 of 6",
-      "author": {
-       "authorized": "Haycox, Ernest, 1899-1950",
-       "lcna": "n79065126"
-      }
-     },
-     {"issue": {"issue-date": "1928-12-26", "volume": "18", "number": "6"},
-      "title": "Free Grass",
-      "title-note": "part 2 of 6",
-      "author": {
-       "authorized": "Haycox, Ernest, 1899-1950",
-       "lcna": "n79065126"
-      }
-     },
-     {"issue": {"issue-date": "1929-01-09", "volume": "19", "number": "1"},
-      "title": "Free Grass",
-      "title-note": "part 3 of 6",
-      "author": {
-       "authorized": "Haycox, Ernest, 1899-1950",
-       "lcna": "n79065126"
-      }
-     },
      {"issue": {"issue-date": "1929-01-23", "volume": "19", "number": "2"},
       "title": "Free Grass",
       "title-note": "part 4 of 6",
@@ -125,11 +102,136 @@
        "authorized": "Haycox, Ernest, 1899-1950",
        "lcna": "n79065126"
       }
+     },
+     {"issue": {"issue-date": "1930-03-05", "volume": "24", "number": "1"},
+      "title": "Fighting Man",
+      "title-note": "part 1 of 4",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1930-03-19", "volume": "24", "number": "2"},
+      "title": "Fighting Man",
+      "title-note": "part 2 of 4",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1930-04-02", "volume": "24", "number": "3"},
+      "title": "Fighting Man",
+      "title-note": "part 3 of 4",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1930-04-16", "volume": "24", "number": "4"},
+      "title": "Fighting Man",
+      "title-note": "part 4 of 4",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1930-05-14", "volume": "24", "number": "6"},
+      "title": "Lin of Pistol Gap",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1930-07-09", "volume": "25", "number": "4"},
+      "title": "Son of the West",
+      "title-note": "part 1 of 3",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1930-07-23", "volume": "25", "number": "5"},
+      "title": "Son of the West",
+      "title-note": "part 2 of 3",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1930-08-06", "volume": "25", "number": "6"},
+      "title": "Son of the West",
+      "title-note": "part 3 of 3",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1930-10-15", "volume": "26", "number": "5"},
+      "title": "Whispering Range",
+      "title-note": "part 1 of 5",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1930-10-29", "volume": "26", "number": "6"},
+      "title": "Whispering Range",
+      "title-note": "part 2 of 5",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1930-11-12", "volume": "27", "number": "1"},
+      "title": "Whispering Range",
+      "title-note": "part 3 of 5",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1930-11-26", "volume": "27", "number": "2"},
+      "title": "Whispering Range",
+      "title-note": "part 4 of 5",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1930-12-10", "volume": "27", "number": "3"},
+      "title": "Whispering Range",
+      "title-note": "part 5 of 5",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1931-01-07", "volume": "27", "number": "5"},
+      "title": "The Fightin' Fool",
+      "author": {
+         "authorized": "Young, Gordon, 1886-1948",
+         "lcna": "no95047273"
+      }
+     },
+     {"issue": {"issue-date": "1931-04-29", "volume": "29", "number": "1"},
+      "title": "A Chip for Death",
+      "note": "Title as given in CCE renewal record.  The Pinkerton contribution to this issue recorded in FictionMags is part 2 of 'White Water Men'.",
+      "author": {
+         "authorized": "Pinkerton, Robert E. (Robert Eugene), 1882-1970",
+         "lcna": "no2003073197"
+       }
+     },
+     {"issue": {"issue-date": "1931-06-24", "volume": "29", "number": "5"},
+      "title": "Ride Out",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-01-01"
+   "last-updated": "2024-01-07"
 }

@@ -6,8 +6,8 @@
       {"issue-date": "1944-01", "volume": "24", "number": "2"},
    "first-renewed-issue-source": "1971",
    "first-renewed-contribution": 
-      {"issue": {"issue-date": "1928-02"}}, 
-   "first-renewed-contribution-source": "1955-JanJun",
+     {"issue": {"issue-date": "1929-02", "cdate": "1929-01-15"}}, 
+   "first-renewed-contribution-source": "1956-JulDec",
    "renewed-issue-completeness": "active/autorenewals",
    "renewed-issues": [
       {"issue-date": "1944-01", "volume": "24", "number": "2"},
@@ -25,60 +25,6 @@
    ],
    "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
-       {"issue": {"issue-date": "1928-02"}, 
-        "title": "Sweet Sixteen",
-        "author": {
-         "authorized": "Duganne, Phyllis, 1899-1976",
-         "lcna": "n90719514"
-        }
-       },
-       {"issue": {"issue-date": "1928-03"}, 
-        "title": "Love and Laughter",
-        "author": {
-         "authorized": "Squier, Emma-Lindsay, 1892-1941",
-         "lcna": "no2007059420"
-        }
-       },
-       {"issue": {"issue-date": "1928-10"}, 
-        "title": "The Studio Murder Mystery",
-        "title-note": "part 1 of 7",
-        "authors": [
-           {"authorized": "Edington, Carmen, 1894-",
-            "lcna": "no93029963"},
-           {"authorized": "Edington, A. C. (Arlo Channing), 1890-1953",
-           "lcna": "no93029955"}
-        ]
-       },
-       {"issue": {"issue-date": "1928-11"}, 
-        "title": "The Studio Murder Mystery",
-        "title-note": "part 2 of 7",
-        "authors": [
-           {"authorized": "Edington, Carmen, 1894-",
-            "lcna": "no93029963"},
-           {"authorized": "Edington, A. C. (Arlo Channing), 1890-1953",
-           "lcna": "no93029955"}
-        ]
-       },
-       {"issue": {"issue-date": "1928-12"}, 
-        "title": "The Studio Murder Mystery",
-        "title-note": "part 3 of 7",
-        "authors": [
-           {"authorized": "Edington, Carmen, 1894-",
-            "lcna": "no93029963"},
-           {"authorized": "Edington, A. C. (Arlo Channing), 1890-1953",
-           "lcna": "no93029955"}
-        ]
-       },
-       {"issue": {"issue-date": "1929-01"}, 
-        "title": "The Studio Murder Mystery",
-        "title-note": "part 4 of 7",
-        "authors": [
-           {"authorized": "Edington, Carmen, 1894-",
-            "lcna": "no93029963"},
-           {"authorized": "Edington, A. C. (Arlo Channing), 1890-1953",
-           "lcna": "no93029955"}
-        ]
-       },
        {"issue": {"issue-date": "1929-02"}, 
         "title": "The Studio Murder Mystery",
         "title-note": "part 5 of 7",
@@ -284,5 +230,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-01-03"
+   "last-updated": "2024-01-05"
 }

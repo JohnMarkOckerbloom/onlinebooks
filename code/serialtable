@@ -152,7 +152,7 @@ my $tables = {
       parser=>\&kbartparser, filter=>\&sortedfilter64}
 };
 
-my $renewals_start = 1928;
+my $renewals_start = $OLBP::currentyear - 95;
 my $renewals_end   = 1963;
 
 my $gapcode = "-||-";

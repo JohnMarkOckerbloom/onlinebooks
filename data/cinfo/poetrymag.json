@@ -3,14 +3,14 @@
    "online": "1",
    "contents": [
       {"url": "https://www.jstor.org/journal/poetry",
-      "note": "JSTOR (full text also available; after 1927 may require subscription or payment)"}
+      "note": "JSTOR (full text also available; after 1928 may require subscription or payment)"}
    ],
    "first-renewed-issue": 
      {"issue-date": "1944-01", "volume": "63", "number": "4"},
    "first-renewed-issue-source": "1971",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1928-08"}},
-   "first-renewed-contribution-source": "1955-JulDec",
+     {"issue": {"issue-date": "1929-07"}},
+   "first-renewed-contribution-source": "1956-JulDec",
    "renewed-issue-completeness": "active/1949",
    "renewed-issues": [
      {"issue-date": "1944-01", "volume": "63", "number": "4"},
@@ -88,82 +88,6 @@
    "comment": "Pick up issue renewals in database.",
    "renewed-contribution-completeness": "active/1942",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1928-08"},
-      "title": "Hour After Dawn",
-       "author": {
-         "authorized": "Riggs, Lynn, 1899-1954",
-         "lcna": "n82013440"
-       }
-     },
-     {"issue": {"issue-date": "1928-08"},
-      "title": "Charger",
-       "author": {
-         "authorized": "Riggs, Lynn, 1899-1954",
-         "lcna": "n82013440"
-       }
-     },
-     {"issue": {"issue-date": "1928-08"},
-      "title": "Bastinado",
-       "author": {
-         "authorized": "Riggs, Lynn, 1899-1954",
-         "lcna": "n82013440"
-       }
-     },
-     {"issue": {"issue-date": "1928-08"},
-      "title": "The Wolves",
-       "author": {
-         "authorized": "Riggs, Lynn, 1899-1954",
-         "lcna": "n82013440"
-       }
-     },
-     {"issue": {"issue-date": "1928-08"},
-      "title": "The Golden Cockerel",
-       "author": {
-         "authorized": "Riggs, Lynn, 1899-1954",
-         "lcna": "n82013440"
-       }
-     },
-     {"issue": {"issue-date": "1928-08"},
-      "title": "Portrait of a Peer",
-       "author": {
-         "authorized": "Riggs, Lynn, 1899-1954",
-         "lcna": "n82013440"
-       }
-     },
-     {"issue": {"issue-date": "1928-08"},
-      "title": "The Fountain",
-       "author": {
-         "authorized": "Riggs, Lynn, 1899-1954",
-         "lcna": "n82013440"
-       }
-     },
-     {"issue": {"issue-date": "1928-09"},
-      "title": "Steel Gang",
-      "author": {
-         "authorized": "Davis, H. L. (Harold Lenoir), 1896-1960",
-         "lcna": "n50036181"
-      }
-     },
-     {"issue": {"issue-date": "1928-09"},
-      "title": "Cloudy Day",
-      "author": {
-         "authorized": "Davis, H. L. (Harold Lenoir), 1896-1960",
-         "lcna": "n50036181"
-      }
-     },
-     {"issue": {"issue-date": "1928-09"},
-      "title": "Rivers to Children",
-      "author": {
-         "authorized": "Davis, H. L. (Harold Lenoir), 1896-1960",
-         "lcna": "n50036181"
-      }
-     },
-     {"issue": {"issue-date": "1928-12"},
-        "title": "From Fire in a Field",
-        "author": {
-         "name": "Hazel Collister Hutchison"
-        }
-     },
      {"issue": {"issue-date": "1929-07"},
        "title": "Vita Nuova",
        "author": {
@@ -1154,5 +1078,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-01-03"
+   "last-updated": "2024-01-05"
 }

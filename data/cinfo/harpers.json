@@ -9,28 +9,14 @@
       "note": "FictionMags (might not include nonfiction contents)"}
    ],
    "first-renewed-issue": 
-     {"issue-date": "1928-02", "volume": "156", "number": "933",
-      "cdate": "1928-01-18"},
-   "first-renewed-issue-source": "1955-JulDec",
+     {"issue-date": "1929-02", "volume": "158", "number": "945",
+      "cdate": "1929-01-18"},
+   "first-renewed-issue-source": "1956-JulDec",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1928-05", "volume": "156", "number": "936"}},
-   "first-renewed-contribution-source": "1955-JanJun",
+     {"issue": {"issue-date": "1929-02", "volume": "158", "number": "945"}},
+   "first-renewed-contribution-source": "1956-JanJun",
    "renewed-issue-completeness": "active/1931",
    "renewed-issues": [
-     {"issue-date": "1928-02", "volume": "156", "number": "933",
-      "cdate": "1928-01-18"},
-     {"issue-date": "1928-03", "volume": "156", "number": "934"},
-     {"issue-date": "1928-04", "volume": "156", "number": "935"},
-     {"issue-date": "1928-05", "volume": "156", "number": "936"},
-     {"issue-date": "1928-06", "volume": "157", "number": "937"},
-     {"issue-date": "1928-07", "volume": "157", "number": "938"},
-     {"issue-date": "1928-08", "volume": "157", "number": "939"},
-     {"issue-date": "1928-09", "volume": "157", "number": "940"},
-     {"issue-date": "1928-10", "volume": "157", "number": "941"},
-     {"issue-date": "1928-11", "volume": "157", "number": "942"},
-     {"issue-date": "1928-12", "volume": "158", "number": "943"},
-     {"issue-date": "1929-01", "volume": "158", "number": "944",
-      "cdate": "1928-12-18"},
      {"issue-date": "1929-02", "volume": "158", "number": "945",
       "cdate": "1929-01-18"},
      {"issue-date": "1929-03", "volume": "158", "number": "946"},
@@ -86,90 +72,6 @@
    ],
    "renewed-contribution-completeness": "active/1929",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1928-05", "volume": "156", "number": "936"},
-        "title": "The Moment",
-        "author": {
-         "authorized": "Aiken, Conrad, 1889-1973",
-         "lcna": "n80060447"
-        }
-     },
-     {"issue": {"issue-date": "1928-06", "volume": "157", "number": "937"},
-        "title": "Never Anything That Fades",
-        "author": {
-         "authorized": "Steele, Wilbur Daniel, 1886-1970",
-         "lcna": "no98007702"
-        }
-     },
-     {"issue": {"issue-date": "1928-06", "volume": "157", "number": "937"},
-        "title": "Spinster and Cat",
-        "author": {
-         "authorized": "Suckow, Ruth, 1892-1960",
-         "lcna": "n88117683"
-        }
-     },
-     {"issue": {"issue-date": "1928-06", "volume": "157", "number": "937"},
-      "title": "A Fatalist",
-      "author": {
-         "authorized": "Montague, C. E. (Charles Edward), 1867-1928",
-         "lcna": "n50004227"
-      }
-     },
-     {"issue": {"issue-date": "1928-08", "volume": "157", "number": "939"},
-        "title": "Satan Am a Snake",
-        "author": {
-         "authorized": "Steele, Wilbur Daniel, 1886-1970",
-         "lcna": "no98007702"
-        }
-     },
-     {"issue": {"issue-date": "1928-09", "volume": "157", "number": "940"},
-      "title": "The Two Business Men",
-      "author": {
-       "authorized": "Johnston, Mary, 1870-1936",
-       "lcna": "n80156622"
-      }
-     },
-     {"issue": {"issue-date": "1928-10", "volume": "157", "number": "941"},
-        "title": "Angel on the Ship",
-        "author": {
-         "authorized": "Wilder, Thornton, 1897-1975",
-         "lcna": "n79062874"
-        }
-     },
-     {"issue": {"issue-date": "1928-10", "volume": "157", "number": "941"},
-        "title": "Mozart and the Gray Steward",
-        "author": {
-         "authorized": "Wilder, Thornton, 1897-1975",
-         "lcna": "n79062874"
-        }
-     },
-     {"issue": {"issue-date": "1928-10", "volume": "157", "number": "941"},
-      "title": "Tu Quoque, Domine",
-      "author": {
-       "authorized": "Hoffenstein, Samuel, 1889-1947",
-       "lcna": "n85151874"
-      }
-     },
-     {"issue": {"issue-date": "1928-10", "volume": "157", "number": "941"},
-      "title": "In the Ways of His Heart",
-      "author": {
-         "authorized": "Montague, C. E. (Charles Edward), 1867-1928",
-         "lcna": "n50004227"
-      }
-     },
-     {"issue": {"issue-date": "1928-11", "volume": "157", "number": "942"},
-      "title": "Blossom and Fruit",
-      "author": {
-       "authorized": "Benét, Stephen Vincent, 1898-1943",
-       "lcna": "n50007691"
-      }
-     },
-     {"issue": {"issue-date": "1928-12", "volume": "158", "number": "943"},
-      "title": "The Novel in the South",
-      "author": {
-       "authorized": "Glasgow, Ellen, 1873-1945",
-       "lcna": "n79099365"
-      }
-     },
      {"issue": {"issue-date": "1929-02", "volume": "158", "number": "945"}, 
         "title": "Florentine Diana",
         "author": {
@@ -359,5 +261,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-12-10"
+   "last-updated": "2024-01-03"
 }

@@ -4,95 +4,37 @@
    "online": "1",
    "preceded-by": [{"id": "rally1917", "note": "The Rally"}],
    "first-issue": 
-           {"issue-date": "1920-06", "volume": "3", "number": "9"},
+     {"issue-date": "1920-06", "volume": "3", "number": "9"},
    "first-renewed-issue": 
-           {"issue-date": "1956-02", "volume": "39", "number": "2"},
+     {"issue-date": "1956-02", "volume": "39", "number": "2"},
+   "first-autorenewed-issue": 
+     {"issue-date": "1964-02", "volume": "47", "number": "2",
+      "cdate": "1964-01-25"},
    "first-renewed-issue-source": "database",
    "first-renewed-contribution": 
-      {"issue": {"issue-date": "1928-02"}},
-   "first-renewed-contribution-source": "1955-JanJun",
-   "renewed-contribution-completeness": "active/1935",
+     {"issue": {"issue-date": "1929-03"}},
+   "first-renewed-contribution-source": "1956-JanJun",
+   "renewed-issue-completeness": "active/autorenewals",
+   "renewed-issues": [
+     {"issue-date": "1956-02", "volume": "39", "number": "2"},
+     {"issue-date": "1956-05", "volume": "39", "number": "5"},
+     {"issue-date": "1957-03", "volume": "40", "number": "3"},
+     {"issue-date": "1957-04", "volume": "40", "number": "4"},
+     {"issue-date": "1957-08", "volume": "40", "number": "8"},
+     {"issue-date": "1959-02", "volume": "42", "number": "2"},
+     {"issue-date": "1959-03", "volume": "42", "number": "3"},
+     {"issue-date": "1959-04", "volume": "42", "number": "4"},
+     {"issue-date": "1959-05", "volume": "42", "number": "5"},
+     {"issue-date": "1959-06", "volume": "42", "number": "6"},
+     {"issue-date": "1959-07", "volume": "42", "number": "7"},
+     {"issue-date": "1959-08", "volume": "42", "number": "8"},
+     {"issue-date": "1959-09", "volume": "42", "number": "9"},
+     {"issue-date": "1959-10", "volume": "42", "number": "10"},
+     {"issue-date": "1959-11", "volume": "42", "number": "11"},
+     {"issue-date": "1959-12", "volume": "42", "number": "12"}
+   ],
+   "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1928-02"},
-      "title": "Upstairs, Downstairs",
-      "title-note": "part 1 of 5",
-      "author": {
-       "authorized": "Sherman, Edith Bishop, 1889-",
-       "lcna": "no96009230"
-      }
-     },
-     {"issue": {"issue-date": "1928-03"},
-      "title": "Upstairs, Downstairs",
-      "title-note": "part 2 of 5",
-      "author": {
-       "authorized": "Sherman, Edith Bishop, 1889-",
-       "lcna": "no96009230"
-      }
-     },
-     {"issue": {"issue-date": "1928-04"},
-      "title": "Upstairs, Downstairs",
-      "title-note": "part 3 of 5",
-      "author": {
-       "authorized": "Sherman, Edith Bishop, 1889-",
-       "lcna": "no96009230"
-      }
-     },
-     {"issue": {"issue-date": "1928-05"},
-      "title": "Upstairs, Downstairs",
-      "title-note": "part 4 of 5",
-      "author": {
-       "authorized": "Sherman, Edith Bishop, 1889-",
-       "lcna": "no96009230"
-      }
-     },
-     {"issue": {"issue-date": "1928-06"},
-      "title": "Upstairs, Downstairs",
-      "title-note": "part 5 of 5",
-      "author": {
-       "authorized": "Sherman, Edith Bishop, 1889-",
-       "lcna": "no96009230"
-      }
-     },
-     {"issue": {"issue-date": "1928-06"},
-      "title": "The Dryad and the Hired Boy",
-      "title-note": "part 1 of 5",
-      "author": {
-       "authorized": "Eliot, Ethel Cook, 1890-1972",
-       "lcna": "n97107379"
-      }
-     },
-     {"issue": {"issue-date": "1928-07"},
-      "title": "The Dryad and the Hired Boy",
-      "title-note": "part 2 of 5",
-      "author": {
-       "authorized": "Eliot, Ethel Cook, 1890-1972",
-       "lcna": "n97107379"
-      }
-     },
-     {"issue": {"issue-date": "1928-08"},
-      "title": "The Dryad and the Hired Boy",
-      "title-note": "part 3 of 5",
-      "author": {
-       "authorized": "Eliot, Ethel Cook, 1890-1972",
-       "lcna": "n97107379"
-      }
-     },
-     {"issue": {"issue-date": "1928-09"},
-      "title": "The Dryad and the Hired Boy",
-      "title-note": "part 4 of 5",
-      "author": {
-       "authorized": "Eliot, Ethel Cook, 1890-1972",
-       "lcna": "n97107379"
-      }
-     },
-     {"issue": {"issue-date": "1928-10"},
-      "title": "The Dryad and the Hired Boy",
-      "title-note": "part 5 of 5",
-      "author": {
-       "authorized": "Eliot, Ethel Cook, 1890-1972",
-       "lcna": "n97107379"
-      }
-     },
      {"issue": {"issue-date": "1929-03"},
       "title": "Two Girls of Japan",
       "author": {
@@ -114,6 +56,13 @@
       }
      },
      {"issue": {"issue-date": "1933-08"},
+      "title": "Beth's Game",
+      "author": {
+       "authorized": "Corbett, Elizabeth Frances, 1887-1981",
+       "lcna": "n50016379"
+      }
+     },
+     {"issue": {"issue-date": "1933-08"},
         "title": "The Rabbit",
         "author": {
          "authorized": "Ficke, Arthur Davison, 1883-1945",
@@ -127,15 +76,9 @@
        "lcna": "n50023775"
       }
      },
-     {"issue": {"issue-date": "1933-08"},
-      "title": "Beth's Game",
-      "author": {
-       "authorized": "Corbett, Elizabeth Frances, 1887-1981",
-       "lcna": "n50016379"
-      }
-     },
-     {"issue": {"issue-date": "1933-09"},
+     {"issue": {"issue-date": "1933-11"},
       "title": "Mrs. Shakespeare",
+      "note": "CCE renewal record states that this was in the September 1933 issue, but it actually appeared in the November issue.",
       "author": {
        "authorized": "Corbett, Elizabeth Frances, 1887-1981",
        "lcna": "n50016379"
@@ -156,17 +99,10 @@
       }
      },
      {"issue": {"issue-date": "1934-05"},
-      "title": "A Blue Cheeked Apron With Strings",
+      "title": "A Blue Checked Apron With Strings",
       "author": {
        "authorized": "Weber, Lenora Mattingly, 1895-1971",
        "lcna": "n50023775"
-      }
-     },
-     {"issue": {"issue-date": "1934-07"},
-      "title": "Guests on Gaspe",
-      "author": {
-       "authorized": "Jaques, Florence Page, 1890-1972",
-       "lcna": "n85158165"
       }
      },
      {"issue": {"issue-date": "1934-07"},
@@ -174,6 +110,13 @@
       "author": {
        "authorized": "Corbett, Elizabeth Frances, 1887-1981",
        "lcna": "n50016379"
+      }
+     },
+     {"issue": {"issue-date": "1934-07"},
+      "title": "Guests in Gaspe",
+      "author": {
+       "authorized": "Jaques, Florence Page, 1890-1972",
+       "lcna": "n85158165"
       }
      },
      {"issue": {"issue-date": "1934-11"},
@@ -191,23 +134,558 @@
       }
      },
      {"issue": {"issue-date": "1935-11"},
-      "title": "The Pageant of Buffalo Forks",
+      "title": "The Pageant at Buffalo Forks",
       "author": {
        "authorized": "Weber, Lenora Mattingly, 1895-1971",
        "lcna": "n50023775"
       }
      },
      {"issue": {"issue-date": "1935-12"}, 
-      "title": "Christmas in Paradise",
+      "title": "Christmas on Paradise",
       "author": {
        "authorized": "Coffin, Robert P. Tristram (Robert Peter Tristram), 1892-1955",
        "lcna": "n50030030"
       }
+     },
+     {"issue": {"issue-date": "1939-02"},
+      "title": "Matterhorn Meadows",
+      "author": {
+       "authorized": "Jaques, Florence Page, 1890-1972",
+       "lcna": "n85158165"
+      }
+     },
+     {"issue": {"issue-date": "1939-04"},
+      "title": "Object Lesson",
+      "author": {
+        "authorized": "Hay, Sara Henderson",
+        "lcna": "n82051047"
+       }
+     },
+     {"issue": {"issue-date": "1939-09"}, 
+      "title": "Winter Cottage",
+      "title-note": "part 1 of 8",
+       "author": {
+         "authorized": "Brink, Carol Ryrie, 1895-1981",
+         "lcna": "n50041398"
+       }
+     },
+     {"issue": {"issue-date": "1939-10"}, 
+      "title": "Winter Cottage",
+      "title-note": "part 2 of 8",
+       "author": {
+         "authorized": "Brink, Carol Ryrie, 1895-1981",
+         "lcna": "n50041398"
+       }
+     },
+     {"issue": {"issue-date": "1939-11"}, 
+      "title": "Winter Cottage",
+      "title-note": "part 3 of 8",
+       "author": {
+         "authorized": "Brink, Carol Ryrie, 1895-1981",
+         "lcna": "n50041398"
+       }
+     },
+     {"issue": {"issue-date": "1939-12"}, 
+      "title": "Winter Cottage",
+      "title-note": "part 4 of 8",
+       "author": {
+         "authorized": "Brink, Carol Ryrie, 1895-1981",
+         "lcna": "n50041398"
+       }
+     },
+     {"issue": {"issue-date": "1940-01"}, 
+      "title": "Winter Cottage",
+      "title-note": "part 5 of 8",
+       "author": {
+         "authorized": "Brink, Carol Ryrie, 1895-1981",
+         "lcna": "n50041398"
+       }
+     },
+     {"issue": {"issue-date": "1940-02"}, 
+      "title": "Winter Cottage",
+      "title-note": "part 6 of 8",
+       "author": {
+         "authorized": "Brink, Carol Ryrie, 1895-1981",
+         "lcna": "n50041398"
+       }
+     },
+     {"issue": {"issue-date": "1940-03"}, 
+      "title": "Winter Cottage",
+      "title-note": "part 7 of 8",
+       "author": {
+         "authorized": "Brink, Carol Ryrie, 1895-1981",
+         "lcna": "n50041398"
+       }
+     },
+     {"issue": {"issue-date": "1940-04"}, 
+      "title": "Winter Cottage",
+      "title-note": "part 8 of 8",
+       "author": {
+         "authorized": "Brink, Carol Ryrie, 1895-1981",
+         "lcna": "n50041398"
+       }
+     },
+     {"issue": {"issue-date": "1941-08"},
+      "title": "Little Jay",
+      "title-note": "from Birds Across the Sky",
+      "author": {
+       "authorized": "Jaques, Florence Page, 1890-1972",
+       "lcna": "n85158165"
+      }
+     },
+     {"issue": {"issue-date": "1944-01"}, 
+      "title": "Gypsy Magic",
+       "author": {
+         "authorized": "Coatsworth, Elizabeth, 1893-1986",
+         "lcna": "n79026738"
+       }
+     },
+     {"issue": {"issue-date": "1944-02"}, 
+      "title": "Indian Mound Farm",
+       "author": {
+         "authorized": "Coatsworth, Elizabeth, 1893-1986",
+         "lcna": "n79026738"
+       }
+     },
+     {"issue": {"issue-date": "1944-03"}, 
+      "title": "Pamelia Saves the Day",
+       "author": {
+         "authorized": "Coatsworth, Elizabeth, 1893-1986",
+         "lcna": "n79026738"
+       }
+     },
+     {"issue": {"issue-date": "1944-04"}, 
+      "title": "Livy Proves His Mettle",
+       "author": {
+         "authorized": "Coatsworth, Elizabeth, 1893-1986",
+         "lcna": "n79026738"
+       }
+     },
+     {"issue": {"issue-date": "1944-05"}, 
+      "title": "The Indian Pipe",
+       "author": {
+         "authorized": "Coatsworth, Elizabeth, 1893-1986",
+         "lcna": "n79026738"
+       }
+     },
+     {"issue": {"issue-date": "1945-01"}, 
+      "title": "The Spruce Point Mystery",
+       "author": {
+         "authorized": "Leighton, Margaret Carver",
+         "lcna": "n50048265"
+       }
+     },
+     {"issue": {"issue-date": "1945-01"}, 
+      "title": "Lucy Ellen's Heyday",
+      "title-note": "installment?",
+      "note": "A 1973 renewal for the 1945 book of this title mentions it was first published serially in the January-July issues of The American Girl, and might cover these installments.",
+       "author": {
+         "authorized": "Wright, Frances Fitzpatrick, 1897-1982",
+         "lcna": "n85195134"
+       }
+     },
+     {"issue": {"issue-date": "1945-02"}, 
+      "title": "Teamwork",
+       "author": {
+         "name": "Martha Lee Poston"
+       }
+     },
+     {"issue": {"issue-date": "1945-02"}, 
+      "title": "Lucy Ellen's Heyday",
+      "title-note": "installment?",
+      "note": "A 1973 renewal for the 1945 book of this title mentions it was first published serially in the January-July issues of The American Girl, and might cover these installments.",
+       "author": {
+         "authorized": "Wright, Frances Fitzpatrick, 1897-1982",
+         "lcna": "n85195134"
+       }
+     },
+     {"issue": {"issue-date": "1945-03"}, 
+      "title": "Lucy Ellen's Heyday",
+      "title-note": "installment?",
+      "note": "A 1973 renewal for the 1945 book of this title mentions it was first published serially in the January-July issues of The American Girl, and might cover these installments.",
+       "author": {
+         "authorized": "Wright, Frances Fitzpatrick, 1897-1982",
+         "lcna": "n85195134"
+       }
+     },
+     {"issue": {"issue-date": "1945-04"}, 
+      "title": "Lucy Ellen's Heyday",
+      "title-note": "installment?",
+      "note": "A 1973 renewal for the 1945 book of this title mentions it was first published serially in the January-July issues of The American Girl, and might cover these installments.",
+       "author": {
+         "authorized": "Wright, Frances Fitzpatrick, 1897-1982",
+         "lcna": "n85195134"
+       }
+     },
+     {"issue": {"issue-date": "1945-05"}, 
+      "title": "Lucy Ellen's Heyday",
+      "title-note": "installment?",
+      "note": "A 1973 renewal for the 1945 book of this title mentions it was first published serially in the January-July issues of The American Girl, and might cover these installments.",
+       "author": {
+         "authorized": "Wright, Frances Fitzpatrick, 1897-1982",
+         "lcna": "n85195134"
+       }
+     },
+     {"issue": {"issue-date": "1945-06"}, 
+      "title": "Lucy Ellen's Heyday",
+      "title-note": "installment?",
+      "note": "A 1973 renewal for the 1945 book of this title mentions it was first published serially in the January-July issues of The American Girl, and might cover these installments.",
+       "author": {
+         "authorized": "Wright, Frances Fitzpatrick, 1897-1982",
+         "lcna": "n85195134"
+       }
+     },
+     {"issue": {"issue-date": "1945-07"}, 
+      "title": "Lucy Ellen's Heyday",
+      "title-note": "installment?",
+      "note": "A 1973 renewal for the 1945 book of this title mentions it was first published serially in the January-July issues of The American Girl, and might cover these installments.",
+       "author": {
+         "authorized": "Wright, Frances Fitzpatrick, 1897-1982",
+         "lcna": "n85195134"
+       }
+     },
+     {"issue": {"issue-date": "1945-07"}, 
+      "title": "Strange House",
+       "author": {
+         "name": "Flo Penglase"
+       }
+     },
+     {"issue": {"issue-date": "1946-04"}, 
+      "title": "Bermuda Holiday",
+       "author": {
+         "authorized": "Girl Scouts of the United States of America",
+         "lcna": "n79123998"
+       }
+     },
+     {"issue": {"issue-date": "1946-05"}, 
+      "title": "Jenny Sees Spots",
+       "author": {
+         "name": "Bea Chalmers"
+       }
+     },
+     {"issue": {"issue-date": "1947-01"}, 
+      "title": "A Touch of Arab",
+       "author": {
+         "name": "Vivien Breck"
+       }
+     },
+     {"issue": {"issue-date": "1947-08"}, 
+      "title": "Fool Dog",
+       "author": {
+         "name": "Vivien Breck"
+       }
+     },
+     {"issue": {"issue-date": "1947-11"}, 
+      "title": "Tall as the Stars",
+       "author": {
+         "authorized": "Lambert, Janet",
+         "lcna": "n50039769"
+       }
+     },
+     {"issue": {"issue-date": "1948-10"}, 
+      "title": "Excuse It, Please",
+       "author": {
+         "authorized": "Wright, Frances Fitzpatrick, 1897-1982",
+         "lcna": "n85195134"
+       }
+     },
+     {"issue": {"issue-date": "1949-01"}, 
+      "title": "But Not Jeff",
+       "author": {
+         "name": "Elizabeth Eicher"
+       }
+     },
+     {"issue": {"issue-date": "1949-03"}, 
+      "title": "Two for the Show",
+       "author": {
+         "authorized": "Newcomb, Ellsworth",
+         "lcna": "n85194481"
+       }
+     },
+     {"issue": {"issue-date": "1949-07"}, 
+      "title": "Second Rater",
+       "author": {
+         "name": "Lee Knight"
+       }
+     },
+     {"issue": {"issue-date": "1949-08"}, 
+      "title": "Girl Without a Country",
+       "author": {
+         "authorized": "Knight, Ruth Adams, 1898-1974",
+         "lcna": "no96012950"
+       }
+     },
+     {"issue": {"issue-date": "1949-10"}, 
+      "title": "Terry and the Team",
+       "author": {
+         "authorized": "Knapp, Sally Elizabeth, 1918-",
+         "lcna": "n81076851"
+       }
+     },
+     {"issue": {"issue-date": "1949-12"},
+       "title": "Christmas in Carthage",
+       "author": {
+        "authorized": "Gilbert, Nan, 1908-1988",
+        "lcna": "n80006276"
+      }
+     },
+     {"issue": {"issue-date": "1950-02"}, 
+      "title": "Best Foot Forward",
+       "author": {
+         "authorized": "Wright, Frances Fitzpatrick, 1897-1982",
+         "lcna": "n85195134"
+       }
+     },
+     {"issue": {"issue-date": "1950-09"}, 
+      "title": "Kay Uses the Evidence",
+       "author": {
+         "comment": "Not sure if this is Johnson, Martha, 1911-2002",
+         "name": "Martha Johnson"
+       }
+     },
+     {"issue": {"issue-date": "1950-11"}, 
+      "title": "On Trial",
+       "author": {
+         "authorized": "Hoffmann, Eleanor, 1895-",
+         "lcna": "no00028573"
+       }
+     },
+     {"issue": {"issue-date": "1950-12"}, 
+      "title": "Let Nothing You Dismay",
+       "author": {
+         "authorized": "Wright, Frances Fitzpatrick, 1897-1982",
+         "lcna": "n85195134"
+       }
+     },
+     {"issue": {"issue-date": "1951-05"},
+       "title": "That Girl in White",
+       "author": {
+        "authorized": "Gilbert, Nan, 1908-1988",
+        "lcna": "n80006276"
+      }
+     },
+     {"issue": {"issue-date": "1951-10"}, 
+      "title": "Sorority",
+      "title-note": "short story",
+       "author": {
+         "name": "Alice Hogan"
+       }
+     },
+     {"issue": {"issue-date": "1951-11"},
+       "title": "Double Date",
+       "title-note": "part 1",
+       "author": {
+        "authorized": "Du Jardin, Rosamond, 1902-1963",
+        "lcna": "n50052506"
+      }
+     },
+     {"issue": {"issue-date": "1951-12"},
+       "title": "Double Date",
+       "title-note": "part 2",
+       "note": "Renewal record says this part appeared in the November 1951 issue, but from context it appears that the December 1951 issue was intended.",
+       "author": {
+        "authorized": "Du Jardin, Rosamond, 1902-1963",
+        "lcna": "n50052506"
+      }
+     },
+     {"issue": {"issue-date": "1952-01"},
+       "title": "Double Date",
+       "title-note": "part 3",
+       "author": {
+        "authorized": "Du Jardin, Rosamond, 1902-1963",
+        "lcna": "n50052506"
+      }
+     },
+     {"issue": {"issue-date": "1953-01"},
+       "title": "Interview With Mister Barrie",
+       "author": {
+        "authorized": "Gilbert, Nan, 1908-1988",
+        "lcna": "n80006276"
+      }
+     },
+     {"issue": {"issue-date": "1953-07"},
+       "title": "Goal for Jill",
+       "title-note": "part 1 of 3",
+       "author": {
+        "authorized": "Walden, Amelia Elizabeth",
+        "lcna": "n50022610"
+      }
+     },
+     {"issue": {"issue-date": "1953-08"},
+       "title": "Goal for Jill",
+       "title-note": "part 2 of 3",
+       "author": {
+        "authorized": "Walden, Amelia Elizabeth",
+        "lcna": "n50022610"
+      }
+     },
+     {"issue": {"issue-date": "1953-09"},
+       "title": "Goal for Jill",
+       "title-note": "part 3 of 3",
+       "author": {
+        "authorized": "Walden, Amelia Elizabeth",
+        "lcna": "n50022610"
+      }
+     },
+     {"issue": {"issue-date": "1954-03"},
+       "title": "What's the Answer?",
+       "author": {
+        "authorized": "Gilbert, Nan, 1908-1988",
+        "lcna": "n80006276"
+      }
+     },
+     {"issue": {"issue-date": "1955-07"}, 
+      "title": "Prowlers in the Night",
+       "author": {
+         "name": "Gladys V. Bauer"
+       }
+     },
+     {"issue": {"issue-date": "1955-07"}, 
+      "title": "The Sure Way to Please Their Taste",
+       "author": {
+         "name": "Applegate Advertising Agency, Inc."
+       }
+     },
+     {"issue": {"issue-date": "1955-11"}, 
+      "title": "The Slamming Door",
+       "author": {
+         "name": "Janet Roberts"
+       }
+     },
+     {"issue": {"issue-date": "1956-01"},
+       "title": "Skis for a Snow Bunny",
+       "author": {
+        "authorized": "Halacy, D. S. (Daniel Stephen), 1919-2002",
+        "lcna": "n80010118"
+      }
+     },
+     {"issue": {"issue-date": "1957-07"},
+       "title": "Dust in the Gold Sack",
+       "title-note": "part 1 of 6",
+       "author": {
+        "authorized": "Miller, Helen Markley",
+        "lcna": "n50033677"
+      }
+     },
+     {"issue": {"issue-date": "1957-08"},
+       "title": "Dust in the Gold Sack",
+       "title-note": "part 2 of 6",
+       "author": {
+        "authorized": "Miller, Helen Markley",
+        "lcna": "n50033677"
+      }
+     },
+     {"issue": {"issue-date": "1957-09"},
+       "title": "Dust in the Gold Sack",
+       "title-note": "part 3 of 6",
+       "author": {
+        "authorized": "Miller, Helen Markley",
+        "lcna": "n50033677"
+      }
+     },
+     {"issue": {"issue-date": "1957-10"},
+       "title": "Dust in the Gold Sack",
+       "title-note": "part 4 of 6",
+       "author": {
+        "authorized": "Miller, Helen Markley",
+        "lcna": "n50033677"
+      }
+     },
+     {"issue": {"issue-date": "1957-11"},
+       "title": "Dust in the Gold Sack",
+       "title-note": "part 5 of 6",
+       "author": {
+        "authorized": "Miller, Helen Markley",
+        "lcna": "n50033677"
+      }
+     },
+     {"issue": {"issue-date": "1957-12"},
+       "title": "Dust in the Gold Sack",
+       "title-note": "part 6 of 6",
+       "author": {
+        "authorized": "Miller, Helen Markley",
+        "lcna": "n50033677"
+      }
+     },
+     {"issue": {"issue-date": "1958-06"}, 
+      "title": "Even Tall Girls Go for 'Half-Pints'",
+       "author": {
+         "name": "Applegate Advertising Agency, Inc."
+       }
+     },
+     {"issue": {"issue-date": "1959-01"}, 
+      "title": "Queen of Roses",
+       "author": {
+         "authorized": "Knight, Ruth Adams, 1898-1974",
+         "lcna": "no96012950"
+       }
+     },
+     {"issue": {"issue-date": "1960-06"}, 
+      "title": "But Mother, We Don’t Need Paraffin! Ball Dome Lids Seal Better!",
+       "author": {
+         "name": "Applegate Advertising Agency, Inc."
+       }
+     },
+     {"issue": {"issue-date": "1961-07"}, 
+      "title": "The Weeping Eye",
+      "title-note": "part 1 of 6",
+       "author": {
+         "authorized": "Clark, Margaret Goff",
+         "lcna": "n50038691"
+       }
+     },
+     {"issue": {"issue-date": "1961-08"}, 
+      "title": "The Weeping Eye",
+      "title-note": "part 2 of 6",
+       "author": {
+         "authorized": "Clark, Margaret Goff",
+         "lcna": "n50038691"
+       }
+     },
+     {"issue": {"issue-date": "1961-09"}, 
+      "title": "The Weeping Eye",
+      "title-note": "part 3 of 6",
+       "author": {
+         "authorized": "Clark, Margaret Goff",
+         "lcna": "n50038691"
+       }
+     },
+     {"issue": {"issue-date": "1961-10"}, 
+      "title": "The Weeping Eye",
+      "title-note": "part 4 of 6",
+       "author": {
+         "authorized": "Clark, Margaret Goff",
+         "lcna": "n50038691"
+       }
+     },
+     {"issue": {"issue-date": "1961-11"}, 
+      "title": "The Weeping Eye",
+      "title-note": "part 5 of 6",
+       "author": {
+         "authorized": "Clark, Margaret Goff",
+         "lcna": "n50038691"
+       }
+     },
+     {"issue": {"issue-date": "1961-12"}, 
+      "title": "The Weeping Eye",
+      "title-note": "part 6 of 6",
+       "author": {
+         "authorized": "Clark, Margaret Goff",
+         "lcna": "n50038691"
+       }
      }
+   ],
+   "comment": "Continue with database search",
+   "additional-notes": [
+      "A 1973 renewal record for the 1946 book 'Riding High' by Lenora Mattingly Weber mentions that it was previously published in The American Girl, but does not mention when it was published there.  The renewal might cover portions published in 1945 or 1946.",
+      "A 1980 renewal record for the 1952 book 'Double Date' by Rosamond du Jardin mentions that it was published in The American Girl, but does not mention when it was published there.  The renewal might cover portions published in 1952. Portions published in 1951 also had renewals specifically filed, as seen above.",
+      "A 1981 renewal record for the 1953 book 'Girl of Urbino' by Mary K. Corbett mentions that it is an enlarged version of a story serialized in The American Girl in 4 parts under the title 'Ware Falcon'.  The renewal might cover portions published in 1953.",
+      "A 1987 renewal record for the 1959 book 'Queen of the Courts' by Amelia Elizabeth Walden mentions that it was previously published in The American Girl, but does not mention when it was published there.  The renewal might cover portions published in 1959.",
+      "Multiple 1991 renewals for 1963 books that consist of selections from The American Girl might cover contributions published in the magazine in 1963."
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-06-07"
+   "last-updated": "2024-01-05"
 }

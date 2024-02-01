@@ -4,61 +4,13 @@
            "American Legion Magazine"],
    "online": "1",
    "first-renewed-issue":
-       {"issue-date": "1944-11", "volume": "37", "number": "5"},
+     {"issue-date": "1944-11", "volume": "37", "number": "5"},
    "first-renewed-issue-source": "1972",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1928-08"}}, 
+     {"issue": {"issue-date": "1929-02", "cdate": "1929-01-25"}}, 
    "first-renewed-contribution-source": "1956-JanJun",
    "renewed-contribution-completeness": "active/1949",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1928-08"}, 
-       "title": "The Man in the White Slicker",
-       "title-note": "part 1 of 7",
-       "author": {
-        "authorized": "Nason, Leonard H. (Leonard Hastings), 1895-1970",
-        "lcna": "no2002077800"
-       }
-     },
-     {"issue": {"issue-date": "1928-09"}, 
-       "title": "The Man in the White Slicker",
-       "title-note": "part 2 of 7",
-       "author": {
-        "authorized": "Nason, Leonard H. (Leonard Hastings), 1895-1970",
-        "lcna": "no2002077800"
-       }
-     },
-     {"issue": {"issue-date": "1928-10"}, 
-       "title": "The Man in the White Slicker",
-       "title-note": "part 3 of 7",
-       "author": {
-        "authorized": "Nason, Leonard H. (Leonard Hastings), 1895-1970",
-        "lcna": "no2002077800"
-       }
-     },
-     {"issue": {"issue-date": "1928-11"}, 
-       "title": "The Man in the White Slicker",
-       "title-note": "part 4 of 7",
-       "author": {
-        "authorized": "Nason, Leonard H. (Leonard Hastings), 1895-1970",
-        "lcna": "no2002077800"
-       }
-     },
-     {"issue": {"issue-date": "1928-12"}, 
-       "title": "The Man in the White Slicker",
-       "title-note": "part 5 of 7",
-       "author": {
-        "authorized": "Nason, Leonard H. (Leonard Hastings), 1895-1970",
-        "lcna": "no2002077800"
-       }
-     },
-     {"issue": {"issue-date": "1929-01"}, 
-       "title": "The Man in the White Slicker",
-       "title-note": "part 6 of 7",
-       "author": {
-        "authorized": "Nason, Leonard H. (Leonard Hastings), 1895-1970",
-        "lcna": "no2002077800"
-       }
-     },
      {"issue": {"issue-date": "1929-02"}, 
        "title": "The Man in the White Slicker",
        "title-note": "part 7 of 7",
@@ -353,5 +305,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-01-02"
+   "last-updated": "2024-01-06"
 }

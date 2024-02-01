@@ -7,28 +7,14 @@
    ],
    "first-issue": {"issue-date": "1920-04", "volume": "1", "number": "1"},
    "first-renewed-issue": 
-           {"issue-date": "1928-02", "volume": "10", "number": "12",
-            "cdate": "1928-01-12"},           
-   "first-renewed-issue-source": "1955-JulDec",
+           {"issue-date": "1929-02", "volume": "11", "number": "12",
+            "cdate": "1929-01-12"},
+   "first-renewed-issue-source": "1956-JulDec",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1928-02", "volume": "10", "number": "12"}},
-   "first-renewed-contribution-source": "1955-JanJun",
+     {"issue": {"issue-date": "1929-02", "volume": "11", "number": "12"}},
+   "first-renewed-contribution-source": "1956-JanJun",
    "renewed-issue-completeness": "active/1931",
    "renewed-issues": [
-           {"issue-date": "1928-02", "volume": "10", "number": "12",
-            "cdate": "1928-01-12"},           
-           {"issue-date": "1928-03", "volume": "11", "number": "1"},           
-           {"issue-date": "1928-04", "volume": "11", "number": "2"},  
-           {"issue-date": "1928-05", "volume": "11", "number": "3"},  
-           {"issue-date": "1928-06", "volume": "11", "number": "4"},
-           {"issue-date": "1928-07", "volume": "11", "number": "5"}, 
-           {"issue-date": "1928-08", "volume": "11", "number": "6"}, 
-           {"issue-date": "1928-09", "volume": "11", "number": "7"}, 
-           {"issue-date": "1928-10", "volume": "11", "number": "8"}, 
-           {"issue-date": "1928-11", "volume": "11", "number": "9"},
-           {"issue-date": "1928-12", "volume": "11", "number": "10"},
-           {"issue-date": "1929-01", "volume": "11", "number": "11",
-            "cdate": "1928-12-12"},
            {"issue-date": "1929-02", "volume": "11", "number": "12",
             "cdate": "1929-01-12"},
            {"issue-date": "1929-03", "volume": "12", "number": "1"},           
@@ -86,78 +72,6 @@
    ],
    "renewed-contribution-completeness": "active/1931",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1928-02", "volume": "10", "number": "12"},
-      "title": "Yellow Shadows",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1928-02", "volume": "10", "number": "12"},
-      "title": "Poisonville",
-      "title-note": "part 4 of 4",
-      "note": "Title as given in CCE renewal record.  FictionMags gives the title of Hammett's contribution to this issue as 'Red Harvest: The 19th Murder', fourth in a monthly series of stories with titles headed 'Red Harvest'.",
-      "author": {
-       "authorized": "Hammett, Dashiell, 1894-1961",
-       "lcna": "n80016943"
-      }
-     },
-     {"issue": {"issue-date": "1928-03", "volume": "11", "number": "1"},
-      "title": "Whispering Feet",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1928-04", "volume": "11", "number": "2"},
-      "title": "Snow Bird",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1928-05", "volume": "11", "number": "3"},
-      "title": "Out of the Shadows",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1928-08", "volume": "11", "number": "6"},
-      "title": "Fangs of Fate",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1928-09", "volume": "11", "number": "7"},
-      "title": "The Devil's Deputy",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1928-11", "volume": "11", "number": "9"},
-      "title": "The Curse of the Killers",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1928-12", "volume": "11", "number": "10"},
-      "title": "The Next Stiff",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1929-01", "volume": "11", "number": "11"},
-      "title": "One Crook to Another",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
      {"issue": {"issue-date": "1929-02", "volume": "11", "number": "12"},
       "title": "Bracelets for Two",
       "author": {
@@ -557,5 +471,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-12-09"
+   "last-updated": "2024-01-03"
 }

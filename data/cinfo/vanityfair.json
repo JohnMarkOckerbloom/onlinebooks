@@ -2,28 +2,14 @@
    "title": "Vanity Fair",
    "online": "1",
    "first-renewed-issue": 
-      {"issue-date": "1928-02", "volume": "29", "number": "6",
-       "cdate": "1928-01-20"}, 
-   "first-renewed-issue-source": "1955-JulDec",
+      {"issue-date": "1929-02", "volume": "31", "number": "6",
+       "cdate": "1929-01-18"},
+   "first-renewed-issue-source": "1956-JulDec",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1928-02"}},
-   "first-renewed-contribution-source": "1955-JanJun",
+     {"issue": {"issue-date": "1929-03"}},
+   "first-renewed-contribution-source": "1956-JulDec",
    "renewed-issue-completeness": "active/1931",
    "renewed-issues": [
-      {"issue-date": "1928-02", "volume": "29", "number": "6",
-       "cdate": "1928-01-20"}, 
-      {"issue-date": "1928-03", "volume": "30", "number": "1"},
-      {"issue-date": "1928-04", "volume": "30", "number": "2"},
-      {"issue-date": "1928-05", "volume": "30", "number": "3"},
-      {"issue-date": "1928-06", "volume": "30", "number": "4"},
-      {"issue-date": "1928-07", "volume": "30", "number": "5"},
-      {"issue-date": "1928-08", "volume": "30", "number": "6"},
-      {"issue-date": "1928-09", "volume": "31", "number": "1"},
-      {"issue-date": "1928-10", "volume": "31", "number": "2"},
-      {"issue-date": "1928-11", "volume": "31", "number": "3"},
-      {"issue-date": "1928-12", "volume": "31", "number": "4"},
-      {"issue-date": "1929-01", "volume": "31", "number": "5",
-       "cdate": "1928-12-20"},
       {"issue-date": "1929-02", "volume": "31", "number": "6",
        "cdate": "1929-01-18"},
       {"issue-date": "1929-03", "volume": "32", "number": "1"},
@@ -79,62 +65,6 @@
    ],
    "renewed-contribution-completeness": "active/1933",
    "renewed-contributions" : [
-     {"issue": {"issue-date": "1928-02"},
-      "title": "On Being a Country Editor",
-      "author": {
-       "authorized": "Anderson, Sherwood, 1876-1941",
-       "lcna": "n79045519"
-      }
-     },
-     {"issue": {"issue-date": "1928-04"},
-      "title": "A Complete Handbook of Opinion",
-      "author": {
-       "authorized": "Anderson, Sherwood, 1876-1941",
-       "lcna": "n79045519"
-      }
-     },
-     {"issue": {"issue-date": "1928-04"},
-      "title": "Just Walking",
-      "author": {
-       "authorized": "Anderson, Sherwood, 1876-1941",
-       "lcna": "n79045519"
-      }
-     },
-     {"issue": {"issue-date": "1928-06"},
-      "title": "Small Town Notes",
-      "author": {
-       "authorized": "Anderson, Sherwood, 1876-1941",
-       "lcna": "n79045519"
-      }
-     },
-     {"issue": {"issue-date": "1928-07"},
-        "title": "The Slightly Murderous Halinglers",
-        "author": {
-         "authorized": "Pearson, Edmund Lester, 1880-1937",
-         "lcna": "n50012420"
-        }
-     },
-     {"issue": {"issue-date": "1928-09"},
-        "title": "The Confessions of Eleanor Burton",
-        "author": {
-         "authorized": "Pearson, Edmund Lester, 1880-1937",
-         "lcna": "n50012420"
-        }
-     },
-     {"issue": {"issue-date": "1928-10"},
-        "title": "Long Distance",
-        "author": {
-          "authorized": "Parker, Dorothy, 1893-1967",
-          "lcna": "n50050331"
-        }
-     },
-     {"issue": {"issue-date": "1928-12"},
-        "title": "Fashions in Love",
-        "author": {
-         "authorized": "Huxley, Aldous, 1894-1963",
-         "lcna": "n80057246"
-        }
-     },
      {"issue": {"issue-date": "1929-03"},
       "title": "Why They Got Married",
       "author": {
@@ -425,9 +355,10 @@
       }
      }
    ],
+   "additional-note": "Active contribution renewals are recorded beginning in the 1956 January-June CCE volume, but the earliest actively renewed contribution is noted in the 1956 July-December volume.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-08-24"
+   "last-updated": "2024-01-03"
 }

@@ -8,8 +8,8 @@
    "first-renewed-issue": {"volume": "5", "cdate": "1936"},
    "first-renewed-issue-source": "1964-JulDec",
    "first-renewed-contribution":
-      {"issue": {"volume": "2", "issue-date": "1928"}},
-   "first-renewed-contribution-source": "1955-JulDec",
+      {"issue": {"cdate": "1929", "volume": "3"}},
+   "first-renewed-contribution-source": "1956-JulDec",
    "last-issue": {"volume": "5", "cdate": "1936"},
    "additional-note": 
        "The second volume was titled 'The Second American Caravan'.  The third was titled 'The New American Caravan'.  The fifth, and last volume we know of, was titled 'The New Caravan'. That volume was renewed under Books, and not under Periodicals.",
@@ -19,13 +19,6 @@
    ],
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1928", "volume": "2"}, 
-      "title": "Night Cries",
-      "author": {
-         "authorized": "Stevenson, Philip, 1896-1965",
-         "lcna": "no2002007736"
-      }
-     },
      {"issue": {"cdate": "1929", "volume": "3"}, 
         "title": "Midsummer Passion",
         "author": {
@@ -90,10 +83,9 @@
         }
      }
    ],
-   "comment": "Pick up again with 1963, where you'll see renewals for the 1936 volumes.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-08-14"
+   "last-updated": "2024-01-04"
 }

@@ -2,16 +2,12 @@
    "title": "American Federal Tax Reports",
    "online": "1",
    "first-renewed-issue":
-     {"issue-date": "1928-02", "volume": "6", "number": "5"},
-   "first-renewed-issue-source": "1955-JanJun",
+     {"cdate": "1929-11-29", "volume": "7"},
+   "first-renewed-issue-source": "1957-JanJun",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
    "renewed-issue-completeness": "active/autorenewals",
    "renewed-issues": [
-     {"issue-date": "1928-02", "volume": "6", "number": "5"},
-     {"issue-date": "1928-08", "volume": "6", "number": "7"},
-     {"issue-date": "1928-11", "volume": "6", "number": "8"},
-     {"cdate": "1928-12-24", "volume": "6", "number": "whole volume edition"},
      {"cdate": "1929-11-29", "volume": "7"},
      {"cdate": "1930-12-10", "volume": "8"},
      {"cdate": "1931-09-17", "volume": "9"},
@@ -59,12 +55,12 @@
      {"cdate": "1958-09-03", "volume": "52"}
    ],
    "additional-notes": [
-      "Issue renewals appear in the Books section of CCE rather than in the Periodicals section. Some are first published as individual numbers, and then as part of a revised whole-volume edition. The oldest whole volume edition with an active copyright is volume 6; the oldest single issue with one is volume 6 number 5.",
+      "Issue renewals appear in the Books section of CCE rather than in the Periodicals section.",
       "Contents of this serial may be reprinted from other West publications."
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-05-29"
+   "last-updated": "2024-01-04"
 }

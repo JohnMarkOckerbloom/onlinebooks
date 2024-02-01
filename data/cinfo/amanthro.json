@@ -3,11 +3,16 @@
    "online": "1",
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
-   "first-renewed-contribution": "none",
-   "first-renewed-contribution-source": "cce+database",
+   "first-renewed-contribution":
+     {"issue": {"issue-date": "1953", "volume": "55", "number": "5"}},
+   "first-renewed-contribution-source": "database",
+   "see-also":
+     [{"id": "memoiramanthasn",
+       "note": "Memoirs of the American Anthropological Association"}],
+   "additional-note": "While we did not find any active renewals specifically mentioning American Anthropologist, there is a 1981 renewal for 'Studies in Chinese Thought', one of the Memoirs of the American Anthropological Association that was published as vol. 55, no. 5, part 2 of American Anthropologist in 1953. Later Memoirs that appeared in American Anthropologist might also be renewed under their distinctive titles.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-05-24"
+   "last-updated": "2024-01-18"
 }

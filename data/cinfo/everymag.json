@@ -8,59 +8,13 @@
    "first-renewed-issue":  "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1928-02", "volume": "58", "number": "2", 
-      "cdate": "1928-01-04"}}, 
-   "first-renewed-contribution-source": "1955-JulDec",
+     {"issue": {"issue-date": "1929-03", "volume": "60", "number": "3",
+      "cdate": "1929-02-01"}}, 
+   "first-renewed-contribution-source": "1956-JanJun",
    "last-issue":  {"issue-date": "1929-03", "volume": "60", "number": "3"},
    "succeeded-by":  [{"id": "everyromance", "note": "Everybody's-Romance"}],
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1928-02", "volume": "58", "number": "2"}, 
-      "title": "The Roaring Towns",
-      "title-note": "part 4 of 6",
-       "author": {
-         "authorized": "Pendexter, Hugh, 1875-1940",
-         "lcna": "no2010022727"
-       }
-     },
-     {"issue": {"issue-date": "1928-02", "volume": "58", "number": "2"}, 
-      "title": "The Desert Moon Mystery",
-      "title-note": "part 5 of 5",
-      "author": {
-       "authorized": "Strahan, Kay Cleaver, 1888-1941",
-       "lcna": "no95043185"
-      }
-     },
-     {"issue": {"issue-date": "1928-03", "volume": "58", "number": "3"}, 
-      "title": "The Roaring Towns",
-      "title-note": "part 5 of 6",
-       "author": {
-         "authorized": "Pendexter, Hugh, 1875-1940",
-         "lcna": "no2010022727"
-       }
-     },
-     {"issue": {"issue-date": "1928-04", "volume": "58", "number": "4"}, 
-      "title": "The Roaring Towns",
-      "title-note": "part 6 of 6",
-       "author": {
-         "authorized": "Pendexter, Hugh, 1875-1940",
-         "lcna": "no2010022727"
-       }
-     },
-     {"issue": {"issue-date": "1928-09", "volume": "59", "number": "3"},
-      "title": "Guinea Gold",
-      "note": "There was no renewal filed for this story; however, it is a reprint of a story originally published in the January 1928 issue of The 20-Story Magazine that may have an active copyright due to GATT restoration, if the author is not American.",
-      "author": {
-       "name": "Evan Anglesea"
-      }
-     },
-     {"issue": {"issue-date": "1929-02", "volume": "60", "number": "2"},
-      "title": "The Keepers of the Treasure",
-      "author": {
-        "authorized": "Wallace, Edgar, 1875-1932",
-        "lcna": "n80034938"
-      }
-     },
      {"issue": {"issue-date": "1929-03", "volume": "60", "number": "3"},
       "title": "In the Manner of Lipstick",
       "author": {
@@ -80,5 +34,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-01-02"
+   "last-updated": "2024-01-05"
 }

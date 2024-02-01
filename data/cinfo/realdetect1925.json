@@ -8,31 +8,10 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1928-02", "volume": "13", "number": "1"}},
-   "first-renewed-contribution-source": "1955-JanJun",
+     {"issue": {"issue-date": "1929-02", "volume": "16", "number": "3"}},
+   "first-renewed-contribution-source": "1956-JanJun",
    "renewed-contribution-completeness": "active/1929",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1928-02", "volume": "13", "number": "1"},
-      "title": "The Street of Idols",
-      "author": {
-         "authorized": "Starrett, Vincent, 1886-1974",
-         "lcna": "n50023295"
-      }
-     },
-     {"issue": {"issue-date": "1928-03", "volume": "13", "number": "2"},
-      "title": "The Wrong Stairway",
-      "author": {
-         "authorized": "Starrett, Vincent, 1886-1974",
-         "lcna": "n50023295"
-      }
-     },
-     {"issue": {"issue-date": "1928-05", "volume": "13", "number": "4"},
-      "title": "The Fingernail Clue",
-      "author": {
-         "authorized": "Starrett, Vincent, 1886-1974",
-         "lcna": "n50023295"
-      }
-     },
      {"issue": {"issue-date": "1929-02", "volume": "16", "number": "3"},
       "title": "A Volume of Poe",
       "author": {
@@ -88,5 +67,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-01-05"
+   "last-updated": "2024-01-07"
 }

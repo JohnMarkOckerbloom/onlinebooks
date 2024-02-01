@@ -5,8 +5,8 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": 
-      {"issue": {"issue-date": "1928-03"}},
-   "first-renewed-contribution-source": "1955-JanJun",
+     {"issue": {"issue-date": "1929-02"}}, 
+   "first-renewed-contribution-source": "1956-JanJun",
    "last-issue": {"issue-date": "1929-07-01", "volume": "86", "number": "7"},
    "see-also": [
       {"id": "dial1840", "note": "The Dial (1840-1844)"},
@@ -15,13 +15,6 @@
    ],
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1928-03"},
-      "title": "A Note on Richard Grashaw",
-      "author": {
-       "authorized": "Eliot, T. S. (Thomas Stearns), 1888-1965",
-       "lcna": "n79006870"
-      }
-     },
      {"issue": {"issue-date": "1929-02"}, 
         "title": "Death in Moonlight",
         "author": {
@@ -48,5 +41,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-05-16"
+   "last-updated": "2024-01-05"
 }

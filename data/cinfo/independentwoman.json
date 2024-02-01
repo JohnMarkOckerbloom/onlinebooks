@@ -1,14 +1,32 @@
 {
    "title": "Independent Woman",
    "title-note": "1920-1956",
+   "online": "1",
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": 
       {"issue": {"issue-date": "1941-09"}},
    "first-renewed-contribution-source": "1968-JulDec",
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1941-09"},
+      "title": "Woman's Role in the World",
+       "author": {
+          "authorized": "Buck, Pearl S. (Pearl Sydenstricker), 1892-1973",
+          "lcna": "n79026662"
+        }
+     },
+     {"issue": {"issue-date": "1955-02"},
+      "title": "Adventures in Achievement",
+       "author": {
+          "authorized": "Brown, Gladys Everets",
+          "lcna": "no2006111384"
+        }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-01-26"
+   "last-updated": "2024-01-07"
 }

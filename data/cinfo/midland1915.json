@@ -5,19 +5,12 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution":
-      {"issue": {"issue-date": "1928-January/February"}},
-   "first-renewed-contribution-source": "1955-JulDec",
+     {"issue": {"issue-date": "1931-05"}},
+   "first-renewed-contribution-source": "1958-JanJun",
    "last-issue":
      {"issue-date": "1933-May/June", "volume": "20", "number": "nos. 2/3"},
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1928-January/February"},
-      "title": "June Bride",
-      "author": {
-         "authorized": "Stevenson, Philip, 1896-1965",
-         "lcna": "no2002007736"
-      }
-     },
      {"issue": {"issue-date": "1931-05"},
       "title": "Load",
       "author": {
@@ -39,5 +32,5 @@
    },
    "acknowledgement": 
       "Thanks to Shelton Henderson for copyright research on this title.",
-   "last-updated": "2020-09-22"
+   "last-updated": "2024-01-05"
 }

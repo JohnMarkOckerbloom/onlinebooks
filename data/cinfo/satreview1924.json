@@ -8,8 +8,8 @@
      {"issue-date": "1934-06-09", "volume": "10", "number": "47"},
    "first-renewed-issue-source": "1962-JanJun",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1928-01-07"}},
-   "first-renewed-contribution-source": "1955-JulDec",
+     {"issue": {"issue-date": "1929-03-09"}}, 
+   "first-renewed-contribution-source": "1957-JanJun",
    "renewed-issue-completeness": "active/1948",
    "renewed-issues": [
      {"issue-date": "1934-06-09", "volume": "10", "number": "47"},
@@ -828,87 +828,6 @@
    ],
    "renewed-contribution-completeness": "active/1931",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1928-01-07"},
-        "title": "An Adventure in Pink",
-        "author": {
-         "authorized": "Morley, Christopher, 1890-1957",
-         "lcna": "n50006133"
-        }
-     },
-     {"issue": {"issue-date": "1928-02-04"},
-        "title": "Mlle. de Sombreuil",
-        "title-note": "part 1 of 2",
-        "author": {
-         "authorized": "Morley, Christopher, 1890-1957",
-         "lcna": "n50006133"
-        }
-     },
-     {"issue": {"issue-date": "1928-02-11"},
-        "title": "Mlle. de Sombreuil",
-        "title-note": "part 2 of 2",
-        "author": {
-         "authorized": "Morley, Christopher, 1890-1957",
-         "lcna": "n50006133"
-        }
-     },
-     {"issue": {"issue-date": "1928-03-24"},
-        "title": "The Birth of God",
-        "author": {
-         "authorized": "Morley, Christopher, 1890-1957",
-         "lcna": "n50006133"
-        }
-     },
-     {"issue": {"issue-date": "1928-04-07"},
-        "title": "Naked Girl Beside Blossoming Cherry Tree",
-        "author": {
-         "authorized": "Ficke, Arthur Davison, 1883-1945",
-         "lcna": "n82119450"
-        }
-     },
-     {"issue": {"issue-date": "1928-04-21"},
-        "title": "Sky Line",
-        "author": {
-         "authorized": "Morley, Christopher, 1890-1957",
-         "lcna": "n50006133"
-        }
-     },
-     {"issue": {"issue-date": "1928-05-05"},
-        "title": "Anna Faure and the Parrot",
-        "title-note": "part 1 of 2",
-        "author": {
-         "authorized": "Morley, Christopher, 1890-1957",
-         "lcna": "n50006133"
-        }
-     },
-     {"issue": {"issue-date": "1928-05-12"},
-        "title": "Anna Faure and the Parrot",
-        "title-note": "part 2 of 2",
-        "author": {
-         "authorized": "Morley, Christopher, 1890-1957",
-         "lcna": "n50006133"
-        }
-     },
-     {"issue": {"issue-date": "1928-09-08"},
-        "title": "Adventure in Hoboken",
-        "author": {
-         "authorized": "Morley, Christopher, 1890-1957",
-         "lcna": "n50006133"
-        }
-     },
-     {"issue": {"issue-date": "1928-10-13"},
-        "title": "The Curtain",
-        "author": {
-         "authorized": "Morley, Christopher, 1890-1957",
-         "lcna": "n50006133"
-        }
-     },
-     {"issue": {"issue-date": "1928-11-24"},
-        "title": "Elysian Field",
-        "author": {
-         "authorized": "Morley, Christopher, 1890-1957",
-         "lcna": "n50006133"
-        }
-     },
      {"issue": {"issue-date": "1929-03-09"}, 
       "title": "On a Night of Snow",
        "author": {
@@ -1201,10 +1120,10 @@
         }
      }
    ],
-   "additional-note": "Active contribution renewals are recorded beginning in the 1955 January-June CCE volume, but the earliest renewed contribution is noted in the 1955 July-December volume.",
+   "additional-note": "Active contribution renewals are recorded beginning in the 1956 January-June CCE volume, but the earliest actively renewed contribution is noted in the 1957 January-June volume.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-08-24"
+   "last-updated": "2024-01-08"
 }
