@@ -1,5 +1,9 @@
 {
    "title": "Bulletin de la Société d'Anthropologie et de Biologie de Lyon",
+   "online": "1",
+   "preceded-by":
+     [{"id": "bulsocanthlyon",
+       "note": "Bulletin de la Société d'Anthropologie de Lyon"}],
    "rights-statement": "NoC-US",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
@@ -7,5 +11,5 @@
    },
    "acknowledgement": 
       "Thanks to Pete Sullivan for copyright research on this title.",
-   "last-updated": "2024-01-30"
+   "last-updated": "2024-02-07"
 }

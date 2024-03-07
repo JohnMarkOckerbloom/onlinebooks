@@ -41,7 +41,7 @@ sub startpage {
 }
 
 sub endpage {
-  print qq!<p style="text-align:center"><i>Edited by John Mark Ockerbloom (onlinebook&#115;@&#112;obox.upenn.edu), who is solely responsible for its content.<br><a href="https://onlinebooks.library.upenn.edu/webbin/banned/">Read Banned Books</a> is a featured exhibit of <a href="http://onlinebooks.library.upenn.edu/">The Online Books Page</a> and is subject to its <a href="https://onlinebooks.library.upenn.edu/licenses.html">copyrights and licenses</a>.</i></p></body></html>\n!;
+  print qq!<p style="text-align:center"><i>Edited by John Mark Ockerbloom (onlinebook&#115;@&#112;obox.upenn.edu), who is solely responsible for its content.<br><a href="https://onlinebooks.library.upenn.edu/webbin/banned/">Read Banned Books</a> is a featured exhibit of <a href="https://onlinebooks.library.upenn.edu/">The Online Books Page</a> and is subject to its <a href="https://onlinebooks.library.upenn.edu/licenses.html">copyrights and licenses</a>.</i></p></body></html>\n!;
 }
 
 sub get_info {

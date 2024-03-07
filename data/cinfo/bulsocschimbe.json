@@ -1,5 +1,8 @@
 {
    "title": "Bulletin des Sociétés Chimiques Belges",
+   "preceded-by":
+     [{"id": "bulsocchimbe",
+       "note": "Bulletin de la Société Chimique de Belgique"}],
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
@@ -12,5 +15,5 @@
    },
    "acknowledgement": 
       "Thanks to Pete Sullivan for copyright research on this title.",
-   "last-updated": "2023-01-09"
+   "last-updated": "2024-02-22"
 }

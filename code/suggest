@@ -146,11 +146,11 @@ sub showpools {
   # print "<li>" . poolsummary($bulkpool, "From a bulk submitter") . "</li></ul>";
   print "<li>" . poolsummary($bulkpool, "From bulk submitters") . "</li></ul>";
   # print "</ul>";
-  # print "(Due to the editor's travels, new submissions may not be processed before late August.)"
+  print "(Due to the editor's travels, new submissions may not be processed before the second full week of March.)"
   # print "(Due to technical issues, we may need to delay action on submissions involving online books at HathiTrust.)"
   # print "(Due to the editor's recent travels, we may take longer than usual to reply as we catch up on submissions.)"
   # print "(New additions may not appear until the next daily update.)"
-  print "(Most submitters get listings or acknowledgements within a few business days.  Bulk and anonymous submissions may take longer to process, as may submissions for books not in English.)";
+  # print "(Most submitters get listings or acknowledgements within a few business days.  Bulk and anonymous submissions may take longer to process, as may submissions for books not in English.)";
 }
 
 # stripspace removes interior newlines, excess spaces, leading and trailing
@@ -400,7 +400,7 @@ sub tempdown {
   &startpage($q, "Temporarily down");
   print qq!<h2>Service temporarily unavailable</h2>!;
   print qq!<p>This suggestion form is temporarily unavailable for a few hours!;
-  print qq! on the afternoon of September 20 !;
+  print qq! mid-day on February 19 !;
   print qq!while we make some server adjustments.  It will be back soon. !;
   print qq!Apologies for the inconvenience.</p>!;
   print $OLBP::bodyend;
@@ -497,7 +497,7 @@ my $q = new CGI;
 my $cmd = $q->url(-path_info=>1);
 $cmd =~ s/(.*)\///;
 
-# &tempdown($q);
+#&tempdown($q);
 
 if ($q->param("url") || $q->param("title") ||
     $q->param("note") || $q->param("comments"))  {

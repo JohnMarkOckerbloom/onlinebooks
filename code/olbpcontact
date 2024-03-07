@@ -271,7 +271,7 @@ sub showpool {
   } else {
     print "All submissions have been acted on.";
   }
-  # print "<br>(Due to the editor's travels, you might not get a response before late August.)"
+  print "<br>(Due to the editor's travels, you might not get a response before the second full week of March.)"
 }
 
 sub default_bad_url {
@@ -901,7 +901,7 @@ sub tempdown {
   &startpage($q, "Temporarily down");
   print qq!<h2>Service temporarily unavailable</h2>!;
   print qq!<p>This suggestion form is temporarily unavailable for a few hours!;
-  print qq! on the afternoon of September 20 !;
+  print qq! mid-day on February 19 !;
   print qq!while we make some server adjustments.  It will be back soon. !;
   print qq!Apologies for the inconvenience.</p>!;
   print $OLBP::bodyend;
@@ -956,7 +956,7 @@ if ($requestparam->{$BOGUSPARAM}) {
   send_them_home();
 }
 
-# &tempdown($q);
+#&tempdown($q);
 
 my $reqtype = $requestparam->{"type"};
 

@@ -1,12 +1,19 @@
 {
    "title": "Bulletin de la Société d'Acclimatation",
    "aka": ["Bulletin Mensuel de la Société d'Acclimatation"],
+   "online": "1",
+   "preceded-by":
+      [{"id": "bulsoczooacc",
+        "note": "Bulletin de la Société Zoologique d'Acclimatation"}],
    "rights-statement": "NoC-US",
+   "succeeded-by":
+      [{"id": "bulsocnataccfr",
+        "note": "Bulletin de la Société National d'Acclimatation de France"}],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
    "acknowledgement": 
       "Thanks to Pete Sullivan for copyright research on this title.",
-   "last-updated": "2023-01-30"
+   "last-updated": "2024-02-17"
 }

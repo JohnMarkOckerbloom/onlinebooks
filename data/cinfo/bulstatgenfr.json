@@ -1,9 +1,12 @@
 {
    "title": "Bulletin de la Statistique Générale de la France",
+   "online": "1",
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce",
+   "succeeded-by":
+     [{"id": "bulmstecfr1950", "note": "Bulletin Mensuel de Statistique"}],
    "additional-note": 
       "This is a French publication. Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US.",
    "responsibility": {
@@ -12,5 +15,5 @@
    },
    "acknowledgement": 
       "Thanks to Pete Sullivan for copyright research on this title.",
-   "last-updated": "2022-12-12"
+   "last-updated": "2024-02-21"
 }

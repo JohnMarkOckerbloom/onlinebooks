@@ -1,6 +1,10 @@
 {
    "title": "Bulletin Mensuel de Statistique",
    "title-note": "Institut National de la Statistique et des Études Économiques, France, 1950-2005",
+   "online": "1",
+   "preceded-by": 
+     [{"id": "bulstatgenfr",
+       "note": "Bulletin de la Statistique Générale de la France"}],
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
@@ -13,5 +17,5 @@
    },
    "acknowledgement": 
       "Thanks to Pete Sullivan for copyright research on this title.",
-   "last-updated": "2023-01-30"
+   "last-updated": "2024-02-21"
 }

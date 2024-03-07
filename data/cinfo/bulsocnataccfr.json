@@ -1,16 +1,24 @@
 {
    "title": "Bulletin de la Société Nationale d'Acclimatation de France",
+   "online": "1",
+   "preceded-by":
+    [{"id": "bullsocacclim", "note": "Bulletin de la Société d'Acclimatation"}],
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce",
-   "additional-note": 
+   "see-also":
+    [{"id": "revscinatapp",
+      "note": "Revue des Sciences Naturelles Appliquées"}],
+   "additional-notes":  [
       "This is a French publication. Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US.",
+      "This publication was retitled Revue des Sciences Naturelles Appliquées in 1889, but that title was in turn renamed Bulletin de la Société Nationale d'Acclimatation de France again in 1896."
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
    "acknowledgement": 
       "Thanks to Pete Sullivan for copyright research on this title.",
-   "last-updated": "2022-12-05"
+   "last-updated": "2024-02-17"
 }

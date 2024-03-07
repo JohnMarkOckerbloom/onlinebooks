@@ -1,0 +1,45 @@
+{
+   "title": "Moody's Manual of Investments, American and Foreign",
+   "online": "1",
+   "first-renewed-issue": {"issue-date": "1952"},
+   "first-renewed-issue-source": "database",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "database",
+   "succeeded-by": [
+      {"id": "moodysbankfin", "note": "Moody's Bank and Finance Manual"},
+      {"id": "moodysindman", "note": "Moody's Industrial Manual"},
+      {"id": "moodysmungovman",
+       "note": "Moody's Municipal and Government Manual"},
+      {"id": "moodyspubutiman", "note": "Moody's Public Utility Manual"},
+      {"id": "moodystraman", "note": "Moody's Transportation Manual"}
+   ],
+   "renewed-issue-completeness": "active/end",
+   "renewed-issues": [
+     {"issue-date": "1952",
+      "note": "Banks, insurance, real estate, investment trust"},
+     {"issue-date": "1952", "note": "Government securities"},
+     {"issue-date": "1952", "note": "Industrial securities"},
+     {"issue-date": "1952", "note": "Public utilities securities"},
+     {"issue-date": "1952",
+      "note": "Transportation, railroads, airlines, shipping, traction, bus and truck lines"},
+     {"issue-date": "1953",
+      "note": "Banks-insurance-real estate-investment trusts"},
+     {"issue-date": "1953", "note": "Government securities"},
+     {"issue-date": "1953", "note": "Industrial securities"},
+     {"issue-date": "1953", "note": "Public utilities securities"},
+     {"issue-date": "1953",
+      "note": "Transportation, railroads, airlines, shipping, traction, bus, and truck lines"},
+     {"issue-date": "1954",
+      "note": "Banks-insurance-real estate-investments trusts"},
+     {"issue-date": "1954", "note": "Government securities"}
+   ],
+   "additional-notes": [
+      "Multiple parts of the annual Moody's Manual of Investments were renewed starting with 1952 editions, including 'Banks, Insurance, Real Estate, Investment Trust', 'Government Securities', 'Industrial Securities', 'Public Utilities Securities', and 'Transportation, Railroads, Airlines, Shipping, Traction, Bus and Truck Lines' These appear to have evolved into serials of their own in 1954 and 1955, as noted in the 'succeeded by' links in this record.",
+      "Annual editions may include revised material from prior editions."
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2024-02-08"
+}

@@ -4,6 +4,10 @@
            "Moody's Bank and Financial Manual",
            "Moody's Banks and Finance Manual",
            "Moody's Manual of Banks and Finance"],
+   "preceded-by": [
+      {"id": "moodysmaninv",
+       "note": "Moody's Manual of Investments, American and Foreign"}
+   ],
    "first-renewed-issue": {"issue-date": "1955"},
    "first-renewed-issue-source": "database",
    "first-renewed-contribution": "none",
@@ -26,5 +30,5 @@
    },
    "acknowledgement": 
       "Thanks to Shelton Henderson for copyright research on this title.",
-   "last-updated": "2021-07-27"
+   "last-updated": "2024-02-08"
 }

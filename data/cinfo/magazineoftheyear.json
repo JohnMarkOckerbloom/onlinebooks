@@ -3,6 +3,10 @@
    "title-note": "1947-1948",
    "aka": ["'47: The Magazine of the Year",
            "'48: The Magazine of the Year"],
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/FMI/link.asp?magid=MAGYR",
+       "note": "FictionMags (partial listing)"}
+   ],
    "first-issue": {"issue-date": "1947-03", "volume": "1", "number": "1"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
@@ -10,9 +14,74 @@
      {"issue": {"issue-date": "1947-03", "volume": "1", "number": "1"}},
    "first-renewed-contribution-source": "1974-JanJun",
    "last-issue": {"issue-date": "1948-06", "volume": "2", "number": "6"},
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1947-03"},
+      "title": "The Storm",
+      "author": {
+        "authorized": "Fisher, Vardis, 1895-1968",
+        "lcna": "n79045232"
+      }
+     },
+     {"issue": {"issue-date": "1947-03"},
+      "title": "Home to Heaven",
+       "author": {
+          "authorized": "Buck, Pearl S. (Pearl Sydenstricker), 1892-1973",
+          "lcna": "n79026662"
+        }
+     },
+     {"issue": {"issue-date": "1947-03"},
+      "title": "The Tiger in Our House",
+      "author": {
+         "authorized": "Andrews, Roy Chapman, 1884-1960",
+         "lcna": "n50023918"
+       }
+     },
+     {"issue": {"issue-date": "1947-05"},
+      "title": "Geese",
+      "author": {
+         "authorized": "Andrews, Roy Chapman, 1884-1960",
+         "lcna": "n50023918"
+       }
+     },
+     {"issue": {"issue-date": "1947-05"},
+      "title": "Mission From Marrekech",
+      "author": {
+       "authorized": "Sinclair, Upton, 1878-1968",
+       "lcna": "n79127862"
+      }
+     },
+     {"issue": {"issue-date": "1947-05"},
+        "title": "Wendy-Endy and the Googenfoibles",
+        "author": {
+         "authorized": "Sandburg, Carl, 1878-1967",
+         "lcna": "n79011105"
+        }
+     },
+     {"issue": {"issue-date": "1947-06"},
+        "title": "Sweeping Wendy: Studyin Fugue",
+        "author": {
+         "authorized": "Sandburg, Carl, 1878-1967",
+         "lcna": "n79011105"
+        }
+     },
+     {"issue": {"issue-date": "1947-07"},
+        "title": "One World on an Island",
+        "author": {
+         "name": "Blake Clark"
+        }
+     },
+     {"issue": {"issue-date": "1947-12"},
+        "title": "Man: A Citizen of the Universe",
+        "note": "The renewal reports this contribution as a work for hire for Farrar, Straus and Giroux.  That firm or its successors may now hold the copyright.",
+        "author": {
+         "authorized": "Cosgrave, John O’Hara, II, 1908-1968",
+         "lcna": "n85359803"
+        }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-04-06"
+   "last-updated": "2024-02-20"
 }
