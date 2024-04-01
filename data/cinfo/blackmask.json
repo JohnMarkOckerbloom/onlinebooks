@@ -1,5 +1,6 @@
 {
    "title": "The Black Mask",
+   "aka": ["Black Mask Detective"],
    "online": "1",
    "contents": [
       {"url": "http://www.philsp.com/homeville/CFI/link.asp?magid=BLMSK",
@@ -13,7 +14,7 @@
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1929-02", "volume": "11", "number": "12"}},
    "first-renewed-contribution-source": "1956-JanJun",
-   "renewed-issue-completeness": "active/1931",
+   "renewed-issue-completeness": "active/end",
    "renewed-issues": [
            {"issue-date": "1929-02", "volume": "11", "number": "12",
             "cdate": "1929-01-12"},
@@ -68,9 +69,176 @@
            {"issue-date": "1932-08", "volume": "15", "number": "6"},
            {"issue-date": "1932-09", "volume": "15", "number": "7"},
            {"issue-date": "1932-10", "volume": "15", "number": "8"},
-           {"issue-date": "1932-11", "volume": "15", "number": "9"}
+           {"issue-date": "1932-11", "volume": "15", "number": "9"},
+           {"issue-date": "1932-12", "volume": "15", "number": "10"},
+           {"issue-date": "1933-01", "volume": "15", "number": "11",
+            "cdate": "1932-12-12"},
+           {"issue-date": "1933-02", "volume": "15", "number": "12",
+            "cdate": "1933-01-12"},
+           {"issue-date": "1933-03", "volume": "16", "number": "1"},
+           {"issue-date": "1933-04", "volume": "16", "number": "2"},
+           {"issue-date": "1933-05", "volume": "16", "number": "3"},
+           {"issue-date": "1933-06", "volume": "16", "number": "4"},
+           {"issue-date": "1933-07", "volume": "16", "number": "5"},
+           {"issue-date": "1933-08", "volume": "16", "number": "6"},
+           {"issue-date": "1933-09", "volume": "16", "number": "7"},
+           {"issue-date": "1933-10", "volume": "16", "number": "8"},
+           {"issue-date": "1934-04", "volume": "17", "number": "2"},
+           {"issue-date": "1934-05", "volume": "17", "number": "3"},
+           {"issue-date": "1934-06", "volume": "17", "number": "4"},
+           {"issue-date": "1934-07", "volume": "17", "number": "5"},
+           {"issue-date": "1934-08", "volume": "17", "number": "6"},
+           {"issue-date": "1934-09", "volume": "17", "number": "7"},
+           {"issue-date": "1934-10", "volume": "17", "number": "8"},
+           {"issue-date": "1934-11", "volume": "17", "number": "9"},
+           {"issue-date": "1934-12", "volume": "17", "number": "10"},
+           {"issue-date": "1935-01", "volume": "17", "number": "11",
+             "cdate": "1934-12-07"},
+           {"issue-date": "1935-02", "volume": "17", "number": "12",
+             "cdate": "1935-01-07"},
+           {"issue-date": "1935-03", "volume": "18", "number": "1"},
+           {"issue-date": "1935-04", "volume": "18", "number": "2"},
+           {"issue-date": "1935-05", "volume": "18", "number": "3"},
+           {"issue-date": "1935-06", "volume": "18", "number": "4"},
+           {"issue-date": "1935-07", "volume": "18", "number": "5"},
+           {"issue-date": "1935-08", "volume": "18", "number": "6"},
+           {"issue-date": "1935-09", "volume": "18", "number": "7"},
+           {"issue-date": "1935-10", "volume": "18", "number": "8"},
+           {"issue-date": "1935-11", "volume": "18", "number": "9"},
+           {"issue-date": "1935-12", "volume": "18", "number": "10"},
+           {"issue-date": "1936-01", "volume": "18", "number": "11",
+             "cdate": "1935-12-07"},
+           {"issue-date": "1936-02", "volume": "18", "number": "12",
+             "cdate": "1936-01-07"},
+           {"issue-date": "1936-03", "volume": "19", "number": "1"},
+           {"issue-date": "1936-04", "volume": "19", "number": "2"},
+           {"issue-date": "1936-05", "volume": "19", "number": "3"},
+           {"issue-date": "1936-06", "volume": "19", "number": "4"},
+           {"issue-date": "1936-07", "volume": "19", "number": "5"},
+           {"issue-date": "1936-08", "volume": "19", "number": "6"},
+           {"issue-date": "1936-09", "volume": "19", "number": "7"},
+           {"issue-date": "1936-10", "volume": "19", "number": "8"},
+           {"issue-date": "1936-11", "volume": "19", "number": "9"},
+           {"issue-date": "1936-12", "volume": "19", "number": "10"},
+           {"issue-date": "1937-01", "volume": "19", "number": "11",
+             "cdate": "1936-12-07"},
+           {"issue-date": "1937-02", "volume": "19", "number": "12",
+             "cdate": "1937-01-07"},
+           {"issue-date": "1937-03", "volume": "20", "number": "1"},
+           {"issue-date": "1937-04", "volume": "20", "number": "2"},
+           {"issue-date": "1937-05", "volume": "20", "number": "3"},
+           {"issue-date": "1937-06", "volume": "20", "number": "4"},
+           {"issue-date": "1937-07", "volume": "20", "number": "5"},
+           {"issue-date": "1937-08", "volume": "20", "number": "6"},
+           {"issue-date": "1937-09", "volume": "20", "number": "7"},
+           {"issue-date": "1937-10", "volume": "20", "number": "8"},
+           {"issue-date": "1937-11", "volume": "20", "number": "9"},
+           {"issue-date": "1937-12", "volume": "20", "number": "10"},
+           {"issue-date": "1938-01", "volume": "20", "number": "11",
+             "cdate": "1937-12-07"},
+           {"issue-date": "1938-02", "volume": "20", "number": "12",
+             "cdate": "1938-01-07"},
+           {"issue-date": "1938-03", "volume": "21", "number": "1"},
+           {"issue-date": "1938-04", "volume": "21", "number": "2"},
+           {"issue-date": "1938-05", "volume": "21", "number": "3"},
+           {"issue-date": "1938-06", "volume": "21", "number": "4"},
+           {"issue-date": "1938-08", "volume": "21", "number": "5"},
+           {"issue-date": "1938-09", "volume": "21", "number": "6"},
+           {"issue-date": "1938-10", "volume": "21", "number": "7"},
+           {"issue-date": "1938-11", "volume": "21", "number": "8"},
+           {"issue-date": "1938-12", "volume": "21", "number": "9"},
+           {"issue-date": "1939-01", "volume": "21", "number": "10",
+            "cdate": "1938-12-07"},
+           {"issue-date": "1939-02", "volume": "21", "number": "11",
+            "cdate": "1939-01-07"},
+           {"issue-date": "1939-03", "volume": "21", "number": "12"},
+           {"issue-date": "1939-04", "volume": "22", "number": "1"},
+           {"issue-date": "1939-05", "volume": "22", "number": "2"},
+           {"issue-date": "1939-06", "volume": "22", "number": "3"},
+           {"issue-date": "1939-07", "volume": "22", "number": "4"},
+           {"issue-date": "1939-08", "volume": "22", "number": "5"},
+           {"issue-date": "1939-09", "volume": "22", "number": "6"},
+           {"issue-date": "1939-10", "volume": "22", "number": "7"},
+           {"issue-date": "1939-11", "volume": "22", "number": "8"},
+           {"issue-date": "1939-12", "volume": "22", "number": "9"},
+           {"issue-date": "1940-01", "volume": "22", "number": "10",
+            "cdate": "1939-12-07"},
+           {"issue-date": "1940-02", "volume": "22", "number": "11",
+            "cdate": "1940-01-06"},
+           {"issue-date": "1940-03", "volume": "22", "number": "12"},
+           {"issue-date": "1940-04", "volume": "22", "number": "1"},
+           {"issue-date": "1940-06", "volume": "22", "number": "2"},
+           {"issue-date": "1940-07", "volume": "22", "number": "3"},
+           {"issue-date": "1940-09", "volume": "22", "number": "5"},
+           {"issue-date": "1940-10", "volume": "22", "number": "6"},
+           {"issue-date": "1940-11", "volume": "22", "number": "7"},
+           {"issue-date": "1940-12", "volume": "22", "number": "8"},
+           {"issue-date": "1941-02", "volume": "23", "number": "10"},
+           {"issue-date": "1941-03", "volume": "23", "number": "11"},
+           {"issue-date": "1941-04", "volume": "23", "number": "12"},
+           {"issue-date": "1941-05", "volume": "24", "number": "1"},
+           {"issue-date": "1941-06", "volume": "24", "number": "2"},
+           {"issue-date": "1941-07", "volume": "24", "number": "3"},
+           {"issue-date": "1941-08", "volume": "24", "number": "4"},
+           {"issue-date": "1941-09", "volume": "24", "number": "5"},
+           {"issue-date": "1941-10", "volume": "24", "number": "6"},
+           {"issue-date": "1941-11", "volume": "24", "number": "7"},
+           {"issue-date": "1941-12", "volume": "24", "number": "8"},
+           {"issue-date": "1942-01", "volume": "24", "number": "9",
+            "cdate": "1941-11-19"},
+           {"issue-date": "1942-02", "volume": "24", "number": "10",
+            "cdate": "1941-12-19"},
+           {"issue-date": "1942-03", "volume": "24", "number": "11",
+            "cdate": "1942-01-21"},
+           {"issue-date": "1942-04", "volume": "24", "number": "12"},
+           {"issue-date": "1942-05", "volume": "25", "number": "1"},
+           {"issue-date": "1942-06", "volume": "25", "number": "2"},
+           {"issue-date": "1942-07", "volume": "25", "number": "3"},
+           {"issue-date": "1942-08", "volume": "25", "number": "4"},
+           {"issue-date": "1942-09", "volume": "25", "number": "5"},
+           {"issue-date": "1942-10", "volume": "25", "number": "6"},
+           {"issue-date": "1942-11", "volume": "25", "number": "7"},
+           {"issue-date": "1942-12", "volume": "25", "number": "8"},
+           {"issue-date": "1943-01", "volume": "25", "number": "9",
+            "cdate": "1942-11-20"},
+           {"issue-date": "1943-02", "volume": "25", "number": "10",
+            "cdate": "1942-12-18"},
+           {"issue-date": "1943-03", "volume": "25", "number": "11",
+            "cdate": "1943-01-20"},
+           {"issue-date": "1943-05", "volume": "25", "number": "12"},
+           {"issue-date": "1943-07", "volume": "26", "number": "1"},
+           {"issue-date": "1943-09", "volume": "26", "number": "2"},
+           {"issue-date": "1943-11", "volume": "26", "number": "3"},
+           {"issue-date": "1944-01", "volume": "26", "number": "4",
+            "cdate": "1943-11-19"},
+           {"issue-date": "1944-03", "volume": "26", "number": "5",
+            "cdate": "1944-01-21"},
+           {"issue-date": "1944-05", "volume": "26", "number": "6"},
+           {"issue-date": "1944-07", "volume": "26", "number": "7"},
+           {"issue-date": "1944-09", "volume": "26", "number": "8"},
+           {"issue-date": "1944-11", "volume": "26", "number": "9"},
+           {"issue-date": "1945-01", "volume": "26", "number": "10",
+            "cdate": "1944-11-17"},
+           {"issue-date": "1945-03", "volume": "26", "number": "11",
+            "cdate": "1945-01-19"},
+           {"issue-date": "1945-05", "volume": "26", "number": "12"},
+           {"issue-date": "1945-07", "volume": "27", "number": "1"},
+           {"issue-date": "1945-09", "volume": "27", "number": "2"},
+           {"issue-date": "1945-11", "volume": "27", "number": "3"},
+           {"issue-date": "1946-01", "volume": "27", "number": "4",
+            "cdate": "1945-11-21"},
+           {"issue-date": "1946-03", "volume": "28", "number": "2",
+            "cdate": "1946-01-18"},
+           {"issue-date": "1947-01", "volume": "29", "number": "3",
+            "cdate": "1946-11-29"},
+           {"issue-date": "1947-03", "volume": "29", "number": "4",
+            "cdate": "1947-02-05"},
+           {"issue-date": "1947-05", "volume": "30", "number": "1"},
+           {"issue-date": "1947-07", "volume": "30", "number": "2"},
+           {"issue-date": "1947-09", "volume": "30", "number": "3"},
+           {"issue-date": "1947-11", "volume": "30", "number": "4"}
    ],
-   "renewed-contribution-completeness": "active/1931",
+   "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
      {"issue": {"issue-date": "1929-02", "volume": "11", "number": "12"},
       "title": "Bracelets for Two",
@@ -396,6 +564,14 @@
          "lcna": "n80020640"
       }
      },
+     {"issue": {"issue-date": "1932-03", "volume": "15", "number": "1"},
+      "title": "China Man",
+      "author": {
+         "authorized": "Whitfield, Raoul",
+         "lcna": "n80076510",
+         "using": "Ramon Decolta"
+       }
+     },
      {"issue": {"issue-date": "1932-04", "volume": "15", "number": "2"},
       "title": "Straight Crooks",
       "author": {
@@ -459,17 +635,936 @@
          "lcna": "n79071101"
        }
      },
+     {"issue": {"issue-date": "1932-11", "volume": "15", "number": "9"},
+      "title": "The Magician Murder",
+      "author": {
+         "authorized": "Whitfield, Raoul",
+         "lcna": "n80076510",
+         "using": "Ramon Decolta"
+       }
+     },
      {"issue": {"issue-date": "1932-12", "volume": "15", "number": "10"},
       "title": "The Top Comes Off",
       "author": {
          "authorized": "Gardner, Erle Stanley, 1889-1970",
          "lcna": "n79071101"
        }
+     },
+     {"issue": {"issue-date": "1933-01", "volume": "15", "number": "11"},
+      "title": "Close Call",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1933-02", "volume": "15", "number": "12"},
+      "title": "The Hour of the Rat",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1933-03", "volume": "16", "number": "1"},
+      "title": "Red Jade",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1933-04", "volume": "16", "number": "2"},
+      "title": "Farewell to Crime",
+      "author": {
+         "authorized": "Nebel, Frederick",
+         "lcna": "n80020640"
+      }
+     },
+     {"issue": {"issue-date": "1933-04", "volume": "16", "number": "2"},
+      "title": "Chinatown Murder",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1933-05", "volume": "16", "number": "3"},
+      "title": "The Weapons of a Crook",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1933-06", "volume": "16", "number": "4"},
+      "title": "Save Your Tears",
+      "author": {
+         "authorized": "Nebel, Frederick",
+         "lcna": "n80020640"
+      }
+     },
+     {"issue": {"issue-date": "1933-06", "volume": "16", "number": "4"},
+      "title": "Making the Breaks",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1933-07", "volume": "16", "number": "5"},
+      "title": "Song and Dance",
+      "author": {
+         "authorized": "Nebel, Frederick",
+         "lcna": "n80020640"
+      }
+     },
+     {"issue": {"issue-date": "1933-08", "volume": "16", "number": "6"},
+      "title": "Blackmail With Lead",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1933-09", "volume": "16", "number": "7"},
+      "title": "Whispering Justice",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1933-09", "volume": "16", "number": "7"},
+      "title": "Guns Down",
+      "author": {
+         "authorized": "Nebel, Frederick",
+         "lcna": "n80020640"
+      }
+     },
+     {"issue": {"issue-date": "1933-10", "volume": "16", "number": "8"},
+      "title": "Murder Push",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1933-12", "volume": "16", "number": "10"},
+      "title": "Blackmailers Don't Shoot",
+      "author": {
+         "authorized": "Chandler, Raymond, 1888-1959",
+         "lcna": "n79113919"
+       }
+     },
+     {"issue": {"issue-date": "1933-12", "volume": "16", "number": "10"},
+      "title": "Dead Men's Shoes",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1934-01", "volume": "16", "number": "11"},
+      "title": "A Guest of the House",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1934-02", "volume": "16", "number": "12"},
+      "title": "Too Young to Die",
+      "author": {
+         "authorized": "Nebel, Frederick",
+         "lcna": "n80020640"
+      }
+     },
+     {"issue": {"issue-date": "1934-03", "volume": "17", "number": "1"},
+      "title": "Bad News",
+      "author": {
+         "authorized": "Nebel, Frederick",
+         "lcna": "n80020640"
+      }
+     },
+     {"issue": {"issue-date": "1934-03", "volume": "17", "number": "1"},
+      "title": "Cop Killers",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1934-03", "volume": "17", "number": "1"},
+      "title": "Return Engagement",
+      "author": {
+         "authorized": "Coxe, George Harmon, 1901-1984",
+         "lcna": "n50017906"
+      }
+     },
+     {"issue": {"issue-date": "1934-04", "volume": "17", "number": "2"},
+      "title": "New Twenties",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1934-04", "volume": "17", "number": "2"},
+      "title": "Special Assignment",
+      "author": {
+         "authorized": "Coxe, George Harmon, 1901-1984",
+         "lcna": "n50017906"
+      }
+     },
+     {"issue": {"issue-date": "1934-05", "volume": "17", "number": "3"},
+      "title": "Two Man Job",
+      "author": {
+         "authorized": "Coxe, George Harmon, 1901-1984",
+         "lcna": "n50017906"
+      }
+     },
+     {"issue": {"issue-date": "1934-06", "volume": "17", "number": "4"},
+      "title": "Take it and Like it",
+      "author": {
+         "authorized": "Nebel, Frederick",
+         "lcna": "n80020640"
+      }
+     },
+     {"issue": {"issue-date": "1934-06", "volume": "17", "number": "4"},
+      "title": "Pushover",
+      "author": {
+         "authorized": "Coxe, George Harmon, 1901-1984",
+         "lcna": "n50017906"
+      }
+     },
+     {"issue": {"issue-date": "1934-06", "volume": "17", "number": "4"},
+      "title": "Burnt Fingers",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1934-07", "volume": "17", "number": "5"},
+      "title": "Smart Aleck Kill",
+      "author": {
+         "authorized": "Chandler, Raymond, 1888-1959",
+         "lcna": "n79113919"
+       }
+     },
+     {"issue": {"issue-date": "1934-07", "volume": "17", "number": "5"},
+      "title": "Hot Delivery",
+      "author": {
+         "authorized": "Coxe, George Harmon, 1901-1984",
+         "lcna": "n50017906"
+      }
+     },
+     {"issue": {"issue-date": "1934-08", "volume": "17", "number": "6"},
+      "title": "Be Your Age",
+      "author": {
+         "authorized": "Nebel, Frederick",
+         "lcna": "n80020640"
+      }
+     },
+     {"issue": {"issue-date": "1934-08", "volume": "17", "number": "6"},
+      "title": "Mixed Drinks",
+      "author": {
+         "authorized": "Coxe, George Harmon, 1901-1984",
+         "lcna": "n50017906"
+      }
+     },
+     {"issue": {"issue-date": "1934-09", "volume": "17", "number": "7"},
+      "title": "The Heavenly Rat",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1934-09", "volume": "17", "number": "7"},
+      "title": "Pinch Hitters",
+      "author": {
+         "authorized": "Coxe, George Harmon, 1901-1984",
+         "lcna": "n50017906"
+      }
+     },
+     {"issue": {"issue-date": "1934-11", "volume": "17", "number": "9"},
+      "title": "Hot Cash",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1935-01", "volume": "17", "number": "11"},
+      "title": "He Was a Swell Guy",
+      "author": {
+         "authorized": "Nebel, Frederick",
+         "lcna": "n80020640"
+      }
+     },
+     {"issue": {"issue-date": "1935-01", "volume": "17", "number": "11"},
+      "title": "Winged Lead",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1935-01", "volume": "17", "number": "11"},
+      "title": "Murder Picture",
+      "author": {
+         "authorized": "Coxe, George Harmon, 1901-1984",
+         "lcna": "n50017906"
+      }
+     },
+     {"issue": {"issue-date": "1935-02", "volume": "17", "number": "12"},
+      "title": "It's a Gag",
+      "author": {
+         "authorized": "Nebel, Frederick",
+         "lcna": "n80020640"
+      }
+     },
+     {"issue": {"issue-date": "1935-02", "volume": "17", "number": "12"},
+      "title": "Casey, Detective",
+      "author": {
+         "authorized": "Coxe, George Harmon, 1901-1984",
+         "lcna": "n50017906"
+      }
+     },
+     {"issue": {"issue-date": "1935-03", "volume": "18", "number": "1"},
+      "title": "Ghost of a Chance",
+      "author": {
+         "authorized": "Nebel, Frederick",
+         "lcna": "n80020640"
+      }
+     },
+     {"issue": {"issue-date": "1935-03", "volume": "18", "number": "1"},
+      "title": "Earned Reward",
+      "author": {
+         "authorized": "Coxe, George Harmon, 1901-1984",
+         "lcna": "n50017906"
+      }
+     },
+     {"issue": {"issue-date": "1935-04", "volume": "18", "number": "2"},
+      "title": "Women Are Trouble",
+      "author": {
+         "authorized": "Coxe, George Harmon, 1901-1984",
+         "lcna": "n50017906"
+      }
+     },
+     {"issue": {"issue-date": "1935-05", "volume": "18", "number": "3"},
+      "title": "That's Kennedy",
+      "author": {
+         "authorized": "Nebel, Frederick",
+         "lcna": "n80020640"
+      }
+     },
+     {"issue": {"issue-date": "1935-05", "volume": "18", "number": "3"},
+      "title": "A Chance to Cheat",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1935-06", "volume": "18", "number": "4"},
+      "title": "Nevada Gas",
+      "author": {
+         "authorized": "Chandler, Raymond, 1888-1959",
+         "lcna": "n79113919"
+       }
+     },
+     {"issue": {"issue-date": "1935-07", "volume": "18", "number": "4"},
+      "title": "Thirty Tickets to Win",
+      "author": {
+         "authorized": "Coxe, George Harmon, 1901-1984",
+         "lcna": "n50017906"
+      }
+     },
+     {"issue": {"issue-date": "1935-07", "volume": "18", "number": "5"},
+      "title": "Buried Evidence",
+      "author": {
+         "authorized": "Coxe, George Harmon, 1901-1984",
+         "lcna": "n50017906"
+      }
+     },
+     {"issue": {"issue-date": "1935-08", "volume": "18", "number": "6"},
+      "title": "Die-Hard",
+      "author": {
+         "authorized": "Nebel, Frederick",
+         "lcna": "n80020640"
+      }
+     },
+     {"issue": {"issue-date": "1935-10", "volume": "18", "number": "8"},
+      "title": "Crash and Carry",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1935-10", "volume": "18", "number": "8"},
+      "title": "Mr. Casey Flashgun's Murder",
+      "author": {
+         "authorized": "Coxe, George Harmon, 1901-1984",
+         "lcna": "n50017906"
+      }
+     },
+     {"issue": {"issue-date": "1935-11", "volume": "18", "number": "9"},
+      "title": "Winter Kill",
+      "author": {
+         "authorized": "Nebel, Frederick",
+         "lcna": "n80020640"
+      }
+     },
+     {"issue": {"issue-date": "1935-11", "volume": "18", "number": "9"},
+      "title": "Spanish Blood",
+      "author": {
+         "authorized": "Chandler, Raymond, 1888-1959",
+         "lcna": "n79113919"
+       }
+     },
+     {"issue": {"issue-date": "1935-12", "volume": "18", "number": "10"},
+      "title": "Above the Law",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1936-01", "volume": "18", "number": "11"},
+      "title": "Fan Dance",
+      "author": {
+         "authorized": "Nebel, Frederick",
+         "lcna": "n80020640"
+      }
+     },
+     {"issue": {"issue-date": "1936-02", "volume": "18", "number": "12"},
+      "title": "No Hard Feelings",
+      "author": {
+         "authorized": "Nebel, Frederick",
+         "lcna": "n80020640"
+      }
+     },
+     {"issue": {"issue-date": "1936-02", "volume": "18", "number": "12"},
+      "title": "Portrait of Murder",
+      "author": {
+         "authorized": "Coxe, George Harmon, 1901-1984",
+         "lcna": "n50017906"
+      }
+     },
+     {"issue": {"issue-date": "1936-03", "volume": "19", "number": "1"},
+      "title": "You Gotta Be Tough",
+      "author": {
+         "authorized": "Coxe, George Harmon, 1901-1984",
+         "lcna": "n50017906"
+      }
+     },
+     {"issue": {"issue-date": "1936-04", "volume": "19", "number": "2"},
+      "title": "Crack Down",
+      "author": {
+         "authorized": "Nebel, Frederick",
+         "lcna": "n80020640"
+      }
+     },
+     {"issue": {"issue-date": "1936-04", "volume": "19", "number": "2"},
+      "title": "Letters Are Poison",
+      "author": {
+         "authorized": "Coxe, George Harmon, 1901-1984",
+         "lcna": "n50017906"
+      }
+     },
+     {"issue": {"issue-date": "1936-05", "volume": "19", "number": "3"},
+      "title": "Murder Mixup",
+      "author": {
+         "authorized": "Coxe, George Harmon, 1901-1984",
+         "lcna": "n50017906"
+      }
+     },
+     {"issue": {"issue-date": "1936-05", "volume": "19", "number": "3"},
+      "title": "Beating the Bulls",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1936-06", "volume": "19", "number": "4"},
+      "title": "Hard to Take",
+      "author": {
+         "authorized": "Nebel, Frederick",
+         "lcna": "n80020640"
+      }
+     },
+     {"issue": {"issue-date": "1936-06", "volume": "19", "number": "4"},
+      "title": "Fall Guy",
+      "author": {
+         "authorized": "Coxe, George Harmon, 1901-1984",
+         "lcna": "n50017906"
+      }
+     },
+     {"issue": {"issue-date": "1936-07", "volume": "19", "number": "5"},
+      "title": "Trouble for Two",
+      "author": {
+         "authorized": "Coxe, George Harmon, 1901-1984",
+         "lcna": "n50017906"
+      }
+     },
+     {"issue": {"issue-date": "1936-08", "volume": "19", "number": "6"},
+      "title": "Deep Red",
+      "author": {
+         "authorized": "Nebel, Frederick",
+         "lcna": "n80020640"
+      }
+     },
+     {"issue": {"issue-date": "1936-09", "volume": "19", "number": "7"},
+      "title": "The Curtain",
+      "author": {
+         "authorized": "Chandler, Raymond, 1888-1959",
+         "lcna": "n79113919"
+       }
+     },
+     {"issue": {"issue-date": "1936-11", "volume": "19", "number": "9"},
+      "title": "Double or Nothing",
+      "author": {
+         "authorized": "Coxe, George Harmon, 1901-1984",
+         "lcna": "n50017906"
+      }
+     },
+     {"issue": {"issue-date": "1937-01", "volume": "19", "number": "11"},
+      "title": "Try the Girl",
+      "author": {
+         "authorized": "Chandler, Raymond, 1888-1959",
+         "lcna": "n79113919"
+       }
+     },
+     {"issue": {"issue-date": "1937-03", "volume": "20", "number": "1"},
+      "title": "The Way Out",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1937-09", "volume": "20", "number": "7"},
+      "title": "Among Thieves",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1937-09", "volume": "20", "number": "7"},
+       "title": "Rain, the Killer",
+       "author": {
+        "authorized": "Gruber, Frank, 1904-1969",
+        "lcna": "n50032981"
+       }
+     },
+     {"issue": {"issue-date": "1937-10", "volume": "20", "number": "8"},
+      "title": "Face Work",
+      "author": {
+         "authorized": "Woolrich, Cornell, 1903-1968",
+         "lcna": "n79038547"
+       }
+     },
+     {"issue": {"issue-date": "1937-11", "volume": "20", "number": "9"},
+      "title": "Cab, Mister",
+      "author": {
+         "authorized": "Woolrich, Cornell, 1903-1968",
+         "lcna": "n79038547"
+       }
+     },
+     {"issue": {"issue-date": "1937-12", "volume": "20", "number": "10"},
+       "title": "Death on Eagle's Crag",
+       "author": {
+        "authorized": "Gruber, Frank, 1904-1969",
+        "lcna": "n50032981"
+       }
+     },
+     {"issue": {"issue-date": "1938-01", "volume": "20", "number": "11"},
+      "title": "After Dinner Story",
+      "note": "Magazine cover credits Woolrich; copyright renewal credits Irish. The same author used both names.",
+      "author": {
+         "authorized": "Irish, William, 1903-1968",
+         "using": "Cornell Woolrich",
+         "lcna": "n82166816"
+       }
+     },
+     {"issue": {"issue-date": "1938-02", "volume": "20", "number": "12"},
+      "title": "Leg Man",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1938-03", "volume": "21", "number": "1"},
+       "title": "Dog Show Murder",
+       "author": {
+        "authorized": "Gruber, Frank, 1904-1969",
+        "lcna": "n50032981"
+       }
+     },
+     {"issue": {"issue-date": "1938-03", "volume": "21", "number": "1"},
+      "title": "The Silent Witness",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1938-04", "volume": "21", "number": "2"},
+      "title": "Muscle Out",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1938-05", "volume": "21", "number": "3"},
+       "title": "Death Sits Down",
+       "author": {
+        "authorized": "Gruber, Frank, 1904-1969",
+        "lcna": "n50032981"
+       }
+     },
+     {"issue": {"issue-date": "1938-06", "volume": "21", "number": "4"},
+        "title": "The Invisible Millionaire",
+        "author": {
+         "authorized": "Charteris, Leslie, 1907-1993",
+         "lcna": "n50038426"
+        }
+     },
+     {"issue": {"issue-date": "1938-08", "volume": "21", "number": "5"},
+       "title": "Handout",
+       "author": {
+         "authorized": "Brandon, William, 1914-2002",
+         "lcna": "n50043320"
+       }
+     },
+     {"issue": {"issue-date": "1938-10", "volume": "21", "number": "7"},
+       "title": "Forced Landing",
+       "author": {
+        "authorized": "Gruber, Frank, 1904-1969",
+        "lcna": "n50032981"
+       }
+     },
+     {"issue": {"issue-date": "1939-03", "volume": "21", "number": "12"},
+      "title": "Take it or Leave it",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1939-03", "volume": "21", "number": "12"},
+       "title": "The Sad Serbian",
+       "author": {
+        "authorized": "Gruber, Frank, 1904-1969",
+        "lcna": "n50032981"
+       }
+     },
+     {"issue": {"issue-date": "1939-03", "volume": "21", "number": "12"},
+       "title": "Swing Low, Sweet Chariot",
+       "author": {
+         "authorized": "Brandon, William, 1914-2002",
+         "lcna": "n50043320"
+       }
+     },
+     {"issue": {"issue-date": "1939-05", "volume": "22", "number": "2"},
+       "title": "Funny Man",
+       "author": {
+        "authorized": "Gruber, Frank, 1904-1969",
+        "lcna": "n50032981"
+       }
+     },
+     {"issue": {"issue-date": "1939-08", "volume": "22", "number": "5"},
+      "title": "Men Must Die",
+      "author": {
+         "authorized": "Woolrich, Cornell, 1903-1968",
+         "lcna": "n79038547"
+       }
+     },
+     {"issue": {"issue-date": "1939-08", "volume": "22", "number": "5"},
+      "title": "Guillotine",
+      "note": "Magazine cover credits Woolrich; copyright renewal credits Irish. The same author used both names. Issue per CCE renewal record, but FictionMags does not list a story with the title 'Guillotine' in this issue.",
+      "author": {
+         "authorized": "Irish, William, 1903-1968",
+         "using": "Cornell Woolrich",
+         "lcna": "n82166816"
+       }
+     },
+     {"issue": {"issue-date": "1939-09", "volume": "22", "number": "6"},
+      "title": "Dark Alleys",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1939-10", "volume": "22", "number": "7"},
+      "title": "Collared",
+      "note": "Magazine cover credits Woolrich; copyright renewal credits Irish. The same author used both names.",
+      "author": {
+         "authorized": "Irish, William, 1903-1968",
+         "using": "Cornell Woolrich",
+         "lcna": "n82166816"
+       }
+     },
+     {"issue": {"issue-date": "1939-11", "volume": "22", "number": "8"},
+       "title": "Oliver Quade at the Races",
+       "author": {
+        "authorized": "Gruber, Frank, 1904-1969",
+        "lcna": "n50032981"
+       }
+     },
+     {"issue": {"issue-date": "1940-03", "volume": "22", "number": "12"},
+       "title": "Words and Music",
+       "author": {
+        "authorized": "Gruber, Frank, 1904-1969",
+        "lcna": "n50032981"
+       }
+     },
+     {"issue": {"issue-date": "1940-04", "volume": "23", "number": "1"},
+      "title": "Post Mortem",
+      "author": {
+         "authorized": "Woolrich, Cornell, 1903-1968",
+         "lcna": "n79038547"
+       }
+     },
+     {"issue": {"issue-date": "1940-06", "volume": "23", "number": "2"},
+      "title": "Tong Trouble",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1940-09", "volume": "23", "number": "5"},
+      "title": "Dog Eat Dog",
+      "title-note": "part 1 of 3",
+      "note": "A 1968 renewal for Reeves's 1940 book 'No Love Lost' mentions that it was previously published serially in Black Mask from September through November 1940.  That renewal might cover this serialization, the only Reeves story in those issues mentioned in FictionMags.",
+      "author": {
+         "authorized": "Reeves, Robert, 1912-1945",
+         "lcna": "no2022118787"
+       }
+     },
+     {"issue": {"issue-date": "1940-10", "volume": "23", "number": "6"},
+      "title": "Dog Eat Dog",
+      "title-note": "part 2 of 3",
+      "note": "A 1968 renewal for Reeves's 1940 book 'No Love Lost' mentions that it was previously published serially in Black Mask from September through November 1940.  That renewal might cover this serialization, the only Reeves story in those issues mentioned in FictionMags.",
+      "author": {
+         "authorized": "Reeves, Robert, 1912-1945",
+         "lcna": "no2022118787"
+       }
+     },
+     {"issue": {"issue-date": "1940-11", "volume": "23", "number": "7"},
+      "title": "Dog Eat Dog",
+      "title-note": "part 3 of 3",
+      "note": "A 1968 renewal for Reeves's 1940 book 'No Love Lost' mentions that it was previously published serially in Black Mask from September through November 1940.  That renewal might cover this serialization, the only Reeves story in those issues mentioned in FictionMags.",
+      "author": {
+         "authorized": "Reeves, Robert, 1912-1945",
+         "lcna": "no2022118787"
+       }
+     },
+     {"issue": {"issue-date": "1940-12", "volume": "23", "number": "8"},
+      "title": "Jade Sanctuary",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1941-05", "volume": "24", "number": "1"},
+      "title": "The Phantom Crook",
+      "note": "Title per CCE renewal record. FictionMags lists the title of the Gardner story in this issue as 'The Chinese People'. We have not examined the issue in question beyond the cover, which shows a title in Chinese characters.",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1941-05", "volume": "24", "number": "1"},
+      "title": "Once Around the Clock",
+      "author": {
+         "authorized": "Coxe, George Harmon, 1901-1984",
+         "lcna": "n50017906"
+      }
+     },
+     {"issue": {"issue-date": "1941-09", "volume": "24", "number": "5"},
+      "title": "Killers are Camera Shy",
+      "title-note": "part 1 of 3",
+      "author": {
+         "authorized": "Coxe, George Harmon, 1901-1984",
+         "lcna": "n50017906"
+      }
+     },
+     {"issue": {"issue-date": "1941-10", "volume": "24", "number": "6"},
+      "title": "Killers are Camera Shy",
+      "title-note": "part 2 of 3",
+      "author": {
+         "authorized": "Coxe, George Harmon, 1901-1984",
+         "lcna": "n50017906"
+      }
+     },
+     {"issue": {"issue-date": "1941-11", "volume": "24", "number": "7"},
+      "title": "Killers are Camera Shy",
+      "title-note": "part 3 of 3",
+      "author": {
+         "authorized": "Coxe, George Harmon, 1901-1984",
+         "lcna": "n50017906"
+      }
+     },
+     {"issue": {"issue-date": "1941-12", "volume": "24", "number": "8"},
+      "title": "Rain Check",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1942-04", "volume": "24", "number": "12"},
+      "title": "Two Dead Hands",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1942-05", "volume": "25", "number": "1"},
+      "title": "Dormant Account",
+      "note": "Magazine cover credits Woolrich; copyright renewal credits Irish. The same author used both names.",
+      "author": {
+         "authorized": "Irish, William, 1903-1968",
+         "using": "Cornell Woolrich",
+         "lcna": "n82166816"
+       }
+     },
+     {"issue": {"issue-date": "1942-07", "volume": "25", "number": "3"},
+      "title": "Three Kills for One",
+      "author": {
+         "authorized": "Woolrich, Cornell, 1903-1968",
+         "lcna": "n79038547"
+       }
+     },
+     {"issue": {"issue-date": "1942-09", "volume": "25", "number": "5"},
+      "title": "Donovan's Brain",
+      "title-note": "part 1 of 3",
+      "author": {
+         "authorized": "Siodmak, Curt, 1902-2000",
+         "lcna": "n50057275"
+       }
+     },
+     {"issue": {"issue-date": "1942-10", "volume": "25", "number": "6"},
+      "title": "Donovan's Brain",
+      "title-note": "part 2 of 3",
+      "author": {
+         "authorized": "Siodmak, Curt, 1902-2000",
+         "lcna": "n50057275"
+       }
+     },
+     {"issue": {"issue-date": "1942-11", "volume": "25", "number": "7"},
+      "title": "Donovan's Brain",
+      "title-note": "part 3 of 3",
+      "author": {
+         "authorized": "Siodmak, Curt, 1902-2000",
+         "lcna": "n50057275"
+       }
+     },
+     {"issue": {"issue-date": "1943-02", "volume": "25", "number": "10"},
+      "title": "If the Dead Could Talk",
+      "author": {
+         "authorized": "Woolrich, Cornell, 1903-1968",
+         "lcna": "n79038547"
+       }
+     },
+     {"issue": {"issue-date": "1943-03", "volume": "25", "number": "11"},
+      "title": "The Incredible Mister Smith",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1943-09", "volume": "26", "number": "2"},
+      "title": "The Gong of Vengeance",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1943-11", "volume": "26", "number": "3"},
+       "title": "It's So Peaceful in the Country",
+       "author": {
+         "authorized": "Brandon, William, 1914-2002",
+         "lcna": "n50043320"
+       }
+     },
+     {"issue": {"issue-date": "1944-03", "volume": "26", "number": "5"},
+        "title": "Murder Goes to Market",
+        "author": {
+         "authorized": "Charteris, Leslie, 1907-1993",
+         "lcna": "n50038426"
+        }
+     },
+     {"issue": {"issue-date": "1945-07", "volume": "27", "number": "1"},
+      "title": "Catalyst",
+      "author": {
+         "authorized": "Boucher, Anthony, 1911-1968",
+         "lcna": "n50019878"
+      }
+     },
+     {"issue": {"issue-date": "1947-09", "volume": "30", "number": "3"},
+      "title": "Manhattan Horse Opera",
+      "note": "Renewal record also notes added title 'Head I win, Tails You Lose'.",
+      "author": {
+        "authorized": "MacDonald, John D. (John Dann), 1916-1986",
+        "lcna": "n79045202"
+      }
+     },
+     {"issue": {"issue-date": "1948-09", "volume": "32", "number": "1"},
+      "title": "The Case of the Carved Model",
+      "author": {
+        "authorized": "MacDonald, John D. (John Dann), 1916-1986",
+        "lcna": "n79045202"
+      }
+     },
+     {"issue": {"issue-date": "1949-03", "volume": "32", "number": "4"},
+      "title": "Killing All Men!",
+      "author": {
+        "authorized": "MacDonald, John D. (John Dann), 1916-1986",
+        "lcna": "n79045202"
+      }
+     },
+     {"issue": {"issue-date": "1949-03", "volume": "32", "number": "4"},
+      "title": "Kiss the Corpse Goodbye",
+      "author": {
+        "authorized": "MacDonald, John D. (John Dann), 1916-1986",
+        "lcna": "n79045202",
+        "using": "Scott O'Hara"
+      }
+     },
+     {"issue": {"issue-date": "1949-05", "volume": "33", "number": "1"},
+      "title": "Murder in One Syllable",
+      "author": {
+        "authorized": "MacDonald, John D. (John Dann), 1916-1986",
+        "lcna": "n79045202"
+      }
+     },
+     {"issue": {"issue-date": "1949-07", "volume": "33", "number": "2"},
+      "title": "Heritage of Hate",
+      "author": {
+        "authorized": "MacDonald, John D. (John Dann), 1916-1986",
+        "lcna": "n79045202"
+      }
+     },
+     {"issue": {"issue-date": "1949-09", "volume": "33", "number": "3"},
+      "title": "The Dear and the Dead",
+      "note": "Issue as stated in CCE renewal record.  We did not, however, find any contribution with this title or author in the September 1949 issue, and do not know where else it might have appeared.",
+      "author": {
+        "authorized": "MacDonald, John D. (John Dann), 1916-1986",
+        "lcna": "n79045202"
+      }
+     },
+     {"issue": {"issue-date": "1950-07", "volume": "34", "number": "4"},
+      "title": "Jukebox Jungle",
+      "author": {
+        "authorized": "MacDonald, John D. (John Dann), 1916-1986",
+        "lcna": "n79045202"
+      }
+     },
+     {"issue": {"issue-date": "1950-11", "volume": "35", "number": "2"},
+      "title": "Five O'Clock Shroud",
+      "author": {
+         "authorized": "Deming, Richard, 1915-1983",
+         "lcna": "n79144748"
+      }
+     },
+     {"issue": {"issue-date": "1951-05", "volume": "36", "number": "1"},
+      "title": "Pay Up or Die",
+      "author": {
+         "authorized": "Deming, Richard, 1915-1983",
+         "lcna": "n79144748"
+      }
      }
+   ],
+   "additional-notes": [
+     "A 1979 renewal for The Bloody Bokhara by William Campbell Gault notes that it was published in the November 1948 issue of Black Mask.  The copyright claim, however, appears to be for a revised version published in 1951 or 1952, and the renewal would be too late to cover the earlier 1948 publication.",
+     "Some 1950s issues of this magazine included reprints whose copyrights might still be active.  Examples include the January 1951 issue, which includes the copyright-renewed 1933 story 'The Green Widow', and the July 1951 issue, which includes a story reprinted from the copyright-renewed May 1941 issue. The FictionMags contents listings include information about reprints."
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-01-03"
+   "last-updated": "2024-03-16"
 }

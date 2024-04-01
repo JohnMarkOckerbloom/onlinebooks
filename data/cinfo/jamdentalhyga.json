@@ -1,15 +1,18 @@
 {
    "title": "The Journal of the American Dental Hygienists' Association",
+   "online": "1",
    "first-issue": {"issue-date": "1927-01", "volume": "1", "number": "1"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
+   "succeeded-by":
+     [{"id": "dentalhyg1973", "note": "Dental Hygiene (1973-1988)"}],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
    "acknowledgement": 
       "Thanks to Felice Gollotti for copyright research on this title.",
-   "last-updated": "2021-06-07"
+   "last-updated": "2024-03-09"
 }

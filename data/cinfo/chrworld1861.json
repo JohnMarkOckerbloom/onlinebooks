@@ -1,6 +1,9 @@
 {
    "title": "The Christian World",
    "title-note": "magazine of the American and Foreign Christian Union, 1861-1884",
+   "online": "1",
+   "preceded-by":
+      [{"id": "afcu1850", "note": "The American and Foreign Christian Union"}],
    "rights-statement": "NoC-US",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
@@ -8,5 +11,5 @@
    },
    "acknowledgement": 
       "Thanks to Pete Sullivan for copyright research on this title.",
-   "last-updated": "2023-06-19"
+   "last-updated": "2024-03-28"
 }

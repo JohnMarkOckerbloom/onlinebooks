@@ -5,11 +5,14 @@
       [{"id": "catpubusgov",
         "note": "Catalogue of Publications Issued by the Government of the United States"}],
    "rights-statement": "NoC-US",
+   "succeeded-by":
+      [{"id": "moncatuspubdoc",
+        "note": "Monthly Catalogue, United States Public Documents"}],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
    "acknowledgement": 
       "Thanks to Joe Kishman for copyright research on this title.",
-   "last-updated": "2021-10-21"
+   "last-updated": "2024-03-30"
 }

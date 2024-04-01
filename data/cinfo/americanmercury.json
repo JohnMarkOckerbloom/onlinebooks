@@ -11,7 +11,7 @@
      {"issue": {"issue-date": "1929-02"}},
    "first-renewed-contribution-source": "1956-JanJun",
    "see-also": [{"id": "americana1925", "note": "Americana"}],
-   "renewed-issue-completeness": "active/1931",
+   "renewed-issue-completeness": "active/autorenewals",
    "renewed-issues": [
        {"issue-date": "1929-02", "volume": "16", "number": "62",
           "cdate": "1929-01-25"},
@@ -61,9 +61,22 @@
        {"issue-date": "1932-09", "volume": "27", "number": "105"},
        {"issue-date": "1932-10", "volume": "27", "number": "106"},
        {"issue-date": "1932-11", "volume": "27", "number": "107"},
-       {"issue-date": "1932-12", "volume": "27", "number": "108"}
+       {"issue-date": "1932-12", "volume": "27", "number": "108"},
+       {"issue-date": "1933-01", "volume": "28", "number": "109",
+        "cdate": "1932-12-23"},
+       {"issue-date": "1933-02", "volume": "28", "number": "110",
+        "cdate": "1933-01-25"},
+       {"issue-date": "1933-03", "volume": "28", "number": "111"},
+       {"issue-date": "1933-04", "volume": "28", "number": "112"},
+       {"issue-date": "1933-05", "volume": "29", "number": "113"},
+       {"issue-date": "1933-06", "volume": "29", "number": "114"},
+       {"issue-date": "1933-07", "volume": "29", "number": "115"},
+       {"issue-date": "1933-08", "volume": "29", "number": "116"},
+       {"issue-date": "1933-09", "volume": "30", "number": "117"},
+       {"issue-date": "1933-10", "volume": "30", "number": "118"},
+       {"issue-date": "1933-11", "volume": "30", "number": "119"},
+       {"issue-date": "1933-12", "volume": "30", "number": "120"}
    ],
-   "comment": "Pick up issue renewals with 1960 Jan-Jun",
    "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
      {"issue": {"issue-date": "1929-02"},
@@ -1320,5 +1333,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-01-03"
+   "last-updated": "2024-03-08"
 }

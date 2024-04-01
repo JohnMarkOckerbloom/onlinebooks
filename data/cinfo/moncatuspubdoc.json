@@ -1,0 +1,22 @@
+{
+   "title": "Monthly Catalogue, United States Public Documents",
+   "aka": ["United States Public Documents Monthly Catalog"],
+   "preceded-by":
+     [{"id": "catuspubdoc",
+       "note": "Catalogue of United States Public Documents"}],
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce",
+   "succeeded-by":
+     [{"id": "moncatusgovpub",
+       "note": "Monthly Catalog of United States Government Publications"}],
+   "additional-note": "This is a US government publication.",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "acknowledgement": 
+      "Thanks to Pete Sullivan for copyright research on this title.",
+   "last-updated": "2024-03-30"
+}

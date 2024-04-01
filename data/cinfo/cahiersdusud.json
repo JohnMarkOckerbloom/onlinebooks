@@ -1,5 +1,7 @@
 {
    "title": "Les Cahiers du Sud",
+   "online": "1",
+   "preceded-by": [{"id": "fortunio1914", "note": "Fortunio"}],
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
@@ -12,5 +14,5 @@
    },
    "acknowledgement": 
       "Thanks to Pete Sullivan for copyright research on this title.",
-   "last-updated": "2023-06-12"
+   "last-updated": "2024-03-28"
 }

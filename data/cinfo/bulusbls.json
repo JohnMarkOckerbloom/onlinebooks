@@ -1,5 +1,8 @@
 {
    "title": "Bulletin of the United States Bureau of Labor Statistics",
+   "online": "1",
+   "preceded-by":
+     [{"id": "bulbol", "note": "Bulletin of the Bureau of Labor"}],
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
@@ -11,5 +14,5 @@
    },
    "acknowledgement": 
       "Thanks to Pete Sullivan for copyright research on this title.",
-   "last-updated": "2023-05-01"
+   "last-updated": "2024-03-19"
 }

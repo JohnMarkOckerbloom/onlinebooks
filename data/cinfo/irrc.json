@@ -1,6 +1,9 @@
 {
    "title": "International Review of the Red Cross",
    "online": "1",
+   "preceded-by":
+     [{"id": "bulintsoccrorou",
+       "note": "Bulletin International des Sociétés de la Croix-Rouge"}],
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
@@ -12,5 +15,5 @@
    },
    "acknowledgement": 
       "Thanks to Nat Bender for copyright research on this title.",
-   "last-updated": "2021-04-16"
+   "last-updated": "2024-03-08"
 }

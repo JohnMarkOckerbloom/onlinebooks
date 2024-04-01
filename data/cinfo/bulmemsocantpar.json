@@ -1,5 +1,9 @@
 {
    "title": "Bulletins et Mémoires de la Société d'Anthropologie de Paris",
+   "online": "1",
+   "preceded-by":
+     [{"id": "bulsocanthparis",
+       "note": "Bulletins de la Société d'Anthropologie de Paris"}],
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
@@ -12,5 +16,5 @@
    },
    "acknowledgement": 
       "Thanks to Pete Sullivan for copyright research on this title.",
-   "last-updated": "2023-05-08"
+   "last-updated": "2024-03-21"
 }

@@ -1,5 +1,6 @@
 {
    "title": "British Journal of Preventive and Social Medicine",
+   "online": "1",
    "preceded-by": 
      [{"id": "britjsocialmed", 
        "note": "British Journal of Social Medicine"}],
@@ -7,6 +8,9 @@
    "first-renewed-issue-source": "database",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "database",
+   "succeeded-by": 
+     [{"id": "jepicomhealth", 
+       "note": "Journal of Epidemiology and Community Health"}],
    "additional-note": 
       "This is a British publication. Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US.",
    "responsibility": {
@@ -15,5 +19,5 @@
    },
    "acknowledgement": 
       "Thanks to Pete Sullivan for copyright research on this title.",
-   "last-updated": "2023-06-24"
+   "last-updated": "2024-03-29"
 }
