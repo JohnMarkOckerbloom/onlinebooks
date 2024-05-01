@@ -1,9 +1,13 @@
 {
    "title": "Current Tables: Atlantic Coast, North America",
+   "online": "1",
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
+   "succeeded-by":
+     [{"id": "tidcurtabatlcna",
+       "note": "Tidal Current Tables: Atlantic Coast of North America"}],
    "additional-note": "This is a US government publication.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
@@ -11,5 +15,5 @@
    },
    "acknowledgement": 
       "Thanks to Pete Sullivan for copyright research on this title.",
-   "last-updated": "2023-08-28"
+   "last-updated": "2024-04-24"
 }

@@ -1,9 +1,12 @@
 {
    "title": "Commerce Yearbook",
+   "online": "1",
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce",
+   "succeeded-by":
+      [{"id": "forcommerceyrbk", "note": "Foreign Commerce Yearbook"}],
    "additional-note": "This is a US government publication.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
@@ -11,5 +14,5 @@
    },
    "acknowledgement": 
       "Thanks to Pete Sullivan for copyright research on this title.",
-   "last-updated": "2023-06-26"
+   "last-updated": "2024-04-01"
 }

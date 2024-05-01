@@ -1,6 +1,7 @@
 {
    "title": "Commerce",
    "title-note": "Chicago",
+   "preceded-by": [{"id": "chicagocommerce", "note": "Chicago Commerce"}],
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
@@ -11,5 +12,5 @@
    },
    "acknowledgement": 
       "Thanks to Pete Sullivan for copyright research on this title.",
-   "last-updated": "2023-06-26"
+   "last-updated": "2024-04-01"
 }

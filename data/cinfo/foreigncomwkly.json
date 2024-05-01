@@ -1,9 +1,13 @@
 {
    "title": "Foreign Commerce Weekly",
+   "online": "1",
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
+   "succeeded-by":
+     [{"id": "intcommerce1962",
+       "note": "International Commerce (US, 1962-1970)"}],
    "additional-note": "This is a US government publication.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
@@ -11,5 +15,5 @@
    },
    "acknowledgement": 
       "Thanks to Pete Sullivan for copyright research on this title.",
-   "last-updated": "2023-11-01"
+   "last-updated": "2024-04-02"
 }

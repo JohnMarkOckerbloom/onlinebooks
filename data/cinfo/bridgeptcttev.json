@@ -1,11 +1,12 @@
 {
    "title": "The Bridgeport Times and Evening Farmer",
+   "online": "1",
+   "preceded-by":
+     [{"id": "bridgeptctefarm", "note": "Bridgeport Evening Farmer"}],
    "rights-statement": "NoC-US",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "acknowledgement": 
-      "Thanks to Pete Sullivan for copyright research on this title.",
-   "last-updated": "2023-11-08"
+   "last-updated": "2024-04-22"
 }

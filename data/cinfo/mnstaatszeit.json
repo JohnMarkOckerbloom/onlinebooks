@@ -1,5 +1,8 @@
 {
    "title": "Minnesota Staats-Zeitung",
+   "online": "1",
+   "preceded-by":
+      [{"id": "mndeutschezeit", "note": "Die Minnesota Deutsche Zeitung"}],
    "rights-statement": "NoC-US",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
@@ -7,5 +10,5 @@
    },
    "acknowledgement": 
       "Thanks to Pete Sullivan for copyright research on this title.",
-   "last-updated": "2024-03-23"
+   "last-updated": "2024-04-19"
 }
