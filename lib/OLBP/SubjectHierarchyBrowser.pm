@@ -309,6 +309,7 @@ sub show_books_under_subject {
   my ($self, %params) = @_;
   my $node;                   
   $params{seen} = {};
+  my $downonly = $params{downonly};
   my $max = $self->_recur_under_subject(%params);
   # Still some space left; go to the related and broader terms
   # (note that we only do this once)
@@ -317,7 +318,7 @@ sub show_books_under_subject {
     print "<p><b>More items available under narrower terms.</b></p>";
     return $max;
   }
-  if ($max > 0) {
+  if ($max > 0 && !$downonly) {
     $node = $self->_find_right_node($params{term});
     if ($node) {
       print "<p><b>Items below (if any) are from related and broader terms.</b></p>";

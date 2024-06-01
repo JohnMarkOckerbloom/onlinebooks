@@ -1,16 +1,52 @@
 {
    "title": "Jewish Currents",
+   "online": "1",
    "preceded-by": [{"id": "jewishlife1946", "note": "Jewish Life"}],
    "first-renewed-issue":
       {"issue-date": "1958-01", "volume": "12", "number": "1"},
    "first-renewed-issue-source": "database",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "database",
+   "renewed-issue-completeness": "active/autorenewals",
+   "renewed-issues": [
+      {"issue-date": "1958-01", "volume": "12", "number": "1"},
+      {"issue-date": "1958-02", "volume": "12", "number": "2"},
+      {"issue-date": "1958-03", "volume": "12", "number": "3"},
+      {"issue-date": "1958-04", "volume": "12", "number": "4"},
+      {"issue-date": "1958-05", "volume": "12", "number": "5"},
+      {"issue-date": "1958-06", "volume": "12", "number": "6"},
+      {"issue-date": "1958-July-August", "volume": "12", "number": "7"},
+      {"issue-date": "1958-09", "volume": "12", "number": "8"},
+      {"issue-date": "1958-10", "volume": "12", "number": "9"},
+      {"issue-date": "1958-11", "volume": "12", "number": "10"},
+      {"issue-date": "1958-12", "volume": "12", "number": "11"},
+      {"issue-date": "1959-02", "volume": "13", "number": "2"},
+      {"issue-date": "1959-03", "volume": "13", "number": "3"},
+      {"issue-date": "1959-04", "volume": "13", "number": "4"},
+      {"issue-date": "1959-05", "volume": "13", "number": "5"},
+      {"issue-date": "1959-06", "volume": "13", "number": "6"},
+      {"issue-date": "1959-July-August", "volume": "13", "number": "7"},
+      {"issue-date": "1959-09", "volume": "13", "number": "8"},
+      {"issue-date": "1959-10", "volume": "13", "number": "9"},
+      {"issue-date": "1959-11", "volume": "13", "number": "10"},
+      {"issue-date": "1959-12", "volume": "13", "number": "11"},
+      {"issue-date": "1960-01", "volume": "14", "number": "1"},
+      {"issue-date": "1960-02", "volume": "14", "number": "2"},
+      {"issue-date": "1960-03", "volume": "14", "number": "3"},
+      {"issue-date": "1960-04", "volume": "14", "number": "4"},
+      {"issue-date": "1960-05", "volume": "14", "number": "5"},
+      {"issue-date": "1960-06", "volume": "14", "number": "6"},
+      {"issue-date": "1960-July-August", "volume": "14", "number": "7"},
+      {"issue-date": "1960-09", "volume": "14", "number": "8"},
+      {"issue-date": "1960-10", "volume": "14", "number": "9"},
+      {"issue-date": "1960-11", "volume": "14", "number": "10"},
+      {"issue-date": "1960-12", "volume": "14", "number": "11"}
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
    "acknowledgement": 
       "Thanks to Nat Bender for copyright research on this title.",
-   "last-updated": "2022-02-05"
+   "last-updated": "2024-05-03"
 }

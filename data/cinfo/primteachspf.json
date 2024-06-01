@@ -1,0 +1,38 @@
+{
+   "title": "Primary Teacher",
+   "title-note": "Standard Publishing",
+   "first-renewed-issue":
+     {"cdate": "1958-09-02", "volume": "1", "number": "quarter 1"},
+   "first-renewed-issue-source": "database",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "database",
+   "renewed-issue-completeness": "active/end",
+   "renewed-issues": [
+     {"cdate": "1958-09-02", "volume": "1", "number": "quarter 1",
+      "note": "Renewal record gives issue title 'God's Gifts'."},
+     {"cdate": "1958-12-15", "volume": "1", "number": "quarter 2",
+      "note": "Renewal record gives issue title 'Jesus Our Friend'."},
+     {"cdate": "1959-03-16", "volume": "1", "number": "3"},
+     {"cdate": "1959-05-27", "volume": "1", "number": "4"},
+     {"cdate": "1959-09-09", "volume": "2", "number": "1"},
+     {"cdate": "1960-03-16", "volume": "2", "number": "3"},
+     {"cdate": "1960-06-15", "volume": "2", "number": "4"},
+     {"cdate": "1960-09-19", "volume": "3", "number": "quarter 1"},
+     {"cdate": "1960-12-19", "volume": "3", "number": "2nd quarter"}
+   ],
+   "see-also":
+     [{"id": "primteachjud", "note": "Primary Teacher (Judson Press)"},
+      {"id": "primteachnaz",
+       "note": "Primary Teacher (Nazarene Publishing House)"},
+      {"id": "primteachsbc",
+       "note": "Primary Teacher (Southern Baptist Convention)"}],
+   "additional-notes": [
+     "Copyrights for magazines with the same title for various Protestant churches were also registered in some of the same years as the Standard Publishing publication described here.  We do not know if they shared content in common.",
+     "We have not found original registrations for issues from Standard Publishing before 1958 or after 1960.  Our notes about the completeness of issue renewals and the lack of contribution renewals assume that issues were only published in that time span."
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2024-05-11"
+}

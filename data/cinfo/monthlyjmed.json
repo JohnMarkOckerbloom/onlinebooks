@@ -1,12 +1,18 @@
 {
    "title": "The Monthly Journal of Medicine",
    "title-note": "Edinburgh, 1855",
+   "online": "1",
+   "preceded-by":
+    [{"id": "monjmedsci", "note": "The Monthly Journal of Medical Science"}],
    "rights-statement": "NoC-US",
+   "succeeded-by": 
+     [{"id": "edinbmedj", 
+       "note": "The Edinburgh Medical Journal"}],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
    "acknowledgement": 
       "Thanks to Pete Sullivan for copyright research on this title.",
-   "last-updated": "2024-03-29"
+   "last-updated": "2024-05-20"
 }

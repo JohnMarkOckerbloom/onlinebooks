@@ -8,7 +8,7 @@
    "first-renewed-contribution":
      {"issue": {"issue-date": "1929-03-06"}},
    "first-renewed-contribution-source": "1956-JulDec",
-   "renewed-contribution-completeness": "active/1932",
+   "renewed-contribution-completeness": "active/1934",
    "renewed-contributions": [
      {"issue": {"issue-date": "1929-03-06"},
       "title": "Publicity Gone Mad",
@@ -198,12 +198,89 @@
          "authorized": "Aiken, Conrad, 1889-1973",
          "lcna": "n80060447"
         }
+     },
+     {"issue": {"issue-date": "1934-03-28"},
+      "title": "Odyssey of Disney",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1934-05-02"},
+        "title": "Death Piece",
+        "author": {
+         "authorized": "Roethke, Theodore, 1908-1963",
+         "lcna": "n79060436"
+        }
+     },
+     {"issue": {"issue-date": "1934-07-04"}, 
+      "title": "The Steel Strike Collapses",
+      "author": {
+       "authorized": "Adamic, Louis, 1899-1951",
+       "lcna": "n50036829"
+      }
+     },
+     {"issue": {"issue-date": "1934-07-11"},
+      "title": "Paying for Old Sins",
+      "author": {
+       "authorized": "Anderson, Sherwood, 1876-1941",
+       "lcna": "n79045519"
+      }
+     },
+     {"issue": {"issue-date": "1934-08-22"},
+      "title": "Warning to the Good",
+      "author": {
+         "authorized": "McHugh, Vincent, 1904-1983",
+         "lcna": "n50013499"
+      }
+     },
+     {"issue": {"issue-date": "1934-08-29"},
+      "title": "Clinical Note",
+      "author": {
+         "authorized": "McHugh, Vincent, 1904-1983",
+         "lcna": "n50013499"
+      }
+     },
+     {"issue": {"issue-date": "1934-09-05"},
+      "title": "Pari-Mutuel",
+      "author": {
+         "authorized": "McHugh, Vincent, 1904-1983",
+         "lcna": "n50013499"
+      }
+     },
+     {"issue": {"issue-date": "1935-01-09"}, 
+      "title": "The Great Bootleg Coal Industry",
+      "author": {
+       "authorized": "Adamic, Louis, 1899-1951",
+       "lcna": "n50036829"
+      }
+     },
+     {"issue": {"issue-date": "1935-02-13"},
+        "title": "The Hitlerites on Hitlerism",
+        "author": {
+         "authorized": "Gunther, John, 1901-1970",
+         "lcna": "n50020329"
+        }
+     },
+     {"issue": {"issue-date": "1935-02-20"}, 
+      "title": "LaFollette Progressives Face the Future",
+      "author": {
+       "authorized": "Adamic, Louis, 1899-1951",
+       "lcna": "n50036829"
+      }
+     },
+     {"issue": {"issue-date": "1935-02-27"}, 
+      "title": "A Talk With Phil LaFollette",
+      "author": {
+       "authorized": "Adamic, Louis, 1899-1951",
+       "lcna": "n50036829"
+      }
      }
    ],
-   "comment": "Resume contribution search with 1961 Jan-Jun",
+   "comment": "Resume contribution search with 1963 Jan-Jun",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-01-05"
+   "last-updated": "2024-05-22"
 }

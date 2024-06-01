@@ -1,6 +1,10 @@
 {
    "title": "Mechanical Engineering",
    "title-note": "journal of the American Society of Mechanical Engineers",
+   "online": "1",
+   "preceded-by":
+      [{"id": "journalasme",
+        "note": "The Journal of the American Society of Mechanical Engineers"}],
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
@@ -11,5 +15,5 @@
    },
    "acknowledgement": 
       "Thanks to Pete Sullivan for copyright research on this title.",
-   "last-updated": "2023-12-19"
+   "last-updated": "2024-05-30"
 }

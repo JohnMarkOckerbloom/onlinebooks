@@ -26,8 +26,10 @@
       {"issue-date": "1930-10", "volume": "16", "number": "4"},
       {"issue-date": "1930-11", "volume": "16", "number": "5"},
       {"issue-date": "1930-12", "volume": "16", "number": "6"},
-      {"issue-date": "1931-01", "volume": "17", "number": "1"},
-      {"issue-date": "1931-February-March", "volume": "17", "number": "2"},
+      {"issue-date": "1931-01", "volume": "17", "number": "1",
+       "cdate": "1930-12-01"},
+      {"issue-date": "1931-February-March", "volume": "17", "number": "2",
+       "cdate": "1931-02-01"},
       {"issue-date": "1931-April-May", "volume": "17", "number": "3"},
       {"issue-date": "1931-June-July", "volume": "17", "number": "4"},
       {"issue-date": "1931-08", "volume": "18", "number": "1"},
@@ -954,6 +956,14 @@
          "lcna": "n50002798"}
        ],
        "note": "Renewal record only mentions Derleth, but Galactic Central and ISFDB name Schorer as a co-author."
+      },
+      {"issue": {"issue-date": "1939-10", "volume": "34", "number": "4"},
+       "title": "Worms of the Earth",
+       "note": "There is no renewal filed specifically for this novel; however, it was originally published in the November 1932 issue, which has a renewal active through the end of 2027.",
+       "author": {
+         "authorized": "Howard, Robert E. (Robert Ervin), 1906-1936",
+         "lcna": "n79018012"
+       }
       },
       {"issue": {"issue-date": "1939-12", "volume": "34", "number": "6"},
        "title": "Mannikins of Horror",
@@ -2137,6 +2147,14 @@
           "lcna": "n50021577"}
        ]
       },
+      {"issue": {"issue-date": "1953-05", "volume": "45", "number": "2"},
+       "title": "The Vengeance of Kali Mai",
+       "note": "There is no renewal filed specifically for this story; however, it was originally published in the December 1951 issue of Britannia and Eve, which is likely to have an active copyright renewal through the end of 2046 due to GATT restoration. We have not checked that issue for signs of American simultaneous publication, however.",
+       "author": {
+         "authorized": "Radcliffe, Garnett, 1899-",
+         "lcna": "no2013131744"
+       }
+      },
       {"issue": {"issue-date": "1953-07", "volume": "45", "number": "3"},
        "title": "Slaughter House",
        "author": {
@@ -2149,6 +2167,29 @@
        "author": {
          "authorized": "Brennan, Joseph Payne, 1918-1990",
          "lcna": "n50044271"
+       }
+      },
+      {"issue": {"issue-date": "1953-09", "volume": "45", "number": "4"},
+       "title": "The Tree-Man",
+       "note": "There is no renewal filed specifically for this story; however, it was originally published in the February-March 1931 issue, which has a renewal active through the end of 2026.",
+       "author": {
+         "authorized": "Whitehead, Henry S. (Henry St. Clair), 1882-1932",
+         "lcna": "n86858511"
+       }
+      },
+      {"issue": {"issue-date": "1953-11", "volume": "45", "number": "5"},
+       "title": "The Black Stone",
+       "note": "There is no renewal filed specifically for this story; however, it was originally published in the November 1931 issue, which has a renewal active through the end of 2026.",
+       "author": {
+         "authorized": "Howard, Robert E. (Robert Ervin), 1906-1936",
+         "lcna": "n79018012"
+       }
+      },
+      {"issue": {"issue-date": "1954-01", "volume": "45", "number": "6"},
+       "title": "Tiger Dust",
+       "note": "There is no renewal filed specifically for this story; however, it was originally published in the April 1933 issue, which has a renewal active through the end of 2028.",
+       "author": {
+         "name": "Bassett Morgan"
        }
       },
       {"issue": {"issue-date": "1954-03", "volume": "46", "number": "1"},
@@ -2164,6 +2205,37 @@
          "authorized": "Derleth, August, 1909-1971",
          "lcna": "n50002948"
        }
+      },
+      {"issue": {"issue-date": "1954-07", "volume": "46", "number": "3"},
+       "title": "The Tree of Life",
+       "note": "There is no renewal filed specifically for this story; however, it was originally published in the September 1930 issue, which has a renewal active through the end of 2025.",
+       "author": {
+         "authorized": "Ernst, Paul, 1899-1985",
+         "lcna": "no2016018093"
+       }
+      },
+      {"issue": {"issue-date": "1954-07", "volume": "46", "number": "3"},
+       "title": "Passing of a God",
+       "note": "There is no renewal filed specifically for this story; however, it was originally published in the January 1931 issue, which has a renewal active through the end of 2025.",
+       "author": {
+         "authorized": "Whitehead, Henry S. (Henry St. Clair), 1882-1932",
+         "lcna": "n86858511"
+       }
+      },
+      {"issue": {"issue-date": "1954-09", "volume": "46", "number": "4"},
+       "title": "The Dark Man",
+       "note": "There is no renewal filed specifically for this novel; however, it was originally published in the December 1931 issue, which has a renewal active through the end of 2026.",
+       "author": {
+         "authorized": "Howard, Robert E. (Robert Ervin), 1906-1936",
+         "lcna": "n79018012"
+       }
+      },
+      {"issue": {"issue-date": "1954-09", "volume": "46", "number": "4"},
+       "title": "De Brignac's Lady",
+       "note": "There is no renewal filed specifically for this story; however, it was originally published in the February 1933 issue, which has a renewal active through the end of 2028.",
+       "author": {
+         "name": "Kirk Mashburn"
+       }
       }
    ],
    "additional-note": "This magazine occasionally included reprints (which are often noted in the contents databases we link to here). We have not systematically surveyed the copyright status of stories reprinted in this magazine, but some of them may still have active copyrights.",
@@ -2171,5 +2243,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-01-06"
+   "last-updated": "2024-05-29"
 }

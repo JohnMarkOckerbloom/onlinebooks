@@ -1,0 +1,78 @@
+#!/usr/bin/perl
+
+# BEGIN LINES that change in test version
+BEGIN {
+$OLBP::SCRIPTNAME = "book";
+}
+
+use lib "/websites/OnlineBooks/nonpublic/lib";
+use lib "nlib";
+use CGI;
+use OLBP;
+use OLBP::Hash;
+use OLBP::AgentPage;
+use OLBP::SubjectHierarchyBrowser;
+
+my $default        = "https://onlinebooks.library.upenn.edu";
+my $wikiagentroot  = $OLBP::dbdir . "who";
+
+# returns the path to the directory for this agent, or undef if none exists
+# For now, we'll assume the arg is always the Q-number, but we could
+# potentially support looking up other args in the future
+
+sub find_dir {
+  my ($id) = @_;
+  if ($id =~ /^Q(\d+)$/) {
+    my $idnum = $1;
+    my $idsubdir = sprintf("%02d", ($idnum % 100));
+    my $path = "$wikiagentroot/$idsubdir/$id";
+    return $path if (-d $path);
+  }
+  return undef;
+}
+
+sub showagent {
+  my ($qid, $dir) = @_;
+  my $subbrowser = new OLBP::SubjectHierarchyBrowser();
+  my $page = new OLBP::AgentPage(id=>$qid, dir=>$dir, subbrowser=>$subbrowser);
+  my $heading = $page->get_heading();
+
+  print qq^<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="$OLBP::styleurl" />
+<link rel="stylesheet" type="text/css" href="$OLBP::AgentPage::styleurl" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+^;
+  print "<title>$heading | The Online Books Page</title></head>";
+  print $OLBP::bodystart;
+  $page->display();
+  print OLBP::result_tips();
+  print OLBP::choicelist();
+  print $OLBP::bodyend;
+}
+
+sub getout {
+  print "Location: $default\n\n";
+  exit 0;
+}
+
+my $q = new CGI;
+my $arg = $q->url(-path_info=>1);
+$arg =~ s/(.*)\///;
+
+# validate inputs - must be only ASCII alphanumeric and hyphen
+if (!$arg || $arg =~ /[^a-zA-Z0-9\-]/) {
+  getout();
+}
+my $whodir = find_dir($arg);
+if (!$whodir) {
+  getout();
+}
+
+binmode STDOUT, ":utf8";
+if (defined($ENV{"GATEWAY_INTERFACE"})) {
+  print "Content-type: text/html\n\n";
+}
+
+showagent($arg, $whodir);

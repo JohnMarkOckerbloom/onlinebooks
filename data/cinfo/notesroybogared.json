@@ -1,9 +1,12 @@
 {
    "title": "Notes from the Royal Botanic Garden, Edinburgh",
+   "online": "1",
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
+   "succeeded-by":
+     [{"id": "edinburghjbot", "note": "Edinburgh Journal of Botany"}],
    "additional-note": 
       "This is a British publication. Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US.",
    "responsibility": {
@@ -12,5 +15,5 @@
    },
    "acknowledgement": 
       "Thanks to Pete Sullivan for copyright research on this title.",
-   "last-updated": "2024-04-03"
+   "last-updated": "2024-05-09"
 }

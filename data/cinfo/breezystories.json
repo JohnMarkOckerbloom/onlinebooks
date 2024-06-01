@@ -1,5 +1,6 @@
 {
    "title": "Breezy Stories",
+   "online": "1",
    "contents": [
       {"url": "http://www.philsp.com/homeville/FMI/link.asp?magid=BRZST",
        "note": "FictionMags (most issues)"}
@@ -8,9 +9,20 @@
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": {"issue": {"issue-date": "1931-05"}},
    "first-renewed-contribution-source": "1959-JanJun",
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1931-05"},
+        "title": "The Master Key",
+        "note": "The author might be Alec Rackowe, who lived from 1897-1991 and published numerous works under his own name, but we have not yet been able to verify this.",
+        "author": {
+          "name": "A. N. D. Rackowe",
+          "using": "Berkham Stead"
+        }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-08-07"
+   "last-updated": "2024-05-02"
 }

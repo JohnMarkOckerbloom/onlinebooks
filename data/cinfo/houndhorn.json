@@ -1,5 +1,6 @@
 {
    "title": "Hound and Horn",
+   "online": "1",
    "first-issue":
       {"issue-date": "1927-09", "volume": "1", "number": "1"},
    "first-renewed-issue": "none",
@@ -8,9 +9,46 @@
    "first-renewed-contribution-source": "1957-JanJun",
    "last-issue":
       {"issue-date": "1934-July/September", "volume": "7", "number": "4"},
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1930-April-June"},
+      "title": "Ambergris",
+      "author": {
+       "authorized": "Kunitz, Stanley, 1905-2006",
+       "lcna": "n79007720"
+      }
+     },
+     {"issue": {"issue-date": "1930-October-December"},
+        "title": "The Automobile That Wouldn't Run",
+        "author": {
+         "authorized": "Caldwell, Erskine, 1903-1987",
+         "lcna": "n78095661"
+        }
+     },
+     {"issue": {"issue-date": "1931-April-June"},
+        "title": "Stood at the Closed Door, and Remembered; Nothing to Say, You Say?  Then We'll Say Nothing; Rimbaud and Verlaine, Precious Pair of Poets; The Dead Man Spoke to Me and Turned a Page",
+        "author": {
+         "authorized": "Aiken, Conrad, 1889-1973",
+         "lcna": "n80060447"
+        }
+     },
+     {"issue": {"issue-date": "1931-July-September"},
+        "title": "Light Sons and Dark",
+        "author": {
+         "authorized": "De Jong, David Cornel, 1901-1967",
+         "lcna": "n50042194"
+        }
+     },
+     {"issue": {"issue-date": "1931-October-December"},
+        "title": "Asp of the Age",
+        "author": {
+          "name": "Merle Hoyleman"
+        }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-08-13"
+   "last-updated": "2024-05-20"
 }

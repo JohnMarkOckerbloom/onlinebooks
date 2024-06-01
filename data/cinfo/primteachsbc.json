@@ -1,0 +1,79 @@
+{
+   "title": "Primary Teacher",
+   "title-note": "Southern Baptist Convention",
+   "first-renewed-issue":
+     {"issue-date": "1955-January-March", "volume": "32", "number": "1"},
+   "first-renewed-issue-source": "database",
+   "first-renewed-contribution":
+      {"issue": {"issue-date": "1957-October-December"}},
+   "first-renewed-contribution-source": "database",
+   "renewed-issue-completeness": "active/autorenewals",
+   "renewed-issues": [
+     {"issue-date": "1955-January-March", "volume": "32", "number": "1"},
+     {"issue-date": "1955-April-June", "volume": "32", "number": "2"},
+     {"issue-date": "1955-July-September", "volume": "32", "number": "3"},
+     {"issue-date": "1955-October-December", "volume": "32", "number": "4"},
+     {"issue-date": "1956-January-March", "volume": "33", "number": "1"},
+     {"issue-date": "1956-April-June", "volume": "33", "number": "2"},
+     {"issue-date": "1956-July-September", "volume": "33", "number": "3"},
+     {"issue-date": "1956-October-December", "volume": "33", "number": "4"},
+     {"issue-date": "1957-January-March", "volume": "34", "number": "1"},
+     {"issue-date": "1957-April-June", "volume": "34", "number": "2"},
+     {"issue-date": "1957-July-September", "volume": "34", "number": "3"},
+     {"issue-date": "1957-October-December", "volume": "34", "number": "4"},
+     {"issue-date": "1958-January-March", "volume": "35", "number": "1",
+      "note": "Renewal record gives issue dates as 'Jan.-Mar. 1957', but the year there appears to be a typographical error."},
+     {"issue-date": "1958-April-June", "volume": "35", "number": "2"},
+     {"issue-date": "1958-July-September", "volume": "35", "number": "3"},
+     {"issue-date": "1958-October-December", "volume": "35", "number": "4"},
+     {"issue-date": "1959-January-March", "volume": "36", "number": "1"},
+     {"issue-date": "1959-April-June", "volume": "36", "number": "2"},
+     {"issue-date": "1959-July-September", "volume": "36", "number": "3"},
+     {"issue-date": "1959-October-December", "volume": "36", "number": "4"},
+     {"issue-date": "1960-January-March", "volume": "37", "number": "1"},
+     {"issue-date": "1960-April-June", "volume": "37", "number": "2"},
+     {"issue-date": "1960-July-September", "volume": "37", "number": "3"},
+     {"issue-date": "1960-October-December", "volume": "37", "number": "4"},
+     {"issue-date": "1961-January-March", "volume": "38", "number": "1"},
+     {"issue-date": "1961-April-June", "volume": "38", "number": "2"},
+     {"issue-date": "1961-July-September", "volume": "38", "number": "3"},
+     {"issue-date": "1961-October-December", "volume": "38", "number": "4"},
+     {"issue-date": "1962-January-March", "volume": "39", "number": "1"},
+     {"issue-date": "1962-April-June", "volume": "39", "number": "2"},
+     {"issue-date": "1962-July-September", "volume": "39", "number": "3"},
+     {"issue-date": "1962-October-December", "volume": "39", "number": "4"},
+     {"issue-date": "1963-January-March", "volume": "40", "number": "1"}
+   ],
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+    {"issue":
+        {"issue-date": "1957-October-December"},
+      "title": "Glory to God",
+      "note": "The renewal record says this musical composition appeared in the October-December 1957 issue of 'Primary Teacher', but does not make clear whether it appeared in this Primary Teacher or one of the other periodicals linked here with the same title.",
+      "author":
+        {"name": "Scripture Press Publications"}
+     },
+     {"issue":
+        {"issue-date": "1963-October-December"},
+      "title": "Thanks Be Unto God",
+      "note": "The renewal record says this musical composition appeared in the October-December 1963 issue of 'Primary Teacher', but does not make clear whether it appeared in this Primary Teacher or one of the other periodicals linked here with the same title.",
+      "author":
+        {"name": "Iris Deane Starkey"}
+     }
+   ],
+   "see-also":
+     [{"id": "primteachjud", "note": "Primary Teacher (Judson Press)"},
+      {"id": "primteachnaz",
+       "note": "Primary Teacher (Nazarene Publishing House)"},
+      {"id": "primteachspf",
+       "note": "Primary Teacher (Standard Publishing)"}],
+   "additional-notes": [
+     "Copyrights for magazines with the same title for various Protestant churches were also registered in some of the same years as the Southern Baptist Convention publication described here.  We do not know if they shared content in common.",
+     "Contribution renewals shown here are for works that have renewal records filed as Contributions to Periodicals that specifically mention 'Primary Teacher'.  It is possible that there may also be active renewals filed under Music for other musical compositions that appeared in Primary Teacher.  We have not systematically surveyed Music renewals."
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2024-05-11"
+}
