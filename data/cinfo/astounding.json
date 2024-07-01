@@ -122,6 +122,10 @@
       {"issue-date": "1942-01", "volume": "28", "number": "5"},
       {"issue-date": "1942-02", "volume": "28", "number": "6"},
       {"issue-date": "1942-03", "volume": "29", "number": "1"},
+      {"issue-date": "1942-04", "volume": "29", "number": "2",
+       "note": "The renewal for this issue, which has the ID 'R460796', was filed May 2, 1969.  It appears to have not been recorded in the 1969 CCE Periodicals volume, but it does appear in the Copyright Office's virtual card file at https://vcc.copyright.gov/ . (Select the '1955-1970' index and then do a text search for the renewal ID.)"},
+      {"issue-date": "1942-05", "volume": "29", "number": "3",
+       "note": "The renewal for this issue, which has the ID 'R460814', was filed May 2, 1969.  It appears to have not been recorded in the 1969 CCE Periodicals volume, but it does appear in the Copyright Office's virtual card file at https://vcc.copyright.gov/ . (Select the '1955-1970' index and then do a text search for the renewal ID.)"},
       {"issue-date": "1942-06", "volume": "29", "number": "4"},
       {"issue-date": "1942-07", "volume": "29", "number": "5"},
       {"issue-date": "1942-08", "volume": "29", "number": "6"},
@@ -329,7 +333,7 @@
       {"issue-date": "1960-08", "volume": "65", "number": "6"},
       {"issue-date": "1960-09", "volume": "66", "number": "1"}
    ],
-   "renewed-contribution-completeness": "active/1939",
+   "renewed-contribution-completeness": "active/1940",
    "renewed-contributions": [
       {"issue": {"issue-date": "1934-03", "volume": "13", "number": "1"}, 
        "title": "Born of the Sun",
@@ -881,8 +885,32 @@
           "lcna": "n79067868"
        }
       },
+      {"issue": {"issue-date": "1940-07", "volume": "25", "number": "5"}, 
+       "title": "The Science of Whithering",
+       "title-note": "part 1 of 2",
+       "author": {
+         "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+         "lcna": "n80057222"
+       }
+      },
       {"issue": {"issue-date": "1940-08", "volume": "25", "number": "6"}, 
        "title": "Vault of the Beast",
+        "author": {
+          "authorized": "Van Vogt, A. E. (Alfred Elton), 1912-2000",
+          "lcna": "n79123985"
+        }
+      },
+      {"issue": {"issue-date": "1940-08", "volume": "25", "number": "6"}, 
+       "title": "The Science of Whithering",
+       "title-note": "part 2 of 2",
+       "author": {
+         "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+         "lcna": "n80057222"
+       }
+      },
+      {"issue": {"issue-date": "1940-09", "volume": "26", "number": "1"}, 
+       "title": "Slan",
+       "title-note": "part 1 of 4",
         "author": {
           "authorized": "Van Vogt, A. E. (Alfred Elton), 1912-2000",
           "lcna": "n79123985"
@@ -910,11 +938,134 @@
         }
       },
       {"issue": {"issue-date": "1940-10", "volume": "26", "number": "2"}, 
+       "title": "Slan",
+       "title-note": "part 2 of 4",
+        "author": {
+          "authorized": "Van Vogt, A. E. (Alfred Elton), 1912-2000",
+          "lcna": "n79123985"
+        }
+      },
+      {"issue": {"issue-date": "1940-10", "volume": "26", "number": "2"}, 
        "title": "Farewell to the Master",
         "author": {
           "authorized": "Bates, Harry, 1900-1981",
           "lcna": "no99082693"
         }
+      },
+      {"issue": {"issue-date": "1940-10", "volume": "26", "number": "2"}, 
+       "title": "The Warrior Race",
+       "author": {
+         "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+         "lcna": "n80057222"
+       }
+      },
+      {"issue": {"issue-date": "1940-11", "volume": "26", "number": "3"}, 
+       "title": "The Exalted",
+       "author": {
+         "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+         "lcna": "n80057222"
+       }
+      },
+      {"issue": {"issue-date": "1940-11", "volume": "26", "number": "3"}, 
+       "title": "Slan",
+       "title-note": "part 3 of 4",
+        "author": {
+          "authorized": "Van Vogt, A. E. (Alfred Elton), 1912-2000",
+          "lcna": "n79123985"
+        }
+      },
+      {"issue": {"issue-date": "1940-12", "volume": "26", "number": "4"}, 
+       "title": "Justinian Jugg's Patent",
+       "author": {
+         "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+         "lcna": "n80057222"
+       }
+      },
+      {"issue": {"issue-date": "1940-12", "volume": "26", "number": "4"}, 
+       "title": "Slan",
+       "title-note": "part 4 of 4",
+        "author": {
+          "authorized": "Van Vogt, A. E. (Alfred Elton), 1912-2000",
+          "lcna": "n79123985"
+        }
+      },
+      {"issue": {"issue-date": "1941-01", "volume": "26", "number": "5"}, 
+       "title": "Sixth Column",
+       "title-note": "part 1 of 3",
+       "author": {
+          "authorized": "Heinlein, Robert A. (Robert Anson), 1907-1988",
+          "using": "Anson Macdonald",
+          "lcna": "n79067868"
+       }
+      },
+      {"issue": {"issue-date": "1941-02", "volume": "26", "number": "6"}, 
+       "title": "And He Built a Crooked House",
+       "author": {
+          "authorized": "Heinlein, Robert A. (Robert Anson), 1907-1988",
+          "lcna": "n79067868"
+       }
+      },
+      {"issue": {"issue-date": "1941-02", "volume": "26", "number": "6"}, 
+       "title": "The Best-Laid Scheme",
+       "author": {
+         "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+         "lcna": "n80057222"
+       }
+      },
+      {"issue": {"issue-date": "1941-02", "volume": "26", "number": "6"}, 
+       "title": "Sixth Column",
+       "title-note": "part 2 of 3",
+       "author": {
+          "authorized": "Heinlein, Robert A. (Robert Anson), 1907-1988",
+          "using": "Anson Macdonald",
+          "lcna": "n79067868"
+       }
+      },
+      {"issue": {"issue-date": "1941-03", "volume": "27", "number": "1"}, 
+       "title": "Logic of Empire",
+       "author": {
+          "authorized": "Heinlein, Robert A. (Robert Anson), 1907-1988",
+          "lcna": "n79067868"
+       }
+      },
+      {"issue": {"issue-date": "1941-03", "volume": "27", "number": "1"}, 
+       "title": "Sixth Column",
+       "title-note": "part 3 of 3",
+       "author": {
+          "authorized": "Heinlein, Robert A. (Robert Anson), 1907-1988",
+          "using": "Anson Macdonald",
+          "lcna": "n79067868"
+       }
+      },
+      {"issue": {"issue-date": "1941-04", "volume": "27", "number": "2"}, 
+       "title": "The Stolen Dormouse",
+       "title-note": "part 1 of 2",
+       "author": {
+         "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+         "lcna": "n80057222"
+       }
+      },
+      {"issue": {"issue-date": "1941-04", "volume": "27", "number": "2"}, 
+       "title": "Reason",
+        "author": {
+          "authorized": "Asimov, Isaac, 1920-1992",
+          "lcna": "n80126289"
+        }
+      },
+      {"issue": {"issue-date": "1941-04", "volume": "27", "number": "2"}, 
+       "title": "They",
+       "note": "CCE renewal record states this was published in Astounding Science Fiction, but FictionMags instead says it was published in Unknown, in the issue for the same month. We have not examined the issues in question.",
+       "author": {
+          "authorized": "Heinlein, Robert A. (Robert Anson), 1907-1988",
+          "lcna": "n79067868"
+       }
+      },
+      {"issue": {"issue-date": "1941-05", "volume": "27", "number": "3"}, 
+       "title": "Universe",
+       "author": {
+          "authorized": "Heinlein, Robert A. (Robert Anson), 1907-1988",
+          "lcna": "n79067868"
+       }
       },
       {"issue": {"issue-date": "1941-05", "volume": "27", "number": "3"}, 
        "title": "Liar!",
@@ -922,8 +1073,114 @@
           "authorized": "Asimov, Isaac, 1920-1992",
           "lcna": "n80126289"
         }
+      },
+      {"issue": {"issue-date": "1941-05", "volume": "27", "number": "3"}, 
+       "title": "Solution Unsatifactory",
+       "author": {
+          "authorized": "Heinlein, Robert A. (Robert Anson), 1907-1988",
+          "using": "Anson Macdonald",
+          "lcna": "n79067868"
+       }
+      },
+      {"issue": {"issue-date": "1941-05", "volume": "27", "number": "3"}, 
+       "title": "The Stolen Dormouse",
+       "title-note": "part 2 of 2",
+       "author": {
+         "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+         "lcna": "n80057222"
+       }
+      },
+      {"issue": {"issue-date": "1941-06", "volume": "27", "number": "4"}, 
+       "title": "Time Wants a Skeleton",
+       "author": {
+          "authorized": "Rocklynne, Ross, 1913-1988",
+          "lcna": "n88278070"
+       }
+      },
+      {"issue": {"issue-date": "1941-06", "volume": "27", "number": "4"}, 
+       "title": "A Matter of Speed",
+        "author": {
+          "authorized": "Bates, Harry, 1900-1981",
+          "lcna": "no99082693"
+        }
+      },
+      {"issue": {"issue-date": "1941-07", "volume": "27", "number": "5"}, 
+       "title": "Methuselah's Children",
+       "title-note": "part 1 of 3",
+       "author": {
+          "authorized": "Heinlein, Robert A. (Robert Anson), 1907-1988",
+          "lcna": "n79067868"
+       }
+      },
+      {"issue": {"issue-date": "1941-07", "volume": "27", "number": "5"}, 
+       "title": "We Also Walk Dogs",
+       "author": {
+          "authorized": "Heinlein, Robert A. (Robert Anson), 1907-1988",
+          "lcna": "n79067868"
+       }
+      },
+      {"issue": {"issue-date": "1941-08", "volume": "27", "number": "6"}, 
+       "title": "Methuselah's Children",
+       "title-note": "part 2 of 3",
+       "author": {
+          "authorized": "Heinlein, Robert A. (Robert Anson), 1907-1988",
+          "lcna": "n79067868"
+       }
+      },
+      {"issue": {"issue-date": "1941-08", "volume": "27", "number": "6"}, 
+       "title": "Backlash",
+        "author": {
+         "authorized": "Williamson, Jack, 1908-2006",
+         "lcna": "n79027136"
+       }
+      },
+      {"issue": {"issue-date": "1941-09", "volume": "28", "number": "1"}, 
+       "title": "Nightfall",
+        "author": {
+          "authorized": "Asimov, Isaac, 1920-1992",
+          "lcna": "n80126289"
+        }
+      },
+      {"issue": {"issue-date": "1941-09", "volume": "28", "number": "1"}, 
+       "title": "Elsewhere",
+       "author": {
+          "authorized": "Heinlein, Robert A. (Robert Anson), 1907-1988",
+          "using": "Caleb Saunders",
+          "lcna": "n79067868"
+       }
+      },
+      {"issue": {"issue-date": "1941-09", "volume": "28", "number": "1"}, 
+       "title": "Methuselah's Children",
+       "title-note": "part 3 of 3",
+       "author": {
+          "authorized": "Heinlein, Robert A. (Robert Anson), 1907-1988",
+          "lcna": "n79067868"
+       }
+      },
+      {"issue": {"issue-date": "1941-10", "volume": "28", "number": "2"}, 
+       "title": "By His Bootstraps",
+       "author": {
+          "authorized": "Heinlein, Robert A. (Robert Anson), 1907-1988",
+          "using": "Anson Macdonald",
+          "lcna": "n79067868"
+       }
+      },
+      {"issue": {"issue-date": "1941-10", "volume": "28", "number": "2"}, 
+       "title": "Not Final!",
+        "author": {
+          "authorized": "Asimov, Isaac, 1920-1992",
+          "lcna": "n80126289"
+        }
+      },
+      {"issue": {"issue-date": "1941-10", "volume": "28", "number": "2"}, 
+       "title": "Common Sense",
+       "author": {
+          "authorized": "Heinlein, Robert A. (Robert Anson), 1907-1988",
+          "lcna": "n79067868"
+       }
       }
    ],
+   "comment": "Resume contribution renewal search with 1969 Jan-Jun",
    "additional-notes": [
       "Contribution renewals are recorded beginning in the 1961 July-December CCE volume, but the earliest renewed contribution is noted in the 1962 January-June volume.",
       "The word 'Analog' starts appearing along 'Astounding' in the cover title in early 1960.  The September 1960 issue is the last with 'Astounding' on the cover."
@@ -932,5 +1189,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-06-19"
+   "last-updated": "2024-06-03"
 }

@@ -1,5 +1,9 @@
 {
    "title": "Mitteilungen zur Jüdischen Volkskunde",
+   "online": "1",
+   "preceded-by":
+     [{"id": "mitgesjudvolk",
+       "note": "Mitteilungen der Gesellschaft für Jüdische Volkskunde"}],
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": "none",
@@ -12,5 +16,5 @@
    },
    "acknowledgement": 
       "Thanks to Pete Sullivan for copyright research on this title.",
-   "last-updated": "2024-02-20"
+   "last-updated": "2024-06-12"
 }

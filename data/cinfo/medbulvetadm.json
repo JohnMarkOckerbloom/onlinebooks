@@ -1,5 +1,9 @@
 {
    "title": "The Medical Bulletin of the Veterans Administration",
+   "online": "1",
+   "preceded-by":
+      [{"id": "usvetburmedbul",
+        "note": "United States Veterans' Bureau Medical Bulletin"}],
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": "none",
@@ -11,5 +15,5 @@
    },
    "acknowledgement": 
       "Thanks to Pete Sullivan for copyright research on this title.",
-   "last-updated": "2023-12-20"
+   "last-updated": "2024-06-04"
 }

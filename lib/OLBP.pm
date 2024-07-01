@@ -22,9 +22,9 @@ my $idxdir      = $OLBP::dbdir . "indexes/";
  
 my $authoraddr = "onlinebooks\@pobox.upenn.edu";
 
-my $serverurl = "https://onlinebooks.library.upenn.edu/";
-my $booksurl  = $serverurl;
-my $cgiurl    = $serverurl . "webbin/";
+$OLBP::serverurl = "https://onlinebooks.library.upenn.edu/";
+my $booksurl  = $OLBP::serverurl;
+my $cgiurl    = $OLBP::serverurl . "webbin/";
 $OLBP::styleurl  = $booksurl . "olbp.css";
 
 $OLBP::homepage  = $booksurl;

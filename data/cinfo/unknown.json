@@ -60,9 +60,324 @@
       {"issue-date": "1943-08", "volume": "7", "number": "2"},
       {"issue-date": "1943-10", "volume": "7", "number": "3"}
    ],
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+      {"issue": {"issue-date": "1939-04", "volume": "1", "number": "2"}, 
+       "title": "Divide and Rule",
+       "title-note": "part 1 of 2",
+       "author": {
+         "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+         "lcna": "n80057222"
+       }
+      },
+      {"issue": {"issue-date": "1939-05", "volume": "1", "number": "3"}, 
+       "title": "Divide and Rule",
+       "title-note": "part 2 of 2",
+       "author": {
+         "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+         "lcna": "n80057222"
+       }
+      },
+      {"issue": {"issue-date": "1939-06", "volume": "1", "number": "4"}, 
+       "title": "The Gnarly Man",
+       "author": {
+         "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+         "lcna": "n80057222"
+       }
+      },
+      {"issue": {"issue-date": "1939-07", "volume": "1", "number": "5"}, 
+       "title": "Nothing in the Rules",
+       "author": {
+         "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+         "lcna": "n80057222"
+       }
+      },
+      {"issue": {"issue-date": "1939-08", "volume": "1", "number": "6"},
+       "title": "Two Sought Adventure",
+        "author": {
+          "authorized": "Leiber, Fritz, 1910-1992",
+          "lcna": "n79054477"
+       }
+      },
+     {"issue": {"issue-date": "1939-11", "volume": "2", "number": "3"},
+      "title": "The Bronze Door",
+      "author": {
+         "authorized": "Chandler, Raymond, 1888-1959",
+         "lcna": "n79113919"
+       }
+     },
+     {"issue": {"issue-date": "1939-12", "volume": "2", "number": "4"}, 
+      "title": "Lest Darkess Fall",
+      "author": {
+        "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+        "lcna": "n80057222"
+      }
+     },
+     {"issue": {"issue-date": "1940-03", "volume": "3", "number": "1"}, 
+      "title": "The Reign of Wizardry",
+      "title-note": "part 1 of 3",
+       "author": {
+        "authorized": "Williamson, Jack, 1908-2006",
+        "lcna": "n79027136"
+      }
+     },
+     {"issue": {"issue-date": "1940-04", "volume": "3", "number": "2"}, 
+      "title": "The Reign of Wizardry",
+      "title-note": "part 2 of 3",
+       "author": {
+        "authorized": "Williamson, Jack, 1908-2006",
+        "lcna": "n79027136"
+      }
+     },
+     {"issue": {"issue-date": "1940-05", "volume": "3", "number": "3"}, 
+      "title": "The Roaring Trumpet",
+      "authors": [
+       {"authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+        "lcna": "n80057222"},
+       {"authorized": "Pratt, Fletcher, 1897-1956",
+         "lcna": "n50021577"}
+      ]
+     },
+     {"issue": {"issue-date": "1940-05", "volume": "3", "number": "3"}, 
+      "title": "The Reign of Wizardry",
+      "title-note": "part 3 of 3",
+       "author": {
+        "authorized": "Williamson, Jack, 1908-2006",
+        "lcna": "n79027136"
+      }
+     },
+     {"issue": {"issue-date": "1940-08", "volume": "3", "number": "6"}, 
+      "title": "The Mathematics of Magic",
+      "authors": [
+       {"authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+        "lcna": "n80057222"},
+       {"authorized": "Pratt, Fletcher, 1897-1956",
+         "lcna": "n50021577"}
+      ]
+     },
+     {"issue": {"issue-date": "1940-09", "volume": "4", "number": "1"},
+      "title": "The Devil Makes the Law",
+      "author": {
+         "authorized": "Heinlein, Robert A. (Robert Anson), 1907-1988",
+         "lcna": "n79067868"
+      }
+     },
+     {"issue": {"issue-date": "1940-09", "volume": "4", "number": "1"}, 
+      "title": "The Hardwood Pile",
+      "author": {
+        "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+        "lcna": "n80057222"
+      }
+     },
+     {"issue": {"issue-date": "1940-10", "volume": "4", "number": "2"}, 
+      "title": "The Wheels of If",
+      "author": {
+        "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+        "lcna": "n80057222"
+      }
+     },
+     {"issue": {"issue-date": "1940-10", "volume": "4", "number": "2"}, 
+      "title": "Fruit of Knowledge",
+      "author": {
+       "authorized": "Moore, C. L. (Catherine Lucile), 1911-1987",
+       "lcna": "n50028286"
+      }
+     },
+     {"issue": {"issue-date": "1940-11", "volume": "4", "number": "3"},
+      "title": "The Gods Gil Made",
+      "author": {
+        "authorized": "Rocklynne, Ross, 1913-1988",
+        "lcna": "n88278070"
+      }
+     },
+     {"issue": {"issue-date": "1940-11", "volume": "4", "number": "3"},
+      "title": "The Bleak Shore",
+       "author": {
+         "authorized": "Leiber, Fritz, 1910-1992",
+         "lcna": "n79054477"
+      }
+     },
+     {"issue": {"issue-date": "1940-12", "volume": "4", "number": "4"}, 
+      "title": "Darker Than You Think",
+       "author": {
+        "authorized": "Williamson, Jack, 1908-2006",
+        "lcna": "n79027136"
+      }
+     },
+     {"issue": {"issue-date": "1941-04", "volume": "4", "number": "6"},
+      "title": "The Castle of Iron",
+      "authors": [
+       {"authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+        "lcna": "n80057222"},
+       {"authorized": "Pratt, Fletcher, 1897-1956",
+         "lcna": "n50021577"}
+      ]
+     },
+     {"issue": {"issue-date": "1941-04", "volume": "4", "number": "6"},
+      "title": "They",
+      "note": "CCE renewal record states this was published in the April 1941 issue of Astounding Science Fiction, but FictionMags instead says it was published in Unknown, in the issue for the same month. We have not examined the issues in question.",
+      "author": {
+         "authorized": "Heinlein, Robert A. (Robert Anson), 1907-1988",
+         "lcna": "n79067868"
+      }
+     },
+    {"issue": {"issue-date": "1941-06", "volume": "5", "number": "1"},
+      "title": "The Howling Tower",
+       "author": {
+         "authorized": "Leiber, Fritz, 1910-1992",
+         "lcna": "n79054477"
+      }
+     },
+     {"issue": {"issue-date": "1941-08", "volume": "5", "number": "2"},
+       "title": "The Devil We Know",
+       "author": {
+         "authorized": "Kuttner, Henry",
+         "lcna": "n50061631"
+       }
+     },
+     {"issue": {"issue-date": "1941-10", "volume": "5", "number": "3"},
+      "title": "The Land of Unreason",
+      "authors": [
+       {"authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+        "lcna": "n80057222"},
+       {"authorized": "Pratt, Fletcher, 1897-1956",
+         "lcna": "n50021577"}
+      ]
+     },
+     {"issue": {"issue-date": "1941-10", "volume": "5", "number": "3"},
+      "title": "A Good Knight's Work",
+      "author": {
+        "authorized": "Bloch, Robert, 1917-1994",
+        "lcna": "n50016557"
+      }
+     },
+     {"issue": {"issue-date": "1941-10", "volume": "5", "number": "3"},
+      "title": "Smoke Ghost",
+       "author": {
+         "authorized": "Leiber, Fritz, 1910-1992",
+         "lcna": "n79054477"
+      }
+     },
+     {"issue": {"issue-date": "1941-10", "volume": "5", "number": "3"},
+       "title": "A Gnome There Was",
+       "author": {
+         "authorized": "Kuttner, Henry",
+         "lcna": "n50061631"
+       }
+     },
+     {"issue": {"issue-date": "1941-12", "volume": "5", "number": "4"}, 
+      "title": "Mr. Arson",
+      "author": {
+        "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+        "lcna": "n80057222"
+      }
+     },
+     {"issue": {"issue-date": "1942-02", "volume": "5", "number": "5"}, 
+      "title": "The Undesired Princess",
+      "author": {
+        "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+        "lcna": "n80057222"
+      }
+     },
+     {"issue": {"issue-date": "1942-02", "volume": "5", "number": "5"}, 
+       "title": "Design for Dreaming",
+       "author": {
+         "authorized": "Kuttner, Henry",
+         "lcna": "n50061631"
+       }
+     },
+     {"issue": {"issue-date": "1942-06", "volume": "6", "number": "1"}, 
+      "title": "Solomon's Stone",
+      "author": {
+        "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+        "lcna": "n80057222"
+      }
+     },
+     {"issue": {"issue-date": "1942-08", "volume": "6", "number": "2"}, 
+      "title": "The Ghost",
+       "author": {
+         "authorized": "Van Vogt, A. E. (Alfred Elton), 1912-2000",
+         "lcna": "n79123985"
+       }
+     },
+     {"issue": {"issue-date": "1942-08", "volume": "6", "number": "2"}, 
+      "title": "The Wisdom of the East",
+      "author": {
+        "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+        "lcna": "n80057222"
+      }
+     },
+     {"issue": {"issue-date": "1942-10", "volume": "6", "number": "3"},
+      "title": "The Unpleasant Profession of Jonathan Hoag",
+      "author": {
+         "authorized": "Heinlein, Robert A. (Robert Anson), 1907-1988",
+         "using": "John Riverside",
+         "lcna": "n79067868"
+      }
+     },
+     {"issue": {"issue-date": "1942-10", "volume": "6", "number": "3"},
+       "title": "Compliments of the Author",
+       "author": {
+         "authorized": "Kuttner, Henry",
+         "lcna": "n50061631"
+       }
+     },
+     {"issue": {"issue-date": "1943-02", "volume": "6", "number": "5"},
+       "title": "Wet Magic",
+       "author": {
+         "authorized": "Kuttner, Henry",
+         "lcna": "n50061631"
+       }
+     },
+     {"issue": {"issue-date": "1943-02", "volume": "6", "number": "5"},
+      "title": "The Witch",
+       "author": {
+         "authorized": "Van Vogt, A. E. (Alfred Elton), 1912-2000",
+         "lcna": "n79123985"
+       }
+     },
+     {"issue": {"issue-date": "1943-04", "volume": "6", "number": "6"},
+       "title": "No Greater Love",
+       "author": {
+         "authorized": "Kuttner, Henry",
+         "lcna": "n50061631"
+       }
+     },
+     {"issue": {"issue-date": "1943-08", "volume": "7", "number": "2"}, 
+      "title": "Conscience, Ltd.",
+       "author": {
+        "authorized": "Williamson, Jack, 1908-2006",
+        "lcna": "n79027136"
+      }
+     },
+     {"issue": {"issue-date": "1943-08", "volume": "7", "number": "2"}, 
+      "title": "Greenface",
+      "author": {
+       "authorized": "Schmitz, James H., 1911-1981",
+       "lcna": "n80132906"
+      }
+     },
+     {"issue": {"issue-date": "1943-10", "volume": "7", "number": "3"}, 
+      "title": "The Book of Ptath",
+       "author": {
+         "authorized": "Van Vogt, A. E. (Alfred Elton), 1912-2000",
+         "lcna": "n79123985"
+       }
+     },
+     {"issue": {"issue-date": "1943-10", "volume": "7", "number": "3"}, 
+      "title": "The Patient",
+      "note": "CCE renewal record credits Van Vogt and Hull, in that order; FictionMags credits only Hull.",
+       "authors": [
+        {"authorized": "Van Vogt, A. E. (Alfred Elton), 1912-2000",
+         "lcna": "n79123985"},
+        {"authorized": "Hull, Edna Mayne",
+         "lcna": "no99064053"}
+       ]
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-07-23"
+   "last-updated": "2024-06-04"
 }

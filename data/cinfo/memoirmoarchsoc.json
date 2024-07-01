@@ -1,16 +1,20 @@
 {
    "title": "Memoir",
    "title-note": "Missouri Archaeological Society",
+   "online": "1",
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
-   "additional-note": "Some issues of this serial have distinctive titles.  Before concluding an issue is in the public domain, search for renewals for an issue under its distinctive title. We have not systematically checked issue titles for this serial.",
+   "additional-notes": [
+     "Some issues of this serial have distinctive titles.  Before concluding an issue is in the public domain, search for renewals for an issue under its distinctive title. We have not systematically checked issue titles for this serial.",
+     "Copyright notices were not found in a quick search and spot-check examination of Memoirs 1-9. There is a copyright notice in Memoir 11 that is still active. We have not examined Memoir 10, but HathiTrust search turns up an instance of the word 'copyright' in it."
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
    "acknowledgement": 
       "Thanks to Pete Sullivan for copyright research on this title.",
-   "last-updated": "2024-01-23"
+   "last-updated": "2024-06-10"
 }

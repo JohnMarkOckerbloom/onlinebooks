@@ -13,6 +13,8 @@ use OLBP;
 use OLBP::Hash;
 
 $idxdir =  "/websites/OnlineBooks/nonpublic/bookdb/indexes/";
+$bannedworksdir =  "/websites/OnlineBooks/nonpublic/bookdb/banned/works/";
+$banstub = "https://onlinebooks.library.upenn.edu/webbin/banned/work/";
 # $idxdir =  "/home/ockerblo/digital/nonpublic/bookdb/indexes/";
 
 $serverurl = "https://onlinebooks.library.upenn.edu/";
@@ -221,9 +223,19 @@ sub linktolibraries {
   print "<ul> <li> $info</ul>";
 }
 
+sub printban {
+  my $workid = shift;
+  my $path = $bannedworksdir . $workid . ".json";
+  if (-e $path) {
+    my $url = $banstub . $workid;
+    print qq!<p><a href="$url">We know of attempts to ban this work.</a></p>\n!;
+  }
+}
+
 sub showwork {
   my $br = shift;
   my $title = $br->get_title();
+  my $workid = $br->get_id();
   my $pagetitle = $title;
   my $iname = $br->get_informal_name(index=>1);
   if ($iname) {
@@ -293,6 +305,7 @@ sub showwork {
       print "<p>$note</p>\n";
     }
   }
+  printban($workid);
   if ($br->{WREL}) {
     print "<b>Related titles</b>\n";
     print "$UL\n";
@@ -346,7 +359,7 @@ sub showwork {
   }
 
   # my $iurl = $OLBP::scripturl . "/lookupid?key=" . $br->get_id();
-  my $iurl = get_lookup_url($br->get_id());
+  my $iurl = get_lookup_url($workid);
   print "<li> <a href=\"$iurl\">Full catalog description</a>";
   print "</ul>\n";
   print qq!</td><td class="separator">&nbsp;!;

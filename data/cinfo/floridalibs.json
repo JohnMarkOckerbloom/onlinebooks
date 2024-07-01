@@ -1,0 +1,24 @@
+{
+   "title": "Florida Libraries",
+   "online": "1",
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce+database",
+   "first-renewed-contribution":
+      {"issue": {"issue-date": "1955-06", "volume": "6", "number": "1"}},
+   "first-renewed-contribution-source": "database",
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1955-06", "volume": "6", "number": "1"},
+        "title": "Experiences Among the Seminole",
+        "author": {
+         "authorized": "Capron, Louis",
+         "lcna": "n97874245"
+        }
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2024-06-20"
+}

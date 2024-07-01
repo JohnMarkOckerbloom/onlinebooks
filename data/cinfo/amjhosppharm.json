@@ -1,5 +1,9 @@
 {
    "title": "American Journal of Hospital Pharmacy",
+   "online": "1",
+   "preceded-by":
+     [{"id": "bulamsochospha",
+       "note": "The Bulletin of the American Society of Hospital Pharmacists"}],
    "first-renewed-issue": 
     {"issue-date": "1964-01", "volume": "21", "number": "1"},
    "first-renewed-issue-source": "database",
@@ -13,5 +17,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-05-26"
+   "last-updated": "2024-06-19"
 }
