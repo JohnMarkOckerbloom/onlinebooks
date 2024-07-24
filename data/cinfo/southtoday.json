@@ -1,6 +1,7 @@
 {
    "title": "South Today",
    "title-note": "1940s",
+   "online": "1",
    "preceded-by": [{"id": "northgareview", "note": "North Georgia Review"}],
    "first-issue":
       {"issue-date": "1942-Spring", "volume": "7", "number": "1"},
@@ -11,9 +12,17 @@
    "first-renewed-contribution-source": "cce",
    "last-issue": 
       {"issue-date": "1945-Winter", "volume": "8", "number": "2"},
+   "renewed-issue-completeness": "active/end",
+   "renewed-issues": [
+      {"issue-date": "1942-Spring", "volume": "7", "number": "1"},
+      {"issue-date": "Autumn 1942 - Winter 1943", "volume": "7", "number": "2"},
+      {"issue-date": "1943-Spring", "volume": "7", "number": "3"},
+      {"issue-date": "1944-Spring-Summer", "volume": "8", "number": "1"},
+      {"issue-date": "1945-Winter", "volume": "8", "number": "2"}
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-03-10"
+   "last-updated": "2024-07-01"
 }

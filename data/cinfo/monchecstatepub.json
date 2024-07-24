@@ -1,6 +1,8 @@
 {
    "title": "Monthly Checklist of State Publications",
    "aka": ["Monthly Check-List of State Publications"],
+   "online": "1",
+   "preceded-by": [{"id": "monliststatepub", "note": "Monthly List of State Publications"}],
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
@@ -12,5 +14,5 @@
    },
    "acknowledgement": 
       "Thanks to Pete Sullivan for copyright research on this title.",
-   "last-updated": "2024-03-28"
+   "last-updated": "2024-07-12"
 }

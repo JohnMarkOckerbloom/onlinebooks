@@ -1,5 +1,7 @@
 {
    "title": "Nova Acta Leopoldina",
+   "preceded-by":
+     [{"id": "novaactaaclcgnc", "note": "Nova Acta, Academiae Caesareae Leopoldino-Carolinae Germanicae Naturae Curiosorum"}],
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
@@ -12,5 +14,5 @@
    },
    "acknowledgement": 
       "Thanks to Pete Sullivan for copyright research on this title.",
-   "last-updated": "2024-04-03"
+   "last-updated": "2024-07-22"
 }

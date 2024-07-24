@@ -29,7 +29,12 @@ my $CINFOURL= $OLBPURL . "webbin/cinfo";
 my $BFURL   = $OLBPURL . "webbin/backfile";
 my $PENNBF  = $BFURL . "/penn-serials";
 my $HATHIBF = $BFURL . "/hathitrust-us";
-my $WIKIBF = $BFURL . "/wikipedia-serials";
+my $CAMBF   = $BFURL . "/cambridge-journals";
+my $JSSBF   = $BFURL . "/jstor-separate-candidates";
+my $JSCBF   = $BFURL . "/jstor-consolidated-candidates";
+my $OXBF    = $BFURL . "/oxford-archive";
+my $SCIDBF  = $BFURL . "/scidirect-available";
+my $WIKIBF  = $BFURL . "/wikipedia-serials";
 my $COPYURL = $OLBPURL . "cce/";
 my $FPURL   = $COPYURL . "firstperiod.html";
 my $REGURL  = "https://cocatalog.loc.gov/";
@@ -395,7 +400,7 @@ sub formcataloglinkargs {
      $whose = "HathiTrust's";
      $catalog = "catalog";
      $hinturl =  "https://catalog.hathitrust.org/Search/Home?lookfor=$issn&searchtype=isn&filter[]=format%3ASerial";
-  } elsif ($bftable =~ /^wikipedia/) {
+  } elsif ($bftable =~ /^(wikipedia|cambridge|scidirect|jstor|oxford)/) {
      $whose = "OCLC's";
      $catalog = "Worldcat";
      $hinturl = worldcatsearchlink($issn);
@@ -413,6 +418,21 @@ sub returnlinkargs {
   } elsif ($bftable =~ /^wikipedia/) {
     $bfurl = $WIKIBF;
     $bfname = "Wikipedia";
+  } elsif ($bftable =~ /^cambridge/) {
+    $bfurl = $CAMBF;
+    $bfname = "Cambridge University Press";
+  } elsif ($bftable =~ /^oxford/) {
+    $bfurl = $OXBF;
+    $bfname = "Oxford Journals";
+  } elsif ($bftable =~ /^jstor/) {
+    $bfurl = $JSSBF;
+    if ($bftable =~ /consolidated/) {
+      $bfurl = $JSCBF;
+    }
+    $bfname = "JSTOR";
+  } elsif ($bftable =~ /^scidirect/) {
+    $bfurl = $SCIDBF;
+    $bfname = "ScienceDirect";
   }
   return ($bfurl, $bfname);
 }
@@ -800,6 +820,7 @@ sub analyze_form {
       || $title =~ /^I will be your/
       || $title =~ /still.*business/i
       || $title =~ /earn money/i
+      || $title =~ /earn \$/i
       || $title =~ /quick question/i
       || $title =~ /dfdsf/
       || $title =~ /still running/
@@ -821,6 +842,7 @@ sub analyze_form {
       || $comments =~ /unsub(marketing|scribe)/i
       || (($comments =~ /SEO/) && ($comments =~ /Google/))
       || (($comments =~ /SEO/) && ($comments =~ /http/))
+      || $comments =~ /stop any further/
       || $comments =~ /gift card/i
       || $comments =~ /free trial/i
       || $comments =~ /freight forwarder/i

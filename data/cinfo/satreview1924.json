@@ -1,6 +1,6 @@
 {
    "title": "The Saturday Review of Literature",
-   "aka": ["Saturday Review"],
+   "aka": ["Saturday Review (US)"],
    "online": "1",
    "first-issue": 
      {"issue-date": "1924-08-02", "volume": "1", "number": "1"},
@@ -10,6 +10,8 @@
    "first-renewed-contribution":
      {"issue": {"issue-date": "1929-03-09"}}, 
    "first-renewed-contribution-source": "1957-JanJun",
+   "see-also":
+     [{"id": "satreview1855", "note": "The Saturday Review (UK, 1855-1938)"}],
    "renewed-issue-completeness": "active/1948",
    "renewed-issues": [
      {"issue-date": "1934-06-09", "volume": "10", "number": "47"},
@@ -1038,7 +1040,7 @@
      },
      {"issue": {"issue-date": "1932-01-02"},
         "title": "Human Being",
-        "title-note": "part 1 of 3",
+        "title-note": "installment",
         "author": {
          "authorized": "Morley, Christopher, 1890-1957",
          "lcna": "n50006133"
@@ -1046,7 +1048,7 @@
      },
      {"issue": {"issue-date": "1932-01-09"},
         "title": "Human Being",
-        "title-note": "part 2 of 3",
+        "title-note": "installment",
         "author": {
          "authorized": "Morley, Christopher, 1890-1957",
          "lcna": "n50006133"
@@ -1054,7 +1056,55 @@
      },
      {"issue": {"issue-date": "1932-01-16"},
         "title": "Human Being",
-        "title-note": "part 3 of 3",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Morley, Christopher, 1890-1957",
+         "lcna": "n50006133"
+        }
+     },
+     {"issue": {"issue-date": "1932-01-23"},
+        "title": "Human Being",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Morley, Christopher, 1890-1957",
+         "lcna": "n50006133"
+        }
+     },
+     {"issue": {"issue-date": "1932-01-30"},
+        "title": "Human Being",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Morley, Christopher, 1890-1957",
+         "lcna": "n50006133"
+        }
+     },
+     {"issue": {"issue-date": "1932-02-06"},
+        "title": "Human Being",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Morley, Christopher, 1890-1957",
+         "lcna": "n50006133"
+        }
+     },
+     {"issue": {"issue-date": "1932-02-13"},
+        "title": "Human Being",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Morley, Christopher, 1890-1957",
+         "lcna": "n50006133"
+        }
+     },
+     {"issue": {"issue-date": "1932-02-20"},
+        "title": "Human Being",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Morley, Christopher, 1890-1957",
+         "lcna": "n50006133"
+        }
+     },
+     {"issue": {"issue-date": "1932-02-27"},
+        "title": "Human Being",
+        "title-note": "installment",
         "author": {
          "authorized": "Morley, Christopher, 1890-1957",
          "lcna": "n50006133"
@@ -1074,11 +1124,99 @@
          "lcna": "n82119450"
         }
      },
+     {"issue": {"issue-date": "1932-03-05"},
+        "title": "Human Being",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Morley, Christopher, 1890-1957",
+         "lcna": "n50006133"
+        }
+     },
+     {"issue": {"issue-date": "1932-03-12"},
+        "title": "Human Being",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Morley, Christopher, 1890-1957",
+         "lcna": "n50006133"
+        }
+     },
+     {"issue": {"issue-date": "1932-03-19"},
+        "title": "Human Being",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Morley, Christopher, 1890-1957",
+         "lcna": "n50006133"
+        }
+     },
+     {"issue": {"issue-date": "1932-03-26"},
+        "title": "Human Being",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Morley, Christopher, 1890-1957",
+         "lcna": "n50006133"
+        }
+     },
+     {"issue": {"issue-date": "1932-04-02"},
+        "title": "Human Being",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Morley, Christopher, 1890-1957",
+         "lcna": "n50006133"
+        }
+     },
+     {"issue": {"issue-date": "1932-04-09"},
+        "title": "Human Being",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Morley, Christopher, 1890-1957",
+         "lcna": "n50006133"
+        }
+     },
+     {"issue": {"issue-date": "1932-04-16"},
+        "title": "Human Being",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Morley, Christopher, 1890-1957",
+         "lcna": "n50006133"
+        }
+     },
+     {"issue": {"issue-date": "1932-04-23"},
+        "title": "Human Being",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Morley, Christopher, 1890-1957",
+         "lcna": "n50006133"
+        }
+     },
+     {"issue": {"issue-date": "1932-04-30"},
+        "title": "Human Being",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Morley, Christopher, 1890-1957",
+         "lcna": "n50006133"
+        }
+     },
      {"issue": {"issue-date": "1932-05-07"},
         "title": "Epidermal Macabre",
         "author": {
          "authorized": "Roethke, Theodore, 1908-1963",
          "lcna": "n79060436"
+        }
+     },
+     {"issue": {"issue-date": "1932-05-07"},
+        "title": "Human Being",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Morley, Christopher, 1890-1957",
+         "lcna": "n50006133"
+        }
+     },
+     {"issue": {"issue-date": "1932-05-14"},
+        "title": "Human Being",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Morley, Christopher, 1890-1957",
+         "lcna": "n50006133"
         }
      },
      {"issue": {"issue-date": "1932-09-24"},
@@ -1111,6 +1249,14 @@
          "lcna": "n50006133"
         }
      },
+     {"issue": {"issue-date": "1932-12-31"},
+        "title": "Mandarin in Manhattan",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Morley, Christopher, 1890-1957",
+         "lcna": "n50006133"
+        }
+     },
      {"issue": {"issue-date": "1941-09-27"},
         "title": "Double-Talk Tales; For Whom is That Bell For?",
         "note": "CCE renewal record for this contribution says it ran in The New Republic, but the date and original registration ID instead match the September 27, 1941 issue of the Saturday Review of Literature. I have not examined the issues in question.",
@@ -1125,5 +1271,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-01-08"
+   "last-updated": "2024-07-05"
 }

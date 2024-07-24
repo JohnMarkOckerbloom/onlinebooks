@@ -11,6 +11,7 @@ use utf8;
 my $usebigforpenn = 1;
 my $usebigforhathi = 1;
 my $usebigforwiki = 1;
+my $usebig = 1;
 
 my $serverurl = "https://onlinebooks.library.upenn.edu/";
 my $cceurl    = $serverurl . "cce/";
@@ -212,9 +213,11 @@ sub print_table {
     my $feedbackurl = $contacturl;
     if ($usebigforpenn && $arg eq "penn-serials") {
       $feedbackurl =~ s/backfile/bigserial/;
-    } elsif ($usebigforhathi && ($arg =~ /^hathitrust/)) {
-      $feedbackurl =~ s/backfile/bigserial&bftable=$arg/;
-    } elsif ($usebigforwiki && ($arg =~ /^wikipedia/)) {
+    #} elsif ($usebigforhathi && ($arg =~ /^hathitrust/)) {
+    #  $feedbackurl =~ s/backfile/bigserial&bftable=$arg/;
+    #} elsif ($usebigforwiki && ($arg =~ /^wikipedia/)) {
+    #  $feedbackurl =~ s/backfile/bigserial&bftable=$arg/;
+    } elsif ($usebig && ($arg =~ /^(cambridge|hathitrust|wikipedia|scidirect|jstor|oxford)/)) {
       $feedbackurl =~ s/backfile/bigserial&bftable=$arg/;
     }
     $feedbackurl .= "&qissn=" . OLBP::url_encode($issn);
@@ -301,7 +304,7 @@ my $arg = $q->url(-path_info=>1);
 $arg =~ s/(.*)\///;
 my $format = $q->param("format");
 if ($arg =~ /[^a-zA-Z0-9\-]/) {    # if input invalid, redirect to start
-  print "Location: $scripturl";
+  print "Location: $scripturl\n\n";
   exit 0;
 }
 

@@ -1,6 +1,7 @@
 {
    "title": "Science Fiction",
-   "title-note": "Columbia Publications, 1939-1941",
+   "title-note": "American pulp fiction magazine, 1939-1941",
+   "online": "1",
    "contents": [
       {"url": "http://www.isfdb.org/cgi-bin/pe.cgi?24176",
        "note": "ISFDB"},
@@ -13,11 +14,14 @@
    "first-renewed-contribution": {
        "issue": {"issue-date": "1939-03", "volume": "1", "number": "1"}
    },
+   "first-renewed-contribution-source": "1966-JanJun",
    "last-issue": {"issue-date": "1941-09", "volume": "2", "number": "6"}, 
    "succeeded-by": [{"id": "futurecombinedsf41",
                      "note": "Future Combined With Science Fiction"}
    ],
-   "first-renewed-contribution-source": "1966-JanJun",
+   "see-also":
+     [{"id": "scificsiegel",
+       "note": "Science Fiction: The Advance Guard of Future Civilization"}],
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
        {"issue": {"issue-date": "1939-03", "volume": "1", "number": "1"}, 
@@ -40,5 +44,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-02-07"
+   "last-updated": "2024-07-18"
 }

@@ -1,6 +1,8 @@
 {
    "title": "Monthly Catalogue, United States Public Documents",
-   "aka": ["United States Public Documents Monthly Catalog"],
+   "aka": ["Monthly Catalog, United States Public Documents",
+           "United States Public Documents Monthly Catalog"],
+   "online": "1",
    "preceded-by":
      [{"id": "catuspubdoc",
        "note": "Catalogue of United States Public Documents"}],
@@ -18,5 +20,5 @@
    },
    "acknowledgement": 
       "Thanks to Pete Sullivan for copyright research on this title.",
-   "last-updated": "2024-03-30"
+   "last-updated": "2024-07-20"
 }

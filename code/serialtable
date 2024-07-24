@@ -29,17 +29,17 @@ my $issnserial = {};
 my $badissnmap = {};
 my $badissnid = {};
 
-my $cambridge_journals = $pkgdir . "cambridge/CUP_Cambridge_Journals _All_journals_2024-02-28.txt";
-#my $cambridge_journals = $pkgdir . "cambridge/CUP_Cambridge_Journals _All_journals_2023-11-08.txt";
+#my $cambridge_journals = $pkgdir . "cambridge/CUP_Cambridge_Journals _All_journals_2024-02-28.txt";
+my $cambridge_journals = $pkgdir . "cambridge/Cambridge Journals: All journals";
 
 my $hathi_serials = $pkgdir . "hathitrust/wikihathioclcserials.csv";
 my $hathipilot_serials = $pkgdir . "hathitrust/localplusus.tsv";
 my $hathipilot_wdquery = $pkgdir . "hathitrust/wikihathiserial.csv";
 
-#my $jstor_merged = $pkgdir . "jstor/JSTOR_ArchiveTitles_2023-11-12.txt";
-my $jstor_merged = $pkgdir . "jstor/JSTOR_ArchiveTitles_2024-02-20.txt";
-my $jstor_split = $pkgdir . "jstor/JSTOR_Global_AllArchiveTitles_2024-02-20.txt";
-# my $jstor_split = $pkgdir . "jstor/JSTOR_Global_AllArchiveTitles_2023-11-12.txt";
+my $jstor_merged = $pkgdir . "jstor/JSTOR_ArchiveTitles_2024-07-23.txt";
+#my $jstor_merged = $pkgdir . "jstor/JSTOR_ArchiveTitles_2024-02-20.txt";
+#my $jstor_split = $pkgdir . "jstor/JSTOR_Global_AllArchiveTitles_2024-02-20.txt";
+my $jstor_split = $pkgdir . "jstor/JSTOR_Global_AllArchiveTitles_2024-07-23.txt";
 
 
 my $muse_journals = $pkgdir . "muse/muse_journal_metadata_2019.tsv";
@@ -47,8 +47,8 @@ my $muse_journals = $pkgdir . "muse/muse_journal_metadata_2019.tsv";
 my $ovid_complete = $pkgdir . "wolters/Ovid_Global_AllJournals_2024-02-04.txt";
 # my $ovid_complete = $pkgdir . "wolters/Ovid_Global_AllJournals_2023-05-22.txt";
 
-#my $oxford_archive = $pkgdir . "oxford/OxfordUniversityPress_Global_2023JournalsArchiveAllTitles_2023-10-31.txt";
-my $oxford_archive = $pkgdir . "oxford/OxfordUniversityPress_Global_2024JournalsArchiveAllTitles_2024-02-06.txt";
+my $oxford_archive = $pkgdir . "oxford/OxfordUniversityPress_Global_2024JournalsArchiveAllTitles_2024-04-15.txt";
+#my $oxford_archive = $pkgdir . "oxford/OxfordUniversityPress_Global_2024JournalsArchiveAllTitles_2024-02-06.txt";
 
 #my $penn_serials = $pkgdir . "penn/Serials before 1964.csv";
 my $penn_serials = $pkgdir . "penn/Serials (All)  - Problem Columns Removed 052220.csv";
@@ -61,8 +61,8 @@ my $proquest_archive = $pkgdir . "proquest/PeriodicalsArchiveOnline.tsv";
 my $sage_journals = $pkgdir . "sage/deep_backfile_2024_list_0.txt";
 # my $sage_journals = $pkgdir . "sage/7000031775_back23_complete_deep_backfile_purchase_2023_list.txt";
 
-my $scidirect_journals = $pkgdir . "elsevier/ScienceDirectStandard_Global_ScienceDirectAvailableJournals_2024-02-28.txt";
-#my $scidirect_journals = $pkgdir . "elsevier/ScienceDirectStandard_Global_ScienceDirectAvailableJournals_2023-11-09.txt";
+#my $scidirect_journals = $pkgdir . "elsevier/ScienceDirectStandard_Global_ScienceDirectAvailableJournals_2024-02-28.txt";
+my $scidirect_journals = $pkgdir . "elsevier/ScienceDirectStandard_Global_ScienceDirectAvailableJournals_2024-07-23.txt";
 my $sim_journals = $pkgdir . "sim/SIM-MASTER-TITLE-2017.txt";
 #my $springer_journals = $pkgdir . "springer/Springer_Global_Complete_Journals_2022-12-12.txt";
 my $springer_journals = $pkgdir . "springer/SpringerNature_Global_CompleteSpringerJournals_2024-02-13.txt";
