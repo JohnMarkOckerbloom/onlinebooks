@@ -28,13 +28,6 @@ my $FTLURL  = $OLBPURL . "webbin/ftl";
 my $CINFOURL= $OLBPURL . "webbin/cinfo";
 my $BFURL   = $OLBPURL . "webbin/backfile";
 my $PENNBF  = $BFURL . "/penn-serials";
-my $HATHIBF = $BFURL . "/hathitrust-us";
-my $CAMBF   = $BFURL . "/cambridge-journals";
-my $JSSBF   = $BFURL . "/jstor-separate-candidates";
-my $JSCBF   = $BFURL . "/jstor-consolidated-candidates";
-my $OXBF    = $BFURL . "/oxford-archive";
-my $SCIDBF  = $BFURL . "/scidirect-available";
-my $WIKIBF  = $BFURL . "/wikipedia-serials";
 my $COPYURL = $OLBPURL . "cce/";
 my $FPURL   = $COPYURL . "firstperiod.html";
 my $REGURL  = "https://cocatalog.loc.gov/";
@@ -393,46 +386,49 @@ sub worldcatsearchlink {
 
 sub formcataloglinkargs {
   my ($bftable, $issn) = @_;
-  my $whose = "Penn's";
-  my $catalog = "Franklin";
-  my $hinturl = "https://franklin.library.upenn.edu/catalog?utf8=%E2%9C%93&search_field=isxn_search&q=$issn";
+  my $whose = "OCLC's";
+  my $catalog = "Worldcat";
+  my $hinturl = worldcatsearchlink($issn);
   if ($bftable =~ /^hathitrust/) {
      $whose = "HathiTrust's";
      $catalog = "catalog";
      $hinturl =  "https://catalog.hathitrust.org/Search/Home?lookfor=$issn&searchtype=isn&filter[]=format%3ASerial";
-  } elsif ($bftable =~ /^(wikipedia|cambridge|scidirect|jstor|oxford)/) {
-     $whose = "OCLC's";
-     $catalog = "Worldcat";
-     $hinturl = worldcatsearchlink($issn);
+  } elsif ($bftable =~ /^penn/) {
+    $whose = "Penn's";
+    $catalog = "Franklin";
+    $hinturl = "https://franklin.library.upenn.edu/catalog?utf8=%E2%9C%93&search_field=isxn_search&q=$issn";
   }
   return ($whose, $catalog, $hinturl);
 }
 
 sub returnlinkargs {
   my ($bftable) = @_;
-  my $bfurl = $PENNBF;
   my $bfname = "Penn Libraries";
+  my $bfurl = $BFURL . "/$bftable";
   if ($bftable =~ /^hathitrust/) {
-    $bfurl = $HATHIBF;
     $bfname = "HathiTrust";
   } elsif ($bftable =~ /^wikipedia/) {
-    $bfurl = $WIKIBF;
     $bfname = "Wikipedia";
   } elsif ($bftable =~ /^cambridge/) {
-    $bfurl = $CAMBF;
     $bfname = "Cambridge University Press";
   } elsif ($bftable =~ /^oxford/) {
-    $bfurl = $OXBF;
     $bfname = "Oxford Journals";
   } elsif ($bftable =~ /^jstor/) {
-    $bfurl = $JSSBF;
-    if ($bftable =~ /consolidated/) {
-      $bfurl = $JSCBF;
-    }
     $bfname = "JSTOR";
+  } elsif ($bftable =~ /^ovid/) {
+    $bfname = "Ovid";
+  } elsif ($bftable =~ /^sage/) {
+    $bfname = "SAGE";
   } elsif ($bftable =~ /^scidirect/) {
-    $bfurl = $SCIDBF;
     $bfname = "ScienceDirect";
+  } elsif ($bftable =~ /^proquest/) {
+    $bfname = "ProQuest";
+  } elsif ($bftable =~ /^springer/) {
+    $bfname = "Springer";
+  } elsif ($bftable =~ /^taylor/) {
+    $bfname = "Taylor &amp; Francis";
+  } elsif ($bftable =~ /^wiley/) {
+    $bfname = "Wiley";
   }
   return ($bfurl, $bfname);
 }
@@ -923,7 +919,7 @@ sub tempdown {
   &startpage($q, "Temporarily down");
   print qq!<h2>Service temporarily unavailable</h2>!;
   print qq!<p>This suggestion form is temporarily unavailable for a few hours!;
-  print qq! mid-day on February 19 !;
+  print qq! mid-day on July 25 !;
   print qq!while we make some server adjustments.  It will be back soon. !;
   print qq!Apologies for the inconvenience.</p>!;
   print $OLBP::bodyend;

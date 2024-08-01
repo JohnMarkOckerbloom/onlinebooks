@@ -1,28 +1,50 @@
 {
    "title": "Corpus Juris",
+   "title-note": "American Law Book Co., 1914-1937",
+   "online": "1",
+   "first-issue": {"issue-date": "1914", "volume": "1"},
    "first-renewed-issue":
         {"cdate": "1929-06-13", "volume": "47"},
    "first-renewed-issue-source": "1956-JulDec",
-   "renewed-issue-completeness": "active/1931",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce",
+   "last-issue": {"issue-date": "1937", "volume": "72"},
+   "see-also": [{"id": "corpusjurissec", "note": "Corpus Juris Secundum"}],
+   "renewed-issue-completeness": "active/end",
    "renewed-issues": [
         {"cdate": "1929-06-13", "volume": "47"},
         {"cdate": "1929-10-02", "volume": "48"},
         {"cdate": "1930-04-10", "volume": "49"},
-        {"cdate": "1929-07-15", "volume": "50"},
-        {"cdate": "1929-11-29", "volume": "51"},
+        {"cdate": "1930-07-15", "volume": "50"},
+        {"cdate": "1930-11-29", "volume": "51"},
         {"cdate": "1931-06-10", "volume": "53"},
         {"cdate": "1931-07-23", "volume": "54"},
         {"cdate": "1931-11-19", "volume": "55"},
         {"cdate": "1932-01-15", "volume": "56"},
         {"cdate": "1932-05-04", "volume": "57"},
         {"cdate": "1932-06-23", "volume": "58"},
-        {"cdate": "1932-09-24", "volume": "59"}
+        {"cdate": "1932-09-24", "volume": "59"},
+        {"cdate": "1932-11-15", "volume": "60"},
+        {"cdate": "1933-02-27", "volume": "61"},
+        {"cdate": "1933-05-05", "volume": "62"},
+        {"cdate": "1933-07-05", "volume": "63"},
+        {"cdate": "1933-10-16", "volume": "64"},
+        {"cdate": "1933-12-12", "volume": "65"},
+        {"cdate": "1934-02-28", "volume": "66"},
+        {"cdate": "1934-06-11", "volume": "67"},
+        {"cdate": "1934-09-04", "volume": "68"},
+        {"cdate": "1934-11-15", "volume": "69"},
+        {"cdate": "1934-02-08", "volume": "70"},
+        {"cdate": "1935-06-19", "volume": "71"},
+        {"cdate": "1937-05-19", "volume": "72"}
    ],
-   "additional-note": 
-      "There are also active renewals for annotations for Corpus Juris from 1929 and later. Issues of this serial were typically renewed as books, and not as periodicals.",
+   "additional-notes": [
+      "Issues of this serial were typically renewed as books, and not as periodicals.",
+      "This listing does not include renewals for annotations and supplements for Corpus Juris from 1929 and later. Those continued to be issued even after the end of the publication of the 72 main volumes in 1937, and their copyrights were also typically renewed."
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-07-22"
+   "last-updated": "2024-07-27"
 }

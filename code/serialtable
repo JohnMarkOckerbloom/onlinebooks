@@ -44,8 +44,8 @@ my $jstor_split = $pkgdir . "jstor/JSTOR_Global_AllArchiveTitles_2024-07-23.txt"
 
 my $muse_journals = $pkgdir . "muse/muse_journal_metadata_2019.tsv";
 
-my $ovid_complete = $pkgdir . "wolters/Ovid_Global_AllJournals_2024-02-04.txt";
-# my $ovid_complete = $pkgdir . "wolters/Ovid_Global_AllJournals_2023-05-22.txt";
+# my $ovid_complete = $pkgdir . "wolters/Ovid_Global_AllJournals_2024-02-04.txt";
+my $ovid_complete = $pkgdir . "wolters/Ovid_Global_AllJournals_2024-07-21.txt";
 
 my $oxford_archive = $pkgdir . "oxford/OxfordUniversityPress_Global_2024JournalsArchiveAllTitles_2024-04-15.txt";
 #my $oxford_archive = $pkgdir . "oxford/OxfordUniversityPress_Global_2024JournalsArchiveAllTitles_2024-02-06.txt";
@@ -64,14 +64,14 @@ my $sage_journals = $pkgdir . "sage/deep_backfile_2024_list_0.txt";
 #my $scidirect_journals = $pkgdir . "elsevier/ScienceDirectStandard_Global_ScienceDirectAvailableJournals_2024-02-28.txt";
 my $scidirect_journals = $pkgdir . "elsevier/ScienceDirectStandard_Global_ScienceDirectAvailableJournals_2024-07-23.txt";
 my $sim_journals = $pkgdir . "sim/SIM-MASTER-TITLE-2017.txt";
-#my $springer_journals = $pkgdir . "springer/Springer_Global_Complete_Journals_2022-12-12.txt";
-my $springer_journals = $pkgdir . "springer/SpringerNature_Global_CompleteSpringerJournals_2024-02-13.txt";
+my $springer_journals = $pkgdir . "springer/SpringerNature_Global_CompleteSpringerJournals_2024-07-15.txt";
+#my $springer_journals = $pkgdir . "springer/SpringerNature_Global_CompleteSpringerJournals_2024-02-13.txt";
 my $taylor_global = $pkgdir . "taylor/TaylorandFrancisOnline_Global_DatabaseOAReadandPublish_2019-09-18.txt";
 my $taylor_classic = $pkgdir . "taylor/ClassicAggregation.txt";
 #my $taylor_classic = $pkgdir . "taylor/ClassicAggregation2023.txt";
 my $wikipedia = $pkgdir . "wikipedia/articleperiodicals.csv";
-my $wiley_all = $pkgdir . "wiley/wiley_alljournals_2024-02-01.TXT";
-# my $wiley_all = $pkgdir . "wiley/wiley_alljournals_2023-01-02.TXT";
+# my $wiley_all = $pkgdir . "wiley/wiley_alljournals_2024-02-01.TXT";
+my $wiley_all = $pkgdir . "wiley/wiley_alljournals_2024-07-01.TXT";
 
 my $sagetitlefield = "Title";  # just a placeholder; varies by file
 
@@ -1113,8 +1113,8 @@ sub readwileyfile {
 sub readspringerfile {
   my ($filename, %params) = @_;
   my @results;
-  # open my $fh, "<:encoding(utf-16)", $filename or die "filename: $!";
-  open my $fh, "<:encoding(utf-8)", $filename or die "filename: $!";
+  # open my $fh, "<:encoding(utf-16)", $filename or die "$filename: $!";
+  open my $fh, "<:encoding(utf-8)", $filename or die "$filename: $!";
   # open my $fh, "<", $filename or die "filename: $!";
   my $row = <$fh>;
   my @fieldnames = split /\t/, $row;

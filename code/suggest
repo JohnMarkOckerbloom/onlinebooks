@@ -400,7 +400,7 @@ sub tempdown {
   &startpage($q, "Temporarily down");
   print qq!<h2>Service temporarily unavailable</h2>!;
   print qq!<p>This suggestion form is temporarily unavailable for a few hours!;
-  print qq! mid-day on February 19 !;
+  print qq! mid-day on July 25 !;
   print qq!while we make some server adjustments.  It will be back soon. !;
   print qq!Apologies for the inconvenience.</p>!;
   print $OLBP::bodyend;

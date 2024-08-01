@@ -8,9 +8,6 @@ use CGI;
 use OLBP::PendingSerials;
 use utf8;
 
-my $usebigforpenn = 1;
-my $usebigforhathi = 1;
-my $usebigforwiki = 1;
 my $usebig = 1;
 
 my $serverurl = "https://onlinebooks.library.upenn.edu/";
@@ -211,13 +208,7 @@ sub print_table {
       print_cell("None known");
     }
     my $feedbackurl = $contacturl;
-    if ($usebigforpenn && $arg eq "penn-serials") {
-      $feedbackurl =~ s/backfile/bigserial/;
-    #} elsif ($usebigforhathi && ($arg =~ /^hathitrust/)) {
-    #  $feedbackurl =~ s/backfile/bigserial&bftable=$arg/;
-    #} elsif ($usebigforwiki && ($arg =~ /^wikipedia/)) {
-    #  $feedbackurl =~ s/backfile/bigserial&bftable=$arg/;
-    } elsif ($usebig && ($arg =~ /^(cambridge|hathitrust|wikipedia|scidirect|jstor|oxford)/)) {
+    if ($usebig) {
       $feedbackurl =~ s/backfile/bigserial&bftable=$arg/;
     }
     $feedbackurl .= "&qissn=" . OLBP::url_encode($issn);
