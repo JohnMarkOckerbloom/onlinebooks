@@ -1,8 +1,14 @@
 {
    "title": "Western Tales",
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/WFI/link.asp?magid=WSTTL",
+       "note": "FictionMags"}
+   ],
    "first-renewed-issue": 
       {"issue-date": "1941-12", "volume": "2", "number": "1"},
    "first-renewed-issue-source": "1968",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce",
    "last-issue": 
       {"issue-date": "1942-02", "volume": "2", "number": "2"},
    "succeeded-by":
@@ -11,5 +17,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-02-12"
+   "last-updated": "2024-08-11"
 }

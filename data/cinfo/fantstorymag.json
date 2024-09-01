@@ -13,6 +13,9 @@
    "first-renewed-issue":
        {"issue-date": "1951-Summer", "volume": "2", "number": "3"},
    "first-renewed-issue-source": "database",
+   "first-renewed-contribution":
+      {"issue": {"issue-date": "1952-Winter", "volume": "3", "number": "2"}}, 
+   "first-renewed-contribution-source": "database",
    "last-issue":
        {"issue-date": "1955-Spring", "volume": "8", "number": "2"},
    "renewed-issue-completeness": "active/end",
@@ -131,5 +134,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-03-08"
+   "last-updated": "2024-08-26"
 }

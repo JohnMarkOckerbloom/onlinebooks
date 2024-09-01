@@ -141,6 +141,8 @@ sub _location_string {
     }
   } elsif ($loccode eq "IR") {
     $str = "Iran";
+  } elsif ($loccode eq "DE") {
+    $str = "Germany";
   }
   return $str;
 }

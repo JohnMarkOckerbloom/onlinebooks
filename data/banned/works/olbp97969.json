@@ -1,0 +1,36 @@
+{
+   "title": "The Canterbury Tales",
+   "author": {
+     "authorized": "Chaucer, Geoffrey, -1400",
+     "lcna": "n79027228"
+   },
+   "first-published": 
+     {"date": "1476", "note": "first printed edition"},
+   "cover": 
+    {"file": "Canterbury_Tales.png",
+     "description": "Woodcut from William Caxton's second edition.",
+     "alt": "Black and white drawing of about two dozen people in late medieval dress sitting on benches around a round table toppes with food and drink.",
+     "url": "https://commons.wikimedia.org/wiki/File:Canterbury_Tales.png",
+     "source": "Wikimedia Commons"
+   },
+   "wikidata": "Q191663",
+   "librarything": "9978",
+   "goodreads": "2696",
+   "online-work": "1",
+   "overview": "Written in the 14th century, Chaucer's collection of stories told by a group of pilgrims covers a wide range of topics and moods, humourous, serious, and crude. It continues to be read and taught today, both in its original Middle English and in modern English translations (some of which may soften or omit some of the more controversial content.)",
+   "categories": ["sex", "language"],
+   "incidents": [
+      {"date": "1873",
+       "location": {"code": "US"},
+       "description": "Uncensored editions of The Canterbury Tales were banned for decades from the U.S. mails under the Comstock Law of 1873. Also known as the Federal Anti-Obscenity Act, this law banned the mailing of 'obscene, lewd, or lascivious' publications. The Comstock laws, while now generally unenforced, remain for the most part on the books today; the Telecommunications Reform Bill of 1996 even specifically applied some of them to computer networks."
+      },
+      {"date": "1995",
+       "location": {"code": "US-IL"},
+       "description": "After complaints by parents that portions of these tales were 'too racy', the Eureka, Illinois school board ordered a high school teacher to stop teaching the work pending review.  Eventually, according to the reference <cite>120 Banned Books</cite>, 'the board voted to ban the full version of The Canterbury Tales and to replace it with an expurgated edition, which they described as 'annotated''.",
+      "citation": {
+        "source": "Karolides-2011",
+        "pages": "476-477"
+      }
+    }
+   ]
+}

@@ -15,10 +15,37 @@
        "issue": {"issue-date": "1940-02", "volume": "1", "number": "5"}
    },
    "first-renewed-contribution-source": "1967-JanJun",
+   "renewed-issue-completeness": "active/1941",
+   "renewed-issues": [
+       {"issue-date": "1940-01", "volume": "1", "number": "4"},
+       {"issue-date": "1940-02", "volume": "1", "number": "5"},
+       {"issue-date": "1940-03", "volume": "1", "number": "6"},
+       {"issue-date": "1940-04", "volume": "2", "number": "1"},
+       {"issue-date": "1940-May-June", "volume": "2", "number": "2"},
+       {"issue-date": "1940-08", "volume": "2", "number": "3"},
+       {"issue-date": "1940-10", "volume": "2", "number": "4"},
+       {"issue-date": "1940-12", "volume": "2", "number": "5"},
+       {"issue-date": "1941-02", "volume": "2", "number": "6"},
+       {"issue-date": "1941-04", "volume": "3", "number": "1"},
+       {"issue-date": "1941-06", "volume": "3", "number": "2"},
+       {"issue-date": "1941-08", "volume": "3", "number": "3"},
+       {"issue-date": "1941-10", "volume": "3", "number": "4"},
+       {"issue-date": "1941-12", "volume": "3", "number": "5"},
+       {"issue-date": "1942-02", "volume": "3", "number": "6"},
+       {"issue-date": "1942-04", "volume": "4", "number": "1"},
+       {"issue-date": "1942-06", "volume": "4", "number": "2"},
+       {"issue-date": "1942-07", "volume": "4", "number": "3"},
+       {"issue-date": "1942-08", "volume": "4", "number": "4"},
+       {"issue-date": "1942-09", "volume": "4", "number": "5"},
+       {"issue-date": "1942-10", "volume": "4", "number": "6"},
+       {"issue-date": "1942-11", "volume": "5", "number": "1"},
+       {"issue-date": "1942-12", "volume": "5", "number": "2"}
+   ],
+   "comment": "Resume issue renewals with 1970",
    "additional-note": "Many of the stories in this magazine were reprints, as noted in the tables of contents links.  We have not systematically checked to see if any of them have active renewed copyrights from their original publication.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-02-11"
+   "last-updated": "2024-08-08"
 }

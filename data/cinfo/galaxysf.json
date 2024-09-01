@@ -12,6 +12,7 @@
    "first-issue": {"issue-date": "1950-10"}, 
    "first-renewed-issue":
         {"issue-date": "1953-09", "volume": "6", "number": "6"}, 
+   "first-renewed-issue-source": "database",
    "renewed-issue-completeness": "active/autorenewals",
    "renewed-issues": [{"issue-date": "1953-09", "volume": "6", "number": "6"}], 
    "first-autorenewed-issue": {
@@ -2575,7 +2576,7 @@
       {"issue": {"issue-date": "1962-08", "volume": "20", "number": "6"}, 
        "title": "One Race Show",
         "author": {
-          "authorized": "Jakes, John, 1932-",
+          "authorized": "Jakes, John, 1932-2023",
           "lcna": "n80035843"
        }
       },
@@ -2675,7 +2676,7 @@
       {"issue": {"issue-date": "1963-06", "volume": "21", "number": "5"}, 
         "title": "The Sellers of the Dream",
         "author": {
-          "authorized": "Jakes, John, 1932-",
+          "authorized": "Jakes, John, 1932-2023",
           "lcna": "n80035843"
        }
       },
@@ -2767,5 +2768,5 @@
    },
    "acknowledgement": 
       "Thanks to Nat Bender for copyright research on this title.",
-   "last-updated": "2023-06-15"
+   "last-updated": "2024-08-10"
 }

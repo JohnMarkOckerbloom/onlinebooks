@@ -12,6 +12,8 @@
    "first-autorenewed-issue":
       {"issue-date": "1963-11", "cdate": "1964-01-23",
            "volume": "17", "number": "2"},
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce+database",
    "renewed-issue-completeness": "active/autorenewals",
    "renewed-issues": [
       {"issue-date": "1947-08", "volume": "1", "number": "1"},
@@ -50,5 +52,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-01-22"
+   "last-updated": "2024-08-11"
 }

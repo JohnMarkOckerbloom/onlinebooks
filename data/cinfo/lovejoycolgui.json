@@ -5,7 +5,8 @@
    "first-issue": {"number": "1st edition", "issue-date": "1940"},
    "first-renewed-issue": {"number": "1st edition", "issue-date": "1940"},
    "first-renewed-issue-source": "1967-JulDec",
-   "first-renewed-contribution-source": "database",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce+database",
    "additional-note": "The first edition, published in 1940, was titled 'So You're Going to College'.  As with later editions, its renewal was filed under Books, not Periodicals.  Editions as late as the 1990s include 1940 in their copyright notices, implying that copyrighted material from the first edition also appears in later editions.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
@@ -13,5 +14,5 @@
    },
    "acknowledgement": 
       "Thanks to Nat Bender for copyright research on this title.",
-   "last-updated": "2023-11-02"
+   "last-updated": "2024-08-10"
 }

@@ -4,7 +4,10 @@
    "preceded-by": [{"id": "arts1955", "note": "Arts (New York, 1955-1961)"}],
    "first-issue":
       {"issue-date": "1961-09", "volume": "35", "number": "10"},
+   "first-renewed-issue": "none",
    "first-renewed-issue-source": "database",
+   "first-renewed-contribution": 
+     {"issue": {"issue-date": "1962-11"}},
    "first-renewed-contribution-source": "database",
    "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
@@ -23,5 +26,5 @@
    },
    "acknowledgement": 
       "Thanks to Ed Deegan for copyright research on this title.",
-   "last-updated": "2022-05-22"
+   "last-updated": "2024-08-27"
 }

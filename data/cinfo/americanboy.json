@@ -3,15 +3,19 @@
    "aka": ["American Boy-Youth's Companion",
            "The Youth's Companion Combined With American Boy"],
    "online": "1",
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/FMI/link.asp?magid=AMB",
+       "note": "FictionMags (partial)"}
+   ],
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1929-02", "cdate": "1929-01-25"}},
    "first-renewed-contribution-source": "1956-JanJun",
    "see-also": [{"id": "youthscompanion", "note": "The Youth's Companion"}],
-   "renewed-contribution-completeness": "active/1929",
+   "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1929-02"},
+     {"issue": {"issue-date": "1929-02", "volume": "30", "number": "4"},
       "title": "Hot Dogs",
        "author": {
          "authorized": "Charnley, Mitchell V. (Mitchell Vaughn), 1898-1991",
@@ -49,14 +53,471 @@
          "authorized": "Burtis, Thomson, 1896-1971",
          "lcna": "no90001891"
        }
+     },
+     {"issue": {"issue-date": "1931-06"},
+      "title": "Part of the Picture",
+       "author": {
+         "authorized": "Burtis, Thomson, 1896-1971",
+         "lcna": "no90001891"
+       }
+     },
+     {"issue": {"issue-date": "1931-07"},
+      "title": "Straight Shooting",
+       "author": {
+         "authorized": "Burtis, Thomson, 1896-1971",
+         "lcna": "no90001891"
+       }
+     },
+     {"issue": {"issue-date": "1931-08"},
+      "title": "Double Exposure",
+       "author": {
+         "authorized": "Burtis, Thomson, 1896-1971",
+         "lcna": "no90001891"
+       }
+     },
+     {"issue": {"issue-date": "1931-12"},
+      "title": "Even-Steven",
+      "note": "Issue and title designation as per FictionMags. The CCE renewal record instead has this story in the January 1932 issue. We have not examined the issues in question.",
+      "author": {
+       "authorized": "Squier, Emma-Lindsay, 1892-1941",
+       "lcna": "no2007059420"
+      }
+     },
+     {"issue": {"issue-date": "1932-01"},
+      "title": "Even Steven",
+      "note": "Issue and title designation as per CCE renewal record. FictionMags instead has this story in the December 1931 issue. We have not examined the issues in question.",
+      "author": {
+       "authorized": "Squier, Emma-Lindsay, 1892-1941",
+       "lcna": "no2007059420"
+      }
+     },
+     {"issue": {"issue-date": "1932-03"},
+      "title": "The Spell of the Ghost",
+      "title-note": "part 1 of 4",
+       "author": {
+         "authorized": "Burtis, Thomson, 1896-1971",
+         "lcna": "no90001891"
+       }
+     },
+     {"issue": {"issue-date": "1932-04"},
+      "title": "The Spell of the Ghost",
+      "title-note": "part 2 of 4",
+       "author": {
+         "authorized": "Burtis, Thomson, 1896-1971",
+         "lcna": "no90001891"
+       }
+     },
+     {"issue": {"issue-date": "1932-05"},
+      "title": "The Spell of the Ghost",
+      "title-note": "part 3 of 4",
+       "author": {
+         "authorized": "Burtis, Thomson, 1896-1971",
+         "lcna": "no90001891"
+       }
+     },
+     {"issue": {"issue-date": "1932-06"},
+      "title": "The Spell of the Ghost",
+      "title-note": "part 4 of 4",
+       "author": {
+         "authorized": "Burtis, Thomson, 1896-1971",
+         "lcna": "no90001891"
+       }
+     },
+     {"issue": {"issue-date": "1933-08"},
+      "title": "At the Sacred Rock",
+      "title-note": "part 1 of 2",
+       "author": {
+         "authorized": "Schultz, James Willard, 1859-1947",
+         "lcna": "n81141869"
+       }
+     },
+     {"issue": {"issue-date": "1933-09"},
+      "title": "The Ship Without a Crew",
+      "title-note": "part 1 of 5",
+       "author": {
+         "authorized": "Pease, Howard, 1894-1974",
+         "lcna": "no00045186"
+       }
+     },
+     {"issue": {"issue-date": "1933-09"},
+      "title": "At the Sacred Rock",
+      "title-note": "part 2 of 2",
+       "author": {
+         "authorized": "Schultz, James Willard, 1859-1947",
+         "lcna": "n81141869"
+       }
+     },
+     {"issue": {"issue-date": "1933-10"},
+      "title": "Larry Marsh, Packer",
+      "title-note": "part 1 of 6",
+       "author": {
+         "authorized": "Heyliger, William, 1884-1955",
+         "lcna": "no98132708"
+       }
+     },
+     {"issue": {"issue-date": "1933-10"},
+      "title": "The Ship Without a Crew",
+      "title-note": "part 2 of 5",
+       "author": {
+         "authorized": "Pease, Howard, 1894-1974",
+         "lcna": "no00045186"
+       }
+     },
+     {"issue": {"issue-date": "1933-11"},
+      "title": "The Ship Without a Crew",
+      "title-note": "part 3 of 5",
+       "author": {
+         "authorized": "Pease, Howard, 1894-1974",
+         "lcna": "no00045186"
+       }
+     },
+     {"issue": {"issue-date": "1933-11"},
+      "title": "Larry Marsh, Packer",
+      "title-note": "part 2 of 6",
+       "author": {
+         "authorized": "Heyliger, William, 1884-1955",
+         "lcna": "no98132708"
+       }
+     },
+     {"issue": {"issue-date": "1933-12"},
+      "title": "The Ship Without a Crew",
+      "title-note": "part 4 of 5",
+       "author": {
+         "authorized": "Pease, Howard, 1894-1974",
+         "lcna": "no00045186"
+       }
+     },
+     {"issue": {"issue-date": "1933-12"},
+      "title": "Larry Marsh, Packer",
+      "title-note": "part 3 of 6",
+       "author": {
+         "authorized": "Heyliger, William, 1884-1955",
+         "lcna": "no98132708"
+       }
+     },
+     {"issue": {"issue-date": "1934-01"},
+      "title": "The Ship Without a Crew",
+      "title-note": "part 5 of 5",
+       "author": {
+         "authorized": "Pease, Howard, 1894-1974",
+         "lcna": "no00045186"
+       }
+     },
+     {"issue": {"issue-date": "1934-01"},
+      "title": "Larry Marsh, Packer",
+      "title-note": "part 4 of 6",
+       "author": {
+         "authorized": "Heyliger, William, 1884-1955",
+         "lcna": "no98132708"
+       }
+     },
+     {"issue": {"issue-date": "1934-02"},
+      "title": "Larry Marsh, Packer",
+      "title-note": "part 5 of 6",
+       "author": {
+         "authorized": "Heyliger, William, 1884-1955",
+         "lcna": "no98132708"
+       }
+     },
+     {"issue": {"issue-date": "1934-03"},
+      "title": "Larry Marsh, Packer",
+      "title-note": "part 6 of 6",
+       "author": {
+         "authorized": "Heyliger, William, 1884-1955",
+         "lcna": "no98132708"
+       }
+     },
+     {"issue": {"issue-date": "1935-03"},
+      "title": "Wind in the Rigging",
+      "title-note": "part 1 of 5",
+       "author": {
+         "authorized": "Pease, Howard, 1894-1974",
+         "lcna": "no00045186"
+       }
+     },
+     {"issue": {"issue-date": "1935-04"},
+      "title": "Wind in the Rigging",
+      "title-note": "part 2 of 5",
+       "author": {
+         "authorized": "Pease, Howard, 1894-1974",
+         "lcna": "no00045186"
+       }
+     },
+     {"issue": {"issue-date": "1935-05"},
+      "title": "Wind in the Rigging",
+      "title-note": "part 3 of 5",
+       "author": {
+         "authorized": "Pease, Howard, 1894-1974",
+         "lcna": "no00045186"
+       }
+     },
+     {"issue": {"issue-date": "1935-06"},
+      "title": "Wind in the Rigging",
+      "title-note": "part 4 of 5",
+       "author": {
+         "authorized": "Pease, Howard, 1894-1974",
+         "lcna": "no00045186"
+       }
+     },
+     {"issue": {"issue-date": "1935-07"},
+      "title": "Wind in the Rigging",
+      "title-note": "part 5 of 5",
+       "author": {
+         "authorized": "Pease, Howard, 1894-1974",
+         "lcna": "no00045186"
+       }
+     },
+     {"issue": {"issue-date": "1936-05"},
+      "title": "Hurricane Weather",
+      "title-note": "part 1 of 6",
+       "author": {
+         "authorized": "Pease, Howard, 1894-1974",
+         "lcna": "no00045186"
+       }
+     },
+     {"issue": {"issue-date": "1936-06"},
+      "title": "Hurricane Weather",
+      "title-note": "part 2 of 6",
+       "author": {
+         "authorized": "Pease, Howard, 1894-1974",
+         "lcna": "no00045186"
+       }
+     },
+     {"issue": {"issue-date": "1936-07"},
+      "title": "Hurricane Weather",
+      "title-note": "part 3 of 6",
+       "author": {
+         "authorized": "Pease, Howard, 1894-1974",
+         "lcna": "no00045186"
+       }
+     },
+     {"issue": {"issue-date": "1936-08"},
+      "title": "Hurricane Weather",
+      "title-note": "part 4 of 6",
+       "author": {
+         "authorized": "Pease, Howard, 1894-1974",
+         "lcna": "no00045186"
+       }
+     },
+     {"issue": {"issue-date": "1936-09"},
+      "title": "Hurricane Weather",
+      "title-note": "part 5 of 6",
+       "author": {
+         "authorized": "Pease, Howard, 1894-1974",
+         "lcna": "no00045186"
+       }
+     },
+     {"issue": {"issue-date": "1936-10"},
+      "title": "Hurricane Weather",
+      "title-note": "part 6 of 6",
+       "author": {
+         "authorized": "Pease, Howard, 1894-1974",
+         "lcna": "no00045186"
+       }
+     },
+     {"issue": {"issue-date": "1937-04"},
+      "title": "Night Boat",
+       "author": {
+         "authorized": "Pease, Howard, 1894-1974",
+         "lcna": "no00045186"
+       }
+     },
+     {"issue": {"issue-date": "1937-08"},
+      "title": "Passengers for Panama",
+       "author": {
+         "authorized": "Pease, Howard, 1894-1974",
+         "lcna": "no00045186"
+       }
+     },
+     {"issue": {"issue-date": "1937-09"},
+      "title": "Foghorns",
+      "title-note": "part 1 of 4",
+       "author": {
+         "authorized": "Pease, Howard, 1894-1974",
+         "lcna": "no00045186"
+       }
+     },
+     {"issue": {"issue-date": "1937-10"},
+      "title": "Foghorns",
+      "title-note": "part 2 of 4",
+       "author": {
+         "authorized": "Pease, Howard, 1894-1974",
+         "lcna": "no00045186"
+       }
+     },
+     {"issue": {"issue-date": "1937-11"},
+      "title": "Foghorns",
+      "title-note": "part 3 of 4",
+       "author": {
+         "authorized": "Pease, Howard, 1894-1974",
+         "lcna": "no00045186"
+       }
+     },
+     {"issue": {"issue-date": "1937-12"},
+      "title": "Foghorns",
+      "title-note": "part 4 of 4",
+       "author": {
+         "authorized": "Pease, Howard, 1894-1974",
+         "lcna": "no00045186"
+       }
+     },
+     {"issue": {"issue-date": "1938-02"},
+      "title": "The Missing MacAndrew",
+       "authors": [
+          {"authorized": "Burtis, Thomson, 1896-1971", "lcna": "no90001891"},
+          {"name": "Frank J. Ellis"}
+       ]
+     },
+     {"issue": {"issue-date": "1938-03"},
+      "title": "Flushed From Cover",
+       "authors": [
+          {"authorized": "Burtis, Thomson, 1896-1971", "lcna": "no90001891"},
+          {"name": "Frank J. Ellis"}
+       ]
+     },
+     {"issue": {"issue-date": "1938-04"},
+      "title": "The Mallards Come Home to Roost",
+       "authors": [
+          {"authorized": "Burtis, Thomson, 1896-1971", "lcna": "no90001891"},
+          {"name": "Frank J. Ellis"}
+       ]
+     },
+     {"issue": {"issue-date": "1938-06"},
+      "title": "Too Much Money",
+       "authors": [
+          {"authorized": "Burtis, Thomson, 1896-1971", "lcna": "no90001891"},
+          {"name": "Frank J. Ellis"}
+       ]
+     },
+     {"issue": {"issue-date": "1938-08"},
+      "title": "The Night Ride",
+       "authors": [
+          {"authorized": "Burtis, Thomson, 1896-1971", "lcna": "no90001891"},
+          {"name": "Frank J. Ellis"}
+       ]
+     },
+     {"issue": {"issue-date": "1938-09"},
+      "title": "Finished Business",
+       "authors": [
+          {"authorized": "Burtis, Thomson, 1896-1971", "lcna": "no90001891"},
+          {"name": "Frank J. Ellis"}
+       ]
+     },
+     {"issue": {"issue-date": "1939-11"},
+      "title": "Son of the Apple Valley",
+      "title-note": "part 1 of 4",
+       "author": {
+         "authorized": "Heyliger, William, 1884-1955",
+         "lcna": "no98132708"
+       }
+     },
+     {"issue": {"issue-date": "1939-12"},
+      "title": "Son of the Apple Valley",
+      "title-note": "part 2 of 4",
+       "author": {
+         "authorized": "Heyliger, William, 1884-1955",
+         "lcna": "no98132708"
+       }
+     },
+     {"issue": {"issue-date": "1940-01"},
+      "title": "Son of the Apple Valley",
+      "title-note": "part 3 of 4",
+       "author": {
+         "authorized": "Heyliger, William, 1884-1955",
+         "lcna": "no98132708"
+       }
+     },
+     {"issue": {"issue-date": "1940-02"},
+      "title": "Son of the Apple Valley",
+      "title-note": "part 4 of 4",
+       "author": {
+         "authorized": "Heyliger, William, 1884-1955",
+         "lcna": "no98132708"
+       }
+     },
+     {"issue": {"issue-date": "1940-12"},
+      "title": "The Black Tanker",
+      "title-note": "part 1 of 5",
+       "author": {
+         "authorized": "Pease, Howard, 1894-1974",
+         "lcna": "no00045186"
+       }
+     },
+     {"issue": {"issue-date": "1941-01"},
+      "title": "The Black Tanker",
+      "title-note": "part 2 of 5",
+       "author": {
+         "authorized": "Pease, Howard, 1894-1974",
+         "lcna": "no00045186"
+       }
+     },
+     {"issue": {"issue-date": "1941-02"},
+      "title": "The Black Tanker",
+      "title-note": "part 3 of 5",
+       "author": {
+         "authorized": "Pease, Howard, 1894-1974",
+         "lcna": "no00045186"
+       }
+     },
+     {"issue": {"issue-date": "1941-03"},
+      "title": "The Black Tanker",
+      "title-note": "part 4 of 5",
+       "author": {
+         "authorized": "Pease, Howard, 1894-1974",
+         "lcna": "no00045186"
+       }
+     },
+     {"issue": {"issue-date": "1941-04"},
+      "title": "The Black Tanker",
+      "title-note": "part 4 of 5",
+       "author": {
+         "authorized": "Pease, Howard, 1894-1974",
+         "lcna": "no00045186"
+       }
+     },
+     {"issue": {"issue-date": "1941-05"},
+      "title": "Flaming Forest",
+      "title-note": "installment",
+      "note": "Mentioned in a 1969 renewal for a 1941 book of the same title.",
+       "author": {
+         "authorized": "Atwater, Montgomery M. (Montgomery Meigs)",
+         "lcna": "n85120094"
+       }
+     },
+     {"issue": {"issue-date": "1941-06"},
+      "title": "Flaming Forest",
+      "title-note": "installment",
+      "note": "Not mentioned in a 1969 renewal for a 1941 book of the same title, but serializations in this magazine usually do not skip months.  We have not examined the issue in question, however.",
+       "author": {
+         "authorized": "Atwater, Montgomery M. (Montgomery Meigs)",
+         "lcna": "n85120094"
+       }
+     },
+     {"issue": {"issue-date": "1941-07"},
+      "title": "Flaming Forest",
+      "title-note": "installment",
+      "note": "Mentioned in a 1969 renewal for a 1941 book of the same title.",
+       "author": {
+         "authorized": "Atwater, Montgomery M. (Montgomery Meigs)",
+         "lcna": "n85120094"
+       }
+     },
+     {"issue": {"issue-date": "1941-08"},
+      "title": "Flaming Forest",
+      "title-note": "installment",
+      "note": "Mentioned in a 1969 renewal for a 1941 book of the same title.",
+       "author": {
+         "authorized": "Atwater, Montgomery M. (Montgomery Meigs)",
+         "lcna": "n85120094"
+       }
      }
    ],
-   "comment": "Resume contribution checks with 1958 JanJun",
+   "comment": "Resume contribution checks with 1968 JanJun",
    "additional-note": 
-     "A 1956 renewal for the 1929 book 'American Boy Sports Stories' might actively cover additional stories published in The American Boy in 1928 and 1929. We have not reviewed the contents of that publication.",
+     "A 1956 renewal for the 1929 book 'American Boy Sports Stories' might actively cover additional stories published in The American Boy in 1929. We have not reviewed the contents of that publication.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-01-04"
+   "last-updated": "2024-08-02"
 }
