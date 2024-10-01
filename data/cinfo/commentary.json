@@ -1,5 +1,6 @@
 {
    "title": "Commentary",
+   "online": "1",
    "first-issue": {"issue-date": "1945-11", "volume": "1", "number": "1"},
    "first-renewed-issue": 
      {"issue-date": "1948-11", "volume": "6", "number": "5"},
@@ -7,9 +8,155 @@
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1945-11", "volume": "1", "number": "1"}},
    "first-renewed-contribution-source": "1972-JulDec",
+   "renewed-issue-completeness": "active/1949",
+   "renewed-issues": [
+     {"issue-date": "1948-11", "volume": "6", "number": "5"},
+     {"issue-date": "1948-12", "volume": "6", "number": "6"},
+     {"issue-date": "1949-01", "volume": "7", "number": "1"},
+     {"issue-date": "1949-02", "volume": "7", "number": "2"},
+     {"issue-date": "1949-03", "volume": "7", "number": "3"},
+     {"issue-date": "1949-04", "volume": "7", "number": "4"},
+     {"issue-date": "1949-05", "volume": "7", "number": "5"},
+     {"issue-date": "1949-06", "volume": "7", "number": "6"},
+     {"issue-date": "1949-07", "volume": "8", "number": "1"},
+     {"issue-date": "1949-08", "volume": "8", "number": "2"},
+     {"issue-date": "1949-09", "volume": "8", "number": "3"},
+     {"issue-date": "1949-10", "volume": "8", "number": "4"},
+     {"issue-date": "1949-11", "volume": "8", "number": "5"},
+     {"issue-date": "1949-12", "volume": "8", "number": "6"},
+     {"issue-date": "1950-01", "volume": "9", "number": "1"},
+     {"issue-date": "1950-02", "volume": "9", "number": "2"},
+     {"issue-date": "1950-03", "volume": "9", "number": "3"},
+     {"issue-date": "1950-04", "volume": "9", "number": "4"},
+     {"issue-date": "1950-05", "volume": "9", "number": "5"},
+     {"issue-date": "1950-06", "volume": "9", "number": "6"},
+     {"issue-date": "1950-07", "volume": "10", "number": "1"},
+     {"issue-date": "1950-08", "volume": "10", "number": "2"},
+     {"issue-date": "1950-09", "volume": "10", "number": "3"},
+     {"issue-date": "1950-10", "volume": "10", "number": "4"},
+     {"issue-date": "1950-11", "volume": "10", "number": "5"},
+     {"issue-date": "1950-12", "volume": "10", "number": "6"}
+   ],
+   "comment": "Pick up issue renewals from the registered works DB",
+   "renewed-contribution-completeness": "active/1949",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1945-11", "volume": "1", "number": "1"},
+        "title": "These Are Not Psalms",
+        "author": {
+         "authorized": "Jarrell, Randall, 1914-1965",
+         "lcna": "n79076730"
+        }
+     },
+     {"issue": {"issue-date": "1945-11", "volume": "1", "number": "1"},
+        "title": "Anti-Semitism in England",
+        "author": {
+         "authorized": "Orwell, George, 1903-1950",
+         "lcna": "n79058639"
+        }
+     },
+     {"issue": {"issue-date": "1945-11", "volume": "1", "number": "1"},
+        "title": "A Prayer for Dew",
+        "author": {
+         "authorized": "Goodman, Paul, 1911-1972",
+         "lcna": "n79045067"
+        }
+     },
+     {"issue": {"issue-date": "1946-05", "volume": "1", "number": "7"},
+        "title": "Poet of the Jewish Middle Class",
+        "author": {
+         "authorized": "Warshow, Robert, 1917-1955",
+         "lcna": "n2001025489"
+        }
+     },
+     {"issue": {"issue-date": "1946-05", "volume": "1", "number": "7"},
+        "title": "The Jewish State: Fifty Years After",
+        "author": {
+         "authorized": "Arendt, Hannah, 1906-1975",
+         "lcna": "n50023617"
+        }
+     },
+     {"issue": {"issue-date": "1947-09", "volume": "4", "number": "3"},
+        "title": "America the Beautiful",
+        "author": {
+         "authorized": "McCarthy, Mary, 1912-1989",
+         "lcna": "n79060089"
+        }
+     },
+     {"issue": {"issue-date": "1947-12", "volume": "4", "number": "6"},
+        "title": "The Legacy of the 30's",
+        "author": {
+         "authorized": "Warshow, Robert, 1917-1955",
+         "lcna": "n2001025489"
+        }
+     },
+     {"issue": {"issue-date": "1948-02", "volume": "5", "number": "2"},
+        "title": "Paul Rosenfeld: Three Phases",
+        "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+        }
+     },
+     {"issue": {"issue-date": "1948-07", "volume": "6", "number": "1"},
+        "title": "Prejudice and Capitalist Exploitation",
+        "author": {
+         "authorized": "Handlin, Oscar, 1915-2011",
+         "lcna": "n79043414"
+        }
+     },
+     {"issue": {"issue-date": "1948-10", "volume": "6", "number": "4"},
+        "title": "The Flight From Europe",
+        "author": {
+         "authorized": "Warshow, Robert, 1917-1955",
+         "lcna": "n2001025489"
+        }
+     },
+     {"issue": {"issue-date": "1949-05", "volume": "7", "number": "5"},
+        "title": "Pleasure Island",
+        "author": {
+         "authorized": "Auden, W. H. (Wystan Hugh), 1907-1973",
+         "lcna": "n79054316"
+        }
+     },
+     {"issue": {"issue-date": "1950-02", "volume": "9", "number": "2"},
+        "title": "Shabbat in Tel Aviv",
+        "author": {
+         "authorized": "Gruber, Ruth, 1911-2016",
+         "lcna": "n50032983"
+        }
+     },
+     {"issue": {"issue-date": "1950-06", "volume": "9", "number": "6"},
+        "title": "We Who Sit in Darkness",
+        "author": {
+         "authorized": "Kazin, Alfred, 1915-1998",
+         "lcna": "n79038435"
+        }
+     },
+     {"issue": {"issue-date": "1950-09", "volume": "10", "number": "3"},
+        "title": "The Prison",
+        "author": {
+         "authorized": "Malamud, Bernard",
+         "lcna": "n79046272"
+        }
+     },
+     {"issue": {"issue-date": "1950-10", "volume": "10", "number": "4"},
+        "title": "The People of the Word",
+        "author": {
+         "authorized": "Van Doren, Mark, 1894-1972",
+         "lcna": "n79100719"
+        }
+     },
+     {"issue": {"issue-date": "1950-11", "volume": "10", "number": "5"},
+        "title": "Hebrew As She Is Spoke",
+        "author": {
+         "authorized": "Gruber, Ruth, 1911-2016",
+         "lcna": "n50032983"
+        }
+     }
+   ],
+   "comment": "Pick up contribution renewals from the registered works DB",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-03-13"
+   "last-updated": "2024-09-12"
 }

@@ -75,7 +75,9 @@ my $wiley_all = $pkgdir . "wiley/wiley_alljournals_2024-07-01.TXT";
 
 my $sagetitlefield = "Title";  # just a placeholder; varies by file
 
-my $franklin_issn_search = "https://franklin.library.upenn.edu/catalog?utf8=%E2%9C%93&search_field=isxn_search&q=";
+# my $franklin_issn_search = "https://franklin.library.upenn.edu/catalog?utf8=%E2%9C%93&search_field=isxn_search&q=";
+# my $penn_issn_search = "https://find.library.upenn.edu/?op=must&clause%5B0%5D%5Bfield%5D=all_fields_advanced&clause%5B0%5D%5Bquery%5D=&clause%5B7%5D%5Bfield%5D=isxn_search&sort=score+desc%2C+publication_date_sort+desc%2C+title_sort+asc&commit=Search&clause%5B7%5D%5Bquery%5D=";
+my $penn_issn_search = "https://find.library.upenn.edu/?search_field=isxn_search&q=";
 
 my $csv = Text::CSV->new ({ binary => 1, auto_diag => 1 });
 
@@ -529,7 +531,8 @@ sub pennparser {
       $rec->{seenpubstart} = 1;
     }
     $rec->{end} = ($end ? int($end) : "");
-    $rec->{pkgid} = $franklin_issn_search . $issns[0];
+    # $rec->{pkgid} = $franklin_issn_search . $issns[0];
+    $rec->{pkgid} = $penn_issn_search . $issns[0];
     if (!$rec->{intable}) {
       push @recs, $rec;
       $rec->{intable} = 1;

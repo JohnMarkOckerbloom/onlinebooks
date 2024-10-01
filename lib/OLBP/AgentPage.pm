@@ -133,38 +133,77 @@ sub get_wikipedia_url {
   return $OLBP::wpstub . $self->{wpid};
 }
 
-my $franklinref = {"label"=>"Penn People biography",
-                   "url"=>"https://archives.upenn.edu/exhibits/penn-people/biography/benjamin-franklin/"};
+sub get_links {
+  my ($self) = @_;
+  if (!$self->{links}) {
+    my $str = $self->_get_string_from_file("links.json");
+    my $json = $self->{parser}->decode($str);
+    if ($json) {
+      $self->{links} = $json;
+    }
+  }
+  return $self->{links};
+}
 
-my @franklinroles = ( 
- {"role"=>"Founder", "subj1"=>"University of Pennsylvania"},
- {"role"=>"Trustee", "subj1"=>"University of Pennsylvania",
-  "start"=>"1749",
-  "end"=>"1790"},
- {"role"=>"Postmaster general", "subj1"=>"United States"},
- {"role"=>"Ambassador", "subj1"=>"United States", "subj2"=>"France",
-  "start"=>"1779",
-  "end"=>"1785"}
-);
+sub get_relationships {
+  my ($self) = @_;
+  if (!$self->{rels}) {
+    my $str = $self->_get_string_from_file("rels.json");
+    my $json = $self->{parser}->decode($str);
+    if ($json) {
+      $self->{rels} = $json;
+    }
+  }
+  return $self->{rels};
+}
+
+sub get_roles {
+  my ($self) = @_;
+  my $rels = $self->get_relationships();
+  my @roles = ();
+  if ($rels) {
+    foreach my $rel (@{$rels}) {
+      if ($rel->{type} eq "Role") {
+        push @roles, $rel;
+      } 
+    }
+  }
+  if (scalar(@roles)) {
+    return \@roles;
+  }
+  return undef;
+}
+
+#my @franklinroles = ( 
+# {"description"=>"Founder", "objectname"=>"University of Pennsylvania"},
+# {"description"=>"Trustee", "objectname"=>"University of Pennsylvania",
+#  "date1"=>"1749",
+#  "date2"=>"1790"},
+# {"description"=>"Postmaster general", "objectname"=>"United States"},
+# {"description"=>"Ambassador",
+#  "objectname"=>"United States", "object2name"=>"France",
+#  "date1"=>"1779",
+#  "date2"=>"1785"}
+#);
 
 sub _print_role {
   my ($self, $role) = @_;
-  if ($role->{role} eq "Ambassador") {
-    print $self->_livelink($role->{subj1}) . " ";
-    print $role->{role};
+  if ($role->{description} eq "Ambassador") {
+    print $self->_livelink($role->{objectname}) . " ";
+    print $role->{description};
     print " to ";
-    print $self->_livelink($role->{subj2});
+    print $self->_livelink($role->{object2name});
   } else {
-    print ($role->{role});
-    if ($role->{subj1}) {
-      print ", " . $self->_livelink($role->{subj1});
+    print ($role->{description});
+    if ($role->{objectname}) {
+      print ", " . $self->_livelink($role->{objectname});
     }
   }
-  if ($role->{start} || $role->{end}) {
-    if ($role->{start} eq $role->{end}) {
-      print " ($role->{start})";
+  if ($role->{date1} || $role->{date2}) {
+    if (!$role->{date2} || ($role->{date1} eq $role->{date2})) {
+      print " ($role->{date1})";
     } else {
-      print " ($role->{start}\-$role->{end})";
+      print " ($role->{date1}\-$role->{date2})";
     }
   }
 }
@@ -182,19 +221,20 @@ sub _print_roles {
 sub _print_additional_refs {
   my ($self, $name, $includewp) = @_;
   my @refs;
-  if ($name eq "Franklin, Benjamin, 1706-1790") {
-    push @refs, $franklinref;
+  my $links = $self->get_links();
+  if ($links) {
+    @refs = @{$links};
   }
   if ($includewp) {
     my $wpurl = $self->get_wikipedia_url();
     if ($wpurl)  {
-      my $ref = {"label"=>"Wikipedia article", "url"=>$wpurl};
+      my $ref = {"note"=>"Wikipedia article", "url"=>$wpurl};
       push @refs, $ref;
     }
   }
   print "<b>More resources on this subject:</b><ul>\n";
   foreach my $ref (@refs) {
-    print "<li> <a href=\"$ref->{url}\">$ref->{label}</a>";
+    print "<li> <a href=\"$ref->{url}\">$ref->{note}</a>";
   }
   my $url = $OLBP::seealsourl . "?su=" . OLBP::url_encode($name);
   print "<li> <a href=\"$url\">Search in your library</a>";
@@ -297,9 +337,13 @@ sub display {
   } 
   $self->_print_additional_refs($name, $includewikipedia);
   my @roles = ();
-  if ($name eq "Franklin, Benjamin, 1706-1790") {
-    @roles = @franklinroles;
+  my $roleref = $self->get_roles();
+  if ($roleref) {
+    @roles = @{$roleref};
   }
+  #if ($name eq "Franklin, Benjamin, 1706-1790") {
+  # @roles = @franklinroles;
+  #}
   if (scalar(@roles)) {
     $self->_print_roles(@roles);
   }

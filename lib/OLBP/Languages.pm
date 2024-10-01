@@ -154,6 +154,7 @@ my $_codetolang = {
   "gwi" => "Gwich'in",
   "gv" => "Manx",
   "ha" => "Hausa",
+  "hai" => "Haida",
   "hau" => "Hausa",
   "haw" => "Hawaiian",
   "he" => "Hebrew",

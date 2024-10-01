@@ -1,0 +1,39 @@
+{
+   "title": "The Qur'an",
+   "first-published":
+     {"date": "7th century CE"},
+   "cover": 
+    {"file": "Iqra.jpg",
+     "alt": "A page with 3 lines of calligraphic Arabic script, with calligraphic and geometric decorations above and below it, primarily in blue and yellow",
+     "description": "Illuminated manuscript with the start of Surah 96 of the Qur'an",
+     "url": "https://commons.wikimedia.org/wiki/File:Iqra.jpg",
+     "source": "Wikimedia Commons"
+   },
+   "wikidata": "Q428",
+   "librarything": "5894155",
+   "online-work": "1",
+   "overview": "The canonical scripture of Islam, believed by Muslims to be directly revealed by God to the prophet Muhammad. Only the Arabic text is considered definitive; translations into other languages are considered at best interpretations. Both the original Arabic and translations into other languages have been subject to censorship in various times and places, for various reasons.",
+   "categories": ["religion"],
+   "incidents": [
+     {"date": "1727",
+       "location": {"code": "TR"},
+       "description": "The first legal printing press in the Ottoman Empire was established in Istanbul, but was {ln:https://belleten.gov.tr/eng/abstarct/3734/eng|not allowed to print the Qur'an or other religious texts}.  (Printing the Qur'an, as opposed to making handwritten copies, was often considered either disrespectful or vulnerable to producing errors.)  The ban, which also applied to printed editions imported from other countries, stayed in place until 1873."
+     },
+     {"date": "1926",
+       "location": {"code": "SU"},
+       "description": "The Soviet Union issued an official directive to libraries calling for only anti-religious books to be included in the religion section of most libraries. The directive stated 'Religiously dogmatic books such as the Gospel, the Koran, the Talmud., etc., must be left in the large libraries but removed from the smaller ones.' The ban stayed in effect until after World War II.",
+      "citation": {
+        "source": "Haight-1978",
+        "pages": "4-5"
+      }
+     },
+     {"date": "2023",
+       "location": {"code": "MY"},
+       "description": "The Malaysian government {ln:https://www.moha.gov.my/index.php/en/kwl-quran-wrongdoing|bans 'unlicensed' Qur'ans from the country}, including any translation that does not also include the Arabic text.  A Home Affairs ministry official is quoted in {ln:https://www.thevibes.com/articles/news/97498/govt-approves-disposal-of-over-2000-imperfect-non-certified-qurans|an online story about the disposal of uncertified copies} that the Ministry 'will take strict action against any party involved in the sale or distribution of Qurans or reading material in violation of the country’s laws.'"
+     },
+     {"date": "2023",
+       "location": {"code": "US-UT"},
+       "description": "New Utah laws making it easier for book challenges to remove books from school libraries were quickly used to challenge religious primary texts.  {ln:https://www.sltrib.com/news/education/2024/03/13/parents-challenged-book-mormon/|The Salt Lake Tribune reports} that a challenge that led {wk:olbp51209|the Bible} to be removed from some school library shelves was quickly quashed after public outrage.  But a similar challenge to the Qur'an left that book in limbo for eight months. The incident highlights the potential for books representing minority viewpoints becoming more vulnerable than widely revered books to banning under 'neutral' but overbearing censorship regimes. (Utah's new laws also come up in our profile of {wk:Q2032398|Oryx and Crake}.)"
+     }
+   ]
+}

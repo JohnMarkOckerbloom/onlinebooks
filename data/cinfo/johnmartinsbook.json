@@ -8,7 +8,7 @@
    "first-renewed-contribution":
      {"issue": {"issue-date": "1931-04"}},
    "first-renewed-contribution-source": "1958-JanJun",
-   "renewed-issue-completeness": "active/1931",
+   "renewed-issue-completeness": "active/1932",
    "renewed-issues": [
      {"issue-date": "1929-02", "volume": "39", "number": "2",
       "cdate": "1929-01-12"},
@@ -54,7 +54,14 @@
      {"issue-date": "1932-03", "volume": "45", "number": "3"},
      {"issue-date": "1932-04", "volume": "45", "number": "4"},
      {"issue-date": "1932-05", "volume": "45", "number": "5"},
-     {"issue-date": "1932-06", "volume": "45", "number": "6"}
+     {"issue-date": "1932-06", "volume": "45", "number": "6"},
+     {"issue-date": "1932-July-August", "volume": "46", "number": "no. 1-2"},
+     {"issue-date": "1932-09", "volume": "46", "number": "3"},
+     {"issue-date": "1932-10", "volume": "46", "number": "4"},
+     {"issue-date": "1932-11", "volume": "46", "number": "5"},
+     {"issue-date": "1932-12", "volume": "46", "number": "6"},
+     {"issue-date": "1933-01", "volume": "47", "number": "1",
+      "cdate": "1932-12-29"}
    ],
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
@@ -70,5 +77,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-01-03"
+   "last-updated": "2024-09-29"
 }

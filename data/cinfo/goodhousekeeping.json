@@ -12,7 +12,7 @@
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1929-02", "volume": "88", "number": "2"}},
    "first-renewed-contribution-source": "1956-JanJun",
-   "renewed-issue-completeness": "active/1931",
+   "renewed-issue-completeness": "active/1932",
    "renewed-issues": [
      {"issue-date": "1929-02", "volume": "88", "number": "2"},
      {"issue-date": "1929-03", "volume": "88", "number": "3"},
@@ -52,7 +52,18 @@
      {"issue-date": "1931-11", "volume": "93", "number": "5"},
      {"issue-date": "1931-12", "volume": "93", "number": "6"},
      {"issue-date": "1932-01", "volume": "94", "number": "1",
-      "cdate": "1931-12-24"}
+      "cdate": "1931-12-24"},
+     {"issue-date": "1932-02", "volume": "94", "number": "2",
+      "cdate": "1932-01-25"},
+     {"issue-date": "1932-03", "volume": "94", "number": "3"},
+     {"issue-date": "1932-04", "volume": "94", "number": "4"},
+     {"issue-date": "1932-05", "volume": "94", "number": "5"},
+     {"issue-date": "1932-06", "volume": "94", "number": "6"},
+     {"issue-date": "1932-08", "volume": "95", "number": "2"},
+     {"issue-date": "1932-09", "volume": "95", "number": "3"},
+     {"issue-date": "1932-10", "volume": "95", "number": "4"},
+     {"issue-date": "1932-11", "volume": "95", "number": "5"},
+     {"issue-date": "1932-12", "volume": "95", "number": "6"}
    ],
    "renewed-contribution-completeness": "active/1929",
    "renewed-contributions": [

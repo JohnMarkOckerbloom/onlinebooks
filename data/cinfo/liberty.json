@@ -15,7 +15,7 @@
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1929-01-19", "volume": "6", "number": "2"}},
    "first-renewed-contribution-source": "1956-JanJun",
-   "renewed-issue-completeness": "active/1931",
+   "renewed-issue-completeness": "active/1932",
    "renewed-issues": [
      {"issue-date": "1929-01-12", "volume": "6", "number": "1",
       "cdate": "1929-01-05"},
@@ -183,9 +183,66 @@
      {"issue-date": "1932-01-16", "volume": "9", "number": "3",
       "cdate": "1932-01-07"},
      {"issue-date": "1932-01-23", "volume": "9", "number": "4"},
-     {"issue-date": "1932-01-30", "volume": "9", "number": "5"}
+     {"issue-date": "1932-01-30", "volume": "9", "number": "5"},
+     {"issue-date": "1932-02-06", "volume": "9", "number": "6"},
+     {"issue-date": "1932-02-13", "volume": "9", "number": "7"},
+     {"issue-date": "1932-02-20", "volume": "9", "number": "8"},
+     {"issue-date": "1932-02-27", "volume": "9", "number": "9"},
+     {"issue-date": "1932-03-05", "volume": "9", "number": "10"},
+     {"issue-date": "1932-03-12", "volume": "9", "number": "11"},
+     {"issue-date": "1932-03-19", "volume": "9", "number": "12"},
+     {"issue-date": "1932-03-26", "volume": "9", "number": "13"},
+     {"issue-date": "1932-04-02", "volume": "9", "number": "14"},
+     {"issue-date": "1932-04-09", "volume": "9", "number": "15"},
+     {"issue-date": "1932-04-16", "volume": "9", "number": "16"},
+     {"issue-date": "1932-04-23", "volume": "9", "number": "17"},
+     {"issue-date": "1932-04-30", "volume": "9", "number": "18"},
+     {"issue-date": "1932-05-07", "volume": "9", "number": "19"},
+     {"issue-date": "1932-05-14", "volume": "9", "number": "20"},
+     {"issue-date": "1932-05-21", "volume": "9", "number": "21"},
+     {"issue-date": "1932-05-28", "volume": "9", "number": "22"},
+     {"issue-date": "1932-06-04", "volume": "9", "number": "23"},
+     {"issue-date": "1932-06-11", "volume": "9", "number": "24"},
+     {"issue-date": "1932-06-18", "volume": "9", "number": "25"},
+     {"issue-date": "1932-06-25", "volume": "9", "number": "26"},
+     {"issue-date": "1932-07-02", "volume": "9", "number": "27"},
+     {"issue-date": "1932-07-09", "volume": "9", "number": "28"},
+     {"issue-date": "1932-07-16", "volume": "9", "number": "29"},
+     {"issue-date": "1932-07-23", "volume": "9", "number": "30"},
+     {"issue-date": "1932-07-30", "volume": "9", "number": "31"},
+     {"issue-date": "1932-08-06", "volume": "9", "number": "32"},
+     {"issue-date": "1932-08-13", "volume": "9", "number": "33"},
+     {"issue-date": "1932-08-20", "volume": "9", "number": "34"},
+     {"issue-date": "1932-08-27", "volume": "9", "number": "35"},
+     {"issue-date": "1932-09-03", "volume": "9", "number": "36"},
+     {"issue-date": "1932-09-10", "volume": "9", "number": "37"},
+     {"issue-date": "1932-09-17", "volume": "9", "number": "38"},
+     {"issue-date": "1932-09-24", "volume": "9", "number": "39"},
+     {"issue-date": "1932-10-01", "volume": "9", "number": "40"},
+     {"issue-date": "1932-10-08", "volume": "9", "number": "41"},
+     {"issue-date": "1932-10-15", "volume": "9", "number": "42"},
+     {"issue-date": "1932-10-22", "volume": "9", "number": "43"},
+     {"issue-date": "1932-10-29", "volume": "9", "number": "44"},
+     {"issue-date": "1932-11-05", "volume": "9", "number": "45"},
+     {"issue-date": "1932-11-12", "volume": "9", "number": "46"},
+     {"issue-date": "1932-11-19", "volume": "9", "number": "47"},
+     {"issue-date": "1932-11-26", "volume": "9", "number": "48"},
+     {"issue-date": "1932-12-03", "volume": "9", "number": "49"},
+     {"issue-date": "1932-12-10", "volume": "9", "number": "50"},
+     {"issue-date": "1932-12-17", "volume": "9", "number": "51"},
+     {"issue-date": "1932-12-24", "volume": "9", "number": "52"},
+     {"issue-date": "1932-12-31", "volume": "9", "number": "53"},
+     {"issue-date": "1933-01-07", "volume": "10", "number": "1",
+      "cdate": "1932-12-29"},
+     {"issue-date": "1933-01-14", "volume": "10", "number": "2",
+      "cdate": "1933-01-05"},
+     {"issue-date": "1933-01-21", "volume": "10", "number": "3"},
+     {"issue-date": "1933-01-28", "volume": "10", "number": "4"},
+     {"issue-date": "1933-02-04", "volume": "10", "number": "5"},
+     {"issue-date": "1933-02-11", "volume": "10", "number": "6"},
+     {"issue-date": "1933-02-18", "volume": "10", "number": "7"}
    ],
-   "renewed-contribution-completeness": "active/1929",
+   "renewed-contribution-completeness": "active/1930",
    "renewed-contributions": [
      {"issue": {"issue-date": "1929-01-19", "volume": "6", "number": "2"},
       "title": "The Murders on the Roof",
@@ -603,11 +660,51 @@
        "lcna": "n89129751"
       }
      },
+     {"issue": {"issue-date": "1930-05-31", "volume": "7", "number": "22"},
+      "title": "Jeanne Eagels",
+      "title-note": "part 1 of 15",
+       "author": {
+         "authorized": "Doherty, Eddie, 1890-1975",
+         "lcna": "no94002821"
+       }
+     },
      {"issue": {"issue-date": "1930-06-07", "volume": "7", "number": "23"},
        "title": "Thy Servant a Dog",
        "author": {
          "authorized": "Kipling, Rudyard, 1865-1936",
          "lcna": "n79103792"
+       }
+     },
+     {"issue": {"issue-date": "1930-06-07", "volume": "7", "number": "23"},
+      "title": "Jeanne Eagels",
+      "title-note": "part 2 of 15",
+       "author": {
+         "authorized": "Doherty, Eddie, 1890-1975",
+         "lcna": "no94002821"
+       }
+     },
+     {"issue": {"issue-date": "1930-06-14", "volume": "7", "number": "24"},
+      "title": "Jeanne Eagels",
+      "title-note": "part 3 of 15",
+       "author": {
+         "authorized": "Doherty, Eddie, 1890-1975",
+         "lcna": "no94002821"
+       }
+     },
+     {"issue": {"issue-date": "1930-06-21", "volume": "7", "number": "25"},
+      "title": "Jeanne Eagels",
+      "title-note": "part 4 of 15",
+       "author": {
+         "authorized": "Doherty, Eddie, 1890-1975",
+         "lcna": "no94002821"
+       }
+     },
+     {"issue": {"issue-date": "1930-06-28", "volume": "7", "number": "26"},
+      "title": "Jeanne Eagels",
+      "title-note": "part 5 of 15",
+       "author": {
+         "authorized": "Doherty, Eddie, 1890-1975",
+         "lcna": "no94002821"
        }
      },
      {"issue": {"issue-date": "1930-07-05", "volume": "7", "number": "27"},
@@ -618,12 +715,68 @@
        "lcna": "n90719514"
       }
      },
+     {"issue": {"issue-date": "1930-07-05", "volume": "7", "number": "27"},
+      "title": "Jeanne Eagels",
+      "title-note": "part 6 of 15",
+       "author": {
+         "authorized": "Doherty, Eddie, 1890-1975",
+         "lcna": "no94002821"
+       }
+     },
+     {"issue": {"issue-date": "1930-07-12", "volume": "7", "number": "28"},
+      "title": "Jeanne Eagels",
+      "title-note": "part 7 of 15",
+       "author": {
+         "authorized": "Doherty, Eddie, 1890-1975",
+         "lcna": "no94002821"
+       }
+     },
      {"issue": {"issue-date": "1930-07-19", "volume": "7", "number": "29"},
       "title": "God's Gift to Women",
       "author": {
        "authorized": "Brennan, Frederick Hazlitt, 1901-1962",
        "lcna": "no89011748"
       }
+     },
+     {"issue": {"issue-date": "1930-07-19", "volume": "7", "number": "29"},
+      "title": "Jeanne Eagels",
+      "title-note": "part 8 of 15",
+       "author": {
+         "authorized": "Doherty, Eddie, 1890-1975",
+         "lcna": "no94002821"
+       }
+     },
+     {"issue": {"issue-date": "1930-07-26", "volume": "7", "number": "30"},
+      "title": "Jeanne Eagels",
+      "title-note": "part 9 of 15",
+       "author": {
+         "authorized": "Doherty, Eddie, 1890-1975",
+         "lcna": "no94002821"
+       }
+     },
+     {"issue": {"issue-date": "1930-08-02", "volume": "7", "number": "31"},
+      "title": "Jeanne Eagels",
+      "title-note": "part 10 of 15",
+       "author": {
+         "authorized": "Doherty, Eddie, 1890-1975",
+         "lcna": "no94002821"
+       }
+     },
+     {"issue": {"issue-date": "1930-08-09", "volume": "7", "number": "32"},
+      "title": "Jeanne Eagels",
+      "title-note": "part 11 of 15",
+       "author": {
+         "authorized": "Doherty, Eddie, 1890-1975",
+         "lcna": "no94002821"
+       }
+     },
+     {"issue": {"issue-date": "1930-08-16", "volume": "7", "number": "33"},
+      "title": "Jeanne Eagels",
+      "title-note": "part 12 of 15",
+       "author": {
+         "authorized": "Doherty, Eddie, 1890-1975",
+         "lcna": "no94002821"
+       }
      },
      {"issue": {"issue-date": "1930-08-23", "volume": "7", "number": "34"}, 
       "title": "Walled City",
@@ -632,11 +785,49 @@
        "lcna": "n89129751"
       }
      },
+     {"issue": {"issue-date": "1930-08-23", "volume": "7", "number": "34"}, 
+      "title": "Jeanne Eagels",
+      "title-note": "part 13 of 15",
+       "author": {
+         "authorized": "Doherty, Eddie, 1890-1975",
+         "lcna": "no94002821"
+       }
+     },
+     {"issue": {"issue-date": "1930-08-30", "volume": "7", "number": "35"}, 
+      "title": "Jeanne Eagels",
+      "title-note": "part 14 of 15",
+       "author": {
+         "authorized": "Doherty, Eddie, 1890-1975",
+         "lcna": "no94002821"
+       }
+     },
+     {"issue": {"issue-date": "1930-09-06", "volume": "7", "number": "36"}, 
+      "title": "Jeanne Eagels",
+      "title-note": "part 15 of 15",
+       "author": {
+         "authorized": "Doherty, Eddie, 1890-1975",
+         "lcna": "no94002821"
+       }
+     },
      {"issue": {"issue-date": "1930-09-13", "volume": "7", "number": "37"},
       "title": "Fellow Prisoners",
       "author": {
        "authorized": "Gibbs, Philip, 1877-1962",
        "lcna": "n85232177"
+      }
+     },
+     {"issue": {"issue-date": "1930-09-20", "volume": "7", "number": "38"},
+      "title": "The Girl Went Over the Mountain",
+      "author": {
+       "authorized": "Kantor, MacKinlay, 1904-1977",
+       "lcna": "n79140979"
+      }
+     },
+     {"issue": {"issue-date": "1930-10-25", "volume": "7", "number": "43"},
+      "title": "The President's Thumb",
+      "author": {
+       "authorized": "Kantor, MacKinlay, 1904-1977",
+       "lcna": "n79140979"
       }
      },
      {"issue": {"issue-date": "1930-11-08", "volume": "7", "number": "45"},
@@ -645,11 +836,119 @@
          "authorized": "Runyon, Damon, 1880-1946",
          "lcna": "n80049533"
        }
+     },
+     {"issue": {"issue-date": "1930-12-13", "volume": "7", "number": "50"},
+      "title": "Beautiful and Dumb",
+      "author": {
+       "authorized": "Duganne, Phyllis, 1899-1976",
+       "lcna": "n90719514"
+      }
+     },
+     {"issue": {"issue-date": "1931-02-14", "volume": "8", "number": "7"},
+      "title": "Bridge vs. Bridge",
+      "author": {
+       "authorized": "McKenna, Edward L.",
+       "lcna": "no94038993"
+      }
+     },
+     {"issue": {"issue-date": "1931-04-25", "volume": "8", "number": "17"},
+      "title": "The Golden Day",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1931-05-02", "volume": "8", "number": "18"}, 
+      "title": "Tragic Eyes",
+      "author": {
+       "authorized": "Weiman, Rita, 1889-1954",
+       "lcna": "n89129751"
+      }
+     },
+     {"issue": {"issue-date": "1931-06-13", "volume": "8", "number": "24"},
+      "title": "Heroes Are Never Named George",
+      "author": {
+       "authorized": "Duganne, Phyllis, 1899-1976",
+       "lcna": "n90719514"
+      }
+     },
+     {"issue": {"issue-date": "1931-06-27", "volume": "8", "number": "26"},
+      "title": "The Real McCoy",
+      "title-note": "installment",
+      "author": {
+         "authorized": "Van de Water, Frederic F., 1890-1968",
+         "lcna": "n82046903"
+      }
+     },
+     {"issue": {"issue-date": "1931-07-11", "volume": "8", "number": "28"},
+      "title": "The Real McCoy",
+      "title-note": "installment",
+      "note": "Title as given in CCE renewal record.  FictionMags gives title of the Van de Water article appearing in this issue as 'Running the Rum Blockade'.",
+      "author": {
+         "authorized": "Van de Water, Frederic F., 1890-1968",
+         "lcna": "n82046903"
+      }
+     },
+     {"issue": {"issue-date": "1931-07-25", "volume": "8", "number": "30"},
+      "title": "Three Million Percent",
+      "author": {
+       "authorized": "Hopper, James, 1876-1956",
+       "lcna": "n00068220"
+      }
+     },
+     {"issue": {"issue-date": "1931-07-25", "volume": "8", "number": "30"},
+      "title": "The Real McCoy",
+      "title-note": "installment",
+      "note": "Title as given in CCE renewal record.  FictionMags gives title of the Van de Water article appearing in this issue as 'Pirates and the Rum Patrol'.",
+      "author": {
+         "authorized": "Van de Water, Frederic F., 1890-1968",
+         "lcna": "n82046903"
+      }
+     },
+     {"issue": {"issue-date": "1931-08-08", "volume": "8", "number": "32"},
+      "title": "The Real McCoy",
+      "title-note": "installment",
+      "note": "Title as given in CCE renewal record.  FictionMags gives title of the Van de Water article appearing in this issue as 'Surrender or Sink'.",
+      "author": {
+         "authorized": "Van de Water, Frederic F., 1890-1968",
+         "lcna": "n82046903"
+      }
+     },
+     {"issue": {"issue-date": "1931-08-22", "volume": "8", "number": "34"}, 
+      "title": "Call of the Siren",
+      "author": {
+       "authorized": "Weiman, Rita, 1889-1954",
+       "lcna": "n89129751"
+      }
+     },
+     {"issue": {"issue-date": "1931-10-17", "volume": "8", "number": "42"},
+      "title": "Tin Foil",
+      "author": {
+       "authorized": "Hopper, James, 1876-1956",
+       "lcna": "n00068220"
+      }
+     },
+     {"issue": {"issue-date": "1931-11-14", "volume": "8", "number": "46"}, 
+      "title": "Anniversary",
+      "author": {
+       "authorized": "Weiman, Rita, 1889-1954",
+       "lcna": "n89129751"
+      }
+     },
+     {"issue": {"issue-date": "1931-12-26", "volume": "8", "number": "52"},
+      "title": "The Flat",
+      "note": "Title as given in CCE renewal record.  FictionMags gives title of the Hopper story appearing in this issue as 'Something That Slipped Away'.",
+      "author": {
+       "authorized": "Hopper, James, 1876-1956",
+       "lcna": "n00068220"
+      }
      }
    ],
+   "comment": "Resume contribution search in 1959 Jan-Jun",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-01-03"
+   "last-updated": "2024-09-29"
 }

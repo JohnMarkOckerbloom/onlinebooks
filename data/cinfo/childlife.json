@@ -8,7 +8,7 @@
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1929-05"}},
    "first-renewed-contribution-source": "1956-JanJun",
-   "renewed-issue-completeness": "active/1931",
+   "renewed-issue-completeness": "active/1932",
    "renewed-issues": [
      {"issue-date": "1929-01", "volume": "8", "number": "1"},
      {"issue-date": "1929-02", "volume": "8", "number": "2"},
@@ -51,10 +51,23 @@
       "cdate": "1931-12-21"},
      {"issue-date": "1932-02", "volume": "11", "number": "2",
       "cdate": "1932-01-19"},
-     {"issue-date": "1932-03", "volume": "11", "number": "3"}
+     {"issue-date": "1932-03", "volume": "11", "number": "3"},
+     {"issue-date": "1932-04", "volume": "11", "number": "4"},
+     {"issue-date": "1932-05", "volume": "11", "number": "5"},
+     {"issue-date": "1932-06", "volume": "11", "number": "6"},
+     {"issue-date": "1932-06", "volume": "11", "number": "7"},
+     {"issue-date": "1932-07", "volume": "11", "number": "8"},
+     {"issue-date": "1932-08", "volume": "11", "number": "9"},
+     {"issue-date": "1932-09", "volume": "11", "number": "10"},
+     {"issue-date": "1932-10", "volume": "11", "number": "11"},
+     {"issue-date": "1932-11", "volume": "11", "number": "12"},
+     {"issue-date": "1933-01", "volume": "12", "number": "1",
+      "cdate": "1932-12-15"},
+     {"issue-date": "1933-02", "volume": "12", "number": "2",
+      "cdate": "1933-01-16"},
+     {"issue-date": "1933-03", "volume": "12", "number": "3"}
    ],
-   "renewed-contribution-completeness": "active/1949",
-   "comment": "Added all CCE cont. renewals; search CO database for more",
+   "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
      {"issue": {"issue-date": "1929-05"}, 
       "title": "Jonathan Bing",
@@ -545,11 +558,270 @@
           "authorized": "Krasilovsky, Phyllis",
           "lcna": "n79122397"
         }
+     },
+     {"issue": {"issue-date": "1951-04"},
+      "title": "Rain",
+       "author": {
+          "authorized": "Berg, Jean Horton",
+          "lcna": "n50007792"
+        }
+     },
+     {"issue": {"issue-date": "1951-04"},
+      "title": "Swinging",
+       "author": {
+          "authorized": "Berg, Jean Horton",
+          "lcna": "n50007792"
+        }
+     },
+     {"issue": {"issue-date": "1951-05"},
+      "title": "Jean's Haircut",
+       "author": {
+          "authorized": "Berg, Jean Horton",
+          "lcna": "n50007792"
+        }
+     },
+     {"issue": {"issue-date": "1951-06"},
+      "title": "Great Grandfather's Cow",
+       "author": {
+          "authorized": "Berg, Jean Horton",
+          "lcna": "n50007792"
+        }
+     },
+     {"issue": {"issue-date": "1951-12"},
+      "title": "King of the Flock",
+       "author": {
+          "authorized": "Berg, Jean Horton",
+          "lcna": "n50007792"
+        }
+     },
+     {"issue": {"issue-date": "1953-12"},
+      "title": "Stripes and Spots",
+       "author": {
+          "authorized": "Ipcar, Dahlov, 1917-2017",
+          "lcna": "n80003997"
+        }
+     },
+     {"issue": {"issue-date": "1954-02"},
+      "title": "Dora Finds a Treasure",
+       "author": {
+          "authorized": "Berg, Jean Horton",
+          "lcna": "n50007792"
+        }
+     },
+     {"issue": {"issue-date": "1954-03"},
+      "title": "Wearing of the Green",
+       "author": {
+          "authorized": "Berg, Jean Horton",
+          "lcna": "n50007792"
+        }
+     },
+     {"issue": {"issue-date": "1954-04"},
+      "title": "Danny's Trick",
+       "author": {
+          "authorized": "Berg, Jean Horton",
+          "lcna": "n50007792"
+        }
+     },
+     {"issue": {"issue-date": "1954-05"},
+      "title": "May Day",
+       "author": {
+          "authorized": "Berg, Jean Horton",
+          "lcna": "n50007792"
+        }
+     },
+     {"issue": {"issue-date": "1954-06"},
+      "title": "Farm Yard Fun",
+       "author": {
+          "authorized": "Berg, Jean Horton",
+          "lcna": "n50007792"
+        }
+     },
+     {"issue": {"issue-date": "1954-09"},
+      "title": "A Day at School",
+       "author": {
+          "authorized": "Berg, Jean Horton",
+          "lcna": "n50007792"
+        }
+     },
+     {"issue": {"issue-date": "1954-09"},
+      "title": "Big and Little",
+       "author": {
+          "authorized": "Berg, Jean Horton",
+          "lcna": "n50007792"
+        }
+     },
+     {"issue": {"issue-date": "1954-10"},
+      "title": "Halloween Fun",
+       "author": {
+          "authorized": "Berg, Jean Horton",
+          "lcna": "n50007792"
+        }
+     },
+     {"issue": {"issue-date": "1954-10"},
+      "title": "Who's Afraid?",
+       "author": {
+          "authorized": "Berg, Jean Horton",
+          "lcna": "n50007792"
+        }
+     },
+     {"issue": {"issue-date": "1954-11"},
+      "title": "A Thankful Day",
+       "author": {
+          "authorized": "Berg, Jean Horton",
+          "lcna": "n50007792"
+        }
+     },
+     {"issue": {"issue-date": "1954-12"},
+      "title": "The Woodland Christmas",
+       "author": {
+          "authorized": "Berg, Jean Horton",
+          "lcna": "n50007792"
+        }
+     },
+     {"issue": {"issue-date": "1954-12"},
+      "title": "Santa's Visit (Duckling Days)",
+       "author": {
+          "authorized": "Berg, Jean Horton",
+          "lcna": "n50007792"
+        }
+     },
+     {"issue": {"issue-date": "1955-02"},
+      "title": "Surprises All Around",
+       "author": {
+          "authorized": "Berg, Jean Horton",
+          "lcna": "n50007792"
+        }
+     },
+     {"issue": {"issue-date": "1955-03"},
+      "title": "The Wearing of the Green",
+       "author": {
+          "authorized": "Berg, Jean Horton",
+          "lcna": "n50007792"
+        }
+     },
+     {"issue": {"issue-date": "1955-03"},
+      "title": "Woodland Cowboy Bear",
+       "author": {
+          "authorized": "Berg, Jean Horton",
+          "lcna": "n50007792"
+        }
+     },
+     {"issue": {"issue-date": "1955-04"},
+      "title": "Daisy Learns to Sail",
+       "author": {
+          "authorized": "Berg, Jean Horton",
+          "lcna": "n50007792"
+        }
+     },
+     {"issue": {"issue-date": "1955-05"},
+      "title": "Clowny Duck",
+       "author": {
+          "authorized": "Berg, Jean Horton",
+          "lcna": "n50007792"
+        }
+     },
+     {"issue": {"issue-date": "1955-June-July"},
+      "title": "Backyard Carnival",
+       "author": {
+          "authorized": "Berg, Jean Horton",
+          "lcna": "n50007792"
+        }
+     },
+     {"issue": {"issue-date": "1955-August-September"},
+      "title": "Ducklings Go to School",
+       "author": {
+          "authorized": "Berg, Jean Horton",
+          "lcna": "n50007792"
+        }
+     },
+     {"issue": {"issue-date": "1955-August-September"},
+      "title": "Deena Docket's Wonderful Pockets",
+       "author": {
+          "authorized": "Berg, Jean Horton",
+          "lcna": "n50007792"
+        }
+     },
+     {"issue": {"issue-date": "1955-10"},
+      "title": "Halloween Prize Package",
+       "author": {
+          "authorized": "Berg, Jean Horton",
+          "lcna": "n50007792"
+        }
+     },
+     {"issue": {"issue-date": "1955-11"},
+      "title": "Sharing Thanksgiving",
+       "author": {
+          "authorized": "Berg, Jean Horton",
+          "lcna": "n50007792"
+        }
+     },
+     {"issue": {"issue-date": "1955-12"},
+      "title": "The Surprise Stocking",
+       "author": {
+          "authorized": "Berg, Jean Horton",
+          "lcna": "n50007792"
+        }
+     },
+     {"issue": {"issue-date": "1956-02"},
+      "title": "A Present for the General",
+       "author": {
+          "authorized": "Berg, Jean Horton",
+          "lcna": "n50007792"
+        }
+     },
+     {"issue": {"issue-date": "1956-03"},
+      "title": "Bumbershoot Wind",
+       "author": {
+          "name": "Mary Calhoun",
+          "comment": "Not sure if this is Calhoun, Mary (b. 1926) or Calhoun, Mary, 1915-2007"
+        }
+     },
+     {"issue": {"issue-date": "1956-08"},
+      "title": "Vegetable Soup",
+       "author": {
+          "authorized": "Berg, Jean Horton",
+          "lcna": "n50007792"
+        }
+     },
+     {"issue": {"issue-date": "1956-10"},
+      "title": "Runaway Pony",
+       "author": {
+          "authorized": "Berg, Jean Horton",
+          "lcna": "n50007792"
+        }
+     },
+     {"issue": {"issue-date": "1960-05"},
+      "title": "Issue Humpy Hippo",
+       "author": {
+          "authorized": "Berg, Jean Horton",
+          "lcna": "n50007792"
+        }
+     },
+     {"issue": {"issue-date": "1960-June/July"},
+      "title": "Just Right",
+       "author": {
+          "authorized": "Berg, Jean Horton",
+          "lcna": "n50007792"
+        }
+     },
+     {"issue": {"issue-date": "1960-June/July"},
+      "title": "Sniffy and Snuffy, the Two Baby Skunks",
+       "author": {
+          "authorized": "Berg, Jean Horton",
+          "lcna": "n50007792"
+        }
+     },
+     {"issue": {"issue-date": "1960-10"},
+      "title": "Why, Mr. Owl?",
+       "author": {
+          "authorized": "Berg, Jean Horton",
+          "lcna": "n50007792"
+        }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-01-02"
+   "last-updated": "2024-09-28"
 }

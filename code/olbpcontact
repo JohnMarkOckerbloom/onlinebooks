@@ -395,8 +395,9 @@ sub formcataloglinkargs {
      $hinturl =  "https://catalog.hathitrust.org/Search/Home?lookfor=$issn&searchtype=isn&filter[]=format%3ASerial";
   } elsif ($bftable =~ /^penn/) {
     $whose = "Penn's";
-    $catalog = "Franklin";
-    $hinturl = "https://franklin.library.upenn.edu/catalog?utf8=%E2%9C%93&search_field=isxn_search&q=$issn";
+    $catalog = "library catalog";
+    $hinturl = "https://find.library.upenn.edu/?search_field=isxn_search&q=$issn"
+    # $hinturl = "https://find.library.upenn.edu/?op=must&clause%5B0%5D%5Bfield%5D=all_fields_advanced&clause%5B0%5D%5Bquery%5D=&clause%5B7%5D%5Bfield%5D=isxn_search&sort=score+desc%2C+publication_date_sort+desc%2C+title_sort+asc&commit=Search&clause%5B7%5D%5Bquery%5D=$issn"
   }
   return ($whose, $catalog, $hinturl);
 }
@@ -833,6 +834,7 @@ sub analyze_form {
       || $comments =~ /pxl.to/i
       || $comments =~ /fiverrtalents/i
       || $comments =~ /ultimate tool/i
+      || $comments =~ /sexual pic/i
       || $comments =~ /your (business|company|sales)/i
       || $comments =~ /(network|digital|email|local|online).marketing/i
       || $comments =~ /unsub(marketing|scribe)/i

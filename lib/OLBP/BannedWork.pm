@@ -2,6 +2,9 @@ package OLBP::BannedWork;
 use strict;
 use JSON;
 use OLBP;
+# use Locale::Country;
+
+my $citedir  = $OLBP::dbdir . "banned/bib/";
 
 my @month = ("January", "February", "March", "April", "May", "June", "July",
              "August", "September", "October", "November", "December");
@@ -19,6 +22,16 @@ my $bookshopprefix   = "https://bookshop.org/books?";
 my $amazonprefix     = "https://www.amazon.com/s?";
 my $bnprefix         = "https://www.barnesandnoble.com/s/";
 my $bookfinderprefix = "https://www.bookfinder.com/search/?mode=basic&st=sr&ac=qr&lang=any&";
+
+my $countries = {
+  'AU' => "Australia", 'AT' => "Austria",
+  'CA' => "Canada", 'CN' => "China", 'CU' => "Cuba", 'FR' => "France",
+  'DE' => "Germany", 'GR' => "Greece", 'IR' => "Iran",
+  'MY' => "Malaysia",  'MM' => "Myanmar",
+  'NO' => "Norway", 'SA' => "Saudi Arabia", 'SG' => "Singapore",
+  'ES' => "Spain", 'ZA' => "South Africa", 'SU' => "Soviet Union",
+  'TR' => "Turkey", 'UK' => "United Kingdom", 'US' => "United States"
+};
 
 my $states = {
   'AL' => "Alabama", 'AK' => "Alaska", 'AZ' => "Arizona", 'AR' => "Arkansas",
@@ -131,18 +144,14 @@ sub _location_string {
     $loccode = $location;
   }
   $str = $loccode;
-  if ($loccode eq "US") {
-    $str = "United States";
-  } elsif ($loccode =~ /^US-([A-Z][A-Z])(-.*)?/) {
+  if ($loccode =~ /^US-([A-Z][A-Z])(-.*)?/) {
     my ($statecode, $locality) = ($1, $2);
     $str = $states->{$statecode};
     if ($2) {
       $str = "$locality, $str";
     }
-  } elsif ($loccode eq "IR") {
-    $str = "Iran";
-  } elsif ($loccode eq "DE") {
-    $str = "Germany";
+  } elsif ($countries->{$loccode}) {
+    $str = $countries->{$loccode};
   }
   return $str;
 }
@@ -304,7 +313,8 @@ sub _borrow_link_html {
 sub _bookshop_buy_link_html {
   my ($title, $author) = @_;
   my $informalauthor = _informalname($author);
-  my $query = "keywords=$title by $informalauthor";
+  my $query = "keywords=$title";
+  $query .= " by $informalauthor" if ($informalauthor);
   $query =~ s/\s+/\+/g;
   my $url = "$bookshopprefix$query";
   return qq!<a href="$url">Bookshop.org</a>!;
@@ -313,7 +323,8 @@ sub _bookshop_buy_link_html {
 sub _amazon_buy_link_html {
   my ($title, $author) = @_;
   my $informalauthor = _informalname($author);
-  my $query = "k=$title by $informalauthor";
+  my $query = "k=$title";
+  $query .= " by $informalauthor" if ($informalauthor);
   $query =~ s/\s+/\+/g;
   my $url = "$amazonprefix$query";
   return qq!<a href="$url">Amazon</a>!;
@@ -322,7 +333,8 @@ sub _amazon_buy_link_html {
 sub _bn_buy_link_html {
   my ($title, $author) = @_;
   my $informalauthor = _informalname($author);
-  my $query = "keywords=$title by $informalauthor";
+  my $query = "keywords=$title";
+  $query .= " by $informalauthor" if ($informalauthor);
   $query =~ s/\s+/\+/g;
   my $url = "$bnprefix$query";
   return qq!<a href="$url">Barnes &amp; Noble</a>!;
@@ -428,8 +440,11 @@ sub cover_display_html {
     if ($linkurl) {
       $titlestr = qq!<a href="$linkurl">$titlestr</a>!;
     }
+    $str .= qq!$titlestr!;
     my $authorstr = $self->get_author_summary();
-    $str .= qq!$titlestr<br>by $authorstr!;
+    if ($authorstr) {
+      $str .= qq!<br>by $authorstr!;
+    }
   }
   else {
     my $desc = $cover->{description};
@@ -460,6 +475,16 @@ sub _incident_html {
     $str = "<strong>$heading:</strong> ";
   }
   $str .= OLBP::BannedUtils::expand_html_template($description);
+  my $citeref = $incident->{citation};
+  if ($citeref) {
+    my $source = $citeref->{source};
+    my $pages = $citeref->{pages};
+    if ($source) {
+      my $citation = new OLBP::BannedCitation(dir=>$citedir, id=>$source,
+                                              pages=>$pages);
+      $str .= " <em>(" . $citation->display_html() . ")</em>";
+    }
+  }
   return $str;
 }
 
@@ -533,6 +558,10 @@ sub get_publication_year {
   my $date = $self->get_publication_date();
   if ($date =~ /^(\d\d\d\d)/) {
     return $1;
+  } elsif ($date =~ /^\d+\s+BC/) {
+    return $date;
+  } elsif ($date =~ /^\d+\w+ century/) {
+    return $date;
   }
   return 0;
 }

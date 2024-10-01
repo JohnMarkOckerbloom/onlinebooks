@@ -136,6 +136,14 @@ sub display_html {
   if ($date) {
     $str .= ", $date";
   }
+  my $pages = $self->{pages} || $self->{json}->{"pages"};
+  if ($pages) {
+    if ($pages =~ /-/) {
+      $str .= ", pp. $pages";
+    } else {
+      $str .= ", p. $pages";
+    }
+  }
   $str .= ".";
   return $str;
 }
@@ -162,6 +170,7 @@ sub _initialize {
   my ($self, %params) = @_;
   $self->{dir} = $params{dir};
   $self->{id} = $params{id};
+  $self->{pages} = $params{pages};
   $self->{parser} = OLBP::BannedUtils::get_json_parser();
   if ($self->{id}) {
     $self->{json} = $self->get_json(filename=>$self->{id});

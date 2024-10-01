@@ -13,9 +13,13 @@
       {"issue-date": "1932-09", "volume": "1", "number": "2"},
    "succeeded-by":
      [{"id": "directcredits", "note": "Direct Credits"}],
+   "renewed-issue-completeness": "active/end",
+   "renewed-issues": [
+      {"issue-date": "1932-09", "volume": "1", "number": "2"}
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-09-12"
+   "last-updated": "2024-09-28"
 }

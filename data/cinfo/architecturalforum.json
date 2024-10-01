@@ -8,6 +8,7 @@
    "first-renewed-contribution":
      {"issue": {"issue-date": "1932-11"}},
    "first-renewed-contribution-source": "1960-JanJun",
+   "renewed-issue-completeness": "active/1932",
    "renewed-issues": [
      {"issue-date": "1932-04", "volume": "56", "number": "4"},
      {"issue-date": "1932-05", "volume": "56", "number": "5"},
@@ -16,7 +17,18 @@
      {"issue-date": "1932-08", "volume": "57", "number": "2"},
      {"issue-date": "1932-09", "volume": "57", "number": "3"},
      {"issue-date": "1932-10", "volume": "57", "number": "4"},
-     {"issue-date": "1932-11", "volume": "57", "number": "5"}
+     {"issue-date": "1932-11", "volume": "57", "number": "5"},
+     {"issue-date": "1933-12", "volume": "57", "number": "6"},
+     {"issue-date": "1933-01", "volume": "58", "number": "1"},
+     {"issue-date": "1933-02", "volume": "58", "number": "2"},
+     {"issue-date": "1933-03", "volume": "58", "number": "3"},
+     {"issue-date": "1933-04", "volume": "58", "number": "4"},
+     {"issue-date": "1933-05", "volume": "58", "number": "5"},
+     {"issue-date": "1932-06", "volume": "58", "number": "6"},
+     {"issue-date": "1933-07", "volume": "59", "number": "1"},
+     {"issue-date": "1933-08", "volume": "59", "number": "2"},
+     {"issue-date": "1933-09", "volume": "59", "number": "3"},
+     {"issue-date": "1933-10", "volume": "59", "number": "4"}
    ],
    "comment": "Pick up issue renewals with 1960 Jan-Jun",
    "renewed-contribution-completeness": "active/autorenewals",
@@ -271,5 +283,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-08-24"
+   "last-updated": "2024-09-28"
 }

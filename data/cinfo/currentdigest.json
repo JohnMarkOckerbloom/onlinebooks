@@ -10,7 +10,7 @@
    "preceded-by":
      [{"id": "americandigest",
        "note": "American Digest (Monthly advance sheets, Key number series)"}],
-   "renewed-issue-completeness": "active/1931",
+   "renewed-issue-completeness": "active/1932",
    "renewed-issues": [
      {"issue-date": "1928-12", "number": "459", "cdate": "1929-01-08"},
      {"issue-date": "1928", "volume": "3", "number": "Annual edition",
@@ -69,13 +69,28 @@
      {"issue-date": "1932-06", "number": "499"},
      {"issue-date": "1932-07", "number": "500"},
      {"issue-date": "1932-August-September", "number": "501"},
+     {"issue-date": "1932-10", "number": "502"},
+     {"issue-date": "1932-11", "number": "503"},
+     {"issue-date": "1932-12", "number": "504"},
      {"issue-date": "1932-June 1 - December 31,", "volume": "9",
-      "cdate": "1933-02-24"}
+      "cdate": "1933-02-24"},
+     {"issue-date": "1933-01", "number": "505"},
+     {"issue-date": "1933-02", "number": "506"},
+     {"issue-date": "1933-03", "number": "507"},
+     {"issue-date": "1933-04", "number": "508"},
+     {"issue-date": "1933-05", "number": "509"},
+     {"issue-date": "1933-January 1 - May 31,", "volume": "10"},
+     {"issue-date": "1933-06", "number": "510"},
+     {"issue-date": "1933-07", "number": "511",
+      "note": "Renewal filed under Books in CCE."},
+     {"issue-date": "1933-August-September", "number": "512",
+      "note": "Renewal filed under Books in CCE."},
+     {"issue-date": "1933-June 1 - December 31,", "volume": "11"}
    ],
-   "additional-note": "The monthly issues are renewed under Periodicals, with some described as 'monthly advance sheets, key number series'. The annual and semi-annual editions are renewed under Books, as are a number of index volumes not covered here.",
+   "additional-note": "The monthly issues are usually renewed under Periodicals, with some described as 'monthly advance sheets, key number series'. The annual and semi-annual editions are renewed under Books, as are a number of index volumes not covered here.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-01-02"
+   "last-updated": "2024-09-28"
 }

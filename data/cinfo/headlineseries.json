@@ -8,12 +8,44 @@
    "first-renewed-contribution":
      {"issue": {"issue-date": "1946-November-December", "number": "60"}},
    "first-renewed-contribution-source": "1974-JanJun",
-   "additional-note": "The renewal record for #60 in CCE is the first one to specifically mention Headline Series, and was filed under Books.  However, since many of the issues in this series were monographs, the monograph title for an issue should also be checked (as a book) to see if it was renewed.  The CCE renewal record for the first issue to be renewed, number 13, was filed in Books under its title 'War in China', rather than in Periodicals, and did not mention Headline Series or Headline Books. There are other similarly renewed titles between numbers 13 and 60, but we have not systematically checked renewals for issue titles past number 60. Some issues mention reprinting of material that was originally published elsewhere.",
+   "renewed-issue-completeness": "active/1952",
+   "renewed-issues": [
+     {"number": "13", "cdate": "1938",
+      "note": "'War in China: America's Role in the Far East', by Varian Fry. Renewed as a book; CCE renewal record does not mention its series."},
+     {"number": "16", "cdate": "1938",
+      "note": "'Bricks Without Mortar', by Varian Fry. Renewed as a book; CCE renewal record does not mention its series."},
+     {"number": "21", "cdate": "1939",
+      "note": "'The Peace That Failed', by Varian Fry. Renewed as a book; CCE renewal record does not mention its series."},
+     {"number": "23", "cdate": "1940",
+      "note": "'War Atlas', by Varian Fry. Renewed as a book; CCE renewal record does not mention its series."},
+     {"number": "33", "cdate": "1942",
+      "note": "'Germany at War' by Joseph C. Harsch has no renewal of its own, but mentions that it includes material from other publications.  Some of those other publications have active copyright renewals."},
+     {"number": "55", "cdate": "1946",
+      "note": "'Restless India', by Lawrence K. Rosinger. Renewed as a book; CCE renewal record does not mention its series."}
+   ],
+   "renewed-contribution-completeness": "active/1952",
+   "renewed-contributions": [
+     {"issue": {"number": "60", "issue-date": "1946-November-December"},
+      "title": "Germany: Nation or No Man's Land",
+       "author": {
+        "authorized": "Warburg, James P. (James Paul), 1896-1969",
+        "lcna": "n50057433"
+       }
+     },
+     {"issue": {"number": "79", "issue-date": "1949-September-October"},
+      "title": "The American Policy in Eastern Europe",
+       "author": {
+        "authorized": "Harsch, Joseph C. (Joseph Close), 1905-1998",
+        "lcna": "n92074758"
+       }
+     }
+   ],
+   "additional-note": "The renewal record for #60 in CCE is the first one to specifically mention Headline Series, and was filed under Books.  However, since many of the issues in this series were monographs, the monograph title for an issue should also be checked (as a book) to see if it was renewed.  The CCE renewal record for the first issue to be renewed, number 13, was filed in Books under its title 'War in China', rather than in Periodicals, and did not mention Headline Series or Headline Books. There are other similarly renewed titles between numbers 13 and 96, but we have not systematically checked renewals for issue titles past number 96. Some issues mention reprinting of material that was originally published elsewhere.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
    "acknowledgement": 
       "Thanks to Lloyd Frank for copyright research on this title.",
-   "last-updated": "2023-12-11"
+   "last-updated": "2024-09-19"
 }
