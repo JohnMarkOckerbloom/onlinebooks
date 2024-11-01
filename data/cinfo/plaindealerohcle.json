@@ -5,9 +5,105 @@
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1940-03-26"}},
    "first-renewed-contribution-source": "1967-JulDec",
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1940-03-26"}, 
+      "title": "Five Great Whiskies Skillfully Wedded Into One Golden Wedding",
+      "note": "Renewed by Joseph S. Finch and Co., claiming it as a work for hire.",
+      "author": {
+       "name": "J. Stirling Getchell Inc."
+      }
+     },
+     {"issue": {"issue-date": "1943-10-24"},
+       "title": "Lois Lane, Girl Reporter",
+       "authors": [
+        {"authorized": "Siegel, Jerry, 1914-1996", "lcna": "n95061977"},
+        {"authorized": "Shuster, Joe, 1914-1992", "lcna": "no96013281"}
+       ]
+     },
+     {"issue": {"issue-date": "1943-10-24"},
+       "title": "Superman",
+       "authors": [
+        {"authorized": "Siegel, Jerry, 1914-1996", "lcna": "n95061977"},
+        {"authorized": "Shuster, Joe, 1914-1992", "lcna": "no96013281"}
+       ]
+     },
+     {"issue": {"issue-date": "1943-12-19"},
+       "title": "Lois Lane, Girl Reporter",
+       "authors": [
+        {"authorized": "Siegel, Jerry, 1914-1996", "lcna": "n95061977"},
+        {"authorized": "Shuster, Joe, 1914-1992", "lcna": "no96013281"}
+       ]
+     },
+     {"issue": {"issue-date": "1944-02-13"},
+       "title": "Lois Lane, Girl Reporter",
+       "authors": [
+        {"authorized": "Siegel, Jerry, 1914-1996", "lcna": "n95061977"},
+        {"authorized": "Shuster, Joe, 1914-1992", "lcna": "no96013281"}
+       ]
+     },
+     {"issue": {"issue-date": "1946-11-28"},
+       "title": "Superman",
+       "note": "Two renewals were filed for this strip, one by Siegel and Shuster, and one by National Periodical Publications claiming it as a work for hire.",
+
+       "authors": [
+        {"authorized": "Siegel, Jerry, 1914-1996", "lcna": "n95061977"},
+        {"authorized": "Shuster, Joe, 1914-1992", "lcna": "no96013281"},
+        {"authorized": "National Periodical Publications", "lcna": "no2016054224"}
+       ]
+     },
+     {"issue": {"issue-date": "1947-11-27"},
+       "title": "Superman",
+       "note": "Renewed by National Periodical Publications claiming it as a work for hire.",
+       "authors": [
+        {"authorized": "Siegel, Jerry, 1914-1996", "lcna": "n95061977"},
+        {"authorized": "Shuster, Joe, 1914-1992", "lcna": "no96013281"},
+        {"authorized": "National Periodical Publications", "lcna": "no2016054224"}
+       ]
+     },
+     {"issue": {"issue-date": "1947-12-25"},
+       "title": "Superman",
+       "note": "Renewed by National Periodical Publications claiming it as a work for hire.",
+       "authors": [
+        {"authorized": "Siegel, Jerry, 1914-1996", "lcna": "n95061977"},
+        {"authorized": "Shuster, Joe, 1914-1992", "lcna": "no96013281"},
+        {"authorized": "National Periodical Publications", "lcna": "no2016054224"}
+       ]
+     },
+     {"issue": {"issue-date": "1948-01-01"},
+       "title": "Superman",
+       "note": "Renewed by National Periodical Publications claiming it as a work for hire.",
+       "authors": [
+        {"authorized": "Siegel, Jerry, 1914-1996", "lcna": "n95061977"},
+        {"authorized": "Shuster, Joe, 1914-1992", "lcna": "no96013281"},
+        {"authorized": "National Periodical Publications", "lcna": "no2016054224"}
+       ]
+     },
+     {"issue": {"issue-date": "1948-01-12"},
+       "title": "Lose 'Face' and Save China, Writer-Adviser Told Chiang",
+       "author": {
+         "authorized": "Selle, Earl Albert",
+         "lcna": "nr95047118"
+       }
+     },
+     {"issue": {"issue-date": "1948-01-13"},
+       "title": "Secrets of Chiang Kidnaping Unveiled by Donald of China",
+       "author": {
+         "authorized": "Selle, Earl Albert",
+         "lcna": "nr95047118"
+       }
+     },
+     {"issue": {"issue-date": "1948-01-15"},
+       "title": "Reports Inside Information on End of Chiang Kidnaping",
+       "author": {
+         "authorized": "Selle, Earl Albert",
+         "lcna": "nr95047118"
+       }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-01-06"
+   "last-updated": "2024-10-09"
 }

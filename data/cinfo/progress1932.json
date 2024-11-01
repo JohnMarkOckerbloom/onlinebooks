@@ -10,9 +10,23 @@
    "first-renewed-contribution-source": "cce",
    "last-issue":
      {"issue-date": "1933-08", "volume": "2", "number": "3"},
+   "renewed-issue-completeness": "active/end",
+   "renewed-issues": [
+     {"issue-date": "1932-12", "volume": "1", "number": "1"},
+     {"issue-date": "1933-01", "volume": "1", "number": "2",
+      "cdate": "1932-12-21"},
+     {"issue-date": "1933-02", "volume": "1", "number": "3",
+      "cdate": "1933-01-18"},
+     {"issue-date": "1933-03", "volume": "1", "number": "4"},
+     {"issue-date": "1933-04", "volume": "1", "number": "5"},
+     {"issue-date": "1933-05", "volume": "1", "number": "6"},
+     {"issue-date": "1933-06", "volume": "2", "number": "1"},
+     {"issue-date": "1933-07", "volume": "2", "number": "2"},
+     {"issue-date": "1933-08", "volume": "2", "number": "3"}
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-05-19"
+   "last-updated": "2024-10-30"
 }

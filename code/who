@@ -51,6 +51,23 @@ sub showagent {
   print OLBP::choicelist();
   print $OLBP::bodyend;
 }
+ 
+sub url_decode {
+  my $str = shift;
+  $str =~ s/\+/ /g;
+  $str =~ s/%([a-fA-F0-9][a-fA-F0-9])/chr(hex($1))/eg;
+  return $str;
+}
+
+sub gethashval {
+  my ($name, $key, $dir) = @_;
+
+  return undef if (!$name);
+  my $fname = OLBP::hashfilename($name, $dir);
+  $hash = new OLBP::Hash(name=>$name, filename=>$fname, cache=>1);
+  return undef if (!$hash);
+  return $hash->get_value(key=>$key);
+}
 
 sub getout {
   print "Location: $default\n\n";
@@ -60,12 +77,35 @@ sub getout {
 my $q = new CGI;
 my $arg = $q->url(-path_info=>1);
 $arg =~ s/(.*)\///;
+my $qid;
+my $whodir;
 
-# validate inputs - must be only ASCII alphanumeric and hyphen
-if (!$arg || $arg =~ /[^a-zA-Z0-9\-]/) {
+# validate inputs - must be a QID or a name search key ASCII alphanumeric and hyphen
+if (!$arg) {
   getout();
 }
-my $whodir = find_dir($arg);
+if ($arg =~ /^Q[0-9]+$/) {
+  $qid = $arg;
+  $whodir = find_dir($arg);
+} else {
+  # might be a name search key
+  my $name = url_decode($arg);
+  my $skey = OLBP::BookRecord::search_key_for_name($name);
+  if ($skey) {
+    $qid = gethashval("who", $skey, $OLBP::dbdir);
+    if ($qid) {
+      $whodir = find_dir($qid);
+    }
+    if (!$whodir) {
+      # redirect to a name search page?
+    }
+  }
+  #print "Content-type: text/html\n\n";
+  #print "<html><body>Name is '$arg'; skey is '$skey'; whodir is '$whodir'</body></html>";
+  #exit 0;
+}
+
+
 if (!$whodir) {
   getout();
 }
@@ -75,4 +115,4 @@ if (defined($ENV{"GATEWAY_INTERFACE"})) {
   print "Content-type: text/html\n\n";
 }
 
-showagent($arg, $whodir);
+showagent($qid, $whodir);

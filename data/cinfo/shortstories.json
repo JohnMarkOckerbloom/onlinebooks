@@ -118,7 +118,7 @@
       "cdate": "1934-01-10"}
    ],
    "comment": "Resume issue renewal search with registered works database",
-   "renewed-contribution-completeness": "active/1929",
+   "renewed-contribution-completeness": "active/1930",
    "renewed-contributions": [
      {"issue": {"issue-date": "1929-03-10", "volume": "126", "number": "5"},
       "title": "Discovery Gulch",
@@ -385,6 +385,13 @@
       }
      },
      {"issue": {"issue-date": "1930-11-25", "volume": "133", "number": "4"},
+      "title": "Bully McGrane",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1930-11-25", "volume": "133", "number": "4"},
       "title": "Red Clark of Tulluco",
       "title-note": "part 2 of 3",
       "author": {
@@ -399,12 +406,242 @@
          "authorized": "Young, Gordon, 1886-1948",
          "lcna": "no95047273"
       }
+     },
+     {"issue": {"issue-date": "1930-12-25", "volume": "133", "number": "6"},
+      "title": "Guns of the Tom Dee",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1931-01-10", "volume": "134", "number": "1"},
+      "title": "Hopalong Cassidy and the Eagle's Brood",
+      "title-note": "part 1 of 4",
+      "author": {
+       "authorized": "Mulford, Clarence Edward, 1883-1956",
+       "lcna": "n50006370"
+      }
+     },
+     {"issue": {"issue-date": "1931-01-25", "volume": "134", "number": "2"},
+      "title": "Hopalong Cassidy and the Eagle's Brood",
+      "title-note": "part 2 of 4",
+      "author": {
+       "authorized": "Mulford, Clarence Edward, 1883-1956",
+       "lcna": "n50006370"
+      }
+     },
+     {"issue": {"issue-date": "1931-02-10", "volume": "134", "number": "3"},
+      "title": "Like a Lynx",
+      "author": {
+         "authorized": "Pinkerton, Robert E. (Robert Eugene), 1882-1970",
+         "lcna": "no2003073197"
+       }
+     },
+     {"issue": {"issue-date": "1931-02-10", "volume": "134", "number": "3"},
+      "title": "Hopalong Cassidy and the Eagle's Brood",
+      "title-note": "part 3 of 4",
+      "author": {
+       "authorized": "Mulford, Clarence Edward, 1883-1956",
+       "lcna": "n50006370"
+      }
+     },
+     {"issue": {"issue-date": "1931-02-25", "volume": "134", "number": "4"},
+      "title": "No Speak Pass",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1931-02-25", "volume": "134", "number": "4"},
+      "title": "Hopalong Cassidy and the Eagle's Brood",
+      "title-note": "part 4 of 4",
+      "author": {
+       "authorized": "Mulford, Clarence Edward, 1883-1956",
+       "lcna": "n50006370"
+      }
+     },
+     {"issue": {"issue-date": "1931-03-25", "volume": "134", "number": "6"},
+      "title": "Old Tough Heart",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1931-04-10", "volume": "135", "number": "1"},
+      "title": "A Son of Arizona",
+      "title-note": "part 1 of 4",
+      "author": {
+       "authorized": "Seltzer, Charles Alden, 1875-1942",
+       "lcna": "n50007279"
+      }
+     },
+     {"issue": {"issue-date": "1931-04-25", "volume": "135", "number": "2"},
+      "title": "A Son of Arizona",
+      "title-note": "part 2 of 4",
+      "author": {
+       "authorized": "Seltzer, Charles Alden, 1875-1942",
+       "lcna": "n50007279"
+      }
+     },
+     {"issue": {"issue-date": "1931-05-10", "volume": "135", "number": "3"},
+      "title": "A Son of Arizona",
+      "title-note": "part 3 of 4",
+      "author": {
+       "authorized": "Seltzer, Charles Alden, 1875-1942",
+       "lcna": "n50007279"
+      }
+     },
+     {"issue": {"issue-date": "1931-05-25", "volume": "135", "number": "4"},
+      "title": "A Son of Arizona",
+      "title-note": "part 4 of 4",
+      "author": {
+       "authorized": "Seltzer, Charles Alden, 1875-1942",
+       "lcna": "n50007279"
+      }
+     },
+     {"issue": {"issue-date": "1931-06-10", "volume": "135", "number": "5"},
+      "title": "The Black Clan",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1931-06-10", "volume": "135", "number": "5"},
+      "title": "Salty Cold",
+      "note": "Title as given in CCE renewal record. FictionMags gives title as 'Salty Gold'. We have not examined the issue in question.",
+      "author": {
+         "authorized": "Pinkerton, Robert E. (Robert Eugene), 1882-1970",
+         "lcna": "no2003073197"
+       }
+     },
+     {"issue": {"issue-date": "1931-06-25", "volume": "135", "number": "6"},
+      "title": "Star Toter",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1931-07-10", "volume": "136", "number": "1"},
+      "title": "Dead Man Inside",
+      "title-note": "part 1 of 4",
+      "author": {
+         "authorized": "Starrett, Vincent, 1886-1974",
+         "lcna": "n50023295"
+      }
+     },
+     {"issue": {"issue-date": "1931-07-25", "volume": "136", "number": "2"},
+      "title": "Smoke Talk",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1931-07-25", "volume": "136", "number": "2"},
+      "title": "Dead Man Inside",
+      "title-note": "part 2 of 4",
+      "author": {
+         "authorized": "Starrett, Vincent, 1886-1974",
+         "lcna": "n50023295"
+      }
+     },
+     {"issue": {"issue-date": "1931-08-10", "volume": "136", "number": "3"},
+      "title": "In Answer to Summons",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1931-08-10", "volume": "136", "number": "3"},
+      "title": "Dead Man Inside",
+      "title-note": "part 3 of 4",
+      "author": {
+         "authorized": "Starrett, Vincent, 1886-1974",
+         "lcna": "n50023295"
+      }
+     },
+     {"issue": {"issue-date": "1931-08-25", "volume": "136", "number": "4"},
+      "title": "Manhunt!",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1931-08-25", "volume": "136", "number": "4"},
+      "title": "Justice on Halfaday",
+      "author": {
+         "authorized": "Hendryx, James B. (James Beardsley), 1880-1963",
+         "lcna": "no95058559"
+       }
+     },
+     {"issue": {"issue-date": "1931-08-25", "volume": "136", "number": "4"},
+      "title": "Dead Man Inside",
+      "title-note": "part 4 of 4",
+      "author": {
+         "authorized": "Starrett, Vincent, 1886-1974",
+         "lcna": "n50023295"
+      }
+     },
+     {"issue": {"issue-date": "1931-09-10", "volume": "136", "number": "5"},
+      "title": "Corposal Downey Takes the Trail",
+      "title-note": "part 1 of 3?",
+      "author": {
+         "authorized": "Hendryx, James B. (James Beardsley), 1880-1963",
+         "lcna": "no95058559"
+       }
+     },
+     {"issue": {"issue-date": "1931-09-25", "volume": "136", "number": "6"},
+      "title": "Corposal Downey Takes the Trail",
+      "title-note": "part 2 of 3?",
+      "author": {
+         "authorized": "Hendryx, James B. (James Beardsley), 1880-1963",
+         "lcna": "no95058559"
+       }
+     },
+     {"issue": {"issue-date": "1931-10-10", "volume": "137", "number": "1"},
+      "title": "Corposal Downey Takes the Trail",
+      "title-note": "part 3 of 3?",
+      "author": {
+         "authorized": "Hendryx, James B. (James Beardsley), 1880-1963",
+         "lcna": "no95058559"
+       }
+     },
+     {"issue": {"issue-date": "1931-11-10", "volume": "137", "number": "3"},
+      "title": "Fighting Blood",
+      "title-note": "part 1 of 4",
+      "author": {
+         "authorized": "Young, Gordon, 1886-1948",
+         "lcna": "no95047273"
+      }
+     },
+     {"issue": {"issue-date": "1931-11-25", "volume": "137", "number": "4"},
+      "title": "Fighting Blood",
+      "title-note": "part 2 of 4",
+      "author": {
+         "authorized": "Young, Gordon, 1886-1948",
+         "lcna": "no95047273"
+      }
+     },
+     {"issue": {"issue-date": "1931-12-10", "volume": "137", "number": "5"},
+      "title": "Fighting Blood",
+      "title-note": "part 3 of 4",
+      "author": {
+         "authorized": "Young, Gordon, 1886-1948",
+         "lcna": "no95047273"
+      }
+     },
+     {"issue": {"issue-date": "1931-12-25", "volume": "137", "number": "6"},
+      "title": "Fighting Blood",
+      "title-note": "part 4 of 4",
+      "author": {
+         "authorized": "Young, Gordon, 1886-1948",
+         "lcna": "no95047273"
+      }
      }
    ],
-   "comment": "For more contributions, start with 1958 JanJun",
+   "comment": "For more contributions, start with 1959 JanJun",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-05-28"
+   "last-updated": "2024-10-31"
 }

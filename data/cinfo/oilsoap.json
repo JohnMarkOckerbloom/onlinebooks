@@ -11,11 +11,15 @@
    "last-issue": {"issue-date": "1946-12", "volume": "23", "number": "12"},
    "succeeded-by":
     [{"id": "jaocs", "note": "Journal of the American Oil Chemists' Society"}],
+   "renewed-issue-completeness": "active/1932",
+   "renewed-issues": [
+       {"issue-date": "1932-12", "volume": "9", "number": "12"}
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
    "acknowledgement": 
       "Thanks to Felice Gollotti for copyright research on this title.",
-   "last-updated": "2020-08-15"
+   "last-updated": "2024-10-29"
 }

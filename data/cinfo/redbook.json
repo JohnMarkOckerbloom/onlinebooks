@@ -61,15 +61,29 @@
        "cdate": "1931-12-04"},
       {"issue-date": "1932-02", "volume": "58", "number": "4",
        "cdate": "1932-01-05"},
-      {"issue-date": "1933-03", "volume": "58", "number": "5"},
-      {"issue-date": "1933-04", "volume": "58", "number": "6"},
-      {"issue-date": "1933-05", "volume": "59", "number": "1"},
-      {"issue-date": "1933-06", "volume": "59", "number": "2"},
-      {"issue-date": "1933-07", "volume": "59", "number": "3"},
-      {"issue-date": "1933-08", "volume": "59", "number": "4"},
-      {"issue-date": "1933-09", "volume": "59", "number": "5"}
+      {"issue-date": "1932-03", "volume": "58", "number": "5"},
+      {"issue-date": "1932-04", "volume": "58", "number": "6"},
+      {"issue-date": "1932-05", "volume": "59", "number": "1"},
+      {"issue-date": "1932-06", "volume": "59", "number": "2"},
+      {"issue-date": "1932-07", "volume": "59", "number": "3"},
+      {"issue-date": "1932-08", "volume": "59", "number": "4"},
+      {"issue-date": "1932-09", "volume": "59", "number": "5"},
+      {"issue-date": "1932-10", "volume": "59", "number": "6"},
+      {"issue-date": "1932-11", "volume": "60", "number": "1"},
+      {"issue-date": "1932-12", "volume": "60", "number": "2"},
+      {"issue-date": "1933-01", "volume": "60", "number": "3",
+       "cdate": "1932-12-02"},
+      {"issue-date": "1933-02", "volume": "60", "number": "4",
+       "cdate": "1933-01-05"},
+      {"issue-date": "1933-03", "volume": "60", "number": "5"},
+      {"issue-date": "1933-04", "volume": "60", "number": "6"},
+      {"issue-date": "1933-05", "volume": "61", "number": "1"},
+      {"issue-date": "1933-06", "volume": "61", "number": "2"},
+      {"issue-date": "1933-07", "volume": "61", "number": "3"},
+      {"issue-date": "1933-08", "volume": "61", "number": "4"},
+      {"issue-date": "1933-09", "volume": "61", "number": "5"}
    ],
-   "renewed-contribution-completeness": "active/1929",
+   "renewed-contribution-completeness": "active/1930",
    "renewed-contributions": [
      {"issue": {"issue-date": "1929-02", "volume": "52", "number": "4"}, 
       "title": "Sheba",
@@ -269,7 +283,7 @@
      {"issue": {"issue-date": "1929-07", "volume": "53", "number": "3"}, 
       "title": "Somewhere in This House",
       "title-note": "part 1 of 6",
-      "note": "Issue as noted in CCE renewal record.  We did not find a story by that title in this issue, but did find the first part of King's 'The Murder in the Storm.",
+      "note": "Issue as noted in CCE renewal record.  We did not find a story by that title in this issue, but did find the first part of King's 'The Murder in the Storm'.",
       "author": {
        "authorized": "King, Rufus, 1893-1966",
        "lcna": "no94027678"
@@ -293,7 +307,7 @@
      {"issue": {"issue-date": "1929-08", "volume": "53", "number": "4"}, 
       "title": "Somewhere in This House",
       "title-note": "part 2 of 6",
-      "note": "Issue as noted in CCE renewal record.  FictionMags does not note a story with that title in this issue, but does list the second part of King's 'The Murder in the Storm.",
+      "note": "Issue as noted in CCE renewal record.  FictionMags does not note a story with that title in this issue, but does list the second part of King's 'The Murder in the Storm'.",
       "author": {
        "authorized": "King, Rufus, 1893-1966",
        "lcna": "no94027678"
@@ -324,7 +338,7 @@
      {"issue": {"issue-date": "1929-09", "volume": "53", "number": "5"}, 
       "title": "Somewhere in This House",
       "title-note": "part 3 of 6",
-      "note": "Issue as noted in CCE renewal record.  FictionMags does not note a story with that title in this issue, but does list the third part of King's 'The Murder in the Storm.",
+      "note": "Issue as noted in CCE renewal record.  FictionMags does not note a story with that title in this issue, but does list the third part of King's 'The Murder in the Storm'.",
       "author": {
        "authorized": "King, Rufus, 1893-1966",
        "lcna": "no94027678"
@@ -347,7 +361,7 @@
      {"issue": {"issue-date": "1929-10", "volume": "53", "number": "6"}, 
       "title": "Somewhere in This House",
       "title-note": "part 4 of 6",
-      "note": "Issue as noted in CCE renewal record.  FictionMags does not note a story with that title in this issue, but does list the fourth part of King's 'The Murder in the Storm.",
+      "note": "Issue as noted in CCE renewal record.  FictionMags does not note a story with that title in this issue, but does list the fourth part of King's 'The Murder in the Storm'.",
       "author": {
        "authorized": "King, Rufus, 1893-1966",
        "lcna": "no94027678"
@@ -553,6 +567,13 @@
       }
      },
      {"issue": {"issue-date": "1930-04", "volume": "54", "number": "6"}, 
+      "title": "Kitchenette",
+      "author": {
+       "authorized": "Kantor, MacKinlay, 1904-1977",
+       "lcna": "n79140979"
+      }
+     },
+     {"issue": {"issue-date": "1930-04", "volume": "54", "number": "6"}, 
       "title": "Heart of the North",
       "title-note": "part 6 of 6",
       "author": {
@@ -639,6 +660,13 @@
       }
      },
      {"issue": {"issue-date": "1930-06", "volume": "55", "number": "2"}, 
+      "title": "A Turn in Luck",
+      "note": "Renewed under the author's married name, Bernice Brown Brush.",
+      "author": {
+       "name": "Bernice Brown"
+      }
+     },
+     {"issue": {"issue-date": "1930-06", "volume": "55", "number": "2"}, 
       "title": "His Side of It",
       "title-note": "part 6 of 6?",
       "note": "CCE renewal record has the story ending in this issue, and does not include part 4 from the April issue.  The May installment, however, appears to be the last one.",
@@ -711,11 +739,247 @@
       }
      },
      {"issue": {"issue-date": "1930-11", "volume": "56", "number": "1"},
+       "title": "The Reckless Adventures of Lydia Grey",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1930-11", "volume": "56", "number": "1"},
+      "title": "Ten Years",
+      "note": "Renewed under the author's married name, Bernice Brown Brush.",
+      "author": {
+       "name": "Bernice Brown"
+      }
+     },
+     {"issue": {"issue-date": "1930-11", "volume": "56", "number": "1"},
       "title": "Clinical Case No. 147",
       "author": {
        "authorized": "Johnson, Nunnally",
        "lcna": "n79134929"
       }
+     },
+     {"issue": {"issue-date": "1930-12", "volume": "56", "number": "2"}, 
+       "title": "The Rakmanoff Ruby",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1931-01", "volume": "56", "number": "3"}, 
+      "title": "Prodigal's Return",
+      "note": "Title as given in CCE renewal record.  FictionMags gives title as 'The Return of the Prodigal'.  We have not examined the issue in question.",
+      "author": {
+       "authorized": "Duganne, Phyllis, 1899-1976",
+       "lcna": "n90719514"
+      }
+     },
+     {"issue": {"issue-date": "1931-01", "volume": "56", "number": "3"}, 
+       "title": "The Private Detective",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1931-02", "volume": "57", "number": "4"},
+       "title": "The King of Swindlers",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1931-03", "volume": "57", "number": "5"},
+       "title": "I Couldn't Face It",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1931-04", "volume": "56", "number": "6"}, 
+      "title": "The Wilderness Singer",
+      "title-note": "part 1 of 7",
+      "author": {
+       "authorized": "Mowery, William Byron, 1899-1957",
+       "lcna": "no95054799"
+      }
+     },
+     {"issue": {"issue-date": "1931-04", "volume": "56", "number": "6"}, 
+       "title": "The Good Name of a Woman",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1931-04", "volume": "56", "number": "6"}, 
+      "title": "Love Letter",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1931-05", "volume": "57", "number": "1"}, 
+       "title": "Disappeared",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1931-05", "volume": "57", "number": "1"}, 
+      "title": "The Wilderness Singer",
+      "title-note": "part 2 of 7",
+      "author": {
+       "authorized": "Mowery, William Byron, 1899-1957",
+       "lcna": "no95054799"
+      }
+     },
+     {"issue": {"issue-date": "1931-06", "volume": "57", "number": "2"},
+      "title": "Fame",
+      "author": {
+       "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
+       "lcna": "no90021257"
+      }
+     },
+     {"issue": {"issue-date": "1931-06", "volume": "57", "number": "2"},
+      "title": "The Wilderness Singer",
+      "title-note": "part 3 of 7",
+      "author": {
+       "authorized": "Mowery, William Byron, 1899-1957",
+       "lcna": "no95054799"
+      }
+     },
+     {"issue": {"issue-date": "1931-06", "volume": "57", "number": "2"},
+      "title": "The Flash of Light",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1931-07", "volume": "57", "number": "3"},
+      "title": "Gangway",
+      "title-note": "part 1 of 7",
+      "author": {
+       "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
+       "lcna": "no90021257"
+      }
+     },
+     {"issue": {"issue-date": "1931-07", "volume": "57", "number": "3"},
+      "title": "The Wilderness Singer",
+      "title-note": "part 4 of 7",
+      "author": {
+       "authorized": "Mowery, William Byron, 1899-1957",
+       "lcna": "no95054799"
+      }
+     },
+     {"issue": {"issue-date": "1931-07", "volume": "57", "number": "3"},
+       "title": "The Haunting Terror",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1931-08", "volume": "57", "number": "4"},
+      "title": "Gangway",
+      "title-note": "part 2 of 7",
+      "author": {
+       "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
+       "lcna": "no90021257"
+      }
+     },
+     {"issue": {"issue-date": "1931-08", "volume": "57", "number": "4"},
+      "title": "The Wilderness Singer",
+      "title-note": "part 5 of 7",
+      "author": {
+       "authorized": "Mowery, William Byron, 1899-1957",
+       "lcna": "no95054799"
+      }
+     },
+     {"issue": {"issue-date": "1931-09", "volume": "57", "number": "5"},
+       "title": "Out of Bounds",
+       "title-note": "part 1 of 5",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1931-09", "volume": "57", "number": "5"},
+      "title": "Gangway",
+      "title-note": "part 3 of 7",
+      "author": {
+       "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
+       "lcna": "no90021257"
+      }
+     },
+     {"issue": {"issue-date": "1931-09", "volume": "57", "number": "5"},
+      "title": "The Wilderness Singer",
+      "title-note": "part 6 of 7",
+      "author": {
+       "authorized": "Mowery, William Byron, 1899-1957",
+       "lcna": "no95054799"
+      }
+     },
+     {"issue": {"issue-date": "1931-10", "volume": "57", "number": "6"},
+       "title": "Out of Bounds",
+       "title-note": "part 2 of 5",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1931-10", "volume": "57", "number": "6"},
+      "title": "The Wilderness Singer",
+      "title-note": "part 7 of 7",
+      "author": {
+       "authorized": "Mowery, William Byron, 1899-1957",
+       "lcna": "no95054799"
+      }
+     },
+     {"issue": {"issue-date": "1931-11", "volume": "58", "number": "1"},
+      "title": "Gangway",
+      "title-note": "part 5 of 7",
+      "author": {
+       "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
+       "lcna": "no90021257"
+      }
+     },
+     {"issue": {"issue-date": "1931-11", "volume": "58", "number": "1"},
+       "title": "Out of Bounds",
+       "title-note": "part 3 of 5",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1931-12", "volume": "58", "number": "2"},
+       "title": "Out of Bounds",
+       "title-note": "part 4 of 5",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1931-12", "volume": "58", "number": "2"},
+      "title": "Gangway",
+      "title-note": "part 6 of 7",
+      "author": {
+       "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
+       "lcna": "no90021257"
+      }
+     },
+     {"issue": {"issue-date": "1932-01", "volume": "58", "number": "3"},
+      "title": "Gangway",
+      "title-note": "part 7 of 7",
+      "author": {
+       "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
+       "lcna": "no90021257"
+      }
+     },
+     {"issue": {"issue-date": "1932-01", "volume": "58", "number": "3"},
+       "title": "Out of Bounds",
+       "title-note": "part 5 of 5",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
      },
      {"issue": {"issue-date": "1943-10", "volume": "81", "number": "6"},
         "title": "Mother's Little Helper",
@@ -734,10 +998,10 @@
         }
      }
    ],
-   "comment": "Pick up contributor sweep with 1958 Jan-Jun",
+   "comment": "Pick up contributor sweep with 1959 Jan-Jun",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-01-02"
+   "last-updated": "2024-10-30"
 }

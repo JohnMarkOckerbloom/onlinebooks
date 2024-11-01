@@ -82,6 +82,7 @@ sub _display_banner {
     $desc =~ s/\<[^\>]+\>//g;                  # strip out HTML markup
     my $picfile = $self->picfilename();
     my $picdir = $self->{stubdir};
+    # print "<b>desc is $desc, title is $title, picdir is $picdir, picfile is $picfile</b>\n";
     if ($picfile && $picdir) {
       my $imageurl = "$imagestub$picdir/$picfile";
       my $commonsurl = $commonsstub . $title;
@@ -137,6 +138,7 @@ sub get_links {
   my ($self) = @_;
   if (!$self->{links}) {
     my $str = $self->_get_string_from_file("links.json");
+    return undef if (!$str);
     my $json = $self->{parser}->decode($str);
     if ($json) {
       $self->{links} = $json;
@@ -149,6 +151,7 @@ sub get_relationships {
   my ($self) = @_;
   if (!$self->{rels}) {
     my $str = $self->_get_string_from_file("rels.json");
+    return undef if (!$str);
     my $json = $self->{parser}->decode($str);
     if ($json) {
       $self->{rels} = $json;
@@ -173,18 +176,6 @@ sub get_roles {
   }
   return undef;
 }
-
-#my @franklinroles = ( 
-# {"description"=>"Founder", "objectname"=>"University of Pennsylvania"},
-# {"description"=>"Trustee", "objectname"=>"University of Pennsylvania",
-#  "date1"=>"1749",
-#  "date2"=>"1790"},
-# {"description"=>"Postmaster general", "objectname"=>"United States"},
-# {"description"=>"Ambassador",
-#  "objectname"=>"United States", "object2name"=>"France",
-#  "date1"=>"1779",
-#  "date2"=>"1785"}
-#);
 
 sub _print_role {
   my ($self, $role) = @_;
@@ -341,9 +332,6 @@ sub display {
   if ($roleref) {
     @roles = @{$roleref};
   }
-  #if ($name eq "Franklin, Benjamin, 1706-1790") {
-  # @roles = @franklinroles;
-  #}
   if (scalar(@roles)) {
     $self->_print_roles(@roles);
   }

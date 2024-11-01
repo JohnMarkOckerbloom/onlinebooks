@@ -14,7 +14,7 @@
    "first-renewed-contribution":
     {"issue": {"issue-date": "1929-02"}},
    "first-renewed-contribution-source": "1956-JanJun",
-   "renewed-issue-completeness": "active/1931",
+   "renewed-issue-completeness": "active/1932",
    "renewed-issues": [
       {"issue-date": "1929-02", "volume": "56", "number": "5",
         "cdate": "1929-01-10"},
@@ -66,11 +66,25 @@
       {"issue-date": "1932-06", "volume": "59", "number": "9"},
       {"issue-date": "1932-07", "volume": "59", "number": "10"},
       {"issue-date": "1932-08", "volume": "59", "number": "11"},
-      {"issue-date": "1932-09", "volume": "59", "number": "12"}
+      {"issue-date": "1932-09", "volume": "59", "number": "12"},
+      {"issue-date": "1932-10", "volume": "60", "number": "1"},
+      {"issue-date": "1932-11", "volume": "60", "number": "2"},
+      {"issue-date": "1932-12", "volume": "60", "number": "3"},
+      {"issue-date": "1933-01", "volume": "60", "number": "4",
+       "cdate": "1932-12-09"},
+      {"issue-date": "1933-02", "volume": "60", "number": "5",
+       "cdate": "1933-01-10"},
+      {"issue-date": "1933-03", "volume": "60", "number": "6"},
+      {"issue-date": "1933-04", "volume": "60", "number": "7"},
+      {"issue-date": "1933-05", "volume": "60", "number": "8"},
+      {"issue-date": "1933-06", "volume": "60", "number": "9"},
+      {"issue-date": "1933-07", "volume": "60", "number": "10"},
+      {"issue-date": "1933-08", "volume": "60", "number": "11"},
+      {"issue-date": "1933-09", "volume": "60", "number": "12"}
    ],
-   "renewed-contribution-completeness": "active/1929",
+   "renewed-contribution-completeness": "active/1930",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1929-02"},
+     {"issue": {"issue-date": "1929-02", "volume": "56", "number": "5"},
       "title": "The Romantic Prince",
       "title-note": "part 1 of 5",
       "author": {
@@ -78,14 +92,14 @@
        "lcna": "n50016255"
       }
      },
-     {"issue": {"issue-date": "1929-02"},
+     {"issue": {"issue-date": "1929-02", "volume": "56", "number": "5"},
         "title": "The Front Page",
         "author": {
          "authorized": "Woollcott, Alexander, 1887-1943",
          "lcna": "n80024589"
         }
      },
-     {"issue": {"issue-date": "1929-02"},
+     {"issue": {"issue-date": "1929-02", "volume": "56", "number": "5"},
         "title": "Adventures in Religion",
         "title-note": "part 1 of 9",
         "author": {
@@ -93,7 +107,7 @@
          "lcna": "no90015484"
         }
      },
-     {"issue": {"issue-date": "1929-03"},
+     {"issue": {"issue-date": "1929-03", "volume": "56", "number": "6"},
       "title": "Hide in the Dark",
       "title-note": "part 1 of 7",
       "author": {
@@ -101,7 +115,7 @@
        "lcna": "no95048084"
       }
      },
-     {"issue": {"issue-date": "1929-03"},
+     {"issue": {"issue-date": "1929-03", "volume": "56", "number": "6"},
       "title": "The Romantic Prince",
       "title-note": "part 2 of 5",
       "author": {
@@ -109,14 +123,14 @@
        "lcna": "n50016255"
       }
      },
-     {"issue": {"issue-date": "1929-03"},
+     {"issue": {"issue-date": "1929-03", "volume": "56", "number": "6"},
         "title": "Two Moments From The Kingdom of God",
         "author": {
          "authorized": "Woollcott, Alexander, 1887-1943",
          "lcna": "n80024589"
         }
      },
-     {"issue": {"issue-date": "1929-03"},
+     {"issue": {"issue-date": "1929-03", "volume": "56", "number": "6"},
         "title": "Adventures in Religion",
         "title-note": "part 2 of 9",
         "author": {
@@ -124,7 +138,7 @@
          "lcna": "no90015484"
         }
      },
-     {"issue": {"issue-date": "1929-04"},
+     {"issue": {"issue-date": "1929-04", "volume": "56", "number": "7"},
       "title": "Hide in the Dark",
       "title-note": "part 2 of 7",
       "author": {
@@ -132,14 +146,14 @@
        "lcna": "no95048084"
       }
      },
-     {"issue": {"issue-date": "1929-04"},
+     {"issue": {"issue-date": "1929-04", "volume": "56", "number": "7"},
       "title": "A Mountain of Millions",
       "author": {
        "authorized": "Wilde, Percival, 1887-1953",
        "lcna": "n80050877"
       }
      },
-     {"issue": {"issue-date": "1929-04"},
+     {"issue": {"issue-date": "1929-04", "volume": "56", "number": "7"},
       "title": "The Romantic Prince",
       "title-note": "part 3 of 5",
       "author": {
@@ -147,14 +161,14 @@
        "lcna": "n50016255"
       }
      },
-     {"issue": {"issue-date": "1929-04"},
+     {"issue": {"issue-date": "1929-04", "volume": "56", "number": "7"},
         "title": "The Actor From Genesee Depot",
         "author": {
          "authorized": "Woollcott, Alexander, 1887-1943",
          "lcna": "n80024589"
         }
      },
-     {"issue": {"issue-date": "1929-04"},
+     {"issue": {"issue-date": "1929-04", "volume": "56", "number": "7"},
         "title": "Adventures in Religion",
         "title-note": "part 3 of 9",
         "author": {
@@ -162,7 +176,7 @@
          "lcna": "no90015484"
         }
      },
-     {"issue": {"issue-date": "1929-05"},
+     {"issue": {"issue-date": "1929-05", "volume": "56", "number": "8"},
       "title": "Hide in the Dark",
       "title-note": "part 3 of 7",
       "author": {
@@ -170,7 +184,7 @@
        "lcna": "no95048084"
       }
      },
-     {"issue": {"issue-date": "1929-05"},
+     {"issue": {"issue-date": "1929-05", "volume": "56", "number": "8"},
       "title": "The Romantic Prince",
       "title-note": "part 4 of 5",
       "author": {
@@ -178,14 +192,14 @@
        "lcna": "n50016255"
       }
      },
-     {"issue": {"issue-date": "1929-05"},
+     {"issue": {"issue-date": "1929-05", "volume": "56", "number": "8"},
         "title": "The Perfect Alibi",
         "author": {
          "authorized": "Woollcott, Alexander, 1887-1943",
          "lcna": "n80024589"
         }
      },
-     {"issue": {"issue-date": "1929-05"},
+     {"issue": {"issue-date": "1929-05", "volume": "56", "number": "8"},
         "title": "Adventures in Religion",
         "title-note": "part 4 of 9",
         "author": {
@@ -193,7 +207,7 @@
          "lcna": "no90015484"
         }
      },
-     {"issue": {"issue-date": "1929-06"},
+     {"issue": {"issue-date": "1929-06", "volume": "56", "number": "9"},
       "title": "Hide in the Dark",
       "title-note": "part 4 of 7",
       "author": {
@@ -201,7 +215,7 @@
        "lcna": "no95048084"
       }
      },
-     {"issue": {"issue-date": "1929-06"},
+     {"issue": {"issue-date": "1929-06", "volume": "56", "number": "9"},
       "title": "The Romantic Prince",
       "title-note": "part 5 of 5",
       "author": {
@@ -209,14 +223,14 @@
        "lcna": "n50016255"
       }
      },
-     {"issue": {"issue-date": "1929-06"},
+     {"issue": {"issue-date": "1929-06", "volume": "56", "number": "9"},
         "title": "Over the River",
         "author": {
          "authorized": "Woollcott, Alexander, 1887-1943",
          "lcna": "n80024589"
         }
      },
-     {"issue": {"issue-date": "1929-06"},
+     {"issue": {"issue-date": "1929-06", "volume": "56", "number": "9"},
         "title": "Adventures in Religion",
         "title-note": "part 5 of 9",
         "author": {
@@ -224,7 +238,7 @@
          "lcna": "no90015484"
         }
      },
-     {"issue": {"issue-date": "1929-07"},
+     {"issue": {"issue-date": "1929-07", "volume": "56", "number": "10"},
       "title": "Hide in the Dark",
       "title-note": "part 5 of 7",
       "author": {
@@ -232,14 +246,14 @@
        "lcna": "no95048084"
       }
      },
-     {"issue": {"issue-date": "1929-07"},
+     {"issue": {"issue-date": "1929-07", "volume": "56", "number": "10"},
         "title": "Rejection Slips",
         "author": {
          "authorized": "Woollcott, Alexander, 1887-1943",
          "lcna": "n80024589"
         }
      },
-     {"issue": {"issue-date": "1929-07"},
+     {"issue": {"issue-date": "1929-07", "volume": "56", "number": "10"},
         "title": "Adventures in Religion",
         "title-note": "part 6 of 9",
         "author": {
@@ -247,7 +261,7 @@
          "lcna": "no90015484"
         }
      },
-     {"issue": {"issue-date": "1929-08"},
+     {"issue": {"issue-date": "1929-08", "volume": "56", "number": "11"},
       "title": "Hide in the Dark",
       "title-note": "part 6 of 7",
       "author": {
@@ -255,7 +269,7 @@
        "lcna": "no95048084"
       }
      },
-     {"issue": {"issue-date": "1929-08"},
+     {"issue": {"issue-date": "1929-08", "volume": "56", "number": "11"},
         "title": "Adventures in Religion",
         "title-note": "part 7 of 9",
         "author": {
@@ -263,7 +277,7 @@
          "lcna": "no90015484"
         }
      },
-     {"issue": {"issue-date": "1929-09"},
+     {"issue": {"issue-date": "1929-09", "volume": "56", "number": "12"},
       "title": "Green Timber",
       "title-note": "part 1 of 3",
       "author": {
@@ -271,14 +285,14 @@
        "lcna": "n50020530"
       }
      },
-     {"issue": {"issue-date": "1929-09"},
+     {"issue": {"issue-date": "1929-09", "volume": "56", "number": "12"},
        "title": "The Satisfaction of a Gentleman",
        "author": {
          "authorized": "Kipling, Rudyard, 1865-1936",
          "lcna": "n79103792"
        }
      },
-     {"issue": {"issue-date": "1929-09"},
+     {"issue": {"issue-date": "1929-09", "volume": "56", "number": "12"},
       "title": "Hide in the Dark",
       "title-note": "part 7 of 7",
       "author": {
@@ -286,7 +300,7 @@
        "lcna": "no95048084"
       }
      },
-     {"issue": {"issue-date": "1929-09"},
+     {"issue": {"issue-date": "1929-09", "volume": "56", "number": "12"},
         "title": "Adventures in Religion",
         "title-note": "part 8 of 9",
         "author": {
@@ -294,7 +308,7 @@
          "lcna": "no90015484"
         }
      },
-     {"issue": {"issue-date": "1929-10"},
+     {"issue": {"issue-date": "1929-10", "volume": "57", "number": "1"},
       "title": "Arizona Ames",
       "title-note": "part 1 of 4",
       "author": {
@@ -302,7 +316,7 @@
          "lcna": "n79011137"
       }
      },
-     {"issue": {"issue-date": "1929-10"},
+     {"issue": {"issue-date": "1929-10", "volume": "57", "number": "1"},
       "title": "Green Timber",
       "title-note": "part 2 of 3",
       "author": {
@@ -310,7 +324,7 @@
        "lcna": "n50020530"
       }
      },
-     {"issue": {"issue-date": "1929-10"},
+     {"issue": {"issue-date": "1929-10", "volume": "57", "number": "1"},
         "title": "Adventures in Religion",
         "title-note": "part 9 of 9",
         "author": {
@@ -318,7 +332,7 @@
          "lcna": "no90015484"
         }
      },
-     {"issue": {"issue-date": "1929-11"},
+     {"issue": {"issue-date": "1929-11", "volume": "57", "number": "2"},
       "title": "Early to Bed",
       "title-note": "part 1 of 4",
       "authors": [
@@ -326,7 +340,7 @@
          {"authorized": "Montross, Lois, 1897-", "lcna": "no00011176"}
       ]
      },
-     {"issue": {"issue-date": "1929-11"},
+     {"issue": {"issue-date": "1929-11", "volume": "57", "number": "2"},
       "title": "Arizona Ames",
       "title-note": "part 2 of 4",
       "author": {
@@ -334,7 +348,7 @@
          "lcna": "n79011137"
       }
      },
-     {"issue": {"issue-date": "1929-11"},
+     {"issue": {"issue-date": "1929-11", "volume": "57", "number": "2"},
       "title": "Green Timber",
       "title-note": "part 3 of 3",
       "author": {
@@ -342,7 +356,7 @@
        "lcna": "n50020530"
       }
      },
-     {"issue": {"issue-date": "1929-12"},
+     {"issue": {"issue-date": "1929-12", "volume": "57", "number": "3"},
       "title": "Early to Bed",
       "title-note": "part 2 of 4",
       "authors": [
@@ -350,7 +364,7 @@
          {"authorized": "Montross, Lois, 1897-", "lcna": "no00011176"}
       ]
      },
-     {"issue": {"issue-date": "1929-12"},
+     {"issue": {"issue-date": "1929-12", "volume": "57", "number": "3"},
       "title": "Arizona Ames",
       "title-note": "part 3 of 4",
       "author": {
@@ -358,14 +372,14 @@
          "lcna": "n79011137"
       }
      },
-     {"issue": {"issue-date": "1929-12"},
+     {"issue": {"issue-date": "1929-12", "volume": "57", "number": "3"},
       "title": "Lover Come Back",
       "author": {
          "authorized": "Miller, Helen Topping, 1884-1960",
          "lcna": "no95008340"
       }
      },
-     {"issue": {"issue-date": "1930-01"},
+     {"issue": {"issue-date": "1930-01", "volume": "57", "number": "4"},
       "title": "Early to Bed",
       "title-note": "part 3 of 4",
       "authors": [
@@ -373,7 +387,7 @@
          {"authorized": "Montross, Lois, 1897-", "lcna": "no00011176"}
       ]
      },
-     {"issue": {"issue-date": "1930-01"},
+     {"issue": {"issue-date": "1930-01", "volume": "57", "number": "4"},
       "title": "Arizona Ames",
       "title-note": "part 4 of 4",
       "author": {
@@ -381,14 +395,14 @@
          "lcna": "n79011137"
       }
      },
-     {"issue": {"issue-date": "1930-02"},
+     {"issue": {"issue-date": "1930-02", "volume": "57", "number": "5"},
       "title": "Ransom",
       "author": {
        "authorized": "Sabatini, Rafael, 1875-1950",
        "lcna": "n50016255"
       }
      },
-     {"issue": {"issue-date": "1930-02"},
+     {"issue": {"issue-date": "1930-02", "volume": "57", "number": "5"},
       "title": "Early to Bed",
       "title-note": "part 4 of 4",
       "authors": [
@@ -396,7 +410,7 @@
          {"authorized": "Montross, Lois, 1897-", "lcna": "no00011176"}
       ]
      },
-     {"issue": {"issue-date": "1930-03"}, 
+     {"issue": {"issue-date": "1930-03", "volume": "57", "number": "6"},
       "title": "Fire of Youth",
       "title-note": "part 1 of 4",
       "author": {
@@ -404,7 +418,7 @@
        "lcna": "nr2002022198"
       }
      },
-     {"issue": {"issue-date": "1930-04"}, 
+     {"issue": {"issue-date": "1930-04", "volume": "57", "number": "7"},
       "title": "Fire of Youth",
       "title-note": "part 2 of 4",
       "author": {
@@ -412,7 +426,7 @@
        "lcna": "nr2002022198"
       }
      },
-     {"issue": {"issue-date": "1930-05"}, 
+     {"issue": {"issue-date": "1930-05", "volume": "57", "number": "8"},
       "title": "Fire of Youth",
       "title-note": "part 3 of 4",
       "author": {
@@ -420,14 +434,14 @@
        "lcna": "nr2002022198"
       }
      },
-     {"issue": {"issue-date": "1930-05"}, 
+     {"issue": {"issue-date": "1930-05", "volume": "57", "number": "8"},
       "title": "Curse of Amen-Ra",
       "author": {
         "authorized": "Wallace, Edgar, 1875-1932",
         "lcna": "n80034938"
       }
      },
-     {"issue": {"issue-date": "1930-06"}, 
+     {"issue": {"issue-date": "1930-06", "volume": "57", "number": "9"},
       "title": "Fire of Youth",
       "title-note": "part 4 of 4",
       "author": {
@@ -435,7 +449,7 @@
        "lcna": "nr2002022198"
       }
      },
-     {"issue": {"issue-date": "1930-08"},
+     {"issue": {"issue-date": "1930-08", "volume": "57", "number": "11"},
       "title": "Men Are Simple",
       "note": "Title as given in CCE renewal record.  FictionMags gives title as 'Men Are So Simple'. We have not examined the issue in question.",
       "author": {
@@ -443,21 +457,236 @@
          "lcna": "no93026233"
        }
      },
-     {"issue": {"issue-date": "1930-10"},
+     {"issue": {"issue-date": "1930-10", "volume": "58", "number": "1"},
+      "title": "The Dude Ranger",
+      "title-note": "part 1 of 5",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1930-10", "volume": "58", "number": "1"},
       "title": "All American",
       "author": {
        "authorized": "Duganne, Phyllis, 1899-1976",
        "lcna": "n90719514"
       }
      },
-     {"issue": {"issue-date": "1930-11"},
+     {"issue": {"issue-date": "1930-11", "volume": "58", "number": "2"},
       "title": "We Tell Each Other Everything",
       "author": {
          "authorized": "Kilbourne, Fannie, 1890-",
          "lcna": "no93026233"
        }
      },
-     {"issue": {"issue-date": "1953-02"},
+     {"issue": {"issue-date": "1930-11", "volume": "58", "number": "2"},
+      "title": "The Dude Ranger",
+      "title-note": "part 2 of 5",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1930-12", "volume": "58", "number": "3"},
+      "title": "The Dude Ranger",
+      "title-note": "part 3 of 5",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1931-01", "volume": "58", "number": "4"},
+      "title": "You Can't Explain to a Mother",
+      "author": {
+         "authorized": "Kilbourne, Fannie, 1890-",
+         "lcna": "no93026233"
+       }
+     },
+     {"issue": {"issue-date": "1931-01", "volume": "58", "number": "4"},
+      "title": "The Dude Ranger",
+      "title-note": "part 4 of 5",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1931-02", "volume": "58", "number": "5"},
+      "title": "The Dude Ranger",
+      "title-note": "part 5 of 5",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1931-02", "volume": "58", "number": "5"},
+       "title": "Rhapsody in Gold",
+       "title-note": "part 1 of 6",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1931-02", "volume": "58", "number": "5"},
+      "title": "Pigs in Clover",
+      "title-note": "part 1 of 5",
+      "author": {
+       "authorized": "Hart, Frances Noyes, 1890-1943",
+       "lcna": "no95048084"
+      }
+     },
+     {"issue": {"issue-date": "1931-03", "volume": "58", "number": "6"},
+       "title": "Rhapsody in Gold",
+       "title-note": "part 2 of 6",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1931-03", "volume": "58", "number": "6"},
+      "title": "Pigs in Clover",
+      "title-note": "part 2 of 5",
+      "author": {
+       "authorized": "Hart, Frances Noyes, 1890-1943",
+       "lcna": "no95048084"
+      }
+     },
+     {"issue": {"issue-date": "1931-04", "volume": "58", "number": "7"},
+      "title": "Jealousy",
+      "title-note": "part 1 of 5",
+      "note": "Title as given on the cover of the April 1931 issue.  CCE renewal record gives title as 'Kindled Flame', which may have been the title used in its publication abroad in Woman's Pictorial.",
+      "author": {
+       "authorized": "Pedler, Margaret",
+       "lcna": "nr2002022198"
+      }
+     },
+     {"issue": {"issue-date": "1931-04", "volume": "58", "number": "7"},
+       "title": "Rhapsody in Gold",
+       "title-note": "part 3 of 6",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1931-04", "volume": "58", "number": "7"},
+      "title": "Pigs in Clover",
+      "title-note": "part 3 of 5",
+      "author": {
+       "authorized": "Hart, Frances Noyes, 1890-1943",
+       "lcna": "no95048084"
+      }
+     },
+     {"issue": {"issue-date": "1931-05", "volume": "58", "number": "8"},
+      "title": "Jealousy",
+      "title-note": "part 2 of 5",
+      "note": "Title as given on the cover of the April 1931 issue.  CCE renewal record gives title as 'Kindled Flame', which may have been the title used in its publication abroad in Woman's Pictorial.",
+      "author": {
+       "authorized": "Pedler, Margaret",
+       "lcna": "nr2002022198"
+      }
+     },
+     {"issue": {"issue-date": "1931-05", "volume": "58", "number": "8"},
+      "title": "Love Won't Pay the Rent",
+      "author": {
+         "authorized": "Kilbourne, Fannie, 1890-",
+         "lcna": "no93026233"
+       }
+     },
+     {"issue": {"issue-date": "1931-05", "volume": "58", "number": "8"},
+       "title": "Rhapsody in Gold",
+       "title-note": "part 4 of 6",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1931-05", "volume": "58", "number": "8"},
+      "title": "Pigs in Clover",
+      "title-note": "part 4 of 5",
+      "author": {
+       "authorized": "Hart, Frances Noyes, 1890-1943",
+       "lcna": "no95048084"
+      }
+     },
+     {"issue": {"issue-date": "1931-06", "volume": "58", "number": "9"},
+      "title": "Jealousy",
+      "title-note": "part 3 of 5",
+      "note": "Title as given on the cover of the April 1931 issue.  CCE renewal record gives title as 'Kindled Flame', which may have been the title used in its publication abroad in Woman's Pictorial.",
+      "author": {
+       "authorized": "Pedler, Margaret",
+       "lcna": "nr2002022198"
+      }
+     },
+     {"issue": {"issue-date": "1931-06", "volume": "58", "number": "9"},
+      "title": "The Name is Lois",
+      "author": {
+       "name": "Francis Thayer"
+      }
+     },
+     {"issue": {"issue-date": "1931-06", "volume": "58", "number": "9"},
+       "title": "Rhapsody in Gold",
+       "title-note": "part 5 of 6",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1931-06", "volume": "58", "number": "9"},
+      "title": "Pigs in Clover",
+      "title-note": "part 5 of 5",
+      "author": {
+       "authorized": "Hart, Frances Noyes, 1890-1943",
+       "lcna": "no95048084"
+      }
+     },
+     {"issue": {"issue-date": "1931-07", "volume": "58", "number": "10"},
+      "title": "Jealousy",
+      "title-note": "part 4 of 5",
+      "note": "Title as given on the cover of the April 1931 issue.  CCE renewal record gives title as 'Kindled Flame', which may have been the title used in its publication abroad in Woman's Pictorial.",
+      "author": {
+       "authorized": "Pedler, Margaret",
+       "lcna": "nr2002022198"
+      }
+     },
+     {"issue": {"issue-date": "1931-07", "volume": "58", "number": "10"},
+       "title": "Rhapsody in Gold",
+       "title-note": "part 6 of 6",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1931-08", "volume": "58", "number": "11"},
+      "title": "The Medici Ruby",
+       "author": {
+         "authorized": "Miller, Alice Duer, 1874-1942",
+         "lcna": "n83057208"
+       }
+     },
+     {"issue": {"issue-date": "1931-08", "volume": "58", "number": "11"},
+      "title": "Jealousy",
+      "title-note": "part 5 of 5",
+      "note": "Title as given on the cover of the April 1931 issue.  CCE renewal record gives title as 'Kindled Flame', which may have been the title used in its publication abroad in Woman's Pictorial.",
+      "author": {
+       "authorized": "Pedler, Margaret",
+       "lcna": "nr2002022198"
+      }
+     },
+     {"issue": {"issue-date": "1931-11", "volume": "59", "number": "2"},
+      "title": "Happy Marriage",
+      "note": "Title as given in CCE renewal record.  FictionMags gives title as 'Just Like Young Lovers'. We have not examined the issue in question.",
+       "author": {
+         "authorized": "Miller, Alice Duer, 1874-1942",
+         "lcna": "n83057208"
+       }
+     },
+     {"issue": {"issue-date": "1931-12", "volume": "59", "number": "3"}, 
+      "title": "Blossom Without Leaves",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1953-02", "volume": "80", "number": "5"},
       "title": "Forever Yours",
       "note": "The online renewal record for this story says it appeared in the February 1952 issue of Manhunt, but Manhunt did not begin until 1953. FictionMags says 'Forever Yours' was published instead in the February 1953 issue of McCall's. We have not examined the issues in question.",
       "author": {
@@ -466,9 +695,10 @@
       }
      }
    ],
+   "comment": "Pick up contribution renewals with 1959 Jan-Jun",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-01-02"
+   "last-updated": "2024-10-02"
 }

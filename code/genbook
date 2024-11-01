@@ -734,7 +734,10 @@ sub enhance_title_subjects {
    foreach my $title (keys %ntsubkeys) {
      my $tnode = $subjectgraph->find_node(heading=>$title);
      my $shortt = shorten_to_period($title);
-     if ($title =~ /(.*\d\d\d\d-)[^\.]+$/) {
+     if ($title =~ /(.*\d\d\d\d-) [^\.]+$/) {
+        $shortt = $1;
+     } elsif ($title =~ /(.*\d\d\d\d\?) [^\.]+$/) {
+        # Also catch things like Langland, William, 1330?-1400? Piers Plowman 
         $shortt = $1;
      }
      my $nom = OLBP::BookRecord::sort_key_for_name($shortt);

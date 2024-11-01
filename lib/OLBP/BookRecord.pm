@@ -487,8 +487,8 @@ sub get_title_subject {
   my $author = $self->get_formal_name(index=>1);
   if ($author) {
     $str .= $author;
-    if (!($str =~ /\.$/)) {
-      $str .= ".";
+    if (!($str =~ /[\.\-\?]$/)) {
+      $str .= ".";      # don't add period if author has final punc ({?, -, .})
     }
     $str .= " ";
   }

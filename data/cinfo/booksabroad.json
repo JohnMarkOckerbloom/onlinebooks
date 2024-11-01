@@ -1,5 +1,6 @@
 {
    "title": "Books Abroad",
+   "online": "1",
    "contents": [
       {"url": "https://www.jstor.org/journal/booksabroad",
       "note": "JSTOR (full text also available for subscription or payment)"}
@@ -13,6 +14,7 @@
    "first-renewed-contribution": {
      "issue": {"issue-date": "1942-Summer", "volume": "16", "number": "3"}},
    "first-renewed-contribution-source": "1969-JulDec",
+   "succeeded-by": [{"id": "worldlittoday", "note": "World Literature Today"}],
    "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
       {"issue": {"issue-date": "1942-Summer", "volume": "16", "number": "3"},
@@ -27,5 +29,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-02-11"
+   "last-updated": "2024-10-26"
 }

@@ -255,8 +255,7 @@
      {"issue-date": "1933-07-01", "volume": "206", "number": "1"}
    ],
    "comment": "Pick up issue renewals with 1961.",
-   "comment": "Pick up contribution renewals with 1958.",
-   "renewed-contribution-completeness": "active/1929",
+   "renewed-contribution-completeness": "active/1930",
    "renewed-contributions": [
      {"issue": {"issue-date": "1929-01-05", "volume": "201", "number": "27"}, 
       "title": "The Perfect Life",
@@ -1185,6 +1184,14 @@
          "lcna": "n83057208"
        }
      },
+     {"issue": {"issue-date": "1929-12-21", "volume": "202", "number": "25"}, 
+      "title": "Kidding Ourselves Along",
+      "title-note": "part 2 of 2",
+      "author": {
+         "authorized": "White, Stewart Edward, 1873-1946",
+         "lcna": "n50020243"
+      }
+     },
      {"issue": {"issue-date": "1929-12-28", "volume": "202", "number": "26"},
       "title": "Jack's the Lad",
       "author": {
@@ -1222,11 +1229,26 @@
       }
      },
      {"issue": {"issue-date": "1930-01-11", "volume": "202", "number": "28"}, 
+       "title": "Big Rich",
+       "title-note": "part 1 of 3",
+       "author": {
+         "authorized": "Brackett, Charles, 1892-1969",
+         "lcna": "n85151724"
+       }
+     },
+     {"issue": {"issue-date": "1930-01-11", "volume": "202", "number": "28"}, 
       "title": "Everything Was All Tied Up",
       "author": {
        "authorized": "Upson, William Hazlett, 1891-1975",
        "lcna": "n90676728"
       }
+     },
+     {"issue": {"issue-date": "1930-01-11", "volume": "202", "number": "28"}, 
+        "title": "One Never Does",
+        "author": {
+         "authorized": "Beer, Thomas, 1889-1940",
+         "lcna": "n79151185"
+        }
      },
      {"issue": {"issue-date": "1930-01-11", "volume": "202", "number": "28"}, 
       "title": "Immune",
@@ -1254,6 +1276,29 @@
       "author": {
          "authorized": "Cary, Lucian, 1886-1971",
          "lcna": "no90003387"
+       }
+     },
+     {"issue": {"issue-date": "1930-01-18", "volume": "202", "number": "29"}, 
+       "title": "Big Rich",
+       "title-note": "part 2 of 3",
+       "author": {
+         "authorized": "Brackett, Charles, 1892-1969",
+         "lcna": "n85151724"
+       }
+     },
+     {"issue": {"issue-date": "1930-01-25", "volume": "202", "number": "30"}, 
+       "title": "Big Rich",
+       "title-note": "part 3 of 3",
+       "author": {
+         "authorized": "Brackett, Charles, 1892-1969",
+         "lcna": "n85151724"
+       }
+     },
+     {"issue": {"issue-date": "1930-02-01", "volume": "202", "number": "31"}, 
+       "title": "Accommodator",
+       "author": {
+         "authorized": "Brackett, Charles, 1892-1969",
+         "lcna": "n85151724"
        }
      },
      {"issue": {"issue-date": "1930-02-01", "volume": "202", "number": "31"}, 
@@ -1333,6 +1378,13 @@
        "lcna": "n86086096"
       }
      },
+     {"issue": {"issue-date": "1930-03-08", "volume": "202", "number": "36"}, 
+        "title": "Where the Heart Is",
+        "author": {
+         "authorized": "Beer, Thomas, 1889-1940",
+         "lcna": "n79151185"
+        }
+     },
      {"issue": {"issue-date": "1930-03-15", "volume": "202", "number": "37"}, 
        "title": "King O'Meara and Queen Guinevere",
        "title-note": "part 1 of 2",
@@ -1378,6 +1430,13 @@
        }
      },
      {"issue": {"issue-date": "1930-03-22", "volume": "202", "number": "38"}, 
+        "title": "Cherries",
+        "author": {
+         "authorized": "Beer, Thomas, 1889-1940",
+         "lcna": "n79151185"
+        }
+     },
+     {"issue": {"issue-date": "1930-03-22", "volume": "202", "number": "38"}, 
        "title": "King O'Meara and Queen Guinevere",
        "title-note": "part 2 of 2",
        "note": "Issue per FictionMags. CCE renewal record places this contribution not in this issue, but in the April 12 issue.  We have not examined the issues in question.",
@@ -1407,6 +1466,13 @@
          "authorized": "Marquis, Don, 1878-1937",
          "lcna": "n50041532"
        }
+     },
+     {"issue": {"issue-date": "1930-04-05", "volume": "202", "number": "40"}, 
+        "title": "Race",
+        "author": {
+         "authorized": "Beer, Thomas, 1889-1940",
+         "lcna": "n79151185"
+        }
      },
      {"issue": {"issue-date": "1930-04-05", "volume": "202", "number": "40"}, 
       "title": "Repossessed",
@@ -1499,6 +1565,13 @@
       }
      },
      {"issue": {"issue-date": "1930-04-26", "volume": "202", "number": "43"}, 
+      "title": "Man Afraid",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
+     {"issue": {"issue-date": "1930-04-26", "volume": "202", "number": "43"}, 
       "title": "The Walking Stick",
       "title-note": "part 2 of 2",
       "author": {
@@ -1511,6 +1584,13 @@
       "author": {
        "authorized": "Johnson, Nunnally",
        "lcna": "n79134929"
+      }
+     },
+     {"issue": {"issue-date": "1930-05-03", "volume": "202", "number": "44"}, 
+      "title": "The Ardous Art",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
       }
      },
      {"issue": {"issue-date": "1930-05-03", "volume": "202", "number": "44"}, 
@@ -1528,10 +1608,35 @@
       }
      },
      {"issue": {"issue-date": "1930-05-10", "volume": "202", "number": "45"}, 
+      "title": "The Hermit of Three Buttes",
+      "title-note": "part 1 of 5",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
+     {"issue": {"issue-date": "1930-05-10", "volume": "202", "number": "45"}, 
+      "title": "Consequence",
+      "title-note": "part 1 of 4",
+      "author": {
+       "authorized": "Marie, Grand Duchess of Russia, 1890-1958",
+       "name": "Marie, Grand Duchess of Russia",
+       "lcna": "nr98029100"
+      }
+     },
+     {"issue": {"issue-date": "1930-05-10", "volume": "202", "number": "45"}, 
       "title": "Company Manners",
       "author": {
        "authorized": "Banning, Margaret Culkin, 1891-1982",
        "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1930-05-10", "volume": "202", "number": "45"}, 
+      "title": "Quack, Quack",
+      "title-note": "part 1 of 2",
+      "author": {
+         "authorized": "White, Stewart Edward, 1873-1946",
+         "lcna": "n50020243"
       }
      },
      {"issue": {"issue-date": "1930-05-17", "volume": "202", "number": "46"}, 
@@ -1563,6 +1668,31 @@
        "lcna": "no97070814"
       }
      },
+     {"issue": {"issue-date": "1930-05-17", "volume": "202", "number": "46"}, 
+      "title": "Consequence",
+      "title-note": "part 2 of 4",
+      "author": {
+       "authorized": "Marie, Grand Duchess of Russia, 1890-1958",
+       "name": "Marie, Grand Duchess of Russia",
+       "lcna": "nr98029100"
+      }
+     },
+     {"issue": {"issue-date": "1930-05-17", "volume": "202", "number": "46"}, 
+      "title": "The Hermit of Three Buttes",
+      "title-note": "part 2 of 5",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
+     {"issue": {"issue-date": "1930-05-17", "volume": "202", "number": "46"}, 
+      "title": "Quack, Quack",
+      "title-note": "part 2 of 2",
+      "author": {
+         "authorized": "White, Stewart Edward, 1873-1946",
+         "lcna": "n50020243"
+      }
+     },
      {"issue": {"issue-date": "1930-05-24", "volume": "202", "number": "47"}, 
       "title": "The Leaning Tower of Venice",
       "author": {
@@ -1575,6 +1705,23 @@
       "author": {
        "authorized": "Banning, Margaret Culkin, 1891-1982",
        "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1930-05-24", "volume": "202", "number": "47"}, 
+      "title": "The Hermit of Three Buttes",
+      "title-note": "part 3 of 5",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
+     {"issue": {"issue-date": "1930-05-24", "volume": "202", "number": "47"}, 
+      "title": "Consequence",
+      "title-note": "part 3 of 4",
+      "author": {
+       "authorized": "Marie, Grand Duchess of Russia, 1890-1958",
+       "name": "Marie, Grand Duchess of Russia",
+       "lcna": "nr98029100"
       }
      },
      {"issue": {"issue-date": "1930-05-31", "volume": "202", "number": "48"}, 
@@ -1592,6 +1739,37 @@
        "lcna": "n79006871"
       }
      },
+     {"issue": {"issue-date": "1930-05-31", "volume": "202", "number": "48"}, 
+      "title": "The Hermit of Three Buttes",
+      "title-note": "part 4 of 5",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
+     {"issue": {"issue-date": "1930-05-31", "volume": "202", "number": "48"}, 
+      "title": "Consequence",
+      "title-note": "part 4 of 4",
+      "author": {
+       "authorized": "Marie, Grand Duchess of Russia, 1890-1958",
+       "name": "Marie, Grand Duchess of Russia",
+       "lcna": "nr98029100"
+      }
+     },
+     {"issue": {"issue-date": "1930-06-07", "volume": "202", "number": "49"}, 
+       "title": "Ladies Change",
+       "author": {
+         "authorized": "Brackett, Charles, 1892-1969",
+         "lcna": "n85151724"
+       }
+     },
+     {"issue": {"issue-date": "1930-06-07", "volume": "202", "number": "49"}, 
+        "title": "No Horses, No Beggars",
+        "author": {
+         "authorized": "Beer, Thomas, 1889-1940",
+         "lcna": "n79151185"
+        }
+     },
      {"issue": {"issue-date": "1930-06-07", "volume": "202", "number": "49"}, 
       "title": "Mirthful Haven",
       "title-note": "part 2 of 7",
@@ -1600,12 +1778,48 @@
          "lcna": "n79078124"
        }
      },
+     {"issue": {"issue-date": "1930-06-07", "volume": "202", "number": "49"}, 
+      "title": "The Hermit of Three Buttes",
+      "title-note": "part 5 of 5",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
+     {"issue": {"issue-date": "1930-06-07", "volume": "202", "number": "49"}, 
+      "title": "Alaska Bears",
+      "author": {
+         "authorized": "White, Stewart Edward, 1873-1946",
+         "lcna": "n50020243"
+      }
+     },
+     {"issue": {"issue-date": "1930-06-07", "volume": "202", "number": "49"}, 
+      "title": "An Emergency is Declared to Exist",
+      "author": {
+         "authorized": "White, Stewart Edward, 1873-1946",
+         "lcna": "n50020243"
+      }
+     },
      {"issue": {"issue-date": "1930-06-14", "volume": "202", "number": "50"}, 
       "title": "Christmas in Bagdad",
       "author": {
          "authorized": "Street, Julian, 1879-1947",
          "lcna": "n86114725"
        }
+     },
+     {"issue": {"issue-date": "1930-06-14", "volume": "202", "number": "50"}, 
+      "title": "Lets and Hindrances",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
+     {"issue": {"issue-date": "1930-06-14", "volume": "202", "number": "50"}, 
+        "title": "Rose Plaster",
+        "author": {
+         "authorized": "Beer, Thomas, 1889-1940",
+         "lcna": "n79151185"
+        }
      },
      {"issue": {"issue-date": "1930-06-14", "volume": "202", "number": "50"}, 
       "title": "Mirthful Haven",
@@ -1623,6 +1837,13 @@
       }
      },
      {"issue": {"issue-date": "1930-06-21", "volume": "202", "number": "51"},
+        "title": "The Agreeable Finish",
+        "author": {
+         "authorized": "Beer, Thomas, 1889-1940",
+         "lcna": "n79151185"
+        }
+     },
+     {"issue": {"issue-date": "1930-06-21", "volume": "202", "number": "51"},
       "title": "Working on the Railroad",
       "author": {
        "authorized": "Upson, William Hazlett, 1891-1975",
@@ -1636,6 +1857,13 @@
          "authorized": "Tarkington, Booth, 1869-1946",
          "lcna": "n79078124"
        }
+     },
+     {"issue": {"issue-date": "1930-06-21", "volume": "202", "number": "51"},
+        "title": "Some Day You'll Be Sorry",
+        "author": {
+         "authorized": "Cozzens, James Gould, 1903-1978",
+         "lcna": "n79061394"
+        }
      },
      {"issue": {"issue-date": "1930-06-28", "volume": "202", "number": "52"},
       "title": "Ladies With Lipstick",
@@ -1653,9 +1881,9 @@
        }
      },
      {"issue": {"issue-date": "1930-07-05", "volume": "203", "number": "1"}, 
-      "title": "The Grooved Barrel",
+      "title": "The Long Rifle: The Grooved Barrel",
       "title-note": "part 1 of 2",
-      "note": "Title as given in CCE renewal record.  FictionMags gives the title of the White story half in this issue as 'The Long Rifle'. We have not examined the issue in question.",
+      "note": "Multiple CCE renewal records exist for this contribution, one of which starts with 'The Long Rifle' and one of which gives the title only as 'The Grooved Barrel'. Based on later renewed stories, 'The Long Rifle' appears to be used for a series of stories that also have their own distinctive titles or subtitles.",
       "author": {
          "authorized": "White, Stewart Edward, 1873-1946",
          "lcna": "n50020243"
@@ -1702,9 +1930,9 @@
       }
      },
      {"issue": {"issue-date": "1930-07-12", "volume": "203", "number": "2"}, 
-      "title": "The Grooved Barrel",
+      "title": "The Long Rifle: The Grooved Barrel",
       "title-note": "part 2 of 2",
-      "note": "Title as given in CCE renewal record.  FictionMags gives the title of the White story half in this issue as 'The Long Rifle'. We have not examined the issue in question.",
+      "note": "Multiple CCE renewal records exist for this contribution, one of which starts with 'The Long Rifle' and one of which gives the title only as 'The Grooved Barrel'. Based on later renewed stories, 'The Long Rifle' appears to be used for a series of stories that also have their own distinctive titles or subtitles.",
       "author": {
          "authorized": "White, Stewart Edward, 1873-1946",
          "lcna": "n50020243"
@@ -1719,6 +1947,13 @@
        }
      },
      {"issue": {"issue-date": "1930-07-19", "volume": "203", "number": "3"}, 
+       "title": "What Have You?",
+       "author": {
+         "authorized": "Brackett, Charles, 1892-1969",
+         "lcna": "n85151724"
+       }
+     },
+     {"issue": {"issue-date": "1930-07-19", "volume": "203", "number": "3"}, 
       "title": "Moving Forward",
       "title-note": "article 2 of 6",
       "note": "FictionMags titles their article 'The Place of Wages'.",
@@ -1730,10 +1965,24 @@
       ]
      },
      {"issue": {"issue-date": "1930-07-19", "volume": "203", "number": "3"}, 
+        "title": "He Had Another Apple",
+        "author": {
+         "authorized": "Beer, Thomas, 1889-1940",
+         "lcna": "n79151185"
+        }
+     },
+     {"issue": {"issue-date": "1930-07-19", "volume": "203", "number": "3"}, 
       "title": "The Artist Relaxed",
       "author": {
        "authorized": "Johnson, Nunnally",
        "lcna": "n79134929"
+      }
+     },
+     {"issue": {"issue-date": "1930-07-19", "volume": "203", "number": "3"}, 
+      "title": "The Wild Calf",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
       }
      },
      {"issue": {"issue-date": "1930-07-19", "volume": "203", "number": "3"}, 
@@ -1749,6 +1998,13 @@
        "authorized": "Johnson, Nunnally",
        "lcna": "n79134929"
       }
+     },
+     {"issue": {"issue-date": "1930-08-02", "volume": "203", "number": "5"}, 
+       "title": "Kayo! Oke!",
+       "author": {
+         "authorized": "Kerr, Sophie, 1880-1965",
+         "lcna": "no89021649"
+       }
      },
      {"issue": {"issue-date": "1930-08-02", "volume": "203", "number": "5"}, 
        "title": "The Same Things",
@@ -1780,6 +2036,13 @@
       "author": {
        "authorized": "Johnson, Nunnally",
        "lcna": "n79134929"
+      }
+     },
+     {"issue": {"issue-date": "1930-08-02", "volume": "203", "number": "5"}, 
+      "title": "The Lie With Circumstance",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
       }
      },
      {"issue": {"issue-date": "1930-08-09", "volume": "203", "number": "6"}, 
@@ -1838,6 +2101,13 @@
       }
      },
      {"issue": {"issue-date": "1930-08-23", "volume": "203", "number": "8"}, 
+      "title": "Volcanoes Packed in Ice",
+      "author": {
+         "authorized": "Willoughby, Barrett, -1959",
+         "lcna": "n94074965"
+      }
+     },
+     {"issue": {"issue-date": "1930-08-23", "volume": "203", "number": "8"}, 
       "title": "Charlie Chan Carries On",
       "title-note": "part 3 of 6",
       "author": {
@@ -1847,10 +2117,17 @@
      },
      {"issue": {"issue-date": "1930-08-30", "volume": "203", "number": "9"}, 
       "title": "The Glascow Keelie",
-      "note": "Title as given in CCE renewasl record. FictionMags gives title as 'The Glasgow Keelie'.  We have not examined the issue in question.",
+      "note": "Title as given in CCE renewal record. FictionMags gives title as 'The Glasgow Keelie'.  We have not examined the issue in question.",
       "author": {
          "authorized": "Raine, Norman Reilly, 1895-1971",
          "lcna": "n85342738"
+      }
+     },
+     {"issue": {"issue-date": "1930-08-30", "volume": "203", "number": "9"}, 
+      "title": "Guesswork",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
       }
      },
      {"issue": {"issue-date": "1930-08-30", "volume": "203", "number": "9"}, 
@@ -1923,6 +2200,13 @@
       }
      },
      {"issue": {"issue-date": "1930-09-13", "volume": "203", "number": "11"}, 
+      "title": "Horse Flesh",
+      "author": {
+       "authorized": "Brennan, Frederick Hazlitt, 1901-1962",
+       "lcna": "no89011748"
+      }
+     },
+     {"issue": {"issue-date": "1930-09-13", "volume": "203", "number": "11"}, 
       "title": "The Sixth Man",
       "author": {
          "authorized": "Raine, Norman Reilly, 1895-1971",
@@ -1963,6 +2247,13 @@
       ]
      },
      {"issue": {"issue-date": "1930-09-27", "volume": "203", "number": "13"}, 
+      "title": "Forces",
+       "author": {
+         "authorized": "Delmar, Viña, 1903-1990",
+         "lcna": "n50039021"
+        }
+     },
+     {"issue": {"issue-date": "1930-09-27", "volume": "203", "number": "13"}, 
       "title": "Here We Go a-Nutting",
       "author": {
        "authorized": "Johnson, Nunnally",
@@ -1984,6 +2275,20 @@
          "lcna": "n79061320"
        }
      },
+     {"issue": {"issue-date": "1930-09-27", "volume": "203", "number": "13"}, 
+      "title": "Salmon",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
+     {"issue": {"issue-date": "1930-10-04", "volume": "203", "number": "14"},
+        "title": "We'll Recall it With Affection",
+        "author": {
+         "authorized": "Cozzens, James Gould, 1903-1978",
+         "lcna": "n79061394"
+        }
+     },
      {"issue": {"issue-date": "1930-10-11", "volume": "203", "number": "15"}, 
       "title": "One Trip Abroad",
       "author": {
@@ -1999,6 +2304,13 @@
       }
      },
      {"issue": {"issue-date": "1930-10-11", "volume": "203", "number": "15"}, 
+        "title": "The Black Kind",
+        "author": {
+         "authorized": "Beer, Thomas, 1889-1940",
+         "lcna": "n79151185"
+        }
+     },
+     {"issue": {"issue-date": "1930-10-11", "volume": "203", "number": "15"}, 
       "title": "The Perfect Crime Case",
       "author": {
        "authorized": "Johnson, Nunnally",
@@ -2012,6 +2324,43 @@
          "lcna": "n85342738"
       }
      },
+     {"issue": {"issue-date": "1930-10-25", "volume": "203", "number": "17"}, 
+      "title": "Life Sentence",
+      "title-note": "part 1 of 2",
+        "author": {
+         "authorized": "West, Rebecca, 1892-1983",
+         "lcna": "n79100227"
+        }
+     },
+     {"issue": {"issue-date": "1930-10-25", "volume": "203", "number": "17"}, 
+      "title": "Buffalo Hunters",
+        "author": {
+         "authorized": "Lake, Stuart N.",
+         "lcna": "no89014726"
+        }
+     },
+     {"issue": {"issue-date": "1930-11-01", "volume": "203", "number": "18"}, 
+        "title": "The Guns of the Enemy",
+        "author": {
+         "authorized": "Cozzens, James Gould, 1903-1978",
+         "lcna": "n79061394"
+        }
+     },
+     {"issue": {"issue-date": "1930-11-01", "volume": "203", "number": "18"}, 
+      "title": "Guns and Gunfighters",
+        "author": {
+         "authorized": "Lake, Stuart N.",
+         "lcna": "no89014726"
+        }
+     },
+     {"issue": {"issue-date": "1930-11-01", "volume": "203", "number": "18"}, 
+      "title": "Life Sentence",
+      "title-note": "part 2 of 2",
+        "author": {
+         "authorized": "West, Rebecca, 1892-1983",
+         "lcna": "n79100227"
+        }
+     },
      {"issue": {"issue-date": "1930-11-08", "volume": "203", "number": "19"}, 
        "title": "There is a Destiny",
        "author": {
@@ -2020,10 +2369,31 @@
        }
      },
      {"issue": {"issue-date": "1930-11-08", "volume": "203", "number": "19"}, 
+      "title": "Tales of the Kansas Cow Towns",
+        "author": {
+         "authorized": "Lake, Stuart N.",
+         "lcna": "no89014726"
+        }
+     },
+     {"issue": {"issue-date": "1930-11-08", "volume": "203", "number": "19"}, 
       "title": "Chain Living",
       "author": {
        "authorized": "Banning, Margaret Culkin, 1891-1982",
        "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1930-11-15", "volume": "203", "number": "20"}, 
+      "title": "The Frontier Marshall",
+        "author": {
+         "authorized": "Lake, Stuart N.",
+         "lcna": "no89014726"
+        }
+     },
+     {"issue": {"issue-date": "1930-11-15", "volume": "203", "number": "20"}, 
+      "title": "Back to Barrie",
+      "author": {
+       "authorized": "Johnson, Nunnally",
+       "lcna": "n79134929"
       }
      },
      {"issue": {"issue-date": "1930-11-22", "volume": "203", "number": "21"}, 
@@ -2038,6 +2408,793 @@
       "author": {
        "authorized": "Fitzgerald, F. Scott (Francis Scott), 1896-1940",
        "lcna": "n79006871"
+      }
+     },
+     {"issue": {"issue-date": "1930-11-29", "volume": "203", "number": "22"}, 
+        "title": "International",
+        "author": {
+         "authorized": "Beer, Thomas, 1889-1940",
+         "lcna": "n79151185"
+        }
+     },
+     {"issue": {"issue-date": "1930-11-29", "volume": "203", "number": "22"}, 
+        "title": "Home Town Laughter",
+        "author": {
+         "name": "John Reid Byers"
+        }
+     },
+     {"issue": {"issue-date": "1930-12-06", "volume": "203", "number": "23"}, 
+      "title": "A Perfectly Beautiful Time",
+      "author": {
+         "authorized": "Cary, Lucian, 1886-1971",
+         "lcna": "no90003387"
+       }
+     },
+     {"issue": {"issue-date": "1930-12-06", "volume": "203", "number": "23"}, 
+      "title": "Sonnets: Being out of love; Strange thing; I dreamed I moved among the Elysian fields; and others",
+      "author": {
+       "authorized": "Millay, Edna St. Vincent, 1892-1950",
+       "lcna": "n79062746"
+      }
+     },
+     {"issue": {"issue-date": "1930-12-06", "volume": "203", "number": "23"}, 
+      "title": "Horseplay",
+      "author": {
+       "authorized": "Upson, William Hazlett, 1891-1975",
+       "lcna": "n90676728"
+      }
+     },
+     {"issue": {"issue-date": "1930-12-06", "volume": "203", "number": "23"}, 
+      "title": "The Fog Blew Over the Mountain",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
+     {"issue": {"issue-date": "1930-12-13", "volume": "203", "number": "24"}, 
+      "title": "The House of Darkness",
+      "title-note": "part 1 of 6",
+      "author": {
+         "authorized": "Scoggins, C. E. (Charles Elbert), 1888-1955",
+         "lcna": "no95058561"
+       }
+     },
+     {"issue": {"issue-date": "1930-12-13", "volume": "203", "number": "24"}, 
+      "title": "The Moon Craters of Alaska",
+      "author": {
+         "authorized": "Willoughby, Barrett, -1959",
+         "lcna": "n94074965"
+      }
+     },
+     {"issue": {"issue-date": "1930-12-20", "volume": "203", "number": "25"}, 
+      "title": "The Long Rifle",
+      "note": "Multiple CCE renewal records exist for this contribution, one of which gives this part the subtitle 'The Grandmother'.",
+      "author": {
+         "authorized": "White, Stewart Edward, 1873-1946",
+         "lcna": "n50020243"
+      }
+     },
+     {"issue": {"issue-date": "1930-12-20", "volume": "203", "number": "25"}, 
+      "title": "The House of Darkness",
+      "title-note": "part 2 of 6",
+      "author": {
+         "authorized": "Scoggins, C. E. (Charles Elbert), 1888-1955",
+         "lcna": "no95058561"
+       }
+     },
+     {"issue": {"issue-date": "1930-12-20", "volume": "203", "number": "25"}, 
+       "title": "Rainbows",
+       "author": {
+         "authorized": "Marquand, John P. (John Phillips), 1893-1960",
+         "lcna": "n79061320"
+       }
+     },
+     {"issue": {"issue-date": "1930-12-27", "volume": "203", "number": "26"}, 
+      "title": "Make Believe",
+      "title-note": "part 1 of 5",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
+     {"issue": {"issue-date": "1930-12-27", "volume": "203", "number": "26"}, 
+      "title": "A Woman at the Wheel",
+      "author": {
+       "authorized": "Johnson, Nunnally",
+       "lcna": "n79134929"
+      }
+     },
+     {"issue": {"issue-date": "1930-12-27", "volume": "203", "number": "26"}, 
+      "title": "Doubles is a Better Game",
+      "author": {
+       "authorized": "Hale, Agnes Burke",
+       "lcna": "no97070814"
+      }
+     },
+     {"issue": {"issue-date": "1930-12-27", "volume": "203", "number": "26"}, 
+      "title": "The House of Darkness",
+      "title-note": "part 3 of 6",
+      "author": {
+         "authorized": "Scoggins, C. E. (Charles Elbert), 1888-1955",
+         "lcna": "no95058561"
+       }
+     },
+     {"issue": {"issue-date": "1931-01-03", "volume": "203", "number": "27"}, 
+      "title": "The House of Darkness",
+      "title-note": "part 4 of 6",
+      "author": {
+         "authorized": "Scoggins, C. E. (Charles Elbert), 1888-1955",
+         "lcna": "no95058561"
+       }
+     },
+     {"issue": {"issue-date": "1931-01-03", "volume": "203", "number": "27"}, 
+      "title": "Make Believe",
+      "title-note": "part 2 of 5",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
+     {"issue": {"issue-date": "1931-01-03", "volume": "203", "number": "27"}, 
+       "title": "The Truth About a Novel",
+       "author": {
+        "authorized": "Roberts, Kenneth Lewis, 1885-1957",
+        "lcna": "n50048902"
+       }
+     },
+     {"issue": {"issue-date": "1931-01-10", "volume": "203", "number": "28"}, 
+      "title": "The Model House",
+      "author": {
+       "authorized": "Upson, William Hazlett, 1891-1975",
+       "lcna": "n90676728"
+      }
+     },
+     {"issue": {"issue-date": "1931-01-10", "volume": "203", "number": "28"}, 
+      "title": "Make Believe",
+      "title-note": "part 3 of 5",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
+     {"issue": {"issue-date": "1931-01-10", "volume": "203", "number": "28"}, 
+      "title": "The House of Darkness",
+      "title-note": "part 5 of 6",
+      "author": {
+         "authorized": "Scoggins, C. E. (Charles Elbert), 1888-1955",
+         "lcna": "no95058561"
+       }
+     },
+     {"issue": {"issue-date": "1931-01-17", "volume": "203", "number": "29"}, 
+      "title": "I Cannot Refrain",
+      "author": {
+       "authorized": "Train, Arthur, 1875-1945",
+       "lcna": "n50014661"
+      }
+     },
+     {"issue": {"issue-date": "1931-01-17", "volume": "203", "number": "29"}, 
+      "title": "Make Believe",
+      "title-note": "part 4 of 5",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
+     {"issue": {"issue-date": "1931-01-17", "volume": "203", "number": "29"}, 
+      "title": "The House of Darkness",
+      "title-note": "part 6 of 6",
+      "author": {
+         "authorized": "Scoggins, C. E. (Charles Elbert), 1888-1955",
+         "lcna": "no95058561"
+       }
+     },
+     {"issue": {"issue-date": "1931-01-24", "volume": "203", "number": "30"},
+       "title": "How I Don't Play Golf",
+       "author": {
+        "authorized": "Roberts, Kenneth Lewis, 1885-1957",
+        "lcna": "n50048902"
+       }
+     },
+     {"issue": {"issue-date": "1931-01-24", "volume": "203", "number": "30"},
+      "title": "What Every Author Knows",
+      "author": {
+       "authorized": "Train, Arthur, 1875-1945",
+       "lcna": "n50014661"
+      }
+     },
+     {"issue": {"issue-date": "1931-01-24", "volume": "203", "number": "30"},
+      "title": "We're Going to Ruin the Lower Classes",
+      "author": {
+       "authorized": "Upson, William Hazlett, 1891-1975",
+       "lcna": "n90676728"
+      }
+     },
+     {"issue": {"issue-date": "1931-01-24", "volume": "203", "number": "30"},
+      "title": "Make Believe",
+      "title-note": "part 5 of 5",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
+     {"issue": {"issue-date": "1931-01-31", "volume": "203", "number": "31"},
+      "title": "Gold",
+      "title-note": "part 1 of 6",
+      "author": {
+       "authorized": "Kelland, Clarence Budington, 1881-1964",
+       "lcna": "n85050359"
+      }
+     },
+     {"issue": {"issue-date": "1931-01-31", "volume": "203", "number": "31"},
+      "title": "Thirty-Five Quid a Month",
+      "author": {
+         "authorized": "Raine, Norman Reilly, 1895-1971",
+         "lcna": "n85342738"
+      }
+     },
+     {"issue": {"issue-date": "1931-01-31", "volume": "203", "number": "31"},
+       "title": "All Modern Improvements",
+       "author": {
+         "authorized": "Brackett, Charles, 1892-1969",
+         "lcna": "n85151724"
+       }
+     },
+     {"issue": {"issue-date": "1931-01-31", "volume": "203", "number": "31"},
+      "title": "What's the Matter With Food",
+      "author": {
+         "authorized": "Street, Julian, 1879-1947",
+         "lcna": "n86114725"
+       }
+     },
+     {"issue": {"issue-date": "1931-02-07", "volume": "203", "number": "32"}, 
+      "title": "The Long Rifle",
+      "note": "FictionMags gives this part the subtitle 'The Mountain Man'.",
+      "author": {
+         "authorized": "White, Stewart Edward, 1873-1946",
+         "lcna": "n50020243"
+      }
+     },
+     {"issue": {"issue-date": "1931-02-07", "volume": "203", "number": "32"}, 
+      "title": "The House That Tutt Built",
+      "author": {
+       "authorized": "Train, Arthur, 1875-1945",
+       "lcna": "n50014661"
+      }
+     },
+     {"issue": {"issue-date": "1931-02-07", "volume": "203", "number": "32"}, 
+      "title": "Gold",
+      "title-note": "part 2 of 6",
+      "author": {
+       "authorized": "Kelland, Clarence Budington, 1881-1964",
+       "lcna": "n85050359"
+      }
+     },
+     {"issue": {"issue-date": "1931-02-07", "volume": "203", "number": "32"}, 
+      "title": "Blond Widow",
+      "author": {
+       "authorized": "Brush, Katharine, 1900-1952",
+       "lcna": "no93001232"
+      }
+     },
+     {"issue": {"issue-date": "1931-02-14", "volume": "203", "number": "33"}, 
+       "title": "Golden Lads",
+       "author": {
+         "authorized": "Marquand, John P. (John Phillips), 1893-1960",
+         "lcna": "n79061320"
+       }
+     },
+     {"issue": {"issue-date": "1931-02-14", "volume": "203", "number": "33"}, 
+      "title": "Gold",
+      "title-note": "part 3 of 6",
+      "author": {
+       "authorized": "Kelland, Clarence Budington, 1881-1964",
+       "lcna": "n85050359"
+      }
+     },
+     {"issue": {"issue-date": "1931-02-14", "volume": "203", "number": "33"}, 
+      "title": "The Long Rifle",
+      "note": "FictionMags gives this part the subtitle 'The Statesman'.",
+      "author": {
+         "authorized": "White, Stewart Edward, 1873-1946",
+         "lcna": "n50020243"
+      }
+     },
+     {"issue": {"issue-date": "1931-02-21", "volume": "203", "number": "34"}, 
+      "title": "The Love Interest",
+      "author": {
+       "authorized": "Bellah, James Warner, 1899-1976",
+       "lcna": "no92015223"
+      }
+     },
+     {"issue": {"issue-date": "1931-02-21", "volume": "203", "number": "34"}, 
+      "title": "The Long Rifle",
+      "note": "Multiple CCE renewal records exist for this contribution. FictionMags gives this part the subtitle 'The Trader'.",
+      "author": {
+         "authorized": "White, Stewart Edward, 1873-1946",
+         "lcna": "n50020243"
+      }
+     },
+     {"issue": {"issue-date": "1931-02-21", "volume": "203", "number": "34"}, 
+      "title": "Gold",
+      "title-note": "part 4 of 6",
+      "author": {
+       "authorized": "Kelland, Clarence Budington, 1881-1964",
+       "lcna": "n85050359"
+      }
+     },
+     {"issue": {"issue-date": "1931-02-21", "volume": "203", "number": "34"}, 
+      "title": "Grizzlies Again",
+      "author": {
+         "authorized": "White, Stewart Edward, 1873-1946",
+         "lcna": "n50020243"
+      }
+     },
+     {"issue": {"issue-date": "1931-02-28", "volume": "203", "number": "35"}, 
+      "title": "Dixie Belle",
+      "author": {
+       "authorized": "Johnson, Nunnally",
+       "lcna": "n79134929"
+      }
+     },
+     {"issue": {"issue-date": "1931-02-28", "volume": "203", "number": "35"}, 
+      "title": "The Long Rifle",
+      "note": "Multiple CCE renewal records exist for this contribution. FictionMags gives this part the subtitle 'The Buffalo'.",
+      "author": {
+         "authorized": "White, Stewart Edward, 1873-1946",
+         "lcna": "n50020243"
+      }
+     },
+     {"issue": {"issue-date": "1931-02-28", "volume": "203", "number": "35"}, 
+      "title": "Gold",
+      "title-note": "part 5 of 6",
+      "author": {
+       "authorized": "Kelland, Clarence Budington, 1881-1964",
+       "lcna": "n85050359"
+      }
+     },
+     {"issue": {"issue-date": "1931-03-07", "volume": "203", "number": "36"}, 
+       "title": "The Lively Lady",
+       "title-note": "part 1 of 6",
+       "author": {
+        "authorized": "Roberts, Kenneth Lewis, 1885-1957",
+        "lcna": "n50048902"
+       }
+     },
+     {"issue": {"issue-date": "1931-03-07", "volume": "203", "number": "36"}, 
+      "title": "Believe it or Not",
+      "author": {
+       "authorized": "Bellah, James Warner, 1899-1976",
+       "lcna": "no92015223"
+      }
+     },
+     {"issue": {"issue-date": "1931-03-07", "volume": "203", "number": "36"}, 
+      "title": "The Long Rifle",
+      "note": "Multiple CCE renewal records exist for this contribution. FictionMags gives this part the subtitle 'Senorita'.",
+      "author": {
+         "authorized": "White, Stewart Edward, 1873-1946",
+         "lcna": "n50020243"
+      }
+     },
+     {"issue": {"issue-date": "1931-03-07", "volume": "203", "number": "36"}, 
+      "title": "Gold",
+      "title-note": "part 6 of 6",
+      "author": {
+       "authorized": "Kelland, Clarence Budington, 1881-1964",
+       "lcna": "n85050359"
+      }
+     },
+     {"issue": {"issue-date": "1931-03-07", "volume": "203", "number": "36"}, 
+      "title": "Parking the Brown Bear",
+      "author": {
+         "authorized": "White, Stewart Edward, 1873-1946",
+         "lcna": "n50020243"
+      }
+     },
+     {"issue": {"issue-date": "1931-03-14", "volume": "203", "number": "37"}, 
+      "title": "Spellbound",
+      "author": {
+         "authorized": "Wylie, I. A. R. (Ida Alexa Ross), 1885-1959",
+         "lcna": "n87860300"
+       }
+     },
+     {"issue": {"issue-date": "1931-03-14", "volume": "203", "number": "37"}, 
+      "title": "The Long Rifle",
+      "note": "Multiple CCE renewal records exist for this contribution. FictionMags gives this part the subtitle 'Indian Country'.",
+      "author": {
+         "authorized": "White, Stewart Edward, 1873-1946",
+         "lcna": "n50020243"
+      }
+     },
+     {"issue": {"issue-date": "1931-03-14", "volume": "203", "number": "37"}, 
+       "title": "The Lively Lady",
+       "title-note": "part 2 of 6",
+       "author": {
+        "authorized": "Roberts, Kenneth Lewis, 1885-1957",
+        "lcna": "n50048902"
+       }
+     },
+     {"issue": {"issue-date": "1931-03-14", "volume": "203", "number": "37"}, 
+      "title": "Cent a Point",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1931-03-21", "volume": "203", "number": "38"}, 
+      "title": "Tutt for Tutt",
+      "author": {
+       "authorized": "Train, Arthur, 1875-1945",
+       "lcna": "n50014661"
+      }
+     },
+     {"issue": {"issue-date": "1931-03-21", "volume": "203", "number": "38"}, 
+      "title": "What's the Matter With Food",
+      "author": {
+         "authorized": "Street, Julian, 1879-1947",
+         "lcna": "n86114725"
+       }
+     },
+     {"issue": {"issue-date": "1931-03-21", "volume": "203", "number": "38"}, 
+      "title": "The Woman's Touch",
+      "author": {
+       "authorized": "Johnson, Nunnally",
+       "lcna": "n79134929"
+      }
+     },
+     {"issue": {"issue-date": "1931-03-21", "volume": "203", "number": "38"}, 
+      "title": "The Long Rifle",
+      "note": "Multiple CCE renewal records exist for this contribution. FictionMags gives this part the subtitle 'The White Buffalo'.",
+      "author": {
+         "authorized": "White, Stewart Edward, 1873-1946",
+         "lcna": "n50020243"
+      }
+     },
+     {"issue": {"issue-date": "1931-03-21", "volume": "203", "number": "38"}, 
+       "title": "The Lively Lady",
+       "title-note": "part 3 of 6",
+       "author": {
+        "authorized": "Roberts, Kenneth Lewis, 1885-1957",
+        "lcna": "n50048902"
+       }
+     },
+     {"issue": {"issue-date": "1931-03-28", "volume": "203", "number": "39"}, 
+      "title": "The Long Rifle",
+      "note": "Multiple CCE renewal records exist for this contribution. FictionMags gives this part the subtitle 'Blackfeet'.",
+      "author": {
+         "authorized": "White, Stewart Edward, 1873-1946",
+         "lcna": "n50020243"
+      }
+     },
+     {"issue": {"issue-date": "1931-03-28", "volume": "203", "number": "39"}, 
+       "title": "The Lively Lady",
+       "title-note": "part 4 of 6",
+       "author": {
+        "authorized": "Roberts, Kenneth Lewis, 1885-1957",
+        "lcna": "n50048902"
+       }
+     },
+     {"issue": {"issue-date": "1931-04-04", "volume": "203", "number": "40"}, 
+      "title": "Nightmare",
+      "author": {
+       "authorized": "Johnson, Nunnally",
+       "lcna": "n79134929"
+      }
+     },
+     {"issue": {"issue-date": "1931-04-04", "volume": "203", "number": "40"}, 
+      "title": "The Long Rifle",
+      "note": "FictionMags gives this part the subtitle 'Assiniboin'.",
+      "author": {
+         "authorized": "White, Stewart Edward, 1873-1946",
+         "lcna": "n50020243"
+      }
+     },
+     {"issue": {"issue-date": "1931-04-04", "volume": "203", "number": "40"}, 
+       "title": "The Lively Lady",
+       "title-note": "part 5 of 6",
+       "author": {
+        "authorized": "Roberts, Kenneth Lewis, 1885-1957",
+        "lcna": "n50048902"
+       }
+     },
+     {"issue": {"issue-date": "1931-04-11", "volume": "203", "number": "41"}, 
+      "title": "What New York is Really Like",
+      "author": {
+         "authorized": "Cary, Lucian, 1886-1971",
+         "lcna": "no90003387"
+       }
+     },
+     {"issue": {"issue-date": "1931-04-11", "volume": "203", "number": "41"}, 
+       "title": "The Lively Lady",
+       "title-note": "part 6 of 6",
+       "author": {
+        "authorized": "Roberts, Kenneth Lewis, 1885-1957",
+        "lcna": "n50048902"
+       }
+     },
+     {"issue": {"issue-date": "1931-04-18", "volume": "203", "number": "42"}, 
+      "title": "Mr. Tutt Turns a Trick",
+      "author": {
+       "authorized": "Train, Arthur, 1875-1945",
+       "lcna": "n50014661"
+      }
+     },
+     {"issue": {"issue-date": "1931-04-18", "volume": "203", "number": "42"}, 
+       "title": "The Half Baked Palace",
+       "title-note": "part 1 of 2",
+       "author": {
+        "authorized": "Roberts, Kenneth Lewis, 1885-1957",
+        "lcna": "n50048902"
+       }
+     },
+     {"issue": {"issue-date": "1931-04-18", "volume": "203", "number": "42"}, 
+      "title": "Heart Trouble",
+      "author": {
+       "authorized": "Hale, Agnes Burke",
+       "lcna": "no97070814"
+      }
+     },
+     {"issue": {"issue-date": "1931-04-25", "volume": "203", "number": "43"}, 
+      "title": "Ann, Her Sampler, 1931",
+      "author": {
+         "authorized": "Wylie, I. A. R. (Ida Alexa Ross), 1885-1959",
+         "lcna": "n87860300"
+       }
+     },
+     {"issue": {"issue-date": "1931-04-25", "volume": "203", "number": "43"}, 
+      "title": "The Angler's Prayer",
+      "author": {
+       "authorized": "Johnson, Nunnally",
+       "lcna": "n79134929"
+      }
+     },
+     {"issue": {"issue-date": "1931-04-25", "volume": "203", "number": "43"}, 
+       "title": "The Half Baked Palace",
+       "title-note": "part 2 of 2",
+       "author": {
+        "authorized": "Roberts, Kenneth Lewis, 1885-1957",
+        "lcna": "n50048902"
+       }
+     },
+     {"issue": {"issue-date": "1931-05-02", "volume": "203", "number": "44"}, 
+        "title": "A Life at Angelo's",
+        "author": {
+         "authorized": "Benét, Stephen Vincent, 1898-1943",
+         "lcna": "n50007691"
+        }
+     },
+     {"issue": {"issue-date": "1931-05-09", "volume": "203", "number": "45"}, 
+      "title": "Divine Curiosity",
+      "note": "FictionMags lists this work as by 'Susan Brock as told to William Hazlett Upson'.",
+      "author": {
+       "authorized": "Upson, William Hazlett, 1891-1975",
+       "lcna": "n90676728"
+      }
+     },
+     {"issue": {"issue-date": "1931-05-09", "volume": "203", "number": "45"}, 
+      "title": "Ferd Was a Lamb",
+      "author": {
+         "authorized": "Kilbourne, Fannie, 1890-",
+         "lcna": "no93026233"
+      }
+     },
+     {"issue": {"issue-date": "1931-05-23", "volume": "203", "number": "47"}, 
+      "title": "Regular Fellows",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1931-05-30", "volume": "203", "number": "48"}, 
+      "title": "Recognition",
+      "author": {
+       "authorized": "Johnson, Nunnally",
+       "lcna": "n79134929"
+      }
+     },
+     {"issue": {"issue-date": "1931-06-06", "volume": "203", "number": "49"}, 
+      "title": "Ring Around a Rosy",
+      "author": {
+         "authorized": "Lewis, Sinclair, 1885-1951",
+         "lcna": "n79023149"
+       }
+     },
+     {"issue": {"issue-date": "1931-06-06", "volume": "203", "number": "49"}, 
+      "title": "The Girl in the Rain",
+      "author": {
+         "authorized": "Cary, Lucian, 1886-1971",
+         "lcna": "no90003387"
+       }
+     },
+     {"issue": {"issue-date": "1931-06-06", "volume": "203", "number": "49"}, 
+      "title": "The Lion of the Bronx",
+      "note": "Title as given in CCE renewal record. FictionMags gives title as 'The Lion in the Bronx'. We have not examined the issue in question.",
+      "author": {
+       "authorized": "Johnson, Nunnally",
+       "lcna": "n79134929"
+      }
+     },
+     {"issue": {"issue-date": "1931-06-13", "volume": "203", "number": "50"}, 
+      "title": "She Was Right Once",
+      "author": {
+         "authorized": "Tarkington, Booth, 1869-1946",
+         "lcna": "n79078124"
+       }
+     },
+     {"issue": {"issue-date": "1931-06-13", "volume": "203", "number": "50"}, 
+      "title": "She Eagle",
+      "author": {
+       "authorized": "Bellah, James Warner, 1899-1976",
+       "lcna": "no92015223"
+      }
+     },
+     {"issue": {"issue-date": "1931-06-13", "volume": "203", "number": "50"}, 
+      "title": "Salvage",
+      "author": {
+         "authorized": "Raine, Norman Reilly, 1895-1971",
+         "lcna": "n85342738"
+      }
+     },
+     {"issue": {"issue-date": "1931-06-27", "volume": "203", "number": "52"}, 
+      "title": "A Girl's Best Friend",
+      "author": {
+       "authorized": "Hale, Agnes Burke",
+       "lcna": "no97070814"
+      }
+     },
+     {"issue": {"issue-date": "1931-07-04", "volume": "204", "number": "1"}, 
+      "title": "Sunk",
+      "author": {
+       "authorized": "Upson, William Hazlett, 1891-1975",
+       "lcna": "n90676728"
+      }
+     },
+     {"issue": {"issue-date": "1931-07-04", "volume": "204", "number": "1"}, 
+      "title": "Author! Author!",
+      "author": {
+       "authorized": "Johnson, Nunnally",
+       "lcna": "n79134929"
+      }
+     },
+     {"issue": {"issue-date": "1931-07-04", "volume": "204", "number": "1"}, 
+      "title": "The Long Slow Sidewise Look",
+      "author": {
+         "authorized": "Cary, Lucian, 1886-1971",
+         "lcna": "no90003387"
+       }
+     },
+     {"issue": {"issue-date": "1931-07-11", "volume": "204", "number": "2"}, 
+      "title": "Tugboat Annie",
+      "author": {
+         "authorized": "Raine, Norman Reilly, 1895-1971",
+         "lcna": "n85342738"
+      }
+     },
+     {"issue": {"issue-date": "1931-07-11", "volume": "204", "number": "2"}, 
+      "title": "The Man on Horseback",
+      "author": {
+       "authorized": "Johnson, Nunnally",
+       "lcna": "n79134929"
+      }
+     },
+     {"issue": {"issue-date": "1931-07-25", "volume": "204", "number": "4"}, 
+      "title": "Sitting Pretty",
+      "author": {
+         "authorized": "Street, Julian, 1879-1947",
+         "lcna": "n86114725"
+       }
+     },
+     {"issue": {"issue-date": "1931-07-25", "volume": "204", "number": "4"}, 
+      "title": "I Need $300",
+      "author": {
+       "authorized": "Upson, William Hazlett, 1891-1975",
+       "lcna": "n90676728"
+      }
+     },
+     {"issue": {"issue-date": "1931-08-01", "volume": "204", "number": "5"}, 
+      "title": "Barratry",
+      "author": {
+         "authorized": "Raine, Norman Reilly, 1895-1971",
+         "lcna": "n85342738"
+      }
+     },
+     {"issue": {"issue-date": "1931-08-08", "volume": "204", "number": "6"}, 
+      "title": "Upstairs",
+      "author": {
+         "authorized": "Marquand, John P. (John Phillips), 1893-1960",
+         "lcna": "n79061320"
+       }
+     },
+     {"issue": {"issue-date": "1931-08-29", "volume": "204", "number": "9"}, 
+      "title": "Singapore Jack",
+      "author": {
+         "authorized": "Raine, Norman Reilly, 1895-1971",
+         "lcna": "n85342738"
+      }
+     },
+     {"issue": {"issue-date": "1931-09-12", "volume": "204", "number": "11"}, 
+      "title": "Land",
+      "author": {
+         "authorized": "Lewis, Sinclair, 1885-1951",
+         "lcna": "n79023149"
+       }
+     },
+     {"issue": {"issue-date": "1931-10-03", "volume": "204", "number": "14"}, 
+      "title": "House That Jack Built",
+      "author": {
+         "authorized": "Wylie, I. A. R. (Ida Alexa Ross), 1885-1959",
+         "lcna": "n87860300"
+       }
+     },
+     {"issue": {"issue-date": "1931-10-17", "volume": "204", "number": "16"}, 
+      "title": "Dollar Chasers",
+      "title-note": "part 1 of 2",
+      "author": {
+         "authorized": "Lewis, Sinclair, 1885-1951",
+         "lcna": "n79023149"
+       }
+     },
+     {"issue": {"issue-date": "1931-10-17", "volume": "204", "number": "16"}, 
+      "title": "Tolerance",
+      "author": {
+         "authorized": "Marquand, John P. (John Phillips), 1893-1960",
+         "lcna": "n79061320"
+       }
+     },
+     {"issue": {"issue-date": "1931-10-24", "volume": "204", "number": "17"}, 
+      "title": "Dollar Chasers",
+      "title-note": "part 2 of 2",
+      "author": {
+         "authorized": "Lewis, Sinclair, 1885-1951",
+         "lcna": "n79023149"
+       }
+     },
+     {"issue": {"issue-date": "1931-11-07", "volume": "204", "number": "19"}, 
+      "title": "Gentlemen Ride",
+      "author": {
+         "authorized": "Marquand, John P. (John Phillips), 1893-1960",
+         "lcna": "n79061320"
+       }
+     },
+     {"issue": {"issue-date": "1931-11-07", "volume": "204", "number": "19"}, 
+      "title": "The Russian Goose Hangs High",
+       "author": {
+         "authorized": "Hurst, Fannie, 1889-1968",
+         "lcna": "n80010314"
+       }
+     },
+     {"issue": {"issue-date": "1931-11-14", "volume": "204", "number": "20"}, 
+      "title": "I've Got a Responsible Job",
+      "author": {
+       "authorized": "Upson, William Hazlett, 1891-1975",
+       "lcna": "n90676728"
+      }
+     },
+     {"issue": {"issue-date": "1931-11-28", "volume": "204", "number": "22"}, 
+      "title": "Hard Driver",
+      "author": {
+         "authorized": "Cary, Lucian, 1886-1971",
+         "lcna": "no90003387"
+       }
+     },
+     {"issue": {"issue-date": "1931-11-28", "volume": "204", "number": "22"}, 
+      "title": "Call Me Joe",
+      "author": {
+         "authorized": "Marquand, John P. (John Phillips), 1893-1960",
+         "lcna": "n79061320"
+       }
+     },
+     {"issue": {"issue-date": "1931-12-26", "volume": "204", "number": "26"},
+        "title": "The Way to Go Home",
+        "author": {
+         "authorized": "Cozzens, James Gould, 1903-1978",
+         "lcna": "n79061394"
+        }
+     },
+     {"issue": {"issue-date": "1931-12-26", "volume": "204", "number": "26"},
+      "title": "Gladwin is Willing to Accept a Position",
+      "author": {
+       "authorized": "Upson, William Hazlett, 1891-1975",
+       "lcna": "n90676728"
       }
      },
      {"issue": {"issue-date": "1950-04-08", "volume": "222", "number": "41"},
@@ -2091,11 +3248,12 @@
       }
      }
    ],
+   "comment": "Pick up contributions with 1959 Jan-Jun",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
    "acknowledgement": 
       "Thanks to Felice Gollotti for copyright research on this title.",
-   "last-updated": "2024-01-03"
+   "last-updated": "2024-10-31"
 }

@@ -7,7 +7,7 @@
    "first-renewed-issue-source": "1956-JanJun",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
-   "renewed-issue-completeness": "active/1931",
+   "renewed-issue-completeness": "active/1932",
    "renewed-issues": [
       {"issue-date": "1928-October-December", "cdate": "1929-02-11",
        "volume": "16", "number": "4"},
@@ -27,7 +27,7 @@
       {"issue-date": "1930-11", "volume": "18", "number": "11"},
       {"issue-date": "1930-12", "volume": "18", "number": "12",
        "cdate": "1931-01-23"},
-      {"issue-date": "1930", "issue": "annual cumulative volume",
+      {"issue-date": "1930", "number": "annual cumulative volume",
        "cdate": "1931-02-27"},
       {"issue-date": "1931-01", "volume": "19", "number": "1"},
       {"issue-date": "1931-02", "volume": "19", "number": "2"},
@@ -42,7 +42,7 @@
       {"issue-date": "1931-11", "volume": "19", "number": "11"},
       {"issue-date": "1931-12", "volume": "19", "number": "12",
        "cdate": "1932-01-22"},
-      {"issue-date": "1931", "issue": "annual cumulative volume",
+      {"issue-date": "1931", "number": "annual cumulative volume",
        "cdate": "1932-03-19"},
       {"issue-date": "1932-01", "volume": "20", "number": "1"},
       {"issue-date": "1932-02", "volume": "20", "number": "2"},
@@ -53,12 +53,33 @@
       {"issue-date": "1932-07", "volume": "20", "number": "7"},
       {"issue-date": "1932-08", "volume": "20", "number": "8"},
       {"issue-date": "1932-09", "volume": "20", "number": "9"},
-      {"issue-date": "1932-10", "volume": "20", "number": "10"}
+      {"issue-date": "1932-10", "volume": "20", "number": "10"},
+      {"issue-date": "1932-11", "volume": "20", "number": "11"},
+      {"issue-date": "1932-12", "volume": "20", "number": "12",
+       "cdate": "1933-01-14"},
+      {"issue-date": "1932", "number": "annual volume",
+       "cdate": "1933-04-01"},
+      {"issue-date": "1933-01", "volume": "21", "number": "1",
+       "cdate": "1933-02-26",
+       "note": "Volume number presumed; renewals are grouped under volume 20 along with late 1932 issues."},
+      {"issue-date": "1933-02", "volume": "21", "number": "2",
+       "note": "Volume number presumed; renewals are grouped under volume 20 along with late 1932 issues."},
+      {"issue-date": "1933-03", "volume": "21", "number": "3",
+       "note": "Volume number presumed; renewals are grouped under volume 20 along with late 1932 issues."},
+      {"issue-date": "1933-04", "volume": "21", "number": "4",
+       "note": "Volume number presumed; renewals are grouped under volume 20 along with late 1932 issues."},
+      {"issue-date": "1933-05", "volume": "21", "number": "5"},
+      {"issue-date": "1933-06", "volume": "21", "number": "6"},
+      {"issue-date": "1933-07", "volume": "21", "number": "7"},
+      {"issue-date": "1933-08", "volume": "21", "number": "8"},
+      {"issue-date": "1933-09", "volume": "21", "number": "9"},
+      {"issue-date": "1933-10", "volume": "21", "number": "10"},
+      {"issue-date": "1933-11", "volume": "21", "number": "11"}
    ],
    "additional-note": "Some renewal records for this index are listed in the Books section of the CCE, and others in the Periodicals section.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-01-02"
+   "last-updated": "2024-10-25"
 }
