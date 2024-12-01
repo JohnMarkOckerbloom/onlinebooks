@@ -13,7 +13,7 @@
      {"issue": {"issue-date": "1929-02", "volume": "16", "number": "3",
       "cdate": "1929-01-01"}},
    "first-renewed-contribution-source": "1956-JanJun",
-   "renewed-contribution-completeness": "active/1929",
+   "renewed-contribution-completeness": "active/1930",
    "renewed-contributions": [
      {"issue": {"issue-date": "1929-02", "volume": "16", "number": "3"},
       "title": "Speakeasy (Gaudy Lady)",
@@ -206,6 +206,97 @@
          "authorized": "Wallace, Francis",
          "lcna": "no89010849"
       }
+     },
+     {"issue": {"issue-date": "1931-01", "number": "85"},
+      "title": "Gentlemen on Guard",
+      "title-note": "part 1 of 2",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1931-02", "number": "86"},
+      "title": "Gentlemen on Guard",
+      "title-note": "part 2 of 2",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1931-02", "number": "86"},
+      "title": "There Are Too Many Women",
+      "author": {
+       "authorized": "Brush, Katharine, 1900-1952",
+       "lcna": "no93001232"
+      }
+     },
+     {"issue": {"issue-date": "1931-02", "number": "86"},
+      "title": "Girls Together",
+      "author": {
+       "authorized": "Cram, Mildred, 1889-1985",
+       "lcna": "n87847192"
+      }
+     },
+     {"issue": {"issue-date": "1931-03", "number": "87"},
+      "title": "He Was an Idle Gentleman",
+      "author": {
+       "authorized": "Espy, Hilda Cole",
+       "lcna": "n88612834"
+      }
+     },
+     {"issue": {"issue-date": "1931-03", "number": "87"},
+      "title": "French Farce",
+      "author": {
+       "authorized": "Weiman, Rita, 1889-1954",
+       "lcna": "n89129751"
+      }
+     },
+     {"issue": {"issue-date": "1931-07", "number": "91"}, 
+      "title": "Fire Magic",
+      "author": {
+       "authorized": "Irwin, Wallace, 1876-1959",
+       "lcna": "n97112081"
+      }
+     },
+     {"issue": {"issue-date": "1931-09", "number": "93"},
+      "title": "Big Nick",
+      "title-note": "part 1 of 3",
+      "author": {
+       "authorized": "Buranelli, Prosper, 1890-1960",
+       "lcna": "no94044067"
+      }
+     },
+     {"issue": {"issue-date": "1931-09", "number": "93"},
+      "title": "Marry for Money",
+      "title-note": "part 1 of 2",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1931-10", "number": "94"},
+      "title": "Marry for Money",
+      "title-note": "part 2 of 2",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1931-10", "number": "94"},
+      "title": "Big Nick",
+      "title-note": "part 2 of 3",
+      "author": {
+       "authorized": "Buranelli, Prosper, 1890-1960",
+       "lcna": "no94044067"
+      }
+     },
+     {"issue": {"issue-date": "1931-11", "number": "95"},
+      "title": "Big Nick",
+      "title-note": "part 3 of 3",
+      "author": {
+       "authorized": "Buranelli, Prosper, 1890-1960",
+       "lcna": "no94044067"
+      }
      }
    ],
    "additional-note": "A second series of this periodical began in 1934, in conjunction with one of its ownership changes.  (The magazine changed hands multiple times in the 1930s, with some publication hiatuses.  It was also known as 'College Humor and Sense' for a time during 1933 and 1934.) I am not aware of the second series being marked as such; rather, the volume and issue numbering simply restarted at 1 in 1934.",
@@ -213,5 +304,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-01-05"
+   "last-updated": "2024-11-13"
 }

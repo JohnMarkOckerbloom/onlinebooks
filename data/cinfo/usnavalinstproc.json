@@ -11,10 +11,25 @@
    "first-renewed-issue-source": "1960-JulDec",
    "first-renewed-contribution": {"issue-date": "1946?"},
    "first-renewed-contribution-source": "1973-JulDec",
+   "renewed-issue-completeness": "active/1932",
+   "renewed-issues": [
+     {"issue-date": "1932-11", "volume": "58", "number": "11"},
+     {"issue-date": "1932-12", "volume": "58", "number": "12"},
+     {"issue-date": "1933-01", "volume": "59", "number": "1"},
+     {"issue-date": "1933-02", "volume": "59", "number": "2"},
+     {"issue-date": "1933-03", "volume": "59", "number": "3"},
+     {"issue-date": "1933-04", "volume": "59", "number": "4"},
+     {"issue-date": "1933-05", "volume": "59", "number": "5"},
+     {"issue-date": "1933-06", "volume": "59", "number": "6"},
+     {"issue-date": "1933-07", "volume": "59", "number": "7"},
+     {"issue-date": "1933-08", "volume": "59", "number": "8"},
+     {"issue-date": "1933-09", "volume": "59", "number": "9"},
+     {"issue-date": "1933-10", "volume": "59", "number": "10"}
+   ],
    "additional-note": "A 1973 renewal record for 'The Fleet Against Japan' by Fletcher Pratt mentions that portions of the book were previously published in this periodical, among other places, but the CCE entry does not give dates for those publications.  The renewal could conceivably renew copyrights for articles in this magazine in 1945 or 1946, but we have not verified whether it did.  Pratt appears not to have articles in 1945 issues, but does have some in 1946 issues.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-06-14"
+   "last-updated": "2024-11-12"
 }

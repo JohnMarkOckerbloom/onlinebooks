@@ -110,7 +110,7 @@
       {"issue-date": "1937-03", "volume": "38", "number": "6"},
       {"issue-date": "1937-04", "volume": "38", "number": "7"}
    ],
-   "renewed-contribution-completeness": "active/1929",
+   "renewed-contribution-completeness": "active/1930",
    "renewed-contributions": [
      {"issue": {"issue-date": "1929-02", "volume": "30", "number": "5"}, 
       "title": "The Little Lobster",
@@ -247,6 +247,13 @@
        }
      },
      {"issue": {"issue-date": "1930-02", "volume": "31", "number": "5"}, 
+        "title": "Ki",
+        "author": {
+         "authorized": "Steele, Wilbur Daniel, 1886-1970",
+         "lcna": "no98007702"
+        }
+     },
+     {"issue": {"issue-date": "1930-02", "volume": "31", "number": "5"}, 
       "title": "Rent a Husband",
       "author": {
        "authorized": "Banning, Margaret Culkin, 1891-1982",
@@ -288,6 +295,13 @@
          "lcna": "no96058051"
       }
      },
+     {"issue": {"issue-date": "1930-04", "volume": "31", "number": "7"}, 
+        "title": "Wife of a Viking",
+        "author": {
+         "authorized": "Steele, Wilbur Daniel, 1886-1970",
+         "lcna": "no98007702"
+        }
+     },
      {"issue": {"issue-date": "1930-05", "volume": "31", "number": "8"}, 
       "title": "The Dead Hand",
       "author": {
@@ -320,6 +334,14 @@
          "lcna": "no96058051"
       }
      },
+     {"issue": {"issue-date": "1930-08", "volume": "31", "number": "11"},
+        "title": "Can't Cross Jordan",
+        "note": "Title as given in CCE renewal record.  FictionMags gives title as 'Can't Cross Jordan by Myself'. We have not examined the issue in question.",
+        "author": {
+         "authorized": "Steele, Wilbur Daniel, 1886-1970",
+         "lcna": "no98007702"
+        }
+     },
      {"issue": {"issue-date": "1930-11", "volume": "32", "number": "2"}, 
         "title": "The Educated Pig",
         "author": {
@@ -341,6 +363,46 @@
        "lcna": "no93013886"
       }
      },
+     {"issue": {"issue-date": "1931-02", "volume": "32", "number": "5"},
+      "title": "Sweet Innocents",
+      "author": {
+       "name": "Doris Ann Peel"
+      }
+     },
+     {"issue": {"issue-date": "1931-03", "volume": "32", "number": "6"},
+      "title": "The World's Worst Sweetheart",
+      "author": {
+       "authorized": "Irwin, Wallace, 1876-1959",
+       "lcna": "n97112081"
+      }
+     },
+     {"issue": {"issue-date": "1931-04", "volume": "32", "number": "7"},
+      "title": "The Upkeep of Courtship",
+      "author": {
+         "authorized": "Hughes, Rupert, 1872-1956",
+         "lcna": "n86012047"
+       }
+     },
+     {"issue": {"issue-date": "1931-04", "volume": "32", "number": "7"},
+      "title": "Liza Turns the Tide",
+      "author": {
+         "name": "Demma Ray Oldham"
+       }
+     },
+     {"issue": {"issue-date": "1931-05", "volume": "32", "number": "8"},
+      "title": "Very Old People",
+      "author": {
+       "authorized": "Irwin, Wallace, 1876-1959",
+       "lcna": "n97112081"
+      }
+     },
+     {"issue": {"issue-date": "1931-07", "volume": "32", "number": "10"},
+      "title": "The Man Who Was Born Again",
+      "author": {
+         "authorized": "Connell, Richard Edward, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
      {"issue": {"issue-date": "1933-04", "volume": "34", "number": "7"},
         "title": "Silver Fox",
         "author": {
@@ -353,5 +415,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-01-03"
+   "last-updated": "2024-11-13"
 }

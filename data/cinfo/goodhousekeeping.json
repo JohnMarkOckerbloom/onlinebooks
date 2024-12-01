@@ -65,7 +65,7 @@
      {"issue-date": "1932-11", "volume": "95", "number": "5"},
      {"issue-date": "1932-12", "volume": "95", "number": "6"}
    ],
-   "renewed-contribution-completeness": "active/1929",
+   "renewed-contribution-completeness": "active/1930",
    "renewed-contributions": [
      {"issue": {"issue-date": "1929-02", "volume": "88", "number": "2"},
         "title": "The Valentine Box",
@@ -234,11 +234,33 @@
        "lcna": "n90622304"
       }
      },
+     {"issue": {"issue-date": "1930-06", "volume": "90", "number": "6"},
+      "title": "Mamma",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
      {"issue": {"issue-date": "1930-07", "volume": "91", "number": "1"},
       "title": "The Heart of the Quetzal",
       "author": {
        "authorized": "Squier, Emma-Lindsay, 1892-1941",
        "lcna": "no2007059420"
+      }
+     },
+     {"issue": {"issue-date": "1930-07", "volume": "91", "number": "1"},
+      "title": "Cabbages and Kings",
+      "author": {
+       "authorized": "Cobb, Irvin S. (Irvin Shrewsbury), 1876-1944",
+       "lcna": "n50032217"
+      }
+     },
+     {"issue": {"issue-date": "1930-07", "volume": "91", "number": "1"},
+      "title": "Lonesome River",
+      "title-note": "part 1 of 6",
+      "author": {
+       "authorized": "Marshall, Edison, 1894-1967",
+       "lcna": "nr95034360"
       }
      },
      {"issue": {"issue-date": "1930-08", "volume": "91", "number": "2"},
@@ -255,11 +277,57 @@
        "lcna": "n90622304"
       }
      },
+     {"issue": {"issue-date": "1930-08", "volume": "91", "number": "2"},
+      "title": "Words and Music",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1930-08", "volume": "91", "number": "2"},
+      "title": "Lonesome River",
+      "title-note": "part 2 of 6",
+      "author": {
+       "authorized": "Marshall, Edison, 1894-1967",
+       "lcna": "nr95034360"
+      }
+     },
      {"issue": {"issue-date": "1930-09", "volume": "91", "number": "3"},
       "title": "The Disinguished Visitor",
       "author": {
        "authorized": "Tarkington, Booth, 1869-1946",
        "lcna": "n79078124"
+      }
+     },
+    {"issue": {"issue-date": "1930-09", "volume": "91", "number": "3"},
+      "title": "Lonesome River",
+      "title-note": "part 3 of 6",
+      "author": {
+       "authorized": "Marshall, Edison, 1894-1967",
+       "lcna": "nr95034360"
+      }
+    },
+    {"issue": {"issue-date": "1930-10", "volume": "91", "number": "4"},
+      "title": "Lonesome River",
+      "title-note": "part 4 of 6",
+      "author": {
+       "authorized": "Marshall, Edison, 1894-1967",
+       "lcna": "nr95034360"
+      }
+    },
+    {"issue": {"issue-date": "1930-10", "volume": "91", "number": "4"},
+      "title": "The Pelican and the Porcupine",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
+    {"issue": {"issue-date": "1930-10", "volume": "91", "number": "4"},
+      "title": "My Story",
+      "title-note": "part 1 of 8",
+      "author": {
+       "authorized": "Rinehart, Mary Roberts, 1876-1958",
+       "lcna": "n78078535"
       }
      },
      {"issue": {"issue-date": "1930-11", "volume": "91", "number": "5"},
@@ -269,12 +337,222 @@
        "lcna": "no2007059420"
       }
     },
+    {"issue": {"issue-date": "1930-11", "volume": "91", "number": "5"},
+      "title": "Lonesome River",
+      "title-note": "part 5 of 6",
+      "author": {
+       "authorized": "Marshall, Edison, 1894-1967",
+       "lcna": "nr95034360"
+      }
+    },
     {"issue": {"issue-date": "1930-12", "volume": "91", "number": "6"},
      "title": "The Golden Prison",
      "author": {
       "authorized": "Squier, Emma-Lindsay, 1892-1941",
       "lcna": "no2007059420"
      }
+    },
+    {"issue": {"issue-date": "1930-12", "volume": "91", "number": "6"},
+      "title": "Lonesome River",
+      "title-note": "part 6 of 6",
+      "author": {
+       "authorized": "Marshall, Edison, 1894-1967",
+       "lcna": "nr95034360"
+      }
+    },
+    {"issue": {"issue-date": "1930-12", "volume": "91", "number": "6"},
+      "title": "Girl Alive",
+      "title-note": "part 1 of 6",
+      "author": {
+       "authorized": "Norris, Kathleen Thompson, 1880-1966",
+       "lcna": "n50006075"
+      }
+     },
+    {"issue": {"issue-date": "1930-12", "volume": "91", "number": "6"},
+     "title": "My Story",
+     "title-note": "part 3 of 8",
+     "author": {
+      "authorized": "Rinehart, Mary Roberts, 1876-1958",
+      "lcna": "n78078535"
+     }
+    },
+     {"issue": {"issue-date": "1931-01", "volume": "92", "number": "1"},
+      "title": "Girl Alive",
+      "title-note": "part 2 of 6",
+      "author": {
+       "authorized": "Norris, Kathleen Thompson, 1880-1966",
+       "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1931-01", "volume": "92", "number": "1"},
+      "title": "My Story",
+      "title-note": "part 4 of 8",
+      "author": {
+       "authorized": "Rinehart, Mary Roberts, 1876-1958",
+       "lcna": "n78078535"
+      }
+     },
+     {"issue": {"issue-date": "1931-01", "volume": "92", "number": "1"},
+        "title": "Hills of Heaven",
+        "author": {
+         "authorized": "Steele, Wilbur Daniel, 1886-1970",
+         "lcna": "no98007702"
+        }
+     },
+     {"issue": {"issue-date": "1931-02", "volume": "92", "number": "2"},
+      "title": "Girl Alive",
+      "title-note": "part 3 of 6",
+      "author": {
+       "authorized": "Norris, Kathleen Thompson, 1880-1966",
+       "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1931-02", "volume": "92", "number": "2"},
+      "title": "My Story",
+      "title-note": "part 5 of 8",
+      "author": {
+       "authorized": "Rinehart, Mary Roberts, 1876-1958",
+       "lcna": "n78078535"
+      }
+     },
+     {"issue": {"issue-date": "1931-03", "volume": "92", "number": "3"},
+      "title": "Girl Alive",
+      "title-note": "part 4 of 6",
+      "author": {
+       "authorized": "Norris, Kathleen Thompson, 1880-1966",
+       "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1931-03", "volume": "92", "number": "3"},
+      "title": "The Most Thrilling Night of My Life",
+      "author": {
+       "authorized": "Marshall, Edison, 1894-1967",
+       "lcna": "nr95034360"
+      }
+     },
+     {"issue": {"issue-date": "1931-03", "volume": "92", "number": "3"},
+      "title": "My Story",
+      "title-note": "part 6 of 8",
+      "author": {
+       "authorized": "Rinehart, Mary Roberts, 1876-1958",
+       "lcna": "n78078535"
+      }
+     },
+     {"issue": {"issue-date": "1931-04", "volume": "92", "number": "4"},
+      "title": "Girl Alive",
+      "title-note": "part 5 of 6",
+      "author": {
+       "authorized": "Norris, Kathleen Thompson, 1880-1966",
+       "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1931-04", "volume": "92", "number": "4"},
+      "title": "My Story",
+      "title-note": "part 7 of 8",
+      "author": {
+       "authorized": "Rinehart, Mary Roberts, 1876-1958",
+       "lcna": "n78078535"
+      }
+     },
+     {"issue": {"issue-date": "1931-04", "volume": "92", "number": "4"},
+      "title": "Going Down the Golden Trail",
+      "author": {
+       "authorized": "Squier, Emma-Lindsay, 1892-1941",
+       "lcna": "no2007059420"
+      }
+     },
+    {"issue": {"issue-date": "1931-05", "volume": "92", "number": "5"},
+      "title": "Girl Alive",
+      "title-note": "part 6 of 6",
+      "author": {
+       "authorized": "Norris, Kathleen Thompson, 1880-1966",
+       "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1931-05", "volume": "92", "number": "5"},
+      "title": "My Story",
+      "title-note": "part 8 of 8",
+      "author": {
+       "authorized": "Rinehart, Mary Roberts, 1876-1958",
+       "lcna": "n78078535"
+      }
+     },
+    {"issue": {"issue-date": "1931-06", "volume": "92", "number": "6"},
+      "title": "The Deputy at Snow Mountain",
+      "title-note": "part 1 of 6",
+      "author": {
+       "authorized": "Marshall, Edison, 1894-1967",
+       "lcna": "nr95034360"
+      }
+    },
+    {"issue": {"issue-date": "1931-07", "volume": "93", "number": "1"},
+      "title": "The Deputy at Snow Mountain",
+      "title-note": "part 2 of 6",
+      "author": {
+       "authorized": "Marshall, Edison, 1894-1967",
+       "lcna": "nr95034360"
+      }
+    },
+    {"issue": {"issue-date": "1931-08", "volume": "93", "number": "2"},
+      "title": "The Deputy at Snow Mountain",
+      "title-note": "part 3 of 6",
+      "author": {
+       "authorized": "Marshall, Edison, 1894-1967",
+       "lcna": "nr95034360"
+      }
+    },
+    {"issue": {"issue-date": "1931-08", "volume": "93", "number": "2"},
+      "title": "At the Rising of the Moon",
+      "author": {
+       "authorized": "Squier, Emma-Lindsay, 1892-1941",
+       "lcna": "no2007059420"
+      }
+     },
+    {"issue": {"issue-date": "1931-09", "volume": "93", "number": "3"},
+      "title": "The Deputy at Snow Mountain",
+      "title-note": "part 4 of 6",
+      "author": {
+       "authorized": "Marshall, Edison, 1894-1967",
+       "lcna": "nr95034360"
+      }
+    },
+    {"issue": {"issue-date": "1931-09", "volume": "93", "number": "3"},
+      "title": "Getting Along Together",
+      "author": {
+       "authorized": "Monroe, Anne Shannon, 1877-1942",
+       "lcna": "n90622304"
+      }
+     },
+    {"issue": {"issue-date": "1931-10", "volume": "93", "number": "4"},
+      "title": "The Deputy at Snow Mountain",
+      "title-note": "part 5 of 6",
+      "author": {
+       "authorized": "Marshall, Edison, 1894-1967",
+       "lcna": "nr95034360"
+      }
+    },
+    {"issue": {"issue-date": "1931-10", "volume": "93", "number": "4"},
+      "title": "Lead From Strength",
+      "note": "CCE record indicates that this ran in the September issue, but the registration number and the copyright date given in the record are instead consistent with the October issue.",
+      "author": {
+       "authorized": "Monroe, Anne Shannon, 1877-1942",
+       "lcna": "n90622304"
+      }
+     },
+     {"issue": {"issue-date": "1931-11", "volume": "93", "number": "5"},
+      "title": "Without Drama",
+      "author": {
+       "authorized": "Duganne, Phyllis, 1899-1976",
+       "lcna": "n90719514"
+      }
+     },
+     {"issue": {"issue-date": "1931-11", "volume": "93", "number": "5"},
+      "title": "The Deputy at Snow Mountain",
+      "title-note": "part 6 of 6",
+      "author": {
+       "authorized": "Marshall, Edison, 1894-1967",
+       "lcna": "nr95034360"
+      }
     }
    ],
    "responsibility": {
@@ -283,5 +561,5 @@
    },
    "acknowledgement": 
       "Thanks to Felice Gollotti for copyright research on this title.",
-   "last-updated": "2024-01-04"
+   "last-updated": "2024-11-10"
 }

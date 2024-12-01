@@ -14,7 +14,7 @@
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1929-01-19", "volume": "38", "number": "5"}},
    "first-renewed-contribution-source": "1956-JanJun",
-   "renewed-issue-completeness": "active/1931",
+   "renewed-issue-completeness": "active/1932",
    "renewed-issues": [
      {"issue-date": "1929-01-05", "volume": "38", "number": "3"},
      {"issue-date": "1929-01-12", "volume": "38", "number": "4"},
@@ -222,9 +222,61 @@
      {"issue-date": "1932-10-22", "volume": "71", "number": "3"},
      {"issue-date": "1932-10-29", "volume": "71", "number": "4"},
      {"issue-date": "1932-11-05", "volume": "71", "number": "5"},
-     {"issue-date": "1932-11-12", "volume": "71", "number": "6"}
+     {"issue-date": "1932-11-12", "volume": "71", "number": "6"},
+     {"issue-date": "1932-11-19", "volume": "72", "number": "1"},
+     {"issue-date": "1932-11-26", "volume": "72", "number": "2"},
+     {"issue-date": "1932-12-03", "volume": "72", "number": "3"},
+     {"issue-date": "1932-12-10", "volume": "72", "number": "4"},
+     {"issue-date": "1932-12-17", "volume": "72", "number": "5"},
+     {"issue-date": "1932-12-24", "volume": "72", "number": "6"},
+     {"issue-date": "1932-12-31", "volume": "73", "number": "1"},
+     {"issue-date": "1933-01-07", "volume": "73", "number": "2"},
+     {"issue-date": "1933-01-14", "volume": "73", "number": "3"},
+     {"issue-date": "1933-01-21", "volume": "73", "number": "4"},
+     {"issue-date": "1933-01-28", "volume": "73", "number": "5"},
+     {"issue-date": "1933-02-04", "volume": "73", "number": "6"},
+     {"issue-date": "1933-02-11", "volume": "74", "number": "1"},
+     {"issue-date": "1933-02-18", "volume": "74", "number": "2"},
+     {"issue-date": "1933-02-25", "volume": "74", "number": "3"},
+     {"issue-date": "1933-03-04", "volume": "74", "number": "4"},
+     {"issue-date": "1933-03-11", "volume": "74", "number": "5"},
+     {"issue-date": "1933-03-18", "volume": "74", "number": "6"},
+     {"issue-date": "1933-03-25", "volume": "75", "number": "1"},
+     {"issue-date": "1933-04-01", "volume": "75", "number": "2"},
+     {"issue-date": "1933-04-08", "volume": "75", "number": "3"},
+     {"issue-date": "1933-04-15", "volume": "75", "number": "4"},
+     {"issue-date": "1933-04-22", "volume": "75", "number": "5"},
+     {"issue-date": "1933-04-29", "volume": "75", "number": "6"},
+     {"issue-date": "1933-05-06", "volume": "76", "number": "1"},
+     {"issue-date": "1933-05-13", "volume": "76", "number": "2"},
+     {"issue-date": "1933-05-20", "volume": "76", "number": "3"},
+     {"issue-date": "1933-05-27", "volume": "76", "number": "4"},
+     {"issue-date": "1933-06-03", "volume": "76", "number": "5"},
+     {"issue-date": "1933-06-10", "volume": "76", "number": "6"},
+     {"issue-date": "1933-06-17", "volume": "77", "number": "1"},
+     {"issue-date": "1933-06-24", "volume": "77", "number": "2"},
+     {"issue-date": "1933-07-01", "volume": "77", "number": "3"},
+     {"issue-date": "1933-07-08", "volume": "77", "number": "4"},
+     {"issue-date": "1933-07-15", "volume": "77", "number": "5"},
+     {"issue-date": "1933-07-22", "volume": "77", "number": "6"},
+     {"issue-date": "1933-07-29", "volume": "78", "number": "1"},
+     {"issue-date": "1933-08-05", "volume": "78", "number": "2"},
+     {"issue-date": "1933-08-12", "volume": "78", "number": "3"},
+     {"issue-date": "1933-08-19", "volume": "78", "number": "4"},
+     {"issue-date": "1933-09-02", "volume": "78", "number": "5"},
+     {"issue-date": "1933-09-09", "volume": "78", "number": "6"},
+     {"issue-date": "1933-09-16", "volume": "79", "number": "1"},
+     {"issue-date": "1933-09-23", "volume": "79", "number": "2"},
+     {"issue-date": "1933-09-30", "volume": "79", "number": "3"},
+     {"issue-date": "1933-10-07", "volume": "79", "number": "4"},
+     {"issue-date": "1933-10-15", "volume": "79", "number": "5"},
+     {"issue-date": "1933-10-21", "volume": "79", "number": "6"},
+     {"issue-date": "1933-10-28", "volume": "80", "number": "1"},
+     {"issue-date": "1933-11-04", "volume": "80", "number": "2"},
+     {"issue-date": "1933-11-11", "volume": "80", "number": "3"},
+     {"issue-date": "1933-11-18", "volume": "80", "number": "4"}
    ],
-   "renewed-contribution-completeness": "active/1929",
+   "renewed-contribution-completeness": "active/1930",
    "renewed-contributions": [  
      {"issue": {"issue-date": "1929-01-19", "volume": "38", "number": "5"},
       "title": "An Artistic Job",
@@ -523,12 +575,214 @@
          "authorized": "Gardner, Erle Stanley, 1889-1970",
          "lcna": "n79071101"
        }
+     },
+     {"issue": {"issue-date": "1930-10-11", "volume": "53", "number": "5"},
+      "title": "The Voice of the Accuser",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1930-11-01", "volume": "54", "number": "2"},
+      "title": "Luck Charms",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1930-11-15", "volume": "54", "number": "4"},
+      "title": "Gangsters' Gold",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1930-12-06", "volume": "55", "number": "1"},
+      "title": "Red Hands",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1930-12-13", "volume": "55", "number": "2"},
+      "title": "Lester Frames a Fence",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1931-01-03", "volume": "55", "number": "5"},
+      "title": "Strangler's Silk",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1931-01-17", "volume": "56", "number": "1"},
+      "title": "The Death Penalty",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1931-01-24", "volume": "56", "number": "2"},
+      "title": "Cold Clews",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1931-02-07", "volume": "56", "number": "4"},
+      "title": "A Matter of Impulse",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1931-02-21", "volume": "56", "number": "6"},
+      "title": "The Island of No Return",
+      "title-note": "part 1 of 5",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     },
+     {"issue": {"issue-date": "1931-02-21", "volume": "56", "number": "6"},
+      "title": "Killed and Cured",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1931-02-28", "volume": "57", "number": "1"},
+      "title": "The Island of No Return",
+      "title-note": "part 2 of 5",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     },
+     {"issue": {"issue-date": "1931-03-07", "volume": "57", "number": "2"},
+      "title": "The Island of No Return",
+      "title-note": "part 3 of 5",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     },
+     {"issue": {"issue-date": "1931-03-14", "volume": "57", "number": "3"},
+      "title": "The Candy Kid",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1931-03-14", "volume": "57", "number": "3"},
+      "title": "The Island of No Return",
+      "title-note": "part 4 of 5",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     },
+     {"issue": {"issue-date": "1931-03-21", "volume": "57", "number": "4"},
+      "title": "Borrowed Bullets",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1931-03-21", "volume": "57", "number": "4"},
+      "title": "The Island of No Return",
+      "title-note": "part 5 of 5",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     },
+     {"issue": {"issue-date": "1931-04-18", "volume": "58", "number": "2"},
+      "title": "Big Money",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1931-05-09", "volume": "58", "number": "5"},
+      "title": "Carved in Jade",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1931-05-23", "volume": "59", "number": "1"},
+      "title": "Hot Cash",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1931-06-06", "volume": "59", "number": "3"},
+      "title": "A Chinaman's Chance",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1931-06-27", "volume": "59", "number": "6"},
+      "title": "Not So Dumb",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1931-07-11", "volume": "60", "number": "2"},
+      "title": "Girl With the Diamond Legs",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1931-07-25", "volume": "60", "number": "4"},
+      "title": "Coffins for Killers",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1931-08-01", "volume": "60", "number": "5"},
+      "title": "Ain't That Too Bad",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1931-08-15", "volume": "61", "number": "1"},
+      "title": "The Vanishing Corpse",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1931-09-19", "volume": "61", "number": "6"},
+      "title": "Higher Up",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1931-09-26", "volume": "62", "number": "1"},
+      "title": "The Gold Magnet",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
      }
    ],
+   "comment": "Continue w contribution renewals at Gardner in 1959 Jan-Jun",
    "additional-note": "Although this magazine went through numerous name changes, the word 'Flynn's' (as part of the title, or in the phrase 'Formerly Flynn's') appeared on the cover of nearly all issues. It does not necessarily appear in renewal records, but either 'Flynn's' or 'Detective' generally does.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-01-03"
+   "last-updated": "2024-11-10"
 }

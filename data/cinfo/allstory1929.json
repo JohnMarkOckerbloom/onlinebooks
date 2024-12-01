@@ -19,7 +19,7 @@
        "note": "All-Story (US fiction magazine, 1905-1920)"},
       {"id": "argosyus",
        "note": "Argosy All-Story Weekly (American fiction magazine)"}],
-   "renewed-issue-completeness": "active/1931",
+   "renewed-issue-completeness": "active/1932",
    "renewed-issues": [
      {"issue-date": "1929-10-05", "volume": "1", "number": "1"},
      {"issue-date": "1929-10-19", "volume": "1", "number": "2"},
@@ -101,11 +101,39 @@
      {"issue-date": "1932-09-15", "volume": "19", "number": "4"},
      {"issue-date": "1932-10-01", "volume": "20", "number": "1"},
      {"issue-date": "1932-10-15", "volume": "20", "number": "2"},
-     {"issue-date": "1932-11-01", "volume": "20", "number": "3"}
+     {"issue-date": "1932-11-01", "volume": "20", "number": "3"},
+     {"issue-date": "1932-11-15", "volume": "20", "number": "4"},
+     {"issue-date": "1932-12-01", "volume": "21", "number": "1"},
+     {"issue-date": "1932-12-15", "volume": "21", "number": "2"},
+     {"issue-date": "1933-01-01", "volume": "21", "number": "3",
+      "cdate": "1932-12-23"},
+     {"issue-date": "1933-01-15", "volume": "21", "number": "4",
+      "cdate": "1933-01-10"},
+     {"issue-date": "1933-02-01", "volume": "21", "number": "5",
+      "note": "Issue number as given in CCE renewal record.  The logical numbering would be volume 22, number 1.  FictionMags uses that numbering for the February 1 issue."},
+     {"issue-date": "1933-02-15", "volume": "22", "number": "2"},
+     {"issue-date": "1933-03-01", "volume": "22", "number": "3"},
+     {"issue-date": "1933-03-15", "volume": "22", "number": "4"},
+     {"issue-date": "1933-04-01", "volume": "23", "number": "1"},
+     {"issue-date": "1933-04-15", "volume": "23", "number": "2"},
+     {"issue-date": "1933-05-01", "volume": "23", "number": "3"},
+     {"issue-date": "1933-05-15", "volume": "23", "number": "4"},
+     {"issue-date": "1933-06-01", "volume": "24", "number": "1"},
+     {"issue-date": "1933-06-15", "volume": "24", "number": "2"},
+     {"issue-date": "1933-07-01", "volume": "24", "number": "3"},
+     {"issue-date": "1933-07-15", "volume": "24", "number": "4"},
+     {"issue-date": "1933-08-01", "volume": "25", "number": "1"},
+     {"issue-date": "1933-08-15", "volume": "25", "number": "2"},
+     {"issue-date": "1933-09-01", "volume": "25", "number": "3"},
+     {"issue-date": "1933-10-01", "volume": "25", "number": "4"},
+     {"issue-date": "1933-10-15", "volume": "26", "number": "1"},
+     {"issue-date": "1933-11-04", "volume": "26", "number": "2"},
+     {"issue-date": "1933-11-11", "volume": "26", "number": "3"},
+     {"issue-date": "1933-11-18", "volume": "26", "number": "4"}
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-08-24"
+   "last-updated": "2024-11-07"
 }

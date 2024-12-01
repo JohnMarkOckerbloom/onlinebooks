@@ -1,14 +1,28 @@
 {
    "title": "The Western Political Quarterly",
+   "online": "1",
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
-   "first-renewed-contribution": {"issue": {"issue-date": "1952-03"}},
+   "first-renewed-contribution":
+      {"issue": {"issue-date": "1952-03", "volume": "5", "number": "1"}},
    "first-renewed-contribution-source": "database",
+   "succeeded-by":
+      [{"id": "politreschqtly", "note": "Political Research Quarterly"}],
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1952-03", "volume": "5", "number": "1"},
+      "title": "The Reactionary Enlightenment: Southern Political Thought Before the Civil War",
+      "author": {
+        "authorized": "Hartz, Louis, 1919-1986",
+        "lcna": "n85381155"
+      }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
    "acknowledgement": 
       "Thanks to Eli Baum for copyright research on this title.",
-   "last-updated": "2023-03-02"
+   "last-updated": "2024-11-16"
 }

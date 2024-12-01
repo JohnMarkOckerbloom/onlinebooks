@@ -756,6 +756,7 @@ sub analyze_form {
   my $comments = $requestparam->{"comments"};
   my $control = $requestparam->{"control"};
   my $cinfo = $requestparam->{"cinfo"};
+  my $freestuff = $requestparam->{"freestuff"};
   if ($email) {
     $email =~ s/\s//g;
     my $public = ($reqok ? "Y" : "N");
@@ -806,6 +807,8 @@ sub analyze_form {
       || $email =~ /seoxplorer/
       || $email =~ /arachni\@email/
       || $email =~ /egoriu8hs\@mail/
+      || $email =~ /sleep\(/i
+      || $freestuff =~ /^555/
       || $title =~ /^About[a-z][a-z][a-z][a-z][a-z]/
       || $title =~ /^cheap /
       || $title =~ / sunglasses /

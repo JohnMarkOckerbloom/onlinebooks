@@ -1,5 +1,6 @@
 {
    "title": "The New England Quarterly",
+   "online": "1",
    "contents": [
       {"url": "https://www.jstor.org/journal/newenglquar",
       "note": "JSTOR (full text also available for subscription or payment)"}
@@ -11,9 +12,59 @@
    "first-renewed-contribution": 
       {"issue": {"issue-date": "1946-09", "volume": "19", "number": "3"}},
    "first-renewed-contribution-source": "1974-JulDec",
+   "renewed-issue-completeness": "active/autorenewals",
+   "renewed-issues": [
+     {"issue-date": "1954-03", "volume": "27", "number": "1"},
+     {"issue-date": "1954-06", "volume": "27", "number": "2"},
+     {"issue-date": "1954-09", "volume": "27", "number": "3"},
+     {"issue-date": "1954-12", "volume": "27", "number": "4"},
+     {"issue-date": "1956-03", "volume": "29", "number": "1"},
+     {"issue-date": "1956-06", "volume": "29", "number": "2"},
+     {"issue-date": "1956-09", "volume": "29", "number": "3"},
+     {"issue-date": "1956-12", "volume": "29", "number": "4"},
+     {"issue-date": "1957-03", "volume": "30", "number": "1"},
+     {"issue-date": "1957-06", "volume": "30", "number": "2"},
+     {"issue-date": "1957-09", "volume": "30", "number": "3"},
+     {"issue-date": "1957-12", "volume": "30", "number": "4"},
+     {"issue-date": "1958-03", "volume": "31", "number": "1"},
+     {"issue-date": "1958-06", "volume": "31", "number": "2"},
+     {"issue-date": "1958-09", "volume": "31", "number": "3"},
+     {"issue-date": "1958-12", "volume": "31", "number": "4"},
+     {"issue-date": "1959-03", "volume": "32", "number": "1"},
+     {"issue-date": "1959-06", "volume": "32", "number": "2"},
+     {"issue-date": "1959-09", "volume": "32", "number": "3"},
+     {"issue-date": "1959-12", "volume": "32", "number": "4"},
+     {"issue-date": "1960-03", "volume": "33", "number": "1"},
+     {"issue-date": "1960-06", "volume": "33", "number": "2"},
+     {"issue-date": "1960-09", "volume": "33", "number": "3"},
+     {"issue-date": "1960-12", "volume": "33", "number": "4"},
+     {"issue-date": "1961-03", "volume": "34", "number": "1"},
+     {"issue-date": "1961-06", "volume": "34", "number": "2"},
+     {"issue-date": "1961-09", "volume": "34", "number": "3"},
+     {"issue-date": "1961-12", "volume": "34", "number": "4"},
+     {"issue-date": "1962-03", "volume": "35", "number": "1"},
+     {"issue-date": "1962-06", "volume": "35", "number": "2"},
+     {"issue-date": "1962-09", "volume": "35", "number": "3"},
+     {"issue-date": "1962-12", "volume": "35", "number": "4"},
+     {"issue-date": "1963-03", "volume": "36", "number": "1"},
+     {"issue-date": "1963-06", "volume": "36", "number": "2"},
+     {"issue-date": "1963-09", "volume": "36", "number": "3"},
+     {"issue-date": "1963-12", "volume": "36", "number": "4"}
+   ],
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1946-09", "volume": "19", "number": "3"},
+        "title": "Fenimore Cooper's Further Literary Offenses",
+        "author": {
+         "authorized": "Twain, Mark, 1835-1910",
+         "lcna": "n79021164"
+        }
+     }
+   ],
+   "additional-note": "A 1987 renewal record for Richard Birdsall's 1959 book 'Berkshire County, a Cultural History' notes that portions were previously published in the New England Quarterly.  We do not see any articles by Birdsall in 1959 issues, however, and earlier articles by Birdsall would not be covered by this renewal.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-04-09"
+   "last-updated": "2024-11-06"
 }

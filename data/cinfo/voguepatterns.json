@@ -23,9 +23,9 @@
     {"issue-date": "1929-April-May", "cdate": "1929-02-21",
      "volume": "4", "number": "4"},
    "first-renewed-issue-source": "1956-JulDec",
-   "renewed-issue-completeness": "active/1931",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
+   "renewed-issue-completeness": "active/1932",
    "renewed-issues": [
     {"issue-date": "1929-April-May", "cdate": "1929-02-21",
      "volume": "4", "number": "4"},
@@ -56,12 +56,21 @@
     {"issue-date": "1932-August-September", "volume": "7", "number": "6"},
     {"issue-date": "1932-October-November", "volume": "8", "number": "1"},
     {"issue-date": "December 1932 - January 1933", "cdate": "1932-10-25",
-     "volume": "8", "number": "2"}
+     "volume": "8", "number": "2"},
+    {"issue-date": "1933-February-March", "cdate": "1932-12-23",
+     "volume": "8", "number": "3"},
+    {"issue-date": "1933-April-May", "cdate": "1933-02-25",
+     "volume": "8", "number": "4"},
+    {"issue-date": "1933-June-July", "volume": "8", "number": "5"},
+    {"issue-date": "1933-August-September", "volume": "8", "number": "6"},
+    {"issue-date": "1933-October-November", "volume": "9", "number": "1"},
+    {"issue-date": "December 1933 - January 1934", "cdate": "1933-10-25",
+     "volume": "9", "number": "2"}
    ],
    "additional-note": "Some issue renewals were filed under Periodicals, and others under Books.  Library coverage of this serial is spotty, but issue dates in the renewal records suggest that Vogue Patterns and Vogue Patterns Catalog[ue] are the same monthly publication, distinct from Vogue Mid-Month Collection, Vogue Patterns of the Month, and Children's Vogue Patterns. We are not sure if Vogue Pattern Book started out distinct from this publication or as a separate publication, but the earliest active renewal in this set is for Vogue Pattern Book.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-01-03"
+   "last-updated": "2024-11-01"
 }

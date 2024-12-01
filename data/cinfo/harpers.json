@@ -15,7 +15,7 @@
    "first-renewed-contribution":
      {"issue": {"issue-date": "1929-02", "volume": "158", "number": "945"}},
    "first-renewed-contribution-source": "1956-JanJun",
-   "renewed-issue-completeness": "active/1931",
+   "renewed-issue-completeness": "active/1932",
    "renewed-issues": [
      {"issue-date": "1929-02", "volume": "158", "number": "945",
       "cdate": "1929-01-18"},
@@ -68,9 +68,23 @@
      {"issue-date": "1932-07", "volume": "165", "number": "986"},
      {"issue-date": "1932-08", "volume": "165", "number": "987"},
      {"issue-date": "1932-09", "volume": "165", "number": "988"},
-     {"issue-date": "1932-10", "volume": "165", "number": "989"}
+     {"issue-date": "1932-10", "volume": "165", "number": "989"},
+     {"issue-date": "1932-11", "volume": "165", "number": "990"},
+     {"issue-date": "1932-12", "volume": "166", "number": "991"},
+     {"issue-date": "1933-01", "volume": "166", "number": "992",
+      "cdate": "1932-12-20"},
+     {"issue-date": "1933-02", "volume": "166", "number": "993",
+      "cdate": "1933-01-23"},
+     {"issue-date": "1933-03", "volume": "166", "number": "994"},
+     {"issue-date": "1933-04", "volume": "166", "number": "995"},
+     {"issue-date": "1933-05", "volume": "166", "number": "996"},
+     {"issue-date": "1933-06", "volume": "167", "number": "997"},
+     {"issue-date": "1933-07", "volume": "167", "number": "998"},
+     {"issue-date": "1933-08", "volume": "167", "number": "999"},
+     {"issue-date": "1933-09", "volume": "167", "number": "1000"},
+     {"issue-date": "1933-10", "volume": "167", "number": "1001"}
    ],
-   "renewed-contribution-completeness": "active/1929",
+   "renewed-contribution-completeness": "active/1930",
    "renewed-contributions": [
      {"issue": {"issue-date": "1929-02", "volume": "158", "number": "945"}, 
         "title": "Florentine Diana",
@@ -226,6 +240,13 @@
        "lcna": "n79062746"
       }
      },
+     {"issue": {"issue-date": "1931-05", "volume": "162", "number": "972"},
+      "title": "Tragic Towns of New England",
+      "author": {
+       "authorized": "Adamic, Louis, 1899-1951",
+       "lcna": "n50036829"
+      }
+     },
      {"issue": {"issue-date": "1931-06", "volume": "163", "number": "973"}, 
       "title": "On the Wagon",
       "author": {
@@ -247,6 +268,34 @@
        "lcna": "no92032719"
       }
      },
+     {"issue": {"issue-date": "1931-08", "volume": "163", "number": "975"}, 
+      "title": "The Hound",
+      "author": {
+         "authorized": "Faulkner, William, 1897-1962",
+         "lcna": "n79003304"
+      }
+     },
+     {"issue": {"issue-date": "1931-08", "volume": "163", "number": "975"}, 
+        "title": "In a Winter Dusk",
+        "author": {
+         "authorized": "Horgan, Paul, 1903-1995",
+         "lcna": "n79060797"
+        }
+     },
+     {"issue": {"issue-date": "1931-09", "volume": "163", "number": "976"}, 
+      "title": "Week-End",
+      "author": {
+       "authorized": "Breuer, Bessie, 1893-1975",
+       "lcna": "no92032719"
+      }
+     },
+     {"issue": {"issue-date": "1932-01", "volume": "164", "number": "980"}, 
+      "title": "Oil, and the Hairy Ape",
+      "author": {
+         "authorized": "McFee, William, 1881-1966",
+         "lcna": "n82053296"
+      }
+     },
      {"issue": {"issue-date": "1949-01", "volume": "198", "number": "1184"},
       "title": "When Conan Doyle Was Sherlock Holmes",
       "note": "This is misfiled in the 1976 July-December CCE in Periodicals, listed as a renewal for a periodical titled 'When Conan Doyle Was Sherlock Holmes', instead of as a renewal for an article by that name that appeared in the Harper's issue with the indicated issue date and number.",
@@ -261,5 +310,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-01-03"
+   "last-updated": "2024-11-10"
 }

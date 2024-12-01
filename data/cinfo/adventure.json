@@ -12,7 +12,7 @@
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1929-02-15", "volume": "69", "number": "5"}},
    "first-renewed-contribution-source": "1956-JanJun",
-   "renewed-issue-completeness": "active/1931",
+   "renewed-issue-completeness": "active/1932",
    "renewed-issues": [
        {"issue-date": "1929-01-15", "volume": "69", "number": "3",
         "cdate": "1929-01-08"},
@@ -107,9 +107,29 @@
        {"issue-date": "1932-10-01", "volume": "84", "number": "2"},
        {"issue-date": "1932-10-15", "volume": "84", "number": "3"},
        {"issue-date": "1932-11-01", "volume": "84", "number": "4"},
-       {"issue-date": "1932-11-15", "volume": "84", "number": "5"}
+       {"issue-date": "1932-11-15", "volume": "84", "number": "5"},
+       {"issue-date": "1932-12-01", "volume": "84", "number": "6"},
+       {"issue-date": "1932-12-15", "volume": "85", "number": "1"},
+       {"issue-date": "1933-01-01", "volume": "85", "number": "2",
+        "cdate": "1932-12-20"},
+       {"issue-date": "1933-01-15", "volume": "85", "number": "3",
+        "cdate": "1933-01-03"},
+       {"issue-date": "1933-02-01", "volume": "85", "number": "4"},
+       {"issue-date": "1933-02-15", "volume": "85", "number": "5"},
+       {"issue-date": "1933-03-01", "volume": "85", "number": "6"},
+       {"issue-date": "1933-03-15", "volume": "86", "number": "1"},
+       {"issue-date": "1933-04-01", "volume": "86", "number": "2"},
+       {"issue-date": "1933-04-15", "volume": "86", "number": "3"},
+       {"issue-date": "1933-05-01", "volume": "86", "number": "4"},
+       {"issue-date": "1933-05-15", "volume": "86", "number": "5"},
+       {"issue-date": "1933-06", "volume": "86", "number": "6"},
+       {"issue-date": "1933-07", "volume": "87", "number": "1"},
+       {"issue-date": "1933-08", "volume": "87", "number": "2"},
+       {"issue-date": "1933-09", "volume": "87", "number": "3"},
+       {"issue-date": "1933-10", "volume": "87", "number": "4"},
+       {"issue-date": "1933-11", "volume": "87", "number": "5"}
    ],
-   "comment": "Pick up issue renewals with 1960,",
+   "comment": "Pick up issue renewals with 1961",
    "renewed-contribution-completeness": "active/1930",
    "renewed-contributions": [
      {"issue": {"issue-date": "1929-02-15", "volume": "69", "number": "5"},
@@ -636,5 +656,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-09-01"
+   "last-updated": "2024-11-07"
 }

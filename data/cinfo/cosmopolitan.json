@@ -99,7 +99,7 @@
       {"issue-date": "1935-05", "volume": "98", "number": "5"},
       {"issue-date": "1935-06", "volume": "98", "number": "6"}
    ],
-   "renewed-contribution-completeness": "active/1929",
+   "renewed-contribution-completeness": "active/1930",
    "renewed-contributions": [
      {"issue": {"issue-date": "1929-02", "volume": "86", "number": "2"},
       "title": "The Man Who Would Wreck the World",
@@ -841,6 +841,13 @@
       }
      },
      {"issue": {"issue-date": "1930-05", "volume": "88", "number": "5"},
+      "title": "Lovely Liar",
+      "author": {
+         "authorized": "Hughes, Rupert, 1872-1956",
+         "lcna": "n86012047"
+       }
+     },
+     {"issue": {"issue-date": "1930-05", "volume": "88", "number": "5"},
       "title": "Gala Night",
       "note": "Title as given in issue.  CCE renewal record gives title as 'Gala Nights'.",
       "author": {
@@ -867,6 +874,14 @@
       "author": {
         "authorized": "West, Rebecca, 1892-1983",
         "lcna": "n79100227"
+      }
+     },
+     {"issue": {"issue-date": "1930-06", "volume": "88", "number": "6"},
+      "title": "The Beauty Mask Murder",
+      "title-note": "part 1 of 6?",
+      "author": {
+       "authorized": "Shore, Viola Brothers",
+       "lcna": "n87847794"
       }
      },
      {"issue": {"issue-date": "1930-06", "volume": "88", "number": "6"},
@@ -912,6 +927,14 @@
       }
      },
      {"issue": {"issue-date": "1930-07", "volume": "89", "number": "1"},
+      "title": "The Beauty Mask Murder",
+      "title-note": "part 2 of 6?",
+      "author": {
+       "authorized": "Shore, Viola Brothers",
+       "lcna": "n87847794"
+      }
+     },
+     {"issue": {"issue-date": "1930-07", "volume": "89", "number": "1"},
       "title": "The War Indemnity",
       "note": "Title as given in CCE renewal record. The Sabatini story that appears in this issue is titled 'Ransom' there.",
       "author": {
@@ -938,6 +961,15 @@
       "author": {
        "authorized": "Tarkington, Booth, 1869-1946",
        "lcna": "n79078124"
+      }
+     },
+     {"issue": {"issue-date": "1930-08", "volume": "89", "number": "2"},
+      "title": "The Beauty Mask Murder",
+      "title-note": "part 3 of 6?",
+      "note": "This is the last serial installment with a CCE renewal record, but FictionMags reports additional parts in the next 3 issues.",
+      "author": {
+       "authorized": "Shore, Viola Brothers",
+       "lcna": "n87847794"
       }
      },
      {"issue": {"issue-date": "1930-08", "volume": "89", "number": "2"},
@@ -1006,6 +1038,14 @@
       }
      },
      {"issue": {"issue-date": "1930-11", "volume": "89", "number": "5"},
+      "title": "No One Man",
+      "title-note": "part 1 of 7",
+      "author": {
+         "authorized": "Hughes, Rupert, 1872-1956",
+         "lcna": "n86012047"
+       }
+     },
+     {"issue": {"issue-date": "1930-11", "volume": "89", "number": "5"},
       "title": "Cider of Normandy",
       "author": {
        "authorized": "Tarkington, Booth, 1869-1946",
@@ -1029,8 +1069,16 @@
         "lcna": "n80034938"
       }
      },
+     {"issue": {"issue-date": "1930-11", "volume": "89", "number": "5"},
+       "title": "Woman's Reason",
+       "author": {
+         "authorized": "Thomason, John W., Jr. (John William), 1893-1944",
+         "lcna": "n83130300"
+       }
+     },
      {"issue": {"issue-date": "1930-12", "volume": "89", "number": "6"},
       "title": "The Gay Bandit of the Border",
+      "title-note": "part 1 of 6",
       "author": {
        "authorized": "Gill, Tom, 1891-1972",
        "lcna": "no90026181"
@@ -1042,6 +1090,14 @@
        "authorized": "Maugham, W. Somerset (William Somerset), 1874-1965",
        "lcna": "n79036830"
       }
+     },
+     {"issue": {"issue-date": "1930-12", "volume": "89", "number": "6"},
+      "title": "No One Man",
+      "title-note": "part 2 of 7",
+      "author": {
+         "authorized": "Hughes, Rupert, 1872-1956",
+         "lcna": "n86012047"
+       }
      },
      {"issue": {"issue-date": "1930-12", "volume": "89", "number": "6"},
       "title": "Go East, Young Man",
@@ -1067,6 +1123,13 @@
        }
      },
      {"issue": {"issue-date": "1930-12", "volume": "89", "number": "6"},
+      "title": "The Private Life of Pocahontas",
+       "author": {
+         "authorized": "Erskine, John, 1879-1951",
+         "lcna": "n50012296"
+       }
+     },
+     {"issue": {"issue-date": "1930-12", "volume": "89", "number": "6"},
       "title": "White Face",
       "title-note": "part 3 of 5",
       "author": {
@@ -1076,6 +1139,7 @@
      },
      {"issue": {"issue-date": "1931-01", "volume": "90", "number": "1"},
       "title": "Let's Play King",
+      "title-note": "part 1 of 3",
       "author": {
          "authorized": "Lewis, Sinclair, 1885-1951",
          "lcna": "n79023149"
@@ -1087,6 +1151,22 @@
        "authorized": "Tarkington, Booth, 1869-1946",
        "lcna": "n79078124"
       }
+     },
+     {"issue": {"issue-date": "1931-01", "volume": "90", "number": "1"},
+      "title": "The Gay Bandit of the Border",
+      "title-note": "part 2 of 6",
+      "author": {
+       "authorized": "Gill, Tom, 1891-1972",
+       "lcna": "no90026181"
+      }
+     },
+     {"issue": {"issue-date": "1931-01", "volume": "90", "number": "1"},
+      "title": "No One Man",
+      "title-note": "part 3 of 7",
+      "author": {
+         "authorized": "Hughes, Rupert, 1872-1956",
+         "lcna": "n86012047"
+       }
      },
      {"issue": {"issue-date": "1931-01", "volume": "90", "number": "1"},
       "title": "Back Streets",
@@ -1104,13 +1184,480 @@
         "authorized": "Wallace, Edgar, 1875-1932",
         "lcna": "n80034938"
       }
+     },
+     {"issue": {"issue-date": "1931-02", "volume": "90", "number": "2"},
+      "title": "Ukridge and the Home From Home",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1931-02", "volume": "90", "number": "2"},
+      "title": "Virtue",
+      "author": {
+       "authorized": "Maugham, W. Somerset (William Somerset), 1874-1965",
+       "lcna": "n79036830"
+      }
+     },
+     {"issue": {"issue-date": "1931-02", "volume": "90", "number": "2"},
+      "title": "The Gay Bandit of the Border",
+      "title-note": "part 3 of 6",
+      "author": {
+       "authorized": "Gill, Tom, 1891-1972",
+       "lcna": "no90026181"
+      }
+     },
+     {"issue": {"issue-date": "1931-02", "volume": "90", "number": "2"},
+      "title": "Let's Play King",
+      "title-note": "part 2 of 3",
+      "author": {
+         "authorized": "Lewis, Sinclair, 1885-1951",
+         "lcna": "n79023149"
+       }
+     },
+     {"issue": {"issue-date": "1931-02", "volume": "90", "number": "2"},
+      "title": "No One Man",
+      "title-note": "part 4 of 7",
+      "author": {
+         "authorized": "Hughes, Rupert, 1872-1956",
+         "lcna": "n86012047"
+       }
+     },
+     {"issue": {"issue-date": "1931-02", "volume": "90", "number": "2"},
+      "title": "Back Streets",
+      "title-note": "part 6 of 7",
+      "note": "Title as given in issue.  CCE renewal record gives title as 'Back Street'.",
+       "author": {
+         "authorized": "Hurst, Fannie, 1889-1968",
+         "lcna": "n80010314"
+       }
+     },
+     {"issue": {"issue-date": "1931-02", "volume": "90", "number": "2"},
+      "title": "White Face",
+      "title-note": "part 5 of 5",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1931-03", "volume": "90", "number": "3"},
+      "title": "Men Dislike Women",
+      "title-note": "part 1 of 3?",
+      "author": {
+         "authorized": "Arlen, Michael, 1895-1956",
+         "lcna": "n50001591"
+       }
+     },
+     {"issue": {"issue-date": "1931-03", "volume": "90", "number": "3"},
+      "title": "Here We Are",
+      "author": {
+       "authorized": "Parker, Dorothy, 1893-1967",
+       "lcna": "n50050331"
+      }
+     },
+     {"issue": {"issue-date": "1931-03", "volume": "90", "number": "3"},
+      "title": "Black Pearls",
+      "author": {
+        "authorized": "Beach, Rex, 1877-1949",
+        "lcna": "n84804866"
+      }
+     },
+     {"issue": {"issue-date": "1931-03", "volume": "90", "number": "3"},
+      "title": "Sales Resistance",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1931-03", "volume": "90", "number": "3"},
+      "title": "The Gay Bandit of the Border",
+      "title-note": "part 4 of 6",
+      "author": {
+       "authorized": "Gill, Tom, 1891-1972",
+       "lcna": "no90026181"
+      }
+     },
+     {"issue": {"issue-date": "1931-03", "volume": "90", "number": "3"},
+      "title": "No One Man",
+      "title-note": "part 5 of 7",
+      "author": {
+         "authorized": "Hughes, Rupert, 1872-1956",
+         "lcna": "n86012047"
+       }
+     },
+     {"issue": {"issue-date": "1931-03", "volume": "90", "number": "3"},
+      "title": "Back Streets",
+      "title-note": "part 7 of 7",
+      "note": "Title as given in issue.  CCE renewal record gives title as 'Back Street'.",
+       "author": {
+         "authorized": "Hurst, Fannie, 1889-1968",
+         "lcna": "n80010314"
+       }
+     },
+     {"issue": {"issue-date": "1931-03", "volume": "90", "number": "3"},
+      "title": "Let's Play King",
+      "title-note": "part 3 of 3",
+      "author": {
+         "authorized": "Lewis, Sinclair, 1885-1951",
+         "lcna": "n79023149"
+       }
+     },
+     {"issue": {"issue-date": "1931-04", "volume": "90", "number": "4"},
+      "title": "Scaramouch, the Kingmaker",
+      "title-note": "part 1 of 7",
+      "author": {
+       "authorized": "Sabatini, Rafael, 1875-1950",
+       "lcna": "n50016255"
+      }
+     },
+     {"issue": {"issue-date": "1931-04", "volume": "90", "number": "4"},
+      "title": "But What About Mrs. Paul Revere?",
+       "author": {
+         "authorized": "Erskine, John, 1879-1951",
+         "lcna": "n50012296"
+       }
+     },
+     {"issue": {"issue-date": "1931-04", "volume": "90", "number": "4"},
+      "title": "Men Dislike Women",
+      "title-note": "part 2 of 3?",
+      "note": "This is the last CCE renewal record we found for this serialization, though FictionMags says an additional part was published in the May issue. The CCE also has a renewal for a book with the same title and author.",
+      "author": {
+         "authorized": "Arlen, Michael, 1895-1956",
+         "lcna": "n50001591"
+       }
+     },
+     {"issue": {"issue-date": "1931-04", "volume": "90", "number": "4"},
+      "title": "Quest",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1931-04", "volume": "90", "number": "4"},
+      "title": "The Vessel of Wrath",
+      "author": {
+       "authorized": "Maugham, W. Somerset (William Somerset), 1874-1965",
+       "lcna": "n79036830"
+      }
+     },
+     {"issue": {"issue-date": "1931-04", "volume": "90", "number": "4"},
+      "title": "No One Man",
+      "title-note": "part 6 of 7",
+      "author": {
+         "authorized": "Hughes, Rupert, 1872-1956",
+         "lcna": "n86012047"
+       }
+     },
+     {"issue": {"issue-date": "1931-04", "volume": "90", "number": "4"},
+      "title": "The Sun Shines Bright",
+      "author": {
+       "authorized": "Cobb, Irvin S. (Irvin Shrewsbury), 1876-1944",
+       "lcna": "n50032217"
+      }
+     },
+     {"issue": {"issue-date": "1931-04", "volume": "90", "number": "4"},
+      "title": "The Gay Bandit of the Border",
+      "title-note": "part 5 of 6",
+      "author": {
+       "authorized": "Gill, Tom, 1891-1972",
+       "lcna": "no90026181"
+      }
+     },
+     {"issue": {"issue-date": "1931-05", "volume": "90", "number": "5"},
+      "title": "Scaramouch, the Kingmaker",
+      "title-note": "part 2 of 7",
+      "author": {
+       "authorized": "Sabatini, Rafael, 1875-1950",
+       "lcna": "n50016255"
+      }
+     },
+     {"issue": {"issue-date": "1931-05", "volume": "90", "number": "5"},
+       "title": "The Brain Goes Home",
+       "author": {
+         "authorized": "Runyon, Damon, 1880-1946",
+         "lcna": "n80049533"
+       }
+     },
+     {"issue": {"issue-date": "1931-05", "volume": "90", "number": "5"},
+      "title": "No One Man",
+      "title-note": "part 7 of 7",
+      "author": {
+         "authorized": "Hughes, Rupert, 1872-1956",
+         "lcna": "n86012047"
+       }
+     },
+     {"issue": {"issue-date": "1931-05", "volume": "90", "number": "5"},
+      "title": "Compromised",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1931-05", "volume": "90", "number": "5"},
+      "title": "The Gay Bandit of the Border",
+      "title-note": "part 6 of 6",
+      "author": {
+       "authorized": "Gill, Tom, 1891-1972",
+       "lcna": "no90026181"
+      }
+     },
+     {"issue": {"issue-date": "1931-06", "volume": "90", "number": "6"},
+      "title": "Skyscraper",
+      "title-note": "part 1 of 6",
+      "author": {
+       "authorized": "Baldwin, Faith, 1893-1978",
+       "lcna": "n80051885"
+      }
+     },
+     {"issue": {"issue-date": "1931-06", "volume": "90", "number": "6"},
+      "title": "Fifteen",
+      "author": {
+       "authorized": "Tarkington, Booth, 1869-1946",
+       "lcna": "n79078124"
+      }
+     },
+     {"issue": {"issue-date": "1931-06", "volume": "90", "number": "6"},
+      "title": "Scaramouch, the Kingmaker",
+      "title-note": "part 3 of 7",
+      "author": {
+       "authorized": "Sabatini, Rafael, 1875-1950",
+       "lcna": "n50016255"
+      }
+     },
+     {"issue": {"issue-date": "1931-07", "volume": "91", "number": "1"},
+      "title": "Funny Face",
+       "author": {
+         "authorized": "Hurst, Fannie, 1889-1968",
+         "lcna": "n80010314"
+       }
+     },
+     {"issue": {"issue-date": "1931-07", "volume": "91", "number": "1"},
+      "title": "Lady-Killer",
+      "author": {
+         "authorized": "Hughes, Rupert, 1872-1956",
+         "lcna": "n86012047"
+       }
+     },
+     {"issue": {"issue-date": "1931-07", "volume": "91", "number": "1"},
+      "title": "Skyscraper",
+      "title-note": "part 2 of 6",
+      "author": {
+       "authorized": "Baldwin, Faith, 1893-1978",
+       "lcna": "n80051885"
+      }
+     },
+     {"issue": {"issue-date": "1931-07", "volume": "91", "number": "1"},
+      "title": "The Right Thing is the Kind Thing",
+      "author": {
+       "authorized": "Maugham, W. Somerset (William Somerset), 1874-1965",
+       "lcna": "n79036830"
+      }
+     },
+     {"issue": {"issue-date": "1931-07", "volume": "91", "number": "1"},
+      "title": "Scaramouch, the Kingmaker",
+      "title-note": "part 4 of 7",
+      "author": {
+       "authorized": "Sabatini, Rafael, 1875-1950",
+       "lcna": "n50016255"
+      }
+     },
+     {"issue": {"issue-date": "1931-07", "volume": "91", "number": "1"},
+      "title": "City of Mercy",
+      "author": {
+         "authorized": "Lewis, Sinclair, 1885-1951",
+         "lcna": "n79023149"
+       }
+     },
+     {"issue": {"issue-date": "1931-07", "volume": "91", "number": "1"},
+      "title": "Business Man",
+      "note": "Title as given in CCE renewal record. FictionMags gives title as 'A Business Man in Love'. We have not examined the issue in question.",
+      "author": {
+       "authorized": "Duganne, Phyllis, 1899-1976",
+       "lcna": "n90719514"
+      }
+     },
+     {"issue": {"issue-date": "1931-08", "volume": "91", "number": "2"},
+      "title": "The Alien Corn",
+      "author": {
+       "authorized": "Maugham, W. Somerset (William Somerset), 1874-1965",
+       "lcna": "n79036830"
+      }
+     },
+     {"issue": {"issue-date": "1931-08", "volume": "91", "number": "2"},
+      "title": "Scaramouch, the Kingmaker",
+      "title-note": "part 5 of 7",
+      "author": {
+       "authorized": "Sabatini, Rafael, 1875-1950",
+       "lcna": "n50016255"
+      }
+     },
+     {"issue": {"issue-date": "1931-08", "volume": "91", "number": "2"},
+      "title": "Skyscraper",
+      "title-note": "part 3 of 6",
+      "author": {
+       "authorized": "Baldwin, Faith, 1893-1978",
+       "lcna": "n80051885"
+      }
+     },
+     {"issue": {"issue-date": "1931-09", "volume": "91", "number": "3"},
+      "title": "The Arranways Mystery",
+      "title-note": "part 1 of 5",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1931-09", "volume": "91", "number": "3"},
+       "title": "That Which Never Returns",
+       "author": {
+         "authorized": "Bromfield, Louis, 1896-1956",
+         "lcna": "n80040365"
+       }
+     },
+     {"issue": {"issue-date": "1931-09", "volume": "91", "number": "3"},
+      "title": "Skyscraper",
+      "title-note": "part 4 of 6",
+      "author": {
+       "authorized": "Baldwin, Faith, 1893-1978",
+       "lcna": "n80051885"
+      }
+     },
+     {"issue": {"issue-date": "1931-09", "volume": "91", "number": "3"},
+       "title": "That Ever-Loving Wife",
+      "note": "Title as given in CCE renewal record. FictionMags gives title as 'That Ever-Loving Wife of Hymie's'.  We have not examined the issue in question.",
+       "author": {
+         "authorized": "Runyon, Damon, 1880-1946",
+         "lcna": "n80049533"
+       }
+     },
+     {"issue": {"issue-date": "1931-09", "volume": "91", "number": "3"},
+      "title": "Scaramouch, the Kingmaker",
+      "title-note": "part 6 of 7",
+      "author": {
+       "authorized": "Sabatini, Rafael, 1875-1950",
+       "lcna": "n50016255"
+      }
+     },
+     {"issue": {"issue-date": "1931-10", "volume": "91", "number": "4"},
+      "title": "Mothuh",
+      "author": {
+       "authorized": "Tarkington, Booth, 1869-1946",
+       "lcna": "n79078124"
+      }
+     },
+     {"issue": {"issue-date": "1931-10", "volume": "91", "number": "4"},
+      "title": "The Arranways Mystery",
+      "title-note": "part 2 of 5",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1931-10", "volume": "91", "number": "4"},
+      "title": "The Door of Opportunity",
+      "author": {
+       "authorized": "Maugham, W. Somerset (William Somerset), 1874-1965",
+       "lcna": "n79036830"
+      }
+     },
+     {"issue": {"issue-date": "1931-10", "volume": "91", "number": "4"},
+      "title": "The House That Jack Built",
+      "author": {
+       "authorized": "Duganne, Phyllis, 1899-1976",
+       "lcna": "n90719514"
+      }
+     },
+     {"issue": {"issue-date": "1931-10", "volume": "91", "number": "4"},
+      "title": "Love Lady no. 99",
+      "author": {
+         "authorized": "Hughes, Rupert, 1872-1956",
+         "lcna": "n86012047"
+       }
+     },
+     {"issue": {"issue-date": "1931-10", "volume": "91", "number": "4"},
+      "title": "Skyscraper",
+      "title-note": "part 5 of 6",
+      "author": {
+       "authorized": "Baldwin, Faith, 1893-1978",
+       "lcna": "n80051885"
+      }
+     },
+     {"issue": {"issue-date": "1931-10", "volume": "91", "number": "4"},
+      "title": "Scaramouch, the Kingmaker",
+      "title-note": "part 7 of 7",
+      "author": {
+       "authorized": "Sabatini, Rafael, 1875-1950",
+       "lcna": "n50016255"
+      }
+     },
+     {"issue": {"issue-date": "1931-11", "volume": "91", "number": "5"},
+      "title": "Static",
+      "title-note": "part 1 of 6",
+      "author": {
+         "authorized": "Hughes, Rupert, 1872-1956",
+         "lcna": "n86012047"
+       }
+     },
+     {"issue": {"issue-date": "1931-11", "volume": "91", "number": "5"},
+      "title": "The Arranways Mystery",
+      "title-note": "part 3 of 5",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1931-11", "volume": "91", "number": "5"},
+      "title": "Skyscraper",
+      "title-note": "part 6 of 6",
+      "author": {
+       "authorized": "Baldwin, Faith, 1893-1978",
+       "lcna": "n80051885"
+      }
+     },
+     {"issue": {"issue-date": "1931-11", "volume": "91", "number": "5"},
+       "title": "A Story Goes With It",
+       "author": {
+         "authorized": "Runyon, Damon, 1880-1946",
+         "lcna": "n80049533"
+       }
+     },
+     {"issue": {"issue-date": "1931-12", "volume": "91", "number": "6"},
+      "title": "No Foolin'",
+      "author": {
+       "authorized": "Ferber, Edna, 1887-1968",
+       "lcna": "n79077439"
+       }
+     },
+     {"issue": {"issue-date": "1931-12", "volume": "91", "number": "6"},
+      "title": "Static",
+      "title-note": "part 2 of 6",
+      "author": {
+         "authorized": "Hughes, Rupert, 1872-1956",
+         "lcna": "n86012047"
+       }
+     },
+     {"issue": {"issue-date": "1931-12", "volume": "91", "number": "6"},
+      "title": "The Arranways Mystery",
+      "title-note": "part 4 of 5",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1932-01", "volume": "92", "number": "1"},
+      "title": "The Arranways Mystery",
+      "title-note": "part 5 of 5",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
      }
    ],
-   "comment": "For contribution renewals, pick up at 1958 Jan-Jun",
+   "comment": "For contribution renewals, pick up at 1959 Jan-Jun after 'Hearst' check",
    "additional-note": "Absorbed Hearst's International in March 1925, and from then until 1952 published as 'Hearst's International and Cosmopolitan' or 'Hearst's International Combined with Cosmopolitan'.  However, 'Cosmopolitan' was the more prominently featured part of the title, and was generally used as the magazine's short title.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-01-03"
+   "last-updated": "2024-11-14"
 }

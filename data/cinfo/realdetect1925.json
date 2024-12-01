@@ -10,7 +10,7 @@
    "first-renewed-contribution":
      {"issue": {"issue-date": "1929-02", "volume": "16", "number": "3"}},
    "first-renewed-contribution-source": "1956-JanJun",
-   "renewed-contribution-completeness": "active/1929",
+   "renewed-contribution-completeness": "active/1930",
    "renewed-contributions": [
      {"issue": {"issue-date": "1929-02", "volume": "16", "number": "3"},
       "title": "A Volume of Poe",
@@ -61,11 +61,53 @@
        "authorized": "Kantor, MacKinlay, 1904-1977",
        "lcna": "n79140979"
       }
+     },
+     {"issue": {"issue-date": "1930-02", "volume": "18", "number": "4"}, 
+      "title": "Watchman Wanted",
+      "author": {
+       "authorized": "Kantor, MacKinlay, 1904-1977",
+       "lcna": "n79140979"
+      }
+     },
+     {"issue": {"issue-date": "1930-03", "volume": "19", "number": "1"}, 
+      "title": "The Death of John J. Soule",
+      "author": {
+       "authorized": "Kantor, MacKinlay, 1904-1977",
+       "lcna": "n79140979"
+      }
+     },
+     {"issue": {"issue-date": "1930-04", "volume": "19", "number": "2"}, 
+      "title": "A Check From the Deceased",
+      "author": {
+       "authorized": "Kantor, MacKinlay, 1904-1977",
+       "lcna": "n79140979"
+      }
+     },
+     {"issue": {"issue-date": "1930-05", "volume": "19", "number": "3"}, 
+      "title": "Death in the Evening",
+      "author": {
+       "authorized": "Kantor, MacKinlay, 1904-1977",
+       "lcna": "n79140979"
+      }
+     },
+     {"issue": {"issue-date": "1930-07", "volume": "20", "number": "1"}, 
+      "title": "The Light at Three O'Clock",
+      "author": {
+       "authorized": "Kantor, MacKinlay, 1904-1977",
+       "lcna": "n79140979"
+      }
+     },
+     {"issue": {"issue-date": "1930-08", "volume": "20", "number": "2"}, 
+      "title": "Maternal Witness",
+      "author": {
+       "authorized": "Kantor, MacKinlay, 1904-1977",
+       "lcna": "n79140979"
+      }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-01-07"
+   "last-updated": "2024-11-13"
 }

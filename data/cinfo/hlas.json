@@ -6,12 +6,30 @@
    "first-renewed-issue-source": "1964-JanJun",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
-   "additional-note": "Early volumes of this handbook were renewed under Books, not under Periodicals.",
+   "renewed-issue-completeness": "active/autorenewals",
+   "renewed-issues": [
+      {"issue-date": "1935", "volume": "1", "cdate": "1936"},
+      {"issue-date": "1936", "volume": "2", "cdate": "1937",
+       "note": "Volume number presumed; CCE renewal record does not report a volume or issue number."},
+      {"issue-date": "1942", "number": "12", "cdate": "1950",
+       "note": "Issue number and date as stated in CCE renewal record."},
+      {"issue-date": "1943", "number": "9", "cdate": "1946"},
+      {"issue-date": "1944", "number": "10", "cdate": "1947"},
+      {"issue-date": "1945", "number": "11", "cdate": "1948"},
+      {"issue-date": "1948", "number": "14", "cdate": "1951"},
+      {"issue-date": "1949", "number": "15", "cdate": "1952"},
+      {"issue-date": "1950", "number": "16", "cdate": "1953"},
+      {"issue-date": "1951", "number": "17", "cdate": "1954"}
+   ],
+   "additional-notes": [
+     "Early volumes of this handbook were renewed under Books, not under Periodicals.",
+     "Later volumes of this handbook may be US government publications not subject to copyright.  Early volumes are not, however."
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
    "acknowledgement": 
       "Thanks to Nat Bender for copyright research on this title.",
-   "last-updated": "2023-09-20"
+   "last-updated": "2024-11-18"
 }

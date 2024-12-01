@@ -7,7 +7,7 @@
    "first-renewed-issue-source": "1956-JanJun",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
-   "renewed-issue-completeness": "active/1931",
+   "renewed-issue-completeness": "active/1932",
    "renewed-issues": [
       {"issue-date": "October 1927 - July 1928", "cdate": "1929-01-26",
          "volume": "48", "number": "permanent edition"},
@@ -79,7 +79,25 @@
       {"issue-date": "1932-06-01", "volume": "52", "number": "14"},
       {"issue-date": "1932-06-15", "volume": "52", "number": "15"},
       {"issue-date": "November 1931 - June 1932",
-         "volume": "52", "number": "permanent edition"}
+         "volume": "52", "number": "permanent edition"},
+      {"issue-date": "1932-11-01", "volume": "53", "number": "1"},
+      {"issue-date": "1932-11-15", "volume": "53", "number": "2"},
+      {"issue-date": "1932-12-01", "volume": "53", "number": "3"},
+      {"issue-date": "1932-12-15", "volume": "53", "number": "4"},
+      {"issue-date": "1933-01-01", "volume": "53", "number": "5"},
+      {"issue-date": "1933-01-15", "volume": "53", "number": "6"},
+      {"issue-date": "1933-02-01", "volume": "53", "number": "7"},
+      {"issue-date": "1933-02-15", "volume": "53", "number": "8"},
+      {"issue-date": "1933-03-01", "volume": "53", "number": "9"},
+      {"issue-date": "1933-03-15", "volume": "53", "number": "10"},
+      {"issue-date": "1933-04-01", "volume": "53", "number": "11"},
+      {"issue-date": "1933-04-15", "volume": "53", "number": "12"},
+      {"issue-date": "1933-05-01", "volume": "53", "number": "13"},
+      {"issue-date": "1933-05-15", "volume": "53", "number": "14"},
+      {"issue-date": "1933-06-01", "volume": "53", "number": "15"},
+      {"issue-date": "1933-06-15", "volume": "53", "number": "16"},
+      {"issue-date": "November 1932 - June 1933",
+         "volume": "53", "number": "permanent edition"}
    ],
    "additional-notes": [
     "Rulings and opinions issued by the US Supreme Court are in the public domain.  The publisher may claim copyright on original notes, summaries, and annotations it adds.",
@@ -89,5 +107,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-01-02"
+   "last-updated": "2024-11-01"
 }

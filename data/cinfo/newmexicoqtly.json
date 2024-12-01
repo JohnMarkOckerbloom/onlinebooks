@@ -1,6 +1,7 @@
 {
    "title": "New Mexico Quarterly",
    "aka": ["New Mexico Quarterly Review"],
+   "online": "1",
    "first-issue": {"issue-date": "1931-02", "volume": "1", "number": "1"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
@@ -8,10 +9,206 @@
      {"issue": {"issue-date": "1943-Summer"}},
    "first-renewed-contribution-source": "1970-JulDec",
    "last-issue": {"issue-date": "1969-Winter-Spring"},
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1943-Summer"},
+        "title": "The Imprint; from In This Our Day",
+        "author": {
+         "authorized": "Pierce, Edith Lovejoy, 1904-1983",
+         "lcna": "n2008034789"
+        }
+     },
+     {"issue": {"issue-date": "1943-Summer"},
+        "title": "Our Eyes Have Seen; from In This Our Day",
+        "author": {
+         "authorized": "Pierce, Edith Lovejoy, 1904-1983",
+         "lcna": "n2008034789"
+        }
+     },
+     {"issue": {"issue-date": "1944-Spring"}, 
+      "title": "Renner",
+      "author": {
+       "authorized": "Powers, J. F. (James Farl), 1917-1999",
+       "lcna": "n79063855"
+      }
+     },
+     {"issue": {"issue-date": "1944-Summer"},
+        "title": "Tom Wolfe's My Name",
+        "author": {
+         "authorized": "West, Jessamyn",
+         "lcna": "n79077176"
+        }
+     },
+     {"issue": {"issue-date": "1944-Winter", "cdate": "1945-03-06"},
+        "title": "In the Coffee Pot",
+        "author": {
+         "authorized": "Ginsberg, Louis, 1895-1976",
+         "lcna": "n86053348"
+        }
+     },
+     {"issue": {"issue-date": "1945-Summer"},
+        "title": "Pictures From a Clapboard House",
+        "author": {
+         "authorized": "West, Jessamyn",
+         "lcna": "n79077176"
+        }
+     },
+     {"issue": {"issue-date": "1947-Winter"},
+        "title": "Biography With Flowers",
+        "author": {
+         "authorized": "West, Jessamyn",
+         "lcna": "n79077176"
+        }
+     },
+     {"issue": {"issue-date": "1948-Spring"},
+        "title": "Modern Library Criticism",
+        "author": {
+         "authorized": "Hyman, Stanley Edgar, 1919-1970",
+         "lcna": "n50030389"
+        }
+     },
+     {"issue": {"issue-date": "1948-Summer"},
+      "title": "The Coyote's Name in Human Speech",
+      "author": {
+       "authorized": "Dobie, J. Frank (James Frank), 1888-1964",
+       "lcna": "n79021385"
+      }
+     },
+     {"issue": {"issue-date": "1950-Autumn"},
+        "title": "The Island",
+        "author": {
+         "authorized": "Jackson, Shirley, 1916-1965",
+         "lcna": "n79125801"
+        }
+     },
+     {"issue": {"cdate": "1951-02-01", "issue-date": "Winter 1950/1951"},
+        "title": "The Style of Peter Hurd",
+        "author": {
+         "authorized": "Horgan, Paul, 1903-1995",
+         "lcna": "n79060797"
+        }
+     },
+     {"issue": {"issue-date": "1951-Spring"},
+        "title": "Recall",
+        "author": {
+         "authorized": "Stafford, William, 1914-1993",
+         "lcna": "n50023886"
+        }
+     },
+     {"issue": {"issue-date": "1951-Summer"},
+        "title": "Before the Big Storm",
+        "author": {
+         "authorized": "Stafford, William, 1914-1993",
+         "lcna": "n50023886"
+        }
+     },
+     {"issue": {"issue-date": "1952-Autumn"},
+        "title": "The Gift",
+        "author": {
+         "name": "Walter Carrier"
+        }
+     },
+     {"issue": {"issue-date": "1952-Autumn"},
+        "title": "Nascimento",
+        "author": {
+         "name": "Walter Carrier"
+        }
+     },
+     {"issue": {"issue-date": "1953-Summer"},
+        "title": "The Sound of Silver",
+        "author": {
+         "authorized": "Grau, Shirley Ann",
+         "lcna": "n50032037"
+        }
+     },
+     {"issue": {"issue-date": "1953-Autumn"},
+        "title": "A Piney Woods Idyll",
+        "author": {
+         "name": "Wesley Ford Davis"
+        }
+     },
+     {"issue": {"issue-date": "1953-Autumn"},
+      "title": "The Man Who Licked the Condition",
+      "author": {
+        "authorized": "Bunch, David R.",
+        "lcna": "no98121068"
+      }
+     },
+     {"issue": {"issue-date": "1953-Autumn"},
+      "title": "Old Letters, Same Shaw, New Impetus",
+      "author": {
+       "authorized": "Weales, Gerald, 1925-2013",
+       "lcna": "n50023757"
+      }
+     },
+     {"issue": {"issue-date": "1954-Autumn"},
+        "title": "Collective Memory",
+        "author": {
+         "authorized": "Horgan, Paul, 1903-1995",
+         "lcna": "n79060797"
+        }
+     },
+     {"issue": {"issue-date": "1955-Spring"},
+        "title": "Colloquy Within a Being",
+        "author": {
+         "authorized": "Valéry, Paul, 1871-1945",
+         "lcna": "n80005093"
+        },
+        "translator": {
+         "authorized": "Smith, William Jay, 1918-2015",
+         "lcna": "n79042253"
+        }
+     },
+     {"issue": {"issue-date": "Winter 1955-1956", "cdate": "1956-02-01"},
+        "title": "The Literary Volga",
+        "author": {
+         "authorized": "Rothberg, Abraham",
+         "lcna": "n50047454"
+        }
+     },
+     {"issue": {"issue-date": "1957-Autumn", "cdate": "1958-05-07"},
+        "title": "The Authorities",
+        "author": {
+         "authorized": "Summers, Hollis, 1916-1987",
+         "lcna": "n50011402"
+        }
+     },
+     {"issue":
+      {"issue-date": "1959-Summer/Autumn/Winter", "cdate": "1959-04-01"},
+        "title": "The House at Otowi Bridge",
+        "title-note": "part 1 of 2",
+        "author": {
+         "authorized": "Church, Peggy Pond, 1903-1986",
+         "lcna": "n80156015"
+        }
+     },
+     {"issue": {"issue-date": "1959-Spring"},
+        "title": "The House at Otowi Bridge",
+        "title-note": "part 2 of 2",
+        "author": {
+         "authorized": "Church, Peggy Pond, 1903-1986",
+         "lcna": "n80156015"
+        }
+     },
+     {"issue": {"issue-date": "1960-Spring"},
+        "title": "Summer Will Rise",
+        "author": {
+         "authorized": "Stafford, William, 1914-1993",
+         "lcna": "n50023886"
+        }
+     },
+     {"issue": {"issue-date": "1961-Spring"},
+        "title": "Reflections on a Gift of Watermelon Pickle Received From a Friend Called Felicity: Poem",
+        "author": {
+         "authorized": "Tobias, John, 1927-",
+         "lcna": "n81149152"
+        }
+     }
+   ],
    "additional-note": "This periodical published as the New Mexico Quarterly Review from 1941 to 1949, and as the New Mexico Quarterly before and after that period..",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-02-21"
+   "last-updated": "2024-11-07"
 }

@@ -78,7 +78,7 @@
      {"issue-date": "1933-06", "volume": "50", "number": "6"},
      {"issue-date": "1933-07", "volume": "50", "number": "7"}
    ],
-   "renewed-contribution-completeness": "active/1929",
+   "renewed-contribution-completeness": "active/1930",
    "renewed-contributions": [
      {"issue": {"issue-date": "1929-02", "volume": "46", "number": "2"},
       "title": "Illusion",
@@ -386,11 +386,25 @@
        "lcna": "n50014661"
       }
      },
+     {"issue": {"issue-date": "1930-03", "volume": "47", "number": "3"},
+      "title": "Scourge",
+      "author": {
+         "authorized": "Terhune, Albert Payson, 1872-1942",
+         "lcna": "n50009920"
+      }
+     },
      {"issue": {"issue-date": "1930-04", "volume": "47", "number": "5"},
       "title": "Forgotten Firefly",
       "author": {
        "authorized": "Squier, Emma-Lindsay, 1892-1941",
        "lcna": "no2007059420"
+      }
+     },
+     {"issue": {"issue-date": "1930-04", "volume": "47", "number": "5"},
+      "title": "Paper Profits",
+      "author": {
+       "authorized": "Train, Arthur, 1875-1945",
+       "lcna": "n50014661"
       }
      },
      {"issue": {"issue-date": "1930-07", "volume": "47", "number": "7"},
@@ -414,19 +428,279 @@
          "lcna": "no96006587"
        }
      },
+     {"issue": {"issue-date": "1930-09", "volume": "47", "number": "9"},
+      "title": "The Last Trolley",
+       "author": {
+         "authorized": "Miller, Alice Duer, 1874-1942",
+         "lcna": "n83057208"
+       }
+     },
+     {"issue": {"issue-date": "1930-09", "volume": "47", "number": "9"},
+        "title": "Green Vigil",
+        "author": {
+         "authorized": "Steele, Wilbur Daniel, 1886-1970",
+         "lcna": "no98007702"
+        }
+     },
      {"issue": {"issue-date": "1930-10", "volume": "47", "number": "10"},
       "title": "Lion Loose!",
       "author": {
        "authorized": "Johnston, Mary, 1870-1936",
        "lcna": "n80156622"
       }
+     },
+     {"issue": {"issue-date": "1930-10", "volume": "47", "number": "10"},
+      "title": "Canyon Walls",
+      "title-note": "part 1 of 3",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1930-11", "volume": "47", "number": "11"},
+      "title": "Canyon Walls",
+      "title-note": "part 2 of 3",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1930-11", "volume": "47", "number": "11"},
+      "title": "The Green Man",
+      "author": {
+       "authorized": "Chesterton, G. K. (Gilbert Keith), 1874-1936",
+       "lcna": "n79021157"
+      }
+     },
+     {"issue": {"issue-date": "1930-12", "volume": "47", "number": "12"},
+      "title": "Canyon Walls",
+      "title-note": "part 3 of 3",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1930-12", "volume": "47", "number": "12"},
+       "title": "It's Hard to Make Them Happy",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1930-12", "volume": "47", "number": "12"},
+      "title": "One Emerald",
+       "author": {
+         "authorized": "Miller, Alice Duer, 1874-1942",
+         "lcna": "n83057208"
+       }
+     },
+     {"issue": {"issue-date": "1930-12", "volume": "47", "number": "12"},
+      "title": "An End to Mirth",
+      "title-note": "part 1 of 4",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
+     {"issue": {"issue-date": "1931-01", "volume": "48", "number": "1"},
+      "title": "Taxi",
+      "title-note": "part 1 of 3",
+       "author": {
+         "authorized": "Miller, Alice Duer, 1874-1942",
+         "lcna": "n83057208"
+       }
+     },
+     {"issue": {"issue-date": "1931-01", "volume": "48", "number": "1"},
+      "title": "An End to Mirth",
+      "title-note": "part 2 of 4",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
+     {"issue": {"issue-date": "1931-02", "volume": "48", "number": "2"},
+      "title": "Washington's Letters on Love",
+      "author": {
+         "authorized": "Hughes, Rupert, 1872-1956",
+         "lcna": "n86012047"
+       }
+     },
+     {"issue": {"issue-date": "1931-02", "volume": "48", "number": "2"},
+      "title": "Taxi",
+      "title-note": "part 2 of 3",
+       "author": {
+         "authorized": "Miller, Alice Duer, 1874-1942",
+         "lcna": "n83057208"
+       }
+     },
+     {"issue": {"issue-date": "1931-02", "volume": "48", "number": "2"},
+      "title": "An End to Mirth",
+      "title-note": "part 3 of 4",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
+     {"issue": {"issue-date": "1931-02", "volume": "48", "number": "2"},
+        "title": "Renegade",
+        "author": {
+         "authorized": "Steele, Wilbur Daniel, 1886-1970",
+         "lcna": "no98007702"
+        }
+     },
+     {"issue": {"issue-date": "1931-03", "volume": "48", "number": "3"},
+      "title": "Beautiful Goose Girl",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1931-03", "volume": "48", "number": "3"},
+      "title": "Taxi",
+      "title-note": "part 3 of 3",
+       "author": {
+         "authorized": "Miller, Alice Duer, 1874-1942",
+         "lcna": "n83057208"
+       }
+     },
+     {"issue": {"issue-date": "1931-03", "volume": "48", "number": "3"},
+      "title": "An End to Mirth",
+      "title-note": "part 4 of 4",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
+     {"issue": {"issue-date": "1931-03", "volume": "48", "number": "3"},
+      "title": "Kissing Piccadilly",
+      "author": {
+       "authorized": "Wylie, I. A. R. (Ida Alexa Ross), 1885-1959",
+       "lcna": "n87860300"
+      }
+     },
+     {"issue": {"issue-date": "1931-03", "volume": "48", "number": "3"},
+        "title": "The Body of the Crime",
+        "author": {
+         "authorized": "Steele, Wilbur Daniel, 1886-1970",
+         "lcna": "no98007702"
+        }
+     },
+     {"issue": {"issue-date": "1931-05", "volume": "48", "number": "5"},
+      "title": "A Father Can't Win",
+      "author": {
+         "authorized": "Kilbourne, Fannie, 1890-",
+         "lcna": "no93026233"
+       }
+     },
+     {"issue": {"issue-date": "1931-05", "volume": "48", "number": "5"},
+      "title": "Cinderella's Slipper",
+       "author": {
+         "authorized": "Miller, Alice Duer, 1874-1942",
+         "lcna": "n83057208"
+       }
+     },
+     {"issue": {"issue-date": "1931-06", "volume": "48", "number": "6"},
+      "title": "Behind the Times",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1931-06", "volume": "48", "number": "6"},
+      "title": "Sisters to Him",
+      "author": {
+       "authorized": "Duganne, Phyllis, 1899-1976",
+       "lcna": "n90719514"
+      }
+     },
+     {"issue": {"issue-date": "1931-07", "volume": "48", "number": "7"},
+      "title": "American Beauty",
+      "title-note": "part 1 of 5",
+      "author": {
+       "authorized": "Ferber, Edna, 1887-1968",
+       "lcna": "n79077439"
+      }
+     },
+     {"issue": {"issue-date": "1931-07", "volume": "48", "number": "7"},
+      "title": "Mother Announcing",
+       "author": {
+         "authorized": "Miller, Alice Duer, 1874-1942",
+         "lcna": "n83057208"
+       }
+     },
+     {"issue": {"issue-date": "1931-08", "volume": "48", "number": "8"},
+      "title": "American Beauty",
+      "title-note": "part 2 of 5",
+      "author": {
+       "authorized": "Ferber, Edna, 1887-1968",
+       "lcna": "n79077439"
+      }
+     },
+     {"issue": {"issue-date": "1931-08", "volume": "48", "number": "8"},
+      "title": "Enchanted Island",
+      "author": {
+         "authorized": "Street, Julian, 1879-1947",
+         "lcna": "n86114725"
+       }
+     },
+     {"issue": {"issue-date": "1931-09", "volume": "48", "number": "9"},
+      "title": "American Beauty",
+      "title-note": "part 3 of 5",
+      "author": {
+       "authorized": "Ferber, Edna, 1887-1968",
+       "lcna": "n79077439"
+      }
+     },
+     {"issue": {"issue-date": "1931-09", "volume": "48", "number": "9"},
+      "title": "The Duel on the Beach",
+      "author": {
+       "authorized": "Sabatini, Rafael, 1875-1950",
+       "lcna": "n50016255"
+      }
+     },
+     {"issue": {"issue-date": "1931-10", "volume": "48", "number": "10"},
+      "title": "American Beauty",
+      "title-note": "part 4 of 5",
+      "author": {
+       "authorized": "Ferber, Edna, 1887-1968",
+       "lcna": "n79077439"
+      }
+     },
+     {"issue": {"issue-date": "1931-10", "volume": "48", "number": "10"},
+      "title": "Girl Meets Boy",
+      "author": {
+         "authorized": "Kilbourne, Fannie, 1890-",
+         "lcna": "no93026233"
+       }
+     },
+     {"issue": {"issue-date": "1931-11", "volume": "48", "number": "11"},
+      "title": "American Beauty",
+      "title-note": "part 5 of 5",
+      "author": {
+       "authorized": "Ferber, Edna, 1887-1968",
+       "lcna": "n79077439"
+      }
+     },
+     {"issue": {"issue-date": "1931-11", "volume": "48", "number": "11"},
+      "title": "Grandmother's Gigolo",
+       "author": {
+         "authorized": "Miller, Alice Duer, 1874-1942",
+         "lcna": "n83057208"
+       }
+     },
+     {"issue": {"issue-date": "1931-12", "volume": "48", "number": "12"},
+      "title": "Presents for the Rich",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
      }
    ],
-   "comment": "Resume contribution searches with 1958 Jan-Jun",
+   "comment": "Resume contribution searches with 1959 Jan-Jun",
    "comment": "Search also for Ladles- some typos in Gutenberg CCE",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-09-29"
+   "last-updated": "2024-11-14"
 }

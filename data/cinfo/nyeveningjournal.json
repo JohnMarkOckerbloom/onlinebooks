@@ -5,8 +5,8 @@
       {"issue-date": "1929-02-11", "number": "15433"},
    "first-renewed-issue-source": "1956-JulDec",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1930-01-11"}},
-   "first-renewed-contribution-source": "1958-JanJun",
+     {"issue": {"issue-date": "1929-01-17"}},
+   "first-renewed-contribution-source": "1956-JanJun",
    "last-issue": {"issue-date": "1937-06-24"},
    "succeeded-by":
       [{"id": "nyjnlamerican", "note": "New York Journal-American"}],
@@ -43,8 +43,17 @@
     ],
    "renewed-contribution-completeness": "active/1936",
    "renewed-contributions": [
+     {"issue": {"issue-date": "1929-01-17"},
+       "title": "Thimble Theatre: Gobs of Work",
+       "note": "Renewed under Artwork. CCE renewal record does not mention the Journal, or that this strip is the first appearance of Popeye, but Thimble Theatre originated in this newspaper, so this strip is likely to have run in it.",
+       "author": {
+         "authorized": "King Features Syndicate",
+         "lcna": "n82010039"
+        }
+     },
      {"issue": {"issue-date": "1930-01-11"},
        "title": "Thimble Theatre",
+       "note": "This day's strip is the first in which the Sea Hag appears and is called by name.",
        "author": {
          "authorized": "King Features Syndicate",
          "lcna": "n82010039"
@@ -72,5 +81,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-01-03"
+   "last-updated": "2024-11-12"
 }

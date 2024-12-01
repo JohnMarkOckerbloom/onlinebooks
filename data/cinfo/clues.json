@@ -12,7 +12,28 @@
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1929-05-10", "volume": "12", "number": "4"}},
    "first-renewed-contribution-source": "1956-JulDec",
-   "renewed-contribution-completeness": "active/1929",
+   "last-issue":
+     {"issue-date": "1943-05", "volume": "47", "number": "1"},
+   "renewed-issue-completeness": "active/1933",
+   "renewed-issues": [
+     {"issue-date": "1933-10", "volume": "30", "number": "5"},
+     {"issue-date": "1933-11", "volume": "30", "number": "6"},
+     {"issue-date": "1933-12", "volume": "31", "number": "1"},
+     {"issue-date": "1934-01", "volume": "31", "number": "2",
+      "cdate": "1933-12-13"},
+     {"issue-date": "1934-02", "volume": "31", "number": "3",
+      "cdate": "1934-01-10"},
+     {"issue-date": "1934-03", "volume": "31", "number": "4"},
+     {"issue-date": "1934-04", "volume": "31", "number": "5"},
+     {"issue-date": "1934-05", "volume": "31", "number": "6"},
+     {"issue-date": "1934-06", "volume": "32", "number": "1"},
+     {"issue-date": "1934-07", "volume": "32", "number": "2"},
+     {"issue-date": "1934-08", "volume": "32", "number": "3"},
+     {"issue-date": "1934-09", "volume": "32", "number": "4"},
+     {"issue-date": "1934-10", "volume": "32", "number": "5"},
+     {"issue-date": "1934-11", "volume": "32", "number": "6"}
+   ],
+   "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
      {"issue": {"issue-date": "1929-05-10", "volume": "12", "number": "4"},
       "title": "The Crime Critic",
@@ -202,12 +223,40 @@
       }
      },
      {"issue": {"issue-date": "1930-09-25", "volume": "21", "number": "1"},
+      "title": "1-C-12",
+      "author": {
+         "authorized": "Elston, Allan Vaughan, 1887-1976",
+         "lcna": "no90023204"
+       }
+     },
+     {"issue": {"issue-date": "1930-09-25", "volume": "21", "number": "1"},
       "title": "Buried Treasure",
       "note": "Issue as given in CCE renewal record.  FictionMags places this story instead in the first August issue. We have not examined the issues in question.",
       "author": {
         "authorized": "Wallace, Edgar, 1875-1932",
         "lcna": "n80034938"
       }
+     },
+     {"issue": {"issue-date": "1930-11-10", "volume": "21", "number": "4"},
+      "title": "His Victim's Voice",
+      "author": {
+         "authorized": "Elston, Allan Vaughan, 1887-1976",
+         "lcna": "no90023204"
+       }
+     },
+     {"issue": {"issue-date": "1930-11-25", "volume": "22", "number": "1"},
+      "title": "One-Man Law",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1930-12-10", "volume": "22", "number": "2"},
+      "title": "The Court of Candles",
+      "author": {
+         "authorized": "Elston, Allan Vaughan, 1887-1976",
+         "lcna": "no90023204"
+       }
      },
      {"issue": {"issue-date": "1930-12-10", "volume": "22", "number": "2"},
       "title": "Cincinnati Bond Case",
@@ -232,6 +281,13 @@
        {"authorized": "McKay, Randle", "lcna": "n2006052936"},
        { "authorized": "Wren, Lassiter", "lcna": "n2006052935"}
       ]
+     },
+     {"issue": {"issue-date": "1930-12-25", "volume": "22", "number": "3"},
+      "title": "A Horse on Fane",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
      },
      {"issue": {"issue-date": "1930-12-25", "volume": "22", "number": "3"},
       "title": "The Fountain of Light",
@@ -272,11 +328,259 @@
        {"authorized": "McKay, Randle", "lcna": "n2006052936"},
        { "authorized": "Wren, Lassiter", "lcna": "n2006052935"}
       ]
+     },
+     {"issue": {"issue-date": "1931-01-25", "volume": "23", "number": "1"},
+      "title": "Air-Tight Alibis",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1931-03-10", "volume": "23", "number": "4"},
+      "title": "Table for Ladies",
+      "note": "Title as given in CCE renewal record.  FictionMags gives title as 'Tables for Ladies'. We have not examined the issue in question.",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1931-04-10", "volume": "24", "number": "2"},
+      "title": "First and Last",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1931-06", "volume": "25", "number": "2"},
+      "title": "Murder on Parade",
+      "author": {
+         "authorized": "Elston, Allan Vaughan, 1887-1976",
+         "lcna": "no90023204"
+       }
+     },
+     {"issue": {"issue-date": "1931-07", "volume": "25", "number": "3"},
+      "title": "A Frying Job",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1931-08", "volume": "25", "number": "4"},
+      "title": "The Curtain of Palms",
+      "author": {
+         "authorized": "Elston, Allan Vaughan, 1887-1976",
+         "lcna": "no90023204"
+       }
+     },
+     {"issue": {"issue-date": "1931-08", "volume": "25", "number": "4"},
+      "title": "Hoodoo",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1932-05", "volume": "28", "number": "1"},
+      "title": "The Unidentified Woman",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1932-06", "volume": "28", "number": "2"},
+      "title": "Gunned Out",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1932-08", "volume": "28", "number": "4"},
+      "title": "A Blind Date With Death",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1932-09", "volume": "29", "number": "1"},
+      "title": "The Kiss of Death",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1932-10", "volume": "29", "number": "2"},
+      "title": "The Upside-Down Corpse",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1932-11", "volume": "29", "number": "3"},
+      "title": "The Cannon Kills",
+      "note": "Title as given on issue cover. CCE renewal record gives title as 'The Canon Kills'.",
+      "author": {
+       "authorized": "Kantor, MacKinlay, 1904-1977",
+       "lcna": "n79140979"
+      }
+     },
+     {"issue": {"issue-date": "1932-12", "volume": "29", "number": "4"},
+      "title": "The Law of the Borderland",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1933-02", "volume": "30", "number": "2"},
+      "title": "Hot Hunches",
+      "author": {
+         "authorized": "Coxe, George Harmon, 1901-1984",
+         "lcna": "n50017906"
+      }
+     },
+     {"issue": {"issue-date": "1933-02", "volume": "30", "number": "2"},
+      "title": "The Dance of the Dagger",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1933-03", "volume": "30", "number": "3"},
+      "title": "The Word of a Crook",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1933-10", "volume": "30", "number": "5"},
+      "title": "The Clearing House of Crime",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1933-11", "volume": "30", "number": "6"},
+      "title": "Pitched Battle",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1934-05", "volume": "31", "number": "6"},
+      "title": "Solo",
+      "author": {
+         "authorized": "Coxe, George Harmon, 1901-1984",
+         "lcna": "n50017906"
+      }
+     },
+     {"issue": {"issue-date": "1934-09", "volume": "32", "number": "4"}, 
+      "title": "Frost",
+      "author": {
+       "authorized": "Wandrei, Donald, 1908-1987",
+       "lcna": "no88006233"
+      }
+     },
+     {"issue": {"issue-date": "1934-11", "volume": "32", "number": "6"},
+      "title": "Green Man - Creeping",
+      "author": {
+       "authorized": "Wandrei, Donald, 1908-1987",
+       "lcna": "no88006233"
+      }
+     },
+     {"issue": {"issue-date": "1934-11", "volume": "32", "number": "6"},
+       "title": "Police Protection",
+       "author": {
+         "authorized": "Brandon, William, 1914-2002",
+         "lcna": "n50043320"
+       }
+     },
+     {"issue": {"issue-date": "1935-04", "volume": "33", "number": "5"},
+      "title": "Bride of the Rats",
+      "author": {
+       "authorized": "Wandrei, Donald, 1908-1987",
+       "lcna": "no88006233"
+      }
+     },
+     {"issue": {"issue-date": "1935-04", "volume": "33", "number": "5"},
+      "title": "The Siege of Mr. Martin",
+      "author": {
+       "authorized": "Wandrei, Donald, 1908-1987",
+       "using": "Clyde B. Ashton",
+       "lcna": "no88006233"
+      }
+     },
+     {"issue": {"issue-date": "1935-06", "volume": "34", "number": "1"},
+      "title": "The Artist of Death",
+      "author": {
+       "authorized": "Wandrei, Donald, 1908-1987",
+       "lcna": "no88006233"
+      }
+     },
+     {"issue": {"issue-date": "1936-02", "volume": "35", "number": "3"},
+      "title": "Giants in the Valley",
+      "author": {
+       "authorized": "Wandrei, Donald, 1908-1987",
+       "lcna": "no88006233"
+      }
+     },
+     {"issue": {"issue-date": "1937-11", "volume": "40", "number": "6"},
+       "title": "Tough Guy",
+       "author": {
+        "authorized": "Gruber, Frank, 1904-1969",
+        "lcna": "n50032981"
+       }
+     },
+     {"issue": {"issue-date": "1938-12", "volume": "41", "number": "1"},
+      "title": "Barney Killigen",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1939-01", "volume": "41", "number": "2"},
+      "title": "Without Gloves",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1939-02", "volume": "41", "number": "3"},
+      "title": "Unstuffing One Shirt",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1939-05", "volume": "41", "number": "6"},
+      "title": "Dogs of Death",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1939-05", "volume": "41", "number": "6"},
+       "title": "Duplicate Death",
+       "author": {
+        "authorized": "Gruber, Frank, 1904-1969",
+        "lcna": "n50032981"
+       }
+     },
+     {"issue": {"issue-date": "1940-01", "volume": "43", "number": "2"},
+       "title": "Death's Understudy",
+       "author": {
+        "authorized": "Gruber, Frank, 1904-1969",
+        "lcna": "n50032981"
+       }
+     },
+     {"issue": {"issue-date": "1941-01", "volume": "44", "number": "5"},
+       "title": "The Murder Gun",
+       "author": {
+        "authorized": "Gruber, Frank, 1904-1969",
+        "lcna": "n50032981"
+       }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-01-05"
+   "last-updated": "2024-11-13"
 }
