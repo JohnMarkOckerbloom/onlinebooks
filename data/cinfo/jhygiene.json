@@ -1,20 +1,18 @@
 {
    "title": "The Journal of Hygiene",
    "online": "1",
-   "contents": [
-      {"url": "https://www.cambridge.org/core/journals/epidemiology-and-infection/all-issues",
-       "note": "Official successor journal site (full text also available; may require subscription or payment)"}
-   ],
    "first-issue": {"issue-date": "1901-01", "volume": "1", "number": "1"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
    "last-issue": {"issue-date": "1986-12", "volume": "97", "number": "3"},
+   "succeeded-by":
+      [{"id": "epideminfect", "note": "Epidemiology and Infection"}],
    "additional-note" : "This is a British publication.  Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US. The front matter to the 1920 volume indicates a US agent for this publisher, however.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-01-10"
+   "last-updated": "2024-12-10"
 }

@@ -1,0 +1,28 @@
+{
+   "title": "Romanic Review",
+   "online": "1",
+   "first-issue": 
+     {"issue-date": "1910-January-March", "volume": "1", "number": "1"},
+   "first-renewed-issue": 
+     {"issue-date": "1963-10", "volume": "54", "number": "3"},
+   "first-renewed-issue-source": "database",
+   "first-renewed-contribution": 
+     {"issue": {"issue-date": "1951-10", "volume": "42", "number": "3"}},
+   "first-renewed-contribution-source": "database",
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1951-10", "volume": "42", "number": "3"},
+        "title": "Dante's Comedy: The Pattern at the Center",
+        "note": "Title as given in issue. Renewal record gives title simply as 'The Pattern at the Center'.",
+        "author": {
+         "authorized": "Singleton, Charles S. (Charles Southward), 1909-1985",
+         "lcna": "n50026415"
+        }
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2024-12-23"
+}

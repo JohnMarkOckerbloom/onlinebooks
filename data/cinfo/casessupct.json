@@ -6,12 +6,17 @@
    "first-renewed-issue-source": "1956-JanJun",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
-   "renewed-issue-completeness": "active/1929",
+   "renewed-issue-completeness": "active/1935",
    "renewed-issues": [
       {"issue-date": "1927-October term", "cdate": "1929-01-21"},
       {"issue-date": "1928-October term", "cdate": "1929-12-10"},
       {"issue-date": "1929-October term", "cdate": "1930-10-14"},
-      {"issue-date": "1930-October term", "cdate": "1931-11-10"}
+      {"issue-date": "1930-October term", "cdate": "1931-11-10"},
+      {"issue-date": "1931-October term", "cdate": "1932-11-09"},
+      {"issue-date": "1932-October term", "cdate": "1933-11-15"},
+      {"issue-date": "1933-October term", "cdate": "1934-10-30"},
+      {"issue-date": "1934-October term", "cdate": "1935-12-24"},
+      {"issue-date": "1935-October term", "cdate": "1936-12-10"}
    ],
    "additional-notes": [
     "Rulings and opinions issued by the US Supreme Court are in the public domain.  The publisher may claim copyright on original notes, summaries, and annotations it adds.",
@@ -21,5 +26,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-09-23"
+   "last-updated": "2024-12-14"
 }

@@ -814,7 +814,7 @@ sub analyze_form {
       || $title =~ / sunglasses /
       || $title =~ / nude /
       || $title =~ /Unutty/
-      || $title =~ /trump vote mask/
+      || $title =~ /weight loss/i
       || $title =~ /affiliate marketing/i
       || $title =~ /upenn.edu/i
       || $title =~ /^I will be your/
@@ -829,13 +829,14 @@ sub analyze_form {
       || $title =~ /amazing deal/i
       || $title =~ /googlegoogle/
       || $title =~ /jeffrearoom/
+      || $title =~ /your (business|company|sales)/i
       || $ref =~ /seoestore/
       || $wref =~ /seoestore/
       || $wref =~ /example.com/
       || $libsite =~ /example.com/
       || $comments =~ /getpeople.io/i
       || $comments =~ /pxl.to/i
-      || $comments =~ /fiverrtalents/i
+      || $comments =~ /fiverr/i
       || $comments =~ /ultimate tool/i
       || $comments =~ /sexual pic/i
       || $comments =~ /your (business|company|sales)/i
@@ -924,7 +925,7 @@ sub tempdown {
   &startpage($q, "Temporarily down");
   print qq!<h2>Service temporarily unavailable</h2>!;
   print qq!<p>This suggestion form is temporarily unavailable for a few hours!;
-  print qq! mid-day on July 25 !;
+  print qq! mid-day on December 4 !;
   print qq!while we make some server adjustments.  It will be back soon. !;
   print qq!Apologies for the inconvenience.</p>!;
   print $OLBP::bodyend;
