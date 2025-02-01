@@ -6,8 +6,8 @@
       {"issue-date": "1944-01", "volume": "24", "number": "2"},
    "first-renewed-issue-source": "1971",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1929-02", "cdate": "1929-01-15"}}, 
-   "first-renewed-contribution-source": "1956-JulDec",
+     {"issue": {"issue-date": "1931-03"}}, 
+   "first-renewed-contribution-source": "1958-JanJun",
    "renewed-issue-completeness": "active/autorenewals",
    "renewed-issues": [
       {"issue-date": "1944-01", "volume": "24", "number": "2"},
@@ -25,36 +25,6 @@
    ],
    "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
-       {"issue": {"issue-date": "1929-02"}, 
-        "title": "The Studio Murder Mystery",
-        "title-note": "part 5 of 7",
-        "authors": [
-           {"authorized": "Edington, Carmen, 1894-",
-            "lcna": "no93029963"},
-           {"authorized": "Edington, A. C. (Arlo Channing), 1890-1953",
-           "lcna": "no93029955"}
-        ]
-       },
-       {"issue": {"issue-date": "1929-03"}, 
-        "title": "The Studio Murder Mystery",
-        "title-note": "part 6 of 7",
-        "authors": [
-           {"authorized": "Edington, Carmen, 1894-",
-            "lcna": "no93029963"},
-           {"authorized": "Edington, A. C. (Arlo Channing), 1890-1953",
-           "lcna": "no93029955"}
-        ]
-       },
-       {"issue": {"issue-date": "1929-04"}, 
-        "title": "The Studio Murder Mystery",
-        "title-note": "part 7 of 7",
-        "authors": [
-           {"authorized": "Edington, Carmen, 1894-",
-            "lcna": "no93029963"},
-           {"authorized": "Edington, A. C. (Arlo Channing), 1890-1953",
-           "lcna": "no93029955"}
-        ]
-       },
        {"issue": {"issue-date": "1931-03"}, 
         "title": "The Star's Secret",
         "author": {
@@ -230,5 +200,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-01-05"
+   "last-updated": "2025-01-06"
 }

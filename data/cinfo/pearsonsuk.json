@@ -12,46 +12,11 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1929-08", "volume": "68", "number": "404"}},
+     {"issue": {"issue-date": "1930-01", "volume": "69", "number": "409"}},
    "first-renewed-contribution-source": "1957-JulDec",
    "last-issue": {"issue-date": "1939-11", "volume": "88", "number": "527"},
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1929-08", "volume": "68", "number": "404"},
-      "title": "Brother Rex Works It",
-      "author": {
-       "authorized": "Mackail, Denis, 1892-1971",
-       "lcna": "n50041467"
-      }
-     },
-     {"issue": {"issue-date": "1929-09", "volume": "68", "number": "405"},
-      "title": "Many Happy Returns",
-      "author": {
-       "authorized": "Mackail, Denis, 1892-1971",
-       "lcna": "n50041467"
-      }
-     },
-     {"issue": {"issue-date": "1929-10", "volume": "68", "number": "406"},
-      "title": "The Gift of the Bridegroom",
-      "author": {
-       "authorized": "Mackail, Denis, 1892-1971",
-       "lcna": "n50041467"
-      }
-     },
-     {"issue": {"issue-date": "1929-11", "volume": "68", "number": "407"},
-      "title": "Barbara Drops a Brick",
-      "author": {
-       "authorized": "Mackail, Denis, 1892-1971",
-       "lcna": "n50041467"
-      }
-     },
-     {"issue": {"issue-date": "1929-12", "volume": "68", "number": "408"},
-      "title": "The Wolf From the Door",
-      "author": {
-       "authorized": "Mackail, Denis, 1892-1971",
-       "lcna": "n50041467"
-      }
-     },
      {"issue": {"issue-date": "1930-01", "volume": "69", "number": "409"},
       "title": "Rex Gets a Free Ticket",
       "author": {
@@ -80,5 +45,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-01-05"
+   "last-updated": "2025-01-06"
 }

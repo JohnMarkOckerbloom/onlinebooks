@@ -13,9 +13,230 @@
    "first-renewed-contribution-source": "1977-JanJun",
    "first-autorenewed-issue":
       {"issue-date": "1964-01", "volume": "70", "number": "1"},
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1950-06"},
+        "title": "My Favorite Tree",
+        "author": {
+         "authorized": "Menninger, Karl A. (Karl Augustus), 1893-1990",
+         "lcna": "n50036990"
+        }
+     },
+     {"issue": {"issue-date": "1952-06"}, 
+        "title": "Limber Pine",
+        "note": "Title as given in issue.  Renewal record gives title as 'Timber Pine'.",
+        "author": {
+          "authorized": "Peattie, Donald Culross, 1898-1964",
+          "lcna": "n80023580"
+        }
+     },
+     {"issue": {"issue-date": "1952-07"}, 
+        "title": "Sweet Acacia",
+        "author": {
+          "authorized": "Peattie, Donald Culross, 1898-1964",
+          "lcna": "n80023580"
+        }
+     },
+     {"issue": {"issue-date": "1956-02"},
+        "title": "United States Comment",
+        "author": {
+         "authorized": "Olson, Sigurd F., 1899-1982",
+         "lcna": "n79045068"
+        }
+     },
+     {"issue": {"issue-date": "1956-02"},
+        "title": "Wildlife by Shortwave",
+        "author": {
+         "authorized": "Barker, Will",
+         "lcna": "n50017412"
+        }
+     },
+     {"issue": {"issue-date": "1956-03"},
+        "title": "Our Vanishing Species",
+        "author": {
+         "authorized": "Barker, Will",
+         "lcna": "n50017412"
+        }
+     },
+     {"issue": {"issue-date": "1956-03"},
+        "title": "Dreams of Many Aprils",
+        "author": {
+         "authorized": "Stuart, Jesse, 1906-1984",
+         "lcna": "n79018157"
+        }
+     },
+     {"issue": {"issue-date": "1956-03"},
+        "title": "Whitebeam Tree",
+        "author": {
+         "authorized": "Stuart, Jesse, 1906-1984",
+         "lcna": "n79018157"
+        }
+     },
+     {"issue": {"issue-date": "1956-06"},
+        "title": "Friend of the Forester",
+        "author": {
+         "authorized": "Barker, Will",
+         "lcna": "n50017412"
+        }
+     },
+     {"issue": {"issue-date": "1956-06"},
+        "title": "Our World of the White Plum",
+        "author": {
+         "authorized": "Stuart, Jesse, 1906-1984",
+         "lcna": "n79018157"
+        }
+     },
+     {"issue": {"issue-date": "1956-08"},
+        "title": "Shape of Things to Come",
+        "author": {
+         "authorized": "Barker, Will",
+         "lcna": "n50017412"
+        }
+     },
+     {"issue": {"issue-date": "1956-10"},
+        "title": "Historic Harpers Ferry",
+        "author": {
+         "authorized": "Barker, Will",
+         "lcna": "n50017412"
+        }
+     },
+     {"issue": {"issue-date": "1957-02"},
+        "title": "The Snow Lies Patched: Poem",
+        "author": {
+         "authorized": "Stuart, Jesse, 1906-1984",
+         "lcna": "n79018157"
+        }
+     },
+     {"issue": {"issue-date": "1957-04"},
+        "title": "Disputing Warriors: Essay",
+        "author": {
+         "authorized": "Stuart, Jesse, 1906-1984",
+         "lcna": "n79018157"
+        }
+     },
+     {"issue": {"issue-date": "1957-06"},
+        "title": "Earth Was Their Banker: Poem",
+        "author": {
+         "authorized": "Stuart, Jesse, 1906-1984",
+         "lcna": "n79018157"
+        }
+     },
+     {"issue": {"issue-date": "1957-07"},
+        "title": "Morning of the Laundered Wind: Essay",
+        "author": {
+         "authorized": "Stuart, Jesse, 1906-1984",
+         "lcna": "n79018157"
+        }
+     },
+     {"issue": {"issue-date": "1957-12"},
+        "title": "Green River: Poem",
+        "author": {
+         "authorized": "Stuart, Jesse, 1906-1984",
+         "lcna": "n79018157"
+        }
+     },
+     {"issue": {"issue-date": "1958-02"},
+        "title": "Ides of March: Poem",
+        "author": {
+         "authorized": "Stuart, Jesse, 1906-1984",
+         "lcna": "n79018157"
+        }
+     },
+     {"issue": {"issue-date": "1958-03"},
+        "title": "Association: Essay",
+        "author": {
+         "authorized": "Stuart, Jesse, 1906-1984",
+         "lcna": "n79018157"
+        }
+     },
+     {"issue": {"issue-date": "1958-05"},
+        "title": "No More Depressions: Essay",
+        "author": {
+         "authorized": "Stuart, Jesse, 1906-1984",
+         "lcna": "n79018157"
+        }
+     },
+     {"issue": {"issue-date": "1958-09"},
+        "title": "Shadows: Poem",
+        "author": {
+         "authorized": "Stuart, Jesse, 1906-1984",
+         "lcna": "n79018157"
+        }
+     },
+     {"issue": {"issue-date": "1960-01"},
+        "title": "The Colors Winter Wears",
+        "author": {
+         "authorized": "Stuart, Jesse, 1906-1984",
+         "lcna": "n79018157"
+        }
+     },
+     {"issue": {"issue-date": "1960-04"},
+        "title": "Dream Orchard",
+        "author": {
+         "authorized": "Stuart, Jesse, 1906-1984",
+         "lcna": "n79018157"
+        }
+     },
+     {"issue": {"issue-date": "1962-01"},
+        "title": "Freedom Lanes",
+        "author": {
+         "authorized": "Stuart, Jesse, 1906-1984",
+         "lcna": "n79018157"
+        }
+     },
+     {"issue": {"issue-date": "1962-10"},
+        "title": "Lazy",
+        "author": {
+         "authorized": "Stuart, Jesse, 1906-1984",
+         "lcna": "n79018157"
+        }
+     },
+     {"issue": {"issue-date": "1963-06"},
+        "title": "Runes of the Far North",
+        "author": {
+         "authorized": "Olson, Sigurd F., 1899-1982",
+         "lcna": "n79045068"
+        }
+     },
+     {"issue": {"issue-date": "1963-09"},
+        "title": "New Garden of Eden?",
+        "author": {
+         "authorized": "Stuart, Jesse, 1906-1984",
+         "lcna": "n79018157"
+        }
+     },
+     {"issue": {"issue-date": "1963-10"},
+        "title": "The Beginning of Action: Carl Schurz and John Wesley Powell",
+        "author": {
+         "authorized": "Udall, Stewart L.",
+         "lcna": "n50046798"
+        }
+     },
+     {"issue": {"issue-date": "1963-11"},
+        "title": "Pinchot and the Foresters",
+        "author": {
+         "authorized": "Udall, Stewart L.",
+         "lcna": "n50046798"
+        }
+     },
+     {"issue": {"issue-date": "1963-11"},
+        "title": "We Took the Back Way Home",
+        "author": {
+         "authorized": "Stuart, Jesse, 1906-1984",
+         "lcna": "n79018157"
+        }
+     },
+     {"issue": {"issue-date": "1963-12"},
+        "title": "Or They Perish",
+        "author": {
+         "authorized": "Stuart, Jesse, 1906-1984",
+         "lcna": "n79018157"
+        }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-03-27"
+   "last-updated": "2025-01-25"
 }

@@ -7,16 +7,14 @@
        "note": "FictionMags"}
    ],
    "first-renewed-issue":
-      {"issue-date": "1929-12", "series": "2", "volume": "1", "number": "1"},
+      {"issue-date": "1930-02", "series": "2", "volume": "1", "number": "3",
+       "cdate": "1930-02-01"},
    "first-renewed-issue-source": "1957-JulDec",
    "first-renewed-contribution": 
       {"issue": {"issue-date": "1930-08"}},
    "first-renewed-contribution-source": "1958-JulDec",
    "renewed-issue-completeness": "active/1932",
    "renewed-issues": [
-      {"issue-date": "1929-12", "series": "2", "volume": "1", "number": "1"},
-      {"issue-date": "1930-01", "series": "2", "volume": "1", "number": "2",
-       "cdate": "1929-12-31"},
       {"issue-date": "1930-02", "series": "2", "volume": "1", "number": "3",
        "cdate": "1930-02-01"},
       {"issue-date": "1930-03", "series": "2", "volume": "1", "number": "4"},
@@ -78,5 +76,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-11-12"
+   "last-updated": "2025-01-11"
 }

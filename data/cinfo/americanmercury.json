@@ -4,28 +4,17 @@
    "online": "1",
    "first-issue": {"issue-date": "1924-01", "volume": "1", "number": "1"},
    "first-renewed-issue": 
-       {"issue-date": "1929-02", "volume": "16", "number": "62",
-          "cdate": "1929-01-25"},
-   "first-renewed-issue-source": "1956-JulDec",
+       {"issue-date": "1930-02", "volume": "19", "number": "74",
+        "cdate": "1930-01-24"},
+   "first-renewed-issue-source": "1958-JanJun",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1929-02"}},
-   "first-renewed-contribution-source": "1956-JanJun",
+     {"issue": {"issue-date": "1930-02", "volume": "19", "number": "74"}},
+   "first-renewed-contribution-source": "1957-JanJun",
    "see-also": [{"id": "americana1925", "note": "Americana"}],
    "renewed-issue-completeness": "active/autorenewals",
    "renewed-issues": [
-       {"issue-date": "1929-02", "volume": "16", "number": "62",
-          "cdate": "1929-01-25"},
-       {"issue-date": "1929-03", "volume": "16", "number": "63"},
-       {"issue-date": "1929-04", "volume": "16", "number": "64"},
-       {"issue-date": "1929-05", "volume": "17", "number": "65"},
-       {"issue-date": "1929-06", "volume": "17", "number": "66"},
-       {"issue-date": "1929-07", "volume": "17", "number": "67"},
-       {"issue-date": "1929-08", "volume": "17", "number": "68"},
-       {"issue-date": "1929-09", "volume": "18", "number": "69"},
-       {"issue-date": "1929-10", "volume": "18", "number": "70"},
-       {"issue-date": "1929-11", "volume": "18", "number": "71"},
-       {"issue-date": "1929-12", "volume": "18", "number": "72"},
-       {"issue-date": "1930-02", "volume": "19", "number": "74"},
+       {"issue-date": "1930-02", "volume": "19", "number": "74",
+        "cdate": "1930-01-24"},
        {"issue-date": "1930-03", "volume": "19", "number": "75"},
        {"issue-date": "1930-04", "volume": "19", "number": "76"},
        {"issue-date": "1930-05", "volume": "20", "number": "77"},
@@ -79,62 +68,6 @@
    ],
    "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1929-02"},
-      "title": "Old Man Isbell's Wife",
-      "author": {
-         "authorized": "Davis, H. L. (Harold Lenoir), 1896-1960",
-         "lcna": "n50036181"
-      }
-     },
-     {"issue": {"issue-date": "1929-03"},
-      "title": "Back to the Land, Oregon, 1907",
-      "author": {
-         "authorized": "Davis, H. L. (Harold Lenoir), 1896-1960",
-         "lcna": "n50036181"
-      }
-     },
-     {"issue": {"issue-date": "1929-04"},
-        "title": "Nocturne at Noon-1605",
-        "author": {
-         "authorized": "Ferril, Thomas Hornsby, 1896-1988",
-         "lcna": "n50001135"
-        }
-     },
-     {"issue": {"issue-date": "1929-04"},
-      "title": "Sapping Day",
-      "author": {
-         "authorized": "Tully, Jim",
-         "lcna": "n81119676"
-      }
-     },
-     {"issue": {"issue-date": "1929-07"},
-      "title": "The Graveyard That Moved",
-      "author": {
-         "authorized": "Tully, Jim",
-         "lcna": "n81119676"
-      }
-     },
-     {"issue": {"issue-date": "1929-09"},
-        "title": "The Rich Man in American History",
-        "author": {
-         "authorized": "Nickerson, Hoffman",
-         "lcna": "n94039709"
-        }
-     },
-     {"issue": {"issue-date": "1929-11"},
-        "title": "An American Leisure Class",
-        "author": {
-         "authorized": "Nickerson, Hoffman",
-         "lcna": "n94039709"
-        }
-     },
-     {"issue": {"issue-date": "1930-01"},
-      "title": "A Town in Eastern Oregon",
-      "author": {
-         "authorized": "Davis, H. L. (Harold Lenoir), 1896-1960",
-         "lcna": "n50036181"
-      }
-     },
      {"issue": {"issue-date": "1930-02"},
         "title": "The Twilight Legislatures",
         "author": {
@@ -1333,5 +1266,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-03-08"
+   "last-updated": "2025-01-01"
 }

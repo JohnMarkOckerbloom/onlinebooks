@@ -12,8 +12,8 @@
       "cdate": "1964-01-25"},
    "first-renewed-issue-source": "database",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1929-03"}},
-   "first-renewed-contribution-source": "1956-JanJun",
+     {"issue": {"issue-date": "1933-05"}},
+   "first-renewed-contribution-source": "1960-JanJun",
    "renewed-issue-completeness": "active/autorenewals",
    "renewed-issues": [
      {"issue-date": "1956-02", "volume": "39", "number": "2"},
@@ -35,19 +35,6 @@
    ],
    "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1929-03"},
-      "title": "Two Girls of Japan",
-      "author": {
-       "name": "Chiyono S. Kiyooka"
-      }
-     },
-     {"issue": {"issue-date": "1929-03"},
-      "title": "The Forgotten Daughter",
-      "author": {
-       "authorized": "Snedeker, Caroline Dale, 1871-1956",
-       "lcna": "no93010929"
-      }
-     },
      {"issue": {"issue-date": "1933-05"},
       "title": "Little Eva",
       "author": {
@@ -675,7 +662,6 @@
        }
      }
    ],
-   "comment": "Continue with database search",
    "additional-notes": [
       "A 1973 renewal record for the 1946 book 'Riding High' by Lenora Mattingly Weber mentions that it was previously published in The American Girl, but does not mention when it was published there.  The renewal might cover portions published in 1945 or 1946.",
       "A 1980 renewal record for the 1952 book 'Double Date' by Rosamond du Jardin mentions that it was published in The American Girl, but does not mention when it was published there.  The renewal might cover portions published in 1952. Portions published in 1951 also had renewals specifically filed, as seen above.",
@@ -687,5 +673,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-01-05"
+   "last-updated": "2025-01-01"
 }

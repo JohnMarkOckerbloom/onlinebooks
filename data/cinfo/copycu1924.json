@@ -3,15 +3,14 @@
    "title-note": "annual Columbia University anthology",
    "online": "1",
    "first-issue": {"issue-date": "1924"},
-   "first-renewed-issue": {"issue-date": "1929"},
-   "first-renewed-issue-source": "1957-JanJun",
+   "first-renewed-issue": {"issue-date": "1930"},
+   "first-renewed-issue-source": "1958-JanJun",
    "first-renewed-contribution": {"issue": {"issue-date": "1930"}},
    "first-renewed-contribution-source": "1958-JanJun",
    "last-issue": {"issue-date": "1930"},
    "succeeded-by": [{"id": "newcopy", "note": "New Copy"}],
    "renewed-issue-completeness": "active/end",
    "renewed-issues": [
-     {"issue-date": "1929"},
      {"issue-date": "1930"}
    ],
    "additional-notes": [
@@ -22,5 +21,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-02-20"
+   "last-updated": "2025-01-02"
 }

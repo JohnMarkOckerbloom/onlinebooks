@@ -10,155 +10,10 @@
       {"issue-date": "1946-07-15", "volume": "105", "number": "168"},
    "first-renewed-issue-source": "1974",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1929-02-03"}}, 
-   "first-renewed-contribution-source": "1956-JanJun",
+     {"issue": {"issue-date": "1930-01-05"}},
+   "first-renewed-contribution-source": "1957-JulDec",
    "renewed-contribution-completeness": "active/1931",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1929-02-03"}, 
-      "title": "A Sad Affair",
-      "author": {
-       "authorized": "Galsworthy, John, 1867-1933",
-       "lcna": "n79041972"
-      }
-     },
-     {"issue": {"issue-date": "1929-05-05"},
-      "title": "The Song is Ended",
-      "author": {
-       "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
-       "lcna": "no90021257"
-      }
-     },
-     {"issue": {"issue-date": "1929-07-14"},
-      "title": "The Long Night",
-      "title-note": "part 1 of 11",
-      "author": {
-       "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
-       "lcna": "no90021257"
-      }
-     },
-     {"issue": {"issue-date": "1929-07-21"},
-      "title": "The Long Night",
-      "title-note": "part 2 of 11",
-      "author": {
-       "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
-       "lcna": "no90021257"
-      }
-     },
-     {"issue": {"issue-date": "1929-07-28"},
-      "title": "The Long Night",
-      "title-note": "part 3 of 11",
-      "author": {
-       "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
-       "lcna": "no90021257"
-      }
-     },
-     {"issue": {"issue-date": "1929-07-28"},
-      "title": "Will You Walk Into My Parlour?",
-      "note": "Author name is a pseudonym for H. C. McNeile",
-      "author": {
-       "authorized": "Sapper, 1888-1937",
-       "lcna": "n85822242"
-      }
-     },
-     {"issue": {"issue-date": "1929-08-07"},
-      "title": "Old Paddlefoot",
-      "author": {
-       "authorized": "Pegler, J. Westbrook (James Westbrook), 1894-1969",
-       "lcna": "n86001732"
-      }
-     },
-     {"issue": {"issue-date": "1929-08-11"},
-      "title": "The Long Night",
-      "title-note": "part 5 of 11",
-      "note": "We did not find a renewal for part 4 of this series.",
-      "author": {
-       "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
-       "lcna": "no90021257"
-      }
-     },
-     {"issue": {"issue-date": "1929-08-18"},
-      "title": "The Long Night",
-      "title-note": "part 6 of 11",
-      "author": {
-       "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
-       "lcna": "no90021257"
-      }
-     },
-     {"issue": {"issue-date": "1929-08-25"},
-      "title": "The Long Night",
-      "title-note": "part 7 of 11",
-      "author": {
-       "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
-       "lcna": "no90021257"
-      }
-     },
-     {"issue": {"issue-date": "1929-09-01"},
-      "title": "The Long Night",
-      "title-note": "part 8 of 11",
-      "author": {
-       "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
-       "lcna": "no90021257"
-      }
-     },
-     {"issue": {"issue-date": "1929-09-08"},
-      "title": "The Long Night",
-      "title-note": "part 9 of 11",
-      "author": {
-       "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
-       "lcna": "no90021257"
-      }
-     },
-     {"issue": {"issue-date": "1929-09-08"},
-      "title": "Midair",
-      "author": {
-       "authorized": "Irwin, Wallace, 1876-1959",
-       "lcna": "n97112081"
-      }
-     },
-     {"issue": {"issue-date": "1929-09-15"},
-      "title": "The Long Night",
-      "title-note": "part 10 of 11",
-      "author": {
-       "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
-       "lcna": "no90021257"
-      }
-     },
-     {"issue": {"issue-date": "1929-09-22"},
-      "title": "The Long Night",
-      "title-note": "part 11 of 11",
-      "author": {
-       "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
-       "lcna": "no90021257"
-      }
-     },
-     {"issue": {"issue-date": "1929-09-22"},
-      "title": "Myrtle at 6 A. M.",
-      "author": {
-       "authorized": "Bennett, Arnold, 1867-1931",
-       "lcna": "n79095154"
-      }
-     },
-     {"issue": {"issue-date": "1929-12-15"},
-      "title": "Chilmark Lunette",
-      "title-note": "installment 1",
-      "author": {
-         "name": "Martha Haven"
-      }
-     },
-     {"issue": {"issue-date": "1929-12-22"},
-      "title": "Chilmark Lunette",
-      "title-note": "installment 2",
-      "author": {
-         "name": "Martha Haven"
-      }
-     },
-     {"issue": {"issue-date": "1929-12-29"},
-      "title": "Chilmark Lunette",
-      "title-note": "installment 3",
-      "author": {
-         "name": "Martha Haven"
-      }
-     },
      {"issue": {"issue-date": "1930-01-05"},
       "title": "Chilmark Lunette",
       "title-note": "installment 4",
@@ -1375,13 +1230,15 @@
      }
    ],
    "comment": "Pick up contribution renewals with 1960 Jan-Jun",
-   "additional-note": 
-     "The Daily issues are numbered separately from the Sunday issues (though both use the same volume numbers).  The first Sunday Tribune issue with an active renewal is the July 21, 1946 issue, volume 105, number 29.",
+   "additional-notes":  [
+      "Active contribution renewals are recorded beginning in the 1957 January-June CCE volume, but the earliest actively renewed contribution is noted in the 1957 July-December volume.",
+     "The Daily issues are numbered separately from the Sunday issues (though both use the same volume numbers).  The first Sunday Tribune issue with an active renewal is the July 21, 1946 issue, volume 105, number 29."
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
    "acknowledgement": 
       "Thanks to Joe Kishman for copyright research on this title.",
-   "last-updated": "2024-01-05"
+   "last-updated": "2025-01-01"
 }

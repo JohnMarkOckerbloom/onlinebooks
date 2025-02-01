@@ -8,69 +8,15 @@
    ],
    "first-issue": {"issue-date": "1915-10-05", "volume": "1", "number": "1"},
    "first-renewed-issue": 
-     {"issue-date": "1929-01-12", "volume": "107", "number": "1",
-      "cdate": "1929-01-04"},
-   "first-renewed-issue-source": "1956-JanJun",
+     {"issue-date": "1930-01-11", "volume": "115", "number": "5",
+      "cdate": "1930-01-03"},
+   "first-renewed-issue-source": "1957-JanJun",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1929-09-28", "volume": "113", "number": "2"}},
-   "first-renewed-contribution-source": "1956-JulDec",
+     {"issue": {"issue-date": "1930-01-11", "volume": "115", "number": "5"}},
+   "first-renewed-contribution-source": "1957-JanJun",
    "last-issue": {"issue-date": "1949-Summer", "volume": "177", "number": "1"},
    "renewed-issue-completeness": "active/1932",
    "renewed-issues": [
-     {"issue-date": "1929-01-12", "volume": "107", "number": "1",
-      "cdate": "1929-01-04"},
-     {"issue-date": "1929-01-19", "volume": "107", "number": "2"},
-     {"issue-date": "1929-01-26", "volume": "107", "number": "3"},
-     {"issue-date": "1929-02-02", "volume": "107", "number": "4"},
-     {"issue-date": "1929-02-09", "volume": "107", "number": "5"},
-     {"issue-date": "1929-02-16", "volume": "107", "number": "6"},
-     {"issue-date": "1929-02-23", "volume": "108", "number": "1"},
-     {"issue-date": "1929-03-02", "volume": "108", "number": "2"},
-     {"issue-date": "1929-03-09", "volume": "108", "number": "3"},
-     {"issue-date": "1929-03-16", "volume": "108", "number": "4"},
-     {"issue-date": "1929-03-23", "volume": "108", "number": "5"},
-     {"issue-date": "1929-03-30", "volume": "108", "number": "6"},
-     {"issue-date": "1929-04-06", "volume": "109", "number": "1"},
-     {"issue-date": "1929-04-13", "volume": "109", "number": "2"},
-     {"issue-date": "1929-04-20", "volume": "109", "number": "3"},
-     {"issue-date": "1929-04-27", "volume": "109", "number": "4"},
-     {"issue-date": "1929-05-04", "volume": "109", "number": "5"},
-     {"issue-date": "1929-05-11", "volume": "109", "number": "6"},
-     {"issue-date": "1929-05-18", "volume": "110", "number": "1"},
-     {"issue-date": "1929-05-25", "volume": "110", "number": "2"},
-     {"issue-date": "1929-06-01", "volume": "110", "number": "3"},
-     {"issue-date": "1929-06-08", "volume": "110", "number": "4"},
-     {"issue-date": "1929-06-15", "volume": "110", "number": "5"},
-     {"issue-date": "1929-06-22", "volume": "110", "number": "6"},
-     {"issue-date": "1929-06-29", "volume": "111", "number": "1"},
-     {"issue-date": "1929-07-06", "volume": "111", "number": "2"},
-     {"issue-date": "1929-07-13", "volume": "111", "number": "3"},
-     {"issue-date": "1929-07-20", "volume": "111", "number": "4"},
-     {"issue-date": "1929-07-27", "volume": "111", "number": "5"},
-     {"issue-date": "1929-08-03", "volume": "111", "number": "6"},
-     {"issue-date": "1929-08-10", "volume": "112", "number": "1"},
-     {"issue-date": "1929-08-17", "volume": "112", "number": "2"},
-     {"issue-date": "1929-08-24", "volume": "112", "number": "3"},
-     {"issue-date": "1929-08-31", "volume": "112", "number": "4"},
-     {"issue-date": "1929-09-07", "volume": "112", "number": "5"},
-     {"issue-date": "1929-09-14", "volume": "112", "number": "6"},
-     {"issue-date": "1929-09-21", "volume": "113", "number": "1"},
-     {"issue-date": "1929-09-28", "volume": "113", "number": "2"},
-     {"issue-date": "1929-10-05", "volume": "113", "number": "3"},
-     {"issue-date": "1929-10-12", "volume": "113", "number": "4"},
-     {"issue-date": "1929-10-19", "volume": "113", "number": "5"},
-     {"issue-date": "1929-10-26", "volume": "113", "number": "6"},
-     {"issue-date": "1929-11-02", "volume": "114", "number": "1"},
-     {"issue-date": "1929-11-09", "volume": "114", "number": "2"},
-     {"issue-date": "1929-11-16", "volume": "114", "number": "3"},
-     {"issue-date": "1929-11-23", "volume": "114", "number": "4"},
-     {"issue-date": "1929-11-30", "volume": "114", "number": "5"},
-     {"issue-date": "1929-12-07", "volume": "114", "number": "6"},
-     {"issue-date": "1929-12-14", "volume": "115", "number": "1"},
-     {"issue-date": "1929-12-21", "volume": "115", "number": "2"},
-     {"issue-date": "1930-12-28", "volume": "115", "number": "3"},
-     {"issue-date": "1930-01-04", "volume": "115", "number": "4",
-      "cdate": "1929-12-26"},
      {"issue-date": "1930-01-11", "volume": "115", "number": "5",
       "cdate": "1930-01-03"},
      {"issue-date": "1930-01-18", "volume": "115", "number": "6"},
@@ -250,38 +196,6 @@
    ],
    "renewed-contribution-completeness": "active/1930",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1929-09-28", "volume": "113", "number": "2"},
-      "title": "Lone House Mystery",
-      "title-note": "part 1 of 3",
-      "author": {
-        "authorized": "Wallace, Edgar, 1875-1932",
-        "lcna": "n80034938"
-      }
-     },
-     {"issue": {"issue-date": "1929-10-05", "volume": "113", "number": "3"},
-      "title": "Lone House Mystery",
-      "title-note": "part 2 of 3",
-      "author": {
-        "authorized": "Wallace, Edgar, 1875-1932",
-        "lcna": "n80034938"
-      }
-     },
-     {"issue": {"issue-date": "1929-10-12", "volume": "113", "number": "4"},
-      "title": "Lone House Mystery",
-      "title-note": "part 3 of 3",
-      "author": {
-        "authorized": "Wallace, Edgar, 1875-1932",
-        "lcna": "n80034938"
-      }
-     },
-     {"issue": {"issue-date": "1929-12-14", "volume": "115", "number": "1"},
-      "title": "The Last Adventure",
-      "note": "Title as given in CCE renewal record.  FictionMags gives title as 'His Last Adventure'.  We have not examined the issue in question.",
-      "author": {
-        "authorized": "Wallace, Edgar, 1875-1932",
-        "lcna": "n80034938"
-      }
-     },
      {"issue": {"issue-date": "1930-01-11", "volume": "115", "number": "5"},
       "title": "Ashamed",
       "author": {
@@ -535,5 +449,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-10-31"
+   "last-updated": "2025-01-03"
 }

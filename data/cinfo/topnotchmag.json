@@ -7,43 +7,14 @@
       "note": "FictionMags"}
    ],
    "first-renewed-issue":
-      {"issue-date": "1929-02-01", "volume": "76", "number": "5",
-       "cdate": "1929-01-02"},
-   "first-renewed-issue-source": "1956-JanJun",
+      {"issue-date": "1930-02-15", "volume": "80", "number": "6",
+       "cdate": "1930-01-15"},
+   "first-renewed-issue-source": "1957-JanJun",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1929-03-01", "volume": "77", "number": "1"}},
-   "first-renewed-contribution-source": "1956-JanJun",
+     {"issue": {"issue-date": "1930-03-01", "volume": "81", "number": "1"}},
+   "first-renewed-contribution-source": "1957-JanJun",
    "renewed-issue-completeness": "active/1932",
    "renewed-issues": [
-      {"issue-date": "1929-02-01", "volume": "76", "number": "5",
-       "cdate": "1929-01-02"},
-      {"issue-date": "1929-02-15", "volume": "76", "number": "6"},
-      {"issue-date": "1929-03-01", "volume": "77", "number": "1"},
-      {"issue-date": "1929-03-15", "volume": "77", "number": "2"},
-      {"issue-date": "1929-04-01", "volume": "77", "number": "3"},
-      {"issue-date": "1929-04-15", "volume": "77", "number": "4"},
-      {"issue-date": "1929-05-01", "volume": "77", "number": "5"},
-      {"issue-date": "1929-05-15", "volume": "77", "number": "6"},
-      {"issue-date": "1929-06-01", "volume": "78", "number": "1"},
-      {"issue-date": "1929-06-15", "volume": "78", "number": "2"},
-      {"issue-date": "1929-07-01", "volume": "78", "number": "3"},
-      {"issue-date": "1929-07-15", "volume": "78", "number": "4"},
-      {"issue-date": "1929-08-01", "volume": "78", "number": "5"},
-      {"issue-date": "1929-08-15", "volume": "78", "number": "6"},
-      {"issue-date": "1929-09-01", "volume": "79", "number": "1"},
-      {"issue-date": "1929-09-15", "volume": "79", "number": "2"},
-      {"issue-date": "1929-10-01", "volume": "79", "number": "3"},
-      {"issue-date": "1929-10-15", "volume": "79", "number": "4"},
-      {"issue-date": "1929-11-01", "volume": "79", "number": "5"},
-      {"issue-date": "1929-11-15", "volume": "79", "number": "6"},
-      {"issue-date": "1929-12-01", "volume": "80", "number": "1"},
-      {"issue-date": "1929-12-15", "volume": "80", "number": "2"},
-      {"issue-date": "1930-01-01", "volume": "80", "number": "3",
-       "cdate": "1929-11-29"},
-      {"issue-date": "1930-01-15", "volume": "80", "number": "4",
-       "cdate": "1929-12-12"},
-      {"issue-date": "1930-02-01", "volume": "80", "number": "5",
-       "cdate": "1929-12-31"},
       {"issue-date": "1930-02-15", "volume": "80", "number": "6",
        "cdate": "1930-01-15"},
       {"issue-date": "1930-03-01", "volume": "81", "number": "1"},
@@ -131,34 +102,6 @@
    ],
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1929-03-01", "volume": "77", "number": "1"},
-      "title": "Claws of Crime",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1929-06-01", "volume": "78", "number": "1"},
-      "title": "Manacled Vengeance",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1929-06-15", "volume": "78", "number": "2"},
-      "title": "King of the Eagle Clan",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1929-09-15", "volume": "79", "number": "2"},
-      "title": "Hawks of the Midnight Sky",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
      {"issue": {"issue-date": "1930-03-01", "volume": "81", "number": "1"},
       "title": "Midnight Justice",
       "author": {
@@ -178,5 +121,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-11-01"
+   "last-updated": "2025-01-07"
 }

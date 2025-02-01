@@ -2,16 +2,13 @@
    "title": "The New York Times Index",
    "see-also": [{"id": "nytimes", "note": "The New York Times"}],
    "first-renewed-issue":
-      {"issue-date": "1928-October-December", "cdate": "1929-02-11",
-       "volume": "16", "number": "4"},
-   "first-renewed-issue-source": "1956-JanJun",
+      {"issue-date": "1929-October-December", "cdate": "1930-02-10",
+       "volume": "17", "number": "4"},
+   "first-renewed-issue-source": "1957-JanJun",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
    "renewed-issue-completeness": "active/1932",
    "renewed-issues": [
-      {"issue-date": "1928-October-December", "cdate": "1929-02-11",
-       "volume": "16", "number": "4"},
-      {"issue-date": "1929-January-March", "volume": "17", "number": "1"},
       {"issue-date": "1929-October-December", "cdate": "1930-02-10",
        "volume": "17", "number": "4"},
       {"issue-date": "1930-01", "volume": "18", "number": "1"},
@@ -81,5 +78,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-10-25"
+   "last-updated": "2025-01-01"
 }

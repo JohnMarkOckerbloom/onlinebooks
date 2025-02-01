@@ -3,30 +3,18 @@
    "online": "1",
    "first-issue": {"issue-date": "1885-05-02", "volume": "1", "number": "1"},
    "first-renewed-issue":
-     {"issue-date": "1929-02", "volume": "88", "number": "2"},
-   "first-renewed-issue-source": "1957-JanJun",
+     {"issue-date": "1930-02", "volume": "90", "number": "2",
+      "cdate": "1930-01-23"},
+   "first-renewed-issue-source": "1958-JanJun",
    "first-autorenewed-issue": {
     "issue-date": "1964-02", "cdate": "1964-01-16",
     "volume": "158", "number": "2"
    }, 
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1929-02", "volume": "88", "number": "2"}},
-   "first-renewed-contribution-source": "1956-JanJun",
+     {"issue": {"issue-date": "1930-02", "volume": "90", "number": "2"}},
+   "first-renewed-contribution-source": "1957-JanJun",
    "renewed-issue-completeness": "active/1932",
    "renewed-issues": [
-     {"issue-date": "1929-02", "volume": "88", "number": "2"},
-     {"issue-date": "1929-03", "volume": "88", "number": "3"},
-     {"issue-date": "1929-04", "volume": "88", "number": "4"},
-     {"issue-date": "1929-05", "volume": "88", "number": "5"},
-     {"issue-date": "1929-06", "volume": "88", "number": "6"},
-     {"issue-date": "1929-07", "volume": "89", "number": "1"},
-     {"issue-date": "1929-08", "volume": "89", "number": "2"},
-     {"issue-date": "1929-09", "volume": "89", "number": "3"},
-     {"issue-date": "1929-10", "volume": "89", "number": "4"},
-     {"issue-date": "1929-11", "volume": "89", "number": "5"},
-     {"issue-date": "1929-12", "volume": "89", "number": "6"},
-     {"issue-date": "1930-01", "volume": "90", "number": "1",
-      "cdate": "1929-12-25"},
      {"issue-date": "1930-02", "volume": "90", "number": "2",
       "cdate": "1930-01-23"},
      {"issue-date": "1930-03", "volume": "90", "number": "3"},
@@ -67,111 +55,6 @@
    ],
    "renewed-contribution-completeness": "active/1930",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1929-02", "volume": "88", "number": "2"},
-        "title": "The Valentine Box",
-        "author": {
-         "authorized": "Suckow, Ruth, 1892-1960",
-         "lcna": "n88117683"
-        }
-     },
-     {"issue": {"issue-date": "1929-02", "volume": "88", "number": "2"},
-      "title": "The City of Golden Doom",
-      "author": {
-       "authorized": "Squier, Emma-Lindsay, 1892-1941",
-       "lcna": "no2007059420"
-      }
-     },
-     {"issue": {"issue-date": "1929-02", "volume": "88", "number": "2"},
-      "title": "Rhoda",
-      "title-note": "part 6 of 6",
-      "author": {
-       "authorized": "Webster, Henry Kitchell, 1875-1932",
-       "lcna": "n50023782"
-      }
-     },
-     {"issue": {"issue-date": "1929-04", "volume": "88", "number": "4"},
-      "title": "Caballo de Flores",
-      "author": {
-       "authorized": "Squier, Emma-Lindsay, 1892-1941",
-       "lcna": "no2007059420"
-      }
-     },
-     {"issue": {"issue-date": "1929-06", "volume": "88", "number": "6"},
-      "title": "The Pride of Dona Beatriz",
-      "author": {
-       "authorized": "Squier, Emma-Lindsay, 1892-1941",
-       "lcna": "no2007059420"
-      }
-     },
-     {"issue": {"issue-date": "1929-07", "volume": "89", "number": "1"},
-      "title": "Babes in the Wildwoods",
-      "author": {
-       "authorized": "Rutledge, Archibald, 1883-1973",
-       "lcna": "n50031762"
-      }
-     },
-     {"issue": {"issue-date": "1929-08", "volume": "89", "number": "2"},
-      "title": "Old Man Duendy",
-      "author": {
-       "authorized": "Squier, Emma-Lindsay, 1892-1941",
-       "lcna": "no2007059420"
-      }
-     },
-     {"issue": {"issue-date": "1929-09", "volume": "89", "number": "3"},
-      "title": "Alibi",
-      "title-note": "part 1 of 6",
-      "author": {
-         "authorized": "Van de Water, Frederic F., 1890-1968",
-         "lcna": "n82046903"
-      }
-     },
-     {"issue": {"issue-date": "1929-10", "volume": "89", "number": "4"},
-      "title": "Alibi",
-      "title-note": "part 2 of 6",
-      "author": {
-         "authorized": "Van de Water, Frederic F., 1890-1968",
-         "lcna": "n82046903"
-      }
-     },
-     {"issue": {"issue-date": "1929-11", "volume": "89", "number": "5"},
-      "title": "The Last Emperor",
-      "author": {
-       "authorized": "Squier, Emma-Lindsay, 1892-1941",
-       "lcna": "no2007059420"
-      }
-     },
-     {"issue": {"issue-date": "1929-11", "volume": "89", "number": "5"},
-      "title": "Alibi",
-      "title-note": "part 3 of 6",
-      "author": {
-         "authorized": "Van de Water, Frederic F., 1890-1968",
-         "lcna": "n82046903"
-      }
-     },
-     {"issue": {"issue-date": "1929-12", "volume": "89", "number": "6"},
-      "title": "Alibi",
-      "title-note": "part 4 of 6",
-      "author": {
-         "authorized": "Van de Water, Frederic F., 1890-1968",
-         "lcna": "n82046903"
-      }
-     },
-     {"issue": {"issue-date": "1930-01", "volume": "90", "number": "1"},
-      "title": "The Fool of the Family",
-      "title-note": "part 1 of 6",
-      "author": {
-       "authorized": "Kennedy, Margaret, 1896-1967",
-       "lcna": "n50045345"
-      }
-     },
-     {"issue": {"issue-date": "1930-01", "volume": "90", "number": "1"},
-      "title": "Alibi",
-      "title-note": "part 5 of 6",
-      "author": {
-         "authorized": "Van de Water, Frederic F., 1890-1968",
-         "lcna": "n82046903"
-      }
-     },
      {"issue": {"issue-date": "1930-02", "volume": "90", "number": "2"},
       "title": "The Fool of the Family",
       "title-note": "part 2 of 6",
@@ -561,5 +444,5 @@
    },
    "acknowledgement": 
       "Thanks to Felice Gollotti for copyright research on this title.",
-   "last-updated": "2024-11-10"
+   "last-updated": "2025-01-05"
 }

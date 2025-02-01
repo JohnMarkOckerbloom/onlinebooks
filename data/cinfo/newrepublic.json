@@ -8,8 +8,8 @@
      {"issue-date": "1964-01-11", "cdate": "1964-01-03",
       "volume": "150", "number": "2"},
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1929-09-18"}},
-   "first-renewed-contribution-source": "1956-JulDec",
+     {"issue": {"issue-date": "1930-03-26"}},
+   "first-renewed-contribution-source": "1957-JanJun",
    "renewed-issue-completeness": "active/1950",
    "renewed-issues": [
      {"issue-date": "1930-08-13", "volume": "63", "number": "819"},
@@ -456,41 +456,6 @@
    ],
    "renewed-contribution-completeness": "active/1942",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1929-09-18"},
-        "title": "Song",
-        "author": {
-         "authorized": "Benét, Stephen Vincent, 1898-1943",
-         "lcna": "n50007691"
-        }
-     },
-     {"issue": {"issue-date": "1929-09-25"},
-        "title": "Three Things",
-        "author": {
-         "authorized": "Yeats, W. B. (William Butler), 1865-1939",
-         "lcna": "n78095579"
-        }
-     },
-     {"issue": {"issue-date": "1929-10-30"},
-        "title": "Bad Dreams",
-        "author": {
-         "authorized": "Benét, Stephen Vincent, 1898-1943",
-         "lcna": "n50007691"
-        }
-     },
-     {"issue": {"issue-date": "1929-10-30"},
-        "title": "Let's Not Wear Them",
-        "author": {
-         "authorized": "Hurst, Fannie, 1889-1968",
-         "lcna": "n80010314"
-        }
-     },
-     {"issue": {"issue-date": "1929-12-18"},
-        "title": "Soul's Adventure",
-        "author": {
-          "authorized": "Kunitz, Stanley, 1905-2006",
-          "lcna": "n79007720"
-        }
-     },
      {"issue": {"issue-date": "1930-03-26"},
       "title": "Factory Town",
       "author": {
@@ -3008,5 +2973,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-01-05"
+   "last-updated": "2025-01-01"
 }

@@ -7,27 +7,11 @@
      {"issue-date": "1944-11", "volume": "37", "number": "5"},
    "first-renewed-issue-source": "1972",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1929-02", "cdate": "1929-01-25"}}, 
-   "first-renewed-contribution-source": "1956-JanJun",
+     {"issue": {"issue-date": "1930-02", "cdate": "1930-01-25"}}, 
+   "first-renewed-contribution-source": "1957-JulDec",
    "renewed-contribution-completeness": "active/1949",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1929-02"}, 
-       "title": "The Man in the White Slicker",
-       "title-note": "part 7 of 7",
-       "author": {
-        "authorized": "Nason, Leonard H. (Leonard Hastings), 1895-1970",
-        "lcna": "no2002077800"
-       }
-     },
-     {"issue": {"issue-date": "1930-01"}, 
-       "title": "Livingston Brothers",
-       "title-note": "part 1 of 9",
-       "author": {
-        "authorized": "Nason, Leonard H. (Leonard Hastings), 1895-1970",
-        "lcna": "no2002077800"
-       }
-     },
-     {"issue": {"issue-date": "1930-02"}, 
+     {"issue": {"issue-date": "1930-02", "cdate": "1930-01-25"}, 
        "title": "Livingston Brothers",
        "title-note": "part 2 of 9",
        "author": {
@@ -305,5 +289,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-01-06"
+   "last-updated": "2025-01-01"
 }

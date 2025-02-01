@@ -8,8 +8,8 @@
      {"issue-date": "1934-06-09", "volume": "10", "number": "47"},
    "first-renewed-issue-source": "1962-JanJun",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1929-03-09"}}, 
-   "first-renewed-contribution-source": "1957-JanJun",
+     {"issue": {"issue-date": "1930-03-22"}},
+   "first-renewed-contribution-source": "1957-JulDec",
    "see-also":
      [{"id": "satreview1855", "note": "The Saturday Review (UK, 1855-1938)"}],
    "renewed-issue-completeness": "active/1948",
@@ -830,41 +830,6 @@
    ],
    "renewed-contribution-completeness": "active/1931",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1929-03-09"}, 
-      "title": "On a Night of Snow",
-       "author": {
-         "authorized": "Coatsworth, Elizabeth, 1893-1986",
-         "lcna": "n79026738"
-       }
-     },
-     {"issue": {"issue-date": "1929-03-16"},
-        "title": "Quarrel",
-        "author": {
-         "authorized": "Aiken, Conrad, 1889-1973",
-         "lcna": "n80060447"
-        }
-     },
-     {"issue": {"issue-date": "1929-04-20"},
-      "title": "The Barefoot Saint",
-      "author": {
-       "authorized": "Benét, Stephen Vincent, 1898-1943",
-       "lcna": "n50007691"
-      }
-     },
-     {"issue": {"issue-date": "1929-04-20"},
-      "title": "Let Us Confound Them",
-      "author": {
-       "authorized": "Tarkington, Booth, 1869-1946",
-       "lcna": "n79078124"
-      }
-     },
-     {"issue": {"issue-date": "1929-11-30"},
-        "title": "This is My Rock",
-        "author": {
-         "authorized": "McCord, David Thompson Watson, 1897-1997",
-         "lcna": "n79109946"
-        }
-     },
      {"issue": {"issue-date": "1930-03-22"},
       "title": "Portrait",
       "author": {
@@ -1266,10 +1231,9 @@
         }
      }
    ],
-   "additional-note": "Active contribution renewals are recorded beginning in the 1956 January-June CCE volume, but the earliest actively renewed contribution is noted in the 1957 January-June volume.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-07-05"
+   "last-updated": "2025-01-09"
 }

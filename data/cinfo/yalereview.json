@@ -5,38 +5,10 @@
       {"issue-date": "1934-Autumn", "volume": "24", "number": "1"},
    "first-renewed-issue-source": "1962-JulDec",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1929-Summer", "volume": "18", "number": "4"}},
-   "first-renewed-contribution-source": "1956-JulDec",
+     {"issue": {"issue-date": "1930-Spring"}},
+   "first-renewed-contribution-source": "1957-JulDec",
    "renewed-contribution-completeness": "active/1950",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1929-Summer", "volume": "18", "number": "4"},
-      "title": "Wordsworth in the Tropics",
-      "author": {
-       "authorized": "Huxley, Aldous, 1894-1963",
-       "lcna": "n80057246"
-      }
-     },
-     {"issue": {"issue-date": "1929-Autumn"},
-      "title": "Thirty Clocks Strike the Hour",
-      "author": {
-       "authorized": "Sackville-West, V. (Victoria), 1892-1962",
-       "lcna": "n80003934"
-      }
-     },
-     {"issue": {"issue-date": "1929-Autumn"},
-        "title": "Eve Enthroned, Catherine the Great",
-        "author": {
-         "authorized": "Bradford, Gamaliel, 1863-1932",
-         "lcna": "n50042916"
-        }
-     },
-     {"issue": {"issue-date": "1930-Winter"},
-        "title": "A Thirst for God: Madame Guyon",
-        "author": {
-         "authorized": "Bradford, Gamaliel, 1863-1932",
-         "lcna": "n50042916"
-        }
-     },
      {"issue": {"issue-date": "1930-Spring"},
         "title": "A Red Coat for Night",
         "author": {
@@ -513,5 +485,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-01-04"
+   "last-updated": "2025-01-07"
 }

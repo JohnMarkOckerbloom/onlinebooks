@@ -1,16 +1,14 @@
 {
    "title": "London Calling Magazine",
-   "title-note": "1920s UK magazine",
-   "first-renewed-issue": "none",
-   "first-renewed-issue-source": "cce",
-   "first-renewed-contribution": "none",
-   "first-renewed-contribution-source": "cce",
+   "title-note": "1920s UK periodical",
+   "first-issue": {"issue-date": "1928-03-03"},
+   "rights-statement": "NoC-US",
    "see-also": [{"id": "londoncallbbc", "note": "London Calling (BBC)"}],
    "additional-note": 
-      "This is a British publication. Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US.",
+      "The National Library of Scotland has 51 issues of this now-rare weekly periodical that was the first to run a serialization of P. G. Wodehouse's 'Money for Nothing'.  The British Library also has an unknown number of issues. It appears to have ceased publication in 1929.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-01-07"
+   "last-updated": "2025-01-12"
 }

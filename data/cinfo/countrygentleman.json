@@ -2,28 +2,14 @@
    "title": "Country Gentleman",
    "online": "1",
    "first-renewed-issue": 
-     {"issue-date": "1929-02", "volume": "94", "number": "2",
-      "cdate": "1929-01-31"},
-   "first-renewed-issue-source": "1956-JulDec",
+     {"issue-date": "1930-02", "volume": "95", "number": "2",
+      "cdate": "1930-01-30"},
+   "first-renewed-issue-source": "1957-JulDec",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1929-02"}},
-   "first-renewed-contribution-source": "1956-JanJun",
+     {"issue": {"issue-date": "1930-02"}}, 
+   "first-renewed-contribution-source": "1957-JanJun",
    "renewed-issue-completeness": "active/1932",
    "renewed-issues": [
-     {"issue-date": "1929-02", "volume": "94", "number": "2",
-      "cdate": "1929-01-31"},
-     {"issue-date": "1929-03", "volume": "94", "number": "3"},
-     {"issue-date": "1929-04", "volume": "94", "number": "4"},     
-     {"issue-date": "1929-05", "volume": "94", "number": "5"},
-     {"issue-date": "1929-06", "volume": "94", "number": "6"},
-     {"issue-date": "1929-07", "volume": "94", "number": "7"},
-     {"issue-date": "1929-08", "volume": "94", "number": "8"},
-     {"issue-date": "1929-09", "volume": "94", "number": "9"},
-     {"issue-date": "1929-10", "volume": "94", "number": "10"},
-     {"issue-date": "1929-11", "volume": "94", "number": "11"},
-     {"issue-date": "1929-12", "volume": "94", "number": "12"},
-     {"issue-date": "1930-01", "volume": "95", "number": "1",
-      "cdate": "1929-12-26"},
      {"issue-date": "1930-02", "volume": "95", "number": "2",
       "cdate": "1930-01-30"},
      {"issue-date": "1930-03", "volume": "95", "number": "3"},
@@ -76,125 +62,6 @@
    ],
    "renewed-contribution-completeness": "active/1931",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1929-02"}, 
-      "title": "Fighting Caravans",
-      "title-note": "part 4 of 5",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1929-02"}, 
-      "title": "The Bell on Hag's Teeth",
-      "author": {
-         "authorized": "Titus, Harold, 1888-1967",
-         "lcna": "no2008175553"
-      }
-     },
-     {"issue": {"issue-date": "1929-03"}, 
-      "title": "Fighting Caravans",
-      "title-note": "part 5 of 5",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1929-04"}, 
-      "title": "Neighbors",
-      "author": {
-         "authorized": "Titus, Harold, 1888-1967",
-         "lcna": "no2008175553"
-      }
-     },
-     {"issue": {"issue-date": "1929-05"}, 
-      "title": "The Luck Cat",
-      "author": {
-       "authorized": "Williams, Ben Ames, 1889-1953",
-       "lcna": "n80006285"
-      }
-     },
-     {"issue": {"issue-date": "1929-07"}, 
-      "title": "Looker-After",
-      "author": {
-         "authorized": "Titus, Harold, 1888-1967",
-         "lcna": "no2008175553"
-      }
-     },
-     {"issue": {"issue-date": "1929-07"}, 
-      "title": "Mustard Flower",
-      "author": {
-       "authorized": "Jackson, Margaret Weymouth",
-       "lcna": "no94014713"
-      }
-     },
-     {"issue": {"issue-date": "1929-09"}, 
-      "title": "Pricking Thumbs",
-      "title-note": "part 1 of 3",
-      "author": {
-       "authorized": "Williams, Ben Ames, 1889-1953",
-       "lcna": "n80006285"
-      }
-     },
-     {"issue": {"issue-date": "1929-09"}, 
-      "title": "Crucible",
-      "author": {
-         "authorized": "Titus, Harold, 1888-1967",
-         "lcna": "no2008175553"
-      }
-     },
-     {"issue": {"issue-date": "1929-10"},
-       "title": "Judgment-Proof",
-       "author": {
-         "authorized": "Kahler, Hugh MacNair, 1883-1969",
-         "lcna": "no96006587"
-       }
-     },
-     {"issue": {"issue-date": "1929-10"},
-      "title": "Pricking Thumbs",
-      "title-note": "part 2 of 3",
-      "author": {
-       "authorized": "Williams, Ben Ames, 1889-1953",
-       "lcna": "n80006285"
-      }
-     },
-     {"issue": {"issue-date": "1929-11"},
-      "title": "Pricking Thumbs",
-      "title-note": "part 3 of 3",
-      "author": {
-       "authorized": "Williams, Ben Ames, 1889-1953",
-       "lcna": "n80006285"
-      }
-     },
-     {"issue": {"issue-date": "1929-12"}, 
-      "title": "Moment of Glory",
-      "author": {
-         "authorized": "Titus, Harold, 1888-1967",
-         "lcna": "no2008175553"
-      }
-     },
-     {"issue": {"issue-date": "1929-12"}, 
-      "title": "Rustlers of Silver River",
-      "title-note": "part 1 of 5",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1929-12"}, 
-      "title": "The First Witness",
-      "author": {
-       "authorized": "Jackson, Margaret Weymouth",
-       "lcna": "no94014713"
-      }
-     },
-     {"issue": {"issue-date": "1930-01"}, 
-      "title": "Rustlers of Silver River",
-      "title-note": "part 2 of 5",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
      {"issue": {"issue-date": "1930-02"}, 
       "title": "Rustlers of Silver River",
       "title-note": "part 3 of 5",
@@ -414,5 +281,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-09-28"
+   "last-updated": "2025-01-03"
 }

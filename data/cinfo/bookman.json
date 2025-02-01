@@ -6,126 +6,11 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1929-01"}}, 
-   "first-renewed-contribution-source": "1956-JanJun",
+     {"issue": {"issue-date": "1930-01"}}, 
+   "first-renewed-contribution-source": "1957-JulDec",
    "last-issue": {"issue-date": "1933-03", "volume": "76", "number": "3"},
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1929-01"}, 
-      "title": "A London Commentary",
-        "author": {
-         "authorized": "West, Rebecca, 1892-1983",
-         "lcna": "n79100227"
-        }
-     },
-     {"issue": {"issue-date": "1929-02"},
-      "title": "Big Blonde",
-      "author": {
-       "authorized": "Parker, Dorothy, 1893-1967",
-       "lcna": "n50050331"
-      }
-     },
-     {"issue": {"issue-date": "1929-03"}, 
-      "title": "Progress in Arcadia",
-      "author": {
-       "authorized": "Hume, Cyril, 1900-1966",
-       "lcna": "no90001892"
-      }
-     },
-     {"issue": {"issue-date": "1929-03"}, 
-      "title": "A Commentary",
-      "title-note": "part 1 of 2",
-        "author": {
-         "authorized": "West, Rebecca, 1892-1983",
-         "lcna": "n79100227"
-        }
-     },
-     {"issue": {"issue-date": "1929-04"}, 
-      "title": "A Commentary",
-      "title-note": "part 2 of 2",
-        "author": {
-         "authorized": "West, Rebecca, 1892-1983",
-         "lcna": "n79100227"
-        }
-     },
-     {"issue": {"issue-date": "1929-06"}, 
-      "title": "A London Letter",
-      "title-note": "part 1",
-        "author": {
-         "authorized": "West, Rebecca, 1892-1983",
-         "lcna": "n79100227"
-        }
-     },
-     {"issue": {"issue-date": "1929-06"}, 
-      "title": "A London Letter",
-      "note": "Presumably part 2 of what began in May, though unlike the other installments, no part designation is mentioned in this contribution's renewal record.",
-        "author": {
-         "authorized": "West, Rebecca, 1892-1983",
-         "lcna": "n79100227"
-        }
-     },
-     {"issue": {"issue-date": "1929-07"}, 
-      "title": "A London Letter",
-      "title-note": "part 3",
-        "author": {
-         "authorized": "West, Rebecca, 1892-1983",
-         "lcna": "n79100227"
-        }
-     },
-     {"issue": {"issue-date": "1929-08"}, 
-      "title": "A London Letter",
-      "title-note": "part 4",
-        "author": {
-         "authorized": "West, Rebecca, 1892-1983",
-         "lcna": "n79100227"
-        }
-     },
-     {"issue": {"issue-date": "1929-09"},
-        "title": "The Claxtons",
-        "author": {
-         "authorized": "Huxley, Aldous, 1894-1963",
-         "lcna": "n80057246"
-        }
-     },
-     {"issue": {"issue-date": "1929-09"},
-      "title": "The Church Festival",
-      "author": {
-       "authorized": "Johnston, Mary, 1870-1936",
-       "lcna": "n80156622"
-      }
-     },
-     {"issue": {"issue-date": "1929-09"}, 
-      "title": "A Letter From Abroad",
-      "title-note": "part 1 of 9",
-        "author": {
-         "authorized": "West, Rebecca, 1892-1983",
-         "lcna": "n79100227"
-        }
-     },
-     {"issue": {"issue-date": "1929-10"}, 
-      "title": "A Letter From Abroad",
-      "title-note": "part 2 of 9",
-        "author": {
-         "authorized": "West, Rebecca, 1892-1983",
-         "lcna": "n79100227"
-        }
-     },
-     {"issue": {"issue-date": "1929-11"}, 
-      "title": "A Letter From Abroad",
-      "title-note": "part 3 of 9",
-        "author": {
-         "authorized": "West, Rebecca, 1892-1983",
-         "lcna": "n79100227"
-        }
-     },
-     {"issue": {"issue-date": "1929-12"}, 
-      "title": "A Letter From Abroad",
-      "title-note": "part 4 of 9",
-        "author": {
-         "authorized": "West, Rebecca, 1892-1983",
-         "lcna": "n79100227"
-        }
-     },
      {"issue": {"issue-date": "1930-01"}, 
       "title": "A Letter From Abroad",
       "title-note": "part 5 of 9",
@@ -244,5 +129,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-01-05"
+   "last-updated": "2025-01-01"
 }

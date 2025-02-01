@@ -11,8 +11,8 @@
       {"issue-date": "1934-07", "volume": "24", "number": "7"},
    "first-renewed-issue-source": "1962-JanJun",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1929-11"}},
-   "first-renewed-contribution-source": "1956-JulDec",
+     {"issue": {"issue-date": "1930-02", "cdate": "1930-01-20"}},
+   "first-renewed-contribution-source": "1957-JulDec",
    "renewed-issue-completeness": "active/autorenewals",
    "renewed-issues": [
       {"issue-date": "1934-07", "volume": "24", "number": "7"},
@@ -366,30 +366,7 @@
    ],
    "renewed-contribution-completeness": "active/1949",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1929-11"},
-      "title": "Adventure",
-      "author": {
-         "authorized": "White, Stewart Edward, 1873-1946",
-         "lcna": "n50020243"
-      }
-     },
-     {"issue": {"issue-date": "1929-12"},
-      "title": "Thirty Fathoms Deep",
-      "title-note": "part 1 of 6",
-      "author": {
-         "authorized": "Ellsberg, Edward, 1891-1983",
-         "lcna": "n81078681"
-      }
-     },
-     {"issue": {"issue-date": "1930-01"},
-      "title": "Thirty Fathoms Deep",
-      "title-note": "part 2 of 6",
-      "author": {
-         "authorized": "Ellsberg, Edward, 1891-1983",
-         "lcna": "n81078681"
-      }
-     },
-     {"issue": {"issue-date": "1930-02"},
+     {"issue": {"issue-date": "1930-02", "cdate": "1930-01-20"},
       "title": "Thirty Fathoms Deep",
       "title-note": "part 3 of 6",
       "author": {
@@ -753,10 +730,13 @@
    ],
    "comment": "pick up with database, item 47 in date order",
    "see-also": [{"id": "boyscoutsyrbk", "note": "The Boy Scouts' Year Book"}],
-   "additional-note": "Renewals for The Boy Scouts' Year Book, which reprinted material from this magazine, may in some cases cover additional contributions to this magazine, if they first appeared here within 28 years of an active renewal filing for the relevant Year Book volume.",
+   "additional-notes": [
+     "Renewals for The Boy Scouts' Year Book, which reprinted material from this magazine, may in some cases cover additional contributions to this magazine, if they first appeared here within 28 years of an active renewal filing for the relevant Year Book volume.",
+     "Active renewals for contributions to this magazine first appear in the January-June 1957 CCE, but the renewal for the earliest contribution with an active copyright appears in the July-December CCE."
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-01-02"
+   "last-updated": "2025-01-01"
 }

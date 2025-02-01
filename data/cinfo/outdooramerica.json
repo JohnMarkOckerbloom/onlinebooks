@@ -5,17 +5,10 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1929-04"}}, 
-   "first-renewed-contribution-source": "1957-JanJun",
+     {"issue": {"issue-date": "1930-06"}}, 
+   "first-renewed-contribution-source": "1958-JanJun",
    "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1929-04"}, 
-      "title": "The Wrath of the Raped",
-      "author": {
-       "authorized": "Kantor, MacKinlay, 1904-1977",
-       "lcna": "n79140979"
-      }
-     },
      {"issue": {"issue-date": "1930-06"}, 
       "title": "One Flew East",
       "author": {
@@ -35,5 +28,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-01-26"
+   "last-updated": "2021-01-09"
 }

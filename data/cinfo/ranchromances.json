@@ -9,39 +9,17 @@
    "first-issue":
       {"issue-date": "1924-09", "volume": "1", "number": "1"},
    "first-renewed-issue":
-      {"issue-date": "1929-02-22", "volume": "21", "number": "2",
-       "cdate": "1929-01-11"},
-   "first-renewed-issue-source": "1956-JulDec",
+      {"issue-date": "1930-02-28", "volume": "27", "number": "2",
+       "cdate": "1930-01-09"},
+   "first-renewed-issue-source": "1957-JulDec",
    "first-renewed-contribution": {
       "issue": {"issue-date": "1932-03-25", "volume": "40", "number": "4"}
    },
    "first-renewed-contribution-source": "1960-JanJun",
    "renewed-issue-completeness": "active/1949",
    "renewed-issues": [
-      {"issue-date": "1929-02-22", "volume": "21", "number": "2",
-       "cdate": "1929-01-11"},
-      {"issue-date": "1929-03-08", "volume": "21", "number": "3"},
-      {"issue-date": "1929-03-22", "volume": "21", "number": "4"},
-      {"issue-date": "1929-04-12", "volume": "22", "number": "1"},
-      {"issue-date": "1929-04-26", "volume": "22", "number": "2"},
-      {"issue-date": "1929-05-10", "volume": "22", "number": "3"},
-      {"issue-date": "1929-05-24", "volume": "22", "number": "4"},
-      {"issue-date": "1929-06-14", "volume": "23", "number": "1"},
-      {"issue-date": "1929-06-26", "volume": "23", "number": "2"},
-      {"issue-date": "1929-07-12", "volume": "23", "number": "3"},
-      {"issue-date": "1929-08-09", "volume": "24", "number": "1"},
-      {"issue-date": "1929-08-23", "volume": "24", "number": "2"},
-      {"issue-date": "1929-09-27", "volume": "24", "number": "4"},
-      {"issue-date": "1929-10-11", "volume": "25", "number": "1"},
-      {"issue-date": "1929-10-25", "volume": "25", "number": "2"},
-      {"issue-date": "1929-11-08", "volume": "25", "number": "3"},
-      {"issue-date": "1929-11-22", "volume": "25", "number": "4"},
-      {"issue-date": "1929-12-13", "volume": "26", "number": "1"},
-      {"issue-date": "1929-12-27", "volume": "26", "number": "2"},
-      {"issue-date": "1930-01-10", "volume": "26", "number": "3"},
-      {"issue-date": "1930-01-24", "volume": "26", "number": "4"},
-      {"issue-date": "1930-02-14", "volume": "27", "number": "1"},
-      {"issue-date": "1930-02-28", "volume": "27", "number": "2"},
+      {"issue-date": "1930-02-28", "volume": "27", "number": "2",
+       "cdate": "1930-01-09"},
       {"issue-date": "1930-03-14", "volume": "27", "number": "3"},
       {"issue-date": "1930-03-28", "volume": "27", "number": "4"},
       {"issue-date": "1930-04-11", "volume": "28", "number": "1"},
@@ -1034,5 +1012,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-01-03"
+   "last-updated": "2024-01-06"
 }

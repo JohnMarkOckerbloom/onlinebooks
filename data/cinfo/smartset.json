@@ -9,79 +9,11 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1929-02", "cdate": "1929-01-01"}},
-   "first-renewed-contribution-source": "1956-JanJun",
+     {"issue": {"issue-date": "1930-03"}}, 
+   "first-renewed-contribution-source": "1957-JanJun",
    "see-also": [{"id": "mcclures", "note": "McClure's"}],
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1929-02"},
-      "title": "The Infamous Miss Quain",
-      "author": {
-       "authorized": "Johnson, Nunnally",
-       "lcna": "n79134929"
-      }
-     },
-     {"issue": {"issue-date": "1929-02"},
-      "title": "Peter and Mrs. Pan",
-      "title-note": "part 3 of 7",
-      "author": {
-       "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
-       "lcna": "no90021257"
-      }
-     },
-     {"issue": {"issue-date": "1929-03"},
-      "title": "Peter and Mrs. Pan",
-      "title-note": "part 4 of 7",
-      "author": {
-       "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
-       "lcna": "no90021257"
-      }
-     },
-     {"issue": {"issue-date": "1929-04"},
-      "title": "Peter and Mrs. Pan",
-      "title-note": "part 5 of 7",
-      "author": {
-       "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
-       "lcna": "no90021257"
-      }
-     },
-     {"issue": {"issue-date": "1929-05"},
-      "title": "Peter and Mrs. Pan",
-      "title-note": "part 6 of 7",
-      "author": {
-       "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
-       "lcna": "no90021257"
-      }
-     },
-     {"issue": {"issue-date": "1929-05"},
-      "title": "Paint and Powder",
-      "author": {
-       "authorized": "Fitzgerald, F. Scott (Francis Scott), 1896-1940",
-       "lcna": "n79006871"
-      }
-     },
-     {"issue": {"issue-date": "1929-06"},
-      "title": "Peter and Mrs. Pan",
-      "title-note": "part 7 of 7",
-      "author": {
-       "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
-       "lcna": "no90021257"
-      }
-     },
-     {"issue": {"issue-date": "1929-09"}, 
-      "title": "The Girl of Today",
-      "author": {
-       "authorized": "Norris, Kathleen Thompson, 1880-1966",
-       "lcna": "n50006075"
-      }
-     },
-     {"issue": {"issue-date": "1929-11"}, 
-      "title": "Cloak of Desire",
-      "author": {
-       "authorized": "Squier, Emma-Lindsay, 1892-1941",
-       "lcna": "no2007059420"
-      }
-     },
      {"issue": {"issue-date": "1930-03"}, 
       "title": "The Kind of Girl I Want My Son to Marry",
       "author": {
@@ -125,5 +57,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-01-09"
+   "last-updated": "2025-01-06"
 }

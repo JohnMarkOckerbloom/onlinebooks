@@ -9,25 +9,11 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1929-02", "volume": "9", "number": "50"}},
-   "first-renewed-contribution-source": "1956-JanJun",
+     {"issue": {"issue-date": "1930-02", "volume": "11", "number": "62"}},
+   "first-renewed-contribution-source": "1957-JanJun",
    "last-issue": {"issue-date": "1935-09", "volume": "22", "number": "129"},
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1929-02", "volume": "9", "number": "50"},
-      "title": "Vertical City",
-      "author": {
-         "authorized": "Hurst, Fannie, 1889-1968",
-         "lcna": "n80010314"
-      }
-     },
-     {"issue": {"issue-date": "1929-05", "volume": "9", "number": "53"},
-      "title": "Broken Nose",
-      "author": {
-         "authorized": "Arlen, Michael, 1895-1956",
-         "lcna": "n50001591"
-       }
-     },
      {"issue": {"issue-date": "1930-02", "volume": "11", "number": "62"},
       "title": "Lies",
       "author": {
@@ -149,5 +135,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-01-05"
+   "last-updated": "2025-01-05"
 }

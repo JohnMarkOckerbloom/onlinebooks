@@ -8,28 +8,14 @@
    ],
    "first-issue": {"issue-date": "1920-04", "volume": "1", "number": "1"},
    "first-renewed-issue": 
-           {"issue-date": "1929-02", "volume": "11", "number": "12",
-            "cdate": "1929-01-12"},
-   "first-renewed-issue-source": "1956-JulDec",
+           {"issue-date": "1930-02", "volume": "12", "number": "12",
+            "cdate": "1930-01-12"},
+   "first-renewed-issue-source": "1957-JulDec",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1929-02", "volume": "11", "number": "12"}},
-   "first-renewed-contribution-source": "1956-JanJun",
+     {"issue": {"issue-date": "1930-02", "volume": "12", "number": "12"}},
+   "first-renewed-contribution-source": "1957-JanJun",
    "renewed-issue-completeness": "active/end",
    "renewed-issues": [
-           {"issue-date": "1929-02", "volume": "11", "number": "12",
-            "cdate": "1929-01-12"},
-           {"issue-date": "1929-03", "volume": "12", "number": "1"},           
-           {"issue-date": "1929-04", "volume": "12", "number": "2"},  
-           {"issue-date": "1929-05", "volume": "12", "number": "3"},  
-           {"issue-date": "1929-06", "volume": "12", "number": "4"},
-           {"issue-date": "1929-07", "volume": "12", "number": "5"}, 
-           {"issue-date": "1929-08", "volume": "12", "number": "6"}, 
-           {"issue-date": "1929-09", "volume": "12", "number": "7"}, 
-           {"issue-date": "1929-10", "volume": "12", "number": "8"}, 
-           {"issue-date": "1929-11", "volume": "12", "number": "9"},
-           {"issue-date": "1929-12", "volume": "12", "number": "10"},
-           {"issue-date": "1930-01", "volume": "12", "number": "11",
-            "cdate": "1929-12-12"},
            {"issue-date": "1930-02", "volume": "12", "number": "12",
             "cdate": "1930-01-12"},
            {"issue-date": "1930-03", "volume": "13", "number": "1"},           
@@ -240,130 +226,6 @@
    ],
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1929-02", "volume": "11", "number": "12"},
-      "title": "Bracelets for Two",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1929-03", "volume": "12", "number": "1"},
-      "title": "Hooking the Crooks",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1929-04", "volume": "12", "number": "2"},
-      "title": "No Questions Asked",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1929-06", "volume": "12", "number": "4"},
-      "title": "Scum of the Border",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1929-07", "volume": "12", "number": "5"},
-      "title": "All the Way",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1929-08", "volume": "12", "number": "6"},
-      "title": "Spawn of the Night",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1929-09", "volume": "12", "number": "7"},
-      "title": "The Maltese Falcon",
-      "title-note": "part 1 of 5",
-      "author": {
-       "authorized": "Hammett, Dashiell, 1894-1961",
-       "lcna": "n80016943"
-      }
-     },
-     {"issue": {"issue-date": "1929-09", "volume": "12", "number": "7"},
-      "title": "Hanging Friday",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1929-10", "volume": "12", "number": "8"},
-      "title": "The Maltese Falcon",
-      "title-note": "part 2 of 5",
-      "author": {
-       "authorized": "Hammett, Dashiell, 1894-1961",
-       "lcna": "n80016943"
-      }
-     },
-     {"issue": {"issue-date": "1929-10", "volume": "12", "number": "8"},
-      "title": "Straight From the Shoulder",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1929-11", "volume": "12", "number": "9"},
-      "title": "The Maltese Falcon",
-      "title-note": "part 3 of 5",
-      "author": {
-       "authorized": "Hammett, Dashiell, 1894-1961",
-       "lcna": "n80016943"
-      }
-     },
-     {"issue": {"issue-date": "1929-11", "volume": "12", "number": "9"},
-      "title": "Brass Tacks",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1929-12", "volume": "12", "number": "10"},
-      "title": "The Maltese Falcon",
-      "title-note": "part 4 of 5",
-      "author": {
-       "authorized": "Hammett, Dashiell, 1894-1961",
-       "lcna": "n80016943"
-      }
-     },
-     {"issue": {"issue-date": "1929-12", "volume": "12", "number": "10"},
-      "title": "Triple Treachery",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1930-01", "volume": "12", "number": "11"}, 
-      "title": "Tough Treatment",
-      "author": {
-         "authorized": "Nebel, Frederick",
-         "lcna": "n80020640"
-      }
-     },
-     {"issue": {"issue-date": "1930-01", "volume": "12", "number": "11"}, 
-      "title": "The Maltese Falcon",
-      "title-note": "part 5 of 5",
-      "author": {
-       "authorized": "Hammett, Dashiell, 1894-1961",
-       "lcna": "n80016943"
-      }
-     },
-     {"issue": {"issue-date": "1930-01", "volume": "12", "number": "11"}, 
-      "title": "Double or Quits",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
      {"issue": {"issue-date": "1930-02", "volume": "12", "number": "12"}, 
       "title": "Alley Rat",
       "author": {
@@ -1566,5 +1428,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-03-16"
+   "last-updated": "2025-01-01"
 }

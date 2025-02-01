@@ -5,44 +5,15 @@
       {"url": "http://www.philsp.com/homeville/GFI/link.asp?magid=MUN",
        "note": "FictionMags Index"}
    ],
-   "first-renewed-issue": 
-     {"issue-date": "1929-02", "volume": "96", "number": "1",
-      "cdate": "1929-01-19"},
-   "first-renewed-issue-source": "1956-JulDec",
-   "first-renewed-contribution": 
-     {"issue": {"issue-date": "1929-06", "volume": "97", "number": "1"}}, 
-   "first-renewed-contribution-source": "1957-JanJun",
+   "rights-statement": "NoC-US",
    "last-issue":
      {"issue-date": "1929-10", "volume": "98", "number": "1"},
    "succeeded-by":
      [{"id": "allstory1929",
        "note": "All-Story (romance fiction magazine, 1929-1955)"}],
-   "renewed-issue-completeness": "active/end",
-   "renewed-issues": [
-     {"issue-date": "1929-02", "volume": "96", "number": "1",
-      "cdate": "1929-01-19"},
-     {"issue-date": "1929-03", "volume": "96", "number": "2"},
-     {"issue-date": "1929-04", "volume": "96", "number": "3"},
-     {"issue-date": "1929-05", "volume": "96", "number": "4"},
-     {"issue-date": "1929-06", "volume": "97", "number": "1"},
-     {"issue-date": "1929-07", "volume": "97", "number": "2"},
-     {"issue-date": "1929-08", "volume": "97", "number": "3"},
-     {"issue-date": "1929-09", "volume": "97", "number": "4"},
-     {"issue-date": "1929-10", "volume": "98", "number": "1"}
-   ],
-   "renewed-contribution-completeness": "active/end",
-   "renewed-contributions": [
-     {"issue": {"issue-date": "1929-06", "volume": "97", "number": "1"}, 
-      "title": "Ballots and Bullets",
-      "author": {
-       "authorized": "Kantor, MacKinlay, 1904-1977",
-       "lcna": "n79140979"
-      }
-     }
-   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-01-03"
+   "last-updated": "2025-01-06"
 }

@@ -1,77 +1,24 @@
 {
-   "title": "Argosy All-Story Weekly",
+   "title": "Argosy",
    "title-note": "American fiction magazine",
-   "aka": ["The Argosy", "The Golden Argosy", "Argosy and Railroad Man's Magazine", "Argosy Weekly"],
+   "aka": ["The Argosy", "The Golden Argosy", "Argosy All-Story Weekly", "Argosy and Railroad Man's Magazine", "Argosy Weekly"],
    "online": "1",
    "contents": [
       {"url": "http://www.philsp.com/homeville/GFI/link.asp?magid=ARG",
        "note": "FictionMags"}
    ],
    "first-renewed-issue": 
-       {"issue-date": "1929-01-05", "volume": "200", "number": "4"},
-   "first-renewed-issue-source": "1956-JulDec",
+       {"issue-date": "1930-01-11", "volume": "209", "number": "3",
+        "cdate": "1930-01-08"},
+   "first-renewed-issue-source": "1957-JulDec",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1929-01-12", "volume": "200", "number": "5"}},
-   "first-renewed-contribution-source": "1956-JanJun",
+     {"issue": {"issue-date": "1930-01-11", "volume": "209", "number": "3"}},
+   "first-renewed-contribution-source": "1957-JanJun",
    "see-also":
      [{"id": "allstory1929",
        "note": "All-Story (romance fiction magazine, 1929-1955)"}],
    "renewed-issue-completeness": "active/1932",
    "renewed-issues": [
-       {"issue-date": "1929-01-05", "volume": "200", "number": "4"},
-       {"issue-date": "1929-01-12", "volume": "200", "number": "5"},
-       {"issue-date": "1929-01-19", "volume": "200", "number": "6"},
-       {"issue-date": "1929-01-26", "volume": "201", "number": "1"},
-       {"issue-date": "1929-02-02", "volume": "201", "number": "2"},
-       {"issue-date": "1929-02-09", "volume": "201", "number": "3"},
-       {"issue-date": "1929-02-16", "volume": "201", "number": "4"},
-       {"issue-date": "1929-02-23", "volume": "201", "number": "5"},
-       {"issue-date": "1929-03-02", "volume": "201", "number": "6"},
-       {"issue-date": "1929-03-09", "volume": "202", "number": "1"},
-       {"issue-date": "1929-03-16", "volume": "202", "number": "2"},
-       {"issue-date": "1929-03-23", "volume": "202", "number": "3"},
-       {"issue-date": "1929-03-30", "volume": "202", "number": "4"},
-       {"issue-date": "1929-04-06", "volume": "202", "number": "5"},
-       {"issue-date": "1929-04-13", "volume": "202", "number": "6"},
-       {"issue-date": "1929-04-20", "volume": "203", "number": "1"},
-       {"issue-date": "1929-04-27", "volume": "203", "number": "2"},
-       {"issue-date": "1929-05-04", "volume": "203", "number": "3"},
-       {"issue-date": "1929-05-11", "volume": "203", "number": "4"},
-       {"issue-date": "1929-05-18", "volume": "203", "number": "5"},
-       {"issue-date": "1929-05-25", "volume": "203", "number": "6"},
-       {"issue-date": "1929-06-01", "volume": "204", "number": "1"},
-       {"issue-date": "1929-06-08", "volume": "204", "number": "2"},
-       {"issue-date": "1929-06-15", "volume": "204", "number": "3"},
-       {"issue-date": "1929-06-22", "volume": "204", "number": "4"},
-       {"issue-date": "1929-06-29", "volume": "204", "number": "5"},
-       {"issue-date": "1929-07-06", "volume": "204", "number": "6"},
-       {"issue-date": "1929-07-13", "volume": "205", "number": "1"},
-       {"issue-date": "1929-07-20", "volume": "205", "number": "2"},
-       {"issue-date": "1929-07-27", "volume": "205", "number": "3"},
-       {"issue-date": "1929-08-03", "volume": "205", "number": "4"},
-       {"issue-date": "1929-08-10", "volume": "205", "number": "5"},
-       {"issue-date": "1929-08-17", "volume": "205", "number": "6"},
-       {"issue-date": "1929-08-24", "volume": "206", "number": "1"},
-       {"issue-date": "1929-08-31", "volume": "206", "number": "2"},
-       {"issue-date": "1929-09-07", "volume": "206", "number": "3"},
-       {"issue-date": "1929-09-14", "volume": "206", "number": "4"},
-       {"issue-date": "1929-09-21", "volume": "206", "number": "5"},
-       {"issue-date": "1929-09-28", "volume": "206", "number": "6"},
-       {"issue-date": "1929-10-05", "volume": "207", "number": "1"},
-       {"issue-date": "1929-10-12", "volume": "207", "number": "2"},
-       {"issue-date": "1929-10-19", "volume": "207", "number": "3"},
-       {"issue-date": "1929-10-26", "volume": "207", "number": "4"},
-       {"issue-date": "1929-11-02", "volume": "207", "number": "5"},
-       {"issue-date": "1929-11-09", "volume": "207", "number": "6"},
-       {"issue-date": "1929-11-16", "volume": "208", "number": "1"},
-       {"issue-date": "1929-11-23", "volume": "208", "number": "2"},
-       {"issue-date": "1929-11-30", "volume": "208", "number": "3"},
-       {"issue-date": "1929-12-07", "volume": "208", "number": "4"},
-       {"issue-date": "1929-12-14", "volume": "208", "number": "5"},
-       {"issue-date": "1929-12-21", "volume": "208", "number": "6"},
-       {"issue-date": "1929-12-28", "volume": "209", "number": "1"},
-       {"issue-date": "1930-01-04", "volume": "209", "number": "2",
-        "cdate": "1929-12-31"},
        {"issue-date": "1930-01-11", "volume": "209", "number": "3",
         "cdate": "1930-01-08"},
        {"issue-date": "1930-01-18", "volume": "209", "number": "4"},
@@ -281,229 +228,6 @@
    ],
    "renewed-contribution-completeness": "active/1930",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1929-01-12", "volume": "200", "number": "5"},
-      "title": "The Black Ace",
-      "title-note": "part 1 of 6",
-      "author": {
-        "authorized": "Footner, Hulbert, 1879-1944",
-        "lcna": "n88202699"
-      }
-     },
-     {"issue": {"issue-date": "1929-01-19", "volume": "200", "number": "6"},
-      "title": "The Black Ace",
-      "title-note": "part 2 of 6",
-      "author": {
-        "authorized": "Footner, Hulbert, 1879-1944",
-        "lcna": "n88202699"
-      }
-     },
-     {"issue": {"issue-date": "1929-01-26", "volume": "201", "number": "1"},
-      "title": "The Black Ace",
-      "title-note": "part 3 of 6",
-      "author": {
-        "authorized": "Footner, Hulbert, 1879-1944",
-        "lcna": "n88202699"
-      }
-     },
-     {"issue": {"issue-date": "1929-02-02", "volume": "201", "number": "2"},
-      "title": "The Black Ace",
-      "title-note": "part 4 of 6",
-      "author": {
-        "authorized": "Footner, Hulbert, 1879-1944",
-        "lcna": "n88202699"
-      }
-     },
-     {"issue": {"issue-date": "1929-02-09", "volume": "201", "number": "3"},
-      "title": "The Black Ace",
-      "title-note": "part 5 of 6",
-      "author": {
-        "authorized": "Footner, Hulbert, 1879-1944",
-        "lcna": "n88202699"
-      }
-     },
-     {"issue": {"issue-date": "1929-02-16", "volume": "201", "number": "4"},
-      "title": "The Black Ace",
-      "title-note": "part 6 of 6",
-      "author": {
-        "authorized": "Footner, Hulbert, 1879-1944",
-        "lcna": "n88202699"
-      }
-     },
-     {"issue": {"issue-date": "1929-04-20", "volume": "203", "number": "1"},
-      "title": "Man Hunt",
-      "title-note": "part 1 of 6",
-      "author": {
-       "authorized": "Seltzer, Charles Alden, 1875-1942",
-       "lcna": "n50007279"
-      }
-     },
-     {"issue": {"issue-date": "1929-04-27", "volume": "203", "number": "2"},
-      "title": "Man Hunt",
-      "title-note": "part 2 of 6",
-      "author": {
-       "authorized": "Seltzer, Charles Alden, 1875-1942",
-       "lcna": "n50007279"
-      }
-     },
-     {"issue": {"issue-date": "1929-05-04", "volume": "203", "number": "3"},
-      "title": "Man Hunt",
-      "title-note": "part 3 of 6",
-      "author": {
-       "authorized": "Seltzer, Charles Alden, 1875-1942",
-       "lcna": "n50007279"
-      }
-     },
-     {"issue": {"issue-date": "1929-05-11", "volume": "203", "number": "4"},
-      "title": "Man Hunt",
-      "title-note": "part 4 of 6",
-      "author": {
-       "authorized": "Seltzer, Charles Alden, 1875-1942",
-       "lcna": "n50007279"
-      }
-     },
-     {"issue": {"issue-date": "1929-05-18", "volume": "203", "number": "5"},
-      "title": "The Big Shot",
-      "title-note": "part 1 of 6",
-      "author": {
-       "authorized": "Packard, Frank L. (Frank Lucius), 1877-1942",
-       "lcna": "no97026856"
-      }
-     },
-     {"issue": {"issue-date": "1929-05-18", "volume": "203", "number": "5"},
-      "title": "Man Hunt",
-      "title-note": "part 5 of 6",
-      "author": {
-       "authorized": "Seltzer, Charles Alden, 1875-1942",
-       "lcna": "n50007279"
-      }
-     },
-     {"issue": {"issue-date": "1929-05-25", "volume": "203", "number": "6"},
-      "title": "The Big Shot",
-      "title-note": "part 2 of 6",
-      "author": {
-       "authorized": "Packard, Frank L. (Frank Lucius), 1877-1942",
-       "lcna": "no97026856"
-      }
-     },
-     {"issue": {"issue-date": "1929-05-25", "volume": "203", "number": "6"},
-      "title": "Man Hunt",
-      "title-note": "part 6 of 6",
-      "author": {
-       "authorized": "Seltzer, Charles Alden, 1875-1942",
-       "lcna": "n50007279"
-      }
-     },
-     {"issue": {"issue-date": "1929-06-01", "volume": "204", "number": "1"},
-      "title": "The Big Shot",
-      "title-note": "part 3 of 6",
-      "author": {
-       "authorized": "Packard, Frank L. (Frank Lucius), 1877-1942",
-       "lcna": "no97026856"
-      }
-     },
-     {"issue": {"issue-date": "1929-06-08", "volume": "204", "number": "2"},
-      "title": "The Big Shot",
-      "title-note": "part 4 of 6",
-      "author": {
-       "authorized": "Packard, Frank L. (Frank Lucius), 1877-1942",
-       "lcna": "no97026856"
-      }
-     },
-     {"issue": {"issue-date": "1929-06-15", "volume": "204", "number": "3"},
-      "title": "The Big Shot",
-      "title-note": "part 5 of 6",
-      "author": {
-       "authorized": "Packard, Frank L. (Frank Lucius), 1877-1942",
-       "lcna": "no97026856"
-      }
-     },
-     {"issue": {"issue-date": "1929-06-22", "volume": "204", "number": "4"},
-      "title": "The Big Shot",
-      "title-note": "part 6 of 6",
-      "author": {
-       "authorized": "Packard, Frank L. (Frank Lucius), 1877-1942",
-       "lcna": "no97026856"
-      }
-     },
-     {"issue": {"issue-date": "1929-07-27", "volume": "205", "number": "3"},
-      "title": "Monkey Eyes",
-      "title-note": "part 1 of 2",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1929-08-03", "volume": "205", "number": "4"},
-      "title": "Monkey Eyes",
-      "title-note": "part 2 of 2",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1929-12-07", "volume": "208", "number": "4"},
-      "title": "The Sky's the Limit",
-      "title-note": "part 1 of 2",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1929-12-14", "volume": "208", "number": "5"},
-      "title": "A Road at Stake",
-      "title-note": "part 1 of 4",
-      "author": {
-       "authorized": "Lynde, Francis, 1856-1930",
-       "lcna": "n88093606"
-      }
-     },
-     {"issue": {"issue-date": "1929-12-14", "volume": "208", "number": "5"},
-      "title": "The Sky's the Limit",
-      "title-note": "part 2 of 2",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1929-12-21", "volume": "208", "number": "6"},
-      "title": "A Road at Stake",
-      "title-note": "part 2 of 4",
-      "author": {
-       "authorized": "Lynde, Francis, 1856-1930",
-       "lcna": "n88093606"
-      }
-     },
-     {"issue": {"issue-date": "1929-12-28", "volume": "209", "number": "1"},
-      "title": "A Road at Stake",
-      "title-note": "part 3 of 4",
-      "author": {
-       "authorized": "Lynde, Francis, 1856-1930",
-       "lcna": "n88093606"
-      }
-     },
-     {"issue": {"issue-date": "1930-01-04", "volume": "209", "number": "2"},
-      "title": "Backwater",
-      "title-note": "part 1 of 6",
-      "author": {
-       "authorized": "Stribling, T. S. (Thomas Sigismund), 1881-1965",
-       "lcna": "n50011482"
-      }
-     },
-     {"issue": {"issue-date": "1930-01-04", "volume": "209", "number": "2"},
-      "title": "A Road at Stake",
-      "title-note": "part 4 of 4",
-      "author": {
-       "authorized": "Lynde, Francis, 1856-1930",
-       "lcna": "n88093606"
-      }
-     },
-     {"issue": {"issue-date": "1930-01-04", "volume": "209", "number": "2"},
-      "title": "Blue for Blooey",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
      {"issue": {"issue-date": "1930-01-11", "volume": "209", "number": "3"},
       "title": "Backwater",
       "title-note": "part 2 of 6",
@@ -876,5 +600,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-11-07"
+   "last-updated": "2025-01-01"
 }

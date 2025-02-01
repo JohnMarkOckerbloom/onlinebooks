@@ -8,31 +8,16 @@
    "first-issue":
       {"issue-date": "1922-02", "volume": "1", "number": "1"},
    "first-renewed-issue":
-      {"issue-date": "1929-02", "volume": "17", "number": "6",
-       "cdaate": "1929-01-16"},
-   "first-renewed-issue-source": "1956-JanJun",
-   "first-renewed-contribution":
-     {"issue": {"issue-date": "1929-06", "volume": "18", "number": "4"}},
-   "first-renewed-contribution-source": "1956-JanJun",
+      {"issue-date": "1930-02", "volume": "19", "number": "6",
+       "cdate": "1930-01-15"},
+   "first-renewed-issue-source": "1957-JanJun",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce",
    "last-issue":
       {"issue-date": "1930-06", "volume": "20", "number": "4"},
    "succeeded-by": [{"id": "excitement", "note": "Excitement"}],
    "renewed-issue-completeness": "active/end",
    "renewed-issues": [
-      {"issue-date": "1929-02", "volume": "17", "number": "6",
-       "cdaate": "1929-01-16"},
-      {"issue-date": "1929-03", "volume": "18", "number": "1"}, 
-      {"issue-date": "1929-04", "volume": "18", "number": "2"}, 
-      {"issue-date": "1929-05", "volume": "18", "number": "3"}, 
-      {"issue-date": "1929-06", "volume": "18", "number": "4"}, 
-      {"issue-date": "1929-07", "volume": "18", "number": "5"}, 
-      {"issue-date": "1929-08", "volume": "18", "number": "6"}, 
-      {"issue-date": "1929-09", "volume": "19", "number": "1"}, 
-      {"issue-date": "1929-10", "volume": "19", "number": "2"}, 
-      {"issue-date": "1929-11", "volume": "19", "number": "3"},
-      {"issue-date": "1929-12", "volume": "19", "number": "4"},
-      {"issue-date": "1930-01", "volume": "19", "number": "5",
-       "cdate": "1929-12-13"},
       {"issue-date": "1930-02", "volume": "19", "number": "6",
        "cdate": "1930-01-15"},
       {"issue-date": "1930-03", "volume": "20", "number": "1"}, 
@@ -41,18 +26,9 @@
       {"issue-date": "1930-06", "volume": "20", "number": "4"}
    ],
    "renewed-contribution-completeness": "active/end",
-   "renewed-contributions": [
-     {"issue": {"issue-date": "1929-06", "volume": "18", "number": "4"},
-      "title": "Fresh Water Ways",
-      "author": {
-         "authorized": "Raine, Norman Reilly, 1895-1971",
-         "lcna": "n85342738"
-      }
-     }
-   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-01-02"
+   "last-updated": "2025-01-06"
 }

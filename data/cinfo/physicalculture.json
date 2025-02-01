@@ -5,91 +5,11 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1929-01"}},
-   "first-renewed-contribution-source": "1956-JanJun",
+     {"issue": {"issue-date": "1931-01"}},
+   "first-renewed-contribution-source": "1957-JulDec",
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1929-01"},
-        "title": "The Burglar Girl",
-        "title-note": "part 5 of 5",
-        "author": {
-         "authorized": "Oursler, Fulton, 1893-1952",
-         "using": "Arnold Fountain",
-         "lcna": "n79041782"
-        }
-     },
-     {"issue": {"issue-date": "1929-01"},
-        "title": "Bernarr MacFadden, His Life and His Work",
-        "title-note": "part 5 of 9",
-        "author": {
-         "authorized": "Oursler, Fulton, 1893-1952",
-         "using": "Arnold Fountain",
-         "lcna": "n79041782"
-        }
-     },
-     {"issue": {"issue-date": "1929-02"},
-        "title": "Bernarr MacFadden, His Life and His Work",
-        "title-note": "part 6 of 9",
-        "author": {
-         "authorized": "Oursler, Fulton, 1893-1952",
-         "using": "Arnold Fountain",
-         "lcna": "n79041782"
-        }
-     },
-     {"issue": {"issue-date": "1929-03"},
-        "title": "Bernarr MacFadden, His Life and His Work",
-        "title-note": "part 7 of 9",
-        "author": {
-         "authorized": "Oursler, Fulton, 1893-1952",
-         "using": "Arnold Fountain",
-         "lcna": "n79041782"
-        }
-     },
-     {"issue": {"issue-date": "1929-04"},
-        "title": "Bernarr MacFadden, His Life and His Work",
-        "title-note": "part 8 of 9",
-        "author": {
-         "authorized": "Oursler, Fulton, 1893-1952",
-         "using": "Arnold Fountain",
-         "lcna": "n79041782"
-        }
-     },
-     {"issue": {"issue-date": "1929-05"},
-        "title": "Bernarr MacFadden, His Life and His Work",
-        "title-note": "part 9 of 9",
-        "author": {
-         "authorized": "Oursler, Fulton, 1893-1952",
-         "using": "Arnold Fountain",
-         "lcna": "n79041782"
-        }
-     },
-     {"issue": {"issue-date": "1929-07"},
-        "title": "Can We Cure the Ills of Marriage",
-        "author": {
-         "authorized": "Oursler, Fulton, 1893-1952",
-         "using": "Arnold Fountain",
-         "lcna": "n79041782"
-        }
-     },
-     {"issue": {"issue-date": "1929-12"},
-        "title": "Heart's Desire",
-        "title-note": "part 1 of 2",
-        "author": {
-         "authorized": "Oursler, Fulton, 1893-1952",
-         "using": "Arnold Fountain",
-         "lcna": "n79041782"
-        }
-     },
-     {"issue": {"issue-date": "1930-01"},
-        "title": "Heart's Desire",
-        "title-note": "part 2 of 2",
-        "author": {
-         "authorized": "Oursler, Fulton, 1893-1952",
-         "using": "Arnold Fountain",
-         "lcna": "n79041782"
-        }
-     },
-     {"issue": {"issue-date": "1931-01"},
+     {"issue": {"issue-date": "1931-01", "cdate": "1930-12-12"},
       "title": "Christmas Present for His Wife",
       "author": {
         "authorized": "Wallace, Edgar, 1875-1932",
@@ -173,5 +93,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-01-05"
+   "last-updated": "2025-01-06"
 }

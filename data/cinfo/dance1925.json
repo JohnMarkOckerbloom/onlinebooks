@@ -8,26 +8,15 @@
      {"issue-date": "1925-12", "volume": "5", "number": "2"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
-   "first-renewed-contribution": 
-      {"issue": {"issue-date": "1929-10"}},
-   "first-renewed-contribution-source": "1956-JulDec",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce",
    "last-issue":
      {"issue-date": "1931-12", "volume": "17", "number": "2"},
    "see-also": [{"id": "dancemag", "note": "Dance Magazine (1942-present)"}],
    "renewed-contribution-completeness": "active/end",
-   "renewed-contributions": [
-     {"issue": {"issue-date": "1929-10"},
-        "title": "So This is Television",
-        "author": {
-         "authorized": "Oursler, Fulton, 1893-1952",
-         "using": "Arnold Fountain",
-         "lcna": "n79041782"
-        }
-     }
-   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-11-17"
+   "last-updated": "2025-01-03"
 }

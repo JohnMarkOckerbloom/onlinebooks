@@ -3,58 +3,10 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1929-01-06"}},
-   "first-renewed-contribution-source": "1956-JanJun",
+     {"issue": {"issue-date": "1952-02-03"}},
+   "first-renewed-contribution-source": "database",
    "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1929-01-06"},
-      "title": "Texas Titan: The Fictionalized Life of Sam Houston",
-      "title-note": "part 6 of 11",
-      "author": {
-       "authorized": "Oskison, John M. (John Milton), 1874-1947",
-       "lcna": "nr92025553"
-      }
-     },
-     {"issue": {"issue-date": "1929-01-13"},
-      "title": "Texas Titan: The Fictionalized Life of Sam Houston",
-      "title-note": "part 7 of 11",
-      "author": {
-       "authorized": "Oskison, John M. (John Milton), 1874-1947",
-       "lcna": "nr92025553"
-      }
-     },
-     {"issue": {"issue-date": "1929-01-20"},
-      "title": "Texas Titan: The Fictionalized Life of Sam Houston",
-      "title-note": "part 8 of 11",
-      "author": {
-       "authorized": "Oskison, John M. (John Milton), 1874-1947",
-       "lcna": "nr92025553"
-      }
-     },
-     {"issue": {"issue-date": "1929-12-27"},
-      "title": "Texas Titan: The Fictionalized Life of Sam Houston",
-      "title-note": "part 9 of 11",
-      "author": {
-       "authorized": "Oskison, John M. (John Milton), 1874-1947",
-       "lcna": "nr92025553"
-      }
-     },
-     {"issue": {"issue-date": "1929-02-03"},
-      "title": "Texas Titan: The Fictionalized Life of Sam Houston",
-      "title-note": "part 10 of 11",
-      "author": {
-       "authorized": "Oskison, John M. (John Milton), 1874-1947",
-       "lcna": "nr92025553"
-      }
-     },
-     {"issue": {"issue-date": "1929-02-10"},
-      "title": "Texas Titan: The Fictionalized Life of Sam Houston",
-      "title-note": "part 11 of 11",
-      "author": {
-       "authorized": "Oskison, John M. (John Milton), 1874-1947",
-       "lcna": "nr92025553"
-      }
-     },
      {"issue": {"issue-date": "1952-02-03"},
       "title": "Spirit of Kansas City",
       "author": {
@@ -131,5 +83,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-01-06"
+   "last-updated": "2025-01-06"
 }

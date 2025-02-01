@@ -2,44 +2,17 @@
    "title": "The Dial",
    "online": "1",
    "title-note": "literary and political magazine, 1880-1929",
-   "first-renewed-issue": "none",
-   "first-renewed-issue-source": "cce",
-   "first-renewed-contribution": 
-     {"issue": {"issue-date": "1929-02"}}, 
-   "first-renewed-contribution-source": "1956-JanJun",
-   "last-issue": {"issue-date": "1929-07-01", "volume": "86", "number": "7"},
+   "first-issue": {"issue-date": "1880-05", "volume": "1", "number": "1"},
+   "rights-statement": "NoC-US",
+   "last-issue": {"issue-date": "1929-07", "volume": "86", "number": "7"},
    "see-also": [
       {"id": "dial1840", "note": "The Dial (1840-1844)"},
       {"id": "dial1860", "note": "The Dial (1860)"},
       {"id": "dial1959", "note": "The Dial (1959-1962)"}
    ],
-   "renewed-contribution-completeness": "active/end",
-   "renewed-contributions": [
-     {"issue": {"issue-date": "1929-02"}, 
-        "title": "Death in Moonlight",
-        "author": {
-         "authorized": "Kunitz, Stanley, 1905-2006",
-         "lcna": "n79007720"
-        }
-     },
-     {"issue": {"issue-date": "1929-02"}, 
-        "title": "Geometry of Moods",
-        "author": {
-         "authorized": "Kunitz, Stanley, 1905-2006",
-         "lcna": "n79007720"
-        }
-     },
-     {"issue": {"issue-date": "1929-05"}, 
-        "title": "When I Went to the Circus",
-        "author": {
-         "authorized": "Lawrence, D. H. (David Herbert), 1885-1930",
-         "lcna": "n79018450"
-        }
-     }
-   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-01-05"
+   "last-updated": "2025-01-03"
 }

@@ -11,77 +11,16 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1929-01-14"}}, 
-   "first-renewed-contribution-source": "1956-JulDec",
-   "renewed-contribution-completeness": "active/1930",
-   "renewed-contributions": [
-     {"issue": {"issue-date": "1929-01-14"}, 
-      "title": "Lord Haldane's Memories",
-      "title-note": "part 1 of 6",
-      "author": {
-        "authorized": "Haldane, R. B. Haldane (Richard Burdon Haldane), Viscount, 1856-1928",
-        "name": "R. B. Haldane",
-        "lcna": "n50018603"
-      }
-     },
-     {"issue": {"issue-date": "1929-01-15"}, 
-      "title": "Lord Haldane's Memories",
-      "title-note": "part 2 of 6",
-      "author": {
-        "authorized": "Haldane, R. B. Haldane (Richard Burdon Haldane), Viscount, 1856-1928",
-        "name": "R. B. Haldane",
-        "lcna": "n50018603"
-      }
-     },
-     {"issue": {"issue-date": "1929-01-16"}, 
-      "title": "Lord Haldane's Memories",
-      "title-note": "part 3 of 6",
-      "author": {
-        "authorized": "Haldane, R. B. Haldane (Richard Burdon Haldane), Viscount, 1856-1928",
-        "name": "R. B. Haldane",
-        "lcna": "n50018603"
-      }
-     },
-     {"issue": {"issue-date": "1929-01-17"}, 
-      "title": "Lord Haldane's Memories",
-      "title-note": "part 4 of 6",
-      "author": {
-        "authorized": "Haldane, R. B. Haldane (Richard Burdon Haldane), Viscount, 1856-1928",
-        "name": "R. B. Haldane",
-        "lcna": "n50018603"
-      }
-     },
-     {"issue": {"issue-date": "1929-01-18"}, 
-      "title": "Lord Haldane's Memories",
-      "title-note": "part 5 of 6",
-      "author": {
-        "authorized": "Haldane, R. B. Haldane (Richard Burdon Haldane), Viscount, 1856-1928",
-        "name": "R. B. Haldane",
-        "lcna": "n50018603"
-      }
-     },
-     {"issue": {"issue-date": "1929-01-19"}, 
-      "title": "Lord Haldane's Memories",
-      "title-note": "part 6 of 6",
-      "author": {
-        "authorized": "Haldane, R. B. Haldane (Richard Burdon Haldane), Viscount, 1856-1928",
-        "name": "R. B. Haldane",
-        "lcna": "n50018603"
-      }
-     },
-     {"issue": {"issue-date": "1929-10-07"}, 
-      "title": "Milner Court Opening",
-      "author": {
-         "authorized": "Kipling, Rudyard, 1865-1936",
-         "lcna": "n79103792"
-      }
-     }
+     {"issue": {"issue-date": "1938-11-06"}}, 
+   "first-renewed-contribution-source": "1966-JulDec",
+   "comment": "Pick up contributions with 1966 Jul-Dec if we itemize",
+   "additional-notes": [
+     "This is a British publication.  Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US.",
+     "Contributions for the Sunday Times are noted separately.  As of 2025, active contribution copyrights go back further for the Sunday Times than they do for the daily Times."
    ],
-   "comment": "Pick up contributions with 1959",
-   "additional-note" : "This is a British publication.  Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-01-27"
+   "last-updated": "2025-01-06"
 }

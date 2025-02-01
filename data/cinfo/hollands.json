@@ -4,34 +4,10 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1929-02", "cdate": "1929-01-15"}},
-   "first-renewed-contribution-source": "1956-JanJun",
+     {"issue": {"issue-date": "1932-03"}}, 
+   "first-renewed-contribution-source": "1959-JanJun",
    "renewed-contribution-completeness": "active/1938",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1929-02"}, 
-      "title": "Gold Bullets",
-      "title-note": "part 4 of 6",
-      "author": {
-       "authorized": "Booth, Charles G. (Charles Gordon), 1896-1949",
-       "lcna": "no90021252"
-      }
-     },
-     {"issue": {"issue-date": "1929-03"}, 
-      "title": "Gold Bullets",
-      "title-note": "part 5 of 6",
-      "author": {
-       "authorized": "Booth, Charles G. (Charles Gordon), 1896-1949",
-       "lcna": "no90021252"
-      }
-     },
-     {"issue": {"issue-date": "1929-04"}, 
-      "title": "Gold Bullets",
-      "title-note": "part 6 of 6",
-      "author": {
-       "authorized": "Booth, Charles G. (Charles Gordon), 1896-1949",
-       "lcna": "no90021252"
-      }
-     },
      {"issue": {"issue-date": "1932-03"}, 
       "title": "One Fisherman's Luck",
       "author": {
@@ -51,5 +27,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-01-05"
+   "last-updated": "2025-01-05"
 }

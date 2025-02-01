@@ -3,29 +3,16 @@
    "online": "1",
    "first-issue": {"issue-date": "1899-09", "volume": "1", "number": "1"},
    "first-renewed-issue": 
-      {"issue-date": "1929-02", "volume": "30", "number": "5",
-       "cdate": "1929-01-25"},
-   "first-renewed-issue-source": "1956-JulDec",
+      {"issue-date": "1930-03", "volume": "31", "number": "6"},
+   "first-renewed-issue-source": "1958-JanJun",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1929-02", "volume": "30", "number": "5"}}, 
-   "first-renewed-contribution-source": "1956-JanJun",
+     {"issue": {"issue-date": "1930-02", "volume": "31", "number": "5"}}, 
+   "first-renewed-contribution-source": "1957-JanJun",
    "last-issue": {"issue-date": "1937-04", "volume": "38", "number": "7"},
    "succeeded-by":
      [{"id": "picreviewdelineator", "note": "Pictorial Review-Delineator"}],
    "renewed-issue-completeness": "active/end",
    "renewed-issues": [
-      {"issue-date": "1929-02", "volume": "30", "number": "5",
-       "cdate": "1929-01-25"},
-      {"issue-date": "1929-03", "volume": "30", "number": "6"},
-      {"issue-date": "1929-04", "volume": "30", "number": "7"},
-      {"issue-date": "1929-05", "volume": "30", "number": "8"},
-      {"issue-date": "1929-06", "volume": "30", "number": "9"},
-      {"issue-date": "1929-07", "volume": "30", "number": "10"},
-      {"issue-date": "1929-08", "volume": "30", "number": "11"},
-      {"issue-date": "1929-09", "volume": "30", "number": "12"},
-      {"issue-date": "1929-10", "volume": "31", "number": "1"},
-      {"issue-date": "1929-11", "volume": "31", "number": "2"},
-      {"issue-date": "1929-12", "volume": "31", "number": "3"},
       {"issue-date": "1930-03", "volume": "31", "number": "6"},
       {"issue-date": "1930-04", "volume": "31", "number": "7"},
       {"issue-date": "1930-05", "volume": "31", "number": "8"},
@@ -112,140 +99,6 @@
    ],
    "renewed-contribution-completeness": "active/1930",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1929-02", "volume": "30", "number": "5"}, 
-      "title": "The Little Lobster",
-      "author": {
-       "authorized": "Jackson, Margaret Weymouth",
-       "lcna": "no94014713"
-      }
-     },
-     {"issue": {"issue-date": "1929-02", "volume": "30", "number": "5"}, 
-      "title": "This Strange Adventure",
-      "title-note": "part 5 of 5",
-      "author": {
-       "authorized": "Rinehart, Mary Roberts, 1876-1958",
-       "lcna": "n78078535"
-      }
-     },
-     {"issue": {"issue-date": "1929-03", "volume": "30", "number": "6"},
-        "title": "Silver Sword",
-        "author": {
-         "authorized": "Steele, Wilbur Daniel, 1886-1970",
-         "lcna": "no98007702"
-        }
-     },
-     {"issue": {"issue-date": "1929-03", "volume": "30", "number": "6"},
-      "title": "The Ace of Clubs",
-      "author": {
-         "authorized": "Starrett, Vincent, 1886-1974",
-         "lcna": "n50023295"
-      }
-     },
-     {"issue": {"issue-date": "1929-05", "volume": "30", "number": "8"},
-        "title": "Survivor",
-        "author": {
-         "authorized": "Steele, Wilbur Daniel, 1886-1970",
-         "lcna": "no98007702"
-        }
-     },
-     {"issue": {"issue-date": "1929-06", "volume": "30", "number": "9"},
-      "title": "Bunny's Aunt Mathilda (Portrait of a Maiden Aunt)",
-      "author": {
-       "authorized": "Brush, Katharine, 1900-1952",
-       "lcna": "no93001232"
-      }
-     },
-     {"issue": {"issue-date": "1929-06", "volume": "30", "number": "9"},
-      "title": "The Profaning of Granny Run",
-      "author": {
-       "authorized": "Burman, Ben Lucien, 1895-1984",
-       "lcna": "n50032333"
-      }
-     },
-     {"issue": {"issue-date": "1929-06", "volume": "30", "number": "9"},
-      "title": "Is America a Paradise for Women?",
-      "author": {
-         "authorized": "Lewis, Sinclair, 1885-1951",
-         "lcna": "n79023149"
-       }
-     },
-     {"issue": {"issue-date": "1929-07", "volume": "30", "number": "10"},
-      "title": "His Big Day",
-      "title-note": "part 1 of 2",
-      "note": "Title as given on issue cover.  CCE renewal record gives title as 'The Big Day'.",
-      "author": {
-         "authorized": "Connell, Richard Edward, 1893-1949",
-         "lcna": "n50028704"
-       }
-     },
-     {"issue": {"issue-date": "1929-08", "volume": "30", "number": "11"},
-      "title": "His Big Day",
-      "title-note": "part 2 of 2",
-      "note": "Title as given on July issue cover.  CCE renewal record gives title as 'The Big Day'.",
-      "author": {
-         "authorized": "Connell, Richard Edward, 1893-1949",
-         "lcna": "n50028704"
-       }
-     },
-     {"issue": {"issue-date": "1929-09", "volume": "30", "number": "12"},
-      "title": "Town Girl",
-      "author": {
-       "authorized": "Brush, Katharine, 1900-1952",
-       "lcna": "no93001232"
-      }
-     },
-     {"issue": {"issue-date": "1929-09", "volume": "30", "number": "12"},
-        "title": "Surprise",
-        "author": {
-         "authorized": "Steele, Wilbur Daniel, 1886-1970",
-         "lcna": "no98007702"
-        }
-     },
-     {"issue": {"issue-date": "1929-10", "volume": "31", "number": "1"}, 
-      "title": "The World's Best Butler",
-      "author": {
-       "authorized": "Irwin, Wallace, 1876-1959",
-       "lcna": "n97112081"
-      }
-     },
-     {"issue": {"issue-date": "1929-10", "volume": "31", "number": "1"}, 
-        "title": "Conjuh",
-        "author": {
-         "authorized": "Steele, Wilbur Daniel, 1886-1970",
-         "lcna": "no98007702"
-        }
-     },
-     {"issue": {"issue-date": "1929-11", "volume": "31", "number": "2"},
-      "title": "The Funny Man",
-      "author": {
-         "authorized": "Connell, Richard Edward, 1893-1949",
-         "lcna": "n50028704"
-       }
-     },
-     {"issue": {"issue-date": "1929-11", "volume": "31", "number": "2"},
-      "title": "Fascination",
-      "title-note": "part 1 of 4",
-       "author": {
-         "authorized": "Miller, Alice Duer, 1874-1942",
-         "lcna": "n83057208"
-       }
-     },
-     {"issue": {"issue-date": "1929-12", "volume": "31", "number": "3"},
-      "title": "Fascination",
-      "title-note": "part 2 of 4",
-       "author": {
-         "authorized": "Miller, Alice Duer, 1874-1942",
-         "lcna": "n83057208"
-       }
-     },
-     {"issue": {"issue-date": "1930-01", "volume": "31", "number": "4"},
-      "title": "Fascination",
-      "title-note": "part 3 of 4",
-       "author": {
-         "authorized": "Miller, Alice Duer, 1874-1942",
-         "lcna": "n83057208"
-       }
-     },
      {"issue": {"issue-date": "1930-02", "volume": "31", "number": "5"}, 
         "title": "Ki",
         "author": {
@@ -415,5 +268,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-11-13"
+   "last-updated": "2025-01-06"
 }

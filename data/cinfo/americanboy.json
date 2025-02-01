@@ -10,43 +10,12 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1929-02", "cdate": "1929-01-25"}},
-   "first-renewed-contribution-source": "1956-JanJun",
+     {"issue": {"issue-date": "1930-02", "cdate": "1930-01-25"}},
+   "first-renewed-contribution-source": "1957-JanJun",
    "see-also": [{"id": "youthscompanion", "note": "The Youth's Companion"}],
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1929-02", "volume": "30", "number": "4"},
-      "title": "Hot Dogs",
-       "author": {
-         "authorized": "Charnley, Mitchell V. (Mitchell Vaughn), 1898-1991",
-         "lcna": "no89003032"
-       }
-     },
-     {"issue": {"issue-date": "1929-11"},
-      "title": "Haunted Airways",
-      "title-note": "part 1 of 4",
-       "author": {
-         "authorized": "Burtis, Thomson, 1896-1971",
-         "lcna": "no90001891"
-       }
-     },
-     {"issue": {"issue-date": "1929-12"},
-      "title": "Haunted Airways",
-      "title-note": "part 2 of 4",
-       "author": {
-         "authorized": "Burtis, Thomson, 1896-1971",
-         "lcna": "no90001891"
-       }
-     },
-     {"issue": {"issue-date": "1930-01"},
-      "title": "Haunted Airways",
-      "title-note": "part 3 of 4",
-       "author": {
-         "authorized": "Burtis, Thomson, 1896-1971",
-         "lcna": "no90001891"
-       }
-     },
-     {"issue": {"issue-date": "1930-02"},
+     {"issue": {"issue-date": "1930-02", "cdate": "1930-01-25"},
       "title": "Haunted Airways",
       "title-note": "part 4 of 4",
        "author": {
@@ -512,12 +481,9 @@
        }
      }
    ],
-   "comment": "Resume contribution checks with 1968 JanJun",
-   "additional-note": 
-     "A 1956 renewal for the 1929 book 'American Boy Sports Stories' might actively cover additional stories published in The American Boy in 1929. We have not reviewed the contents of that publication.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-08-02"
+   "last-updated": "2025-01-01"
 }

@@ -4,8 +4,8 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1929-01-06"}} ,
-   "first-renewed-contribution-source": "1956-JanJun",
+     {"issue": {"issue-date": "1930-01-01"}}, 
+   "first-renewed-contribution-source": "1957-JanJun",
    "last-issue": {"issue-date": "1937-06-24"},
    "succeeded-by":
       [{"id": "nyjnlamerican", "note": "New York Journal-American"}],
@@ -13,173 +13,6 @@
       [{"id": "amweeklysunday", "note": "American Weekly Sunday Magazine"}],
    "renewed-contribution-completeness": "active/1935",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1929-01-06"}, 
-      "title": "Into Thin Air",
-      "title-note": "part 8 of 10",
-       "authors": [
-          {"authorized": "Winslow, Horatio, 1882-1972", "lcna": "no95043693"},
-          {"authorized": "Quirk, Leslie W., 1882-1960", "lcna": "no2009070074"}
-       ]
-     },
-     {"issue": {"issue-date": "1929-01-13"}, 
-      "title": "Into Thin Air",
-      "title-note": "part 9 of 10",
-       "authors": [
-          {"authorized": "Winslow, Horatio, 1882-1972", "lcna": "no95043693"},
-          {"authorized": "Quirk, Leslie W., 1882-1960", "lcna": "no2009070074"}
-       ]
-     },
-     {"issue": {"issue-date": "1929-01-20"}, 
-      "title": "Into Thin Air",
-      "title-note": "part 10 of 10",
-       "authors": [
-          {"authorized": "Winslow, Horatio, 1882-1972", "lcna": "no95043693"},
-          {"authorized": "Quirk, Leslie W., 1882-1960", "lcna": "no2009070074"}
-       ]
-     },
-     {"issue": {"issue-date": "1929-03-31"}, 
-      "title": "Romance by Request",
-      "title-note": "part 1 of 14",
-      "author": {
-       "authorized": "Emery, Steuart M. (Steuart Mackie), 1891-",
-       "lcna": "no94038986"
-      }
-     },
-     {"issue": {"issue-date": "1929-04-07"}, 
-      "title": "Romance by Request",
-      "title-note": "part 2 of 14",
-      "author": {
-       "authorized": "Emery, Steuart M. (Steuart Mackie), 1891-",
-       "lcna": "no94038986"
-      }
-     },
-     {"issue": {"issue-date": "1929-04-14"}, 
-      "title": "Romance by Request",
-      "title-note": "part 3 of 14",
-      "author": {
-       "authorized": "Emery, Steuart M. (Steuart Mackie), 1891-",
-       "lcna": "no94038986"
-      }
-     },
-     {"issue": {"issue-date": "1929-04-21"}, 
-      "title": "Romance by Request",
-      "title-note": "part 4 of 14",
-      "author": {
-       "authorized": "Emery, Steuart M. (Steuart Mackie), 1891-",
-       "lcna": "no94038986"
-      }
-     },
-     {"issue": {"issue-date": "1929-04-28"}, 
-      "title": "Romance by Request",
-      "title-note": "part 5 of 14",
-      "author": {
-       "authorized": "Emery, Steuart M. (Steuart Mackie), 1891-",
-       "lcna": "no94038986"
-      }
-     },
-     {"issue": {"issue-date": "1929-05-05"}, 
-      "title": "Romance by Request",
-      "title-note": "part 6 of 14",
-      "author": {
-       "authorized": "Emery, Steuart M. (Steuart Mackie), 1891-",
-       "lcna": "no94038986"
-      }
-     },
-     {"issue": {"issue-date": "1929-05-12"}, 
-      "title": "Romance by Request",
-      "title-note": "part 7 of 14",
-      "author": {
-       "authorized": "Emery, Steuart M. (Steuart Mackie), 1891-",
-       "lcna": "no94038986"
-      }
-     },
-     {"issue": {"issue-date": "1929-05-19"}, 
-      "title": "Romance by Request",
-      "title-note": "part 8 of 14",
-      "author": {
-       "authorized": "Emery, Steuart M. (Steuart Mackie), 1891-",
-       "lcna": "no94038986"
-      }
-     },
-     {"issue": {"issue-date": "1929-05-26"}, 
-      "title": "Romance by Request",
-      "title-note": "part 9 of 14",
-      "author": {
-       "authorized": "Emery, Steuart M. (Steuart Mackie), 1891-",
-       "lcna": "no94038986"
-      }
-     },
-     {"issue": {"issue-date": "1929-06-02"}, 
-      "title": "Romance by Request",
-      "title-note": "part 10 of 14",
-      "author": {
-       "authorized": "Emery, Steuart M. (Steuart Mackie), 1891-",
-       "lcna": "no94038986"
-      }
-     },
-     {"issue": {"issue-date": "1929-06-09"}, 
-      "title": "Romance by Request",
-      "title-note": "part 11 of 14",
-      "author": {
-       "authorized": "Emery, Steuart M. (Steuart Mackie), 1891-",
-       "lcna": "no94038986"
-      }
-     },
-     {"issue": {"issue-date": "1929-06-16"}, 
-      "title": "Romance by Request",
-      "title-note": "part 12 of 14",
-      "author": {
-       "authorized": "Emery, Steuart M. (Steuart Mackie), 1891-",
-       "lcna": "no94038986"
-      }
-     },
-     {"issue": {"issue-date": "1929-06-23"}, 
-      "title": "Romance by Request",
-      "title-note": "part 13 of 14",
-      "author": {
-       "authorized": "Emery, Steuart M. (Steuart Mackie), 1891-",
-       "lcna": "no94038986"
-      }
-     },
-     {"issue": {"issue-date": "1929-06-30"}, 
-      "title": "Romance by Request",
-      "title-note": "part 14 of 14",
-      "author": {
-       "authorized": "Emery, Steuart M. (Steuart Mackie), 1891-",
-       "lcna": "no94038986"
-      }
-     },
-     {"issue": {"issue-date": "1929-October 14 - November 30,"}, 
-      "title": "The Science of Life",
-      "note": "Exact issues not specified in CCE renewal record. The record appears after other installment renewals for this work with AI- registration numbers, implying that installments of this work were initially published abroad.",
-      "authors": [
-        {"authorized": "Wells, H. G. (Herbert George), 1866-1946",
-        "lcna": "n79063613"},
-        {"authorized": "Huxley, Julian, 1887-1975",
-        "lcna": "n80057245"},
-        {"authorized": "Wells, G. P. (George Philip)",
-        "lcna": "n84135381"}
-      ]
-     },
-     {"issue": {"issue-date": "1929-10-20"},
-      "title": "What's in a Name?",
-      "author": {
-         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
-         "lcna": "n78089036"
-       }
-     },
-     {"issue": {"issue-date": "1929-December 2 - 31,"}, 
-      "title": "The Science of Life",
-      "note": "CCE renewal record says 'except Sundays', but does not otherwise specify publication dates in the given date range.",
-      "authors": [
-        {"authorized": "Wells, H. G. (Herbert George), 1866-1946",
-        "lcna": "n79063613"},
-        {"authorized": "Huxley, Julian, 1887-1975",
-        "lcna": "n80057245"},
-        {"authorized": "Wells, G. P. (George Philip)",
-        "lcna": "n84135381"}
-      ]
-     },
      {"issue": {"issue-date": "1930-January 1 - October 11,"}, 
       "title": "The Science of Life",
       "note": "Exact issues not specified in CCE renewal record, though it says 'except Sundays'.   Some 1929 copyright dates with AI- registration numbers are given in this record, implying that installments may have been published abroad before they appeared in the New York American.",
@@ -1028,5 +861,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-01-04"
+   "last-updated": "2025-01-01"
 }

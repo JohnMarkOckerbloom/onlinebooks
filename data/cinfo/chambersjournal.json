@@ -4,17 +4,10 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1929-07-06"}}, 
-   "first-renewed-contribution-source": "1957-JanJun",
+     {"issue": {"issue-date": "1932-January-March"}}, 
+   "first-renewed-contribution-source": "1959-JulDec",
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1929-07-06"}, 
-      "title": "The Small Dark Man",
-      "author": {
-       "authorized": "Walsh, Maurice, 1879-1964",
-       "lcna": "n85277099"
-      }
-     },
      {"issue": {"issue-date": "1932-January-March"}, 
       "title": "Blackcock's Feather",
       "title-note": "installments",
@@ -39,5 +32,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-01-05"
+   "last-updated": "2025-01-01"
 }

@@ -4,34 +4,11 @@
    "online": "1",
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
-   "first-renewed-contribution": {"issue": {"issue-date": "1929-04"}},
-   "first-renewed-contribution-source": "1957-JanJun",
+   "first-renewed-contribution":
+      {"issue": {"issue-date": "1940-11"}},
+   "first-renewed-contribution-source": "1967-JulDec",
    "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
-      {"issue": {"issue-date": "1929-04"},
-       "title": "The Real Fathers of Flight",
-       "title-note": "installment",
-       "author": {
-         "authorized": "McMahon, John R. (John Robert), 1875-1956",
-         "lcna": "n91040378"
-       }
-      },
-      {"issue": {"issue-date": "1929-05"},
-       "title": "The Real Fathers of Flight",
-       "title-note": "installment",
-       "author": {
-         "authorized": "McMahon, John R. (John Robert), 1875-1956",
-         "lcna": "n91040378"
-       }
-      },
-      {"issue": {"issue-date": "1929-06"},
-       "title": "The Real Fathers of Flight",
-       "title-note": "installment",
-       "author": {
-         "authorized": "McMahon, John R. (John Robert), 1875-1956",
-         "lcna": "n91040378"
-       }
-      },
       {"issue": {"issue-date": "1940-11"},
        "title": "His Vision Made Television",
        "author": {
@@ -51,5 +28,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-01-07"
+   "last-updated": "2025-01-09"
 }

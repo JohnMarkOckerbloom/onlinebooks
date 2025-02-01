@@ -1,10 +1,11 @@
 {
    "title": "Rocky Mountain Law Review",
+   "online": "1",
    "first-issue":
       {"issue-date": "1928-12", "volume": "1", "number": "1"},
    "first-renewed-issue": 
-      {"issue-date": "1929-02", "volume": "1", "number": "2"},
-   "first-renewed-issue-source": "1957-JanJun",
+      {"issue-date": "1930-04", "volume": "2", "number": "3"},
+   "first-renewed-issue-source": "1958-JanJun",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
    "last-issue": {"issue-date": "1962-Summer", "volume": "34", "number": "4"},
@@ -12,9 +13,6 @@
      [{"id": "ucololawrev", "note": "University of Colorado Law Review"}],
    "renewed-issue-completeness": "active/1932",
    "renewed-issues": [
-      {"issue-date": "1929-02", "volume": "1", "number": "2"},
-      {"issue-date": "1929-04", "volume": "1", "number": "3"},
-      {"issue-date": "1929-06", "volume": "1", "number": "4"},
       {"issue-date": "1930-04", "volume": "2", "number": "3"},
       {"issue-date": "1930-11", "volume": "3", "number": "1"},
       {"issue-date": "1931-02", "volume": "3", "number": "2"},
@@ -28,5 +26,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-10-30"
+   "last-updated": "2025-01-11"
 }

@@ -2,6 +2,7 @@
    "title": "Clues",
    "aka": ["Clues All Star Detective Stories", "Clues Detective Stories",
            "Street & Smith's Clues Detective Stories"],
+   "online": "1",
    "contents": [
       {"url": "http://www.philsp.com/homeville/CFI/link.asp?magid=CLU",
        "note": "FictionMags"}
@@ -10,11 +11,11 @@
      {"issue-date": "1933-10", "volume": "30", "number": "5"},
    "first-renewed-issue-source": "1960-JulDec",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1929-05-10", "volume": "12", "number": "4"}},
-   "first-renewed-contribution-source": "1956-JulDec",
+     {"issue": {"issue-date": "1930-03-25", "volume": "18", "number": "1"}},
+   "first-renewed-contribution-source": "1957-JanJun",
    "last-issue":
      {"issue-date": "1943-05", "volume": "47", "number": "1"},
-   "renewed-issue-completeness": "active/1933",
+   "renewed-issue-completeness": "active/end",
    "renewed-issues": [
      {"issue-date": "1933-10", "volume": "30", "number": "5"},
      {"issue-date": "1933-11", "volume": "30", "number": "6"},
@@ -31,161 +32,116 @@
      {"issue-date": "1934-08", "volume": "32", "number": "3"},
      {"issue-date": "1934-09", "volume": "32", "number": "4"},
      {"issue-date": "1934-10", "volume": "32", "number": "5"},
-     {"issue-date": "1934-11", "volume": "32", "number": "6"}
+     {"issue-date": "1934-11", "volume": "32", "number": "6"},
+     {"issue-date": "1934-12", "volume": "33", "number": "1"},
+     {"issue-date": "1935-01", "volume": "33", "number": "2",
+      "cdate": "1934-12-12"},
+     {"issue-date": "1935-02", "volume": "33", "number": "3",
+      "cdate": "1935-01-09"},
+     {"issue-date": "1935-03", "volume": "33", "number": "4"},
+     {"issue-date": "1935-04", "volume": "33", "number": "5"},
+     {"issue-date": "1935-05", "volume": "33", "number": "6"},
+     {"issue-date": "1935-06", "volume": "34", "number": "1"},
+     {"issue-date": "1935-07", "volume": "34", "number": "2"},
+     {"issue-date": "1935-08", "volume": "34", "number": "3"},
+     {"issue-date": "1935-09", "volume": "34", "number": "4"},
+     {"issue-date": "1935-10", "volume": "34", "number": "5"},
+     {"issue-date": "1935-11", "volume": "34", "number": "6"},
+     {"issue-date": "1935-12", "volume": "35", "number": "1"},
+     {"issue-date": "1936-01", "volume": "35", "number": "2",
+      "cdate": "1935-12-11"},
+     {"issue-date": "1936-02", "volume": "35", "number": "3",
+      "cdate": "1936-01-08"},
+     {"issue-date": "1936-03", "volume": "35", "number": "4"},
+     {"issue-date": "1936-04", "volume": "35", "number": "5"},
+     {"issue-date": "1936-05", "volume": "35", "number": "6"},
+     {"issue-date": "1936-06", "volume": "36", "number": "1"},
+     {"issue-date": "1936-07", "volume": "36", "number": "2"},
+     {"issue-date": "1936-08", "volume": "36", "number": "3"},
+     {"issue-date": "1936-09", "volume": "36", "number": "4"},
+     {"issue-date": "1936-10", "volume": "36", "number": "5"},
+     {"issue-date": "1936-11", "volume": "36", "number": "6"},
+     {"issue-date": "1936-12", "volume": "37", "number": "1"},
+     {"issue-date": "1937-01", "volume": "37", "number": "2",
+      "cdate": "1936-12-09"},
+     {"issue-date": "1937-02", "volume": "37", "number": "3",
+      "cdate": "1937-01-13"},
+     {"issue-date": "1937-03", "volume": "37", "number": "4"},
+     {"issue-date": "1937-04", "volume": "37", "number": "5"},
+     {"issue-date": "1937-05", "volume": "37", "number": "6"},
+     {"issue-date": "1937-06", "volume": "38", "number": "1"},
+     {"issue-date": "1937-07", "volume": "38", "number": "2"},
+     {"issue-date": "1937-08", "volume": "38", "number": "3"},
+     {"issue-date": "1937-09", "volume": "38", "number": "4"},
+     {"issue-date": "1937-10", "volume": "38", "number": "5"},
+     {"issue-date": "1937-11", "volume": "38", "number": "6"},
+     {"issue-date": "1937-12", "volume": "39", "number": "1"},
+     {"issue-date": "1938-01", "volume": "39", "number": "2",
+      "cdate": "1937-12-08"},
+     {"issue-date": "1938-02", "volume": "39", "number": "3",
+      "cdate": "1938-01-05"},
+     {"issue-date": "1938-03", "volume": "39", "number": "4"},
+     {"issue-date": "1938-04", "volume": "39", "number": "5"},
+     {"issue-date": "1938-05", "volume": "39", "number": "6"},
+     {"issue-date": "1938-06", "volume": "40", "number": "1"},
+     {"issue-date": "1938-07", "volume": "40", "number": "2"},
+     {"issue-date": "1938-08", "volume": "40", "number": "3"},
+     {"issue-date": "1938-09", "volume": "40", "number": "4"},
+     {"issue-date": "1938-10", "volume": "40", "number": "5"},
+     {"issue-date": "1938-11", "volume": "40", "number": "6"},
+     {"issue-date": "1938-12", "volume": "41", "number": "1",
+       "note": "Renewals from here onward filed under Street & Smith's Clues Detective Stories."},
+     {"issue-date": "1939-01", "volume": "41", "number": "2",
+      "cdate": "1938-12-14"},
+     {"issue-date": "1939-02", "volume": "41", "number": "3",
+      "cdate": "1939-01-11"},
+     {"issue-date": "1939-03", "volume": "41", "number": "4"},
+     {"issue-date": "1939-04", "volume": "41", "number": "5"},
+     {"issue-date": "1939-05", "volume": "41", "number": "6"},
+     {"issue-date": "1939-06", "volume": "42", "number": "1"},
+     {"issue-date": "1939-07", "volume": "42", "number": "2"},
+     {"issue-date": "1939-08", "volume": "42", "number": "3"},
+     {"issue-date": "1939-09", "volume": "42", "number": "4"},
+     {"issue-date": "1939-10", "volume": "42", "number": "5"},
+     {"issue-date": "1939-11", "volume": "42", "number": "6"},
+     {"issue-date": "1939-12", "volume": "43", "number": "1"},
+     {"issue-date": "1940-01", "volume": "43", "number": "2",
+      "cdate": "1939-12-13"},
+     {"issue-date": "1940-02", "volume": "43", "number": "3",
+      "cdate": "1940-01-10"},
+     {"issue-date": "1940-03", "volume": "43", "number": "4"},
+     {"issue-date": "1940-04", "volume": "43", "number": "5"},
+     {"issue-date": "1940-05", "volume": "43", "number": "6"},
+     {"issue-date": "1940-06", "volume": "44", "number": "1"},
+     {"issue-date": "1940-07", "volume": "44", "number": "2"},
+     {"issue-date": "1940-09", "volume": "44", "number": "3"},
+     {"issue-date": "1940-11", "volume": "44", "number": "4"},
+     {"issue-date": "1941-01", "volume": "44", "number": "5",
+      "cdate": "1940-11-13",
+      "note": "We did not find this renewal record in the expected CCE volume scans, but found it in the Copyright Office virtual card catalog."},
+     {"issue-date": "1941-03", "volume": "44", "number": "6",
+      "cdate": "1941-01-08"},
+     {"issue-date": "1941-05", "volume": "45", "number": "1"},
+     {"issue-date": "1941-07", "volume": "45", "number": "2"},
+     {"issue-date": "1941-09", "volume": "45", "number": "3"},
+     {"issue-date": "1941-11", "volume": "45", "number": "4"},
+     {"issue-date": "1942-01", "volume": "45", "number": "5",
+      "cdate": "1941-11-12"},
+     {"issue-date": "1942-03", "volume": "45", "number": "6",
+      "cdate": "1942-01-14"},
+     {"issue-date": "1942-05", "volume": "46", "number": "1"},
+     {"issue-date": "1942-07", "volume": "46", "number": "2"},
+     {"issue-date": "1942-09", "volume": "46", "number": "3"},
+     {"issue-date": "1942-11", "volume": "46", "number": "4"},
+     {"issue-date": "1943-01", "volume": "46", "number": "5",
+      "cdate": "1942-11-10"},
+     {"issue-date": "1943-03", "volume": "46", "number": "6",
+      "cdate": "1943-01-12"},
+     {"issue-date": "1943-05", "volume": "47", "number": "1"}
    ],
+   "comment": "Did not find a v44n5 (Jan 1941) issue renewal in CCE (might want to check card file as well if we want to rely on that)",
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1929-05-10", "volume": "12", "number": "4"},
-      "title": "The Crime Critic",
-      "author": {
-         "authorized": "Elston, Allan Vaughan, 1887-1976",
-         "lcna": "no90023204"
-       }
-     },
-     {"issue": {"issue-date": "1929-05-25", "volume": "13", "number": "1"},
-      "title": "On the Up and Up",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1929-07-25", "volume": "14", "number": "1"},
-      "title": "State's Evidence",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1929-08-10", "volume": "14", "number": "2"},
-      "title": "Narrative Continued by the Doctor",
-      "author": {
-         "authorized": "Elston, Allan Vaughan, 1887-1976",
-         "lcna": "no90023204"
-       }
-     },
-     {"issue": {"issue-date": "1929-08-25", "volume": "14", "number": "3"},
-      "title": "Diamonds of Death",
-      "note": "Issue date per FictionMags listing.  CCE renewal record gives issue date as August 10. (Cover labels this issue as 'Second Aug. No.'",
-      "author": {
-         "authorized": "Elston, Allan Vaughan, 1887-1976",
-         "lcna": "no90023204"
-       }
-     },
-     {"issue": {"issue-date": "1929-08-25", "volume": "14", "number": "3"},
-      "title": "The Hand of the Tong",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1929-09-10", "volume": "14", "number": "4"},
-      "title": "The Killing of Bronx Magee",
-      "note": "Author name is a pseudonym used by Richard W. Rowan and Lassiter Wren. This appears to be one of their 'Baffles' contributions.",
-      "author": {
-         "authorized": "McKay, Randle",
-         "lcna": "n2006052936"
-      }
-     },
-     {"issue": {"issue-date": "1929-09-10", "volume": "14", "number": "4"},
-      "title": "The Montjoy Diamond",
-      "note": "Author name is a pseudonym used by Richard W. Rowan and Lassiter Wren. This appears to be one of their 'Baffles' contributions.",
-      "author": {
-         "authorized": "McKay, Randle",
-         "lcna": "n2006052936"
-      }
-     },
-     {"issue": {"issue-date": "1929-09-25", "volume": "15", "number": "1"},
-      "title": "The Abandoned Picnic",
-      "note": "Author name is a pseudonym used by Richard W. Rowan and Lassiter Wren. This appears to be one of their 'Baffles' contributions.",
-      "author": {
-         "authorized": "McKay, Randle",
-         "lcna": "n2006052936"
-      }
-     },
-     {"issue": {"issue-date": "1929-09-25", "volume": "15", "number": "1"},
-      "title": "The German Forest Mystery",
-      "note": "Author name is a pseudonym used by Richard W. Rowan and Lassiter Wren. This appears to be one of their 'Baffles' contributions.",
-      "author": {
-         "authorized": "McKay, Randle",
-         "lcna": "n2006052936"
-      }
-     },
-     {"issue": {"issue-date": "1929-09-25", "volume": "15", "number": "1"},
-      "title": "The Winning Hand",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1929-10-10", "volume": "15", "number": "2"},
-      "title": "The Bradford Farm Mystery",
-      "note": "Author name is a pseudonym used by Richard W. Rowan and Lassiter Wren. This appears to be one of their 'Baffles' contributions.",
-      "author": {
-         "authorized": "McKay, Randle",
-         "lcna": "n2006052936"
-      }
-     },
-     {"issue": {"issue-date": "1929-10-10", "volume": "15", "number": "2"},
-      "title": "The Murder of Diana Ballister",
-      "note": "Author name is a pseudonym used by Richard W. Rowan and Lassiter Wren. This appears to be one of their 'Baffles' contributions.",
-      "author": {
-         "authorized": "McKay, Randle",
-         "lcna": "n2006052936"
-      }
-     },
-     {"issue": {"issue-date": "1929-10-25", "volume": "15", "number": "3"},
-      "title": "The Affair at the Three Knights",
-      "note": "Author name is a pseudonym used by Richard W. Rowan and Lassiter Wren. This appears to be one of their 'Baffles' contributions.",
-      "author": {
-         "authorized": "McKay, Randle",
-         "lcna": "n2006052936"
-      }
-     },
-     {"issue": {"issue-date": "1929-10-25", "volume": "15", "number": "3"},
-      "title": "Detective Donovan's Cable",
-      "note": "Author name is a pseudonym used by Richard W. Rowan and Lassiter Wren. This appears to be one of their 'Baffles' contributions.",
-      "author": {
-         "authorized": "McKay, Randle",
-         "lcna": "n2006052936"
-      }
-     },
-     {"issue": {"issue-date": "1929-11-10", "volume": "15", "number": "4"},
-      "title": "The Death of Worthington Hunt",
-      "note": "Author name is a pseudonym used by Richard W. Rowan and Lassiter Wren. This appears to be one of their 'Baffles' contributions.",
-      "author": {
-         "authorized": "McKay, Randle",
-         "lcna": "n2006052936"
-      }
-     },
-     {"issue": {"issue-date": "1929-11-10", "volume": "15", "number": "4"},
-      "title": "Four Post Cards for Zurich",
-      "note": "Author name is a pseudonym used by Richard W. Rowan and Lassiter Wren. This appears to be one of their 'Baffles' contributions.",
-      "author": {
-         "authorized": "McKay, Randle",
-         "lcna": "n2006052936"
-      }
-     },
-     {"issue": {"issue-date": "1929-11-10", "volume": "15", "number": "4"},
-      "title": "Letter of the Law",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1929-11-25", "volume": "16", "number": "1"},
-      "title": "Kennedy the Con Man",
-      "author": {
-        "authorized": "Wallace, Edgar, 1875-1932",
-        "lcna": "n80034938"
-      }
-     },
-     {"issue": {"issue-date": "1929-12-25", "volume": "16", "number": "3"},
-      "title": "The Surprise Party",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
      {"issue": {"issue-date": "1930-03-25", "volume": "18", "number": "1"},
       "title": "The Gems of Tai Lee",
       "author": {
@@ -582,5 +538,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-11-13"
+   "last-updated": "2025-01-03"
 }

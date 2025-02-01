@@ -9,43 +9,110 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1929-03", "volume": "77", "number": "459"}},
-   "first-renewed-contribution-source": "1956-JanJun",
+     {"issue": {"issue-date": "1930-01"}},
+   "first-renewed-contribution-source": "1957-JanJun",
+   "renewed-contribution-completeness": "active/1930",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1929-03", "volume": "77", "number": "459"},
-      "title": "The Man Who Gave Up Smoking",
+     {"issue": {"issue-date": "1930-01"},
+      "title": "Sergeant Sir Peter's Cases, No. 2: The Desk-Breaker",
+      "note": "CCE renewal records for stories in the January 1930 issue give inconsistent copyright dates, some in 1929 and some in 1930. We list renewals for this issue here to be on the safe side, though US copyrights for material in this issue may have expired as of 2025.",
       "author": {
-         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
-         "lcna": "n78089036"
-       }
-     },
-     {"issue": {"issue-date": "1929-04", "volume": "77", "number": "460"},
-      "title": "The Lord of the Dark Face: The Dangers of the Deep",
-      "author": {
-       "authorized": "Doyle, Arthur Conan, 1859-1930",
-       "lcna": "n79082292"
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
       }
      },
-     {"issue": {"issue-date": "1929-05", "volume": "77", "number": "461"},
-      "title": "The Lord of the Dark Face: The Crisis",
+     {"issue": {"issue-date": "1930-01"},
+      "title": "The Death Scratch",
+      "title-note": "part 2 of 6",
       "author": {
-       "authorized": "Doyle, Arthur Conan, 1859-1930",
-       "lcna": "n79082292"
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
       }
      },
-     {"issue": {"issue-date": "1929-08", "volume": "78", "number": "464"},
-      "title": "Prospects for Wambledon",
+     {"issue": {"issue-date": "1930-02"},
+      "title": "Sergeant Sir Peter's Cases, No. 3: The Inheritor",
       "author": {
-         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
-         "lcna": "n78089036"
-       }
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1930-02"},
+      "title": "The Death Scratch",
+      "title-note": "part 3 of 6",
+      "note": "The CCE renewal record gives a copyright date for the second installment, from the January issue, as December 31, 1929.  Copyrights of that date are now expired in the US.",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     },
+     {"issue": {"issue-date": "1930-03"},
+      "title": "Sergeant Sir Peter's Cases, No. 4: Dr. Fifer's Patient",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1930-03"},
+      "title": "The Death Scratch",
+      "title-note": "part 4 of 6",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     },
+     {"issue": {"issue-date": "1930-04"},
+      "title": "The Death Scratch",
+      "title-note": "part 5 of 6",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     },
+     {"issue": {"issue-date": "1930-05"},
+      "title": "Sergeant Sir Peter's Cases, No. 6: Buried Treasure",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1930-05"},
+      "title": "The Death Scratch",
+      "title-note": "part 6 of 6",
+      "note": "The CCE renewal record lists this as the last installment. FictionMags also lists a seventh and last installment in the June issue. We have not examined that issue ourselves.",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     },
+     {"issue": {"issue-date": "1930-12"},
+      "title": "The Creaking Door",
+      "note": "Title as given in CCE renewal record. FictionMags gives title as 'The Creeping Door'. We have not examined the issue in question.",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     },
+     {"issue": {"issue-date": "1931-02"},
+      "title": "The Haunted Rectory",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     },
+     {"issue": {"issue-date": "1931-06"},
+      "title": "The Missing Chauffeur",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
      }
    ],
+    "comment": "We have NOT put in all renewals filed in 1958, but the only ones we haven't put in are from 1931.",
    "additional-note":
     "This is a British publication.  Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-01-06"
+   "last-updated": "2025-01-07"
 }

@@ -7,9 +7,40 @@
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1930-12"}},
    "first-renewed-contribution-source": "1957-JulDec",
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1930-12"},
+      "title": "Portrait",
+      "author": {
+       "authorized": "Wilde, Percival, 1887-1953",
+       "lcna": "n80050877"
+      }
+     },
+     {"issue": {"issue-date": "1931-01"},
+      "title": "What Never Dies",
+      "author": {
+       "authorized": "Wilde, Percival, 1887-1953",
+       "lcna": "n80050877"
+      }
+     },
+     {"issue": {"issue-date": "1931-02"},
+      "title": "The Great Dark: A Play in One Act",
+      "author": {
+       "authorized": "Totheroh, Dan",
+       "lcna": "n82054811"
+      }
+     },
+     {"issue": {"issue-date": "1931-04"},
+      "title": "Mirthful Marionettes: A Play for Children in One Act",
+      "author": {
+       "authorized": "Totheroh, Dan",
+       "lcna": "n82054811"
+      }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-01-05"
+   "last-updated": "2025-01-30"
 }

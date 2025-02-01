@@ -7,27 +7,16 @@
        "note": "FictionMags"}
    ],
    "first-renewed-issue": 
-      {"issue-date": "1929-03", "volume": "48", "number": "5",
-       "cdate": "1929-02-01"},
-   "first-renewed-issue-source": "1956-JanJun",
+      {"issue-date": "1930-02", "volume": "50", "number": "4",
+       "cdate": "1930-01-01"},
+   "first-renewed-issue-source": "1957-JanJun",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1929-04", "volume": "48", "number": "6"}},
-   "first-renewed-contribution-source": "1956-JanJun",
+     {"issue": {"issue-date": "1930-02", "volume": "50", "number": "4"}},
+   "first-renewed-contribution-source": "1957-JanJun",
    "renewed-issue-completeness": "active/1949",
    "renewed-issues": [
-      {"issue-date": "1929-03", "volume": "48", "number": "5",
-       "cdate": "1929-02-01"},
-      {"issue-date": "1929-04", "volume": "48", "number": "6"},
-      {"issue-date": "1929-05", "volume": "49", "number": "1"},
-      {"issue-date": "1929-06", "volume": "49", "number": "2"},
-      {"issue-date": "1929-07", "volume": "49", "number": "3"},
-      {"issue-date": "1929-08", "volume": "49", "number": "4"},
-      {"issue-date": "1929-09", "volume": "49", "number": "5"},
-      {"issue-date": "1929-10", "volume": "49", "number": "6"},
-      {"issue-date": "1929-11", "volume": "50", "number": "1"},
-      {"issue-date": "1929-12", "volume": "50", "number": "2"},
-      {"issue-date": "1930-01", "volume": "50", "number": "3"},
-      {"issue-date": "1930-02", "volume": "50", "number": "4"},
+      {"issue-date": "1930-02", "volume": "50", "number": "4",
+       "cdate": "1930-01-01"},
       {"issue-date": "1930-03", "volume": "50", "number": "5"},
       {"issue-date": "1930-04", "volume": "50", "number": "6"},
       {"issue-date": "1930-05", "volume": "51", "number": "1"},
@@ -344,38 +333,6 @@
    ],
    "renewed-contribution-completeness": "active/1949",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1929-04", "volume": "48", "number": "6"},
-      "title": "The Shocker",
-      "note": "Title as given in CCE. FictionMags gives title as 'The Shacker'.  I have not checked the issue to see what title is used there.",
-      "author": {
-         "authorized": "Titus, Harold, 1888-1967",
-         "lcna": "no2008175553"
-      }
-     },
-     {"issue": {"issue-date": "1929-10", "volume": "49", "number": "6"},
-      "title": "The Forest War",
-      "title-note": "part 1 of 3",
-      "author": {
-         "authorized": "Titus, Harold, 1888-1967",
-         "lcna": "no2008175553"
-      }
-     },
-     {"issue": {"issue-date": "1929-11", "volume": "50", "number": "1"},
-      "title": "The Forest War",
-      "title-note": "part 2 of 3",
-      "author": {
-         "authorized": "Titus, Harold, 1888-1967",
-         "lcna": "no2008175553"
-      }
-     },
-     {"issue": {"issue-date": "1929-12", "volume": "50", "number": "2"},
-      "title": "The Forest War",
-      "title-note": "part 3 of 3",
-      "author": {
-         "authorized": "Titus, Harold, 1888-1967",
-         "lcna": "no2008175553"
-      }
-     },
      {"issue": {"issue-date": "1930-02", "volume": "50", "number": "4"},
       "title": "The Chief of the Pegasus",
       "author": {
@@ -1912,5 +1869,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-08-01"
+   "last-updated": "2025-01-01"
 }

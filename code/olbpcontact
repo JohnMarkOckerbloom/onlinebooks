@@ -850,6 +850,8 @@ sub analyze_form {
       || $comments =~ /freight forwarder/i
       || $comments =~ /issues.*website/i
       || $comments =~ /sexlovers/i
+      || $comments =~ /investment project/i
+      || $comments =~ /finds you well/i
       || $comments =~ / robot/i
       || $comments =~ / AI /i
       || $comments =~ /salesai/i

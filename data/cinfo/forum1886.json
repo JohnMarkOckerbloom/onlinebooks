@@ -3,37 +3,16 @@
    "title-note": "American magazine, 1886-1930",
    "online": "1",
    "first-renewed-issue": "none",
-   "first-renewed-issue-source": "cce+database",
+   "first-renewed-issue-source": "cce",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1929-02", "cdate": "1929-01-12"}},
-   "first-renewed-contribution-source": "1956-JanJun",
+     {"issue": {"issue-date": "1930-04"}},
+   "first-renewed-contribution-source": "1957-JanJun",
    "last-issue": {"issue-date": "1930-06", "volume": "83", "number": "6"}, 
    "succeeded-by": [{"id": "forumcentury", "note": "Forum and Century"}],
    "see-also":
      [{"id": "forum1945", "note": "The Forum (American magazine, 1945-1950)"}],
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1929-02"},
-        "title": "Double Birthday",
-        "author": {
-         "authorized": "Cather, Willa, 1873-1947",
-         "lcna": "n80015717"
-        }
-     },
-     {"issue": {"issue-date": "1929-06"},
-        "title": "At Schoharie Crossing",
-        "author": {
-         "authorized": "Edmonds, Walter D. (Walter Dumaux), 1903-1998",
-         "lcna": "n79083990"
-        }
-     },
-     {"issue": {"issue-date": "1929-08"},
-        "title": "The Old Jew's Tale",
-        "author": {
-         "authorized": "Edmonds, Walter D. (Walter Dumaux), 1903-1998",
-         "lcna": "n79083990"
-        }
-     },
      {"issue": {"issue-date": "1930-04"},
       "title": "A Rose for Emily",
       "author": {
@@ -46,5 +25,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-01-05"
+   "last-updated": "2025-01-01"
 }

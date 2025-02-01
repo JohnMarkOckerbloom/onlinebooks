@@ -78,6 +78,15 @@ sub get_lookup_url {
   return "";
 }
 
+sub get_serial_query_url {
+  my $term = shift;
+  my $serialscript = $OLBP::serverurl . "webbin/serial";
+  if ($term) {
+    return $serialscript . "?id=" . OLBP::url_encode($term);
+  }
+  return "";
+}
+
 sub directive {
   my $str = shift;
   my $cmd = $str;
@@ -104,6 +113,9 @@ sub directive {
     return qq!<a href="$link">$text</a>!;
   } elsif ($cmd =~ /^id:(.*)/) {
     my $link = get_lookup_url($1);
+    return qq!<a href="$link">$text</a>!;
+  } elsif ($cmd =~ /^se:(.*)/) {
+    my $link = get_serial_query_url($1);
     return qq!<a href="$link">$text</a>!;
   }
   return $str;

@@ -6,52 +6,15 @@
        "note": "FictionMags"}
    ],
    "first-issue": {"issue-date": "1921-09", "volume": "1", "number": "1"},
-   "first-renewed-issue": 
-       {"issue-date": "1929-03", "volume": "8", "number": "7",
-        "cdate": "1929-01-10"},
-   "first-renewed-issue-source": "1957-JanJun",
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution":
-       {"issue": {"issue-date": "1929-10", "volume": "9", "number": "2"}},
+     {"issue": {"issue-date": "1930-02", "volume": "9", "number": "6"}}, 
    "first-renewed-contribution-source": "1957-JulDec",
    "last-issue": {"issue-date": "1950-Summer", "volume": "19", "number": "8"},
    "renewed-issue-completeness": "active/end",
-   "renewed-issues": [
-       {"issue-date": "1929-03", "volume": "8", "number": "7",
-        "cdate": "1929-01-10"},
-       {"issue-date": "1929-04", "volume": "8", "number": "8"},
-       {"issue-date": "1929-05", "volume": "8", "number": "9"},
-       {"issue-date": "1929-06", "volume": "8", "number": "10"},
-       {"issue-date": "1929-07", "volume": "8", "number": "11"},
-       {"issue-date": "1929-08", "volume": "8", "number": "12"},
-       {"issue-date": "1929-09", "volume": "9", "number": "1"},
-       {"issue-date": "1929-10", "volume": "9", "number": "2"},
-       {"issue-date": "1929-11", "volume": "9", "number": "3"},
-       {"issue-date": "1929-12", "volume": "9", "number": "4"}
-   ],
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1929-10", "volume": "9", "number": "2"}, 
-      "title": "Trigger Feud",
-      "author": {
-       "authorized": "Coburn, Walt, 1889-1971",
-       "lcna": "n84030412"
-      }
-     },
-     {"issue": {"issue-date": "1929-11", "volume": "9", "number": "3"}, 
-      "title": "Black Jack's Last Bullet",
-      "note": "Title as given on cover. CCE renewal record gives title as 'Blackjack's Last Bullet",
-      "author": {
-       "authorized": "Coburn, Walt, 1889-1971",
-       "lcna": "n84030412"
-      }
-     },
-     {"issue": {"issue-date": "1929-12", "volume": "9", "number": "4"}, 
-      "title": "The Gun Ghost",
-      "author": {
-       "authorized": "Coburn, Walt, 1889-1971",
-       "lcna": "n84030412"
-      }
-     },
      {"issue": {"issue-date": "1930-02", "volume": "9", "number": "6"}, 
       "title": "Gun Throwers",
       "author": {
@@ -474,13 +437,6 @@
           "authorized": "Binder, Eando",
           "lcna": "no93000146"
         }
-     },
-     {"issue": {"issue-date": "1942-06", "volume": "16", "number": "10"}, 
-      "title": "Red Decks",
-      "note": "No renewal filed for this story, but the renewal for the December 1928 Action Stories issue in which it first ran as 'Dead Men's Ears' is still active as of the last update to this record.",
-       "author": {
-          "name": "Ted Roscoe"
-        }
      }
    ],
    "additional-note": "Some issues of this magazine included reprints.  We have not systematically checked whether the original publications of those reprinted stories have active renewals. Check the table of contents listings linked from here for issue(s) you plan to use, to see if any reprints are indicated.",
@@ -488,5 +444,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-01-03"
+   "last-updated": "2025-01-01"
 }

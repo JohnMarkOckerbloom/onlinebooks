@@ -10,83 +10,10 @@
       {"issue-date": "1936-01", "series": "2", "volume": "1", "number": "4"},
    "first-renewed-issue-source": "1963-JulDec",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1929-02", "volume": "16", "number": "3",
-      "cdate": "1929-01-01"}},
-   "first-renewed-contribution-source": "1956-JanJun",
+     {"issue": {"issue-date": "1930-02", "number": "74"}},
+   "first-renewed-contribution-source": "1957-JanJun",
    "renewed-contribution-completeness": "active/1930",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1929-02", "volume": "16", "number": "3"},
-      "title": "Speakeasy (Gaudy Lady)",
-      "author": {
-       "authorized": "Brush, Katharine, 1900-1952",
-       "lcna": "no93001232"
-      }
-     },
-     {"issue": {"issue-date": "1929-07", "volume": "17", "number": "4"},
-      "title": "The Original Follies Girl",
-      "authors": [
-        {"authorized": "Fitzgerald, F. Scott (Francis Scott), 1896-1940",
-         "lcna": "n79006871"},
-        {"authorized": "Fitzgerald, Zelda, 1900-1948",
-         "lcna": "n50003067"}
-      ]
-     },
-     {"issue": {"issue-date": "1929-08", "volume": "18", "number": "1"},
-      "title": "Immoral",
-      "title-note": "part 1 of 2",
-      "author": {
-       "authorized": "Banning, Margaret Culkin, 1891-1982",
-       "lcna": "n86086096"
-      }
-     },
-     {"issue": {"issue-date": "1929-08", "volume": "18", "number": "1"},
-      "title": "The Way to Put Them in Their Place",
-      "author": {
-         "authorized": "Cary, Lucian, 1886-1971",
-         "lcna": "no90003387"
-       }
-     },
-     {"issue": {"issue-date": "1929-09", "volume": "18", "number": "2"},
-      "title": "Immoral",
-      "title-note": "part 2 of 2",
-      "author": {
-       "authorized": "Banning, Margaret Culkin, 1891-1982",
-       "lcna": "n86086096"
-      }
-     },
-     {"issue": {"issue-date": "1929-10", "volume": "18", "number": "3"},
-      "title": "One Lovely Moron",
-      "title-note": "part 1 of 3",
-      "author": {
-         "authorized": "Cary, Lucian, 1886-1971",
-         "lcna": "no90003387"
-       }
-     },
-     {"issue": {"issue-date": "1929-10", "volume": "18", "number": "3"},
-      "title": "The Southern Girl",
-      "authors": [
-        {"authorized": "Fitzgerald, F. Scott (Francis Scott), 1896-1940",
-         "lcna": "n79006871"},
-        {"authorized": "Fitzgerald, Zelda, 1900-1948",
-         "lcna": "n50003067"}
-      ]
-     },
-     {"issue": {"issue-date": "1929-11", "volume": "18", "number": "4"},
-      "title": "One Lovely Moron",
-      "title-note": "part 2 of 3",
-      "author": {
-         "authorized": "Cary, Lucian, 1886-1971",
-         "lcna": "no90003387"
-       }
-     },
-     {"issue": {"issue-date": "1929-12", "volume": "19", "number": "1"},
-      "title": "One Lovely Moron",
-      "title-note": "part 3 of 3",
-      "author": {
-         "authorized": "Cary, Lucian, 1886-1971",
-         "lcna": "no90003387"
-       }
-     },
      {"issue": {"issue-date": "1930-02", "number": "74"},
       "title": "The Girl the Prince Liked",
       "authors": [
@@ -304,5 +231,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-11-13"
+   "last-updated": "2025-01-03"
 }

@@ -1,56 +1,17 @@
 {
    "title": "New York Evening Journal",
    "aka": ["New York Journal"],
-   "first-renewed-issue":
-      {"issue-date": "1929-02-11", "number": "15433"},
-   "first-renewed-issue-source": "1956-JulDec",
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1929-01-17"}},
-   "first-renewed-contribution-source": "1956-JanJun",
+     {"issue": {"issue-date": "1930-01-11"}},
+   "first-renewed-contribution-source": "1958-JanJun",
    "last-issue": {"issue-date": "1937-06-24"},
    "succeeded-by":
       [{"id": "nyjnlamerican", "note": "New York Journal-American"}],
    "renewed-issue-completeness": "active/end",
-   "renewed-issues": [
-      {"issue-date": "1929-02-11", "number": "15433"},
-      {"issue-date": "1929-02-12", "number": "15434"},
-      {"issue-date": "1929-02-13", "number": "15435"},
-      {"issue-date": "1929-02-14", "number": "15436"},
-      {"issue-date": "1929-02-15", "number": "15437"},
-      {"issue-date": "1929-02-16", "number": "15438"},
-      {"issue-date": "1929-02-18", "number": "15439"},
-      {"issue-date": "1929-02-19", "number": "15440"},
-      {"issue-date": "1929-02-20", "number": "15441"},
-      {"issue-date": "1929-02-21", "number": "15442"},
-      {"issue-date": "1929-02-22", "number": "15443"},
-      {"issue-date": "1929-02-23", "number": "15444"},
-      {"issue-date": "1929-02-25", "number": "15445"},
-      {"issue-date": "1929-02-26", "number": "15446"},
-      {"issue-date": "1929-02-27", "number": "15447"},
-      {"issue-date": "1929-02-28", "number": "15448"},
-      {"issue-date": "1929-03-01", "number": "15449"},
-      {"issue-date": "1929-03-02", "number": "15450"},
-      {"issue-date": "1929-03-04", "number": "15451"},
-      {"issue-date": "1929-03-05", "number": "15452"},
-      {"issue-date": "1929-03-06", "number": "15453"},
-      {"issue-date": "1929-03-07", "number": "15454"},
-      {"issue-date": "1929-03-08", "number": "15455"},
-      {"issue-date": "1929-03-09", "number": "15456"},
-      {"issue-date": "1929-03-11", "number": "15457"},
-      {"issue-date": "1929-03-12", "number": "15458"},
-      {"issue-date": "1929-03-13", "number": "15459"},
-      {"issue-date": "1929-03-14", "number": "15460"}
-    ],
    "renewed-contribution-completeness": "active/1936",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1929-01-17"},
-       "title": "Thimble Theatre: Gobs of Work",
-       "note": "Renewed under Artwork. CCE renewal record does not mention the Journal, or that this strip is the first appearance of Popeye, but Thimble Theatre originated in this newspaper, so this strip is likely to have run in it.",
-       "author": {
-         "authorized": "King Features Syndicate",
-         "lcna": "n82010039"
-        }
-     },
      {"issue": {"issue-date": "1930-01-11"},
        "title": "Thimble Theatre",
        "note": "This day's strip is the first in which the Sea Hag appears and is called by name.",
@@ -81,5 +42,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-11-12"
+   "last-updated": "2025-01-01"
 }

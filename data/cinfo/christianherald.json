@@ -1,5 +1,5 @@
 {
-   "title": "The Christian Herald",
+   "title": "Christian Herald",
    "aka": ["Christian Herald and Signs of Our Times"],
    "title-note": "New York, 1878-1992",
    "online": "1",
@@ -7,13 +7,367 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": 
-      {"issue": {"issue-date": "1929-05-11"}},
-   "first-renewed-contribution-source": "1957-JanJun",
-   "last-issue": {"issue-date": "1878-10-24"},
-   "additional-note" : "Active contribution renewals are recorded beginning in the 1956 July-December CCE volume, but the earliest actively renewed contribution is noted in the 1957 January-June volume.",
+      {"issue": {"issue-date": "1937-11"}},
+   "first-renewed-contribution-source": "1965-JanJun",
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1937-11"}, 
+      "title": "This Same Jesus",
+      "author": {
+       "authorized": "Crowell, Grace Noll, 1877-1969",
+       "lcna": "no93022546"
+      }
+     },
+     {"issue": {"issue-date": "1939-01", "cdate": "1938-12-27"}, 
+      "title": "Preparation",
+      "author": {
+       "authorized": "Crowell, Grace Noll, 1877-1969",
+       "lcna": "no93022546"
+      }
+     },
+     {"issue": {"issue-date": "1939-02"}, 
+      "title": "Inevitable Dawn",
+      "title-note": "©1939 installment",
+      "note": "A 1967 renewal for the 1939 book by this title mentions it was previously published serially in this magazine from September 1938 through May 1939.  It might cover installments published in 1939.",
+      "author": {
+       "authorized": "Baldwin, Arthur C. (Arthur Charles), 1875-",
+       "lcna": "no98075850"
+      }
+     },
+     {"issue": {"issue-date": "1939-03"}, 
+      "title": "Inevitable Dawn",
+      "title-note": "©1939 installment",
+      "note": "A 1967 renewal for the 1939 book by this title mentions it was previously published serially in this magazine from September 1938 through May 1939.  It might cover installments published in 1939.",
+      "author": {
+       "authorized": "Baldwin, Arthur C. (Arthur Charles), 1875-",
+       "lcna": "no98075850"
+      }
+     },
+     {"issue": {"issue-date": "1939-04"}, 
+      "title": "Inevitable Dawn",
+      "title-note": "©1939 installment",
+      "note": "A 1967 renewal for the 1939 book by this title mentions it was previously published serially in this magazine from September 1938 through May 1939.  It might cover installments published in 1939.",
+      "author": {
+       "authorized": "Baldwin, Arthur C. (Arthur Charles), 1875-",
+       "lcna": "no98075850"
+      }
+     },
+     {"issue": {"issue-date": "1939-05"}, 
+      "title": "Inevitable Dawn",
+      "title-note": "©1939 installment",
+      "note": "A 1967 renewal for the 1939 book by this title mentions it was previously published serially in this magazine from September 1938 through May 1939.  It might cover installments published in 1939.",
+      "author": {
+       "authorized": "Baldwin, Arthur C. (Arthur Charles), 1875-",
+       "lcna": "no98075850"
+      }
+     },
+     {"issue": {"issue-date": "1939-10"},
+      "title": "My Early Years",
+      "author": {
+          "authorized": "Gilbert, George B.",
+          "lcna": "no00054852"
+       }
+     },
+     {"issue": {"issue-date": "1939-11"},
+      "title": "School Days",
+      "author": {
+          "authorized": "Gilbert, George B.",
+          "lcna": "no00054852"
+       }
+     },
+     {"issue": {"issue-date": "1939-12"},
+      "title": "Early Missionary Work",
+       "author": {
+          "authorized": "Gilbert, George B.",
+          "lcna": "no00054852"
+        }
+     },
+     {"issue": {"issue-date": "1940-01"},
+      "title": "Forty Years a Country Preacher",
+      "title-note": "installment with unknown title",
+      "note": "A 1967 renewal for 'Forty years a country preacher' mentions that it is revised from installments published in this magazine from October 1939 to May 1940.  That renewal may cover an installment published this month. Previous installments had distinctive titles; we do not know what title this installment had.",
+       "author": {
+          "authorized": "Gilbert, George B.",
+          "lcna": "no00054852"
+        }
+     },
+     {"issue": {"issue-date": "1940-02"},
+      "title": "Forty Years a Country Preacher",
+      "title-note": "installment with unknown title",
+      "note": "A 1967 renewal for 'Forty years a country preacher' mentions that it is revised from installments published in this magazine from October 1939 to May 1940.  That renewal may cover an installment published this month. Previous installments had distinctive titles; we do not know what title this installment had.",
+       "author": {
+          "authorized": "Gilbert, George B.",
+          "lcna": "no00054852"
+        }
+     },
+     {"issue": {"issue-date": "1940-03"},
+      "title": "Forty Years a Country Preacher",
+      "title-note": "installment with unknown title",
+      "note": "A 1967 renewal for 'Forty years a country preacher' mentions that it is revised from installments published in this magazine from October 1939 to May 1940.  That renewal may cover an installment published this month. Previous installments had distinctive titles; we do not know what title this installment had.",
+       "author": {
+          "authorized": "Gilbert, George B.",
+          "lcna": "no00054852"
+        }
+     },
+     {"issue": {"issue-date": "1940-04"},
+      "title": "Forty Years a Country Preacher",
+      "title-note": "installment with unknown title",
+      "note": "A 1967 renewal for 'Forty years a country preacher' mentions that it is revised from installments published in this magazine from October 1939 to May 1940.  That renewal may cover an installment published this month. Previous installments had distinctive titles; we do not know what title this installment had.",
+       "author": {
+          "authorized": "Gilbert, George B.",
+          "lcna": "no00054852"
+        }
+     },
+     {"issue": {"issue-date": "1940-05"},
+      "title": "Forty Years a Country Preacher",
+      "title-note": "installment with unknown title",
+      "note": "A 1967 renewal for 'Forty years a country preacher' mentions that it is revised from installments published in this magazine from October 1939 to May 1940.  That renewal may cover an installment published this month. Previous installments had distinctive titles; we do not know what title this installment had.",
+       "author": {
+          "authorized": "Gilbert, George B.",
+          "lcna": "no00054852"
+        }
+     },
+     {"issue": {"issue-date": "1940-05"},
+      "title": "Speaking as an American",
+       "author": {
+          "authorized": "Buck, Pearl S. (Pearl Sydenstricker), 1892-1973",
+          "lcna": "n79026662"
+        }
+     },
+     {"issue": {"issue-date": "1944-09"},
+      "title": "Walkin' Preacher of the Ozarks",
+      "title-note": "installment",
+       "author": {
+          "authorized": "Howard, Guy, 1891-1966",
+          "lcna": "n97031580"
+        }
+     },
+     {"issue": {"issue-date": "1944-10"},
+      "title": "Walkin' Preacher of the Ozarks",
+      "title-note": "installment",
+       "author": {
+          "authorized": "Howard, Guy, 1891-1966",
+          "lcna": "n97031580"
+        }
+     },
+     {"issue": {"issue-date": "1944-11"},
+      "title": "Walkin' Preacher of the Ozarks",
+      "title-note": "installment",
+       "author": {
+          "authorized": "Howard, Guy, 1891-1966",
+          "lcna": "n97031580"
+        }
+     },
+     {"issue": {"issue-date": "1946-08"},
+        "title": "Old Way to New Life",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "lcna": "n79041782"
+        }
+     },
+     {"issue": {"issue-date": "1948-06"},
+      "title": "I Wind My Father's Watch",
+      "author": {
+       "authorized": "Baldwin, Faith, 1893-1978",
+       "lcna": "n80051885"
+      }
+     },
+     {"issue": {"issue-date": "1949-08"},
+      "title": "Kitchen Shower",
+      "author": {
+       "name": "Jane Kirk Huntley"
+      }
+     },
+     {"issue": {"issue-date": "1950-01"},
+      "title": "Business Young Folks Supper",
+      "author": {
+       "name": "Jane Kirk Huntley"
+      }
+     },
+     {"issue": {"issue-date": "1951-06"},
+      "title": "Turn in the Road",
+      "author": {
+       "authorized": "Baldwin, Faith, 1893-1978",
+       "lcna": "n80051885"
+      }
+     },
+     {"issue": {"issue-date": "1951-08"},
+      "title": "Road's End",
+      "author": {
+       "authorized": "Baldwin, Faith, 1893-1978",
+       "lcna": "n80051885"
+      }
+     },
+     {"issue": {"issue-date": "1951-10"},
+      "title": "The Important Four-Letter Words",
+      "author": {
+       "authorized": "Baldwin, Faith, 1893-1978",
+       "lcna": "n80051885"
+      }
+     },
+     {"issue": {"issue-date": "1951-12"},
+      "title": "Christmas Article",
+      "author": {
+       "authorized": "Baldwin, Faith, 1893-1978",
+       "lcna": "n80051885"
+      }
+     },
+     {"issue": {"issue-date": "1952-01"},
+      "title": "America's Religious Dilemma",
+      "author": {
+       "authorized": "Sugrue, Thomas, 1907-1953",
+       "lcna": "n85054687"
+      }
+     },
+     {"issue": {"issue-date": "1952-02"},
+      "title": "A Catholic Layman Speaks His Mind",
+      "author": {
+       "authorized": "Sugrue, Thomas, 1907-1953",
+       "lcna": "n85054687"
+      }
+     },
+     {"issue": {"issue-date": "1952-04"},
+      "title": "A Praying Woman",
+      "author": {
+       "authorized": "Baldwin, Faith, 1893-1978",
+       "lcna": "n80051885"
+      }
+     },
+     {"issue": {"issue-date": "1952-06"},
+      "title": "The Greatful Spirit",
+      "note": "Title spelled as stated in renewal record.",
+      "author": {
+       "authorized": "Baldwin, Faith, 1893-1978",
+       "lcna": "n80051885"
+      }
+     },
+     {"issue": {"issue-date": "1952-08"},
+      "title": "Four Seasons, Three Tenses",
+      "author": {
+       "authorized": "Baldwin, Faith, 1893-1978",
+       "lcna": "n80051885"
+      }
+     },
+     {"issue": {"issue-date": "1952-10"},
+      "title": "Torch Song",
+      "author": {
+       "authorized": "Baldwin, Faith, 1893-1978",
+       "lcna": "n80051885"
+      }
+     },
+     {"issue": {"issue-date": "1952-12"},
+      "title": "This Is the Promise",
+      "author": {
+       "authorized": "Baldwin, Faith, 1893-1978",
+       "lcna": "n80051885"
+      }
+     },
+     {"issue": {"issue-date": "1953-04"},
+      "title": "Rebirth",
+      "author": {
+       "authorized": "Baldwin, Faith, 1893-1978",
+       "lcna": "n80051885"
+      }
+     },
+     {"issue": {"issue-date": "1953-06"},
+      "title": "Blossoms, Brides, and Blizzards",
+      "author": {
+       "authorized": "Baldwin, Faith, 1893-1978",
+       "lcna": "n80051885"
+      }
+     },
+     {"issue": {"issue-date": "1953-08"},
+      "title": "Lift Up Your Eyes",
+      "author": {
+       "authorized": "Baldwin, Faith, 1893-1978",
+       "lcna": "n80051885"
+      }
+     },
+     {"issue": {"issue-date": "1953-10"},
+      "title": "No Road is Straight",
+      "author": {
+       "authorized": "Baldwin, Faith, 1893-1978",
+       "lcna": "n80051885"
+      }
+     },
+     {"issue": {"issue-date": "1953-12"},
+      "title": "Bare Bough but New Leaf",
+      "author": {
+       "authorized": "Baldwin, Faith, 1893-1978",
+       "lcna": "n80051885"
+      }
+     },
+     {"issue": {"issue-date": "1954-04"},
+      "title": "End of the Road",
+      "author": {
+       "authorized": "Ikerman, Ruth C.",
+       "lcna": "n79138725"
+      }
+     },
+     {"issue": {"issue-date": "1955-03"}, 
+      "title": "Increase",
+      "author": {
+       "authorized": "Merchant, Jane",
+       "lcna": "n50035957"
+      }
+     },
+     {"issue": {"issue-date": "1955-08"}, 
+      "title": "White Splendors",
+      "author": {
+       "authorized": "Crowell, Grace Noll, 1877-1969",
+       "lcna": "no93022546"
+      }
+     },
+     {"issue": {"issue-date": "1956-08"}, 
+      "title": "They Told Him 'All Lawyers Go to Hell'",
+      "author": {
+       "authorized": "Stuart, Jesse, 1906-1984",
+       "lcna": "n79018157"
+      }
+     },
+     {"issue": {"issue-date": "1956-11"}, 
+      "title": "Upon Thanksgiving",
+      "author": {
+       "authorized": "Merchant, Jane",
+       "lcna": "n50035957"
+      }
+     },
+     {"issue": {"issue-date": "1958-04"},
+        "title": "Will We Lose God in Outer Space?",
+        "author": {
+         "authorized": "Lewis, C. S. (Clive Staples), 1898-1963",
+         "lcna": "n79003974"
+        }
+     },
+     {"issue": {"issue-date": "1959-01"},
+      "title": "Daily Meditations",
+      "author": {
+       "authorized": "Luccock, Halford Edward, 1885-1960",
+       "lcna": "n79151426"
+      }
+     },
+     {"issue": {"issue-date": "1961-06"}, 
+      "title": "Angelic Consideration",
+      "author": {
+       "authorized": "Merchant, Jane",
+       "lcna": "n50035957"
+      }
+     },
+     {"issue": {"issue-date": "1962-04"}, 
+      "title": "April Comes to W-Hollow",
+      "author": {
+       "authorized": "Stuart, Jesse, 1906-1984",
+       "lcna": "n79018157"
+      }
+     }
+   ],
+   "additional-notes": [
+     "A 1982 renewal for the 1954 book 'Group Activities for Church Women' by Jane Kirk (Huntley) mentions that portions previously appeared in this magazine from 1949 to 1954.  That renewal might cover any installments published in 1954 issues.",
+     "A 1984 renewal for the 1956 book 'Face Toward the Spring' by Faith Baldwin mentions that portions previously appeared as articles in this magazine from 1948 to 1956.  That renewal might cover any portions published in 1956 issues."
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-02-27"
+   "last-updated": "2025-01-09"
 }

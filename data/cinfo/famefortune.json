@@ -1,39 +1,18 @@
 {
    "title": "Fame and Fortune Magazine",
-   "title-note": "Street and Smith",
+   "online": "1",
+   "aka": ["Fame and Fortune Weekly"],
    "contents": [
       {"url": "http://www.philsp.com/homeville/GFI/link.asp?magid=FM_FR",
        "note": "FictionMags"}
    ],
-   "first-renewed-issue": 
-     {"issue-date": "1929-First February number,", "cdate": "1929-01-09",
-        "volume": "25", "number": "3"},
-   "first-renewed-issue-source": "1956-JanJun",
-   "first-renewed-contribution": "none",
-   "first-renewed-contribution-source": "cce",
+   "rights-statement": "NoC-US",
    "last-issue": 
      {"issue-date": "1929-06-10", "volume": "26", "number": "5"},
-   "renewed-issue-completeness": "active/end",
-   "renewed-issues": [
-     {"issue-date": "1929-First February number,", "cdate": "1929-01-09",
-        "volume": "25", "number": "3"},
-     {"issue-date": "1929-Second February number,",
-        "volume": "25", "number": "4"},
-     {"issue-date": "1929-First March number,",
-        "volume": "25", "number": "5"},
-     {"issue-date": "1929-Second March number,",
-        "volume": "25", "number": "6"},
-     {"issue-date": "1929-04-10", "volume": "26", "number": "1"},
-     {"issue-date": "1929-04-25", "volume": "26", "number": "2"},
-     {"issue-date": "1929-05-10", "volume": "26", "number": "3"},
-     {"issue-date": "1929-05-25", "volume": "26", "number": "4"},
-     {"issue-date": "1929-06-10", "volume": "26", "number": "5"}
-   ],
    "succeeded-by": [{"id": "fortunestory", "note": "Fortune Story Magazine"}],
-   "additional-note": "The first issue of this magazine's successor, which has Fortune Story Magazine on the cover (July 1929, v. 26 no.6) was renewed under the 'Fame and Fortune Magazine' title.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-01-02"
+   "last-updated": "2025-01-04"
 }

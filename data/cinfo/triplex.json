@@ -1,6 +1,7 @@
 {
    "title": "Triple-X",
-   "title-note": "Western magazine, 1920s and 1930s",
+   "title-note": "Western and adventure magazine, 1920s and 1930s",
+   "online": "1",
    "aka": ["Fawcett's Triple-X Magazine", "Triple-X Western"],
    "contents": [
       {"url": "http://www.philsp.com/homeville/WFI/link.asp?magid=TXM",
@@ -11,19 +12,12 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1929-04", "volume": "10", "number": "59"}},
-   "first-renewed-contribution-source": "1956-JulDec",
+     {"issue": {"issue-date": "1932-06", "volume": "16", "number": "95"}},
+   "first-renewed-contribution-source": "1959-JulDec",
    "last-issue": 
       {"issue-date": "1936", "volume": "17", "number": "103"},
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1929-04", "volume": "10", "number": "59"},
-      "title": "Hairtrigger Trails the Hawk",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
      {"issue": {"issue-date": "1932-06", "volume": "16", "number": "95"},
       "title": "The Singing Kid",
       "author": {
@@ -35,5 +29,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-01-04"
+   "last-updated": "2025-01-07"
 }

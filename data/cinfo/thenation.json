@@ -6,38 +6,10 @@
      {"issue-date": "1950-01-07", "volume": "170", "number": "1"},
    "first-renewed-issue-source": "database",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1929-03-06"}},
-   "first-renewed-contribution-source": "1956-JulDec",
+     {"issue": {"issue-date": "1930-01-22"}},
+   "first-renewed-contribution-source": "1957-JanJun",
    "renewed-contribution-completeness": "active/1934",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1929-03-06"},
-      "title": "Publicity Gone Mad",
-      "author": {
-         "authorized": "Lewis, Sinclair, 1885-1951",
-         "lcna": "n79023149"
-      }
-     },
-     {"issue": {"issue-date": "1929-05-01"},
-      "title": "Elizabethton, Tennessee",
-      "author": {
-       "authorized": "Anderson, Sherwood, 1876-1941",
-       "lcna": "n79045519"
-      }
-     },
-     {"issue": {"issue-date": "1929-05-29"},
-      "title": "Few Things Altered or Abolished",
-      "author": {
-       "authorized": "Ferber, Edna, 1887-1968",
-       "lcna": "n79077439"
-       }
-     },
-     {"issue": {"issue-date": "1929-12-18"},
-      "title": "Devil Dog Rule",
-      "author": {
-         "authorized": "Lewis, Sinclair, 1885-1951",
-         "lcna": "n79023149"
-      }
-     },
      {"issue": {"issue-date": "1930-01-22"},
        "title": "Parting",
        "author": {
@@ -282,5 +254,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-05-22"
+   "last-updated": "2025-01-06"
 }

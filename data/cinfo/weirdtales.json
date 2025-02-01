@@ -13,7 +13,8 @@
       {"issue-date": "1930-04", "volume": "15", "number": "4"},
    "first-renewed-issue-source": "1958-JanJun",
    "first-renewed-contribution": 
-      {"issue": {"issue-date": "1929-06", "volume": "13", "number": "6"}},
+      {"issue": {"issue-date": "1930-02", "volume": "15", "number": "2",
+       "cdate": "1930-01-01"}},
    "first-renewed-contribution-source": "1957-JanJun",
    "renewed-issue-completeness": "active/autorenewals",
    "renewed-issues": [
@@ -72,41 +73,6 @@
    ],
    "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
-      {"issue": {"issue-date": "1929-06", "volume": "13", "number": "6"},
-       "title": "The House on the Highway",
-       "author": {
-         "authorized": "Derleth, August, 1909-1971",
-         "lcna": "n50002948"
-       }
-      },
-      {"issue": {"issue-date": "1929-08", "volume": "14", "number": "2"},
-       "title": "Old Mark",
-       "author": {
-         "authorized": "Derleth, August, 1909-1971",
-         "lcna": "n50002948"
-       }
-      },
-      {"issue": {"issue-date": "1929-11", "volume": "14", "number": "5"},
-       "title": "Scarlatti's Bottle",
-       "author": {
-         "authorized": "Derleth, August, 1909-1971",
-         "lcna": "n50002948"
-       }
-      },
-      {"issue": {"issue-date": "1929-12", "volume": "14", "number": "6"},
-       "title": "The Inheritors",
-       "author": {
-         "authorized": "Derleth, August, 1909-1971",
-         "lcna": "n50002948"
-       }
-      },
-      {"issue": {"issue-date": "1930-01", "volume": "15", "number": "1"},
-       "title": "A Matter of Sight",
-       "author": {
-         "authorized": "Derleth, August, 1909-1971",
-         "lcna": "n50002948"
-       }
-      },
       {"issue": {"issue-date": "1930-02", "volume": "15", "number": "2"},
        "title": "The Lilac Bush",
        "author": {
@@ -2243,5 +2209,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-06-27"
+   "last-updated": "2025-01-01"
 }

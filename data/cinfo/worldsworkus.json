@@ -6,105 +6,11 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1929-02", "cdate": "1929-01-25"}},
-   "first-renewed-contribution-source": "1956-JanJun",
+     {"issue": {"issue-date": "1930-08"}},
+   "first-renewed-contribution-source": "1957-JulDec",
    "last-issue": {"issue-date": "1932-07", "volume": "61", "number": "7"},
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1929-02"},
-      "title": "Steinmetz, Jove of Science",
-      "title-note": "part 2 of 3",
-      "author": {
-         "authorized": "Leonard, Jonathan Norton, 1903-1975",
-         "lcna": "n50051645"
-      }
-     },
-     {"issue": {"issue-date": "1929-03"},
-      "title": "Steinmetz, Jove of Science",
-      "title-note": "part 3 of 3",
-      "author": {
-         "authorized": "Leonard, Jonathan Norton, 1903-1975",
-         "lcna": "n50051645"
-      }
-     },
-     {"issue": {"issue-date": "1929-06"},
-      "title": "Herrings Across the Trail",
-      "author": {
-       "authorized": "Tarkington, Booth, 1869-1946",
-       "lcna": "n79078124"
-      }
-     },
-     {"issue": {"issue-date": "1929-08"},
-      "title": "The Sea Devil's Fo'c'sle",
-      "title-note": "part 1 of 3",
-      "author": {
-         "authorized": "Thomas, Lowell, 1892-1981",
-         "lcna": "n79139713"
-      }
-     },
-     {"issue": {"issue-date": "1929-05"},
-      "title": "In Coldest Africa",
-      "title-note": "part 1 of 3",
-      "author": {
-       "authorized": "Wells, Carveth",
-       "lcna": "n88278008"
-      }
-     },
-     {"issue": {"issue-date": "1929-07"},
-      "title": "In Coldest Africa",
-      "title-note": "part 2 of 3",
-      "author": {
-       "authorized": "Wells, Carveth",
-       "lcna": "n88278008"
-      }
-     },
-     {"issue": {"issue-date": "1929-08"},
-      "title": "In Coldest Africa",
-      "title-note": "part 3 of 3",
-      "author": {
-       "authorized": "Wells, Carveth",
-       "lcna": "n88278008"
-      }
-     },
-     {"issue": {"issue-date": "1929-09"},
-      "title": "The Sea Devil's Fo'c'sle",
-      "title-note": "part 2 of 3",
-      "author": {
-         "authorized": "Thomas, Lowell, 1892-1981",
-         "lcna": "n79139713"
-      }
-     },
-     {"issue": {"issue-date": "1929-10"},
-      "title": "I Was Sent to Athens",
-      "authors": [
-       {"authorized": "Morgenthau, Henry, 1856-1946", "lcna": "n86070605"},
-       {"authorized": "Strother, French, 1883-1933", "lcna": "no95049927"}
-      ]
-     },
-     {"issue": {"issue-date": "1929-10"},
-      "title": "The Sea Devil's Fo'c'sle",
-      "title-note": "part 3 of 3",
-      "author": {
-         "authorized": "Thomas, Lowell, 1892-1981",
-         "lcna": "n79139713"
-      }
-     },
-     {"issue": {"issue-date": "1929-12"},
-      "title": "The Eternal Question: Evolution",
-      "title-note": "part 1 of 2",
-      "author": {
-         "authorized": "Tilney, Frederick, 1875-1938",
-         "lcna": "n87150020"
-      }
-     },
-     {"issue": {"issue-date": "1930-01"},
-      "title": "The Eternal Question: Evolution",
-      "title-note": "part 2 of 2",
-      "author": {
-         "authorized": "Tilney, Frederick, 1875-1938",
-         "lcna": "n87150020"
-      }
-     },
      {"issue": {"issue-date": "1930-08"},
       "title": "Lauterbach of the China Sea",
       "title-note": "part 1 of 3",
@@ -140,5 +46,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-01-04"
+   "last-updated": "2025-01-07"
 }

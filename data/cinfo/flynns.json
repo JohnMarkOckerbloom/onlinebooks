@@ -9,67 +9,14 @@
    ],
    "first-issue": {"issue-date": "1924-09-20", "volume": "1", "number": "1"},
    "first-renewed-issue": 
-     {"issue-date": "1929-01-05", "volume": "38", "number": "3"},
-   "first-renewed-issue-source": "1956-JulDec",
+     {"issue-date": "1930-01-11", "volume": "47", "number": "2",
+      "cdate": "1930-01-08"},
+   "first-renewed-issue-source": "1957-JulDec",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1929-01-19", "volume": "38", "number": "5"}},
-   "first-renewed-contribution-source": "1956-JanJun",
+     {"issue": {"issue-date": "1930-01-11", "volume": "47", "number": "2"}},
+   "first-renewed-contribution-source": "1957-JanJun",
    "renewed-issue-completeness": "active/1932",
    "renewed-issues": [
-     {"issue-date": "1929-01-05", "volume": "38", "number": "3"},
-     {"issue-date": "1929-01-12", "volume": "38", "number": "4"},
-     {"issue-date": "1929-01-19", "volume": "38", "number": "5"},
-     {"issue-date": "1929-01-26", "volume": "38", "number": "6"},
-     {"issue-date": "1929-02-02", "volume": "39", "number": "1"},
-     {"issue-date": "1929-02-09", "volume": "39", "number": "2"},
-     {"issue-date": "1929-02-16", "volume": "39", "number": "3"},
-     {"issue-date": "1929-02-23", "volume": "39", "number": "4"},
-     {"issue-date": "1929-03-02", "volume": "39", "number": "5"},
-     {"issue-date": "1929-03-09", "volume": "39", "number": "6"},
-     {"issue-date": "1929-03-16", "volume": "40", "number": "1"},
-     {"issue-date": "1929-03-23", "volume": "40", "number": "2"},
-     {"issue-date": "1929-03-30", "volume": "40", "number": "3"},
-     {"issue-date": "1929-04-06", "volume": "40", "number": "4"},
-     {"issue-date": "1929-04-13", "volume": "40", "number": "5"},
-     {"issue-date": "1929-04-20", "volume": "40", "number": "6"},
-     {"issue-date": "1929-04-27", "volume": "41", "number": "1"},
-     {"issue-date": "1929-05-04", "volume": "41", "number": "2"},
-     {"issue-date": "1929-05-11", "volume": "41", "number": "3"},
-     {"issue-date": "1929-05-18", "volume": "41", "number": "4"},
-     {"issue-date": "1929-05-25", "volume": "41", "number": "5"},
-     {"issue-date": "1929-06-01", "volume": "41", "number": "6"},
-     {"issue-date": "1929-06-08", "volume": "42", "number": "1"},
-     {"issue-date": "1929-06-15", "volume": "42", "number": "2"},
-     {"issue-date": "1929-06-22", "volume": "42", "number": "3"},
-     {"issue-date": "1929-06-29", "volume": "42", "number": "4"},
-     {"issue-date": "1929-07-06", "volume": "42", "number": "5"},
-     {"issue-date": "1929-07-13", "volume": "42", "number": "6"},
-     {"issue-date": "1929-07-20", "volume": "43", "number": "1"},
-     {"issue-date": "1929-07-27", "volume": "43", "number": "2"},
-     {"issue-date": "1929-08-03", "volume": "43", "number": "3"},
-     {"issue-date": "1929-08-10", "volume": "43", "number": "4"},
-     {"issue-date": "1929-08-17", "volume": "43", "number": "5"},
-     {"issue-date": "1929-08-24", "volume": "43", "number": "6"},
-     {"issue-date": "1929-08-31", "volume": "44", "number": "1"},
-     {"issue-date": "1929-09-07", "volume": "44", "number": "2"},
-     {"issue-date": "1929-09-14", "volume": "44", "number": "3"},
-     {"issue-date": "1929-09-21", "volume": "44", "number": "4"},
-     {"issue-date": "1929-09-28", "volume": "44", "number": "5"},
-     {"issue-date": "1929-10-05", "volume": "44", "number": "6"},
-     {"issue-date": "1929-10-12", "volume": "45", "number": "1"},
-     {"issue-date": "1929-10-19", "volume": "45", "number": "2"},
-     {"issue-date": "1929-10-26", "volume": "45", "number": "3"},
-     {"issue-date": "1929-11-02", "volume": "45", "number": "4"},
-     {"issue-date": "1929-11-09", "volume": "45", "number": "5"},
-     {"issue-date": "1929-11-16", "volume": "45", "number": "6"},
-     {"issue-date": "1929-11-23", "volume": "46", "number": "1"},
-     {"issue-date": "1929-11-30", "volume": "46", "number": "2"},
-     {"issue-date": "1929-12-07", "volume": "46", "number": "3"},
-     {"issue-date": "1929-12-14", "volume": "46", "number": "4"},
-     {"issue-date": "1929-12-21", "volume": "46", "number": "5"},
-     {"issue-date": "1929-12-28", "volume": "46", "number": "6"},
-     {"issue-date": "1930-01-04", "volume": "47", "number": "1",
-      "cdate": "1929-12-31"},
      {"issue-date": "1930-01-11", "volume": "47", "number": "2",
       "cdate": "1930-01-08"},
      {"issue-date": "1930-01-18", "volume": "47", "number": "3"},
@@ -278,174 +225,6 @@
    ],
    "renewed-contribution-completeness": "active/1930",
    "renewed-contributions": [  
-     {"issue": {"issue-date": "1929-01-19", "volume": "38", "number": "5"},
-      "title": "An Artistic Job",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1929-02-09", "volume": "39", "number": "2"},
-      "title": "Just a Suspicion",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1929-02-16", "volume": "39", "number": "3"},
-      "title": "The Pride of Kent",
-      "author": {
-        "authorized": "Wallace, Edgar, 1875-1932",
-        "lcna": "n80034938"
-      }
-     },
-     {"issue": {"issue-date": "1929-02-23", "volume": "39", "number": "4"},
-      "title": "The Painted Decoy",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1929-02-23", "volume": "39", "number": "4"},
-      "title": "The Negative",
-      "author": {
-        "authorized": "Wallace, Edgar, 1875-1932",
-        "lcna": "n80034938"
-      }
-     },
-     {"issue": {"issue-date": "1929-03-02", "volume": "39", "number": "5"},
-      "title": "A Tip From Scuttle",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1929-03-02", "volume": "39", "number": "5"},
-      "title": "A Servant of Women",
-      "author": {
-        "authorized": "Wallace, Edgar, 1875-1932",
-        "lcna": "n80034938"
-      }
-     },
-     {"issue": {"issue-date": "1929-03-23", "volume": "40", "number": "2"},
-      "title": "The Dummy Murder",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1929-04-06", "volume": "40", "number": "4"},
-      "title": "Case of the Fugitive Corpse",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1929-04-27", "volume": "41", "number": "1"},
-      "title": "The Pay-Off",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1929-05-11", "volume": "41", "number": "3"},
-      "title": "A Hot Tip",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1929-06-08", "volume": "42", "number": "1"},
-      "title": "A Clean Slate for Slider",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1929-06-08", "volume": "42", "number": "1"},
-      "title": "The Hide Out",
-      "author": {
-         "authorized": "Raine, Norman Reilly, 1895-1971",
-         "lcna": "n85342738"
-      }
-     },
-     {"issue": {"issue-date": "1929-06-22", "volume": "42", "number": "3"},
-      "title": "The Dead Harlequin",
-      "author": {
-         "authorized": "Christie, Agatha, 1890-1976",
-         "lcna": "n79038407"
-       }
-     },
-     {"issue": {"issue-date": "1929-07-06", "volume": "42", "number": "5"},
-      "title": "The Betraying Emotion",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1929-07-20", "volume": "43", "number": "1"},
-      "title": "A Peach of a Scheme",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1929-08-03", "volume": "43", "number": "3"},
-      "title": "Even Money",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1929-08-10", "volume": "43", "number": "4"},
-      "title": "It's a Pipe",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1929-08-31", "volume": "44", "number": "1"},
-      "title": "Faster Than Forty",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1929-09-21", "volume": "44", "number": "4"},
-      "title": "Double Shadows",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1929-10-26", "volume": "45", "number": "3"},
-      "title": "The Artistic Touch",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1929-11-23", "volume": "46", "number": "1"},
-      "title": "Lester Takes the Cake",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1929-12-07", "volume": "46", "number": "3"},
-      "title": "The Shot Downstairs",
-      "author": {
-         "authorized": "Elston, Allan Vaughan, 1887-1976",
-         "lcna": "no90023204"
-       }
-     },
-     {"issue": {"issue-date": "1929-12-28", "volume": "46", "number": "6"},
-      "title": "Framed",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
      {"issue": {"issue-date": "1930-01-11", "volume": "47", "number": "2"},
       "title": "The Doubtful Egg",
       "author": {
@@ -784,5 +563,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-11-10"
+   "last-updated": "2025-01-04"
 }

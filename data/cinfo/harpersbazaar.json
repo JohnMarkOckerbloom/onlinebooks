@@ -3,29 +3,14 @@
    "online": "1",
    "first-issue": {"issue-date": "1867-11-02", "volume": "1", "number": "1"},
    "first-renewed-issue": 
-     {"issue-date": "1929-02", "volume": "63", "number": "2",
-      "cdate": "1929-01-28"},
-   "first-renewed-issue-source": "1956-JulDec",
+     {"issue-date": "1930-02", "volume": "64", "number": "2",
+      "cdate": "1930-01-28"},
+   "first-renewed-issue-source": "1957-JulDec",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1929-02"}},
-   "first-renewed-contribution-source": "1956-JanJun",
+     {"issue": {"issue-date": "1930-02"}},
+   "first-renewed-contribution-source": "1957-JanJun",
    "renewed-issue-completeness": "active/1932",
    "renewed-issues": [
-     {"issue-date": "1929-02", "volume": "63", "number": "2",
-      "cdate": "1929-01-28"},
-     {"issue-date": "1929-03", "volume": "63", "number": "3"},
-     {"issue-date": "1929-04", "volume": "63", "number": "4"},
-     {"issue-date": "1929-05", "volume": "63", "number": "5"},
-     {"issue-date": "1929-06", "volume": "63", "number": "6"},
-     {"issue-date": "1929-07", "volume": "63", "number": "7"},
-     {"issue-date": "1929-08", "volume": "63", "number": "8"},
-     {"issue-date": "1929-09", "volume": "63", "number": "9"},
-     {"issue-date": "1929-10", "volume": "63", "number": "10"},
-     {"issue-date": "1929-11", "volume": "63", "number": "11"},
-     {"issue-date": "1929-12", "volume": "63", "number": "12"},
-     {"issue-date": "1930-01", "volume": "64", "number": "13",
-      "cdate": "1929-12-28",
-      "note": "Issue number as stated in CCE records. The logical number for this issue would be 1. We have not examined the issue in question."},
      {"issue-date": "1930-02", "volume": "64", "number": "2",
       "cdate": "1930-01-28"},
      {"issue-date": "1930-03", "volume": "64", "number": "3"},
@@ -75,120 +60,6 @@
    ],
    "renewed-contribution-completeness": "active/1930",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1929-02"},
-      "title": "King of Cats",
-      "author": {
-       "authorized": "Benét, Stephen Vincent, 1898-1943",
-       "lcna": "n50007691"
-      }
-     },
-     {"issue": {"issue-date": "1929-02"},
-      "title": "High Walls",
-      "title-note": "part 3 of 6",
-      "author": {
-       "authorized": "Tuckerman, Arthur",
-       "lcna": "no2004082808"
-      }
-     },
-     {"issue": {"issue-date": "1929-02"},
-      "title": "At the Feet of the Enemy",
-      "author": {
-         "authorized": "Cobb, Irvin S. (Irvin Shrewsbury), 1876-1944",
-         "lcna": "n50032217"
-      }
-     },
-     {"issue": {"issue-date": "1929-03"},
-       "title": "Romantic Letter",
-       "author": {
-         "authorized": "Bromfield, Louis, 1896-1956",
-         "lcna": "n80040365"
-       }
-     },
-     {"issue": {"issue-date": "1929-03"},
-      "title": "Contract",
-      "author": {
-       "authorized": "Lardner, Ring, 1885-1933",
-       "lcna": "n79023324"
-      }
-     },
-     {"issue": {"issue-date": "1929-03"},
-      "title": "High Walls",
-      "title-note": "part 4 of 6",
-      "author": {
-       "authorized": "Tuckerman, Arthur",
-       "lcna": "no2004082808"
-      }
-     },
-     {"issue": {"issue-date": "1929-04"},
-       "title": "Father",
-       "author": {
-         "authorized": "Edginton, May, 1883-1957",
-         "lcna": "n87911804"
-       }
-     },
-     {"issue": {"issue-date": "1929-04"},
-      "title": "High Walls",
-      "title-note": "part 5 of 6",
-      "author": {
-       "authorized": "Tuckerman, Arthur",
-       "lcna": "no2004082808"
-      }
-     },
-     {"issue": {"issue-date": "1929-05"},
-      "title": "High Walls",
-      "title-note": "part 6 of 6",
-      "author": {
-       "authorized": "Tuckerman, Arthur",
-       "lcna": "no2004082808"
-      }
-     },
-     {"issue": {"issue-date": "1929-09"},
-      "title": "There Was a Ship",
-      "title-note": "part 1 of 7",
-      "author": {
-       "authorized": "Le Gallienne, Richard, 1866-1947",
-       "lcna": "n80057179"
-      }
-     },
-     {"issue": {"issue-date": "1929-10"},
-      "title": "There Was a Ship",
-      "title-note": "part 2 of 7",
-      "author": {
-       "authorized": "Le Gallienne, Richard, 1866-1947",
-       "lcna": "n80057179"
-      }
-     },
-     {"issue": {"issue-date": "1929-11"},
-      "title": "There Was a Ship",
-      "title-note": "part 3 of 7",
-      "author": {
-       "authorized": "Le Gallienne, Richard, 1866-1947",
-       "lcna": "n80057179"
-      }
-     },
-     {"issue": {"issue-date": "1929-11"},
-        "title": "On Riding",
-        "author": {
-         "authorized": "Skinner, Cornelia Otis, 1901-1979",
-         "lcna": "n50053317"
-        }
-     },
-     {"issue": {"issue-date": "1929-12"},
-      "title": "There Was a Ship",
-      "title-note": "part 4 of 7",
-      "author": {
-       "authorized": "Le Gallienne, Richard, 1866-1947",
-       "lcna": "n80057179"
-      }
-     },
-     {"issue": {"issue-date": "1930-01"},
-      "title": "There Was a Ship",
-      "title-note": "part 5 of 7",
-      "author": {
-       "authorized": "Le Gallienne, Richard, 1866-1947",
-       "lcna": "n80057179"
-      }
-     },
      {"issue": {"issue-date": "1930-02"},
       "title": "There Was a Ship",
       "title-note": "part 6 of 7",
@@ -321,5 +192,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-09-29"
+   "last-updated": "2025-01-05"
 }
