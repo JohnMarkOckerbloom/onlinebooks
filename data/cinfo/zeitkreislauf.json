@@ -1,9 +1,15 @@
 {
    "title": "Zeitschrift für Kreislaufforschung",
+   "online": "1",
+   "preceded-by":
+     [{"id": "zentherzgefass",
+       "note": "Zentralblatt für Herz- und Gefässkrankheiten"}],
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
+   "succeeded-by":
+     [{"id": "zeitkardiologie", "note": "Zeitschrift für Kardiologie"}],
    "additional-note": 
       "This is a German publication. Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US.",
    "responsibility": {
@@ -12,5 +18,5 @@
    },
    "acknowledgement": 
       "Thanks to Eli Baum for copyright research on this title.",
-   "last-updated": "2021-09-15"
+   "last-updated": "2025-02-17"
 }

@@ -1,5 +1,6 @@
 {
    "title": "American Journal of Orthodontics",
+   "online": "1",
    "preceded-by":
       [{"id": "amjorthodsur",
         "note": "American Journal of Orthodontics and Oral Surgery"}],
@@ -9,11 +10,14 @@
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
    "last-issue": {"issue-date": "1986-06", "volume": "89", "number": "6"},
+   "succeeded-by":
+      [{"id": "ajodo",
+      "note": "American Journal of Orthodontics and Dentofacial Orthopedics"}],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
    "acknowledgement": 
       "Thanks to Min Zhong for copyright research on this title.",
-   "last-updated": "2020-08-05"
+   "last-updated": "2025-02-16"
 }

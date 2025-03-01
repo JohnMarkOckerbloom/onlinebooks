@@ -10,7 +10,8 @@
    "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
      {"issue": {"issue-date": "1937-04"},
-      "title": "Tramp Was a Specialist",
+      "title": "Tramp Had a Specialty",
+      "note": "Title as given in issue.  CCE renewal record gives title as 'Tramp Was a Specialist'.",
       "author": {
          "authorized": "Babcock, Havilah, 1898-1964",
          "lcna": "n85332503"
@@ -25,6 +26,7 @@
      },
      {"issue": {"issue-date": "1952-03"},
       "title": "An Angel Comes to Life",
+      "note": "Title and issue date as given in renewal record.  We did not find a contribution with this title or this author in this issue, but did find one by Smith in the next issue titled 'An Angler Comes to Life'.",
       "author": {
          "authorized": "Smith, Edmund Ware, 1900-1967",
          "lcna": "n91014327"
@@ -37,8 +39,17 @@
          "lcna": "no93014587"
        }
      },
+     {"issue": {"issue-date": "1952-04"},
+      "title": "An Angler Comes to Life",
+      "note": "We did not find a renewal record with this specific title, but this appears to be the contribution intended to be renewed in 1980 under the title 'An Angel Comes to Life'.",
+      "author": {
+         "authorized": "Smith, Edmund Ware, 1900-1967",
+         "lcna": "n91014327"
+       }
+     },
      {"issue": {"issue-date": "1952-08"},
-      "title": "Them Man-Mad Bass",
+      "title": "Them Man-Made Bass",
+      "note": "Title as given in issue.  Renewal record gives title as 'Them Man-Mad Bass'.",
       "author": {
          "authorized": "Gowen, Emmett, 1902-",
          "lcna": "no93014587"
@@ -80,14 +91,16 @@
        }
      },
      {"issue": {"issue-date": "1954-07"},
-      "title": "Reunion With Pickerel",
+      "title": "The Misery Stick",
+      "note": "Title as given in issue.  Renewal record gives title as 'Reunion With Pickerel'.",
       "author": {
          "authorized": "Smith, Edmund Ware, 1900-1967",
          "lcna": "n91014327"
        }
      },
      {"issue": {"issue-date": "1954-08"},
-      "title": "Quail in the Thicket",
+      "title": "Thick With Quail",
+      "note": "Title as given in issue.  Renewal record gives title as 'Quail in the Thicket'.",
       "author": {
          "authorized": "Gowen, Emmett, 1902-",
          "lcna": "no93014587"
@@ -108,7 +121,8 @@
        }
      },
      {"issue": {"issue-date": "1955-05"},
-      "title": "A Queer Fish But Sport",
+      "title": "A Queer Fish",
+      "note": "Title as given in issue.  Renewal record gives title as 'A Queer Fish But Sport'.",
       "author": {
          "authorized": "Gowen, Emmett, 1902-",
          "lcna": "no93014587"
@@ -136,7 +150,8 @@
        }
      },
      {"issue": {"issue-date": "1956-05"},
-      "title": "Bear and Boar",
+      "title": "Boar and Bear",
+      "note": "Title as given in issue.  Renewal record gives title as 'Bear and Boar'.",
       "author": {
          "authorized": "Gowen, Emmett, 1902-",
          "lcna": "no93014587"
@@ -191,5 +206,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-01-05"
+   "last-updated": "2025-02-08"
 }

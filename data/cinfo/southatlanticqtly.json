@@ -7,9 +7,40 @@
    "first-renewed-issue-source": "1971",
    "first-renewed-contribution": { "issue": {"issue-date": "1942-04"}},
    "first-renewed-contribution-source": "1970-JanJun",
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1942-04"},
+        "title": "The Control of Animal Tests in Wartime",
+        "author": {
+         "authorized": "Huxley, Julian, 1887-1975",
+         "lcna": "n80057245"
+        }
+     },
+     {"issue": {"issue-date": "1942-10"},
+        "title": "The War: Two Jobs, Not One",
+        "author": {
+         "authorized": "Huxley, Julian, 1887-1975",
+         "lcna": "n80057245"
+        }
+     },
+     {"issue": {"issue-date": "1943-01"},
+        "title": "Biology and Ethics",
+        "author": {
+         "authorized": "Huxley, Julian, 1887-1975",
+         "lcna": "n80057245"
+        }
+     },
+     {"issue": {"issue-date": "1957-04"},
+      "title": "Oh What an Endlessly Beautiful Morning!",
+      "author": {
+       "authorized": "Weales, Gerald, 1925-2013",
+       "lcna": "n50023757"
+      }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-02-16"
+   "last-updated": "2025-02-08"
 }

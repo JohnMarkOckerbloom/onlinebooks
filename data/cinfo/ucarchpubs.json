@@ -5,10 +5,13 @@
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
-    "additional-note": "Some issues consist of single monographs, and may have been registered for copyright as books, under the monograph title. We have not checked renewals for such titles that do not mention University of California Publications in American Archaeology and Ethnology.",
+    "additional-notes": [
+      "Some issues consist of single monographs, and may have been registered for copyright as books, under the monograph title. We have not checked renewals for such titles that do not mention University of California Publications in American Archaeology and Ethnology.",
+      "Spot-checks of issues late in the series did not turn up copyright notices."
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-06-12"
+   "last-updated": "2025-02-08"
 }

@@ -29,26 +29,26 @@ my $issnserial = {};
 my $badissnmap = {};
 my $badissnid = {};
 
-#my $cambridge_journals = $pkgdir . "cambridge/CUP_Cambridge_Journals _All_journals_2024-02-28.txt";
-my $cambridge_journals = $pkgdir . "cambridge/Cambridge Journals: All journals";
+my $cambridge_journals = $pkgdir . "cambridge/CUP_Cambridge_Journals__All_journals_2025-02-09.txt";
+#my $cambridge_journals = $pkgdir . "cambridge/Cambridge Journals: All journals";
 
 my $hathi_serials = $pkgdir . "hathitrust/wikihathioclcserials.csv";
 my $hathipilot_serials = $pkgdir . "hathitrust/localplusus.tsv";
 my $hathipilot_wdquery = $pkgdir . "hathitrust/wikihathiserial.csv";
 
 my $jstor_merged = $pkgdir . "jstor/JSTOR_ArchiveTitles_2024-07-23.txt";
-#my $jstor_merged = $pkgdir . "jstor/JSTOR_ArchiveTitles_2024-02-20.txt";
-#my $jstor_split = $pkgdir . "jstor/JSTOR_Global_AllArchiveTitles_2024-02-20.txt";
+#my $jstor_merged = $pkgdir . "jstor/JSTOR_ArchiveTitles_2025-02-25.txt";
+#my $jstor_split = $pkgdir . "jstor/JSTOR_Global_AllArchiveTitles_2025-02-11.txt";
 my $jstor_split = $pkgdir . "jstor/JSTOR_Global_AllArchiveTitles_2024-07-23.txt";
 
 
 my $muse_journals = $pkgdir . "muse/muse_journal_metadata_2019.tsv";
 
-# my $ovid_complete = $pkgdir . "wolters/Ovid_Global_AllJournals_2024-02-04.txt";
-my $ovid_complete = $pkgdir . "wolters/Ovid_Global_AllJournals_2024-07-21.txt";
+my $ovid_complete = $pkgdir . "wolters/Ovid_Global_AllJournals_2025-02-09.txt";
+# my $ovid_complete = $pkgdir . "wolters/Ovid_Global_AllJournals_2024-07-21.txt";
 
-my $oxford_archive = $pkgdir . "oxford/OxfordUniversityPress_Global_2024JournalsArchiveAllTitles_2024-04-15.txt";
-#my $oxford_archive = $pkgdir . "oxford/OxfordUniversityPress_Global_2024JournalsArchiveAllTitles_2024-02-06.txt";
+#my $oxford_archive = $pkgdir . "oxford/OxfordUniversityPress_Global_2024JournalsArchiveAllTitles_2024-04-15.txt";
+my $oxford_archive = $pkgdir . "oxford/OUP_2025_JournalsArchiveAllTitles.txt";
 
 #my $penn_serials = $pkgdir . "penn/Serials before 1964.csv";
 my $penn_serials = $pkgdir . "penn/Serials (All)  - Problem Columns Removed 052220.csv";
@@ -58,20 +58,20 @@ my $penn2_serials = $pkgdir . "penn/Catch22.csv";
 #my $proquest_archive = $pkgdir . "proquest/PeriodicalsArchiveOnline-2023.tsv";
 my $proquest_archive = $pkgdir . "proquest/PeriodicalsArchiveOnline.tsv";
 
-my $sage_journals = $pkgdir . "sage/deep_backfile_2024_list_0.txt";
-# my $sage_journals = $pkgdir . "sage/7000031775_back23_complete_deep_backfile_purchase_2023_list.txt";
+#my $sage_journals = $pkgdir . "sage/deep_backfile_2024_list_0.txt";
+my $sage_journals = $pkgdir . "sage/deep_backfile_2025_list.txt";
 
-#my $scidirect_journals = $pkgdir . "elsevier/ScienceDirectStandard_Global_ScienceDirectAvailableJournals_2024-02-28.txt";
-my $scidirect_journals = $pkgdir . "elsevier/ScienceDirectStandard_Global_ScienceDirectAvailableJournals_2024-07-23.txt";
+my $scidirect_journals = $pkgdir . "elsevier/ScienceDirectStandard_Global_ScienceDirectAvailableJournals_2025-02-09.txt";
+#3my $scidirect_journals = $pkgdir . "elsevier/ScienceDirectStandard_Global_ScienceDirectAvailableJournals_2024-07-23.txt";
 my $sim_journals = $pkgdir . "sim/SIM-MASTER-TITLE-2017.txt";
-my $springer_journals = $pkgdir . "springer/SpringerNature_Global_CompleteSpringerJournals_2024-07-15.txt";
-#my $springer_journals = $pkgdir . "springer/SpringerNature_Global_CompleteSpringerJournals_2024-02-13.txt";
+#my $springer_journals = $pkgdir . "springer/SpringerNature_Global_CompleteSpringerJournals_2024-07-15.txt";
+my $springer_journals = $pkgdir . "springer/SpringerNature_Global_CompleteSpringerJournals_2025-01-16.txt";
 my $taylor_global = $pkgdir . "taylor/TaylorandFrancisOnline_Global_DatabaseOAReadandPublish_2019-09-18.txt";
-my $taylor_classic = $pkgdir . "taylor/ClassicAggregation.txt";
-#my $taylor_classic = $pkgdir . "taylor/ClassicAggregation2023.txt";
+#my $taylor_classic = $pkgdir . "taylor/ClassicAggregation.txt";
+my $taylor_classic = $pkgdir . "taylor/tandf_Global_AllTitles_2025-02-22.txt";
 my $wikipedia = $pkgdir . "wikipedia/articleperiodicals.csv";
-# my $wiley_all = $pkgdir . "wiley/wiley_alljournals_2024-02-01.TXT";
-my $wiley_all = $pkgdir . "wiley/wiley_alljournals_2024-07-01.TXT";
+my $wiley_all = $pkgdir . "wiley/wiley_alljournals_2025-02-01.TXT";
+# my $wiley_all = $pkgdir . "wiley/wiley_alljournals_2024-07-01.TXT";
 
 my $sagetitlefield = "Title";  # just a placeholder; varies by file
 
