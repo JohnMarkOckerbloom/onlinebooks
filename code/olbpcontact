@@ -838,6 +838,7 @@ sub analyze_form {
       || $comments =~ /pxl.to/i
       || $comments =~ /fiverr/i
       || $comments =~ /ultimate tool/i
+      || $comments =~ /unbeatable pric/
       || $comments =~ /sexual pic/i
       || $comments =~ /your (business|company|sales)/i
       || $comments =~ /(network|digital|email|local|online).marketing/i

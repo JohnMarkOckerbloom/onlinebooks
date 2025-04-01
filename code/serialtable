@@ -36,10 +36,10 @@ my $hathi_serials = $pkgdir . "hathitrust/wikihathioclcserials.csv";
 my $hathipilot_serials = $pkgdir . "hathitrust/localplusus.tsv";
 my $hathipilot_wdquery = $pkgdir . "hathitrust/wikihathiserial.csv";
 
-my $jstor_merged = $pkgdir . "jstor/JSTOR_ArchiveTitles_2024-07-23.txt";
-#my $jstor_merged = $pkgdir . "jstor/JSTOR_ArchiveTitles_2025-02-25.txt";
-#my $jstor_split = $pkgdir . "jstor/JSTOR_Global_AllArchiveTitles_2025-02-11.txt";
-my $jstor_split = $pkgdir . "jstor/JSTOR_Global_AllArchiveTitles_2024-07-23.txt";
+#my $jstor_merged = $pkgdir . "jstor/JSTOR_ArchiveTitles_2024-07-23.txt";
+my $jstor_merged = $pkgdir . "jstor/JSTOR_ArchiveTitles_2025-03-03.txt";
+my $jstor_split = $pkgdir . "jstor/JSTOR_Global_AllArchiveTitles_2025-03-03.txt";
+#my $jstor_split = $pkgdir . "jstor/JSTOR_Global_AllArchiveTitles_2024-07-23.txt";
 
 
 my $muse_journals = $pkgdir . "muse/muse_journal_metadata_2019.tsv";
@@ -232,6 +232,7 @@ sub kbartparser {
     my @issns = ();
     my $issn = stripspace($result->{print_identifier});
     my $eissn = stripspace($result->{online_identifier});
+    my $accesstype = $result->{access_type};
     if ($issn) {
       if (!($issn =~ /^\d\d\d\d-\d\d\d[\dXx]$/)) {
         print STDERR "Unexpected ISSN for $title: $issn\n";
@@ -263,7 +264,19 @@ sub kbartparser {
       $rec->{start} = int($start);
       $rec->{seenpubstart} = 1;
     }
-    $rec->{end} = ($end ? int($end) : "");
+    # if we've seen a journal before (in the publication file,
+    #  not in the Wikidata file), only update end if it's later
+    if (!$rec->{seenpubend} ||
+        !$rec->{end} || (($rec->{end} < int($end)) && int($end))) { 
+      $rec->{end} = int($end) || "";
+      $rec->{seenpubend} = 1;
+    }
+    # $rec->{end} = ($end ? int($end) : "");
+    # Raise the 'free' flag if the appropraite KBART field is set
+    #  (this may put an 'Available' cell in the generated table)
+    if ($accesstype eq 'F') {
+      $rec->{free} = 1;
+    }
     $rec->{pkgid} = $result->{title_url};
     push @recs, $rec;
   }
@@ -1485,9 +1498,10 @@ sub maketable {
         $freerange = "Predecessor";
       }
     }
-    if (!$freerange &&
-         $rec->{hathiline} && $rec->{hathiline}->{open}) { 
+    if (!$freerange && ($rec->{free} ||
+         $rec->{hathiline} && $rec->{hathiline}->{open})) { 
       # Used to link HathiTrust serials that are open but not in OLBP yet
+      # Can also use on other serials that mention free content
       $freerange = "Available";
     }
     if ($copyright eq "Unknown") { 
