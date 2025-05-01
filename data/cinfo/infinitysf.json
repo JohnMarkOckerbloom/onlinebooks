@@ -1,6 +1,7 @@
 {
    "title": "Infinity",
    "title-note": "science fiction magazine",
+   "online": "1",
    "contents": [
       {"url": "http://www.isfdb.org/cgi-bin/pe.cgi?20697",
        "note": "ISFDB"},
@@ -12,9 +13,275 @@
    "first-renewed-contribution":
      {"issue": {"issue-date": "1955-11", "volume": "1", "number": "1"}},
    "first-renewed-contribution-source": "database",
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1955-11", "volume": "1", "number": "1"},
+      "title": "The Sickness",
+      "author": {
+        "authorized": "Tenn, William, 1920-2010",
+        "lcna": "n88651363"
+      }
+     },
+     {"issue": {"issue-date": "1955-11", "volume": "1", "number": "1"},
+      "title": "Have Tux, Will Travel",
+      "author": {
+        "authorized": "Bloch, Robert, 1917-1994",
+        "lcna": "n50016557"
+      }
+     },
+     {"issue": {"issue-date": "1956-02", "volume": "1", "number": "2"}, 
+      "title": "Internal Combustion",
+      "author": {
+        "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+        "lcna": "n80057222"
+      }
+     },
+     {"issue": {"issue-date": "1956-06", "volume": "1", "number": "3"}, 
+      "title": "The Guests of Chance",
+      "authors": [
+        {"authorized": "Beaumont, Charles, 1929-1967", "lcna": "n84200880"},
+        { "authorized": "Oliver, Chad, 1928-1993", "lcna": "n79054457"}
+      ]
+     },
+     {"issue": {"issue-date": "1956-06", "volume": "1", "number": "3"}, 
+      "title": "Sponge Dive",
+      "author": {
+       "authorized": "Blish, James",
+       "lcna": "n79053667"
+      }
+     },
+     {"issue": {"issue-date": "1956-06", "volume": "1", "number": "3"}, 
+      "title": "The Mob",
+      "author": {
+        "authorized": "Sheckley, Robert, 1928-2005",
+        "lcna": "n50022137"
+       }
+     },
+     {"issue": {"issue-date": "1956-08", "volume": "1", "number": "4"},
+      "title": "The Beach Where Time Began",
+      "author": {
+        "authorized": "Knight, Damon, 1922-2002",
+        "lcna": "n79108377"
+      }
+     },
+     {"issue": {"issue-date": "1956-08", "volume": "1", "number": "4"},
+      "title": "The World in the Juke Box",
+      "author": {
+       "authorized": "Wellen, Edward",
+       "lcna": "n93021387"
+      }
+     },
+     {"issue": {"issue-date": "1956-08", "volume": "1", "number": "4"},
+      "title": "Trojan Hearse",
+      "author": {
+       "authorized": "Ellison, Harlan",
+       "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1956-08", "volume": "1", "number": "4"},
+      "title": "The Final Challenge",
+      "author": {
+        "authorized": "Silverberg, Robert",
+        "lcna": "n80126000"
+      }
+     },
+     {"issue": {"issue-date": "1956-10", "volume": "1", "number": "5"},
+      "title": "Lower Than Angels",
+      "author": {
+       "authorized": "Budrys, Algis, 1931-2008",
+       "lcna": "n79060196"
+      }
+     },
+     {"issue": {"issue-date": "1956-10", "volume": "1", "number": "5"},
+      "title": "The Silver Corridor",
+      "author": {
+       "authorized": "Ellison, Harlan",
+       "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1956-10", "volume": "1", "number": "5"},
+      "title": "Hopper",
+      "author": {
+        "authorized": "Silverberg, Robert",
+        "lcna": "n80126000"
+      }
+     },
+     {"issue": {"issue-date": "1956-10", "volume": "1", "number": "5"},
+      "title": "My Brother on the Highway",
+      "author": {
+        "authorized": "Jakes, John, 1932-2023",
+        "lcna": "n80035843"
+      }
+     },
+     {"issue": {"issue-date": "1956-10", "volume": "1", "number": "5"},
+      "title": "The Indigestible Invaders",
+      "author": {
+        "authorized": "Knight, Damon, 1922-2002",
+        "lcna": "n79108377"
+      }
+     },
+     {"issue": {"issue-date": "1956-12", "volume": "1", "number": "6"},
+      "title": "Detour to the Stars",
+      "author": {
+       "authorized": "Blish, James",
+       "lcna": "n79053667"
+      }
+     },
+     {"issue": {"issue-date": "1956-12", "volume": "1", "number": "6"},
+      "title": "The Superstition-Seeders",
+      "author": {
+       "authorized": "Wellen, Edward",
+       "lcna": "n93021387"
+      }
+     },
+     {"issue": {"issue-date": "1957-02", "volume": "2", "number": "1"},
+      "title": "The Engrammar Age",
+      "author": {
+       "authorized": "Wellen, Edward",
+       "lcna": "n93021387"
+      }
+     },
+     {"issue": {"issue-date": "1957-02", "volume": "2", "number": "1"},
+      "title": "Utter Silence",
+      "author": {
+       "authorized": "Wellen, Edward",
+       "lcna": "n93021387"
+      }
+     },
+     {"issue": {"issue-date": "1957-02", "volume": "2", "number": "1"},
+      "title": "Alone at Last",
+      "author": {
+        "authorized": "Sheckley, Robert, 1928-2005",
+        "lcna": "n50022137"
+       }
+     },
+     {"issue": {"issue-date": "1957-04", "volume": "2", "number": "2"},
+      "title": "Deeper Than the Darkness",
+      "author": {
+       "authorized": "Ellison, Harlan",
+       "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1957-06", "volume": "2", "number": "3"},
+      "title": "Blank!",
+       "author": {
+         "authorized": "Asimov, Isaac, 1920-1992",
+         "lcna": "n80126289"
+       }
+     },
+     {"issue": {"issue-date": "1957-06", "volume": "2", "number": "3"},
+      "title": "Blank",
+      "author": {
+       "authorized": "Ellison, Harlan",
+       "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1957-07", "volume": "2", "number": "4"},
+      "title": "Sweet Dreams",
+      "author": {
+       "authorized": "Wellen, Edward",
+       "lcna": "n93021387"
+      }
+     },
+     {"issue": {"issue-date": "1957-09", "volume": "2", "number": "5"}, 
+      "title": "Dio",
+      "author": {
+        "authorized": "Knight, Damon, 1922-2002",
+        "lcna": "n79108377"
+      }
+     },
+     {"issue": {"issue-date": "1957-09", "volume": "2", "number": "5"}, 
+      "title": "Wonderbird",
+      "authors": [
+        {"authorized": "Ellison, Harlan", "lcna": "n50010025"},
+        {"authorized": "Budrys, Algis, 1931-2008", "lcna": "n79060196"}
+      ]
+     },
+     {"issue": {"issue-date": "1957-10", "volume": "2", "number": "6"}, 
+      "title": "The Last Man Left at the Bar",
+      "note": "Title as given in renewal record. FictionMags gives title as 'The Last Man Left in the Bar'.",
+      "author": {
+        "authorized": "Kornbluth, C. M. (Cyril M.), 1923-1958",
+        "lcna": "n50053582"
+       }
+     },
+     {"issue": {"issue-date": "1957-10", "volume": "2", "number": "6"}, 
+      "title": "Welcome Home",
+      "author": {
+        "authorized": "McLaughlin, Dean, 1931-",
+        "lcna": "no2001037968"
+      }
+     },
+     {"issue": {"issue-date": "1957-10", "volume": "2", "number": "6"}, 
+      "title": "Doctor Vicker's Car",
+      "note": "Issue as given in FictionMags. Renewal record gives issue as October 1956, but this appears to be a typo, based on the stated copyright date.",
+      "author": {
+       "authorized": "Wellen, Edward",
+       "lcna": "n93021387"
+      }
+     },
+     {"issue": {"issue-date": "1957-10", "volume": "2", "number": "6"}, 
+      "title": "Death Scene",
+      "author": {
+        "authorized": "Simak, Clifford D., 1904-1988",
+        "lcna": "n79082302"
+      }
+     },
+     {"issue": {"issue-date": "1957-11", "volume": "3", "number": "1"},
+      "title": "The General and the Axe",
+      "author": {
+       "authorized": "Dickson, Gordon R.",
+       "lcna": "n79109204"
+      }
+     },
+     {"issue": {"issue-date": "1957-11", "volume": "3", "number": "1"},
+      "title": "Nor Iron Bars",
+      "author": {
+       "authorized": "Blish, James",
+       "lcna": "n79053667"
+      }
+     },
+     {"issue": {"issue-date": "1957-11", "volume": "3", "number": "1"},
+      "title": "One Way Journey",
+      "author": {
+        "authorized": "Silverberg, Robert",
+        "lcna": "n80126000"
+      }
+     },
+     {"issue": {"issue-date": "1957-11", "volume": "3", "number": "1"},
+      "title": "The Skirmisher",
+      "author": {
+       "authorized": "Budrys, Algis, 1931-2008",
+       "lcna": "n79060196"
+      }
+     },
+     {"issue": {"issue-date": "1958-01", "volume": "3", "number": "2"},
+      "title": "Lennie",
+      "note": "Title as given in renewal record. FictionMags gives title as 'Lenny'.",
+       "author": {
+         "authorized": "Asimov, Isaac, 1920-1992",
+         "lcna": "n80126289"
+       }
+     },
+     {"issue": {"issue-date": "1958-04", "volume": "3", "number": "4"}, 
+      "title": "Leg. Forst.",
+      "author": {
+        "authorized": "Simak, Clifford D., 1904-1988",
+        "lcna": "n79082302"
+      }
+     },
+     {"issue": {"issue-date": "1958-04", "volume": "3", "number": "4"}, 
+      "title": "Slice of Life",
+      "note": "Author is Robert Silverberg writing under a pseudonym.",
+      "author": {
+        "authorized": "Knox, Calvin M.",
+        "lcna": "no00101029"
+      }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-05-20"
+   "last-updated": "2025-04-30"
 }

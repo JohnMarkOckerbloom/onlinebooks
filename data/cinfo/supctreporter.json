@@ -6,7 +6,7 @@
    "first-renewed-issue-source": "1957-JanJun",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
-   "renewed-issue-completeness": "active/1932",
+   "renewed-issue-completeness": "active/1933",
    "renewed-issues": [
       {"issue-date": "1930-01-01", "volume": "50", "number": "5"},
       {"issue-date": "1930-01-15", "volume": "50", "number": "6"},
@@ -22,7 +22,7 @@
       {"issue-date": "1930-07-01", "volume": "50", "number": "17"},
       {"issue-date": "November 1929 - July 1930",
          "volume": "50", "number": "permanent edition"},
-      {"issue-date": "1929-11-15", "volume": "51", "number": "2",
+      {"issue-date": "1930-11-15", "volume": "51", "number": "2",
        "note": "Numbering of this issue and number 1 are unusual."},
       {"issue-date": "1930-12-01", "volume": "51", "number": "1",
        "note": "Numbering of this issue and number 2 are unusual."},
@@ -75,7 +75,24 @@
       {"issue-date": "1933-06-01", "volume": "53", "number": "15"},
       {"issue-date": "1933-06-15", "volume": "53", "number": "16"},
       {"issue-date": "November 1932 - June 1933",
-         "volume": "53", "number": "permanent edition"}
+         "volume": "53", "number": "permanent edition"},
+      {"issue-date": "1933-11-15", "volume": "54", "number": "1"},
+      {"issue-date": "1933-12-01", "volume": "54", "number": "2"},
+      {"issue-date": "1933-12-15", "volume": "54", "number": "3"},
+      {"issue-date": "1934-01-01", "volume": "54", "number": "4"},
+      {"issue-date": "1934-01-15", "volume": "54", "number": "5"},
+      {"issue-date": "1934-02-01", "volume": "54", "number": "6"},
+      {"issue-date": "1934-02-15", "volume": "54", "number": "7"},
+      {"issue-date": "1934-03-01", "volume": "54", "number": "8"},
+      {"issue-date": "1934-03-15", "volume": "54", "number": "9"},
+      {"issue-date": "1934-04-01", "volume": "54", "number": "10"},
+      {"issue-date": "1934-04-15", "volume": "54", "number": "11"},
+      {"issue-date": "1934-05-01", "volume": "54", "number": "12"},
+      {"issue-date": "1934-05-15", "volume": "54", "number": "13"},
+      {"issue-date": "1934-06-01", "volume": "54", "number": "14"},
+      {"issue-date": "1934-06-15", "volume": "54", "number": "15"},
+      {"issue-date": "November 1933 - June 1934",
+         "volume": "54", "number": "permanent edition"}
    ],
    "additional-notes": [
     "Rulings and opinions issued by the US Supreme Court are in the public domain.  The publisher may claim copyright on original notes, summaries, and annotations it adds.",
@@ -85,5 +102,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-01-05"
+   "last-updated": "2025-04-29"
 }

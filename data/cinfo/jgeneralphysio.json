@@ -6,7 +6,7 @@
    "first-renewed-issue-source": "1957-JanJun",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
-   "renewed-issue-completeness": "active/1932",
+   "renewed-issue-completeness": "active/1933",
    "renewed-issues": [
      {"issue-date": "1930-01-20", "volume": "13", "number": "3"},
      {"issue-date": "1930-03-20", "volume": "13", "number": "4"},
@@ -31,11 +31,17 @@
      {"issue-date": "1933-05-20", "volume": "16", "number": "5"},
      {"issue-date": "1933-07-20", "volume": "16", "number": "6"},
      {"issue-date": "1933-09-20", "volume": "17", "number": "1"},
-     {"issue-date": "1933-11-20", "volume": "17", "number": "2"}
-    ],
+     {"issue-date": "1933-11-20", "volume": "17", "number": "2"},
+     {"issue-date": "1934-01-20", "volume": "17", "number": "3"},
+     {"issue-date": "1934-03-20", "volume": "17", "number": "4"},
+     {"issue-date": "1934-05-20", "volume": "17", "number": "5"},
+     {"issue-date": "1934-07-20", "volume": "17", "number": "6"},
+     {"issue-date": "1934-09-20", "volume": "18", "number": "1"},
+     {"issue-date": "1934-11-20", "volume": "18", "number": "2"}
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-01-06"
+   "last-updated": "2025-04-16"
 }

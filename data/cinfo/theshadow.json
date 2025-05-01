@@ -16,7 +16,7 @@
    },
    "first-renewed-contribution-source": "1966-JanJun",
    "last-issue": {"issue-date": "1949-Summer", "volume": "55", "number": "1"}, 
-   "renewed-issue-completeness": "active/1932",
+   "renewed-issue-completeness": "active/1933",
    "renewed-issues": [
        {"issue-date": "1931-April-June", "volume": "1", "number": "1"}, 
        {"issue-date": "1931-July-September", "volume": "1", "number": "2"}, 
@@ -63,11 +63,39 @@
        {"issue-date": "1933-09-15", "volume": "7", "number": "2"},
        {"issue-date": "1933-10-01", "volume": "7", "number": "3"},
        {"issue-date": "1933-10-15", "volume": "7", "number": "4"},
-       {"issue-date": "1933-11-01", "volume": "7", "number": "5"}
+       {"issue-date": "1933-11-01", "volume": "7", "number": "5"},
+       {"issue-date": "1933-11-15", "volume": "7", "number": "6"},
+       {"issue-date": "1933-12-01", "volume": "8", "number": "1"},
+       {"issue-date": "1933-12-15", "volume": "8", "number": "2"},
+       {"issue-date": "1934-01-01", "volume": "8", "number": "3",
+        "cdate": "1933-12-08"},
+       {"issue-date": "1934-01-15", "volume": "8", "number": "4",
+        "cdate": "1933-12-26"},
+       {"issue-date": "1934-02-01", "volume": "8", "number": "5",
+        "cdate": "1934-01-12"},
+       {"issue-date": "1934-02-15", "volume": "8", "number": "6"},
+       {"issue-date": "1934-03-01", "volume": "9", "number": "1"},
+       {"issue-date": "1934-03-15", "volume": "9", "number": "2"},
+       {"issue-date": "1934-04-01", "volume": "9", "number": "3"},
+       {"issue-date": "1934-04-15", "volume": "9", "number": "4"},
+       {"issue-date": "1934-05-01", "volume": "9", "number": "5"},
+       {"issue-date": "1934-05-15", "volume": "9", "number": "6"},
+       {"issue-date": "1934-06-01", "volume": "10", "number": "1"},
+       {"issue-date": "1934-06-15", "volume": "10", "number": "2"},
+       {"issue-date": "1934-07-01", "volume": "10", "number": "3"},
+       {"issue-date": "1934-07-15", "volume": "10", "number": "4"},
+       {"issue-date": "1934-08-01", "volume": "10", "number": "5"},
+       {"issue-date": "1934-08-15", "volume": "10", "number": "6"},
+       {"issue-date": "1934-09-01", "volume": "11", "number": "1"},
+       {"issue-date": "1934-09-15", "volume": "11", "number": "2"},
+       {"issue-date": "1934-10-01", "volume": "11", "number": "3"},
+       {"issue-date": "1934-10-15", "volume": "11", "number": "4"},
+       {"issue-date": "1934-11-01", "volume": "11", "number": "5"},
+       {"issue-date": "1934-11-15", "volume": "11", "number": "6"}
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-10-31"
+   "last-updated": "2025-04-25"
 }

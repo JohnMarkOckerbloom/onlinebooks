@@ -13,7 +13,7 @@
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1930-02", "volume": "90", "number": "2"}},
    "first-renewed-contribution-source": "1957-JanJun",
-   "renewed-issue-completeness": "active/1932",
+   "renewed-issue-completeness": "active/1933",
    "renewed-issues": [
      {"issue-date": "1930-02", "volume": "90", "number": "2",
       "cdate": "1930-01-23"},
@@ -51,7 +51,18 @@
      {"issue-date": "1932-09", "volume": "95", "number": "3"},
      {"issue-date": "1932-10", "volume": "95", "number": "4"},
      {"issue-date": "1932-11", "volume": "95", "number": "5"},
-     {"issue-date": "1932-12", "volume": "95", "number": "6"}
+     {"issue-date": "1932-12", "volume": "95", "number": "6"},
+     {"issue-date": "1933-02", "volume": "96", "number": "2"},
+     {"issue-date": "1933-03", "volume": "96", "number": "3"},
+     {"issue-date": "1933-04", "volume": "96", "number": "4"},
+     {"issue-date": "1933-05", "volume": "96", "number": "5"},
+     {"issue-date": "1933-06", "volume": "96", "number": "6"},
+     {"issue-date": "1933-07", "volume": "97", "number": "1"},
+     {"issue-date": "1933-09", "volume": "97", "number": "3"},
+     {"issue-date": "1933-10", "volume": "97", "number": "4"},
+     {"issue-date": "1933-11", "volume": "97", "number": "5"},
+     {"issue-date": "1933-12", "volume": "97", "number": "6"},
+     {"issue-date": "1934-01", "volume": "98", "number": "1"}
    ],
    "renewed-contribution-completeness": "active/1930",
    "renewed-contributions": [
@@ -444,5 +455,5 @@
    },
    "acknowledgement": 
       "Thanks to Felice Gollotti for copyright research on this title.",
-   "last-updated": "2025-01-05"
+   "last-updated": "2025-04-16"
 }

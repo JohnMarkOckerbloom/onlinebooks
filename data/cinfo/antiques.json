@@ -10,7 +10,7 @@
    "first-renewed-contribution":
       {"issue": {"issue-date": "1945-11"}},
    "first-renewed-contribution-source": "1973-JanJun",
-   "renewed-issue-completeness": "active/1932",
+   "renewed-issue-completeness": "active/1933",
    "renewed-issues": [
      {"issue-date": "1930-02", "volume": "17", "number": "2",
       "cdate": "1930-01-30"},
@@ -59,7 +59,21 @@
      {"issue-date": "1933-03", "volume": "23", "number": "3"},
      {"issue-date": "1933-04", "volume": "23", "number": "4"},
      {"issue-date": "1933-05", "volume": "23", "number": "5"},
-     {"issue-date": "1933-06", "volume": "23", "number": "6"}
+     {"issue-date": "1933-06", "volume": "23", "number": "6"},
+     {"issue-date": "1933-07", "volume": "24", "number": "1"},
+     {"issue-date": "1933-08", "volume": "24", "number": "2"},
+     {"issue-date": "1933-09", "volume": "24", "number": "3"},
+     {"issue-date": "1933-10", "volume": "24", "number": "4"},
+     {"issue-date": "1933-11", "volume": "24", "number": "5"},
+     {"issue-date": "1933-12", "volume": "24", "number": "6"},
+     {"issue-date": "1934-01", "volume": "25", "number": "1",
+      "cdate": "1933-12-26"},
+     {"issue-date": "1934-02", "volume": "25", "number": "2",
+      "cdate": "1934-01-25"},
+     {"issue-date": "1934-03", "volume": "25", "number": "3"},
+     {"issue-date": "1934-04", "volume": "25", "number": "4"},
+     {"issue-date": "1934-05", "volume": "25", "number": "5"},
+     {"issue-date": "1934-06", "volume": "25", "number": "6"}
    ],
    "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
@@ -121,5 +135,5 @@
    },
    "acknowledgement": 
       "Thanks to Peter Sullivan for copyright research on this title.",
-   "last-updated": "2025-01-01"
+   "last-updated": "2025-04-16"
 }

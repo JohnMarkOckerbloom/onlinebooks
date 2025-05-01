@@ -7,9 +7,16 @@
    "first-renewed-contribution":  "none",
    "first-renewed-contribution-source": "cce+database",
    "see-also": [{"id": "natgeo", "note": "National Geographic Magazine"}],
+   "renewed-issues": [
+      {"issue-date": "1934-05", "volume": "14", "number": "6"},
+      {"issue-date": "1934-06", "volume": "14", "number": "7"},
+      {"issue-date": "1934-07", "volume": "14", "number": "8"},
+      {"issue-date": "1934-08", "volume": "14", "number": "9"},
+      {"issue-date": "1934-09", "volume": "14", "number": "10"}
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-10-22"
+   "last-updated": "2025-04-16"
 }

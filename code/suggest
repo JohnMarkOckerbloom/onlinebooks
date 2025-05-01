@@ -299,8 +299,8 @@ sub analyze_form {
   } elsif ($email =~ /reliable-mail.com|example.com/) {
     # These email domains are consistently used in quick spam links
     $pool = new OLBP::SubmissionPool(name=>$spamdir);
-  } elsif ($email =~ /webmark.eting.org/) {
-    # Another spam "email" domain
+  } elsif ($email =~ /webmark.eting.org|advsales.org/) {
+    # Spam "email" domains
     $pool = new OLBP::SubmissionPool(name=>$spamdir);
   } elsif ($title =~ /redesign your /i) {
     # A common linkspam comein lately

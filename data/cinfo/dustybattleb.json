@@ -12,6 +12,20 @@
    "first-renewed-issue-source": "1961-JulDec",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce",
+   "renewed-issue-completeness": "active/end",
+   "renewed-issues": [
+      {"issue-date": "1934-10", "volume": "6", "number": "3"},
+      {"issue-date": "1934-11", "volume": "6", "number": "4"},
+      {"issue-date": "1934-12", "volume": "7", "number": "1"},
+      {"issue-date": "1935-01", "volume": "7", "number": "2",
+       "cdate": "1934-12-07"},
+      {"issue-date": "1935-02", "volume": "7", "number": "3",
+       "cdate": "1935-01-10"},
+      {"issue-date": "1935-03", "volume": "7", "number": "4"},
+      {"issue-date": "1935-04", "volume": "8", "number": "1"},
+      {"issue-date": "1935-May-June", "volume": "8", "number": "2"},
+      {"issue-date": "1935-July-August", "volume": "8", "number": "3"}
+   ],
    "last-issue": 
       {"issue-date": "1935-July-August", "volume": "8", "number": "3"},
    "additional-note": "Cover title is 'Dusty Ayres and His Battle Birds', but some CCE renewal records give the title as 'Dusty Airs...' instead.",
@@ -19,5 +33,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-03-23"
+   "last-updated": "2025-04-30"
 }

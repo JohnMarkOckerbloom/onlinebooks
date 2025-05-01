@@ -4,11 +4,15 @@
    "first-issue": {"issue-date": "1967-04-25", "volume": "1", "number": "1"},
    "first-renewed-issue":
      {"issue-date": "1968-05-04", "volume": "2", "number": "2"},
-   "first-renewed-contribution": "none",
-   "first-renewed-contribution-source": "database",
+   "first-renewed-contribution": 
+     {"issue": {"issue-date": "1971-01-23", "volume": "5", "number": "30"}},
    "renewed-issues": [
      {"issue-date": "1968-05-04", "volume": "2", "number": "2"},
      {"issue-date": "1968-05-18", "volume": "2", "number": "3"},
+     {"issue-date": "1971-03-13", "volume": "6", "number": "7"},
+     {"issue-date": "1971-03-20", "volume": "6", "number": "8"},
+     {"issue-date": "1971-03-27", "volume": "6", "number": "9"},
+     {"issue-date": "1971-04-10", "volume": "6", "number": "11"},
      {"issue-date": "1971-08-09", "volume": "6", "number": "28"},
      {"issue-date": "1971-09-04", "volume": "7", "number": "2"},
      {"issue-date": "1971-09-19", "volume": "7", "number": "4"},
@@ -16,11 +20,23 @@
      {"issue-date": "1971-06-10", "volume": "8", "number": "12"},
      {"issue-date": "1973-07-28", "volume": "10", "number": "11"}
    ],
-   "additional-note": 
-      "Copyright was automatically renewed on any issue where copyright was claimed in a timely fashion.  The earliest issue we have found that had a copyright notice is the May 4, 1968 issue.  We have not examined all prior issues, however. Not all issues after May 4, 1968 have a copyright notice.  Issues we have been able to examine where we found a copyright notice are listed here, but there may be additional issues that remain under copyright. We have so far only evaluated a few issues from the 1970s for their copyright status.",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1971-01-23", "volume": "5", "number": "30"},
+      "title": "Let Us Hold High the Banner of Intercommunalism and the Invincible Thoughts of Huey P. Newton, Minister of Defense and Superme Commander of the Black Panther Party",
+      "note": "There is a 1970 copyright notice at the end of this article, with the claimant named as 'Stronghold Consolidated Productions, Inc.'",
+      "author": {
+         "authorized": "Newton, Huey P.",
+         "lcna": "n50006006"
+      }
+     }
+   ],
+   "additional-notes": [
+      "Copyright was automatically renewed on any issue where copyright was claimed in a timely fashion.  The earliest issue we have found that had a copyright notice is the May 4, 1968 issue.  The earliest issue where we have found a copyright notice for an individual contribution is the January 23, 1971 issue. We not examined all issues in full, however.",
+    "Not all issues after May 4, 1968 have a copyright notice.  Issues we have been able to examine where we found a copyright notice are listed here, but there may be additional issues that remain under copyright. We have so far not systematically evaluated issues past April 10, 1971 (and do not have access to all issues in any case)."
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-03-21"
+   "last-updated": "2025-04-17"
 }

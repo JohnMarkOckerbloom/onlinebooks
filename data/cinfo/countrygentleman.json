@@ -8,7 +8,7 @@
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1930-02"}}, 
    "first-renewed-contribution-source": "1957-JanJun",
-   "renewed-issue-completeness": "active/1932",
+   "renewed-issue-completeness": "active/1933",
    "renewed-issues": [
      {"issue-date": "1930-02", "volume": "95", "number": "2",
       "cdate": "1930-01-30"},
@@ -58,7 +58,21 @@
      {"issue-date": "1933-04", "volume": "103", "number": "4"},
      {"issue-date": "1933-05", "volume": "103", "number": "5"},
      {"issue-date": "1933-06", "volume": "103", "number": "6"},
-     {"issue-date": "1933-07", "volume": "103", "number": "7"}
+     {"issue-date": "1933-07", "volume": "103", "number": "7"},
+     {"issue-date": "1933-08", "volume": "103", "number": "8"},
+     {"issue-date": "1933-09", "volume": "103", "number": "9"},
+     {"issue-date": "1933-10", "volume": "103", "number": "10"},
+     {"issue-date": "1933-11", "volume": "103", "number": "11"},
+     {"issue-date": "1933-12", "volume": "103", "number": "12"},
+     {"issue-date": "1934-01", "volume": "104", "number": "1",
+      "cdate": "1933-12-19"},
+     {"issue-date": "1934-02", "volume": "104", "number": "2",
+      "cdate": "1934-01-16"},
+     {"issue-date": "1934-03", "volume": "104", "number": "3"},
+     {"issue-date": "1934-04", "volume": "104", "number": "4"},
+     {"issue-date": "1934-05", "volume": "104", "number": "5"},
+     {"issue-date": "1934-06", "volume": "104", "number": "6"},
+     {"issue-date": "1934-07", "volume": "104", "number": "7"}
    ],
    "renewed-contribution-completeness": "active/1931",
    "renewed-contributions": [
@@ -281,5 +295,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-01-03"
+   "last-updated": "2025-04-16"
 }

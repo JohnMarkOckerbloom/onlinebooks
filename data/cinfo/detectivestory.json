@@ -15,7 +15,7 @@
      {"issue": {"issue-date": "1930-01-11", "volume": "115", "number": "5"}},
    "first-renewed-contribution-source": "1957-JanJun",
    "last-issue": {"issue-date": "1949-Summer", "volume": "177", "number": "1"},
-   "renewed-issue-completeness": "active/1932",
+   "renewed-issue-completeness": "active/1933",
    "renewed-issues": [
      {"issue-date": "1930-01-11", "volume": "115", "number": "5",
       "cdate": "1930-01-03"},
@@ -192,7 +192,34 @@
      {"issue-date": "1933-10-10", "volume": "142", "number": "6"},
      {"issue-date": "1933-10-25", "volume": "143", "number": "1"},
      {"issue-date": "1933-11-10", "volume": "143", "number": "2"},
-     {"issue-date": "1933-11-25", "volume": "143", "number": "3"}
+     {"issue-date": "1933-11-25", "volume": "143", "number": "3"},
+     {"issue-date": "1933-12-10", "volume": "143", "number": "4"},
+     {"issue-date": "1933-12-25", "volume": "143", "number": "5"},
+     {"issue-date": "1934-01-10", "volume": "143", "number": "6",
+      "cdate": "1933-12-01"},
+     {"issue-date": "1934-01-25", "volume": "144", "number": "1",
+      "cdate": "1933-12-15"},
+     {"issue-date": "1934-02-10", "volume": "144", "number": "2",
+      "cdate": "1934-01-05"},
+     {"issue-date": "1934-02-25", "volume": "144", "number": "3"},
+     {"issue-date": "1934-03-10", "volume": "144", "number": "4"},
+     {"issue-date": "1934-03-25", "volume": "144", "number": "5"},
+     {"issue-date": "1934-04-10", "volume": "144", "number": "6"},
+     {"issue-date": "1934-04-25", "volume": "145", "number": "1"},
+     {"issue-date": "1934-05-10", "volume": "145", "number": "2"},
+     {"issue-date": "1934-05-25", "volume": "145", "number": "3"},
+     {"issue-date": "1934-06-10", "volume": "145", "number": "4"},
+     {"issue-date": "1934-06-25", "volume": "145", "number": "5"},
+     {"issue-date": "1934-07-10", "volume": "145", "number": "6"},
+     {"issue-date": "1934-07-25", "volume": "146", "number": "1"},
+     {"issue-date": "1934-08-10", "volume": "146", "number": "2"},
+     {"issue-date": "1934-08-25", "volume": "146", "number": "3"},
+     {"issue-date": "1934-09-10", "volume": "146", "number": "4"},
+     {"issue-date": "1934-09-25", "volume": "146", "number": "5"},
+     {"issue-date": "1934-10-10", "volume": "146", "number": "6"},
+     {"issue-date": "1934-10-25", "volume": "147", "number": "1"},
+     {"issue-date": "1934-11-10", "volume": "147", "number": "2"},
+     {"issue-date": "1934-11-25", "volume": "147", "number": "3"}
    ],
    "renewed-contribution-completeness": "active/1930",
    "renewed-contributions": [
@@ -449,5 +476,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-01-03"
+   "last-updated": "2025-04-27"
 }

@@ -7,7 +7,7 @@
    "first-renewed-issue-source": "1957-JulDec",
    "first-renewed-contribution": {"issue": {"issue-date": "1957-02"}},
    "first-renewed-contribution-source": "database",
-   "renewed-issue-completeness": "active/1932",
+   "renewed-issue-completeness": "active/1933",
    "renewed-issues": [
      {"issue-date": "1930-02", "volume": "45", "number": "2",
           "cdate": "1930-01-17"},
@@ -49,13 +49,36 @@
      {"issue-date": "1932-12", "volume": "50", "number": "6"},
      {"issue-date": "1933-01", "volume": "51", "number": "1",
       "cdate": "1932-12-21"},
+     {"issue-date": "1933-02", "volume": "51", "number": "2",
+      "cdate": "1933-01-23"},
      {"issue-date": "1933-03", "volume": "51", "number": "3"},
      {"issue-date": "1933-04", "volume": "51", "number": "4"},
-     {"issue-date": "1933-05", "volume": "51", "number": "5"}
+     {"issue-date": "1933-05", "volume": "51", "number": "5"},
+     {"issue-date": "1933-06", "volume": "51", "number": "6"},
+     {"issue-date": "1933-07", "volume": "52", "number": "1"},
+     {"issue-date": "1933-08", "volume": "52", "number": "2"},
+     {"issue-date": "1933-09", "volume": "52", "number": "3"},
+     {"issue-date": "1933-10", "volume": "52", "number": "4"},
+     {"issue-date": "1933-11", "volume": "52", "number": "5"},
+     {"issue-date": "1933-12", "volume": "52", "number": "6"},
+     {"issue-date": "1934-01", "volume": "53", "number": "1",
+      "cdate": "1933-12-26"},
+     {"issue-date": "1934-02", "volume": "53", "number": "2",
+      "cdate": "1934-01-25"},
+     {"issue-date": "1934-03", "volume": "53", "number": "3"},
+     {"issue-date": "1934-04", "volume": "53", "number": "4"},
+     {"issue-date": "1934-05", "volume": "53", "number": "5"},
+     {"issue-date": "1934-06", "volume": "53", "number": "6"},
+     {"issue-date": "1934-07", "volume": "54", "number": "1"},
+     {"issue-date": "1934-08", "volume": "54", "number": "2"},
+     {"issue-date": "1934-09", "volume": "54", "number": "3"},
+     {"issue-date": "1934-10", "volume": "54", "number": "4"},
+     {"issue-date": "1934-11", "volume": "54", "number": "5"},
+     {"issue-date": "1934-12", "volume": "54", "number": "6"}
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-01-06"
+   "last-updated": "2025-04-17"
 }

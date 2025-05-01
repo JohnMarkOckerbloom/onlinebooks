@@ -8,10 +8,18 @@
    "first-renewed-issue-source": "1961-JanJun",
    "first-renewed-contribution":  "none",
    "first-renewed-contribution-source": "cce",
+   "renewed-issue-completeness": "active/1933",
+   "renewed-issues": [
+      {"issue-date": "1933-Autumn", "volume": "1", "number": "1"},
+      {"issue-date": "1934-Winter", "volume": "1", "number": "2",
+       "cdate": "1933-12-13"},
+      {"issue-date": "1934-Spring", "volume": "1", "number": "3",
+       "cdate": "1934-03-31"}
+   ],
    "additional-note": "This magazine features 'new stories from across the seas'.  Some of those stories might have been previously published elsewhere, and could potentially have active copyrights due to those publications.  We have not checked the copyright status of those stories, but have only verified that there are no CCE contribution renewals specifically mentioning this magazine.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-10-02"
+   "last-updated": "2025-04-16"
 }
