@@ -6,7 +6,7 @@
    "first-renewed-issue-source": "1957-JanJun",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
-   "renewed-issue-completeness": "active/1933",
+   "renewed-issue-completeness": "active/1934",
    "renewed-issues": [
       {"issue-date": "1930-01-01", "volume": "50", "number": "5"},
       {"issue-date": "1930-01-15", "volume": "50", "number": "6"},
@@ -92,7 +92,27 @@
       {"issue-date": "1934-06-01", "volume": "54", "number": "14"},
       {"issue-date": "1934-06-15", "volume": "54", "number": "15"},
       {"issue-date": "November 1933 - June 1934",
-         "volume": "54", "number": "permanent edition"}
+         "volume": "54", "number": "permanent edition"},
+      {"issue-date": "1934-11-15", "volume": "55", "number": "1"},
+      {"issue-date": "1934-12-01", "volume": "55", "number": "2"},
+      {"issue-date": "1934-12-15", "volume": "55", "number": "3"},
+      {"issue-date": "1935-01-01", "volume": "55", "number": "4",
+       "cdate": "1934-12-28"},
+      {"issue-date": "1935-01-15", "volume": "55", "number": "5",
+       "cdate": "1935-01-23"},
+      {"issue-date": "1935-02-01", "volume": "55", "number": "6"},
+      {"issue-date": "1935-02-15", "volume": "55", "number": "7"},
+      {"issue-date": "1935-03-01", "volume": "55", "number": "8"},
+      {"issue-date": "1935-03-15", "volume": "55", "number": "9"},
+      {"issue-date": "1935-04-01", "volume": "55", "number": "10"},
+      {"issue-date": "1935-04-15", "volume": "55", "number": "11"},
+      {"issue-date": "1935-05-01", "volume": "55", "number": "12"},
+      {"issue-date": "1935-05-15", "volume": "55", "number": "13"},
+      {"issue-date": "1935-06-01", "volume": "55", "number": "14"},
+      {"issue-date": "1935-06-01", "volume": "55", "number": "15"},
+      {"issue-date": "1935-06-15", "volume": "55", "number": "16"},
+      {"cdate": "1935-11-29",
+         "volume": "55", "number": "permanent edition"}
    ],
    "additional-notes": [
     "Rulings and opinions issued by the US Supreme Court are in the public domain.  The publisher may claim copyright on original notes, summaries, and annotations it adds.",
@@ -102,5 +122,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-04-29"
+   "last-updated": "2025-05-27"
 }

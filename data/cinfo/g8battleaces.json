@@ -9,11 +9,25 @@
    "first-renewed-issue-source": "1961-JulDec",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce",
+   "renewed-issue-completeness": "active/1934",
    "renewed-issues": [
       {"issue-date": "1934-11", "volume": "4", "number": "2"},
-      {"issue-date": "1934-12", "volume": "4", "number": "3"}
+      {"issue-date": "1934-12", "volume": "4", "number": "3"},
+      {"issue-date": "1935-01", "volume": "4", "number": "5",
+       "cdate": "1934-11-30"},
+      {"issue-date": "1935-02", "volume": "5", "number": "1",
+       "cdate": "1935-01-02"},
+      {"issue-date": "1935-03", "volume": "5", "number": "2"},
+      {"issue-date": "1935-04", "volume": "5", "number": "3"},
+      {"issue-date": "1935-05", "volume": "5", "number": "4"},
+      {"issue-date": "1935-06", "volume": "6", "number": "1"},
+      {"issue-date": "1935-07", "volume": "6", "number": "2"},
+      {"issue-date": "1935-08", "volume": "6", "number": "3"},
+      {"issue-date": "1935-09", "volume": "6", "number": "4"},
+      {"issue-date": "1935-10", "volume": "7", "number": "1"},
+      {"issue-date": "1935-11", "volume": "7", "number": "2"},
+      {"issue-date": "1935-12", "volume": "7", "number": "3"}
    ],
-   "comment": "Pick up issue renewals with 1962",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"

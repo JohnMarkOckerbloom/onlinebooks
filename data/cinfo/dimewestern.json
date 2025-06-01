@@ -13,12 +13,40 @@
       {"issue": {"issue-date": "1933-07", "volume": "2", "number": "4"}},
    "first-renewed-contribution-source": "1961-JanJun",
    "last-issue": {"issue-date": "1954-09", "volume": "65", "number": "3"},
+   "renewed-issue-completeness": "active/1934",
    "renewed-issues": [
      {"issue-date": "1934-10-15", "volume": "7", "number": "1"},
      {"issue-date": "1934-11-01", "volume": "7", "number": "2"},
-     {"issue-date": "1934-11-15", "volume": "7", "number": "3"}
+     {"issue-date": "1934-11-15", "volume": "7", "number": "3"},
+     {"issue-date": "1934-12-01", "volume": "7", "number": "4"},
+     {"issue-date": "1934-12-15", "volume": "8", "number": "1"},
+     {"issue-date": "1935-01-01", "volume": "8", "number": "2",
+      "cdate": "1934-12-14"},
+     {"issue-date": "1935-01-15", "volume": "8", "number": "3",
+      "cdate": "1934-12-28"},
+     {"issue-date": "1935-02-01", "volume": "8", "number": "4",
+      "cdate": "1935-01-15"},
+     {"issue-date": "1935-02-15", "volume": "9", "number": "1"},
+     {"issue-date": "1935-03-01", "volume": "9", "number": "2"},
+     {"issue-date": "1935-03-15", "volume": "9", "number": "3"},
+     {"issue-date": "1935-04-01", "volume": "9", "number": "4"},
+     {"issue-date": "1935-04-15", "volume": "10", "number": "1"},
+     {"issue-date": "1935-05-01", "volume": "10", "number": "2"},
+     {"issue-date": "1935-06-01", "volume": "10", "number": "4"},
+     {"issue-date": "1935-06-15", "volume": "11", "number": "1"},
+     {"issue-date": "1935-07-01", "volume": "11", "number": "2"},
+     {"issue-date": "1935-07-15", "volume": "11", "number": "3"},
+     {"issue-date": "1935-08-01", "volume": "11", "number": "4"},
+     {"issue-date": "1935-08-15", "volume": "12", "number": "1"},
+     {"issue-date": "1935-09-01", "volume": "12", "number": "2"},
+     {"issue-date": "1935-09-15", "volume": "12", "number": "3"},
+     {"issue-date": "1935-10-01", "volume": "12", "number": "4"},
+     {"issue-date": "1935-10-15", "volume": "13", "number": "1"},
+     {"issue-date": "1935-11-01", "volume": "13", "number": "2"},
+     {"issue-date": "1935-11-15", "volume": "13", "number": "3"},
+     {"issue-date": "1935-12-01", "volume": "13", "number": "4"}
    ],
-   "comment": "Resume renewed issues with 1962",
+   "comment": "Resume renewed issues with 1963",
    "renewed-contributions": [
      {"issue": {"issue-date": "1933-07"},
       "title": "Black Thunder",
@@ -50,5 +78,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-04-30"
+   "last-updated": "2025-05-27"
 }

@@ -11,7 +11,7 @@
    "last-issue": {"issue-date": "1962-Summer", "volume": "34", "number": "4"},
    "succeeded-by":
      [{"id": "ucololawrev", "note": "University of Colorado Law Review"}],
-   "renewed-issue-completeness": "active/1933",
+   "renewed-issue-completeness": "active/1934",
    "renewed-issues": [
       {"issue-date": "1930-04", "volume": "2", "number": "3"},
       {"issue-date": "1930-11", "volume": "3", "number": "1"},
@@ -25,11 +25,16 @@
       {"issue-date": "1933-06", "volume": "5", "number": "4"},
       {"issue-date": "1933-12", "volume": "6", "number": "1"},
       {"issue-date": "1934-02", "volume": "6", "number": "2"},
-      {"issue-date": "1934-04", "volume": "6", "number": "3"}
+      {"issue-date": "1934-04", "volume": "6", "number": "3"},
+      {"issue-date": "1934-06", "volume": "6", "number": "4"},
+      {"issue-date": "1934-12", "volume": "7", "number": "1",
+       "cdate": "1935-01-03"},
+      {"issue-date": "1935-02", "volume": "7", "number": "2"},
+      {"issue-date": "1935-04", "volume": "7", "number": "3"}
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-04-24"
+   "last-updated": "2025-05-27"
 }

@@ -8,7 +8,7 @@
    "first-renewed-contribution":
      {"issue": {"issue-date": "1932-11"}},
    "first-renewed-contribution-source": "1960-JanJun",
-   "renewed-issue-completeness": "active/1933",
+   "renewed-issue-completeness": "active/1935",
    "renewed-issues": [
      {"issue-date": "1932-04", "volume": "56", "number": "4"},
      {"issue-date": "1932-05", "volume": "56", "number": "5"},
@@ -41,9 +41,31 @@
      {"issue-date": "1934-08", "volume": "61", "number": "2"},
      {"issue-date": "1934-09", "volume": "61", "number": "3"},
      {"issue-date": "1934-10", "volume": "61", "number": "4"},
-     {"issue-date": "1934-11", "volume": "61", "number": "5"}
+     {"issue-date": "1934-11", "volume": "61", "number": "5"},
+     {"issue-date": "1934-12", "volume": "61", "number": "6"},
+     {"issue-date": "1935-01", "volume": "62", "number": "1"},
+     {"issue-date": "1935-02", "volume": "62", "number": "2"},
+     {"issue-date": "1935-03", "volume": "62", "number": "3"},
+     {"issue-date": "1935-04", "volume": "62", "number": "4"},
+     {"issue-date": "1935-05", "volume": "62", "number": "5"},
+     {"issue-date": "1935-06", "volume": "62", "number": "6"},
+     {"issue-date": "1935-07", "volume": "63", "number": "1"},
+     {"issue-date": "1935-08", "volume": "63", "number": "2"},
+     {"issue-date": "1935-09", "volume": "63", "number": "3"},
+     {"issue-date": "1935-10", "volume": "63", "number": "4"},
+     {"issue-date": "1935-11", "volume": "63", "number": "5"},
+     {"issue-date": "1935-12", "volume": "63", "number": "6"},
+     {"issue-date": "1936-01", "volume": "64", "number": "1"},
+     {"issue-date": "1936-02", "volume": "64", "number": "2"},
+     {"issue-date": "1936-03", "volume": "64", "number": "3"},
+     {"issue-date": "1936-04", "volume": "64", "number": "4"},
+     {"issue-date": "1936-05", "volume": "64", "number": "5"},
+     {"issue-date": "1936-06", "volume": "64", "number": "6"},
+     {"issue-date": "1936-07", "volume": "65", "number": "1"},
+     {"issue-date": "1936-08", "volume": "65", "number": "2"},
+     {"issue-date": "1936-09", "volume": "65", "number": "3"}
    ],
-   "comment": "Pick up issue renewals with 1962 Jan-Jun",
+   "comment": "Pick up issue renewals with 1964",
    "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
        {"issue": {"issue-date": "1932-11"},
@@ -296,5 +318,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-04-16"
+   "last-updated": "2025-05-27"
 }

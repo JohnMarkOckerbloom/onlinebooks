@@ -87,7 +87,7 @@
       {"issue-date": "1935-05", "volume": "98", "number": "5"},
       {"issue-date": "1935-06", "volume": "98", "number": "6"}
    ],
-   "renewed-contribution-completeness": "active/1930",
+   "renewed-contribution-completeness": "active/1931",
    "renewed-contributions": [
      {"issue": {"issue-date": "1930-02", "volume": "88", "number": "2"},
       "title": "War Nurse",
@@ -799,6 +799,13 @@
       }
      },
      {"issue": {"issue-date": "1931-06", "volume": "90", "number": "6"},
+      "title": "Dogmeat",
+      "author": {
+       "authorized": "Kyne, Peter B. (Peter Bernard), 1880-1957",
+       "lcna": "n86111479"
+      }
+     },
+     {"issue": {"issue-date": "1931-06", "volume": "90", "number": "6"},
       "title": "Scaramouch, the Kingmaker",
       "title-note": "part 3 of 7",
       "author": {
@@ -881,6 +888,13 @@
        "lcna": "n80051885"
       }
      },
+     {"issue": {"issue-date": "1931-08", "volume": "91", "number": "2"},
+       "title": "A Mutiny",
+       "author": {
+         "authorized": "Thomason, John W., Jr. (John William), 1893-1944",
+         "lcna": "n83130300"
+       }
+     },
      {"issue": {"issue-date": "1931-09", "volume": "91", "number": "3"},
       "title": "The Arranways Mystery",
       "title-note": "part 1 of 5",
@@ -918,6 +932,13 @@
       "author": {
        "authorized": "Sabatini, Rafael, 1875-1950",
        "lcna": "n50016255"
+      }
+     },
+     {"issue": {"issue-date": "1931-09", "volume": "91", "number": "3"},
+      "title": "A Slow Train Through Arizona",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
       }
      },
      {"issue": {"issue-date": "1931-10", "volume": "91", "number": "4"},
@@ -989,6 +1010,20 @@
       }
      },
      {"issue": {"issue-date": "1931-11", "volume": "91", "number": "5"},
+      "title": "The Candor of Don Juan",
+       "author": {
+         "authorized": "Erskine, John, 1879-1951",
+         "lcna": "n50012296"
+       }
+     },
+     {"issue": {"issue-date": "1931-11", "volume": "91", "number": "5"},
+      "title": "What a Haircut",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
+     {"issue": {"issue-date": "1931-11", "volume": "91", "number": "5"},
       "title": "Skyscraper",
       "title-note": "part 6 of 6",
       "author": {
@@ -1002,6 +1037,14 @@
          "authorized": "Runyon, Damon, 1880-1946",
          "lcna": "n80049533"
        }
+     },
+     {"issue": {"issue-date": "1931-12", "volume": "91", "number": "6"},
+      "title": "Spawn of the North",
+      "title-note": "part 1 of 6",
+      "author": {
+         "authorized": "Willoughby, Barrett, -1959",
+         "lcna": "n94074965"
+      }
      },
      {"issue": {"issue-date": "1931-12", "volume": "91", "number": "6"},
       "title": "No Foolin'",
@@ -1027,19 +1070,327 @@
       }
      },
      {"issue": {"issue-date": "1932-01", "volume": "92", "number": "1"},
+      "title": "Spawn of the North",
+      "title-note": "part 2 of 6",
+      "author": {
+         "authorized": "Willoughby, Barrett, -1959",
+         "lcna": "n94074965"
+      }
+     },
+     {"issue": {"issue-date": "1932-01", "volume": "92", "number": "1"},
+      "title": "Jungle War",
+      "author": {
+       "authorized": "Gill, Tom, 1891-1972",
+       "lcna": "no90026181"
+      }
+     },
+     {"issue": {"issue-date": "1932-01", "volume": "92", "number": "1"},
+      "title": "Static",
+      "title-note": "part 3 of 6",
+      "author": {
+         "authorized": "Hughes, Rupert, 1872-1956",
+         "lcna": "n86012047"
+       }
+     },
+     {"issue": {"issue-date": "1932-01", "volume": "92", "number": "1"},
       "title": "The Arranways Mystery",
       "title-note": "part 5 of 5",
       "author": {
         "authorized": "Wallace, Edgar, 1875-1932",
         "lcna": "n80034938"
       }
+     },
+     {"issue": {"issue-date": "1932-01", "volume": "92", "number": "1"},
+      "title": "What G. B. S. Saw in Red Russia",
+      "author": {
+        "authorized": "Shaw, Bernard, 1856-1950",
+        "lcna": "n79006533"
+      }
+     },
+     {"issue": {"issue-date": "1932-02", "volume": "92", "number": "2"},
+      "title": "Spawn of the North",
+      "title-note": "part 3 of 6",
+      "author": {
+         "authorized": "Willoughby, Barrett, -1959",
+         "lcna": "n94074965"
+      }
+     },
+     {"issue": {"issue-date": "1932-02", "volume": "92", "number": "2"},
+      "title": "The Temptation of Neal MacAdam",
+      "author": {
+       "authorized": "Maugham, W. Somerset (William Somerset), 1874-1965",
+       "lcna": "n79036830"
+      }
+     },
+     {"issue": {"issue-date": "1932-02", "volume": "92", "number": "2"},
+       "title": "A Pale Angel and the String of Pearls",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1932-02", "volume": "92", "number": "2"},
+      "title": "Static",
+      "title-note": "part 4 of 6",
+      "author": {
+         "authorized": "Hughes, Rupert, 1872-1956",
+         "lcna": "n86012047"
+       }
+     },
+     {"issue": {"issue-date": "1932-03", "volume": "92", "number": "3"},
+      "title": "Glamour",
+      "author": {
+       "authorized": "Ferber, Edna, 1887-1968",
+       "lcna": "n79077439"
+       }
+     },
+     {"issue": {"issue-date": "1932-03", "volume": "92", "number": "3"},
+       "title": "The Girl Who Knew Everybody",
+       "author": {
+         "authorized": "Bromfield, Louis, 1896-1956",
+         "lcna": "n80040365"
+       }
+     },
+     {"issue": {"issue-date": "1932-03", "volume": "92", "number": "3"},
+      "title": "Spawn of the North",
+      "title-note": "part 4 of 6",
+      "author": {
+         "authorized": "Willoughby, Barrett, -1959",
+         "lcna": "n94074965"
+      }
+     },
+     {"issue": {"issue-date": "1932-03", "volume": "92", "number": "3"},
+      "title": "Static",
+      "title-note": "part 5 of 6",
+      "author": {
+         "authorized": "Hughes, Rupert, 1872-1956",
+         "lcna": "n86012047"
+       }
+     },
+     {"issue": {"issue-date": "1932-03", "volume": "92", "number": "3"},
+      "title": "No Good",
+      "author": {
+        "authorized": "Beach, Rex, 1877-1949",
+        "lcna": "n84804866"
+      }
+     },
+     {"issue": {"issue-date": "1932-03", "volume": "92", "number": "3"},
+      "title": "Flying the Mail",
+      "title-note": "installment",
+      "author": {
+        "authorized": "Rogers, Bogart",
+        "lcna": "no90004639"
+      }
+     },
+     {"issue": {"issue-date": "1932-04", "volume": "92", "number": "4"}, 
+       "title": "His Apologies",
+       "author": {
+         "authorized": "Kipling, Rudyard, 1865-1936",
+         "lcna": "n79103792"
+       }
+     },
+     {"issue": {"issue-date": "1932-04", "volume": "92", "number": "4"}, 
+      "title": "The Freak Hand",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1932-04", "volume": "92", "number": "4"}, 
+      "title": "Spawn of the North",
+      "title-note": "part 5 of 6",
+      "author": {
+         "authorized": "Willoughby, Barrett, -1959",
+         "lcna": "n94074965"
+      }
+     },
+     {"issue": {"issue-date": "1932-04", "volume": "92", "number": "4"}, 
+      "title": "Static",
+      "title-note": "part 6 of 6",
+      "author": {
+         "authorized": "Hughes, Rupert, 1872-1956",
+         "lcna": "n86012047"
+       }
+     },
+     {"issue": {"issue-date": "1932-04", "volume": "92", "number": "4"}, 
+      "title": "Flying the Mail",
+      "title-note": "installment",
+      "author": {
+        "authorized": "Rogers, Bogart",
+        "lcna": "no90004639"
+      }
+     },
+     {"issue": {"issue-date": "1932-05", "volume": "92", "number": "5"}, 
+      "title": "God Made Little Apples",
+       "author": {
+         "authorized": "Hurst, Fannie, 1889-1968",
+         "lcna": "n80010314"
+       }
+     },
+     {"issue": {"issue-date": "1932-05", "volume": "92", "number": "5"}, 
+       "title": "Riches can Take Wings",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1932-05", "volume": "92", "number": "5"}, 
+      "title": "Secondary Wife",
+      "author": {
+       "authorized": "Weiman, Rita, 1889-1954",
+       "lcna": "n89129751"
+      }
+     },
+     {"issue": {"issue-date": "1932-05", "volume": "92", "number": "5"}, 
+      "title": "Spawn of the North",
+      "title-note": "part 6 of 6",
+      "author": {
+         "authorized": "Willoughby, Barrett, -1959",
+         "lcna": "n94074965"
+      }
+     },
+     {"issue": {"issue-date": "1932-05", "volume": "92", "number": "5"}, 
+      "title": "Flying the Mail",
+      "title-note": "installment",
+      "author": {
+        "authorized": "Rogers, Bogart",
+        "lcna": "no90004639"
+      }
+     },
+     {"issue": {"issue-date": "1932-06", "volume": "92", "number": "6"}, 
+        "title": "About the Disappearance of Agatha King",
+        "note": "Author is Fulton Oursler writing under a pseudonym.",
+        "author": {
+         "authorized": "Abbot, Anthony, 1893-1952",
+         "lcna": "no96008114"
+        }
+     },
+     {"issue": {"issue-date": "1932-06", "volume": "92", "number": "6"}, 
+      "title": "Flying the Mail",
+      "title-note": "installment",
+      "author": {
+        "authorized": "Rogers, Bogart",
+        "lcna": "no90004639"
+      }
+     },
+     {"issue": {"issue-date": "1932-07", "volume": "93", "number": "1"},
+      "title": "The Lost Wagon Train",
+      "title-note": "part 1 of 4",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1932-07", "volume": "93", "number": "1"},
+      "title": "They Brought Their Women",
+      "author": {
+       "authorized": "Ferber, Edna, 1887-1968",
+       "lcna": "n79077439"
+       }
+     },
+     {"issue": {"issue-date": "1932-07", "volume": "93", "number": "1"},
+      "title": "Yes, We All Do What We Want To",
+      "author": {
+         "authorized": "Kilbourne, Fannie, 1890-",
+         "lcna": "no93026233"
+       }
+     },
+     {"issue": {"issue-date": "1932-07", "volume": "93", "number": "1"},
+       "title": "A Present for Miss Graykin",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1932-08", "volume": "93", "number": "2"},
+      "title": "Are You Happy? If Not, Consult Mr. Parker Pyne",
+      "author": {
+         "authorized": "Christie, Agatha, 1890-1976",
+         "lcna": "n79038407"
+       }
+     },
+     {"issue": {"issue-date": "1932-08", "volume": "93", "number": "2"},
+      "title": "The Lost Wagon Train",
+      "title-note": "part 2 of 4",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1932-08", "volume": "93", "number": "2"},
+      "title": "The Pain Killer",
+      "author": {
+        "authorized": "Beach, Rex, 1877-1949",
+        "lcna": "n84804866"
+      }
+     },
+     {"issue": {"issue-date": "1932-09", "volume": "93", "number": "3"},
+      "title": "The Lost Wagon Train",
+      "title-note": "part 3 of 4",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1932-10", "volume": "93", "number": "4"},
+      "title": "The Narrow Corner",
+      "title-note": "part 1 of 3",
+      "author": {
+       "authorized": "Maugham, W. Somerset (William Somerset), 1874-1965",
+       "lcna": "n79036830"
+      }
+     },
+     {"issue": {"issue-date": "1932-10", "volume": "93", "number": "4"},
+      "title": "The Lost Wagon Train",
+      "title-note": "part 4 of 4",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1932-11", "volume": "93", "number": "5"},
+      "title": "The Narrow Corner",
+      "title-note": "part 2 of 3",
+      "author": {
+       "authorized": "Maugham, W. Somerset (William Somerset), 1874-1965",
+       "lcna": "n79036830"
+      }
+     },
+     {"issue": {"issue-date": "1932-11", "volume": "93", "number": "5"},
+      "title": "Fox Fire",
+      "author": {
+        "authorized": "Beach, Rex, 1877-1949",
+        "lcna": "n84804866"
+      }
+     },
+     {"issue": {"issue-date": "1932-11", "volume": "93", "number": "5"},
+      "title": "My San Francisco",
+      "author": {
+       "authorized": "Norris, Kathleen Thompson, 1880-1966",
+       "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1932-12", "volume": "93", "number": "6"},
+      "title": "Long, Long Trail",
+      "author": {
+       "authorized": "Duganne, Phyllis, 1899-1976",
+       "lcna": "n90719514"
+      }
+     },
+     {"issue": {"issue-date": "1932-12", "volume": "93", "number": "6"},
+      "title": "The Narrow Corner",
+      "title-note": "part 3 of 3",
+      "author": {
+       "authorized": "Maugham, W. Somerset (William Somerset), 1874-1965",
+       "lcna": "n79036830"
+      }
      }
    ],
-   "comment": "For contribution renewals, pick up at 1959 Jan-Jun after 'Hearst' check",
+   "comment": "For contribution renewals, pick up at 1960 Jan-Jun; also do 'Hearst' check",
    "additional-note": "Absorbed Hearst's International in March 1925, and from then until 1952 published as 'Hearst's International and Cosmopolitan' or 'Hearst's International Combined with Cosmopolitan'.  However, 'Cosmopolitan' was the more prominently featured part of the title, and was generally used as the magazine's short title.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-01-03"
+   "last-updated": "2025-05-28"
 }

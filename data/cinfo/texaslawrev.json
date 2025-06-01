@@ -6,9 +6,20 @@
    "first-renewed-issue-source": "1962-JulDec",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
+   "renewed-issue-completeness": "active/1935",
+   "renewed-issues": [
+      {"cdate": "1934-12-22", "volume": "13", "number": "1"},
+      {"cdate": "1935-02-21", "volume": "13", "number": "2"},
+      {"cdate": "1935-04-30", "volume": "13", "number": "3"},
+      {"cdate": "1935-07-17", "volume": "13", "number": "4"},
+      {"issue-date": "1935-12", "volume": "14", "number": "1"},
+      {"issue-date": "1936-02", "volume": "14", "number": "2"},
+      {"issue-date": "1936-04", "volume": "14", "number": "3"},
+      {"issue-date": "1936-06", "volume": "14", "number": "4"}
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-02-04"
+   "last-updated": "2025-05-27"
 }

@@ -9,11 +9,11 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1930-01"}},
+     {"issue": {"issue-date": "1930-01", "volume": "79", "number": "469"}},
    "first-renewed-contribution-source": "1957-JanJun",
-   "renewed-contribution-completeness": "active/1930",
+   "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1930-01"},
+     {"issue": {"issue-date": "1930-01", "volume": "79", "number": "469"},
       "title": "Sergeant Sir Peter's Cases, No. 2: The Desk-Breaker",
       "note": "CCE renewal records for stories in the January 1930 issue give inconsistent copyright dates, some in 1929 and some in 1930. We list renewals for this issue here to be on the safe side, though US copyrights for material in this issue may have expired as of 2025.",
       "author": {
@@ -21,7 +21,7 @@
         "lcna": "n80034938"
       }
      },
-     {"issue": {"issue-date": "1930-01"},
+     {"issue": {"issue-date": "1930-01", "volume": "79", "number": "469"},
       "title": "The Death Scratch",
       "title-note": "part 2 of 6",
       "author": {
@@ -29,14 +29,14 @@
        "lcna": "n85822242"
       }
      },
-     {"issue": {"issue-date": "1930-02"},
+     {"issue": {"issue-date": "1930-02", "volume": "79", "number": "470"},
       "title": "Sergeant Sir Peter's Cases, No. 3: The Inheritor",
       "author": {
         "authorized": "Wallace, Edgar, 1875-1932",
         "lcna": "n80034938"
       }
      },
-     {"issue": {"issue-date": "1930-02"},
+     {"issue": {"issue-date": "1930-02", "volume": "79", "number": "470"},
       "title": "The Death Scratch",
       "title-note": "part 3 of 6",
       "note": "The CCE renewal record gives a copyright date for the second installment, from the January issue, as December 31, 1929.  Copyrights of that date are now expired in the US.",
@@ -45,14 +45,14 @@
        "lcna": "n85822242"
       }
      },
-     {"issue": {"issue-date": "1930-03"},
+     {"issue": {"issue-date": "1930-03", "volume": "79", "number": "471"},
       "title": "Sergeant Sir Peter's Cases, No. 4: Dr. Fifer's Patient",
       "author": {
         "authorized": "Wallace, Edgar, 1875-1932",
         "lcna": "n80034938"
       }
      },
-     {"issue": {"issue-date": "1930-03"},
+     {"issue": {"issue-date": "1930-03", "volume": "79", "number": "471"},
       "title": "The Death Scratch",
       "title-note": "part 4 of 6",
       "author": {
@@ -60,7 +60,7 @@
        "lcna": "n85822242"
       }
      },
-     {"issue": {"issue-date": "1930-04"},
+     {"issue": {"issue-date": "1930-04", "volume": "79", "number": "472"},
       "title": "The Death Scratch",
       "title-note": "part 5 of 6",
       "author": {
@@ -68,14 +68,14 @@
        "lcna": "n85822242"
       }
      },
-     {"issue": {"issue-date": "1930-05"},
+     {"issue": {"issue-date": "1930-05", "volume": "79", "number": "473"},
       "title": "Sergeant Sir Peter's Cases, No. 6: Buried Treasure",
       "author": {
         "authorized": "Wallace, Edgar, 1875-1932",
         "lcna": "n80034938"
       }
      },
-     {"issue": {"issue-date": "1930-05"},
+     {"issue": {"issue-date": "1930-05", "volume": "79", "number": "473"},
       "title": "The Death Scratch",
       "title-note": "part 6 of 6",
       "note": "The CCE renewal record lists this as the last installment. FictionMags also lists a seventh and last installment in the June issue. We have not examined that issue ourselves.",
@@ -84,7 +84,7 @@
        "lcna": "n85822242"
       }
      },
-     {"issue": {"issue-date": "1930-12"},
+     {"issue": {"issue-date": "1930-12", "volume": "80", "number": "480"},
       "title": "The Creaking Door",
       "note": "Title as given in CCE renewal record. FictionMags gives title as 'The Creeping Door'. We have not examined the issue in question.",
       "author": {
@@ -92,27 +92,206 @@
        "lcna": "n85822242"
       }
      },
-     {"issue": {"issue-date": "1931-02"},
+     {"issue": {"issue-date": "1931-02", "volume": "81", "number": "482"},
       "title": "The Haunted Rectory",
       "author": {
        "authorized": "Sapper, 1888-1937",
        "lcna": "n85822242"
       }
      },
-     {"issue": {"issue-date": "1931-06"},
+     {"issue": {"issue-date": "1931-06", "volume": "81", "number": "486"},
       "title": "The Missing Chauffeur",
       "author": {
        "authorized": "Sapper, 1888-1937",
        "lcna": "n85822242"
       }
+     },
+     {"issue": {"issue-date": "1931-08", "volume": "82", "number": "488"},
+      "title": "Bulldog Drummond and the Mystery of the Studio",
+      "title-note": "part 1 of 8",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     },
+     {"issue": {"issue-date": "1931-09", "volume": "82", "number": "489"},
+      "title": "Bulldog Drummond and the Mystery of the Studio",
+      "title-note": "part 2 of 8",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     },
+     {"issue": {"issue-date": "1931-11", "volume": "82", "number": "491"},
+      "title": "The Mystery of the Studio",
+      "title-note": "part 4 of 8",
+      "note": "No renewal was found in the CCE for the October installment. The title in this and later installments is shorter than the initial title.",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     },
+     {"issue": {"issue-date": "1931-12", "volume": "82", "number": "492"},
+      "title": "The Mystery of the Studio",
+      "title-note": "part 5 of 8",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     },
+     {"issue": {"issue-date": "1932-01", "volume": "83", "number": "493"},
+      "title": "The Mystery of the Studio",
+      "title-note": "part 6 of 8",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     },
+     {"issue": {"issue-date": "1932-06", "volume": "83", "number": "498"},
+      "title": "A Matter of Tar",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     },
+     {"issue": {"issue-date": "1932-08", "volume": "84", "number": "500"},
+      "title": "The Empty House",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     },
+     {"issue": {"issue-date": "1932-09", "volume": "84", "number": "501"},
+      "title": "The Man in Yellow",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     },
+     {"issue": {"issue-date": "1933-09", "volume": "86", "number": "513"},
+      "title": "Thank You, Jeeves",
+      "title-note": "chapters 6-8",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1933-10", "volume": "86", "number": "514"},
+      "title": "Thank You, Jeeves",
+      "title-note": "chapters 9-11",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1933-11", "volume": "86", "number": "515"},
+      "title": "Thank You, Jeeves",
+      "title-note": "chapters 12-14",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1933-12", "volume": "86", "number": "516"},
+      "title": "Thank You, Jeeves",
+      "title-note": "chapters 15-17",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1934-01", "volume": "87", "number": "517"},
+      "title": "Thank You, Jeeves",
+      "title-note": "chapters 17 (cont.)-20",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1934-02", "volume": "87", "number": "518"},
+      "title": "Thank You, Jeeves",
+      "title-note": "chapters 20 (cont.)-22",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1935-05", "volume": "89", "number": "533"},
+      "title": "Trouble Down at Tudsleigh",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1936-09", "volume": "91", "number": "549"},
+      "title": "Buried Treasure",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
+     },
+     {"issue": {"issue-date": "1937-10", "volume": "93", "number": "562"},
+      "title": "Bulldog Drummond and the Oriental Mind",
+      "author": {
+       "authorized": "Sapper, 1888-1937",
+       "lcna": "n85822242"
+      }
+     },
+     {"issue": {"issue-date": "1937-11", "volume": "94", "number": "563"},
+      "title": "The Drum",
+      "author": {
+         "authorized": "Mason, A. E. W. (Alfred Edward Woodley), 1865-1948",
+         "lcna": "n50043662"
+       }
+     },
+     {"issue": {"issue-date": "1939-10", "volume": "97", "number": "586"}, 
+      "title": "The Bottle Party",
+      "author": {
+       "authorized": "Bailey, H. C. (Henry Christopher), 1878-1961",
+       "lcna": "no95019606"
+      }
+     },
+     {"issue": {"issue-date": "1940-02", "volume": "98", "number": "590"}, 
+      "title": "The Blue Paint",
+      "author": {
+       "authorized": "Bailey, H. C. (Henry Christopher), 1878-1961",
+       "lcna": "no95019606"
+      }
+     },
+     {"issue": {"issue-date": "1940-03", "volume": "98", "number": "591"}, 
+      "title": "The Point of the Knife",
+      "author": {
+       "authorized": "Bailey, H. C. (Henry Christopher), 1878-1961",
+       "lcna": "no95019606"
+      }
+     },
+     {"issue": {"issue-date": "1940-04", "volume": "98", "number": "592"}, 
+      "title": "The Secret Fear",
+      "author": {
+         "authorized": "Mason, A. E. W. (Alfred Edward Woodley), 1865-1948",
+         "lcna": "n50043662"
+       }
+     },
+     {"issue": {"issue-date": "1940-04", "volume": "98", "number": "592"}, 
+      "title": "Primrose Petals",
+      "author": {
+       "authorized": "Bailey, H. C. (Henry Christopher), 1878-1961",
+       "lcna": "no95019606"
+      }
+     },
+     {"issue": {"issue-date": "1940-07", "volume": "99", "number": "595"},
+      "title": "Dudley is Back to Normal",
+      "author": {
+         "authorized": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+         "lcna": "n78089036"
+       }
      }
    ],
-    "comment": "We have NOT put in all renewals filed in 1958, but the only ones we haven't put in are from 1931.",
    "additional-note":
     "This is a British publication.  Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-01-07"
+   "last-updated": "2025-05-30"
 }

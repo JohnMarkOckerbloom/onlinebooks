@@ -13,10 +13,21 @@
    "first-renewed-contribution-source": "cce",
    "last-issue":
      {"issue-date": "1936-06", "volume": "1", "number": "6"},
+   "renewed-issue-completeness": "active/end",
+   "renewed-issues": [
+     {"issue-date": "1935-11", "volume": "1", "number": "1"},
+     {"issue-date": "1935-12", "volume": "1", "number": "2"},
+     {"issue-date": "1936-01", "volume": "1", "number": "3",
+      "cdate": "1935-12-18"},
+     {"issue-date": "1936-02", "volume": "1", "number": "4",
+      "cdate": "1936-01-15"},
+     {"issue-date": "1936-03", "volume": "1", "number": "5"},
+     {"issue-date": "1936-06", "volume": "1", "number": "6"}
+   ],
    "additional-note": "This publication included adaptations of scripts of movies that may have their own copyrights.  We have not checked the status of the movie copyrights.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-10-16"
+   "last-updated": "2025-05-27"
 }

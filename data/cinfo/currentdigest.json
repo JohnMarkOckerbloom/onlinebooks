@@ -10,7 +10,7 @@
    "preceded-by":
      [{"id": "americandigest",
        "note": "American Digest (Monthly advance sheets, Key number series)"}],
-   "renewed-issue-completeness": "active/1933",
+   "renewed-issue-completeness": "active/1934",
    "renewed-issues": [
      {"issue-date": "1929-12", "number": "471", "cdate": "1930-01-04"},
      {"issue-date": "1929", "volume": "4", "number": "Annual edition",
@@ -72,22 +72,30 @@
      {"issue-date": "1933-10", "number": "513"},
      {"issue-date": "1933-11", "number": "514"},
      {"issue-date": "1933-12", "number": "515"},
-     {"issue-date": "1933-June 1 - December 31,", "volume": "11"},
+     {"issue-date": "1933-June 1 - December 31,", "volume": "11",
+      "cdate": "1934-02-26"},
      {"issue-date": "1934-01", "number": "516"},
      {"issue-date": "1934-02", "number": "517"},
      {"issue-date": "1934-03", "number": "518"},
      {"issue-date": "1934-04", "number": "519"},
      {"issue-date": "1934-05", "number": "520"},
-     {"issue-date": "1934-January 1 - May 31,", "volume": "11"},
+     {"issue-date": "1934-January 1 - May 31,", "volume": "12"},
      {"issue-date": "1934-06", "number": "521"},
      {"issue-date": "1934-07", "volume": "13", "number": "1"},
      {"issue-date": "1934-August-September", "volume": "13", "number": "2"},
-     {"issue-date": "1934-June 1 - December 31,", "volume": "13"}
+     {"issue-date": "1934-June 1 - December 31,", "volume": "13",
+      "cdate": "1935-02-26"},
+     {"issue-date": "1935-04", "volume": "14", "number": "3"},
+     {"issue-date": "1935-05", "volume": "14", "number": "4"},
+     {"issue-date": "1935-06", "volume": "14", "number": "5"},
+     {"issue-date": "1935-January 1 - May 31,", "volume": "14"},
+     {"issue-date": "1935-07", "volume": "15", "number": "1"},
+     {"issue-date": "1935-August-September", "volume": "15", "number": "2"}
    ],
    "additional-note": "The monthly issues are usually renewed under Periodicals, with some described as 'monthly advance sheets, key number series'. The annual and semi-annual editions are renewed under Books, as are a number of index volumes not covered here.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-04-16"
+   "last-updated": "2025-05-27"
 }

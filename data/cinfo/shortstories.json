@@ -119,7 +119,7 @@
       "cdate": "1934-01-10"}
    ],
    "comment": "Resume issue renewal search with registered works database",
-   "renewed-contribution-completeness": "active/1930",
+   "renewed-contribution-completeness": "active/1931",
    "renewed-contributions": [
      {"issue": {"issue-date": "1930-01-25", "volume": "130", "number": "2"},
       "title": "The Valiant",
@@ -467,7 +467,7 @@
       }
      },
      {"issue": {"issue-date": "1931-09-10", "volume": "136", "number": "5"},
-      "title": "Corposal Downey Takes the Trail",
+      "title": "Corporal Downey Takes the Trail",
       "title-note": "part 1 of 3?",
       "author": {
          "authorized": "Hendryx, James B. (James Beardsley), 1880-1963",
@@ -475,7 +475,7 @@
        }
      },
      {"issue": {"issue-date": "1931-09-25", "volume": "136", "number": "6"},
-      "title": "Corposal Downey Takes the Trail",
+      "title": "Corporal Downey Takes the Trail",
       "title-note": "part 2 of 3?",
       "author": {
          "authorized": "Hendryx, James B. (James Beardsley), 1880-1963",
@@ -483,7 +483,7 @@
        }
      },
      {"issue": {"issue-date": "1931-10-10", "volume": "137", "number": "1"},
-      "title": "Corposal Downey Takes the Trail",
+      "title": "Corporal Downey Takes the Trail",
       "title-note": "part 3 of 3?",
       "author": {
          "authorized": "Hendryx, James B. (James Beardsley), 1880-1963",
@@ -521,12 +521,112 @@
          "authorized": "Young, Gordon, 1886-1948",
          "lcna": "no95047273"
       }
+     },
+     {"issue": {"issue-date": "1932-02-10", "volume": "138", "number": "3"},
+      "title": "Sundown",
+      "author": {
+       "authorized": "Drago, Harry Sinclair, 1888-1979",
+       "lcna": "n50029850"
+      }
+     },
+     {"issue": {"issue-date": "1932-03-10", "volume": "138", "number": "5"},
+      "title": "Gone Bad. The Black Tolts",
+      "title-note": "part 1",
+      "note": "Published in Short Stories as 'Gone Bad'. 'The Black Tolts' may be the title of the book version.  Only the first and last parts that ran in Short Stories have contribution renewals, but there is also a book renewal for the book 'The Black Tolts'.",
+      "author": {
+         "authorized": "Raine, William MacLeod, 1871-1954",
+         "lcna": "n90682348"
+      }
+     },
+     {"issue": {"issue-date": "1932-04-10", "volume": "139", "number": "1"},
+      "title": "Bad Boy",
+      "author": {
+       "authorized": "Drago, Harry Sinclair, 1888-1979",
+       "lcna": "n50029850"
+      }
+     },
+     {"issue": {"issue-date": "1932-04-25", "volume": "139", "number": "2"},
+      "title": "Gone Bad. The Black Tolts",
+      "title-note": "conclusion",
+      "note": "'The Black Tolts' may be the title of the book version; the Short Stories serialization appears to have been published as 'Gone Bad'.  Only the first and last parts that ran in Short Stories have contribution renewals, but there is also a book renewal for the book 'The Black Tolts'.",
+      "author": {
+         "authorized": "Raine, William MacLeod, 1871-1954",
+         "lcna": "n90682348"
+      }
+     },
+     {"issue": {"issue-date": "1932-05-25", "volume": "139", "number": "4"},
+      "title": "Blizzard Camp",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1932-06-10", "volume": "139", "number": "5"},
+      "title": "Wilson's Dog",
+      "author": {
+       "authorized": "Case, Robert Ormond, 1895-1964",
+       "lcna": "no95027451"
+      }
+     },
+     {"issue": {"issue-date": "1932-07-10", "volume": "140", "number": "1"},
+      "title": "Whispering Valley",
+      "title-note": "part 1 of 4",
+      "author": {
+       "authorized": "Case, Robert Ormond, 1895-1964",
+       "lcna": "no95027451"
+      }
+     },
+     {"issue": {"issue-date": "1932-07-25", "volume": "140", "number": "2"},
+      "title": "Whispering Valley",
+      "title-note": "part 2 of 4",
+      "author": {
+       "authorized": "Case, Robert Ormond, 1895-1964",
+       "lcna": "no95027451"
+      }
+     },
+     {"issue": {"issue-date": "1932-07-25", "volume": "140", "number": "2"},
+      "title": "Trial by Bottle",
+      "note": "Title as given in CCE renewal record. FictionMags gives title as 'Trial by Battle'.  We have not examined the issue in question.",
+      "author": {
+         "authorized": "Pinkerton, Robert E. (Robert Eugene), 1882-1970",
+         "lcna": "no2003073197"
+       }
+     },
+     {"issue": {"issue-date": "1932-08-10", "volume": "140", "number": "3"},
+      "title": "Whispering Valley",
+      "title-note": "part 3 of 4",
+      "author": {
+       "authorized": "Case, Robert Ormond, 1895-1964",
+       "lcna": "no95027451"
+      }
+     },
+     {"issue": {"issue-date": "1932-08-25", "volume": "140", "number": "4"},
+      "title": "Calk Shoed Dynamite",
+      "author": {
+         "authorized": "Pinkerton, Robert E. (Robert Eugene), 1882-1970",
+         "lcna": "no2003073197"
+       }
+     },
+     {"issue": {"issue-date": "1932-08-25", "volume": "140", "number": "4"},
+      "title": "Whispering Valley",
+      "title-note": "part 4 of 4",
+      "author": {
+       "authorized": "Case, Robert Ormond, 1895-1964",
+       "lcna": "no95027451"
+      }
+     },
+     {"issue": {"issue-date": "1932-09-25", "volume": "140", "number": "6"},
+      "title": "Crossroads",
+      "author": {
+       "authorized": "Case, Robert Ormond, 1895-1964",
+       "lcna": "no95027451"
+      }
      }
    ],
-   "comment": "For more contributions, start with 1959 JanJun",
+   "comment": "For more contributions, start with 1959 JulDec",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-01-07"
+   "last-updated": "2025-05-31"
 }

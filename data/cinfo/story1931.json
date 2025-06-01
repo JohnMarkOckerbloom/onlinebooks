@@ -12,6 +12,21 @@
    "first-renewed-contribution": 
      {"issue":{"issue-date": "1933-02", "volume": "2", "number": "11"}},
    "first-renewed-contribution-source": "1960-JanJun",
+   "renewed-issue-completeness": "active/1934",
+   "renewed-issues": [
+     {"issue-date": "1934-11", "volume": "5", "number": "28"},
+     {"issue-date": "1934-12", "volume": "5", "number": "29"},
+     {"issue-date": "1935-01", "volume": "6", "number": "30",
+      "cdate": "1934-12-15"},
+     {"issue-date": "1935-02", "volume": "6", "number": "31",
+      "cdate": "1935-01-15"},
+     {"issue-date": "1935-03", "volume": "6", "number": "32"},
+     {"issue-date": "1935-04", "volume": "6", "number": "33"},
+     {"issue-date": "1935-05", "volume": "6", "number": "34"},
+     {"issue-date": "1935-06", "volume": "6", "number": "35"},
+     {"issue-date": "1935-07", "volume": "7", "number": "36"},
+     {"issue-date": "1935-08", "volume": "7", "number": "37"}
+   ],
    "additional-notes": [
      "Before moving to New York in mid-1933, this was a European publication. Contents of the European issues may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US.",
      "Some contributions to this magazine were also published in copyright-renewed collections, the first being 'A Story Anthology, 1931-1933', copyrighted in 1933 and renewed in 1960.  Copyrights to some stories reprinted in that anthology might be covered by that renewal, as might copyrights to some stories reprinted in later copyright-renewed collections."
@@ -20,5 +35,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-10-02"
+   "last-updated": "2025-05-27"
 }

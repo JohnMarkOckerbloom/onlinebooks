@@ -5,10 +5,16 @@
    "first-renewed-issue-source": "1962-JulDec",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
+   "renewed-issue-completeness": "active/1935",
+   "renewed-issues": [
+     {"issue-date": "1935-10", "volume": "2", "number": "1"},
+     {"issue-date": "1935-11", "volume": "2", "number": "2"},
+     {"issue-date": "1935-12", "volume": "2", "number": "3"}
+   ],
    "additional-note": "Renewals for 1939 issues are reported in the Books volume of CCE.  We are not sure when the magazine ceased publication.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-05-09"
+   "last-updated": "2025-05-27"
 }

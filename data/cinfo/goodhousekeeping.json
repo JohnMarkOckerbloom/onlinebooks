@@ -13,7 +13,7 @@
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1930-02", "volume": "90", "number": "2"}},
    "first-renewed-contribution-source": "1957-JanJun",
-   "renewed-issue-completeness": "active/1933",
+   "renewed-issue-completeness": "active/1934",
    "renewed-issues": [
      {"issue-date": "1930-02", "volume": "90", "number": "2",
       "cdate": "1930-01-23"},
@@ -62,9 +62,22 @@
      {"issue-date": "1933-10", "volume": "97", "number": "4"},
      {"issue-date": "1933-11", "volume": "97", "number": "5"},
      {"issue-date": "1933-12", "volume": "97", "number": "6"},
-     {"issue-date": "1934-01", "volume": "98", "number": "1"}
+     {"issue-date": "1934-01", "volume": "98", "number": "1"},
+     {"issue-date": "1934-02", "volume": "98", "number": "2"},
+     {"issue-date": "1934-03", "volume": "98", "number": "3"},
+     {"issue-date": "1934-04", "volume": "98", "number": "4"},
+     {"issue-date": "1934-05", "volume": "98", "number": "5"},
+     {"issue-date": "1934-06", "volume": "98", "number": "6"},
+     {"issue-date": "1934-07", "volume": "99", "number": "1"},
+     {"issue-date": "1934-08", "volume": "99", "number": "2"},
+     {"issue-date": "1934-09", "volume": "99", "number": "3"},
+     {"issue-date": "1934-10", "volume": "99", "number": "4"},
+     {"issue-date": "1934-11", "volume": "99", "number": "5"},
+     {"issue-date": "1934-12", "volume": "99", "number": "6"},
+     {"issue-date": "1935-01", "volume": "100", "number": "1",
+      "cdate": "1934-12-24"}
    ],
-   "renewed-contribution-completeness": "active/1930",
+   "renewed-contribution-completeness": "active/1931",
    "renewed-contributions": [
      {"issue": {"issue-date": "1930-02", "volume": "90", "number": "2"},
       "title": "The Fool of the Family",
@@ -355,6 +368,14 @@
        "lcna": "no2007059420"
       }
      },
+     {"issue": {"issue-date": "1931-04", "volume": "92", "number": "4"},
+      "title": "Murder at Hazelmoor",
+      "title-note": "part 1 of 5",
+      "author": {
+         "authorized": "Christie, Agatha, 1890-1976",
+         "lcna": "n79038407"
+       }
+     },
     {"issue": {"issue-date": "1931-05", "volume": "92", "number": "5"},
       "title": "Girl Alive",
       "title-note": "part 6 of 6",
@@ -371,6 +392,14 @@
        "lcna": "n78078535"
       }
      },
+     {"issue": {"issue-date": "1931-05", "volume": "92", "number": "5"},
+      "title": "Murder at Hazelmoor",
+      "title-note": "part 2 of 5",
+      "author": {
+         "authorized": "Christie, Agatha, 1890-1976",
+         "lcna": "n79038407"
+       }
+     },
     {"issue": {"issue-date": "1931-06", "volume": "92", "number": "6"},
       "title": "The Deputy at Snow Mountain",
       "title-note": "part 1 of 6",
@@ -379,6 +408,14 @@
        "lcna": "nr95034360"
       }
     },
+    {"issue": {"issue-date": "1931-06", "volume": "92", "number": "6"},
+      "title": "Murder at Hazelmoor",
+      "title-note": "part 3 of 5",
+      "author": {
+         "authorized": "Christie, Agatha, 1890-1976",
+         "lcna": "n79038407"
+       }
+     },
     {"issue": {"issue-date": "1931-07", "volume": "93", "number": "1"},
       "title": "The Deputy at Snow Mountain",
       "title-note": "part 2 of 6",
@@ -387,6 +424,14 @@
        "lcna": "nr95034360"
       }
     },
+    {"issue": {"issue-date": "1931-07", "volume": "93", "number": "1"},
+      "title": "Murder at Hazelmoor",
+      "title-note": "part 4 of 5",
+      "author": {
+         "authorized": "Christie, Agatha, 1890-1976",
+         "lcna": "n79038407"
+       }
+     },
     {"issue": {"issue-date": "1931-08", "volume": "93", "number": "2"},
       "title": "The Deputy at Snow Mountain",
       "title-note": "part 3 of 6",
@@ -401,6 +446,14 @@
        "authorized": "Squier, Emma-Lindsay, 1892-1941",
        "lcna": "no2007059420"
       }
+     },
+    {"issue": {"issue-date": "1931-08", "volume": "93", "number": "2"},
+      "title": "Murder at Hazelmoor",
+      "title-note": "part 5 of 5",
+      "author": {
+         "authorized": "Christie, Agatha, 1890-1976",
+         "lcna": "n79038407"
+       }
      },
     {"issue": {"issue-date": "1931-09", "volume": "93", "number": "3"},
       "title": "The Deputy at Snow Mountain",
@@ -447,13 +500,104 @@
        "authorized": "Marshall, Edison, 1894-1967",
        "lcna": "nr95034360"
       }
+    },
+     {"issue": {"issue-date": "1931-12", "volume": "93", "number": "6"},
+     "title": "The Red Glass Bowl",
+     "author": {
+      "authorized": "Jackson, Margaret Weymouth",
+      "lcna": "no94014713"
+     }
+    },
+    {"issue": {"issue-date": "1932-01", "volume": "94", "number": "1"},
+     "title": "Pilgrims to the Sunset",
+     "title-note": "part 1 of 3",
+     "note": "Title as given in CCE renewal record.",
+     "author": {
+         "authorized": "Hughes, Rupert, 1872-1956",
+         "lcna": "n86012047"
+     }
+    },
+    {"issue": {"issue-date": "1932-01", "volume": "94", "number": "1"},
+     "title": "Security",
+     "author": {
+         "authorized": "Pickering, James S. (James Sayre)",
+         "lcna": "n87804124"
+     }
+    },
+    {"issue": {"issue-date": "1932-01", "volume": "94", "number": "1"},
+      "title": "Condor",
+      "author": {
+       "authorized": "Squier, Emma-Lindsay, 1892-1941",
+       "lcna": "no2007059420"
+      }
+     },
+    {"issue": {"issue-date": "1932-02", "volume": "94", "number": "2"},
+     "title": "Pilgrims in the Sunset",
+     "title-note": "part 2 of 3",
+     "note": "Title as given in CCE renewal record.",
+     "author": {
+         "authorized": "Hughes, Rupert, 1872-1956",
+         "lcna": "n86012047"
+     }
+    },
+    {"issue": {"issue-date": "1932-03", "volume": "94", "number": "3"},
+     "title": "Pilgrims in the Sunset",
+     "title-note": "part 3 of 3",
+     "note": "Title as given in CCE renewal record.",
+     "author": {
+         "authorized": "Hughes, Rupert, 1872-1956",
+         "lcna": "n86012047"
+     }
+    },
+    {"issue": {"issue-date": "1932-05", "volume": "94", "number": "5"},
+     "title": "Prairie Flower",
+     "author": {
+      "authorized": "Duganne, Phyllis, 1899-1976",
+      "lcna": "n90719514"
+     }
+    },
+    {"issue": {"issue-date": "1932-06", "volume": "94", "number": "6"},
+     "title": "Governess",
+     "author": {
+      "authorized": "White, Nelia Gardner, 1894-1957",
+      "lcna": "no93013886"
+     }
+    },
+    {"issue": {"issue-date": "1932-07", "volume": "95", "number": "1"},
+       "title": "I Discover America",
+       "author": {
+        "authorized": "Baum, Vicki, 1888-1960",
+        "lcna": "n79135036"
+       }
+    },
+    {"issue": {"issue-date": "1932-12", "volume": "95", "number": "6"},
+       "title": "December 24 Closed",
+       "author": {
+        "authorized": "Baum, Vicki, 1888-1960",
+        "lcna": "n79135036"
+       }
+    },
+    {"issue": {"issue-date": "1932-12", "volume": "95", "number": "6"},
+     "title": "Soul of the East",
+      "author": {
+         "authorized": "Buck, Pearl S. (Pearl Sydenstricker), 1892-1973",
+         "lcna": "n79026662"
+       }
+    },
+    {"issue": {"issue-date": "1933-03", "volume": "96", "number": "3"},
+       "title": "Stop! Look! Listen!",
+       "author": {
+        "authorized": "Bradley, Mary Hastings",
+        "lcna": "no92028910"
+       }
     }
    ],
+   "comment": "Resume contribution renewals w 1960 Jan-Jun (some in, some not)",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
    "acknowledgement": 
       "Thanks to Felice Gollotti for copyright research on this title.",
-   "last-updated": "2025-04-16"
+   "last-updated": "2025-05-27"
 }

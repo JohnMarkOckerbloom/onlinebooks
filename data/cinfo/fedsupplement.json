@@ -5,7 +5,7 @@
    "first-renewed-issue-source": "1960-JanJun",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
-   "renewed-issue-completeness": "active/1933",
+   "renewed-issue-completeness": "active/1934",
    "renewed-issues": [
       {"issue-date": "1932-10-31", "volume": "1", "number": "1"},
       {"issue-date": "1932-11-07", "volume": "1", "number": "2"},
@@ -117,7 +117,38 @@
       {"issue-date": "1934-09-10", "volume": "7", "number": "5"},
       {"issue-date": "1934-09-17", "volume": "7", "number": "6"},
       {"issue-date": "1934-09-24", "volume": "7", "number": "7"},
-      {"issue-date": "1934-10-01", "volume": "7", "number": "8"}
+      {"issue-date": "1934-10-01", "volume": "7", "number": "8"},
+      {"issue-date": "1934-July-October",
+       "volume": "7", "number": "book edition"},
+      {"issue-date": "November 1934 - January 1935",
+       "volume": "8", "number": "book edition"},
+      {"issue-date": "1935-04-08", "volume": "9", "number": "10"},
+      {"issue-date": "1935-04-15", "volume": "9", "number": "11"},
+      {"issue-date": "1935-04-22", "volume": "9", "number": "12"},
+      {"issue-date": "1935-04-29", "volume": "9", "number": "13"},
+      {"issue-date": "1935-February-April",
+       "volume": "9", "number": "book edition"},
+      {"issue-date": "1935-05-06", "volume": "10", "number": "1"},
+      {"issue-date": "1935-05-13", "volume": "10", "number": "2"},
+      {"issue-date": "1935-05-20", "volume": "10", "number": "3"},
+      {"issue-date": "1935-05-27", "volume": "10", "number": "4"},
+      {"issue-date": "1935-06-03", "volume": "10", "number": "5"},
+      {"issue-date": "1935-06-10", "volume": "10", "number": "6"},
+      {"issue-date": "1935-06-17", "volume": "10", "number": "7"},
+      {"issue-date": "1935-06-24", "volume": "10", "number": "8"},
+      {"issue-date": "1935-07-01", "volume": "10", "number": "9"},
+      {"issue-date": "1935-07-08", "volume": "10", "number": "10"},
+      {"issue-date": "1935-07-15", "volume": "10", "number": "11"},
+      {"issue-date": "1935-07-22", "volume": "10", "number": "12"},
+      {"issue-date": "1935-07-29", "volume": "10", "number": "13"},
+      {"issue-date": "1935-08-05", "volume": "10", "number": "14"},
+      {"issue-date": "1935-May-August",
+       "volume": "10", "number": "book edition"},
+      {"issue-date": "1935-08-12", "volume": "11", "number": "1"},
+      {"issue-date": "1935-09-09", "volume": "11", "number": "2"},
+      {"issue-date": "1935-09-16", "volume": "11", "number": "3"},
+      {"issue-date": "1935-09-23", "volume": "11", "number": "4"},
+      {"issue-date": "1935-09-30", "volume": "11", "number": "5"}
    ],
    "additional-notes": [
       "Material in this reporter written by US federal courts and agencies is in the public domain.  The publisher may claim copyright on original annotations and other commentary it adds to the US government's work.",
@@ -127,5 +158,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-04-16"
+   "last-updated": "2025-05-27"
 }

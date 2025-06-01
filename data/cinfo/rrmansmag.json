@@ -13,7 +13,7 @@
    "first-renewed-contribution": 
       {"issue": {"issue-date": "1930-08"}},
    "first-renewed-contribution-source": "1958-JulDec",
-   "renewed-issue-completeness": "active/1932",
+   "renewed-issue-completeness": "active/1934",
    "renewed-issues": [
       {"issue-date": "1930-02", "series": "2", "volume": "1", "number": "3",
        "cdate": "1930-02-01"},
@@ -69,12 +69,42 @@
       {"issue-date": "1933-09", "series": "2", "volume": "12", "number": "2"},
       {"issue-date": "1933-10", "series": "2", "volume": "12", "number": "3"},
       {"issue-date": "1933-11", "series": "2", "volume": "12", "number": "4"},
-      {"issue-date": "1933-12", "series": "2", "volume": "13", "number": "1"}
+      {"issue-date": "1933-12", "series": "2", "volume": "13", "number": "1"},
+      {"issue-date": "1934-01", "series": "2", "volume": "13", "number": "2",
+       "cdate": "1933-12-01"},
+      {"issue-date": "1934-02", "series": "2", "volume": "13", "number": "3",
+       "cdate": "1933-12-29"},
+      {"issue-date": "1934-03", "series": "2", "volume": "13", "number": "4",
+       "cdate": "1934-02-01"},
+      {"issue-date": "1934-04", "series": "2", "volume": "14", "number": "1"},
+      {"issue-date": "1934-05", "series": "2", "volume": "14", "number": "2"},
+      {"issue-date": "1934-06", "series": "2", "volume": "14", "number": "3"},
+      {"issue-date": "1934-07", "series": "2", "volume": "14", "number": "4"},
+      {"issue-date": "1934-08", "series": "2", "volume": "15", "number": "1"},
+      {"issue-date": "1934-09", "series": "2", "volume": "15", "number": "2"},
+      {"issue-date": "1934-10", "series": "2", "volume": "15", "number": "3"},
+      {"issue-date": "1934-11", "series": "2", "volume": "15", "number": "4"},
+      {"issue-date": "1934-12", "series": "2", "volume": "16", "number": "1"},
+      {"issue-date": "1935-01", "series": "2", "volume": "16", "number": "2",
+       "cdate": "1934-11-30"},
+      {"issue-date": "1935-02", "series": "2", "volume": "16", "number": "3",
+       "cdate": "1934-12-28"},
+      {"issue-date": "1935-03", "series": "2", "volume": "16", "number": "4",
+       "cdate": "1935-02-01"},
+      {"issue-date": "1935-04", "series": "2", "volume": "17", "number": "1"},
+      {"issue-date": "1935-05", "series": "2", "volume": "17", "number": "2"},
+      {"issue-date": "1935-06", "series": "2", "volume": "17", "number": "3"},
+      {"issue-date": "1935-07", "series": "2", "volume": "17", "number": "4"},
+      {"issue-date": "1935-08", "series": "2", "volume": "18", "number": "1"},
+      {"issue-date": "1935-09", "series": "2", "volume": "18", "number": "2"},
+      {"issue-date": "1935-10", "series": "2", "volume": "18", "number": "3"},
+      {"issue-date": "1935-11", "series": "2", "volume": "18", "number": "4"},
+      {"issue-date": "1935-12", "series": "2", "volume": "19", "number": "1"}
    ],
    "additional-note": "The first series ran from 1906 until 1919, when it was absorbed by the Argosy.  The second series began in 1929.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-01-11"
+   "last-updated": "2025-05-27"
 }

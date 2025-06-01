@@ -14,7 +14,7 @@
       {"issue": {"issue-date": "1932-06", "volume": "2", "number": "4"}},
    "first-renewed-contribution-source": "1959-JanJun",
    "last-issue": {"issue-date": "1953-08", "volume": "68", "number": "5"},
-   "renewed-issue-completeness": "active/1933",
+   "renewed-issue-completeness": "active/1934",
    "renewed-issues": [
      {"issue-date": "1932-07", "volume": "3", "number": "1"},
      {"issue-date": "1932-11", "volume": "4", "number": "1"},
@@ -32,7 +32,30 @@
      {"issue-date": "1934-05-01", "volume": "11", "number": "4"},
      {"issue-date": "1934-10-15", "volume": "14", "number": "3"},
      {"issue-date": "1934-11-01", "volume": "14", "number": "4"},
-     {"issue-date": "1934-11-15", "volume": "15", "number": "1"}
+     {"issue-date": "1934-11-15", "volume": "15", "number": "1"},
+     {"issue-date": "1934-12-01", "volume": "15", "number": "2"},
+     {"issue-date": "1934-12-15", "volume": "15", "number": "3"},
+     {"issue-date": "1935-01-01", "volume": "15", "number": "4",
+      "cdate": "1934-12-14"},
+     {"issue-date": "1935-01-15", "volume": "16", "number": "1",
+      "cdate": "1934-12-28"},
+     {"issue-date": "1935-02-01", "volume": "16", "number": "2",
+      "cdate": "1935-01-15"},
+     {"issue-date": "1935-02-15", "volume": "16", "number": "3"},
+     {"issue-date": "1935-03-01", "volume": "16", "number": "4"},
+     {"issue-date": "1935-03-15", "volume": "17", "number": "1"},
+     {"issue-date": "1935-04-01", "volume": "17", "number": "2"},
+     {"issue-date": "1935-04-15", "volume": "17", "number": "3"},
+     {"issue-date": "1935-05-01", "volume": "17", "number": "4"},
+     {"issue-date": "1935-05-15", "volume": "18", "number": "1"},
+     {"issue-date": "1935-06-01", "volume": "18", "number": "2"},
+     {"issue-date": "1935-06-15", "volume": "18", "number": "3"},
+     {"issue-date": "1935-07-01", "volume": "18", "number": "4"},
+     {"issue-date": "1935-08", "volume": "19", "number": "1"},
+     {"issue-date": "1935-09", "volume": "19", "number": "2"},
+     {"issue-date": "1935-10", "volume": "19", "number": "3"},
+     {"issue-date": "1935-11", "volume": "19", "number": "4"},
+     {"issue-date": "1935-12", "volume": "20", "number": "1"}
    ],
    "additional-notes": [
       "'Dime Detective Magazine Combined With Flynn's Detective Fiction' was the cover title of most issues of this magazine between September 1944 and January  1951.",
@@ -43,5 +66,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-04-30"
+   "last-updated": "2025-05-27"
 }

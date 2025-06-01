@@ -14,10 +14,75 @@
        "issue": {"issue-date": "1932-01-14"}
    },
    "first-renewed-contribution-source": "1959-JulDec",
-   "renewed-contribution-completeness": "active/1932-01-14",
+   "renewed-contribution-completeness": "active/1932",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1932-01-14"},
+      "title": "Sinner Man's Wedding",
+      "author": {
+         "authorized": "Henderson, George Wylie",
+         "lcna": "n84136724"
+       }
+     },
+     {"issue": {"issue-date": "1932-04-11"},
+      "title": "Whistlin' Slim",
+      "author": {
+         "authorized": "Henderson, George Wylie",
+         "lcna": "n84136724"
+       }
+     },
+     {"issue": {"issue-date": "1932-06-13"},
+      "title": "Dance of Death",
+      "author": {
+         "authorized": "Henderson, George Wylie",
+         "lcna": "n84136724"
+       }
+     },
+     {"issue": {"issue-date": "1932-07-15"},
+      "title": "Thy Name is Woman",
+      "author": {
+         "authorized": "Henderson, George Wylie",
+         "lcna": "n84136724"
+       }
+     },
+     {"issue": {"issue-date": "1932-07-25"},
+      "title": "Without Tears",
+      "author": {
+         "authorized": "Henderson, George Wylie",
+         "lcna": "n84136724"
+       }
+     },
+     {"issue": {"issue-date": "1932-08-08"},
+      "title": "Midnight in Harlem",
+      "author": {
+         "authorized": "Henderson, George Wylie",
+         "lcna": "n84136724"
+       }
+     },
+     {"issue": {"issue-date": "1932-08-29"},
+      "title": "Day of Judgment",
+      "author": {
+         "authorized": "Henderson, George Wylie",
+         "lcna": "n84136724"
+       }
+     },
+     {"issue": {"issue-date": "1932-09-15"},
+      "title": "Man in de Moon",
+      "author": {
+         "authorized": "Henderson, George Wylie",
+         "lcna": "n84136724"
+       }
+     },
+     {"issue": {"issue-date": "1933-06-12"},
+      "title": "A Brown Skin's Revenge",
+      "author": {
+         "authorized": "Henderson, George Wylie",
+         "lcna": "n84136724"
+       }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2017-12-05"
+   "last-updated": "2025-05-28"
 }

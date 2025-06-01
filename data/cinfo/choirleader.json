@@ -9,7 +9,7 @@
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1932-06"}},
    "first-renewed-contribution-source": "1960-JanJun",
-   "renewed-issue-completeness": "active/1933",
+   "renewed-issue-completeness": "active/1934",
    "renewed-issues": [
      {"issue-date": "1930-02", "volume": "36", "number": "12",
       "cdate": "1930-01-10"},
@@ -78,7 +78,20 @@
      {"issue-date": "1934-09", "volume": "41", "number": "7"},
      {"issue-date": "1934-10", "volume": "41", "number": "8"},
      {"issue-date": "1934-11", "volume": "41", "number": "9"},
-     {"issue-date": "1934-12", "volume": "41", "number": "10"}
+     {"issue-date": "1934-12", "volume": "41", "number": "10"},
+     {"issue-date": "1935-01", "volume": "41", "number": "11",
+      "cdate": "1934-12-17"},
+     {"issue-date": "1935-02", "volume": "41", "number": "12",
+      "cdate": "1935-01-09"},
+     {"issue-date": "1935-03", "volume": "42", "number": "1"},
+     {"issue-date": "1935-04", "volume": "42", "number": "2"},
+     {"issue-date": "1935-05", "volume": "42", "number": "3"},
+     {"issue-date": "1935-06", "volume": "42", "number": "4"},
+     {"issue-date": "1935-07", "volume": "42", "number": "5"},
+     {"issue-date": "1935-08", "volume": "42", "number": "6"},
+     {"issue-date": "1935-09", "volume": "42", "number": "7"},
+     {"issue-date": "1935-10", "volume": "42", "number": "8"},
+     {"issue-date": "1935-11", "volume": "42", "number": "9"}
    ],
    "additional-note":
      "This periodical includes sheet music that might have renewals under Music, rather than under Contributions to Periodicals. We have not systematically surveyed Music copyright renewals.",
@@ -86,5 +99,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-04-16"
+   "last-updated": "2025-05-27"
 }

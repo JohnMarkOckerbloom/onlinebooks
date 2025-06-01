@@ -1,5 +1,6 @@
 {
    "title": "The Horn Book",
+   "aka": ["The Horn Book Magazine"],
    "online": "1",
    "first-issue":
        {"issue-date": "1924-10", "volume": "1", "number": "1"},
@@ -9,10 +10,14 @@
    "first-renewed-contribution":
      {"issue": {"issue-date": "1941-November-December"}}, 
    "first-renewed-contribution-source": "1969-JulDec",
+   "renewed-issue-completeness": "active/1934",
    "renewed-issues": [
        {"issue-date": "1931-02", "volume": "7", "number": "1"},
        {"issue-date": "1931-05", "volume": "7", "number": "2"},
-       {"issue-date": "1931-08", "volume": "7", "number": "3"}
+       {"issue-date": "1931-08", "volume": "7", "number": "3"},
+       {"issue-date": "1935-May-June", "volume": "11", "number": "3"},
+       {"issue-date": "1935-July-August", "volume": "11", "number": "4"},
+       {"issue-date": "1935-September-October", "volume": "11", "number": "5"}
    ],
    "renewed-contribution-completeness": "active/1949",
    "renewed-contributions": [
@@ -85,5 +90,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-08-24"
+   "last-updated": "2025-05-27"
 }

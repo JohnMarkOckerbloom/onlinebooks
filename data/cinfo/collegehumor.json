@@ -12,7 +12,7 @@
    "first-renewed-contribution":
      {"issue": {"issue-date": "1930-02", "number": "74"}},
    "first-renewed-contribution-source": "1957-JanJun",
-   "renewed-contribution-completeness": "active/1930",
+   "renewed-contribution-completeness": "active/1931",
    "renewed-contributions": [
      {"issue": {"issue-date": "1930-02", "number": "74"},
       "title": "The Girl the Prince Liked",
@@ -178,11 +178,49 @@
        "lcna": "n89129751"
       }
      },
+     {"issue": {"issue-date": "1931-06", "number": "90"}, 
+      "title": "I, Jerry, Take Thee, Joan",
+      "title-note": "part 1 of 3",
+      "author": {
+       "authorized": "Lucas, Cleo",
+       "lcna": "no89017531"
+      }
+     },
+     {"issue": {"issue-date": "1931-06", "number": "90"}, 
+      "title": "The Kiss Fool",
+      "author": {
+        "authorized": "Perelman, S. J. (Sidney Joseph), 1904-1979",
+        "lcna": "n50009669"
+      }
+     },
      {"issue": {"issue-date": "1931-07", "number": "91"}, 
       "title": "Fire Magic",
       "author": {
        "authorized": "Irwin, Wallace, 1876-1959",
        "lcna": "n97112081"
+      }
+     },
+     {"issue": {"issue-date": "1931-07", "number": "91"}, 
+      "title": "I, Jerry, Take Thee, Joan",
+      "title-note": "part 2 of 3",
+      "author": {
+       "authorized": "Lucas, Cleo",
+       "lcna": "no89017531"
+      }
+     },
+     {"issue": {"issue-date": "1931-07", "number": "91"}, 
+      "title": "The Idol's Eye",
+      "author": {
+        "authorized": "Perelman, S. J. (Sidney Joseph), 1904-1979",
+        "lcna": "n50009669"
+      }
+     },
+     {"issue": {"issue-date": "1931-08", "number": "92"}, 
+      "title": "I, Jerry, Take Thee, Joan",
+      "title-note": "part 3 of 3",
+      "author": {
+       "authorized": "Lucas, Cleo",
+       "lcna": "no89017531"
       }
      },
      {"issue": {"issue-date": "1931-09", "number": "93"},
@@ -224,6 +262,132 @@
        "authorized": "Buranelli, Prosper, 1890-1960",
        "lcna": "no94044067"
       }
+     },
+     {"issue": {"issue-date": "1931-12", "number": "96"},
+      "title": "Murder in the Hurricane",
+      "title-note": "part 1 of 3",
+      "author": {
+       "authorized": "King, Rufus, 1893-1966",
+       "lcna": "no94027678"
+      }
+     },
+     {"issue": {"issue-date": "1932-01", "number": "97"},
+      "title": "Murder in the Hurricane",
+      "title-note": "part 2 of 3",
+      "author": {
+       "authorized": "King, Rufus, 1893-1966",
+       "lcna": "no94027678"
+      }
+     },
+     {"issue": {"issue-date": "1932-01", "number": "97"},
+      "title": "Little Black Cloud",
+      "author": {
+       "authorized": "Ware, Darrell, 1906-1944",
+       "lcna": "n87916659"
+      }
+     },
+     {"issue": {"issue-date": "1932-02", "number": "98"},
+      "title": "The Beachcomber",
+      "title-note": "installment",
+      "author": {
+       "authorized": "Cram, Mildred, 1889-1985",
+       "lcna": "n87847192"
+      }
+     },
+     {"issue": {"issue-date": "1932-02", "number": "98"},
+      "title": "Murder in the Hurricane",
+      "title-note": "part 3 of 3",
+      "author": {
+       "authorized": "King, Rufus, 1893-1966",
+       "lcna": "no94027678"
+      }
+     },
+     {"issue": {"issue-date": "1932-02", "number": "98"},
+      "title": "Seedlings of Desire",
+      "author": {
+        "authorized": "Perelman, S. J. (Sidney Joseph), 1904-1979",
+        "lcna": "n50009669"
+      }
+     },
+     {"issue": {"issue-date": "1932-02", "number": "98"},
+        "title": "Abolish Fraternities",
+        "author": {
+          "authorized": "Wylie, Philip, 1902-1971",
+          "lcna": "n79145476"
+        }
+     },
+     {"issue": {"issue-date": "1932-02", "number": "98"},
+      "title": "Little Black Cloud Rushes",
+      "author": {
+       "authorized": "Ware, Darrell, 1906-1944",
+       "lcna": "n87916659"
+      }
+     },
+     {"issue": {"issue-date": "1932-03", "number": "99"},
+      "title": "Little Black Beatum",
+      "author": {
+       "authorized": "Ware, Darrell, 1906-1944",
+       "lcna": "n87916659"
+      }
+     },
+     {"issue": {"issue-date": "1932-03", "number": "99"},
+      "title": "The Beachcomber",
+      "title-note": "installment",
+      "author": {
+       "authorized": "Cram, Mildred, 1889-1985",
+       "lcna": "n87847192"
+      }
+     },
+     {"issue": {"issue-date": "1932-04", "number": "100"},
+      "title": "She Didn't Have to Work",
+      "title-note": "part 1 of 2",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1932-04", "number": "100"},
+      "title": "Little Black Cloud Emotes",
+      "author": {
+       "authorized": "Ware, Darrell, 1906-1944",
+       "lcna": "n87916659"
+      }
+     },
+     {"issue": {"issue-date": "1932-05", "number": "101"},
+      "title": "She Didn't Have to Work",
+      "title-note": "part 2 of 2",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1932-05", "number": "101"},
+      "title": "Little Black Cloud Big Publisher",
+      "author": {
+       "authorized": "Ware, Darrell, 1906-1944",
+       "lcna": "n87916659"
+      }
+     },
+     {"issue": {"issue-date": "1932-06", "number": "102"},
+      "title": "Little Black Cloud's Tribe",
+      "author": {
+       "authorized": "Ware, Darrell, 1906-1944",
+       "lcna": "n87916659"
+      }
+     },
+     {"issue": {"issue-date": "1932-07", "number": "103"},
+      "title": "Little Black Cloud's Sick Injun",
+      "author": {
+       "authorized": "Ware, Darrell, 1906-1944",
+       "lcna": "n87916659"
+      }
+     },
+     {"issue": {"issue-date": "1932-08", "number": "104"},
+      "title": "Little Black Cloud's Heart",
+      "author": {
+       "authorized": "Ware, Darrell, 1906-1944",
+       "lcna": "n87916659"
+      }
      }
    ],
    "additional-note": "A second series of this periodical began in 1934, in conjunction with one of its ownership changes.  (The magazine changed hands multiple times in the 1930s, with some publication hiatuses.  It was also known as 'College Humor and Sense' for a time during 1933 and 1934.) I am not aware of the second series being marked as such; rather, the volume and issue numbering simply restarted at 1 in 1934.",
@@ -231,5 +395,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-01-03"
+   "last-updated": "2025-05-07"
 }

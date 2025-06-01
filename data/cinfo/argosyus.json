@@ -17,7 +17,7 @@
    "see-also":
      [{"id": "allstory1929",
        "note": "All-Story (romance fiction magazine, 1929-1955)"}],
-   "renewed-issue-completeness": "active/1933",
+   "renewed-issue-completeness": "active/1934",
    "renewed-issues": [
        {"issue-date": "1930-01-11", "volume": "209", "number": "3",
         "cdate": "1930-01-08"},
@@ -278,9 +278,63 @@
        {"issue-date": "1934-10-27", "volume": "250", "number": "6"},
        {"issue-date": "1934-11-03", "volume": "251", "number": "1"},
        {"issue-date": "1934-11-10", "volume": "251", "number": "2"},
-       {"issue-date": "1934-11-17", "volume": "251", "number": "3"}
+       {"issue-date": "1934-11-17", "volume": "251", "number": "3"},
+       {"issue-date": "1934-11-24", "volume": "251", "number": "4"},
+       {"issue-date": "1934-12-01", "volume": "251", "number": "5"},
+       {"issue-date": "1934-12-08", "volume": "251", "number": "6"},
+       {"issue-date": "1934-12-15", "volume": "252", "number": "1"},
+       {"issue-date": "1934-12-22", "volume": "252", "number": "2"},
+       {"issue-date": "1934-12-29", "volume": "252", "number": "3"},
+       {"issue-date": "1935-01-05", "volume": "252", "number": "4",
+        "cdate": "1934-12-26"},
+       {"issue-date": "1935-01-12", "volume": "252", "number": "5",
+        "cdate": "1935-01-02"},
+       {"issue-date": "1935-01-19", "volume": "252", "number": "6"},
+       {"issue-date": "1934-01-26", "volume": "253", "number": "1"},
+       {"issue-date": "1934-02-02", "volume": "253", "number": "2"},
+       {"issue-date": "1934-02-09", "volume": "253", "number": "3"},
+       {"issue-date": "1934-02-16", "volume": "253", "number": "4"},
+       {"issue-date": "1934-02-23", "volume": "253", "number": "5"},
+       {"issue-date": "1934-03-02", "volume": "253", "number": "6"},
+       {"issue-date": "1934-03-09", "volume": "254", "number": "1"},
+       {"issue-date": "1934-03-16", "volume": "254", "number": "2"},
+       {"issue-date": "1934-03-23", "volume": "254", "number": "3"},
+       {"issue-date": "1934-03-30", "volume": "254", "number": "4"},
+       {"issue-date": "1934-04-06", "volume": "254", "number": "5"},
+       {"issue-date": "1934-04-13", "volume": "254", "number": "6"},
+       {"issue-date": "1934-04-20", "volume": "255", "number": "1"},
+       {"issue-date": "1934-04-27", "volume": "255", "number": "2"},
+       {"issue-date": "1934-05-04", "volume": "255", "number": "3"},
+       {"issue-date": "1934-05-11", "volume": "255", "number": "4"},
+       {"issue-date": "1934-05-18", "volume": "255", "number": "5"},
+       {"issue-date": "1934-05-25", "volume": "255", "number": "6"},
+       {"issue-date": "1934-06-01", "volume": "256", "number": "1"},
+       {"issue-date": "1934-06-08", "volume": "256", "number": "2"},
+       {"issue-date": "1934-06-15", "volume": "256", "number": "3"},
+       {"issue-date": "1934-06-22", "volume": "256", "number": "4"},
+       {"issue-date": "1934-06-29", "volume": "256", "number": "5"},
+       {"issue-date": "1934-07-06", "volume": "256", "number": "6"},
+       {"issue-date": "1934-07-13", "volume": "257", "number": "1"},
+       {"issue-date": "1934-07-20", "volume": "257", "number": "2"},
+       {"issue-date": "1934-07-27", "volume": "257", "number": "3"},
+       {"issue-date": "1934-08-03", "volume": "257", "number": "4"},
+       {"issue-date": "1934-08-10", "volume": "257", "number": "5"},
+       {"issue-date": "1934-08-17", "volume": "257", "number": "6"},
+       {"issue-date": "1934-08-24", "volume": "258", "number": "1"},
+       {"issue-date": "1934-08-31", "volume": "258", "number": "2"},
+       {"issue-date": "1934-09-04", "volume": "258", "number": "3"},
+       {"issue-date": "1934-09-14", "volume": "258", "number": "4"},
+       {"issue-date": "1934-09-21", "volume": "258", "number": "5"},
+       {"issue-date": "1934-09-28", "volume": "258", "number": "6"},
+       {"issue-date": "1934-10-05", "volume": "259", "number": "1"},
+       {"issue-date": "1934-10-12", "volume": "259", "number": "2"},
+       {"issue-date": "1934-10-19", "volume": "259", "number": "3"},
+       {"issue-date": "1934-10-26", "volume": "259", "number": "4"},
+       {"issue-date": "1934-11-02", "volume": "259", "number": "5"},
+       {"issue-date": "1934-11-09", "volume": "259", "number": "6"},
+       {"issue-date": "1934-11-16", "volume": "260", "number": "1"}
    ],
-   "renewed-contribution-completeness": "active/1930",
+   "renewed-contribution-completeness": "active/1931",
    "renewed-contributions": [
      {"issue": {"issue-date": "1930-01-11", "volume": "209", "number": "3"},
       "title": "Backwater",
@@ -585,6 +639,13 @@
        }
      },
      {"issue": {"issue-date": "1931-10-17", "volume": "224", "number": "5"},
+      "title": "Stamp of the Desert",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1931-10-17", "volume": "224", "number": "5"},
       "title": "The Gold Skull Murders",
       "title-note": "part 4 of 7",
       "author": {
@@ -609,6 +670,13 @@
       }
      },
      {"issue": {"issue-date": "1931-11-07", "volume": "225", "number": "2"},
+      "title": "Singing Sand",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1931-11-07", "volume": "225", "number": "2"},
       "title": "The Gold Skull Murders",
       "title-note": "part 7 of 7",
       "author": {
@@ -616,11 +684,68 @@
        "lcna": "no97026856"
       }
      },
+     {"issue": {"issue-date": "1931-12-19", "volume": "226", "number": "2"},
+      "title": "The Human Zero",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
      {"issue": {"issue-date": "1932-01-09", "volume": "226", "number": "5"},
       "title": "Cassidy's Bluff",
       "author": {
        "authorized": "Case, Robert Ormond, 1895-1964",
        "lcna": "no95027451"
+      }
+     },
+     {"issue": {"issue-date": "1932-01-23", "volume": "227", "number": "1"},
+      "title": "The Whip Hand",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1932-03-19", "volume": "228", "number": "3"},
+      "title": "The Masterman",
+      "title-note": "part 1 of 6",
+      "note": "Issue as given in a 1959 CCE renewal record.  FictionMags places this part instead in the March 18, 1933 issue, for which a 1959 renewal would be filed too early.  Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1932-03-26", "volume": "228", "number": "4"},
+      "title": "The Masterman",
+      "title-note": "part 2 of 6",
+      "note": "Issue as given in a 1959 CCE renewal record.  FictionMags places this part instead in the March 25, 1933 issue, for which a 1959 renewal would be filed too early.  Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1932-04-02", "volume": "228", "number": "5"},
+      "title": "The Masterman",
+      "title-note": "part 3 of 6",
+      "note": "Issue as given in a 1959 CCE renewal record.  FictionMags places this part instead in the April 1, 1933 issue, for which a 1959 renewal would be filed too early.  Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1932-04-09", "volume": "228", "number": "6"},
+      "title": "The Land of Poison Springs",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1932-04-09", "volume": "228", "number": "6"},
+      "title": "The Masterman",
+      "title-note": "part 4 of 6",
+      "note": "Issue as given in a 1959 CCE renewal record.  FictionMags places this part instead in the April 8, 1933 issue, for which a 1959 renewal would be filed too early.  Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
       }
      },
      {"issue": {"issue-date": "1932-04-16", "volume": "229", "number": "1"},
@@ -630,6 +755,31 @@
        "authorized": "Case, Robert Ormond, 1895-1964",
        "lcna": "no95027451"
       }
+     },
+     {"issue": {"issue-date": "1932-04-16", "volume": "229", "number": "1"},
+      "title": "The Masterman",
+      "title-note": "part 5 of 6",
+      "note": "Issue as given in a 1959 CCE renewal record.  FictionMags places this part instead in the April 15, 1933 issue, for which a 1959 renewal would be filed too early.  Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1932-04-23", "volume": "229", "number": "3"},
+      "title": "The Masterman",
+      "title-note": "part 6 of 6",
+      "note": "Issue as given in a 1959 CCE renewal record.  FictionMags places this part instead in the April 22, 1933 issue, for which a 1959 renewal would be filed too early.  Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1932-05-07", "volume": "229", "number": "4"},
+      "title": "Strangleholds",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
      },
      {"issue": {"issue-date": "1932-05-14", "volume": "229", "number": "5"},
       "title": "Blind Canyon",
@@ -641,18 +791,166 @@
      },
      {"issue": {"issue-date": "1932-05-21", "volume": "229", "number": "6"},
       "title": "Blind Canyon",
-      "title-note": "part 1 of 2",
+      "title-note": "part 2 of 2",
       "author": {
        "authorized": "Case, Robert Ormond, 1895-1964",
        "lcna": "no95027451"
       }
+     },
+     {"issue": {"issue-date": "1932-06-04", "volume": "230", "number": "2"},
+      "title": "Cold Turkey",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1932-06-18", "volume": "230", "number": "4"},
+      "title": "Breath of the Desert",
+      "title-note": "chapters 1-8",
+      "author": {
+       "authorized": "Seltzer, Charles Alden, 1875-1942",
+       "lcna": "n50007279"
+      }
+     },
+     {"issue": {"issue-date": "1932-06-25", "volume": "230", "number": "5"},
+      "title": "Breath of the Desert",
+      "title-note": "chapters 9-15",
+      "author": {
+       "authorized": "Seltzer, Charles Alden, 1875-1942",
+       "lcna": "n50007279"
+      }
+     },
+     {"issue": {"issue-date": "1932-07-02", "volume": "230", "number": "6"},
+      "title": "Breath of the Desert",
+      "title-note": "chapters 16-20",
+      "author": {
+       "authorized": "Seltzer, Charles Alden, 1875-1942",
+       "lcna": "n50007279"
+      }
+     },
+     {"issue": {"issue-date": "1932-07-09", "volume": "231", "number": "1"},
+      "title": "Breath of the Desert",
+      "title-note": "chapters 21-26",
+      "author": {
+       "authorized": "Seltzer, Charles Alden, 1875-1942",
+       "lcna": "n50007279"
+      }
+     },
+     {"issue": {"issue-date": "1932-07-16", "volume": "231", "number": "2"},
+      "title": "Breath of the Desert",
+      "title-note": "chapters 27-34",
+      "author": {
+       "authorized": "Seltzer, Charles Alden, 1875-1942",
+       "lcna": "n50007279"
+      }
+     },
+     {"issue": {"issue-date": "1932-07-23", "volume": "231", "number": "3"},
+      "title": "Breath of the Desert",
+      "title-note": "chapters 35-41",
+      "author": {
+       "authorized": "Seltzer, Charles Alden, 1875-1942",
+       "lcna": "n50007279"
+      }
+     },
+     {"issue": {"issue-date": "1932-08-20", "volume": "232", "number": "1"},
+      "title": "The Law of Drifting Sand",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1932-10-15", "volume": "233", "number": "3"},
+      "title": "The Danger Zone",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1932-12-10", "volume": "234", "number": "5"},
+      "title": "The Longhorn Feud",
+      "title-note": "part 1 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1932-12-10", "volume": "234", "number": "5"},
+      "title": "The Affair in Cabin Twelve",
+      "author": {
+       "authorized": "Bellah, James Warner, 1899-1976",
+       "lcna": "no92015223"
+      }
+     },
+     {"issue": {"issue-date": "1932-12-17", "volume": "234", "number": "5"},
+      "title": "The Longhorn Feud",
+      "title-note": "part 2 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1933-03-18", "volume": "237", "number": "1"},
+      "title": "The Masterman",
+      "title-note": "part 1 of 6",
+      "note": "Issue as given in FictionMags.  The only renewal we have found in the CCE was filed in 1959, too early for a 1933 publication, and claims this installment was published in the March 19, 1932 issue.  Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1933-03-25", "volume": "237", "number": "2"},
+      "title": "The Masterman",
+      "title-note": "part 2 of 6",
+      "note": "Issue as given in FictionMags.  The only renewal we have found in the CCE was filed in 1959, too early for a 1933 publication, and claims this installment was published in the March 26, 1932 issue.  Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1933-04-01", "volume": "237", "number": "3"},
+      "title": "The Masterman",
+      "title-note": "part 3 of 6",
+      "note": "Issue as given in FictionMags.  The only renewal we have found in the CCE was filed in 1959, too early for a 1933 publication, and claims this installment was published in the April 2, 1932 issue.  Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1933-04-08", "volume": "237", "number": "4"},
+      "title": "The Masterman",
+      "title-note": "part 4 of 6",
+      "note": "Issue as given in FictionMags.  The only renewal we have found in the CCE was filed in 1959, too early for a 1933 publication, and claims this installment was published in the April 9, 1932 issue.  Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1933-04-15", "volume": "237", "number": "5"},
+      "title": "The Masterman",
+      "title-note": "part 5 of 6",
+      "note": "Issue as given in FictionMags.  The only renewal we have found in the CCE was filed in 1959, too early for a 1933 publication, and claims this installment was published in the April 16, 1932 issue.  Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1933-04-22", "volume": "237", "number": "6"},
+      "title": "The Masterman",
+      "title-note": "part 6 of 6",
+      "note": "Issue as given in FictionMags.  The only renewal we have found in the CCE was filed in 1959, too early for a 1933 publication, and claims this installment was published in the April 23, 1932 issue.  Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
      }
    ],
-   "comment": "Pick up at The masterman my Max Brand in 1959-JanJun.  Not finding in Argosy US 1932; appears to have run in 1933 instead.",
+   "comment": "Pick up contributions in the Jan-Jun 1960 issue.",
    "additional-note": "The name of this periodical changed from Argosy All-Story Weekly to the Argosy in October 1929, the month that a new All-Story magazine began.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-04-29"
+   "last-updated": "2025-05-27"
 }

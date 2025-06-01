@@ -7,10 +7,17 @@
    "first-renewed-issue-source": "1962-JulDec",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce",
+   "last-issue": 
+      {"issue-date": "1935-Winter", "volume": "2", "number": "2"},
    "succeeded-by": [{"id": "bridesmag", "note": "The Bride's Magazine"}],
+   "renewed-issue-completeness": "active/end",
+   "renewed-issues": [
+      {"issue-date": "1935-Autumn", "volume": "2", "number": "1"},
+      {"issue-date": "1935-Winter", "volume": "2", "number": "2"}
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-05-02"
+   "last-updated": "2025-05-27"
 }

@@ -8,7 +8,7 @@
    "first-renewed-issue-source": "1957-JanJun",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce",
-   "renewed-issue-completeness": "active/1933",
+   "renewed-issue-completeness": "active/1934",
    "renewed-issues": [
      {"issue-date": "1929", "number": "annual volume", "cdate": "1930-03-21"},
      {"issue-date": "1930-04", "volume": "32", "number": "1"},
@@ -34,12 +34,18 @@
      {"issue-date": "1934-03", "volume": "36", "number": "1"},
      {"issue-date": "1934-06", "volume": "36", "number": "2"},
      {"issue-date": "1934-08", "volume": "36", "number": "3"},
-     {"issue-date": "1934", "number": "annual volume", "cdate": "1935-03-15"}
+     {"issue-date": "1934-11", "volume": "36", "number": "4"},
+     {"issue-date": "1934", "number": "annual volume", "cdate": "1935-03-15"},
+     {"issue-date": "1935-04", "volume": "37", "number": "1"},
+     {"issue-date": "1935-07", "volume": "37", "number": "2"},
+     {"issue-date": "1935-09", "volume": "37", "number": "3",
+      "note": "Special issue."},
+     {"issue-date": "1935", "number": "annual volume", "cdate": "1936-03-11"}
    ],
    "additional-note": "Quarterly issues were usually renewed as Periodicals, though some were renewed as books. The annual issues were renewed as books.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-04-17"
+   "last-updated": "2025-05-27"
 }

@@ -14,7 +14,7 @@
    "first-renewed-contribution":
      {"issue": {"issue-date": "1930-02", "volume": "57", "number": "5"}},
    "first-renewed-contribution-source": "1957-JanJun",
-   "renewed-issue-completeness": "active/1933",
+   "renewed-issue-completeness": "active/1934",
    "renewed-issues": [
       {"issue-date": "1930-02", "volume": "57", "number": "5",
         "cdate": "1930-01-10"},
@@ -80,9 +80,23 @@
       {"issue-date": "1934-06", "volume": "61", "number": "9"},
       {"issue-date": "1934-07", "volume": "61", "number": "10"},
       {"issue-date": "1934-08", "volume": "61", "number": "11"},
-      {"issue-date": "1934-09", "volume": "61", "number": "12"}
+      {"issue-date": "1934-09", "volume": "61", "number": "12"},
+      {"issue-date": "1934-10", "volume": "62", "number": "1"},
+      {"issue-date": "1934-11", "volume": "62", "number": "2"},
+      {"issue-date": "1934-12", "volume": "62", "number": "3"},
+      {"issue-date": "1935-01", "volume": "62", "number": "4",
+       "cdate": "1934-12-07"},
+      {"issue-date": "1935-02", "volume": "62", "number": "5",
+       "cdate": "1935-01-10"},
+      {"issue-date": "1935-03", "volume": "62", "number": "6"},
+      {"issue-date": "1935-04", "volume": "62", "number": "7"},
+      {"issue-date": "1935-05", "volume": "62", "number": "8"},
+      {"issue-date": "1935-06", "volume": "62", "number": "9"},
+      {"issue-date": "1935-07", "volume": "62", "number": "10"},
+      {"issue-date": "1935-08", "volume": "62", "number": "11"},
+      {"issue-date": "1935-09", "volume": "62", "number": "12"}
    ],
-   "renewed-contribution-completeness": "active/1930",
+   "renewed-contribution-completeness": "active/1931",
    "renewed-contributions": [
      {"issue": {"issue-date": "1930-02", "volume": "57", "number": "5"},
       "title": "Ransom",
@@ -352,12 +366,26 @@
        }
      },
      {"issue": {"issue-date": "1931-08", "volume": "58", "number": "11"},
+      "title": "Lady Prepaid",
+      "author": {
+       "name": "Francis Thayer"
+      }
+     },
+     {"issue": {"issue-date": "1931-08", "volume": "58", "number": "11"},
       "title": "Jealousy",
       "title-note": "part 5 of 5",
       "note": "Title as given on the cover of the April 1931 issue.  CCE renewal record gives title as 'Kindled Flame', which may have been the title used in its publication abroad in Woman's Pictorial.",
       "author": {
        "authorized": "Pedler, Margaret",
        "lcna": "nr2002022198"
+      }
+     },
+     {"issue": {"issue-date": "1931-10", "volume": "59", "number": "1"},
+      "title": "The Trail Driver",
+      "title-note": "part 1 of 5",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
       }
      },
      {"issue": {"issue-date": "1931-11", "volume": "59", "number": "2"},
@@ -368,8 +396,219 @@
          "lcna": "n83057208"
        }
      },
+     {"issue": {"issue-date": "1931-11", "volume": "59", "number": "2"},
+      "title": "The Trail Driver",
+      "title-note": "part 2 of 5",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
      {"issue": {"issue-date": "1931-12", "volume": "59", "number": "3"}, 
       "title": "Blossom Without Leaves",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1931-12", "volume": "59", "number": "3"}, 
+      "title": "The Trail Driver",
+      "title-note": "part 3 of 5",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1932-01", "volume": "59", "number": "4"}, 
+      "title": "The Trail Driver",
+      "title-note": "part 4 of 5",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1932-02", "volume": "59", "number": "5"},
+      "title": "The Trail Driver",
+      "title-note": "part 5 of 5",
+      "author": {
+         "authorized": "Grey, Zane, 1872-1939",
+         "lcna": "n79011137"
+      }
+     },
+     {"issue": {"issue-date": "1932-02", "volume": "59", "number": "5"},
+      "title": "Life Class",
+      "note": "Issue as given in CCE renewal record.  FictionMags instead places it in the March 1932 issue. We have not examined the issues in question.",
+      "author": {
+       "authorized": "Duganne, Phyllis, 1899-1976",
+       "lcna": "n90719514"
+      }
+     },
+     {"issue": {"issue-date": "1932-03", "volume": "59", "number": "6"}, 
+      "title": "This Town's Too Small",
+      "title-note": "part 1 of 5",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1932-03", "volume": "59", "number": "6"}, 
+      "title": "Life Class",
+      "note": "Issue as given in FictionMags.  CCE renewal record instead places it in the February 1932 issue. We have not examined the issues in question.",
+      "author": {
+       "authorized": "Duganne, Phyllis, 1899-1976",
+       "lcna": "n90719514"
+      }
+     },
+     {"issue": {"issue-date": "1932-04", "volume": "59", "number": "7"}, 
+      "title": "This Town's Too Small",
+      "title-note": "part 2 of 5",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1932-05", "volume": "59", "number": "8"}, 
+      "title": "Desert Sands",
+      "title-note": "part 1 of 5",
+      "note": "Title as given on the cover of the May 1932 issue.  CCE renewal record gives title as 'Desert Sand'.",
+      "author": {
+       "authorized": "Pedler, Margaret",
+       "lcna": "nr2002022198"
+      }
+     },
+     {"issue": {"issue-date": "1932-05", "volume": "59", "number": "8"}, 
+      "title": "This Town's Too Small",
+      "title-note": "part 3 of 5",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1932-06", "volume": "59", "number": "9"}, 
+      "title": "Desert Sands",
+      "title-note": "part 2 of 5",
+      "note": "Title as given on the cover of the May 1932 issue.  CCE renewal record gives title as 'Desert Sand'.",
+      "author": {
+       "authorized": "Pedler, Margaret",
+       "lcna": "nr2002022198"
+      }
+     },
+     {"issue": {"issue-date": "1932-06", "volume": "59", "number": "9"}, 
+      "title": "Love Tale Runs True to Form",
+      "author": {
+         "authorized": "Kilbourne, Fannie, 1890-",
+         "lcna": "no93026233"
+       }
+     },
+     {"issue": {"issue-date": "1932-06", "volume": "59", "number": "9"}, 
+      "title": "This Town's Too Small",
+      "title-note": "part 4 of 5",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1932-07", "volume": "59", "number": "10"}, 
+      "title": "Pretty Twenty",
+      "title-note": "part 1 of 4",
+      "author": {
+       "authorized": "Tarkington, Booth, 1869-1946",
+       "lcna": "n79078124"
+      }
+     },
+     {"issue": {"issue-date": "1932-07", "volume": "59", "number": "10"}, 
+      "title": "Desert Sands",
+      "title-note": "part 3 of 5",
+      "note": "Title as given on the cover of the May 1932 issue.  CCE renewal record gives title as 'Desert Sand'.",
+      "author": {
+       "authorized": "Pedler, Margaret",
+       "lcna": "nr2002022198"
+      }
+     },
+     {"issue": {"issue-date": "1932-07", "volume": "59", "number": "10"}, 
+      "title": "This Town's Too Small",
+      "title-note": "part 5 of 5",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1932-08", "volume": "59", "number": "11"}, 
+        "title": "Hello, Beautiful",
+        "author": {
+         "authorized": "Bowen, Catherine Drinker, 1897-1973",
+         "lcna": "n50042154"
+        }
+     },
+     {"issue": {"issue-date": "1932-08", "volume": "59", "number": "11"}, 
+      "title": "Pretty Twenty",
+      "title-note": "part 2 of 4",
+      "author": {
+       "authorized": "Tarkington, Booth, 1869-1946",
+       "lcna": "n79078124"
+      }
+     },
+     {"issue": {"issue-date": "1932-08", "volume": "59", "number": "11"}, 
+      "title": "Desert Sands",
+      "title-note": "part 4 of 5",
+      "note": "Title as given on the cover of the May 1932 issue.  CCE renewal record gives title as 'Desert Sand'.",
+      "author": {
+       "authorized": "Pedler, Margaret",
+       "lcna": "nr2002022198"
+      }
+     },
+     {"issue": {"issue-date": "1932-09", "volume": "59", "number": "12"}, 
+      "title": "Pretty Twenty",
+      "title-note": "part 3 of 4",
+      "author": {
+       "authorized": "Tarkington, Booth, 1869-1946",
+       "lcna": "n79078124"
+      }
+     },
+     {"issue": {"issue-date": "1932-09", "volume": "59", "number": "12"}, 
+      "title": "Desert Sands",
+      "title-note": "part 5 of 5",
+      "note": "Title as given on the cover of the May 1932 issue.  CCE renewal record gives title as 'Desert Sand'.",
+      "author": {
+       "authorized": "Pedler, Margaret",
+       "lcna": "nr2002022198"
+      }
+     },
+     {"issue": {"issue-date": "1932-10", "volume": "60", "number": "1"}, 
+      "title": "The Path of True Love",
+      "title-note": "part 1 of 5",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1932-10", "volume": "60", "number": "1"}, 
+      "title": "Pretty Twenty",
+      "title-note": "part 4 of 4",
+      "author": {
+       "authorized": "Tarkington, Booth, 1869-1946",
+       "lcna": "n79078124"
+      }
+     },
+     {"issue": {"issue-date": "1932-11", "volume": "60", "number": "2"}, 
+      "title": "The Path of True Love",
+      "title-note": "part 2 of 5",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1932-12", "volume": "60", "number": "3"}, 
+      "title": "The Path of True Love",
+      "title-note": "part 3 of 5",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1933-01", "volume": "60", "number": "4"}, 
+      "title": "The Path of True Love",
+      "title-note": "part 4 of 5",
       "author": {
        "authorized": "Banning, Margaret Culkin, 1891-1982",
        "lcna": "n86086096"
@@ -389,5 +628,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-04-17"
+   "last-updated": "2025-05-31"
 }

@@ -9,7 +9,7 @@
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1930-02"}},
    "first-renewed-contribution-source": "1957-JanJun",
-   "renewed-issue-completeness": "active/1933",
+   "renewed-issue-completeness": "active/1934",
    "renewed-issues": [
      {"issue-date": "1930-02", "volume": "64", "number": "2",
       "cdate": "1930-01-28"},
@@ -69,9 +69,23 @@
       "cdate": "1933-12-19"},
      {"issue-date": "1934-02", "volume": "68", "number": "2",
       "cdate": "1934-01-30"},
-     {"issue-date": "1934-03", "volume": "68", "number": "3"}
+     {"issue-date": "1934-03", "volume": "68", "number": "3"},
+     {"issue-date": "1934-04", "volume": "68", "number": "4"},
+     {"issue-date": "1934-05", "volume": "68", "number": "5"},
+     {"issue-date": "1934-06", "volume": "68", "number": "6"},
+     {"issue-date": "1934-07", "volume": "68", "number": "7"},
+     {"issue-date": "1934-08", "volume": "68", "number": "8"},
+     {"issue-date": "1934-09", "volume": "68", "number": "9"},
+     {"issue-date": "1934-10", "volume": "68", "number": "10"},
+     {"issue-date": "1934-11", "volume": "68", "number": "11"},
+     {"issue-date": "1934-12", "volume": "68", "number": "12"},
+     {"issue-date": "1935-01", "volume": "69", "number": "1",
+      "cdate": "1934-12-28"},
+     {"issue-date": "1935-02", "volume": "69", "number": "2",
+      "cdate": "1935-01-30"},
+     {"issue-date": "1935-03", "volume": "69", "number": "3"}
    ],
-   "renewed-contribution-completeness": "active/1930",
+   "renewed-contribution-completeness": "active/1931",
    "renewed-contributions": [
      {"issue": {"issue-date": "1930-02"},
       "title": "There Was a Ship",
@@ -193,17 +207,63 @@
          "lcna": "n50053317"
         }
      },
+     {"issue": {"issue-date": "1932-03"},
+      "title": "The Silver Mask",
+      "author": {
+         "authorized": "Walpole, Hugh, 1884-1941",
+         "lcna": "n79151207"
+       }
+     },
+     {"issue": {"issue-date": "1932-05"},
+      "title": "Love Charm",
+      "author": {
+         "authorized": "La Farge, Oliver, 1901-1963",
+         "lcna": "n79007018"
+       }
+     },
      {"issue": {"issue-date": "1932-06"},
         "title": "The Captain's Table",
         "author": {
          "authorized": "Skinner, Cornelia Otis, 1901-1979",
          "lcna": "n50053317"
         }
+     },
+     {"issue": {"issue-date": "1932-07"},
+      "title": "Family History",
+      "title-note": "part 1 of 4",
+      "author": {
+       "authorized": "Sackville-West, V. (Victoria), 1892-1962",
+       "lcna": "n80003934"
+      }
+     },
+     {"issue": {"issue-date": "1932-08"},
+      "title": "Family History",
+      "title-note": "part 2 of 4",
+      "author": {
+       "authorized": "Sackville-West, V. (Victoria), 1892-1962",
+       "lcna": "n80003934"
+      }
+     },
+     {"issue": {"issue-date": "1932-09"},
+      "title": "Family History",
+      "title-note": "part 3 of 4",
+      "author": {
+       "authorized": "Sackville-West, V. (Victoria), 1892-1962",
+       "lcna": "n80003934"
+      }
+     },
+     {"issue": {"issue-date": "1932-10"},
+      "title": "Family History",
+      "title-note": "part 4 of 4",
+      "author": {
+       "authorized": "Sackville-West, V. (Victoria), 1892-1962",
+       "lcna": "n80003934"
+      }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-04-16"
+   "last-updated": "2025-05-28"
 }

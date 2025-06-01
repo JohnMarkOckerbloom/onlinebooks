@@ -15,7 +15,7 @@
    "first-renewed-contribution":
      {"issue": {"issue-date": "1930-06", "volume": "161", "number": "961"}},
    "first-renewed-contribution-source": "1957-JanJun",
-   "renewed-issue-completeness": "active/1932",
+   "renewed-issue-completeness": "active/1934",
    "renewed-issues": [
      {"issue-date": "1930-02", "volume": "160", "number": "957",
       "cdate": "1930-01-18"},
@@ -68,9 +68,37 @@
      {"issue-date": "1933-07", "volume": "167", "number": "998"},
      {"issue-date": "1933-08", "volume": "167", "number": "999"},
      {"issue-date": "1933-09", "volume": "167", "number": "1000"},
-     {"issue-date": "1933-10", "volume": "167", "number": "1001"}
+     {"issue-date": "1933-10", "volume": "167", "number": "1001"},
+     {"issue-date": "1933-11", "volume": "167", "number": "1002"},
+     {"issue-date": "1933-12", "volume": "168", "number": "1003"},
+     {"issue-date": "1934-01", "volume": "168", "number": "1004",
+      "cdate": "1933-12-19"},
+     {"issue-date": "1934-02", "volume": "168", "number": "1005",
+      "cdate": "1934-01-18"},
+     {"issue-date": "1934-03", "volume": "168", "number": "1006"},
+     {"issue-date": "1934-04", "volume": "168", "number": "1007"},
+     {"issue-date": "1934-05", "volume": "168", "number": "1008"},
+     {"issue-date": "1934-06", "volume": "169", "number": "1009"},
+     {"issue-date": "1934-07", "volume": "169", "number": "1010"},
+     {"issue-date": "1934-08", "volume": "169", "number": "1011"},
+     {"issue-date": "1934-09", "volume": "169", "number": "1012"},
+     {"issue-date": "1934-10", "volume": "169", "number": "1013"},
+     {"issue-date": "1934-11", "volume": "169", "number": "1014"},
+     {"issue-date": "1934-12", "volume": "170", "number": "1015"},
+     {"issue-date": "1935-01", "volume": "170", "number": "1016",
+      "cdate": "1934-12-18"},
+     {"issue-date": "1935-02", "volume": "170", "number": "1017",
+      "cdate": "1935-01-18"},
+     {"issue-date": "1935-03", "volume": "170", "number": "1018"},
+     {"issue-date": "1935-04", "volume": "170", "number": "1019"},
+     {"issue-date": "1935-05", "volume": "170", "number": "1020"},
+     {"issue-date": "1935-06", "volume": "171", "number": "1021"},
+     {"issue-date": "1935-07", "volume": "171", "number": "1022"},
+     {"issue-date": "1935-08", "volume": "171", "number": "1023"},
+     {"issue-date": "1935-09", "volume": "171", "number": "1024"},
+     {"issue-date": "1935-10", "volume": "171", "number": "1025"}
    ],
-   "renewed-contribution-completeness": "active/1930",
+   "renewed-contribution-completeness": "active/1931",
    "renewed-contributions": [
      {"issue": {"issue-date": "1930-06", "volume": "161", "number": "961"},
       "title": "Two Boys, a Gun, and a Dog",
@@ -171,6 +199,13 @@
       }
      },
      {"issue": {"issue-date": "1931-07", "volume": "163", "number": "974"}, 
+        "title": "Bow Down, Isaac!",
+        "author": {
+         "authorized": "Aiken, Conrad, 1889-1973",
+         "lcna": "n80060447"
+        }
+     },
+     {"issue": {"issue-date": "1931-07", "volume": "163", "number": "974"}, 
       "title": "Portrait of an Actress",
       "author": {
        "authorized": "Breuer, Bessie, 1893-1975",
@@ -192,10 +227,31 @@
         }
      },
      {"issue": {"issue-date": "1931-09", "volume": "163", "number": "976"}, 
+      "title": "Fox Hunt",
+      "author": {
+         "authorized": "Faulkner, William, 1897-1962",
+         "lcna": "n79003304"
+      }
+     },
+     {"issue": {"issue-date": "1931-09", "volume": "163", "number": "976"}, 
       "title": "Week-End",
       "author": {
        "authorized": "Breuer, Bessie, 1893-1975",
        "lcna": "no92032719"
+      }
+     },
+     {"issue": {"issue-date": "1931-11", "volume": "163", "number": "978"}, 
+      "title": "Dr. Martino",
+      "author": {
+         "authorized": "Faulkner, William, 1897-1962",
+         "lcna": "n79003304"
+      }
+     },
+     {"issue": {"issue-date": "1932-01", "volume": "164", "number": "980"}, 
+      "title": "Junior Miss",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
       }
      },
      {"issue": {"issue-date": "1932-01", "volume": "164", "number": "980"}, 
@@ -203,6 +259,129 @@
       "author": {
          "authorized": "McFee, William, 1881-1966",
          "lcna": "n82053296"
+      }
+     },
+     {"issue": {"issue-date": "1932-01", "volume": "164", "number": "980"}, 
+      "title": "Listen to This, Dear",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-01", "volume": "164", "number": "980"}, 
+      "title": "Flippertigibbet",
+      "author": {
+         "authorized": "Waugh, Alec, 1898-1981",
+         "lcna": "n50023750"
+       }
+     },
+     {"issue": {"issue-date": "1932-02", "volume": "164", "number": "981"}, 
+      "title": "Wine on the Sea",
+      "author": {
+         "authorized": "McFee, William, 1881-1966",
+         "lcna": "n82053296"
+      }
+     },
+     {"issue": {"issue-date": "1932-03", "volume": "164", "number": "982"}, 
+        "title": "A Death in the Country",
+        "author": {
+         "authorized": "Benét, Stephen Vincent, 1898-1943",
+         "lcna": "n50007691"
+        }
+     },
+     {"issue": {"issue-date": "1932-03", "volume": "164", "number": "982"}, 
+        "title": "Red Ridinghood and the Wolves",
+        "note": "Author is Ethelreda Lewis writing under a pseudonym.",
+        "author": {
+         "authorized": "Baptist, R. Hernekin",
+         "lcna": "no2006118784"
+        }
+     },
+     {"issue": {"issue-date": "1932-04", "volume": "164", "number": "983"}, 
+        "title": "Civilization",
+        "note": "Author is Ethelreda Lewis writing under a pseudonym.",
+        "author": {
+         "authorized": "Baptist, R. Hernekin",
+         "lcna": "no2006118784"
+        }
+     },
+     {"issue": {"issue-date": "1932-04", "volume": "164", "number": "983"}, 
+      "title": "Smoke",
+      "author": {
+         "authorized": "Faulkner, William, 1897-1962",
+         "lcna": "n79003304"
+      }
+     },
+     {"issue": {"issue-date": "1932-04", "volume": "164", "number": "983"}, 
+        "title": "Girl Delinquent Age Sixteen",
+        "author": {
+         "name": "A. De Ford Pitney"
+        }
+     },
+     {"issue": {"issue-date": "1932-06", "volume": "165", "number": "985"}, 
+        "title": "Gal Young Un",
+        "title-note": "part 1 of 2",
+        "author": {
+         "authorized": "Rawlings, Marjorie Kinnan, 1896-1953",
+         "lcna": "n50054037"
+        }
+     },
+     {"issue": {"issue-date": "1932-06", "volume": "165", "number": "985"}, 
+        "title": "Heavy-Down",
+        "author": {
+         "authorized": "Edmonds, Walter D. (Walter Dumaux), 1903-1998",
+         "lcna": "n79083990"
+        }
+     },
+     {"issue": {"issue-date": "1932-06", "volume": "165", "number": "985"}, 
+        "title": "American Honeymoon",
+        "author": {
+         "authorized": "Benét, Stephen Vincent, 1898-1943",
+         "lcna": "n50007691"
+        }
+     },
+     {"issue": {"issue-date": "1932-07", "volume": "165", "number": "986"}, 
+        "title": "Gal Young Un",
+        "title-note": "part 2 of 2",
+        "author": {
+         "authorized": "Rawlings, Marjorie Kinnan, 1896-1953",
+         "lcna": "n50054037"
+        }
+     },
+     {"issue": {"issue-date": "1932-08", "volume": "165", "number": "987"}, 
+        "title": "Black Ulysses",
+        "note": "Author is Ethelreda Lewis writing under a pseudonym.",
+        "author": {
+         "authorized": "Baptist, R. Hernekin",
+         "lcna": "no2006118784"
+        }
+     },
+     {"issue": {"issue-date": "1932-08", "volume": "165", "number": "987"}, 
+        "title": "How Beautiful With Shoes",
+        "author": {
+         "authorized": "Steele, Wilbur Daniel, 1886-1970",
+         "lcna": "no98007702"
+        }
+     },
+     {"issue": {"issue-date": "1932-10", "volume": "165", "number": "989"}, 
+        "title": "Mr. Dennit's Great Adventure",
+        "author": {
+         "authorized": "Edmonds, Walter D. (Walter Dumaux), 1903-1998",
+         "lcna": "n79083990"
+        }
+     },
+     {"issue": {"issue-date": "1933-01", "volume": "166", "number": "992"}, 
+      "title": "The Lady of Leisure",
+      "author": {
+       "authorized": "Boylston, Helen Dore, 1895-1984",
+       "lcna": "n82101651"
+      }
+     },
+     {"issue": {"issue-date": "1933-01", "volume": "166", "number": "992"}, 
+      "title": "New Year's Greeting",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
       }
      },
      {"issue": {"issue-date": "1949-01", "volume": "198", "number": "1184"},
@@ -214,10 +393,9 @@
       }
      }
    ],
-   "comment": "Pick up with 1958 Jul-Dec",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-11-10"
+   "last-updated": "2025-05-28"
 }

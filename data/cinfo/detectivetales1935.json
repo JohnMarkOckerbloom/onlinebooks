@@ -16,9 +16,32 @@
    "first-renewed-contribution-source": "1966-JulDec",
    "last-issue": 
        {"issue-date": "1953-08", "volume": "51", "number": "2"}, 
+   "renewed-issue-completeness": "active/1935",
+   "renewed-issues": [
+     {"issue-date": "1935-08", "volume": "1", "number": "1"}, 
+     {"issue-date": "1935-09", "volume": "1", "number": "2"}, 
+     {"issue-date": "1935-10", "volume": "1", "number": "3"}, 
+     {"issue-date": "1935-11", "volume": "1", "number": "4"}, 
+     {"issue-date": "1935-12", "volume": "2", "number": "1"},
+     {"issue-date": "1936-01", "volume": "2", "number": "2",
+      "cdate": "1935-11-22"},
+     {"issue-date": "1936-02", "volume": "2", "number": "3",
+      "cdate": "1935-12-26"},
+     {"issue-date": "1936-03", "volume": "2", "number": "4",
+      "cdate": "1936-01-24"},
+     {"issue-date": "1936-04", "volume": "3", "number": "1"},
+     {"issue-date": "1936-05", "volume": "3", "number": "2"},
+     {"issue-date": "1936-06", "volume": "3", "number": "3",
+      "note": "CCE renewal record notes this issue number, but also that it was filed as volume 2 number 7."},
+     {"issue-date": "1936-07", "volume": "3", "number": "4"},
+     {"issue-date": "1936-09", "volume": "4", "number": "2"},
+     {"issue-date": "1936-10", "volume": "4", "number": "3"},
+     {"issue-date": "1936-11", "volume": "4", "number": "4"},
+     {"issue-date": "1936-12", "volume": "5", "number": "1"}
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2017-12-15"
+   "last-updated": "2025-05-27"
 }

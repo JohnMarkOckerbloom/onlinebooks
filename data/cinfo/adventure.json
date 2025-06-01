@@ -12,7 +12,7 @@
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1930-01-15", "volume": "73", "number": "3"}},
    "first-renewed-contribution-source": "1957-JulDec",
-   "renewed-issue-completeness": "active/1933",
+   "renewed-issue-completeness": "active/1934",
    "renewed-issues": [
        {"issue-date": "1930-01-15", "volume": "73", "number": "3",
         "cdate": "1930-01-03"},
@@ -120,10 +120,36 @@
        {"issue-date": "1934-10-01", "volume": "89", "number": "5"},
        {"issue-date": "1934-10-15", "volume": "89", "number": "6"},
        {"issue-date": "1934-11-01", "volume": "90", "number": "1"},
-       {"issue-date": "1934-11-15", "volume": "90", "number": "2"}
+       {"issue-date": "1934-11-15", "volume": "90", "number": "2"},
+       {"issue-date": "1934-12-01", "volume": "90", "number": "3"},
+       {"issue-date": "1934-12-15", "volume": "90", "number": "4"},
+       {"issue-date": "1935-01-01", "volume": "90", "number": "5",
+        "cdate": "1934-12-14"},
+       {"issue-date": "1934-01-15", "volume": "90", "number": "6",
+        "cdate": "1934-12-28"},
+       {"issue-date": "1935-02-01", "volume": "91", "number": "1",
+        "cdate": "1935-01-15"},
+       {"issue-date": "1935-02-15", "volume": "91", "number": "2"},
+       {"issue-date": "1935-03-01", "volume": "91", "number": "3"},
+       {"issue-date": "1935-03-15", "volume": "91", "number": "4"},
+       {"issue-date": "1935-04-01", "volume": "91", "number": "5"},
+       {"issue-date": "1935-04-15", "volume": "91", "number": "6"},
+       {"issue-date": "1935-05-01", "volume": "92", "number": "1"},
+       {"issue-date": "1935-05-15", "volume": "92", "number": "2"},
+       {"issue-date": "1935-06-01", "volume": "92", "number": "3"},
+       {"issue-date": "1935-06-15", "volume": "92", "number": "4"},
+       {"issue-date": "1935-07-01", "volume": "92", "number": "5"},
+       {"issue-date": "1935-07-15", "volume": "92", "number": "6"},
+       {"issue-date": "1935-08-01", "volume": "93", "number": "1"},
+       {"issue-date": "1935-08-15", "volume": "93", "number": "2"},
+       {"issue-date": "1935-09-01", "volume": "93", "number": "3"},
+       {"issue-date": "1935-09-15", "volume": "93", "number": "4"},
+       {"issue-date": "1935-10-01", "volume": "93", "number": "5"},
+       {"issue-date": "1935-10-15", "volume": "93", "number": "6"},
+       {"issue-date": "1935-11", "volume": "94", "number": "1"}
    ],
-   "comment": "Pick up issue renewals with 1962",
-   "renewed-contribution-completeness": "active/1930",
+   "comment": "Pick up issue renewals with 1964",
+   "renewed-contribution-completeness": "active/1932",
    "renewed-contributions": [
      {"issue": {"issue-date": "1930-01-15", "volume": "73", "number": "3"},
       "title": "Mavericks",
@@ -457,6 +483,20 @@
          "lcna": "n82224112"
       }
      },
+     {"issue": {"issue-date": "1931-06-01", "volume": "78", "number": "6"},
+      "title": "Mile a Minute Murder",
+      "author": {
+         "authorized": "Elston, Allan Vaughan, 1887-1976",
+         "lcna": "no90023204"
+       }
+     },
+     {"issue": {"issue-date": "1931-07-01", "volume": "79", "number": "2"},
+      "title": "The Certified Check",
+      "author": {
+         "authorized": "Elston, Allan Vaughan, 1887-1976",
+         "lcna": "no90023204"
+       }
+     },
      {"issue": {"issue-date": "1931-08-01", "volume": "79", "number": "4"},
       "title": "The Man on the Mat",
       "author": {
@@ -471,19 +511,215 @@
          "lcna": "n50016555"
       }
      },
+     {"issue": {"issue-date": "1931-09-01", "volume": "79", "number": "6"},
+      "title": "Cargo to Newcastle",
+      "author": {
+         "authorized": "Ellsberg, Edward, 1891-1983",
+         "lcna": "n81078681"
+      }
+     },
      {"issue": {"issue-date": "1931-10-01", "volume": "80", "number": "2"},
       "title": "The Babu",
       "author": {
          "authorized": "Mundy, Talbot, 1879-1940",
          "lcna": "n82224112"
       }
+     },
+     {"issue": {"issue-date": "1931-11-01", "volume": "80", "number": "4"},
+      "title": "Queenstown Patrol",
+      "author": {
+         "authorized": "Ellsberg, Edward, 1891-1983",
+         "lcna": "n81078681"
+      }
+     },
+     {"issue": {"issue-date": "1932-01-01", "volume": "81", "number": "2"},
+      "title": "Case no. 13",
+      "author": {
+         "authorized": "Mundy, Talbot, 1879-1940",
+         "lcna": "n82224112"
+      }
+     },
+     {"issue": {"issue-date": "1932-03-01", "volume": "81", "number": "6"},
+      "title": "The Ring",
+      "author": {
+         "authorized": "Ellsberg, Edward, 1891-1983",
+         "lcna": "n81078681"
+      }
+     },
+     {"issue": {"issue-date": "1932-03-01", "volume": "81", "number": "6"},
+      "title": "Treed Treasure",
+      "author": {
+         "authorized": "Elston, Allan Vaughan, 1887-1976",
+         "lcna": "no90023204"
+       }
+     },
+     {"issue": {"issue-date": "1932-03-01", "volume": "81", "number": "6"},
+      "title": "C. I. D.",
+      "title-note": "part 1 of 4",
+      "note": "Issue as given in 1959 CCE renewal record. FictionMags instead places the first part of 'C. I. D.' in the March 1, 1933 issue.  A 1959 renewal would be too early to be valid for a 1933 publication, but 'C. I. D.' was also published in book form in 1932, and renewed in 1960.",
+      "author": {
+         "authorized": "Mundy, Talbot, 1879-1940",
+         "lcna": "n82224112"
+      }
+     },
+     {"issue": {"issue-date": "1932-03-15", "volume": "82", "number": "1"},
+      "title": "C. I. D.",
+      "title-note": "part 2 of 4",
+      "note": "Issue as given in 1959 CCE renewal record. FictionMags instead places the second part of 'C. I. D.' in the March 15, 1933 issue.  A 1959 renewal would be too early to be valid for a 1933 publication, but 'C. I. D.' was also published in book form in 1932, and renewed in 1960.",
+      "author": {
+         "authorized": "Mundy, Talbot, 1879-1940",
+         "lcna": "n82224112"
+      }
+     },
+     {"issue": {"issue-date": "1932-04-01", "volume": "82", "number": "2"},
+      "title": "The Invisible Sword",
+      "author": {
+         "authorized": "Elston, Allan Vaughan, 1887-1976",
+         "lcna": "no90023204"
+       }
+     },
+     {"issue": {"issue-date": "1932-04-01", "volume": "82", "number": "2"},
+      "title": "C. I. D.",
+      "title-note": "part 3 of 4",
+      "note": "Issue as given in 1959 CCE renewal record. FictionMags instead places the third part of 'C. I. D.' in the April 1, 1933 issue.  A 1959 renewal would be too early to be valid for a 1933 publication, but 'C. I. D.' was also published in book form in 1932, and renewed in 1960.",
+      "author": {
+         "authorized": "Mundy, Talbot, 1879-1940",
+         "lcna": "n82224112"
+      }
+     },
+     {"issue": {"issue-date": "1932-04-15", "volume": "82", "number": "3"},
+      "title": "C. I. D.",
+      "title-note": "part 4 of 4",
+      "note": "Issue as given in 1959 CCE renewal record. FictionMags instead places the fourth part of 'C. I. D.' in the April 15, 1933 issue.  A 1959 renewal would be too early to be valid for a 1933 publication, but 'C. I. D.' was also published in book form in 1932, and renewed in 1960.",
+      "author": {
+         "authorized": "Mundy, Talbot, 1879-1940",
+         "lcna": "n82224112"
+      }
+     },
+     {"issue": {"issue-date": "1932-05-15", "volume": "82", "number": "5"},
+      "title": "81",
+      "author": {
+         "authorized": "Elston, Allan Vaughan, 1887-1976",
+         "lcna": "no90023204"
+       }
+     },
+     {"issue": {"issue-date": "1932-09-01", "volume": "83", "number": "6"},
+      "title": "Whispering Rails",
+      "author": {
+         "authorized": "Elston, Allan Vaughan, 1887-1976",
+         "lcna": "no90023204"
+       }
+     },
+     {"issue": {"issue-date": "1932-10-15", "volume": "84", "number": "3"},
+      "title": "The Belfry",
+      "author": {
+         "authorized": "Elston, Allan Vaughan, 1887-1976",
+         "lcna": "no90023204"
+       }
+     },
+     {"issue": {"issue-date": "1932-12-01", "volume": "84", "number": "6"}, 
+      "title": "The Mister",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
+     {"issue": {"issue-date": "1933-01-01", "volume": "85", "number": "2"}, 
+      "title": "Sorry Sam, Cowhand",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
+     {"issue": {"issue-date": "1933-03-01", "volume": "85", "number": "6"},
+      "title": "C. I. D.",
+      "title-note": "part 1 of 4",
+      "note": "Issue as given in FictionMags. A 1959 CCE renewal record instead places the first part of 'C. I. D.' in the March 1, 1932 issue. 'C. I. D.' was also published in book form in 1932, and renewed in 1960.",
+      "author": {
+         "authorized": "Mundy, Talbot, 1879-1940",
+         "lcna": "n82224112"
+      }
+     },
+     {"issue": {"issue-date": "1933-03-15", "volume": "86", "number": "1"},
+      "title": "C. I. D.",
+      "title-note": "part 2 of 4",
+      "note": "Issue as given in FictionMags. A 1959 CCE renewal record instead places the second part of 'C. I. D.' in the March 15, 1932 issue. 'C. I. D.' was also published in book form in 1932, and renewed in 1960.",
+      "author": {
+         "authorized": "Mundy, Talbot, 1879-1940",
+         "lcna": "n82224112"
+      }
+     },
+     {"issue": {"issue-date": "1933-04-01", "volume": "86", "number": "2"},
+      "title": "C. I. D.",
+      "title-note": "part 3 of 4",
+      "note": "Issue as given in FictionMags. A 1959 CCE renewal record instead places the third part of 'C. I. D.' in the April 1, 1932 issue. 'C. I. D.' was also published in book form in 1932, and renewed in 1960.",
+      "author": {
+         "authorized": "Mundy, Talbot, 1879-1940",
+         "lcna": "n82224112"
+      }
+     },
+     {"issue": {"issue-date": "1933-04-15", "volume": "86", "number": "3"},
+      "title": "C. I. D.",
+      "title-note": "part 4 of 4",
+      "note": "Issue as given in FictionMags. A 1959 CCE renewal record instead places the fourth part of 'C. I. D.' in the April 1, 1932 issue. 'C. I. D.' was also published in book form in 1932, and renewed in 1960.",
+      "author": {
+         "authorized": "Mundy, Talbot, 1879-1940",
+         "lcna": "n82224112"
+      }
+     },
+     {"issue": {"issue-date": "1933-08", "volume": "87", "number": "2"},
+      "title": "In the Red, Red Sea",
+      "note": "Title as given in CCE renewal record. FictionMags gives title of Mundy's story in this issue as 'Red Sea Cargo'.",
+      "author": {
+         "authorized": "Mundy, Talbot, 1879-1940",
+         "lcna": "n82224112"
+      }
+     },
+     {"issue": {"issue-date": "1933-09", "volume": "87", "number": "3"},
+      "title": "Wild Jack Rhett",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1933-09", "volume": "87", "number": "3"},
+      "title": "The Yukon Kid",
+      "title-note": "part 1 of 3",
+      "author": {
+         "authorized": "Hendryx, James B. (James Beardsley), 1880-1963",
+         "lcna": "no95058559"
+       }
+     },
+     {"issue": {"issue-date": "1933-10", "volume": "87", "number": "4"},
+      "title": "The Yukon Kid",
+      "title-note": "part 2 of 3",
+      "author": {
+         "authorized": "Hendryx, James B. (James Beardsley), 1880-1963",
+         "lcna": "no95058559"
+       }
+     },
+     {"issue": {"issue-date": "1933-11", "volume": "87", "number": "5"},
+      "title": "Paston's Glory",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1933-11", "volume": "87", "number": "5"},
+      "title": "The Yukon Kid",
+      "title-note": "part 3 of 3",
+      "author": {
+         "authorized": "Hendryx, James B. (James Beardsley), 1880-1963",
+         "lcna": "no95058559"
+       }
      }
    ],
-   "comment": "Pick up contribution renewals with 1959 Jan-Jun",
+   "comment": "Pick up contribution renewals with 1961 Jan-Jun",
    "additional-note": "Active contribution renewals are recorded beginning in the 1957 January-June CCE volume, but the earliest renewed contribution is noted in the 1957 July-December volume.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-04-29"
+   "last-updated": "2025-05-27"
 }

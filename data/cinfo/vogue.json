@@ -18,7 +18,7 @@
       {"id": "voguemidmonth",
        "note": "Vogue's Mid-Month Collection"}
    ],
-   "renewed-issue-completeness": "active/1933",
+   "renewed-issue-completeness": "active/1934",
    "renewed-issues": [
      {"issue-date": "1930-01-04", "volume" : "75", "number": "1"},
      {"issue-date": "1930-01-18", "volume" : "75", "number": "2"},
@@ -135,11 +135,39 @@
      {"issue-date": "1934-09-15", "volume" : "84", "number": "6"},
      {"issue-date": "1934-10-01", "volume" : "84", "number": "7"},
      {"issue-date": "1934-10-15", "volume" : "84", "number": "8"},
-     {"issue-date": "1934-11-01", "volume" : "84", "number": "9"}
+     {"issue-date": "1934-11-01", "volume" : "84", "number": "9"},
+     {"issue-date": "1934-11-15", "volume" : "84", "number": "10"},
+     {"issue-date": "1934-12-01", "volume" : "84", "number": "11"},
+     {"issue-date": "1934-12-15", "volume" : "84", "number": "12"},
+     {"issue-date": "1935-01-01", "volume" : "85", "number": "1",
+      "cdate": "1934-12-28"},
+     {"issue-date": "1935-01-15", "volume" : "85", "number": "2",
+      "cdate": "1935-01-15"},
+     {"issue-date": "1935-02-01", "volume" : "85", "number": "3"},
+     {"issue-date": "1935-02-15", "volume" : "85", "number": "4"},
+     {"issue-date": "1935-03-01", "volume" : "85", "number": "5"},
+     {"issue-date": "1935-03-15", "volume" : "85", "number": "6"},
+     {"issue-date": "1935-04-01", "volume" : "85", "number": "7"},
+     {"issue-date": "1935-04-15", "volume" : "85", "number": "8"},
+     {"issue-date": "1935-05-01", "volume" : "85", "number": "9"},
+     {"issue-date": "1935-05-15", "volume" : "85", "number": "10"},
+     {"issue-date": "1935-06-01", "volume" : "85", "number": "11"},
+     {"issue-date": "1935-06-15", "volume" : "85", "number": "12"},
+     {"issue-date": "1935-07-01", "volume" : "86", "number": "1"},
+     {"issue-date": "1935-07-15", "volume" : "86", "number": "2"},
+     {"issue-date": "1935-08-01", "volume" : "86", "number": "3"},
+     {"issue-date": "1935-08-15", "volume" : "86", "number": "4"},
+     {"issue-date": "1935-09-01", "volume" : "86", "number": "5"},
+     {"issue-date": "1935-09-15", "volume" : "86", "number": "6"},
+     {"issue-date": "1935-10-01", "volume" : "86", "number": "7"},
+     {"issue-date": "1935-10-15", "volume" : "86", "number": "8"},
+     {"issue-date": "1935-11-01", "volume" : "86", "number": "9"},
+     {"issue-date": "1935-11-15", "volume" : "86", "number": "10"},
+     {"issue-date": "1935-12-01", "volume" : "86", "number": "11"}
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-04-29"
+   "last-updated": "2025-05-27"
 }

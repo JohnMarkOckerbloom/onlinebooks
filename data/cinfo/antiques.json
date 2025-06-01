@@ -10,7 +10,7 @@
    "first-renewed-contribution":
       {"issue": {"issue-date": "1945-11"}},
    "first-renewed-contribution-source": "1973-JanJun",
-   "renewed-issue-completeness": "active/1933",
+   "renewed-issue-completeness": "active/1935",
    "renewed-issues": [
      {"issue-date": "1930-02", "volume": "17", "number": "2",
       "cdate": "1930-01-30"},
@@ -73,7 +73,35 @@
      {"issue-date": "1934-03", "volume": "25", "number": "3"},
      {"issue-date": "1934-04", "volume": "25", "number": "4"},
      {"issue-date": "1934-05", "volume": "25", "number": "5"},
-     {"issue-date": "1934-06", "volume": "25", "number": "6"}
+     {"issue-date": "1934-06", "volume": "25", "number": "6"},
+     {"issue-date": "1934-07", "volume": "26", "number": "1"},
+     {"issue-date": "1934-08", "volume": "26", "number": "2"},
+     {"issue-date": "1934-09", "volume": "26", "number": "3"},
+     {"issue-date": "1934-10", "volume": "26", "number": "4"},
+     {"issue-date": "1934-11", "volume": "26", "number": "5"},
+     {"issue-date": "1934-12", "volume": "26", "number": "6"},
+     {"issue-date": "1935-01", "volume": "27", "number": "1",
+      "cdate": "1934-12-28"},
+     {"issue-date": "1935-02", "volume": "27", "number": "2",
+      "cdate": "1935-01-23"},
+     {"issue-date": "1935-03", "volume": "27", "number": "3"},
+     {"issue-date": "1935-04", "volume": "27", "number": "4"},
+     {"issue-date": "1935-05", "volume": "27", "number": "5"},
+     {"issue-date": "1935-06", "volume": "27", "number": "6"},
+     {"issue-date": "1935-07", "volume": "28", "number": "1"},
+     {"issue-date": "1935-08", "volume": "28", "number": "2"},
+     {"issue-date": "1935-09", "volume": "28", "number": "3"},
+     {"issue-date": "1935-10", "volume": "28", "number": "4"},
+     {"issue-date": "1935-11", "volume": "28", "number": "5"},
+     {"issue-date": "1935-12", "volume": "28", "number": "6"},
+     {"issue-date": "1936-01", "volume": "29", "number": "1",
+      "cdate": "1935-12-26"},
+     {"issue-date": "1936-02", "volume": "29", "number": "2",
+      "cdate": "1936-01-25"},
+     {"issue-date": "1936-03", "volume": "29", "number": "3"},
+     {"issue-date": "1936-04", "volume": "29", "number": "4"},
+     {"issue-date": "1936-05", "volume": "29", "number": "5"},
+     {"issue-date": "1936-06", "volume": "29", "number": "6"}
    ],
    "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
@@ -135,5 +163,5 @@
    },
    "acknowledgement": 
       "Thanks to Peter Sullivan for copyright research on this title.",
-   "last-updated": "2025-04-16"
+   "last-updated": "2025-05-27"
 }

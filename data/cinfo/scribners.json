@@ -17,7 +17,7 @@
       {"id": "scribnerscomment",
        "note": "Scribner's Commentator"}
    ],
-   "renewed-issue-completeness": "active/1932",
+   "renewed-issue-completeness": "active/1934",
    "renewed-issues": [
       {"issue-date": "1930-02", "volume": "87", "number": "2",
        "cdate": "1930-01-24"},
@@ -72,9 +72,34 @@
       {"issue-date": "1933-09", "volume": "94", "number": "3"},
       {"issue-date": "1933-10", "volume": "94", "number": "4"},
       {"issue-date": "1933-11", "volume": "94", "number": "5"},
-      {"issue-date": "1933-12", "volume": "94", "number": "6"}
+      {"issue-date": "1933-12", "volume": "94", "number": "6"},
+      {"issue-date": "1934-01", "volume": "95", "number": "1",
+       "cdate": "1933-12-19"},
+      {"issue-date": "1934-02", "volume": "95", "number": "2",
+       "cdate": "1934-01-18"},
+      {"issue-date": "1934-03", "volume": "95", "number": "3"},
+      {"issue-date": "1934-04", "volume": "95", "number": "4"},
+      {"issue-date": "1934-05", "volume": "95", "number": "5"},
+      {"issue-date": "1934-06", "volume": "95", "number": "6"},
+      {"issue-date": "1934-07", "volume": "96", "number": "1"},
+      {"issue-date": "1934-08", "volume": "96", "number": "2"},
+      {"issue-date": "1934-09", "volume": "96", "number": "3"},
+      {"issue-date": "1934-10", "volume": "96", "number": "4"},
+      {"issue-date": "1934-11", "volume": "96", "number": "5"},
+      {"issue-date": "1934-12", "volume": "96", "number": "6"},
+      {"issue-date": "1935-01", "volume": "97", "number": "1",
+       "cdate": "1934-12-18"},
+      {"issue-date": "1935-02", "volume": "97", "number": "2",
+       "cdate": "1935-01-18"},
+      {"issue-date": "1935-03", "volume": "97", "number": "3"},
+      {"issue-date": "1935-04", "volume": "97", "number": "4"},
+      {"issue-date": "1935-05", "volume": "97", "number": "5"},
+      {"issue-date": "1935-06", "volume": "97", "number": "6"},
+      {"issue-date": "1935-07", "volume": "98", "number": "1"},
+      {"issue-date": "1935-08", "volume": "98", "number": "2"},
+      {"issue-date": "1935-09", "volume": "98", "number": "3"}
    ],
-   "renewed-contribution-completeness": "active/1930",
+   "renewed-contribution-completeness": "active/1931",
    "renewed-contributions": [
      {"issue": {"issue-date": "1930-02", "volume": "87", "number": "2"},
       "title": "Procedure",
@@ -223,6 +248,13 @@
          "lcna": "n78095661"
        }
      },
+     {"issue": {"issue-date": "1931-05", "volume": "89", "number": "5"},
+       "title": "Behind the Swamp There Was a Village",
+       "author": {
+         "authorized": "Sabsay, Nahum, 1890-1965",
+         "lcna": "no98119346"
+       }
+     },
      {"issue": {"issue-date": "1931-06", "volume": "89", "number": "6"},
       "title": "Spotted Horses",
       "author": {
@@ -230,12 +262,26 @@
          "lcna": "n79003304"
       }
      },
+     {"issue": {"issue-date": "1931-07", "volume": "90", "number": "1"},
+        "title": "Signals From the Sun",
+        "author": {
+         "authorized": "Hale, George Ellery, 1868-1938",
+         "lcna": "n79135326"
+        }
+     },
      {"issue": {"issue-date": "1931-08", "volume": "90", "number": "2"},
         "title": "Colloque Sentimentale",
         "author": {
          "authorized": "Hale, Nancy, 1908-1988",
          "lcna": "n50018614"
         }
+     },
+     {"issue": {"issue-date": "1931-08", "volume": "90", "number": "2"},
+      "title": "Two Years",
+      "author": {
+         "authorized": "Gowen, Emmett, 1902-",
+         "lcna": "no93014587"
+      }
      },
      {"issue": {"issue-date": "1931-09", "volume": "90", "number": "3"},
         "title": "Three Ghosts of America",
@@ -291,13 +337,149 @@
         "author": {
          "name": "Jose Villa"
         }
+     },
+     {"issue": {"issue-date": "1932-01", "volume": "91", "number": "1"},
+      "title": "Mill Girls",
+      "author": {
+       "authorized": "Anderson, Sherwood, 1876-1941",
+       "lcna": "n79045519"
+      }
+     },
+     {"issue": {"issue-date": "1932-01", "volume": "91", "number": "1"},
+      "title": "Death Drag",
+      "author": {
+         "authorized": "Faulkner, William, 1897-1962",
+         "lcna": "n79003304"
+      }
+     },
+     {"issue": {"issue-date": "1932-01", "volume": "91", "number": "1"},
+        "title": "A Search for the Centre",
+        "author": {
+         "authorized": "Beard, Charles A. (Charles Austin), 1874-1948",
+         "lcna": "n80126170"
+        }
+     },
+     {"issue": {"issue-date": "1932-01", "volume": "91", "number": "1"},
+        "title": "Bud on Nantucket Island",
+        "author": {
+         "authorized": "Beer, Thomas, 1889-1940",
+         "lcna": "n79151185"
+        }
+     },
+     {"issue": {"issue-date": "1932-02", "volume": "91", "number": "2"},
+        "title": "Her Son",
+        "author": {
+         "authorized": "Wharton, Edith, 1862-1937",
+         "lcna": "n79151500"
+        }
+     },
+     {"issue": {"issue-date": "1932-03", "volume": "91", "number": "3"},
+      "title": "The Best People",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1932-05", "volume": "91", "number": "5"},
+        "title": "A Crop of Beans",
+        "author": {
+         "authorized": "Rawlings, Marjorie Kinnan, 1896-1953",
+         "lcna": "n50054037"
+        }
+     },
+     {"issue": {"issue-date": "1932-05", "volume": "91", "number": "5"},
+        "title": "Simple Aveu",
+        "author": {
+         "authorized": "Hale, Nancy, 1908-1988",
+         "lcna": "n50018614"
+        }
+     },
+     {"issue": {"issue-date": "1932-06", "volume": "91", "number": "6"},
+        "title": "The Happiest Time",
+        "author": {
+         "authorized": "Flandrau, Grace, 1886-1971",
+         "lcna": "n85034382"
+        }
+     },
+     {"issue": {"issue-date": "1932-06", "volume": "91", "number": "6"},
+      "title": "Blind Buckers",
+      "author": {
+         "authorized": "James, Will, 1892-1942",
+         "lcna": "n80005727"
+      }
+     },
+     {"issue": {"issue-date": "1932-08", "volume": "92", "number": "2"},
+        "title": "Sister Bernadette",
+        "author": {
+         "authorized": "Callaghan, Morley, 1903-1990",
+         "lcna": "n79006957"
+        }
+     },
+     {"issue": {"issue-date": "1932-08", "volume": "92", "number": "2"},
+      "title": "A Couple of Nuts",
+      "author": {
+        "authorized": "Fitzgerald, Zelda, 1900-1948",
+         "lcna": "n50003067"
+      }
+     },
+     {"issue": {"issue-date": "1932-08", "volume": "92", "number": "2"},
+        "title": "What Was Truly Mine",
+        "author": {
+         "authorized": "Flandrau, Grace, 1886-1971",
+         "lcna": "n85034382"
+        }
+     },
+     {"issue": {"issue-date": "1932-09", "volume": "92", "number": "3"},
+        "title": "She Was Old",
+        "author": {
+         "authorized": "Flandrau, Grace, 1886-1971",
+         "lcna": "n85034382"
+        }
+     },
+     {"issue": {"issue-date": "1932-09", "volume": "92", "number": "3"},
+      "title": "Flowering Wilderness",
+      "title-note": "part 1 of 3",
+      "author": {
+       "authorized": "Galsworthy, John, 1867-1933",
+       "lcna": "n79041972"
+      }
+     },
+     {"issue": {"issue-date": "1932-10", "volume": "92", "number": "4"},
+      "title": "Flowering Wilderness",
+      "title-note": "part 2 of 3",
+      "author": {
+       "authorized": "Galsworthy, John, 1867-1933",
+       "lcna": "n79041972"
+      }
+     },
+     {"issue": {"issue-date": "1932-11", "volume": "92", "number": "5"},
+      "title": "Flowering Wilderness",
+      "title-note": "part 3 of 3",
+      "author": {
+       "authorized": "Galsworthy, John, 1867-1933",
+       "lcna": "n79041972"
+      }
+     },
+     {"issue": {"issue-date": "1932-12", "volume": "92", "number": "6"},
+        "title": "The Gizzard of a Scientist",
+        "author": {
+         "authorized": "Boyd, James, 1888-1944",
+         "lcna": "n87870714"
+        }
+     },
+     {"issue": {"issue-date": "1933-01", "volume": "93", "number": "1"},
+      "title": "There Was a Queen",
+      "author": {
+         "authorized": "Faulkner, William, 1897-1962",
+         "lcna": "n79003304"
+      }
      }
    ],
-   "comment": "Pick up contributions with 1959 Jan-Jun",
+   "comment": "Pick up contributions with 1960 Jan-Jun",
    "additional-note": "Active contribution renewals are recorded beginning in the 1957 January-June CCE volume, but the earliest active renewed contribution copyright is noted in the 1957 July-December volume.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-01-01"
+   "last-updated": "2025-05-28"
 }

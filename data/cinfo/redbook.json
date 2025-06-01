@@ -15,7 +15,7 @@
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1930-02", "volume": "54", "number": "4"}}, 
    "first-renewed-contribution-source": "1957-JanJun",
-   "renewed-issue-completeness": "active/1933",
+   "renewed-issue-completeness": "active/1934",
    "renewed-issues": [
       {"issue-date": "1930-02", "volume": "54", "number": "4",
        "cdate": "1930-01-12"},
@@ -81,7 +81,21 @@
       {"issue-date": "1934-06", "volume": "63", "number": "2"},
       {"issue-date": "1934-07", "volume": "63", "number": "3"},
       {"issue-date": "1934-08", "volume": "63", "number": "4"},
-      {"issue-date": "1934-09", "volume": "63", "number": "5"}
+      {"issue-date": "1934-09", "volume": "63", "number": "5"},
+      {"issue-date": "1934-10", "volume": "63", "number": "6"},
+      {"issue-date": "1934-11", "volume": "64", "number": "1"},
+      {"issue-date": "1934-12", "volume": "64", "number": "2"},
+      {"issue-date": "1935-01", "volume": "64", "number": "3",
+       "cdate": "1934-12-05"},
+      {"issue-date": "1935-02", "volume": "64", "number": "4",
+       "cdate": "1935-01-05"},
+      {"issue-date": "1935-03", "volume": "64", "number": "5"},
+      {"issue-date": "1935-04", "volume": "64", "number": "6"},
+      {"issue-date": "1935-05", "volume": "65", "number": "1"},
+      {"issue-date": "1935-06", "volume": "65", "number": "2"},
+      {"issue-date": "1935-07", "volume": "65", "number": "3"},
+      {"issue-date": "1935-08", "volume": "65", "number": "4"},
+      {"issue-date": "1935-09", "volume": "65", "number": "5"}
    ],
    "renewed-contribution-completeness": "active/1930",
    "renewed-contributions": [
@@ -388,6 +402,13 @@
        }
      },
      {"issue": {"issue-date": "1931-03", "volume": "57", "number": "5"},
+      "title": "Cured",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1931-03", "volume": "57", "number": "5"},
        "title": "I Couldn't Face It",
        "author": {
         "authorized": "Roche, Arthur Somers, 1883-1935",
@@ -565,6 +586,13 @@
       }
      },
      {"issue": {"issue-date": "1932-01", "volume": "58", "number": "3"},
+      "title": "Extra Man",
+      "author": {
+       "authorized": "Duganne, Phyllis, 1899-1976",
+       "lcna": "n90719514"
+      }
+     },
+     {"issue": {"issue-date": "1932-01", "volume": "58", "number": "3"},
       "title": "Gangway",
       "title-note": "part 7 of 7",
       "author": {
@@ -579,6 +607,76 @@
         "authorized": "Roche, Arthur Somers, 1883-1935",
         "lcna": "no89021623"
        }
+     },
+     {"issue": {"issue-date": "1932-02", "volume": "58", "number": "4"}, 
+      "title": "Six of One",
+      "author": {
+       "authorized": "Fitzgerald, F. Scott (Francis Scott), 1896-1940",
+       "lcna": "n79006871"
+      }
+     },
+     {"issue": {"issue-date": "1932-02", "volume": "58", "number": "4"}, 
+      "title": "Admirals Best Pants",
+      "author": {
+       "authorized": "Bellah, James Warner, 1899-1976",
+       "lcna": "no92015223"
+      }
+     },
+     {"issue": {"issue-date": "1932-05", "volume": "59", "number": "1"}, 
+      "title": "The Affair at Giraldon",
+      "note": "Renewed under the author's married name, Bernice Brown Brush.",
+      "author": {
+       "name": "Bernice Brown"
+      }
+     },
+     {"issue": {"issue-date": "1932-07", "volume": "59", "number": "3"},
+       "title": "Loser Take All",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1932-07", "volume": "59", "number": "3"},
+      "title": "Youth at Midnight",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1932-09", "volume": "59", "number": "5"}, 
+      "title": "Cordelia and the Poet",
+      "author": {
+         "authorized": "Barnes, Margaret Ayer, 1886-1967",
+         "lcna": "n90680004"
+       }
+     },
+     {"issue": {"issue-date": "1932-09", "volume": "59", "number": "5"}, 
+      "title": "A Gentleman Passes By",
+      "author": {
+       "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
+       "lcna": "no90021257"
+      }
+     },
+     {"issue": {"issue-date": "1932-09", "volume": "59", "number": "5"}, 
+      "title": "Harvest",
+      "note": "Renewed under the author's married name, Bernice Brown Brush.",
+      "author": {
+       "name": "Bernice Brown"
+      }
+     },
+     {"issue": {"issue-date": "1932-10", "volume": "59", "number": "6"}, 
+       "title": "Love is an Awful Thing",
+       "author": {
+        "authorized": "Du Jardin, Rosamond, 1902-1963",
+        "lcna": "n50052506"
+      }
+     },
+     {"issue": {"issue-date": "1932-12", "volume": "60", "number": "2"}, 
+      "title": "Life's Little Trick",
+      "note": "Renewed under the author's married name, Bernice Brown Brush.",
+      "author": {
+       "name": "Bernice Brown"
+      }
      },
      {"issue": {"issue-date": "1943-10", "volume": "81", "number": "6"},
         "title": "Mother's Little Helper",
@@ -597,10 +695,10 @@
         }
      }
    ],
-   "comment": "Pick up contributor sweep with 1959 Jan-Jun",
+   "comment": "Pick up contributor sweep with 1959 Jul-Dec starting with H (Harner)",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-04-24"
+   "last-updated": "2025-05-31"
 }

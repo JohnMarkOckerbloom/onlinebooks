@@ -9,9 +9,22 @@
    "first-renewed-contribution-source": "cce+database",
    "last-issue": {"issue-date": "1964-Winter", "volume": "91", "number": "4"},
    "succeeded-by": [{"id": "sacredmusic", "note": "Sacred Music"}],
+   "renewed-issue-completeness": "active/1934",
+   "renewed-issues": [
+      {"issue-date": "1934-09", "volume": "60", "number": "8"},
+      {"issue-date": "1934-10", "volume": "60", "number": "10"},
+      {"issue-date": "1934-11", "volume": "60", "number": "11"},
+      {"issue-date": "1934-12", "volume": "60", "number": "11"},
+      {"issue-date": "1935-01", "volume": "61", "number": "1"},
+      {"issue-date": "1935-02", "volume": "61", "number": "2"},
+      {"issue-date": "1935-03", "volume": "61", "number": "3"},
+      {"issue-date": "1935-04", "volume": "61", "number": "4"},
+      {"issue-date": "1935-05", "volume": "61", "number": "5"},
+      {"issue-date": "1935-06", "volume": "61", "number": "6"}
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-08-26"
+   "last-updated": "2025-05-27"
 }

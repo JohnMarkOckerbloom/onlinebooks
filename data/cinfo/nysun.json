@@ -8,7 +8,7 @@
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1930-03-21"}},
    "first-renewed-contribution-source": "1957-JulDec",
-   "renewed-contribution-completeness": "active/1930",
+   "renewed-contribution-completeness": "active/1933",
    "renewed-contributions": [
      {"issue": {"issue-date": "1930-03-21"},
        "title": "Italian Woman on MacDougal Street",
@@ -30,14 +30,56 @@
         "authorized": "Benét, Laura",
         "lcna": "n50008105"
        }
+     },
+     {"issue": {"issue-date": "1932-03-09"},
+       "title": "Intimate",
+       "author": {
+        "authorized": "Benét, Laura",
+        "lcna": "n50008105"
+       }
+     },
+     {"issue": {"issue-date": "1932-09-28"},
+       "title": "The Forgotten Man",
+       "author": {
+        "authorized": "Phillips, H. I. (Harry Irving), 1887-",
+        "lcna": "no94031117"
+       }
+     },
+     {"issue": {"issue-date": "1932-12-08"},
+       "title": "The Great Show Control Failure",
+       "author": {
+        "authorized": "Phillips, H. I. (Harry Irving), 1887-",
+        "lcna": "no94031117"
+       }
+     },
+     {"issue": {"issue-date": "1932-12-15"},
+       "title": "The Dormouse",
+       "author": {
+        "authorized": "Benét, Laura",
+        "lcna": "n50008105"
+       }
+     },
+     {"issue": {"issue-date": "1933-08-26"},
+       "title": "Little Valleys",
+       "author": {
+        "authorized": "Benét, Laura",
+        "lcna": "n50008105"
+       }
+     },
+     {"issue": {"issue-date": "1933-10-13"},
+        "title": "Kitten Up a Tree",
+        "author": {
+         "authorized": "McGinley, Phyllis, 1905-1978",
+         "lcna": "n50007804"
+        }
      }
    ],
    "additional-notes": ["The Sun absorbed the Globe in 1923, and published as The Sun and the Globe for sometime thereafter (at least until 1924), eventually reverting to simply being called 'The Sun'",
-   "Some images from The Sun were renewed separately in the Artwork section, rather than in the Contributions to Periodicals section.  We do not know of any current active renewals in Artwork, but have not systematically checked past renewals filed in 1964."
+   "Some images from The Sun were renewed separately in the Artwork section, rather than in the Contributions to Periodicals section.  We do not know of any current active renewals in Artwork."
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-01-10"
+   "last-updated": "2025-05-04"
 }

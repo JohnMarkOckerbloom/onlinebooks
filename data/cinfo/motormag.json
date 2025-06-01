@@ -1,11 +1,13 @@
-{ "title": "Motor", "title-note": "Hearst Magazines, 1903-",
+{
+   "title": "Motor",
+   "title-note": "Hearst Magazines, 1903-",
    "online": "1",
    "first-renewed-issue":
       {"issue-date": "1930-01", "volume": "53", "number": "1"},
    "first-renewed-issue-source": "1957-JulDec",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
-   "renewed-issue-completeness": "active/1931",
+   "renewed-issue-completeness": "active/1934",
    "renewed-issues": [
       {"issue-date": "1930-01", "volume": "53", "number": "1"},
       {"issue-date": "1930-02", "volume": "53", "number": "2"},
@@ -54,11 +56,35 @@
       {"issue-date": "1933-09", "volume": "60", "number": "3"},
       {"issue-date": "1933-10", "volume": "60", "number": "4"},
       {"issue-date": "1933-11", "volume": "60", "number": "5"},
-      {"issue-date": "1933-12", "volume": "60", "number": "6"}
+      {"issue-date": "1933-12", "volume": "60", "number": "6"},
+      {"issue-date": "1934-01", "volume": "61", "number": "1"},
+      {"issue-date": "1934-02", "volume": "61", "number": "2"},
+      {"issue-date": "1934-03", "volume": "61", "number": "3"},
+      {"issue-date": "1934-04", "volume": "61", "number": "4"},
+      {"issue-date": "1934-05", "volume": "61", "number": "5"},
+      {"issue-date": "1934-06", "volume": "61", "number": "6"},
+      {"issue-date": "1934-07", "volume": "62", "number": "1"},
+      {"issue-date": "1934-08", "volume": "62", "number": "2"},
+      {"issue-date": "1934-09", "volume": "62", "number": "3"},
+      {"issue-date": "1934-10", "volume": "62", "number": "4"},
+      {"issue-date": "1934-11", "volume": "62", "number": "5"},
+      {"issue-date": "1934-12", "volume": "62", "number": "6"},
+      {"issue-date": "1935-01", "volume": "63", "number": "1"},
+      {"issue-date": "1935-02", "volume": "63", "number": "2"},
+      {"issue-date": "1935-03", "volume": "63", "number": "3"},
+      {"issue-date": "1935-04", "volume": "63", "number": "4"},
+      {"issue-date": "1935-05", "volume": "63", "number": "5"},
+      {"issue-date": "1935-06", "volume": "63", "number": "6"},
+      {"issue-date": "1935-07", "volume": "64", "number": "1"},
+      {"issue-date": "1935-08", "volume": "64", "number": "2"},
+      {"issue-date": "1935-09", "volume": "64", "number": "3"},
+      {"issue-date": "1935-10", "volume": "64", "number": "4"},
+      {"issue-date": "1935-11", "volume": "64", "number": "5"},
+      {"issue-date": "1935-12", "volume": "64", "number": "6"}
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-11-11"
+   "last-updated": "2025-05-27"
 }

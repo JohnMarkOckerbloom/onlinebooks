@@ -4,6 +4,10 @@
       "The Ladies' Home Journal and Practical Housekeeper"
    ],
    "online": "1",
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/FMI/link.asp?magid=LHJ",
+       "note": "FictionMags (partial; mostly limited to the fiction contributions)"}
+   ],
    "first-renewed-issue": 
      {"issue-date": "1930-02", "volume": "47", "number": "2",
         "cdate": "1930-01-28"},
@@ -76,9 +80,23 @@
      {"issue-date": "1934-04", "volume": "51", "number": "4"},
      {"issue-date": "1934-05", "volume": "51", "number": "5"},
      {"issue-date": "1934-06", "volume": "51", "number": "6"},
-     {"issue-date": "1934-07", "volume": "51", "number": "7"}
+     {"issue-date": "1934-07", "volume": "51", "number": "7"},
+     {"issue-date": "1934-08", "volume": "51", "number": "8"},
+     {"issue-date": "1934-09", "volume": "51", "number": "9"},
+     {"issue-date": "1934-10", "volume": "51", "number": "10"},
+     {"issue-date": "1934-11", "volume": "51", "number": "11"},
+     {"issue-date": "1934-12", "volume": "51", "number": "12"},
+     {"issue-date": "1935-01", "volume": "52", "number": "1",
+      "cdate": "1934-12-07"},
+     {"issue-date": "1935-02", "volume": "52", "number": "2",
+      "cdate": "1935-01-10"},
+     {"issue-date": "1935-03", "volume": "52", "number": "3"},
+     {"issue-date": "1935-04", "volume": "52", "number": "4"},
+     {"issue-date": "1935-05", "volume": "52", "number": "5"},
+     {"issue-date": "1935-06", "volume": "52", "number": "6"},
+     {"issue-date": "1935-07", "volume": "52", "number": "7"}
    ],
-   "renewed-contribution-completeness": "active/1930",
+   "renewed-contribution-completeness": "active/1932",
    "renewed-contributions": [
      {"issue": {"issue-date": "1930-02", "volume": "47", "number": "2"},
       "title": "The One She Wanted",
@@ -440,13 +458,279 @@
        "authorized": "Banning, Margaret Culkin, 1891-1982",
        "lcna": "n86086096"
       }
+     },
+     {"issue": {"issue-date": "1932-01", "volume": "49", "number": "1"},
+      "title": "The Mystery of the Baghdad Chest",
+      "author": {
+         "authorized": "Christie, Agatha, 1890-1976",
+         "lcna": "n79038407"
+       }
+     },
+     {"issue": {"issue-date": "1932-02", "volume": "49", "number": "2"},
+      "title": "Wanton Mally",
+      "title-note": "part 1 of 4",
+      "author": {
+       "authorized": "Tarkington, Booth, 1869-1946",
+       "lcna": "n79078124"
+      }
+     },
+     {"issue": {"issue-date": "1932-03", "volume": "49", "number": "3"},
+      "title": "Wanton Mally",
+      "title-note": "part 2 of 4",
+      "author": {
+       "authorized": "Tarkington, Booth, 1869-1946",
+       "lcna": "n79078124"
+      }
+     },
+     {"issue": {"issue-date": "1932-04", "volume": "49", "number": "4"},
+        "title": "Twenty-Seven Minutes",
+        "author": {
+         "authorized": "Steele, Wilbur Daniel, 1886-1970",
+         "lcna": "no98007702"
+        }
+     },
+     {"issue": {"issue-date": "1932-04", "volume": "49", "number": "4"},
+      "title": "Wanton Mally",
+      "title-note": "part 3 of 4",
+      "author": {
+       "authorized": "Tarkington, Booth, 1869-1946",
+       "lcna": "n79078124"
+      }
+     },
+     {"issue": {"issue-date": "1932-05", "volume": "49", "number": "5"},
+      "title": "Wanton Mally",
+      "title-note": "part 4 of 4",
+      "author": {
+       "authorized": "Tarkington, Booth, 1869-1946",
+       "lcna": "n79078124"
+      }
+     },
+     {"issue": {"issue-date": "1932-06", "volume": "49", "number": "6"},
+      "title": "Forbidden Lover",
+      "title-note": "part 1 of 3",
+      "author": {
+       "authorized": "Sabatini, Rafael, 1875-1950",
+       "lcna": "n50016255"
+      }
+     },
+     {"issue": {"issue-date": "1932-06", "volume": "49", "number": "6"},
+       "title": "The Eleventh Hour Bridegroom",
+       "author": {
+        "authorized": "Bradley, Mary Hastings",
+        "lcna": "no92028910"
+       }
+     },
+     {"issue": {"issue-date": "1932-06", "volume": "49", "number": "6"},
+      "title": "A Short-Order Joan",
+      "author": {
+       "authorized": "Moore, Olga",
+       "lcna": "no2010089781"
+      }
+     },
+     {"issue": {"issue-date": "1932-06", "volume": "49", "number": "6"},
+      "title": "The Second Gong",
+      "author": {
+         "authorized": "Christie, Agatha, 1890-1976",
+         "lcna": "n79038407"
+       }
+     },
+     {"issue": {"issue-date": "1932-07", "volume": "49", "number": "7"},
+      "title": "Forbidden Lover",
+      "title-note": "part 2 of 3",
+      "author": {
+       "authorized": "Sabatini, Rafael, 1875-1950",
+       "lcna": "n50016255"
+      }
+     },
+     {"issue": {"issue-date": "1932-07", "volume": "49", "number": "7"},
+      "title": "The Irrepressible Plus",
+      "author": {
+       "authorized": "Wylie, I. A. R. (Ida Alexa Ross), 1885-1959",
+       "lcna": "n87860300"
+      }
+     },
+     {"issue": {"issue-date": "1932-08", "volume": "49", "number": "8"},
+      "title": "My Pretty Maid",
+      "title-note": "part 1 of 3",
+       "author": {
+         "authorized": "Miller, Alice Duer, 1874-1942",
+         "lcna": "n83057208"
+       }
+     },
+     {"issue": {"issue-date": "1932-08", "volume": "49", "number": "8"},
+      "title": "Forbidden Lover",
+      "title-note": "part 3 of 3",
+      "author": {
+       "authorized": "Sabatini, Rafael, 1875-1950",
+       "lcna": "n50016255"
+      }
+     },
+     {"issue": {"issue-date": "1932-08", "volume": "49", "number": "8"},
+      "title": "The Birds Have the Right of it",
+      "author": {
+         "authorized": "Kilbourne, Fannie, 1890-",
+         "lcna": "no93026233"
+       }
+     },
+     {"issue": {"issue-date": "1932-09", "volume": "49", "number": "9"},
+        "title": "Three Women",
+        "title-note": "part 1 of 3",
+        "author": {
+         "authorized": "Cather, Willa, 1873-1947",
+         "lcna": "n80015717"
+        }
+     },
+     {"issue": {"issue-date": "1932-09", "volume": "49", "number": "9"},
+      "title": "My Pretty Maid",
+      "title-note": "part 2 of 3",
+       "author": {
+         "authorized": "Miller, Alice Duer, 1874-1942",
+         "lcna": "n83057208"
+       }
+     },
+     {"issue": {"issue-date": "1932-10", "volume": "49", "number": "10"},
+        "title": "Where There's Smoke",
+        "author": {
+         "authorized": "Steele, Wilbur Daniel, 1886-1970",
+         "lcna": "no98007702"
+        }
+     },
+     {"issue": {"issue-date": "1932-10", "volume": "49", "number": "10"},
+      "title": "Pleasures and Palaces",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1932-10", "volume": "49", "number": "10"},
+        "title": "Three Women",
+        "title-note": "part 2 of 3",
+        "author": {
+         "authorized": "Cather, Willa, 1873-1947",
+         "lcna": "n80015717"
+        }
+     },
+     {"issue": {"issue-date": "1932-10", "volume": "49", "number": "10"},
+      "title": "My Pretty Maid",
+      "title-note": "part 3 of 3",
+       "author": {
+         "authorized": "Miller, Alice Duer, 1874-1942",
+         "lcna": "n83057208"
+       }
+     },
+     {"issue": {"issue-date": "1932-11", "volume": "49", "number": "11"},
+        "title": "Film Face",
+        "author": {
+         "authorized": "Baum, Vicki, 1888-1960",
+         "lcna": "n79135036"
+        }
+     },
+     {"issue": {"issue-date": "1932-11", "volume": "49", "number": "11"},
+      "title": "The Quarrel",
+       "author": {
+          "authorized": "Buck, Pearl S. (Pearl Sydenstricker), 1892-1973",
+          "lcna": "n79026662"
+        }
+     },
+     {"issue": {"issue-date": "1932-11", "volume": "49", "number": "11"},
+        "title": "Three Women",
+        "title-note": "part 3 of 3",
+        "author": {
+         "authorized": "Cather, Willa, 1873-1947",
+         "lcna": "n80015717"
+        }
+     },
+     {"issue": {"issue-date": "1933-01", "volume": "50", "number": "1"},
+      "title": "Love Flies Out of the Kitchen",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1933-01", "volume": "50", "number": "1"},
+        "title": "Will and Bill",
+        "author": {
+         "authorized": "Steele, Wilbur Daniel, 1886-1970",
+         "lcna": "no98007702"
+        }
+     },
+     {"issue": {"issue-date": "1933-02", "volume": "50", "number": "2"},
+      "title": "Only the Wind in the Poplars",
+      "author": {
+       "authorized": "White, Nelia Gardner, 1894-1957",
+       "lcna": "no93013886"
+      }
+     },
+     {"issue": {"issue-date": "1933-04", "volume": "50", "number": "4"},
+      "title": "The Little Red Hen",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1933-05", "volume": "50", "number": "5"},
+      "title": "Off the Cuff",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
+     {"issue": {"issue-date": "1933-06", "volume": "50", "number": "6"},
+      "title": "The Policeman's Ball",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1933-07", "volume": "50", "number": "7"},
+      "title": "Cold Cut",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
+     {"issue": {"issue-date": "1933-08", "volume": "50", "number": "8"},
+      "title": "Prudence to the Winds",
+      "author": {
+       "authorized": "Duganne, Phyllis, 1899-1976",
+       "lcna": "n90719514"
+      }
+     },
+     {"issue": {"issue-date": "1933-10", "volume": "50", "number": "10"},
+      "title": "Little Anne",
+       "author": {
+         "authorized": "Miller, Alice Duer, 1874-1942",
+         "lcna": "n83057208"
+       }
+     },
+     {"issue": {"issue-date": "1933-11", "volume": "50", "number": "11"},
+      "title": "The Silver Platter",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1933-12", "volume": "50", "number": "12"},
+      "title": "The Running Gag",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
+     {"issue": {"issue-date": "1934-01", "volume": "51", "number": "1"},
+      "title": "The Crooked Lane",
+      "title-note": "part 1 of 7",
+      "author": {
+       "authorized": "Hart, Frances Noyes, 1890-1943",
+       "lcna": "no95048084"
+      }
      }
    ],
-   "comment": "Resume contribution searches with 1959 Jan-Jun",
+   "comment": "Resume contribution searches with 1961 Jan-Jun",
    "comment": "Search also for Ladles- some typos in Gutenberg CCE",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-04-16"
+   "last-updated": "2025-05-31"
 }

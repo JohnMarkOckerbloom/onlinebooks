@@ -13,9 +13,18 @@
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1960-08"}},
    "first-renewed-contribution-source": "database",
+   "renewed-issue-completeness": "active/1935",
+   "renewed-issues": [
+     {"issue-date": "1935-08", "volume": "17", "number": "5"},
+     {"issue-date": "1935-11", "volume": "17", "number": "6"},
+     {"issue-date": "1936-02", "volume": "18", "number": "1"},
+     {"issue-date": "1936-05", "volume": "18", "number": "2"},
+     {"issue-date": "1936-08", "volume": "18", "number": "3"},
+     {"issue-date": "1936-11", "volume": "18", "number": "4"}
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-01-11"
+   "last-updated": "2025-05-27"
 }
