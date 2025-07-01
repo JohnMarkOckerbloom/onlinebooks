@@ -11,7 +11,7 @@
    "first-renewed-contribution":
      {"issue": {"issue-date": "1930-02", "volume": "18", "number": "4"}}, 
    "first-renewed-contribution-source": "1958-JanJun",
-   "renewed-contribution-completeness": "active/1930",
+   "renewed-contribution-completeness": "active/1931",
    "renewed-contributions": [
      {"issue": {"issue-date": "1930-02", "volume": "18", "number": "4"}, 
       "title": "Watchman Wanted",
@@ -54,11 +54,25 @@
        "authorized": "Kantor, MacKinlay, 1904-1977",
        "lcna": "n79140979"
       }
+     },
+     {"issue": {"issue-date": "1931-12", "volume": "24", "number": "2"}, 
+      "title": "His Eyes Bloodshot and Red",
+      "author": {
+       "authorized": "Kantor, MacKinlay, 1904-1977",
+       "lcna": "n79140979"
+      }
+     },
+     {"issue": {"issue-date": "1932-09", "volume": "26", "number": "3"}, 
+      "title": "Wolf! Wolf!",
+      "author": {
+       "authorized": "Kantor, MacKinlay, 1904-1977",
+       "lcna": "n79140979"
+      }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-01-06"
+   "last-updated": "2025-06-22"
 }

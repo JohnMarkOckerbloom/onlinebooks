@@ -13,9 +13,20 @@
    "first-renewed-contribution-source": "1959-JulDec",
    "last-issue":
      {"issue-date": "1933-05", "volume": "3", "number": "2"},
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1932-12", "volume": "1", "number": "3"},
+      "title": "Hands of Death",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     }
+   ],
+   "additional-note": "The contribution renewal shown here is the only one in which this magazine is specifically mentioned.  However, this magazine frequently reprinted stories that appeared in other publications, some of which may still have active copyrights (including stories in issues before the first renewed contribution shown here). We have not systematically surveyed their copyright status.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-05-14"
+   "last-updated": "2025-06-22"
 }

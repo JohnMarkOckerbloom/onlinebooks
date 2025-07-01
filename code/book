@@ -212,11 +212,7 @@ sub get_titleword_hits {
   my $dir = ($collection eq "x" ? $extradir : "");
   my $hashname = "titlewords";
   if ($collection eq "x") {
-     my $firstlet = lc(substr($word, 0, 1));
-     if (!($firstlet =~ /[a-z]/)) {
-        $firstlet = "MISC";
-     }
-     $hashname .= "-$firstlet";
+   $hashname = OLBP::termhash($hashname, $word);
   } 
   my $val = gethashval($hashname, $word, $dir);
   return split /\s+/, $val;

@@ -215,6 +215,18 @@ sub result_tips {
                         "Suggest a new listing" => $OLBP::suggestpage));
 }
 
+# termhash returns the name of a hash when it's dependent on a term
+#  because the hash has been broken up ue to being too big for one big file
+
+sub termhash {
+ my ($base, $term) = @_;
+ my $firstlet = lc(substr($term, 0, 1));
+   if (!($firstlet =~ /[a-z]/)) {
+      $firstlet = "MISC";
+   }
+ return "$base-$firstlet";
+}
+
 sub choicelist {
   my ($nolink, @choices) = @_;
   my @choicedisplay;

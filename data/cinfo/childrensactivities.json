@@ -7,9 +7,20 @@
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1940-02"}},
    "first-renewed-contribution-source": "1967-JulDec",
+   "renewed-issue-completeness": "active/1935",
+   "renewed-issues": [
+      {"issue-date": "1935-05", "volume": "1", "number": "5"},
+      {"issue-date": "1935-06", "volume": "1", "number": "6"},
+      {"issue-date": "1935-07", "volume": "1", "number": "7"},
+      {"issue-date": "1935-08", "volume": "1", "number": "8"},
+      {"issue-date": "1935-09", "volume": "1", "number": "9"},
+      {"issue-date": "1935-10", "volume": "1", "number": "10"},
+      {"issue-date": "1935-11", "volume": "1", "number": "11"},
+      {"issue-date": "1935-12", "volume": "1", "number": "12"}
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-02-14"
+   "last-updated": "2025-06-26"
 }

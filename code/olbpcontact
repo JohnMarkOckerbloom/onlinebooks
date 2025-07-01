@@ -30,7 +30,7 @@ my $BFURL   = $OLBPURL . "webbin/backfile";
 my $PENNBF  = $BFURL . "/penn-serials";
 my $COPYURL = $OLBPURL . "cce/";
 my $FPURL   = $COPYURL . "firstperiod.html";
-my $REGURL  = "https://cocatalog.loc.gov/";
+my $REGURL  = "https://publicrecords.copyright.gov/";
 
 my $spamdir    = "spam";
 
@@ -366,8 +366,8 @@ sub backfileform {
     print qq!<a href="$FPURL">our first copyright renewals listings</a>. !;
   }
   print qq!Newer copyright registrations and renewals can be found in !;
-  print qq!the <a href="https://cocatalog.loc.gov/">Copyright Office's !;
-  print qq!registered works database</a>. Older ones can be found in !;
+  print qq!the <a href="https://publicrecords.copyright.gov/">Copyright !;
+  print qq!Public Records System</a>. Older ones can be found in !;
   print qq!the <a href="$COPYURL">Catalog of Copyright Entries</a>.</p>!;
   makereplypart($q, $backfileparams);
 }
@@ -507,7 +507,7 @@ sub bigserialform {
     print formrow(caption=>"Is this serial listed on our $firstrenewal?",
                   fieldname=>"listed", withblank=>1,
                  choice=>["Yes", "No"]);
-    my $reg = qq!<a href="$REGURL" target="deepcocat">Copyright Office Catalog / Registered works database</a>!;
+    my $reg = qq!<a href="$REGURL" target="deepcocat">Copyright Public Records System</a>!;
     print formrow(caption=>
                    "Are renewal records for this serial found in the $reg?",
                   fieldname=>"database", withblank=>1,

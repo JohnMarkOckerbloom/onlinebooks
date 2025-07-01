@@ -6,7 +6,7 @@ my $cgiprefix = "https://onlinebooks.library.upenn.edu/webbin/";
 my $serialprefix = $cgiprefix . "serial?id=";
 my $cinfoprefix  = $cgiprefix . "cinfo/";
 my $inforeqprefix = $cgiprefix . "olbpcontact?type=backfile";
-my $codburl = "https://cocatalog.loc.gov/";
+my $codburl = "https://publicrecords.copyright.gov/";
 my $cceurl  = "https://onlinebooks.library.upenn.edu/cce/";
 my $firstperiodurl  = $cceurl . "firstperiod.html";
 my $backfileurl = $cgiprefix . "backfile";
@@ -200,10 +200,10 @@ sub _display_no {
   }
   if ($source eq "cce") {
     $str .= " in CCE";
-  } elsif ($source eq "cce+database") {
-    $str .= " in CCE or registered works database";
-  } elsif ($source eq "database") {
-    $str .= " in registered works database";
+  } elsif (($source eq "cce+database") || ($source eq "cce+cprs")) {
+    $str .= " in CCE or CPRS";
+  } elsif (($source eq "database") || ($source eq "cprs")) {
+    $str .= " in CPRS";
   }
   return $str;
 }
@@ -350,15 +350,15 @@ sub _get_source_note {
       $what = $what->{"issue"}->{"issue-date"};
     }
     if ($what && $what gt "1950" && $what lt "1964") {
-      $source = "database";
+      $source = "cprs";
     }
   }
   return "" if (!$source);
-  if ($source eq "database") {
+  if (($source eq "database") || ($source eq "cprs")) {
     if ($nolink) {
-      return qq!; see registered works database!;
+      return qq!; see CPRS!;
     }
-    return qq!; see <a href="$codburl">registered works database</a>!;
+    return qq!; see <a href="$codburl">CPRS</a>!;
   }
   if ($source =~ /(\d\d\d\d)(.*)/) {
     my ($year, $rest) = ($1, $2);

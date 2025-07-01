@@ -126,11 +126,7 @@ sub _lookup_key {
   my ($self, $key) = @_;
   my $hashname = "booksubnotes";
   if ($self->{collection} eq "x") {
-    my $firstlet = lc(substr($key, 0, 1));
-    if (!($firstlet =~ /[a-z]/)) {
-       $firstlet = $MISC;
-     }
-     $hashname .= "-$firstlet";
+    $hashname = OLBP::termhash($hashname, $key);
   }
   return $self->{$hashname}->get_value(key=>$key);
 }

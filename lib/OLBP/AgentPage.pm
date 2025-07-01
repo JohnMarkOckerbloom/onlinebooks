@@ -74,9 +74,9 @@ sub _display_banner {
   if ($naivename ne $informal) {
     print "<h3>($name)</h3>\n";
   }
-  print qq!</td><td width="15%"></td><td>!;
   my $info = $self->get_image_info();
   if ($info) {
+    print qq!</td><td width="15%"></td><td>!;
     my $desc = $info->{desc};
     my $title = $info->{title};
     $desc =~ s/\<[^\>]+\>//g;                  # strip out HTML markup
@@ -115,6 +115,10 @@ sub get_heading {
   if (!$self->{heading}) {
     $self->{heading} = $self->_get_string_from_file("name", 1);
   }
+  if (!$self->{heading} && $self->{authornote}) {
+    # No who directory, but we can pull name from note
+    $self->{heading} = $self->{authornote}->get_formal_name();
+  }
   return $self->{heading};
 }
 
@@ -122,6 +126,10 @@ sub get_informal {
   my ($self) = @_;
   if (!$self->{informal}) {
     $self->{informal} = $self->_get_string_from_file("informal", 1);
+  }
+  if (!$self->{informal} && $self->{authornote}) {
+    # No who directory, but we can pull name from note
+    $self->{informal} = $self->{authornote}->get_informal_name();
   }
   return $self->{informal};
 }
@@ -131,6 +139,7 @@ sub get_wikipedia_url {
   if (!$self->{wpid}) {
     $self->{wpid} = $self->_get_string_from_file("wpid", 1);
   }
+  return undef if (!$self->{wpid});
   return $OLBP::wpstub . $self->{wpid};
 }
 
@@ -363,6 +372,8 @@ sub display {
     print "<p id=\"booksabout\"><strong>Books about $informal:</strong></p>";
     $self->{subbrowser}->show_books_under_subject(term=>$name, max=>50,
                                                   downonly=>1);
+    # Only show the extended shelves ones directly under the name
+    #  (which may mean the narrower terms should be displayed on the left)
   }
   if ($val || $exval) {
     print "<p id=\"booksby\"><strong>Books by $informal:</strong><p>";
@@ -398,6 +409,7 @@ sub _initialize {
   if ($self->{id} =~ /Q(.*)/) {
     $self->{stubdir} = sprintf("%02d", int($1) % 100);
   }
+  $self->{authornote} = $params{authornote};
   $self->{dir} = $params{dir};
   $self->{subbrowser} = $params{subbrowser};
   $self->{parser} = JSON->new->allow_nonref;

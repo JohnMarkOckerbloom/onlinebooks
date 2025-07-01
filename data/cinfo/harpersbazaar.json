@@ -9,7 +9,7 @@
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1930-02"}},
    "first-renewed-contribution-source": "1957-JanJun",
-   "renewed-issue-completeness": "active/1934",
+   "renewed-issue-completeness": "active/1935",
    "renewed-issues": [
      {"issue-date": "1930-02", "volume": "64", "number": "2",
       "cdate": "1930-01-28"},
@@ -83,7 +83,22 @@
       "cdate": "1934-12-28"},
      {"issue-date": "1935-02", "volume": "69", "number": "2",
       "cdate": "1935-01-30"},
-     {"issue-date": "1935-03", "volume": "69", "number": "3"}
+     {"issue-date": "1935-03", "volume": "69", "number": "3"},
+     {"issue-date": "1935-03", "volume": "69", "number": "4"},
+     {"issue-date": "1935-05", "volume": "70", "number": "5",
+      "note": "Volume number as stated in CCE renewal record. Logically the May 1935 issue should be in volume 69."},
+     {"issue-date": "1935-07", "volume": "69", "number": "7"},
+     {"issue-date": "1935-08", "volume": "69", "number": "8"},
+     {"issue-date": "1935-09", "volume": "69", "number": "9"},
+     {"issue-date": "1935-10", "volume": "69", "number": "10"},
+     {"issue-date": "1935-11", "volume": "69", "number": "11"},
+     {"issue-date": "1935-12", "volume": "69", "number": "12"},
+     {"issue-date": "1936-01", "volume": "70", "number": "1",
+      "cdate": "1935-12-30"},
+     {"issue-date": "1936-02", "volume": "70", "number": "2",
+      "cdate": "1936-01-31"},
+     {"issue-date": "1936-03", "volume": "70", "number": "3"},
+     {"issue-date": "1936-04", "volume": "70", "number": "4"}
    ],
    "renewed-contribution-completeness": "active/1931",
    "renewed-contributions": [
@@ -265,5 +280,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-05-28"
+   "last-updated": "2025-06-30"
 }

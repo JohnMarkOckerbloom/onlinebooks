@@ -13,7 +13,7 @@
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1930-02", "volume": "90", "number": "2"}},
    "first-renewed-contribution-source": "1957-JanJun",
-   "renewed-issue-completeness": "active/1934",
+   "renewed-issue-completeness": "active/1935",
    "renewed-issues": [
      {"issue-date": "1930-02", "volume": "90", "number": "2",
       "cdate": "1930-01-23"},
@@ -75,7 +75,21 @@
      {"issue-date": "1934-11", "volume": "99", "number": "5"},
      {"issue-date": "1934-12", "volume": "99", "number": "6"},
      {"issue-date": "1935-01", "volume": "100", "number": "1",
-      "cdate": "1934-12-24"}
+      "cdate": "1934-12-24"},
+     {"issue-date": "1935-02", "volume": "100", "number": "2",
+      "cdate": "1935-01-25"},
+     {"issue-date": "1935-03", "volume": "100", "number": "3"},
+     {"issue-date": "1935-04", "volume": "100", "number": "4"},
+     {"issue-date": "1935-05", "volume": "100", "number": "5"},
+     {"issue-date": "1935-06", "volume": "100", "number": "6"},
+     {"issue-date": "1935-07", "volume": "101", "number": "1"},
+     {"issue-date": "1935-08", "volume": "101", "number": "2"},
+     {"issue-date": "1935-09", "volume": "101", "number": "3"},
+     {"issue-date": "1935-10", "volume": "101", "number": "4"},
+     {"issue-date": "1935-11", "volume": "101", "number": "5"},
+     {"issue-date": "1935-12", "volume": "101", "number": "6"},
+     {"issue-date": "1936-01", "volume": "102", "number": "1",
+      "cdate": "1935-12-24"}
    ],
    "renewed-contribution-completeness": "active/1931",
    "renewed-contributions": [
@@ -599,5 +613,5 @@
    },
    "acknowledgement": 
       "Thanks to Felice Gollotti for copyright research on this title.",
-   "last-updated": "2025-05-27"
+   "last-updated": "2025-06-30"
 }

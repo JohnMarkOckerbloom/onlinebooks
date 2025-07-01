@@ -34,9 +34,115 @@
      {"issue-date": "1931-12", "volume": "4", "number": "3"},
      {"issue-date": "1932-04", "volume": "5", "number": "3"}
    ],
+   "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
      {"issue": {"issue-date": "1930-10", "volume": "1", "number": "1"},
       "title": "The Key to Room 537",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1930-11", "volume": "1", "number": "2"},
+      "title": "The Murder Masquerade",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1930-12", "volume": "1", "number": "3"},
+      "title": "Dead Men's Tales",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1931-01", "volume": "1", "number": "4"},
+      "title": "The Mysterious Mr. Manse",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1931-02", "volume": "2", "number": "1"},
+      "title": "Planted Bait",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1931-03", "volume": "2", "number": "2"},
+      "title": "The Purple Palm",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1931-04", "volume": "2", "number": "3"},
+      "title": "The Murder Mark",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1931-05", "volume": "2", "number": "4"},
+      "title": "Hot Tips",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1931-06", "volume": "3", "number": "1"},
+      "title": "The Third Key",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1931-07", "volume": "3", "number": "2"},
+      "title": "The Jellyfish Corpse",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1931-08", "volume": "3", "number": "3"},
+      "title": "Two Flowers of Fate",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1931-09", "volume": "3", "number": "4"},
+      "title": "The Seal of Silence",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1931-10", "volume": "4", "number": "1"},
+      "title": "Dead Fingers",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1931-11", "volume": "4", "number": "2"},
+      "title": "The Gloved Mystery",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1931-12", "volume": "4", "number": "3"},
+      "title": "Between Two Fires",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1932-04", "volume": "5", "number": "3"},
+      "title": "The Invisible Ring",
       "author": {
          "authorized": "Gardner, Erle Stanley, 1889-1970",
          "lcna": "n79071101"
@@ -49,5 +155,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-12-09"
+   "last-updated": "2025-06-22"
 }

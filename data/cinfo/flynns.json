@@ -330,7 +330,7 @@
      {"issue-date": "1935-11-09", "volume": "97", "number": "5"},
      {"issue-date": "1935-11-16", "volume": "97", "number": "6"}
    ],
-   "renewed-contribution-completeness": "active/1930",
+   "renewed-contribution-completeness": "active/1931",
    "renewed-contributions": [  
      {"issue": {"issue-date": "1930-01-11", "volume": "47", "number": "2"},
       "title": "The Doubtful Egg",
@@ -662,13 +662,237 @@
          "authorized": "Gardner, Erle Stanley, 1889-1970",
          "lcna": "n79071101"
        }
+     },
+     {"issue": {"issue-date": "1931-10-24", "volume": "62", "number": "5"},
+      "title": "The First Stone",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1931-11-07", "volume": "63", "number": "1"},
+      "title": "The Crimson Mask",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1931-11-21", "volume": "63", "number": "3"},
+      "title": "Rolling Stones",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1931-12-05", "volume": "63", "number": "5"},
+      "title": "No Rough Stuff",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1931-12-12", "volume": "63", "number": "6"},
+      "title": "Sauce for the Gander",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1931-12-26", "volume": "64", "number": "2"},
+      "title": "Red Herring",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1932-02-06", "volume": "65", "number": "2"},
+      "title": "It Takes a Crook",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1932-02-27", "volume": "65", "number": "5"},
+      "title": "The Play's the Thing",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1932-03-26", "volume": "66", "number": "3"},
+      "title": "Barking Dogs",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1932-03-26", "volume": "66", "number": "3"},
+      "title": "Wet Paint",
+      "author": {
+         "authorized": "Pinkerton, Robert E. (Robert Eugene), 1882-1970",
+         "lcna": "no2003073197"
+       }
+     },
+     {"issue": {"issue-date": "1932-04-09", "volume": "66", "number": "5"},
+      "title": "The Bird in the Hand",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1932-04-30", "volume": "67", "number": "2"},
+      "title": "A Hundred to One",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1932-05-28", "volume": "67", "number": "6"},
+      "title": "The Kid Stacks a Deck",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1932-06-04", "volume": "68", "number": "1"},
+      "title": "Thieves Kitchen",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1932-06-04", "volume": "68", "number": "1"},
+      "title": "Cold Justice",
+      "author": {
+         "authorized": "Pinkerton, Robert E. (Robert Eugene), 1882-1970",
+         "lcna": "no2003073197"
+       }
+     },
+     {"issue": {"issue-date": "1932-06-25", "volume": "68", "number": "4"},
+      "title": "A Private Affair",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1932-07-09", "volume": "68", "number": "6"},
+      "title": "Closer Than a Brother",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1932-07-16", "volume": "69", "number": "1"},
+      "title": "The Kid Passes the Sugar",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1932-07-23", "volume": "69", "number": "2"},
+      "title": "Punk",
+      "author": {
+         "authorized": "Pinkerton, Robert E. (Robert Eugene), 1882-1970",
+         "lcna": "no2003073197"
+       }
+     },
+     {"issue": {"issue-date": "1932-07-30", "volume": "69", "number": "3"},
+      "title": "A Deal in Cement",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1932-08-06", "volume": "69", "number": "4"},
+      "title": "Neither Hand Nor Foot",
+      "author": {
+       "authorized": "Kantor, MacKinlay, 1904-1977",
+       "lcna": "n79140979"
+      }
+     },
+     {"issue": {"issue-date": "1932-08-20", "volume": "69", "number": "6"},
+      "title": "The Green Door",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1932-09-03", "volume": "70", "number": "2"},
+      "title": "The Beast That Was Black",
+      "author": {
+       "authorized": "Kantor, MacKinlay, 1904-1977",
+       "lcna": "n79140979"
+      }
+     },
+     {"issue": {"issue-date": "1932-09-10", "volume": "70", "number": "3"},
+      "title": "The Kid Wins a Wager",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1932-09-17", "volume": "70", "number": "4"},
+      "title": "Cheating the Chair",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1932-09-17", "volume": "70", "number": "4"},
+      "title": "Packet of Death",
+      "author": {
+       "authorized": "Kantor, MacKinlay, 1904-1977",
+       "lcna": "n79140979"
+      }
+     },
+     {"issue": {"issue-date": "1932-10-01", "volume": "70", "number": "6"},
+      "title": "The Sickle and the Hounds",
+      "author": {
+       "authorized": "Kantor, MacKinlay, 1904-1977",
+       "lcna": "n79140979"
+      }
+     },
+     {"issue": {"issue-date": "1932-10-15", "volume": "71", "number": "2"},
+      "title": "The Body in the Flume",
+      "author": {
+       "authorized": "Kantor, MacKinlay, 1904-1977",
+       "lcna": "n79140979"
+      }
+     },
+     {"issue": {"issue-date": "1932-10-15", "volume": "71", "number": "2"},
+      "title": "Piracy Deluxe",
+      "author": {
+         "authorized": "Pinkerton, Robert E. (Robert Eugene), 1882-1970",
+         "lcna": "no2003073197"
+       }
+     },
+     {"issue": {"issue-date": "1932-10-22", "volume": "71", "number": "3"},
+      "title": "The Kid Throws a Stone",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1932-11-05", "volume": "71", "number": "5"},
+      "title": "False Alarm",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1932-11-12", "volume": "71", "number": "6"},
+      "title": "Trumps",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
      }
    ],
-   "comment": "Continue w contribution renewals at Gardner in 1959 Jan-Jun",
+   "comment": "Continue w contribution renewals in 1960 Jan-Jun",
    "additional-note": "Although this magazine went through numerous name changes, the word 'Flynn's' (as part of the title, or in the phrase 'Formerly Flynn's') appeared on the cover of nearly all issues. It does not necessarily appear in renewal records, but either 'Flynn's' or 'Detective' generally does.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-05-27"
+   "last-updated": "2025-06-22"
 }

@@ -8,7 +8,7 @@
    "first-renewed-issue-source": "1957-JanJun",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
-   "renewed-issue-completeness": "active/1930",
+   "renewed-issue-completeness": "active/1931",
    "renewed-issues": [
      {"issue-date": "1930-01", "cdate": "1930-01-30", "number": "1", 
       "note": "United States Code Annotated, Cumulative Pamphlet Supplement"},
@@ -22,8 +22,14 @@
       "note": "United States Code Annotated, Cumulative Pamphlet Supplement"},
      {"issue-date": "1930-07", "cdate": "1930-08-07", "number": "3", 
       "note": "United States Code Pamphlet Supplement Unannotated"},
+     {"issue-date": "1931-01", "cdate": "1931-02-13", "number": "no. 1", 
+      "note": "United States Code Pamphlet Supplement Unannotated"},
      {"issue-date": "1931-04", "cdate": "1930-05-07", "number": "no. 1", 
-      "note": "United States Code Pamphlet Supplement Unannotated"}
+      "note": "United States Code Pamphlet Supplement Unannotated"},
+     {"issue-date": "1931-04", "cdate": "1931-05-01",
+      "note": "United States Code Pamphlet Supplement, Compact Edition"},
+     {"issue-date": "1932-01", "cdate": "1933-03-01",
+      "note": "United States Code Pamphlet Supplement, Compact Edition"}
    ],
    "additional-note": 
       "The exact title varied somewhat by issue.  Issues of this serial were typically renewed as books, but sometimes were renewed as periodicals. Some issues covered the Statues and Code separately, some together. Pamphlet numbering may have reset periodically.",
@@ -31,5 +37,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-01-08"
+   "last-updated": "2025-06-23"
 }

@@ -57,6 +57,95 @@
      {"issue-date": "1935-11", "volume": "19", "number": "4"},
      {"issue-date": "1935-12", "volume": "20", "number": "1"}
    ],
+   "renewed-contribution-completeness": "active/1932",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1932-06", "volume": "2", "number": "4"},
+      "title": "The Shadow Man",
+      "author": {
+        "authorized": "Wallace, Edgar, 1875-1932",
+        "lcna": "n80034938"
+      }
+     },
+     {"issue": {"issue-date": "1932-07", "volume": "3", "number": "1"},
+      "title": "The Crippled Corpse",
+      "note": "CCE renewal record states this was in the June 1932 issue, but the copyright date indicates the July 1932 issue, as does FictionMags.",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1932-11", "volume": "4", "number": "1"},
+      "title": "Crooks Carnival",
+      "note": "Title as stated on issue cover and in FictionMags. CCE renewal record gives title as 'Crooked Carnival'.",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1932-12", "volume": "4", "number": "2"},
+      "title": "Marked Money",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1933-01", "volume": "4", "number": "3"},
+      "title": "Framed in Guilt",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1933-04-01", "volume": "5", "number": "3"},
+      "title": "Death's Doorway",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1933-04-15", "volume": "5", "number": "4"},
+      "title": "The Dance of the Snakes",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1933-06-01", "volume": "6", "number": "3"},
+      "title": "Dead Man's Diamonds",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1933-June 15 - July 1,", "volume": "6", "number": "4"},
+      "title": "The Hand of Horror",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1933-09-01", "volume": "7", "number": "4"},
+      "title": "Dressed to Kill",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1933-10-15", "volume": "8", "number": "3"},
+      "title": "The Crimson Scorpion",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1933-11-15", "volume": "9", "number": "1"},
+      "title": "Cross-Stitch Killer",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     }
+   ],
    "additional-notes": [
       "'Dime Detective Magazine Combined With Flynn's Detective Fiction' was the cover title of most issues of this magazine between September 1944 and January  1951.",
      "Some renewals for 1938 issues of Dime Detective were misfiled under Dime Mystery in the 1965 CCE. (They can be matched with 1938 original registrations via their copyright ID numbers and volume and issue numbers.)",
@@ -66,5 +155,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-05-27"
+   "last-updated": "2025-06-22"
 }

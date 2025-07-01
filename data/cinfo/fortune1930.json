@@ -8,7 +8,7 @@
    "first-renewed-issue-source": "1957-JulDec",
    "first-renewed-contribution": {"issue": {"issue-date": "1933-05"}},
    "first-renewed-contribution-source": "1960-JanJun",
-   "renewed-issue-completeness": "active/1934",
+   "renewed-issue-completeness": "active/1935",
    "renewed-issues": [
      {"issue-date": "1930-02", "volume": "1", "number": "1"},
      {"issue-date": "1930-03", "volume": "1", "number": "2"},
@@ -77,6 +77,8 @@
      {"issue-date": "1934-10", "volume": "10", "number": "4"},
      {"issue-date": "1934-11", "volume": "10", "number": "5"},
      {"issue-date": "1934-12", "volume": "10", "number": "6"},
+     {"issue-date": "February 1930 - December 1934", "cdate": "1935-05-27",
+      "volume": "1-10", "number": "Five year index"},
      {"issue-date": "1935-01", "volume": "11", "number": "1",
       "cdate": "1934-12-24"},
      {"issue-date": "1935-02", "volume": "11", "number": "2",
@@ -91,12 +93,23 @@
      {"issue-date": "1935-10", "volume": "12", "number": "4"},
      {"issue-date": "1935-11", "volume": "12", "number": "5"},
      {"issue-date": "1935-12", "volume": "12", "number": "6"},
-     {"issue-date": "February 1930 - December 1934", "cdate": "1935-05-27",
-      "volume": "1-10", "number": "Five year index"}
+     {"issue-date": "1936-01", "volume": "13", "number": "1",
+      "cdate": "1935-12-24"},
+     {"issue-date": "1936-02", "volume": "13", "number": "2",
+      "cdate": "1936-01-25"},
+     {"issue-date": "1936-03", "volume": "13", "number": "3"},
+     {"issue-date": "1936-04", "volume": "13", "number": "4"},
+     {"issue-date": "1936-05", "volume": "13", "number": "5"},
+     {"issue-date": "1936-06", "volume": "13", "number": "6"},
+     {"issue-date": "1936-07", "volume": "14", "number": "1"},
+     {"issue-date": "1936-08", "volume": "14", "number": "2"},
+     {"issue-date": "1936-09", "volume": "14", "number": "3"},
+     {"issue-date": "1936-10", "volume": "14", "number": "4"},
+     {"issue-date": "1936-11", "volume": "14", "number": "5"}
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-05-27"
+   "last-updated": "2025-06-30"
 }

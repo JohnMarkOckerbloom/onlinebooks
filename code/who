@@ -11,10 +11,12 @@ use CGI;
 use OLBP;
 use OLBP::Hash;
 use OLBP::AgentPage;
+use OLBP::AuthorNote;
 use OLBP::SubjectHierarchyBrowser;
 
 my $default        = "https://onlinebooks.library.upenn.edu";
 my $wikiagentroot  = $OLBP::dbdir . "who";
+my $extradir       = $OLBP::dbdir . "exindexes/";
 
 # returns the path to the directory for this agent, or undef if none exists
 # For now, we'll assume the arg is always the Q-number, but we could
@@ -32,9 +34,10 @@ sub find_dir {
 }
 
 sub showagent {
-  my ($qid, $dir) = @_;
+  my ($qid, $dir, $authornote) = @_;
   my $subbrowser = new OLBP::SubjectHierarchyBrowser();
-  my $page = new OLBP::AgentPage(id=>$qid, dir=>$dir, subbrowser=>$subbrowser);
+  my $page = new OLBP::AgentPage(id=>$qid, authornote=>$authornote,
+                                 dir=>$dir, subbrowser=>$subbrowser);
   my $heading = $page->get_heading();
 
   print qq^<!DOCTYPE html>
@@ -69,6 +72,17 @@ sub gethashval {
   return $hash->get_value(key=>$key);
 }
 
+# return a simple author note with the given name
+# name can come from outside input, so it needs to be sanitized
+
+sub simpleauthornote {
+  my ($name) = @_;
+  my $formalname = OLBP::html_encode($name);
+  my $informalname = OLBP::Name::informal($formalname);
+  return new OLBP::AuthorNote(name=>$formalname, informal=>$informalname);
+}
+
+
 sub getout {
   print "Location: $default\n\n";
   exit 0;
@@ -79,6 +93,7 @@ my $arg = $q->url(-path_info=>1);
 $arg =~ s/(.*)\///;
 my $qid;
 my $whodir;
+my $authornote;
 
 # validate inputs - must be a QID or a name search key ASCII alphanumeric and hyphen
 if (!$arg) {
@@ -97,7 +112,30 @@ if ($arg =~ /^Q[0-9]+$/) {
       $whodir = find_dir($qid);
     }
     if (!$whodir) {
-      # redirect to a name search page?
+      my $skey = OLBP::BookRecord::sort_key_for_name($name);
+      if ($skey) {
+        my $notestr = gethashval("authornotes", $skey);
+        if ($notestr) {
+          $authornote = new OLBP::AuthorNote(string=>$notestr);
+        } else {
+          # if no note, might want to check if it's in the extended shelves
+          my $exval = gethashval("authortitles", $skey, $extradir);
+          # can also check for name as subject in regular or exgtended shelves
+          if (!$exval) {
+            # Look them up in the subjects
+            $skey = OLBP::BookRecord::search_key_for_subject($name);
+            $exval = gethashval("booksubnotes", $skey);
+          }
+          if (!$exval) {
+            # OK, maybe check extended shelves too
+            my $hash = OLBP::termhash("booksubnotes", $skey);
+            $exval = gethashval($hash, $skey, $extradir);
+          }
+          if (defined($exval)) {
+            $authornote = simpleauthornote($name);
+          }
+        }
+      }
     }
   }
   #print "Content-type: text/html\n\n";
@@ -106,7 +144,7 @@ if ($arg =~ /^Q[0-9]+$/) {
 }
 
 
-if (!$whodir) {
+if (!$whodir && !$authornote) {
   getout();
 }
 
@@ -115,4 +153,4 @@ if (defined($ENV{"GATEWAY_INTERFACE"})) {
   print "Content-type: text/html\n\n";
 }
 
-showagent($qid, $whodir);
+showagent($qid, $whodir, $authornote);

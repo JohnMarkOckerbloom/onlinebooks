@@ -338,7 +338,7 @@
        {"issue-date": "1935-11-30", "volume": "143", "number": "5"},
        {"issue-date": "1935-12-07", "volume": "143", "number": "6"}
    ],
-   "renewed-contribution-completeness": "active/1930",
+   "renewed-contribution-completeness": "active/1931",
    "renewed-contributions": [
      {"issue": {"issue-date": "1930-01-11", "volume": "92", "number": "4"}, 
       "title": "The Horizon of Danger",
@@ -1454,13 +1454,796 @@
        "authorized": "Brand, Max, 1892-1944",
        "lcna": "n79034951"
       }
+     },
+     {"issue": {"issue-date": "1932-01-02", "volume": "109", "number": "5"}, 
+      "title": "Dogs of the Captain",
+      "title-note": "part 1 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1932-01-02", "volume": "109", "number": "5"}, 
+      "title": "Black Snake Joe",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1932-01-09", "volume": "109", "number": "6"}, 
+      "title": "The Lightning Runner",
+      "title-note": "part 1 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Frederick, John, 1892-1944",
+       "lcna": "n88121490"
+      }
+     },
+     {"issue": {"issue-date": "1932-01-09", "volume": "109", "number": "6"}, 
+      "title": "Dogs of the Captain",
+      "title-note": "part 2 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1932-01-16", "volume": "110", "number": "1"}, 
+      "title": "The Lightning Runner",
+      "title-note": "part 2 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Frederick, John, 1892-1944",
+       "lcna": "n88121490"
+      }
+     },
+     {"issue": {"issue-date": "1932-01-16", "volume": "110", "number": "1"}, 
+      "title": "Dogs of the Captain",
+      "title-note": "part 3 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1932-01-23", "volume": "110", "number": "2"}, 
+      "title": "The Three Crosses",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1932-01-23", "volume": "110", "number": "2"}, 
+      "title": "The Lightning Runner",
+      "title-note": "part 3 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Frederick, John, 1892-1944",
+       "lcna": "n88121490"
+      }
+     },
+     {"issue": {"issue-date": "1932-01-23", "volume": "110", "number": "2"}, 
+      "title": "Dogs of the Captain",
+      "title-note": "part 4 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1932-01-30", "volume": "110", "number": "3"}, 
+      "title": "White Water Sam",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Morland, Peter Henry, 1892-1944",
+       "lcna": "n88121484"
+      }
+     },
+     {"issue": {"issue-date": "1932-01-30", "volume": "110", "number": "3"}, 
+      "title": "The Lightning Runner",
+      "title-note": "part 4 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Frederick, John, 1892-1944",
+       "lcna": "n88121490"
+      }
+     },
+     {"issue": {"issue-date": "1932-01-30", "volume": "110", "number": "3"}, 
+      "title": "Dogs of the Captain",
+      "title-note": "part 5 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1932-02-06", "volume": "110", "number": "4"}, 
+      "title": "The Lightning Runner",
+      "title-note": "part 5 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Frederick, John, 1892-1944",
+       "lcna": "n88121490"
+      }
+     },
+     {"issue": {"issue-date": "1932-02-06", "volume": "110", "number": "4"}, 
+      "title": "Dogs of the Captain",
+      "title-note": "part 6 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1932-02-13", "volume": "110", "number": "5"}, 
+      "title": "White Wolf",
+      "title-note": "part 1 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1932-02-13", "volume": "110", "number": "5"}, 
+      "title": "Speedy, Deputy",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1932-02-13", "volume": "110", "number": "5"}, 
+      "title": "The Lightning Runner",
+      "title-note": "part 6 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Frederick, John, 1892-1944",
+       "lcna": "n88121490"
+      }
+     },
+     {"issue": {"issue-date": "1932-02-20", "volume": "110", "number": "6"}, 
+      "title": "Rancher's Legacy",
+      "title-note": "part 1 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Morland, Peter Henry, 1892-1944",
+       "lcna": "n88121484"
+      }
+     },
+     {"issue": {"issue-date": "1932-02-20", "volume": "110", "number": "6"}, 
+      "title": "Outlaw Crew",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1932-02-20", "volume": "110", "number": "6"}, 
+      "title": "White Wolf",
+      "title-note": "part 2 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1932-02-27", "volume": "111", "number": "1"}, 
+      "title": "Seven Day Lawman",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1932-02-27", "volume": "111", "number": "1"}, 
+      "title": "Rancher's Legacy",
+      "title-note": "part 2 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Morland, Peter Henry, 1892-1944",
+       "lcna": "n88121484"
+      }
+     },
+     {"issue": {"issue-date": "1932-02-27", "volume": "111", "number": "1"}, 
+      "title": "White Wolf",
+      "title-note": "part 3 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1932-03-05", "volume": "111", "number": "2"}, 
+      "title": "The Best Bandit",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Manning, David, 1892-1944",
+       "lcna": "n88121491"
+      }
+     },
+     {"issue": {"issue-date": "1932-03-05", "volume": "111", "number": "2"}, 
+      "title": "Rancher's Legacy",
+      "title-note": "part 3 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Morland, Peter Henry, 1892-1944",
+       "lcna": "n88121484"
+      }
+     },
+     {"issue": {"issue-date": "1932-03-05", "volume": "111", "number": "2"}, 
+      "title": "White Wolf",
+      "title-note": "part 4 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1932-03-12", "volume": "111", "number": "3"}, 
+      "title": "Speedy's Mare",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1932-03-12", "volume": "111", "number": "3"}, 
+      "title": "Rancher's Legacy",
+      "title-note": "part 4 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Morland, Peter Henry, 1892-1944",
+       "lcna": "n88121484"
+      }
+     },
+     {"issue": {"issue-date": "1932-03-12", "volume": "111", "number": "3"}, 
+      "title": "White Wolf",
+      "title-note": "part 5 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1932-03-19", "volume": "111", "number": "4"}, 
+      "title": "Rancher's Legacy",
+      "title-note": "part 5 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Morland, Peter Henry, 1892-1944",
+       "lcna": "n88121484"
+      }
+     },
+     {"issue": {"issue-date": "1932-03-19", "volume": "111", "number": "4"}, 
+      "title": "White Wolf",
+      "title-note": "part 6 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1932-03-26", "volume": "111", "number": "5"},
+      "title": "The Golden Spurs",
+      "title-note": "part 1 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Manning, David, 1892-1944",
+       "lcna": "n88121491"
+      }
+     },
+     {"issue": {"issue-date": "1932-03-26", "volume": "111", "number": "5"},
+      "title": "Carcajou Trail",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1932-03-26", "volume": "111", "number": "5"},
+      "title": "Rancher's Legacy",
+      "title-note": "part 6 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Morland, Peter Henry, 1892-1944",
+       "lcna": "n88121484"
+      }
+     },
+     {"issue": {"issue-date": "1932-04-02", "volume": "111", "number": "6"},
+      "title": "Lucky Larribee",
+      "title-note": "part 1 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1932-04-02", "volume": "111", "number": "6"},
+      "title": "Speedy's Crystal Game",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1932-04-02", "volume": "111", "number": "6"},
+      "title": "The Golden Spurs",
+      "title-note": "part 2 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Manning, David, 1892-1944",
+       "lcna": "n88121491"
+      }
+     },
+     {"issue": {"issue-date": "1932-04-09", "volume": "112", "number": "1"},
+      "title": "Mountain Raiders",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Morland, Peter Henry, 1892-1944",
+       "lcna": "n88121484"
+      }
+     },
+     {"issue": {"issue-date": "1932-04-09", "volume": "112", "number": "1"},
+      "title": "Lucky Larribee",
+      "title-note": "part 2 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1932-04-09", "volume": "112", "number": "1"},
+      "title": "The Golden Spurs",
+      "title-note": "part 3 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Manning, David, 1892-1944",
+       "lcna": "n88121491"
+      }
+     },
+     {"issue": {"issue-date": "1932-04-16", "volume": "112", "number": "2"},
+      "title": "Red Rock's Secret",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1932-04-16", "volume": "112", "number": "2"},
+      "title": "Lucky Larribee",
+      "title-note": "part 3 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1932-04-16", "volume": "112", "number": "2"},
+      "title": "The Golden Spurs",
+      "title-note": "part 4 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Manning, David, 1892-1944",
+       "lcna": "n88121491"
+      }
+     },
+     {"issue": {"issue-date": "1932-04-23", "volume": "112", "number": "3"},
+      "title": "Rawhide Bound",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Morland, Peter Henry, 1892-1944",
+       "lcna": "n88121484"
+      }
+     },
+     {"issue": {"issue-date": "1932-04-23", "volume": "112", "number": "3"},
+      "title": "Lucky Larribee",
+      "title-note": "part 4 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1932-04-23", "volume": "112", "number": "3"},
+      "title": "The Golden Spurs",
+      "title-note": "part 5 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Manning, David, 1892-1944",
+       "lcna": "n88121491"
+      }
+     },
+     {"issue": {"issue-date": "1932-04-30", "volume": "112", "number": "4"},
+      "title": "Lucky Larribee",
+      "title-note": "part 5 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1932-04-30", "volume": "112", "number": "4"},
+      "title": "The Golden Spurs",
+      "title-note": "part 6 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Manning, David, 1892-1944",
+       "lcna": "n88121491"
+      }
+     },
+     {"issue": {"issue-date": "1932-05-07", "volume": "112", "number": "5"}, 
+      "title": "Gun Grudge",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
+     {"issue": {"issue-date": "1932-05-07", "volume": "112", "number": "5"}, 
+      "title": "Lucky Larribee",
+      "title-note": "part 6 of 6",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1932-05-14", "volume": "112", "number": "6"}, 
+      "title": "Speedy's Bargain",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1932-05-21", "volume": "113", "number": "1"}, 
+      "title": "The Greaser Trail",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Morland, Peter Henry, 1892-1944",
+       "lcna": "n88121484"
+      }
+     },
+     {"issue": {"issue-date": "1932-05-28", "volume": "113", "number": "2"}, 
+      "title": "Range Jester",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1932-06-04", "volume": "113", "number": "3"}, 
+      "title": "Paradise Al",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Manning, David, 1892-1944",
+       "lcna": "n88121491"
+      }
+     },
+     {"issue": {"issue-date": "1932-06-11", "volume": "113", "number": "4"}, 
+      "title": "The Geraldi Trail",
+      "title-note": "part 1 of 4",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1932-06-11", "volume": "113", "number": "4"}, 
+      "title": "Exit Star Cross",
+      "author": {
+       "authorized": "Case, Robert Ormond, 1895-1964",
+       "lcna": "no95027451"
+      }
+     },
+     {"issue": {"issue-date": "1932-06-18", "volume": "113", "number": "5"}, 
+      "title": "The Geraldi Trail",
+      "title-note": "part 2 of 4",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1932-06-25", "volume": "113", "number": "6"}, 
+      "title": "The Geraldi Trail",
+      "title-note": "part 3 of 4",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1932-07-02", "volume": "114", "number": "1"}, 
+      "title": "The Geraldi Trail",
+      "title-note": "part 4 of 4",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1932-07-09", "volume": "114", "number": "2"}, 
+      "title": "The Nighthawk Trail",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1932-07-16", "volume": "114", "number": "3"}, 
+      "title": "Paradise Al's Confession",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Manning, David, 1892-1944",
+       "lcna": "n88121491"
+      }
+     },
+     {"issue": {"issue-date": "1932-07-23", "volume": "114", "number": "4"}, 
+      "title": "Mighty Lobo",
+      "title-note": "part 1 of 4",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1932-07-30", "volume": "114", "number": "5"}, 
+      "title": "Suicide Trail",
+      "author": {
+       "authorized": "Case, Robert Ormond, 1895-1964",
+       "lcna": "no95027451"
+      }
+     },
+     {"issue": {"issue-date": "1932-07-30", "volume": "114", "number": "5"}, 
+      "title": "Mighty Lobo",
+      "title-note": "part 2 of 4",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1932-08-06", "volume": "114", "number": "6"}, 
+      "title": "Mighty Lobo",
+      "title-note": "part 3 of 4",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1932-08-13", "volume": "115", "number": "1"}, 
+      "title": "Mighty Lobo",
+      "title-note": "part 4 of 4",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1932-08-20", "volume": "115", "number": "2"}, 
+      "title": "Outlaws From Afar",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1932-08-27", "volume": "115", "number": "3"},
+      "title": "Torturous Trek",
+      "title-note": "part 1 of 4",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1932-09-03", "volume": "115", "number": "4"}, 
+      "title": "Fightin' Fools",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
+     {"issue": {"issue-date": "1932-09-03", "volume": "115", "number": "4"}, 
+      "title": "Torturous Trek",
+      "title-note": "part 2 of 4",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1932-09-10", "volume": "115", "number": "5"}, 
+      "title": "Torturous Trek",
+      "title-note": "part 3 of 4",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1932-09-17", "volume": "115", "number": "6"}, 
+      "title": "Torturous Trek",
+      "title-note": "part 4 of 4",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1932-09-24", "volume": "116", "number": "1"}, 
+      "title": "The Law Dodger of Windy Creek",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1932-10-01", "volume": "116", "number": "2"}, 
+      "title": "All for One",
+      "title-note": "part 1 of 4",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1932-10-08", "volume": "116", "number": "3"}, 
+      "title": "All for One",
+      "title-note": "part 2 of 4",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1932-10-15", "volume": "116", "number": "4"}, 
+      "title": "All for One",
+      "title-note": "part 3 of 4",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1932-10-22", "volume": "116", "number": "5"}, 
+      "title": "All for One",
+      "title-note": "part 4 of 4",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1932-10-29", "volume": "116", "number": "6"}, 
+      "title": "Smoking Guns",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1932-11-05", "volume": "117", "number": "1"}, 
+      "title": "The Invisible Outlaw",
+      "title-note": "part 1 of 4",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1932-11-12", "volume": "117", "number": "2"}, 
+      "title": "Thumbs Down",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
+     {"issue": {"issue-date": "1932-11-12", "volume": "117", "number": "2"}, 
+      "title": "The Invisible Outlaw",
+      "title-note": "part 2 of 4",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1932-11-19", "volume": "117", "number": "3"}, 
+      "title": "The Invisible Outlaw",
+      "title-note": "part 3 of 4",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1932-11-26", "volume": "117", "number": "4"}, 
+      "title": "Star of the Neuces",
+      "note": "Title as given in CCE renewal record. FictionMags gives the title of Case's story in this issue as 'The Silver Concha'. We have not examined the issue in question.",
+      "author": {
+       "authorized": "Case, Robert Ormond, 1895-1964",
+       "lcna": "no95027451"
+      }
+     },
+     {"issue": {"issue-date": "1932-11-26", "volume": "117", "number": "4"}, 
+      "title": "The Invisible Outlaw",
+      "title-note": "part 4 of 4",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1932-12-03", "volume": "117", "number": "5"},
+      "title": "The Two-Handed Man",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1932-12-03", "volume": "117", "number": "5"},
+      "title": "Cat Hill Fugitive",
+      "title-note": "installment",
+      "note": "CCE renewal record says part 1 appears in this issue.  FictionMags instead puts it in the next issue. Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1932-12-10", "volume": "117", "number": "6"},
+      "title": "Cat Hill Fugitive",
+      "title-note": "installment",
+      "note": "CCE renewal record says part 2 appears in this issue.  FictionMags instead puts it in the next issue, and says that part 1 is in this issue. Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1932-12-17", "volume": "118", "number": "1"},
+      "title": "Cat Hill Fugitive",
+      "title-note": "installment",
+      "note": "CCE renewal record says part 3 appears in this issue.  FictionMags instead puts it in the next issue, and says that part 2 is in this issue. Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1932-12-24", "volume": "118", "number": "2"}, 
+      "title": "Sleeper Marked",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
+     {"issue": {"issue-date": "1932-12-24", "volume": "118", "number": "2"}, 
+      "title": "Cat Hill Fugitive",
+      "title-note": "installment",
+      "note": "CCE renewal record says part 4 appears in this issue.  FictionMags instead puts it in the next issue, and says that part 3 is in this issue. Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1932-12-31", "volume": "118", "number": "3"}, 
+      "title": "Cat Hill Fugitive",
+      "title-note": "installment",
+      "note": "CCE renewal record says part 4 was in the previous issue, but FictionMags instead puts it in this issue. Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
      }
    ],
-   "comment": "Pick up contribution renewals with 1959 Jan-Jun",
+   "comment": "Pick up contribution renewals with 1960 Jan-Jun",
    "additional-note": "Active contribution renewals are recorded beginning in the 1957 January-June CCE volume, but the earliest contribution with an active renewal is noted in the 1957 July-December volume.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-05-27"
+   "last-updated": "2025-06-16"
 }

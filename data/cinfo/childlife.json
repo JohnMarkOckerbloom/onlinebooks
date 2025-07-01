@@ -83,7 +83,21 @@
      {"issue-date": "1935-02", "volume": "14", "number": "2",
       "cdate": "1935-01-15"},
      {"issue-date": "1935-03", "volume": "14", "number": "3"},
-     {"issue-date": "1935-04", "volume": "14", "number": "4"}
+     {"issue-date": "1935-04", "volume": "14", "number": "4"},
+     {"issue-date": "1935-05", "volume": "14", "number": "5"},
+     {"issue-date": "1935-06", "volume": "14", "number": "6"},
+     {"issue-date": "1935-07", "volume": "14", "number": "7"},
+     {"issue-date": "1935-08", "volume": "14", "number": "8"},
+     {"issue-date": "1935-09", "volume": "14", "number": "9"},
+     {"issue-date": "1935-10", "volume": "14", "number": "10"},
+     {"issue-date": "1935-11", "volume": "14", "number": "11"},
+     {"issue-date": "1935-12", "volume": "14", "number": "12"},
+     {"issue-date": "1936-01", "volume": "15", "number": "1",
+      "cdate": "1935-12-17"},
+     {"issue-date": "1936-02", "volume": "15", "number": "2",
+      "cdate": "1936-01-15"},
+     {"issue-date": "1936-03", "volume": "15", "number": "3"},
+     {"issue-date": "1936-04", "volume": "15", "number": "4"}
    ],
    "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
@@ -834,5 +848,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-05-27"
+   "last-updated": "2025-06-26"
 }

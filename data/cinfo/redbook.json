@@ -97,7 +97,7 @@
       {"issue-date": "1935-08", "volume": "65", "number": "4"},
       {"issue-date": "1935-09", "volume": "65", "number": "5"}
    ],
-   "renewed-contribution-completeness": "active/1930",
+   "renewed-contribution-completeness": "active/1931",
    "renewed-contributions": [
      {"issue": {"issue-date": "1930-02", "volume": "54", "number": "4"}, 
       "title": "The Murders on the Ship",
@@ -554,6 +554,13 @@
       }
      },
      {"issue": {"issue-date": "1931-11", "volume": "58", "number": "1"},
+        "title": "Angela Blocks a Kick",
+        "author": {
+          "authorized": "Wylie, Philip, 1902-1971",
+          "lcna": "n79145476"
+        }
+     },
+     {"issue": {"issue-date": "1931-11", "volume": "58", "number": "1"},
       "title": "Gangway",
       "title-note": "part 5 of 7",
       "author": {
@@ -568,6 +575,13 @@
         "authorized": "Roche, Arthur Somers, 1883-1935",
         "lcna": "no89021623"
        }
+     },
+     {"issue": {"issue-date": "1931-12", "volume": "58", "number": "2"},
+        "title": "The Man in Armor",
+        "author": {
+          "authorized": "Wylie, Philip, 1902-1971",
+          "lcna": "n79145476"
+        }
      },
      {"issue": {"issue-date": "1931-12", "volume": "58", "number": "2"},
        "title": "Out of Bounds",
@@ -616,10 +630,43 @@
       }
      },
      {"issue": {"issue-date": "1932-02", "volume": "58", "number": "4"}, 
+      "title": "The Band Plays Dixie",
+      "author": {
+       "authorized": "Kantor, MacKinlay, 1904-1977",
+       "lcna": "n79140979"
+      }
+     },
+     {"issue": {"issue-date": "1932-02", "volume": "58", "number": "4"}, 
       "title": "Admirals Best Pants",
       "author": {
        "authorized": "Bellah, James Warner, 1899-1976",
        "lcna": "no92015223"
+      }
+     },
+     {"issue": {"issue-date": "1932-02", "volume": "58", "number": "4"}, 
+        "title": "Henry's Emotional Outlet",
+        "author": {
+          "authorized": "Wylie, Philip, 1902-1971",
+          "lcna": "n79145476"
+        }
+     },
+     {"issue": {"issue-date": "1932-03", "volume": "58", "number": "5"},
+        "title": "Angela Regrets an Invitation",
+        "author": {
+          "authorized": "Wylie, Philip, 1902-1971",
+          "lcna": "n79145476"
+        }
+     },
+     {"issue": {"issue-date": "1932-04", "volume": "58", "number": "6"}, 
+       "title": "He Knew Women",
+       "author": {
+        "name": "Virginia Paxton Harner"
+      }
+     },
+     {"issue": {"issue-date": "1932-05", "volume": "59", "number": "1"}, 
+       "title": "Discard",
+       "author": {
+        "name": "Virginia Paxton Harner"
       }
      },
      {"issue": {"issue-date": "1932-05", "volume": "59", "number": "1"}, 
@@ -627,6 +674,22 @@
       "note": "Renewed under the author's married name, Bernice Brown Brush.",
       "author": {
        "name": "Bernice Brown"
+      }
+     },
+     {"issue": {"issue-date": "1932-05", "volume": "59", "number": "1"}, 
+      "title": "The Secret Agent",
+      "title-note": "part 1 of 5",
+      "author": {
+       "authorized": "King, Rufus, 1893-1966",
+       "lcna": "no94027678"
+      }
+     },
+     {"issue": {"issue-date": "1932-06", "volume": "59", "number": "2"}, 
+      "title": "The Secret Agent",
+      "title-note": "part 2 of 5",
+      "author": {
+       "authorized": "King, Rufus, 1893-1966",
+       "lcna": "no94027678"
       }
      },
      {"issue": {"issue-date": "1932-07", "volume": "59", "number": "3"},
@@ -637,10 +700,33 @@
        }
      },
      {"issue": {"issue-date": "1932-07", "volume": "59", "number": "3"},
+      "title": "The Secret Agent",
+      "title-note": "part 3 of 5",
+      "author": {
+       "authorized": "King, Rufus, 1893-1966",
+       "lcna": "no94027678"
+      }
+     },
+     {"issue": {"issue-date": "1932-07", "volume": "59", "number": "3"},
       "title": "Youth at Midnight",
       "author": {
        "authorized": "Burnet, Dana, 1888-1962",
        "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1932-08", "volume": "59", "number": "4"},
+       "title": "Kiss and Jail",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1932-08", "volume": "59", "number": "4"},
+      "title": "The Secret Agent",
+      "title-note": "part 4 of 5",
+      "author": {
+       "authorized": "King, Rufus, 1893-1966",
+       "lcna": "no94027678"
       }
      },
      {"issue": {"issue-date": "1932-09", "volume": "59", "number": "5"}, 
@@ -658,17 +744,65 @@
       }
      },
      {"issue": {"issue-date": "1932-09", "volume": "59", "number": "5"}, 
+       "title": "Society Girl Sought",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1932-09", "volume": "59", "number": "5"}, 
+      "title": "Vigilante",
+      "author": {
+       "authorized": "Kantor, MacKinlay, 1904-1977",
+       "lcna": "n79140979"
+      }
+     },
+     {"issue": {"issue-date": "1932-09", "volume": "59", "number": "5"}, 
       "title": "Harvest",
       "note": "Renewed under the author's married name, Bernice Brown Brush.",
       "author": {
        "name": "Bernice Brown"
       }
      },
+     {"issue": {"issue-date": "1932-09", "volume": "59", "number": "5"}, 
+      "title": "The Secret Agent",
+      "title-note": "part 5 of 5",
+      "author": {
+       "authorized": "King, Rufus, 1893-1966",
+       "lcna": "no94027678"
+      }
+     },
+     {"issue": {"issue-date": "1932-10", "volume": "59", "number": "6"}, 
+       "title": "Conquistador",
+       "author": {
+        "name": "Virginia Paxton Harner"
+      }
+     },
+     {"issue": {"issue-date": "1932-10", "volume": "59", "number": "6"}, 
+       "title": "Rubbed Out",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
      {"issue": {"issue-date": "1932-10", "volume": "59", "number": "6"}, 
        "title": "Love is an Awful Thing",
        "author": {
         "authorized": "Du Jardin, Rosamond, 1902-1963",
         "lcna": "n50052506"
+      }
+     },
+     {"issue": {"issue-date": "1932-10", "volume": "59", "number": "6"}, 
+        "title": "A Good Wife",
+        "author": {
+          "authorized": "Wylie, Philip, 1902-1971",
+          "lcna": "n79145476"
+        }
+     },
+     {"issue": {"issue-date": "1932-12", "volume": "60", "number": "2"}, 
+       "title": "Rio Magdalena",
+       "author": {
+        "name": "Virginia Paxton Harner"
       }
      },
      {"issue": {"issue-date": "1932-12", "volume": "60", "number": "2"}, 
@@ -695,10 +829,10 @@
         }
      }
    ],
-   "comment": "Pick up contributor sweep with 1959 Jul-Dec starting with H (Harner)",
+   "comment": "Pick up contributor sweep with 1960 Jan-Jun",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-05-31"
+   "last-updated": "2025-06-16"
 }

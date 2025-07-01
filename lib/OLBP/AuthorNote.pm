@@ -87,6 +87,12 @@ sub _initialize {
   if ($params{string}) {
     $self->parse(string=>$params{string});
   }
+  if ($params{name}) {
+    $self->{formalname} = $params{name};
+  }
+  if ($params{informal}) {
+      $self->{informalname} = $params{informal};
+  }
   return $self;
 }
 
