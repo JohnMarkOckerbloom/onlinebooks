@@ -7,7 +7,7 @@
    "first-renewed-contribution":  "none",
    "first-renewed-contribution-source": "cce+database",
    "see-also": [{"id": "natgeo", "note": "National Geographic Magazine"}],
-   "renewed-issue-completenesss": "active/1934",
+   "renewed-issue-completeness": "active/1935",
    "renewed-issues": [
       {"issue-date": "1934-05", "volume": "14", "number": "6"},
       {"issue-date": "1934-06", "volume": "14", "number": "7"},
@@ -17,11 +17,17 @@
       {"issue-date": "1934-11", "volume": "15", "number": "1"},
       {"issue-date": "1934-12", "volume": "15", "number": "2"},
       {"issue-date": "1935-01", "volume": "15", "number": "3"},
-      {"issue-date": "1935-03", "volume": "15", "number": "4"}
+      {"issue-date": "1935-03", "volume": "15", "number": "4"},
+      {"issue-date": "1935-11", "volume": "16", "number": "1"},
+      {"issue-date": "1935-12", "volume": "16", "number": "2"},
+      {"issue-date": "1936-01", "volume": "16", "number": "3"},
+      {"issue-date": "1936-02", "volume": "16", "number": "4"},
+      {"issue-date": "1936-03", "volume": "16", "number": "5"},
+      {"issue-date": "1936-04", "volume": "16", "number": "6"}
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-05-27"
+   "last-updated": "2025-07-16"
 }

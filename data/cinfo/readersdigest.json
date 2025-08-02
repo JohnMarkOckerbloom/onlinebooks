@@ -13,7 +13,7 @@
       {"id": "seleccionesrd", "note": "Selecciones del Reader's Digest"},
       {"id": "selecoesrd", "note": "Selecoes do Reader's Digest"}
    ],
-   "renewed-issue-completeness": "active/1934",
+   "renewed-issue-completeness": "active/1935",
    "renewed-issues": [
       {"issue-date": "1930-02", "volume": "8", "number": "94",
        "cdate": "1930-01-25"},
@@ -98,12 +98,26 @@
       {"issue-date": "1935-11", "volume": "27", "number": "163"},
       {"issue-date": "1935-12", "volume": "27", "number": "164"},
       {"issue-date": "1936-01", "volume": "28", "number": "165",
-       "cdate": "1935-12-24"}
+       "cdate": "1935-12-24"},
+      {"issue-date": "1936-02", "volume": "28", "number": "166",
+       "cdate": "1936-01-24"},
+      {"issue-date": "1936-03", "volume": "28", "number": "167"},
+      {"issue-date": "1936-04", "volume": "28", "number": "168"},
+      {"issue-date": "1936-05", "volume": "28", "number": "169"},
+      {"issue-date": "1936-06", "volume": "28", "number": "170"},
+      {"issue-date": "1936-07", "volume": "29", "number": "171"},
+      {"issue-date": "1936-08", "volume": "29", "number": "172"},
+      {"issue-date": "1936-09", "volume": "29", "number": "173"},
+      {"issue-date": "1936-10", "volume": "29", "number": "174"},
+      {"issue-date": "1936-11", "volume": "29", "number": "175"},
+      {"issue-date": "1936-12", "volume": "29", "number": "176"},
+      {"issue-date": "1937-01", "volume": "30", "number": "177",
+       "cdate": "1936-12-24"}
    ],
    "additional-note": "This magazine includes reprints and condensations of articles originally published elsewhere.  Those may have their own copyrights, and we have not systematically checked their renewal status.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-05-27"
+   "last-updated": "2025-07-11"
 }

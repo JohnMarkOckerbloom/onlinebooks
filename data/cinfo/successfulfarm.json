@@ -1,0 +1,36 @@
+{
+   "title": "Successful Farming",
+   "online": "1",
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce+database",
+   "first-renewed-contribution": {"issue": {"issue-date": "1952-09"}},
+   "first-renewed-contribution-source": "database",
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1952-09"}, 
+      "title": "Thrifty Ideas for Home Canners",
+       "author": {
+         "name": "Applegate Advertising Agency"
+       }
+     },
+     {"issue": {"issue-date": "1956-04"}, 
+      "title": "The Table",
+      "author": {
+       "authorized": "Merchant, Jane",
+       "lcna": "n50035957"
+      }
+     },
+     {"issue": {"issue-date": "1956-11"}, 
+      "title": "Help!",
+      "author": {
+       "authorized": "Merchant, Jane",
+       "lcna": "n50035957"
+      }
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2025-07-03"
+}

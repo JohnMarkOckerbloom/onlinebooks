@@ -803,6 +803,7 @@ sub analyze_form {
       || $email =~ /\@email.tst/
       || $email =~ /testing\@example.com/
       || $email =~ /cergplwqx/
+      || $email =~ /PJst/
       || $email =~ /explainthebusiness/
       || $email =~ /seoxplorer/
       || $email =~ /arachni\@email/

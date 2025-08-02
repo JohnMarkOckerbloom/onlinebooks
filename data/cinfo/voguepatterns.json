@@ -25,7 +25,7 @@
    "first-renewed-issue-source": "1957-JulDec",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
-   "renewed-issue-completeness": "active/1934",
+   "renewed-issue-completeness": "active/1935",
    "renewed-issues": [
     {"issue-date": "1930-April-May", "volume": "5", "number": "4",
      "cdate": "1930-02-25"},
@@ -73,12 +73,21 @@
     {"issue-date": "1935-August-September", "volume": "10", "number": "6"},
     {"issue-date": "1935-October-November", "volume": "11", "number": "1"},
     {"issue-date": "December 1935 - January 1936", "cdate": "1935-10-31",
-     "volume": "11", "number": "2"}
+     "volume": "11", "number": "2"},
+    {"issue-date": "1936-February-March", "cdate": "1935-12-24",
+     "volume": "11", "number": "3"},
+    {"issue-date": "1936-April-May", "cdate": "1936-02-25",
+     "volume": "11", "number": "4"},
+    {"issue-date": "1936-June-July", "volume": "11", "number": "5"},
+    {"issue-date": "1936-August-September", "volume": "11", "number": "6"},
+    {"issue-date": "1936-October-November", "volume": "12", "number": "1"},
+    {"issue-date": "December 1936 - January 1937", "cdate": "1936-10-28",
+     "volume": "12", "number": "2"}
    ],
    "additional-note": "Some issue renewals were filed under Periodicals, and others under Books.  Library coverage of this serial is spotty, but issue dates in the renewal records suggest that Vogue Patterns and Vogue Patterns Catalog[ue] are the same monthly publication, distinct from Vogue Mid-Month Collection, Vogue Patterns of the Month, and Children's Vogue Patterns. We are not sure if Vogue Pattern Book started out distinct from this publication or as a separate publication, but the earliest active renewal in this set is for Vogue Pattern Book.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-05-27"
+   "last-updated": "2025-07-14"
 }

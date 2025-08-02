@@ -13,9 +13,15 @@
    "first-renewed-contribution-source": "cce",
    "last-issue": 
      {"issue-date": "1936-September-October", "volume": "1", "number": "3"},
+   "renewed-issue-completeness": "active/end",
+   "renewed-issues": [
+     {"issue-date": "1936-May-June", "volume": "1", "number": "1"},
+     {"issue-date": "1936-July-August", "volume": "1", "number": "2"},
+     {"issue-date": "1936-September-October", "volume": "1", "number": "3"}
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-04-04"
+   "last-updated": "2025-07-16"
 }

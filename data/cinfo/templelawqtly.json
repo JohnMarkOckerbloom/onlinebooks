@@ -8,9 +8,14 @@
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
    "succeeded-by": [{"id": "templelawreview", "note": "Temple Law Review"}],
+   "renewed-issue-completeness": "active/1936",
+   "renewed-issues": [
+    {"issue-date": "1936-02", "volume": "10", "number": "2"},
+    {"issue-date": "1936-05", "volume": "10", "number": "3"}
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-05-05"
+   "last-updated": "2025-07-21"
 }

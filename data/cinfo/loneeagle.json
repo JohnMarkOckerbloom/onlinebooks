@@ -16,9 +16,28 @@
    "succeeded-by":
       [{"id": "amereagle1941",
         "note": "The American Eagle (Better Publications, 1941-1943)"}],
+   "renewed-issue-completeness": "active/1935",
+   "renewed-issues": [
+     {"issue-date": "1935-12", "volume": "9", "number": "3"},
+     {"issue-date": "1936-01", "volume": "10", "number": "1",
+      "cdate": "1935-10-22"},
+     {"issue-date": "1936-02", "volume": "10", "number": "2",
+      "cdate": "1935-11-21"},
+     {"issue-date": "1936-03", "volume": "10", "number": "3",
+      "cdate": "1935-12-18"},
+     {"issue-date": "1936-04", "volume": "11", "number": "1",
+      "cdate": "1936-01-24"},
+     {"issue-date": "1936-05", "volume": "11", "number": "2"},
+     {"issue-date": "1936-06", "volume": "11", "number": "3"},
+     {"issue-date": "1936-07", "volume": "12", "number": "1"},
+     {"issue-date": "1936-08", "volume": "12", "number": "2"},
+     {"issue-date": "1936-09", "volume": "12", "number": "3"},
+     {"issue-date": "1936-10", "volume": "13", "number": "1"},
+     {"issue-date": "1936-11", "volume": "13", "number": "2"}
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-09-21"
+   "last-updated": "2025-07-18"
 }

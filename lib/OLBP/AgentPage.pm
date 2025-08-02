@@ -2,6 +2,7 @@ package OLBP::AgentPage;
 use OLBP::Name;
 use OLBP::RecordStore;
 use JSON;
+use RelationshipConstants;
 
 $OLBP::AgentPage::styleurl = $OLBP::serverurl . "whopage.css";
 
@@ -67,14 +68,18 @@ sub get_image_info {
 
 sub _display_banner {
   my ($self, $name, $informal) = @_;
-  print qq!<div class="whobanner">!;
-  print qq!<table><tr><td>!;
+  my $info = $self->get_image_info();
+  my $class = "whobanner";
+  if (!$info) {
+   $class = "whobanner-nopic";
+  }
+  print qq!<div class="$class">!;
+  print qq!<table><tr><td>! if ($info);
   print "<h2>$informal</h2>\n";
   my $naivename = OLBP::Name::naive($name);
   if ($naivename ne $informal) {
     print "<h3>($name)</h3>\n";
   }
-  my $info = $self->get_image_info();
   if ($info) {
     print qq!</td><td width="15%"></td><td>!;
     my $desc = $info->{desc};
@@ -89,7 +94,7 @@ sub _display_banner {
       _display_image($imageurl, $desc, $commonsurl);
     }
   }
-  print qq!</td></tr></table>!;
+  print qq!</td></tr></table>! if ($info);
   print "</div>";
 }
 
@@ -156,7 +161,7 @@ sub get_links {
   return $self->{links};
 }
 
-sub get_relationships {
+sub _get_rels {
   my ($self) = @_;
   if (!$self->{rels}) {
     my $str = $self->_get_string_from_file("rels.json");
@@ -169,51 +174,59 @@ sub get_relationships {
   return $self->{rels};
 }
 
-sub get_roles {
-  my ($self) = @_;
-  my $rels = $self->get_relationships();
-  my @roles = ();
-  if ($rels) {
-    foreach my $rel (@{$rels}) {
-      if ($rel->{type} eq "Role") {
-        push @roles, $rel;
-      } 
+# always returns a list (sometimes empty)
+# can be filtered by type and/or description
+
+sub get_relationships {
+  my ($self, %params) = @_;
+  my $rels = $self->_get_rels();
+  return () if (!$rels);
+  my @list = @{$rels};
+  if ($params{type} || $params{description}) {
+    my @newlist = ();
+    foreach my $item (@list) {
+      next if ($params{type} && $item->{type} ne $params{type});
+      next if ($params{description}
+       && $item->{description} ne $params{description});
+     push @newlist, $item;
     }
+    @list = @newlist;
   }
-  if (scalar(@roles)) {
-    return \@roles;
-  }
-  return undef;
+  return @list;
 }
 
-sub _print_role {
-  my ($self, $role) = @_;
-  if ($role->{description} eq "Ambassador") {
-    print $self->_livelink($role->{objectname}) . " ";
-    print $role->{description};
-    print " to ";
-    print $self->_livelink($role->{object2name});
+sub _print_relationship {
+  my ($self, $rel, $usedesc) = @_;
+  if ($rel->{description} eq "Ambassador") {
+    print $self->_wholink($rel->{objectname}) . " ";
+    if ($usedesc) {
+      print $rel->{description}.  " to ";
+    }
+    print $self->_wholink($rel->{object2name});
   } else {
-    print ($role->{description});
-    if ($role->{objectname}) {
-      print ", " . $self->_livelink($role->{objectname});
+    if ($usedesc) {
+      print ($rel->{description});
+      print ", " if ($rel->{objectname});
+    }
+    if ($rel->{objectname}) {
+      print $self->_wholink($rel->{objectname});
     }
   }
-  if ($role->{date1} || $role->{date2}) {
-    if (!$role->{date2} || ($role->{date1} eq $role->{date2})) {
-      print " ($role->{date1})";
+  if ($rel->{date1} || $rel->{date2}) {
+    if (!$rel->{date2} || ($rel->{date1} eq $rel->{date2})) {
+      print " ($rel->{date1})";
     } else {
-      print " ($role->{date1}\-$role->{date2})";
+      print " ($rel->{date1}\-$rel->{date2})";
     }
   }
 }
 
-sub _print_roles {
-  my ($self, @roles) = @_;
-  print "\n<b>Selected roles:</b><ul>\n";
+sub _print_relationships {
+  my ($self, $name, $usedesc, @roles) = @_;
+  print "\n<b>$name:</b><ul>\n";
   foreach my $role (sort {$a->{start} <=> $b->{start} } @roles) {
     print "<li> ";
-    $self->_print_role($role);
+    $self->_print_relationship($role, $usedesc);
   }
   print "</ul>\n";
 }
@@ -225,6 +238,7 @@ sub _print_additional_refs {
   if ($links) {
     @refs = @{$links};
   }
+  my $informal = $self->get_informal();
   if ($includewp) {
     my $wpurl = $self->get_wikipedia_url();
     if ($wpurl)  {
@@ -232,14 +246,14 @@ sub _print_additional_refs {
       push @refs, $ref;
     }
   }
-  print "<b>More resources on this subject:</b><ul>\n";
+  print "<b>More about $informal:</b><ul>\n";
   foreach my $ref (@refs) {
     print "<li> <a href=\"$ref->{url}\">$ref->{note}</a>";
   }
   my $url = $OLBP::seealsourl . "?su=" . OLBP::url_encode($name);
-  print "<li> <a href=\"$url\">Search in your library</a>";
+  print "<li> <a href=\"$url\">Resources in your library</a>";
   $url .= "\&amp;library=0CHOOSE0";
-  print "<li> <a href=\"$url\">Search in another library</a>";
+  print "<li> <a href=\"$url\">Resources in another library</a>";
   print "</ul>";
 }
 
@@ -248,6 +262,8 @@ sub _print_lead {
   my $wpurl = $self->get_wikipedia_url();
   $str =~ s!\'\'\'(.*)?\'\'\'!<b>$1</b>!g;
   $str =~ s!</b>\s*\(.*?\)!</b>!;         # remove parenthetical after boldname
+  $str =~ s!\(\s*;\s*!\(!;                # remove semicolons after paren
+  $str =~ s!\(\s*\)!!;                    # remove empty parenthetical
   print "<p>$str ";
   print qq!<em>(From <a href="$wpurl">Wikipedia</a>)</em></p>!;
 }
@@ -278,11 +294,27 @@ sub display_works {
     # do we want to add an author note here?  Or elsewhere?
     showauthorhits($store, (split '\s+', $val));
     if ($exval) {
-      print ($val ? (OLBP::result_tips() . "<p>Additional b") : "<p>B");
-      print "ooks from the extended shelves:</p>";
+      if ($val) {
+        # print OLBP::result_tips();
+        my $byslug = "by " . $self->get_informal();
+        print "<details><summary>";
+        print "Additional books $byslug in the extended shelves:</summary>";
+      } else {
+        print "Books $byslug in the extended shelves:";
+      }
       showauthorhits($store, (split '\s+', $exval));
+      if ($val) {
+        print "</details>";
+      }
     }
   }
+  print "<p>";
+  print "Find more by ". $self->get_informal() . " at ";
+  my $name = $self->get_heading();
+  my $url = $OLBP::seealsourl . "?au=" . OLBP::url_encode($name);
+  print "<a href=\"$url\">your library</a>, or ";
+  print "<a href=\"$url\&amp;library=0CHOOSE0\">elsewhere</a>.";
+  print "</p>\n";
 }
 
 sub _get_query_url {
@@ -292,6 +324,15 @@ sub _get_query_url {
     return $OLBP::scripturl . "$cmd&amp;key=" . OLBP::url_encode($term);
   }
   return "";
+}
+
+sub _wholink {
+  my ($self, $item) = @_;
+  my $url = $OLBP::serverurl . "webbin/who/";
+  $url .= OLBP::url_encode($item);
+  if ($url) {
+    return "<a href=\"$url\">" . $item . "</a>";
+  }
 }
 
 sub _livelink {
@@ -319,6 +360,37 @@ sub _print_related_list {
   }
 }
 
+sub _show_extended_about {
+  my ($self, @booklist) = @_;
+  my $type = "subject";
+  print qq!<div id="xsubjectbooks">!;
+  print "<details><summary>";
+  print scalar(@booklist) .  " additional book";
+  print "s" if (scalar(@booklist) > 1);
+  print " about " . $self->get_informal();
+  print " in the extended shelves:</summary>";
+  print "<ul>";
+  foreach my $br (@booklist) {
+     print "<li>" . $br->short_entry() . "</li>\n";
+  }
+  print "</ul>";
+  print "</details>";
+  print "</div>\n";
+}
+
+# Since extended shelves include curated collection too, we'll filter those out
+
+sub _filter_out_curated {
+  my (@booklist) = @_;
+  my @newlist = ();
+  foreach my $book (@booklist) {
+    if (!($book->get_id() =~ /^olbp/)) {
+      push @newlist, $book;
+    }
+  }
+  return @newlist;
+}
+
 sub display {
   my ($self, %params) = @_;
   my $name = $self->get_heading();
@@ -336,22 +408,28 @@ sub display {
     $includewikipedia = 0;
   } 
   $self->_print_additional_refs($name, $includewikipedia);
-  my @roles = ();
-  my $roleref = $self->get_roles();
-  if ($roleref) {
-    @roles = @{$roleref};
-  }
+  my @roles = $self->get_relationships(type=>"Role");
   if (scalar(@roles)) {
-    $self->_print_roles(@roles);
+    $self->_print_relationships("Selected roles", 1, @roles);
+  }
+  foreach my $reltype ($RelationshipConstants::CREATED,
+                       $RelationshipConstants::CREATEDBY,
+                       $RelationshipConstants::ASSOCIATED) {
+    my @names = $self->get_relationships(description=>$reltype);
+    if (scalar(@names)) {
+      $self->_print_relationships($reltype, 0, @names);
+    }
   }
   my $akey = OLBP::BookRecord::sort_key_for_name($name);
   my $val = gethashval("authortitles", $akey);
   my $exval = gethashval("authortitles", $akey, $extradir);
   my $skey = OLBP::BookRecord::search_key_for_subject($name);
   my @subjectbooks = $self->{subbrowser}->get_books_with_subject(key=>$skey);
-  # for extended shelves; see _lookup_key in SubjectHierarchyBrowser
+  my @xsubjectbooks = $self->{xsubbrowser}->get_books_with_subject(key=>$skey);
+  @xsubjectbooks = _filter_out_curated(@xsubjectbooks);
   my $subjectnotes = gethashval("booksubnotes", $skey);
   if ($subjectnotes) {
+    $hasbooksabout = 1;
     my $node = new OLBP::SubjectNode(name => $name);
     $node->expand(infostring=>$subjectnotes);
     $self->_print_related_list("Example of", 1, $node->broader_terms());
@@ -360,7 +438,7 @@ sub display {
   }
   print qq!</td><td class="separator">&nbsp;!;
   print qq!</td><td class="agentworks">!;
-  if (scalar(@subjectbooks)) {
+  if (scalar(@subjectbooks) || scalar(@xsubjectbooks)) {
     $hasbooksabout = 1;
     if ($val || $exval) {
       print qq!<p><a href="#booksabout">Books about $informal</a> -- 
@@ -374,6 +452,9 @@ sub display {
                                                   downonly=>1);
     # Only show the extended shelves ones directly under the name
     #  (which may mean the narrower terms should be displayed on the left)
+    if (@xsubjectbooks) {
+      $self->_show_extended_about(@xsubjectbooks);
+    }
   }
   if ($val || $exval) {
     print "<p id=\"booksby\"><strong>Books by $informal:</strong><p>";
@@ -412,6 +493,7 @@ sub _initialize {
   $self->{authornote} = $params{authornote};
   $self->{dir} = $params{dir};
   $self->{subbrowser} = $params{subbrowser};
+  $self->{xsubbrowser} = $params{xsubbrowser};
   $self->{parser} = JSON->new->allow_nonref;
   return $self;
 }

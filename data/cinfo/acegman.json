@@ -12,9 +12,24 @@
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce",
    "last-issue": {"issue-date": "1943-04", "volume": "11", "number": "1"},
+   "renewed-issue-completeness": "active/1936",
+   "renewed-issues": [
+      {"issue-date": "1936-May-June", "volume": "1", "number": "1"},
+      {"issue-date": "1936-July-August", "volume": "1", "number": "2"},
+      {"issue-date": "1936-September-October", "volume": "1", "number": "3"},
+      {"issue-date": "1936-November-December", "volume": "1", "number": "4"},
+      {"issue-date": "1937-January-February", "volume": "2", "number": "1",
+       "cdate": "1936-12-10"},
+      {"issue-date": "1937-March-April", "volume": "2", "number": "2",
+       "cdate": "1937-02-10"},
+      {"issue-date": "1937-May-June", "volume": "2", "number": "3"},
+      {"issue-date": "1937-July-August", "volume": "2", "number": "4"},
+      {"issue-date": "1937-September-October", "volume": "3", "number": "1"},
+      {"issue-date": "1937-November-December", "volume": "3", "number": "2"}
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-06-12"
+   "last-updated": "2025-07-14"
 }

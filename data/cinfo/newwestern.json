@@ -7,7 +7,8 @@
    "first-issue":
      {"issue-date": "1934-11", "volume": "1", "number": "1"},
    "first-renewed-issue":
-     {"issue-date": "1936-01", "volume": "1", "number": "8"},
+     {"issue-date": "1936-01", "volume": "1", "number": "8",
+      "cdate": "1935-11-25"},
    "first-renewed-issue-source": "1963-JulDec",
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1936-October-November",
@@ -15,10 +16,21 @@
    "first-renewed-contribution-source": "1964-JulDec",
    "last-issue":
      {"issue-date": "1954-08", "volume": "27", "number": "4"},
+   "renewed-issue-completeness": "active/1936",
+   "renewed-issues": [
+     {"issue-date": "1936-01", "volume": "1", "number": "8",
+      "cdate": "1935-11-25"},
+     {"issue-date": "1936-July-August", "volume": "1", "number": "9"},
+     {"issue-date": "1936-October-November", "volume": "1", "number": "10"},
+     {"issue-date": "December 1936 - January 1937", "cdate": "1936-10-30",
+      "volume": "2", "number": "1"},
+     {"issue-date": "1937-February-March", "cdate": "1936-12-31",
+      "volume": "2", "number": "2"}
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-04-02"
+   "last-updated": "2025-07-20"
 }
 

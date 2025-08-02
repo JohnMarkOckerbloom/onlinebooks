@@ -11,10 +11,11 @@
    "last-issue": {"issue-date": "1946-12", "volume": "23", "number": "12"},
    "succeeded-by":
     [{"id": "jaocs", "note": "Journal of the American Oil Chemists' Society"}],
-   "renewed-issue-completeness": "active/1933",
+   "renewed-issue-completeness": "active/1935",
    "renewed-issues": [
        {"issue-date": "1932-12", "volume": "9", "number": "12"},
-       {"issue-date": "1933-09", "volume": "10", "number": "9"}
+       {"issue-date": "1933-09", "volume": "10", "number": "9"},
+       {"issue-date": "1935-12", "volume": "12", "number": "12"}
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
@@ -22,5 +23,5 @@
    },
    "acknowledgement": 
       "Thanks to Felice Gollotti for copyright research on this title.",
-   "last-updated": "2025-05-01"
+   "last-updated": "2025-07-09"
 }

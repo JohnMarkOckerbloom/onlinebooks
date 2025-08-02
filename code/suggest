@@ -308,6 +308,9 @@ sub analyze_form {
   } elsif ($email =~ /email\.tst$/) {
     # A favorite domain of hacking attempts for some reason
     $pool = new OLBP::SubmissionPool(name=>$spamdir);
+  } elsif ($email =~ /EsFy/) {
+    # A spam runner
+    $pool = new OLBP::SubmissionPool(name=>$spamdir);
   } elsif ($ref) {
     $pool = new OLBP::SubmissionPool(name=>$withuridir);
   } else {

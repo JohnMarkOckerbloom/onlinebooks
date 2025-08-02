@@ -13,9 +13,29 @@
    "first-renewed-contribution-source": "cce+database",
    "last-issue":
      {"issue-date": "1953-Summer", "volume": "59", "number": "1"},
+   "renewed-issue-completeness": "active/1935",
+   "renewed-issues": [
+     {"issue-date": "1935-12", "volume": "12", "number": "2"},
+     {"issue-date": "1936-01", "volume": "13", "number": "3",
+      "cdate": "1935-10-24"},
+     {"issue-date": "1936-02", "volume": "14", "number": "1",
+      "cdate": "1935-11-25"},
+     {"issue-date": "1936-03", "volume": "14", "number": "2",
+      "cdate": "1935-12-26"},
+     {"issue-date": "1936-04", "volume": "14", "number": "3",
+      "cdate": "1936-01-27",
+      "note": "CCE renewal record dates the copyright as 27 Jun 1936, but this is likely a typo."},
+     {"issue-date": "1936-05", "volume": "15", "number": "1"},
+     {"issue-date": "1936-06", "volume": "15", "number": "2"},
+     {"issue-date": "1936-07", "volume": "15", "number": "3"},
+     {"issue-date": "1936-08", "volume": "16", "number": "1"},
+     {"issue-date": "1936-09", "volume": "16", "number": "2"},
+     {"issue-date": "1936-10", "volume": "16", "number": "3"},
+     {"issue-date": "1936-11", "volume": "17", "number": "1"}
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-09-27"
+   "last-updated": "2025-07-20"
 }

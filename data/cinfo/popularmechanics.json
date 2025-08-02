@@ -6,7 +6,7 @@
    "first-renewed-issue-source": "1960-JanJun",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
-   "renewed-issue-completeness": "active/1934",
+   "renewed-issue-completeness": "active/1935",
    "renewed-issues": [
      {"issue-date": "1932-03", "volume": "57", "number": "3"},
      {"issue-date": "1932-04", "volume": "57", "number": "4"},
@@ -48,6 +48,20 @@
       "cdate": "1934-12-10"},
      {"issue-date": "1935-02", "volume": "63", "number": "2",
       "cdate": "1935-01-10"},
+     {"issue-date": "1935-03", "volume": "63", "number": "3"},
+     {"issue-date": "1935-04", "volume": "63", "number": "4"},
+     {"issue-date": "1935-05", "volume": "63", "number": "5"},
+     {"issue-date": "1935-06", "volume": "63", "number": "6"},
+     {"issue-date": "1935-07", "volume": "64", "number": "1"},
+     {"issue-date": "1935-08", "volume": "64", "number": "2"},
+     {"issue-date": "1935-09", "volume": "64", "number": "3"},
+     {"issue-date": "1935-10", "volume": "64", "number": "4"},
+     {"issue-date": "1935-11", "volume": "64", "number": "5"},
+     {"issue-date": "1935-12", "volume": "64", "number": "6"},
+     {"issue-date": "1936-01", "volume": "65", "number": "1",
+      "cdate": "1935-12-10"},
+     {"issue-date": "1936-02", "volume": "65", "number": "2",
+      "cdate": "1936-01-10"},
      {"issue-date": "1940-07", "volume": "74", "number": "1",
       "note": "Renewal found in the 1968 January-June Books volume of the CCE."}
    ],
@@ -55,5 +69,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-05-27"
+   "last-updated": "2025-07-10"
 }

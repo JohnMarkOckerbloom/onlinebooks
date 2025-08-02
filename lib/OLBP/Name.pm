@@ -50,7 +50,14 @@ sub informal {
       $s2 =~ s/\s+$//;
     }
     if ($s2) {
-      $name = $s2 . " " . $name;
+      if ($s2 =~ /^(King|Queen|Prince|Princess|Duke|Duchess|Earl) of /) {
+        # names with royal or noble titles don't get inverted
+        $name .= ", $s2";
+      } elsif ($s2 =~ /^of /) {   # names like Wizard of Oz
+        $name .= " $s2";
+      } else {
+        $name = $s2 . " " . $name;
+      }
     }
   }
   return $name;

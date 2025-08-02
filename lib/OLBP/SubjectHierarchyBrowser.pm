@@ -195,6 +195,7 @@ sub get_books_with_subject {
   if (!$self->{subcache}->{$key}) {
     my $val = $self->{subjectbooks}->get_value(key=>$key);
     my @booklist;
+    # print "\n<!-- Val in $self->{subjectbooks}->{filename} file (hsize $self->{subjectbooks}->{hsize} ho $self->{subjectbooks}->{hexoffset} key $key) came back as $val -->\n";
     if ($val) {
       my @refarray = split /\s+/, $val;
       foreach my $bookid (@refarray) {
@@ -270,6 +271,7 @@ sub _recur_under_subject {
     if (scalar(@subterms)) {
       for (my $i = scalar(@subterms) - 1; $i >= 0; $i--) {
         next if (!$subterms[$i]);
+        # print "\n<!-- Checking subterm $subterms[$i] -->\n";
         $breadth{$subterms[$i]} = $breadthcount;
         if ($breadthcount <= $max) {
           $breadthcount +=
@@ -493,7 +495,14 @@ sub _initialize {
   foreach my $hashname (@hashes) {
     # my $fname = OLBP::hashfilename($hashname);
     my $fname = OLBP::hashfilename($hashname, $dir);
-    my $hash = new OLBP::Hash(name=>$hashname, filename=>$fname);
+    # next hacky bit needed to squash bad use of global filehandles in Hash;
+    #   should really fix there later
+    my $hname = $hashname;
+    if ($self->{collection} eq "x") {
+      $hname = "x" . $hname;
+    }
+    # end of hacky bit
+    my $hash = new OLBP::Hash(name=>$hname, filename=>$fname);
     $self->{$hashname} = $hash;
     if ($self->{collection} eq "x") {
       foreach my $start ($MISC, ('a' .. 'z')) {

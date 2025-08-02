@@ -16,9 +16,26 @@
    "first-renewed-contribution-source": "1966-JanJun",
    "last-issue": 
        {"issue-date": "1953-Winter", "volume": "38", "number": "3"}, 
+   "renewed-issues": [
+       {"issue-date": "1935-12", "volume": "1", "number": "3"}, 
+       {"issue-date": "1936-01", "volume": "2", "number": "1",
+        "cdate": "1935-11-08"}, 
+       {"issue-date": "1936-02", "volume": "2", "number": "2", 
+        "cdate": "1935-12-09"}, 
+       {"issue-date": "1936-03", "volume": "2", "number": "3", 
+        "cdate": "1936-01-09"}, 
+       {"issue-date": "1936-04", "volume": "3", "number": "1"}, 
+       {"issue-date": "1936-05", "volume": "3", "number": "2"}, 
+       {"issue-date": "1936-06", "volume": "3", "number": "3"}, 
+       {"issue-date": "1936-07", "volume": "4", "number": "1"}, 
+       {"issue-date": "1936-08", "volume": "4", "number": "2"}, 
+       {"issue-date": "1936-09", "volume": "4", "number": "3"}, 
+       {"issue-date": "1936-10", "volume": "5", "number": "1"}, 
+       {"issue-date": "1936-11", "volume": "5", "number": "2"}
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2017-12-05"
+   "last-updated": "2025-07-16"
 }

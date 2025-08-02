@@ -9,6 +9,7 @@ $OLBP::SCRIPTNAME = "book/";
 use OLBP;
 use OLBP::SubjectGraph;
 use OLBP::SubjectNode;
+use OLBP::OccupationFile;
 
 $serverurl = "https://onlinebooks.library.upenn.edu/";
 $booksurl = $serverurl;
@@ -30,6 +31,7 @@ $newrssfile  = $dbdir . $newrssname;
 $serialsfile = $dbdir . "serials.html";
 $tweakfile   = $dbdir . "tweaks";
 $geofile     = $dbdir . "geoabbrev";
+$occfile     = $dbdir . "occupations";
 
 $idxdir = "/mnt/onlinebooks/nonpublic/bookdb/indexbuild/";
 if ($ARGV[0] eq "local") {
@@ -52,10 +54,12 @@ my $WORK       = 6;
 
 my $tweaks = new OLBP::SubjectTweaks(file=>$tweakfile);
 my $geo = new OLBP::SubjectGeo(file=>$geofile);
+my $occupations = new OLBP::OccupationFile(file=>$occfile);
 
 my $subjectgraph = new OLBP::SubjectGraph(headingidhash=>"subjectids",
                                          idinfohash=>"subjectnotes",
                                          tweaks=>$tweaks, geo=>$geo);
+
 
 sub pageheader {
   my ($title, $withrss) = @_;
@@ -136,6 +140,32 @@ sub associate_name_with_subjects {
                                    type=>"BT", subtype=>$ASSOCIATED);
          }
        }
+     }
+   }
+}
+
+# We only want to do the occupation associations once per name
+my $didoccupations = {};
+
+sub associate_name_with_occupations {
+   my ($name, $occupationobject) = @_;
+   return undef if (!$occupationobject);
+   my $nnode = $subjectgraph->find_node(heading=>$name);
+   if ($nnode) {
+     if (!$didoccupations->{$name}) {
+       my @occupations = $occupationobject->get_occupations(heading=>$name);
+       if (scalar(@occupations)) {
+         foreach my $sub (@occupations) {
+           next if ($sub =~ /^Authors/);     # skip Authors subs; too broad
+           my $snode = $subjectgraph->find_node(heading=>$sub);
+           if ($snode) {
+             # print "I think $name has occupation $sub\n";
+             $subjectgraph->add_edge(node1=>$nnode, node2=>$snode,
+                                     type=>"BT", subtype=>$ASSOCIATED);
+           }
+         }
+       }
+       $didoccupations->{$name} = 1;
      }
    }
 }
@@ -234,6 +264,7 @@ sub addrecord {
         if (!$aname{$nom}) {
           $nsname{$nom} = $name;
         }
+        associate_name_with_occupations($name, $occupations);
       }
       # If there's exactly 1 namesub, and it's in first position, 
       # it might be associatable with other subjects

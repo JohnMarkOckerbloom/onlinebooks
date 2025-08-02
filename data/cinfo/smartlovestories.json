@@ -15,9 +15,39 @@
    "first-renewed-contribution-source": "cce",
    "last-issue":
      {"issue-date": "1938-08", "volume": "8", "number": "3"},
+   "renewed-issue-completeness": "active/end",
+   "renewed-issues": [
+     {"issue-date": "1936-10", "volume": "4", "number": "5"},
+     {"issue-date": "1936-11", "volume": "4", "number": "6"},
+     {"issue-date": "1936-12", "volume": "5", "number": "1"},
+     {"issue-date": "1937-01", "volume": "5", "number": "2",
+      "cdate": "1936-12-09"},
+     {"issue-date": "1937-02", "volume": "5", "number": "3",
+      "cdate": "1937-01-13"},
+     {"issue-date": "1937-03", "volume": "5", "number": "4"},
+     {"issue-date": "1937-04", "volume": "5", "number": "5"},
+     {"issue-date": "1937-05", "volume": "5", "number": "6"},
+     {"issue-date": "1937-06", "volume": "6", "number": "1"},
+     {"issue-date": "1937-07", "volume": "6", "number": "2"},
+     {"issue-date": "1937-08", "volume": "6", "number": "3"},
+     {"issue-date": "1937-09", "volume": "6", "number": "4"},
+     {"issue-date": "1937-10", "volume": "6", "number": "5"},
+     {"issue-date": "1937-11", "volume": "6", "number": "6"},
+     {"issue-date": "1937-12", "volume": "7", "number": "1"},
+     {"issue-date": "1938-01", "volume": "7", "number": "2",
+      "cdate": "1937-12-08"},
+     {"issue-date": "1938-02", "volume": "7", "number": "3",
+      "cdate": "1938-01-12"},
+     {"issue-date": "1938-03", "volume": "7", "number": "4"},
+     {"issue-date": "1938-04", "volume": "7", "number": "5"},
+     {"issue-date": "1938-05", "volume": "7", "number": "6"},
+     {"issue-date": "1938-06", "volume": "8", "number": "1"},
+     {"issue-date": "1938-07", "volume": "8", "number": "2"},
+     {"issue-date": "1938-08", "volume": "8", "number": "3"}
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-01-04"
+   "last-updated": "2025-07-20"
 }

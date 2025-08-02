@@ -15,11 +15,15 @@
    "first-renewed-contribution-source": "1965-JanJun",
    "last-issue": 
        {"issue-date": "1953-Fall", "volume": "46", "number": "1"}, 
+   "renewed-issue-completeness": "active/1935",
    "renewed-issues": [
        {"issue-date": "1935-12", "volume": "7", "number": "3"}, 
-       {"issue-date": "1936-01", "volume": "8", "number": "1"}, 
-       {"issue-date": "1936-02", "volume": "8", "number": "2"}, 
-       {"issue-date": "1936-03", "volume": "8", "number": "3"}, 
+       {"issue-date": "1936-01", "volume": "8", "number": "1",
+        "cdate": "1935-10-31"}, 
+       {"issue-date": "1936-02", "volume": "8", "number": "2", 
+        "cdate": "1935-12-09"}, 
+       {"issue-date": "1936-03", "volume": "8", "number": "3", 
+        "cdate": "1936-01-08"}, 
        {"issue-date": "1936-04", "volume": "9", "number": "1"}, 
        {"issue-date": "1936-05", "volume": "9", "number": "2"}, 
        {"issue-date": "1936-06", "volume": "9", "number": "3"}, 
@@ -94,5 +98,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-11-16"
+   "last-updated": "2025-07-22"
 }

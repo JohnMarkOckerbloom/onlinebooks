@@ -216,15 +216,16 @@ sub result_tips {
 }
 
 # termhash returns the name of a hash when it's dependent on a term
-#  because the hash has been broken up ue to being too big for one big file
+#  because the hash has been broken up due to being too big for one big file
 
 sub termhash {
  my ($base, $term) = @_;
  my $firstlet = lc(substr($term, 0, 1));
-   if (!($firstlet =~ /[a-z]/)) {
-      $firstlet = "MISC";
-   }
- return "$base-$firstlet";
+ if (!($firstlet =~ /[a-z]/)) {
+    $firstlet = "MISC";
+ }
+ return "$base-$firstlet" if ($base);
+ return $firstlet;
 }
 
 sub choicelist {

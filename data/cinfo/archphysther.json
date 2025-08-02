@@ -1,11 +1,15 @@
 {
    "title": "Archives of Physical Therapy",
+   "online": "1",
    "preceded-by":
-      [{"id": "jradiology1920", "note": "The Journal of Radiology"}],
+      [{"id": "archphysthxrad",
+        "note": "Archives of Physical Therapy, X-Ray, Radium"}],
+   "first-issue": {"issue-date": "1938-01", "volume": "19", "number": "1"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce",
+   "last-issue": {"issue-date": "1944-12", "volume": "25", "number": "12"},
    "succeeded-by":
       [{"id": "archphysmed", "note": "Archives of Physical Medicine"}],
    "responsibility": {
@@ -14,5 +18,5 @@
    },
    "acknowledgement": 
       "Thanks to Ed Deegan for copyright research on this title.",
-   "last-updated": "2021-03-17"
+   "last-updated": "2025-07-24"
 }

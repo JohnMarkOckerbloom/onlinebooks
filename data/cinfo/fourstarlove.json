@@ -11,9 +11,18 @@
    "first-renewed-issue-source": "1963-JulDec",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce",
+   "renewed-issue-completeness": "active/1936",
+   "renewed-issues": [
+       {"issue-date": "1936-12", "volume": "1", "number": "1"},
+       {"issue-date": "1937-01", "volume": "1", "number": "2",
+        "cdate": "1936-12-04"},
+       {"issue-date": "1937-02", "volume": "1", "number": "3",
+        "cdate": "1937-01-05"},
+       {"issue-date": "1937-03", "volume": "1", "number": "4"}
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-02-14"
+   "last-updated": "2025-07-16"
 }

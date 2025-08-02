@@ -9,7 +9,7 @@
    "first-renewed-issue-source": "1959-JulDec",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
-   "renewed-issue-completeness": "active/1934",
+   "renewed-issue-completeness": "active/1935",
    "renewed-issues": [
      {"issue-date": "1932-01", "volume": "19", "number": "1"},
      {"issue-date": "1932-07", "volume": "19", "number": "3"},
@@ -24,11 +24,16 @@
      {"issue-date": "1934-10", "volume": "21", "number": "4"},
      {"issue-date": "1935-01", "volume": "22", "number": "1"},
      {"issue-date": "1935-04", "volume": "22", "number": "2"},
-     {"issue-date": "1935-07", "volume": "22", "number": "3"}
+     {"issue-date": "1935-07", "volume": "22", "number": "3"},
+     {"issue-date": "1935-10", "volume": "22", "number": "4"},
+     {"issue-date": "1936-01", "volume": "23", "number": "1"},
+     {"issue-date": "1936-04", "volume": "23", "number": "2"},
+     {"issue-date": "1936-07", "volume": "23", "number": "3"},
+     {"issue-date": "1936-10", "volume": "23", "number": "4"}
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-05-27"
+   "last-updated": "2025-07-10"
 }

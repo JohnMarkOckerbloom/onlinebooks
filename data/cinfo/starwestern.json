@@ -12,7 +12,7 @@
    "first-renewed-contribution":
        {"issue": {"issue-date": "1934-11"}},
    "first-renewed-contribution-source": "1961-JulDec",
-   "renewed-issue-completeness": "active/1934",
+   "renewed-issue-completeness": "active/1935",
    "renewed-issues": [
      {"issue-date": "1934-11", "volume": "4", "number": "1"},
      {"issue-date": "1934-12", "volume": "4", "number": "3"},
@@ -29,12 +29,24 @@
      {"issue-date": "1935-09", "volume": "6", "number": "4"},
      {"issue-date": "1935-10", "volume": "7", "number": "1"},
      {"issue-date": "1935-11", "volume": "7", "number": "2"},
-     {"issue-date": "1935-12", "volume": "7", "number": "3"}
+     {"issue-date": "1935-12", "volume": "7", "number": "3"},
+     {"issue-date": "1936-01", "volume": "7", "number": "4",
+      "cdate": "1935-12-05"},
+     {"issue-date": "1936-03", "volume": "8", "number": "2"},
+     {"issue-date": "1936-04", "volume": "8", "number": "3"},
+     {"issue-date": "1936-05", "volume": "8", "number": "4"},
+     {"issue-date": "1936-06", "volume": "9", "number": "1"},
+     {"issue-date": "1936-07", "volume": "9", "number": "2"},
+     {"issue-date": "1936-08", "volume": "9", "number": "3"},
+     {"issue-date": "1936-09", "volume": "9", "number": "4"},
+     {"issue-date": "1936-10", "volume": "10", "number": "1"},
+     {"issue-date": "1936-11", "volume": "10", "number": "2"},
+     {"issue-date": "1936-12", "volume": "10", "number": "3"}
    ],
    "additional-note": "The November 1934 issue is the second in volume 4, but like its October predecessor, was numbered 1 in its table of contents (and is numbered 1 in its CCE renewal record). The issue that followed, the December 1934 issue, was numbered 3.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-05-27"
+   "last-updated": "2025-07-21"
 }

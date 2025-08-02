@@ -580,11 +580,13 @@ sub _broader_nodes {
 #   (because "Christian biography" used instead of "Christians -- Biography"
 # and "Christian converts" not okay
 #  (because converts to a particular denomination may be within Christianity)
+#  "United States" makes too big a category, so omit
 
 sub _can_include_subcategorized_people {
   my ($self, $key) = @_;
   return 1 if $key eq "christians";
   return 0 if $key eq "christian converts";
+  return 0 if $key eq "united states";
   my $newkey = $key .= " -- biography";
   if ($self->find_node(key=>$newkey)) {
     return 1;

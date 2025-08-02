@@ -12,6 +12,24 @@
    "first-renewed-contribution": {"issue": {"issue-date": "1938-06"}},
    "first-renewed-contribution-source": "1965-JanJun",
    "last-issue": {"issue-date": "1953-Fall", "volume": "45", "number": "1"},
+   "renewed-issue-completeness": "active/1935",
+   "renewed-issues": [
+     {"issue-date": "1935-12", "volume": "5", "number": "2"},
+     {"issue-date": "1936-01", "volume": "5", "number": "3",
+      "cdate": "1935-11-06"},
+     {"issue-date": "1936-02", "volume": "6", "number": "1",
+      "cdate": "1935-12-05"},
+     {"issue-date": "1936-03", "volume": "6", "number": "2",
+      "cdate": "1936-01-04"},
+     {"issue-date": "1936-04", "volume": "6", "number": "3"},
+     {"issue-date": "1936-05", "volume": "7", "number": "1"},
+     {"issue-date": "1936-06", "volume": "7", "number": "2"},
+     {"issue-date": "1936-07", "volume": "7", "number": "3"},
+     {"issue-date": "1936-08", "volume": "8", "number": "1"},
+     {"issue-date": "1936-09", "volume": "8", "number": "2"},
+     {"issue-date": "1936-10", "volume": "8", "number": "3"},
+     {"issue-date": "1936-11", "volume": "9", "number": "1"}
+   ],
    "renewed-contributions": [
      {"issue": {"issue-date": "1949-07", "volume": "37", "number": "1"},
       "title": "Proposal Perilous",
@@ -26,5 +44,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-03-11"
+   "last-updated": "2025-07-20"
 }

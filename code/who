@@ -36,8 +36,10 @@ sub find_dir {
 sub showagent {
   my ($qid, $dir, $authornote) = @_;
   my $subbrowser = new OLBP::SubjectHierarchyBrowser();
+  my $xsubbrowser = new OLBP::SubjectHierarchyBrowser(collection=>"x");
   my $page = new OLBP::AgentPage(id=>$qid, authornote=>$authornote,
-                                 dir=>$dir, subbrowser=>$subbrowser);
+                                 dir=>$dir, subbrowser=>$subbrowser,
+                                 xsubbrowser=>$xsubbrowser);
   my $heading = $page->get_heading();
 
   print qq^<!DOCTYPE html>

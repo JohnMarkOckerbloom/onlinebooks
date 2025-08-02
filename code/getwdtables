@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 use lib "nlib";
-use LWP::UserAgent;
+use WikidataQuerier;
 use JSON;
 use OLBP;
 
@@ -11,7 +11,6 @@ my $hathidir = "/home/LIBRARY/ockerblo/bookdb/packages/hathitrust/";
 
 my $bookdir = "/home/LIBRARY/ockerblo/bookdb/";
 
-my $wikistage = "wikistage";
 my $wikiprod  = "wikidata";
 
 my $minwpfilesize = "90000";
@@ -26,26 +25,16 @@ my $maxarticlefilesize = "3000000";
 my $minhathifilesize = "9000000";
 my $maxhathifilesize = "20000000";
 
-#my $minbookfilesize = "18000000";
-#my $maxbookfilesize = "36000000";
 my $minbookfilesize = "10000000";
 my $maxbookfilesize = "30000000";
 
-my $csvstage   = "wikipstage.csv";
-my $csvprod    = "wikiperiodicals.csv";
+my $csvprod   = "wikiperiodicals.csv";
 
-my $acsvstage   = "articlepstage.csv";
-my $acsvprod    = "articleperiodicals.csv";
+my $acsvprod  = "articleperiodicals.csv";
 
-my $hcsvstage   = "wikihathistage.csv";
-#my $hcsvprod    = "wikihathiserials.csv";
-my $hcsvprod    = "wikihathioclcserials.csv";
-#my $hcsvprod    = "wikihathiserial.csv";
+my $hcsvprod  = "wikihathioclcserials.csv";
 
-my $bcsvstage   = "bookwikiidstage.csv";
-my $bcsvprod    = "bookwikiids.csv";
-
-my $agent = "DeepBackfile/0.1";
+my $bcsvprod  = "bookwikiids.csv";
 
 $COPYRIGHT_ID_QUERY = qq!SELECT ?olbpid ?wikidataid ?article 
        (group_concat(?issn) as ?issns)
@@ -59,22 +48,6 @@ WHERE
 GROUP BY ?olbpid ?wikidataid ?article
 ORDER BY ?olbpid
 !;
-
-#$ISSN_QUERY = qq!SELECT ?wikidataid ?olbpid ?article ?start ?end
-#       (group_concat(?issn) as ?issns)
-#WHERE
-#  {?wikidataid wdt:P236 ?issn .
-#  OPTIONAL {?article schema:about ?wikidataid .
-#            ?article schema:inLanguage "en" .
-#            ?article schema:isPartOf <https://en.wikipedia.org/> }
-#  OPTIONAL {?wikidataid wdt:P5396 ?olbpid}
-#  OPTIONAL {?wikidataid wdt:P571 ?start}
-#  OPTIONAL {?wikidataid wdt:P576 ?end}
-#}
-#GROUP BY ?wikidataid ?article ?olbpid ?start ?end
-#ORDER BY ?wikidataid
-#LIMIT 100000
-#!;
 
 $ISSN_QUERY = qq!SELECT ?wikidataid ?olbpid ?article ?start ?end
 (group_concat(?issn) as ?issns)
@@ -133,42 +106,6 @@ GROUP BY ?id ?article
 LIMIT 300000
 !;
 
-#$HATHI_QUERY = qq!SELECT ?wikidataid ?olbpid ?issn
-#       (group_concat(?hathitrustid) as ?hathitrustids)
-#WHERE
-#{
-#  ?wikidataid wdt:P1844 ?hathitrustid;
-#              wdt:P5396 ?olbpid .
-#   OPTIONAL {?wikidataid wdt:P236 ?issn}
-#}
-#GROUP BY ?wikidataid ?olbpid ?issn
-#ORDER BY ?wikidataid
-#LIMIT 100000
-#!;
-
-$NEW_HATHI_QUERY = qq!SELECT ?wikidataid ?olbpid ?start ?end
-(group_concat(?issn) as ?issns)
-(group_concat(?hathiid) as ?hathiids)
-WHERE
-{
-   wd:Q2217301 ^wdt:P279*/^wdt:P31 ?wikidataid .
-  OPTIONAL {?wikidataid wdt:P236 ?issn}
-  OPTIONAL {?wikidataid wdt:P1844 ?hathiid}
-  OPTIONAL {?wikidataid wdt:P5396 ?olbpid}
-  OPTIONAL {?wikidataid wdt:P571 ?start}
-  OPTIONAL {?wikidataid wdt:P576 ?end}
-  OPTIONAL {?wikidataid wdt:P582 ?end}
-  OPTIONAL {?wikidataid wdt:P2669 ?end} 
-
-
-  FILTER (BOUND(?olbpid) || BOUND(?hathiid) || BOUND(?issn))
-
-}
-GROUP BY ?wikidataid ?olbpid ?start ?end
-ORDER BY ?wikidataid
-LIMIT 200000
-!;
-
 $HATHI_OCLC_QUERY = qq!SELECT ?wikidataid ?olbpid
 (group_concat(?issn) as ?issns)
 (group_concat(?hathiid) as ?hathiids)
@@ -191,35 +128,8 @@ LIMIT 200000
  
 sub packhashtofile {
   my ($name, $hashref) = @_;
-  my $fname = OLBP::hashfilename($name, $idxdir);
-  my $hash = new OLBP::Hash(name=>$name, filename=>$fname);
+  my $hash = new OLBP::Hash(name=>$name, filename=>$name);
   return $hash->pack_to_file(hash=>$hashref);
-}
-
-
-sub query_wikidata {
-  my ($agent, $query, $format) = @_;
-  my $endpointurl = "https://query.wikidata.org/sparql";
-  my $queryURL = "${endpointurl}?query=${query}";
-  my $ua = new LWP::UserAgent;
-  $ua->agent($agent);
-  my $req;
-  if ($format eq "csv") {
-    # CSV requests have to be specified in the header
-    my $header = ["Accept"=>"text/csv"];
-    $req = new HTTP::Request(GET, $queryURL, $header);
-  } else {
-    $queryURL .= "&format=${format}";
-    $req = new HTTP::Request(GET=>$queryURL);
-  }
-  # Seem to be having problems with cert verification, so turning off for now
-  # $ua->ssl_opts( "verify_hostname" => 0 );
-  my $res = $ua->request($req);
-  if ($res->is_success) {
-     return $res->content;
-  }
-  print STDERR $res->status_line, "\n";
-  exit 0;
 }
 
 sub make_idhash {
@@ -254,98 +164,75 @@ sub make_idhash {
   return $hash;
 }
 
-sub shift_file {
-  my ($oldpath, $newpath, $minsize, $maxsize) = @_;
-  my $size = -s $oldpath;
-  if (!$size || ($size < $minsize) || ($size > $maxsize)) {
-    return 0;
-  }
-  rename($oldpath, $newpath);
-  return 1;
-}
-
-sub writetofile {
-  my ($name, $string) = @_;
-  open my $fh, "> $name" or die "Can't open $name for writing";
-  binmode $fh, ":utf8";
-  print $fh $string;
-  close $fh;
-}
-
 sub do_hathi_query {
+  my ($querier) = @_;
   print "Doing a Hathitrust query\n";
-  #  my $hathidata = query_wikidata($agent, $NEW_HATHI_QUERY, "csv");
-  my $hathidata = query_wikidata($agent, $HATHI_OCLC_QUERY, "csv");
-  my $csvpath = "$hathidir$hcsvstage";
-  writetofile($csvpath, $hathidata);
-  my $hpath = "$hathidir$hcsvprod";
-  if (!shift_file("$csvpath", "$hpath", $minhathifilesize, $maxhathifilesize)) {
-    print STDERR "Didn't like the look of $csvpath\n";
-  }
-  exit 0;
+  my $path = "$hathidir$hcsvprod";
+  $querier->write_managed_query(
+    query=>$HATHI_OCLC_QUERY, format=>"csv", path=>$path,
+    min=>$minhathifilesize, max=>$maxhathifilesize);
 }
 
 sub do_book_query {
+  my ($querier) = @_;
   print "Doing a book query\n";
-  my $bookdata = query_wikidata($agent, $BOOK_QUERY, "csv");
-  my $csvpath = "$bookdir$bcsvstage";
-  writetofile($csvpath, $bookdata);
-  my $ppath = "$bookdir$bcsvprod";
-  if (!shift_file("$csvpath", "$ppath", $minbookfilesize, $maxbookfilesize)) {
-     print STDERR "Didn't like the look of $csvpath\n";
-  }
-  exit 0;
+  my $path = "$bookdir$bcsvprod";
+  $querier->write_managed_query(
+    query=>$BOOK_QUERY, format=>"csv", path=>$path,
+    min=>$minbookfilesize, max=>$maxbookfilesize);
 }
 
+sub do_issn_query {
+  my ($querier) = @_;
+  my $csvpath = "$csvdir$csvprod";
+  if (!$querier->write_managed_query(
+       query=>$ISSN_QUERY, format=>"csv", path=>$csvpath,
+       min=>$mincsvfilesize, max=>$maxcsvfilesize)) {
+    exit 0;
+  }
+}
 
+sub do_article_query {
+  my ($querier) = @_;
+  my $newpath = "$packagedir$acsvprod";
+  if (!$querier->write_managed_query(
+       query=>$ARTICLE_QUERY, format=>"csv", path=>$newpath,
+        min=>$minarticlefilesize, max=>$maxarticlefilesize)) {
+    print "Something went wrong with the article query\n";
+    exit 0;
+  }
+}
 
+sub hashify {
+  my ($file, $result) = @_;
+  my $data = JSON::decode_json($result);
+  my $idhash = make_idhash($data);
+  packhashtofile($file, $idhash);
+}
+
+sub do_default_queries {
+  my ($querier) = @_;
+  my $newpath = "$idxdir$wikiprod.hsh";
+  if (!$querier->write_managed_query(
+       query=>$COPYRIGHT_ID_QUERY, format=>"json", path=>$newpath,
+       transformer=>\&hashify,
+       min=>$minwpfilesize, max=>$maxwpfilesize)) {
+    print "Something went wrong with the copyright ID query\n";
+    exit 0;
+  }
+  do_issn_query($querier);
+  do_article_query($querier);
+}
+
+my $querier = new WikidataQuerier;
 
 if ($ARGV[0] eq "hathi") {
-  do_hathi_query;
+  do_hathi_query($querier);
+  exit 0;
 }
 if ($ARGV[0] eq "book") {
-  do_book_query;
-}
-
-my $response = query_wikidata($agent, $COPYRIGHT_ID_QUERY, "json");
-if ($response =~ /^C/) {
-  die ($response);
-}
-my $data = JSON::decode_json($response);
-my $idhash = make_idhash($data);
-packhashtofile($wikistage, $idhash);
-if (!shift_file("$idxdir$wikistage.hsh", "$idxdir$wikiprod.hsh",
-    $minwpfilesize, $maxwpfilesize)) {
-  print STDERR "Didn't like the look of $wikistage.hsh\n";
-  exit 0;
-} 
-my $newdata = query_wikidata($agent, $ISSN_QUERY, "csv");
-my $csvpath = "$csvdir$csvstage";
-writetofile($csvpath, $newdata);
-if (!shift_file("$csvdir$csvstage", "$csvdir$csvprod",
-    $mincsvfilesize, $maxcsvfilesize)) {
-  print STDERR "Didn't like the look of $csvstage.hsh\n";
-  exit 0;
-} 
-
-my $moredata = query_wikidata($agent, $ARTICLE_QUERY, "csv");
-$csvpath = "$packagedir$acsvstage";
-writetofile($csvpath, $moredata);
-my $newpath = "$packagedir$acsvprod";
-if (!shift_file("$csvpath", "$newpath",
-    $minarticlefilesize, $maxarticlefilesize)) {
-  print STDERR "Didn't like the look of $csvpath\n";
+  do_book_query($querier);
   exit 0;
 }
 
-# my $hathidata = query_wikidata($agent, $HATHI_QUERY, "csv");
-#$csvpath = "$hathidir$hcsvstage";
-#writetofile($csvpath, $hathidata);
-#my $hpath = "$hathidir$hcsvprod";
-#if (!shift_file("$csvpath", "$hpath",
-#    10000, 1000000)) {
-#  print STDERR "Didn't like the look of $csvpath\n";
-#  exit 0;
-#}
-
-
+do_default_queries($querier);

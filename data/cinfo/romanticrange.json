@@ -2,7 +2,7 @@
    "title": "Romantic Range",
    "aka": ["Street & Smith's Romantic Range"],
    "contents": [
-      {"url": "http://www.philsp.com/homeville/WFI/t296.htm#A7320",
+      {"url": "http://www.philsp.com/homeville/WFI/link.asp?magid=ROMRG",
        "note": "FictionMags Index"}
    ],
    "preceded-by": [
@@ -10,20 +10,48 @@
        "note": "Romance Range"}
    ],
    "first-issue":
-          {"issue-date": "1936-05", "volume": "2", "number": "1"},
+      {"issue-date": "1936-05", "volume": "2", "number": "1"},
    "first-renewed-issue":
-          {"issue-date": "1936-05", "volume": "2", "number": "1",
-           "note": "Renewal record gives title as Romance Range"},
+      {"issue-date": "1936-05", "volume": "2", "number": "1",
+       "note": "Renewal record gives title as Romance Range"},
    "first-renewed-issue-source": "1963-JanJun",
    "first-renewed-contribution": {"issue":
-             {"issue-date": "1938-10", "volume": "6", "number": "6"}
+      {"issue-date": "1938-10", "volume": "6", "number": "6"}
    },
    "first-renewed-contribution-source": "1966-JanJun",
+   "renewed-issue-completeness": "active/1936",
+   "renewed-issues": [
+      {"issue-date": "1936-05", "volume": "2", "number": "1",
+       "note": "Renewal record gives title as Romance Range."},
+      {"issue-date": "1936-06", "volume": "2", "number": "2",
+       "note": "Renewal record gives title as Romance Range."},
+      {"issue-date": "1936-07", "volume": "2", "number": "3"},
+      {"issue-date": "1936-08", "volume": "2", "number": "4"},
+      {"issue-date": "1936-09", "volume": "2", "number": "5"},
+      {"issue-date": "1936-10", "volume": "2", "number": "6"},
+      {"issue-date": "1936-11", "volume": "3", "number": "1"},
+      {"issue-date": "1936-12", "volume": "3", "number": "2"},
+      {"issue-date": "1937-01", "volume": "3", "number": "3",
+       "cdate": "1936-12-02"},
+      {"issue-date": "1937-02", "volume": "3", "number": "4",
+       "cdate": "1937-01-06"},
+      {"issue-date": "1937-02", "volume": "3", "number": "4"},
+      {"issue-date": "1937-03", "volume": "3", "number": "5"},
+      {"issue-date": "1937-04", "volume": "3", "number": "6"},
+      {"issue-date": "1937-05", "volume": "4", "number": "1"},
+      {"issue-date": "1937-06", "volume": "4", "number": "2"},
+      {"issue-date": "1937-07", "volume": "4", "number": "3"},
+      {"issue-date": "1937-08", "volume": "4", "number": "4"},
+      {"issue-date": "1937-09", "volume": "4", "number": "5"},
+      {"issue-date": "1937-10", "volume": "4", "number": "6"},
+      {"issue-date": "1937-11", "volume": "5", "number": "1"},
+      {"issue-date": "1937-12", "volume": "5", "number": "2"}
+   ],
    "additional-note":
      "Exactly when in 1936 the magazine changed its name from Romance Range to Romantic Range is not entirely clear. However, there is no break in the issue renewals between the old title and the new one. The first renewal record to use the new title is for the July 1936 issue.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2017-12-12"
+   "last-updated": "2025-07-11"
 }
