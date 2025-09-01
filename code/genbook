@@ -175,10 +175,14 @@ sub associate_name_with_occupations {
 sub addrecord {
   my $recstring = shift;
   my $br = new OLBP::BookRecord(string=>$recstring);
+  my $authornoteonly = 0;
 
   if (!$br) {
     print "Didn't like:\n $recstring\n";
     fatalerror $., OLBP::BookRecord::get_format_error();
+  }
+  if (!$br->get_title()) {
+    $authornoteonly = 1;
   }
   my $id = $br->get_id();
   my $wid = $br->get_work();
@@ -192,7 +196,9 @@ sub addrecord {
     }
   }
 
-  $records{$id} = $br;
+  if (!$authornoteonly) {
+    $records{$id} = $br;
+  }
 
   if ($br->is_serial()) {
     push @serials, $br;
@@ -223,13 +229,15 @@ sub addrecord {
         $aname{$nom} = $name;
         $iname{$nom} = $br->get_informal_name(index=>$i+1);
       }
-      push @{$akeys{$nom}}, $br;
+      if (!$authornoteonly) {
+        push @{$akeys{$nom}}, $br;
+      }
     }
   }
 
   # We add a record for books or for additional name cross-references
 
-  if ($br->get_title()) {
+  if (!$authornoteonly) {
     my $ti = $br->get_title_sort_key();
     push @{$tkeys{$ti}}, $br;
     # Note that numtkeys goes up for each tkey entry for a book,

@@ -26,7 +26,7 @@ sub expand {
       my ($attr, $val) = ($1, $2);
       if ($attr =~ /^(SN|UF|BT|RT|NT)$/) {
         push @{$self->{$attr}}, $val;
-      } elsif ($attr =~ /^(AK)$/) {
+      } elsif ($attr =~ /^(AK|XM)$/) {
         $self->{$attr} = $val;
       }
     }
@@ -61,6 +61,11 @@ sub narrower_terms {
 sub author_key {
   my ($self, %params) = @_;
   return $self->{AK};
+}
+
+sub first_example {
+  my ($self, %params) = @_;
+  return $self->{XM};
 }
 
 # this returns a list of possible shorter term that have fewer facets, if any

@@ -59,10 +59,11 @@ sub get_item_display {
       $name .= ", aka " . $goodname;
     }
     my $lookupurl = "$OLBP::scripturl/lookupname?key="
-                   . OLBP::url_encode($goodname);
+                    . OLBP::url_encode($goodname);
     if ($self->{collection} eq "x") {
       $lookupurl .= "&amp;c=x";
     }
+    # my $lookupurl = "$OLBP::whourl/" . OLBP::url_encode($goodname);
     $name = "<a href=\"$lookupurl\">$name</a>";
     return "$name ($count title" . (($count == 1) ? "" : "s") . ")";
   } else {

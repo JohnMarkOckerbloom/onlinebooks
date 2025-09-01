@@ -3,13 +3,14 @@ use LWP::UserAgent;
 use strict;
 
 my $DEFAULT_AGENT = "OnlineBooks/0.1";
+my $DEFAULT_ENDPOINT = "https://query.wikidata.org/sparql";
 
 sub query_wikidata {
   my ($self, %params) = @_;
   my $query = $params{query};
   my $format = $params{format};
   my $agent = $self->{ua};
-  my $endpointurl = "https://query.wikidata.org/sparql";
+  my $endpointurl = $self->{endpoint};
   my $queryURL = "${endpointurl}?query=${query}";
   my $req;
   if ($format eq "csv") {
@@ -24,7 +25,9 @@ sub query_wikidata {
   # $agent->ssl_opts( "verify_hostname" => 0 );
   my $res = $agent->request($req);
   if ($res->is_success) {
-     return $res->content;
+     my $content = $res->content;
+     utf8::decode($content);
+     return $content;
   }
   print STDERR $res->status_line, "\n";
   return undef;
@@ -86,6 +89,7 @@ sub write_managed_query {
 sub _initialize {
   my ($self, %params) = @_;
   $self->{agentstring} = $params{agentstring} || $DEFAULT_AGENT;
+  $self->{endpoint} = $params{endpoint} || $DEFAULT_ENDPOINT;
   $self->{ua} = new LWP::UserAgent;
   $self->{ua}->agent($self->{agentstring});
   return $self;

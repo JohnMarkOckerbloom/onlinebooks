@@ -55,9 +55,10 @@ sub get_subject_query_url {
 sub get_author_query_url {
   my ($term) = @_;
   if ($term) {
-    return $OLBP::scripturl
-            . "/lookupname?key="
-            . OLBP::url_encode($term);
+     return "/webbin/who/" . OLBP::url_encode($term);
+  #  return $OLBP::scripturl
+  #          . "/lookupname?key="
+  #          . OLBP::url_encode($term);
   }
   return "";
 }
@@ -342,9 +343,9 @@ sub showwork {
       my $name = $names[0];
       my $nlink = get_author_query_url($name);
       my $iname = $br->get_informal_name(index=>1);
-      print "<li> <a href=\"$nlink\">Online books by $iname</a>";
+      print "<li> <a href=\"$nlink\">Online books by or about $iname</a>";
     } else {
-      print "<li> Online books by these authors:\n<ul>\n";
+      print "<li> Online books by or about these authors:\n<ul>\n";
       for (my $i = 1; $i <= scalar(@names); $i++) {
         my $name = $br->get_formal_name(index=>$i);
         my $iname = $br->get_informal_name(index=>$i);

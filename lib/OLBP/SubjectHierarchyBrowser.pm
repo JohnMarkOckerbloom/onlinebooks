@@ -143,6 +143,15 @@ sub _find_right_node {
   return $node;
 }
 
+sub _wholink {
+  my ($self, $item) = @_;
+  my $url = $OLBP::serverurl . "webbin/who/";
+  $url .= OLBP::url_encode($item);
+  if ($url) {
+    return "<a href=\"$url\">" . $item . "</a>";
+  }
+}
+
 sub _livelink {
   my ($self, $item, $link, $coll, $cmd) = @_;
   if (!$link) {
@@ -169,7 +178,20 @@ sub _print_related_list {
     print "<b>$header" . (($size == 1) ? "" : "s");
     print ":</b><ul>";
     foreach my $item (@list) {
-      print "<li>" . $self->_livelink($item) . "</li>";
+      my $link = $self->_livelink($item);
+      if ($header eq "Example") {
+        # example term is someone's name
+        $link = $self->_wholink($item);
+      } elsif ($header eq "Broader term") {
+        my $skey = OLBP::BookRecord::search_key_for_name($item);
+        if (!($item =~ /\-\-/)) {
+          if ($self->{whohash}->get_value(key=>$skey)) {
+            # The broader term is noted as someone's name
+            $link = $self->_wholink($item);
+          }
+        }
+      }
+      print "<li>$link</li>";
     }
     print "</ul>";
   }
@@ -441,7 +463,19 @@ sub _print_subject_summary {
   # }
   $self->_print_related_list("Broader term", $node->broader_terms());
   $self->_print_related_list("Related term", $node->related_terms());
-  $self->_print_related_list("Narrower term", $node->narrower_terms());
+  my $example = $node->first_example();
+  if ($example) {
+    my @termlist = $node->narrower_terms();
+    my @firstlist = ();
+    while (scalar(@termlist)) {
+      last if ($termlist[0] eq $example);
+      push @firstlist, shift @termlist;
+    }
+    $self->_print_related_list("Narrower term", @firstlist);
+    $self->_print_related_list("Example", @termlist);
+  } else {
+    $self->_print_related_list("Narrower term", $node->narrower_terms());
+  }
   $self->_print_subject_aliases($node);
 }
 
@@ -515,7 +549,9 @@ sub _initialize {
   }
   my $wikidir = $OLBP::dbdir . "wiki/"; 
   my $wikifile = $wikidir . "subtowp.hsh";
+  my $whofile = $OLBP::dbdir . "who.hsh";
   $self->{wikihash} = new OLBP::Hash(name=>"subtowp", filename=>$wikifile);
+  $self->{whohash} = new OLBP::Hash(name=>"who", filename=>$whofile);
   $self->{store} = new OLBP::RecordStore(dir=>$OLBP::dbdir);
   return $self;
 }

@@ -45,8 +45,8 @@ sub showagent {
   print qq^<!DOCTYPE html>
 <html lang="en"><head>
 <meta charset="utf-8">
-<link rel="stylesheet" type="text/css" href="$OLBP::styleurl" />
-<link rel="stylesheet" type="text/css" href="$OLBP::AgentPage::styleurl" />
+<link rel="stylesheet" type="text/css" href="$OLBP::styleurl">
+<link rel="stylesheet" type="text/css" href="$OLBP::AgentPage::styleurl">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 ^;
   print "<title>$heading | The Online Books Page</title></head>";
@@ -138,6 +138,13 @@ if ($arg =~ /^Q[0-9]+$/) {
           }
         }
       }
+    }
+  }
+  if (!$authornote) {
+    my $skey = OLBP::BookRecord::sort_key_for_name($name);
+    my $notestr = gethashval("authornotes", $skey);
+    if ($notestr) {
+      $authornote = new OLBP::AuthorNote(string=>$notestr);
     }
   }
   #print "Content-type: text/html\n\n";

@@ -841,6 +841,7 @@ sub analyze_form {
       || $comments =~ /ultimate tool/i
       || $comments =~ /unbeatable pric/
       || $comments =~ /sexual pic/i
+      || $comments =~ /media marketing/i
       || $comments =~ /your (business|company|sales)/i
       || $comments =~ /(network|digital|email|local|online).marketing/i
       || $comments =~ /unsub(marketing|scribe)/i

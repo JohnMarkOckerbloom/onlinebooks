@@ -36,6 +36,14 @@ my $hcsvprod  = "wikihathioclcserials.csv";
 
 my $bcsvprod  = "bookwikiids.csv";
 
+my $lccncsvprod = "wdtolccn.csv";
+my $minlccnfilesize = "80000000";
+my $maxlccnfilesize = "180000000";
+
+my $viafcsvprod = "wdtoviaf.csv";
+my $minviaffilesize = "200000000";
+my $maxviaffilesize = "400000000";
+
 $COPYRIGHT_ID_QUERY = qq!SELECT ?olbpid ?wikidataid ?article 
        (group_concat(?issn) as ?issns)
 WHERE
@@ -203,6 +211,30 @@ sub do_article_query {
   }
 }
 
+sub do_lccn_query {
+  my ($querier) = @_;
+  my $path = "$csvdir$lccncsvprod";
+  my $query = "SELECT DISTINCT ?id ?lccn WHERE {?id wdt:P244 ?lccn}";
+  if (!$querier->write_managed_query(
+       query=>$query, format=>"csv", path=>$path,
+       min=>$minlccnfilesize, max=>$maxlccnfilesize)) {
+    print "Something went wrong with the LCCN query\n";
+    exit 0;
+  }
+}
+
+sub do_viaf_query {
+  my ($querier) = @_;
+  my $path = "$csvdir$viafcsvprod";
+  my $query = "SELECT ?id ?viaf WHERE {?id wdt:P214 ?viaf}";
+  if (!$querier->write_managed_query(
+       query=>$query, format=>"csv", path=>$path,
+       min=>$minviaffilesize, max=>$maxviaffilesize)) {
+    print "Something went wrong with the LCCN query\n";
+    exit 0;
+  }
+}
+
 sub hashify {
   my ($file, $result) = @_;
   my $data = JSON::decode_json($result);
@@ -234,5 +266,16 @@ if ($ARGV[0] eq "book") {
   do_book_query($querier);
   exit 0;
 }
+
+if ($ARGV[0] eq "lccn") {
+  do_lccn_query($querier);
+  exit 0;
+}
+
+if ($ARGV[0] eq "viaf") {
+  do_viaf_query($querier);
+  exit 0;
+}
+
 
 do_default_queries($querier);

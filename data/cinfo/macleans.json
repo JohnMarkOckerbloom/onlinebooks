@@ -8,6 +8,73 @@
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": {"issue": {"issue-date": "1937-03-01"}},
    "first-renewed-contribution-source": "1964-JanJun",
+   "renewed-contribution-completeness": "active/1949",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1937-03-01"}, 
+      "title": "Maiden Effort",
+      "title-note": "part 1 of 5",
+      "author": {
+       "authorized": "Adams, Samuel Hopkins, 1871-1958",
+       "lcna": "n50037535"
+      }
+     },
+     {"issue": {"issue-date": "1937-03-15"}, 
+      "title": "Maiden Effort",
+      "title-note": "part 2 of 5",
+      "author": {
+       "authorized": "Adams, Samuel Hopkins, 1871-1958",
+       "lcna": "n50037535"
+      }
+     },
+     {"issue": {"issue-date": "1937-04-01"}, 
+      "title": "Maiden Effort",
+      "title-note": "part 3 of 5",
+      "author": {
+       "authorized": "Adams, Samuel Hopkins, 1871-1958",
+       "lcna": "n50037535"
+      }
+     },
+     {"issue": {"issue-date": "1937-04-15"}, 
+      "title": "Maiden Effort",
+      "title-note": "part 4 of 5",
+      "author": {
+       "authorized": "Adams, Samuel Hopkins, 1871-1958",
+       "lcna": "n50037535"
+      }
+     },
+     {"issue": {"issue-date": "1937-05-01"}, 
+      "title": "Maiden Effort",
+      "title-note": "part 5 of 5",
+      "author": {
+       "authorized": "Adams, Samuel Hopkins, 1871-1958",
+       "lcna": "n50037535"
+      }
+     },
+     {"issue": {"issue-date": "1940-06-15"}, 
+      "title": "Pilgrim's Way",
+      "title-note": "part 1 of 2",
+      "author": {
+       "authorized": "Buchan, John, 1875-1940",
+       "lcna": "n79045167"
+      }
+     },
+     {"issue": {"issue-date": "1940-07-01"}, 
+      "title": "Pilgrim's Way",
+      "title-note": "part 2 of 2",
+      "author": {
+       "authorized": "Buchan, John, 1875-1940",
+       "lcna": "n79045167"
+      }
+     },
+     {"issue": {"issue-date": "1950-01-01"},
+      "title": "I'll Not Ask for Wine",
+      "author": {
+         "authorized": "Bradbury, Ray, 1920-2012",
+         "lcna": "n79139258"
+      }
+     }
+   ],
+   "comments": "Pick up with CPRS",
    "additional-note": 
       "This is a Canadian publication. Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US. However, issues from the first one onward show US branch addresses for the publisher and registration with the US postal service.",
    "responsibility": {
@@ -16,5 +83,5 @@
    },
    "acknowledgement": 
       "Thanks to Shelton Henderson for copyright research on this title.",
-   "last-updated": "2020-06-05"
+   "last-updated": "2025-08-18"
 }

@@ -81,7 +81,7 @@ sub _display_banner {
     print "<h3>($name)</h3>\n";
   }
   if ($info) {
-    print qq!</td><td width="15%"></td><td>!;
+    print qq!</td><td style="width: 15%"></td><td>!;
     my $desc = $info->{desc};
     my $title = $info->{title};
     $desc =~ s/\<[^\>]+\>//g;                  # strip out HTML markup
@@ -90,7 +90,7 @@ sub _display_banner {
     # print "<b>desc is $desc, title is $title, picdir is $picdir, picfile is $picfile</b>\n";
     if ($picfile && $picdir) {
       my $imageurl = "$imagestub$picdir/$picfile";
-      my $commonsurl = $commonsstub . $title;
+      my $commonsurl = $commonsstub . OLBP::url_encode($title);
       _display_image($imageurl, $desc, $commonsurl);
     }
   }
@@ -223,6 +223,9 @@ sub _print_relationship {
 
 sub _print_relationships {
   my ($self, $name, $usedesc, @roles) = @_;
+  if (scalar(@roles) > 1) {
+    $name = RelationshipConstants::pluralize($name);
+  }
   print "\n<b>$name:</b><ul>\n";
   foreach my $role (sort {$a->{start} <=> $b->{start} } @roles) {
     print "<li> ";
@@ -391,6 +394,50 @@ sub _filter_out_curated {
   return @newlist;
 }
 
+sub _print_notes {
+  my ($self, %params) = @_;
+  my $note = $self->{authornote};
+  if ($note) {
+    my @miscnotes = $note->get_misc_notes();
+    if (scalar(@miscnotes)) {
+      foreach my $miscnote (@miscnotes) {
+        # May eventually want to support {bracket-codes}
+        print "<p>" . $miscnote. "</p>\n";
+      }
+    }
+    my @aliases = $note->get_aliases();
+    if (scalar(@aliases)) {
+      print "<b>Also found under:</b><ul>\n";
+      foreach my $alias (@aliases) {
+        print "<li> $alias";
+      }
+      print "</ul>\n";
+    }
+  }
+}
+
+# This adds to the SEE_ALSO relationship those relations
+# that are explicitly mentioned in our catalog file
+
+sub _add_explicit_xrefs {
+  my ($self, %params) = @_;
+  my $authornote = $self->{authornote};
+  if ($authornote)  {
+    my @xrefs = $authornote->get_xrefs();
+    if (scalar(@xrefs)) {
+      foreach my $xref (@xrefs) {
+        my $rel = {};
+        $rel->{description} = $RelationshipConstants::SEEALSO;
+        $rel->{objectname} = $xref;
+        if (!$self->{rels}) { 
+          $self->{rels} = [];
+        }
+        push @{$self->{rels}}, $rel;
+      }
+    }
+  }
+}
+
 sub display {
   my ($self, %params) = @_;
   my $name = $self->get_heading();
@@ -407,12 +454,15 @@ sub display {
     $self->_print_lead($desc);
     $includewikipedia = 0;
   } 
+  $self->_print_notes();
   $self->_print_additional_refs($name, $includewikipedia);
   my @roles = $self->get_relationships(type=>"Role");
   if (scalar(@roles)) {
     $self->_print_relationships("Selected roles", 1, @roles);
   }
-  foreach my $reltype ($RelationshipConstants::CREATED,
+  $self->_add_explicit_xrefs();
+  foreach my $reltype ($RelationshipConstants::SEEALSO,
+                       $RelationshipConstants::CREATED,
                        $RelationshipConstants::CREATEDBY,
                        $RelationshipConstants::ASSOCIATED) {
     my @names = $self->get_relationships(description=>$reltype);

@@ -434,6 +434,7 @@ sub _sort_rel {
 sub _output_string {
   my ($self, $key, $node) = @_;
   my $str = "";
+  my $example = "";
   foreach my $val ($node->scope_notes()) {
     $str .= "SN $val\n";
   }
@@ -482,9 +483,15 @@ sub _output_string {
         my $heading = $othernode->get_name();
         if ($heading) {
           $str .= "NT $heading\n";
+          if ($tupleref->[3] == $ASSOCIATED && !$example) {
+             $example = $heading;
+          }
         }
       }
     }
+  }
+  if ($example) {
+    $str .= "XM $example\n";
   }
   return $str;
 }

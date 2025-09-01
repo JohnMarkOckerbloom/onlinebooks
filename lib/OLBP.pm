@@ -58,6 +58,7 @@ $OLBP::scripturl      = $cgiurl . $OLBP::SCRIPTNAME;
 $OLBP::ncalloverview  = $OLBP::scripturl . "/callover";
 $OLBP::suggestformurl = $cgiurl . "suggest";
 $OLBP::seealsourl     = $cgiurl . "ftl";
+$OLBP::whourl         = $cgiurl . "who";
 
 # $OLBP::bodystart = "<body bgcolor=\"#ffffff\" text=\"#000000\"" .
 #                    " link=\"#00188c\" vlink=\"#661855\" alink=\"#ff0000\">\n" .

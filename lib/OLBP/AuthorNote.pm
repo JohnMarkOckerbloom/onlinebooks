@@ -22,6 +22,36 @@ sub num_books_about {
   return scalar(@{$self->{subject}});
 }
 
+# returns a list of any names mentioned in see also notes
+
+sub get_xrefs {
+  my ($self, %params) = @_;
+  my @xrefs = ();
+  if ($self->{note}) {
+    foreach my $note (@{$self->{note}}) {
+      if ($note =~ /[Ss]ee also\s+(.*)/) {
+        push @xrefs, $1;
+      }
+    }
+  }
+  return @xrefs;
+}
+
+# returns any notes that don't appear to be see also links
+
+sub get_misc_notes {
+  my ($self, %params) = @_;
+  my @comments = ();
+  if ($self->{note}) {
+    foreach my $note (@{$self->{note}}) {
+      if (!($note =~ /see /)) {
+        push @comments, $note;
+      }
+    }
+  }
+  return @comments;
+}
+
 sub parse {
   my ($self, %params) = @_;
   my $str = $params{string};

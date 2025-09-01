@@ -557,7 +557,8 @@ sub long_entry {
     if ($role =~ /Author|Editor|Illustrator/) {
       $prop = lc($role);
     }
-    my $vlink = "lookupname?key=" . OLBP::url_encode($formalname);
+    # my $vlink = "lookupname?key=" . OLBP::url_encode($formalname);
+    my $vlink = "/webbin/who/" . OLBP::url_encode($formalname);
     $str .= $self->_tabrow(alink=>$OLBP::authorspage, vlink=>$vlink,
                            attr=>$role, value=>$formalname, property=>$prop);
   }
@@ -602,9 +603,15 @@ sub long_entry {
   $str .= $BLANKROW;
   if ($self->{subject}) {
     my @subs = @{$self->{subject}};
-    foreach my $sub (@subs) {
-      my $sublink = "browse?type=lcsubc&amp;key="
-           . OLBP::url_encode($sub) . ($self->curated() ? "" : "&amp;c=x");
+    foreach (my $i = 0; $i < scalar(@subs); $i++) {
+      my $sub = $subs[$i];
+      my $sublink = OLBP::url_encode($sub);
+      if ($self->{subjtype}->[$i] eq "LCNSUB" && !($sub =~ /--/)) {
+        $sublink = "/webbin/who/" . $sublink;
+      } else {
+        $sublink = "browse?type=lcsubc&amp;key="
+           . $sublink . ($self->curated() ? "" : "&amp;c=x");
+      }
       $str .= $self->_tabrow(vlink=>$sublink,
                              attr=>"Subject", value=>$sub);
     }
@@ -785,7 +792,7 @@ sub short_entry {
   my $icon = ($self->curated() ? $OLBP::infologo : $OLBP::xinfologo);
   my $alt = ($self->curated() ? "Info" : "X-Info");
   if ($slink) { 
-    my $imageelt = "<img class=\"info\" src=\"$icon\" alt=\"\[$alt\]\" />";
+    my $imageelt = "<img class=\"info\" src=\"$icon\" alt=\"\[$alt\]\">";
     $str .= "<a href=\"$slink\">$imageelt</a> ";
   }
   if ($authornum) {

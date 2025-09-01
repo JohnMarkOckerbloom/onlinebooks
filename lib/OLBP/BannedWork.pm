@@ -56,6 +56,16 @@ my $states = {
   "WI" => "Wisconsin", 'WY' => "Wyoming"
 };
 
+my $provinces = {"AB" => "Alberta", "BC" => "British Columbia",
+                 "MB" => "Manitoba", "NB" => "New Brunswick",
+                 "NL" => "Newfoundland and Labrador",
+                 "NT" => "Northwest Territories", "NS" => "Nova Scotia",
+                 "NU" => "Nunavut", "ON" => "Ontario",
+                 "PE" => "Prince Edward Island",
+                 "PQ" => "Qu&eacute;bec", "SK" => "Saskatchewan",
+                 "YT" => "Yukon"
+};
+
 sub _readjsonfile {
   my ($self, $path) = @_;
   my $str;
@@ -147,6 +157,12 @@ sub _location_string {
   if ($loccode =~ /^US-([A-Z][A-Z])(-.*)?/) {
     my ($statecode, $locality) = ($1, $2);
     $str = $states->{$statecode};
+    if ($2) {
+      $str = "$locality, $str";
+    }
+  } elsif ($loccode =~ /^CA-([A-Z][A-Z])(-.*)?/) {
+    my ($provcode, $locality) = ($1, $2);
+    $str = $provinces->{$provcode};
     if ($2) {
       $str = "$locality, $str";
     }

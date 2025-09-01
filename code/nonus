@@ -36,7 +36,7 @@ $climit    = $pdlimit + 1;
 
 $infolink  = $OLBP::homepage . "okbooks.html#whatpd";
 
-$explanation = qq^
+$explanation1 = qq^
 more than 50 years ago.
 Such titles are in the public domain in many countries, particularly
 those outside the US and Europe.
@@ -53,15 +53,14 @@ Below, we provide author death dates and other edition information,
 so that you can check this information
 against the terms of your country's copyright law.
 </p>
-<p>
 <strong>
 Do NOT download or read this book online if you or your system are in the
 United States</strong>, or in another country where copyrights for
 authors with the dates shown below have not expired.
 The author's estate and publishers still retain
 rights to control distribution and use of the work in those countries.
-</p>
-<p>
+</p>^;
+$explanation2 = qq^<p>
 Since the maintainer of this index resides in the United States,
 he cannot fully check these links for validity.  Please 
 <a href="$OLBP::badlinkurl">let us know</a>
@@ -92,6 +91,18 @@ sub _ref_link_encode {
   $str =~ s/&lt;/</g;
   $str =~ s/&amp;/&/g;
   return OLBP::html_encode($str);
+}
+
+sub showlibraryalt {
+  my ($title, $author) = @_;
+  my $info = "As an alternative to reading the book online, you can ";
+  my $url = $OLBP::seealsourl . "?ti=" . OLBP::url_encode($title);
+  if ($author) {
+    $url .= "&amp;au=" . OLBP::url_encode($author);
+  }
+  $info .= "<a href=\"$url\">look for it at your library</a>, or ";
+  $info .= "<a href=\"$url\&amp;library=0CHOOSE0\">at another library</a>.";
+  print "<p>$info</p>\n";
 }
 
 sub showwarning {
@@ -125,7 +136,9 @@ print qq^<!DOCTYPE html>
   } else {
     print "authors who died ";
   }
-  print $explanation;
+  print $explanation1;
+  showlibraryalt($title, $names[0]);
+  print $explanation2;
   print "<hr>\n";
   print "<table>";
   print "<tr><td><b>Title:</b></td><td>$title</td></tr>\n";
@@ -133,7 +146,8 @@ print qq^<!DOCTYPE html>
     my $name = $names[$i];
     my $role = $roles[$i];
     my $rolestr = ucfirst(lc($role)) . ":";
-    my $namelink = "$scripturl/lookupname?key=" . OLBP::url_encode($name);
+    my $namelink = "/webbin/who/" . OLBP::url_encode($name);
+    # my $namelink = "$scripturl/lookupname?key=" . OLBP::url_encode($name);
     my $nameelt = "<a href=\"$namelink\">$name</a>";
     print "<tr><td><b>$rolestr</b></td><td>$nameelt</td></tr>\n";
   }

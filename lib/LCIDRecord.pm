@@ -12,6 +12,7 @@ my $MADSPREFIX         = "http://www.loc.gov/mads/";
 my $RWOPROPERTY        = $MADSPREFIX . "rdf/v1#identifiesRWO";
 my $OCCUPATIONPROPERTY = $MADSPREFIX . "rdf/v1#occupation";
 my $AUTHLABELPROPERTY  = $MADSPREFIX . "rdf/v1#authoritativeLabel";
+my $SEEALSOPROPERTY    = "http://www.w3.org/2000/01/rdf-schema#seeAlso";
 
 sub _readjsonfile {
   my ($self, $path) = @_;
@@ -111,6 +112,36 @@ sub get_occupations {
   # print "I found these occupations: ".  join("; ", @occupations) . "\n";
   return @occupations;
 }
+
+# Returns a list of the "see also" headings named in the file,
+# or an empty list if none found
+#
+# The occupations are the string values of the IDs referred to
+#  by the see property of the name's object
+
+sub get_seealsos {
+  my ($self, %params) = @_;
+  my $lcid = $self->{lcid};
+  my $fullid = $LCNAMEPREFIX . $lcid;
+  my $json = $self->{json};
+  my $element = _get_element_with_id($json, $fullid);
+  return () if (!$element);
+  my $seealsoref = $element->{$SEEALSOPROPERTY};
+  my @seealsorefs = _ids_from_array($seealsoref);
+  my @seealsos = ();
+  foreach my $ref (@seealsorefs) {
+    my $refjson = _get_element_with_id($json, $ref);
+    my $str = _authoritative_label($refjson, $LCNAMEPREFIX);
+    if ($str) {
+      push @seealsos, $str;
+    }
+  }
+  if (scalar(@seealsos)) {
+    print "I found these see alsos for $lcid ".  join("; ", @seealsos) . "\n";
+  }
+  return @seealsos;
+}
+
 
 sub _initialize {
   my ($self, %params) = @_;
