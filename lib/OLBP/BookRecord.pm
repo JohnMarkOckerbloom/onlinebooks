@@ -558,7 +558,7 @@ sub long_entry {
       $prop = lc($role);
     }
     # my $vlink = "lookupname?key=" . OLBP::url_encode($formalname);
-    my $vlink = "/webbin/who/" . OLBP::url_encode($formalname);
+    my $vlink = $OLBP::whourl . "/" . OLBP::url_encode($formalname);
     $str .= $self->_tabrow(alink=>$OLBP::authorspage, vlink=>$vlink,
                            attr=>$role, value=>$formalname, property=>$prop);
   }
@@ -607,7 +607,7 @@ sub long_entry {
       my $sub = $subs[$i];
       my $sublink = OLBP::url_encode($sub);
       if ($self->{subjtype}->[$i] eq "LCNSUB" && !($sub =~ /--/)) {
-        $sublink = "/webbin/who/" . $sublink;
+        $sublink = $OLBP::whourl . "/" . $sublink;
       } else {
         $sublink = "browse?type=lcsubc&amp;key="
            . $sublink . ($self->curated() ? "" : "&amp;c=x");

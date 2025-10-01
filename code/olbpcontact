@@ -854,6 +854,7 @@ sub analyze_form {
       || $comments =~ /issues.*website/i
       || $comments =~ /sexlovers/i
       || $comments =~ /investment project/i
+      || $comments =~ /free funding/i
       || $comments =~ /finds you well/i
       || $comments =~ / robot/i
       || $comments =~ / AI /i

@@ -77,7 +77,7 @@ sub _display_banner {
   print qq!<table><tr><td>! if ($info);
   print "<h2>$informal</h2>\n";
   my $naivename = OLBP::Name::naive($name);
-  if ($naivename ne $informal) {
+  if (($naivename ne $informal) && ($informal ne $name)) {
     print "<h3>($name)</h3>\n";
   }
   if ($info) {
@@ -331,11 +331,8 @@ sub _get_query_url {
 
 sub _wholink {
   my ($self, $item) = @_;
-  my $url = $OLBP::serverurl . "webbin/who/";
-  $url .= OLBP::url_encode($item);
-  if ($url) {
-    return "<a href=\"$url\">" . $item . "</a>";
-  }
+  my $url = $OLBP::whourl . "/" . OLBP::url_encode($item);
+  return "<a href=\"$url\">" . $item . "</a>";
 }
 
 sub _livelink {

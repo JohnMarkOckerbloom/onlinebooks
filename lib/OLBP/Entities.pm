@@ -6,6 +6,7 @@ my %uecode;
 # numericentities turns symbolic character entities into numeric
 # Unicode codes (which is now required for OAI 2.0)
 
+$uecode{"quot"}   = 0x0022;
 $uecode{"amp"}    = 0x0026;
 $uecode{"lt"}     = 0x003c;
 $uecode{"gt"}     = 0x003e;
@@ -579,19 +580,23 @@ sub normalize_utf8 {
 
 # this takes a string with utf8 chars and returns the characters
 # as entities.  
-# Uses symbolic entities where available, unless numericonly is set
+# Uses symbolic entities where available, though numericonly 
+#  might evetually override that directive
+
+sub entitize_utf8_char {
+  my ($char, $numericonly) = @_;
+  my $code = ord($char);
+  my $label = $_ename{$code};
+  if ($label) {
+    return '&' . $label . ';';
+  } else {
+    return '&#x' . sprintf("%04x", $code) . ';';
+  }
+}
 
 sub entitize_utf8 {
   my ($str, $numericonly) = @_;
-  while ($str =~ /([^\x00-\x7f])/) {
-    my $code = ord($1);
-    my $label = $_ename{$code};
-    if ($label) {
-      $str =~ s/([^\x00-\x7f])/&$label;/;
-    } else {
-      $str =~ s/([^\x00-\x7f])/"&#x".sprintf("%04x", $code).";"/e;
-    }
-  }
+  $str =~ s/([^\x00-\x25\x27-\x7f])/&entitize_utf8_char($1, $numericonly)/eg;
   return $str;
 }
 

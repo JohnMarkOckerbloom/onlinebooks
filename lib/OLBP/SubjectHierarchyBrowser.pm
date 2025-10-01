@@ -145,11 +145,8 @@ sub _find_right_node {
 
 sub _wholink {
   my ($self, $item) = @_;
-  my $url = $OLBP::serverurl . "webbin/who/";
-  $url .= OLBP::url_encode($item);
-  if ($url) {
-    return "<a href=\"$url\">" . $item . "</a>";
-  }
+  my $url = $OLBP::whourl . "/" . OLBP::url_encode($item);
+  return "<a href=\"$url\">" . $item . "</a>";
 }
 
 sub _livelink {
@@ -171,6 +168,18 @@ sub _livelink {
   return OLBP::html_encode($item);
 }
 
+sub _subject_or_who_link {
+  my ($self, $item) = @_;
+  my $link = $self->_livelink($item);
+  my $skey = OLBP::BookRecord::search_key_for_name($item);
+  if (!($item =~ /\-\-/)) {
+    if ($self->{whohash}->get_value(key=>$skey)) {
+      $link = $self->_wholink($item);
+    }
+  }
+  return $link;
+}
+
 sub _print_related_list { 
   my ($self, $header, @list) = @_;
   my $size = scalar(@list);
@@ -183,13 +192,7 @@ sub _print_related_list {
         # example term is someone's name
         $link = $self->_wholink($item);
       } elsif ($header eq "Broader term") {
-        my $skey = OLBP::BookRecord::search_key_for_name($item);
-        if (!($item =~ /\-\-/)) {
-          if ($self->{whohash}->get_value(key=>$skey)) {
-            # The broader term is noted as someone's name
-            $link = $self->_wholink($item);
-          }
-        }
+        $link = $self->_subject_or_who_link($item);
       }
       print "<li>$link</li>";
     }
@@ -252,7 +255,7 @@ sub show_books_with_subject {
   my @records = $self->get_books_with_subject(key=>$key);
   my $count = scalar(@records);
   if ($count) {
-    print "<b>$header: " . $self->_livelink($term) . "</b>";
+    print "<b>$header: " . $self->_subject_or_who_link($term) . "</b>";
     print "<ul class=\"nodot\">";
     foreach my $br (@records) {
       print "<li>" . $br->short_entry() . "</li>";

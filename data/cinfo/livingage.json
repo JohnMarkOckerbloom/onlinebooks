@@ -10,10 +10,61 @@
    },
    "first-renewed-contribution-source": "1967-JulDec",
    "last-issue": {"issue-date": "1941-08", "volume": "360", "number": "6"},
-   "additional-note" : "Renewals are recorded beginning in the 1966 July-December CCE volume, but the earliest renewed contribution is noted in the 1967 July-December volume. This magazine frequently reprinted stories from other publications, some of which may still be under copyright.   We have not systematically checked those.",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1939-05"},
+        "title": "Yes, I'm Going Away: One Act Play",
+        "author": {
+         "authorized": "Brecht, Bertolt, 1898-1956",
+         "lcna": "n79018801"
+        },
+        "translator": {
+         "authorized": "Norden, Ruth, 1906-1977",
+         "lcna": "nr2005011456"
+        }
+     },
+     {"issue": {"issue-date": "1939-09"}, 
+      "title": "Number 16",
+      "note": "Title as stated in issue.  CCE renewal record states title as 'No.16'.",
+      "author": {
+       "authorized": "Bowen, Elizabeth, 1899-1973",
+       "lcna": "n78095463"
+      }
+     },
+     {"issue": {"issue-date": "1939-10"}, 
+      "title": "As Nazi Tourists See Us",
+      "authors": [
+       {"name": "Paul Martin"},
+       {"name": "Peter Gary"}
+      ]
+     },
+     {"issue": {"issue-date": "1940-10"},
+      "title": "Desires of Men and Women; Conversation",
+      "author": {
+         "authorized": "Berryman, John, 1914-1972",
+         "lcna": "n79142591"
+      }
+     },
+     {"issue": {"issue-date": "1941-02"}, 
+      "title": "Oh Madam",
+      "author": {
+       "authorized": "Bowen, Elizabeth, 1899-1973",
+       "lcna": "n78095463"
+      }
+     },
+     {"issue": {"issue-date": "1941-05"}, 
+      "title": "The Nazi Fiasco in Latin America",
+      "author": {
+       "authorized": "Crow, Carl, 1883-1945",
+       "lcna": "n83800309"
+      }
+     }
+   ],
+   "additional-notes": ["Active renewals are recorded beginning in the 1966 July-December CCE volume, but the earliest active renewed contribution record mentioning this periodical is in the 1967 July-December volume.",
+   "The renewals above are all the active renewals that specifically mention this magazine.  However, this magazine frequently reprinted and translated pieces from other publications, some of which may still be under copyright.   We have not systematically checked the copyrights of the original publications."
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-01-10"
+   "last-updated": "2025-09-18"
 }
