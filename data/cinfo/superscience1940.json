@@ -17,6 +17,361 @@
    "first-renewed-contribution-source": "1967-JulDec",
    "last-issue":
      {"issue-date": "1951-08", "volume": "8", "number": "3"},
+   "renewed-issue-completeness": "active/end",
+   "renewed-issues": [
+     {"issue-date": "1940-03", "volume": "1", "number": "1"},
+     {"issue-date": "1940-05", "volume": "1", "number": "2"},
+     {"issue-date": "1940-07", "volume": "1", "number": "3"},
+     {"issue-date": "1940-09", "volume": "1", "number": "4"},
+     {"issue-date": "1940-11", "volume": "2", "number": "1"},
+     {"issue-date": "1941-01", "volume": "2", "number": "2"},
+     {"issue-date": "1941-03", "volume": "2", "number": "3"},
+     {"issue-date": "1941-05", "volume": "2", "number": "4"},
+     {"issue-date": "1941-08", "volume": "3", "number": "1"},
+     {"issue-date": "1941-11", "volume": "3", "number": "2"},
+     {"issue-date": "1942-02", "volume": "3", "number": "3"},
+     {"issue-date": "1942-05", "volume": "3", "number": "4"},
+     {"issue-date": "1942-08", "volume": "4", "number": "1"},
+     {"issue-date": "1942-11", "volume": "4", "number": "2"},
+     {"issue-date": "1943-02", "volume": "4", "number": "3"},
+     {"issue-date": "1943-05", "volume": "4", "number": "4"}
+   ],
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1940-03", "volume": "1", "number": "1"},
+      "title": "Trans-Plutonian Trap",
+      "author": {
+         "authorized": "Rocklynne, Ross, 1913-1988",
+         "lcna": "n88278070"
+      }
+     },
+     {"issue": {"issue-date": "1940-03", "volume": "1", "number": "1"},
+      "title": "Emergency Refueling",
+      "author": {
+         "authorized": "Blish, James",
+         "lcna": "n79053667"
+      }
+     },
+     {"issue": {"issue-date": "1940-05", "volume": "1", "number": "2"},
+      "title": "Let There Be Light",
+      "author": {
+         "authorized": "Heinlein, Robert A. (Robert Anson), 1907-1988",
+         "using": "Lyle Monroe",
+         "lcna": "n79067868"
+      }
+     },
+     {"issue": {"issue-date": "1940-05", "volume": "1", "number": "2"},
+      "title": "Bequest of the Angel",
+      "author": {
+         "authorized": "Blish, James",
+         "lcna": "n79053667"
+      }
+     },
+     {"issue": {"issue-date": "1940-09", "volume": "1", "number": "4"}, 
+      "title": "Invisible One",
+      "author": {
+        "authorized": "Jones, Neil R., 1909-1988",
+        "lcna": "no2015107166"
+      }
+     },
+     {"issue": {"issue-date": "1940-09", "volume": "1", "number": "4"}, 
+      "title": "The Girl in the Bottle",
+      "author": {
+        "authorized": "Williamson, Jack, 1908-2006",
+        "lcna": "n79027136"
+      }
+     },
+     {"issue": {"issue-date": "1940-09", "volume": "1", "number": "4"}, 
+      "title": "Strange Playfellow",
+      "author": {
+        "authorized": "Asimov, Isaac, 1920-1992",
+        "lcna": "n80126289"
+      }
+     },
+     {"issue": {"issue-date": "1940-11", "volume": "2", "number": "1"}, 
+      "title": "Asokore Power",
+      "author": {
+        "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+        "lcna": "n80057222"
+      }
+     },
+     {"issue": {"issue-date": "1941-01", "volume": "2", "number": "2"},
+      "title": "Collision Course",
+      "author": {
+         "authorized": "Rocklynne, Ross, 1913-1988",
+         "lcna": "n88278070"
+      }
+     },
+     {"issue": {"issue-date": "1941-03", "volume": "2", "number": "3"}, 
+      "title": "Genus Homo",
+      "authors": [
+        {"authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+        "lcna": "n80057222"},
+        {"authorized": "Miller, P. Schuyler (Peter Schuyler), 1912-1974",
+        "lcna": "n82243322"}
+       ]
+     },
+     {"issue": {"issue-date": "1941-03", "volume": "2", "number": "3"}, 
+      "title": "History",
+      "author": {
+        "authorized": "Asimov, Isaac, 1920-1992",
+        "lcna": "n80126289"
+      }
+     },
+     {"issue": {"issue-date": "1941-03", "volume": "2", "number": "3"}, 
+      "title": "Captives of the Durna Rangue",
+      "author": {
+        "authorized": "Jones, Neil R., 1909-1988",
+        "lcna": "no2015107166"
+      }
+     },
+     {"issue": {"issue-date": "1941-08", "volume": "3", "number": "1"}, 
+      "title": "Service of the Lord",
+      "note": "Title as given in CCE renewal record. FictionMags gives title of the author's story in this issue as 'Invaders From Nowhere'.",
+      "author": {
+        "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+        "lcna": "n80057222"
+      }
+     },
+     {"issue": {"issue-date": "1941-11", "volume": "3", "number": "2"},
+      "title": "Lost Legion",
+      "note": "Title as given on cover. CCE renewal record gives title as 'Lost Legacy (Lost Legion)'.",
+      "author": {
+         "authorized": "Heinlein, Robert A. (Robert Anson), 1907-1988",
+         "using": "Lyle Monroe",
+         "lcna": "n79067868"
+      }
+     },
+     {"issue": {"issue-date": "1942-02", "volume": "3", "number": "3"},
+      "title": "The Wicked People",
+      "author": {
+         "authorized": "Rocklynne, Ross, 1913-1988",
+         "lcna": "n88278070"
+      }
+     },
+     {"issue": {"issue-date": "1942-05", "volume": "3", "number": "4"},
+      "title": "Sunken Universe",
+      "author": {
+         "authorized": "Blish, James",
+         "using": "Arthur Merlyn",
+         "lcna": "n79053667"
+      }
+     },
+     {"issue": {"issue-date": "1942-08", "volume": "4", "number": "1"}, 
+      "title": "Victory Unintentional",
+      "author": {
+        "authorized": "Asimov, Isaac, 1920-1992",
+        "lcna": "n80126289"
+      }
+     },
+     {"issue": {"issue-date": "1942-08", "volume": "4", "number": "1"}, 
+      "title": "Return From Zero",
+      "author": {
+         "authorized": "Rocklynne, Ross, 1913-1988",
+         "lcna": "n88278070"
+      }
+     },
+     {"issue": {"issue-date": "1942-11", "volume": "4", "number": "2"}, 
+      "title": "The Imaginary",
+      "author": {
+        "authorized": "Asimov, Isaac, 1920-1992",
+        "lcna": "n80126289"
+      }
+     },
+     {"issue": {"issue-date": "1943-02", "volume": "4", "number": "3"}, 
+      "title": "For Sale: One World",
+      "author": {
+         "authorized": "Rocklynne, Ross, 1913-1988",
+         "lcna": "n88278070"
+      }
+     },
+     {"issue": {"issue-date": "1943-05", "volume": "4", "number": "4"},
+      "title": "New Day on Aurora",
+      "author": {
+        "authorized": "Knight, Damon, 1922-2002",
+        "using": "Stuart Fleming",
+        "lcna": "n79108377"
+      }
+     },
+     {"issue": {"issue-date": "1949-11", "volume": "6", "number": "1"},
+      "title": "Child of Void",
+      "author": {
+        "authorized": "St. Clair, Margaret",
+        "lcna": "n85038071"
+      }
+     },
+     {"issue": {"issue-date": "1949-11", "volume": "6", "number": "1"},
+      "title": "Impossible",
+      "author": {
+         "authorized": "Bradbury, Ray, 1920-2012",
+         "lcna": "n79139258"
+      }
+     },
+     {"issue": {"issue-date": "1949-11", "volume": "6", "number": "1"},
+      "title": "Appointment for Tomorrow",
+      "author": {
+        "authorized": "MacDonald, John D. (John Dann), 1916-1986",
+        "lcna": "n79045202"
+      }
+     },
+     {"issue": {"issue-date": "1949-11", "volume": "6", "number": "1"},
+      "title": "The Sleepers",
+      "author": {
+        "authorized": "MacDonald, John D. (John Dann), 1916-1986",
+        "using": "John Wade Farrell",
+        "lcna": "n79045202"
+      }
+     },
+     {"issue": {"issue-date": "1949-11", "volume": "6", "number": "1"},
+      "title": "Parasite Planet",
+      "author": {
+        "authorized": "Jones, Neil R., 1909-1988",
+        "lcna": "no2015107166"
+      }
+     },
+     {"issue": {"issue-date": "1950-03", "volume": "6", "number": "3"},
+      "title": "Rogue Ship",
+       "author": {
+         "authorized": "Van Vogt, A. E. (Alfred Elton), 1912-2000",
+         "lcna": "n79123985"
+       }
+     },
+     {"issue": {"issue-date": "1950-03", "volume": "6", "number": "3"},
+      "title": "Outcast of the Stars",
+      "author": {
+         "authorized": "Bradbury, Ray, 1920-2012",
+         "lcna": "n79139258"
+      }
+     },
+     {"issue": {"issue-date": "1950-03", "volume": "6", "number": "3"},
+      "title": "The Ultimate One",
+      "author": {
+        "authorized": "MacDonald, John D. (John Dann), 1916-1986",
+        "lcna": "n79045202"
+      }
+     },
+     {"issue": {"issue-date": "1950-03", "volume": "6", "number": "3"},
+      "title": "World Without Darkness",
+      "author": {
+        "authorized": "Jones, Neil R., 1909-1988",
+        "lcna": "no2015107166"
+      }
+     },
+     {"issue": {"issue-date": "1950-05", "volume": "6", "number": "4"},
+      "title": "By the Stars Forgot",
+      "author": {
+        "authorized": "MacDonald, John D. (John Dann), 1916-1986",
+        "lcna": "n79045202"
+      }
+     },
+     {"issue": {"issue-date": "1950-05", "volume": "6", "number": "4"},
+      "title": "Gift of Darkness",
+      "author": {
+        "authorized": "MacDonald, John D. (John Dann), 1916-1986",
+        "using": "Peter Reed",
+        "lcna": "n79045202"
+      }
+     },
+     {"issue": {"issue-date": "1950-07", "volume": "7", "number": "1"},
+      "title": "Half-Past Eternity",
+      "author": {
+        "authorized": "MacDonald, John D. (John Dann), 1916-1986",
+        "lcna": "n79045202"
+      }
+     },
+     {"issue": {"issue-date": "1950-07", "volume": "7", "number": "1"},
+      "title": "Vengeance, Unlimited",
+      "author": {
+        "authorized": "Brown, Fredric, 1906-1972",
+        "lcna": "n79056291"
+      }
+     },
+     {"issue": {"issue-date": "1950-07", "volume": "7", "number": "1"},
+      "title": "Escape to Fear",
+      "author": {
+        "authorized": "MacDonald, John D. (John Dann), 1916-1986",
+        "using": "Peter Reed",
+        "lcna": "n79045202"
+      }
+     },
+     {"issue": {"issue-date": "1950-09", "volume": "7", "number": "2"},
+      "title": "Ultimate Quest",
+      "author": {
+        "authorized": "Vance, Jack, 1916-2013",
+        "using": "John Holbrook",
+        "lcna": "n79021250"
+      }
+     },
+     {"issue": {"issue-date": "1950-09", "volume": "7", "number": "2"},
+      "title": "Obedience",
+      "note": "Title as given in CPRS renewal record.  ISFDB notes 'Obedience' as a variant title of 'The Undying Ones', which appears in this issue.",
+      "author": {
+        "authorized": "Brown, Fredric, 1906-1972",
+        "lcna": "n79056291"
+      }
+     },
+     {"issue": {"issue-date": "1950-09", "volume": "7", "number": "2"},
+      "title": "The Mind Masters",
+      "author": {
+        "authorized": "Jones, Neil R., 1909-1988",
+        "lcna": "no2015107166"
+      }
+     },
+     {"issue": {"issue-date": "1950-11", "volume": "7", "number": "3"},
+      "title": "Sunken Universe",
+      "author": {
+         "authorized": "Blish, James",
+         "using": "Arthur Merlyn",
+         "lcna": "n79053667"
+      }
+     },
+     {"issue": {"issue-date": "1951-01", "volume": "7", "number": "4"}, 
+      "title": "Hand From the Void",
+      "author": {
+        "authorized": "MacDonald, John D. (John Dann), 1916-1986",
+        "lcna": "n79045202"
+      }
+     },
+     {"issue": {"issue-date": "1951-01", "volume": "7", "number": "4"}, 
+      "title": "Destiny Preferred",
+      "note": "Title as given in CPRS renewal record. FictionMags gives title as 'Destiny Deferred'.",
+      "author": {
+        "authorized": "MacDonald, John D. (John Dann), 1916-1986",
+        "using": "John Wade Farrell",
+        "lcna": "n79045202"
+      }
+     },
+     {"issue": {"issue-date": "1951-01", "volume": "7", "number": "4"}, 
+      "title": "Satisfaction Guaranteed",
+      "note": "Title and issue as given in CPRS renewal record.  ISFDB says a story with this title first appeared in the April 1951 issue of Amazing Stories, and that the Asimov story in the January 1951 issue of Super-Science Stories was 'Victory Unintentional', reprinted from a 1942 issue of this magazine.",
+      "author": {
+        "authorized": "Asimov, Isaac, 1920-1992",
+        "lcna": "n80126289"
+      }
+     },
+     {"issue": {"issue-date": "1951-06", "volume": "8", "number": "2"},
+      "title": "Escape to Chaos",
+      "author": {
+        "authorized": "MacDonald, John D. (John Dann), 1916-1986",
+        "lcna": "n79045202"
+      }
+     },
+     {"issue": {"issue-date": "1951-06", "volume": "8", "number": "2"},
+      "title": "Cosmic Knot",
+      "author": {
+        "authorized": "MacDonald, John D. (John Dann), 1916-1986",
+        "using": "Peter Reed",
+        "lcna": "n79045202"
+      }
+     },
+     {"issue": {"issue-date": "1951-08", "volume": "8", "number": "3"},
+      "title": "The Star Killers",
+      "author": {
+        "authorized": "Jones, Neil R., 1909-1988",
+        "lcna": "no2015107166"
+      }
+     }
+   ],
    "additional-notes":
      ["Issues from March to August 1941 were published as Super Science Novels magazine.",
      "Publication was suspended between May 1943 and January 1949."],
@@ -24,5 +379,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-01-12"
+   "last-updated": "2025-10-09"
 }

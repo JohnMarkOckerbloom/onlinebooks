@@ -5,13 +5,17 @@
       [{"id": "centralblattsj", "note": "Central-Blatt and Social Justice"}],
    "first-issue":
      {"issue-date": "1940-04", "volume": "33", "number": "1"},
-   "first-renewed-issue": "none",
-   "first-renewed-issue-source": "cce+database",
-   "first-renewed-contribution": "none",
-   "first-renewed-contribution-source": "cce+database",
+   "first-renewed-issue":
+       {"issue-date": "1966-12", "volume": "59", "number": "8"},
+   "first-renewed-contribution":
+       {"issue-date": "1967-12", "volume": "60", "number": "8"},
+   "additional-notes": ["The December 1966 issue was a special issue containing a translation of the Communications Decree of the Second Vatican Council, along with commentary. It is the first that we have found with a copyright notice on the issue, and the issue's 1966 copyright automatically renewed.  Most other issues did not include copyright notices.",
+       "This magazine occasionally reprinted articles from elsewhere with notices for copyrights that might still be active. The earliest we have found with such a notice is a reprint of an article from the Liguorian Sunday Bulletin that appears in the December 1967 issue of this periodical with a 1967 copyright notice. It is possible there are earlier articles with active copyright notices that we have not found.",
+    "We are not aware of any renewals filed that specifically mention the Social Justice Review."
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-11-27"
+   "last-updated": "2025-10-04"
 }

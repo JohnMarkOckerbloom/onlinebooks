@@ -1,6 +1,11 @@
 {
    "title": "The William and Mary Quarterly",
    "online": "1",
+   "preceded-by":
+      [{"id": "wmcqhm",
+        "note": "William and Mary College Quarterly Historical Magazine"}],
+   "first-issue":
+     {"issue-date": "1944-01", "series": "third", "volume": "1", "number": "1"},
    "first-renewed-issue":
      {"issue-date": "1946-04", "series": "third", "volume": "3", "number": "2"},
    "first-renewed-issue-source": "1973",
@@ -79,12 +84,11 @@
      {"issue-date": "1963-07", "series": "third", "volume": "20", "number": "3"},
      {"issue-date": "1963-10", "series": "third", "volume": "20", "number": "4"}
    ],
-   "comment": "Pick up after first 2 screens ordered by date of William AND mary AND quarterly.  At present, cocatalog.loc.gov is timing out.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
    "acknowledgement": 
       "Thanks to Eli Baum for copyright research on this title.",
-   "last-updated": "2023-01-17"
+   "last-updated": "2025-10-16"
 }

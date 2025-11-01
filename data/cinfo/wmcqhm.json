@@ -1,0 +1,23 @@
+{
+   "title": "William and Mary College Quarterly Historical Magazine",
+   "online": "1",
+   "preceded-by":
+       [{"id": "wmcqhp",
+         "note": "William and Mary College Quarterly Historical Papers"}],
+   "first-issue":
+     {"issue-date": "1894-07", "series": "first", "volume": "3", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce",
+   "last-issue":
+     {"issue-date": "1943-10", "series": "second",
+      "volume": "23", "number": "4"},
+   "succeeded-by":
+       [{"id": "wmqtly", "note": "The William and Mary Quarterly"}],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2025-10-16"
+}
