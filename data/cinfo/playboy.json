@@ -1,0 +1,430 @@
+{
+   "title": "Playboy",
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/FMI/link.asp?magid=PBY",
+       "note": "FictionMags (selected fiction contributions only)"}
+   ],
+   "first-issue":
+      {"issue-date": "1953-12", "volume": "1", "number": "1"},
+   "first-renewed-issue":
+      {"issue-date": "1953-12", "volume": "1", "number": "1"},
+   "first-renewed-issue-source": "database",
+   "first-autorenewed-issue":
+      {"issue-date": "1964-02", "volume": "11", "number": "2",
+       "cdate": "1964-01-13"},
+   "first-renewed-contribution":
+      {"issue": {"issue-date": "1954-01", "volume": "1", "number": "2"}}, 
+   "first-renewed-contribution-source": "1968-JanJun",
+   "renewed-issue-completeness": "active/autorenewals",
+   "renewed-issues": [
+      {"issue-date": "1953-12", "volume": "1", "number": "1"},
+      {"issue-date": "1954-01", "volume": "1", "number": "2"},
+      {"issue-date": "1954-03", "volume": "1", "number": "4"},
+      {"issue-date": "1954-04", "volume": "1", "number": "5"},
+      {"issue-date": "1954-05", "volume": "1", "number": "6"},
+      {"issue-date": "1954-06", "volume": "1", "number": "7"},
+      {"issue-date": "1954-07", "volume": "1", "number": "8"},
+      {"issue-date": "1954-08", "volume": "1", "number": "9"},
+      {"issue-date": "1954-09", "volume": "1", "number": "10"},
+      {"issue-date": "1954-10", "volume": "1", "number": "11"},
+      {"issue-date": "1954-11", "volume": "1", "number": "12"},
+      {"issue-date": "1954-12", "volume": "2", "number": "1"},
+      {"issue-date": "1955-01", "volume": "2", "number": "2"},
+      {"issue-date": "1955-02", "volume": "2", "number": "3"},
+      {"issue-date": "1955-04", "volume": "2", "number": "4"},
+      {"issue-date": "1955-05", "volume": "2", "number": "5"},
+      {"issue-date": "1955-06", "volume": "2", "number": "6"},
+      {"issue-date": "1955-07", "volume": "2", "number": "7"},
+      {"issue-date": "1955-08", "volume": "2", "number": "8"},
+      {"issue-date": "1955-09", "volume": "2", "number": "9"},
+      {"issue-date": "1955-10", "volume": "2", "number": "10"},
+      {"issue-date": "1955-11", "volume": "2", "number": "11"},
+      {"issue-date": "1955-12", "volume": "2", "number": "12"},
+      {"issue-date": "1956-01", "volume": "3", "number": "1"},
+      {"issue-date": "1956-02", "volume": "3", "number": "2"},
+      {"issue-date": "1956-03", "volume": "3", "number": "3"},
+      {"issue-date": "1956-04", "volume": "3", "number": "4"},
+      {"issue-date": "1956-05", "volume": "3", "number": "5"},
+      {"issue-date": "1956-06", "volume": "3", "number": "6"},
+      {"issue-date": "1956-07", "volume": "3", "number": "7"},
+      {"issue-date": "1956-08", "volume": "3", "number": "8"},
+      {"issue-date": "1956-09", "volume": "3", "number": "9"},
+      {"issue-date": "1956-10", "volume": "3", "number": "10"},
+      {"issue-date": "1956-11", "volume": "3", "number": "11"},
+      {"issue-date": "1956-12", "volume": "3", "number": "12"},
+      {"issue-date": "1957-01", "volume": "4", "number": "1"},
+      {"issue-date": "1957-02", "volume": "4", "number": "2"},
+      {"issue-date": "1957-03", "volume": "4", "number": "3"},
+      {"issue-date": "1957-04", "volume": "4", "number": "4",
+       "note": "Online renewal record gives issue number as 3, but logically it would be 4."},
+      {"issue-date": "1957-05", "volume": "4", "number": "5"},
+      {"issue-date": "1957-06", "volume": "4", "number": "6"},
+      {"issue-date": "1957-07", "volume": "4", "number": "7"},
+      {"issue-date": "1957-08", "volume": "4", "number": "8"},
+      {"issue-date": "1957-09", "volume": "4", "number": "9"},
+      {"issue-date": "1957-10", "volume": "4", "number": "10"},
+      {"issue-date": "1957-11", "volume": "4", "number": "11"},
+      {"issue-date": "1957-12", "volume": "4", "number": "12"},
+      {"issue-date": "1958-01", "volume": "5", "number": "1"},
+      {"issue-date": "1958-02", "volume": "5", "number": "2"},
+      {"issue-date": "1958-03", "volume": "5", "number": "3"},
+      {"issue-date": "1958-04", "volume": "5", "number": "4"},
+      {"issue-date": "1958-05", "volume": "5", "number": "5"},
+      {"issue-date": "1958-06", "volume": "5", "number": "6"},
+      {"issue-date": "1958-07", "volume": "5", "number": "7"},
+      {"issue-date": "1958-08", "volume": "5", "number": "8"},
+      {"issue-date": "1958-09", "volume": "5", "number": "9"},
+      {"issue-date": "1958-10", "volume": "5", "number": "10"},
+      {"issue-date": "1958-11", "volume": "5", "number": "11"},
+      {"issue-date": "1958-12", "volume": "5", "number": "12"},
+      {"issue-date": "1959-01", "volume": "6", "number": "1"},
+      {"issue-date": "1959-02", "volume": "6", "number": "2"},
+      {"issue-date": "1959-03", "volume": "6", "number": "3"},
+      {"issue-date": "1959-04", "volume": "6", "number": "4"},
+      {"issue-date": "1959-05", "volume": "6", "number": "5"},
+      {"issue-date": "1959-06", "volume": "6", "number": "6"},
+      {"issue-date": "1959-07", "volume": "6", "number": "7"},
+      {"issue-date": "1959-08", "volume": "6", "number": "8"},
+      {"issue-date": "1959-09", "volume": "6", "number": "9"},
+      {"issue-date": "1959-10", "volume": "6", "number": "10"},
+      {"issue-date": "1959-11", "volume": "6", "number": "11"},
+      {"issue-date": "1959-12", "volume": "6", "number": "12"},
+      {"issue-date": "1960-01", "volume": "7", "number": "1"},
+      {"issue-date": "1960-02", "volume": "7", "number": "2"},
+      {"issue-date": "1960-03", "volume": "7", "number": "3"},
+      {"issue-date": "1960-04", "volume": "7", "number": "4"},
+      {"issue-date": "1960-05", "volume": "7", "number": "5"},
+      {"issue-date": "1960-06", "volume": "7", "number": "6"},
+      {"issue-date": "1960-07", "volume": "7", "number": "7"},
+      {"issue-date": "1960-08", "volume": "7", "number": "8"},
+      {"issue-date": "1960-09", "volume": "7", "number": "9"},
+      {"issue-date": "1960-10", "volume": "7", "number": "10"},
+      {"issue-date": "1960-11", "volume": "7", "number": "11"},
+      {"issue-date": "1960-12", "volume": "7", "number": "12"},
+      {"issue-date": "1961-01", "volume": "8", "number": "1"},
+      {"issue-date": "1961-02", "volume": "8", "number": "2"},
+      {"issue-date": "1961-03", "volume": "8", "number": "3"},
+      {"issue-date": "1961-04", "volume": "8", "number": "4"},
+      {"issue-date": "1961-05", "volume": "8", "number": "5"},
+      {"issue-date": "1961-06", "volume": "8", "number": "6"},
+      {"issue-date": "1961-07", "volume": "8", "number": "7"},
+      {"issue-date": "1961-08", "volume": "8", "number": "8"},
+      {"issue-date": "1961-09", "volume": "8", "number": "9"},
+      {"issue-date": "1961-10", "volume": "8", "number": "10"},
+      {"issue-date": "1961-11", "volume": "8", "number": "11"},
+      {"issue-date": "1961-12", "volume": "8", "number": "12"},
+      {"issue-date": "1962-01", "volume": "9", "number": "1"},
+      {"issue-date": "1962-02", "volume": "9", "number": "2"},
+      {"issue-date": "1962-03", "volume": "9", "number": "3"},
+      {"issue-date": "1962-04", "volume": "9", "number": "4"},
+      {"issue-date": "1962-05", "volume": "9", "number": "5"},
+      {"issue-date": "1962-06", "volume": "9", "number": "6"},
+      {"issue-date": "1962-07", "volume": "9", "number": "7"},
+      {"issue-date": "1962-08", "volume": "9", "number": "8"},
+      {"issue-date": "1962-09", "volume": "9", "number": "9"},
+      {"issue-date": "1962-10", "volume": "9", "number": "10"},
+      {"issue-date": "1962-11", "volume": "9", "number": "11"},
+      {"issue-date": "1962-12", "volume": "9", "number": "12"},
+      {"issue-date": "1963-01", "volume": "10", "number": "1"},
+      {"issue-date": "1963-02", "volume": "10", "number": "2"},
+      {"issue-date": "1963-03", "volume": "10", "number": "3"},
+      {"issue-date": "1963-04", "volume": "10", "number": "4"},
+      {"issue-date": "1963-05", "volume": "10", "number": "5"},
+      {"issue-date": "1963-06", "volume": "10", "number": "6"},
+      {"issue-date": "1963-07", "volume": "10", "number": "7"},
+      {"issue-date": "1963-08", "volume": "10", "number": "8"},
+      {"issue-date": "1963-09", "volume": "10", "number": "9"},
+      {"issue-date": "1963-10", "volume": "10", "number": "10"},
+      {"issue-date": "1963-11", "volume": "10", "number": "11"},
+      {"issue-date": "1963-12", "volume": "10", "number": "12"},
+      {"issue-date": "1964-01", "volume": "11", "number": "1",
+       "cdate": "1963-12-12"}
+   ],
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1954-01", "volume": "1", "number": "2"}, 
+      "title": "Bird of Prey",
+      "note": "While there was no renewal filed specifically for this contribution, this story is reprinted from the 1941 short story collection 'Presenting Moonshine', and that book has a copyright renewal active through 2036.",
+      "author": {
+         "authorized": "Collier, John, 1901-1980",
+         "lcna": "n80125752"
+      }
+     },
+     {"issue": {"issue-date": "1954-02", "volume": "1", "number": "3"}, 
+      "title": "New Cabin",
+      "note": "While there was no renewal filed specifically for this contribution, this story is reprinted from the July 1936 issue of 'College Humor', and that publication of the story has a copyright renewal active through 2031.",
+      "author": {
+       "authorized": "Caldwell, Erskine, 1903-1987",
+       "lcna": "n78095661"
+      }
+     },
+     {"issue": {"issue-date": "1954-03", "volume": "1", "number": "4"},
+      "title": "Fahrenheit 451",
+      "title-note": "part 1 of 3",
+      "note": "While there was no renewal filed specifically for this contribution, it is reprinted from the 1953 book of the same title, and that book has a copyright renewal active through 2048.",
+      "author": {
+         "authorized": "Bradbury, Ray, 1920-2012",
+         "lcna": "n79139258"
+      }
+     },
+     {"issue": {"issue-date": "1954-03", "volume": "1", "number": "4"},
+      "title": "Medicine Man",
+      "note": "While there was no renewal filed specifically for this contribution, this story is reprinted from the 1933 short story collection 'We Are the Living', and that book has a copyright renewal active through 2028.",
+      "author": {
+       "authorized": "Caldwell, Erskine, 1903-1987",
+       "lcna": "n78095661"
+      }
+     },
+     {"issue": {"issue-date": "1954-04", "volume": "1", "number": "5"},
+      "title": "Fahrenheit 451",
+      "title-note": "part 2 of 3",
+      "note": "While there was no renewal filed specifically for this contribution, it is reprinted from the 1953 book of the same title, and that book has a copyright renewal active through 2048.",
+      "author": {
+         "authorized": "Bradbury, Ray, 1920-2012",
+         "lcna": "n79139258"
+      }
+     },
+     {"issue": {"issue-date": "1954-05", "volume": "1", "number": "6"},
+      "title": "Fahrenheit 451",
+      "title-note": "part 3 of 3",
+      "note": "While there was no renewal filed specifically for this contribution, it is reprinted from the 1953 book of the same title, and that book has a copyright renewal active through 2048.",
+      "author": {
+         "authorized": "Bradbury, Ray, 1920-2012",
+         "lcna": "n79139258"
+      }
+     },
+     {"issue": {"issue-date": "1954-06", "volume": "1", "number": "7"},
+      "title": "A Woman of Fifty",
+      "note": "While there was no renewal filed specifically for this contribution, this story is reprinted from the May 1946 issue of 'Good Housekeeping', and that publication of the story has a copyright renewal active through 2041.",
+      "author": {
+       "authorized": "Maugham, W. Somerset (William Somerset), 1874-1965",
+       "lcna": "n79036830"
+      }
+     },
+     {"issue": {"issue-date": "1954-08", "volume": "1", "number": "9"},
+      "title": "The Flying Machine",
+      "note": "While there was no renewal filed specifically for this contribution, this story is reprinted from the 1953 short story collection 'The Golden Apples of the Sun', and that book has a copyright renewal active through 2048.",
+      "author": {
+         "authorized": "Bradbury, Ray, 1920-2012",
+         "lcna": "n79139258"
+      }
+     },
+     {"issue": {"issue-date": "1954-09", "volume": "1", "number": "10"}, 
+      "title": "Roll Out the Rolov!",
+      "note": "While there was no renewal filed specifically for this contribution, this story is reprinted from the November 1953 issue of 'Imagination', and that publication of the story has a copyright renewal active through 2048.",
+      "author": {
+        "authorized": "Anvil, Christopher",
+        "using": "Harry C. Crosby",
+        "lcna": "n2003033418"
+      }
+     },
+     {"issue": {"issue-date": "1954-10", "volume": "1", "number": "11"}, 
+      "title": "Hollywood and the Gladiators",
+      "note": "This is the earliest active contribution copyright we have found whose renewal record specifically mentions Playboy.",
+      "author": {
+       "authorized": "Russell, Ray",
+       "lcna": "n50031749"
+      }
+     },
+     {"issue": {"issue-date": "1955-02", "volume": "2", "number": "3"},
+      "title": "The Most Horrible Story in the World",
+      "author": {
+        "authorized": "Jakes, John, 1932-2023",
+        "lcna": "n80035843"
+      }
+     },
+     {"issue": {"issue-date": "1955-02", "volume": "2", "number": "3"},
+      "title": "Playboy's Valentines",
+      "author": {
+       "authorized": "Russell, Ray",
+       "lcna": "n50031749"
+      }
+     },
+     {"issue": {"issue-date": "1955-04", "volume": "2", "number": "4"}, 
+      "title": "Red Beans & Ricely Yours",
+      "author": {
+       "authorized": "Beaumont, Charles, 1929-1967",
+       "lcna": "n84200880"
+      }
+     },
+     {"issue": {"issue-date": "1955-04", "volume": "2", "number": "4"}, 
+      "title": "The Hunger",
+      "author": {
+       "authorized": "Beaumont, Charles, 1929-1967",
+       "lcna": "n84200880"
+      }
+     },
+     {"issue": {"issue-date": "1955-05", "volume": "2", "number": "5"},
+      "title": "The Murder of Conan Doyle",
+      "author": {
+       "authorized": "Russell, Ray",
+       "lcna": "n50031749"
+      }
+     },
+     {"issue": {"issue-date": "1955-07", "volume": "2", "number": "7"},
+      "title": "There's Gold in Them High, Proud Hills",
+      "author": {
+       "authorized": "Russell, Ray",
+       "lcna": "n50031749"
+      }
+     },
+     {"issue": {"issue-date": "1955-08", "volume": "2", "number": "8"}, 
+      "title": "The Crooked Man",
+      "author": {
+       "authorized": "Beaumont, Charles, 1929-1967",
+       "lcna": "n84200880"
+      }
+     },
+     {"issue": {"issue-date": "1955-09", "volume": "2", "number": "9"},
+      "title": "Spy Story",
+      "author": {
+        "authorized": "Sheckley, Robert, 1928-2005",
+        "lcna": "n50022137"
+       }
+     },
+     {"issue": {"issue-date": "1955-11", "volume": "2", "number": "11"},
+      "title": "Burnt Toast",
+      "author": {
+        "authorized": "Reynolds, Mack",
+        "lcna": "n82231916"
+      }
+     },
+     {"issue": {"issue-date": "1955-12", "volume": "2", "number": "12"},
+      "title": "A Classic Affair",
+      "author": {
+       "authorized": "Beaumont, Charles, 1929-1967",
+       "lcna": "n84200880"
+      }
+     },
+     {"issue": {"issue-date": "1955-12", "volume": "2", "number": "12"},
+      "title": "A Lady's Honor; Playboy's Christmas Cards, I",
+      "author": {
+       "authorized": "Russell, Ray",
+       "lcna": "n50031749"
+      }
+     },
+     {"issue": {"issue-date": "1956-01", "volume": "3", "number": "1"},
+      "title": "Advice About Women",
+      "author": {
+       "authorized": "Caldwell, Erskine, 1903-1987",
+       "lcna": "n78095661"
+      }
+     },
+     {"issue": {"issue-date": "1956-01", "volume": "3", "number": "1"},
+      "title": "Last Will and Testament",
+      "author": {
+       "authorized": "Russell, Ray",
+       "lcna": "n50031749"
+      }
+     },
+     {"issue": {"issue-date": "1956-01", "volume": "3", "number": "1"},
+      "title": "I Like Blondes",
+      "author": {
+        "authorized": "Bloch, Robert, 1917-1994",
+        "lcna": "n50016557"
+      }
+     },
+     {"issue": {"issue-date": "1956-02", "volume": "3", "number": "2"},
+      "title": "Playwright on a Hot Tin Roof",
+      "author": {
+       "authorized": "Russell, Ray",
+       "lcna": "n50031749"
+      }
+     },
+     {"issue": {"issue-date": "1956-05", "volume": "3", "number": "5"},
+      "title": "The Shooting of Judge Price",
+      "author": {
+       "authorized": "Caldwell, Erskine, 1903-1987",
+       "lcna": "n78095661"
+      }
+     },
+     {"issue": {"issue-date": "1956-07", "volume": "3", "number": "7"},
+      "title": "The Truckdriver",
+      "author": {
+        "authorized": "Moravia, Alberto, 1907-1990",
+        "lcna": "n79043907"
+       }
+     },
+     {"issue": {"issue-date": "1956-09", "volume": "3", "number": "9"},
+      "title": "Love, Inc.",
+      "author": {
+        "authorized": "Sheckley, Robert, 1928-2005",
+        "lcna": "n50022137"
+       }
+     },
+     {"issue": {"issue-date": "1956-09", "volume": "3", "number": "9"},
+      "title": "Hemingway",
+      "title-note": "installment",
+      "author": {
+        "authorized": "Kiley, Jed, 1889-1962",
+        "lcna": "nr89014973"
+       }
+     },
+     {"issue": {"issue-date": "1956-10", "volume": "3", "number": "10"},
+      "title": "Put Them All Together They Spell Monster",
+      "author": {
+       "authorized": "Russell, Ray",
+       "lcna": "n50031749"
+      }
+     },
+     {"issue": {"issue-date": "1956-10", "volume": "3", "number": "10"},
+      "title": "Hemingway",
+      "title-note": "installment",
+      "author": {
+        "authorized": "Kiley, Jed, 1889-1962",
+        "lcna": "nr89014973"
+       }
+     },
+     {"issue": {"issue-date": "1956-11", "volume": "3", "number": "11"},
+      "title": "Hemingway",
+      "title-note": "installment",
+      "author": {
+        "authorized": "Kiley, Jed, 1889-1962",
+        "lcna": "nr89014973"
+       }
+     },
+     {"issue": {"issue-date": "1956-12", "volume": "3", "number": "12"},
+      "title": "Playboys' Christmas Cards, II",
+      "author": {
+       "authorized": "Russell, Ray",
+       "lcna": "n50031749"
+      }
+     },
+     {"issue": {"issue-date": "1956-12", "volume": "3", "number": "12"},
+      "title": "Hemingway",
+      "title-note": "installment",
+      "author": {
+        "authorized": "Kiley, Jed, 1889-1962",
+        "lcna": "nr89014973"
+       }
+     },
+     {"issue": {"issue-date": "1957-01", "volume": "4", "number": "1"},
+      "title": "The Hustler: A Short Story",
+      "note": "Author name as given in FictionMags. Online renewal record spells last name as 'Trevis'.",
+       "author": {
+         "authorized": "Tevis, Walter S.",
+         "lcna": "n79112367"
+      }
+     },
+     {"issue": {"issue-date": "1957-01", "volume": "4", "number": "1"},
+      "title": "In a Season of Calm Weather",
+      "author": {
+         "authorized": "Bradbury, Ray, 1920-2012",
+         "lcna": "n79139258"
+      }
+     },
+     {"issue": {"issue-date": "1957-01", "volume": "4", "number": "1"},
+      "title": "The Mask and the Maiden",
+      "author": {
+         "authorized": "Collier, John, 1901-1980",
+         "lcna": "n80125752"
+      }
+     }
+   ],
+   "comment": "Pick up contribution renewals with 1984-12-17, or number 62 when sorted ascending by date",
+   "additional-note": "Some early issues reprinted stories from other publications.   We have not systematically checked the copyrights of such reprints, though we did notice the renewed copyright of some of them, including the one we currently list as the first renewed contribution.",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2025-11-09"
+}

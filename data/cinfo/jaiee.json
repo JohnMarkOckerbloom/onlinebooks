@@ -2,6 +2,9 @@
    "title": "Journal of the American Institute of Electrical Engineers",
    "aka": ["Journal of the A.I.E.E"],
    "online": "1",
+   "preceded-by":
+      [{"id": "procaiee",
+      "note": "Proceedings of the American Institute of Electrical Engineers"}],
    "first-issue": {"issue-date": "1920-01", "volume": "39", "number": "1"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
@@ -16,5 +19,5 @@
    },
    "acknowledgement": 
       "Thanks to Felice Gollotti for copyright research on this title.",
-   "last-updated": "2021-05-24"
+   "last-updated": "2025-11-17"
 }
