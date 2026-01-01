@@ -311,7 +311,7 @@ sub analyze_form {
   } elsif ($email =~ /EsFy/) {
     # A spam runner
     $pool = new OLBP::SubmissionPool(name=>$spamdir);
-  } elsif ($ref) {
+  } elsif ($ref || ($comments =~ /http/)) {
     $pool = new OLBP::SubmissionPool(name=>$withuridir);
   } else {
     $pool = new OLBP::SubmissionPool(name=>$nouridir);
@@ -341,6 +341,7 @@ sub cookiepopulate {
 }
 
 my $gateway = "172.16.34.184";
+my $gatewaynet = "172.16.";
 
 sub tag_form {
   my ($q) = @_;
@@ -349,7 +350,7 @@ sub tag_form {
   # We may just be getting our gateway's IP address; if so,
   # see if it's passing in the real requester's IP via an environment variable
   my $for = $ENV{'HTTP_X_FORWARDED_FOR'};
-  if (($from eq $gateway) && $for) {
+  if (($from =~ /^$gatewaynet/) && $for) {
     $from = $for;              
   }
   my $when = time();

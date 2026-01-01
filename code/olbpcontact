@@ -840,6 +840,7 @@ sub analyze_form {
       || $comments =~ /fiverr/i
       || $comments =~ /ultimate tool/i
       || $comments =~ /unbeatable pric/
+      || $comments =~ /mobile app/
       || $comments =~ /sexual pic/i
       || $comments =~ /media marketing/i
       || $comments =~ /your (business|company|sales)/i

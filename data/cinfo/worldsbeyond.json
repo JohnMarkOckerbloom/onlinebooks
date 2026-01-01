@@ -1,0 +1,53 @@
+{
+   "title": "Worlds Beyond",
+   "contents": [
+      {"url": "https://www.isfdb.org/cgi-bin/pe.cgi?22485",
+       "note": "ISFDB"},
+      {"url": "http://www.philsp.com/homeville/SFI/link.asp?magid=WBY",
+       "note": "FictionMags"}
+   ],
+   "first-issue": {"issue-date": "1950-12", "volume": "1", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce+database",
+   "first-renewed-contribution":
+     {"issue": {"issue-date": "1950-12", "volume": "1", "number": "1"}},
+   "first-renewed-contribution-source": "database",
+   "last-issue": {"issue-date": "1951-02", "volume": "1", "number": "3"},
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1950-12", "volume": "1", "number": "1"},
+      "title": "Device of the Turtle",
+      "note": "Title and issue as given in CPRS.  FictionMags and ISFDB do not record a piece with this title in this issue, but do note an untitled inside front cover essay Brown wrote, and a short story he co-wrote titled 'Six-Legged Svengali'.",
+      "author": {
+        "authorized": "Brown, Fredric, 1906-1972",
+        "lcna": "n79056291"
+      }
+     },
+     {"issue": {"issue-date": "1950-12", "volume": "1", "number": "1"},
+      "title": "The Big Contest",
+      "author": {
+          "authorized": "MacDonald, John D. (John Dann), 1916-1986",
+          "lcna": "n79045202"
+      }
+     },
+     {"issue": {"issue-date": "1951-01", "volume": "1", "number": "2"},
+      "title": "Survival Ship",
+      "author": {
+         "authorized": "Merril, Judith, 1923-1997",
+         "lcna": "n85115625"
+      }
+     },
+     {"issue": {"issue-date": "1951-02", "volume": "1", "number": "3"},
+      "title": "Clothes Make the Man",
+      "author": {
+       "authorized": "Matheson, Richard, 1926-2013",
+       "lcna": "n79068485"
+      }
+     }
+   ],
+   "additional-note": "All three issues also included reprints from other publications that may also have active copyrights.  We have not included those in our list of renewed contributions above, though the list does include all contributions that have renewals specifically mentioning this magazine.",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2025-12-13"
+}

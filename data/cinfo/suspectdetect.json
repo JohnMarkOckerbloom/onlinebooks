@@ -1,0 +1,37 @@
+{
+   "title": "Suspect Detective Stories",
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/CFI/link.asp?magid=SPT",
+       "note": "FictionMags (partial)"}
+   ],
+   "first-issue": {"issue-date": "1955-11", "volume": "1", "number": "1"}, 
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "database",
+   "first-renewed-contribution": 
+     {"issue": {"issue-date": "1956-06", "volume": "1", "number": "3"}},
+   "first-renewed-contribution-source": "database",
+   "last-issue": {"issue-date": "1956-10", "volume": "1", "number": "5"}, 
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1956-06", "volume": "1", "number": "3"},
+      "title": "Bones for Davy Jones",
+      "note": "There is no renewal filed specifically for this story; however, it was originally published in the 1953 book 'Crooks' Tour', which has a renewal active through the end of 2048.",
+      "author": {
+        "authorized": "Commings, Joseph, 1913-1992",
+        "lcna": "n2005002691"
+      }
+     },
+     {"issue": {"issue-date": "1956-06", "volume": "1", "number": "3"},
+      "title": "Riff Tune",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "lcna": "n50010025"
+      }
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2025-12-23"
+}

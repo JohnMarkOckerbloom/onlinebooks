@@ -1,14 +1,17 @@
 {
    "title": "American Childhood",
+   "online": "1",
+   "first-issue": {"issue-date": "1926-04", "volume": "11", "number": "8"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": 
       {"issue": {"issue-date": "1939-03"}},
    "first-renewed-contribution-source": "1967-JanJun",
-   "additional-note": "This periodical sometimes contained music. Such contributions might have renewals under Music, rather than under Contributions to Periodicals.  We have not surveyed those renewals.",
+   "last-issue": {"issue-date": "1958-06", "volume": "43", "number": "10"},
+   "additional-note": "This periodical sometimes contained music. Such contributions might have renewals under Music, rather than under Contributions to Periodicals.  We have not surveyed those renewals. Some issues also included reprints for other publications, whose copyright status we have not reviewed.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2017-12-29"
+   "last-updated": "2025-12-08"
 }

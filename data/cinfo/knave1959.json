@@ -1,0 +1,44 @@
+{
+   "title": "Knave",
+   "title-note": "1959",
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/FMI/link.asp?magid=KNV",
+       "note": "FictionMags (partial)"}
+   ],
+   "first-issue": {"issue-date": "1959-01", "volume": "1", "number": "1"}, 
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "database",
+   "first-renewed-contribution": 
+     {"issue": {"issue-date": "1959-03", "volume": "1", "number": "2"}},
+   "first-renewed-contribution-source": "database",
+   "last-issue": {"issue-date": "1959-12", "volume": "1", "number": "6"}, 
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1959-03", "volume": "1", "number": "2"},
+      "title": "The Pied Piper of Love",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "lcna": "n50010025"
+        }
+     },
+     {"issue": {"issue-date": "1959-09", "volume": "1", "number": "5"},
+      "title": "The Man With the Green Nose",
+      "authors": [
+        {"authorized": "Ellison, Harlan", "lcna": "n50010025"},
+        {"authorized": "Slesar, Henry", "lcna": "n87844215"}
+      ]
+     },
+     {"issue": {"issue-date": "1959-12", "volume": "1", "number": "6"},
+      "title": "Sally in Our Alley",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "lcna": "n50010025"
+        }
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2025-12-23"
+}

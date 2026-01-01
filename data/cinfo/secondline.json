@@ -1,0 +1,33 @@
+{
+   "title": "The Second Line",
+   "title-note": "New Orleans jazz periodical",
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce+database",
+   "first-renewed-contribution":
+     {"issue": {"issue-date": "1951-10", "volume": "2", "number": "9"}},
+   "first-renewed-contribution-source": "database",
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1951-10", "volume": "2", "number": "9"},
+      "title": "Early Years in New Orleans",
+      "title-note": "part 1 of 3",
+      "authors": [
+         {"authorized": "Parenti, Tony, 1900-1972", "lcna": "no93038341"},
+         {"name": "Roy Morser"}
+      ]
+     },
+     {"issue": {"issue-date": "1951-12", "volume": "2", "number": "11"},
+      "title": "Early Years in New Orleans",
+      "title-note": "part 3 of 3",
+      "authors": [
+         {"authorized": "Parenti, Tony, 1900-1972", "lcna": "no93038341"},
+         {"name": "Roy Morser"}
+      ]
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2025-12-13"
+}
