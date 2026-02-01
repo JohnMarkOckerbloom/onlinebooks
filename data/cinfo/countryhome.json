@@ -3,11 +3,106 @@
    "title-note": "1930-1939",
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
-   "first-renewed-contribution": {"issue": {"issue-date": "1930-03"}},
-   "first-renewed-contribution-source": "1957-JanJun",
+   "first-renewed-contribution": {"issue": {"issue-date": "1931-08"}},
+   "first-renewed-contribution-source": "1958-JulDec",
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1931-08"}, 
+      "title": "Rose of India",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1931-09"}, 
+      "title": "The Game Called Love",
+      "author": {
+       "authorized": "Duganne, Phyllis, 1899-1976",
+       "lcna": "n90719514"
+      }
+     },
+     {"issue": {"issue-date": "1932-11"}, 
+      "title": "Open Season",
+      "author": {
+       "authorized": "Duganne, Phyllis, 1899-1976",
+       "lcna": "n90719514"
+      }
+     },
+     {"issue": {"issue-date": "1932-11"}, 
+      "title": "The Jinx",
+      "author": {
+        "authorized": "Pinkerton, Robert E. (Robert Eugene), 1882-1970",
+        "lcna": "no2003073197"
+      }
+     },
+     {"issue": {"issue-date": "1933-06"}, 
+      "title": "Fair Weather Sailor",
+      "author": {
+       "authorized": "Duganne, Phyllis, 1899-1976",
+       "lcna": "n90719514"
+      }
+     },
+     {"issue": {"issue-date": "1935-09"},
+       "title": "Mr. Bowlby Turns a New Leaf",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1937-05"}, 
+      "title": "Decoration Day",
+      "author": {
+       "authorized": "Jackson, Margaret Weymouth",
+       "lcna": "no94014713"
+      }
+     },
+     {"issue": {"issue-date": "1937-11"},
+      "title": "No Love Lost",
+      "author": {
+       "authorized": "Boylston, Helen Dore, 1895-1984",
+       "lcna": "n82101651"
+      }
+     },
+     {"issue": {"issue-date": "1938-07"}, 
+      "title": "Hill of Dreams",
+      "author": {
+       "authorized": "Jackson, Margaret Weymouth",
+       "lcna": "no94014713"
+      }
+     },
+     {"issue": {"issue-date": "1938-08"}, 
+      "title": "Leading Lady",
+      "author": {
+       "authorized": "Duganne, Phyllis, 1899-1976",
+       "lcna": "n90719514"
+      }
+     },
+     {"issue": {"issue-date": "1938-09"},
+      "title": "Reunion",
+      "author": {
+       "authorized": "Schulberg, Budd",
+       "lcna": "n79045099"
+      }
+     },
+     {"issue": {"issue-date": "1938-12"},
+      "title": "Miss Mickey Finn",
+      "author": {
+       "authorized": "Welch, Douglass",
+       "lcna": "no94044082"
+      }
+     },
+     {"issue": {"issue-date": "1939-04"},
+      "title": "Beginner's Luck",
+      "author": {
+         "authorized": "Ford, Corey, 1902-1969",
+         "lcna": "n50024813"
+       }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-12-27"
+   "last-updated": "2026-01-03"
 }

@@ -2,26 +2,14 @@
    "title": "Vanity Fair",
    "online": "1",
    "first-renewed-issue": 
-      {"issue-date": "1930-02", "volume": "33", "number": "6",
-       "cdate": "1930-01-20"},
-   "first-renewed-issue-source": "1957-JulDec",
+      {"issue-date": "1931-02", "volume": "35", "number": "6",
+       "cdate": "1931-01-24"},
+   "first-renewed-issue-source": "1958-JulDec",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1930-03"}},
-   "first-renewed-contribution-source": "1957-JanJun",
+     {"issue": {"issue-date": "1931-02"}},
+   "first-renewed-contribution-source": "1959-JanJun",
    "renewed-issue-completeness": "active/1935",
    "renewed-issues": [
-      {"issue-date": "1930-02", "volume": "33", "number": "6",
-       "cdate": "1930-01-20"},
-      {"issue-date": "1930-03", "volume": "34", "number": "1"},
-      {"issue-date": "1930-04", "volume": "34", "number": "2"},
-      {"issue-date": "1930-05", "volume": "34", "number": "3"},
-      {"issue-date": "1930-06", "volume": "34", "number": "4"},
-      {"issue-date": "1930-07", "volume": "34", "number": "5"},
-      {"issue-date": "1930-08", "volume": "34", "number": "6"},
-      {"issue-date": "1930-09", "volume": "35", "number": "1"},
-      {"issue-date": "1930-10", "volume": "35", "number": "2"},
-      {"issue-date": "1930-11", "volume": "35", "number": "3"},
-      {"issue-date": "1930-12", "volume": "35", "number": "4"},
       {"issue-date": "1931-02", "volume": "35", "number": "6",
        "cdate": "1931-01-24"},
       {"issue-date": "1931-03", "volume": "36", "number": "1"},
@@ -97,48 +85,6 @@
    ],
    "renewed-contribution-completeness": "active/1933",
    "renewed-contributions" : [
-     {"issue": {"issue-date": "1930-03"},
-      "title": "Domestic and Juvenile",
-      "author": {
-       "authorized": "Anderson, Sherwood, 1876-1941",
-       "lcna": "n79045519"
-      }
-     },
-     {"issue": {"issue-date": "1930-05"},
-      "title": "Coast Defender",
-      "author": {
-       "authorized": "Tully, Jim",
-       "lcna": "n81119676"
-      }
-     },
-     {"issue": {"issue-date": "1930-06"},
-      "title": "An Interview With Shaw",
-      "author": {
-       "authorized": "Tully, Jim",
-       "lcna": "n81119676"
-      }
-     },
-     {"issue": {"issue-date": "1930-07"},
-      "title": "Ireland Farewell",
-      "author": {
-       "authorized": "Tully, Jim",
-       "lcna": "n81119676"
-      }
-     },
-     {"issue": {"issue-date": "1930-08"},
-      "title": "Hyde Park and the Hecklers",
-      "author": {
-       "authorized": "Tully, Jim",
-       "lcna": "n81119676"
-      }
-     },
-     {"issue": {"issue-date": "1930-09"},
-      "title": "Article on Wells",
-      "author": {
-       "authorized": "Tully, Jim",
-       "lcna": "n81119676"
-      }
-     },
      {"issue": {"issue-date": "1931-02"},
       "title": "We Leave No Stone Unturned",
       "authors": [
@@ -310,9 +256,10 @@
       }
      }
    ],
+   "additional-note": "Active contribution renewals are recorded beginning in the 1958 July-December CCE volume, but the earliest contribution with an active copyright renewal is noted in the 1959 January-June volume.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-07-14"
+   "last-updated": "2026-01-09"
 }

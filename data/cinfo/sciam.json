@@ -2,7 +2,8 @@
    "title": "Scientific American",
    "online": "1",
    "first-renewed-issue":
-     {"issue-date": "1930-04", "volume": "142", "number": "4"},
+     {"issue-date": "1931-02", "volume": "144", "number": "2",
+      "cdate": "1931-01-17"},
    "first-renewed-issue-source": "1958-JanJun",
    "first-autorenewed-issue":
      {"issue-date": "1964-02", "volume": "210", "number": "2"},
@@ -11,17 +12,8 @@
    "first-renewed-contribution-source": "1958-JanJun",
    "renewed-issue-completeness": "active/autorenewals",
    "renewed-issues": [
-     {"issue-date": "1930-04", "volume": "142", "number": "4"},
-     {"issue-date": "1930-05", "volume": "142", "number": "5"},
-     {"issue-date": "1930-06", "volume": "142", "number": "6"},
-     {"issue-date": "1930-07", "volume": "143", "number": "1"},
-     {"issue-date": "1930-08", "volume": "143", "number": "2"},
-     {"issue-date": "1930-09", "volume": "143", "number": "3"},
-     {"issue-date": "1930-10", "volume": "143", "number": "4"},
-     {"issue-date": "1930-11", "volume": "143", "number": "5"},
-     {"issue-date": "1930-12", "volume": "143", "number": "6"},
-     {"issue-date": "1931-01", "volume": "144", "number": "1"},
-     {"issue-date": "1931-02", "volume": "144", "number": "2"},
+     {"issue-date": "1931-02", "volume": "144", "number": "2",
+      "cdate": "1931-01-17"},
      {"issue-date": "1931-03", "volume": "144", "number": "3"},
      {"issue-date": "1931-04", "volume": "144", "number": "4"},
      {"issue-date": "1932-02", "volume": "146", "number": "2"},
@@ -486,5 +478,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-05-05"
+   "last-updated": "2026-01-09"
 }

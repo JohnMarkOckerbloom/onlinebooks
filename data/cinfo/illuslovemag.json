@@ -1,5 +1,6 @@
 {
    "title": "The Illustrated Love Magazine",
+   "online": "1",
    "contents": [
       {"url": "http://www.philsp.com/homeville/FMI/link.asp?magid=ILLLO",
        "note": "FictionMags (partial)"}
@@ -9,40 +10,11 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution":
-       {"issue": {"issue-date": "1930-08"}},
-   "first-renewed-contribution-source": "1957-JulDec",
+     {"issue": {"issue-date": "1931-02"}}, 
+   "first-renewed-contribution-source": "1958-JanJun",
    "succeeded-by": [{"id": "serenade", "note": "Serenade"}],
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1930-08"}, 
-      "title": "Silver Throat",
-      "author": {
-       "authorized": "Gelzer, Jay, 1889-1964",
-       "lcna": "no90027723"
-      }
-     },
-     {"issue": {"issue-date": "1930-12"}, 
-      "title": "Mlle. DeCastleroo",
-      "author": {
-       "authorized": "Sabatini, Rafael, 1875-1950",
-       "lcna": "n50016255"
-      }
-     },
-     {"issue": {"issue-date": "1931-01"}, 
-      "title": "Girl Hunt",
-      "title-note": "part 1 of 3",
-      "author": {
-       "authorized": "Irwin, Wallace, 1876-1959",
-       "lcna": "n97112081"
-      }
-     },
-     {"issue": {"issue-date": "1931-01"}, 
-      "title": "The Outlaw and the Lady",
-      "author": {
-       "authorized": "Sabatini, Rafael, 1875-1950",
-       "lcna": "n50016255"
-      }
-     },
      {"issue": {"issue-date": "1931-02"}, 
       "title": "The Fairy Princess",
       "author": {
@@ -300,5 +272,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-10-01"
+   "last-updated": "2026-01-05"
 }

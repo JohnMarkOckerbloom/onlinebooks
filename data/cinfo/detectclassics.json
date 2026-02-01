@@ -8,27 +8,11 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1931-03", "volume": "2", "number": "8"}},
-   "first-renewed-contribution-source": "1957-JulDec",
+     {"issue": {"issue-date": "1931-09", "volume": "3", "number": "2"}},
+   "first-renewed-contribution-source": "1959-JanJun",
    "last-issue": {"issue-date": "1931-09", "volume": "3", "number": "2"},
    "renewed-issue-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1931-03", "volume": "2", "number": "8"},
-        "title": "The Last Hero",
-        "note": "Before being reprinted in Detective Classics, this novel was published as a book in 1930, and there is a renewal for that book active until the end of 2025.",
-        "author": {
-         "authorized": "Charteris, Leslie, 1907-1993",
-         "lcna": "n50038426"
-        }
-     },
-     {"issue": {"issue-date": "1931-04", "volume": "2", "number": "9"},
-        "title": "I Met Murder",
-        "note": "Before being reprinted in Detective Classics, this novel was published as a book in 1930, and there is a renewal for that book active until the end of 2025.",
-        "author": {
-         "authorized": "Jepson, Selwyn, 1899-1989",
-         "lcna": "n89633547"
-        }
-     },
      {"issue": {"issue-date": "1931-09", "volume": "3", "number": "2"},
         "title": "The Murder of a Midget",
         "note": "This novel was also published as a book in 1931, and there is an active renewal for that book.",
@@ -38,10 +22,10 @@
         }
      }
    ],
-   "additional-note": "There are no contribution renewals that specifically mention this magazine, but we did find renewals for the novels above, after seeing them in the FictionMags contents listings for this magazine.  It might be worth double-checking the copyright status of whatever novel appears in an issue of interest, if the issue is recent enough that a renewal might be active.",
+   "additional-note": "There are no contribution renewals that specifically mention this magazine, but we did find a renewal for the novel above, after seeing it in the FictionMags contents listings for this magazine.  It might be worth double-checking the copyright status of whatever novel appears in an issue of interest, if the issue is recent enough that a renewal might be active.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-01-09"
+   "last-updated": "2026-01-04"
 }

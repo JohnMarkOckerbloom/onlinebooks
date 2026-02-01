@@ -9,99 +9,15 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1930-02", "volume": "9", "number": "6"}}, 
-   "first-renewed-contribution-source": "1957-JulDec",
+     {"issue": {"issue-date": "1931-02", "volume": "10", "number": "6",
+      "cdate": "1931-01-01"}}, 
+   "first-renewed-contribution-source": "1958-JulDec",
    "last-issue": {"issue-date": "1950-Summer", "volume": "19", "number": "8"},
    "renewed-issue-completeness": "active/end",
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1930-02", "volume": "9", "number": "6"}, 
-      "title": "Gun Throwers",
-      "author": {
-       "authorized": "Coburn, Walt, 1889-1971",
-       "lcna": "n84030412"
-      }
-     },
-     {"issue": {"issue-date": "1930-03", "volume": "9", "number": "7"}, 
-      "title": "Warriors of War Bonnet",
-      "note": "Title as given on cover. CCE renewal record gives title as 'Warriors of War Bonnett'.",
-      "author": {
-       "authorized": "Coburn, Walt, 1889-1971",
-       "lcna": "n84030412"
-      }
-     },
-     {"issue": {"issue-date": "1930-04", "volume": "9", "number": "8"}, 
-      "title": "Notched Guns",
-      "author": {
-       "authorized": "Coburn, Walt, 1889-1971",
-       "lcna": "n84030412"
-      }
-     },
-     {"issue": {"issue-date": "1930-05", "volume": "9", "number": "9"}, 
-      "title": "The Tennessee Kid",
-      "author": {
-       "authorized": "Coburn, Walt, 1889-1971",
-       "lcna": "n84030412"
-      }
-     },
-     {"issue": {"issue-date": "1930-06", "volume": "9", "number": "10"}, 
-      "title": "Senor Satan",
-      "author": {
-       "authorized": "Coburn, Walt, 1889-1971",
-       "lcna": "n84030412"
-      }
-     },
-     {"issue": {"issue-date": "1930-07", "volume": "9", "number": "11"}, 
-      "title": "Guns Up",
-      "author": {
-       "authorized": "Coburn, Walt, 1889-1971",
-       "lcna": "n84030412"
-      }
-     },
-     {"issue": {"issue-date": "1930-08", "volume": "9", "number": "12"}, 
-      "title": "The Texas Hombre",
-      "author": {
-       "authorized": "Coburn, Walt, 1889-1971",
-       "lcna": "n84030412"
-      }
-     },
-     {"issue": {"issue-date": "1930-09", "volume": "10", "number": "1"}, 
-      "title": "Sheep",
-      "author": {
-       "authorized": "Coburn, Walt, 1889-1971",
-       "lcna": "n84030412"
-      }
-     },
-     {"issue": {"issue-date": "1930-10", "volume": "10", "number": "2"}, 
-      "title": "The Badlands Buckaroo",
-      "author": {
-       "authorized": "Coburn, Walt, 1889-1971",
-       "lcna": "n84030412"
-      }
-     },
-     {"issue": {"issue-date": "1930-11", "volume": "10", "number": "3"}, 
-      "title": "The Shirttail Kid",
-      "note": "Title as given in CCE. FictionMags gives title has 'The Shirt Tail Kid'. I have not examined the issue to see what title is used there.",
-      "author": {
-       "authorized": "Coburn, Walt, 1889-1971",
-       "lcna": "n84030412"
-      }
-     },
-     {"issue": {"issue-date": "1930-12", "volume": "10", "number": "4"}, 
-      "title": "Border Wolves",
-      "author": {
-       "authorized": "Coburn, Walt, 1889-1971",
-       "lcna": "n84030412"
-      }
-     },
-     {"issue": {"issue-date": "1931-01", "volume": "10", "number": "5"}, 
-      "title": "Gunman's Legion",
-      "author": {
-       "authorized": "Coburn, Walt, 1889-1971",
-       "lcna": "n84030412"
-      }
-     },
-     {"issue": {"issue-date": "1931-02", "volume": "10", "number": "6"}, 
+     {"issue": {"issue-date": "1931-02", "volume": "10", "number": "6",
+                "cdate": "1931-01-01"}, 
       "title": "Gun Hands",
       "author": {
        "authorized": "Coburn, Walt, 1889-1971",
@@ -181,7 +97,7 @@
      },
      {"issue": {"issue-date": "1932-01", "volume": "11", "number": "5"}, 
       "title": "Unbranded Men",
-      "note": "CCE renewal record erroneouly gives date as January 1, 1931, but this story instead ran in the January 1932 issue.",
+      "note": "CCE renewal record erroneously gives date as January 1, 1931, but this story instead ran in the January 1932 issue.",
       "author": {
        "authorized": "Coburn, Walt, 1889-1971",
        "lcna": "n84030412"
@@ -444,5 +360,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-01-01"
+   "last-updated": "2026-01-03"
 }

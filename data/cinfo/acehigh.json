@@ -1,6 +1,7 @@
 {
    "title": "Ace-High Magazine",
    "aka": ["Ace-High Western Magazine", "Ace-High Western Stories"],
+   "online": "1",
    "contents": [
       {"url": "http://www.philsp.com/homeville/WFI/link.asp?magid=ACEHI",
        "note": "FictionMags (most issues)"}
@@ -13,8 +14,8 @@
       {"issue-date": "1936-08", "series": "new", "volume": "1", "number": "1"},
    "first-renewed-issue-source": "1963-JulDec",
    "first-renewed-contribution": 
-      {"issue": {"issue-date": "1930-10-10", "volume": "56", "number": "4"}},
-   "first-renewed-contribution-source": "1958-JulDec",
+      {"issue": {"issue-date": "1931-05-08", "volume": "60", "number": "3"}},
+   "first-renewed-contribution-source": "1959-JanJun",
    "renewed-issue-completeness": "active/end",
    "renewed-issues": [
       {"issue-date": "1936-08", "volume": "1", "number": "1"},
@@ -112,21 +113,6 @@
    ],
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1930-10-10", "volume": "56", "number": "4"},
-        "title": "Pecos on the Prod",
-        "author": {
-         "authorized": "Parkhill, Forbes, 1892-1974",
-         "lcna": "nr95030515"
-        }
-     },
-     {"issue": {"issue-date": "1930-12-19", "volume": "58", "number": "1"},
-        "title": "Wranglers of Fortune",
-        "note": "Title as given on cover and in FictionMags. CCE renewal record has it as 'Wrangler of Fortune'.",
-        "author": {
-         "authorized": "Parkhill, Forbes, 1892-1974",
-         "lcna": "nr95030515"
-        }
-     },
      {"issue": {"issue-date": "1931-05-08", "volume": "60", "number": "3"},
         "title": "Rogues of the Rangeland",
         "author": {
@@ -454,12 +440,12 @@
    ],
    "last-issue": {"issue-date": "1951-06", "volume": "24", "number": "3"},
    "additional-notes": [
-      "Active contribution renewals are recorded beginning in the 1958 January-June CCE volume, but the earliest renewed contribution is noted in the 1958 July-December volume.",
+      "Active contribution renewals are recorded beginning in the 1958 January-June CCE volume, but the earliest renewed contribution is noted in the 1959 January-June volume.",
       "Publication was suspended after the January 1935 issue until the August 1936 issue,  At that point, volume numbering reset to 1 and the title changed to 'Ace-High Western Magazine' to distinguish it from the spinoff 'Ace-High Detective Magazine'.  Title reverted to 'Ace-High Magazine' beginning with the March 1937 issue. Volume numbering went to 80 in the November 1937 issue, and then reset to 1 in 1940, the year the title changed to 'Ace-High Western Stories', used until publication ceased in 1951."
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-01-04"
+   "last-updated": "2026-01-02"
 }

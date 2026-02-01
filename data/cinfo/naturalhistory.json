@@ -4,19 +4,13 @@
    "first-issue":
       {"issue-date": "1919-01", "volume": "19", "number": "1"},
    "first-renewed-issue":
-      {"issue-date": "1930-January-February", "volume": "30", "number": "1"},
-   "first-renewed-issue-source": "1957-JulDec",
+      {"issue-date": "1931-January-February", "volume": "31", "number": "1"},
+   "first-renewed-issue-source": "1958-JanJun",
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1941-03"}},
    "first-renewed-contribution-source": "1968-JanJun",
    "renewed-issue-completeness": "active/1933",
    "renewed-issues": [
-      {"issue-date": "1930-January-February", "volume": "30", "number": "1"},
-      {"issue-date": "1930-March-April", "volume": "30", "number": "2"},
-      {"issue-date": "1930-May-June", "volume": "30", "number": "3"},
-      {"issue-date": "1930-July-August", "volume": "30", "number": "4"},
-      {"issue-date": "1930-September-October", "volume": "30", "number": "5"},
-      {"issue-date": "1930-November-December", "volume": "30", "number": "6"},
       {"issue-date": "1931-January-February", "volume": "31", "number": "1"},
       {"issue-date": "1931-March-April", "volume": "31", "number": "2"},
       {"issue-date": "1931-May-June", "volume": "31", "number": "3"},
@@ -37,5 +31,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-04-17"
+   "last-updated": "2026-01-06"
 }

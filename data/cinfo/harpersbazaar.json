@@ -3,28 +3,14 @@
    "online": "1",
    "first-issue": {"issue-date": "1867-11-02", "volume": "1", "number": "1"},
    "first-renewed-issue": 
-     {"issue-date": "1930-02", "volume": "64", "number": "2",
-      "cdate": "1930-01-28"},
-   "first-renewed-issue-source": "1957-JulDec",
+     {"issue-date": "1931-02", "volume": "65", "number": "2",
+      "cdate": "1931-01-28"},
+   "first-renewed-issue-source": "1958-JulDec",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1930-02"}},
-   "first-renewed-contribution-source": "1957-JanJun",
+     {"issue": {"issue-date": "1931-07"}},
+   "first-renewed-contribution-source": "1958-JulDec",
    "renewed-issue-completeness": "active/1935",
    "renewed-issues": [
-     {"issue-date": "1930-02", "volume": "64", "number": "2",
-      "cdate": "1930-01-28"},
-     {"issue-date": "1930-03", "volume": "64", "number": "3"},
-     {"issue-date": "1930-04", "volume": "64", "number": "4"},
-     {"issue-date": "1930-05", "volume": "64", "number": "5"},
-     {"issue-date": "1930-06", "volume": "64", "number": "6"},
-     {"issue-date": "1930-07", "volume": "64", "number": "7"},
-     {"issue-date": "1930-08", "volume": "64", "number": "8"},
-     {"issue-date": "1930-09", "volume": "64", "number": "9"},
-     {"issue-date": "1930-10", "volume": "64", "number": "10"},
-     {"issue-date": "1930-11", "volume": "64", "number": "11"},
-     {"issue-date": "1930-12", "volume": "64", "number": "12"},
-     {"issue-date": "1931-01", "volume": "65", "number": "1",
-      "cdate": "1930-12-28"},
      {"issue-date": "1931-02", "volume": "65", "number": "2",
       "cdate": "1931-01-28"},
      {"issue-date": "1931-03", "volume": "65", "number": "3"},
@@ -102,91 +88,6 @@
    ],
    "renewed-contribution-completeness": "active/1931",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1930-02"},
-      "title": "There Was a Ship",
-      "title-note": "part 6 of 7",
-      "author": {
-       "authorized": "Le Gallienne, Richard, 1866-1947",
-       "lcna": "n80057179"
-      }
-     },
-     {"issue": {"issue-date": "1930-02"},
-      "title": "Cakes and Ale",
-      "title-note": "part 1 of 5",
-      "author": {
-       "authorized": "Maugham, W. Somerset (William Somerset), 1874-1965",
-       "lcna": "n79036830"
-      }
-     },
-     {"issue": {"issue-date": "1930-02"},
-      "title": "True to Life",
-      "author": {
-       "authorized": "Nichols, Beverley, 1898-1983",
-       "lcna": "n85232177"
-      }
-     },
-     {"issue": {"issue-date": "1930-03"},
-      "title": "There Was a Ship",
-      "title-note": "part 7 of 7",
-      "author": {
-       "authorized": "Le Gallienne, Richard, 1866-1947",
-       "lcna": "n80057179"
-      }
-     },
-     {"issue": {"issue-date": "1930-03"},
-      "title": "Cakes and Ale",
-      "title-note": "part 2 of 5",
-      "author": {
-       "authorized": "Maugham, W. Somerset (William Somerset), 1874-1965",
-       "lcna": "n79036830"
-      }
-     },
-     {"issue": {"issue-date": "1930-04"},
-      "title": "Cakes and Ale",
-      "title-note": "part 3 of 5",
-      "author": {
-       "authorized": "Maugham, W. Somerset (William Somerset), 1874-1965",
-       "lcna": "n79036830"
-      }
-     },
-     {"issue": {"issue-date": "1930-05"},
-      "title": "Cakes and Ale",
-      "title-note": "part 4 of 5",
-      "author": {
-       "authorized": "Maugham, W. Somerset (William Somerset), 1874-1965",
-       "lcna": "n79036830"
-      }
-     },
-     {"issue": {"issue-date": "1930-06"},
-      "title": "Cakes and Ale",
-      "title-note": "part 5 of 5",
-      "author": {
-       "authorized": "Maugham, W. Somerset (William Somerset), 1874-1965",
-       "lcna": "n79036830"
-      }
-     },
-     {"issue": {"issue-date": "1930-09"},
-      "title": "Flower o' Spring",
-      "author": {
-       "authorized": "Farnol, Jeffery, 1878-1952",
-       "lcna": "n50011921"
-      }
-     },
-     {"issue": {"issue-date": "1930-10"},
-      "title": "The Ambassadress Dances",
-      "author": {
-         "authorized": "Hughes, Rupert, 1872-1956",
-         "lcna": "n86012047"
-       }
-     },
-     {"issue": {"issue-date": "1930-12"},
-      "title": "There Must Be Something More",
-      "note": "CCE renewal filed under 'Ward, C. H.' heading, but this appears to be an error. Author claimant is given as Alec Waugh.",
-      "author": {
-         "authorized": "Waugh, Alec, 1898-1981",
-         "lcna": "n50023750"
-       }
-     },
      {"issue": {"issue-date": "1931-07"},
       "title": "Mrs. Trevalyn Serves Tea",
       "author": {
@@ -280,5 +181,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-06-30"
+   "last-updated": "2026-01-05"
 }

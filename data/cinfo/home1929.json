@@ -6,21 +6,14 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution":
-      {"issue": {"issue-date": "1930-11"}},
-   "first-renewed-contribution-source": "1958-JanJun",
+     {"issue": {"issue-date": "1931-07"}}, 
+   "first-renewed-contribution-source": "1959-JanJun",
    "see-also": [
      {"id": "homejudson", "note": "Home (Judson Press)"},
      {"id": "homeuk", "note": "The Home Magazine (UK, 1918-1931)"}
    ],
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1930-11"}, 
-      "title": "Have We Lived Before This Life",
-      "author": {
-         "authorized": "Terhune, Albert Payson, 1872-1942",
-         "lcna": "n50009920"
-      }
-     },
      {"issue": {"issue-date": "1931-07"}, 
       "title": "The 101st Man",
       "author": {
@@ -204,9 +197,10 @@
       }
      }
    ],
+   "additional-note": "Active contribution renewals are recorded beginning in the 1958 July-December CCE volume, but the earliest renewed contribution is noted in the 1959 January-June volume.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-08-10"
+   "last-updated": "2026-01-10"
 }

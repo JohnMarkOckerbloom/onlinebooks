@@ -3,14 +3,14 @@
    "online": "1",
    "contents": [
       {"url": "https://www.jstor.org/journal/poetry",
-      "note": "JSTOR (full text also available; after 1929 may require subscription or payment)"}
+      "note": "JSTOR (full text also available; after 1930 may require subscription or payment)"}
    ],
    "first-renewed-issue": 
      {"issue-date": "1944-01", "volume": "63", "number": "4"},
    "first-renewed-issue-source": "1971",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1930-10"}}, 
-   "first-renewed-contribution-source": "1958-JulDec",
+     {"issue": {"issue-date": "1931-03"}},
+   "first-renewed-contribution-source": "1958-JanJun",
    "renewed-issue-completeness": "active/1949",
    "renewed-issues": [
      {"issue-date": "1944-01", "volume": "63", "number": "4"},
@@ -88,13 +88,6 @@
    "comment": "Pick up issue renewals in database.",
    "renewed-contribution-completeness": "active/1942",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1930-10"}, 
-      "title": "Three Sonnets: Women Have Loved Before; I Know My Mind; Even in the Moment",
-      "author": {
-       "authorized": "Millay, Edna St. Vincent, 1892-1950",
-       "lcna": "n79062746"
-      }
-     },
      {"issue": {"issue-date": "1931-03"},
       "title": "Lost Life",
       "author": {
@@ -1011,10 +1004,9 @@
      }
    ],
    "comment": "Pick up contributions with 1970 January-June",
-   "additional-note": "Active contribution renewals are recorded beginning in the 1958 January-June CCE volume, but the earliest contribution with an active copyright renewal is noted in the 1958 July-December volume.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-10-21"
+   "last-updated": "2026-01-09"
 }

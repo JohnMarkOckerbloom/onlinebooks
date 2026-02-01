@@ -7,40 +7,14 @@
       "note": "FictionMags"}
    ],
    "first-renewed-issue":
-      {"issue-date": "1930-02-15", "volume": "80", "number": "6",
-       "cdate": "1930-01-15"},
-   "first-renewed-issue-source": "1957-JanJun",
+      {"issue-date": "1931-02-01", "volume": "84", "number": "5",
+       "cdate": "1931-01-02"},
+   "first-renewed-issue-source": "1958-JanJun",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1930-03-01", "volume": "81", "number": "1"}},
-   "first-renewed-contribution-source": "1957-JanJun",
+     {"issue": {"issue-date": "1936-08", "volume": "99", "number": "2"}},
+   "first-renewed-contribution-source": "1964-JanJun",
    "renewed-issue-completeness": "active/1935",
    "renewed-issues": [
-      {"issue-date": "1930-02-15", "volume": "80", "number": "6",
-       "cdate": "1930-01-15"},
-      {"issue-date": "1930-03-01", "volume": "81", "number": "1"},
-      {"issue-date": "1930-03-15", "volume": "81", "number": "2"},
-      {"issue-date": "1930-04-01", "volume": "81", "number": "3"},
-      {"issue-date": "1930-04-15", "volume": "81", "number": "4"},
-      {"issue-date": "1930-05-01", "volume": "81", "number": "5"},
-      {"issue-date": "1930-05-15", "volume": "81", "number": "6"},
-      {"issue-date": "1930-06-01", "volume": "82", "number": "1"},
-      {"issue-date": "1930-06-15", "volume": "82", "number": "2"},
-      {"issue-date": "1930-07-01", "volume": "82", "number": "3"},
-      {"issue-date": "1930-07-15", "volume": "82", "number": "4"},
-      {"issue-date": "1930-08-01", "volume": "82", "number": "5"},
-      {"issue-date": "1930-08-15", "volume": "82", "number": "6"},
-      {"issue-date": "1930-09-01", "volume": "83", "number": "1"},
-      {"issue-date": "1930-09-15", "volume": "83", "number": "2"},
-      {"issue-date": "1930-10-01", "volume": "83", "number": "3"},
-      {"issue-date": "1930-10-15", "volume": "83", "number": "4"},
-      {"issue-date": "1930-11-01", "volume": "83", "number": "5"},
-      {"issue-date": "1930-11-15", "volume": "83", "number": "6"},
-      {"issue-date": "1930-12-01", "volume": "84", "number": "1"},
-      {"issue-date": "1930-12-15", "volume": "84", "number": "2"},
-      {"issue-date": "1931-01-01", "volume": "84", "number": "3",
-       "cdate": "1930-11-28"},
-      {"issue-date": "1931-01-15", "volume": "84", "number": "4",
-       "cdate": "1930-12-17"},
       {"issue-date": "1931-02-01", "volume": "84", "number": "5",
        "cdate": "1931-01-02"},
       {"issue-date": "1931-02-15", "volume": "84", "number": "6"},
@@ -145,13 +119,6 @@
    ],
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1930-03-01", "volume": "81", "number": "1"},
-      "title": "Midnight Justice",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
      {"issue": {"issue-date": "1936-08", "volume": "99", "number": "2"},
       "title": "Alias Killer Keene",
       "author": {
@@ -164,5 +131,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-07-14"
+   "last-updated": "2026-01-09"
 }

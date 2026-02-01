@@ -7,28 +7,14 @@
        "note": "FictionMags"}
    ],
    "first-renewed-issue":
-      {"issue-date": "1930-02", "series": "2", "volume": "1", "number": "3",
-       "cdate": "1930-02-01"},
-   "first-renewed-issue-source": "1957-JulDec",
+      {"issue-date": "1931-02", "series": "2", "volume": "4", "number": "3",
+       "cdate": "1931-01-31"},
+   "first-renewed-issue-source": "1958-JulDec",
    "first-renewed-contribution": 
-      {"issue": {"issue-date": "1930-08"}},
-   "first-renewed-contribution-source": "1958-JulDec",
+      {"issue": {"issue-date": "1934-03"}},
+   "first-renewed-contribution-source": "1961-JanJun",
    "renewed-issue-completeness": "active/1935",
    "renewed-issues": [
-      {"issue-date": "1930-02", "series": "2", "volume": "1", "number": "3",
-       "cdate": "1930-02-01"},
-      {"issue-date": "1930-03", "series": "2", "volume": "1", "number": "4"},
-      {"issue-date": "1930-04", "series": "2", "volume": "2", "number": "1"},
-      {"issue-date": "1930-05", "series": "2", "volume": "2", "number": "2"},
-      {"issue-date": "1930-06", "series": "2", "volume": "2", "number": "3"},
-      {"issue-date": "1930-07", "series": "2", "volume": "2", "number": "4"},
-      {"issue-date": "1930-08", "series": "2", "volume": "3", "number": "1"},
-      {"issue-date": "1930-09", "series": "2", "volume": "3", "number": "2"},
-      {"issue-date": "1930-10", "series": "2", "volume": "3", "number": "3"},
-      {"issue-date": "1930-11", "series": "2", "volume": "3", "number": "4"},
-      {"issue-date": "1930-12", "series": "2", "volume": "4", "number": "1"},
-      {"issue-date": "1931-01", "series": "2", "volume": "4", "number": "2",
-       "cdate": "1930-12-31"},
       {"issue-date": "1931-02", "series": "2", "volume": "4", "number": "3",
        "cdate": "1931-01-31"},
       {"issue-date": "1931-03", "series": "2", "volume": "4", "number": "4"},
@@ -121,5 +107,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-07-20"
+   "last-updated": "2026-01-07"
 }

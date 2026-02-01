@@ -3,26 +3,20 @@
    "online": "1",
    "contents": [
       {"url": "https://www.jstor.org/journal/militaryengineer",
-      "note": "JSTOR (full text also available; after 1929 may require subscription or payment)"}
+      "note": "JSTOR (full text also available; after 1930 may require subscription or payment)"}
    ],
    "preceded-by": [{"id": "profmemoirsace", "note": "Professional Memoirs"}],
    "first-issue":
      {"issue-date": "1920-January-February", "volume": "12", "number": "61"},
    "first-renewed-issue":
-     {"issue-date": "1930-January-February", "volume": "22", "number": "121"},
-   "first-renewed-issue-source": "1957-JanJun",
+     {"issue-date": "1931-January-February", "volume": "22", "number": "127"},
+   "first-renewed-issue-source": "1958-JanJun",
    "first-autorenewed-issue":
      {"issue-date": "1964-January-February", "volume": "56", "number": "369"},
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
    "renewed-issue-completeness": "active/1935",
    "renewed-issues": [
-     {"issue-date": "1930-January-February", "volume": "22", "number": "121"},
-     {"issue-date": "1930-March-April", "volume": "22", "number": "122"},
-     {"issue-date": "1930-May-June", "volume": "22", "number": "123"},
-     {"issue-date": "1930-July-August", "volume": "22", "number": "124"},
-     {"issue-date": "1930-September-October", "volume": "22", "number": "125"},
-     {"issue-date": "1930-November-December", "volume": "22", "number": "126"},
      {"issue-date": "1931-January-February", "volume": "22", "number": "127"},
      {"issue-date": "1931-March-April", "volume": "23", "number": "128"},
      {"issue-date": "1931-May-June", "volume": "23", "number": "129"},
@@ -64,5 +58,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-07-01"
+   "last-updated": "2026-01-06"
 }

@@ -2,28 +2,14 @@
    "title": "The Forum",
    "title-note": "American magazine, 1886-1930",
    "online": "1",
-   "first-renewed-issue": "none",
-   "first-renewed-issue-source": "cce",
-   "first-renewed-contribution":
-     {"issue": {"issue-date": "1930-04"}},
-   "first-renewed-contribution-source": "1957-JanJun",
+   "rights-statement": "NoC-US",
    "last-issue": {"issue-date": "1930-06", "volume": "83", "number": "6"}, 
    "succeeded-by": [{"id": "forumcentury", "note": "Forum and Century"}],
    "see-also":
      [{"id": "forum1945", "note": "The Forum (American magazine, 1945-1950)"}],
-   "renewed-contribution-completeness": "active/end",
-   "renewed-contributions": [
-     {"issue": {"issue-date": "1930-04"},
-      "title": "A Rose for Emily",
-      "author": {
-         "authorized": "Faulkner, William, 1897-1962",
-         "lcna": "n79003304"
-      }
-     }
-   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-01-01"
+   "last-updated": "2026-01-02"
 }

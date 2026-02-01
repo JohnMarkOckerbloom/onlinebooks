@@ -9,28 +9,14 @@
    "first-issue":
       {"issue-date": "1903-05", "volume": "1", "number": "1"},
    "first-renewed-issue":
-      {"issue-date": "1930-02", "volume": "54", "number": "4",
-       "cdate": "1930-01-12"},
-   "first-renewed-issue-source": "1957-JanJun",
+      {"issue-date": "1931-02", "volume": "56", "number": "4",
+       "cdate": "1931-01-05"},
+   "first-renewed-issue-source": "1958-JanJun",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1930-02", "volume": "54", "number": "4"}}, 
-   "first-renewed-contribution-source": "1957-JanJun",
+     {"issue": {"issue-date": "1931-02", "volume": "56", "number": "4"}},
+   "first-renewed-contribution-source": "1958-JulDec",
    "renewed-issue-completeness": "active/1935",
    "renewed-issues": [
-      {"issue-date": "1930-02", "volume": "54", "number": "4",
-       "cdate": "1930-01-12"},
-      {"issue-date": "1930-03", "volume": "54", "number": "5"},
-      {"issue-date": "1930-04", "volume": "54", "number": "6"},
-      {"issue-date": "1930-05", "volume": "55", "number": "1"},
-      {"issue-date": "1930-06", "volume": "55", "number": "2"},
-      {"issue-date": "1930-07", "volume": "55", "number": "3"},
-      {"issue-date": "1930-08", "volume": "55", "number": "4"},
-      {"issue-date": "1930-09", "volume": "55", "number": "5"},
-      {"issue-date": "1930-10", "volume": "55", "number": "6"},
-      {"issue-date": "1930-11", "volume": "56", "number": "1"},
-      {"issue-date": "1930-12", "volume": "56", "number": "2"},
-      {"issue-date": "1931-01", "volume": "56", "number": "3",
-       "cdate": "1930-12-05"},
       {"issue-date": "1931-02", "volume": "56", "number": "4",
        "cdate": "1931-01-05"},
       {"issue-date": "1931-03", "volume": "56", "number": "5"},
@@ -113,316 +99,21 @@
    ],
    "renewed-contribution-completeness": "active/1931",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1930-02", "volume": "54", "number": "4"}, 
-      "title": "The Murders on the Ship",
-      "title-note": "part 1 of 5",
-      "author": {
-       "authorized": "King, Rufus, 1893-1966",
-       "lcna": "no94027678"
-      }
-     },
-     {"issue": {"issue-date": "1930-02", "volume": "54", "number": "4"}, 
-      "title": "His Side of It",
-      "title-note": "part 2 of 6?",
-      "author": {
-       "authorized": "Banning, Margaret Culkin, 1891-1982",
-       "lcna": "n86086096"
-      }
-     },
-     {"issue": {"issue-date": "1930-02", "volume": "54", "number": "4"}, 
-      "title": "Heart of the North",
-      "title-note": "part 4 of 6",
-      "author": {
-       "authorized": "Mowery, William Byron, 1899-1957",
-       "lcna": "no95054799"
-      }
-     },
-     {"issue": {"issue-date": "1930-02", "volume": "54", "number": "4"}, 
-      "title": "Caprice of the Queen",
-      "note": "Issue as given in CCE renewal record.  FictionMags lists this story not in this issue, but in the January 1930 issue.",
-      "author": {
-       "authorized": "Squier, Emma-Lindsay, 1892-1941",
-       "lcna": "no2007059420"
-      }
-     },
-     {"issue": {"issue-date": "1930-03", "volume": "54", "number": "5"}, 
-      "title": "Some Day He'll Come Along",
-      "note": "Title as given on cover.  CCE renewal record gives title as 'Someday He'll Come Along'.",
-      "author": {
-       "authorized": "Duganne, Phyllis, 1899-1976",
-       "lcna": "n90719514"
-      }
-     },
-     {"issue": {"issue-date": "1930-03", "volume": "54", "number": "5"}, 
-      "title": "The Murders on the Ship",
-      "title-note": "part 2 of 5",
-      "author": {
-       "authorized": "King, Rufus, 1893-1966",
-       "lcna": "no94027678"
-      }
-     },
-     {"issue": {"issue-date": "1930-03", "volume": "54", "number": "5"}, 
-      "title": "His Side of It",
-      "title-note": "part 3 of 6?",
-      "author": {
-       "authorized": "Banning, Margaret Culkin, 1891-1982",
-       "lcna": "n86086096"
-      }
-     },
-     {"issue": {"issue-date": "1930-03", "volume": "54", "number": "5"}, 
-      "title": "Heart of the North",
-      "title-note": "part 5 of 6",
-      "author": {
-       "authorized": "Mowery, William Byron, 1899-1957",
-       "lcna": "no95054799"
-      }
-     },
-     {"issue": {"issue-date": "1930-04", "volume": "54", "number": "6"}, 
-      "title": "The Auctioning of Mary Angel",
-      "title-note": "part 1 of 6",
-      "author": {
-       "authorized": "Dawson, Coningsby, 1883-1959",
-       "lcna": "n83230982"
-      }
-     },
-     {"issue": {"issue-date": "1930-04", "volume": "54", "number": "6"}, 
-      "title": "The Murders on the Ship",
-      "title-note": "part 3 of 5",
-      "author": {
-       "authorized": "King, Rufus, 1893-1966",
-       "lcna": "no94027678"
-      }
-     },
-     {"issue": {"issue-date": "1930-04", "volume": "54", "number": "6"}, 
-      "title": "Kitchenette",
-      "author": {
-       "authorized": "Kantor, MacKinlay, 1904-1977",
-       "lcna": "n79140979"
-      }
-     },
-     {"issue": {"issue-date": "1930-04", "volume": "54", "number": "6"}, 
-      "title": "Heart of the North",
-      "title-note": "part 6 of 6",
-      "author": {
-       "authorized": "Mowery, William Byron, 1899-1957",
-       "lcna": "no95054799"
-      }
-     },
-     {"issue": {"issue-date": "1930-05", "volume": "55", "number": "1"}, 
-      "title": "They Thought They Could Buy It",
-      "title-note": "part 1 of 6",
-      "author": {
-       "authorized": "Carman, Dorothy Walworth, 1900-1953",
-       "lcna": "no95060114"
-      }
-     },
-     {"issue": {"issue-date": "1930-05", "volume": "55", "number": "1"}, 
-      "title": "The Straightline Story",
-      "note": "Title as given in CCE renewal record. FictionMags gives title as 'Straight Line Story'.",
-      "author": {
-       "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
-       "lcna": "no90021257"
-      }
-     },
-     {"issue": {"issue-date": "1930-05", "volume": "55", "number": "1"}, 
-      "title": "The Auctioning of Mary Angel",
-      "title-note": "part 2 of 6",
-      "author": {
-       "authorized": "Dawson, Coningsby, 1883-1959",
-       "lcna": "n83230982"
-      }
-     },
-     {"issue": {"issue-date": "1930-05", "volume": "55", "number": "1"}, 
-      "title": "No Such Person",
-      "author": {
-       "authorized": "Duganne, Phyllis, 1899-1976",
-       "lcna": "n90719514"
-      }
-     },
-     {"issue": {"issue-date": "1930-05", "volume": "55", "number": "1"}, 
-      "title": "The Murders on the Ship",
-      "title-note": "part 4 of 5",
-      "author": {
-       "authorized": "King, Rufus, 1893-1966",
-       "lcna": "no94027678"
-      }
-     },
-     {"issue": {"issue-date": "1930-05", "volume": "55", "number": "1"}, 
-      "title": "His Side of It",
-      "title-note": "part 5 of 6?",
-      "author": {
-       "authorized": "Banning, Margaret Culkin, 1891-1982",
-       "lcna": "n86086096"
-      }
-     },
-     {"issue": {"issue-date": "1930-06", "volume": "55", "number": "2"}, 
-      "title": "Alibis for Two",
-      "author": {
-       "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
-       "lcna": "no90021257"
-      }
-     },
-     {"issue": {"issue-date": "1930-06", "volume": "55", "number": "2"}, 
-      "title": "The Auctioning of Mary Angel",
-      "title-note": "part 3 of 6",
-      "author": {
-       "authorized": "Dawson, Coningsby, 1883-1959",
-       "lcna": "n83230982"
-      }
-     },
-     {"issue": {"issue-date": "1930-06", "volume": "55", "number": "2"}, 
-      "title": "They Thought They Could Buy It",
-      "title-note": "part 2 of 6",
-      "author": {
-       "authorized": "Carman, Dorothy Walworth, 1900-1953",
-       "lcna": "no95060114"
-      }
-     },
-     {"issue": {"issue-date": "1930-06", "volume": "55", "number": "2"}, 
-      "title": "The Murders on the Ship",
-      "title-note": "part 5 of 5",
-      "author": {
-       "authorized": "King, Rufus, 1893-1966",
-       "lcna": "no94027678"
-      }
-     },
-     {"issue": {"issue-date": "1930-06", "volume": "55", "number": "2"}, 
-      "title": "A Turn in Luck",
-      "note": "Renewed under the author's married name, Bernice Brown Brush.",
-      "author": {
-       "name": "Bernice Brown"
-      }
-     },
-     {"issue": {"issue-date": "1930-06", "volume": "55", "number": "2"}, 
-      "title": "His Side of It",
-      "title-note": "part 6 of 6?",
-      "note": "CCE renewal record has the story ending in this issue, and does not include part 4 from the April issue.  The May installment, however, appears to be the last one.",
-      "author": {
-       "authorized": "Banning, Margaret Culkin, 1891-1982",
-       "lcna": "n86086096"
-      }
-     },
-     {"issue": {"issue-date": "1930-07", "volume": "55", "number": "3"}, 
-      "title": "The Party at the Palace",
-      "author": {
-       "authorized": "Adams, Frank R. (Frank Ramsay), 1883-1963",
-       "lcna": "no90021257"
-      }
-     },
-     {"issue": {"issue-date": "1930-07", "volume": "55", "number": "3"}, 
-      "title": "They Thought They Could Buy It",
-      "title-note": "part 3 of 6",
-      "author": {
-       "authorized": "Carman, Dorothy Walworth, 1900-1953",
-       "lcna": "no95060114"
-      }
-     },
-     {"issue": {"issue-date": "1930-07", "volume": "55", "number": "3"}, 
-      "title": "The Auctioning of Mary Angel",
-      "title-note": "part 4 of 6",
-      "author": {
-       "authorized": "Dawson, Coningsby, 1883-1959",
-       "lcna": "n83230982"
-      }
-     },
-     {"issue": {"issue-date": "1930-08", "volume": "55", "number": "4"}, 
-      "title": "They Thought They Could Buy It",
-      "title-note": "part 4 of 6",
-      "author": {
-       "authorized": "Carman, Dorothy Walworth, 1900-1953",
-       "lcna": "no95060114"
-      }
-     },
-     {"issue": {"issue-date": "1930-08", "volume": "55", "number": "4"}, 
-      "title": "The Auctioning of Mary Angel",
-      "title-note": "part 5 of 6",
-      "author": {
-       "authorized": "Dawson, Coningsby, 1883-1959",
-       "lcna": "n83230982"
-      }
-     },
-     {"issue": {"issue-date": "1930-09", "volume": "55", "number": "5"}, 
-      "title": "They Thought They Could Buy It",
-      "title-note": "part 5 of 6",
-      "author": {
-       "authorized": "Carman, Dorothy Walworth, 1900-1953",
-       "lcna": "no95060114"
-      }
-     },
-     {"issue": {"issue-date": "1930-09", "volume": "55", "number": "5"}, 
-      "title": "The Auctioning of Mary Angel",
-      "title-note": "part 6 of 6",
-      "author": {
-       "authorized": "Dawson, Coningsby, 1883-1959",
-       "lcna": "n83230982"
-      }
-     },
-     {"issue": {"issue-date": "1930-10", "volume": "55", "number": "6"}, 
-      "title": "They Thought They Could Buy It",
-      "title-note": "part 6 of 6",
-      "author": {
-       "authorized": "Carman, Dorothy Walworth, 1900-1953",
-       "lcna": "no95060114"
-      }
-     },
-     {"issue": {"issue-date": "1930-11", "volume": "56", "number": "1"},
-       "title": "The Reckless Adventures of Lydia Grey",
-       "author": {
-        "authorized": "Roche, Arthur Somers, 1883-1935",
-        "lcna": "no89021623"
-       }
-     },
-     {"issue": {"issue-date": "1930-11", "volume": "56", "number": "1"},
-      "title": "Ten Years",
-      "note": "Renewed under the author's married name, Bernice Brown Brush.",
-      "author": {
-       "name": "Bernice Brown"
-      }
-     },
-     {"issue": {"issue-date": "1930-11", "volume": "56", "number": "1"},
-      "title": "Clinical Case No. 147",
-      "author": {
-       "authorized": "Johnson, Nunnally",
-       "lcna": "n79134929"
-      }
-     },
-     {"issue": {"issue-date": "1930-12", "volume": "56", "number": "2"}, 
-       "title": "The Rakmanoff Ruby",
-       "author": {
-        "authorized": "Roche, Arthur Somers, 1883-1935",
-        "lcna": "no89021623"
-       }
-     },
-     {"issue": {"issue-date": "1931-01", "volume": "56", "number": "3"}, 
-      "title": "Prodigal's Return",
-      "note": "Title as given in CCE renewal record.  FictionMags gives title as 'The Return of the Prodigal'.  We have not examined the issue in question.",
-      "author": {
-       "authorized": "Duganne, Phyllis, 1899-1976",
-       "lcna": "n90719514"
-      }
-     },
-     {"issue": {"issue-date": "1931-01", "volume": "56", "number": "3"}, 
-       "title": "The Private Detective",
-       "author": {
-        "authorized": "Roche, Arthur Somers, 1883-1935",
-        "lcna": "no89021623"
-       }
-     },
-     {"issue": {"issue-date": "1931-02", "volume": "57", "number": "4"},
+     {"issue": {"issue-date": "1931-02", "volume": "56", "number": "4"},
        "title": "The King of Swindlers",
        "author": {
         "authorized": "Roche, Arthur Somers, 1883-1935",
         "lcna": "no89021623"
        }
      },
-     {"issue": {"issue-date": "1931-03", "volume": "57", "number": "5"},
+     {"issue": {"issue-date": "1931-03", "volume": "56", "number": "5"},
       "title": "Cured",
       "author": {
        "authorized": "Lardner, Ring, 1885-1933",
        "lcna": "n79023324"
       }
      },
-     {"issue": {"issue-date": "1931-03", "volume": "57", "number": "5"},
+     {"issue": {"issue-date": "1931-03", "volume": "56", "number": "5"},
        "title": "I Couldn't Face It",
        "author": {
         "authorized": "Roche, Arthur Somers, 1883-1935",
@@ -844,9 +535,10 @@
      }
    ],
    "comment": "Pick up contributor sweep with 1960 Jan-Jun",
+   "additional-note": "Active contribution renewals are recorded beginning in the 1958 January-June CCE volume, but the earliest actively renewed contribution is noted in the 1958 July-December volume.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-10-21"
+   "last-updated": "2026-01-07"
 }

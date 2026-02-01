@@ -1,19 +1,14 @@
 {
    "title": "Vogue Dressmaking",
-   "first-renewed-issue": {"issue-date": "1930-May-June"},
-   "first-renewed-issue-source": "1957-JulDec",
+   "aka": ["Vogue's Book of Smart Dressmaking"],
+   "first-renewed-issue": {"cdate": "1936"},
+   "first-renewed-issue-source": "1963-JanJun",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
-   "renewed-issue-completeness": "active/1931",
-   "renewed-issues": [
-      {"issue-date": "1930-May-June"},
-      {"issue-date": "1930-July-August"},
-      {"issue-date": "1930-September-October"},
-      {"issue-date": "1930-November-December"}
-   ],
+   "additional-note": "Vogue's dressmaking publications are challenging to track, but sometimes appear to have been published as periodical issues, and sometimes appear to have been issued as books.  The earliest active renewed copyright for a Vogue dresssmaking publication we can find as of 2026 is for 'Vogue's Book of Smart Dressmaking', copyrighted in 1936 and renewed as a book.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-11-24"
+   "last-updated": "2026-01-09"
 }

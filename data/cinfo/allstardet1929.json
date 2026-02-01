@@ -10,48 +10,17 @@
      {"issue-date": "1929-10", "volume": "9", "number": "3"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
-   "first-renewed-contribution": 
-     {"issue": {"issue-date": "1930-05", "volume": "11", "number": "2"}},
-   "first-renewed-contribution-source": "1957-JulDec",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce",
    "last-issue":
      {"issue-date": "1932-06", "volume": "15", "number": "4"},
    "see-also":
      [{"id": "allstardet1941",
        "note": "All Star Detective (Manvis Publications, 1941-1942)"}],
    "renewed-contribution-completeness": "active/end",
-   "renewed-contributions": [
-     {"issue": {"issue-date": "1930-05", "volume": "11", "number": "2"},
-      "title": "An Adventure in Crime",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1930-09", "volume": "12", "number": "2"},
-      "title": "Thumbs Down",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1930-11", "volume": "12", "number": "4"},
-      "title": "Rollicking Rogue",
-      "author": {
-         "authorized": "McCulley, Johnston, 1883-1958",
-         "lcna": "n87139122"
-       }
-     },
-     {"issue": {"issue-date": "1931-02", "volume": "13", "number": "3"},
-      "title": "Coffins for Six",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     }
-   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-01-01"
+   "last-updated": "2026-01-01"
 }

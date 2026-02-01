@@ -150,7 +150,7 @@ sub showpools {
   # print "(Due to technical issues, we may need to delay action on submissions involving online books at HathiTrust.)"
   # print "(Due to the editor's recent travels, we may take longer than usual to reply as we catch up on submissions.)"
   # print "(New additions may not appear until the next daily update.)"
-  print "(Most submitters get listings or acknowledgements within a few business days.  Bulk and anonymous submissions may take longer to process, as may submissions for books not in English.)";
+  print "(Most submitters get listings or acknowledgements within a few business days.  Bulk and anonymous submissions may take longer to process, as may submissions for books not in English. Anonymous bulk submissions may be deferred or discarded partially or entirely, at the editor's discretion.)";
 }
 
 # stripspace removes interior newlines, excess spaces, leading and trailing

@@ -9,26 +9,11 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1930-02", "volume": "11", "number": "62"}},
-   "first-renewed-contribution-source": "1957-JanJun",
+     {"issue": {"issue-date": "1931-07", "volume": "13", "number": "79"}}, 
+   "first-renewed-contribution-source": "1958-JulDec",
    "last-issue": {"issue-date": "1935-09", "volume": "22", "number": "129"},
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1930-02", "volume": "11", "number": "62"},
-      "title": "Lies",
-      "author": {
-         "authorized": "Molnár, Ferenc, 1878-1952",
-         "lcna": "n79075547"
-       }
-     },
-     {"issue": {"issue-date": "1930-04", "volume": "11", "number": "64"}, 
-      "title": "Mr. Bishee's Princess",
-      "note": "Title as given in CCE renewal record. FictionMags gives title as 'Mr. Bisbee's Princess'.  I have not examined the issue in question.",
-      "author": {
-         "authorized": "Street, Julian, 1879-1947",
-         "lcna": "n86114725"
-       }
-     },
      {"issue": {"issue-date": "1931-07", "volume": "13", "number": "79"}, 
       "title": "Pigs in the Castle",
       "author": {
@@ -135,5 +120,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-01-05"
+   "last-updated": "2026-01-05"
 }

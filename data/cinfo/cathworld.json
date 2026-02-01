@@ -4,17 +4,10 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1930-02"}},
-   "first-renewed-contribution-source": "1958-JanJun",
+     {"issue": {"issue-date": "1946-09"}},
+   "first-renewed-contribution-source": "1973-JulDec",
    "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1930-02"}, 
-      "title": "Papaya",
-      "author": {
-       "authorized": "Connolly, James B. (James Brendan), 1868-1957",
-       "lcna": "no90002215"
-      }
-     },
      {"issue": {"issue-date": "1946-09"},
         "title": "Beggar of St. Jude",
         "author": {
@@ -62,5 +55,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-01-09"
+   "last-updated": "2026-01-03"
 }

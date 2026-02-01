@@ -5,26 +5,11 @@
       {"issue-date": "1927-09", "volume": "1", "number": "1"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
-   "first-renewed-contribution": {"issue": {"issue-date": "1930-April-June"}},
-   "first-renewed-contribution-source": "1957-JanJun",
+   "first-renewed-contribution": {"issue": {"issue-date": "1931-April-June"}},
+   "first-renewed-contribution-source": "1959-JanJun",
    "last-issue":
       {"issue-date": "1934-July/September", "volume": "7", "number": "4"},
-   "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1930-April-June"},
-      "title": "Ambergris",
-      "author": {
-       "authorized": "Kunitz, Stanley, 1905-2006",
-       "lcna": "n79007720"
-      }
-     },
-     {"issue": {"issue-date": "1930-October-December"},
-        "title": "The Automobile That Wouldn't Run",
-        "author": {
-         "authorized": "Caldwell, Erskine, 1903-1987",
-         "lcna": "n78095661"
-        }
-     },
      {"issue": {"issue-date": "1931-April-June"},
         "title": "Stood at the Closed Door, and Remembered; Nothing to Say, You Say?  Then We'll Say Nothing; Rimbaud and Verlaine, Precious Pair of Poets; The Dead Man Spoke to Me and Turned a Page",
         "author": {
@@ -44,11 +29,20 @@
         "author": {
           "name": "Merle Hoyleman"
         }
+     },
+     {"issue": {"issue-date": "1932-January-March"},
+      "title": "1919",
+      "note": "No renewal was filed specifically for this contribution, which consists of excerpts from the novel, but there is an active 1932 copyright for the novel published as a book.",
+      "author": {
+         "authorized": "Dos Passos, John, 1896-1970",
+         "lcna": "n80001431"
+      }
      }
    ],
+   "additional-note": "We have included all active contribution renewals specifically mentioning this magazine.  The magazine sometimes included excerpts or reprints from other publications, some of which might still have active copyrights.  We have not systematically surveyed for such contributions.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-05-20"
+   "last-updated": "2026-01-05"
 }

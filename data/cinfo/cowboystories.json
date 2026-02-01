@@ -9,8 +9,8 @@
       {"issue-date": "1933-11", "volume": "24", "number": "5"},
    "first-renewed-issue-source": "1960-JulDec",
    "first-renewed-contribution": 
-      {"issue": {"issue-date": "1930-11", "volume": "19", "number": "1"}},
-   "first-renewed-contribution-source": "1958-JulDec",
+      {"issue": {"issue-date": "1931-05", "volume": "20", "number": "3"}},
+   "first-renewed-contribution-source": "1959-JanJun",
    "last-issue":
       {"issue-date": "1937-12", "volume": "32", "number": "4"},
    "renewed-issue-completeness": "active/end",
@@ -75,13 +75,6 @@
    ],
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1930-11", "volume": "19", "number": "1"},
-      "title": "Col. Colt's Challenge",
-      "author": {
-         "authorized": "Parkhill, Forbes, 1892-1974",
-         "lcna": "nr95030515"
-      }
-     },
      {"issue": {"issue-date": "1931-05", "volume": "20", "number": "3"},
       "title": "Desperation Drive",
       "author": {
@@ -176,5 +169,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-11-07"
+   "last-updated": "2026-01-04"
 }

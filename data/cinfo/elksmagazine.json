@@ -5,92 +5,17 @@
       {"url": "http://www.philsp.com/homeville/FMI/link.asp?magid=ELK",
        "note": "FictionMags (most issues through 1935)"}
    ],
-   "first-renewed-issue": 
-     {"issue-date": "1930-09", "volume": "9", "number": "4"},
-   "first-renewed-issue-source": "1958-JulDec",
+   "first-renewed-issue":  "none",
+   "first-renewed-issue-source": "cce+database",
    "first-autorenewed-issue": 
      {"issue-date": "1964-02", "volume": "42", "number": "9",
       "cdate": "1964-01-25"},
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1930-03", "volume": "8", "number": "10"}},
-   "first-renewed-contribution-source": "1957-JulDec",
+     {"issue": {"issue-date": "1931-11", "volume": "10", "number": "6"}}, 
+   "first-renewed-contribution-source": "1959-JanJun",
    "renewed-issue-completeness": "active/autorenewals",
-   "renewed-issues": [
-     {"issue-date": "1930-09", "volume": "9", "number": "4"}
-   ],
    "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1930-03", "volume": "8", "number": "10"},
-      "title": "Seventh Son",
-      "author": {
-         "authorized": "Terhune, Albert Payson, 1872-1942",
-         "lcna": "n50009920"
-      }
-     },
-     {"issue": {"issue-date": "1930-05", "volume": "8", "number": "12"},
-      "title": "Little Go-Lightly",
-      "author": {
-       "authorized": "Benét, Stephen Vincent, 1898-1943",
-       "lcna": "n50007691"
-      }
-     },
-     {"issue": {"issue-date": "1930-06", "volume": "9", "number": "1"},
-      "title": "There is a Tide",
-      "author": {
-       "authorized": "Davis, Elmer, 1890-1958",
-       "lcna": "n50035523"
-      }
-     },
-     {"issue": {"issue-date": "1930-06", "volume": "9", "number": "1"},
-      "title": "New Wings for America",
-      "author": {
-       "authorized": "Poole, Ernest, 1880-1950",
-       "lcna": "n88071985"
-      }
-     },
-     {"issue": {"issue-date": "1930-06", "volume": "9", "number": "1"},
-      "title": "The Miracle Man of the Turf",
-      "author": {
-       "authorized": "O’Donnell, Jack, 1886-1965",
-       "lcna": "no89005464"
-      }
-     },
-     {"issue": {"issue-date": "1930-09", "volume": "9", "number": "4"},
-      "title": "The Quest of Sir Thomas",
-      "author": {
-       "authorized": "Connolly, James B. (James Brendan), 1868-1957",
-       "lcna": "no90002215"
-      }
-     },
-     {"issue": {"issue-date": "1930-10", "volume": "9", "number": "5"}, 
-      "title": "When is a Playwright?",
-       "author": {
-         "name": "John Chapman"
-       }
-     },
-     {"issue": {"issue-date": "1930-10", "volume": "9", "number": "5"}, 
-        "title": "Pride of India",
-        "authors": [
-           {"authorized": "Peattie, Donald Culross, 1898-1964",
-            "lcna": "n80023580"},
-           {"authorized": "Peattie, Louise Redfield, 1900-1965",
-            "lcna": "no93028235"}
-        ]
-     },
-     {"issue": {"issue-date": "1930-10", "volume": "9", "number": "5"}, 
-      "title": "Adventure",
-      "author": {
-       "authorized": "Williams, Ben Ames, 1889-1953",
-       "lcna": "n80006285"
-      }
-     },
-     {"issue": {"issue-date": "1930-12", "volume": "9", "number": "7"},
-      "title": "A Plea for Bad Golf",
-       "author": {
-         "authorized": "Beach, Rex, 1877-1949",
-         "lcna": "n84804866"
-       }
-     },
      {"issue": {"issue-date": "1931-11", "volume": "10", "number": "6"}, 
       "title": "Possible Johnny",
       "author": {
@@ -389,10 +314,10 @@
         }
      }
    ],
-   "additional-note": "Active contribution renewals are recorded beginning in the 1957 January-June CCE volume, but the earliest actively renewed contribution is noted in the 1957 July-December volume.",
+   "additional-note": "Active contribution renewals are recorded beginning in the 1958 July-December CCE volume, but the earliest actively renewed contribution is noted in the 1959 January-June volume.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-01-11"
+   "last-updated": "2026-01-04"
 }

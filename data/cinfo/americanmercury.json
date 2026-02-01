@@ -4,29 +4,17 @@
    "online": "1",
    "first-issue": {"issue-date": "1924-01", "volume": "1", "number": "1"},
    "first-renewed-issue": 
-       {"issue-date": "1930-02", "volume": "19", "number": "74",
-        "cdate": "1930-01-24"},
-   "first-renewed-issue-source": "1958-JanJun",
+       {"issue-date": "1931-02", "volume": "22", "number": "86",
+        "cdate": "1931-01-23"},
+   "first-renewed-issue-source": "1959-JanJun",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1930-02", "volume": "19", "number": "74"}},
-   "first-renewed-contribution-source": "1957-JanJun",
+     {"issue": {"issue-date": "1931-02", "volume": "22", "number": "86"}},
+   "first-renewed-contribution-source": "1958-JulDec",
    "see-also": [{"id": "americana1925", "note": "Americana"}],
    "renewed-issue-completeness": "active/autorenewals",
    "renewed-issues": [
-       {"issue-date": "1930-02", "volume": "19", "number": "74",
-        "cdate": "1930-01-24"},
-       {"issue-date": "1930-03", "volume": "19", "number": "75"},
-       {"issue-date": "1930-04", "volume": "19", "number": "76"},
-       {"issue-date": "1930-05", "volume": "20", "number": "77"},
-       {"issue-date": "1930-06", "volume": "20", "number": "78"},
-       {"issue-date": "1930-07", "volume": "20", "number": "79"},
-       {"issue-date": "1930-08", "volume": "20", "number": "80"},
-       {"issue-date": "1930-09", "volume": "21", "number": "81"},
-       {"issue-date": "1930-10", "volume": "21", "number": "82"},
-       {"issue-date": "1930-11", "volume": "21", "number": "83"},
-       {"issue-date": "1930-12", "volume": "21", "number": "84"},
-       {"issue-date": "1931-01", "volume": "22", "number": "85"},
-       {"issue-date": "1931-02", "volume": "22", "number": "86"},
+       {"issue-date": "1931-02", "volume": "22", "number": "86",
+        "cdate": "1931-01-23"},
        {"issue-date": "1931-03", "volume": "22", "number": "87"},
        {"issue-date": "1931-04", "volume": "22", "number": "88"},
        {"issue-date": "1931-05", "volume": "23", "number": "89"},
@@ -68,63 +56,6 @@
    ],
    "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1930-02"},
-        "title": "The Twilight Legislatures",
-        "author": {
-         "authorized": "Nickerson, Hoffman",
-         "lcna": "n94039709"
-        }
-     },
-     {"issue": {"issue-date": "1930-05"},
-        "title": "Frank Leslie",
-        "note": "Author is Fulton Oursler writing under a pseudonym.",
-        "author": {
-         "authorized": "Abbot, Anthony, 1893-1952",
-         "lcna": "no96008114"
-        }
-     },
-     {"issue": {"issue-date": "1930-06"},
-        "title": "Elective Monarchy in America",
-        "author": {
-         "authorized": "Nickerson, Hoffman",
-         "lcna": "n94039709"
-        }
-     },
-     {"issue": {"issue-date": "1930-07"},
-      "title": "Honor",
-      "author": {
-         "authorized": "Faulkner, William, 1897-1962",
-         "lcna": "n79003304"
-      }
-     },
-     {"issue": {"issue-date": "1930-10"},
-      "title": "They Come Bearing Gifts",
-      "author": {
-       "authorized": "Anderson, Sherwood, 1876-1941",
-       "lcna": "n79045519"
-      }
-     },
-     {"issue": {"issue-date": "1930-12"},
-      "title": "Lodge Doctor",
-      "author": {
-         "name": "Louis Gold",
-         "using": "Lewis G. Arrowsmith"
-      }
-     },
-     {"issue": {"issue-date": "1931-01"},
-      "title": "The Young Doctor in New York",
-      "author": {
-         "name": "Louis Gold",
-         "using": "Lewis G. Arrowsmith"
-      }
-     },
-     {"issue": {"issue-date": "1931-01"},
-      "title": "Shakespeare's New England",
-      "author": {
-       "authorized": "Yorke, Dane, 1889-",
-       "lcna": "no2001008155"
-      }
-     },
      {"issue": {"issue-date": "1931-02"},
       "title": "Evacuation Hospital",
       "author": {
@@ -1260,11 +1191,13 @@
       }
      }
    ],
-   "additional-note": 
-      "This magazine published as New American Mercury for a short time in the early 1950s.",
+   "additional-notes": [
+      "Active contribution renewals are recorded beginning in the 1958 January-June CCE volume, but the earliest renewed contribution is noted in the 1958 July-December volume.",
+      "This magazine published as New American Mercury for a short time in the early 1950s."
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-01-01"
+   "last-updated": "2026-01-02"
 }

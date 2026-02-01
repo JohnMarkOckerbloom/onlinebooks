@@ -1,8 +1,9 @@
 {
    "title": "Abbott New York Digest",
    "first-renewed-issue": 
-       {"volume": "24-26", "cdate": "1930-01-27"},
-   "first-renewed-issue-source": "1957-JanJun",
+       {"issue-date": "1930",
+        "volume": "1-40 consolidated", "cdate": "1931-02-14"},
+   "first-renewed-issue-source": "1958-JulDec",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
    "see-also": [
@@ -12,12 +13,12 @@
      {"id": "nydigest", "note": "New York Digest"}
    ],
    "additional-notes": [
-     "This publication may be related to Abbott's Digest of All the New York Reports, and to New York Digest, though we are not certain about the exact relationship.",
+     "This publication may be related to Abbott's Digest of All the New York Reports, and to New York Digest, though we are not certain about the exact relationship. Renewals were filed for multiple 'consolidated' editions; the cumulative pocket parts for 1930 represents the earliest coverage with an active renewal, though there are also cumulative quarterly pamphlets for 1931 and onward with active renewals.",
      "Issues of this serial are renewed under Books rather than under Periodicals in CCE."
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-01-01"
+   "last-updated": "2026-01-03"
 }

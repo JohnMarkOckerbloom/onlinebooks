@@ -1,13 +1,72 @@
 {
    "title": "Pagany",
+   "online": "1",
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/FMI/link.asp?magid=PAGNY",
+       "note": "FictionMags (partial)"}
+   ],
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1930-January-March"}},
-   "first-renewed-contribution-source": "1957-JanJun",
+     {"issue": {"issue-date": "1931-January-March"}},
+   "first-renewed-contribution-source": "1958-JanJun",
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1931-January-March"},
+       "title": "Hours Before Eternity",
+       "author": {
+         "authorized": "Caldwell, Erskine, 1903-1987",
+         "lcna": "n78095661"
+       }
+     },
+     {"issue": {"issue-date": "1931-October-December"},
+       "title": "The Empty Room",
+       "author": {
+         "authorized": "Caldwell, Erskine, 1903-1987",
+         "lcna": "n78095661"
+       }
+     },
+     {"issue": {"issue-date": "1932-January-March"},
+       "title": "Warm River",
+       "author": {
+         "authorized": "Caldwell, Erskine, 1903-1987",
+         "lcna": "n78095661"
+       }
+     },
+     {"issue": {"issue-date": "1932-January-March"},
+      "title": "Nella",
+      "note": "The issue is labeled 'Winter 1932' in this contribution's CCE renewal record.",
+      "author": {
+        "authorized": "Derleth, August, 1909-1971",
+        "lcna": "n50002948"
+        }
+     },
+     {"issue": {"issue-date": "1932-April-June"},
+       "title": "After-Image",
+       "author": {
+         "authorized": "Caldwell, Erskine, 1903-1987",
+         "lcna": "n78095661"
+       }
+     },
+     {"issue": {"issue-date": "1932-July-September"},
+       "title": "The First Autumn",
+       "author": {
+         "authorized": "Caldwell, Erskine, 1903-1987",
+         "lcna": "n78095661"
+       }
+     },
+     {"issue": {"issue-date": "1932-July-September"},
+      "title": "Five Alone",
+      "note": "The issue is labeled 'Summer 1932' in this contribution's CCE renewal record.",
+      "author": {
+        "authorized": "Derleth, August, 1909-1971",
+        "lcna": "n50002948"
+        }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-09-27"
+   "last-updated": "2026-01-06"
 }

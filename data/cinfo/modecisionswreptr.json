@@ -4,21 +4,13 @@
      {"id": "swreporter", "note": "Southwestern Reporter"}
    ],
    "first-renewed-issue":
-      {"issue-date": "October 1929 - February 1930",
-         "series": "2", "volume": "20-22"},
-   "first-renewed-issue-source": "1957-JulDec",
+      {"issue-date": "October 1930 - January 1931",
+         "series": "2", "volume": "31-32"},
+   "first-renewed-issue-source": "1958-JanJun",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
-   "renewed-issue-completeness": "active/1931",
+   "renewed-issue-completeness": "active/1932",
    "renewed-issues": [
-      {"issue-date": "October 1929 - February 1930",
-         "series": "2", "volume": "20-22"},
-      {"issue-date": "1930-February - April",
-         "series": "2", "volume": "23-24"},
-      {"issue-date": "1930-April - June",
-         "series": "2", "volume": "25-27"},
-      {"issue-date": "1930-July - October",
-         "series": "2", "volume": "28-30"},
       {"issue-date": "October 1930 - January 1931",
          "series": "2", "volume": "31-32"},
       {"issue-date": "1931-January - March",
@@ -32,7 +24,19 @@
       {"issue-date": "1932-January - March",
          "series": "2", "volume": "44-45"},
       {"issue-date": "1932-March - May",
-         "series": "2", "volume": "46-47"}
+         "series": "2", "volume": "46-47"},
+      {"issue-date": "1932-May - June",
+         "series": "2", "volume": "48-49"},
+      {"issue-date": "1932-July - September",
+         "series": "2", "volume": "50-51"},
+      {"issue-date": "1932-September - December", "cdate": "1933-02-20",
+         "series": "2", "volume": "52-53"},
+      {"issue-date": "December 1932 - February 1933",
+         "series": "2", "volume": "54-55"},
+      {"issue-date": "1933-February - April",
+         "series": "2", "volume": "56-57"},
+      {"issue-date": "1933-April - June",
+         "series": "2", "volume": "58-59"}
    ],
    "additional-note":
     "Many volumes of this law reporter, like the volumes of Southwestern Reporter from which these decisions are extracted, were renewed as books, though some were renewed as periodicals.",
@@ -40,5 +44,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-01-05"
+   "last-updated": "2026-01-01"
 }

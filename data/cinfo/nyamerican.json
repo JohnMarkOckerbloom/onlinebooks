@@ -4,8 +4,8 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1930-01-01"}}, 
-   "first-renewed-contribution-source": "1957-JanJun",
+     {"issue": {"issue-date": "1931-01-25"}}, 
+   "first-renewed-contribution-source": "1958-JulDec",
    "last-issue": {"issue-date": "1937-06-24"},
    "succeeded-by":
       [{"id": "nyjnlamerican", "note": "New York Journal-American"}],
@@ -13,52 +13,6 @@
       [{"id": "amweeklysunday", "note": "American Weekly Sunday Magazine"}],
    "renewed-contribution-completeness": "active/1935",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1930-January 1 - October 11,"}, 
-      "title": "The Science of Life",
-      "note": "Exact issues not specified in CCE renewal record, though it says 'except Sundays'.   Some 1929 copyright dates with AI- registration numbers are given in this record, implying that installments may have been published abroad before they appeared in the New York American.",
-      "authors": [
-        {"authorized": "Wells, H. G. (Herbert George), 1866-1946",
-        "lcna": "n79063613"},
-        {"authorized": "Huxley, Julian, 1887-1975",
-        "lcna": "n80057245"},
-        {"authorized": "Wells, G. P. (George Philip)",
-        "lcna": "n84135381"}
-      ]
-     },
-     {"issue": {"issue-date": "1930-January 12 - February 2,"},
-      "title": "Trackless Death",
-      "title-note": "chapters 1 - 13",
-      "note": "Exact issues not specified in CCE renewal record, but this probably appeared in the Sunday issues.",
-      "author": {
-         "authorized": "Livingston, Armstrong, 1885-",
-         "lcna": "no2009137439"
-       }
-     },
-     {"issue": {"issue-date": "1930-February 9 - March 2,"},
-      "title": "Trackless Death",
-      "title-note": "chapters 14 - 24",
-      "note": "Exact issues not specified in CCE renewal record, but this probably appeared in the Sunday issues.",
-      "author": {
-         "authorized": "Livingston, Armstrong, 1885-",
-         "lcna": "no2009137439"
-       }
-     },
-     {"issue": {"issue-date": "1930-March 9 - 23,"},
-      "title": "Trackless Death",
-      "title-note": "chapters 25 - 34",
-      "note": "Exact issues not specified in CCE renewal record, but this probably appeared in the Sunday issues.",
-      "author": {
-         "authorized": "Livingston, Armstrong, 1885-",
-         "lcna": "no2009137439"
-       }
-     },
-     {"issue": {"issue-date": "1930-04-13"},
-      "title": "What is it to 'be Good?' Wide Variety of Opinion Makes Each Decide for Self",
-      "author": {
-         "authorized": "Hughes, Rupert, 1872-1956",
-         "lcna": "n86012047"
-       }
-     },
      {"issue": {"issue-date": "1931-January 25 - March 6,"}, 
       "title": "Marshal Foch's War Memoirs",
       "note": "Exact issues not specified in CCE renewal record. We do not know if the original French version was previously published abroad.",
@@ -861,5 +815,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-01-01"
+   "last-updated": "2026-01-06"
 }

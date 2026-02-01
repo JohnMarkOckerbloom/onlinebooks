@@ -5,17 +5,10 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1931-01"}},
-   "first-renewed-contribution-source": "1957-JulDec",
+     {"issue": {"issue-date": "1931-03"}},
+   "first-renewed-contribution-source": "1958-JulDec",
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1931-01", "cdate": "1930-12-12"},
-      "title": "Christmas Present for His Wife",
-      "author": {
-        "authorized": "Wallace, Edgar, 1875-1932",
-        "lcna": "n80034938"
-      }
-     },
      {"issue": {"issue-date": "1931-03"},
        "title": "Ten Commandments",
        "title-note": "part 1 of 5",
@@ -93,5 +86,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-01-06"
+   "last-updated": "2026-01-06"
 }

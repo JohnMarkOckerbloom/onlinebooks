@@ -5,46 +5,13 @@
    "first-issue": {"issue-date": "1900-11", "volume": "1", "number": "1"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
-   "first-renewed-contribution":
-     {"issue": {"issue-date": "1930-08"}},
-   "first-renewed-contribution-source": "1957-JulDec",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce",
    "last-issue": {"issue-date": "1932-07", "volume": "61", "number": "7"},
    "renewed-contribution-completeness": "active/end",
-   "renewed-contributions": [
-     {"issue": {"issue-date": "1930-08"},
-      "title": "Lauterbach of the China Sea",
-      "title-note": "part 1 of 3",
-      "author": {
-         "authorized": "Thomas, Lowell, 1892-1981",
-         "lcna": "n79139713"
-      }
-     },
-     {"issue": {"issue-date": "1930-09"},
-      "title": "Lauterbach of the China Sea",
-      "title-note": "part 2 of 3",
-      "author": {
-         "authorized": "Thomas, Lowell, 1892-1981",
-         "lcna": "n79139713"
-      }
-     },
-     {"issue": {"issue-date": "1930-10"},
-      "title": "Lauterbach of the China Sea",
-      "title-note": "part 3 of 3",
-      "author": {
-         "authorized": "Thomas, Lowell, 1892-1981",
-         "lcna": "n79139713"
-      }
-     },
-     {"issue": {"issue-date": "1931-01"},
-      "title": "Where Two Nickels Are No Dime",
-      "author": {
-         "name": "Edwin P. Norwood"
-      }
-     }
-   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-01-07"
+   "last-updated": "2026-01-04"
 }

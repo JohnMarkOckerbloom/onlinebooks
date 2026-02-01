@@ -12,25 +12,11 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1930-01", "volume": "69", "number": "409"}},
-   "first-renewed-contribution-source": "1957-JulDec",
+     {"issue": {"issue-date": "1931-12", "volume": "72", "number": "432"}},
+   "first-renewed-contribution-source": "1959-JanJun",
    "last-issue": {"issue-date": "1939-11", "volume": "88", "number": "527"},
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1930-01", "volume": "69", "number": "409"},
-      "title": "Rex Gets a Free Ticket",
-      "author": {
-       "authorized": "Mackail, Denis, 1892-1971",
-       "lcna": "n50041467"
-      }
-     },
-     {"issue": {"issue-date": "1930-12", "volume": "70", "number": "420"},
-      "title": "The Great Magor Diamond",
-      "author": {
-       "authorized": "McNeile, H. C. (Herman Cyril), 1888-1937",
-       "lcna": "no96039399"
-      }
-     },
      {"issue": {"issue-date": "1931-12", "volume": "72", "number": "432"},
       "title": "The Brides of Mertonbridge Hall",
       "author": {
@@ -45,5 +31,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-01-06"
+   "last-updated": "2026-01-06"
 }

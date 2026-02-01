@@ -2,23 +2,16 @@
    "title": "The New Republic",
    "online": "1",
    "first-renewed-issue": 
-     {"issue-date": "1930-08-13", "volume": "63", "number": "819"},
-   "first-renewed-issue-source": "1958-JulDec",
+     {"issue-date": "1955-01-10", "volume": "132", "number": "2"},
+   "first-renewed-issue-source": "database",
    "first-autorenewed-issue": 
      {"issue-date": "1964-01-11", "cdate": "1964-01-03",
       "volume": "150", "number": "2"},
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1930-03-26"}},
-   "first-renewed-contribution-source": "1957-JanJun",
-   "renewed-issue-completeness": "active/1950",
+     {"issue": {"issue-date": "1931-01-21"}},
+   "first-renewed-contribution-source": "1958-JanJun",
+   "renewed-issue-completeness": "active/autorenewals",
    "renewed-issues": [
-     {"issue-date": "1930-08-13", "volume": "63", "number": "819"},
-     {"issue-date": "1930-08-20", "volume": "64", "number": "820"},
-     {"issue-date": "1930-08-27", "volume": "64", "number": "821"},
-     {"issue-date": "1930-09-03", "volume": "64", "number": "822"},
-     {"issue-date": "1930-09-24", "volume": "64", "number": "825"},
-     {"issue-date": "1930-10-01", "volume": "64", "number": "826"},
-     {"issue-date": "1930-10-22", "volume": "64", "number": "829"},
      {"issue-date": "1955-01-10", "volume": "132", "number": "2"},
      {"issue-date": "1955-01-17", "volume": "132", "number": "3"},
      {"issue-date": "1955-01-24", "volume": "132", "number": "4"},
@@ -456,48 +449,6 @@
    ],
    "renewed-contribution-completeness": "active/1942",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1930-03-26"},
-      "title": "Factory Town",
-      "author": {
-       "authorized": "Anderson, Sherwood, 1876-1941",
-       "lcna": "n79045519"
-      }
-     },
-     {"issue": {"issue-date": "1930-04-30"},
-      "title": "Loom Dance",
-      "author": {
-       "authorized": "Anderson, Sherwood, 1876-1941",
-       "lcna": "n79045519"
-      }
-     },
-     {"issue": {"issue-date": "1930-05-21"},
-      "title": "A Man's Mind",
-      "author": {
-       "authorized": "Anderson, Sherwood, 1876-1941",
-       "lcna": "n79045519"
-      }
-     },
-     {"issue": {"issue-date": "1930-06-11"},
-      "title": "Margaret Anderson: Real-Unreal",
-      "author": {
-       "authorized": "Anderson, Sherwood, 1876-1941",
-       "lcna": "n79045519"
-      }
-     },
-     {"issue": {"issue-date": "1930-08-27"},
-      "title": "Two Sonnets in Memory",
-      "author": {
-       "authorized": "Millay, Edna St. Vincent, 1892-1950",
-       "lcna": "n79062746"
-      }
-     },
-     {"issue": {"issue-date": "1930-08-27"},
-      "title": "Mother and Son",
-      "author": {
-         "authorized": "Tate, Allen, 1899-1979",
-         "lcna": "n80044856"
-      }
-     },
      {"issue": {"issue-date": "1931-01-21"},
       "title": "Danville, Virginia",
       "author": {
@@ -2973,5 +2924,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-01-01"
+   "last-updated": "2026-01-06"
 }

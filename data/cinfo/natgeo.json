@@ -2,9 +2,9 @@
    "title": "National Geographic Magazine",
    "online": "1",
    "first-renewed-issue": 
-      {"issue-date": "1930-02", "volume": "57", "number": "2",
-       "cdate": "1930-01-14"},
-   "first-renewed-issue-source": "1957-JulDec",
+      {"issue-date": "1931-02", "volume": "59", "number": "2",
+       "cdate": "1931-01-20"},
+   "first-renewed-issue-source": "1958-JanJun",
    "first-renewed-contribution":
      {"issue": {"issue-date": "1955-05"}}, 
    "first-renewed-contribution-source": "database",
@@ -13,20 +13,6 @@
        "note": "Facts for Advertisers (National Geographic)"}],
    "renewed-issue-completeness": "active/1935",
    "renewed-issues": [
-      {"issue-date": "1930-02", "volume": "57", "number": "2",
-       "cdate": "1930-01-14"},
-      {"issue-date": "1930-03", "volume": "57", "number": "3"},
-      {"issue-date": "1930-04", "volume": "57", "number": "4"},
-      {"issue-date": "1930-05", "volume": "57", "number": "5"},
-      {"issue-date": "1930-06", "volume": "57", "number": "6"},
-      {"issue-date": "1930-07", "volume": "58", "number": "1"},
-      {"issue-date": "1930-08", "volume": "58", "number": "2"},
-      {"issue-date": "1930-09", "volume": "58", "number": "3"},
-      {"issue-date": "1930-10", "volume": "58", "number": "4"},
-      {"issue-date": "1930-11", "volume": "58", "number": "5"},
-      {"issue-date": "1930-12", "volume": "58", "number": "6"},
-      {"issue-date": "1931-01", "volume": "59", "number": "1",
-       "cdate": "1930-12-16"},
       {"issue-date": "1931-02", "volume": "59", "number": "2",
        "cdate": "1931-01-20"},
       {"issue-date": "1931-03", "volume": "59", "number": "3"},
@@ -108,5 +94,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-07-20"
+   "last-updated": "2026-01-06"
 }

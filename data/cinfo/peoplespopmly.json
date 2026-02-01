@@ -1,12 +1,14 @@
 {
-   "title": "The People's Popular Monthly",
+   "title": "People's Popular Monthly",
+   "online": "1",
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
-   "first-renewed-contribution": {"issue": {"issue-date": "1930-07"}},
-   "first-renewed-contribution-source": "1958-JanJun",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce",
+   "last-issue": {"issue-date": "1931-05", "volume": "36", "number": "5"},
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-10-22"
+   "last-updated": "2026-01-10"
 }

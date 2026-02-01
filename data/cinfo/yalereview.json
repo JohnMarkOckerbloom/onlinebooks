@@ -5,8 +5,8 @@
       {"issue-date": "1934-Autumn", "volume": "24", "number": "1"},
    "first-renewed-issue-source": "1962-JulDec",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1930-Spring"}},
-   "first-renewed-contribution-source": "1957-JulDec",
+     {"issue": {"issue-date": "1931-Spring", "cdate": "1931-03-10"}}, 
+   "first-renewed-contribution-source": "1958-JanJun",
    "renewed-issue-completeness": "active/1935",
    "renewed-issues": [
       {"issue-date": "1934-Autumn", "volume": "24", "number": "1"},
@@ -18,35 +18,6 @@
    ],
    "renewed-contribution-completeness": "active/1950",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1930-Spring"},
-        "title": "A Red Coat for Night",
-        "author": {
-         "authorized": "Komroff, Manuel, 1890-1974",
-         "lcna": "n79110548"
-        }
-     },
-     {"issue": {"issue-date": "1930-Summer"}, 
-      "title": "The Forrester",
-      "author": {
-       "authorized": "Hume, Cyril, 1900-1966",
-       "lcna": "no90001892"
-      }
-     },
-     {"issue": {"issue-date": "1930-Autumn"}, 
-      "title": "The Buckles of Superior Dosset",
-      "note": "Two renewals were filed for this story by two different estate claimants. One identified the issue as September 1930 and the other identified it as Autumn 1930.",
-      "author": {
-       "authorized": "Galsworthy, John, 1867-1933",
-       "lcna": "n79041972"
-      }
-     },
-     {"issue": {"issue-date": "1931-Winter"}, 
-      "title": "The Other Side of the Street",
-      "author": {
-        "authorized": "Horgan, Paul, 1903-1995",
-        "lcna": "n79060797"
-      }
-     },
      {"issue": {"issue-date": "1931-Spring"}, 
       "title": "A Dead Dog",
       "author": {
@@ -494,5 +465,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-07-14"
+   "last-updated": "2026-01-02"
 }

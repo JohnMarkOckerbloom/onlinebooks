@@ -8,28 +8,14 @@
    ],
    "see-also": [{"id": "mccallsmealplanner", "note": "McCall's Meal Planner"}],
    "first-renewed-issue":
-      {"issue-date": "1930-02", "volume": "57", "number": "5",
-        "cdate": "1930-01-10"},
-   "first-renewed-issue-source": "1957-JanJun",
+      {"issue-date": "1931-02", "volume": "58", "number": "5",
+        "cdate": "1931-01-08"},
+   "first-renewed-issue-source": "1958-JanJun",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1930-02", "volume": "57", "number": "5"}},
-   "first-renewed-contribution-source": "1957-JanJun",
+     {"issue": {"issue-date": "1931-02", "volume": "58", "number": "5"}},
+   "first-renewed-contribution-source": "1958-JanJun",
    "renewed-issue-completeness": "active/1935",
    "renewed-issues": [
-      {"issue-date": "1930-02", "volume": "57", "number": "5",
-        "cdate": "1930-01-10"},
-      {"issue-date": "1930-03", "volume": "57", "number": "6"},
-      {"issue-date": "1930-04", "volume": "57", "number": "7"},
-      {"issue-date": "1930-05", "volume": "57", "number": "8"},
-      {"issue-date": "1930-06", "volume": "57", "number": "9"},
-      {"issue-date": "1930-07", "volume": "57", "number": "10"},
-      {"issue-date": "1930-08", "volume": "57", "number": "11"},
-      {"issue-date": "1930-09", "volume": "57", "number": "12"},
-      {"issue-date": "1930-10", "volume": "58", "number": "1"},
-      {"issue-date": "1930-11", "volume": "58", "number": "2"},
-      {"issue-date": "1930-12", "volume": "58", "number": "3"},
-      {"issue-date": "1931-01", "volume": "58", "number": "4",
-        "cdate": "1930-12-10"},
       {"issue-date": "1931-02", "volume": "58", "number": "5",
         "cdate": "1931-01-08"},
       {"issue-date": "1931-03", "volume": "58", "number": "6"},
@@ -112,121 +98,6 @@
    ],
    "renewed-contribution-completeness": "active/1931",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1930-02", "volume": "57", "number": "5"},
-      "title": "Ransom",
-      "author": {
-       "authorized": "Sabatini, Rafael, 1875-1950",
-       "lcna": "n50016255"
-      }
-     },
-     {"issue": {"issue-date": "1930-02", "volume": "57", "number": "5"},
-      "title": "Early to Bed",
-      "title-note": "part 4 of 4",
-      "authors": [
-         {"authorized": "Montross, Lynn, 1895-1961", "lcna": "n50074089"},
-         {"authorized": "Montross, Lois, 1897-", "lcna": "no00011176"}
-      ]
-     },
-     {"issue": {"issue-date": "1930-03", "volume": "57", "number": "6"},
-      "title": "Fire of Youth",
-      "title-note": "part 1 of 4",
-      "author": {
-       "authorized": "Pedler, Margaret",
-       "lcna": "nr2002022198"
-      }
-     },
-     {"issue": {"issue-date": "1930-04", "volume": "57", "number": "7"},
-      "title": "Fire of Youth",
-      "title-note": "part 2 of 4",
-      "author": {
-       "authorized": "Pedler, Margaret",
-       "lcna": "nr2002022198"
-      }
-     },
-     {"issue": {"issue-date": "1930-05", "volume": "57", "number": "8"},
-      "title": "Fire of Youth",
-      "title-note": "part 3 of 4",
-      "author": {
-       "authorized": "Pedler, Margaret",
-       "lcna": "nr2002022198"
-      }
-     },
-     {"issue": {"issue-date": "1930-05", "volume": "57", "number": "8"},
-      "title": "Curse of Amen-Ra",
-      "author": {
-        "authorized": "Wallace, Edgar, 1875-1932",
-        "lcna": "n80034938"
-      }
-     },
-     {"issue": {"issue-date": "1930-06", "volume": "57", "number": "9"},
-      "title": "Fire of Youth",
-      "title-note": "part 4 of 4",
-      "author": {
-       "authorized": "Pedler, Margaret",
-       "lcna": "nr2002022198"
-      }
-     },
-     {"issue": {"issue-date": "1930-08", "volume": "57", "number": "11"},
-      "title": "Men Are Simple",
-      "note": "Title as given in CCE renewal record.  FictionMags gives title as 'Men Are So Simple'. We have not examined the issue in question.",
-      "author": {
-         "authorized": "Kilbourne, Fannie, 1890-",
-         "lcna": "no93026233"
-       }
-     },
-     {"issue": {"issue-date": "1930-10", "volume": "58", "number": "1"},
-      "title": "The Dude Ranger",
-      "title-note": "part 1 of 5",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1930-10", "volume": "58", "number": "1"},
-      "title": "All American",
-      "author": {
-       "authorized": "Duganne, Phyllis, 1899-1976",
-       "lcna": "n90719514"
-      }
-     },
-     {"issue": {"issue-date": "1930-11", "volume": "58", "number": "2"},
-      "title": "We Tell Each Other Everything",
-      "author": {
-         "authorized": "Kilbourne, Fannie, 1890-",
-         "lcna": "no93026233"
-       }
-     },
-     {"issue": {"issue-date": "1930-11", "volume": "58", "number": "2"},
-      "title": "The Dude Ranger",
-      "title-note": "part 2 of 5",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1930-12", "volume": "58", "number": "3"},
-      "title": "The Dude Ranger",
-      "title-note": "part 3 of 5",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1931-01", "volume": "58", "number": "4"},
-      "title": "You Can't Explain to a Mother",
-      "author": {
-         "authorized": "Kilbourne, Fannie, 1890-",
-         "lcna": "no93026233"
-       }
-     },
-     {"issue": {"issue-date": "1931-01", "volume": "58", "number": "4"},
-      "title": "The Dude Ranger",
-      "title-note": "part 4 of 5",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
      {"issue": {"issue-date": "1931-02", "volume": "58", "number": "5"},
       "title": "The Dude Ranger",
       "title-note": "part 5 of 5",
@@ -642,5 +513,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-07-01"
+   "last-updated": "2026-01-06"
 }

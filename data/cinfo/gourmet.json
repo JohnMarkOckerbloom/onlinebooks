@@ -5,9 +5,310 @@
    "first-renewed-issue-source": "1968",
    "first-renewed-contribution": {"issue": {"issue-date": "1946-08"}},
    "first-renewed-contribution-source": "1973-JulDec",
+   "renewed-issue-completeness": "active/autorenewals",
+   "renewed-issues": [
+      {"issue-date": "1941-02", "volume": "1", "number": "2"},
+      {"issue-date": "1941-03", "volume": "1", "number": "3"},
+      {"issue-date": "1941-04", "volume": "1", "number": "4"},
+      {"issue-date": "1941-05", "volume": "1", "number": "5"},
+      {"issue-date": "1941-06", "volume": "1", "number": "6"},
+      {"issue-date": "1941-07", "volume": "1", "number": "7"},
+      {"issue-date": "1941-08", "volume": "1", "number": "8"},
+      {"issue-date": "1941-09", "volume": "1", "number": "9"},
+      {"issue-date": "1941-10", "volume": "1", "number": "10"},
+      {"issue-date": "1941-11", "volume": "1", "number": "11"},
+      {"issue-date": "1941-12", "volume": "1", "number": "12"},
+      {"issue-date": "1954-01", "volume": "14", "number": "1"},
+      {"issue-date": "1954-02", "volume": "14", "number": "2"},
+      {"issue-date": "1954-03", "volume": "14", "number": "3"},
+      {"issue-date": "1954-04", "volume": "14", "number": "4"},
+      {"issue-date": "1954-05", "volume": "14", "number": "5"},
+      {"issue-date": "1954-06", "volume": "14", "number": "6"},
+      {"issue-date": "1954-07", "volume": "14", "number": "7"},
+      {"issue-date": "1954-08", "volume": "14", "number": "8"},
+      {"issue-date": "1954-09", "volume": "14", "number": "9"},
+      {"issue-date": "1954-10", "volume": "14", "number": "10"},
+      {"issue-date": "1954-11", "volume": "14", "number": "11"},
+      {"issue-date": "1954-12", "volume": "14", "number": "12"},
+      {"issue-date": "1955-04", "volume": "15", "number": "4"},
+      {"issue-date": "1955-05", "volume": "15", "number": "5"},
+      {"issue-date": "1955-06", "volume": "15", "number": "6"},
+      {"issue-date": "1955-07", "volume": "15", "number": "7"},
+      {"issue-date": "1955-08", "volume": "15", "number": "8"},
+      {"issue-date": "1955-09", "volume": "15", "number": "9"},
+      {"issue-date": "1955-10", "volume": "15", "number": "10"},
+      {"issue-date": "1955-11", "volume": "15", "number": "11"},
+      {"issue-date": "1955-12", "volume": "15", "number": "12"},
+      {"issue-date": "1956-01", "volume": "16", "number": "1"},
+      {"issue-date": "1956-02", "volume": "16", "number": "2"},
+      {"issue-date": "1956-03", "volume": "16", "number": "3"},
+      {"issue-date": "1956-04", "volume": "16", "number": "4"},
+      {"issue-date": "1956-05", "volume": "16", "number": "5"},
+      {"issue-date": "1956-06", "volume": "16", "number": "6"},
+      {"issue-date": "1956-07", "volume": "16", "number": "7"},
+      {"issue-date": "1956-08", "volume": "16", "number": "8"},
+      {"issue-date": "1956-09", "volume": "16", "number": "9"},
+      {"issue-date": "1956-10", "volume": "16", "number": "10"},
+      {"issue-date": "1956-11", "volume": "16", "number": "11"},
+      {"issue-date": "1956-12", "volume": "16", "number": "12"},
+      {"issue-date": "1958-02", "volume": "18", "number": "2"},
+      {"issue-date": "1958-03", "volume": "18", "number": "3"},
+      {"issue-date": "1958-04", "volume": "18", "number": "4"},
+      {"issue-date": "1958-05", "volume": "18", "number": "5"},
+      {"issue-date": "1958-06", "volume": "18", "number": "6"},
+      {"issue-date": "1958-07", "volume": "18", "number": "7"},
+      {"issue-date": "1958-08", "volume": "18", "number": "8"},
+      {"issue-date": "1958-09", "volume": "18", "number": "9"},
+      {"issue-date": "1958-10", "volume": "18", "number": "10"},
+      {"issue-date": "1958-11", "volume": "18", "number": "11"},
+      {"issue-date": "1958-12", "volume": "18", "number": "12"},
+      {"issue-date": "1959-01", "volume": "19", "number": "1"},
+      {"issue-date": "1959-02", "volume": "19", "number": "2"},
+      {"issue-date": "1959-03", "volume": "19", "number": "3"},
+      {"issue-date": "1959-04", "volume": "19", "number": "4"},
+      {"issue-date": "1959-05", "volume": "19", "number": "5"},
+      {"issue-date": "1959-06", "volume": "19", "number": "6"},
+      {"issue-date": "1959-07", "volume": "19", "number": "7"},
+      {"issue-date": "1959-08", "volume": "19", "number": "8"},
+      {"issue-date": "1959-09", "volume": "19", "number": "9"},
+      {"issue-date": "1959-10", "volume": "19", "number": "10"},
+      {"issue-date": "1959-11", "volume": "19", "number": "11"},
+      {"issue-date": "1959-12", "volume": "19", "number": "12"},
+      {"issue-date": "1960-02", "volume": "20", "number": "2"},
+      {"issue-date": "1960-03", "volume": "20", "number": "3"},
+      {"issue-date": "1960-04", "volume": "20", "number": "4"},
+      {"issue-date": "1960-05", "volume": "20", "number": "5"},
+      {"issue-date": "1960-06", "volume": "20", "number": "6"},
+      {"issue-date": "1960-07", "volume": "20", "number": "7"},
+      {"issue-date": "1960-08", "volume": "20", "number": "8"},
+      {"issue-date": "1960-09", "volume": "20", "number": "9"},
+      {"issue-date": "1960-10", "volume": "20", "number": "10"},
+      {"issue-date": "1960-11", "volume": "20", "number": "11"},
+      {"issue-date": "1960-12", "volume": "20", "number": "12"},
+      {"issue-date": "1961-02", "volume": "21", "number": "2"},
+      {"issue-date": "1961-03", "volume": "21", "number": "3"},
+      {"issue-date": "1961-04", "volume": "21", "number": "4"},
+      {"issue-date": "1961-05", "volume": "21", "number": "5"},
+      {"issue-date": "1961-06", "volume": "21", "number": "6"},
+      {"issue-date": "1961-07", "volume": "21", "number": "7"},
+      {"issue-date": "1961-08", "volume": "21", "number": "8"},
+      {"issue-date": "1961-09", "volume": "21", "number": "9"},
+      {"issue-date": "1961-10", "volume": "21", "number": "10"},
+      {"issue-date": "1961-11", "volume": "21", "number": "11"},
+      {"issue-date": "1961-12", "volume": "21", "number": "12"},
+      {"issue-date": "1962-02", "volume": "22", "number": "2"},
+      {"issue-date": "1962-03", "volume": "22", "number": "3"},
+      {"issue-date": "1962-04", "volume": "22", "number": "4"},
+      {"issue-date": "1962-05", "volume": "22", "number": "5"},
+      {"issue-date": "1962-06", "volume": "22", "number": "6"},
+      {"issue-date": "1962-07", "volume": "22", "number": "7"},
+      {"issue-date": "1962-08", "volume": "22", "number": "8"},
+      {"issue-date": "1962-09", "volume": "22", "number": "9"},
+      {"issue-date": "1962-10", "volume": "22", "number": "10"},
+      {"issue-date": "1962-11", "volume": "22", "number": "11"},
+      {"issue-date": "1962-12", "volume": "22", "number": "12"},
+      {"issue-date": "1963-01", "volume": "23", "number": "1"},
+      {"issue-date": "1963-02", "volume": "23", "number": "2"},
+      {"issue-date": "1963-03", "volume": "23", "number": "3"},
+      {"issue-date": "1963-04", "volume": "23", "number": "4"},
+      {"issue-date": "1963-05", "volume": "23", "number": "5"},
+      {"issue-date": "1963-06", "volume": "23", "number": "6"},
+      {"issue-date": "1963-07", "volume": "23", "number": "7"},
+      {"issue-date": "1963-08", "volume": "23", "number": "8"},
+      {"issue-date": "1963-09", "volume": "23", "number": "9"},
+      {"issue-date": "1963-10", "volume": "23", "number": "10"},
+      {"issue-date": "1963-11", "volume": "23", "number": "11"},
+      {"issue-date": "1963-12", "volume": "23", "number": "12"},
+      {"issue-date": "1964-01", "volume": "24", "number": "1"}
+   ],
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1946-08"}, 
+      "title": "Hooked Lightning",
+      "author": {
+       "authorized": "Coffin, Robert P. Tristram (Robert Peter Tristram), 1892-1955",
+       "lcna": "n50030030"
+      }
+     },
+     {"issue": {"issue-date": "1946-09"}, 
+      "title": "Night of Lobsters",
+      "author": {
+       "authorized": "Coffin, Robert P. Tristram (Robert Peter Tristram), 1892-1955",
+       "lcna": "n50030030"
+      }
+     },
+     {"issue": {"issue-date": "1946-11"}, 
+      "title": "Night of Venison",
+      "author": {
+       "authorized": "Coffin, Robert P. Tristram (Robert Peter Tristram), 1892-1955",
+       "lcna": "n50030030"
+      }
+     },
+     {"issue": {"issue-date": "1947-01"}, 
+      "title": "Coast Calendar",
+      "author": {
+       "authorized": "Coffin, Robert P. Tristram (Robert Peter Tristram), 1892-1955",
+       "lcna": "n50030030"
+      }
+     },
+     {"issue": {"issue-date": "1947-02"}, 
+      "title": "Coast Calendar",
+      "author": {
+       "authorized": "Coffin, Robert P. Tristram (Robert Peter Tristram), 1892-1955",
+       "lcna": "n50030030"
+      }
+     },
+     {"issue": {"issue-date": "1947-03"}, 
+      "title": "Coast Calendar",
+      "author": {
+       "authorized": "Coffin, Robert P. Tristram (Robert Peter Tristram), 1892-1955",
+       "lcna": "n50030030"
+      }
+     },
+     {"issue": {"issue-date": "1947-04"}, 
+      "title": "Coast Calendar",
+      "author": {
+       "authorized": "Coffin, Robert P. Tristram (Robert Peter Tristram), 1892-1955",
+       "lcna": "n50030030"
+      }
+     },
+     {"issue": {"issue-date": "1947-05"}, 
+      "title": "Coast Calendar",
+      "author": {
+       "authorized": "Coffin, Robert P. Tristram (Robert Peter Tristram), 1892-1955",
+       "lcna": "n50030030"
+      }
+     },
+     {"issue": {"issue-date": "1947-06"}, 
+      "title": "Coast Calendar",
+      "author": {
+       "authorized": "Coffin, Robert P. Tristram (Robert Peter Tristram), 1892-1955",
+       "lcna": "n50030030"
+      }
+     },
+     {"issue": {"issue-date": "1947-07"}, 
+      "title": "Coast Calendar",
+      "author": {
+       "authorized": "Coffin, Robert P. Tristram (Robert Peter Tristram), 1892-1955",
+       "lcna": "n50030030"
+      }
+     },
+     {"issue": {"issue-date": "1947-08"}, 
+      "title": "Coast Calendar",
+      "author": {
+       "authorized": "Coffin, Robert P. Tristram (Robert Peter Tristram), 1892-1955",
+       "lcna": "n50030030"
+      }
+     },
+     {"issue": {"issue-date": "1947-09"}, 
+      "title": "Coast Calendar",
+      "author": {
+       "authorized": "Coffin, Robert P. Tristram (Robert Peter Tristram), 1892-1955",
+       "lcna": "n50030030"
+      }
+     },
+     {"issue": {"issue-date": "1947-10"}, 
+      "title": "Coast Calendar",
+      "author": {
+       "authorized": "Coffin, Robert P. Tristram (Robert Peter Tristram), 1892-1955",
+       "lcna": "n50030030"
+      }
+     },
+     {"issue": {"issue-date": "1947-11"}, 
+      "title": "Coast Calendar",
+      "author": {
+       "authorized": "Coffin, Robert P. Tristram (Robert Peter Tristram), 1892-1955",
+       "lcna": "n50030030"
+      }
+     },
+     {"issue": {"issue-date": "1947-12"}, 
+      "title": "Coast Calendar",
+      "author": {
+       "authorized": "Coffin, Robert P. Tristram (Robert Peter Tristram), 1892-1955",
+       "lcna": "n50030030"
+      }
+     },
+     {"issue": {"issue-date": "1949-11"}, 
+      "title": "Evolution",
+      "author": {
+       "authorized": "Bracken, Peg",
+       "lcna": "n80139443"
+      }
+     },
+     {"issue": {"issue-date": "1950-12"}, 
+      "title": "On Gastronomy",
+      "author": {
+       "authorized": "Maurois, Gérald",
+       "lcna": "no2001050409"
+      }
+     },
+     {"issue": {"issue-date": "1953-01"},
+      "title": "Vursty and Knedliky",
+      "author": {
+         "authorized": "Wechsberg, Joseph, 1907-1983",
+         "lcna": "n79060187"
+      }
+     },
+     {"issue": {"issue-date": "1953-02"},
+      "title": "The Councilor's Boiled Beef",
+      "author": {
+         "authorized": "Wechsberg, Joseph, 1907-1983",
+         "lcna": "n79060187"
+      }
+     },
+     {"issue": {"issue-date": "1953-06"},
+      "title": "Dandelion Wine",
+      "author": {
+         "authorized": "Bradbury, Ray, 1920-2012",
+         "lcna": "n79139258"
+      }
+     },
+     {"issue": {"issue-date": "1953-07"}, 
+      "title": "Consider the Omelette",
+      "author": {
+       "authorized": "Chamberlain, Narcissa G.",
+       "lcna": "n50036960"
+      }
+     },
+     {"issue": {"issue-date": "1955-05"},
+       "title": "The Mushruins of May",
+       "author": {
+         "authorized": "Bromfield, Louis, 1896-1956",
+         "lcna": "n80040365"
+       }
+     },
+     {"issue": {"issue-date": "1955-11"}, 
+      "title": "The Marrowbone Matter",
+      "author": {
+       "authorized": "Roberts, Kenneth Lewis, 1885-1957",
+       "lcna": "n50048902"
+      }
+     },
+     {"issue": {"issue-date": "1963-01"}, 
+      "title": "Tina's Cucina",
+      "author": {
+       "authorized": "Thompson, Sylvia Vaughn Sheekman",
+       "lcna": "n82045059"
+      }
+     },
+     {"issue": {"issue-date": "1963-02"}, 
+      "title": "A Taste of Paris",
+      "author": {
+       "authorized": "Thompson, Sylvia Vaughn Sheekman",
+       "lcna": "n82045059"
+      }
+     },
+     {"issue": {"issue-date": "1963-09"},
+        "title": "Wild Rice",
+        "author": {
+         "authorized": "Olson, Sigurd F., 1899-1982",
+         "lcna": "n79045068"
+        }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-03-29"
+   "last-updated": "2026-01-13"
 }

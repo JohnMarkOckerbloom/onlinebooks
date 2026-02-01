@@ -2,26 +2,13 @@
    "title": "The New York Times Index",
    "see-also": [{"id": "nytimes", "note": "The New York Times"}],
    "first-renewed-issue":
-      {"issue-date": "1929-October-December", "cdate": "1930-02-10",
-       "volume": "17", "number": "4"},
-   "first-renewed-issue-source": "1957-JanJun",
+      {"issue-date": "1930-12", "volume": "18", "number": "12",
+       "cdate": "1931-01-23"},
+   "first-renewed-issue-source": "1958-JanJun",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
    "renewed-issue-completeness": "active/1932",
    "renewed-issues": [
-      {"issue-date": "1929-October-December", "cdate": "1930-02-10",
-       "volume": "17", "number": "4"},
-      {"issue-date": "1930-01", "volume": "18", "number": "1"},
-      {"issue-date": "1930-02", "volume": "18", "number": "2"},
-      {"issue-date": "1930-03", "volume": "18", "number": "3"},
-      {"issue-date": "1930-04", "volume": "18", "number": "4"},
-      {"issue-date": "1930-05", "volume": "18", "number": "5"},
-      {"issue-date": "1930-06", "volume": "18", "number": "6"},
-      {"issue-date": "1930-07", "volume": "18", "number": "7"},
-      {"issue-date": "1930-08", "volume": "18", "number": "8"},
-      {"issue-date": "1930-09", "volume": "18", "number": "9"},
-      {"issue-date": "1930-10", "volume": "18", "number": "10"},
-      {"issue-date": "1930-11", "volume": "18", "number": "11"},
       {"issue-date": "1930-12", "volume": "18", "number": "12",
        "cdate": "1931-01-23"},
       {"issue-date": "1930", "number": "annual cumulative volume",
@@ -78,5 +65,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-01-01"
+   "last-updated": "2026-01-01"
 }

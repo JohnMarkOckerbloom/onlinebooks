@@ -6,37 +6,15 @@
       "note": "FictionMags"}
    ],
    "first-renewed-issue": 
-     {"issue-date": "1930-02-25", "volume": "130", "number": "4"},
+     {"issue-date": "1931-01-25", "volume": "134", "number": "2",
+      "cdate": "1931-01-09"},
    "first-renewed-issue-source": "1958-JanJun",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1930-01-25", "volume": "130", "number": "2",
-                "cdate": "1930-01-10"}},
-   "first-renewed-contribution-source": "1957-JanJun",
+     {"issue": {"issue-date": "1931-01-25", "volume": "134", "number": "2",
+                "cdate": "1931-01-09"}},
+   "first-renewed-contribution-source": "1958-JanJun",
    "renewed-issue-completeness": "active/1949",
    "renewed-issues": [
-     {"issue-date": "1930-02-25", "volume": "130", "number": "4"},
-     {"issue-date": "1930-03-10", "volume": "130", "number": "5"},
-     {"issue-date": "1930-03-25", "volume": "130", "number": "6"},
-     {"issue-date": "1930-04-10", "volume": "131", "number": "1"},
-     {"issue-date": "1930-04-25", "volume": "131", "number": "2"},
-     {"issue-date": "1930-05-10", "volume": "131", "number": "3"},
-     {"issue-date": "1930-05-25", "volume": "131", "number": "4"},
-     {"issue-date": "1930-06-10", "volume": "131", "number": "5"},
-     {"issue-date": "1930-06-25", "volume": "131", "number": "6"},
-     {"issue-date": "1930-07-10", "volume": "132", "number": "1"},
-     {"issue-date": "1930-07-25", "volume": "132", "number": "2"},
-     {"issue-date": "1930-08-10", "volume": "132", "number": "3"},
-     {"issue-date": "1930-08-25", "volume": "132", "number": "4"},
-     {"issue-date": "1930-09-10", "volume": "132", "number": "5"},
-     {"issue-date": "1930-09-25", "volume": "132", "number": "6"},
-     {"issue-date": "1930-10-10", "volume": "133", "number": "1"},
-     {"issue-date": "1930-10-25", "volume": "133", "number": "2"},
-     {"issue-date": "1930-11-10", "volume": "133", "number": "3"},
-     {"issue-date": "1930-11-25", "volume": "133", "number": "4"},
-     {"issue-date": "1930-12-10", "volume": "133", "number": "5"},
-     {"issue-date": "1930-12-25", "volume": "133", "number": "6"},
-     {"issue-date": "1931-01-10", "volume": "134", "number": "1",
-      "cdate": "1930-12-23"},
      {"issue-date": "1931-01-25", "volume": "134", "number": "2",
       "cdate": "1931-01-09"},
      {"issue-date": "1931-02-10", "volume": "134", "number": "3"},
@@ -121,192 +99,6 @@
    "comment": "Resume issue renewal search with registered works database",
    "renewed-contribution-completeness": "active/1931",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1930-01-25", "volume": "130", "number": "2"},
-      "title": "The Valiant",
-      "title-note": "part 1 of 4",
-      "author": {
-         "authorized": "Raine, William MacLeod, 1871-1954",
-         "lcna": "n90682348"
-      }
-     },
-     {"issue": {"issue-date": "1930-02-10", "volume": "130", "number": "3"},
-      "title": "The Valiant",
-      "title-note": "part 2 of 4",
-      "author": {
-         "authorized": "Raine, William MacLeod, 1871-1954",
-         "lcna": "n90682348"
-      }
-     },
-     {"issue": {"issue-date": "1930-02-25", "volume": "130", "number": "4"},
-      "title": "The Valiant",
-      "title-note": "part 3 of 4",
-      "author": {
-         "authorized": "Raine, William MacLeod, 1871-1954",
-         "lcna": "n90682348"
-      }
-     },
-     {"issue": {"issue-date": "1930-03-10", "volume": "130", "number": "5"},
-      "title": "The Valiant",
-      "title-note": "part 4 of 4",
-      "author": {
-         "authorized": "Raine, William MacLeod, 1871-1954",
-         "lcna": "n90682348"
-      }
-     },
-     {"issue": {"issue-date": "1930-03-25", "volume": "130", "number": "6"},
-      "title": "The Jungle Terror",
-      "title-note": "part 1 of 2",
-      "author": {
-       "authorized": "Le May, Alan, 1899-1964",
-       "lcna": "no93027552"
-      }
-     },
-     {"issue": {"issue-date": "1930-04-10", "volume": "131", "number": "1"},
-      "title": "Red Romain",
-      "author": {
-       "authorized": "Haycox, Ernest, 1899-1950",
-       "lcna": "n79065126"
-      }
-     },
-     {"issue": {"issue-date": "1930-04-10", "volume": "131", "number": "1"},
-      "title": "The Jungle Terror",
-      "title-note": "part 2 of 2",
-      "author": {
-       "authorized": "Le May, Alan, 1899-1964",
-       "lcna": "no93027552"
-      }
-     },
-     {"issue": {"issue-date": "1930-04-10", "volume": "131", "number": "1"},
-      "title": "The Guy That Bumped Grigsley",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1930-06-25", "volume": "131", "number": "6"},
-      "title": "Jimmie Dale and the Blue Envelope Murder",
-      "title-note": "part 1 of 4",
-      "author": {
-       "authorized": "Packard, Frank L. (Frank Lucius), 1877-1942",
-       "lcna": "no97026856"
-      }
-     },
-     {"issue": {"issue-date": "1930-07-10", "volume": "132", "number": "1"},
-      "title": "The Killers",
-      "author": {
-       "authorized": "Haycox, Ernest, 1899-1950",
-       "lcna": "n79065126"
-      }
-     },
-     {"issue": {"issue-date": "1930-07-10", "volume": "132", "number": "1"},
-      "title": "Jimmie Dale and the Blue Envelope Murder",
-      "title-note": "part 2 of 4",
-      "author": {
-       "authorized": "Packard, Frank L. (Frank Lucius), 1877-1942",
-       "lcna": "no97026856"
-      }
-     },
-     {"issue": {"issue-date": "1930-07-25", "volume": "132", "number": "2"},
-      "title": "Jimmie Dale and the Blue Envelope Murder",
-      "title-note": "part 3 of 4",
-      "author": {
-       "authorized": "Packard, Frank L. (Frank Lucius), 1877-1942",
-       "lcna": "no97026856"
-      }
-     },
-     {"issue": {"issue-date": "1930-08-10", "volume": "132", "number": "3"},
-      "title": "Jimmie Dale and the Blue Envelope Murder",
-      "title-note": "part 4 of 4",
-      "author": {
-       "authorized": "Packard, Frank L. (Frank Lucius), 1877-1942",
-       "lcna": "no97026856"
-      }
-     },
-     {"issue": {"issue-date": "1930-08-25", "volume": "132", "number": "4"},
-      "title": "Artist",
-      "author": {
-         "authorized": "Connell, Richard, 1893-1949",
-         "lcna": "n50028704"
-       }
-     },
-     {"issue": {"issue-date": "1930-09-10", "volume": "132", "number": "5"},
-      "title": "Blood on the Yukon Trail",
-      "title-note": "part 1 of 4",
-      "author": {
-         "authorized": "Hendryx, James B. (James Beardsley), 1880-1963",
-         "lcna": "no95058559"
-       }
-     },
-     {"issue": {"issue-date": "1930-09-25", "volume": "132", "number": "6"},
-      "title": "Blood on the Yukon Trail",
-      "title-note": "part 2 of 4",
-      "author": {
-         "authorized": "Hendryx, James B. (James Beardsley), 1880-1963",
-         "lcna": "no95058559"
-       }
-     },
-     {"issue": {"issue-date": "1930-10-10", "volume": "133", "number": "1"},
-      "title": "Blood on the Yukon Trail",
-      "title-note": "part 3 of 4",
-      "author": {
-         "authorized": "Hendryx, James B. (James Beardsley), 1880-1963",
-         "lcna": "no95058559"
-       }
-     },
-     {"issue": {"issue-date": "1930-10-25", "volume": "133", "number": "2"},
-      "title": "Blood on the Yukon Trail",
-      "title-note": "part 4 of 4",
-      "author": {
-         "authorized": "Hendryx, James B. (James Beardsley), 1880-1963",
-         "lcna": "no95058559"
-       }
-     },
-     {"issue": {"issue-date": "1930-11-10", "volume": "133", "number": "3"},
-      "title": "Red Clark of Tulluco",
-      "title-note": "part 1 of 3",
-      "author": {
-         "authorized": "Young, Gordon, 1886-1948",
-         "lcna": "no95047273"
-      }
-     },
-     {"issue": {"issue-date": "1930-11-25", "volume": "133", "number": "4"},
-      "title": "Bully McGrane",
-      "author": {
-       "authorized": "Haycox, Ernest, 1899-1950",
-       "lcna": "n79065126"
-      }
-     },
-     {"issue": {"issue-date": "1930-11-25", "volume": "133", "number": "4"},
-      "title": "Red Clark of Tulluco",
-      "title-note": "part 2 of 3",
-      "author": {
-         "authorized": "Young, Gordon, 1886-1948",
-         "lcna": "no95047273"
-      }
-     },
-     {"issue": {"issue-date": "1930-12-10", "volume": "133", "number": "5"},
-      "title": "Red Clark of Tulluco",
-      "title-note": "part 3 of 3",
-      "author": {
-         "authorized": "Young, Gordon, 1886-1948",
-         "lcna": "no95047273"
-      }
-     },
-     {"issue": {"issue-date": "1930-12-25", "volume": "133", "number": "6"},
-      "title": "Guns of the Tom Dee",
-      "author": {
-       "authorized": "Haycox, Ernest, 1899-1950",
-       "lcna": "n79065126"
-      }
-     },
-     {"issue": {"issue-date": "1931-01-10", "volume": "134", "number": "1"},
-      "title": "Hopalong Cassidy and the Eagle's Brood",
-      "title-note": "part 1 of 4",
-      "author": {
-       "authorized": "Mulford, Clarence Edward, 1883-1956",
-       "lcna": "n50006370"
-      }
-     },
      {"issue": {"issue-date": "1931-01-25", "volume": "134", "number": "2"},
       "title": "Hopalong Cassidy and the Eagle's Brood",
       "title-note": "part 2 of 4",
@@ -628,5 +420,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-10-21"
+   "last-updated": "2026-01-08"
 }

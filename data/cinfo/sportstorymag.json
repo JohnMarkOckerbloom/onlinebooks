@@ -1,6 +1,7 @@
 {
    "title": "Sport Story Magazine",
    "aka": ["Street & Smith's Sport Story Magazine"],
+   "online": "1",
    "contents": [
       {"url": "http://www.philsp.com/homeville/FMI/link.asp?magid=SPSTY",
       "note": "FictionMags"}
@@ -8,41 +9,14 @@
    "first-issue":
       {"issue-date": "1923-09-08", "volume": "1", "number": "1"},
    "first-renewed-issue":
-      {"issue-date": "1930-02-08", "volume": "26", "number": "3",
-       "cdate": "1930-01-08"},
-   "first-renewed-issue-source": "1957-JanJun",
+      {"issue-date": "1931-02-08", "volume": "30", "number": "3",
+       "cdate": "1931-01-09"},
+   "first-renewed-issue-source": "1958-JanJun",
    "first-renewed-contribution":
       {"issue-date": "1932-10-25", "volume": "37", "number": "2"},
    "first-renewed-contribution-source": "1959-JulDec",
    "renewed-issue-completeness": "active/1935",
    "renewed-issues": [
-      {"issue-date": "1930-02-08", "volume": "26", "number": "3",
-       "cdate": "1930-01-08"},
-      {"issue-date": "1930-02-22", "volume": "26", "number": "4"},
-      {"issue-date": "1930-03-08", "volume": "26", "number": "5"},
-      {"issue-date": "1930-03-22", "volume": "26", "number": "6"},
-      {"issue-date": "1930-04-08", "volume": "27", "number": "1"},
-      {"issue-date": "1930-04-22", "volume": "27", "number": "2"},
-      {"issue-date": "1930-05-08", "volume": "27", "number": "3"},
-      {"issue-date": "1930-05-22", "volume": "27", "number": "4"},
-      {"issue-date": "1930-06-08", "volume": "27", "number": "5"},
-      {"issue-date": "1930-06-22", "volume": "27", "number": "6"},
-      {"issue-date": "1930-07-08", "volume": "28", "number": "1"},
-      {"issue-date": "1930-07-22", "volume": "28", "number": "2"},
-      {"issue-date": "1930-08-08", "volume": "28", "number": "3"},
-      {"issue-date": "1930-08-22", "volume": "28", "number": "4"},
-      {"issue-date": "1930-09-08", "volume": "28", "number": "5"},
-      {"issue-date": "1930-09-22", "volume": "28", "number": "6"},
-      {"issue-date": "1930-10-08", "volume": "29", "number": "1"},
-      {"issue-date": "1930-10-22", "volume": "29", "number": "2"},
-      {"issue-date": "1930-11-08", "volume": "29", "number": "3"},
-      {"issue-date": "1930-11-22", "volume": "29", "number": "4"},
-      {"issue-date": "1930-12-08", "volume": "29", "number": "5"},
-      {"issue-date": "1930-12-22", "volume": "29", "number": "6"},
-      {"issue-date": "1931-01-08", "volume": "30", "number": "1",
-       "cdate": "1930-12-10"},
-      {"issue-date": "1931-01-22", "volume": "30", "number": "2",
-       "cdate": "1930-12-26"},
       {"issue-date": "1931-02-08", "volume": "30", "number": "3",
        "cdate": "1931-01-09"},
       {"issue-date": "1931-02-15", "volume": "30", "number": "4"},
@@ -228,5 +202,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-07-12"
+   "last-updated": "2026-01-09"
 }

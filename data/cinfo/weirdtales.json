@@ -10,25 +10,14 @@
    "first-issue":
       {"issue-date": "1923-03", "volume": "1", "number": "1"},
    "first-renewed-issue":
-      {"issue-date": "1930-04", "volume": "15", "number": "4"},
+      {"issue-date": "1931-February-March", "volume": "17", "number": "2",
+       "cdate": "1931-02-01"},
    "first-renewed-issue-source": "1958-JanJun",
    "first-renewed-contribution": 
-      {"issue": {"issue-date": "1930-02", "volume": "15", "number": "2",
-       "cdate": "1930-01-01"}},
-   "first-renewed-contribution-source": "1957-JanJun",
+      {"issue": {"issue-date": "1931-June-July", "volume": "17", "number": "4"}},
+   "first-renewed-contribution-source": "1959-JanJun",
    "renewed-issue-completeness": "active/autorenewals",
    "renewed-issues": [
-      {"issue-date": "1930-04", "volume": "15", "number": "4"},
-      {"issue-date": "1930-05", "volume": "15", "number": "5"},
-      {"issue-date": "1930-06", "volume": "15", "number": "6"},
-      {"issue-date": "1930-07", "volume": "16", "number": "1"},
-      {"issue-date": "1930-08", "volume": "16", "number": "2"},
-      {"issue-date": "1930-09", "volume": "16", "number": "3"},
-      {"issue-date": "1930-10", "volume": "16", "number": "4"},
-      {"issue-date": "1930-11", "volume": "16", "number": "5"},
-      {"issue-date": "1930-12", "volume": "16", "number": "6"},
-      {"issue-date": "1931-01", "volume": "17", "number": "1",
-       "cdate": "1930-12-01"},
       {"issue-date": "1931-February-March", "volume": "17", "number": "2",
        "cdate": "1931-02-01"},
       {"issue-date": "1931-April-May", "volume": "17", "number": "3"},
@@ -73,62 +62,6 @@
    ],
    "renewed-contribution-completeness": "active/autorenewals",
    "renewed-contributions": [
-      {"issue": {"issue-date": "1930-02", "volume": "15", "number": "2"},
-       "title": "The Lilac Bush",
-       "author": {
-         "authorized": "Derleth, August, 1909-1971",
-         "lcna": "n50002948"
-       }
-      },
-      {"issue": {"issue-date": "1930-03", "volume": "15", "number": "3"},
-       "title": "The Pacer",
-       "author": {
-         "authorized": "Derleth, August, 1909-1971",
-         "lcna": "n50002948"
-       }
-      },
-      {"issue": {"issue-date": "1930-04", "volume": "15", "number": "4"},
-       "title": "The Portrait",
-       "author": {
-         "authorized": "Derleth, August, 1909-1971",
-         "lcna": "n50002948"
-       }
-      },
-      {"issue": {"issue-date": "1930-05", "volume": "15", "number": "5"},
-       "title": "The Whistler",
-       "author": {
-         "authorized": "Derleth, August, 1909-1971",
-         "lcna": "n50002948"
-       }
-      },
-      {"issue": {"issue-date": "1930-06", "volume": "15", "number": "6"},
-       "title": "Across the Hall",
-       "author": {
-         "authorized": "Derleth, August, 1909-1971",
-         "lcna": "n50002948"
-       }
-      },
-      {"issue": {"issue-date": "1930-08", "volume": "16", "number": "2"},
-       "title": "Pigmy Island",
-       "author": {
-          "authorized": "Hamilton, Edmond, 1904-1977",
-          "lcna": "n79093405"
-       }
-      },
-      {"issue": {"issue-date": "1930-08", "volume": "16", "number": "2"},
-       "title": "Just a Song at Twilight",
-       "author": {
-         "authorized": "Derleth, August, 1909-1971",
-         "lcna": "n50002948"
-       }
-      },
-      {"issue": {"issue-date": "1930-10", "volume": "16", "number": "4"},
-       "title": "Mrs. Bentley's Daughter",
-       "author": {
-         "authorized": "Derleth, August, 1909-1971",
-         "lcna": "n50002948"
-       }
-      },
       {"issue": {"issue-date": "1931-June-July", "volume": "17", "number": "4"},
        "title": "Seeds of Death",
        "author": {
@@ -2172,22 +2105,6 @@
          "lcna": "n50002948"
        }
       },
-      {"issue": {"issue-date": "1954-07", "volume": "46", "number": "3"},
-       "title": "The Tree of Life",
-       "note": "There is no renewal filed specifically for this story; however, it was originally published in the September 1930 issue, which has a renewal active through the end of 2025.",
-       "author": {
-         "authorized": "Ernst, Paul, 1899-1985",
-         "lcna": "no2016018093"
-       }
-      },
-      {"issue": {"issue-date": "1954-07", "volume": "46", "number": "3"},
-       "title": "Passing of a God",
-       "note": "There is no renewal filed specifically for this story; however, it was originally published in the January 1931 issue, which has a renewal active through the end of 2025.",
-       "author": {
-         "authorized": "Whitehead, Henry S. (Henry St. Clair), 1882-1932",
-         "lcna": "n86858511"
-       }
-      },
       {"issue": {"issue-date": "1954-09", "volume": "46", "number": "4"},
        "title": "The Dark Man",
        "note": "There is no renewal filed specifically for this novel; however, it was originally published in the December 1931 issue, which has a renewal active through the end of 2026.",
@@ -2209,5 +2126,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-01-01"
+   "last-updated": "2026-01-07"
 }

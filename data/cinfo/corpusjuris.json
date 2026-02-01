@@ -4,17 +4,14 @@
    "online": "1",
    "first-issue": {"issue-date": "1914", "volume": "1"},
    "first-renewed-issue":
-        {"cdate": "1930-04-10", "volume": "49"},
-   "first-renewed-issue-source": "1957-JulDec",
+        {"cdate": "1931-06-10", "volume": "53"},
+   "first-renewed-issue-source": "1958-JulDec",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce",
    "last-issue": {"issue-date": "1937", "volume": "72"},
    "see-also": [{"id": "corpusjurissec", "note": "Corpus Juris Secundum"}],
    "renewed-issue-completeness": "active/end",
    "renewed-issues": [
-        {"cdate": "1930-04-10", "volume": "49"},
-        {"cdate": "1930-07-15", "volume": "50"},
-        {"cdate": "1930-11-29", "volume": "51"},
         {"cdate": "1931-06-10", "volume": "53"},
         {"cdate": "1931-07-23", "volume": "54"},
         {"cdate": "1931-11-19", "volume": "55"},
@@ -44,5 +41,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-01-03"
+   "last-updated": "2026-01-03"
 }

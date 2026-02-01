@@ -9,28 +9,14 @@
       "note": "FictionMags (might not include nonfiction contents)"}
    ],
    "first-renewed-issue": 
-     {"issue-date": "1930-02", "volume": "160", "number": "957",
-      "cdate": "1930-01-18"},
-   "first-renewed-issue-source": "1957-JulDec",
+     {"issue-date": "1931-02", "volume": "162", "number": "969",
+      "cdate": "1931-01-17"},
+   "first-renewed-issue-source": "1958-JulDec",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1930-06", "volume": "161", "number": "961"}},
-   "first-renewed-contribution-source": "1957-JanJun",
+     {"issue": {"issue-date": "1931-02", "volume": "162", "number": "969"}}, 
+   "first-renewed-contribution-source": "1958-JanJun",
    "renewed-issue-completeness": "active/1935",
    "renewed-issues": [
-     {"issue-date": "1930-02", "volume": "160", "number": "957",
-      "cdate": "1930-01-18"},
-     {"issue-date": "1930-03", "volume": "160", "number": "958"},
-     {"issue-date": "1930-04", "volume": "160", "number": "959"},
-     {"issue-date": "1930-05", "volume": "160", "number": "960"},
-     {"issue-date": "1930-06", "volume": "161", "number": "961"},
-     {"issue-date": "1930-07", "volume": "161", "number": "962"},
-     {"issue-date": "1930-08", "volume": "161", "number": "963"},
-     {"issue-date": "1930-09", "volume": "161", "number": "964"},
-     {"issue-date": "1930-10", "volume": "161", "number": "965"},
-     {"issue-date": "1930-11", "volume": "161", "number": "966"},
-     {"issue-date": "1930-12", "volume": "162", "number": "967"},
-     {"issue-date": "1931-01", "volume": "162", "number": "968",
-      "cdate": "1930-12-15"},
      {"issue-date": "1931-02", "volume": "162", "number": "969",
       "cdate": "1931-01-17"},
      {"issue-date": "1931-03", "volume": "162", "number": "970"},
@@ -114,62 +100,6 @@
    ],
    "renewed-contribution-completeness": "active/1931",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1930-06", "volume": "161", "number": "961"},
-      "title": "Two Boys, a Gun, and a Dog",
-      "author": {
-         "authorized": "White, Stewart Edward, 1873-1946",
-         "lcna": "n50020243"
-      }
-     },
-     {"issue": {"issue-date": "1930-07", "volume": "161", "number": "962"},
-        "title": "The Realities of Zionism",
-        "author": {
-         "authorized": "Gunther, John, 1901-1970",
-         "lcna": "n50020329"
-        }
-     },
-     {"issue": {"issue-date": "1930-08", "volume": "161", "number": "963"},
-        "title": "Violette",
-        "author": {
-         "authorized": "Sheean, Vincent, 1899-1975",
-         "lcna": "n50022139"
-        }
-     },
-     {"issue": {"issue-date": "1930-09", "volume": "161", "number": "964"},
-      "title": "Good Wednesday",
-      "author": {
-       "authorized": "Brush, Katharine, 1900-1952",
-       "lcna": "no93001232"
-      }
-     },
-     {"issue": {"issue-date": "1930-12", "volume": "162", "number": "967"},
-      "title": "Sonnets: Moon, That Against the Lintel of the West, and others",
-      "author": {
-       "authorized": "Millay, Edna St. Vincent, 1892-1950",
-       "lcna": "n79062746"
-      }
-     },
-     {"issue": {"issue-date": "1930-12", "volume": "162", "number": "967"},
-      "title": "How Come Christmas",
-      "author": {
-       "authorized": "Bradford, Roark, 1896-1948",
-       "lcna": "n85273947"
-      }
-     },
-     {"issue": {"issue-date": "1930-12", "volume": "162", "number": "967"},
-      "title": "Thumbs Up",
-      "author": {
-         "authorized": "Thurber, James, 1894-1961",
-         "lcna": "n80036584"
-      }
-     },
-     {"issue": {"issue-date": "1931-01", "volume": "162", "number": "968"}, 
-      "title": "Sonnet: When We That Wore the Myrtle Wear the Dust",
-      "author": {
-       "authorized": "Millay, Edna St. Vincent, 1892-1950",
-       "lcna": "n79062746"
-      }
-     },
      {"issue": {"issue-date": "1931-02", "volume": "162", "number": "969"}, 
       "title": "Engine-Room Stuff",
       "author": {
@@ -411,5 +341,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-07-16"
+   "last-updated": "2026-01-05"
 }

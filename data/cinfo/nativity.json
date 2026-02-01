@@ -4,24 +4,14 @@
      {"issue-date": "1930-Winter", "number": "1"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
-   "first-renewed-contribution": 
-     {"issue": {"issue-date": "1930-Winter", "number": "1"}},
-   "first-renewed-contribution-source": "1957-JulDec",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce",
    "last-issue": 
      {"issue-date": "1931-Spring", "number": "2"},
    "renewed-contribution-completeness": "active/end",
-   "renewed-contributions": [
-     {"issue": {"issue-date": "1930-Winter", "number": "1"},
-       "title": "Saturday Afternoon",
-       "author": {
-         "authorized": "Caldwell, Erskine, 1903-1987",
-         "lcna": "n78095661"
-       }
-     }
-   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-04-27"
+   "last-updated": "2026-01-06"
 }

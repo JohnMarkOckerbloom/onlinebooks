@@ -10,9 +10,19 @@
    "first-renewed-issue-source": "1966",
    "first-renewed-contribution": {"issue-date": "1940-Spring"},
    "first-renewed-contribution-source": "1967-JulDec",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1947-Autumn"},
+        "title": "The Duet",
+        "note": "Name of the periodical is misspelled 'The Kenyan Review' in the Project Gutenberg transcription, but is spelled correctly in the CCE renewal record.",
+        "author": {
+         "authorized": "Auden, W. H. (Wystan Hugh), 1907-1973",
+         "lcna": "n79054316"
+        }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-01-10"
+   "last-updated": "2026-01-09"
 }

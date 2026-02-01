@@ -5,11 +5,42 @@
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": {"issue": {"issue-date": "1957-10"}},
    "first-renewed-contribution-source": "database",
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1957-10"}, 
+      "title": "Five Acts of the Scarlet Letter",
+      "author": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1958-10"},
+      "title": "Review of Robert E. Knoll's Robert Mcalmon: Expatriate",
+      "author": {
+         "authorized": "Williams, William Carlos, 1883-1963",
+         "lcna": "n79060075"
+      }
+     },
+     {"issue": {"issue-date": "1959-02"},
+      "title": "Extracts from New Chapter on Writing by E. B. White in Revised Edition of William Strunk, Jr.'s The Elements of Style",
+      "author": {
+       "authorized": "White, E. B. (Elwyn Brooks), 1899-1985",
+       "lcna": "n79054648"
+      }
+     },
+     {"issue": {"issue-date": "1959-03"},
+      "title": "For the Teaching Poet",
+      "author": {
+       "authorized": "Weales, Gerald, 1925-2013",
+       "lcna": "n50023757"
+      }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
    "acknowledgement": 
       "Thanks to Scott F Andrews for copyright research on this title.",
-   "last-updated": "2022-09-21"
+   "last-updated": "2026-01-14"
 }

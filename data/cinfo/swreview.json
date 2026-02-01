@@ -3,29 +3,147 @@
    "online": "1",
    "contents": [
       {"url": "https://www.jstor.org/journal/southwestreview",
-      "note": "JSTOR (full text also available; after 1929 may require subscription or payment)"}
+      "note": "JSTOR (full text also available; access to issues less than 96 years old may require subscription or payment)"}
    ],
    "preceded-by": [{"id": "txreview", "note": "The Texas Review"}],
    "first-issue": {"issue-date": "1924-10", "volume": "10", "number": "1"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1930-10", "volume": "16", "number": "1"}}, 
-   "first-renewed-contribution-source": "1958-JanJun",
-   "renewed-contribution-completeness": "active/1931",
+     {"issue": {"issue-date": "1933-07", "volume": "18", "number": "4"}},
+   "first-renewed-contribution-source": "1960-JulDec",
+   "renewed-contribution-completeness": "active/1949",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1930-10", "volume": "16", "number": "1"}, 
-      "title": "The Shepherd",
+     {"issue": {"issue-date": "1933-07", "volume": "18", "number": "4"},
+        "title": "About the Southwest",
+        "author": {
+         "authorized": "Horgan, Paul, 1903-1995",
+         "lcna": "n79060797"
+        }
+     },
+     {"issue": {"issue-date": "1934-10", "volume": "20", "number": "1"},
+        "title": "Westward People: A Drama of Mary Austin Holley's First Visit to Texas, in One Act",
+        "author": {
+         "authorized": "Rogers, John William, 1894-1965",
+         "lcna": "nr94042722"
+        }
+     },
+     {"issue": {"issue-date": "1941-Winter", "volume": "26", "number": "2"},
+        "title": "The Prairies Revisited: A Re-Estimation of Josiah Gregg",
+        "author": {
+         "authorized": "Horgan, Paul, 1903-1995",
+         "lcna": "n79060797"
+        }
+     },
+     {"issue": {"issue-date": "1942-Spring", "volume": "27", "number": "3"},
+        "title": "Frontier Humor: Despairing or Buoyant",
+        "author": {
+         "authorized": "Boatright, Mody C. (Mody Coggin), 1896-1970",
+         "lcna": "n50008614"
+        }
+     },
+     {"issue": {"issue-date": "1943-Spring", "volume": "28", "number": "3"},
+        "title": "The Colt",
+        "author": {
+         "authorized": "Stegner, Wallace, 1909-1993",
+         "lcna": "n79021163"
+        }
+     },
+     {"issue": {"issue-date": "1944-Summer", "volume": "29", "number": "4"},
+      "title": "Heather for Remembrance: Holiday in Scotland",
+      "note": "No renewal was filed specifically for this contribution, but it might be covered by the 1972 renewal for Dobie's book 'A Texan in England', per the note at the bottom of this record.",
       "author": {
-         "authorized": "Stevenson, Philip, 1896-1965",
-         "lcna": "no2002007736"
+       "authorized": "Dobie, J. Frank (James Frank), 1888-1964",
+       "lcna": "n79021385"
+      }
+     },
+     {"issue": {"issue-date": "1945-Winter", "volume": "30", "number": "2"},
+        "title": "Law and Laughter on the Frontier",
+        "note": "Title as given at head of article. CCE renewal record gives title as 'Law and Laughter on the American Frontier'.",
+        "author": {
+         "authorized": "Boatright, Mody C. (Mody Coggin), 1896-1970",
+         "lcna": "n50008614"
+        }
+     },
+     {"issue": {"issue-date": "1945-Spring", "volume": "30", "number": "3"},
+        "title": "The Melon-Patch Killing",
+        "author": {
+         "authorized": "Gipson, Fred, 1908-1973",
+         "lcna": "n80015836"
+        }
+     },
+     {"issue": {"issue-date": "1946-Summer", "volume": "31", "number": "3"},
+        "title": "Living Rock",
+        "author": {
+         "authorized": "Bynner, Witter, 1881-1968",
+         "lcna": "n50032943"
+        }
+     },
+     {"issue": {"issue-date": "1947-Summer", "volume": "32", "number": "3"},
+        "title": "The Fiddler and the Angelito",
+        "author": {
+         "authorized": "Chavez, Angelico, 1910-1996",
+         "lcna": "n81000621"
+        }
+     },
+     {"issue": {"issue-date": "1948-Winter", "volume": "33", "number": "1"},
+        "title": "Anson Jones: Minister from the Texas Republic",
+        "author": {
+         "authorized": "Gambrell, Herbert Pickens",
+         "lcna": "nr92025739"
+        }
+     },
+     {"issue": {"issue-date": "1948-Winter", "volume": "33", "number": "1"},
+        "title": "Coooooon!",
+        "author": {
+         "authorized": "Gipson, Fred, 1908-1973",
+         "lcna": "n80015836"
+        }
+     },
+     {"issue": {"issue-date": "1948-Spring", "volume": "33", "number": "2"},
+      "title": "Old Crip",
+      "author": {
+       "authorized": "Dobie, J. Frank (James Frank), 1888-1964",
+       "lcna": "n79021385"
+      }
+     },
+     {"issue": {"issue-date": "1948-Summer", "volume": "33", "number": "3"},
+      "title": "The Magic of Don Coyote",
+      "author": {
+       "authorized": "Dobie, J. Frank (James Frank), 1888-1964",
+       "lcna": "n79021385"
+      }
+     },
+     {"issue": {"issue-date": "1949-Spring", "volume": "34", "number": "2"},
+      "title": "March in New Mexico",
+       "author": {
+         "authorized": "Coatsworth, Elizabeth, 1893-1986",
+         "lcna": "n79026738"
+       }
+     },
+     {"issue": {"issue-date": "1949-Summer", "volume": "34", "number": "3"},
+      "title": "The Exile",
+       "author": {
+         "authorized": "Sulkin, Sidney",
+         "lcna": "n83184475"
+       }
+     },
+     {"issue": {"issue-date": "1950-Spring", "volume": "35", "number": "2"},
+      "title": "The Marble Boy",
+      "author": {
+       "authorized": "Coffin, Robert P. Tristram (Robert Peter Tristram), 1892-1955",
+       "lcna": "n50030030"
       }
      }
    ],
-   "additional-note": "Issue dates in the CCE renewal records are not always the same as issue dates in the JSTOR contents listings.",
+   "comment": "Continue contribution renewal searches with CPRS",
+   "additional-notes": [
+      "Issue dates in the CCE renewal records are not always the same as issue dates in the JSTOR contents listings.",
+      "A 1972 renewal for the 1945 book 'A Texan in England' by J. Frank Dobie mentions that one chapter had been published in the Southwest Review in 1944, and might possibly cover that chapter."
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-01-05"
+   "last-updated": "2026-01-09"
 }

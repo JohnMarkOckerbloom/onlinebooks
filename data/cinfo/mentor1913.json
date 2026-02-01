@@ -6,49 +6,14 @@
    "first-issue": {"issue-date": "1913-02-17", "volume": "1", "number": "1"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
-   "first-renewed-contribution": 
-     {"issue": {"issue-date": "1930-05"}},
-   "first-renewed-contribution-source": "1957-JanJun",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce",
    "last-issue": {"issue-date": "1931-01", "volume": "23", "number": "1"},
    "renewed-contribution-completeness": "active/end",
-   "renewed-contributions": [
-     {"issue": {"issue-date": "1930-05"},
-      "title": "The Stalking Horse",
-      "title-note": "part 1 of 4",
-      "author": {
-       "authorized": "Sabatini, Rafael, 1875-1950",
-       "lcna": "n50016255"
-      }
-     },
-     {"issue": {"issue-date": "1930-06"},
-      "title": "The Stalking Horse",
-      "title-note": "part 2 of 4",
-      "author": {
-       "authorized": "Sabatini, Rafael, 1875-1950",
-       "lcna": "n50016255"
-      }
-     },
-     {"issue": {"issue-date": "1930-07"},
-      "title": "The Stalking Horse",
-      "title-note": "part 3 of 4",
-      "author": {
-       "authorized": "Sabatini, Rafael, 1875-1950",
-       "lcna": "n50016255"
-      }
-     },
-     {"issue": {"issue-date": "1930-08"},
-      "title": "The Stalking Horse",
-      "title-note": "part 4 of 4",
-      "author": {
-       "authorized": "Sabatini, Rafael, 1875-1950",
-       "lcna": "n50016255"
-      }
-     }
-   ],
    "additional-note": "This publication absorbed World Traveler in 1930 (thereafter being known as 'The Mentor-World Traveler'), and adopted its volume numbering later that year.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-01-01"
+   "last-updated": "2026-01-06"
 }

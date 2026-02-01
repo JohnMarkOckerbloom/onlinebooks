@@ -3,9 +3,9 @@
    "online": "1",
    "first-issue": {"issue-date": "1922-02", "volume": "1", "number": "1"},
    "first-renewed-issue":
-      {"issue-date": "1930-02", "volume": "8", "number": "94",
-       "cdate": "1930-01-25"},
-   "first-renewed-issue-source": "1957-JanJun",
+      {"issue-date": "1931-02", "volume": "18", "number": "106",
+       "cdate": "1931-01-25"},
+   "first-renewed-issue-source": "1958-JanJun",
    "first-renewed-contribution": 
       {"issue": {"issue-date": "1933-09"}},
    "first-renewed-contribution-source": "1961-JanJun",
@@ -15,20 +15,6 @@
    ],
    "renewed-issue-completeness": "active/1935",
    "renewed-issues": [
-      {"issue-date": "1930-02", "volume": "8", "number": "94",
-       "cdate": "1930-01-25"},
-      {"issue-date": "1930-03", "volume": "8", "number": "95"},
-      {"issue-date": "1930-04", "volume": "8", "number": "96"},
-      {"issue-date": "1930-05", "volume": "17", "number": "97"},
-      {"issue-date": "1930-06", "volume": "17", "number": "98"},
-      {"issue-date": "1930-07", "volume": "17", "number": "99"},
-      {"issue-date": "1930-08", "volume": "17", "number": "100"},
-      {"issue-date": "1930-09", "volume": "17", "number": "101"},
-      {"issue-date": "1930-10", "volume": "17", "number": "102"},
-      {"issue-date": "1930-11", "volume": "17", "number": "103"},
-      {"issue-date": "1930-12", "volume": "17", "number": "104"},
-      {"issue-date": "1931-01", "volume": "17", "number": "105",
-       "cdate": "1930-12-25"},
       {"issue-date": "1931-02", "volume": "18", "number": "106",
        "cdate": "1931-01-25"},
       {"issue-date": "1931-03", "volume": "18", "number": "107"},
@@ -119,5 +105,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-07-11"
+   "last-updated": "2026-01-07"
 }

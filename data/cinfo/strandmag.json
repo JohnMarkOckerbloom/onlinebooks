@@ -9,89 +9,10 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1930-01", "volume": "79", "number": "469"}},
-   "first-renewed-contribution-source": "1957-JanJun",
+     {"issue": {"issue-date": "1931-02", "volume": "81", "number": "482"}},
+   "first-renewed-contribution-source": "1958-JulDec",
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1930-01", "volume": "79", "number": "469"},
-      "title": "Sergeant Sir Peter's Cases, No. 2: The Desk-Breaker",
-      "note": "CCE renewal records for stories in the January 1930 issue give inconsistent copyright dates, some in 1929 and some in 1930. We list renewals for this issue here to be on the safe side, though US copyrights for material in this issue may have expired as of 2025.",
-      "author": {
-        "authorized": "Wallace, Edgar, 1875-1932",
-        "lcna": "n80034938"
-      }
-     },
-     {"issue": {"issue-date": "1930-01", "volume": "79", "number": "469"},
-      "title": "The Death Scratch",
-      "title-note": "part 2 of 6",
-      "author": {
-       "authorized": "Sapper, 1888-1937",
-       "lcna": "n85822242"
-      }
-     },
-     {"issue": {"issue-date": "1930-02", "volume": "79", "number": "470"},
-      "title": "Sergeant Sir Peter's Cases, No. 3: The Inheritor",
-      "author": {
-        "authorized": "Wallace, Edgar, 1875-1932",
-        "lcna": "n80034938"
-      }
-     },
-     {"issue": {"issue-date": "1930-02", "volume": "79", "number": "470"},
-      "title": "The Death Scratch",
-      "title-note": "part 3 of 6",
-      "note": "The CCE renewal record gives a copyright date for the second installment, from the January issue, as December 31, 1929.  Copyrights of that date are now expired in the US.",
-      "author": {
-       "authorized": "Sapper, 1888-1937",
-       "lcna": "n85822242"
-      }
-     },
-     {"issue": {"issue-date": "1930-03", "volume": "79", "number": "471"},
-      "title": "Sergeant Sir Peter's Cases, No. 4: Dr. Fifer's Patient",
-      "author": {
-        "authorized": "Wallace, Edgar, 1875-1932",
-        "lcna": "n80034938"
-      }
-     },
-     {"issue": {"issue-date": "1930-03", "volume": "79", "number": "471"},
-      "title": "The Death Scratch",
-      "title-note": "part 4 of 6",
-      "author": {
-       "authorized": "Sapper, 1888-1937",
-       "lcna": "n85822242"
-      }
-     },
-     {"issue": {"issue-date": "1930-04", "volume": "79", "number": "472"},
-      "title": "The Death Scratch",
-      "title-note": "part 5 of 6",
-      "author": {
-       "authorized": "Sapper, 1888-1937",
-       "lcna": "n85822242"
-      }
-     },
-     {"issue": {"issue-date": "1930-05", "volume": "79", "number": "473"},
-      "title": "Sergeant Sir Peter's Cases, No. 6: Buried Treasure",
-      "author": {
-        "authorized": "Wallace, Edgar, 1875-1932",
-        "lcna": "n80034938"
-      }
-     },
-     {"issue": {"issue-date": "1930-05", "volume": "79", "number": "473"},
-      "title": "The Death Scratch",
-      "title-note": "part 6 of 6",
-      "note": "The CCE renewal record lists this as the last installment. FictionMags also lists a seventh and last installment in the June issue. We have not examined that issue ourselves.",
-      "author": {
-       "authorized": "Sapper, 1888-1937",
-       "lcna": "n85822242"
-      }
-     },
-     {"issue": {"issue-date": "1930-12", "volume": "80", "number": "480"},
-      "title": "The Creaking Door",
-      "note": "Title as given in CCE renewal record. FictionMags gives title as 'The Creeping Door'. We have not examined the issue in question.",
-      "author": {
-       "authorized": "Sapper, 1888-1937",
-       "lcna": "n85822242"
-      }
-     },
      {"issue": {"issue-date": "1931-02", "volume": "81", "number": "482"},
       "title": "The Haunted Rectory",
       "author": {
@@ -293,5 +214,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-05-30"
+   "last-updated": "2026-01-09"
 }

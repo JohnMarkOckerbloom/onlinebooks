@@ -8,8 +8,8 @@
      {"issue-date": "1934-06-09", "volume": "10", "number": "47"},
    "first-renewed-issue-source": "1962-JanJun",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1930-03-22"}},
-   "first-renewed-contribution-source": "1957-JulDec",
+     {"issue": {"issue-date": "1931-01-17"}},
+   "first-renewed-contribution-source": "1958-JulDec",
    "see-also":
      [{"id": "satreview1855", "note": "The Saturday Review (UK, 1855-1938)"}],
    "renewed-issue-completeness": "active/1948",
@@ -830,48 +830,6 @@
    ],
    "renewed-contribution-completeness": "active/1933",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1930-03-22"},
-      "title": "Portrait",
-      "author": {
-       "authorized": "Ferber, Edna, 1887-1968",
-       "lcna": "n79077439"
-      }
-     },
-     {"issue": {"issue-date": "1930-09-27"},
-        "title": "Vulgarity in Literature",
-        "author": {
-         "authorized": "Huxley, Aldous, 1894-1963",
-         "lcna": "n80057246"
-        }
-     },
-     {"issue": {"issue-date": "1930-10-11"},
-      "title": "The Island and the Fire",
-      "author": {
-       "authorized": "Benét, Stephen Vincent, 1898-1943",
-       "lcna": "n50007691"
-      }
-     },
-     {"issue": {"issue-date": "1930-10-11"},
-      "title": "Swansdown the Kitten",
-       "author": {
-         "authorized": "Coatsworth, Elizabeth, 1893-1986",
-         "lcna": "n79026738"
-       }
-     },
-     {"issue": {"issue-date": "1930-11-29"},
-       "title": "The Mole",
-       "author": {
-        "authorized": "Benét, Laura",
-        "lcna": "n50008105"
-       }
-     },
-     {"issue": {"issue-date": "1930-12-20"},
-        "title": "Absolution",
-        "author": {
-         "authorized": "Ficke, Arthur Davison, 1883-1945",
-         "lcna": "n82119450"
-        }
-     },
      {"issue": {"issue-date": "1931-01-17"},
       "title": "Ogden Nash in Reply to Dorothy Parker",
       "author": {
@@ -1637,9 +1595,10 @@
      }
    ],
    "comment": "Resume contribution search with 1962 JanJun",
+   "additional-note":  "Active contribution renewals are recorded beginning in the 1958 January-June CCE volume, but the earliest actively renewed contribution is noted in the 1958 July-December volume.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-02-08"
+   "last-updated": "2026-01-07"
 }

@@ -1,58 +1,14 @@
 {
    "title": "St. Nicholas Magazine",
    "online": "1",
-   "first-renewed-issue": 
-     {"issue-date": "1930-02", "volume": "57", "number": "4",
-      "cdate": "1930-01-25"},
-   "first-renewed-issue-source": "1957-JulDec",
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1930-06"}},
+     {"issue": {"issue-date": "1931-02", "cdate": "1931-01-20"}},
    "first-renewed-contribution-source": "1958-JanJun",
-   "renewed-issue-completeness": "active/1931",
-   "renewed-issues": [
-     {"issue-date": "1930-02", "volume": "57", "number": "4",
-      "cdate": "1930-01-25"},
-     {"issue-date": "1930-03", "volume": "57", "number": "5"},
-     {"issue-date": "1930-04", "volume": "57", "number": "6"},
-     {"issue-date": "1930-05", "volume": "57", "number": "7"}
-   ],
+   "renewed-issue-completeness": "active/end",
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1930-06"},
-        "title": "Last Words, Can You Puzzle Out These?",
-        "author": {
-         "authorized": "Longstreth, Edward, 1894-",
-         "lcna": "no2010003209"
-        }
-     },
-     {"issue": {"issue-date": "1930-10"},
-        "title": "The Witch's Hen",
-        "author": {
-         "authorized": "Best, Herbert, 1894-1981",
-         "lcna": "n50011143"
-        }
-     },
-     {"issue": {"issue-date": "1930-11"},
-        "title": "The Winning of a Name",
-        "author": {
-         "authorized": "Best, Herbert, 1894-1981",
-         "lcna": "n50011143"
-        }
-     },
-     {"issue": {"issue-date": "1931-01"},
-        "title": "The Ghost Hyenas",
-        "author": {
-         "authorized": "Best, Herbert, 1894-1981",
-         "lcna": "n50011143"
-        }
-     },
-     {"issue": {"issue-date": "1931-01"},
-        "title": "The Call of Adventure",
-        "author": {
-         "authorized": "McCracken, Harold, 1894-1983",
-         "lcna": "n50007461"
-        }
-     },
      {"issue": {"issue-date": "1931-02"},
         "title": "The Call of Adventure",
         "author": {
@@ -148,5 +104,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-01-06"
+   "last-updated": "2026-01-07"
 }

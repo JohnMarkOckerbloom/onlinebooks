@@ -1,30 +1,18 @@
 {
    "title": "Over the Top",
+   "online": "1",
    "contents": [
       {"url": "http://www.philsp.com/homeville/AFI/link.asp?magid=OVRTP",
        "note": "FictionMags"}
    ],
    "first-issue": 
        {"issue-date": "1928-10", "volume": "1", "number": "1"},
-   "first-renewed-issue":
-       {"issue-date": "1930-03", "volume": "3", "number": "6",
-        "cdate": "1930-02-05"},
-   "first-renewed-issue-source": "1957-JanJun",
-   "first-renewed-contribution": "none",
-   "first-renewed-contribution-source": "cce",
+   "rights-statement": "NoC-US",
    "last-issue": {"issue-date": "1930-06", "volume": "4", "number": "3"},
    "succeeded-by": [{"id": "highspot30", "note": "High Spot Magazine"}],
-   "renewed-issue-completeness": "active/end",
-   "renewed-issues": [
-       {"issue-date": "1930-03", "volume": "3", "number": "6",
-        "cdate": "1930-02-05"},
-       {"issue-date": "1930-04", "volume": "4", "number": "1"},
-       {"issue-date": "1930-05", "volume": "4", "number": "2"},
-       {"issue-date": "1930-06", "volume": "4", "number": "3"}
-   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-01-06"
+   "last-updated": "2026-01-05"
 }

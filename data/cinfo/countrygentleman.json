@@ -2,28 +2,14 @@
    "title": "Country Gentleman",
    "online": "1",
    "first-renewed-issue": 
-     {"issue-date": "1930-02", "volume": "95", "number": "2",
-      "cdate": "1930-01-30"},
-   "first-renewed-issue-source": "1957-JulDec",
+     {"issue-date": "1931-02", "volume": "101", "number": "2",
+      "cdate": "1931-01-22"},
+   "first-renewed-issue-source": "1958-JulDec",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1930-02"}}, 
-   "first-renewed-contribution-source": "1957-JanJun",
+     {"issue": {"issue-date": "1931-02"}}, 
+   "first-renewed-contribution-source": "1958-JanJun",
    "renewed-issue-completeness": "active/1935",
    "renewed-issues": [
-     {"issue-date": "1930-02", "volume": "95", "number": "2",
-      "cdate": "1930-01-30"},
-     {"issue-date": "1930-03", "volume": "95", "number": "3"},
-     {"issue-date": "1930-04", "volume": "95", "number": "4"},     
-     {"issue-date": "1930-05", "volume": "95", "number": "5"},
-     {"issue-date": "1930-06", "volume": "95", "number": "6"},
-     {"issue-date": "1930-07", "volume": "95", "number": "7"},
-     {"issue-date": "1930-08", "volume": "95", "number": "8"},
-     {"issue-date": "1930-09", "volume": "95", "number": "9"},
-     {"issue-date": "1930-10", "volume": "95", "number": "10"},
-     {"issue-date": "1930-11", "volume": "95", "number": "11"},
-     {"issue-date": "1930-12", "volume": "95", "number": "12"},
-     {"issue-date": "1931-01", "volume": "101", "number": "1",
-      "cdate": "1930-12-18"},
      {"issue-date": "1931-02", "volume": "101", "number": "2",
       "cdate": "1931-01-22"},
      {"issue-date": "1931-03", "volume": "101", "number": "3"},
@@ -102,60 +88,8 @@
      {"issue-date": "1936-06", "volume": "106", "number": "6"},
      {"issue-date": "1936-07", "volume": "106", "number": "7"}
    ],
-   "renewed-contribution-completeness": "active/1931",
+   "renewed-contribution-completeness": "active/1932",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1930-02"}, 
-      "title": "Rustlers of Silver River",
-      "title-note": "part 3 of 5",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1930-03"}, 
-      "title": "Rustlers of Silver River",
-      "title-note": "part 4 of 5",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1930-03"}, 
-      "title": "Loyalty",
-      "author": {
-         "authorized": "Titus, Harold, 1888-1967",
-         "lcna": "no2008175553"
-      }
-     },
-     {"issue": {"issue-date": "1930-04"}, 
-      "title": "Rustlers of Silver River",
-      "title-note": "part 5 of 5",
-      "author": {
-         "authorized": "Grey, Zane, 1872-1939",
-         "lcna": "n79011137"
-      }
-     },
-     {"issue": {"issue-date": "1930-05"}, 
-      "title": "Drums of the Yaqui",
-      "author": {
-       "authorized": "Squier, Emma-Lindsay, 1892-1941",
-       "lcna": "no2007059420"
-      }
-     },
-     {"issue": {"issue-date": "1930-11"}, 
-      "title": "The Iron Cross",
-      "author": {
-         "authorized": "Raine, Norman Reilly, 1895-1971",
-         "lcna": "n85342738"
-      }
-     },
-     {"issue": {"issue-date": "1930-12"},
-      "title": "Brains Don't Count in Harleyburg",
-      "author": {
-         "authorized": "Kilbourne, Fannie, 1890-",
-         "lcna": "no93026233"
-       }
-     },
      {"issue": {"issue-date": "1931-02"}, 
       "title": "Road Open",
       "author": {
@@ -297,11 +231,27 @@
        "lcna": "n80006285"
       }
      },
+     {"issue": {"issue-date": "1932-12"},
+      "title": "Jewels of Ascalon",
+      "title-note": "part 1 of 5",
+      "author": {
+       "authorized": "Kelland, Clarence Budington, 1881-1964",
+       "lcna": "n85050359"
+      }
+     },
      {"issue": {"issue-date": "1933-01"}, 
       "title": "Shears",
       "author": {
        "authorized": "Williams, Ben Ames, 1889-1953",
        "lcna": "n80006285"
+      }
+     },
+     {"issue": {"issue-date": "1933-01"},
+      "title": "Jewels of Ascalon",
+      "title-note": "part 2 of 5",
+      "author": {
+       "authorized": "Kelland, Clarence Budington, 1881-1964",
+       "lcna": "n85050359"
       }
      },
      {"issue": {"issue-date": "1933-02"}, 
@@ -311,17 +261,77 @@
        "lcna": "no2010089781"
       }
      },
+     {"issue": {"issue-date": "1933-02"},
+      "title": "Jewels of Ascalon",
+      "title-note": "part 3 of 5",
+      "author": {
+       "authorized": "Kelland, Clarence Budington, 1881-1964",
+       "lcna": "n85050359"
+      }
+     },
+     {"issue": {"issue-date": "1933-03"},
+      "title": "Jewels of Ascalon",
+      "title-note": "part 4 of 5",
+      "author": {
+       "authorized": "Kelland, Clarence Budington, 1881-1964",
+       "lcna": "n85050359"
+      }
+     },
+     {"issue": {"issue-date": "1933-04"},
+      "title": "Jewels of Ascalon",
+      "title-note": "part 5 of 5",
+      "author": {
+       "authorized": "Kelland, Clarence Budington, 1881-1964",
+       "lcna": "n85050359"
+      }
+     },
      {"issue": {"issue-date": "1933-05"},
        "title": "Sap Business",
        "author": {
          "authorized": "Kahler, Hugh MacNair, 1883-1969",
          "lcna": "no96006587"
        }
+     },
+     {"issue": {"issue-date": "1933-05"},
+      "title": "Masks Off at Midnight",
+      "author": {
+         "authorized": "Williams, Valentine, 1883-1946",
+         "lcna": "no95040150"
+      }
+     },
+     {"issue": {"issue-date": "1933-07"},
+      "title": "Masks Off at Midnight",
+      "author": {
+         "authorized": "Williams, Valentine, 1883-1946",
+         "lcna": "no95040150"
+      }
+     },
+     {"issue": {"issue-date": "1933-09"},
+       "title": "Side Line",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1933-10"},
+        "title": "Citizens for Ohio",
+        "author": {
+         "authorized": "Edmonds, Walter D. (Walter Dumaux), 1903-1998",
+         "lcna": "n79083990"
+        }
+     },
+     {"issue": {"issue-date": "1933-12"}, 
+      "title": "Mary Lou Decides",
+      "author": {
+       "authorized": "Jackson, Margaret Weymouth",
+       "lcna": "no94014713"
+      }
      }
    ],
+   "comment": "Pick up contribution renewals at 1961 Jan-Jun",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-06-28"
+   "last-updated": "2026-01-22"
 }

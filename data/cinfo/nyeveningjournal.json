@@ -4,30 +4,24 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1930-01-11"}},
-   "first-renewed-contribution-source": "1958-JanJun",
+     {"issue": {"issue-date": "1937-02-13"}},
+   "first-renewed-contribution-source": "1964-JulDec",
    "last-issue": {"issue-date": "1937-06-24"},
    "succeeded-by":
       [{"id": "nyjnlamerican", "note": "New York Journal-American"}],
    "renewed-issue-completeness": "active/end",
-   "renewed-contribution-completeness": "active/1936",
+   "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1930-01-11"},
-       "title": "Thimble Theatre",
-       "note": "This day's strip is the first in which the Sea Hag appears and is called by name.",
-       "author": {
-         "authorized": "King Features Syndicate",
-         "lcna": "n82010039"
-        }
-     },
-     {"issue": {"issue-date": "1930-10-06"},
-       "title": "Little Annie Rooney",
-       "author": {
-         "authorized": "King Features Syndicate",
-         "lcna": "n82010039"
-        }
-     },
      {"issue": {"issue-date": "1937-02-13"},
+       "title": "Prince Valiant",
+       "note": "Listed as work for hire by Hal Foster as an employee of King Features Syndicate.  King Features is the author for copyright purposes.",
+       "authors": [
+        {"authorized": "Foster, Harold R. (Harold Rudolf), 1892-1982",
+         "lcna": "n82119206"},
+        {"authorized": "King Features Syndicate", "lcna": "n82010039"}
+       ]
+     },
+     {"issue": {"issue-date": "1937-02-27"},
        "title": "Prince Valiant",
        "note": "Listed as work for hire by Hal Foster as an employee of King Features Syndicate.  King Features is the author for copyright purposes.",
        "authors": [
@@ -37,10 +31,10 @@
        ]
      }
    ],
-   "comment": "There are also some renewals for contributions in the merged Journal and American.",
+   "additional-note": "The two renewals above are the only contribution renewals specifically mentioning the New York [Evening] Journal before it merged with the American.  However, King Features was also renewing copyrights from 1933 onward for publications that included its syndicated comics and other features.  Such features appearing in the Journal would also most likely be covered by those copyrights.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-01-01"
+   "last-updated": "2026-01-09"
 }

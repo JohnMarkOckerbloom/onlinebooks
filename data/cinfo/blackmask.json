@@ -8,28 +8,14 @@
    ],
    "first-issue": {"issue-date": "1920-04", "volume": "1", "number": "1"},
    "first-renewed-issue": 
-           {"issue-date": "1930-02", "volume": "12", "number": "12",
-            "cdate": "1930-01-12"},
-   "first-renewed-issue-source": "1957-JulDec",
+           {"issue-date": "1931-02", "volume": "13", "number": "12",
+            "cdate": "1931-01-12"},
+   "first-renewed-issue-source": "1958-JulDec",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1930-02", "volume": "12", "number": "12"}},
-   "first-renewed-contribution-source": "1957-JanJun",
+     {"issue": {"issue-date": "1931-02", "volume": "13", "number": "12"}}, 
+   "first-renewed-contribution-source": "1958-JanJun",
    "renewed-issue-completeness": "active/end",
    "renewed-issues": [
-           {"issue-date": "1930-02", "volume": "12", "number": "12",
-            "cdate": "1930-01-12"},
-           {"issue-date": "1930-03", "volume": "13", "number": "1"},           
-           {"issue-date": "1930-04", "volume": "13", "number": "2"},  
-           {"issue-date": "1930-05", "volume": "13", "number": "3"},  
-           {"issue-date": "1930-06", "volume": "13", "number": "4"},
-           {"issue-date": "1930-07", "volume": "13", "number": "5"}, 
-           {"issue-date": "1930-08", "volume": "13", "number": "6"}, 
-           {"issue-date": "1930-09", "volume": "13", "number": "7"}, 
-           {"issue-date": "1930-10", "volume": "13", "number": "8"}, 
-           {"issue-date": "1930-11", "volume": "13", "number": "9"},
-           {"issue-date": "1930-12", "volume": "13", "number": "10"},
-           {"issue-date": "1931-01", "volume": "13", "number": "11",
-            "cdate": "1930-12-12"},
            {"issue-date": "1931-02", "volume": "13", "number": "12",
             "cdate": "1931-01-12"},
            {"issue-date": "1931-03", "volume": "14", "number": "1"},
@@ -226,101 +212,6 @@
    ],
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1930-02", "volume": "12", "number": "12"}, 
-      "title": "Alley Rat",
-      "author": {
-         "authorized": "Nebel, Frederick",
-         "lcna": "n80020640"
-      }
-     },
-     {"issue": {"issue-date": "1930-03", "volume": "13", "number": "1"},
-      "title": "The Glass Key",
-      "title-note": "part 1 of 4",
-      "note": "Title as given in CCE renewal record.  FictionMags gives the title of Hammett's contribution to this issue as 'The Glass Key: The Hat Trick', first in a monthly series of stories with titles headed 'The Glass Key'.",
-      "author": {
-       "authorized": "Hammett, Dashiell, 1894-1961",
-       "lcna": "n80016943"
-      }
-     },
-     {"issue": {"issue-date": "1930-04", "volume": "13", "number": "2"}, 
-      "title": "Wise Guy",
-      "author": {
-         "authorized": "Nebel, Frederick",
-         "lcna": "n80020640"
-      }
-     },
-     {"issue": {"issue-date": "1930-04", "volume": "13", "number": "2"}, 
-      "title": "The Glass Key",
-      "title-note": "part 2 of 4",
-      "note": "Title as given in CCE renewal record.  FictionMags gives the title of Hammett's contribution to this issue as 'The Glass Key: The Cyclone Shot', second in a monthly series of stories with titles headed 'The Glass Key'.",
-      "author": {
-       "authorized": "Hammett, Dashiell, 1894-1961",
-       "lcna": "n80016943"
-      }
-     },
-     {"issue": {"issue-date": "1930-05", "volume": "13", "number": "3"}, 
-      "title": "The Glass Key",
-      "title-note": "part 3 of 4",
-      "note": "Title as given in CCE renewal record.  FictionMags gives the title of Hammett's contribution to this issue as 'The Glass Key: Dagger Point', third in a monthly series of stories with titles headed 'The Glass Key'.",
-      "author": {
-       "authorized": "Hammett, Dashiell, 1894-1961",
-       "lcna": "n80016943"
-      }
-     },
-     {"issue": {"issue-date": "1930-05", "volume": "13", "number": "3"}, 
-      "title": "Crime Crusher",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1930-06", "volume": "13", "number": "4"}, 
-      "title": "The Glass Key",
-      "title-note": "part 4 of 4",
-      "note": "Title as given in CCE renewal record.  FictionMags gives the title of Hammett's contribution to this issue as 'The Glass Key: The Shattered Key', fourth in a monthly series of stories with titles headed 'The Glass Key'.",
-      "author": {
-       "authorized": "Hammett, Dashiell, 1894-1961",
-       "lcna": "n80016943"
-      }
-     },
-     {"issue": {"issue-date": "1930-06", "volume": "13", "number": "4"}, 
-      "title": "Hell's Kettle",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1930-07", "volume": "13", "number": "5"}, 
-      "title": "Big Shot",
-      "note": "CCE renewal record says this appeared in the June 1930 issue, but the original issue registration ID and copyright date indicate the July 1930 issue, as does FictionMags's entry for this story.",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-       }
-     },
-     {"issue": {"issue-date": "1930-08", "volume": "13", "number": "6"}, 
-      "title": "Ten Men From Chicago",
-      "note": "Title as given on issue cover. CCE renewal record gives title as 'The Men From Chicago'.",
-      "author": {
-         "authorized": "Nebel, Frederick",
-         "lcna": "n80020640"
-      }
-     },
-     {"issue": {"issue-date": "1930-09", "volume": "13", "number": "7"}, 
-      "title": "Shakedown",
-      "note": "Title as given in CCE renewal record. FictionMags gives title as 'Shake-Down'.",
-      "author": {
-         "authorized": "Nebel, Frederick",
-         "lcna": "n80020640"
-      }
-     },
-     {"issue": {"issue-date": "1930-12", "volume": "13", "number": "10"}, 
-      "title": "The Red-Hots",
-      "author": {
-         "authorized": "Nebel, Frederick",
-         "lcna": "n80020640"
-      }
-     },
      {"issue": {"issue-date": "1931-02", "volume": "13", "number": "12"}, 
       "title": "Get a Load of This",
       "author": {
@@ -1428,5 +1319,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-01-01"
+   "last-updated": "2026-01-03"
 }

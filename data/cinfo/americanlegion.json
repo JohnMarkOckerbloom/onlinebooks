@@ -7,88 +7,10 @@
      {"issue-date": "1944-11", "volume": "37", "number": "5"},
    "first-renewed-issue-source": "1972",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1930-02", "cdate": "1930-01-25"}}, 
-   "first-renewed-contribution-source": "1957-JulDec",
+     {"issue": {"issue-date": "1931-09"}},
+   "first-renewed-contribution-source": "1958-JulDec",
    "renewed-contribution-completeness": "active/1949",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1930-02", "cdate": "1930-01-25"}, 
-       "title": "Livingston Brothers",
-       "title-note": "part 2 of 9",
-       "author": {
-        "authorized": "Nason, Leonard H. (Leonard Hastings), 1895-1970",
-        "lcna": "no2002077800"
-       }
-     },
-     {"issue": {"issue-date": "1930-03"}, 
-       "title": "Livingston Brothers",
-       "title-note": "part 3 of 9",
-       "author": {
-        "authorized": "Nason, Leonard H. (Leonard Hastings), 1895-1970",
-        "lcna": "no2002077800"
-       }
-     },
-     {"issue": {"issue-date": "1930-04"}, 
-       "title": "Livingston Brothers",
-       "title-note": "part 4 of 9",
-       "author": {
-        "authorized": "Nason, Leonard H. (Leonard Hastings), 1895-1970",
-        "lcna": "no2002077800"
-       }
-     },
-     {"issue": {"issue-date": "1930-05"}, 
-       "title": "Livingston Brothers",
-       "title-note": "part 5 of 9",
-       "author": {
-        "authorized": "Nason, Leonard H. (Leonard Hastings), 1895-1970",
-        "lcna": "no2002077800"
-       }
-     },
-     {"issue": {"issue-date": "1930-06"}, 
-       "title": "Livingston Brothers",
-       "title-note": "part 6 of 9",
-       "author": {
-        "authorized": "Nason, Leonard H. (Leonard Hastings), 1895-1970",
-        "lcna": "no2002077800"
-       }
-     },
-     {"issue": {"issue-date": "1930-07"}, 
-       "title": "Livingston Brothers",
-       "title-note": "part 7 of 9",
-       "author": {
-        "authorized": "Nason, Leonard H. (Leonard Hastings), 1895-1970",
-        "lcna": "no2002077800"
-       }
-     },
-     {"issue": {"issue-date": "1930-08"}, 
-       "title": "Livingston Brothers",
-       "title-note": "part 8 of 9",
-       "author": {
-        "authorized": "Nason, Leonard H. (Leonard Hastings), 1895-1970",
-        "lcna": "no2002077800"
-       }
-     },
-     {"issue": {"issue-date": "1930-09"}, 
-       "title": "Livingston Brothers",
-       "title-note": "part 9 of 9",
-       "author": {
-        "authorized": "Nason, Leonard H. (Leonard Hastings), 1895-1970",
-        "lcna": "no2002077800"
-       }
-     },
-     {"issue": {"issue-date": "1931-01"},
-        "title": "I Might Just as Well Have Played Hooky",
-        "author": {
-         "authorized": "Woollcott, Alexander, 1887-1943",
-         "lcna": "n80024589"
-        }
-     },
-     {"issue": {"issue-date": "1931-01"},
-       "title": "$10.00 Down",
-       "author": {
-        "authorized": "Roche, Arthur Somers, 1883-1935",
-        "lcna": "no89021623"
-       }
-     },
      {"issue": {"issue-date": "1931-09"},
       "title": "The War We Lost by Pacificism",
       "title-note": "part 1 of 2",
@@ -289,5 +211,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-01-01"
+   "last-updated": "2026-01-02"
 }

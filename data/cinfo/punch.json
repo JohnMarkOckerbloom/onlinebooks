@@ -5,12 +5,150 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1930-12-17"}},
-   "first-renewed-contribution-source": "1958-JanJun",
+     {"issue": {"issue-date": "1954-01-06"}},
+   "first-renewed-contribution-source": "database",
+   "renewed-contribution-completeness": "active/1955",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1954-01-06"},
+        "title": "School Life in Majorca",
+        "author": {
+         "authorized": "Graves, Robert, 1895-1985",
+         "lcna": "n79018421"
+        }
+     },
+     {"issue": {"issue-date": "1954-02-17"},
+        "title": "Treacle Tart",
+        "author": {
+         "authorized": "Graves, Robert, 1895-1985",
+         "lcna": "n79018421"
+        }
+     },
+     {"issue": {"issue-date": "1954-05-05"},
+        "title": "The Full Length",
+        "author": {
+         "authorized": "Graves, Robert, 1895-1985",
+         "lcna": "n79018421"
+        }
+     },
+     {"issue": {"issue-date": "1954-05-26"},
+        "title": "From the Uneconomist",
+        "author": {
+         "authorized": "Graves, Robert, 1895-1985",
+         "lcna": "n79018421"
+        }
+     },
+     {"issue": {"issue-date": "1954-06-23"},
+        "title": "Six Valiant Bulls",
+        "author": {
+         "authorized": "Graves, Robert, 1895-1985",
+         "lcna": "n79018421"
+        }
+     },
+     {"issue": {"issue-date": "1954-08-04"},
+        "title": "Flesh-Coloured Net Tights",
+        "author": {
+         "authorized": "Graves, Robert, 1895-1985",
+         "lcna": "n79018421"
+        }
+     },
+     {"issue": {"issue-date": "1954-08-18"},
+        "title": "Thy Servant and God's",
+        "author": {
+         "authorized": "Graves, Robert, 1895-1985",
+         "lcna": "n79018421"
+        }
+     },
+     {"issue": {"issue-date": "1954-08-25"},
+       "title": "Fishing in Paris",
+       "author": {
+         "authorized": "Steinbeck, John, 1902-1968",
+         "lcna": "n79081460"
+       }
+     },
+     {"issue": {"issue-date": "1954-09-08"},
+        "title": "Varro's Four Hundred and Ninety Books",
+        "author": {
+         "authorized": "Graves, Robert, 1895-1985",
+         "lcna": "n79018421"
+        }
+     },
+     {"issue": {"issue-date": "1954-12-01"},
+        "title": "An Appointment for Candlemans",
+        "author": {
+         "authorized": "Graves, Robert, 1895-1985",
+         "lcna": "n79018421"
+        }
+     },
+     {"issue": {"issue-date": "1954-12-29"},
+        "title": "The Five Godfathers",
+        "author": {
+         "authorized": "Graves, Robert, 1895-1985",
+         "lcna": "n79018421"
+        }
+     },
+     {"issue": {"issue-date": "1955-01-12"},
+        "title": "The White Horse",
+        "author": {
+         "authorized": "Graves, Robert, 1895-1985",
+         "lcna": "n79018421"
+        }
+     },
+     {"issue": {"issue-date": "1955-02-16"},
+        "title": "Epics Are Out of Fashion",
+        "author": {
+         "authorized": "Graves, Robert, 1895-1985",
+         "lcna": "n79018421"
+        }
+     },
+     {"issue": {"issue-date": "1955-04-20"},
+        "title": "They Say, They Say",
+        "author": {
+         "authorized": "Graves, Robert, 1895-1985",
+         "lcna": "n79018421"
+        }
+     },
+     {"issue": {"issue-date": "1955-05-25"},
+       "title": "The Summer Before",
+       "author": {
+         "authorized": "Steinbeck, John, 1902-1968",
+         "lcna": "n79081460"
+       }
+     },
+     {"issue": {"issue-date": "1955-06-22"},
+       "title": "Report on America",
+       "author": {
+         "authorized": "Steinbeck, John, 1902-1968",
+         "lcna": "n79081460"
+       }
+     },
+     {"issue": {"issue-date": "1955-06-29"},
+        "title": "The Abominable Mister Gunn",
+        "author": {
+         "authorized": "Graves, Robert, 1895-1985",
+         "lcna": "n79018421"
+        }
+     },
+     {"issue": {"issue-date": "1955-09-21"},
+        "title": "To a Pebble in My Show",
+        "note": "Renewal notes an additional title 'To a Spiteful Critic'.",
+        "author": {
+         "authorized": "Graves, Robert, 1895-1985",
+         "lcna": "n79018421"
+        }
+     },
+     {"issue": {"issue-date": "1955-11-02"},
+       "title": "Writer's Mail",
+       "author": {
+         "authorized": "Steinbeck, John, 1902-1968",
+         "lcna": "n79081460"
+       }
+     }
+   ],
+   "comment": "Resume contribution includigon from 'Cambridge upstairs', #43 when sorting by date after selecting for REnewals'",
    "additional-note" : "This is a British publication.  Its contents may still be copyrighted even without renewals or copyright notices, if they meet GATT copyright restoration requirements for works first published outside the US.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-01-12"
+   "last-updated": "2026-01-10"
 }

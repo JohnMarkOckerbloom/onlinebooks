@@ -1,6 +1,7 @@
 {
    "title": "Lariat Story Magazine",
    "aka": ["Lariat"],
+   "online": "1",
    "contents": [
       {"url": "http://www.philsp.com/homeville/WFI/link.asp?magid=LRTTH",
        "note": "FictionMags (partial)"}
@@ -10,11 +11,233 @@
    "first-issue": {"issue-date": "1925-08", "volume": "1", "number": "8"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
-   "first-renewed-contribution": {"issue": {"issue-date": "1930-04"}},
-   "first-renewed-contribution-source": "1957-JulDec",
+   "first-renewed-contribution": {"issue": {"issue-date": "1931-04"}},
+   "first-renewed-contribution-source": "1958-JulDec",
+   "renewed-contribution-completeness": "active/1949",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1931-04", "volume": "7", "number": "4"}, 
+      "title": "The Black Maverick",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
+     {"issue": {"issue-date": "1931-05", "volume": "7", "number": "5"}, 
+      "title": "Cows Don't Have Wings",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
+     {"issue": {"issue-date": "1934-March-April", "volume": "9", "number": "1"}, 
+      "title": "Montana Man",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
+     {"issue": {"issue-date": "1934-06", "volume": "9", "number": "2"}, 
+      "title": "Lone Wolf",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
+     {"issue": {"issue-date": "1934-09", "volume": "9", "number": "3"}, 
+      "title": "Snake Sign",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
+     {"issue": {"issue-date": "1934-10", "volume": "9", "number": "4"}, 
+      "title": "Limb of the Law",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
+     {"issue": {"issue-date": "1934-12", "volume": "9", "number": "5"}, 
+      "title": "Bear Paw",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
+     {"issue": {"issue-date": "1935-04", "volume": "9", "number": "7"}, 
+      "title": "Breed of the West",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
+     {"issue": {"issue-date": "1935-08", "volume": "9", "number": "9"}, 
+      "title": "The Zebra Dun",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
+     {"issue": {"issue-date": "1935-10", "volume": "9", "number": "10"}, 
+      "title": "Lobo of the Wastelands",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
+     {"issue": {"issue-date": "1936-02", "volume": "9", "number": "12"}, 
+      "title": "He Heard the Owl Hoot",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
+     {"issue": {"issue-date": "1936-06", "volume": "10", "number": "2"}, 
+      "title": "The Ranch of the Four Winds",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
+     {"issue": {"issue-date": "1936-08", "volume": "10", "number": "3"}, 
+      "title": "Riders of Fortune",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
+     {"issue": {"issue-date": "1936-10", "volume": "10", "number": "4"}, 
+      "title": "Cowboy Cole, Manhunter",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
+     {"issue": {"issue-date": "1936-12", "volume": "10", "number": "5"}, 
+      "title": "Doom Guns",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
+     {"issue": {"issue-date": "1937-01", "volume": "10", "number": "6"}, 
+      "title": "Hell-Taming Hombre",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
+     {"issue": {"issue-date": "1937-05", "volume": "10", "number": "8"}, 
+      "title": "Rusty Sixes",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
+     {"issue": {"issue-date": "1937-07", "volume": "10", "number": "9"}, 
+      "title": "Double-Cross Roundup",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
+     {"issue": {"issue-date": "1937-09", "volume": "10", "number": "10"}, 
+      "title": "Senorita Satan",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
+     {"issue": {"issue-date": "1937-11", "volume": "10", "number": "11"}, 
+      "title": "The Bullet Brander",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
+     {"issue": {"issue-date": "1938-01", "volume": "10", "number": "12"}, 
+      "title": "Six-Gun Ball",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
+     {"issue": {"issue-date": "1938-03", "volume": "11", "number": "1"}, 
+      "title": "Smoke Over the Range",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
+     {"issue": {"issue-date": "1938-05", "volume": "11", "number": "2"}, 
+      "title": "Buscadero Blaster",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
+     {"issue": {"issue-date": "1938-07", "volume": "11", "number": "3"}, 
+      "title": "The Last Lobo",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
+     {"issue": {"issue-date": "1938-09", "volume": "11", "number": "4"}, 
+      "title": "Hell-Cat of the Bitter-River Range",
+      "note": "Title as given on cover. CCE renewal record gives title as 'Hell-Cat of the Bitter Range'.",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
+     {"issue": {"issue-date": "1939-01", "volume": "11", "number": "6"}, 
+      "title": "Snake Tracks",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
+     {"issue": {"issue-date": "1939-05", "volume": "11", "number": "8"}, 
+      "title": "Black Horseman of the Badlands",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
+     {"issue": {"issue-date": "1939-July-August", "volume": "11", "number": "9"}, 
+      "title": "Montana Hellion",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
+     {"issue": {"issue-date": "1940-01", "volume": "11", "number": "11"}, 
+      "title": "The Gun Hombre of Hell and Back",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
+     {"issue": {"issue-date": "1940-03", "volume": "11", "number": "12"}, 
+      "title": "Señor Hardcase",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
+     {"issue": {"issue-date": "1949-01", "volume": "16", "number": "5"}, 
+      "title": "Gun-Mistress of the Smokepole Pack",
+      "note": "Title as given on cover. CCE renewal record gives title as 'Gun-Mistress of the Smoke Pole Pack'.",
+      "author": {
+       "name": "Thomas Thompson"
+      }
+     }
+   ],
+   "comment": "Resume contribution renewal search with CPRS",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-01-05"
+   "last-updated": "2026-01-06"
 }

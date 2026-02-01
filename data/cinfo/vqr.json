@@ -3,20 +3,14 @@
    "online": "1",
    "first-issue": {"issue-date": "1925-04", "volume": "1", "number": "1"},
    "first-renewed-issue": 
-      {"issue-date": "1930-04", "volume": "6", "number": "2",
-       "cdate": "1930-03-12"},
-   "first-renewed-issue-source": "1957-JulDec",
+      {"issue-date": "1931-04", "volume": "7", "number": "2",
+       "cdate": "1931-03-15"},
+   "first-renewed-issue-source": "1958-JulDec",
    "first-renewed-contribution":
-     {"issue": {"issue-date": "1931-01"}},
-   "first-renewed-contribution-source": "1958-JanJun",
+     {"issue": {"issue-date": "1931-07"}},
+   "first-renewed-contribution-source": "1959-JanJun",
    "renewed-issue-completeness": "active/1935",
    "renewed-issues": [
-      {"issue-date": "1930-04", "volume": "6", "number": "2",
-       "cdate": "1930-03-12"},
-      {"issue-date": "1930-07", "volume": "6", "number": "3"},
-      {"issue-date": "1930-10", "volume": "6", "number": "4"},
-      {"issue-date": "1931-01", "volume": "7", "number": "1",
-       "cdate": "1930-12-15"},
       {"issue-date": "1931-04", "volume": "7", "number": "2",
        "cdate": "1931-03-15"},
       {"issue-date": "1931-07", "volume": "7", "number": "3"},
@@ -54,13 +48,6 @@
    ],
    "renewed-contribution-completeness": "active/1932",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1931-01"},
-      "title": "J. J. Lankes and His Woodcuts",
-      "author": {
-       "authorized": "Anderson, Sherwood, 1876-1941",
-       "lcna": "n79045519"
-      }
-     },
      {"issue": {"issue-date": "1931-07"},
         "title": "Poor Fool, Deluded Toy, Brief Anthropomorph",
         "note": "CCE renewal record gives serial title as 'Virginia Quarterly'.",
@@ -94,5 +81,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-07-22"
+   "last-updated": "2026-01-09"
 }

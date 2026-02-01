@@ -3,15 +3,14 @@
    "title-note": "annual 'regional miscellany'",
    "online": "1",
    "first-issue": {"issue-date": "1929", "volume": "1"},
-   "first-renewed-issue": {"issue-date": "1930", "volume": "2"},
-   "first-renewed-issue-source": "1957-JulDec",
+   "first-renewed-issue": {"issue-date": "1931", "volume": "3"},
+   "first-renewed-issue-source": "1958-JulDec",
    "first-renewed-contribution":
-      {"issue": {"issue-date": "1930", "volume": "2"}},
-   "first-renewed-contribution-source": "1958-JanJun",
+      {"issue": {"issue-date": "1931", "volume": "3"}},
+   "first-renewed-contribution-source": "1958-JulDec",
    "last-issue": {"issue-date": "1932", "volume": "4"},
    "renewed-issue-completeness": "active/end",
    "renewed-issues": [
-     {"issue-date": "1930", "volume": "2"},
      {"issue-date": "1931", "volume": "3"},
      {"issue-date": "1932", "volume": "4"}
    ],
@@ -20,5 +19,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-01-04"
+   "last-updated": "2026-01-04"
 }

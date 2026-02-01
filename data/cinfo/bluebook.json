@@ -7,29 +7,16 @@
        "note": "FictionMags"}
    ],
    "first-renewed-issue": 
-      {"issue-date": "1930-02", "volume": "50", "number": "4",
-       "cdate": "1930-01-01"},
-   "first-renewed-issue-source": "1957-JanJun",
+      {"issue-date": "1931-03", "volume": "52", "number": "5",
+       "cdate": "1931-01-31"},
+   "first-renewed-issue-source": "1958-JanJun",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1930-02", "volume": "50", "number": "4"}},
-   "first-renewed-contribution-source": "1957-JanJun",
+     {"issue": {"issue-date": "1931-06", "volume": "53", "number": "2"}},
+   "first-renewed-contribution-source": "1958-JulDec",
    "renewed-issue-completeness": "active/1949",
    "renewed-issues": [
-      {"issue-date": "1930-02", "volume": "50", "number": "4",
-       "cdate": "1930-01-01"},
-      {"issue-date": "1930-03", "volume": "50", "number": "5"},
-      {"issue-date": "1930-04", "volume": "50", "number": "6"},
-      {"issue-date": "1930-05", "volume": "51", "number": "1"},
-      {"issue-date": "1930-06", "volume": "51", "number": "2"},
-      {"issue-date": "1930-07", "volume": "51", "number": "3"},
-      {"issue-date": "1930-08", "volume": "51", "number": "4"},
-      {"issue-date": "1930-09", "volume": "51", "number": "5"},
-      {"issue-date": "1930-10", "volume": "51", "number": "6"},
-      {"issue-date": "1930-11", "volume": "52", "number": "1"},
-      {"issue-date": "1930-12", "volume": "52", "number": "2"},
-      {"issue-date": "1931-01", "volume": "52", "number": "3"},
-      {"issue-date": "1931-02", "volume": "52", "number": "4"},
-      {"issue-date": "1931-03", "volume": "52", "number": "5"},
+      {"issue-date": "1931-03", "volume": "52", "number": "5",
+       "cdate": "1931-01-31"},
       {"issue-date": "1931-04", "volume": "52", "number": "6"},
       {"issue-date": "1931-05", "volume": "53", "number": "1"},
       {"issue-date": "1931-06", "volume": "53", "number": "2"},
@@ -176,7 +163,7 @@
       {"issue-date": "1943-04", "volume": "76", "number": "6"},
       {"issue-date": "1943-05", "volume": "77", "number": "1"},
       {"issue-date": "1943-06", "volume": "77", "number": "2"},
-      {"issue-date": "1942-07", "volume": "77", "number": "3"},
+      {"issue-date": "1943-07", "volume": "77", "number": "3"},
       {"issue-date": "1943-08", "volume": "77", "number": "4"},
       {"issue-date": "1943-09", "volume": "77", "number": "5"},
       {"issue-date": "1943-10", "volume": "77", "number": "6"},
@@ -333,29 +320,6 @@
    ],
    "renewed-contribution-completeness": "active/1949",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1930-02", "volume": "50", "number": "4"},
-      "title": "The Chief of the Pegasus",
-      "author": {
-         "authorized": "Raine, Norman Reilly, 1895-1971",
-         "lcna": "n85342738"
-      }
-     },
-     {"issue": {"issue-date": "1930-04", "volume": "50", "number": "6"},
-      "title": "Above the Guns",
-      "title-note": "part 1 of 2",
-      "author": {
-         "authorized": "Springs, Elliott White",
-         "lcna": "n86052270"
-      }
-     },
-     {"issue": {"issue-date": "1930-04", "volume": "51", "number": "1"},
-      "title": "Above the Guns",
-      "title-note": "part 2 of 2",
-      "author": {
-         "authorized": "Springs, Elliott White",
-         "lcna": "n86052270"
-      }
-     },
      {"issue": {"issue-date": "1931-06", "volume": "53", "number": "2"},
       "title": "Youth Rides Victorious",
       "title-note": "part 1 of 3",
@@ -1869,5 +1833,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-01-01"
+   "last-updated": "2026-01-03"
 }

@@ -5,16 +5,12 @@
    "first-issue": 
        {"issue-date": "1929-12", "volume": "4", "number": "1"},
    "first-renewed-issue": 
-       {"issue-date": "1930-02", "volume": "4", "number": "2"},
-   "first-renewed-issue-source": "1958-JanJun",
+       {"issue-date": "1931-02", "volume": "5", "number": "2"},
+   "first-renewed-issue-source": "1959-JanJun",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
    "renewed-issue-completeness": "active/1935",
    "renewed-issues": [
-       {"issue-date": "1930-02", "volume": "4", "number": "2"},
-       {"issue-date": "1930-04", "volume": "4", "number": "3"},
-       {"issue-date": "1930-06", "volume": "4", "number": "4"},
-       {"issue-date": "1930-12", "volume": "5", "number": "1"},
        {"issue-date": "1931-02", "volume": "5", "number": "2"},
        {"issue-date": "1931-06", "volume": "5", "number": "4"},
        {"issue-date": "1931-12", "volume": "6", "number": "1"},
@@ -39,5 +35,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-07-14"
+   "last-updated": "2026-01-09"
 }

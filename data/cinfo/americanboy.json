@@ -10,19 +10,11 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1930-02", "cdate": "1930-01-25"}},
-   "first-renewed-contribution-source": "1957-JanJun",
+     {"issue": {"issue-date": "1931-06"}},
+   "first-renewed-contribution-source": "1958-JulDec",
    "see-also": [{"id": "youthscompanion", "note": "The Youth's Companion"}],
    "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1930-02", "cdate": "1930-01-25"},
-      "title": "Haunted Airways",
-      "title-note": "part 4 of 4",
-       "author": {
-         "authorized": "Burtis, Thomson, 1896-1971",
-         "lcna": "no90001891"
-       }
-     },
      {"issue": {"issue-date": "1931-06"},
       "title": "Part of the Picture",
        "author": {
@@ -485,5 +477,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-01-01"
+   "last-updated": "2026-01-02"
 }

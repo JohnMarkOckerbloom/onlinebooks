@@ -825,6 +825,7 @@ sub analyze_form {
       || $title =~ /quick question/i
       || $title =~ /dfdsf/
       || $title =~ /still running/
+      || $title =~ /Instagram/
       || $title =~ /tax assistance/i
       || $title =~ /ister misery 1901/
       || $title =~ /amazing deal/i

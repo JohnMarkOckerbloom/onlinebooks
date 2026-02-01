@@ -16,45 +16,18 @@
    ],
    "first-issue": {"issue-date": "1924-01-01", "volume": "1", "number": "1"},
    "first-renewed-issue": 
-     {"issue-date": "1930-02-01", "volume": "18", "number": "5",
-      "cdate": "1930-01-10"},
-   "first-renewed-issue-source": "1957-JanJun",
+     {"issue-date": "1931-02-01", "volume": "22", "number": "5",
+      "cdate": "1931-01-09"},
+   "first-renewed-issue-source": "1958-JanJun",
    "first-renewed-contribution": 
-     {"issue": {"issue-date": "1930-07-15", "volume": "20", "number": "4"}},
-   "first-renewed-contribution-source": "1957-JulDec",
+     {"issue": {"issue-date": "1931-07-15", "volume": "24", "number": "4"}},
+   "first-renewed-contribution-source": "1959-JanJun",
    "last-issue": 
      {"issue-date": "1937-September-October", "volume": "43", "number": "1"},
    "renewed-issue-completeness": "active/end",
    "renewed-issues": [
-     {"issue-date": "1930-02-01", "volume": "18", "number": "5",
-      "cdate": "1930-01-10"},
-     {"issue-date": "1930-02-15", "volume": "18", "number": "6"},
-     {"issue-date": "1930-03-01", "volume": "19", "number": "1"},
-     {"issue-date": "1930-03-15", "volume": "19", "number": "2"},
-     {"issue-date": "1930-04-01", "volume": "19", "number": "3"},
-     {"issue-date": "1930-04-15", "volume": "19", "number": "4"},
-     {"issue-date": "1930-05-01", "volume": "19", "number": "5"},
-     {"issue-date": "1930-05-15", "volume": "19", "number": "6"},
-     {"issue-date": "1930-06-01", "volume": "20", "number": "1"},
-     {"issue-date": "1930-06-15", "volume": "20", "number": "2"},
-     {"issue-date": "1930-07-01", "volume": "20", "number": "3"},
-     {"issue-date": "1930-07-15", "volume": "20", "number": "4"},
-     {"issue-date": "1930-08-01", "volume": "20", "number": "5"},
-     {"issue-date": "1930-08-15", "volume": "20", "number": "6"},
-     {"issue-date": "1930-09-01", "volume": "21", "number": "1"},
-     {"issue-date": "1930-09-15", "volume": "21", "number": "2"},
-     {"issue-date": "1930-10-01", "volume": "21", "number": "3"},
-     {"issue-date": "1930-10-15", "volume": "21", "number": "4"},
-     {"issue-date": "1930-11-01", "volume": "21", "number": "5"},
-     {"issue-date": "1930-11-15", "volume": "21", "number": "6"},
-     {"issue-date": "1930-12-01", "volume": "22", "number": "1"},
-     {"issue-date": "1930-12-15", "volume": "22", "number": "2"},
-     {"issue-date": "1931-01-01", "volume": "22", "number": "3",
-      "cdate": "1930-12-12"},
-     {"issue-date": "1931-01-15", "volume": "22", "number": "4",
-      "cdate": "1930-12-26"},
      {"issue-date": "1931-02-01", "volume": "22", "number": "5",
-      "cdate": "1930-01-09"},
+      "cdate": "1931-01-09"},
      {"issue-date": "1931-02-15", "volume": "22", "number": "6"},
      {"issue-date": "1931-03-01", "volume": "23", "number": "1"},
      {"issue-date": "1931-03-15", "volume": "23", "number": "2"},
@@ -192,15 +165,8 @@
      {"issue-date": "1937-July-August", "volume": "42", "number": "6"},
      {"issue-date": "1937-September-October", "volume": "43", "number": "1"}
    ],
-   "renewed-contribution-completeness": "active/1931",
+   "renewed-contribution-completeness": "active/end",
    "renewed-contributions": [
-     {"issue": {"issue-date": "1930-07-15", "volume": "20", "number": "4"},
-      "title": "A Short Cut to Rome",
-      "author": {
-         "authorized": "Gardner, Erle Stanley, 1889-1970",
-         "lcna": "n79071101"
-      }
-     },
      {"issue": {"issue-date": "1931-07-15", "volume": "24", "number": "4"},
       "title": "Blood Money",
       "author": {
@@ -237,11 +203,139 @@
          "lcna": "no2003073197"
        }
      },
+     {"issue": {"issue-date": "1932-09-01", "volume": "29", "number": "1"},
+      "title": "Highways of Hazard",
+      "note": "Issue as stated in FictionMags. CCE renewal record instead places it in the October 1 issue. We have not examined the issues in question.",
+      "author": {
+         "authorized": "Parkhill, Forbes, 1892-1974",
+         "lcna": "nr95030515"
+      }
+     },
+     {"issue": {"issue-date": "1932-10-01", "volume": "29", "number": "3"},
+      "title": "Highways of Hazard",
+      "note": "Issue as stated in CCE renewal record. FictionMags instead places it in the September 1 issue. We have not examined the issues in question.",
+      "author": {
+         "authorized": "Parkhill, Forbes, 1892-1974",
+         "lcna": "nr95030515"
+      }
+     },
      {"issue": {"issue-date": "1932-10-15", "volume": "29", "number": "4"},
       "title": "Farewell, Laramie, Farewell",
       "author": {
        "authorized": "Haycox, Ernest, 1899-1950",
        "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1933-04-15", "volume": "31", "number": "4"},
+      "title": "Face Value",
+      "author": {
+         "authorized": "Coxe, George Harmon, 1901-1984",
+         "lcna": "n50017906"
+      }
+     },
+     {"issue": {"issue-date": "1933-07-15", "volume": "32", "number": "4"},
+      "title": "Gambler's Heart",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1933-08-01", "volume": "32", "number": "5"},
+      "title": "The Weakest Link",
+      "author": {
+         "authorized": "Coxe, George Harmon, 1901-1984",
+         "lcna": "n50017906"
+      }
+     },
+     {"issue": {"issue-date": "1933-10-01", "volume": "33", "number": "3"},
+      "title": "Cyclops",
+      "author": {
+         "authorized": "Coxe, George Harmon, 1901-1984",
+         "lcna": "n50017906"
+      }
+     },
+     {"issue": {"issue-date": "1933-11-01", "volume": "33", "number": "5"},
+      "title": "Special Messenger",
+      "author": {
+         "authorized": "Coxe, George Harmon, 1901-1984",
+         "lcna": "n50017906"
+      }
+     },
+     {"issue": {"issue-date": "1933-11-15", "volume": "33", "number": "6"},
+      "title": "Alias the Killer",
+      "author": {
+         "authorized": "Coxe, George Harmon, 1901-1984",
+         "lcna": "n50017906"
+      }
+     },
+     {"issue": {"issue-date": "1933-12-01", "volume": "34", "number": "1"},
+      "title": "Protection Promised",
+      "author": {
+         "authorized": "Coxe, George Harmon, 1901-1984",
+         "lcna": "n50017906"
+      }
+     },
+     {"issue": {"issue-date": "1933-12-15", "volume": "34", "number": "2"},
+      "title": "The Death Club",
+      "author": {
+         "authorized": "Coxe, George Harmon, 1901-1984",
+         "lcna": "n50017906"
+      }
+     },
+     {"issue": {"issue-date": "1934-03-15", "volume": "35", "number": "2"},
+      "title": "A Letter of Death",
+      "author": {
+         "authorized": "Coxe, George Harmon, 1901-1984",
+         "lcna": "n50017906"
+      }
+     },
+     {"issue": {"issue-date": "1934-04-01", "volume": "35", "number": "3"},
+      "title": "Blackmail Incorporated",
+      "author": {
+         "authorized": "Coxe, George Harmon, 1901-1984",
+         "lcna": "n50017906"
+      }
+     },
+     {"issue": {"issue-date": "1934-04-30", "volume": "35", "number": "4"},
+      "title": "Licorice Drops",
+      "author": {
+         "authorized": "Coxe, George Harmon, 1901-1984",
+         "lcna": "n50017906"
+      }
+     },
+     {"issue": {"issue-date": "1934-06-11", "volume": "35", "number": "6"},
+      "title": "The Twelfth Woman",
+      "author": {
+         "authorized": "Coxe, George Harmon, 1901-1984",
+         "lcna": "n50017906"
+      }
+     },
+     {"issue": {"issue-date": "1934-07-01", "volume": "36", "number": "1"},
+      "title": "Easy Money",
+      "author": {
+         "authorized": "Coxe, George Harmon, 1901-1984",
+         "lcna": "n50017906"
+      }
+     },
+     {"issue": {"issue-date": "1934-08-13", "volume": "36", "number": "3"},
+      "title": "The Left Handed Jack",
+      "author": {
+         "authorized": "Pinkerton, Robert E. (Robert Eugene), 1882-1970",
+         "lcna": "no2003073197"
+       }
+     },
+     {"issue": {"issue-date": "1935-05", "volume": "38", "number": "4"},
+      "title": "Gallant Highway",
+      "author": {
+         "authorized": "Blochman, Lawrence G. (Lawrence Goldtree), 1900-1975",
+         "lcna": "n50016555"
+      }
+     },
+     {"issue": {"issue-date": "1936-05", "volume": "40", "number": "4"}, 
+      "title": "The Command to Kill",
+      "author": {
+         "authorized": "Nebel, Frederick",
+         "lcna": "n80020640"
       }
      }
     ],
@@ -251,5 +345,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-06-28"
+   "last-updated": "2026-01-19"
 }
