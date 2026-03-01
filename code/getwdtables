@@ -230,7 +230,7 @@ sub do_viaf_query {
   if (!$querier->write_managed_query(
        query=>$query, format=>"csv", path=>$path,
        min=>$minviaffilesize, max=>$maxviaffilesize)) {
-    print "Something went wrong with the LCCN query\n";
+    print "Something went wrong with the VIAF query\n";
     exit 0;
   }
 }

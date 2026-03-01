@@ -2,19 +2,130 @@
    "title": "The Sign",
    "online": "1",
    "contents": [
-      {"url": "http://www.cpprovince.org/archives/thesign/thesign.php",
+      {"url": "https://passionistarchives.org/category/publications/sign-magazine/",
        "note": "Passionist Historical Archives"}
    ],
    "first-issue": {"issue-date": "1921-08", "volume": "1", "number": "1"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": 
-      {"issue": {"issue-date": "1941-02"}},
+      {"issue": {"issue-date": "1941-02", "volume": "20", "number": "7"}},
    "first-renewed-contribution-source": "1968-JulDec",
    "last-issue": {"issue-date": "1982-05", "volume": "61", "number": "8"},
+   "renewed-contribution-completeness": "active/1949",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1941-02", "volume": "20", "number": "7"},
+      "title": "One of Those Happenings",
+      "author": {
+       "authorized": "Connolly, James B. (James Brendan), 1868-1957",
+       "lcna": "no90002215"
+      }
+     },
+     {"issue": {"issue-date": "1944-02", "volume": "23", "number": "7"},
+      "title": "The Last of the Five Masters",
+      "author": {
+       "authorized": "Connolly, James B. (James Brendan), 1868-1957",
+       "lcna": "no90002215"
+      }
+     },
+     {"issue": {"issue-date": "1944-07", "volume": "23", "number": "12"},
+      "title": "Ship Away",
+      "author": {
+       "authorized": "Connolly, James B. (James Brendan), 1868-1957",
+       "lcna": "no90002215"
+      }
+     },
+     {"issue": {"issue-date": "1945-03", "volume": "24", "number": "8"},
+        "title": "What People Want to Know",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "lcna": "n79041782"
+        }
+     },
+     {"issue": {"issue-date": "1945-09", "volume": "25", "number": "2"},
+        "title": "Old Crimes in New Uniforms",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "lcna": "n79041782"
+        }
+     },
+     {"issue": {"issue-date": "1946-08", "volume": "26", "number": "1"},
+      "title": "The Glad Rags",
+      "author": {
+        "authorized": "Lowry, Robert, 1919-1994",
+        "lcna": "n84077744"
+      }
+     },
+     {"issue": {"issue-date": "1947-05", "volume": "26", "number": "10"},
+        "title": "Bargain in Brimstone",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "lcna": "n79041782"
+        }
+     },
+     {"issue": {"issue-date": "1947-12", "volume": "27", "number": "5"},
+      "title": "What About Alice?",
+      "author": {
+        "authorized": "MacDonald, John D. (John Dann), 1916-1986",
+        "lcna": "n79045202"
+      }
+     },
+     {"issue": {"issue-date": "1949-08", "volume": "29", "number": "1"},
+      "title": "The Story of Mary Murphy",
+      "author": {
+        "authorized": "Bishop, Jim, 1907-1987",
+        "lcna": "n50014511"
+      }
+     },
+     {"issue": {"issue-date": "1949-09", "volume": "29", "number": "2"},
+      "title": "Autocrats of the Breakfast Table",
+      "author": {
+        "authorized": "Phillips, Cabell, 1904-1975",
+        "lcna": "n50010273"
+      }
+     },
+     {"issue": {"issue-date": "1949-11", "volume": "29", "number": "4"},
+      "title": "A Day in the Life of a Priest",
+      "author": {
+        "authorized": "Bishop, Jim, 1907-1987",
+        "lcna": "n50014511"
+      }
+     },
+     {"issue": {"issue-date": "1949-12", "volume": "29", "number": "5"},
+      "title": "Peace Through the Cross",
+      "author": {
+        "name": "Gerard Rooney"
+      }
+     },
+     {"issue": {"issue-date": "1950-01", "volume": "29", "number": "6"},
+      "title": "The Evil That God Permits",
+      "author": {
+        "name": "Gerard Rooney"
+      }
+     },
+     {"issue": {"issue-date": "1950-02", "volume": "29", "number": "7"},
+      "title": "The Cross of God's Justice",
+      "author": {
+        "name": "Gerard Rooney"
+      }
+     },
+     {"issue": {"issue-date": "1950-03", "volume": "29", "number": "8"},
+      "title": "The Cross of God's Mercy",
+      "author": {
+        "name": "Gerard Rooney"
+      }
+     },
+     {"issue": {"issue-date": "1950-04", "volume": "29", "number": "9"},
+      "title": "God's Cross",
+      "author": {
+        "name": "Gerard Rooney"
+      }
+     }
+   ],
+   "comment": "Pick up with contribution renewals in CPRS",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-01-28"
+   "last-updated": "2026-02-06"
 }

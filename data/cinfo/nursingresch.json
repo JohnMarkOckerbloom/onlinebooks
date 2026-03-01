@@ -1,13 +1,46 @@
 {
    "title": "Nursing Research",
+   "online": "1",
    "first-renewed-issue": 
      {"issue-date": "1954-02", "volume": "2", "number": "3"},
    "first-renewed-issue-source": "database",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "database",
+   "renewed-issue-completeness": "active/autorenewals",
+   "renewed-issues": [
+     {"issue-date": "1954-02", "volume": "2", "number": "3"},
+     {"issue-date": "1954-06", "volume": "3", "number": "1"},
+     {"issue-date": "1954-10", "volume": "3", "number": "2"},
+     {"issue-date": "1955-02", "volume": "3", "number": "3"},
+     {"issue-date": "1955-06", "volume": "4", "number": "1"},
+     {"issue-date": "1955-10", "volume": "4", "number": "2"},
+     {"issue-date": "1956-02", "volume": "4", "number": "3"},
+     {"issue-date": "1956-06", "volume": "5", "number": "1"},
+     {"issue-date": "1956-10", "volume": "5", "number": "2"},
+     {"issue-date": "1957-02", "volume": "5", "number": "3"},
+     {"issue-date": "1957-06", "volume": "6", "number": "1"},
+     {"issue-date": "1957-10", "volume": "6", "number": "2"},
+     {"issue-date": "1958-02", "volume": "7", "number": "1"},
+     {"issue-date": "1958-06", "volume": "7", "number": "2"},
+     {"issue-date": "1958-11", "volume": "7", "number": "3"},
+     {"issue-date": "1960-Winter", "volume": "9", "number": "1"},
+     {"issue-date": "1960-Spring", "volume": "9", "number": "2"},
+     {"issue-date": "1960-Summer", "volume": "9", "number": "3"},
+     {"issue-date": "1960-Fall", "volume": "9", "number": "4"},
+     {"issue-date": "1962-Winter", "volume": "11", "number": "1"},
+     {"issue-date": "1962-Spring", "volume": "11", "number": "2"},
+     {"issue-date": "1962-Summer", "volume": "11", "number": "3"},
+     {"issue-date": "1962-Fall", "volume": "11", "number": "4"},
+     {"issue-date": "1963-Winter", "volume": "12", "number": "1"},
+     {"issue-date": "1963-Spring", "volume": "12", "number": "2"},
+     {"issue-date": "1963-Summer", "volume": "12", "number": "3"},
+     {"issue-date": "1963-Fall", "volume": "12", "number": "4"},
+     {"issue-date": "1963-Fall", "volume": "12",
+      "number": "annual index issue"}
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-06-14"
+   "last-updated": "2026-02-25"
 }

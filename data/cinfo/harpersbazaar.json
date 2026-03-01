@@ -86,7 +86,7 @@
      {"issue-date": "1936-03", "volume": "70", "number": "3"},
      {"issue-date": "1936-04", "volume": "70", "number": "4"}
    ],
-   "renewed-contribution-completeness": "active/1931",
+   "renewed-contribution-completeness": "active/1933",
    "renewed-contributions": [
      {"issue": {"issue-date": "1931-07"},
       "title": "Mrs. Trevalyn Serves Tea",
@@ -175,11 +175,138 @@
        "authorized": "Sackville-West, V. (Victoria), 1892-1962",
        "lcna": "n80003934"
       }
+     },
+     {"issue": {"issue-date": "1932-12"},
+      "title": "Horsie",
+      "author": {
+       "authorized": "Parker, Dorothy, 1893-1967",
+       "lcna": "n50050331"
+      }
+     },
+     {"issue": {"issue-date": "1933-01"}, 
+      "title": "Namesake",
+      "author": {
+       "authorized": "Haardt, Sara, 1898-1935",
+       "lcna": "n85161027"
+      }
+     },
+     {"issue": {"issue-date": "1933-02"},
+      "title": "Advice to American Womanhood",
+      "author": {
+         "authorized": "Nash, Ogden, 1902-1971",
+         "lcna": "n79134950"
+       }
+     },
+     {"issue": {"issue-date": "1933-02"},
+      "title": "Advice for the Little Peyton Girl",
+      "author": {
+       "authorized": "Parker, Dorothy, 1893-1967",
+       "lcna": "n50050331"
+      }
+     },
+     {"issue": {"issue-date": "1933-04"},
+      "title": "The Honey Box",
+      "author": {
+         "authorized": "Walpole, Hugh, 1884-1941",
+         "lcna": "n79151207"
+       }
+     },
+     {"issue": {"issue-date": "1933-06"}, 
+      "title": "Twilight of Chivalry",
+      "author": {
+       "authorized": "Haardt, Sara, 1898-1935",
+       "lcna": "n85161027"
+      }
+     },
+     {"issue": {"issue-date": "1933-07"},
+      "title": "The Fear of Death",
+      "author": {
+         "authorized": "Walpole, Hugh, 1884-1941",
+         "lcna": "n79151207"
+       }
+     },
+     {"issue": {"issue-date": "1933-07"},
+      "title": "No News",
+      "author": {
+         "authorized": "Waugh, Alec, 1898-1981",
+         "lcna": "n50023750"
+       }
+     },
+     {"issue": {"issue-date": "1933-08"},
+      "title": "An Instructor of the Game",
+      "author": {
+         "authorized": "Waugh, Alec, 1898-1981",
+         "lcna": "n50023750"
+       }
+     },
+    {"issue": {"issue-date": "1933-10"},
+     "title": "Another Month",
+     "author": {
+      "authorized": "White, Nelia Gardner, 1894-1957",
+      "lcna": "no93013886"
+     }
+    },
+     {"issue": {"issue-date": "1933-11"}, 
+      "title": "Sissy",
+      "author": {
+       "authorized": "Haardt, Sara, 1898-1935",
+       "lcna": "n85161027"
+      }
+     },
+     {"issue": {"issue-date": "1933-11"}, 
+      "title": "I'm in Love",
+      "author": {
+       "authorized": "Hahn, Emily, 1905-1997",
+       "lcna": "n50019689"
+      }
+     },
+    {"issue": {"issue-date": "1933-11"},
+     "title": "The Park Bench",
+     "author": {
+      "authorized": "Wylie, I. A. R. (Ida Alexa Ross), 1885-1959",
+      "lcna": "n87860300"
+     }
+    },
+     {"issue": {"issue-date": "1933-12"},
+      "title": "Mr. Huffam",
+      "author": {
+         "authorized": "Walpole, Hugh, 1884-1941",
+         "lcna": "n79151207"
+       }
+     },
+    {"issue": {"issue-date": "1934-07"},
+     "title": "Squeeze Play",
+     "author": {
+      "authorized": "White, Nelia Gardner, 1894-1957",
+      "lcna": "no93013886"
+     }
+    },
+     {"issue": {"issue-date": "1934-10"},
+      "title": "All the Girls He Wanted",
+      "author": {
+         "authorized": "O'Hara, John, 1905-1970",
+         "lcna": "n79060653"
+      }
+     },
+      {"issue": {"issue-date": "1934-11"},
+        "title": "Princess Kashmir and Swami",
+        "author": {
+         "authorized": "Komroff, Manuel, 1890-1974",
+         "lcna": "n79110548"
+        }
+      },
+     {"issue": {"issue-date": "1934-11"},
+      "title": "The Field With Five Trees",
+      "author": {
+         "authorized": "Walpole, Hugh, 1884-1941",
+         "lcna": "n79151207"
+       }
      }
    ],
+   "comment": "Pick up contribution renewals with 1962 Jan-Jun",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2026-01-05"
+   "last-updated": "2026-02-08"
 }

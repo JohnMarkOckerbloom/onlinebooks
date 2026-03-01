@@ -1,0 +1,32 @@
+{
+   "title": "Tops in Science Fiction",
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/SFI/link.asp?magid=TIS",
+       "note": "FictionMags"},
+      {"url": "https://www.isfdb.org/cgi-bin/pe.cgi?25288",
+       "note": "ISFDB"}
+   ],
+   "first-issue": {"issue-date": "1953-Spring", "volume": "1", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "database",
+   "first-renewed-contribution": 
+     {"issue": {"issue-date": "1953-Spring", "volume": "1", "number": "1"}},
+   "last-issue": {"issue-date": "1953-Fall", "volume": "1", "number": "2"},
+   "see-also": [{"id": "planetstories", "note": "Planet Stories"}],
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1953-Fall", "volume": "1", "number": "2"},
+      "title": "Lorelei of the Red Mist",
+      "note": "This is the only renewal specifically mentioning this magazine.  While there was a renewal filed for this publication of the story, we know of no renewal for the version originally published in Planet Stories in 1946.",
+      "author": {
+       "authorized": "Brackett, Leigh",
+       "lcna": "n79065020"
+      }
+    }
+   ],
+   "additional-note": "This magazine consisted of reprints from the earlier magazine Planet Stories, which originally published the stories in this magazine between 1942 and 1950.  There are active renewals for the original publication there of multiple stories in both issues; hence, we note list the first issue as the first with a renewed contribution.",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2026-02-14"
+}

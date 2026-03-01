@@ -6,9 +6,10 @@
    "first-renewed-issue":
       {"issue-date": "1931-01", "volume": "7", "number": "1"},
    "first-renewed-issue-source": "1958-JulDec",
-   "first-renewed-contribution": {"issue": {"issue-date": "1958-03"}},
+   "first-renewed-contribution":
+     {"issue": {"issue-date": "1958-03", "volume": "61", "number": "3"}},
    "first-renewed-contribution-source": "database",
-   "renewed-issue-completeness": "active/1931",
+   "renewed-issue-completeness": "active/end",
    "renewed-issues": [
       {"issue-date": "1931-01", "volume": "7", "number": "1"},
       {"issue-date": "1931-02", "volume": "7", "number": "2"},
@@ -23,6 +24,25 @@
       {"issue-date": "1931-11", "volume": "8", "number": "5"},
       {"issue-date": "1931-12", "volume": "8", "number": "6"}
    ],
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1958-03", "volume": "61", "number": "3"},
+        "title": "Slide Rule Mathematics",
+        "title-note": "part 1 of 2",
+        "author": {
+         "authorized": "Ritow, Ira",
+         "lcna": "n2003010557"
+        }
+     },
+     {"issue": {"issue-date": "1958-04", "volume": "61", "number": "4"},
+        "title": "Slide Rule Mathematics",
+        "title-note": "part 2 of 2",
+        "author": {
+         "authorized": "Ritow, Ira",
+         "lcna": "n2003010557"
+        }
+     }
+   ],
    "last-issue":
       {"issue-date": "1960-09", "volume": "66", "number": "3"},
    "succeeded-by": 
@@ -31,5 +51,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2026-01-04"
+   "last-updated": "2026-02-14"
 }

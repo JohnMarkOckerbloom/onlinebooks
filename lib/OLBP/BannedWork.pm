@@ -18,7 +18,7 @@ my $wpprefix     = "https://en.wikipedia.org/wiki/";
 my $ltworkprefix = "https://www.librarything.com/work/";
 my $grworkprefix = "https://www.goodreads.com/book/show/";
 
-my $bookshopprefix   = "https://bookshop.org/books?";
+my $bookshopprefix   = "https://bookshop.org/search?";
 my $amazonprefix     = "https://www.amazon.com/s?";
 my $bnprefix         = "https://www.barnesandnoble.com/s/";
 my $bookfinderprefix = "https://www.bookfinder.com/search/?mode=basic&st=sr&ac=qr&lang=any&";

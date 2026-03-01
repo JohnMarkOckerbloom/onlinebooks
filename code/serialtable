@@ -29,26 +29,26 @@ my $issnserial = {};
 my $badissnmap = {};
 my $badissnid = {};
 
-my $cambridge_journals = $pkgdir . "cambridge/CUP_Cambridge_Journals__All_journals_2025-02-09.txt";
-#my $cambridge_journals = $pkgdir . "cambridge/Cambridge Journals: All journals";
+my $cambridge_journals = $pkgdir . "cambridge/CUP_Cambridge_Journals__All_journals_2026-02-09.txt";
+#my $cambridge_journals = $pkgdir . "cambridge/CUP_Cambridge_Journals__All_journals_2025-09-04.txt";
 
 my $hathi_serials = $pkgdir . "hathitrust/wikihathioclcserials.csv";
 my $hathipilot_serials = $pkgdir . "hathitrust/localplusus.tsv";
 my $hathipilot_wdquery = $pkgdir . "hathitrust/wikihathiserial.csv";
 
-#my $jstor_merged = $pkgdir . "jstor/JSTOR_ArchiveTitles_2024-07-23.txt";
-my $jstor_merged = $pkgdir . "jstor/JSTOR_ArchiveTitles_2025-03-03.txt";
-my $jstor_split = $pkgdir . "jstor/JSTOR_Global_AllArchiveTitles_2025-03-03.txt";
-#my $jstor_split = $pkgdir . "jstor/JSTOR_Global_AllArchiveTitles_2024-07-23.txt";
+my $jstor_merged = $pkgdir . "jstor/JSTOR_ArchiveTitles_2026-02-20.txt";
+# my $jstor_merged = $pkgdir . "jstor/JSTOR_ArchiveTitles_2025-03-03.txt";
+#my $jstor_split = $pkgdir . "jstor/JSTOR_Global_AllArchiveTitles_2025-03-03.txt";
+my $jstor_split = $pkgdir . "jstor/JSTOR_Global_AllArchiveTitles_2026-02-20.txt";
 
 
 my $muse_journals = $pkgdir . "muse/muse_journal_metadata_2019.tsv";
 
-my $ovid_complete = $pkgdir . "wolters/Ovid_Global_AllJournals_2025-02-09.txt";
-# my $ovid_complete = $pkgdir . "wolters/Ovid_Global_AllJournals_2024-07-21.txt";
+my $ovid_complete = $pkgdir . "wolters/Ovid_Global_AllJournals_2026-02-15-Fixed.txt";
+# my $ovid_complete = $pkgdir . "wolters/Ovid_Global_AllJournals_2025-09-01.txt";
 
-#my $oxford_archive = $pkgdir . "oxford/OxfordUniversityPress_Global_2024JournalsArchiveAllTitles_2024-04-15.txt";
-my $oxford_archive = $pkgdir . "oxford/OUP_2025_JournalsArchiveAllTitles.txt";
+my $oxford_archive = $pkgdir . "oxford/OUP_2026_JournalsArchiveCollection.txt";
+# my $oxford_archive = $pkgdir . "oxford/OUP_2025_JournalsArchiveAllTitles.txt";
 
 #my $penn_serials = $pkgdir . "penn/Serials before 1964.csv";
 my $penn_serials = $pkgdir . "penn/Serials (All)  - Problem Columns Removed 052220.csv";
@@ -58,20 +58,21 @@ my $penn2_serials = $pkgdir . "penn/Catch22.csv";
 #my $proquest_archive = $pkgdir . "proquest/PeriodicalsArchiveOnline-2023.tsv";
 my $proquest_archive = $pkgdir . "proquest/PeriodicalsArchiveOnline.tsv";
 
-#my $sage_journals = $pkgdir . "sage/deep_backfile_2024_list_0.txt";
-my $sage_journals = $pkgdir . "sage/deep_backfile_2025_list.txt";
+my $sage_journals = $pkgdir . "sage/Complete Deep Backfile Purchase 2026 List.txt";
+# my $sage_journals = $pkgdir . "sage/deep_backfile_2025_list.txt";
 
-my $scidirect_journals = $pkgdir . "elsevier/ScienceDirectStandard_Global_ScienceDirectAvailableJournals_2025-02-09.txt";
-#3my $scidirect_journals = $pkgdir . "elsevier/ScienceDirectStandard_Global_ScienceDirectAvailableJournals_2024-07-23.txt";
+my $scidirect_journals = $pkgdir . "elsevier/ScienceDirectStandard_Global_ScienceDirectAvailableJournals_2026-02-09.txt";
+#my $scidirect_journals = $pkgdir . "elsevier/ScienceDirectStandard_Global_ScienceDirectAvailableJournals_2025-09-04.txt";
 my $sim_journals = $pkgdir . "sim/SIM-MASTER-TITLE-2017.txt";
-#my $springer_journals = $pkgdir . "springer/SpringerNature_Global_CompleteSpringerJournals_2024-07-15.txt";
-my $springer_journals = $pkgdir . "springer/SpringerNature_Global_CompleteSpringerJournals_2025-01-16.txt";
+# my $springer_journals = $pkgdir . "springer/SpringerNature_Global_CompleteSpringerJournals_2025-08-18.txt";
+my $springer_journals = $pkgdir . "springer/SpringerNature_Global_CompleteSpringerJournals_2026-02-02.txt";
 my $taylor_global = $pkgdir . "taylor/TaylorandFrancisOnline_Global_DatabaseOAReadandPublish_2019-09-18.txt";
 #my $taylor_classic = $pkgdir . "taylor/ClassicAggregation.txt";
-my $taylor_classic = $pkgdir . "taylor/tandf_Global_AllTitles_2025-02-22.txt";
+#my $taylor_classic = $pkgdir . "taylor/tandf_Global_AllTitles_2025-02-22.txt";
+my $taylor_classic = $pkgdir . "taylor/tandf_Global_AllTitles_2026-02-14.txt";
 my $wikipedia = $pkgdir . "wikipedia/articleperiodicals.csv";
-my $wiley_all = $pkgdir . "wiley/wiley_alljournals_2025-02-01.TXT";
-# my $wiley_all = $pkgdir . "wiley/wiley_alljournals_2024-07-01.TXT";
+#my $wiley_all = $pkgdir . "wiley/wiley_alljournals_2025-02-01.TXT";
+my $wiley_all = $pkgdir . "wiley/wiley_alljournals_2026-02-01.TXT";
 
 my $sagetitlefield = "Title";  # just a placeholder; varies by file
 
@@ -110,7 +111,7 @@ my $tables = {
      {file => $muse_journals, reader=>\&readmusefile,
       parser=>\&muselongparser, filter=>\&pre64andolbp},
   "ovid-complete" =>
-     {file => $ovid_complete, reader=>\&readtsvfile,
+     {file => $ovid_complete, reader=>\&readovidfile,
       parser=>\&kbartparser, filter=>\&oxfordfilter},
   "oxford-archive" =>
      {file => $oxford_archive, reader=>\&readoxfordfile,
@@ -218,6 +219,7 @@ sub stripspace {
   my $str = shift;
   $str =~ s/^\s+//;
   $str =~ s/\s+$//;
+  $str =~ s/\x{200b}//g;
   return $str;
 }
 
@@ -296,11 +298,11 @@ sub sageparser {
     if ($backstart =~ /(\d\d\d\d)\)/) {
       $start = $1;
     }
-    # my $backend = $result->{"Backfile Last Issue Online"};
-    # if ($backend =~ /(\d\d\d\d)\)/) {
-    #   $end = $1;
-    # }
     my $end = "1998";
+    my $backend = $result->{"Backfile Last Issue Online"};
+    if ($backend =~ /(\d\d\d\d)\)/) {
+      $end = $1;
+    }
     my $title = $result->{$sagetitlefield};
     $title =~ s/(.*), The$/The $1/;          # deinvert "The" titles
     my @issns = ();
@@ -1025,11 +1027,18 @@ sub readmusefile {
   return readtsvfile($filename, %params);
 }
 
+sub readovidfile {
+  my ($filename, %params) = @_;
+  $params{encoding} = "latin1";
+  return readtsvfile($filename, %params);
+}
+
 sub readtsvfile {
   my ($filename, %params) = @_;
   my @results;
   my $encoding = $params{encoding} || "utf8";
   open my $fh, "<:encoding($encoding)", $filename or die "$filename: $!";
+  # open my $fh, "<", $filename or die "$filename: $!";
   if ($params{skiplines}) {
     for (my $i = 0; $i < $params{skiplines}; $i++) {
       my $discard = <$fh>;
@@ -1098,16 +1107,16 @@ sub unmess_utf8 {
 sub readwileyfile {
   my ($filename, %params) = @_;
   my @results;
-  open my $fh, "<:encoding(utf8)", $filename or die "filename: $!";
+  # open my $fh, "<:encoding(utf8)", $filename or die "filename: $!";
   # uncomment above when troubleshooting character encodings
   # and put in extra backslash in fixes below
-  # open my $fh, "<", $filename or die "filename: $!";
+  open my $fh, "<", $filename or die "filename: $!";
   my $row = <$fh>;
   $row =~ s/ //g;                     # eliminate spaces in field names
   my @fieldnames = split /\t/, $row;
   while (my $row = <$fh>) {
     #  have to fix mis-encoded non-ASCII characters
-    $row = unmess_utf8($row);
+    # $row = unmess_utf8($row);
     my %hash = ();
     my @fields = split /\t/, $row;
     for (my $i = 0; $i < scalar(@fields); $i++) {
@@ -1144,6 +1153,11 @@ sub readspringerfile {
     for (my $i = 0; $i < scalar(@fields); $i++) {
       if ($fieldnames[$i] eq "publication_title") {
         $fields[$i] =~ s/^\"(.*)\"$/$1/;
+        # 2026 version seems to need extra UTF-8 decode
+        if ($fields[$i] =~ /[^\x00-\x7f]/) { 
+          utf8::decode($fields[$i]);
+          $fields[$i] =~ s/\x{2030}/\xc9/;  # hack for 1 persnickety title
+        }
       }
       $hash{$fieldnames[$i]} = $fields[$i];
     }

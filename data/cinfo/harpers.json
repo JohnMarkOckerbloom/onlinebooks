@@ -98,7 +98,7 @@
      {"issue-date": "1936-09", "volume": "173", "number": "1036"},
      {"issue-date": "1936-10", "volume": "173", "number": "1037"}
    ],
-   "renewed-contribution-completeness": "active/1931",
+   "renewed-contribution-completeness": "active/1932",
    "renewed-contributions": [
      {"issue": {"issue-date": "1931-02", "volume": "162", "number": "969"}, 
       "title": "Engine-Room Stuff",
@@ -314,6 +314,21 @@
          "lcna": "n79083990"
         }
      },
+     {"issue": {"issue-date": "1932-12", "volume": "166", "number": "991"},
+      "title": "Magna",
+      "title-note": "part 1 of 3",
+      "author": {
+       "authorized": "Gale, Zona, 1874-1938",
+       "lcna": "n50058620"
+      }
+     },
+     {"issue": {"issue-date": "1932-12", "volume": "166", "number": "991"},
+      "title": "They Laughed",
+      "author": {
+       "authorized": "Johnson, Nunnally",
+       "lcna": "n79134929"
+      }
+     },
      {"issue": {"issue-date": "1933-01", "volume": "166", "number": "992"}, 
       "title": "The Lady of Leisure",
       "author": {
@@ -328,6 +343,113 @@
        "lcna": "n86086096"
       }
      },
+     {"issue": {"issue-date": "1933-01", "volume": "166", "number": "992"}, 
+      "title": "Magna",
+      "title-note": "part 2 of 3",
+      "author": {
+       "authorized": "Gale, Zona, 1874-1938",
+       "lcna": "n50058620"
+      }
+     },
+     {"issue": {"issue-date": "1933-01", "volume": "166", "number": "992"}, 
+      "title": "Is There a Case for Foreign Missions?",
+       "author": {
+          "authorized": "Buck, Pearl S. (Pearl Sydenstricker), 1892-1973",
+          "lcna": "n79026662"
+        }
+     },
+     {"issue": {"issue-date": "1933-01", "volume": "166", "number": "992"}, 
+        "title": "Happy Endings",
+        "author": {
+         "authorized": "Hall, James Norman, 1887-1951",
+         "lcna": "n79054917"
+        }
+     },
+     {"issue": {"issue-date": "1933-02", "volume": "166", "number": "993"}, 
+      "title": "Magna",
+      "title-note": "part 3 of 3",
+      "author": {
+       "authorized": "Gale, Zona, 1874-1938",
+       "lcna": "n50058620"
+      }
+     },
+     {"issue": {"issue-date": "1933-02", "volume": "166", "number": "993"}, 
+      "title": "Size Sixteen",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1933-04", "volume": "166", "number": "995"}, 
+        "title": "Reunion",
+        "author": {
+         "authorized": "Sheean, Vincent, 1899-1975",
+         "lcna": "n50022139"
+        }
+     },
+     {"issue": {"issue-date": "1933-04", "volume": "166", "number": "995"}, 
+      "title": "Colloque Sentimental",
+      "author": {
+       "authorized": "Beems, Griffith, 1902-1978",
+       "lcna": "no2020051252"
+      }
+     },
+     {"issue": {"issue-date": "1933-08", "volume": "167", "number": "999"}, 
+        "title": "Our Generation Was Different",
+        "author": {
+         "authorized": "Bowen, Catherine Drinker, 1897-1973",
+         "lcna": "n50042154"
+        }
+     },
+     {"issue": {"issue-date": "1933-09", "volume": "167", "number": "1000"}, 
+      "title": "Beyond",
+      "author": {
+         "authorized": "Faulkner, William, 1897-1962",
+         "lcna": "n79003304"
+      }
+     },
+     {"issue": {"issue-date": "1933-09", "volume": "167", "number": "1000"}, 
+        "title": "There He Is",
+        "author": {
+         "authorized": "Bowen, Catherine Drinker, 1897-1973",
+         "lcna": "n50042154"
+        }
+     },
+     {"issue": {"issue-date": "1933-10", "volume": "167", "number": "1001"}, 
+        "title": "The Hemlock Tree",
+        "author": {
+         "authorized": "Sheean, Vincent, 1899-1975",
+         "lcna": "n50022139"
+        }
+     },
+     {"issue": {"issue-date": "1933-10", "volume": "167", "number": "1001"}, 
+      "title": "The Quitter is a Hero",
+      "author": {
+         "authorized": "Wylie, Philip, 1902-1971",
+         "lcna": "n79145476"
+       }
+     },
+     {"issue": {"issue-date": "1933-10", "volume": "167", "number": "1001"}, 
+        "title": "Only the Young Fear Death",
+        "author": {
+         "authorized": "Faust, Frederick Schiller, 1892-1944",
+         "lcna": "n88121488"
+        }
+     },
+     {"issue": {"issue-date": "1933-11", "volume": "167", "number": "1002"}, 
+      "title": "Sackcloth",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1933-11", "volume": "167", "number": "1002"}, 
+      "title": "Writing for the Movies",
+      "author": {
+         "authorized": "Wylie, Philip, 1902-1971",
+         "lcna": "n79145476"
+       }
+     },
      {"issue": {"issue-date": "1949-01", "volume": "198", "number": "1184"},
       "title": "When Conan Doyle Was Sherlock Holmes",
       "note": "This is misfiled in the 1976 July-December CCE in Periodicals, listed as a renewal for a periodical titled 'When Conan Doyle Was Sherlock Holmes', instead of as a renewal for an article by that name that appeared in the Harper's issue with the indicated issue date and number.",
@@ -337,9 +459,10 @@
       }
      }
    ],
+   "comment": "Resume contribution searches with 1961 Jan-Jun",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2026-01-05"
+   "last-updated": "2026-02-09"
 }

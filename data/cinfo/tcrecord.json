@@ -6,9 +6,19 @@
    "first-renewed-contribution":
      {"issue": {"issue-date": "1961-05"}},
    "first-renewed-contribution-source": "database",
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1961-05", "volume": "62", "number": "8"},
+        "title": "One Hundred Years Without Darwin Are Enough",
+        "author": {
+         "authorized": "Simpson, George Gaylord, 1902-1984",
+         "lcna": "n79075602"
+        }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-06-06"
+   "last-updated": "2026-02-07"
 }

@@ -1,6 +1,10 @@
 {
    "title": "Good Housekeeping",
    "online": "1",
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/FMI/link.asp?magid=GHK",
+      "note": "FictionMags Index (incomplete; mainly the fiction content)"}
+   ],
    "first-issue": {"issue-date": "1885-05-02", "volume": "1", "number": "1"},
    "first-renewed-issue":
      {"issue-date": "1931-02", "volume": "92", "number": "2",
@@ -77,7 +81,7 @@
      {"issue-date": "1936-01", "volume": "102", "number": "1",
       "cdate": "1935-12-24"}
    ],
-   "renewed-contribution-completeness": "active/1931",
+   "renewed-contribution-completeness": "active/1932",
    "renewed-contributions": [
      {"issue": {"issue-date": "1931-02", "volume": "92", "number": "2"},
       "title": "Girl Alive",
@@ -96,18 +100,18 @@
       }
      },
      {"issue": {"issue-date": "1931-03", "volume": "92", "number": "3"},
+      "title": "The Most Thrilling Night of My Life",
+      "author": {
+       "authorized": "Marshall, Edison, 1894-1967",
+       "lcna": "nr95034360"
+      }
+     },
+     {"issue": {"issue-date": "1931-03", "volume": "92", "number": "3"},
       "title": "Girl Alive",
       "title-note": "part 4 of 6",
       "author": {
        "authorized": "Norris, Kathleen Thompson, 1880-1966",
        "lcna": "n50006075"
-      }
-     },
-     {"issue": {"issue-date": "1931-03", "volume": "92", "number": "3"},
-      "title": "The Most Thrilling Night of My Life",
-      "author": {
-       "authorized": "Marshall, Edison, 1894-1967",
-       "lcna": "nr95034360"
       }
      },
      {"issue": {"issue-date": "1931-03", "volume": "92", "number": "3"},
@@ -117,6 +121,14 @@
        "authorized": "Rinehart, Mary Roberts, 1876-1958",
        "lcna": "n78078535"
       }
+     },
+     {"issue": {"issue-date": "1931-04", "volume": "92", "number": "4"},
+      "title": "Murder at Hazelmoor",
+      "title-note": "part 2 of 6",
+      "author": {
+         "authorized": "Christie, Agatha, 1890-1976",
+         "lcna": "n79038407"
+       }
      },
      {"issue": {"issue-date": "1931-04", "volume": "92", "number": "4"},
       "title": "Girl Alive",
@@ -141,21 +153,13 @@
        "lcna": "no2007059420"
       }
      },
-     {"issue": {"issue-date": "1931-04", "volume": "92", "number": "4"},
+     {"issue": {"issue-date": "1931-05", "volume": "92", "number": "5"},
       "title": "Murder at Hazelmoor",
-      "title-note": "part 1 of 5",
+      "title-note": "part 3 of 6",
       "author": {
          "authorized": "Christie, Agatha, 1890-1976",
          "lcna": "n79038407"
        }
-     },
-    {"issue": {"issue-date": "1931-05", "volume": "92", "number": "5"},
-      "title": "Girl Alive",
-      "title-note": "part 6 of 6",
-      "author": {
-       "authorized": "Norris, Kathleen Thompson, 1880-1966",
-       "lcna": "n50006075"
-      }
      },
      {"issue": {"issue-date": "1931-05", "volume": "92", "number": "5"},
       "title": "My Story",
@@ -165,13 +169,13 @@
        "lcna": "n78078535"
       }
      },
-     {"issue": {"issue-date": "1931-05", "volume": "92", "number": "5"},
-      "title": "Murder at Hazelmoor",
-      "title-note": "part 2 of 5",
+    {"issue": {"issue-date": "1931-05", "volume": "92", "number": "5"},
+      "title": "Girl Alive",
+      "title-note": "part 6 of 6",
       "author": {
-         "authorized": "Christie, Agatha, 1890-1976",
-         "lcna": "n79038407"
-       }
+       "authorized": "Norris, Kathleen Thompson, 1880-1966",
+       "lcna": "n50006075"
+      }
      },
     {"issue": {"issue-date": "1931-06", "volume": "92", "number": "6"},
       "title": "The Deputy at Snow Mountain",
@@ -183,7 +187,7 @@
     },
     {"issue": {"issue-date": "1931-06", "volume": "92", "number": "6"},
       "title": "Murder at Hazelmoor",
-      "title-note": "part 3 of 5",
+      "title-note": "part 4 of 6",
       "author": {
          "authorized": "Christie, Agatha, 1890-1976",
          "lcna": "n79038407"
@@ -199,11 +203,19 @@
     },
     {"issue": {"issue-date": "1931-07", "volume": "93", "number": "1"},
       "title": "Murder at Hazelmoor",
-      "title-note": "part 4 of 5",
+      "title-note": "part 5 of 6",
       "author": {
          "authorized": "Christie, Agatha, 1890-1976",
          "lcna": "n79038407"
        }
+     },
+    {"issue": {"issue-date": "1931-07", "volume": "93", "number": "1"},
+      "title": "At the Rising of the Moon",
+      "note": "Issue date per FictionMags. CCE renewal record instead puts this story in the August 1931 issue. We have not examined the issues in question.",
+      "author": {
+       "authorized": "Squier, Emma-Lindsay, 1892-1941",
+       "lcna": "no2007059420"
+      }
      },
     {"issue": {"issue-date": "1931-08", "volume": "93", "number": "2"},
       "title": "The Deputy at Snow Mountain",
@@ -214,19 +226,20 @@
       }
     },
     {"issue": {"issue-date": "1931-08", "volume": "93", "number": "2"},
-      "title": "At the Rising of the Moon",
-      "author": {
-       "authorized": "Squier, Emma-Lindsay, 1892-1941",
-       "lcna": "no2007059420"
-      }
-     },
-    {"issue": {"issue-date": "1931-08", "volume": "93", "number": "2"},
       "title": "Murder at Hazelmoor",
-      "title-note": "part 5 of 5",
+      "title-note": "part 6 of 6",
       "author": {
          "authorized": "Christie, Agatha, 1890-1976",
          "lcna": "n79038407"
        }
+     },
+    {"issue": {"issue-date": "1931-08", "volume": "93", "number": "2"},
+      "title": "At the Rising of the Moon",
+      "note": "Issue date per CCE renewal record. FictionMags instead puts this story in the July 1931 issue. We have not examined the issues in question.",
+      "author": {
+       "authorized": "Squier, Emma-Lindsay, 1892-1941",
+       "lcna": "no2007059420"
+      }
      },
     {"issue": {"issue-date": "1931-09", "volume": "93", "number": "3"},
       "title": "The Deputy at Snow Mountain",
@@ -282,6 +295,13 @@
      }
     },
     {"issue": {"issue-date": "1932-01", "volume": "94", "number": "1"},
+     "title": "Security",
+     "author": {
+         "authorized": "Pickering, James S. (James Sayre)",
+         "lcna": "n87804124"
+     }
+    },
+    {"issue": {"issue-date": "1932-01", "volume": "94", "number": "1"},
      "title": "Pilgrims to the Sunset",
      "title-note": "part 1 of 3",
      "note": "Title as given in CCE renewal record.",
@@ -291,14 +311,8 @@
      }
     },
     {"issue": {"issue-date": "1932-01", "volume": "94", "number": "1"},
-     "title": "Security",
-     "author": {
-         "authorized": "Pickering, James S. (James Sayre)",
-         "lcna": "n87804124"
-     }
-    },
-    {"issue": {"issue-date": "1932-01", "volume": "94", "number": "1"},
       "title": "Condor",
+      "note": "Issue as stated in CCE renewal record. FictionMags, in contrast, notes 'The Golden Trail: The Condor' by this author as a contribution to the December 1931 issue.",
       "author": {
        "authorized": "Squier, Emma-Lindsay, 1892-1941",
        "lcna": "no2007059420"
@@ -343,6 +357,31 @@
         "lcna": "n79135036"
        }
     },
+    {"issue": {"issue-date": "1932-10", "volume": "95", "number": "4"},
+     "title": "The Light in the Jungle",
+     "title-note": "part 1 of 6",
+     "author": {
+      "authorized": "Marshall, Edison, 1894-1967",
+      "lcna": "nr95034360"
+     }
+    },
+    {"issue": {"issue-date": "1932-11", "volume": "95", "number": "5"},
+     "title": "The Light in the Jungle",
+     "title-note": "part 2 of 6",
+     "author": {
+      "authorized": "Marshall, Edison, 1894-1967",
+      "lcna": "nr95034360"
+     }
+    },
+    {"issue": {"issue-date": "1932-11", "volume": "95", "number": "5"},
+     "title": "The Divine Evadne",
+     "note": "A 1959 copyright renewal places this work in the November 1932-January 1933 issues, but a 1960 copyright renewal instead places it in the November 1933-January 1934 issues, as does FictionMags.",
+     "title-note": "part 1 of 3",
+     "author": {
+      "authorized": "Tarkington, Booth, 1869-1946",
+      "lcna": "n79078124"
+     }
+    },
     {"issue": {"issue-date": "1932-12", "volume": "95", "number": "6"},
        "title": "December 24 Closed",
        "author": {
@@ -357,20 +396,256 @@
          "lcna": "n79026662"
        }
     },
+    {"issue": {"issue-date": "1932-12", "volume": "95", "number": "6"},
+     "title": "The Light in the Jungle",
+     "title-note": "part 3 of 6",
+     "author": {
+      "authorized": "Marshall, Edison, 1894-1967",
+      "lcna": "nr95034360"
+     }
+    },
+    {"issue": {"issue-date": "1932-12", "volume": "95", "number": "6"},
+     "title": "The Divine Evadne",
+     "title-note": "part 2 of 3",
+     "note": "A 1959 copyright renewal places this work in the November 1932-January 1933 issues, but a 1960 copyright renewal instead places it in the November 1933-January 1934 issues, as does FictionMags.",
+     "author": {
+      "authorized": "Tarkington, Booth, 1869-1946",
+      "lcna": "n79078124"
+     }
+    },
+    {"issue": {"issue-date": "1933-01", "volume": "96", "number": "1"},
+     "title": "Grand Canary",
+     "title-note": "part 1 of 6",
+     "author": {
+       "authorized": "Cronin, A. J. (Archibald Joseph), 1896-1981",
+       "lcna": "n50018375"
+     }
+    },
+    {"issue": {"issue-date": "1933-01", "volume": "96", "number": "1"},
+     "title": "Overalls for Roddie",
+     "author": {
+     "authorized": "Jackson, Margaret Weymouth",
+     "lcna": "no94014713"
+     }
+    },
+    {"issue": {"issue-date": "1933-01", "volume": "96", "number": "1"},
+     "title": "The Light in the Jungle",
+     "title-note": "part 4 of 6",
+     "author": {
+      "authorized": "Marshall, Edison, 1894-1967",
+      "lcna": "nr95034360"
+     }
+    },
+    {"issue": {"issue-date": "1933-01", "volume": "96", "number": "1"},
+     "title": "The Divine Evadne",
+     "title-note": "part 3 of 3",
+     "note": "A 1959 copyright renewal places this work in the November 1932-January 1933 issues, but a 1960 copyright renewal instead places it in the November 1933-January 1934 issues, as does FictionMags.",
+     "author": {
+      "authorized": "Tarkington, Booth, 1869-1946",
+      "lcna": "n79078124"
+     }
+    },
+    {"issue": {"issue-date": "1933-02", "volume": "96", "number": "2"},
+     "title": "Mr. Cohen Takes a Walk",
+     "author": {
+      "authorized": "Rinehart, Mary Roberts, 1876-1958",
+      "lcna": "n78078535"
+     }
+    },
+    {"issue": {"issue-date": "1933-02", "volume": "96", "number": "2"},
+     "title": "Grand Canary",
+     "title-note": "part 1 of 6",
+     "author": {
+       "authorized": "Cronin, A. J. (Archibald Joseph), 1896-1981",
+       "lcna": "n50018375"
+     }
+    },
+    {"issue": {"issue-date": "1933-02", "volume": "96", "number": "2"},
+     "title": "Buccaneer",
+     "author": {
+      "authorized": "Wylie, I. A. R. (Ida Alexa Ross), 1885-1959",
+      "lcna": "n87860300"
+     }
+    },
+    {"issue": {"issue-date": "1933-02", "volume": "96", "number": "2"},
+     "title": "The Light in the Jungle",
+     "title-note": "part 5 of 6",
+     "author": {
+      "authorized": "Marshall, Edison, 1894-1967",
+      "lcna": "nr95034360"
+     }
+    },
     {"issue": {"issue-date": "1933-03", "volume": "96", "number": "3"},
        "title": "Stop! Look! Listen!",
        "author": {
         "authorized": "Bradley, Mary Hastings",
         "lcna": "no92028910"
        }
+    },
+    {"issue": {"issue-date": "1933-03", "volume": "96", "number": "3"},
+     "title": "Grand Canary",
+     "title-note": "part 3 of 6",
+     "author": {
+       "authorized": "Cronin, A. J. (Archibald Joseph), 1896-1981",
+       "lcna": "n50018375"
+     }
+    },
+    {"issue": {"issue-date": "1933-03", "volume": "96", "number": "3"},
+     "title": "The Light in the Jungle",
+     "title-note": "part 6 of 6",
+     "author": {
+      "authorized": "Marshall, Edison, 1894-1967",
+      "lcna": "nr95034360"
+     }
+    },
+    {"issue": {"issue-date": "1933-04", "volume": "96", "number": "4"},
+     "title": "Man Who Went Back",
+     "title-note": "part 1 of 6",
+     "author": {
+      "authorized": "Train, Arthur, 1875-1945",
+      "lcna": "n50014661"
+     }
+    },
+    {"issue": {"issue-date": "1933-04", "volume": "96", "number": "4"},
+     "title": "Grand Canary",
+     "title-note": "part 4 of 6",
+     "author": {
+       "authorized": "Cronin, A. J. (Archibald Joseph), 1896-1981",
+       "lcna": "n50018375"
+     }
+    },
+    {"issue": {"issue-date": "1933-04", "volume": "96", "number": "4"},
+     "title": "Seventh Summer",
+     "author": {
+      "authorized": "Duganne, Phyllis, 1899-1976",
+      "lcna": "n90719514"
+     }
+    },
+    {"issue": {"issue-date": "1933-05", "volume": "96", "number": "5"},
+     "title": "Man Who Went Back",
+     "title-note": "part 2 of 6",
+     "author": {
+      "authorized": "Train, Arthur, 1875-1945",
+      "lcna": "n50014661"
+     }
+    },
+    {"issue": {"issue-date": "1933-06", "volume": "96", "number": "6"},
+     "title": "Man Who Went Back",
+     "title-note": "part 3 of 6",
+     "author": {
+      "authorized": "Train, Arthur, 1875-1945",
+      "lcna": "n50014661"
+     }
+    },
+    {"issue": {"issue-date": "1933-06", "volume": "96", "number": "6"},
+     "title": "Marriage As it Ought to Be",
+     "author": {
+     "authorized": "Jackson, Margaret Weymouth",
+     "lcna": "no94014713"
+     }
+    },
+    {"issue": {"issue-date": "1933-07", "volume": "97", "number": "1"},
+     "title": "Man Who Went Back",
+     "title-note": "part 4 of 6",
+     "author": {
+      "authorized": "Train, Arthur, 1875-1945",
+      "lcna": "n50014661"
+     }
+    },
+    {"issue": {"issue-date": "1933-08", "volume": "97", "number": "2"},
+      "title": "Looking Down Wells",
+      "author": {
+       "authorized": "Monroe, Anne Shannon, 1877-1942",
+       "lcna": "n90622304"
+      }
+    },
+    {"issue": {"issue-date": "1933-09", "volume": "97", "number": "3"},
+     "title": "Man Who Went Back",
+     "title-note": "part 5 of 6",
+     "author": {
+      "authorized": "Train, Arthur, 1875-1945",
+      "lcna": "n50014661"
+     }
+    },
+    {"issue": {"issue-date": "1933-10", "volume": "97", "number": "4"},
+     "title": "Man Who Went Back",
+     "title-note": "part 6 of 6",
+     "author": {
+      "authorized": "Train, Arthur, 1875-1945",
+      "lcna": "n50014661"
+     }
+    },
+    {"issue": {"issue-date": "1933-11", "volume": "97", "number": "5"},
+     "title": "The Foghorn",
+     "author": {
+      "authorized": "Atherton, Gertrude Franklin Horn, 1857-1948",
+      "lcna": "n80010153"
+     }
+    },
+    {"issue": {"issue-date": "1933-11", "volume": "97", "number": "5"},
+     "title": "The Devine [sic] Evadine",
+     "title-note": "part 1 of 3",
+     "note": "Title as stated in CCE renewal record (complete with '[sic]'). FictionMags and an earlier renewal state the title as 'The Divine Evadne'.",
+     "author": {
+      "authorized": "Tarkington, Booth, 1869-1946",
+      "lcna": "n79078124"
+     }
+    },
+    {"issue": {"issue-date": "1933-11", "volume": "97", "number": "5"},
+     "title": "The Wald Along the Ravine",
+     "note": "Title and issue as stated in CCE renewal record.  FictionMags does not report a contribution with that title in this issue, but does note one by this author in the February 1934 issue titled 'The Walk Along the Ravine'.",
+     "author": {
+      "authorized": "White, Nelia Gardner, 1894-1957",
+      "lcna": "no93013886"
+     }
+    },
+    {"issue": {"issue-date": "1933-12", "volume": "97", "number": "6"},
+     "title": "'Twas the Night Before Christmas",
+     "author": {
+      "authorized": "Norris, Kathleen Thompson, 1880-1966",
+      "lcna": "n50006075"
+     }
+    },
+    {"issue": {"issue-date": "1933-12", "volume": "97", "number": "6"},
+     "title": "The Devine [sic] Evadine",
+     "title-note": "part 2 of 3",
+     "note": "Title as stated in CCE renewal record (complete with '[sic]'). FictionMags and an earlier renewal state the title as 'The Divine Evadne'.",
+     "author": {
+      "authorized": "Tarkington, Booth, 1869-1946",
+      "lcna": "n79078124"
+     }
+    },
+    {"issue": {"issue-date": "1934-01", "volume": "98", "number": "1"},
+      "title": "One at a Time",
+      "author": {
+       "authorized": "Monroe, Anne Shannon, 1877-1942",
+       "lcna": "n90622304"
+      }
+    },
+    {"issue": {"issue-date": "1934-01", "volume": "98", "number": "1"},
+     "title": "The Devine [sic] Evadine",
+     "title-note": "part 3 of 3",
+     "note": "Title as stated in CCE renewal record (complete with '[sic]'). FictionMags and an earlier renewal state the title as 'The Divine Evadne'.",
+     "author": {
+      "authorized": "Tarkington, Booth, 1869-1946",
+      "lcna": "n79078124"
+     }
+    },
+    {"issue": {"issue-date": "1934-02", "volume": "98", "number": "2"},
+     "title": "The Walk Along the Ravine",
+     "note": "There is no CCE renewal record specifically identifying this contribution, but the contribution renewal for 'The Wald Along the Ravine' [sic], supposedly in the November 1933 issue, may have been intended to be for this contribution, which FictionMags reports as appearing in this issue.  It was filed in 1960, which may be too early to be effective for an original 1934 copyright.",
+     "author": {
+      "authorized": "White, Nelia Gardner, 1894-1957",
+      "lcna": "no93013886"
+     }
     }
    ],
-   "comment": "Resume contribution renewals w 1960 Jan-Jun (some in, some not)",
+   "comment": "Resume contribution renewals with 1961 Jan-Jun",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
    "acknowledgement": 
       "Thanks to Felice Gollotti for copyright research on this title.",
-   "last-updated": "2026-01-05"
+   "last-updated": "2026-02-08"
 }
