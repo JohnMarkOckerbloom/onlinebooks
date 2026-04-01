@@ -9,7 +9,7 @@
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
    "succeeded-by": [{"id": "gq1958", "note": "Gentlemen's Quarterly"}],
-   "renewed-issue-completeness": "active/1935",
+   "renewed-issue-completeness": "active/1936",
    "renewed-issues": [
       {"issue-date": "1931-Christmas", "volume": "1", "number": "1"},
       {"issue-date": "1933-Winter", "volume": "3", "number": "4"},
@@ -44,11 +44,18 @@
        "cdate": "1936-01-28"},
       {"issue-date": "1936-Advance Summer", "volume": "6", "number": "no. 3A"},
       {"issue-date": "1936-Summer", "volume": "6", "number": "4"},
-      {"issue-date": "1936-Advance Fall", "volume": "6", "number": "no. 4A"}
+      {"issue-date": "1936-Advance Fall", "volume": "6", "number": "no. 4A"},
+      {"issue-date": "1936-Fall", "volume": "7", "number": "1"},
+      {"issue-date": "1936-Fifth Anniversary", "volume": "6", "number": "no. 1A"},
+      {"issue-date": "Winter 1936-1937", "volume": "6", "number": "2",
+       "cdate": "1936-11-04"},
+      {"issue-date": "1937-Spring", "volume": "6", "number": "3",
+       "cdate": "1937-01-22"},
+      {"issue-date": "1937-03", "volume": "6", "number": "no. 3A"}
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-05-27"
+   "last-updated": "2026-03-14"
 }

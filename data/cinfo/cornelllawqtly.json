@@ -12,15 +12,19 @@
    "last-issue":
        {"issue-date": "1967-Summer", "volume": "52", "number": "6"},
    "succeeded-by": [{"id": "cornelllawrev", "note": "Cornell Law Review"}],
-   "renewed-issue-completeness": "active/1935",
+   "renewed-issue-completeness": "active/1936",
    "renewed-issues": [
        {"issue-date": "1935-02", "volume": "20", "number": "2"},
        {"issue-date": "1935-04", "volume": "20", "number": "3"},
-       {"issue-date": "1935-06", "volume": "20", "number": "4"}
+       {"issue-date": "1935-06", "volume": "20", "number": "4"},
+       {"issue-date": "1936-12", "volume": "22", "number": "1"},
+       {"issue-date": "1937-02", "volume": "22", "number": "2"},
+       {"issue-date": "1937-04", "volume": "22", "number": "3"},
+       {"issue-date": "1937-06", "volume": "22", "number": "4"}
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-06-28"
+   "last-updated": "2026-03-19"
 }

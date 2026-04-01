@@ -15,7 +15,7 @@
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1931-02-14", "volume": "8", "number": "7"}},
    "first-renewed-contribution-source": "1958-JanJun",
-   "renewed-issue-completeness": "active/1935",
+   "renewed-issue-completeness": "active/1936",
    "renewed-issues": [
      {"issue-date": "1931-01-10", "volume": "8", "number": "2",
       "cdate": "1931-01-02"},
@@ -293,9 +293,66 @@
      {"issue-date": "1936-01-18", "volume": "13", "number": "3",
       "cdate": "1936-01-08"},
      {"issue-date": "1936-01-25", "volume": "13", "number": "4"},
-     {"issue-date": "1936-02-01", "volume": "13", "number": "5"}
+     {"issue-date": "1936-02-01", "volume": "13", "number": "5"},
+     {"issue-date": "1936-02-29", "volume": "13", "number": "9"},
+     {"issue-date": "1936-03-07", "volume": "13", "number": "10"},
+     {"issue-date": "1936-03-14", "volume": "13", "number": "11"},
+     {"issue-date": "1936-03-21", "volume": "13", "number": "12"},
+     {"issue-date": "1936-03-28", "volume": "13", "number": "13"},
+     {"issue-date": "1936-04-04", "volume": "13", "number": "14"},
+     {"issue-date": "1936-04-11", "volume": "13", "number": "15"},
+     {"issue-date": "1936-04-18", "volume": "13", "number": "16"},
+     {"issue-date": "1936-04-25", "volume": "13", "number": "17"},
+     {"issue-date": "1936-05-02", "volume": "13", "number": "18"},
+     {"issue-date": "1936-05-09", "volume": "13", "number": "19"},
+     {"issue-date": "1936-05-16", "volume": "13", "number": "20"},
+     {"issue-date": "1936-05-23", "volume": "13", "number": "21"},
+     {"issue-date": "1936-05-30", "volume": "13", "number": "22"},
+     {"issue-date": "1936-06-06", "volume": "13", "number": "23"},
+     {"issue-date": "1936-06-13", "volume": "13", "number": "24"},
+     {"issue-date": "1936-06-20", "volume": "13", "number": "25"},
+     {"issue-date": "1936-06-27", "volume": "13", "number": "26"},
+     {"issue-date": "1936-07-04", "volume": "13", "number": "27"},
+     {"issue-date": "1936-07-11", "volume": "13", "number": "28"},
+     {"issue-date": "1936-07-18", "volume": "13", "number": "29"},
+     {"issue-date": "1936-07-25", "volume": "13", "number": "30"},
+     {"issue-date": "1936-08-01", "volume": "13", "number": "31"},
+     {"issue-date": "1936-08-08", "volume": "13", "number": "32"},
+     {"issue-date": "1936-08-15", "volume": "13", "number": "33"},
+     {"issue-date": "1936-08-22", "volume": "13", "number": "34"},
+     {"issue-date": "1936-08-29", "volume": "13", "number": "35"},
+     {"issue-date": "1936-09-05", "volume": "13", "number": "36"},
+     {"issue-date": "1936-09-12", "volume": "13", "number": "37"},
+     {"issue-date": "1936-09-19", "volume": "13", "number": "38"},
+     {"issue-date": "1936-09-26", "volume": "13", "number": "39"},
+     {"issue-date": "1936-10-03", "volume": "13", "number": "40"},
+     {"issue-date": "1936-10-10", "volume": "13", "number": "41"},
+     {"issue-date": "1936-10-17", "volume": "13", "number": "42"},
+     {"issue-date": "1936-10-24", "volume": "13", "number": "43"},
+     {"issue-date": "1936-10-31", "volume": "13", "number": "44"},
+     {"issue-date": "1936-11-07", "volume": "13", "number": "45"},
+     {"issue-date": "1936-11-14", "volume": "13", "number": "46"},
+     {"issue-date": "1936-11-21", "volume": "13", "number": "47"},
+     {"issue-date": "1936-11-28", "volume": "13", "number": "48"},
+     {"issue-date": "1936-12-05", "volume": "13", "number": "49"},
+     {"issue-date": "1936-12-12", "volume": "13", "number": "50"},
+     {"issue-date": "1936-12-19", "volume": "13", "number": "51"},
+     {"issue-date": "1936-12-16", "volume": "13", "number": "52"},
+     {"issue-date": "1937-01-02", "volume": "14", "number": "1",
+      "cdate": "1936-12-23"},
+     {"issue-date": "1937-01-09", "volume": "14", "number": "2",
+      "cdate": "1936-12-30"},
+     {"issue-date": "1937-01-16", "volume": "14", "number": "3",
+      "cdate": "1937-01-06"},
+     {"issue-date": "1937-01-23", "volume": "14", "number": "4"},
+     {"issue-date": "1937-01-30", "volume": "14", "number": "5"},
+     {"issue-date": "1937-02-06", "volume": "14", "number": "6"},
+     {"issue-date": "1937-02-13", "volume": "14", "number": "7"},
+     {"issue-date": "1937-02-20", "volume": "14", "number": "8"},
+     {"issue-date": "1937-02-27", "volume": "14", "number": "9"},
+     {"issue-date": "1937-03-04", "volume": "14", "number": "10"}
    ],
-   "renewed-contribution-completeness": "active/1931",
+   "renewed-contribution-completeness": "active/1932",
    "renewed-contributions": [
      {"issue": {"issue-date": "1931-02-14", "volume": "8", "number": "7"},
       "title": "Bridge vs. Bridge",
@@ -604,6 +661,13 @@
          "lcna": "n79145476"
        }
      },
+     {"issue": {"issue-date": "1932-04-09", "volume": "9", "number": "15"}, 
+      "title": "A Chance at Heaven",
+      "author": {
+       "authorized": "Delmar, Viña, 1903-1990",
+       "lcna": "n50039021"
+      }
+     },
      {"issue": {"issue-date": "1932-04-16", "volume": "9", "number": "16"}, 
       "title": "The Pink Chemise",
       "author": {
@@ -674,6 +738,13 @@
          "lcna": "n79145476"
        }
      },
+     {"issue": {"issue-date": "1932-07-23", "volume": "9", "number": "30"}, 
+      "title": "The Vanishing Star",
+      "author": {
+       "authorized": "Weiman, Rita, 1889-1954",
+       "lcna": "n89129751"
+      }
+     },
      {"issue": {"issue-date": "1932-08-06", "volume": "9", "number": "32"},
       "title": "Beyond Control",
       "title-note": "part 1 of 10",
@@ -690,12 +761,26 @@
         "lcna": "n84804866"
       }
      },
+     {"issue": {"issue-date": "1932-08-13", "volume": "9", "number": "33"},
+      "title": "Margaret Said, Think Fast",
+      "author": {
+         "authorized": "Terhune, Albert Payson, 1872-1942",
+         "lcna": "n50009920"
+      }
+     },
      {"issue": {"issue-date": "1932-08-20", "volume": "9", "number": "34"},
       "title": "Beyond Control",
       "title-note": "part 3 of 10",
       "author": {
         "authorized": "Beach, Rex, 1877-1949",
         "lcna": "n84804866"
+      }
+     },
+     {"issue": {"issue-date": "1932-08-20", "volume": "9", "number": "34"},
+      "title": "Secret Guidance",
+      "author": {
+       "authorized": "Hopper, James, 1876-1956",
+       "lcna": "n00068220"
       }
      },
      {"issue": {"issue-date": "1932-08-27", "volume": "9", "number": "35"},
@@ -887,6 +972,510 @@
          "authorized": "Abbot, Anthony, 1893-1952",
          "lcna": "no96008114"
         }
+     },
+     {"issue": {"issue-date": "1932-12-31", "volume": "9", "number": "53"}, 
+      "title": "Highway No. 1",
+      "author": {
+       "authorized": "Kantor, MacKinlay, 1904-1977",
+       "lcna": "n79140979"
+      }
+     },
+     {"issue": {"issue-date": "1933-01-07", "volume": "10", "number": "1"}, 
+        "title": "Freedom of the Press Threatened",
+        "author": {
+         "authorized": "Oursler, Fulton, 1893-1952",
+         "lcna": "n79041782"
+        }
+     },
+     {"issue": {"issue-date": "1933-01-21", "volume": "10", "number": "3"}, 
+        "title": "Passage to Paradise",
+        "title-note": "part 1 of 5",
+        "author": {
+         "authorized": "Paramount Publix Corporation",
+         "lcna": "n85376816"
+        }
+     },
+     {"issue": {"issue-date": "1933-01-28", "volume": "10", "number": "4"}, 
+        "title": "Passage to Paradise",
+        "title-note": "part 2 of 5",
+        "author": {
+         "authorized": "Paramount Publix Corporation",
+         "lcna": "n85376816"
+        }
+     },
+     {"issue": {"issue-date": "1933-02-04", "volume": "10", "number": "5"}, 
+        "title": "Passage to Paradise",
+        "title-note": "part 3 of 5",
+        "author": {
+         "authorized": "Paramount Publix Corporation",
+         "lcna": "n85376816"
+        }
+     },
+     {"issue": {"issue-date": "1933-02-11", "volume": "10", "number": "6"}, 
+      "title": "Five Days",
+      "title-note": "part 1 of 9",
+      "author": {
+         "authorized": "Hatch, Eric, 1901-1973",
+         "lcna": "no89009028"
+       }
+     },
+     {"issue": {"issue-date": "1933-02-11", "volume": "10", "number": "6"}, 
+        "title": "Passage to Paradise",
+        "title-note": "part 4 of 5",
+        "author": {
+         "authorized": "Paramount Publix Corporation",
+         "lcna": "n85376816"
+        }
+     },
+     {"issue": {"issue-date": "1933-02-18", "volume": "10", "number": "7"}, 
+      "title": "Five Days",
+      "title-note": "part 2 of 9",
+      "author": {
+         "authorized": "Hatch, Eric, 1901-1973",
+         "lcna": "no89009028"
+       }
+     },
+     {"issue": {"issue-date": "1933-02-18", "volume": "10", "number": "7"}, 
+      "title": "Technocracy to the Rescue",
+      "author": {
+         "authorized": "Hughes, Rupert, 1872-1956",
+         "lcna": "n86012047"
+       }
+     },
+     {"issue": {"issue-date": "1933-02-18", "volume": "10", "number": "7"}, 
+        "title": "Passage to Paradise",
+        "title-note": "part 5 of 5",
+        "author": {
+         "authorized": "Paramount Publix Corporation",
+         "lcna": "n85376816"
+        }
+     },
+     {"issue": {"issue-date": "1933-02-25", "volume": "10", "number": "8"}, 
+      "title": "Five Days",
+      "title-note": "part 3 of 9",
+      "author": {
+         "authorized": "Hatch, Eric, 1901-1973",
+         "lcna": "no89009028"
+       }
+     },
+     {"issue": {"issue-date": "1933-03-04", "volume": "10", "number": "9"}, 
+      "title": "Five Days",
+      "title-note": "part 4 of 9",
+      "author": {
+         "authorized": "Hatch, Eric, 1901-1973",
+         "lcna": "no89009028"
+       }
+     },
+     {"issue": {"issue-date": "1933-03-11", "volume": "10", "number": "10"}, 
+      "title": "The Rewards of Valour",
+      "author": {
+         "authorized": "Waugh, Alec, 1898-1981",
+         "lcna": "n50023750"
+       }
+     },
+     {"issue": {"issue-date": "1933-03-11", "volume": "10", "number": "10"}, 
+      "title": "Five Days",
+      "title-note": "part 5 of 9",
+      "author": {
+         "authorized": "Hatch, Eric, 1901-1973",
+         "lcna": "no89009028"
+       }
+     },
+     {"issue": {"issue-date": "1933-03-18", "volume": "10", "number": "11"}, 
+      "title": "The Bells of Waldenbruck",
+      "author": {
+         "authorized": "Smith, Frank Leon",
+         "lcna": "no89017542"
+       }
+     },
+     {"issue": {"issue-date": "1933-03-18", "volume": "10", "number": "11"}, 
+      "title": "Let's Make it Hell",
+      "author": {
+         "authorized": "Wylie, Philip, 1902-1971",
+         "lcna": "n79145476"
+       }
+     },
+     {"issue": {"issue-date": "1933-03-18", "volume": "10", "number": "11"}, 
+      "title": "Five Days",
+      "title-note": "part 6 of 9",
+      "author": {
+         "authorized": "Hatch, Eric, 1901-1973",
+         "lcna": "no89009028"
+       }
+     },
+     {"issue": {"issue-date": "1933-03-25", "volume": "10", "number": "12"}, 
+      "title": "Five Days",
+      "title-note": "part 7 of 9",
+      "author": {
+         "authorized": "Hatch, Eric, 1901-1973",
+         "lcna": "no89009028"
+       }
+     },
+     {"issue": {"issue-date": "1933-04-01", "volume": "10", "number": "13"}, 
+      "title": "Born to Raise Hell",
+      "title-note": "part 1 of 11",
+      "authors": [
+         {"authorized": "O'Reilly, Edward S. (Edward Synnott), 1880-1946",
+          "lcna": "no2015123262"},
+         {"authorized": "Thomas, Lowell, 1892-1981", "lcna": "n79139713"}
+       ]
+     },
+     {"issue": {"issue-date": "1933-04-01", "volume": "10", "number": "13"}, 
+      "title": "Five Days",
+      "title-note": "part 8 of 9",
+      "author": {
+         "authorized": "Hatch, Eric, 1901-1973",
+         "lcna": "no89009028"
+       }
+     },
+     {"issue": {"issue-date": "1933-04-08", "volume": "10", "number": "14"}, 
+      "title": "Woman in the Dark",
+      "title-note": "part 1 of 3",
+      "author": {
+       "authorized": "Hammett, Dashiell, 1894-1961",
+       "lcna": "n80016943"
+      }
+     },
+     {"issue": {"issue-date": "1933-04-08", "volume": "10", "number": "14"}, 
+      "title": "Five Days",
+      "title-note": "part 9 of 9",
+      "author": {
+         "authorized": "Hatch, Eric, 1901-1973",
+         "lcna": "no89009028"
+       }
+     },
+     {"issue": {"issue-date": "1933-04-08", "volume": "10", "number": "14"}, 
+      "title": "Born to Raise Hell",
+      "title-note": "part 2 of 11",
+      "authors": [
+         {"authorized": "O'Reilly, Edward S. (Edward Synnott), 1880-1946",
+          "lcna": "no2015123262"},
+         {"authorized": "Thomas, Lowell, 1892-1981", "lcna": "n79139713"}
+       ]
+     },
+     {"issue": {"issue-date": "1933-04-15", "volume": "10", "number": "15"}, 
+      "title": "Woman in the Dark",
+      "title-note": "part 2 of 3",
+      "author": {
+       "authorized": "Hammett, Dashiell, 1894-1961",
+       "lcna": "n80016943"
+      }
+     },
+     {"issue": {"issue-date": "1933-04-15", "volume": "10", "number": "15"}, 
+      "title": "Born to Raise Hell",
+      "title-note": "part 3 of 11",
+      "authors": [
+         {"authorized": "O'Reilly, Edward S. (Edward Synnott), 1880-1946",
+          "lcna": "no2015123262"},
+         {"authorized": "Thomas, Lowell, 1892-1981", "lcna": "n79139713"}
+       ]
+     },
+     {"issue": {"issue-date": "1933-04-22", "volume": "10", "number": "16"}, 
+      "title": "Woman in the Dark",
+      "title-note": "part 3 of 3",
+      "author": {
+       "authorized": "Hammett, Dashiell, 1894-1961",
+       "lcna": "n80016943"
+      }
+     },
+     {"issue": {"issue-date": "1933-04-22", "volume": "10", "number": "16"}, 
+      "title": "Born to Raise Hell",
+      "title-note": "part 4 of 11",
+      "authors": [
+         {"authorized": "O'Reilly, Edward S. (Edward Synnott), 1880-1946",
+          "lcna": "no2015123262"},
+         {"authorized": "Thomas, Lowell, 1892-1981", "lcna": "n79139713"}
+       ]
+     },
+     {"issue": {"issue-date": "1933-04-29", "volume": "10", "number": "17"}, 
+      "title": "Born to Raise Hell",
+      "title-note": "part 5 of 11",
+      "authors": [
+         {"authorized": "O'Reilly, Edward S. (Edward Synnott), 1880-1946",
+          "lcna": "no2015123262"},
+         {"authorized": "Thomas, Lowell, 1892-1981", "lcna": "n79139713"}
+       ]
+     },
+     {"issue": {"issue-date": "1933-05-06", "volume": "10", "number": "18"}, 
+      "title": "Born to Raise Hell",
+      "title-note": "part 6 of 11",
+      "authors": [
+         {"authorized": "O'Reilly, Edward S. (Edward Synnott), 1880-1946",
+          "lcna": "no2015123262"},
+         {"authorized": "Thomas, Lowell, 1892-1981", "lcna": "n79139713"}
+       ]
+     },
+     {"issue": {"issue-date": "1933-05-13", "volume": "10", "number": "19"}, 
+      "title": "Born to Raise Hell",
+      "title-note": "part 7 of 11",
+      "authors": [
+         {"authorized": "O'Reilly, Edward S. (Edward Synnott), 1880-1946",
+          "lcna": "no2015123262"},
+         {"authorized": "Thomas, Lowell, 1892-1981", "lcna": "n79139713"}
+       ]
+     },
+     {"issue": {"issue-date": "1933-05-20", "volume": "10", "number": "20"}, 
+       "title": "Mike",
+       "title-note": "part 1 of 2",
+       "author": {
+         "authorized": "Oursler, Grace, 1900-1955",
+         "lcna": "no95037587"
+       }
+     },
+     {"issue": {"issue-date": "1933-05-20", "volume": "10", "number": "20"}, 
+      "title": "Born to Raise Hell",
+      "title-note": "part 8 of 11",
+      "authors": [
+         {"authorized": "O'Reilly, Edward S. (Edward Synnott), 1880-1946",
+          "lcna": "no2015123262"},
+         {"authorized": "Thomas, Lowell, 1892-1981", "lcna": "n79139713"}
+       ]
+     },
+     {"issue": {"issue-date": "1933-05-27", "volume": "10", "number": "21"}, 
+       "title": "Mike",
+       "title-note": "part 2 of 2",
+       "author": {
+         "authorized": "Oursler, Grace, 1900-1955",
+         "lcna": "no95037587"
+       }
+     },
+     {"issue": {"issue-date": "1933-05-27", "volume": "10", "number": "21"}, 
+      "title": "Born to Raise Hell",
+      "title-note": "part 9 of 11",
+      "authors": [
+         {"authorized": "O'Reilly, Edward S. (Edward Synnott), 1880-1946",
+          "lcna": "no2015123262"},
+         {"authorized": "Thomas, Lowell, 1892-1981", "lcna": "n79139713"}
+       ]
+     },
+     {"issue": {"issue-date": "1933-06-03", "volume": "10", "number": "22"}, 
+      "title": "Born to Raise Hell",
+      "title-note": "part 10 of 11",
+      "authors": [
+         {"authorized": "O'Reilly, Edward S. (Edward Synnott), 1880-1946",
+          "lcna": "no2015123262"},
+         {"authorized": "Thomas, Lowell, 1892-1981", "lcna": "n79139713"}
+       ]
+     },
+     {"issue": {"issue-date": "1933-06-10", "volume": "10", "number": "23"}, 
+      "title": "Born to Raise Hell",
+      "title-note": "part 11 of 11",
+      "authors": [
+         {"authorized": "O'Reilly, Edward S. (Edward Synnott), 1880-1946",
+          "lcna": "no2015123262"},
+         {"authorized": "Thomas, Lowell, 1892-1981", "lcna": "n79139713"}
+       ]
+     },
+     {"issue": {"issue-date": "1933-06-24", "volume": "10", "number": "25"}, 
+      "title": "Pretty Sadie McKee",
+      "title-note": "part 1 of 12",
+      "author": {
+       "authorized": "Delmar, Viña, 1903-1990",
+       "lcna": "n50039021"
+      }
+     },
+     {"issue": {"issue-date": "1933-07-01", "volume": "10", "number": "26"}, 
+      "title": "Pretty Sadie McKee",
+      "title-note": "part 2 of 12",
+      "author": {
+       "authorized": "Delmar, Viña, 1903-1990",
+       "lcna": "n50039021"
+      }
+     },
+     {"issue": {"issue-date": "1933-07-08", "volume": "10", "number": "27"}, 
+      "title": "Pretty Sadie McKee",
+      "title-note": "part 3 of 12",
+      "author": {
+       "authorized": "Delmar, Viña, 1903-1990",
+       "lcna": "n50039021"
+      }
+     },
+     {"issue": {"issue-date": "1933-07-15", "volume": "10", "number": "28"}, 
+      "title": "Pretty Sadie McKee",
+      "title-note": "part 4 of 12",
+      "author": {
+       "authorized": "Delmar, Viña, 1903-1990",
+       "lcna": "n50039021"
+      }
+     },
+     {"issue": {"issue-date": "1933-07-22", "volume": "10", "number": "29"}, 
+      "title": "Pretty Sadie McKee",
+      "title-note": "part 5 of 12",
+      "author": {
+       "authorized": "Delmar, Viña, 1903-1990",
+       "lcna": "n50039021"
+      }
+     },
+     {"issue": {"issue-date": "1933-07-29", "volume": "10", "number": "30"}, 
+      "title": "Pretty Sadie McKee",
+      "title-note": "part 6 of 12",
+      "author": {
+       "authorized": "Delmar, Viña, 1903-1990",
+       "lcna": "n50039021"
+      }
+     },
+     {"issue": {"issue-date": "1933-08-05", "volume": "10", "number": "31"}, 
+      "title": "Pretty Sadie McKee",
+      "title-note": "part 7 of 12",
+      "author": {
+       "authorized": "Delmar, Viña, 1903-1990",
+       "lcna": "n50039021"
+      }
+     },
+     {"issue": {"issue-date": "1933-08-12", "volume": "10", "number": "32"}, 
+      "title": "Roaming Lady",
+      "author": {
+       "name": "Diana Bourbon Hillson"
+      }
+     },
+     {"issue": {"issue-date": "1933-08-12", "volume": "10", "number": "32"}, 
+      "title": "Pretty Sadie McKee",
+      "title-note": "part 8 of 12",
+      "author": {
+       "authorized": "Delmar, Viña, 1903-1990",
+       "lcna": "n50039021"
+      }
+     },
+     {"issue": {"issue-date": "1933-08-19", "volume": "10", "number": "33"}, 
+      "title": "Pretty Sadie McKee",
+      "title-note": "part 9 of 12",
+      "author": {
+       "authorized": "Delmar, Viña, 1903-1990",
+       "lcna": "n50039021"
+      }
+     },
+     {"issue": {"issue-date": "1933-08-26", "volume": "10", "number": "34"}, 
+      "title": "Pretty Sadie McKee",
+      "title-note": "part 10 of 12",
+      "author": {
+       "authorized": "Delmar, Viña, 1903-1990",
+       "lcna": "n50039021"
+      }
+     },
+     {"issue": {"issue-date": "1933-09-02", "volume": "10", "number": "35"}, 
+      "title": "Hearts and Swords",
+      "title-note": "part 1 of 11",
+      "author": {
+       "authorized": "Sabatini, Rafael, 1875-1950",
+       "lcna": "n50016255"
+      }
+     },
+     {"issue": {"issue-date": "1933-09-02", "volume": "10", "number": "35"}, 
+      "title": "Pretty Sadie McKee",
+      "title-note": "part 11 of 12",
+      "author": {
+       "authorized": "Delmar, Viña, 1903-1990",
+       "lcna": "n50039021"
+      }
+     },
+     {"issue": {"issue-date": "1933-09-09", "volume": "10", "number": "36"}, 
+      "title": "Hearts and Swords",
+      "title-note": "part 2 of 11",
+      "author": {
+       "authorized": "Sabatini, Rafael, 1875-1950",
+       "lcna": "n50016255"
+      }
+     },
+     {"issue": {"issue-date": "1933-09-09", "volume": "10", "number": "36"}, 
+      "title": "Pretty Sadie McKee",
+      "title-note": "part 12 of 12",
+      "author": {
+       "authorized": "Delmar, Viña, 1903-1990",
+       "lcna": "n50039021"
+      }
+     },
+     {"issue": {"issue-date": "1933-09-16", "volume": "10", "number": "37"}, 
+      "title": "Hearts and Swords",
+      "title-note": "part 3 of 11",
+      "author": {
+       "authorized": "Sabatini, Rafael, 1875-1950",
+       "lcna": "n50016255"
+      }
+     },
+     {"issue": {"issue-date": "1933-09-23", "volume": "10", "number": "38"},
+      "title": "Hate at First Sight",
+      "author": {
+         "authorized": "Connell, Richard, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1933-09-23", "volume": "10", "number": "38"},
+      "title": "Hearts and Swords",
+      "title-note": "part 4 of 11",
+      "author": {
+       "authorized": "Sabatini, Rafael, 1875-1950",
+       "lcna": "n50016255"
+      }
+     },
+     {"issue": {"issue-date": "1933-09-30", "volume": "10", "number": "39"},
+      "title": "Hearts and Swords",
+      "title-note": "part 5 of 11",
+      "author": {
+       "authorized": "Sabatini, Rafael, 1875-1950",
+       "lcna": "n50016255"
+      }
+     },
+     {"issue": {"issue-date": "1933-10-07", "volume": "10", "number": "40"},
+      "title": "Hearts and Swords",
+      "title-note": "part 6 of 11",
+      "author": {
+       "authorized": "Sabatini, Rafael, 1875-1950",
+       "lcna": "n50016255"
+      }
+     },
+     {"issue": {"issue-date": "1933-10-14", "volume": "10", "number": "41"},
+      "title": "Hearts and Swords",
+      "title-note": "part 7 of 11",
+      "author": {
+       "authorized": "Sabatini, Rafael, 1875-1950",
+       "lcna": "n50016255"
+      }
+     },
+     {"issue": {"issue-date": "1933-10-21", "volume": "10", "number": "42"},
+      "title": "Hearts and Swords",
+      "title-note": "part 8 of 11",
+      "author": {
+       "authorized": "Sabatini, Rafael, 1875-1950",
+       "lcna": "n50016255"
+      }
+     },
+     {"issue": {"issue-date": "1933-10-28", "volume": "10", "number": "43"}, 
+      "title": "Hearts and Swords",
+      "title-note": "part 9 of 11",
+      "author": {
+       "authorized": "Sabatini, Rafael, 1875-1950",
+       "lcna": "n50016255"
+      }
+     },
+     {"issue": {"issue-date": "1933-10-28", "volume": "10", "number": "43"}, 
+      "title": "No Riders",
+      "author": {
+       "authorized": "Matson, Norman, 1893-1965",
+       "lcna": "no93020499"
+      }
+     }, 
+     {"issue": {"issue-date": "1933-11-04", "volume": "10", "number": "44"}, 
+      "title": "Hearts and Swords",
+      "title-note": "part 10 of 11",
+      "author": {
+       "authorized": "Sabatini, Rafael, 1875-1950",
+       "lcna": "n50016255"
+      }
+     },
+     {"issue": {"issue-date": "1933-11-11", "volume": "10", "number": "45"}, 
+      "title": "Hearts and Swords",
+      "title-note": "part 11 of 11",
+      "author": {
+       "authorized": "Sabatini, Rafael, 1875-1950",
+       "lcna": "n50016255"
+      }
+     },
+     {"issue": {"issue-date": "1934-01-06", "volume": "11", "number": "1"},
+      "title": "The Bridge",
+      "author": {
+         "authorized": "Mason, A. E. W. (Alfred Edward Woodley), 1865-1948",
+         "lcna": "n50043662"
+       }
      }
    ],
    "comment": "Resume contribution search in 1960 Jan-Jun",
@@ -894,5 +1483,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2026-01-06"
+   "last-updated": "2026-03-30"
 }

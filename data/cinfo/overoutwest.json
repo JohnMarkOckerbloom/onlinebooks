@@ -1,7 +1,8 @@
 {
    "title": "Overland Monthly and Out West Magazine",
    "online": "1",
-   "preceded-by": [{"id": "overland", "note": "The Overland Monthly"}],
+   "preceded-by": [{"id": "overland", "note": "The Overland Monthly"},
+                   {"id": "outwest1902", "note": "Out West"}],
    "first-issue": 
      {"issue-date": "1923-05", "volume": "81", "number": "1"},
    "first-renewed-issue": "none",
@@ -14,5 +15,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-03-29"
+   "last-updated": "2026-03-30"
 }

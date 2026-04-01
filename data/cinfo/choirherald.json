@@ -9,7 +9,7 @@
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1932-04"}},
    "first-renewed-contribution-source": "1960-JanJun",
-   "renewed-issue-completeness": "active/1935",
+   "renewed-issue-completeness": "active/1936",
    "renewed-issues": [
      {"issue-date": "1931-02", "volume": "34", "number": "5",
       "cdate": "1931-01-02"},
@@ -89,7 +89,14 @@
      {"issue-date": "1936-06", "volume": "39", "number": "9"},
      {"issue-date": "1936-07", "volume": "39", "number": "10"},
      {"issue-date": "1936-08", "volume": "39", "number": "11"},
-     {"issue-date": "1936-09", "volume": "39", "number": "12"}
+     {"issue-date": "1936-09", "volume": "39", "number": "12"},
+     {"issue-date": "1936-10", "volume": "40", "number": "1"},
+     {"issue-date": "1936-11", "volume": "40", "number": "2"},
+     {"issue-date": "1936-12", "volume": "40", "number": "3"},
+     {"issue-date": "1937-01", "volume": "40", "number": "4",
+      "cdate": "1936-12-02"},
+     {"issue-date": "1937-02", "volume": "40", "number": "5",
+      "cdate": "1937-01-02"}
    ],
    "additional-note": 
      "This periodical includes sheet music that might have renewals under Music, rather than under Contributions to Periodicals. We have not systematically surveyed Music copyright renewals.",
@@ -97,5 +104,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2026-01-03"
+   "last-updated": "2026-03-19"
 }

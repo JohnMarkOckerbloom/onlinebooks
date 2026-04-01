@@ -7,15 +7,29 @@
    "first-issue":
       {"issue-date": "1937-January-February", "volume": "1", "number": "1"},
    "first-renewed-issue": 
-      {"issue-date": "1937-January-February", "volume": "1", "number": "1"},
+      {"issue-date": "1937-January-February", "volume": "1", "number": "1",
+       "cdate": "1936-11-10"},
    "first-renewed-issue-source": "1964",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce",
    "last-issue": 
       {"issue-date": "1938-June-July", "volume": "3", "number": "2"},
+   "renewed-issue-completeness": "active/end",
+   "renewed-issues": [
+      {"issue-date": "1937-January-February", "volume": "1", "number": "1",
+       "cdate": "1936-11-10"},
+      {"issue-date": "1937-March-April", "volume": "1", "number": "2",
+       "cdate": "1937-01-20"},
+      {"issue-date": "1937-May-June", "volume": "1", "number": "3"},
+      {"issue-date": "1937-July-August", "volume": "1", "number": "4"},
+      {"issue-date": "1937-September-October", "volume": "2", "number": "1"},
+      {"issue-date": "1938-February-March", "volume": "2", "number": "4"},
+      {"issue-date": "1938-April-May", "volume": "3", "number": "1"},
+      {"issue-date": "1938-June-July", "volume": "3", "number": "2"}
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-09-09"
+   "last-updated": "2026-03-29"
 }

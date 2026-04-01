@@ -87,7 +87,7 @@ sub _display_banner {
     $desc =~ s/\<[^\>]+\>//g;                  # strip out HTML markup
     my $picfile = $self->picfilename();
     my $picdir = $self->{stubdir};
-    # print "<b>desc is $desc, title is $title, picdir is $picdir, picfile is $picfile</b>\n";
+    # print "\n<!-- desc is $desc, title is $title, picdir is $picdir, picfile is $picfile -->\n";
     if ($picfile && $picdir) {
       my $imageurl = "$imagestub$picdir/$picfile";
       my $commonsurl = $commonsstub . OLBP::url_encode($title);
@@ -517,6 +517,7 @@ sub picfilename {
       if ($self->{stubdir}) {
         my $dir = $picpath . $self->{stubdir};
         my $globpattern = "$dir/$self->{id}.*";
+        # print "\n<!-- globpattern is $globpattern -->\n";
         my @filenames = glob($globpattern);
         if (scalar(@filenames)) {
            my $filename = $filenames[0];

@@ -15,9 +15,45 @@
    "first-renewed-contribution-source": "1966-JulDec",
    "last-issue": 
        {"issue-date": "1954-08", "volume": "31", "number": "4"}, 
+   "renewed-issue-completeness": "active/1937",
+   "renewed-issues": [
+      {"issue-date": "1937-09", "volume": "1", "number": "1"},
+      {"issue-date": "1937-10", "volume": "1", "number": "2"},
+      {"issue-date": "1937-11", "volume": "1", "number": "3"},
+      {"issue-date": "1937-12", "volume": "1", "number": "4"},
+      {"issue-date": "1938-02", "volume": "2", "number": "2"},
+      {"issue-date": "1938-March-April", "volume": "2", "number": "3"},
+      {"issue-date": "1938-September-October", "volume": "2", "number": "4"},
+      {"issue-date": "1938-November-December", "volume": "3", "number": "1"}
+   ],
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+    {"issue": {"issue-date": "1939-July-August", "volume": "4", "number": "1"}, 
+     "title": "Boom-Camp Badman",
+     "author": {
+      "authorized": "Fox, Norman A., 1911-1960",
+      "lcna": "n88205144"
+     }
+    },
+    {"issue": {"issue-date": "1951-09", "volume": "27", "number": "3"}, 
+     "title": "Bull's Eye on His Back",
+     "author": {
+      "authorized": "Coburn, Walt, 1889-1971",
+      "lcna": "n84030412"
+     }
+    },
+    {"issue": {"issue-date": "1953-01", "volume": "29", "number": "3"},
+      "title": "McCloud's Private War",
+       "author": {
+        "authorized": "Jakes, John, 1932-2023",
+         "lcna": "n80035843"
+       }
+     }
+   ],
+   "additional-note": "Some later issues include reprints from magazines like Star Western and Dime Western, as noted in the FictionMags contents listings.  We  have not checked to see whether there are active copyrights in the reprinted stories.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2017-12-15"
+   "last-updated": "2026-03-26"
 }

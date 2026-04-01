@@ -11,11 +11,24 @@
    "first-renewed-issue-source": "1964",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce",
+   "renewed-issue-completeness": "active/end",
+   "renewed-issues": [
+     {"issue-date": "1937-11", "volume": "1", "number": "1"},
+     {"issue-date": "1937-12", "volume": "1", "number": "2"},
+     {"issue-date": "1938-01", "volume": "1", "number": "3",
+      "cdate": "1937-12-09"},
+     {"issue-date": "1938-02", "volume": "1", "number": "4",
+      "cdate": "1938-01-07"},
+     {"issue-date": "1938-March-April", "volume": "1", "number": "5"},
+     {"issue-date": "1938-May-June", "volume": "1", "number": "6"},
+     {"issue-date": "1938-July-August", "volume": "2", "number": "1"},
+     {"issue-date": "1938-September-October", "volume": "2", "number": "2"}
+   ],
    "last-issue":
      {"issue-date": "1938-September-October", "volume": "2", "number": "2"},
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-05-18"
+   "last-updated": "2026-03-13"
 }

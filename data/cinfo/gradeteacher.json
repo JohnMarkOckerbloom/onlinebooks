@@ -8,7 +8,7 @@
    "first-renewed-issue-source": "1959-JanJun",
    "first-renewed-contribution": {"issue": {"issue-date": "1960-01"}},
    "first-renewed-contribution-source": "database",
-   "renewed-issue-completeness": "active/1935",
+   "renewed-issue-completeness": "active/1936",
    "renewed-issues": [ 
       {"issue-date": "1931-03", "volume": "48", "number": "7"},
       {"issue-date": "1931-04", "volume": "48", "number": "8"},
@@ -56,11 +56,27 @@
       {"issue-date": "1935-11", "volume": "53", "number": "3"},
       {"issue-date": "1935-12", "volume": "53", "number": "4"},
       {"issue-date": "1936-01", "volume": "53", "number": "5",
-       "cdate": "1935-12-15"}
+       "cdate": "1935-12-15"},
+      {"issue-date": "1936-03", "volume": "52", "number": "7"},
+      {"issue-date": "1936-04", "volume": "52", "number": "8"},
+      {"issue-date": "1936-05", "volume": "52", "number": "9"},
+      {"issue-date": "1936-06", "volume": "52", "number": "10"},
+      {"issue-date": "1936-09", "volume": "54", "number": "1"},
+      {"issue-date": "1936-10", "volume": "54", "number": "2"},
+      {"issue-date": "1936-11", "volume": "54", "number": "3"},
+      {"issue-date": "1936-12", "volume": "54", "number": "4"},
+      {"issue-date": "1937-01", "volume": "54", "number": "5",
+       "cdate": "1936-12-22"},
+      {"issue-date": "1937-02", "volume": "54", "number": "6",
+       "cdate": "1937-01-15"},
+      {"issue-date": "1937-03", "volume": "54", "number": "7"},
+      {"issue-date": "1937-04", "volume": "54", "number": "8"},
+      {"issue-date": "1937-05", "volume": "54", "number": "9"},
+      {"issue-date": "1937-06", "volume": "54", "number": "10"}
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2026-01-09"
+   "last-updated": "2026-03-26"
 }

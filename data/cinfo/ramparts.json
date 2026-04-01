@@ -1,0 +1,80 @@
+{
+   "title": "Ramparts",
+   "title-note": "1962-1975",
+   "first-issue":
+     {"issue-date": "1962-05", "volume": "1", "number": "1"},
+   "first-renewed-issue":
+     {"issue-date": "1962-09", "volume": "1", "number": "2"},
+   "first-renewed-contribution":
+      {"issue": {"issue-date": "1962-05", "volume": "1", "number": "1"}},
+   "first-renewed-contribution-source": "database",
+   "first-autorenewed-issue":
+     {"issue-date": "1964-Winter", "volume": "2", "number": "4"},
+   "renewed-issue-completeness": "active/autorenewals",
+   "renewed-issues": [
+     {"issue-date": "1962-09", "volume": "1", "number": "2"},
+     {"issue-date": "1962-11", "volume": "1", "number": "3"},
+     {"issue-date": "1963-01", "volume": "1", "number": "4"},
+     {"issue-date": "1963-03", "volume": "1", "number": "5"},
+     {"issue-date": "1963-05", "volume": "2", "number": "1"},
+     {"issue-date": "1963-Autumn", "volume": "2", "number": "2"},
+     {"issue-date": "1963-Christmas", "volume": "2", "number": "3"}
+   ],
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1962-05", "volume": "1", "number": "1"},
+        "title": "The Morning Song of Lord Zero",
+        "author": {
+         "authorized": "Aiken, Conrad, 1889-1973",
+         "lcna": "n80060447"
+        }
+     },
+     {"issue": {"issue-date": "1963-03", "volume": "1", "number": "5"},
+      "title": "Henry James: The Psychology of the Keyhole",
+      "author": {
+         "authorized": "Geismar, Maxwell, 1909-1979",
+         "lcna": "n50018262"
+      }
+     },
+     {"issue": {"issue-date": "1963-03", "volume": "1", "number": "5"},
+      "title": "A Stimulant for an Old Beast. Of 1826. Industrious, Affable",
+      "author": {
+         "authorized": "Berryman, John, 1914-1972",
+         "lcna": "n79142591"
+      }
+     },
+     {"issue": {"issue-date": "1963-03", "volume": "1", "number": "5"},
+      "title": "A Capital at Wells. My Mother Has Your Shotgun",
+      "author": {
+         "authorized": "Berryman, John, 1914-1972",
+         "lcna": "n79142591"
+      }
+     },
+     {"issue": {"issue-date": "1963-03", "volume": "1", "number": "5"},
+      "title": "Deprived of His Enemy. Supreme My Holdings. I Heard, Could Be",
+      "author": {
+         "authorized": "Berryman, John, 1914-1972",
+         "lcna": "n79142591"
+      }
+     },
+     {"issue": {"issue-date": "1963-03", "volume": "1", "number": "5"},
+      "title": "God Bless Henry. Love Her He Doesn't. Henry Hates the World",
+      "author": {
+         "authorized": "Berryman, John, 1914-1972",
+         "lcna": "n79142591"
+      }
+     },
+     {"issue": {"issue-date": "1963-Christmas", "volume": "2", "number": "3"},
+      "title": "The Black Revolution: Letters to a White Liberal",
+      "author": {
+       "authorized": "Merton, Thomas, 1915-1968",
+       "lcna": "n80005353"
+      }
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2026-03-31"
+}

@@ -17,7 +17,7 @@
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1931-02", "volume": "92", "number": "2"}},
    "first-renewed-contribution-source": "1958-JanJun",
-   "renewed-issue-completeness": "active/1935",
+   "renewed-issue-completeness": "active/1936",
    "renewed-issues": [
      {"issue-date": "1931-02", "volume": "92", "number": "2",
       "cdate": "1931-01-24"},
@@ -79,7 +79,21 @@
      {"issue-date": "1935-11", "volume": "101", "number": "5"},
      {"issue-date": "1935-12", "volume": "101", "number": "6"},
      {"issue-date": "1936-01", "volume": "102", "number": "1",
-      "cdate": "1935-12-24"}
+      "cdate": "1935-12-24"},
+     {"issue-date": "1936-02", "volume": "102", "number": "2",
+      "cdate": "1936-01-25"},
+     {"issue-date": "1936-03", "volume": "102", "number": "3"},
+     {"issue-date": "1936-04", "volume": "102", "number": "4"},
+     {"issue-date": "1936-05", "volume": "102", "number": "5"},
+     {"issue-date": "1936-06", "volume": "102", "number": "6"},
+     {"issue-date": "1936-07", "volume": "103", "number": "1"},
+     {"issue-date": "1936-08", "volume": "103", "number": "2"},
+     {"issue-date": "1936-09", "volume": "103", "number": "3"},
+     {"issue-date": "1936-10", "volume": "103", "number": "4"},
+     {"issue-date": "1936-11", "volume": "103", "number": "5"},
+     {"issue-date": "1936-12", "volume": "103", "number": "6"},
+     {"issue-date": "1937-01", "volume": "104", "number": "1",
+      "cdate": "1936-12-24"}
    ],
    "renewed-contribution-completeness": "active/1932",
    "renewed-contributions": [
@@ -647,5 +661,5 @@
    },
    "acknowledgement": 
       "Thanks to Felice Gollotti for copyright research on this title.",
-   "last-updated": "2026-02-08"
+   "last-updated": "2026-03-26"
 }
