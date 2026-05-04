@@ -1,6 +1,10 @@
 {
    "title": "Pictorial Review",
    "online": "1",
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/FMI/link.asp?magid=PIR",
+       "note": "FictionMags (partial)"}
+   ],
    "first-issue": {"issue-date": "1899-09", "volume": "1", "number": "1"},
    "first-renewed-issue": 
       {"issue-date": "1931-06", "volume": "32", "number": "9"},
@@ -87,7 +91,7 @@
       {"issue-date": "1937-03", "volume": "38", "number": "6"},
       {"issue-date": "1937-04", "volume": "38", "number": "7"}
    ],
-   "renewed-contribution-completeness": "active/1931",
+   "renewed-contribution-completeness": "active/1932",
    "renewed-contributions": [
      {"issue": {"issue-date": "1931-02", "volume": "32", "number": "5"},
       "title": "Sweet Innocents",
@@ -379,17 +383,197 @@
          "lcna": "no94017216"
        }
      },
+     {"issue": {"issue-date": "1933-01", "volume": "34", "number": "4"}, 
+      "title": "The Technique of Marriage",
+      "title-note": "installment",
+       "author": {
+         "authorized": "Borden, Mary",
+         "lcna": "n89600063"
+       }
+     },
+     {"issue": {"issue-date": "1933-02", "volume": "34", "number": "5"},
+      "title": "The Lunacy of Love",
+      "author": {
+         "authorized": "Connell, Richard, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1933-02", "volume": "34", "number": "5"},
+      "title": "Sugar House",
+      "title-note": "part 4 of 6",
+       "author": {
+         "authorized": "Hurst, Fannie, 1889-1968",
+         "lcna": "n80010314"
+       }
+     },
+     {"issue": {"issue-date": "1933-02", "volume": "34", "number": "5"},
+      "title": "The Technique of Marriage",
+      "title-note": "installment",
+       "author": {
+         "authorized": "Borden, Mary",
+         "lcna": "n89600063"
+       }
+     },
+     {"issue": {"issue-date": "1933-03", "volume": "34", "number": "6"},
+      "title": "Sugar House",
+      "title-note": "part 5 of 6",
+       "author": {
+         "authorized": "Hurst, Fannie, 1889-1968",
+         "lcna": "n80010314"
+       }
+     },
+     {"issue": {"issue-date": "1933-03", "volume": "34", "number": "6"},
+      "title": "The Technique of Marriage",
+      "title-note": "installment",
+       "author": {
+         "authorized": "Borden, Mary",
+         "lcna": "n89600063"
+       }
+     },
      {"issue": {"issue-date": "1933-04", "volume": "34", "number": "7"},
         "title": "Silver Fox",
         "author": {
          "authorized": "Baum, Vicki, 1888-1960",
          "lcna": "n79135036"
         }
+     },
+     {"issue": {"issue-date": "1933-04", "volume": "34", "number": "7"},
+      "title": "Sugar House",
+      "title-note": "part 6 of 6",
+       "author": {
+         "authorized": "Hurst, Fannie, 1889-1968",
+         "lcna": "n80010314"
+       }
+     },
+     {"issue": {"issue-date": "1933-04", "volume": "34", "number": "7"},
+      "title": "The Technique of Marriage",
+      "title-note": "installment",
+       "author": {
+         "authorized": "Borden, Mary",
+         "lcna": "n89600063"
+       }
+     },
+     {"issue": {"issue-date": "1933-05", "volume": "34", "number": "8"},
+      "title": "The Technique of Marriage",
+      "title-note": "installment",
+       "author": {
+         "authorized": "Borden, Mary",
+         "lcna": "n89600063"
+       }
+     },
+     {"issue": {"issue-date": "1933-06", "volume": "34", "number": "9"},
+      "title": "The Dragon Murder Case",
+      "title-note": "part 1 of 6",
+      "author": {
+       "authorized": "Van Dine, S. S.",
+       "lcna": "n79117174"
+      }
+     },
+     {"issue": {"issue-date": "1933-06", "volume": "34", "number": "9"},
+      "title": "Are You Going to the Fair",
+      "author": {
+         "authorized": "Barnes, Margaret Ayer, 1886-1967",
+         "lcna": "n90680004"
+       }
+     },
+     {"issue": {"issue-date": "1933-06", "volume": "34", "number": "9"},
+      "title": "The Technique of Marriage",
+      "title-note": "installment",
+       "author": {
+         "authorized": "Borden, Mary",
+         "lcna": "n89600063"
+       }
+     },
+     {"issue": {"issue-date": "1933-07", "volume": "34", "number": "10"},
+      "title": "The Dragon Murder Case",
+      "title-note": "part 2 of 6",
+      "author": {
+       "authorized": "Van Dine, S. S.",
+       "lcna": "n79117174"
+      }
+     },
+     {"issue": {"issue-date": "1933-08", "volume": "34", "number": "11"},
+      "title": "Guileford",
+       "author": {
+         "authorized": "Stribling, T. S. (Thomas Sigismund), 1881-1965",
+         "lcna": "n50011482"
+       }
+     },
+     {"issue": {"issue-date": "1933-08", "volume": "34", "number": "11"},
+      "title": "The Dragon Murder Case",
+      "title-note": "part 3 of 6",
+      "author": {
+       "authorized": "Van Dine, S. S.",
+       "lcna": "n79117174"
+      }
+     },
+     {"issue": {"issue-date": "1933-09", "volume": "34", "number": "12"},
+      "title": "Steamboat Round the Bend",
+      "title-note": "part 1 of 6",
+       "author": {
+         "authorized": "Burman, Ben Lucien, 1895-1984",
+         "lcna": "n50032333"
+       }
+     },
+     {"issue": {"issue-date": "1933-09", "volume": "34", "number": "12"},
+      "title": "The Dragon Murder Case",
+      "title-note": "part 4 of 6",
+      "author": {
+       "authorized": "Van Dine, S. S.",
+       "lcna": "n79117174"
+      }
+     },
+     {"issue": {"issue-date": "1933-09", "volume": "34", "number": "12"},
+      "title": "Self Defense",
+       "author": {
+         "authorized": "Gilkyson, Walter, 1880-1969",
+         "lcna": "no93000730"
+       }
+     },
+     {"issue": {"issue-date": "1933-10", "volume": "35", "number": "1"},
+      "title": "Steamboat Round the Bend",
+      "title-note": "part 2 of 6",
+       "author": {
+         "authorized": "Burman, Ben Lucien, 1895-1984",
+         "lcna": "n50032333"
+       }
+     },
+     {"issue": {"issue-date": "1933-10", "volume": "35", "number": "1"},
+      "title": "The Dragon Murder Case",
+      "title-note": "part 5 of 6",
+      "author": {
+       "authorized": "Van Dine, S. S.",
+       "lcna": "n79117174"
+      }
+     },
+     {"issue": {"issue-date": "1933-10", "volume": "35", "number": "1"},
+      "title": "The Last Coach",
+      "author": {
+       "authorized": "Wertenbaker, Charles, 1901-1955",
+       "lcna": "no96013026"
+      }
+     },
+     {"issue": {"issue-date": "1933-11", "volume": "35", "number": "2"},
+      "title": "Steamboat Round the Bend",
+      "title-note": "part 3 of 6",
+       "author": {
+         "authorized": "Burman, Ben Lucien, 1895-1984",
+         "lcna": "n50032333"
+       }
+     },
+     {"issue": {"issue-date": "1933-11", "volume": "35", "number": "2"},
+      "title": "The Dragon Murder Case",
+      "title-note": "part 6 of 6",
+      "author": {
+       "authorized": "Van Dine, S. S.",
+       "lcna": "n79117174"
+      }
      }
    ],
+   "comment": "Resume contribution search with 1961 Jan-Jun",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2026-01-07"
+   "last-updated": "2026-04-22"
 }

@@ -1,0 +1,52 @@
+{
+   "title": "Crime and Justice Detective Story Magazine",
+   "aka": ["Crime and Justice"],
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/CFI/link.asp?magid=CRM_J",
+       "note": "FictionMags"}
+   ],
+   "first-issue": {"issue-date": "1956-09", "number": "1"}, 
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "database",
+   "first-renewed-contribution":
+     {"issue": {"issue-date": "1957-01", "number": "3"}},
+   "first-renewed-contribution-source": "database",
+   "last-issue": {"issue-date": "1957-03", "number": "4"}, 
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1957-01", "number": "3"},
+      "title": "The Golden Virgin",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1957-01", "number": "3"},
+      "title": "Inspector Fleming's Last Case",
+      "author": {
+        "authorized": "Hoch, Edward D., 1930-2008",
+        "lcna": "n78089006"
+      }
+     },
+     {"issue": {"issue-date": "1957-03", "number": "4"},
+      "title": "Jealous Lover",
+      "author": {
+        "authorized": "Hoch, Edward D., 1930-2008",
+        "lcna": "n78089006"
+      }
+     },
+     {"issue": {"issue-date": "1957-03", "number": "4"},
+      "title": "Dead Wives Don't Cheat",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "using": "John Magnus",
+        "lcna": "n50010025"
+      }
+     }
+   ],
+   "additional-note": "The first two issues of this magazine include reprints from New Detective magazine issues originally published between 1946 and 1950, as noted in the FictionMags listings. The first issue includes a story ('Till the End of Crime') from the February 1946 issue of New Detective that has an active issue renewal, which may also cover that story.",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2026-04-08"
+}

@@ -15,7 +15,7 @@
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1931-02", "volume": "56", "number": "4"}},
    "first-renewed-contribution-source": "1958-JulDec",
-   "renewed-issue-completeness": "active/1935",
+   "renewed-issue-completeness": "active/1936",
    "renewed-issues": [
       {"issue-date": "1931-02", "volume": "56", "number": "4",
        "cdate": "1931-01-05"},
@@ -95,9 +95,23 @@
       {"issue-date": "1936-06", "volume": "67", "number": "2"},
       {"issue-date": "1936-07", "volume": "67", "number": "3"},
       {"issue-date": "1936-08", "volume": "67", "number": "4"},
-      {"issue-date": "1936-09", "volume": "67", "number": "5"}
+      {"issue-date": "1936-09", "volume": "67", "number": "5"},
+      {"issue-date": "1936-10", "volume": "67", "number": "6"},
+      {"issue-date": "1936-11", "volume": "68", "number": "1"},
+      {"issue-date": "1936-12", "volume": "68", "number": "2"},
+      {"issue-date": "1937-01", "volume": "68", "number": "3",
+       "cdate": "1936-12-04"},
+      {"issue-date": "1937-02", "volume": "68", "number": "4",
+       "cdate": "1937-01-05"},
+      {"issue-date": "1937-03", "volume": "68", "number": "5"},
+      {"issue-date": "1937-04", "volume": "68", "number": "6"},
+      {"issue-date": "1937-05", "volume": "69", "number": "1"},
+      {"issue-date": "1937-06", "volume": "69", "number": "2"},
+      {"issue-date": "1937-07", "volume": "69", "number": "3"},
+      {"issue-date": "1937-08", "volume": "69", "number": "4"},
+      {"issue-date": "1937-09", "volume": "69", "number": "5"}
    ],
-   "renewed-contribution-completeness": "active/1931",
+   "renewed-contribution-completeness": "active/1932",
    "renewed-contributions": [
      {"issue": {"issue-date": "1931-02", "volume": "56", "number": "4"},
        "title": "The King of Swindlers",
@@ -420,6 +434,14 @@
       }
      },
      {"issue": {"issue-date": "1932-08", "volume": "59", "number": "4"},
+      "title": "Ann Vickers",
+      "title-note": "part 1 of 6",
+      "author": {
+         "authorized": "Lewis, Sinclair, 1885-1951",
+         "lcna": "n79023149"
+       }
+     },
+     {"issue": {"issue-date": "1932-08", "volume": "59", "number": "4"},
        "title": "Kiss and Jail",
        "author": {
         "authorized": "Roche, Arthur Somers, 1883-1935",
@@ -439,6 +461,14 @@
       "author": {
          "authorized": "Barnes, Margaret Ayer, 1886-1967",
          "lcna": "n90680004"
+       }
+     },
+     {"issue": {"issue-date": "1932-09", "volume": "59", "number": "5"}, 
+      "title": "Ann Vickers",
+      "title-note": "part 2 of 6",
+      "author": {
+         "authorized": "Lewis, Sinclair, 1885-1951",
+         "lcna": "n79023149"
        }
      },
      {"issue": {"issue-date": "1932-09", "volume": "59", "number": "5"}, 
@@ -504,6 +534,38 @@
           "lcna": "n79145476"
         }
      },
+     {"issue": {"issue-date": "1932-10", "volume": "59", "number": "6"}, 
+      "title": "Ann Vickers",
+      "title-note": "part 3 of 6",
+      "author": {
+         "authorized": "Lewis, Sinclair, 1885-1951",
+         "lcna": "n79023149"
+       }
+     },
+     {"issue": {"issue-date": "1932-10", "volume": "59", "number": "6"}, 
+      "title": "The Lone Wolf's Breed",
+      "title-note": "part 1 of 7",
+      "author": {
+         "authorized": "Vance, Louis Joseph, 1879-1933",
+         "lcna": "no90026936"
+      }
+     },
+     {"issue": {"issue-date": "1932-11", "volume": "60", "number": "1"}, 
+      "title": "The Lone Wolf's Breed",
+      "title-note": "part 2 of 7",
+      "author": {
+         "authorized": "Vance, Louis Joseph, 1879-1933",
+         "lcna": "no90026936"
+      }
+     },
+     {"issue": {"issue-date": "1932-11", "volume": "60", "number": "1"}, 
+      "title": "Ann Vickers",
+      "title-note": "part 4 of 6",
+      "author": {
+         "authorized": "Lewis, Sinclair, 1885-1951",
+         "lcna": "n79023149"
+       }
+     },
      {"issue": {"issue-date": "1932-12", "volume": "60", "number": "2"}, 
        "title": "Rio Magdalena",
        "author": {
@@ -511,11 +573,240 @@
       }
      },
      {"issue": {"issue-date": "1932-12", "volume": "60", "number": "2"}, 
+      "title": "The Lone Wolf's Breed",
+      "title-note": "part 3 of 7",
+      "author": {
+         "authorized": "Vance, Louis Joseph, 1879-1933",
+         "lcna": "no90026936"
+      }
+     },
+     {"issue": {"issue-date": "1932-12", "volume": "60", "number": "2"}, 
+      "title": "Ann Vickers",
+      "title-note": "part 5 of 6",
+      "author": {
+         "authorized": "Lewis, Sinclair, 1885-1951",
+         "lcna": "n79023149"
+       }
+     },
+     {"issue": {"issue-date": "1932-12", "volume": "60", "number": "2"}, 
       "title": "Life's Little Trick",
       "note": "Renewed under the author's married name, Bernice Brown Brush.",
       "author": {
        "name": "Bernice Brown"
       }
+     },
+     {"issue": {"issue-date": "1933-01", "volume": "60", "number": "3"}, 
+      "title": "The Lone Wolf's Breed",
+      "title-note": "part 4 of 7",
+      "author": {
+         "authorized": "Vance, Louis Joseph, 1879-1933",
+         "lcna": "no90026936"
+      }
+     },
+     {"issue": {"issue-date": "1933-01", "volume": "60", "number": "3"}, 
+      "title": "Ann Vickers",
+      "title-note": "part 6 of 6",
+      "author": {
+         "authorized": "Lewis, Sinclair, 1885-1951",
+         "lcna": "n79023149"
+       }
+     },
+     {"issue": {"issue-date": "1933-01", "volume": "60", "number": "3"}, 
+      "title": "Ode to St. Nicholas",
+      "author": {
+         "authorized": "Nash, Ogden, 1902-1971",
+         "lcna": "n79134950"
+       }
+     },
+     {"issue": {"issue-date": "1933-02", "volume": "60", "number": "4"},
+      "title": "Partly a Woman Hater",
+      "author": {
+         "authorized": "Tarkington, Booth, 1869-1946",
+         "lcna": "n79078124"
+       }
+     },
+     {"issue": {"issue-date": "1933-02", "volume": "60", "number": "4"},
+       "title": "Jungle Glamour",
+       "author": {
+        "name": "Virginia Paxton Harner"
+      }
+     },
+     {"issue": {"issue-date": "1933-02", "volume": "60", "number": "4"},
+      "title": "The Seven Spiritual Ages of Mrs. Marmaduke Moore",
+      "author": {
+         "authorized": "Nash, Ogden, 1902-1971",
+         "lcna": "n79134950"
+       }
+     },
+     {"issue": {"issue-date": "1933-02", "volume": "60", "number": "4"},
+      "title": "The Lone Wolf's Breed",
+      "title-note": "part 5 of 7",
+      "author": {
+         "authorized": "Vance, Louis Joseph, 1879-1933",
+         "lcna": "no90026936"
+      }
+     },
+     {"issue": {"issue-date": "1933-03", "volume": "60", "number": "5"},
+       "title": "Vagabond",
+       "author": {
+        "name": "Virginia Paxton Harner"
+      }
+     },
+     {"issue": {"issue-date": "1933-03", "volume": "60", "number": "5"},
+      "title": "The Lone Wolf's Breed",
+      "title-note": "part 6 of 7",
+      "author": {
+         "authorized": "Vance, Louis Joseph, 1879-1933",
+         "lcna": "no90026936"
+      }
+     },
+     {"issue": {"issue-date": "1933-04", "volume": "60", "number": "6"}, 
+      "title": "Everything is Mixed",
+      "author": {
+       "authorized": "Hale, Agnes Burke",
+       "lcna": "no97070814"
+      }
+     },
+     {"issue": {"issue-date": "1933-04", "volume": "60", "number": "6"}, 
+      "title": "Homeland",
+      "note": "Renewed under the author's married name, Bernice Brown Brush.",
+      "author": {
+       "name": "Bernice Brown"
+      }
+     },
+     {"issue": {"issue-date": "1933-04", "volume": "60", "number": "6"}, 
+      "title": "The Lone Wolf's Breed",
+      "title-note": "part 7 of 7",
+      "author": {
+         "authorized": "Vance, Louis Joseph, 1879-1933",
+         "lcna": "no90026936"
+      }
+     },
+     {"issue": {"issue-date": "1933-05", "volume": "61", "number": "1"}, 
+      "title": "Repatriated",
+       "author": {
+          "authorized": "Buck, Pearl S. (Pearl Sydenstricker), 1892-1973",
+          "lcna": "n79026662"
+        }
+     },
+     {"issue": {"issue-date": "1933-06", "volume": "61", "number": "2"}, 
+      "title": "Night's Lodging",
+      "note": "Renewed under the author's married name, Bernice Brown Brush.",
+      "author": {
+       "name": "Bernice Brown"
+      }
+     },
+     {"issue": {"issue-date": "1933-07", "volume": "61", "number": "3"}, 
+      "title": "Nearest Married: or Learning to Be a Non Joanna",
+      "author": {
+         "authorized": "Tarkington, Booth, 1869-1946",
+         "lcna": "n79078124"
+       }
+     },
+     {"issue": {"issue-date": "1933-07", "volume": "61", "number": "3"}, 
+      "title": "The Bracelet",
+      "note": "Renewed under the author's married name, Bernice Brown Brush.",
+      "author": {
+       "name": "Bernice Brown"
+      }
+     },
+     {"issue": {"issue-date": "1933-08", "volume": "61", "number": "4"},
+      "title": "Early Marriage",
+      "author": {
+         "authorized": "Phillips, Teresa Hyde",
+         "lcna": "no2013063407"
+      }
+     },
+     {"issue": {"issue-date": "1933-08", "volume": "61", "number": "4"},
+      "title": "It's Not the Spot",
+      "author": {
+         "authorized": "Connell, Richard, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1933-08", "volume": "61", "number": "4"},
+      "title": "Redcap",
+      "author": {
+         "authorized": "Henderson, George Wylie",
+         "lcna": "n84136724"
+       }
+     },
+     {"issue": {"issue-date": "1933-09", "volume": "61", "number": "5"},
+      "title": "Revenge in Advance",
+      "author": {
+         "authorized": "Hughes, Rupert, 1872-1956",
+         "lcna": "n86012047"
+       }
+     },
+     {"issue": {"issue-date": "1933-09", "volume": "61", "number": "5"},
+      "title": "Lines to a Three-Name Lady",
+      "author": {
+         "authorized": "Nash, Ogden, 1902-1971",
+         "lcna": "n79134950"
+       }
+     },
+     {"issue": {"issue-date": "1933-09", "volume": "61", "number": "5"},
+      "title": "The Lightnings of the Lord",
+      "author": {
+       "authorized": "Cobb, Irvin S. (Irvin Shrewsbury), 1876-1944",
+       "lcna": "n50032217"
+      }
+     },
+     {"issue": {"issue-date": "1933-09", "volume": "61", "number": "5"},
+      "title": "The Figure in the Fog",
+      "author": {
+       "authorized": "Eberhart, Mignon G. (Mignon Good), 1899-1996",
+       "lcna": "n79063385"
+      }
+     },
+     {"issue": {"issue-date": "1933-10", "volume": "61", "number": "6"}, 
+      "title": "Blenda",
+      "note": "Renewed under the author's married name, Bernice Brown Brush. FictionMags does not report a contribution with this title in this issue, but does report one in this issue by this author, titled 'His Wife's Servant'.",
+      "author": {
+       "name": "Bernice Brown"
+      }
+     },
+     {"issue": {"issue-date": "1933-10", "volume": "61", "number": "6"}, 
+      "title": "Look What You Did, Christopher!",
+      "author": {
+         "authorized": "Nash, Ogden, 1902-1971",
+         "lcna": "n79134950"
+       }
+     },
+     {"issue": {"issue-date": "1933-11", "volume": "62", "number": "1"},
+      "title": "The Boomerang Clue",
+      "author": {
+         "authorized": "Christie, Agatha, 1890-1976",
+         "lcna": "n79038407"
+       }
+     },
+     {"issue": {"issue-date": "1933-11", "volume": "62", "number": "1"},
+      "title": "Pilgrim's Progress",
+      "author": {
+         "authorized": "Nash, Ogden, 1902-1971",
+         "lcna": "n79134950"
+       }
+     },
+     {"issue": {"issue-date": "1933-12", "volume": "62", "number": "2"}, 
+      "title": "Life Sentence",
+      "author": {
+         "authorized": "Phillips, Teresa Hyde",
+         "lcna": "no2013063407"
+      }
+     },
+     {"issue": {"issue-date": "1933-12", "volume": "62", "number": "2"}, 
+      "title": "The Thin Man",
+      "author": {
+       "authorized": "Hammett, Dashiell, 1894-1961",
+       "lcna": "n80016943"
+      }
+     },
+     {"issue": {"issue-date": "1933-12", "volume": "62", "number": "2"}, 
+      "title": "The Strange Case of Professor Primrose",
+      "author": {
+         "authorized": "Nash, Ogden, 1902-1971",
+         "lcna": "n79134950"
+       }
      },
      {"issue": {"issue-date": "1943-10", "volume": "81", "number": "6"},
         "title": "Mother's Little Helper",
@@ -534,11 +825,11 @@
         }
      }
    ],
-   "comment": "Pick up contributor sweep with 1960 Jan-Jun",
+   "comment": "Pick up contributor sweep with 1961 Jan-Jun",
    "additional-note": "Active contribution renewals are recorded beginning in the 1958 January-June CCE volume, but the earliest actively renewed contribution is noted in the 1958 July-December volume.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2026-01-07"
+   "last-updated": "2026-04-26"
 }

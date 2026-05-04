@@ -2862,7 +2862,7 @@
       {"issue-date": "1963-12-30", "volume": "123", "number": "42648"},
       {"issue-date": "1963-12-31", "volume": "123", "number": "42649"}
    ],
-   "renewed-contribution-completeness": "active/1931",
+   "renewed-contribution-completeness": "active/1932",
    "renewed-contributions": [
      {"issue": {"issue-date": "1931-03-29"},
       "title": "Martiniquaise",
@@ -3187,7 +3187,7 @@
          "lcna": "n84198048"
         }
      },
-     {"issue": {"issue-date": "1931-12-31"},
+     {"issue": {"issue-date": "1931-12-28"},
         "title": "Getting Even",
         "author": {
          "name": "Nate Salsbury",
@@ -3257,10 +3257,74 @@
          "name": "Nate Salsbury"
         }
      },
+     {"issue": {"issue-date": "1932-05-22"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
      {"issue": {"issue-date": "1932-05-25"},
         "title": "Retrospect",
         "author": {
          "name": "Nate Salsbury"
+        }
+     },
+     {"issue": {"issue-date": "1932-05-29"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1932-06-05"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1932-06-12"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1932-06-19"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1932-06-26"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1932-07-03"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1932-07-10"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
         }
      },
      {"issue": {"issue-date": "1932-07-12"},
@@ -3269,10 +3333,131 @@
          "name": "Nate Salsbury"
         }
      },
+     {"issue": {"issue-date": "1932-07-17"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1932-07-24"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1932-07-31"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1932-08-07"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1932-08-14"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1932-08-21"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1932-08-28"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1932-09-04"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "note": "CCE renewal record dates this as 4Aug32, but given this contribution's place in the list, and the B registration it renews, it is likely that 4Sep32 was intended.",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1932-09-11"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1932-09-18"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1932-09-25"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1932-10-02"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1932-10-09"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
      {"issue": {"issue-date": "1932-10-11"},
         "title": "Some General Observations",
         "author": {
          "name": "Nate Salsbury"
+        }
+     },
+     {"issue": {"issue-date": "1932-10-16"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1932-10-23"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
         }
      },
      {"issue": {"issue-date": "1932-10-28"},
@@ -3281,10 +3466,58 @@
          "name": "Nate Salsbury"
         }
      },
+     {"issue": {"issue-date": "1932-10-30"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1932-11-06"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1932-11-13"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1932-11-20"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1932-11-27"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
      {"issue": {"issue-date": "1932-11-30"},
         "title": "Threnody",
         "author": {
          "name": "Nate Salsbury"
+        }
+     },
+     {"issue": {"issue-date": "1932-12-04"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
         }
      },
      {"issue": {"issue-date": "1932-12-09"},
@@ -3294,17 +3527,567 @@
         "lcna": "n50008105"
        }
      },
+     {"issue": {"issue-date": "1932-12-11"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
      {"issue": {"issue-date": "1932-12-15"},
         "title": "Weitpolitik",
         "author": {
          "name": "Nate Salsbury"
         }
+     },
+     {"issue": {"issue-date": "1932-12-18"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1932-12-25"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-01-01"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-01-08"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-01-15"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-01-22"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-01-29"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-02-05"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-02-12"},
+      "title": "The Garden Notebook",
+       "title-note": "installment",
+       "author": {
+        "authorized": "Putz, Alfred",
+        "lcna": "no2021082464"
+      }
+     },
+     {"issue": {"issue-date": "1933-02-19"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-02-15"},
+        "title": "Krazy: Reflections, 1-2",
+        "author": {
+         "name": "Nate Salsbury"
+        }
+     },
+     {"issue": {"issue-date": "1933-02-23"},
+        "title": "Fame",
+        "title-note": "installment",
+        "author": {
+         "name": "Nate Salsbury"
+        }
+     },
+     {"issue": {"issue-date": "1933-02-26"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-03-05"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-03-12"},
+      "title": "The Garden Notebook",
+       "title-note": "installment",
+       "author": {
+        "authorized": "Putz, Alfred",
+        "lcna": "no2021082464"
+      }
+     },
+     {"issue": {"issue-date": "1933-03-19"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-03-26"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-04-02"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-04-09"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-04-16"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-04-23"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-04-30"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-05-04"},
+        "title": "Lines on the National Capital",
+        "author": {
+         "authorized": "McGinley, Phyllis, 1905-1978",
+         "lcna": "n50007804"
+        }
+     },
+     {"issue": {"issue-date": "1933-05-07"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-05-11"},
+        "title": "Krazy: Reflections, 3-5",
+        "title-note": "installment",
+        "author": {
+         "name": "Nate Salsbury"
+        }
+     },
+     {"issue": {"issue-date": "1933-05-14"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-05-14"},
+        "title": "Windox Boxes",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-05-21"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-05-21"},
+        "title": "Plants for Window Boxes",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-05-23"},
+        "title": "Marching Song",
+        "author": {
+         "authorized": "McGinley, Phyllis, 1905-1978",
+         "lcna": "n50007804"
+        }
+     },
+     {"issue": {"issue-date": "1933-05-28"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-06-04"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-06-11"},
+        "title": "The Garden Notebook",
+        "title-note": "installment",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-06-11"},
+        "title": "Tigridias",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-09-05"},
+        "title": "Krazy: Reflections, 3-5",
+        "title-note": "installment",
+        "author": {
+         "name": "Nate Salsbury"
+        }
+     },
+     {"issue": {"issue-date": "1933-06-18"},
+        "title": "Garden Primroses",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-06-25"},
+        "title": "House Plants in Summer",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-06-27"},
+        "title": "Cat's Eye Views",
+        "title-note": "installment",
+        "author": {
+         "name": "Nate Salsbury"
+        }
+     },
+     {"issue": {"issue-date": "1933-07-02"},
+        "title": "Watering the Garden",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-07-09"},
+        "title": "Bottoms Up",
+        "note": "A 1960 renewal for the book 'Bottoms Up' by Clifford Leach (a pen name of Kenneth Clark, but probably not the Kenneth Clark who lived 1903-1983) notes it includes a revision of an article in this issue of the New York Herald Tribune.  We do not know what the article's title was, nor do we know for sure whether the book renewal covers the article.",
+        "author": {
+         "name": "Clifford Leach"
+        }
+     },
+     {"issue": {"issue-date": "1933-07-09"},
+        "title": "Cultivating the Garden",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-07-16"},
+        "title": "Macbeth Has Murdered Sleep? or Don't Make Me Laugh",
+        "author": {
+         "authorized": "Nash, Ogden, 1902-1971",
+         "lcna": "n79134950"
+        }
+     },
+     {"issue": {"issue-date": "1933-07-16"},
+        "title": "Garden Care",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-07-23"},
+        "title": "Making a Compost Heap",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-07-30"},
+        "title": "Starting Delphiniums",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-08-06"},
+        "title": "Spanish and Dutch Iris",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-08-13"},
+        "title": "Hardy Phlox",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-08-18"},
+        "title": "Cat's Eye Views",
+        "title-note": "installment",
+        "author": {
+         "name": "Nate Salsbury"
+        }
+     },
+     {"issue": {"issue-date": "1933-08-20"},
+        "title": "Planting Rhododendrons in Fall",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-08-27"},
+        "title": "Japanese Iris",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-09-03"},
+        "title": "Grape Hyacinths",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-09-05"},
+        "title": "Krazy: Reflections, 3-5",
+        "title-note": "installment",
+        "author": {
+         "name": "Nate Salsbury"
+        }
+     },
+     {"issue": {"issue-date": "1933-09-10"},
+        "title": "Fritillaria",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-09-17"},
+        "title": "Snowdrops",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-09-24"},
+        "title": "Snowflakes",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-10-01"},
+        "title": "Fall Sowing of Annuals",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-10-08"},
+        "title": "Botanical Tulips for the Rock Garden",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-10-15"},
+        "title": "Whoops: The Tale of a Real Dog",
+        "author": {
+         "authorized": "Nichols, Beverley, 1898-1983",
+         "lcna": "n50003695"
+        }
+     },
+     {"issue": {"issue-date": "1933-10-15"},
+        "title": "Making the Sweet Pea Trench",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-10-22"},
+        "title": "Tiger Lilies",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-10-29"},
+        "title": "Tulips for Succession of Bloom",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-11-02"},
+        "title": "On a Certain Look in Krazy's Eyes",
+        "author": {
+         "name": "Nate Salsbury"
+        }
+     },
+     {"issue": {"issue-date": "1933-11-05"},
+        "title": "Cleaning Up the Garden",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-11-12"},
+        "title": "The Gardener's Winter Work Shop",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-11-19"},
+        "title": "Amaryllis",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-11-26"},
+        "title": "Calla",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-12-03"},
+        "title": "The Great Chicken Mystery",
+        "author": {
+         "authorized": "Nichols, Beverley, 1898-1983",
+         "lcna": "n50003695"
+        }
+     },
+     {"issue": {"issue-date": "1933-12-03"},
+        "title": "Crocus Indoors",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-12-08"},
+        "title": "Cat's Eye Views",
+        "title-note": "installment",
+        "author": {
+         "name": "Nate Salsbury"
+        }
+     },
+     {"issue": {"issue-date": "1933-12-10"},
+        "title": "Water Magic",
+        "author": {
+         "authorized": "Nichols, Beverley, 1898-1983",
+         "lcna": "n50003695"
+        }
+     },
+     {"issue": {"issue-date": "1933-12-10"},
+        "title": "Pruning Ornamental Trees",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-12-15"},
+        "title": "No Antidote",
+        "author": {
+         "authorized": "McGinley, Phyllis, 1905-1978",
+         "lcna": "n50007804"
+        }
+     },
+     {"issue": {"issue-date": "1933-12-24"},
+        "title": "Care of Cineraria Plants",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1933-12-31"},
+        "title": "Care of Palms in the House",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
      }
    ],
-   "comment": "Pick up contribution renewals with 1960 JanJun",
+   "comment": "Pick up contribution renewals with 1961 Jan-Jun",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2026-01-06"
+   "last-updated": "2026-04-20"
 }

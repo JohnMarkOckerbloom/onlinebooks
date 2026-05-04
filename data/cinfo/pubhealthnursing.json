@@ -11,7 +11,7 @@
    "first-renewed-contribution-source": "cce+database",
    "last-issue": 
      {"issue-date": "1952-12", "volume": "44", "number": "12"},
-   "renewed-issue-completeness": "active/1935",
+   "renewed-issue-completeness": "active/1936",
    "renewed-issues": [
      {"issue-date": "1931-07", "volume": "23", "number": "7"},
      {"issue-date": "1931-08", "volume": "23", "number": "8"},
@@ -82,11 +82,24 @@
      {"issue-date": "1936-09", "volume": "28", "number": "9"},
      {"issue-date": "1936-10", "volume": "28", "number": "10"},
      {"issue-date": "1936-11", "volume": "28", "number": "11"},
-     {"issue-date": "1936-12", "volume": "28", "number": "12"}
+     {"issue-date": "1936-12", "volume": "28", "number": "12"},
+     {"issue-date": "1937-01", "volume": "29", "number": "1"},
+     {"issue-date": "1937-02", "volume": "29", "number": "2"},
+     {"issue-date": "1937-03", "volume": "29", "number": "3"},
+     {"issue-date": "1937-04", "volume": "29", "number": "4"},
+     {"issue-date": "1937-05", "volume": "29", "number": "5",
+      "note": "CCE renewal record calls this issue 'Mar37', but that appears to be a typographical error."},
+     {"issue-date": "1937-06", "volume": "29", "number": "6"},
+     {"issue-date": "1937-07", "volume": "29", "number": "7"},
+     {"issue-date": "1937-08", "volume": "29", "number": "8"},
+     {"issue-date": "1937-09", "volume": "29", "number": "9"},
+     {"issue-date": "1937-10", "volume": "29", "number": "10"},
+     {"issue-date": "1937-11", "volume": "29", "number": "11"},
+     {"issue-date": "1937-12", "volume": "29", "number": "12"}
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-07-10"
+   "last-updated": "2026-04-26"
 }

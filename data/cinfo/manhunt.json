@@ -4,12 +4,1120 @@
       {"url": "http://www.philsp.com/homeville/CFI/link.asp?magid=MHT",
        "note": "FictionMags"}
    ],
+   "online": "1",
    "first-issue": {"issue-date": "1953-01", "volume": "1", "number": "1"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "database",
    "first-renewed-contribution": 
       {"issue": {"issue-date": "1953-01", "volume": "1", "number": "1"}},
    "first-renewed-contribution-source": "database",
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1953-01", "volume": "1", "number": "1"},
+      "title": "Die Hard",
+      "author": {
+       "authorized": "Hunter, Evan, 1926-2005",
+       "lcna": "n82253096"
+      }
+     },
+     {"issue": {"issue-date": "1953-01", "volume": "1", "number": "1"},
+      "title": "Shock Treatment",
+      "author": {
+         "authorized": "Macdonald, Ross, 1915-1983",
+         "using": "Kenneth Millar",
+         "lcna": "n79056282"
+      }
+     },
+     {"issue": {"issue-date": "1953-02", "volume": "1", "number": "2"},
+      "title": "The Lesser Evil",
+      "author": {
+         "authorized": "Deming, Richard, 1915-1983",
+         "lcna": "n79144748"
+      }
+     },
+     {"issue": {"issue-date": "1953-03", "volume": "1", "number": "3"},
+      "title": "Dead Men Don't Dream",
+      "author": {
+       "authorized": "Hunter, Evan, 1926-2005",
+       "lcna": "n82253096"
+      }
+     },
+     {"issue": {"issue-date": "1953-03", "volume": "1", "number": "3"},
+        "title": "The Loaded Tourist",
+        "author": {
+         "authorized": "Charteris, Leslie, 1907-1993",
+         "lcna": "n50038426"
+        }
+     },
+     {"issue": {"issue-date": "1953-03", "volume": "1", "number": "3"},
+      "title": "The Teaser",
+      "author": {
+         "authorized": "Gresham, William Lindsay, 1909-1962",
+         "lcna": "no96049311"
+      }
+     },
+     {"issue": {"issue-date": "1953-03", "volume": "1", "number": "3"},
+      "title": "Prognosis Negative",
+      "author": {
+         "authorized": "Mahannah, Floyd",
+         "lcna": "no94021221"
+      }
+     },
+     {"issue": {"issue-date": "1953-03", "volume": "1", "number": "3"},
+      "title": "Against the Middle",
+      "note": "Author is Evan Hunter writing under a pseudonym.",
+      "author": {
+       "authorized": "Marsten, Richard, 1926-2005",
+       "lcna": "n93122690"
+      }
+     },
+     {"issue": {"issue-date": "1953-04", "volume": "1", "number": "4"},
+      "title": "Mugger Murder",
+      "author": {
+         "authorized": "Deming, Richard, 1915-1983",
+         "lcna": "n79144748"
+      }
+     },
+     {"issue": {"issue-date": "1953-04", "volume": "1", "number": "4"},
+      "title": "Kid Kill",
+      "author": {
+       "authorized": "Hunter, Evan, 1926-2005",
+       "lcna": "n82253096"
+      }
+     },
+     {"issue": {"issue-date": "1953-05", "volume": "1", "number": "5"},
+        "title": "Cigarette Girl",
+        "author": {
+         "authorized": "Cain, James M. (James Mallahan), 1892-1977",
+         "lcna": "n80025844"
+        }
+     },
+     {"issue": {"issue-date": "1953-06", "volume": "1", "number": "6"},
+      "title": "Small Homicide",
+      "author": {
+       "authorized": "Hunter, Evan, 1926-2005",
+       "lcna": "n82253096"
+      }
+     },
+     {"issue": {"issue-date": "1953-06", "volume": "1", "number": "6"},
+      "title": "The Loyal One",
+      "author": {
+         "authorized": "Deming, Richard, 1915-1983",
+         "lcna": "n79144748"
+      }
+     },
+     {"issue": {"issue-date": "1953-06", "volume": "1", "number": "6"},
+      "title": "One Down",
+      "note": "Author is Evan Hunter writing under a pseudonym.",
+      "author": {
+       "authorized": "Collins, Hunt, 1926-2005",
+       "lcna": "no97009382"
+      }
+     },
+     {"issue": {"issue-date": "1953-07", "volume": "1", "number": "7"},
+      "title": "Good and Dead",
+      "author": {
+       "authorized": "Hunter, Evan, 1926-2005",
+       "lcna": "n82253096"
+      }
+     },
+     {"issue": {"issue-date": "1953-07", "volume": "1", "number": "7"},
+      "title": "The Follower",
+      "note": "Author is Evan Hunter writing under a pseudonym.",
+      "author": {
+       "authorized": "Collins, Hunt, 1926-2005",
+       "lcna": "no97009382"
+      }
+     },
+     {"issue": {"issue-date": "1953-08", "volume": "1", "number": "8"},
+      "title": "Still Life",
+      "author": {
+       "authorized": "Hunter, Evan, 1926-2005",
+       "lcna": "n82253096"
+      }
+     },
+     {"issue": {"issue-date": "1953-08", "volume": "1", "number": "8"},
+        "title": "The Two O'Clock Blonde",
+        "author": {
+         "authorized": "Cain, James M. (James Mallahan), 1892-1977",
+         "lcna": "n80025844"
+        }
+     },
+     {"issue": {"issue-date": "1953-08", "volume": "1", "number": "8"},
+      "title": "The Innocent One",
+      "note": "Author is Evan Hunter writing under a pseudonym.",
+      "author": {
+       "authorized": "Marsten, Richard, 1926-2005",
+       "lcna": "n93122690"
+      }
+     },
+     {"issue": {"issue-date": "1953-09", "volume": "1", "number": "9"},
+      "title": "The Death of Me",
+      "author": {
+       "authorized": "Hunter, Evan, 1926-2005",
+       "lcna": "n82253096"
+      }
+     },
+     {"issue": {"issue-date": "1953-09", "volume": "1", "number": "9"},
+      "title": "Accident Report",
+      "note": "Author is Evan Hunter writing under a pseudonym.",
+      "author": {
+       "authorized": "Marsten, Richard, 1926-2005",
+       "lcna": "n93122690"
+      }
+     },
+     {"issue": {"issue-date": "1953-09", "volume": "1", "number": "9"},
+      "title": "Bonus Cop",
+      "author": {
+         "authorized": "Deming, Richard, 1915-1983",
+         "lcna": "n79144748"
+      }
+     },
+     {"issue": {"issue-date": "1953-09", "volume": "1", "number": "9"},
+       "title": "The Motive",
+       "author": {
+         "authorized": "Caldwell, Erskine, 1903-1987",
+         "lcna": "n78095661"
+       }
+     },
+     {"issue": {"issue-date": "1953-09", "volume": "1", "number": "9"},
+       "title": "Chase by Night",
+       "author": {
+         "name": "Jack M. Bagby"
+       }
+     },
+     {"issue": {"issue-date": "1953-09", "volume": "1", "number": "9"},
+      "title": "The Millionth Murder",
+      "note": "Title as given in FictionMags.  Renewal record gives the title as 'The Millioneth Murder'.",
+       "author": {
+          "authorized": "Bradbury, Ray, 1920-2012",
+          "lcna": "n79139258"
+       }
+     },
+     {"issue": {"issue-date": "1953-09", "volume": "1", "number": "9"},
+      "title": "The Molested",
+      "note": "Author is Evan Hunter writing under a pseudonym.",
+      "author": {
+       "authorized": "Collins, Hunt, 1926-2005",
+       "lcna": "no97009382"
+      }
+     },
+     {"issue": {"issue-date": "1953-10", "volume": "1", "number": "10"},
+      "title": "Balanced Account",
+      "author": {
+         "authorized": "Deming, Richard, 1915-1983",
+         "lcna": "n79144748"
+      }
+     },
+     {"issue": {"issue-date": "1953-10", "volume": "1", "number": "10"},
+      "title": "Where's the Money?",
+      "author": {
+         "authorized": "Mahannah, Floyd",
+         "lcna": "no94021221"
+      }
+     },
+     {"issue": {"issue-date": "1953-10", "volume": "1", "number": "10"},
+      "title": "The Beat-Up Sister",
+      "note": "Copyright renewals for this and some later Ross Macdonald stories were filed under Kenneth Millar, Macdonald's legal name.",
+      "author": {
+         "authorized": "Macdonald, Ross, 1915-1983",
+         "using": "John Ross Macdonald",
+         "lcna": "n79056282"
+      }
+     },
+     {"issue": {"issue-date": "1953-12", "volume": "1", "number": "12"},
+      "title": "Switch Ending",
+      "note": "Author is Evan Hunter writing under a pseudonym.",
+      "author": {
+       "authorized": "Marsten, Richard, 1926-2005",
+       "lcna": "n93122690"
+      }
+     },
+     {"issue": {"issue-date": "1953-12", "volume": "1", "number": "12"},
+      "title": "Sucker",
+      "note": "Author is Evan Hunter writing under a pseudonym.",
+      "author": {
+       "authorized": "Collins, Hunt, 1926-2005",
+       "lcna": "no97009382"
+      }
+     },
+     {"issue": {"issue-date": "1953-12", "volume": "1", "number": "12"},
+      "title": "The Wife of Riley",
+      "author": {
+       "authorized": "Hunter, Evan, 1926-2005",
+       "lcna": "n82253096"
+      }
+     },
+     {"issue": {"issue-date": "1954-01", "volume": "2", "number": "1"},
+      "title": "Guilt-Edged Blonde",
+      "author": {
+         "authorized": "Macdonald, Ross, 1915-1983",
+         "using": "John Ross Macdonald",
+         "lcna": "n79056282"
+      }
+     },
+     {"issue": {"issue-date": "1954-02", "volume": "2", "number": "2"},
+      "title": "Runaway",
+      "note": "Author is Evan Hunter writing under a pseudonym.",
+      "author": {
+       "authorized": "Marsten, Richard, 1926-2005",
+       "lcna": "n93122690"
+      }
+     },
+     {"issue": {"issue-date": "1954-02", "volume": "2", "number": "2"},
+      "title": "Deadlier Than Mail",
+      "note": "Title as given in renewal record. FictionMags gives the title as 'Deadlier Than the Mail'.",
+      "author": {
+       "authorized": "Hunter, Evan, 1926-2005",
+       "lcna": "n82253096"
+      }
+     },
+     {"issue": {"issue-date": "1954-02", "volume": "2", "number": "2"},
+      "title": "The Man Who Found the Money",
+      "note": "The renewal record is filed under James A. Cronin. FictionMags identifies the author as James E. Cronin.",
+      "author": {
+         "name": "James Cronin"
+      }
+     },
+     {"issue": {"issue-date": "1954-05", "volume": "2", "number": "3"},
+      "title": "The Blonde in the Bar",
+      "author": {
+         "authorized": "Deming, Richard, 1915-1983",
+         "lcna": "n79144748"
+      }
+     },
+     {"issue": {"issue-date": "1954-05", "volume": "2", "number": "3"},
+      "title": "Or Leave it Alone",
+      "author": {
+       "authorized": "Hunter, Evan, 1926-2005",
+       "lcna": "n82253096"
+      }
+     },
+     {"issue": {"issue-date": "1954-06", "volume": "2", "number": "4"},
+      "title": "The Choice",
+      "author": {
+         "authorized": "Deming, Richard, 1915-1983",
+         "lcna": "n79144748"
+      }
+     },
+     {"issue": {"issue-date": "1954-07", "volume": "2", "number": "5"},
+      "title": "Chinese Puzzle",
+      "note": "Author is Evan Hunter writing under a pseudonym.",
+      "author": {
+       "authorized": "Marsten, Richard, 1926-2005",
+       "lcna": "n93122690"
+      }
+     },
+     {"issue": {"issue-date": "1954-07", "volume": "2", "number": "5"},
+      "title": "Association Test",
+      "note": "Author is Evan Hunter writing under a pseudonym.",
+      "author": {
+       "authorized": "Collins, Hunt, 1926-2005",
+       "lcna": "no97009382"
+      }
+     },
+     {"issue": {"issue-date": "1954-07", "volume": "2", "number": "5"},
+      "title": "Return",
+      "author": {
+       "authorized": "Hunter, Evan, 1926-2005",
+       "lcna": "n82253096"
+      }
+     },
+     {"issue": {"issue-date": "1954-07", "volume": "2", "number": "5"},
+      "title": "Find a Victim",
+      "author": {
+         "authorized": "Macdonald, Ross, 1915-1983",
+         "using": "John Ross Macdonald",
+         "lcna": "n79056282"
+      }
+     },
+     {"issue": {"issue-date": "1954-08", "volume": "2", "number": "6"},
+      "title": "I Don't Fool Around",
+      "note": "There are two renewal records for this story, one saying this was in the May 1954 issue, the other saying it was in the August 1954 issue. The story appears in the August 1954 issue, where it is mentioned on the cover.",
+      "author": {
+         "authorized": "Jackson, Charles, 1903-1968",
+         "lcna": "n86069287"
+      }
+     },
+     {"issue": {"issue-date": "1954-08", "volume": "2", "number": "6"},
+      "title": "And Share Alike",
+      "author": {
+         "authorized": "Williams, Charles, 1909-1975",
+         "lcna": "n50015368"
+      }
+     },
+     {"issue": {"issue-date": "1954-09", "volume": "2", "number": "7"},
+      "title": "Bedbug",
+      "author": {
+       "authorized": "Hunter, Evan, 1926-2005",
+       "lcna": "n82253096"
+      }
+     },
+     {"issue": {"issue-date": "1954-09", "volume": "2", "number": "7"},
+      "title": "A Moment's Notice",
+      "author": {
+         "authorized": "Weidman, Jerome, 1913-1998",
+         "lcna": "n50022730"
+       }
+     },
+     {"issue": {"issue-date": "1954-09", "volume": "2", "number": "7"},
+      "title": "Every Morning",
+      "note": "Author is Evan Hunter writing under a pseudonym.",
+      "author": {
+       "authorized": "Marsten, Richard, 1926-2005",
+       "lcna": "n93122690"
+      }
+     },
+     {"issue": {"issue-date": "1954-10", "volume": "2", "number": "8"},
+      "title": "The Beatings",
+      "author": {
+       "authorized": "Hunter, Evan, 1926-2005",
+       "lcna": "n82253096"
+      }
+     },
+     {"issue": {"issue-date": "1954-10", "volume": "2", "number": "8"},
+       "title": "Second Cousin (Soquots)",
+       "author": {
+         "authorized": "Caldwell, Erskine, 1903-1987",
+         "lcna": "n78095661"
+       }
+     },
+     {"issue": {"issue-date": "1954-10", "volume": "2", "number": "8"},
+      "title": "Love Affair",
+      "author": {
+         "authorized": "Deming, Richard, 1915-1983",
+         "lcna": "n79144748"
+      }
+     },
+     {"issue": {"issue-date": "1954-10", "volume": "2", "number": "8"},
+      "title": "Lady Killer",
+      "note": "Author is Evan Hunter writing under a pseudonym.",
+      "author": {
+       "authorized": "Marsten, Richard, 1926-2005",
+       "lcna": "n93122690"
+      }
+     },
+     {"issue": {"issue-date": "1954-11", "volume": "2", "number": "9"},
+      "title": "A Bull to Kill",
+      "note": "Author is Evan Hunter writing under a pseudonym.",
+      "author": {
+       "authorized": "Marsten, Richard, 1926-2005",
+       "lcna": "n93122690"
+      }
+     },
+     {"issue": {"issue-date": "1954-12", "volume": "2", "number": "10"},
+      "title": "Diary of a Devout Man",
+      "note": "Author is Richard Deming writing under a pseudonym.",
+      "author": {
+         "authorized": "Franklin, Max, 1915-1983",
+         "lcna": "n91040716"
+      }
+     },
+     {"issue": {"issue-date": "1954-12", "volume": "2", "number": "10"},
+      "title": "Hit and Run",
+      "author": {
+         "authorized": "Deming, Richard, 1915-1983",
+         "lcna": "n79144748"
+      }
+     },
+     {"issue": {"issue-date": "1954-12-25", "volume": "2", "number": "11"},
+      "title": "The Scarlet King",
+      "note": "Renewal record states this was in the 'December 1954' issue; FictionMags lists it in the December 25, 1954 special issue.",
+      "author": {
+       "authorized": "Hunter, Evan, 1926-2005",
+       "lcna": "n82253096"
+      }
+     },
+     {"issue": {"issue-date": "1954-12-25", "volume": "2", "number": "11"},
+      "title": "Death Sentence",
+      "author": {
+         "authorized": "Deming, Richard, 1915-1983",
+         "lcna": "n79144748"
+      }
+     },
+     {"issue": {"issue-date": "1954-12-25", "volume": "2", "number": "11"},
+      "title": "You Can't Trust a Man",
+      "note": "Renewal record says this story appeared in the December 25, 1954 issue, but FictionMags says it appeared in the January 1955 issue. We have not examined the issues in question.",
+      "author": {
+        "name": "Helen Nielsen"
+      }
+     },
+     {"issue": {"issue-date": "1955-01", "volume": "3", "number": "1"},
+      "title": "You Can't Trust a Man",
+      "note": "Renewal record says this story appeared in the December 25, 1954 issue, but FictionMags says it appeared in the January 1955 issue. We have not examined the issues in question.",
+      "author": {
+        "name": "Helen Nielsen"
+      }
+     },
+     {"issue": {"issue-date": "1955-01", "volume": "3", "number": "1"},
+      "title": "The Blood Oath",
+      "author": {
+         "authorized": "Deming, Richard, 1915-1983",
+         "lcna": "n79144748"
+      }
+     },
+     {"issue": {"issue-date": "1955-01", "volume": "3", "number": "1"},
+       "title": "Epitaph",
+       "author": {
+         "authorized": "Caldwell, Erskine, 1903-1987",
+         "lcna": "n78095661"
+       }
+     },
+     {"issue": {"issue-date": "1955-01", "volume": "3", "number": "1"},
+      "title": "The Death Ray Gun",
+      "author": {
+       "authorized": "Hunter, Evan, 1926-2005",
+       "lcna": "n82253096"
+      }
+     },
+     {"issue": {"issue-date": "1955-01", "volume": "3", "number": "1"},
+      "title": "Kiss Me, Dudley",
+      "note": "Author is Evan Hunter writing under a pseudonym.",
+      "author": {
+       "authorized": "Collins, Hunt, 1926-2005",
+       "lcna": "no97009382"
+      }
+     },
+     {"issue": {"issue-date": "1955-02", "volume": "3", "number": "2"},
+      "title": "The Competitors",
+      "author": {
+         "authorized": "Deming, Richard, 1915-1983",
+         "lcna": "n79144748"
+      }
+     },
+     {"issue": {"issue-date": "1955-03", "volume": "3", "number": "3"},
+      "title": "The First Fifty Thousand",
+      "author": {
+         "authorized": "Webb, Jack, 1916-",
+         "lcna": "n2003032333"
+      }
+     },
+     {"issue": {"issue-date": "1955-04", "volume": "3", "number": "4"},
+      "title": "His Own Hand",
+      "note": "Title as given on issue cover. Renewal record gives title as 'By His Own Hand'.",
+      "author": {
+       "authorized": "Stout, Rex, 1886-1975",
+       "lcna": "n50010846"
+      }
+     },
+     {"issue": {"issue-date": "1955-04", "volume": "3", "number": "4"},
+      "title": "Mug Shot",
+      "author": {
+         "authorized": "Bagby, George, 1906-1985",
+         "lcna": "n83014293"
+      }
+     },
+     {"issue": {"issue-date": "1955-04", "volume": "3", "number": "4"},
+      "title": "Sylvia",
+      "author": {
+         "authorized": "Levin, Ira, 1929-2007",
+         "lcna": "n79045184"
+      }
+     },
+     {"issue": {"issue-date": "1955-05", "volume": "3", "number": "5"},
+      "title": "Tex",
+      "author": {
+        "authorized": "Jakes, John, 1932-2023",
+        "lcna": "n80035843"
+      }
+     },
+     {"issue": {"issue-date": "1955-07", "volume": "3", "number": "7"},
+      "title": "See Him Die",
+      "author": {
+       "authorized": "Hunter, Evan, 1926-2005",
+       "lcna": "n82253096"
+      }
+     },
+     {"issue": {"issue-date": "1955-07", "volume": "3", "number": "7"},
+      "title": "Juvenile Delinquent",
+      "author": {
+         "authorized": "Deming, Richard, 1915-1983",
+         "lcna": "n79144748"
+      }
+     },
+     {"issue": {"issue-date": "1955-08", "volume": "3", "number": "8"},
+      "title": "The Happy Marriage",
+      "author": {
+         "authorized": "Deming, Richard, 1915-1983",
+         "lcna": "n79144748"
+      }
+     },
+     {"issue": {"issue-date": "1955-09", "volume": "3", "number": "9"},
+      "title": "The War",
+      "author": {
+         "authorized": "Deming, Richard, 1915-1983",
+         "lcna": "n79144748"
+      }
+     },
+     {"issue": {"issue-date": "1955-11", "volume": "3", "number": "11"},
+      "title": "I'll Do Anything",
+      "author": {
+       "authorized": "Beaumont, Charles, 1929-1967",
+       "lcna": "n84200880"
+      }
+     },
+     {"issue": {"issue-date": "1955-11", "volume": "3", "number": "11"},
+      "title": "Time to Kill",
+      "note": "Author is Evan Hunter writing under a pseudonym.",
+      "author": {
+       "authorized": "Marsten, Richard, 1926-2005",
+       "lcna": "n93122690"
+      }
+     },
+     {"issue": {"issue-date": "1955-12", "volume": "3", "number": "12"},
+      "title": "First Offense",
+      "author": {
+       "authorized": "Hunter, Evan, 1926-2005",
+       "lcna": "n82253096"
+      }
+     },
+     {"issue": {"issue-date": "1955-12", "volume": "3", "number": "12"},
+      "title": "Custody",
+      "author": {
+         "authorized": "Deming, Richard, 1915-1983",
+         "lcna": "n79144748"
+      }
+     },
+     {"issue": {"issue-date": "1955-12", "volume": "3", "number": "12"},
+      "title": "The High Trap",
+      "author": {
+         "authorized": "Mahannah, Floyd",
+         "lcna": "no94021221"
+      }
+     },
+     {"issue": {"issue-date": "1956-02", "volume": "4", "number": "2"},
+      "title": "Sauce for the Gander",
+      "author": {
+         "authorized": "Deming, Richard, 1915-1983",
+         "lcna": "n79144748"
+      }
+     },
+     {"issue": {"issue-date": "1956-02", "volume": "4", "number": "2"},
+      "title": "Terror in the Night",
+      "author": {
+        "authorized": "Bloch, Robert, 1917-1994",
+        "lcna": "n50016557"
+      }
+     },
+     {"issue": {"issue-date": "1956-03", "volume": "4", "number": "3"}, 
+      "title": "Hunch",
+      "note": "Renewal record gives magazine title as 'Man Hunt'. It also says this story appeared in the December 1955 issue, but it actually appeared in the March 1956 issue.",
+      "author": {
+        "name": "Helen Nielsen"
+      }
+     },
+     {"issue": {"issue-date": "1956-04", "volume": "4", "number": "4"}, 
+      "title": "First Kill",
+      "note": "Renewal record gives magazine title as 'Man Hunt'. It also says this story appeared in the October 1955 issue, but it actually appeared as the cover story in the April 1956 issue.",
+      "author": {
+        "name": "Helen Nielsen"
+      }
+     },
+     {"issue": {"issue-date": "1956-04", "volume": "4", "number": "4"}, 
+      "title": "The Better Bargain",
+      "author": {
+         "authorized": "Deming, Richard, 1915-1983",
+         "lcna": "n79144748"
+      }
+     },
+     {"issue": {"issue-date": "1956-05", "volume": "4", "number": "5"},
+      "title": "Squealer",
+      "author": {
+        "authorized": "MacDonald, John D. (John Dann), 1916-1986",
+        "lcna": "n79045202"
+      }
+     },
+     {"issue": {"issue-date": "1956-05", "volume": "4", "number": "5"},
+      "title": "Devil Eyes",
+      "note": "Renewal record says this story appeared in the September 1956 issue, but FictionMags says it appeared in the May 1956 issue. We have not examined the issues in question.",
+      "author": {
+       "authorized": "Ritchie, Jack, 1922-1983",
+       "lcna": "n86116593"
+      }
+     },
+     {"issue": {"issue-date": "1956-06", "volume": "4", "number": "6"},
+      "title": "The Canary",
+      "author": {
+       "authorized": "Ritchie, Jack, 1922-1983",
+       "lcna": "n86116593"
+      }
+     },
+     {"issue": {"issue-date": "1956-07", "volume": "4", "number": "7"},
+      "title": "The Big Bite",
+      "author": {
+         "authorized": "Williams, Charles, 1909-1975",
+         "lcna": "n50015368"
+      }
+     },
+     {"issue": {"issue-date": "1956-08", "volume": "4", "number": "8"}, 
+      "title": "The Man With Two Faces",
+      "author": {
+        "authorized": "Slesar, Henry",
+        "lcna": "n87844215"
+      }
+     },
+     {"issue": {"issue-date": "1956-08", "volume": "4", "number": "8"}, 
+      "title": "Wire Loop",
+      "author": {
+       "authorized": "Ritchie, Jack, 1922-1983",
+       "using": "Steve Harbor",
+       "lcna": "n86116593"
+      }
+     },
+     {"issue": {"issue-date": "1956-08", "volume": "4", "number": "8"}, 
+      "title": "Rat Hater",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1956-08", "volume": "4", "number": "8"}, 
+      "title": "Good-By World",
+      "author": {
+       "authorized": "Ritchie, Jack, 1922-1983",
+       "lcna": "n86116593"
+      }
+     },
+     {"issue": {"issue-date": "1956-09", "volume": "4", "number": "9"},
+      "title": "The Last Spin",
+      "author": {
+       "authorized": "Hunter, Evan, 1926-2005",
+       "lcna": "n82253096"
+      }
+     },
+     {"issue": {"issue-date": "1956-09", "volume": "4", "number": "9"},
+      "title": "The Partners",
+      "author": {
+       "authorized": "Ritchie, Jack, 1922-1983",
+       "lcna": "n86116593"
+      }
+     },
+     {"issue": {"issue-date": "1956-09", "volume": "4", "number": "9"},
+      "title": "Devil Eyes",
+      "note": "Renewal record says this story appeared in the September 1956 issue, but FictionMags says it appeared in the May 1956 issue. We have not examined the issues in question.",
+      "author": {
+       "authorized": "Ritchie, Jack, 1922-1983",
+       "lcna": "n86116593"
+      }
+     },
+     {"issue": {"issue-date": "1956-11", "volume": "4", "number": "11"},
+      "title": "Pigeon in an Iron Lung",
+      "author": {
+       "authorized": "Powell, Talmage",
+       "lcna": "n82047400"
+      }
+     },
+     {"issue": {"issue-date": "1956-12", "volume": "4", "number": "12"},
+      "title": "Degree of Guilt",
+      "author": {
+       "authorized": "Ritchie, Jack, 1922-1983",
+       "lcna": "n86116593"
+      }
+     },
+     {"issue": {"issue-date": "1956-12", "volume": "4", "number": "12"},
+      "title": "Face of a Killer",
+      "author": {
+       "authorized": "Beaumont, Charles, 1929-1967",
+       "lcna": "n84200880"
+      }
+     },
+     {"issue": {"issue-date": "1956-12", "volume": "4", "number": "12"},
+      "title": "The Long Walk",
+      "note": "Renewal record says this story appeared in the December 1956 issue, but FictionMags does not report any story with this title or author in its extensive table of contents for that issue.  We have not examined the issue ourselves.  FictionMags does report a story by Nielsen called 'The Long Walk to Death' that first appeared in the June 1957 issue of Mike Shayne Mystery Magazine.",
+      "author": {
+        "name": "Helen Nielsen"
+      }
+     },
+     {"issue": {"issue-date": "1957-01", "volume": "5", "number": "1"},
+      "title": "The Rabbit Gets a Gun",
+      "author": {
+        "authorized": "MacDonald, John D. (John Dann), 1916-1986",
+        "lcna": "n79045202"
+      }
+     },
+     {"issue": {"issue-date": "1957-02", "volume": "5", "number": "2"},
+      "title": "Divide and Conquer",
+      "author": {
+       "authorized": "Ritchie, Jack, 1922-1983",
+       "lcna": "n86116593"
+      }
+     },
+     {"issue": {"issue-date": "1957-02", "volume": "5", "number": "2"},
+      "title": "The 'H' Killer",
+      "note": "Renewal record says this story appeared in the February 1956 issue, but that appears to be a typo.  Both the copyright date given in the record, and the cover of the February 1957 issue, place the story in this issue. Author is Evan Hunter writing under a pseudonym.",
+      "author": {
+        "authorized": "McBain, Ed, 1926-2005",
+        "lcna": "n79121690"
+      }
+     },
+     {"issue": {"issue-date": "1957-03", "volume": "5", "number": "3"},
+      "title": "Golden Opportunity",
+      "author": {
+        "name": "J. W. Aaron"
+      }
+     },
+     {"issue": {"issue-date": "1957-03", "volume": "5", "number": "3"},
+      "title": "The Man Who Was Everywhere",
+      "author": {
+        "authorized": "Hoch, Edward D., 1930-2008",
+        "lcna": "n78089006"
+      }
+     },
+     {"issue": {"issue-date": "1957-03", "volume": "5", "number": "3"},
+      "title": "Deathmate",
+      "author": {
+        "authorized": "Causey, James O.",
+        "lcna": "no97006251"
+      }
+     },
+     {"issue": {"issue-date": "1957-04", "volume": "5", "number": "4"},
+      "title": "You Should Live So Long",
+      "author": {
+       "authorized": "Ritchie, Jack, 1922-1983",
+       "lcna": "n86116593"
+      }
+     },
+     {"issue": {"issue-date": "1957-05", "volume": "5", "number": "5"}, 
+      "title": "Forty Detectives Later",
+      "author": {
+        "authorized": "Slesar, Henry",
+        "lcna": "n87844215"
+      }
+     },
+     {"issue": {"issue-date": "1957-06", "volume": "5", "number": "6"},
+      "title": "The Geniuses",
+      "note": "Author is Richard Deming writing under a pseudonym.",
+      "author": {
+         "authorized": "Franklin, Max, 1915-1983",
+         "lcna": "n91040716"
+      }
+     },
+     {"issue": {"issue-date": "1957-06", "volume": "5", "number": "6"},
+      "title": "Decision",
+      "note": "Renewal record says this story appeared in the May 1957 issue, but it actually appeared in the June 1957 issue.",
+      "author": {
+        "name": "Helen Nielsen"
+      }
+     },
+     {"issue": {"issue-date": "1957-07", "volume": "5", "number": "7"},
+      "title": "On the Sidewalk Bleeding",
+      "author": {
+       "authorized": "Hunter, Evan, 1926-2005",
+       "lcna": "n82253096"
+      }
+     },
+     {"issue": {"issue-date": "1957-07", "volume": "5", "number": "7"},
+      "title": "A Piece of Ground",
+      "note": "Renewal record says this story appeared in the September 1957 issue, but no story with this title or author was found there. FictionMags reports it appearing in the July 1957 issue, which we have not examined.",
+      "author": {
+        "name": "Helen Nielsen"
+      }
+     },
+     {"issue": {"issue-date": "1957-09", "volume": "5", "number": "8"},
+      "title": "Girl Friend",
+      "note": "Renewal record says this story appeared in the October 1957 issue, but it actually appeared in the September 1957 issue. The 'Mark Mallory' pseudonym was used by both Morris Hershman and Mack Reynolds, but the renewal for this story was filed by the widow of Mack Reynolds.",
+      "author": {
+        "authorized": "Reynolds, Mack",
+        "using": "Mark Mallory",
+        "lcna": "n82231916"
+      }
+     },
+     {"issue": {"issue-date": "1957-11", "volume": "5", "number": "10"}, 
+      "title": "Kill Joy",
+      "author": {
+       "authorized": "Ritchie, Jack, 1922-1983",
+       "lcna": "n86116593"
+      }
+     },
+     {"issue": {"issue-date": "1957-11", "volume": "5", "number": "10"}, 
+      "title": "Compensation",
+      "note": "Renewal record says this story appeared in the February 1958 issue, but FictionMags says it appeared in the November 1957 issue. We have not examined the issues in question.",
+      "author": {
+        "name": "Helen Nielsen"
+      }
+     },
+     {"issue": {"issue-date": "1957-11", "volume": "5", "number": "10"}, 
+      "title": "Marry, Merry Christmas",
+      "note": "Renewal record says this story appeared in the November 1957 issue. FictionMags does not report a story with that title or author in this issue, but does report one with a similar title in the December 1957 issue. We have not examined the issues in question.",
+      "author": {
+       "authorized": "Hunter, Evan, 1926-2005",
+       "lcna": "n82253096"
+      }
+     },
+     {"issue": {"issue-date": "1957-12", "volume": "5", "number": "11"}, 
+      "title": "The Merry, Merry Christmas",
+      "note": "FictionMags reports a story with this in this issue, It appears to be the closest match for the story mentioned in a renewal record as 'Marry, Merry Christmas' supposedly appearing in the November 1957 issue. We have not examined the issues in question.",
+      "author": {
+       "authorized": "Hunter, Evan, 1926-2005",
+       "lcna": "n82253096"
+      }
+     },
+     {"issue": {"issue-date": "1958-01", "volume": "6", "number": "1"}, 
+      "title": "The Town Says Murder",
+      "author": {
+         "authorized": "Woolrich, Cornell, 1903-1968",
+         "lcna": "n79038547"
+       }
+     },
+     {"issue": {"issue-date": "1958-01", "volume": "6", "number": "1"}, 
+      "title": "Arrest",
+       "author": {
+         "authorized": "Westlake, Donald E.",
+         "lcna": "n80007714"
+      }
+     },
+     {"issue": {"issue-date": "1958-02", "volume": "6", "number": "2"}, 
+      "title": "The Helping Hand",
+       "author": {
+         "authorized": "Davidson, Avram",
+         "lcna": "n79022856"
+      }
+     },
+     {"issue": {"issue-date": "1958-02", "volume": "6", "number": "2"}, 
+      "title": "Compensation",
+      "note": "Renewal record says this story appeared in the February 1958 issue, but FictionMags says it appeared in the November 1957 issue. We have not examined the issues in question.",
+      "author": {
+        "name": "Helen Nielsen"
+      }
+     },
+     {"issue": {"issue-date": "1958-04", "volume": "6", "number": "3"},
+      "title": "Don't Twist My Arm",
+      "author": {
+       "authorized": "Ritchie, Jack, 1922-1983",
+       "lcna": "n86116593"
+      }
+     },
+     {"issue": {"issue-date": "1958-04", "volume": "6", "number": "3"},
+      "title": "The Dame Across the River",
+      "author": {
+       "authorized": "Powell, Talmage",
+       "lcna": "n82047400"
+      }
+     },
+     {"issue": {"issue-date": "1958-04", "volume": "6", "number": "3"},
+      "title": "Trouble in Town",
+      "author": {
+         "authorized": "Deming, Richard, 1915-1983",
+         "lcna": "n79144748"
+      }
+     },
+     {"issue": {"issue-date": "1958-06", "volume": "6", "number": "4"},
+      "title": "The Threat",
+      "note": "Author is Richard Deming writing under a pseudonym.",
+      "author": {
+         "authorized": "Franklin, Max, 1915-1983",
+         "lcna": "n91040716"
+      }
+     },
+     {"issue": {"issue-date": "1958-10", "volume": "6", "number": "6"},
+      "title": "Deadline Murder",
+      "author": {
+       "authorized": "Ritchie, Jack, 1922-1983",
+       "lcna": "n86116593"
+      }
+     },
+     {"issue": {"issue-date": "1958-12", "volume": "6", "number": "7"},
+      "title": "The Strangler",
+      "author": {
+         "authorized": "Deming, Richard, 1915-1983",
+         "lcna": "n79144748"
+      }
+     },
+     {"issue": {"issue-date": "1959-04", "volume": "7", "number": "2"},
+      "title": "Fair Play",
+      "author": {
+       "authorized": "Ritchie, Jack, 1922-1983",
+       "lcna": "n86116593"
+      }
+     },
+     {"issue": {"issue-date": "1959-04", "volume": "7", "number": "2"},
+      "title": "The Double-Take",
+      "author": {
+       "authorized": "Wellen, Edward",
+       "lcna": "n93021387"
+      }
+     },
+     {"issue": {"issue-date": "1959-06", "volume": "7", "number": "3"},
+        "title": "Absinthe for Superman",
+        "author": {
+          "authorized": "Alter, Robert Edmond",
+          "lcna": "n50021476"
+        }
+     },
+     {"issue": {"issue-date": "1959-10", "volume": "7", "number": "5"},
+      "title": "The Sword of Laertes",
+      "author": {
+       "authorized": "Russell, Ray",
+       "lcna": "n50031749"
+      }
+     },
+     {"issue": {"issue-date": "1959-10", "volume": "7", "number": "5"},
+      "title": "Escape Route",
+      "author": {
+         "authorized": "Deming, Richard, 1915-1983",
+         "lcna": "n79144748"
+      }
+     },
+     {"issue": {"issue-date": "1959-10", "volume": "7", "number": "5"},
+      "title": "Check Out",
+      "author": {
+       "authorized": "Wellen, Edward",
+       "lcna": "n93021387"
+      }
+     },
+     {"issue": {"issue-date": "1960-02", "volume": "8", "number": "1"},
+      "title": "Wrong Pigeon",
+      "author": {
+         "authorized": "Chandler, Raymond, 1888-1959",
+         "lcna": "n79113919"
+       }
+     },
+     {"issue": {"issue-date": "1960-06", "volume": "8", "number": "3"},
+      "title": "Harmless",
+      "author": {
+         "authorized": "Brooks, Mildred Jordan",
+         "lcna": "n92076751"
+       }
+     },
+     {"issue": {"issue-date": "1960-08", "volume": "8", "number": "4"}, 
+      "title": "The Deserter",
+      "note": "Renewal record gives magazine title as 'Man Hunt'.",
+      "author": {
+        "authorized": "Ellson, Hal",
+        "lcna": "n84136723"
+      }
+     },
+     {"issue": {"issue-date": "1960-08", "volume": "8", "number": "4"}, 
+      "title": "Deadly Error",
+      "note": "FictionMags also credits Chester Cohen as a co-author of this story, though he is not mentioned in the renewal record.",
+      "author": {
+         "authorized": "Davidson, Avram",
+         "lcna": "n79022856"
+      }
+     },
+     {"issue": {"issue-date": "1960-10", "volume": "8", "number": "5"},
+      "title": "Shatter Proof",
+      "author": {
+       "authorized": "Ritchie, Jack, 1922-1983",
+       "lcna": "n86116593"
+      }
+     },
+     {"issue": {"issue-date": "1960-12", "volume": "8", "number": "6"},
+      "title": "The Old Pro",
+      "author": {
+       "authorized": "DeRosso, H. A. (Henry Andrew), 1917-1960",
+       "lcna": "n96091183"
+      }
+     },
+     {"issue": {"issue-date": "1960-12", "volume": "8", "number": "6"},
+      "title": "Hangover",
+      "author": {
+       "authorized": "Runyon, Charles W., 1928-2015",
+       "lcna": "no97014425"
+      }
+     },
+     {"issue": {"issue-date": "1961-10", "volume": "9", "number": "5"},
+      "title": "Dear Sir",
+      "author": {
+       "authorized": "Powell, Talmage",
+       "lcna": "n82047400"
+      }
+     },
+     {"issue": {"issue-date": "1961-10", "volume": "9", "number": "5"},
+        "title": "Break Down",
+        "author": {
+          "authorized": "Alter, Robert Edmond",
+          "lcna": "n50021476"
+        }
+     },
+     {"issue": {"issue-date": "1961-12", "volume": "9", "number": "6"},
+      "title": "The Queer Deal",
+      "author": {
+       "authorized": "Ritchie, Jack, 1922-1983",
+       "lcna": "n86116593"
+      }
+     },
+     {"issue": {"issue-date": "1962-02", "volume": "10", "number": "1"},
+      "title": "The Devereux Monster",
+      "note": "Title as spelled in renewal record. FictionMags spells the title as 'The Deveraux Monster'.",
+      "author": {
+       "authorized": "Ritchie, Jack, 1922-1983",
+       "lcna": "n86116593"
+      }
+     },
+     {"issue": {"issue-date": "1962-04", "volume": "10", "number": "2"}, 
+      "title": "The Assassin",
+      "author": {
+        "authorized": "Smith, Robert Kimmel, 1930-2020",
+        "using": "Peter Marks",
+        "lcna": "n79106029"
+      }
+     },
+     {"issue": {"issue-date": "1962-04", "volume": "10", "number": "2"}, 
+      "title": "Set-Up",
+      "note": "Renewal record gives magazine title as 'Man Hunt'.",
+      "author": {
+        "authorized": "Ellson, Hal",
+        "lcna": "n84136723"
+      }
+     },
+     {"issue": {"issue-date": "1962-08", "volume": "10", "number": "4"},
+      "title": "Protect Us!",
+      "author": {
+       "name": "Don Tothe"
+      }
+     },
+     {"issue": {"issue-date": "1962-10", "volume": "10", "number": "5"},
+      "title": "Inside Story",
+      "author": {
+       "authorized": "Wellen, Edward",
+       "lcna": "n93021387"
+      }
+     },
+     {"issue": {"issue-date": "1963-02", "volume": "11", "number": "1"},
+      "title": "Ripper Moon",
+      "author": {
+       "authorized": "Ritchie, Jack, 1922-1983",
+       "lcna": "n86116593"
+      }
+     },
+     {"issue": {"issue-date": "1963-04", "volume": "11", "number": "2"},
+      "title": "Precious Pigeon",
+      "author": {
+       "authorized": "Powell, Talmage",
+       "lcna": "n82047400"
+      }
+     },
+     {"issue": {"issue-date": "1963-08", "volume": "11", "number": "4"},
+      "title": "Change of Heart",
+      "author": {
+        "authorized": "Porges, Arthur, 1915-2006",
+        "lcna": "no2010083924"
+      }
+     },
+     {"issue": {"issue-date": "1963-08", "volume": "11", "number": "4"},
+      "title": "Suspect",
+      "author": {
+        "authorized": "Jakes, John, 1932-2023",
+        "lcna": "n80035843"
+      }
+     },
+     {"issue": {"issue-date": "1963-10", "volume": "11", "number": "5"},
+        "title": "Retirement",
+        "author": {
+          "authorized": "Alter, Robert Edmond",
+          "lcna": "n50021476"
+        }
+     },
+     {"issue": {"issue-date": "1964-01", "volume": "12", "number": "1"},
+        "title": "The Grass Cage",
+        "author": {
+          "authorized": "Alter, Robert Edmond",
+          "lcna": "n50021476"
+        }
+     }
+   ],
+   "comment": "Doing a title search starting with word Manhunt, yielding 206 hits when filtering for RE.  Sorted by date, oldest first. Gone up to #183, dated 1989-02-03",
    "additional-note": "The online renewal record for 'Forever Yours: Short Story' by John D. MacDonald says it appeared in the February 1952 issue of Manhunt, which does not exist. FictionMags says MacDonald's 'Forever Yours' was published in the February 1953 issue of McCall's, not of Manhunt. We have not examined the issue in question.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
@@ -17,5 +1125,5 @@
    },
    "acknowledgement": 
       "Thanks to Pete Sullivan for copyright research on this title.",
-   "last-updated": "2023-12-06"
+   "last-updated": "2026-04-10"
 }

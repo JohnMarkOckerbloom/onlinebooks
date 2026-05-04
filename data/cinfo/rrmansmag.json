@@ -13,7 +13,7 @@
    "first-renewed-contribution": 
       {"issue": {"issue-date": "1934-03"}},
    "first-renewed-contribution-source": "1961-JanJun",
-   "renewed-issue-completeness": "active/1935",
+   "renewed-issue-completeness": "active/1936",
    "renewed-issues": [
       {"issue-date": "1931-02", "series": "2", "volume": "4", "number": "3",
        "cdate": "1931-01-31"},
@@ -31,7 +31,7 @@
        "cdate": "1931-12-19"},
       {"issue-date": "1932-02", "series": "2", "volume": "7", "number": "3",
        "cdate": "1932-01-20",
-       "note": "First issue published as Railroad Stories."},
+       "note": "Issues from here forward use the title 'Railroad Stories'."},
       {"issue-date": "1932-03", "series": "2", "volume": "7", "number": "4"},
       {"issue-date": "1932-04", "series": "2", "volume": "8", "number": "1"},
       {"issue-date": "1932-05", "series": "2", "volume": "8", "number": "2"},
@@ -100,12 +100,29 @@
       {"issue-date": "1936-09", "series": "2", "volume": "20", "number": "4"},
       {"issue-date": "1936-10", "series": "2", "volume": "20", "number": "5"},
       {"issue-date": "1936-11", "series": "2", "volume": "20", "number": "6"},
-      {"issue-date": "1936-12", "series": "2", "volume": "21", "number": "1"}
+      {"issue-date": "1936-12", "series": "2", "volume": "21", "number": "1"},
+      {"issue-date": "1937-01", "series": "2", "volume": "21", "number": "2",
+       "cdate": "1936-12-01"},
+      {"issue-date": "1937-02", "series": "2", "volume": "21", "number": "3",
+       "cdate": "1936-12-30"},
+      {"issue-date": "1937-03", "series": "2", "volume": "21", "number": "4",
+       "cdate": "1937-01-29"},
+      {"issue-date": "1937-04", "series": "2", "volume": "21", "number": "5"},
+      {"issue-date": "1937-05", "series": "2", "volume": "21", "number": "6"},
+      {"issue-date": "1937-06", "series": "2", "volume": "21", "number": "7",
+       "note": "Volume and issue number as given in CCE renewal record. FictionMags calls the June 1937 issue Volume 22, number 1."},
+      {"issue-date": "1937-07", "series": "2", "volume": "22", "number": "2"},
+      {"issue-date": "1937-08", "series": "2", "volume": "22", "number": "3"},
+      {"issue-date": "1937-09", "series": "2", "volume": "22", "number": "4",
+       "note": "Issues from here forward use the title 'Railroad Magazine'."},
+      {"issue-date": "1937-10", "series": "2", "volume": "22", "number": "5"},
+      {"issue-date": "1937-11", "series": "2", "volume": "22", "number": "6"},
+      {"issue-date": "1937-12", "series": "2", "volume": "23", "number": "1"}
    ],
    "additional-note": "The first series ran from 1906 until 1919, when it was absorbed by the Argosy.  The second series began in 1929.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2026-01-07"
+   "last-updated": "2026-04-26"
 }

@@ -13,7 +13,7 @@
    "first-renewed-contribution":
      {"issue": {"issue-date": "1931-01-03", "volume": "6", "number": "46"}},
    "first-renewed-contribution-source": "1958-JanJun",
-   "renewed-issue-completeness": "active/1935",
+   "renewed-issue-completeness": "active/1936",
    "renewed-issues": [
      {"issue-date": "1931-01-03", "volume": "6", "number": "46"},
      {"issue-date": "1931-01-10", "volume": "6", "number": "47"},
@@ -330,9 +330,63 @@
      {"issue-date": "1936-12-05", "volume": "12", "number": "42"},
      {"issue-date": "1936-12-12", "volume": "12", "number": "43"},
      {"issue-date": "1936-12-19", "volume": "12", "number": "44"},
-     {"issue-date": "1936-12-26", "volume": "12", "number": "45"}
+     {"issue-date": "1936-12-26", "volume": "12", "number": "45"},
+     {"issue-date": "1937-01-02", "volume": "12", "number": "46",
+      "cdate": "1936-12-30"},
+     {"issue-date": "1937-01-09", "volume": "12", "number": "47",
+      "cdate": "1937-01-07"},
+     {"issue-date": "1936-01-16", "volume": "12", "number": "48"},
+     {"issue-date": "1937-01-23", "volume": "12", "number": "49"},
+     {"issue-date": "1937-01-30", "volume": "12", "number": "50"},
+     {"issue-date": "1937-02-06", "volume": "12", "number": "51"},
+     {"issue-date": "1937-02-13", "volume": "12", "number": "52"},
+     {"issue-date": "1937-02-20", "volume": "13", "number": "1"},
+     {"issue-date": "1937-02-27", "volume": "13", "number": "2"},
+     {"issue-date": "1937-03-06", "volume": "13", "number": "3"},
+     {"issue-date": "1937-03-13", "volume": "13", "number": "4"},
+     {"issue-date": "1937-03-20", "volume": "13", "number": "5"},
+     {"issue-date": "1937-03-27", "volume": "13", "number": "6"},
+     {"issue-date": "1937-04-03", "volume": "13", "number": "7"},
+     {"issue-date": "1937-04-10", "volume": "13", "number": "8"},
+     {"issue-date": "1937-04-17", "volume": "13", "number": "9"},
+     {"issue-date": "1937-04-24", "volume": "13", "number": "10"},
+     {"issue-date": "1937-05-01", "volume": "13", "number": "11"},
+     {"issue-date": "1937-05-08", "volume": "13", "number": "12"},
+     {"issue-date": "1937-05-15", "volume": "13", "number": "13"},
+     {"issue-date": "1937-05-22", "volume": "13", "number": "14"},
+     {"issue-date": "1937-05-29", "volume": "13", "number": "15"},
+     {"issue-date": "1937-06-05", "volume": "13", "number": "16"},
+     {"issue-date": "1937-06-12", "volume": "13", "number": "17"},
+     {"issue-date": "1937-06-19", "volume": "13", "number": "18"},
+     {"issue-date": "1937-06-26", "volume": "13", "number": "19"},
+     {"issue-date": "1937-07-03", "volume": "13", "number": "20"},
+     {"issue-date": "1937-07-10", "volume": "13", "number": "21"},
+     {"issue-date": "1937-07-17", "volume": "13", "number": "22"},
+     {"issue-date": "1937-07-24", "volume": "13", "number": "23"},
+     {"issue-date": "1937-07-31", "volume": "13", "number": "24"},
+     {"issue-date": "1937-08-07", "volume": "13", "number": "25"},
+     {"issue-date": "1937-08-14", "volume": "13", "number": "26"},
+     {"issue-date": "1937-08-21", "volume": "13", "number": "27"},
+     {"issue-date": "1937-08-28", "volume": "13", "number": "28"},
+     {"issue-date": "1937-09-04", "volume": "13", "number": "29"},
+     {"issue-date": "1937-09-11", "volume": "13", "number": "30"},
+     {"issue-date": "1937-09-18", "volume": "13", "number": "31"},
+     {"issue-date": "1937-09-25", "volume": "13", "number": "32"},
+     {"issue-date": "1937-10-02", "volume": "13", "number": "33"},
+     {"issue-date": "1937-10-09", "volume": "13", "number": "34"},
+     {"issue-date": "1937-10-16", "volume": "13", "number": "35"},
+     {"issue-date": "1937-10-23", "volume": "13", "number": "36"},
+     {"issue-date": "1937-10-30", "volume": "13", "number": "37"},
+     {"issue-date": "1937-11-06", "volume": "13", "number": "38"},
+     {"issue-date": "1937-11-13", "volume": "13", "number": "39"},
+     {"issue-date": "1937-11-20", "volume": "13", "number": "40"},
+     {"issue-date": "1937-11-27", "volume": "13", "number": "41"},
+     {"issue-date": "1937-12-04", "volume": "13", "number": "42"},
+     {"issue-date": "1937-12-11", "volume": "13", "number": "43"},
+     {"issue-date": "1937-12-18", "volume": "13", "number": "44"},
+     {"issue-date": "1937-12-25", "volume": "13", "number": "45"}
    ],
-   "renewed-contribution-completeness": "active/1931",
+   "renewed-contribution-completeness": "active/1932",
    "renewed-contributions": [
      {"issue": {"issue-date": "1931-01-03", "volume": "6", "number": "46"},
       "title": "Subscriber's Nightmare",
@@ -852,11 +906,53 @@
          "lcna": "n80036584"
       }
      },
+     {"issue": {"issue-date": "1932-01-09", "volume": "7", "number": "47"},
+      "title": "Papa Spank if you Muss Up His Handkerchiefs",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-01-16", "volume": "7", "number": "48"},
+      "title": "You and Your Suppressed Desires",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
      {"issue": {"issue-date": "1932-01-23", "volume": "7", "number": "49"},
       "title": "Song for the Delegates",
       "author": {
        "authorized": "White, E. B. (Elwyn Brooks), 1899-1985",
        "lcna": "n79054648"
+      }
+     },
+     {"issue": {"issue-date": "1932-01-23", "volume": "7", "number": "49"},
+        "title": "Reckless Lady's Ghost",
+        "author": {
+         "authorized": "McGinley, Phyllis, 1905-1978",
+         "lcna": "n50007804"
+        }
+     },
+     {"issue": {"issue-date": "1932-01-23", "volume": "7", "number": "49"},
+      "title": "I Ask You, What Kind of a Person is it That Gallivants Around in a Foreign Automobile?",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-01-30", "volume": "7", "number": "50"},
+      "title": "Mr. Hoover or Mr. Coolidge",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-01-30", "volume": "7", "number": "50"},
+      "title": "All Right, Have it Your Way, You Heard a Seal Bark",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
       }
      },
      {"issue": {"issue-date": "1932-02-06", "volume": "7", "number": "51"},
@@ -865,6 +961,13 @@
          "authorized": "Aiken, Conrad, 1889-1973",
          "lcna": "n80060447"
         }
+     },
+     {"issue": {"issue-date": "1932-02-06", "volume": "7", "number": "51"},
+      "title": "The Bloodhound and the Bug",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
      },
      {"issue": {"issue-date": "1932-02-13", "volume": "7", "number": "52"},
       "title": "The Man in 32",
@@ -880,11 +983,60 @@
        "lcna": "n79054648"
       }
      },
+     {"issue": {"issue-date": "1932-02-13", "volume": "7", "number": "52"},
+      "title": "Thoughts From M. Tierney",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-02-20", "volume": "8", "number": "1"},
+      "title": "Voices From a Box",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-02-27", "volume": "8", "number": "2"},
+      "title": "Mr. Pendly and the Poindexter",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-02-27", "volume": "8", "number": "2"},
+      "title": "Stop Me!",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
      {"issue": {"issue-date": "1932-03-12", "volume": "8", "number": "4"},
       "title": "Obituary",
       "author": {
        "authorized": "White, E. B. (Elwyn Brooks), 1899-1985",
        "lcna": "n79054648"
+      }
+     },
+     {"issue": {"issue-date": "1932-03-12", "volume": "8", "number": "4"},
+      "title": "Have You Fordot Our Ittle Suicide Pact?",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-03-19", "volume": "8", "number": "5"},
+      "title": "No More Biographies",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-03-19", "volume": "8", "number": "5"},
+      "title": "I Don't Know. George Got it Somewhere",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
       }
      },
      {"issue": {"issue-date": "1932-03-26", "volume": "8", "number": "6"},
@@ -894,12 +1046,47 @@
          "lcna": "n80060447"
         }
      },
+     {"issue": {"issue-date": "1932-04-02", "volume": "8", "number": "7"},
+      "title": "Everything is Wild",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-04-02", "volume": "8", "number": "7"},
+      "title": "I Yielded, Yes, but I Never Led Your Husband on, Mr. Fisher",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
      {"issue": {"issue-date": "1932-04-09", "volume": "8", "number": "8"},
        "title": "Spring and Mrs. North",
        "author": {
         "authorized": "Lockridge, Richard, 1898-1982",
         "lcna": "n80045195"
        }
+     },
+     {"issue": {"issue-date": "1932-04-09", "volume": "8", "number": "8"},
+      "title": "Spot Drawing of People on Street, in Goings On Dept.",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-04-09", "volume": "8", "number": "8"},
+      "title": "Then He Wrote Me From Detroit That He Couldn't Get Married Because There Was Crazy People in His Ancestors",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-04-16", "volume": "8", "number": "9"},
+      "title": "The Advent of Mr. Moray",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
      },
      {"issue": {"issue-date": "1932-04-16", "volume": "8", "number": "9"},
         "title": "Silk Stockings",
@@ -908,11 +1095,39 @@
          "lcna": "n79006957"
         }
      },
+     {"issue": {"issue-date": "1932-04-16", "volume": "8", "number": "9"},
+        "title": "Call for Einstein",
+        "author": {
+         "authorized": "McGinley, Phyllis, 1905-1978",
+         "lcna": "n50007804"
+        }
+     },
+     {"issue": {"issue-date": "1932-04-16", "volume": "8", "number": "9"},
+      "title": "Here's to the Old-Time Saloon, Stranger!",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
      {"issue": {"issue-date": "1932-04-23", "volume": "8", "number": "10"},
       "title": "Growing Up in New Canaan",
       "author": {
        "authorized": "White, E. B. (Elwyn Brooks), 1899-1985",
        "lcna": "n79054648"
+      }
+     },
+     {"issue": {"issue-date": "1932-04-23", "volume": "8", "number": "10"},
+      "title": "The Bloodhound and the Hare",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-04-30", "volume": "8", "number": "11"},
+      "title": "A Farewell to Florida",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
       }
      },
      {"issue": {"issue-date": "1932-04-30", "volume": "8", "number": "11"},
@@ -921,6 +1136,34 @@
          "authorized": "Aiken, Conrad, 1889-1973",
          "lcna": "n80060447"
         }
+     },
+     {"issue": {"issue-date": "1932-05-07", "volume": "8", "number": "12"},
+      "title": "Casuals of the Keys",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-05-07", "volume": "8", "number": "12"},
+      "title": "Here's a Study, Doctor, He Faints",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-05-14", "volume": "8", "number": "13"},
+      "title": "The Cross-Town Bus Situation",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-05-14", "volume": "8", "number": "13"},
+      "title": "Hello Dear. How's Everything in the Marts of Trade",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
      },
      {"issue": {"issue-date": "1932-05-21", "volume": "8", "number": "14"},
        "title": "One Comes Quietly",
@@ -936,11 +1179,39 @@
        "lcna": "n85151874"
       }
      },
+     {"issue": {"issue-date": "1932-05-28", "volume": "8", "number": "15"},
+      "title": "Spot Drawing of Woodland Scene With Animals and 2 Figures",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-05-28", "volume": "8", "number": "15"},
+      "title": "You and Your Horsie Get Away From Me and Stay Away!",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
      {"issue": {"issue-date": "1932-06-04", "volume": "8", "number": "16"},
       "title": "The Continental Angle",
       "author": {
         "authorized": "Fitzgerald, Zelda, 1900-1948",
          "lcna": "n50003067"
+      }
+     },
+     {"issue": {"issue-date": "1932-06-04", "volume": "8", "number": "16"},
+      "title": "3 Spot Pictures, No Captions, of Man Playing Tennis",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue":{"issue-date": "1932-06-11", "volume": "8", "number": "17"},
+      "title": "Back to the Grades",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
       }
      },
      {"issue":{"issue-date": "1932-06-11", "volume": "8", "number": "17"},
@@ -950,11 +1221,46 @@
        "lcna": "n85151874"
       }
      },
+     {"issue":{"issue-date": "1932-06-11", "volume": "8", "number": "17"},
+      "title": "Their Father Belonged to Some People Who Were Driving Through in a Packard",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-06-18", "volume": "8", "number": "18"},
+      "title": "To the Editor",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1932-06-25", "volume": "8", "number": "19"},
+      "title": "Isn't Life Lovely!",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
      {"issue": {"issue-date": "1932-06-25", "volume": "8", "number": "19"},
       "title": "Morbid Reflections Induced by Unemployment",
       "author": {
        "authorized": "Hoffenstein, Samuel, 1889-1947",
        "lcna": "n85151874"
+      }
+     },
+     {"issue": {"issue-date": "1932-06-25", "volume": "8", "number": "19"},
+      "title": "Heavy Da-Dee-Dough Boys",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1932-06-25", "volume": "8", "number": "19"},
+      "title": "Spot Drawing, No Caption, of Man and Woman Watching Birds",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
       }
      },
      {"issue": {"issue-date": "1932-07-02", "volume": "8", "number": "20"},
@@ -964,25 +1270,137 @@
          "lcna": "n80060447"
         }
      },
-     {"issue":{"issue-date": "1932-07-09", "volume": "8", "number": "21"},
+     {"issue": {"issue-date": "1932-07-02", "volume": "8", "number": "20"},
+        "title": "Marriage Broker",
+        "author": {
+         "authorized": "McGinley, Phyllis, 1905-1978",
+         "lcna": "n50007804"
+        }
+     },
+     {"issue": {"issue-date": "1932-07-02", "volume": "8", "number": "20"},
+      "title": "The Truth About Ruth",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1932-07-02", "volume": "8", "number": "20"},
+      "title": "Listen, They're Bolero! It Drives me Mad, Mr. Considine!",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-07-09", "volume": "8", "number": "21"},
+      "title": "The Flaw in the Jewel",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-07-09", "volume": "8", "number": "21"},
       "title": "The Lonely",
       "author": {
        "authorized": "Hoffenstein, Samuel, 1889-1947",
        "lcna": "n85151874"
       }
      },
-     {"issue":{"issue-date": "1932-07-23", "volume": "8", "number": "23"},
+     {"issue": {"issue-date": "1932-07-09", "volume": "8", "number": "21"},
+      "title": "The Upturn",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-07-16", "volume": "8", "number": "22"},
+      "title": "The Crooner's Paradise",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1932-07-16", "volume": "8", "number": "22"},
+      "title": "3 Spot Drawings, No Captions, of Man Playing Tennis",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-07-23", "volume": "8", "number": "23"},
+      "title": "The Topaz Cufflinks Mystery",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-07-23", "volume": "8", "number": "23"},
       "title": "I'm Telling You",
       "author": {
        "authorized": "Hoffenstein, Samuel, 1889-1947",
        "lcna": "n85151874"
       }
      },
-     {"issue": {"issue-date": "1932-07-30", "volume": "8", "number": "23"},
+     {"issue": {"issue-date": "1932-07-23", "volume": "8", "number": "23"},
+      "title": "Spot Drawing, No Caption, of Two Animals With Large Flowers",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-07-30", "volume": "8", "number": "24"},
+      "title": "Something to Say: Profile of Elliot Vereker",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-07-30", "volume": "8", "number": "24"},
+      "title": "Illustration for Something to Say: Profile of Elliot Vereker",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-07-30", "volume": "8", "number": "24"},
       "title": "A Summary",
       "author": {
        "authorized": "Hoffenstein, Samuel, 1889-1947",
        "lcna": "n85151874"
+      }
+     },
+     {"issue": {"issue-date": "1932-07-30", "volume": "8", "number": "24"},
+      "title": "Allie Bobs Oop Again",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1932-07-30", "volume": "8", "number": "24"},
+      "title": "Are You the Young Man That Bit my Daughter?",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-08-13", "volume": "8", "number": "26"},
+      "title": "How Large is Your Family, Madam?",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-08-13", "volume": "8", "number": "26"},
+      "title": "Mamma Always Gets Sore and Spoils the Game for Everybody",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-08-20", "volume": "8", "number": "27"},
+      "title": "The Bright Emperor",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
       }
      },
      {"issue": {"issue-date": "1932-08-20", "volume": "8", "number": "27"},
@@ -993,11 +1411,32 @@
          "lcna": "n79006957"
         }
      },
+     {"issue": {"issue-date": "1932-08-20", "volume": "8", "number": "27"},
+      "title": "Deacon Gets Tilt for Tat",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1932-08-20", "volume": "8", "number": "27"},
+      "title": "No Son of Mine is Going to Stand There and Tell me He's Scared of the Woods!",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
      {"issue": {"issue-date": "1932-08-27", "volume": "8", "number": "28"},
       "title": "Mr. North Frogs",
       "author": {
         "authorized": "Lockridge, Richard, 1898-1982",
         "lcna": "n80045195"
+      }
+     },
+     {"issue": {"issue-date": "1932-08-27", "volume": "8", "number": "28"},
+      "title": "The Black Magic of Barney Haller",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
       }
      },
      {"issue": {"issue-date": "1932-08-27", "volume": "8", "number": "28"},
@@ -1007,12 +1446,208 @@
        "lcna": "n79054648"
       }
      },
+     {"issue": {"issue-date": "1932-09-03", "volume": "8", "number": "29"},
+      "title": "An Epistle of Paul",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1932-09-03", "volume": "8", "number": "29"},
+      "title": "Let's Dance This!",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-09-03", "volume": "8", "number": "29"},
+      "title": "Man With Tennis Racquet",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-09-10", "volume": "8", "number": "30"},
+      "title": "This Little Kitty Stayed Cool",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-09-10", "volume": "8", "number": "30"},
+        "title": "Pay Day",
+        "author": {
+         "authorized": "Gibbs, Wolcott, 1902-1958",
+         "lcna": "n88224196"
+        }
+     },
+     {"issue": {"issue-date": "1932-09-10", "volume": "8", "number": "30"},
+        "title": "Children's Hour",
+        "author": {
+         "authorized": "McGinley, Phyllis, 1905-1978",
+         "lcna": "n50007804"
+        }
+     },
+     {"issue": {"issue-date": "1932-09-10", "volume": "8", "number": "30"},
+      "title": "Dog and Native Boy in Jungle",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
      {"issue": {"issue-date": "1932-09-17", "volume": "8", "number": "31"},
         "title": "This Montebank, This Saltimbanque, This Leaper",
         "author": {
          "authorized": "Aiken, Conrad, 1889-1973",
          "lcna": "n80060447"
         }
+     },
+     {"issue": {"issue-date": "1932-09-17", "volume": "8", "number": "31"},
+      "title": "Life of the Boswells",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1932-09-17", "volume": "8", "number": "31"},
+      "title": "Roosevelt is the Weakest Man in the Country, Miss Gledhill!",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-09-24", "volume": "8", "number": "32"},
+      "title": "A Young Woman in Green Lace",
+      "author": {
+       "authorized": "Parker, Dorothy, 1893-1967",
+       "lcna": "n50050331"
+      }
+     },
+     {"issue": {"issue-date": "1932-09-24", "volume": "8", "number": "32"},
+      "title": "Guessing Game",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-09-24", "volume": "8", "number": "32"},
+      "title": "Blushes and Tears: A Reporter at Large",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-09-24", "volume": "8", "number": "32"},
+      "title": "Then I Get This Feeling That My Feet are Trying to Tell Me Something But Can't",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-10-01", "volume": "8", "number": "33"},
+      "title": "Pu-leeze! Mister Hemingway!",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1932-10-01", "volume": "8", "number": "33"},
+      "title": "Sorry, Partner!",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-10-08", "volume": "8", "number": "34"},
+      "title": "Frankie",
+      "author": {
+         "authorized": "O'Hara, John, 1905-1970",
+         "lcna": "n79060653"
+      }
+     },
+     {"issue": {"issue-date": "1932-10-08", "volume": "8", "number": "34"},
+        "title": "Death in the Rumble Seat",
+        "author": {
+         "authorized": "Gibbs, Wolcott, 1902-1958",
+         "lcna": "n88224196"
+        }
+     },
+     {"issue": {"issue-date": "1932-10-08", "volume": "8", "number": "34"},
+        "title": "Oversonnet",
+        "author": {
+         "authorized": "McCord, David Thompson Watson, 1897-1997",
+         "lcna": "n79109946"
+        }
+     },
+     {"issue": {"issue-date": "1932-10-08", "volume": "8", "number": "34"},
+      "title": "Will You Brace Up or Will I Come Over There?",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-10-15", "volume": "8", "number": "35"},
+      "title": "Of Thee I Sing, Baby",
+      "author": {
+         "authorized": "O'Hara, John, 1905-1970",
+         "lcna": "n79060653"
+      }
+     },
+     {"issue": {"issue-date": "1932-10-15", "volume": "8", "number": "35"},
+      "title": "The Civil War Phone Number Association",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-10-15", "volume": "8", "number": "35"},
+      "title": "A Penny for Your Thoughts, Mr. Griscom",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-10-22", "volume": "8", "number": "36"},
+      "title": "The Evening's at Seven",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-10-22", "volume": "8", "number": "36"},
+        "title": "Warning",
+        "author": {
+         "authorized": "McGinley, Phyllis, 1905-1978",
+         "lcna": "n50007804"
+        }
+     },
+     {"issue": {"issue-date": "1932-10-22", "volume": "8", "number": "36"},
+      "title": "The Crucial Game",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1932-10-22", "volume": "8", "number": "36"},
+      "title": "Slip on Something, Mrs. Parks, and Take a Look at the New Warner Brothers Sign",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-10-29", "volume": "8", "number": "37"},
+      "title": "Now I'm Going to Go in Over Your Horns!",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-10-29", "volume": "8", "number": "37"},
+      "title": "Two Opposing Football Teams Lined Up",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
      },
      {"issue": {"issue-date": "1932-11-05", "volume": "8", "number": "38"},
       "title": "Mr. North and the Debunkers",
@@ -1021,11 +1656,74 @@
         "lcna": "n80045195"
       }
      },
+     {"issue": {"issue-date": "1932-11-05", "volume": "8", "number": "38"},
+      "title": "Herb and Frank Panic 'em",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1932-11-05", "volume": "8", "number": "38"},
+      "title": "Signals and Placekick",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-11-05", "volume": "8", "number": "38"},
+      "title": "Well, You Can't Wait for the Upturn in Here",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-11-12", "volume": "8", "number": "39"},
+      "title": "A Letter From Roger",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-11-12", "volume": "8", "number": "39"},
+      "title": "The Audition",
+      "author": {
+         "authorized": "Horgan, Paul, 1903-1995",
+         "lcna": "n79060797"
+        }
+     },
+     {"issue": {"issue-date": "1932-11-12", "volume": "8", "number": "39"},
+      "title": "Don't You Remember? I Was Here Three Nights Ago With a Lady Who Beat Me Up",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-11-19", "volume": "8", "number": "40"},
+      "title": "Kiddies' Hour at the Surrogate's",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
      {"issue": {"issue-date": "1932-11-19", "volume": "8", "number": "40"},
       "title": "Mrs. North's Miracle",
       "author": {
         "authorized": "Lockridge, Richard, 1898-1982",
         "lcna": "n80045195"
+      }
+     },
+     {"issue": {"issue-date": "1932-11-19", "volume": "8", "number": "40"},
+      "title": "Lyricists Strike Pay Dirt",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1932-11-19", "volume": "8", "number": "40"},
+      "title": "She's Been This Way Ever Since She Saw Camille",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
       }
      },
      {"issue": {"issue-date": "1932-11-26", "volume": "8", "number": "41"},
@@ -1042,11 +1740,67 @@
          "lcna": "n80060447"
         }
      },
+     {"issue": {"issue-date": "1932-11-26", "volume": "8", "number": "41"},
+      "title": "Couple Having Cocktails",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-11-26", "volume": "8", "number": "41"},
+      "title": "Man in Museum Coming on Statue of Man About to Club Woman",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-11-26", "volume": "8", "number": "41"},
+      "title": "What's Come Over You Since Friday, Miss Schemko?",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-11-26", "volume": "8", "number": "41"},
+        "title": "Life Was Worth Living",
+        "author": {
+         "authorized": "Woollcott, Alexander, 1887-1943",
+         "lcna": "n80024589"
+        }
+     },
      {"issue": {"issue-date": "1932-12-03", "volume": "8", "number": "42"},
       "title": "Commandeered",
       "author": {
         "authorized": "Lockridge, Richard, 1898-1982",
         "lcna": "n80045195"
+      }
+     },
+     {"issue": {"issue-date": "1932-12-03", "volume": "8", "number": "42"},
+      "title": "Screen Test",
+      "author": {
+         "authorized": "O'Hara, John, 1905-1970",
+         "lcna": "n79060653"
+      }
+     },
+     {"issue": {"issue-date": "1932-12-03", "volume": "8", "number": "42"},
+      "title": "Announcer's Prep School",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1932-12-03", "volume": "8", "number": "42"},
+      "title": "Touche!",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-12-03", "volume": "8", "number": "42"},
+      "title": "Woman Singing at Microphone, Man at Piano",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
       }
      },
      {"issue": {"issue-date": "1932-12-10", "volume": "8", "number": "43"},
@@ -1055,6 +1809,531 @@
        "authorized": "White, E. B. (Elwyn Brooks), 1899-1985",
        "lcna": "n79054648"
       }
+     },
+     {"issue": {"issue-date": "1932-12-10", "volume": "8", "number": "43"},
+      "title": "Hooded Figures Lighting Candles",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-12-10", "volume": "8", "number": "43"},
+      "title": "Top Department",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-12-17", "volume": "8", "number": "44"},
+      "title": "The Great Sheet Scandal",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-12-17", "volume": "8", "number": "44"},
+      "title": "Some Short Selling",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1932-12-17", "volume": "8", "number": "44"},
+      "title": "One of You Men in the Kitchen Give the Officer Another Drink!",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-12-17", "volume": "8", "number": "44"},
+      "title": "Mr. Sidney Gainsborough, Quality Pictures",
+      "author": {
+         "authorized": "O'Hara, John, 1905-1970",
+         "lcna": "n79060653"
+      }
+     },
+     {"issue": {"issue-date": "1932-12-24", "volume": "8", "number": "45"},
+      "title": "A Farewell to Santa Claus",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-12-24", "volume": "8", "number": "45"},
+        "title": "To a Modernistic Tree",
+        "author": {
+         "authorized": "McGinley, Phyllis, 1905-1978",
+         "lcna": "n50007804"
+        }
+     },
+     {"issue": {"issue-date": "1932-12-24", "volume": "8", "number": "45"},
+      "title": "It's Parkins, Sir; We're 'aving a Bit of a Time Below Stairs",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-12-31", "volume": "8", "number": "46"},
+      "title": "Georgia vs. the World: A Reporter at Large",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1932-12-31", "volume": "8", "number": "46"},
+      "title": "I Wouldn't Rent This Room to Everybody, Mr. Spencer. This is Where my Husband Lost His Mind",
+      "author": {
+         "authorized": "Thurber, James, 1894-1961",
+         "lcna": "n80036584"
+      }
+     },
+     {"issue": {"issue-date": "1933-01-07", "volume": "8", "number": "47"},
+      "title": "Swing Low Sweet Upswing",
+      "author": {
+       "authorized": "White, E. B. (Elwyn Brooks), 1899-1985",
+       "lcna": "n79054648"
+      }
+     },
+     {"issue": {"issue-date": "1933-01-07", "volume": "8", "number": "47"},
+      "title": "Song to be Sung by the Fathers of Six-Months-Old Female Children",
+      "author": {
+         "authorized": "Nash, Ogden, 1902-1971",
+         "lcna": "n79134950"
+       }
+     },
+     {"issue": {"issue-date": "1933-01-14", "volume": "8", "number": "48"},
+      "title": "Memorandum for an Infant Boy",
+      "author": {
+       "authorized": "White, E. B. (Elwyn Brooks), 1899-1985",
+       "lcna": "n79054648"
+      }
+     },
+     {"issue": {"issue-date": "1933-01-14", "volume": "8", "number": "48"},
+      "title": "Ring In! Two Weeks Late",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1933-01-21", "volume": "8", "number": "49"},
+      "title": "Central Park Pastoral",
+      "author": {
+        "authorized": "Lockridge, Richard, 1898-1982",
+        "lcna": "n80045195"
+      }
+     },
+     {"issue": {"issue-date": "1933-02-04", "volume": "8", "number": "51"},
+      "title": "The Shocks of Chicago",
+      "author": {
+        "authorized": "Lockridge, Richard, 1898-1982",
+        "lcna": "n80045195"
+      }
+     },
+     {"issue": {"issue-date": "1933-02-04", "volume": "8", "number": "51"},
+      "title": "Castle in New Hampshire",
+      "author": {
+        "authorized": "Lockridge, Richard, 1898-1982",
+        "lcna": "n80045195"
+      }
+     },
+     {"issue": {"issue-date": "1933-02-04", "volume": "8", "number": "51"},
+      "title": "First Night",
+      "author": {
+       "authorized": "White, E. B. (Elwyn Brooks), 1899-1985",
+       "lcna": "n79054648"
+      }
+     },
+     {"issue": {"issue-date": "1933-02-04", "volume": "8", "number": "51"},
+      "title": "Rudy in Irate Mood",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1933-02-11", "volume": "8", "number": "52"},
+      "title": "Ride With Judith",
+      "author": {
+        "authorized": "Lockridge, Richard, 1898-1982",
+        "lcna": "n80045195"
+      }
+     },
+     {"issue": {"issue-date": "1933-02-18", "volume": "9", "number": "1"},
+      "title": "Journey's Dead End",
+      "author": {
+       "authorized": "White, E. B. (Elwyn Brooks), 1899-1985",
+       "lcna": "n79054648"
+      }
+     },
+     {"issue": {"issue-date": "1933-02-18", "volume": "9", "number": "1"},
+      "title": "Mrs. Gait and Edwin",
+      "author": {
+         "authorized": "O'Hara, John, 1905-1970",
+         "lcna": "n79060653"
+      }
+     },
+     {"issue": {"issue-date": "1933-02-25", "volume": "9", "number": "2"},
+      "title": "An Infant Industry?",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1933-03-04", "volume": "9", "number": "3"},
+        "title": "Britannia, Britannia",
+        "author": {
+         "authorized": "McGinley, Phyllis, 1905-1978",
+         "lcna": "n50007804"
+        }
+     },
+     {"issue": {"issue-date": "1933-03-04", "volume": "9", "number": "3"},
+        "title": "Ellen",
+        "author": {
+         "authorized": "Callaghan, Morley, 1903-1990",
+         "lcna": "n79006957"
+        }
+     },
+     {"issue": {"issue-date": "1933-03-11", "volume": "9", "number": "4"},
+      "title": "Mr. North's Concert",
+      "author": {
+        "authorized": "Lockridge, Richard, 1898-1982",
+        "lcna": "n80045195"
+      }
+     },
+     {"issue": {"issue-date": "1933-03-11", "volume": "9", "number": "4"},
+      "title": "Ballade of Meaty Inversions",
+      "author": {
+       "authorized": "White, E. B. (Elwyn Brooks), 1899-1985",
+       "lcna": "n79054648"
+      }
+     },
+     {"issue": {"issue-date": "1933-03-18", "volume": "9", "number": "5"},
+      "title": "I am a Fugitive From a Nationwide Network",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1933-03-18", "volume": "9", "number": "5"},
+        "title": "The Mysteries of Rudolfo (Rudolf Kommer)",
+        "author": {
+         "authorized": "Woollcott, Alexander, 1887-1943",
+         "lcna": "n80024589"
+        }
+     },
+     {"issue": {"issue-date": "1933-03-25", "volume": "9", "number": "6"},
+      "title": "The Diary of a Lady",
+      "author": {
+       "authorized": "Parker, Dorothy, 1893-1967",
+       "lcna": "n50050331"
+      }
+     },
+     {"issue": {"issue-date": "1933-04-01", "volume": "9", "number": "7"},
+      "title": "Parochial School",
+      "author": {
+         "authorized": "Horgan, Paul, 1903-1995",
+         "lcna": "n79060797"
+        }
+     },
+     {"issue": {"issue-date": "1933-04-08", "volume": "9", "number": "8"},
+      "title": "Return to Bacchus",
+      "author": {
+         "authorized": "Horgan, Paul, 1903-1995",
+         "lcna": "n79060797"
+        }
+     },
+     {"issue": {"issue-date": "1933-04-08", "volume": "9", "number": "8"},
+      "title": "The Old Man Shows His Air Mail",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1933-04-29", "volume": "9", "number": "11"},
+      "title": "The Flipper",
+      "author": {
+        "authorized": "Lockridge, Richard, 1898-1982",
+        "lcna": "n80045195"
+      }
+     },
+     {"issue": {"issue-date": "1933-04-29", "volume": "9", "number": "11"},
+      "title": "So I Ups to Morgan",
+      "author": {
+       "authorized": "White, E. B. (Elwyn Brooks), 1899-1985",
+       "lcna": "n79054648"
+      }
+     },
+     {"issue": {"issue-date": "1933-04-29", "volume": "9", "number": "11"},
+        "title": "Song for a Reference Library",
+        "author": {
+         "authorized": "McGinley, Phyllis, 1905-1978",
+         "lcna": "n50007804"
+        }
+     },
+     {"issue": {"issue-date": "1933-05-06", "volume": "9", "number": "12"},
+        "title": "The Lost Leader",
+        "author": {
+         "authorized": "McGinley, Phyllis, 1905-1978",
+         "lcna": "n50007804"
+        }
+     },
+     {"issue": {"issue-date": "1933-05-06", "volume": "9", "number": "12"},
+      "title": "We're All Sisters Under the Hide of Me",
+      "author": {
+       "authorized": "Lardner, Ring, 1885-1933",
+       "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1933-05-20", "volume": "9", "number": "14"},
+      "title": "I Paint What I See",
+      "author": {
+       "authorized": "White, E. B. (Elwyn Brooks), 1899-1985",
+       "lcna": "n79054648"
+      }
+     },
+     {"issue": {"issue-date": "1933-05-27", "volume": "9", "number": "15"},
+      "title": "Pop",
+      "author": {
+       "authorized": "Anderson, Sherwood, 1876-1941",
+       "lcna": "n79045519"
+      }
+     },
+     {"issue": {"issue-date": "1933-05-27", "volume": "9", "number": "15"},
+      "title": "Called Divine",
+      "author": {
+        "authorized": "Taggard, Genevieve, 1894-1948",
+        "lcna": "n80080301"
+      }
+     },
+     {"issue": {"issue-date": "1933-06-03", "volume": "9", "number": "16"},
+        "title": "Municipal Efficiency",
+        "author": {
+         "authorized": "Skinner, Cornelia Otis, 1901-1979",
+         "lcna": "n50053317"
+        }
+     },
+     {"issue": {"issue-date": "1933-06-03", "volume": "9", "number": "16"},
+      "title": "Stiff Isn't Absolute",
+      "author": {
+        "authorized": "Lockridge, Richard, 1898-1982",
+        "lcna": "n80045195"
+      }
+     },
+     {"issue": {"issue-date": "1933-06-10", "volume": "9", "number": "17"},
+      "title": "A Study of the Clinical We", 
+      "author": {
+       "authorized": "White, E. B. (Elwyn Brooks), 1899-1985",
+       "lcna": "n79054648"
+      }
+     },
+     {"issue": {"issue-date": "1933-06-17", "volume": "9", "number": "18"},
+      "title": "Mr. North Sniffs",
+      "author": {
+        "authorized": "Lockridge, Richard, 1898-1982",
+        "lcna": "n80045195"
+      }
+     },
+     {"issue": {"issue-date": "1933-06-24", "volume": "9", "number": "19"},
+      "title": "Mr. Cowley and the Young",
+      "author": {
+         "authorized": "O'Hara, John, 1905-1970",
+         "lcna": "n79060653"
+      }
+     },
+     {"issue": {"issue-date": "1933-07-01", "volume": "9", "number": "20"},
+        "title": "Metropolitan Nightmare",
+        "author": {
+         "authorized": "Benét, Stephen Vincent, 1898-1943",
+         "lcna": "n50007691"
+        }
+     },
+     {"issue": {"issue-date": "1933-07-08", "volume": "9", "number": "21"},
+      "title": "Never a Dull Moment",
+      "author": {
+         "authorized": "O'Hara, John, 1905-1970",
+         "lcna": "n79060653"
+      }
+     },
+     {"issue": {"issue-date": "1933-07-08", "volume": "9", "number": "21"},
+        "title": "Tired Ballad of Travel",
+        "author": {
+         "authorized": "McGinley, Phyllis, 1905-1978",
+         "lcna": "n50007804"
+        }
+     },
+     {"issue": {"issue-date": "1933-07-15", "volume": "9", "number": "22"},
+      "title": "Mrs. Carrington and Mrs. Crane",
+      "author": {
+       "authorized": "Parker, Dorothy, 1893-1967",
+       "lcna": "n50050331"
+      }
+     },
+     {"issue": {"issue-date": "1933-07-22", "volume": "9", "number": "23"},
+      "title": "Question, More or Less Direct",
+      "author": {
+       "authorized": "White, E. B. (Elwyn Brooks), 1899-1985",
+       "lcna": "n79054648"
+      }
+     },
+     {"issue": {"issue-date": "1933-08-05", "volume": "9", "number": "25"},
+      "title": "Off Balance",
+      "author": {
+       "authorized": "Anderson, Sherwood, 1876-1941",
+       "lcna": "n79045519"
+      }
+     },
+     {"issue": {"issue-date": "1933-08-05", "volume": "9", "number": "25"},
+        "title": "Mr. Bimmerman",
+        "author": {
+         "authorized": "McGinley, Phyllis, 1905-1978",
+         "lcna": "n50007804"
+        }
+     },
+     {"issue": {"issue-date": "1933-08-12", "volume": "9", "number": "26"},
+      "title": "Mr. North and the Carnivore",
+      "author": {
+        "authorized": "Lockridge, Richard, 1898-1982",
+        "lcna": "n80045195"
+      }
+     },
+     {"issue": {"issue-date": "1933-08-19", "volume": "9", "number": "27"},
+      "title": "The Little Hours",
+      "author": {
+       "authorized": "Parker, Dorothy, 1893-1967",
+       "lcna": "n50050331"
+      }
+     },
+     {"issue": {"issue-date": "1933-09-02", "volume": "9", "number": "29"},
+      "title": "The Waltz",
+      "author": {
+       "authorized": "Parker, Dorothy, 1893-1967",
+       "lcna": "n50050331"
+      }
+     },
+     {"issue": {"issue-date": "1933-09-09", "volume": "9", "number": "30"},
+      "title": "The Moon and Mr. North",
+      "author": {
+        "authorized": "Lockridge, Richard, 1898-1982",
+        "lcna": "n80045195"
+      }
+     },
+     {"issue": {"issue-date": "1933-09-16", "volume": "9", "number": "31"},
+      "title": "The Road Home",
+      "author": {
+       "authorized": "Parker, Dorothy, 1893-1967",
+       "lcna": "n50050331"
+      }
+     },
+     {"issue": {"issue-date": "1933-09-23", "volume": "9", "number": "32"},
+        "title": "The Bride",
+        "author": {
+         "authorized": "Callaghan, Morley, 1903-1990",
+         "lcna": "n79006957"
+        }
+     },
+     {"issue": {"issue-date": "1933-09-23", "volume": "9", "number": "32"},
+      "title": "Poisonous Mushrooms; Are We at the Crossroads?",
+      "author": {
+        "authorized": "Perelman, S. J. (Sidney Joseph), 1904-1979",
+        "lcna": "n50009669"
+      }
+     },
+     {"issue": {"issue-date": "1933-09-30", "volume": "9", "number": "33"},
+      "title": "Come, Sweet Culture, Prithee Come!",
+      "author": {
+       "authorized": "White, E. B. (Elwyn Brooks), 1899-1985",
+       "lcna": "n79054648"
+      }
+     },
+     {"issue": {"issue-date": "1933-10-07", "volume": "9", "number": "34"},
+      "title": "Mrs. Hemans, in Calf",
+      "author": {
+        "authorized": "Lockridge, Richard, 1898-1982",
+        "lcna": "n80045195"
+      }
+     },
+     {"issue": {"issue-date": "1933-10-14", "volume": "9", "number": "35"},
+      "title": "The Crack of Doom",
+      "author": {
+       "authorized": "White, E. B. (Elwyn Brooks), 1899-1985",
+       "lcna": "n79054648"
+      }
+     },
+     {"issue": {"issue-date": "1933-10-14", "volume": "9", "number": "35"},
+      "title": "A Connecticut Lad",
+      "author": {
+       "authorized": "White, E. B. (Elwyn Brooks), 1899-1985",
+       "lcna": "n79054648"
+      }
+     },
+     {"issue": {"issue-date": "1933-10-21", "volume": "9", "number": "36"},
+      "title": "Mrs. North Paints",
+      "author": {
+        "authorized": "Lockridge, Richard, 1898-1982",
+        "lcna": "n80045195"
+      }
+     },
+     {"issue": {"issue-date": "1933-11-11", "volume": "9", "number": "39"},
+        "title": "Polly Pecan",
+        "author": {
+         "authorized": "McGinley, Phyllis, 1905-1978",
+         "lcna": "n50007804"
+        }
+     },
+     {"issue": {"issue-date": "1933-11-18", "volume": "9", "number": "40"},
+        "title": "Melancholy Reflections",
+        "author": {
+         "authorized": "McGinley, Phyllis, 1905-1978",
+         "lcna": "n50007804"
+        }
+     },
+     {"issue": {"issue-date": "1933-11-18", "volume": "9", "number": "40"},
+      "title": "Jungle Flower",
+      "author": {
+       "authorized": "White, E. B. (Elwyn Brooks), 1899-1985",
+       "lcna": "n79054648"
+      }
+     },
+     {"issue": {"issue-date": "1933-11-25", "volume": "9", "number": "41"},
+      "title": "The Supremacy of Uruguay",
+      "author": {
+       "authorized": "White, E. B. (Elwyn Brooks), 1899-1985",
+       "lcna": "n79054648"
+      }
+     },
+     {"issue": {"issue-date": "1933-11-25", "volume": "9", "number": "41"},
+      "title": "Meeting Ring Lardner",
+      "author": {
+       "authorized": "Anderson, Sherwood, 1876-1941",
+       "lcna": "n79045519"
+      }
+     },
+     {"issue": {"issue-date": "1933-12-02", "volume": "9", "number": "42"},
+        "title": "Bitter Ballad",
+        "author": {
+         "authorized": "McGinley, Phyllis, 1905-1978",
+         "lcna": "n50007804"
+        }
+     },
+     {"issue": {"issue-date": "1933-12-02", "volume": "9", "number": "42"},
+      "title": "The Elephant Comes In",
+      "author": {
+        "authorized": "Lockridge, Richard, 1898-1982",
+        "lcna": "n80045195"
+      }
+     },
+     {"issue": {"issue-date": "1933-12-09", "volume": "9", "number": "43"},
+      "title": "Delegation",
+      "author": {
+       "authorized": "Anderson, Sherwood, 1876-1941",
+       "lcna": "n79045519"
+      }
+     },
+     {"issue": {"issue-date": "1933-12-16", "volume": "9", "number": "44"},
+      "title": "Capriccio",
+      "author": {
+         "authorized": "Horgan, Paul, 1903-1995",
+         "lcna": "n79060797"
+        }
      },
      {"issue": {"issue-date": "1938-05-12", "volume": "14", "number": "14"},
       "title": "The Explorers",
@@ -1065,10 +2344,10 @@
       }
      }
    ],
-   "comment": "Pick up with 1960 Jan-Jun contributions",
+   "comment": "Pick up with contribution renewals with 1961 Jan-Jun",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2026-01-06"
+   "last-updated": "2026-04-25"
 }

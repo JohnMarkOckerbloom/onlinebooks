@@ -14,7 +14,7 @@
    "first-renewed-contribution":
      {"issue": {"issue-date": "1931-02", "volume": "58", "number": "5"}},
    "first-renewed-contribution-source": "1958-JanJun",
-   "renewed-issue-completeness": "active/1935",
+   "renewed-issue-completeness": "active/1936",
    "renewed-issues": [
       {"issue-date": "1931-02", "volume": "58", "number": "5",
         "cdate": "1931-01-08"},
@@ -94,9 +94,23 @@
       {"issue-date": "1936-06", "volume": "63", "number": "9"},
       {"issue-date": "1936-07", "volume": "63", "number": "10"},
       {"issue-date": "1936-08", "volume": "63", "number": "11"},
-      {"issue-date": "1936-09", "volume": "63", "number": "12"}
+      {"issue-date": "1936-09", "volume": "63", "number": "12"},
+      {"issue-date": "1936-10", "volume": "64", "number": "1"},
+      {"issue-date": "1936-11", "volume": "64", "number": "2"},
+      {"issue-date": "1936-12", "volume": "64", "number": "3"},
+      {"issue-date": "1937-01", "volume": "64", "number": "4",
+       "cdate": "1936-12-10"},
+      {"issue-date": "1937-02", "volume": "64", "number": "5",
+       "cdate": "1937-01-08"},
+      {"issue-date": "1937-03", "volume": "65", "number": "6"},
+      {"issue-date": "1937-04", "volume": "65", "number": "7"},
+      {"issue-date": "1937-05", "volume": "65", "number": "8"},
+      {"issue-date": "1937-06", "volume": "65", "number": "9"},
+      {"issue-date": "1937-07", "volume": "65", "number": "10"},
+      {"issue-date": "1937-08", "volume": "65", "number": "11"},
+      {"issue-date": "1937-09", "volume": "65", "number": "12"}
    ],
-   "renewed-contribution-completeness": "active/1931",
+   "renewed-contribution-completeness": "active/1932",
    "renewed-contributions": [
      {"issue": {"issue-date": "1931-02", "volume": "58", "number": "5"},
       "title": "The Dude Ranger",
@@ -329,7 +343,7 @@
       }
      },
      {"issue": {"issue-date": "1932-03", "volume": "59", "number": "6"}, 
-      "title": "This Town's Too Small",
+      "title": "The Town's Too Small",
       "title-note": "part 1 of 5",
       "author": {
        "authorized": "Banning, Margaret Culkin, 1891-1982",
@@ -345,7 +359,7 @@
       }
      },
      {"issue": {"issue-date": "1932-04", "volume": "59", "number": "7"}, 
-      "title": "This Town's Too Small",
+      "title": "The Town's Too Small",
       "title-note": "part 2 of 5",
       "author": {
        "authorized": "Banning, Margaret Culkin, 1891-1982",
@@ -362,7 +376,7 @@
       }
      },
      {"issue": {"issue-date": "1932-05", "volume": "59", "number": "8"}, 
-      "title": "This Town's Too Small",
+      "title": "The Town's Too Small",
       "title-note": "part 3 of 5",
       "author": {
        "authorized": "Banning, Margaret Culkin, 1891-1982",
@@ -386,7 +400,7 @@
        }
      },
      {"issue": {"issue-date": "1932-06", "volume": "59", "number": "9"}, 
-      "title": "This Town's Too Small",
+      "title": "The Town's Too Small",
       "title-note": "part 4 of 5",
       "author": {
        "authorized": "Banning, Margaret Culkin, 1891-1982",
@@ -402,6 +416,13 @@
       }
      },
      {"issue": {"issue-date": "1932-07", "volume": "59", "number": "10"}, 
+       "title": "June Wedding",
+       "author": {
+        "authorized": "Bradley, Mary Hastings",
+        "lcna": "no92028910"
+       }
+     },
+     {"issue": {"issue-date": "1932-07", "volume": "59", "number": "10"}, 
       "title": "Desert Sands",
       "title-note": "part 3 of 5",
       "note": "Title as given on the cover of the May 1932 issue.  CCE renewal record gives title as 'Desert Sand'.",
@@ -411,7 +432,7 @@
       }
      },
      {"issue": {"issue-date": "1932-07", "volume": "59", "number": "10"}, 
-      "title": "This Town's Too Small",
+      "title": "The Town's Too Small",
       "title-note": "part 5 of 5",
       "author": {
        "authorized": "Banning, Margaret Culkin, 1891-1982",
@@ -442,6 +463,23 @@
        "lcna": "nr2002022198"
       }
      },
+     {"issue": {"issue-date": "1932-08", "volume": "59", "number": "11"}, 
+      "title": "Ann Vickers",
+      "title-note": "part 1 of 6",
+      "note": "CCE renewal records report this story appearing in both McCall's and Redbook.  FictionMags reports it only in Redbook.",
+      "author": {
+         "authorized": "Lewis, Sinclair, 1885-1951",
+         "lcna": "n79023149"
+       }
+     },
+     {"issue": {"issue-date": "1932-09", "volume": "59", "number": "12"}, 
+      "title": "Bachelor's Bounty",
+      "title-note": "part 1 of 5",
+      "author": {
+       "authorized": "Richmond, Grace S. (Grace Smith), 1866-1959",
+       "lcna": "n90608121"
+      }
+     },
      {"issue": {"issue-date": "1932-09", "volume": "59", "number": "12"}, 
       "title": "Pretty Twenty",
       "title-note": "part 3 of 4",
@@ -459,12 +497,29 @@
        "lcna": "nr2002022198"
       }
      },
+     {"issue": {"issue-date": "1932-09", "volume": "59", "number": "12"}, 
+      "title": "Ann Vickers",
+      "title-note": "part 2 of 6",
+      "note": "CCE renewal records report this story appearing in both McCall's and Redbook.  FictionMags reports it only in Redbook.",
+      "author": {
+         "authorized": "Lewis, Sinclair, 1885-1951",
+         "lcna": "n79023149"
+       }
+     },
      {"issue": {"issue-date": "1932-10", "volume": "60", "number": "1"}, 
       "title": "The Path of True Love",
       "title-note": "part 1 of 5",
       "author": {
        "authorized": "Banning, Margaret Culkin, 1891-1982",
        "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1932-10", "volume": "60", "number": "1"}, 
+      "title": "Bachelor's Bounty",
+      "title-note": "part 2 of 5",
+      "author": {
+       "authorized": "Richmond, Grace S. (Grace Smith), 1866-1959",
+       "lcna": "n90608121"
       }
      },
      {"issue": {"issue-date": "1932-10", "volume": "60", "number": "1"}, 
@@ -475,6 +530,22 @@
        "lcna": "n79078124"
       }
      },
+     {"issue": {"issue-date": "1932-10", "volume": "60", "number": "1"}, 
+      "title": "The Passing Thundering Herd",
+      "author": {
+         "authorized": "Neal, Bigelow, 1891-1962",
+         "lcna": "n88154385"
+       }
+     },
+     {"issue": {"issue-date": "1932-10", "volume": "60", "number": "1"}, 
+      "title": "Ann Vickers",
+      "title-note": "part 3 of 6",
+      "note": "CCE renewal records report this story appearing in both McCall's and Redbook.  FictionMags reports it only in Redbook.",
+      "author": {
+         "authorized": "Lewis, Sinclair, 1885-1951",
+         "lcna": "n79023149"
+       }
+     },
      {"issue": {"issue-date": "1932-11", "volume": "60", "number": "2"}, 
       "title": "The Path of True Love",
       "title-note": "part 2 of 5",
@@ -482,6 +553,23 @@
        "authorized": "Banning, Margaret Culkin, 1891-1982",
        "lcna": "n86086096"
       }
+     },
+     {"issue": {"issue-date": "1932-11", "volume": "60", "number": "2"}, 
+      "title": "Bachelor's Bounty",
+      "title-note": "part 3 of 5",
+      "author": {
+       "authorized": "Richmond, Grace S. (Grace Smith), 1866-1959",
+       "lcna": "n90608121"
+      }
+     },
+     {"issue": {"issue-date": "1932-11", "volume": "60", "number": "2"}, 
+      "title": "Ann Vickers",
+      "title-note": "part 4 of 6",
+      "note": "CCE renewal records report this story appearing in both McCall's and Redbook.  FictionMags reports it only in Redbook.",
+      "author": {
+         "authorized": "Lewis, Sinclair, 1885-1951",
+         "lcna": "n79023149"
+       }
      },
      {"issue": {"issue-date": "1932-12", "volume": "60", "number": "3"}, 
       "title": "The Path of True Love",
@@ -491,12 +579,177 @@
        "lcna": "n86086096"
       }
      },
+     {"issue": {"issue-date": "1932-12", "volume": "60", "number": "3"}, 
+      "title": "Bachelor's Bounty",
+      "title-note": "part 4 of 5",
+      "author": {
+       "authorized": "Richmond, Grace S. (Grace Smith), 1866-1959",
+       "lcna": "n90608121"
+      }
+     },
+     {"issue": {"issue-date": "1932-12", "volume": "60", "number": "3"}, 
+      "title": "The Last of the Thundering Herd",
+      "author": {
+         "authorized": "Neal, Bigelow, 1891-1962",
+         "lcna": "n88154385"
+       }
+     },
+     {"issue": {"issue-date": "1932-12", "volume": "60", "number": "3"}, 
+      "title": "Ann Vickers",
+      "title-note": "part 5 of 6",
+      "note": "CCE renewal records report this story appearing in both McCall's and Redbook.  FictionMags reports it only in Redbook.",
+      "author": {
+         "authorized": "Lewis, Sinclair, 1885-1951",
+         "lcna": "n79023149"
+       }
+     },
      {"issue": {"issue-date": "1933-01", "volume": "60", "number": "4"}, 
       "title": "The Path of True Love",
       "title-note": "part 4 of 5",
       "author": {
        "authorized": "Banning, Margaret Culkin, 1891-1982",
        "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1933-01", "volume": "60", "number": "4"}, 
+      "title": "Bachelor's Bounty",
+      "title-note": "part 5 of 5",
+      "author": {
+       "authorized": "Richmond, Grace S. (Grace Smith), 1866-1959",
+       "lcna": "n90608121"
+      }
+     },
+     {"issue": {"issue-date": "1933-01", "volume": "60", "number": "4"}, 
+      "title": "Ann Vickers",
+      "title-note": "part 6 of 6",
+      "note": "CCE renewal records report this story appearing in both McCall's and Redbook.  FictionMags reports it only in Redbook.",
+      "author": {
+         "authorized": "Lewis, Sinclair, 1885-1951",
+         "lcna": "n79023149"
+       }
+     },
+     {"issue": {"issue-date": "1933-02", "volume": "60", "number": "5"}, 
+      "title": "The Path of True Love",
+      "title-note": "part 5 of 5",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1933-02", "volume": "60", "number": "5"}, 
+        "title": "Not for Just a Day",
+        "author": {
+         "authorized": "Woollcott, Alexander, 1887-1943",
+         "lcna": "n80024589"
+        }
+     },
+     {"issue": {"issue-date": "1933-03", "volume": "60", "number": "6"},
+      "title": "Biddy",
+      "author": {
+       "authorized": "Ingham, Travis, 1906-1969",
+       "lcna": "no00053465"
+      }
+     },
+     {"issue": {"issue-date": "1933-03", "volume": "60", "number": "6"},
+      "title": "At Wolf Creek Tavern",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1933-07", "volume": "60", "number": "10"},
+      "title": "Fugitive Moon",
+      "title-note": "part 1 of 5",
+      "author": {
+       "authorized": "Pedler, Margaret",
+       "lcna": "nr2002022198"
+      }
+     },
+     {"issue": {"issue-date": "1933-08", "volume": "60", "number": "11"}, 
+      "title": "The Third Son",
+      "title-note": "part 1 of 5",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1933-08", "volume": "60", "number": "11"}, 
+      "title": "Fugitive Moon",
+      "title-note": "part 2 of 5",
+      "author": {
+       "authorized": "Pedler, Margaret",
+       "lcna": "nr2002022198"
+      }
+     },
+     {"issue": {"issue-date": "1933-09", "volume": "60", "number": "12"}, 
+      "title": "The Third Son",
+      "title-note": "part 2 of 5",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1933-09", "volume": "60", "number": "12"}, 
+      "title": "Fugitive Moon",
+      "title-note": "part 3 of 5",
+      "author": {
+       "authorized": "Pedler, Margaret",
+       "lcna": "nr2002022198"
+      }
+     },
+     {"issue": {"issue-date": "1933-10", "volume": "61", "number": "1"}, 
+      "title": "The Third Son",
+      "title-note": "part 3 of 5",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1933-10", "volume": "61", "number": "1"}, 
+      "title": "Fugitive Moon",
+      "title-note": "part 4 of 5",
+      "author": {
+       "authorized": "Pedler, Margaret",
+       "lcna": "nr2002022198"
+      }
+     },
+     {"issue": {"issue-date": "1933-11", "volume": "61", "number": "2"}, 
+      "title": "The Golden Look",
+      "note": "Title as given on issue cover. CCE renewal record reports title as 'The Golden Book'.",
+      "author": {
+       "authorized": "Hanlon, Brooke",
+       "lcna": "no00100073"
+      }
+     },
+     {"issue": {"issue-date": "1933-11", "volume": "61", "number": "2"}, 
+      "title": "Fugitive Moon",
+      "title-note": "part 5 of 5",
+      "author": {
+       "authorized": "Pedler, Margaret",
+       "lcna": "nr2002022198"
+      }
+     },
+     {"issue": {"issue-date": "1933-11", "volume": "61", "number": "2"}, 
+      "title": "The Third Son",
+      "title-note": "part 4 of 5",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1933-12", "volume": "61", "number": "3"}, 
+      "title": "The Third Son",
+      "title-note": "part 5 of 5",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1933-12", "volume": "61", "number": "3"}, 
+      "title": "Sally Warner",
+      "author": {
+       "authorized": "Duganne, Phyllis, 1899-1976",
+       "lcna": "n90719514"
       }
      },
      {"issue": {"issue-date": "1953-02", "volume": "80", "number": "5"},
@@ -508,10 +761,10 @@
       }
      }
    ],
-   "comment": "Pick up contribution renewals with 1959 Jan-Jun",
+   "comment": "Pick up contribution renewals with 1961 Jan-Jun",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2026-01-06"
+   "last-updated": "2026-04-15"
 }

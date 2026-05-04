@@ -14,9 +14,22 @@
    "first-renewed-contribution-source": "cce+database",
    "see-also":
      [{"id": "romance1919", "note": "Romance (Ridgway magazine, 1919-1929)"}],
+   "renewed-issue-completeness": "active/1937",
+   "renewed-issues": [
+     {"issue-date": "1937-04", "volume": "1", "number": "1"},
+     {"issue-date": "1937-June-July", "volume": "1", "number": "2"},
+     {"issue-date": "1937-August-September", "volume": "1", "number": "3"},
+     {"issue-date": "1938-January-February", "volume": "1", "number": "1",
+      "cdate": "1937-12-03",
+      "note": "Issue number as stated in CCE renewal record and in FictionMags."},
+     {"issue-date": "1938-March-April", "volume": "2", "number": "1",
+      "cdate": "1938-02-01"},
+     {"issue-date": "1938-May-June", "volume": "2", "number": "2"},
+     {"issue-date": "1938-July-August", "volume": "2", "number": "3"}
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-12-05"
+   "last-updated": "2026-04-26"
 }

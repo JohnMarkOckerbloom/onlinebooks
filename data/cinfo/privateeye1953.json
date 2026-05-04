@@ -1,0 +1,35 @@
+{
+   "title": "Private Eye",
+   "title-note": "1953 fiction magazine",
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/CFI/link.asp?magid=PVE",
+       "note": "FictionMags"}
+   ],
+   "first-issue":
+     {"issue-date": "1953-06", "volume": "1", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "database",
+   "first-renewed-contribution": 
+     {"issue": {"issue-date": "1953-12", "volume": "1", "number": "2"}},
+   "first-renewed-contribution-source": "database",
+   "last-issue":
+     {"issue-date": "1953-12", "volume": "1", "number": "2"},
+   "see-also":
+     [{"id": "privateeye1951", "note": "Private Eye (1951-1952 comic)"},
+      {"id": "privateeye1959", "note": "Private Eye (1959-1960)"}],
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1953-12", "volume": "1", "number": "2"},
+      "title": "Detour",
+      "note": "Author is Evan Hunter writing under a pseudonym.",
+      "author": {
+       "authorized": "Collins, Hunt, 1926-2005",
+       "lcna": "no97009382"
+      }
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2026-04-08"
+}

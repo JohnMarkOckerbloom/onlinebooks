@@ -13,9 +13,251 @@
       {"issue": {"issue-date": "1944-03", "volume": "5", "number": "1"}},
    "first-renewed-contribution-source": "1971-JulDec",
    "last-issue": {"issue-date": "1953-06", "volume": "19", "number": "2"},
+   "renewed-issue-completeness": "active/end",
+   "renewed-issues": [
+     {"issue-date": "1941-03", "volume": "1", "number": "1"},
+     {"issue-date": "1941-11", "volume": "1", "number": "3"},
+     {"issue-date": "1942-01", "volume": "1", "number": "4",
+      "cdate": "1941-11-07"},
+     {"issue-date": "1942-03", "volume": "2", "number": "1",
+      "cdate": "1942-01-09"},
+     {"issue-date": "1942-05", "volume": "2", "number": "2"},
+     {"issue-date": "1942-07", "volume": "2", "number": "3"},
+     {"issue-date": "1942-09", "volume": "2", "number": "4"},
+     {"issue-date": "1942-11", "volume": "3", "number": "1"},
+     {"issue-date": "1943-01", "volume": "3", "number": "2",
+      "cdate": "1942-11-11"},
+     {"issue-date": "1943-03", "volume": "3", "number": "3",
+      "cdate": "1942-12-30"},
+     {"issue-date": "1943-05", "volume": "3", "number": "4",
+      "cdate": "1943-02-26"},
+     {"issue-date": "1943-05", "volume": "3", "number": "4"},
+     {"issue-date": "1943-07", "volume": "4", "number": "1"},
+     {"issue-date": "1943-09", "volume": "4", "number": "2"},
+     {"issue-date": "1943-11", "volume": "4", "number": "3"},
+     {"issue-date": "1944-01", "volume": "4", "number": "4",
+      "cdate": "1943-11-02"},
+     {"issue-date": "1944-03", "volume": "5", "number": "1",
+      "cdate": "1943-12-17"},
+     {"issue-date": "1944-05", "volume": "5", "number": "2",
+      "cdate": "1944-02-18"},
+     {"issue-date": "1944-07", "volume": "5", "number": "3"},
+     {"issue-date": "1944-09", "volume": "5", "number": "4"},
+     {"issue-date": "1944-11", "volume": "6", "number": "1"},
+     {"issue-date": "1945-01", "volume": "6", "number": "2",
+      "cdate": "1944-10-20"},
+     {"issue-date": "1945-03", "volume": "6", "number": "3",
+      "cdate": "1944-12-20"},
+     {"issue-date": "1945-05", "volume": "6", "number": "4",
+      "cdate": "1945-02-21"},
+     {"issue-date": "1945-07", "volume": "7", "number": "1"},
+     {"issue-date": "1945-09", "volume": "7", "number": "2"},
+     {"issue-date": "1945-11", "volume": "7", "number": "3"},
+     {"issue-date": "1946-01", "volume": "7", "number": "4",
+      "cdate": "1945-10-19"},
+     {"issue-date": "1946-02", "volume": "8", "number": "1",
+      "cdate": "1945-12-10"},
+     {"issue-date": "1946-03", "volume": "8", "number": "2",
+      "cdate": "1946-01-18"},
+     {"issue-date": "1947-01", "volume": "9", "number": "3",
+      "cdate": "1946-11-29"},
+     {"issue-date": "1947-03", "volume": "9", "number": "4",
+      "cdate": "1947-02-05"},
+     {"issue-date": "1947-05", "volume": "10", "number": "1"},
+     {"issue-date": "1947-07", "volume": "10", "number": "2"},
+     {"issue-date": "1947-11", "volume": "10", "number": "4"}
+   ],
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1944-03", "volume": "5", "number": "1"},
+      "title": "Singe for Your Supper",
+      "author": {
+        "authorized": "Bloch, Robert, 1917-1994",
+        "lcna": "n50016557"
+      }
+     },
+     {"issue": {"issue-date": "1945-03", "volume": "6", "number": "3"},
+      "title": "Hell's Half Hour",
+      "author": {
+         "authorized": "Bradbury, Ray, 1920-2012",
+         "lcna": "n79139258"
+      }
+     },
+     {"issue": {"issue-date": "1946-11", "volume": "9", "number": "2"},
+      "title": "A Careful Man Dies",
+      "author": {
+         "authorized": "Bradbury, Ray, 1920-2012",
+         "lcna": "n79139258"
+      }
+     },
+     {"issue": {"issue-date": "1948-01", "volume": "11", "number": "1"},
+      "title": "Come Die With Me!",
+      "author": {
+        "authorized": "MacDonald, John D. (John Dann), 1916-1986",
+        "lcna": "n79045202"
+      }
+     },
+     {"issue": {"issue-date": "1948-03", "volume": "11", "number": "2"},
+      "title": "One Vote for Murder",
+      "author": {
+        "authorized": "MacDonald, John D. (John Dann), 1916-1986",
+        "lcna": "n79045202"
+      }
+     },
+     {"issue": {"issue-date": "1948-05", "volume": "11", "number": "3"},
+      "title": "Death Sleeps Here!",
+      "author": {
+        "authorized": "MacDonald, John D. (John Dann), 1916-1986",
+        "lcna": "n79045202"
+      }
+     },
+     {"issue": {"issue-date": "1948-07", "volume": "11", "number": "4"},
+      "title": "Hell is My Legacy",
+      "author": {
+        "authorized": "Bloch, Robert, 1917-1994",
+        "lcna": "n50016557"
+      }
+     },
+     {"issue": {"issue-date": "1948-09", "volume": "12", "number": "1"},
+      "title": "Just a Kill in the Dark",
+      "author": {
+        "authorized": "MacDonald, John D. (John Dann), 1916-1986",
+        "lcna": "n79045202"
+      }
+     },
+     {"issue": {"issue-date": "1948-09", "volume": "12", "number": "1"},
+      "title": "Trial by Fury",
+      "author": {
+        "authorized": "MacDonald, John D. (John Dann), 1916-1986",
+        "using": "Scott O'Hara",
+        "lcna": "n79045202"
+      }
+     },
+     {"issue": {"issue-date": "1948-09", "volume": "12", "number": "1"},
+      "title": "Tune in on Station Homicide",
+      "author": {
+        "authorized": "MacDonald, John D. (John Dann), 1916-1986",
+        "using": "Peter Reed",
+        "lcna": "n79045202"
+      }
+     },
+     {"issue": {"issue-date": "1949-01", "volume": "12", "number": "3"},
+      "title": "Three's a Shroud",
+      "author": {
+        "authorized": "MacDonald, John D. (John Dann), 1916-1986",
+        "lcna": "n79045202"
+      }
+     },
+     {"issue": {"issue-date": "1949-05", "volume": "13", "number": "1"},
+      "title": "Get Out of Town",
+      "author": {
+        "authorized": "MacDonald, John D. (John Dann), 1916-1986",
+        "lcna": "n79045202"
+      }
+     },
+     {"issue": {"issue-date": "1949-07", "volume": "13", "number": "2"},
+      "title": "The Cold, Cold Ground",
+      "author": {
+        "authorized": "MacDonald, John D. (John Dann), 1916-1986",
+        "lcna": "n79045202"
+      }
+     },
+     {"issue": {"issue-date": "1949-09", "volume": "13", "number": "3"},
+      "title": "Dead as in Darling",
+      "author": {
+        "authorized": "MacDonald, John D. (John Dann), 1916-1986",
+        "lcna": "n79045202"
+      }
+     },
+     {"issue": {"issue-date": "1949-11", "volume": "13", "number": "5"},
+      "title": "Half Past Mayhem",
+      "author": {
+        "authorized": "MacDonald, John D. (John Dann), 1916-1986",
+        "lcna": "n79045202"
+      }
+     },
+     {"issue": {"issue-date": "1950-03", "volume": "14", "number": "3"},
+      "title": "Fall Guy",
+      "author": {
+        "authorized": "MacDonald, John D. (John Dann), 1916-1986",
+        "lcna": "n79045202"
+      }
+     },
+     {"issue": {"issue-date": "1950-05", "volume": "14", "number": "4"},
+      "title": "The One Will Kill You",
+      "author": {
+        "authorized": "MacDonald, John D. (John Dann), 1916-1986",
+        "lcna": "n79045202"
+      }
+     },
+     {"issue": {"issue-date": "1950-11", "volume": "15", "number": "3"},
+      "title": "For Murder, or Worse",
+      "author": {
+        "authorized": "MacDonald, John D. (John Dann), 1916-1986",
+        "lcna": "n79045202"
+      }
+     },
+     {"issue": {"issue-date": "1951-04", "volume": "16", "number": "1"},
+      "title": "Death is My Comrade",
+      "author": {
+        "authorized": "MacDonald, John D. (John Dann), 1916-1986",
+        "lcna": "n79045202"
+      }
+     },
+     {"issue": {"issue-date": "1951-06", "volume": "16", "number": "2"},
+      "title": "If I Should Die",
+      "author": {
+        "authorized": "Hopson, William",
+        "lcna": "n83205774"
+      }
+     },
+     {"issue": {"issue-date": "1951-08", "volume": "16", "number": "3"},
+      "title": "Dateline- Death",
+      "author": {
+        "authorized": "MacDonald, John D. (John Dann), 1916-1986",
+        "lcna": "n79045202"
+      }
+     },
+     {"issue": {"issue-date": "1952-06", "volume": "17", "number": "4"},
+      "title": "Very Dead Heat!",
+      "note": "Author is Judson P. Philips writing under a pseudonym.",
+      "author": {
+       "authorized": "Pentecost, Hugh, 1903-1989",
+       "lcna": "n79007236"
+      }
+     },
+     {"issue": {"issue-date": "1952-08", "volume": "18", "number": "1"},
+      "title": "The Clay Pigeon Shoots Back!",
+      "author": {
+        "authorized": "MacDonald, John D. (John Dann), 1916-1986",
+        "lcna": "n79045202"
+      }
+     },
+     {"issue": {"issue-date": "1952-10", "volume": "18", "number": "2"},
+      "title": "Dan and the Death-Cell Buff",
+      "author": {
+         "authorized": "Deming, Richard, 1915-1983",
+         "lcna": "n79144748"
+      }
+     },
+     {"issue": {"issue-date": "1953-02", "volume": "18", "number": "4"},
+      "title": "Death's Eye View",
+      "author": {
+        "authorized": "MacDonald, John D. (John Dann), 1916-1986",
+        "lcna": "n79045202"
+      }
+     },
+     {"issue": {"issue-date": "1953-04", "volume": "19", "number": "1"},
+      "title": "Die a Little Longer",
+      "author": {
+         "authorized": "Deming, Richard, 1915-1983",
+         "lcna": "n79144748"
+      }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-02-28"
+   "last-updated": "2026-04-08"
 }

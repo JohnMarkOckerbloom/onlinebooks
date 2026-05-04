@@ -12,21 +12,33 @@
    "first-renewed-issue":
      {"issue-date": "1937-03", "volume": "1", "number": "6"},
    "first-renewed-issue-source": "1964",
-   "first-renewed-contribution": "none",
-   "first-renewed-contribution-source": "cce",
+   "first-renewed-contribution":
+     {"issue": {"issue-date": "1937-03", "volume": "1", "number": "6"}},
+   "first-renewed-contribution-source": "1964-JulDec",
    "last-issue":
      {"issue-date": "1937-07", "volume": "2", "number": "3"},
    "see-also":
       [{"id": "popularstreetsmith",
         "note": "The Popular Magazine (Street and Smith, 1903-1931)"}],
+   "renewed-issue-completeness": "active/end",
    "renewed-issues": [
      {"issue-date": "1937-03", "volume": "1", "number": "6"},
      {"issue-date": "1937-04", "volume": "2", "number": "1"},
      {"issue-date": "1937-05", "volume": "2", "number": "2"}
    ],
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1937-03", "volume": "1", "number": "6"},
+      "title": "Where the Sun Never Sets",
+      "author": {
+         "authorized": "Weidman, Jerome, 1913-1998",
+         "lcna": "n50022730"
+       }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-10-05"
+   "last-updated": "2026-04-25"
 }

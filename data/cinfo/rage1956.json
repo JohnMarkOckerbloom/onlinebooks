@@ -1,0 +1,31 @@
+{
+   "title": "Rage",
+   "title-note": "1950s/1960s US men's magazine",
+   "aka": ["Rage for Men"],
+   "online": "1",
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/FMI/link.asp?magid=RGX",
+       "note": "FictionMags (selected issues only)"}
+   ],
+   "first-issue": {"issue-date": "1956-12", "volume": "1", "number": "1"}, 
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "database",
+   "first-renewed-contribution":
+     {"issue": {"issue-date": "1957-04", "volume": "1", "number": "3"}},
+   "first-renewed-contribution-source": "database",
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1957-04", "volume": "1", "number": "3"},
+      "title": "How Girl Gangs Fight and Love",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "lcna": "n50010025"
+      }
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2026-04-09"
+}

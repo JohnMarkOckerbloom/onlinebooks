@@ -6,11 +6,28 @@
    "first-renewed-contribution":
      {"issue": {"issue-date": "1955-03-14"}},
    "first-renewed-contribution-source": "database",
+   "renewed-issue-completeness": "active/1936",
+   "renewed-issues": [
+      {"issue-date": "1936-12-21", "volume": "1", "number": "3"},
+      {"issue-date": "1936-12-28", "volume": "1", "number": "4"},
+      {"issue-date": "1937-01-04", "volume": "1", "number": "5"},
+      {"issue-date": "1937-01-11", "volume": "1", "number": "6"},
+      {"issue-date": "1937-01-18", "volume": "1", "number": "7"},
+      {"issue-date": "1937-01-25", "volume": "1", "number": "8"},
+      {"issue-date": "1937-02-01", "volume": "1", "number": "9"},
+      {"issue-date": "1937-02-08", "volume": "1", "number": "10"},
+      {"issue-date": "1937-02-15", "volume": "1", "number": "11"},
+      {"issue-date": "1937-02-22", "volume": "1", "number": "12"},
+      {"issue-date": "1937-03-01", "volume": "1", "number": "13"},
+      {"issue-date": "1937-03-08", "volume": "1", "number": "14"},
+      {"issue-date": "1937-03-15", "volume": "1", "number": "15"},
+      {"issue-date": "1937-03-22", "volume": "1", "number": "16"}
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
    "acknowledgement": 
       "Thanks to Felice Gollotti for copyright research on this title.",
-   "last-updated": "2020-09-04"
+   "last-updated": "2026-04-25"
 }
