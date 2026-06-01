@@ -7,9 +7,15 @@
    "first-renewed-issue-source": "1964",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
+   "renewed-issue-completeness": "active/1936",
+   "renewed-issues": [
+     {"issue-date": "1936-Fall", "volume": "1", "number": "1"},
+     {"issue-date": "1937-Spring", "volume": "1", "number": "3"},
+     {"issue-date": "1937-Summer", "volume": "1", "number": "4"}
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2019-11-22"
+   "last-updated": "2026-05-21"
 }

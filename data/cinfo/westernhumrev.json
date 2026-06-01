@@ -1,15 +1,137 @@
 {
    "title": "Western Humanities Review",
+   "online": "1",
    "preceded-by": [{"id": "utahhumrev", "note": "Utah Humanities Review"}],
    "first-issue": {"issue-date": "1949-01", "volume": "3", "number": "1"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
+   "first-autorenewed-issue": 
+     {"issue-date": "1964-Winter", "volume": "18", "number": "1"},
    "first-renewed-contribution": 
-      {"issue": {"issue-date": "1949-10", "volume": "3", "number": "4"}},
+     {"issue": {"issue-date": "1949-10", "volume": "3", "number": "4"}},
    "first-renewed-contribution-source": "1977-JulDec",
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1949-10", "volume": "3", "number": "4"},
+      "title": "Upland",
+      "author": {
+       "authorized": "Ghiselin, Brewster, 1903-2002",
+       "lcna": "n80057026"
+      }
+     },
+     {"issue": {"issue-date": "1953-Spring", "volume": "7", "number": "2"},
+        "title": "Powell and the Names on the Plateau",
+        "note": "Title as given in issue. Renewal record gives title as 'Names on the Plateau'.",
+        "author": {
+         "authorized": "Stegner, Wallace, 1909-1993",
+         "lcna": "n79021163"
+        }
+     },
+     {"issue": {"issue-date": "1955-Spring", "volume": "9", "number": "2"},
+        "title": "World",
+        "author": {
+         "authorized": "Ostroff, Anthony, 1923-1978",
+         "lcna": "n88120737"
+        }
+     },
+     {"issue": {"issue-date": "1957-Autumn", "volume": "11", "number": "4"},
+        "title": "German Recovery: Apparent or Real?",
+        "author": {
+         "authorized": "Gray, J. Glenn (Jesse Glenn), 1913-1977",
+         "lcna": "n79117905"
+        }
+     },
+     {"issue": {"issue-date": "1958-Autumn", "volume": "12", "number": "4"},
+      "title": "D.H. Lawrence in Bandol: A Memoir",
+      "author": {
+       "authorized": "Ghiselin, Brewster, 1903-2002",
+       "lcna": "n80057026"
+      }
+     },
+     {"issue": {"issue-date": "1958-Autumn", "volume": "12", "number": "4"},
+      "title": "Umbrella Song",
+      "author": {
+       "authorized": "Weales, Gerald, 1925-2013",
+       "lcna": "n50023757"
+      }
+     },
+     {"issue": {"issue-date": "1959-Winter", "volume": "13", "number": "1"},
+      "title": "Tennis",
+      "author": {
+       "authorized": "Weales, Gerald, 1925-2013",
+       "lcna": "n50023757"
+      }
+     },
+     {"issue": {"issue-date": "1960-Winter", "volume": "14", "number": "1"}, 
+      "title": "The Symbols",
+      "author": {
+       "authorized": "Stanford, Ann",
+       "lcna": "n50023982"
+      }
+     },
+     {"issue": {"issue-date": "1960-Spring", "volume": "14", "number": "2"}, 
+      "title": "The Travelers",
+      "author": {
+       "authorized": "Stanford, Ann",
+       "lcna": "n50023982"
+      }
+     },
+     {"issue": {"issue-date": "1962-Autumn", "volume": "16", "number": "4"},
+      "title": "Saturday Night Song",
+      "author": {
+         "authorized": "Carter, John Stewart, 1911-1965",
+         "lcna": "no97024207"
+      }
+     },
+     {"issue": {"issue-date": "1963-Winter", "volume": "17", "number": "1"},
+      "title": "Pastoral",
+      "note": "A note in the renewal record says this is 'now entitled The Cabin'.",
+      "author": {
+         "authorized": "Carver, Raymond, 1938-1988",
+         "lcna": "n80113040"
+      }
+     },
+     {"issue": {"issue-date": "1963-Summer", "volume": "17", "number": "3"},
+      "title": "Spring, 480 B.C.",
+      "note": "Renewal record says this appeared in the Winter 1963 issue, but it actually appeared in the Summer 1963 issue.",
+      "author": {
+         "authorized": "Carver, Raymond, 1938-1988",
+         "lcna": "n80113040"
+      }
+     },
+     {"issue": {"issue-date": "1963-Autumn", "volume": "17", "number": "4"},
+      "title": "Voyages Down",
+      "author": {
+         "authorized": "Philbrick, Charles",
+         "lcna": "n85180678"
+      }
+     },
+     {"issue": {"issue-date": "1965-Spring", "volume": "19", "number": "2"},
+      "title": "On Prester John of Hampstead",
+      "note": "Title as given in issue table of contents. Renewal record gives title as 'Prester John'.",
+      "author": {
+         "authorized": "Philbrick, Charles",
+         "lcna": "n85180678"
+      }
+     },
+     {"issue": {"issue-date": "1966-Winter", "volume": "20", "number": "1"},
+      "title": "Poor Mickey",
+      "author": {
+         "authorized": "Philbrick, Charles",
+         "lcna": "n85180678"
+      }
+     },
+     {"issue": {"issue-date": "1967-Winter", "volume": "21", "number": "1"},
+      "title": "Deschutes River",
+      "author": {
+         "authorized": "Carver, Raymond, 1938-1988",
+         "lcna": "n80113040"
+      }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-05-23"
+   "last-updated": "2026-05-16"
 }

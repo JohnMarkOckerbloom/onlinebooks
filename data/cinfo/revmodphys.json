@@ -1,7 +1,10 @@
 {
    "title": "Reviews of Modern Physics",
+   "online": "1",
    "preceded-by":
      [{"id": "physrevsupp", "note": "The Physical Review Supplement"}],
+   "first-issue":
+      {"issue-date": "1930-01", "volume": "2", "number": "1"},
    "first-renewed-issue":
       {"issue-date": "1956-01", "volume": "28", "number": "1"},
    "first-renewed-issue-source": "database",
@@ -11,5 +14,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-11-07"
+   "last-updated": "2026-05-28"
 }

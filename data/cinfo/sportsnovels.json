@@ -14,10 +14,27 @@
        {"issue": {"issue-date": "1948-07", "volume": "16", "number": "1"}},
    "first-renewed-contribution-source": "1976-JanJun",
    "last-issue": {"issue-date": "1952-04", "volume": "22", "number": "1"},
-   "additional-note" : "Renewals are recorded beginning in the 1975 July-December CCE volume, but the earliest renewed contribution is noted in the 1976 January-June volume.",
+   "renewed-issue-completeness": "active/1937",
+   "renewed-issues": [
+     {"issue-date": "1937-April-May", "volume": "1", "number": "1"},
+     {"issue-date": "1937-June-July", "volume": "1", "number": "2"},
+     {"issue-date": "1937-August-September", "volume": "1", "number": "3"},
+     {"issue-date": "1937-October-November", "volume": "1", "number": "4"},
+     {"issue-date": "December 1937 - January 1938", "cdate": "1937-10-29",
+      "volume": "2", "number": "1"},
+     {"issue-date": "1938-February-March", "cdate": "1937-12-31",
+      "volume": "2", "number": "2"},
+     {"issue-date": "1938-April-May", "cdate": "1938-03-01",
+      "volume": "2", "number": "3"},
+     {"issue-date": "1938-August-September", "volume": "3", "number": "1"},
+     {"issue-date": "1938-October-November", "volume": "3", "number": "2"},
+     {"issue-date": "December 1938 - January 1939", "cdate": "1938-11-01",
+      "volume": "3", "number": "3"}
+   ],
+   "additional-note" : "Contribution enewals are recorded beginning in the 1975 July-December CCE volume, but the earliest renewed contribution is noted in the 1976 January-June volume.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-04-28"
+   "last-updated": "2026-05-30"
 }

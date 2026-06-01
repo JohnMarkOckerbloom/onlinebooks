@@ -15,7 +15,7 @@
      {"issue": {"issue-date": "1931-01-24", "volume": "124", "number": "5"}},
    "first-renewed-contribution-source": "1958-JanJun",
    "last-issue": {"issue-date": "1949-Summer", "volume": "177", "number": "1"},
-   "renewed-issue-completeness": "active/1935",
+   "renewed-issue-completeness": "active/1936",
    "renewed-issues": [
      {"issue-date": "1931-01-10", "volume": "124", "number": "3",
       "cdate": "1931-01-02"},
@@ -205,7 +205,23 @@
      {"issue-date": "1936-09", "volume": "152", "number": "5"},
      {"issue-date": "1936-10", "volume": "152", "number": "6"},
      {"issue-date": "1936-11", "volume": "153", "number": "1"},
-     {"issue-date": "1936-12", "volume": "153", "number": "2"}
+     {"issue-date": "1936-12", "volume": "153", "number": "2"},
+     {"issue-date": "1937-01", "volume": "153", "number": "3",
+      "cdate": "1936-12-11"},
+     {"issue-date": "1937-02", "volume": "153", "number": "4",
+      "cdate": "1937-01-08"},
+     {"issue-date": "1937-03", "volume": "153", "number": "5"},
+     {"issue-date": "1937-04", "volume": "153", "number": "6"},
+     {"issue-date": "1937-05", "volume": "154", "number": "1"},
+     {"issue-date": "1937-06", "volume": "154", "number": "2"},
+     {"issue-date": "1937-07", "volume": "154", "number": "3"},
+     {"issue-date": "1937-08", "volume": "154", "number": "4"},
+     {"issue-date": "1937-09", "volume": "154", "number": "5"},
+     {"issue-date": "1937-10", "volume": "154", "number": "6"},
+     {"issue-date": "1937-11", "volume": "155", "number": "1"},
+     {"issue-date": "1937-12", "volume": "155", "number": "2"},
+     {"issue-date": "1938-01", "volume": "155", "number": "3",
+      "cdate": "1937-11-26"}
    ],
    "renewed-contribution-completeness": "active/1933",
    "renewed-contributions": [
@@ -520,5 +536,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2026-01-24"
+   "last-updated": "2026-05-31"
 }

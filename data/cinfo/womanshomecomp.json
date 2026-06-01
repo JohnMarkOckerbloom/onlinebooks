@@ -10,7 +10,7 @@
    "first-renewed-contribution":
      {"issue": {"issue-date": "1931-04", "volume": "58", "number": "4"}}, 
    "first-renewed-contribution-source": "1958-JanJun",
-   "renewed-contribution-completeness": "active/1931",
+   "renewed-contribution-completeness": "active/1932",
    "renewed-contributions": [
      {"issue": {"issue-date": "1931-04", "volume": "58", "number": "4"}, 
       "title": "All Play",
@@ -233,6 +233,22 @@
        "lcna": "n50006075"
       }
      },
+     {"issue": {"issue-date": "1932-08", "volume": "59", "number": "8"},
+      "title": "Peter Ashley",
+      "title-note": "part 1 of 5",
+      "author": {
+       "authorized": "Heyward, DuBose, 1885-1940",
+       "lcna": "n50041800"
+      }
+     },
+     {"issue": {"issue-date": "1932-09", "volume": "59", "number": "9"},
+      "title": "Peter Ashley",
+      "title-note": "part 2 of 5",
+      "author": {
+       "authorized": "Heyward, DuBose, 1885-1940",
+       "lcna": "n50041800"
+      }
+     },
      {"issue": {"issue-date": "1932-09", "volume": "59", "number": "9"},
       "title": "Blind Youth",
       "title-note": "part 6 of 6",
@@ -241,28 +257,180 @@
        "lcna": "n50006075"
       }
      },
+     {"issue": {"issue-date": "1932-10", "volume": "59", "number": "10"},
+      "title": "Peter Ashley",
+      "title-note": "part 3 of 5",
+      "author": {
+       "authorized": "Heyward, DuBose, 1885-1940",
+       "lcna": "n50041800"
+      }
+     },
+     {"issue": {"issue-date": "1932-11", "volume": "59", "number": "11"},
+      "title": "Peter Ashley",
+      "title-note": "part 4 of 5",
+      "author": {
+       "authorized": "Heyward, DuBose, 1885-1940",
+       "lcna": "n50041800"
+      }
+     },
+     {"issue": {"issue-date": "1932-12", "volume": "59", "number": "12"},
+      "title": "Peter Ashley",
+      "title-note": "part 5 of 5",
+      "author": {
+       "authorized": "Heyward, DuBose, 1885-1940",
+       "lcna": "n50041800"
+      }
+     },
+     {"issue": {"issue-date": "1933-01", "volume": "60", "number": "1",
+      "cdate": "1932-11-22"},
+      "title": "Reconstructing Flavia",
+      "author": {
+       "authorized": "Hopper, James, 1876-1956",
+       "lcna": "n00068220"
+      }
+     },
      {"issue": {"issue-date": "1933-02", "volume": "60", "number": "2",
       "cdate": "1932-12-23"},
       "title": "The Heart Compelled",
-      "note": "Issue as given in CCE renewal record.  FictionMags puts this story in the May 1933 issue. We have not examined the issues in question.",
+      "title-note": "installment",
+      "author": {
+       "authorized": "Warshawsky, Samuel Jesse",
+       "lcna": "n2021035526"
+      }
+     },
+     {"issue": {"issue-date": "1933-03", "volume": "60", "number": "3"},
+      "title": "The Frill",
+       "author": {
+          "authorized": "Buck, Pearl S. (Pearl Sydenstricker), 1892-1973",
+          "lcna": "n79026662"
+        }
+     },
+     {"issue": {"issue-date": "1933-03", "volume": "60", "number": "3"},
+      "title": "Tomboy",
+      "author": {
+       "authorized": "Haardt, Sara, 1898-1935",
+       "lcna": "n85161027"
+      }
+     },
+     {"issue": {"issue-date": "1933-03", "volume": "60", "number": "3"},
+      "title": "The Heart Compelled",
+      "title-note": "installment",
+      "author": {
+       "authorized": "Warshawsky, Samuel Jesse",
+       "lcna": "n2021035526"
+      }
+     },
+     {"issue": {"issue-date": "1933-04", "volume": "60", "number": "4"},
+      "title": "The Angel in the House",
+      "title-note": "part 1 of 6",
+      "author": {
+       "authorized": "Norris, Kathleen Thompson, 1880-1966",
+       "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1933-04", "volume": "60", "number": "4"},
+      "title": "The Heart Compelled",
+      "title-note": "installment",
       "author": {
        "authorized": "Warshawsky, Samuel Jesse",
        "lcna": "n2021035526"
       }
      },
      {"issue": {"issue-date": "1933-05", "volume": "60", "number": "5"},
+      "title": "The Angel in the House",
+      "title-note": "part 2 of 6",
+      "author": {
+       "authorized": "Norris, Kathleen Thompson, 1880-1966",
+       "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1933-05", "volume": "60", "number": "5"},
       "title": "The Heart Compelled",
-      "note": "Issue as given in FictionMags.  CCE renewal record puts this story in the February 1933 issue. We have not examined the issues in question.",
+      "title-note": "installment",
       "author": {
        "authorized": "Warshawsky, Samuel Jesse",
        "lcna": "n2021035526"
       }
+     },
+     {"issue": {"issue-date": "1933-06", "volume": "60", "number": "6"},
+        "title": "The Yankee Fox",
+        "author": {
+         "authorized": "Benét, Stephen Vincent, 1898-1943",
+         "lcna": "n50007691"
+        }
+     },
+     {"issue": {"issue-date": "1933-06", "volume": "60", "number": "6"},
+      "title": "The Angel in the House",
+      "title-note": "part 3 of 6",
+      "author": {
+       "authorized": "Norris, Kathleen Thompson, 1880-1966",
+       "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1933-07", "volume": "60", "number": "7"},
+      "title": "The Right Side of the Track",
+      "author": {
+       "authorized": "Jackson, Margaret Weymouth",
+       "lcna": "no94014713"
+      }
+     },
+     {"issue": {"issue-date": "1933-07", "volume": "60", "number": "7"},
+      "title": "The Angel in the House",
+      "title-note": "part 4 of 6",
+      "author": {
+       "authorized": "Norris, Kathleen Thompson, 1880-1966",
+       "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1933-08", "volume": "60", "number": "8"},
+      "title": "The Angel in the House",
+      "title-note": "part 5 of 6",
+      "author": {
+       "authorized": "Norris, Kathleen Thompson, 1880-1966",
+       "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1933-09", "volume": "60", "number": "9"}, 
+      "title": "Pop Bigelow's Blessings",
+      "author": {
+       "authorized": "Matson, Norman, 1893-1965",
+       "lcna": "no93020499"
+      }
+     },
+     {"issue": {"issue-date": "1933-09", "volume": "60", "number": "9"}, 
+      "title": "The Angel in the House",
+      "title-note": "part 6 of 6",
+      "author": {
+       "authorized": "Norris, Kathleen Thompson, 1880-1966",
+       "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1933-11", "volume": "60", "number": "11"},
+      "title": "Two Women",
+       "author": {
+          "authorized": "Buck, Pearl S. (Pearl Sydenstricker), 1892-1973",
+          "lcna": "n79026662"
+        }
+     },
+     {"issue": {"issue-date": "1933-11", "volume": "60", "number": "11"},
+      "title": "Not So Far as the Forest",
+      "author": {
+       "authorized": "Millay, Edna St. Vincent, 1892-1950",
+       "lcna": "n79062746"
+      }
+     },
+     {"issue": {"issue-date": "1933-11", "volume": "60", "number": "11"},
+      "title": "When Youth is Beautiful",
+      "author": {
+       "authorized": "Tarkington, Booth, 1869-1946",
+       "lcna": "n79078124"
+      }
      }
    ],
-   "comment": "Resume with 1960 Jan-Jun for contributions",
+   "comment": "Resume with 1961 Jan-Jun for contributions",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2026-01-04"
+   "last-updated": "2026-05-31"
 }

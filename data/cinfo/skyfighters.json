@@ -12,7 +12,7 @@
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
    "last-issue": {"issue-date": "1950-Spring", "volume": "38", "number": "1"},
-   "renewed-issue-completeness": "active/1935",
+   "renewed-issue-completeness": "active/1936",
    "renewed-issues": [
      {"issue-date": "1935-12", "volume": "11", "number": "3"},
      {"issue-date": "1936-01", "volume": "12", "number": "1",
@@ -29,11 +29,18 @@
      {"issue-date": "1936-08", "volume": "14", "number": "2"},
      {"issue-date": "1936-09", "volume": "14", "number": "3"},
      {"issue-date": "1936-10", "volume": "15", "number": "1"},
-     {"issue-date": "1936-11", "volume": "15", "number": "2"}
+     {"issue-date": "1936-11", "volume": "15", "number": "2"},
+     {"issue-date": "1936-12", "volume": "15", "number": "3"},
+     {"issue-date": "1937-01", "volume": "16", "number": "1",
+      "cdate": "1936-10-28"},
+     {"issue-date": "1937-02", "volume": "16", "number": "2",
+      "cdate": "1936-11-30"},
+     {"issue-date": "1937-03", "volume": "16", "number": "3",
+      "cdate": "1936-12-28"}
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-07-20"
+   "last-updated": "2026-05-21"
 }

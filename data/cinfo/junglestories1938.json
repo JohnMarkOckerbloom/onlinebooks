@@ -1,6 +1,7 @@
 {
    "title": "Jungle Stories",
    "title-note": "1938-1954",
+   "online": "1",
    "contents": [
       {"url": "http://www.philsp.com/homeville/AFI/link.asp?magid=JNGSB",
        "note": "FictionMags"}
@@ -9,12 +10,78 @@
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution":
-       {"issue": {"issue-date": "1948-Winter", "volume": "4", "number": "5"}},
-   "first-renewed-contribution-source": "1976-JulDec",
+     {"issue": {"issue-date": "1941-Summer", "volume": "1", "number": "10"}},
    "last-issue": {"issue-date": "1954-Spring", "volume": "5", "number": "11"},
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1941-Summer", "volume": "1", "number": "10"},
+      "title": "River Devil",
+      "note": "There was no renewal filed specifically for this contribution, but it is reprinted from a 1938 book first published in Britain that may have an active US copyright until 2034 due to GATT restoration.",
+      "author": {
+       "authorized": "Gérard, Francis, 1905-1966",
+       "lcna": "n89644129"
+      }
+     },
+     {"issue": {"issue-date": "1941-Fall", "volume": "1", "number": "11"},
+      "title": "The Limping Devil",
+      "note": "There was no renewal filed specifically for this contribution, but it is reprinted from a 1938 book first published in Britain that may have an active US copyright until 2034 due to GATT restoration.",
+      "author": {
+       "authorized": "Gérard, Francis, 1905-1966",
+       "lcna": "n89644129"
+      }
+     },
+     {"issue": {"issue-date": "1943-04", "volume": "2", "number": "6"},
+      "title": "K'Lini's Blood Juju",
+      "note": "There was no renewal filed specifically for this contribution, but it is reprinted from a 1938 book first published in Britain that may have an active US copyright until 2034 due to GATT restoration.",
+      "author": {
+       "authorized": "Gérard, Francis, 1905-1966",
+       "lcna": "n89644129"
+      }
+     },
+     {"issue": {"issue-date": "1943-Summer", "volume": "2", "number": "7"},
+      "title": "Voodoo Spears",
+      "note": "There was no renewal filed specifically for this contribution, but it is reprinted from a 1938 book first published in Britain that may have an active US copyright until 2034 due to GATT restoration.",
+      "author": {
+       "authorized": "Gérard, Francis, 1905-1966",
+       "lcna": "n89644129"
+      }
+     },
+     {"issue": {"issue-date": "Winter 1943-1944", "volume": "2", "number": "9"},
+      "title": "The Flaming God",
+      "note": "There was no renewal filed specifically for this contribution, but it is reprinted from a 1938 book first published in Britain that may have an active US copyright until 2034 due to GATT restoration.",
+      "author": {
+       "authorized": "Gérard, Francis, 1905-1966",
+       "lcna": "n89644129"
+      }
+     },
+     {"issue": {"issue-date": "1944-Spring", "volume": "2", "number": "10"},
+      "title": "The Fos-Fos Juju",
+      "note": "There was no renewal filed specifically for this contribution, but it is a revision of a story from a 1938 book first published in Britain that may have an active US copyright until 2034 due to GATT restoration.",
+      "author": {
+       "authorized": "Gérard, Francis, 1905-1966",
+       "lcna": "n89644129"
+      }
+     },
+     {"issue": {"issue-date": "1948-Winter", "volume": "4", "number": "5"},
+      "title": "Serpent's Fetish",
+      "note": "This is the first contribution that has a copyright renewal filed specifically for its appearance in this magazine.",
+      "author": {
+       "authorized": "Blish, James",
+       "lcna": "n79053667"
+      }
+     },
+     {"issue": {"issue-date": "1954-Spring", "volume": "5", "number": "11"}, 
+      "title": "White Cannibal",
+      "author": {
+        "authorized": "McKimmey, James",
+        "using": "John Peter Drummond",
+        "lcna": "no2003053758"
+       }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-05-05"
+   "last-updated": "2026-05-07"
 }

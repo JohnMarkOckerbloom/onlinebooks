@@ -17,7 +17,7 @@
       {"id": "scribnerscomment",
        "note": "Scribner's Commentator"}
    ],
-   "renewed-issue-completeness": "active/1935",
+   "renewed-issue-completeness": "active/1936",
    "renewed-issues": [
       {"issue-date": "1931-02", "volume": "89", "number": "2",
        "cdate": "1931-01-20"},
@@ -100,9 +100,22 @@
       {"issue-date": "1936-09", "volume": "100", "number": "3"},
       {"issue-date": "1936-10", "volume": "100", "number": "4"},
       {"issue-date": "1936-11", "volume": "100", "number": "5"},
-      {"issue-date": "1936-12", "volume": "100", "number": "6"}
+      {"issue-date": "1936-12", "volume": "100", "number": "6"},
+      {"issue-date": "1937-01", "volume": "101", "number": "1",
+       "cdate": "1936-12-31"},
+      {"issue-date": "1937-02", "volume": "101", "number": "2",
+       "cdate": "1937-01-29"},
+      {"issue-date": "1937-03", "volume": "101", "number": "3"},
+      {"issue-date": "1937-04", "volume": "101", "number": "4"},
+      {"issue-date": "1937-05", "volume": "101", "number": "5"},
+      {"issue-date": "1937-06", "volume": "101", "number": "6"},
+      {"issue-date": "1937-07", "volume": "102", "number": "1"},
+      {"issue-date": "1937-08", "volume": "102", "number": "2"},
+      {"issue-date": "1937-09", "volume": "102", "number": "3"},
+      {"issue-date": "1937-10", "volume": "102", "number": "4"},
+      {"issue-date": "1937-11", "volume": "102", "number": "5"}
    ],
-   "renewed-contribution-completeness": "active/1931",
+   "renewed-contribution-completeness": "active/1932",
    "renewed-contributions": [
      {"issue": {"issue-date": "1931-02", "volume": "89", "number": "2"},
         "title": "Cracker Chidlings",
@@ -271,6 +284,13 @@
          "lcna": "n79043459"
       }
      },
+     {"issue": {"issue-date": "1932-04", "volume": "91", "number": "4"},
+        "title": "A Portrait of Bascom Hawke",
+        "author": {
+         "authorized": "Wolfe, Thomas, 1900-1938",
+         "lcna": "n79054341"
+        }
+     },
      {"issue": {"issue-date": "1932-05", "volume": "91", "number": "5"},
         "title": "A Crop of Beans",
         "author": {
@@ -298,6 +318,13 @@
          "authorized": "James, Will, 1892-1942",
          "lcna": "n80005727"
       }
+     },
+     {"issue": {"issue-date": "1932-07", "volume": "92", "number": "1"},
+        "title": "The Web of Earth",
+        "author": {
+         "authorized": "Wolfe, Thomas, 1900-1938",
+         "lcna": "n79054341"
+        }
      },
      {"issue": {"issue-date": "1932-08", "volume": "92", "number": "2"},
         "title": "Sister Bernadette",
@@ -336,6 +363,13 @@
       }
      },
      {"issue": {"issue-date": "1932-10", "volume": "92", "number": "4"},
+        "title": "Poolroom",
+        "author": {
+         "authorized": "Callaghan, Morley, 1903-1990",
+         "lcna": "n79006957"
+        }
+     },
+     {"issue": {"issue-date": "1932-10", "volume": "92", "number": "4"},
       "title": "Flowering Wilderness",
       "title-note": "part 2 of 3",
       "author": {
@@ -358,19 +392,159 @@
          "lcna": "n87870714"
         }
      },
+     {"issue": {"issue-date": "1932-12", "volume": "92", "number": "6"},
+      "title": "Hill Idyll",
+      "author": {
+         "authorized": "Gowen, Emmett, 1902-",
+         "lcna": "no93014587"
+      }
+     },
+     {"issue": {"issue-date": "1932-12", "volume": "92", "number": "6"},
+        "title": "Menu",
+        "author": {
+         "authorized": "Beer, Thomas, 1889-1940",
+         "lcna": "n79151185"
+        }
+     },
+     {"issue": {"issue-date": "1933-01", "volume": "93", "number": "1"},
+      "title": "A Song During Business Depresssion",
+      "author": {
+       "authorized": "Lindsay, Vachel, 1879-1931",
+       "lcna": "n79148281"
+      }
+     },
      {"issue": {"issue-date": "1933-01", "volume": "93", "number": "1"},
       "title": "There Was a Queen",
       "author": {
          "authorized": "Faulkner, William, 1897-1962",
          "lcna": "n79003304"
       }
+     },
+     {"issue": {"issue-date": "1933-01", "volume": "93", "number": "1"},
+      "title": "The Loss of the Melbourne",
+      "author": {
+         "authorized": "Villiers, Alan, 1903-1982",
+         "lcna": "n50014468"
+      }
+     },
+     {"issue": {"issue-date": "1933-02", "volume": "93", "number": "2"},
+      "title": "Let us Praise the Voice, and Demon: Two Poems",
+      "author": {
+       "authorized": "Aiken, Conrad, 1889-1973",
+       "lcna": "n80060447"
+      }
+     },
+     {"issue": {"issue-date": "1933-03", "volume": "93", "number": "3"},
+      "title": "A Clean, Well-Lighted Place",
+      "author": {
+        "authorized": "Hemingway, Ernest, 1899-1961",
+        "lcna": "n78078534"
+      }
+     },
+     {"issue": {"issue-date": "1933-03", "volume": "93", "number": "3"},
+        "title": "Old Men on the Blue",
+        "author": {
+         "authorized": "Ferril, Thomas Hornsby, 1896-1988",
+         "lcna": "n50001135"
+        }
+     },
+     {"issue": {"issue-date": "1933-04", "volume": "93", "number": "4"},
+      "title": "Homage to Switzerland",
+      "author": {
+        "authorized": "Hemingway, Ernest, 1899-1961",
+        "lcna": "n78078534"
+      }
+     },
+     {"issue": {"issue-date": "1933-04", "volume": "93", "number": "4"},
+       "title": "Mixed Marriage",
+       "author": {
+         "authorized": "Thomason, John W., Jr. (John William), 1893-1944",
+         "lcna": "n83130300"
+       }
+     },
+     {"issue": {"issue-date": "1933-05", "volume": "93", "number": "5"},
+      "title": "Give Us a Prescription, Doctor",
+      "author": {
+        "authorized": "Hemingway, Ernest, 1899-1961",
+        "lcna": "n78078534"
+      }
+     },
+     {"issue": {"issue-date": "1933-05", "volume": "93", "number": "5"},
+        "title": "The Train and the City",
+        "author": {
+         "authorized": "Wolfe, Thomas, 1900-1938",
+         "lcna": "n79054341"
+        }
+     },
+     {"issue": {"issue-date": "1933-06", "volume": "93", "number": "6"},
+        "title": "Death, the Proud Brother",
+        "author": {
+         "authorized": "Wolfe, Thomas, 1900-1938",
+         "lcna": "n79054341"
+        }
+     },
+     {"issue": {"issue-date": "1933-07", "volume": "94", "number": "1"},
+        "title": "No Door",
+        "author": {
+         "authorized": "Wolfe, Thomas, 1900-1938",
+         "lcna": "n79054341"
+        }
+     },
+     {"issue": {"issue-date": "1933-08", "volume": "94", "number": "2"},
+       "title": "Story of a Princess",
+       "author": {
+         "authorized": "Thomason, John W., Jr. (John William), 1893-1944",
+         "lcna": "n83130300"
+       }
+     },
+     {"issue": {"issue-date": "1933-09", "volume": "94", "number": "3"},
+        "title": "Picnic",
+        "author": {
+         "authorized": "Ficke, Arthur Davison, 1883-1945",
+         "lcna": "n82119450"
+        }
+     },
+     {"issue": {"issue-date": "1933-09", "volume": "94", "number": "3"},
+        "title": "Hyacinth Drift",
+        "author": {
+         "authorized": "Rawlings, Marjorie Kinnan, 1896-1953",
+         "lcna": "n50054037"
+        }
+     },
+     {"issue": {"issue-date": "1933-10", "volume": "94", "number": "4"},
+        "title": "Benny and the Bird Dogs",
+        "author": {
+         "authorized": "Rawlings, Marjorie Kinnan, 1896-1953",
+         "lcna": "n50054037"
+        }
+     },
+     {"issue": {"issue-date": "1933-11", "volume": "94", "number": "5"},
+        "title": "The Answer",
+        "author": {
+         "authorized": "Wheelock, John Hall, 1886-1978",
+         "lcna": "n79077255"
+        }
+     },
+     {"issue": {"issue-date": "1933-12", "volume": "94", "number": "6"},
+        "title": "Old Red",
+        "author": {
+         "authorized": "Gordon, Caroline, 1895-1981",
+         "lcna": "n80040363"
+        }
+     },
+     {"issue": {"issue-date": "1933-12", "volume": "94", "number": "6"},
+        "title": "Every Day's a Holiday",
+        "author": {
+         "authorized": "Cozzens, James Gould, 1903-1978",
+         "lcna": "n79061394"
+        }
      }
    ],
-   "comment": "Pick up contributions with 1960 Jan-Jun",
+   "comment": "Pick up contributions with 1961 Jan-Jun",
    "additional-note": "Active contribution renewals are recorded beginning in the 1958 January-June CCE volume, but the earliest active renewed contribution copyright is noted in the 1958 July-December volume.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2026-01-08"
+   "last-updated": "2026-05-29"
 }

@@ -840,6 +840,7 @@ sub analyze_form {
       || $comments =~ /pxl.to/i
       || $comments =~ /fiverr/i
       || $comments =~ /ultimate tool/i
+      || $comments =~ /Hi upenn/i
       || $comments =~ /unbeatable pric/
       || $comments =~ /mobile app/
       || $comments =~ /free tool/i

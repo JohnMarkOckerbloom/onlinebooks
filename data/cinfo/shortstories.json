@@ -97,7 +97,7 @@
       "cdate": "1934-01-10"}
    ],
    "comment": "Resume issue renewal search with registered works database",
-   "renewed-contribution-completeness": "active/1931",
+   "renewed-contribution-completeness": "active/1932",
    "renewed-contributions": [
      {"issue": {"issue-date": "1931-01-25", "volume": "134", "number": "2"},
       "title": "Hopalong Cassidy and the Eagle's Brood",
@@ -413,12 +413,136 @@
        "authorized": "Case, Robert Ormond, 1895-1964",
        "lcna": "no95027451"
       }
+     },
+     {"issue": {"issue-date": "1933-01-10", "volume": "142", "number": "1"},
+      "title": "Raw Gold",
+      "title-note": "part 1 of 4",
+      "author": {
+         "authorized": "Hendryx, James B. (James Beardsley), 1880-1963",
+         "lcna": "no95058559"
+       }
+     },
+     {"issue": {"issue-date": "1933-01-25", "volume": "142", "number": "2"},
+      "title": "The Herd Goes Through",
+      "author": {
+       "authorized": "Mulford, Clarence Edward, 1883-1956",
+       "lcna": "n50006370"
+      }
+     },
+     {"issue": {"issue-date": "1933-01-25", "volume": "142", "number": "2"},
+      "title": "Carcajou",
+      "author": {
+         "authorized": "Pinkerton, Robert E. (Robert Eugene), 1882-1970",
+         "lcna": "no2003073197"
+       }
+     },
+     {"issue": {"issue-date": "1933-01-25", "volume": "142", "number": "2"},
+      "title": "Raw Gold",
+      "title-note": "part 2 of 4",
+      "author": {
+         "authorized": "Hendryx, James B. (James Beardsley), 1880-1963",
+         "lcna": "no95058559"
+       }
+     },
+     {"issue": {"issue-date": "1933-02-10", "volume": "142", "number": "3"},
+      "title": "Raw Gold",
+      "title-note": "part 3 of 4",
+      "author": {
+         "authorized": "Hendryx, James B. (James Beardsley), 1880-1963",
+         "lcna": "no95058559"
+       }
+     },
+     {"issue": {"issue-date": "1933-02-25", "volume": "142", "number": "4"},
+      "title": "Raw Gold",
+      "title-note": "part 4 of 4",
+      "author": {
+         "authorized": "Hendryx, James B. (James Beardsley), 1880-1963",
+         "lcna": "no95058559"
+       }
+     },
+     {"issue": {"issue-date": "1933-04-25", "volume": "143", "number": "2"},
+      "title": "Nailed Down",
+      "author": {
+       "authorized": "Drago, Harry Sinclair, 1888-1979",
+       "lcna": "n50029850"
+      }
+     },
+     {"issue": {"issue-date": "1933-04-25", "volume": "143", "number": "2"},
+      "title": "They Come in Threes",
+      "author": {
+         "authorized": "Pinkerton, Robert E. (Robert Eugene), 1882-1970",
+         "lcna": "no2003073197"
+       }
+     },
+     {"issue": {"issue-date": "1933-06-10", "volume": "143", "number": "5"},
+      "title": "The Herd Keeps On",
+      "author": {
+       "authorized": "Mulford, Clarence Edward, 1883-1956",
+       "lcna": "n50006370"
+      }
+     },
+     {"issue": {"issue-date": "1933-07-10", "volume": "144", "number": "1"},
+      "title": "That Guy Cortes",
+      "author": {
+         "authorized": "Pinkerton, Robert E. (Robert Eugene), 1882-1970",
+         "lcna": "no2003073197"
+       }
+     },
+     {"issue": {"issue-date": "1933-07-25", "volume": "144", "number": "2"},
+      "title": "As Far as the Poles",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1933-08-10", "volume": "144", "number": "3"},
+      "title": "Trail Dust",
+      "author": {
+       "authorized": "Mulford, Clarence Edward, 1883-1956",
+       "lcna": "n50006370"
+      }
+     },
+     {"issue": {"issue-date": "1933-09-10", "volume": "144", "number": "5"},
+      "title": "The Spider",
+      "author": {
+         "authorized": "Pinkerton, Robert E. (Robert Eugene), 1882-1970",
+         "lcna": "no2003073197"
+       }
+     },
+     {"issue": {"issue-date": "1933-09-25", "volume": "144", "number": "6"},
+      "title": "For Some Little Sacks of Gold",
+      "note": "CCE renewal record places this in the October 10 issue, but FictionMags puts it instead in the September 25 issue.  The story title is mentioned on the cover of the September 25 issue as a complete novel.",
+      "author": {
+         "authorized": "Hendryx, James B. (James Beardsley), 1880-1963",
+         "lcna": "no95058559"
+       }
+     },
+     {"issue": {"issue-date": "1933-10-10", "volume": "145", "number": "1"},
+      "title": "Coals of Fire",
+      "author": {
+       "authorized": "Mulford, Clarence Edward, 1883-1956",
+       "lcna": "n50006370"
+      }
+     },
+     {"issue": {"issue-date": "1933-11-10", "volume": "145", "number": "3"},
+      "title": "Dominoes of Death",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1933-11-25", "volume": "145", "number": "4"},
+      "title": "The Decision",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
      }
    ],
-   "comment": "For more contributions, start with 1959 JulDec",
+   "comment": "For more contributions, start with 1961 JanJun",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2026-01-08"
+   "last-updated": "2026-05-30"
 }

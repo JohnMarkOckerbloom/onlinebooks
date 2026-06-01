@@ -1,0 +1,38 @@
+{
+   "title": "Famous Monsters of Filmland",
+   "online": "1",
+   "first-renewed-issue": {"issue-date": "1963-04"},
+   "first-renewed-issue-source": "database",
+   "first-renewed-contribution": {"issue": {"issue-date": "1961-01"}},
+   "first-renewed-contribution-source": "database",
+   "renewed-issue-completeness": "active/autorenewals",
+   "renewed-issues": [
+     {"issue-date": "1963-04"},
+     {"issue-date": "1963-06"},
+     {"issue-date": "1963-08"},
+     {"issue-date": "1963-10"},
+     {"issue-date": "1964-01"}
+   ],
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1961-01"},
+      "title": "Menace Anyone?",
+      "author": {
+        "authorized": "Bloch, Robert, 1917-1994",
+        "lcna": "n50016557"
+      }
+     },
+     {"issue": {"issue-date": "1969-07"},
+      "title": "Dr. Psycho and Mr. Stein",
+      "author": {
+        "authorized": "Bloch, Robert, 1917-1994",
+        "lcna": "n50016557"
+      }
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2026-05-12"
+}

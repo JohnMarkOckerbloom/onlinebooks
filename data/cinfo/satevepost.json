@@ -13,7 +13,7 @@
    "first-renewed-contribution":
      {"issue": {"issue-date": "1931-01-10", "volume": "203", "number": "28"}}, 
    "first-renewed-contribution-source": "1958-JanJun",
-   "renewed-issue-completeness": "active/1935",
+   "renewed-issue-completeness": "active/1936",
    "renewed-issues": [
      {"issue-date": "1931-01-10", "volume": "203", "number": "28",
       "cdate": "1931-01-08"},
@@ -308,10 +308,64 @@
      {"issue-date": "1936-06-13", "volume": "208", "number": "50"},
      {"issue-date": "1936-06-20", "volume": "208", "number": "51"},
      {"issue-date": "1936-06-27", "volume": "208", "number": "52"},
-     {"issue-date": "1936-07-04", "volume": "209", "number": "1"}
+     {"issue-date": "1936-07-04", "volume": "209", "number": "1"},
+     {"issue-date": "1936-07-11", "volume": "209", "number": "2"},
+     {"issue-date": "1936-07-18", "volume": "209", "number": "3"},
+     {"issue-date": "1936-07-25", "volume": "209", "number": "4"},
+     {"issue-date": "1936-08-01", "volume": "209", "number": "5"},
+     {"issue-date": "1936-08-08", "volume": "209", "number": "6"},
+     {"issue-date": "1936-08-15", "volume": "209", "number": "7"},
+     {"issue-date": "1936-08-22", "volume": "209", "number": "8"},
+     {"issue-date": "1936-08-29", "volume": "209", "number": "9"},
+     {"issue-date": "1936-09-05", "volume": "209", "number": "10"},
+     {"issue-date": "1936-09-12", "volume": "209", "number": "11"},
+     {"issue-date": "1936-09-19", "volume": "209", "number": "12"},
+     {"issue-date": "1936-09-26", "volume": "209", "number": "13"},
+     {"issue-date": "1936-10-03", "volume": "209", "number": "14"},
+     {"issue-date": "1936-10-10", "volume": "209", "number": "15"},
+     {"issue-date": "1936-10-17", "volume": "209", "number": "16"},
+     {"issue-date": "1936-10-24", "volume": "209", "number": "17"},
+     {"issue-date": "1936-10-31", "volume": "209", "number": "18"},
+     {"issue-date": "1936-11-07", "volume": "209", "number": "19"},
+     {"issue-date": "1936-11-14", "volume": "209", "number": "20"},
+     {"issue-date": "1936-11-21", "volume": "209", "number": "21"},
+     {"issue-date": "1936-11-28", "volume": "209", "number": "22"},
+     {"issue-date": "1936-12-05", "volume": "209", "number": "23"},
+     {"issue-date": "1936-12-12", "volume": "209", "number": "24"},
+     {"issue-date": "1936-12-19", "volume": "209", "number": "25"},
+     {"issue-date": "1936-12-26", "volume": "209", "number": "26"},
+     {"issue-date": "1937-01-02", "volume": "209", "number": "27",
+      "cdate": "1936-12-29"},
+     {"issue-date": "1937-01-09", "volume": "209", "number": "28",
+      "cdate": "1937-01-05"},
+     {"issue-date": "1937-01-16", "volume": "209", "number": "29"},
+     {"issue-date": "1937-01-23", "volume": "209", "number": "30"},
+     {"issue-date": "1937-01-30", "volume": "209", "number": "31"},
+     {"issue-date": "1937-02-06", "volume": "209", "number": "32"},
+     {"issue-date": "1937-02-13", "volume": "209", "number": "33"},
+     {"issue-date": "1937-02-20", "volume": "209", "number": "34"},
+     {"issue-date": "1937-02-27", "volume": "209", "number": "35"},
+     {"issue-date": "1937-03-06", "volume": "209", "number": "36"},
+     {"issue-date": "1937-03-13", "volume": "209", "number": "37"},
+     {"issue-date": "1937-03-20", "volume": "209", "number": "38"},
+     {"issue-date": "1937-03-27", "volume": "209", "number": "39"},
+     {"issue-date": "1937-04-03", "volume": "209", "number": "40"},
+     {"issue-date": "1937-04-10", "volume": "209", "number": "41"},
+     {"issue-date": "1937-04-17", "volume": "209", "number": "42"},
+     {"issue-date": "1937-04-24", "volume": "209", "number": "43"},
+     {"issue-date": "1937-05-01", "volume": "209", "number": "44"},
+     {"issue-date": "1937-05-08", "volume": "209", "number": "45"},
+     {"issue-date": "1937-05-15", "volume": "209", "number": "46"},
+     {"issue-date": "1937-05-22", "volume": "209", "number": "47"},
+     {"issue-date": "1937-05-29", "volume": "209", "number": "48"},
+     {"issue-date": "1937-06-05", "volume": "209", "number": "49"},
+     {"issue-date": "1937-06-12", "volume": "209", "number": "50"},
+     {"issue-date": "1937-06-19", "volume": "209", "number": "51"},
+     {"issue-date": "1937-06-26", "volume": "209", "number": "52"},
+     {"issue-date": "1937-07-03", "volume": "210", "number": "1"}
    ],
-   "comment": "Pick up issue renewals with 1964.",
-   "renewed-contribution-completeness": "active/1931",
+   "comment": "Pick up issue renewals with 1965.",
+   "renewed-contribution-completeness": "active/1932",
    "renewed-contributions": [
      {"issue": {"issue-date": "1931-01-10", "volume": "203", "number": "28"}, 
       "title": "The Model House",
@@ -1343,6 +1397,14 @@
        }
      },
      {"issue": {"issue-date": "1932-01-30", "volume": "204", "number": "31"}, 
+      "title": "Ranchero",
+      "note": "FictionMags lists this contribution as 'Ranchero: Lovely Land'.",
+      "author": {
+         "authorized": "White, Stewart Edward, 1873-1946",
+         "lcna": "n50020243"
+      }
+     },
+     {"issue": {"issue-date": "1932-01-30", "volume": "204", "number": "31"}, 
       "title": "Miss Pinkerton",
       "title-note": "part 5 of 7",
       "author": {
@@ -1600,6 +1662,14 @@
       }
      },
      {"issue": {"issue-date": "1932-04-09", "volume": "204", "number": "41"}, 
+      "title": "Ranchero",
+      "note": "FictionMags lists this contribution as 'Ranchero: Fiesta''.",
+      "author": {
+         "authorized": "White, Stewart Edward, 1873-1946",
+         "lcna": "n50020243"
+      }
+     },
+     {"issue": {"issue-date": "1932-04-09", "volume": "204", "number": "41"}, 
       "title": "Money Musk. Lady in Peril",
       "title-note": "part 4",
       "note": "Title as stated in CCE renewal record. FictionMags gives title simply as 'Money Musk'.",
@@ -1652,6 +1722,14 @@
         "authorized": "Roberts, Kenneth Lewis, 1885-1957",
         "lcna": "n50048902"
        }
+     },
+     {"issue": {"issue-date": "1932-04-23", "volume": "204", "number": "43"}, 
+      "title": "Ranchero",
+      "note": "FictionMags lists this contribution as 'Ranchero: Merienda''.",
+      "author": {
+         "authorized": "White, Stewart Edward, 1873-1946",
+         "lcna": "n50020243"
+      }
      },
      {"issue": {"issue-date": "1932-04-23", "volume": "204", "number": "43"}, 
       "title": "Cold Blooded Northerner",
@@ -1744,6 +1822,14 @@
        "lcna": "no92015223"
       }
      },
+     {"issue": {"issue-date": "1932-05-07", "volume": "204", "number": "45"}, 
+      "title": "Ranchero",
+      "note": "FictionMags lists this contribution as 'Ranchero: Monterey'.",
+      "author": {
+         "authorized": "White, Stewart Edward, 1873-1946",
+         "lcna": "n50020243"
+      }
+     },
      {"issue": {"issue-date": "1932-05-14", "volume": "204", "number": "46"}, 
        "title": "Fortune Hunter",
        "author": {
@@ -1781,6 +1867,14 @@
       }
      },
      {"issue": {"issue-date": "1932-05-21", "volume": "204", "number": "47"}, 
+      "title": "Ranchero",
+      "note": "FictionMags lists this contribution as 'Ranchero: El Politico'.",
+      "author": {
+         "authorized": "White, Stewart Edward, 1873-1946",
+         "lcna": "n50020243"
+      }
+     },
+     {"issue": {"issue-date": "1932-05-21", "volume": "204", "number": "47"}, 
       "title": "Dancing Lady",
       "title-note": "part 4 of 6",
       "author": {
@@ -1815,6 +1909,14 @@
       "author": {
        "authorized": "Fitzgerald, F. Scott (Francis Scott), 1896-1940",
        "lcna": "n79006871"
+      }
+     },
+     {"issue": {"issue-date": "1932-06-04", "volume": "204", "number": "49"}, 
+      "title": "Ranchero",
+      "note": "FictionMags lists this contribution as 'Ranchero: Casamiento'.",
+      "author": {
+         "authorized": "White, Stewart Edward, 1873-1946",
+         "lcna": "n50020243"
       }
      },
      {"issue": {"issue-date": "1932-06-04", "volume": "204", "number": "49"}, 
@@ -1859,6 +1961,14 @@
       "author": {
        "authorized": "Lardner, Ring, 1885-1933",
        "lcna": "n79023324"
+      }
+     },
+     {"issue": {"issue-date": "1932-06-11", "volume": "204", "number": "50"}, 
+      "title": "Casamiento",
+      "note": "Issue as given in CCE renewal record. FictionMags does not list a 'Casamiento' in thie issue, but does list 'Ranchero: Casamiento' in the June 4 issue.",
+      "author": {
+         "authorized": "White, Stewart Edward, 1873-1946",
+         "lcna": "n50020243"
       }
      },
      {"issue": {"issue-date": "1932-06-18", "volume": "204", "number": "51"}, 
@@ -2126,6 +2236,13 @@
       ]
      },
      {"issue": {"issue-date": "1932-09-17", "volume": "205", "number": "12"}, 
+      "title": "The Point of a Pin",
+      "author": {
+       "authorized": "Chesterton, G. K. (Gilbert Keith), 1874-1936",
+       "lcna": "n79021157"
+      }
+     },
+     {"issue": {"issue-date": "1932-09-17", "volume": "205", "number": "12"}, 
       "title": "More Trouble With the Expense Account",
       "author": {
        "authorized": "Upson, William Hazlett, 1891-1975",
@@ -2352,6 +2469,13 @@
        }
      },
      {"issue": {"issue-date": "1932-11-19", "volume": "205", "number": "21"}, 
+      "title": "The Sedative",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
+     {"issue": {"issue-date": "1932-11-19", "volume": "205", "number": "21"}, 
       "title": "Presenting Lily Mars",
       "title-note": "part 7 of 8",
       "note": "Title as given on cover of October 8 issue. CCE renewal record gives title as 'Lily Mars'.",
@@ -2384,6 +2508,13 @@
          "authorized": "Tarkington, Booth, 1869-1946",
          "lcna": "n79078124"
        }
+     },
+     {"issue": {"issue-date": "1932-12-03", "volume": "205", "number": "23"}, 
+      "title": "Mountain Victory",
+      "author": {
+         "authorized": "Faulkner, William, 1897-1962",
+         "lcna": "n79003304"
+      }
      },
      {"issue": {"issue-date": "1932-12-03", "volume": "205", "number": "23"}, 
       "title": "Tycoon",
@@ -2463,6 +2594,13 @@
       }
      },
      {"issue": {"issue-date": "1932-12-31", "volume": "205", "number": "27"}, 
+      "title": "Whenas in Silks",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
+     {"issue": {"issue-date": "1932-12-31", "volume": "205", "number": "27"}, 
       "title": "Stag Dinner",
       "author": {
        "authorized": "Banning, Margaret Culkin, 1891-1982",
@@ -2506,10 +2644,31 @@
       }
      },
      {"issue": {"issue-date": "1933-01-21", "volume": "205", "number": "30"}, 
+      "title": "Rodney",
+      "author": {
+       "authorized": "Nason, Leonard H. (Leonard Hastings), 1895-1970",
+       "lcna": "no2002077800"
+      }
+     },
+     {"issue": {"issue-date": "1933-01-21", "volume": "205", "number": "30"}, 
       "title": "Nothing Really Rough",
       "author": {
        "authorized": "Banning, Margaret Culkin, 1891-1982",
        "lcna": "n86086096"
+      }
+     },
+     {"issue": {"issue-date": "1933-01-28", "volume": "205", "number": "31"}, 
+      "title": "What Color is That?",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
+     {"issue": {"issue-date": "1933-02-04", "volume": "205", "number": "32"}, 
+      "title": "Pen in Hand",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
       }
      },
      {"issue": {"issue-date": "1933-02-11", "volume": "205", "number": "33"},
@@ -2608,6 +2767,13 @@
       }
      },
      {"issue": {"issue-date": "1933-03-25", "volume": "205", "number": "39"}, 
+      "title": "The Legs of the Lame",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
+     {"issue": {"issue-date": "1933-03-25", "volume": "205", "number": "39"}, 
       "title": "The Duke Comes Back",
       "title-note": "part 4 of 4",
       "author": {
@@ -2623,12 +2789,33 @@
         "lcna": "n50048902"
        }
      },
+     {"issue": {"issue-date": "1933-04-01", "volume": "205", "number": "40"}, 
+      "title": "Old Timer",
+      "author": {
+       "authorized": "Wead, Frank W. (Frank Wilber), 1895-1947",
+       "lcna": "no89017550"
+      }
+     },
+     {"issue": {"issue-date": "1933-04-01", "volume": "205", "number": "40"}, 
+      "title": "Help, I'm Drowning",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
      {"issue": {"issue-date": "1933-04-08", "volume": "205", "number": "41"}, 
       "title": "My Political Career: or When I Helped to Make Laws",
       "author": {
          "authorized": "Tarkington, Booth, 1869-1946",
          "lcna": "n79078124"
        }
+     },
+     {"issue": {"issue-date": "1933-04-08", "volume": "205", "number": "41"}, 
+      "title": "C. Q.",
+      "author": {
+         "authorized": "White, Stewart Edward, 1873-1946",
+         "lcna": "n50020243"
+      }
      },
      {"issue": {"issue-date": "1933-04-22", "volume": "205", "number": "43"}, 
         "title": "The Trapper",
@@ -2659,10 +2846,24 @@
       }
      },
      {"issue": {"issue-date": "1933-05-13", "volume": "205", "number": "46"}, 
+      "title": "Hue and Cry",
+      "author": {
+       "authorized": "Detzer, Karl, 1891-1987",
+       "lcna": "no89012849"
+      }
+     },
+     {"issue": {"issue-date": "1933-05-13", "volume": "205", "number": "46"}, 
       "title": "Mr. Tutt Plays it Both Ways",
       "author": {
        "authorized": "Train, Arthur, 1875-1945",
        "lcna": "n50014661"
+      }
+     },
+     {"issue": {"issue-date": "1933-05-13", "volume": "205", "number": "46"}, 
+      "title": "Chet McAusland of Fraternity",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
       }
      },
      {"issue": {"issue-date": "1933-05-20", "volume": "205", "number": "47"}, 
@@ -2694,6 +2895,14 @@
       }
      },
      {"issue": {"issue-date": "1933-06-17", "volume": "205", "number": "51"},
+      "title": "The Portcullis Room",
+      "title-note": "part 1 of 8",
+      "author": {
+         "authorized": "Williams, Valentine, 1883-1946",
+         "lcna": "no95040150"
+      }
+     },
+     {"issue": {"issue-date": "1933-06-17", "volume": "205", "number": "51"},
       "title": "The Dead Man's Chest",
       "author": {
          "authorized": "Russell, John, 1885-1956",
@@ -2707,11 +2916,497 @@
        "lcna": "n90676728"
       }
      },
+     {"issue": {"issue-date": "1933-06-17", "volume": "205", "number": "51"},
+      "title": "Plowshares",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
+     {"issue": {"issue-date": "1933-06-24", "volume": "205", "number": "52"},
+      "title": "The Terrible Shyness of Orvie Stone",
+      "author": {
+         "authorized": "Tarkington, Booth, 1869-1946",
+         "lcna": "n79078124"
+       }
+     },
+     {"issue": {"issue-date": "1933-06-24", "volume": "205", "number": "52"},
+      "title": "More than Just a House",
+      "author": {
+       "authorized": "Fitzgerald, F. Scott (Francis Scott), 1896-1940",
+       "lcna": "n79006871"
+      }
+     },
+     {"issue": {"issue-date": "1933-06-24", "volume": "205", "number": "52"},
+      "title": "Full Measure",
+      "author": {
+         "authorized": "Grant, James Edward, 1905-1966",
+         "lcna": "n87916731"
+      }
+     },
      {"issue": {"issue-date": "1933-06-24", "volume": "205", "number": "52"},
       "title": "Ergophobia",
       "author": {
        "authorized": "Upson, William Hazlett, 1891-1975",
        "lcna": "n90676728"
+      }
+     },
+     {"issue": {"issue-date": "1933-07-01", "volume": "206", "number": "1"}, 
+      "title": "Wampee",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
+     {"issue": {"issue-date": "1933-07-08", "volume": "206", "number": "2"}, 
+      "title": "Mr. Tutt is No Gentleman",
+      "author": {
+       "authorized": "Train, Arthur, 1875-1945",
+       "lcna": "n50014661"
+      }
+     },
+     {"issue": {"issue-date": "1933-07-08", "volume": "206", "number": "2"}, 
+      "title": "Still Small Voice",
+      "author": {
+       "authorized": "Detzer, Karl, 1891-1987",
+       "lcna": "no89012849"
+      }
+     },
+     {"issue": {"issue-date": "1933-07-22", "volume": "206", "number": "4"}, 
+      "title": "Do You Play the Ponies?",
+      "author": {
+        "authorized": "Gallico, Paul, 1897-1976",
+        "lcna": "n79114016"
+      }
+     },
+     {"issue": {"issue-date": "1933-07-29", "volume": "206", "number": "5"}, 
+      "title": "Mr. Tutt Swandangles the Squire",
+      "author": {
+       "authorized": "Train, Arthur, 1875-1945",
+       "lcna": "n50014661"
+      }
+     },
+     {"issue": {"issue-date": "1933-08-05", "volume": "206", "number": "6"}, 
+      "title": "Adventure's End",
+      "title-note": "part 1 of 3",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
+     {"issue": {"issue-date": "1933-08-05", "volume": "206", "number": "6"}, 
+      "title": "The Portcullis Room",
+      "title-note": "part 8 of 8",
+      "author": {
+         "authorized": "Williams, Valentine, 1883-1946",
+         "lcna": "no95040150"
+      }
+     },
+     {"issue": {"issue-date": "1933-08-12", "volume": "206", "number": "7"}, 
+      "title": "Little Marie From Kansas City",
+      "author": {
+         "authorized": "Tarkington, Booth, 1869-1946",
+         "lcna": "n79078124"
+       }
+     },
+     {"issue": {"issue-date": "1933-08-12", "volume": "206", "number": "7"}, 
+      "title": "McKabe",
+      "author": {
+        "authorized": "Gallico, Paul, 1897-1976",
+        "lcna": "n79114016"
+      }
+     },
+     {"issue": {"issue-date": "1933-08-12", "volume": "206", "number": "7"}, 
+      "title": "Adventure's End",
+      "title-note": "part 2 of 3",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
+     {"issue": {"issue-date": "1933-08-19", "volume": "206", "number": "8"}, 
+      "title": "Adventure's End",
+      "title-note": "part 3 of 3",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
+     {"issue": {"issue-date": "1933-08-26", "volume": "206", "number": "9"}, 
+      "title": "The Twelfth Baronet",
+      "author": {
+       "authorized": "Johnson, Nunnally",
+       "lcna": "n79134929"
+      }
+     },
+     {"issue": {"issue-date": "1933-09-02", "volume": "206", "number": "10"}, 
+      "title": "Mr. Tutt Has a Hunch",
+      "author": {
+       "authorized": "Train, Arthur, 1875-1945",
+       "lcna": "n50014661"
+      }
+     },
+     {"issue": {"issue-date": "1933-09-02", "volume": "206", "number": "10"}, 
+      "title": "Outsize",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
+     {"issue": {"issue-date": "1933-09-02", "volume": "206", "number": "10"}, 
+      "title": "Parable for Sports Writers, Society Columnists, Bond Salesmen and Poets; or, Go Get a Reputation",
+      "author": {
+         "authorized": "Nash, Ogden, 1902-1971",
+         "lcna": "n79134950"
+       }
+     },
+     {"issue": {"issue-date": "1933-09-09", "volume": "206", "number": "11"}, 
+      "title": "My Ming Collection",
+      "author": {
+         "authorized": "White, Stewart Edward, 1873-1946",
+         "lcna": "n50020243"
+      }
+     },
+     {"issue": {"issue-date": "1933-09-16", "volume": "206", "number": "12"}, 
+      "title": "Saturday's Millions",
+      "title-note": "part 1 of 3",
+      "author": {
+         "authorized": "Cary, Lucian, 1886-1971",
+         "lcna": "no90003387"
+       }
+     },
+     {"issue": {"issue-date": "1933-09-16", "volume": "206", "number": "12"}, 
+      "title": "The Bagpipes of Spring",
+      "author": {
+       "authorized": "Benét, Stephen Vincent, 1898-1943",
+       "lcna": "n50007691"
+      }
+     },
+     {"issue": {"issue-date": "1933-09-16", "volume": "206", "number": "12"}, 
+      "title": "Pardon My Mistake",
+      "author": {
+       "authorized": "Train, Arthur, 1875-1945",
+       "lcna": "n50014661"
+      }
+     },
+     {"issue": {"issue-date": "1933-09-16", "volume": "206", "number": "12"}, 
+      "title": "I Got Shoes",
+      "note": "Issue as stated in CCE renewal record. FictionMags puts this instead in the September 23 issue. We have not examined the issues in question.",
+      "author": {
+       "authorized": "Fitzgerald, F. Scott (Francis Scott), 1896-1940",
+       "lcna": "n79006871"
+      }
+     },
+     {"issue": {"issue-date": "1933-09-23", "volume": "206", "number": "13"}, 
+      "title": "The Statue in the Swamp",
+      "author": {
+       "authorized": "Upson, William Hazlett, 1891-1975",
+       "lcna": "n90676728"
+      }
+     },
+     {"issue": {"issue-date": "1933-09-23", "volume": "206", "number": "13"}, 
+      "title": "I Got Shoes",
+      "note": "Issue as stated in FictionMags. CCE renewal record puts this instead in the September 16 issue. We have not examined the issues in question.",
+      "author": {
+       "authorized": "Fitzgerald, F. Scott (Francis Scott), 1896-1940",
+       "lcna": "n79006871"
+      }
+     },
+     {"issue": {"issue-date": "1933-09-23", "volume": "206", "number": "13"}, 
+        "title": "Alligators",
+        "author": {
+         "authorized": "Rawlings, Marjorie Kinnan, 1896-1953",
+         "lcna": "n50054037"
+        }
+     },
+     {"issue": {"issue-date": "1933-09-23", "volume": "206", "number": "13"}, 
+      "title": "Saturday's Millions",
+      "title-note": "part 2 of 3",
+      "author": {
+         "authorized": "Cary, Lucian, 1886-1971",
+         "lcna": "no90003387"
+       }
+     },
+     {"issue": {"issue-date": "1933-09-30", "volume": "206", "number": "14"}, 
+      "title": "Murder in the Calais Coach",
+      "title-note": "part 1 of 6",
+      "author": {
+         "authorized": "Christie, Agatha, 1890-1976",
+         "lcna": "n79038407"
+       }
+     },
+     {"issue": {"issue-date": "1933-09-30", "volume": "206", "number": "14"}, 
+      "title": "Little Orvie's New Dog, Ralph",
+      "author": {
+         "authorized": "Tarkington, Booth, 1869-1946",
+         "lcna": "n79078124"
+       }
+     },
+     {"issue": {"issue-date": "1933-09-30", "volume": "206", "number": "14"}, 
+      "title": "Let Rome Burn",
+      "author": {
+         "authorized": "Hale, Agnes Burke",
+         "lcna": "no97070814"
+       }
+     },
+     {"issue": {"issue-date": "1933-09-30", "volume": "206", "number": "14"}, 
+      "title": "Saturday's Millions",
+      "title-note": "part 3 of 3",
+      "author": {
+         "authorized": "Cary, Lucian, 1886-1971",
+         "lcna": "no90003387"
+       }
+     },
+     {"issue": {"issue-date": "1933-09-30", "volume": "206", "number": "14"}, 
+      "title": "The Inferiority Jib",
+      "author": {
+       "name": "Charles Rawlings"
+      }
+     },
+     {"issue": {"issue-date": "1933-10-07", "volume": "206", "number": "15"}, 
+        "title": "Courtship of My Cousin Doone",
+        "title-note": "part 1 of 2",
+        "author": {
+         "authorized": "Edmonds, Walter D. (Walter Dumaux), 1903-1998",
+         "lcna": "n79083990"
+        }
+     },
+     {"issue": {"issue-date": "1933-10-07", "volume": "206", "number": "15"}, 
+      "title": "When Greek Meets Greek",
+      "author": {
+         "authorized": "Raine, Norman Reilly, 1895-1971",
+         "lcna": "n85342738"
+      }
+     },
+     {"issue": {"issue-date": "1933-10-07", "volume": "206", "number": "15"}, 
+      "title": "Murder in the Calais Coach",
+      "title-note": "part 2 of 6",
+      "author": {
+         "authorized": "Christie, Agatha, 1890-1976",
+         "lcna": "n79038407"
+       }
+     },
+     {"issue": {"issue-date": "1933-10-14", "volume": "206", "number": "16"}, 
+       "title": "Number One Good Girl",
+       "author": {
+         "authorized": "Marquand, John P. (John Phillips), 1893-1960",
+         "lcna": "n79061320"
+       }
+     },
+     {"issue": {"issue-date": "1933-10-14", "volume": "206", "number": "16"}, 
+      "title": "How's Your Sacr-Iliac",
+      "author": {
+         "authorized": "Nash, Ogden, 1902-1971",
+         "lcna": "n79134950"
+       }
+     },
+     {"issue": {"issue-date": "1933-10-14", "volume": "206", "number": "16"}, 
+      "title": "Murder in the Calais Coach",
+      "title-note": "part 3 of 6",
+      "author": {
+         "authorized": "Christie, Agatha, 1890-1976",
+         "lcna": "n79038407"
+       }
+     },
+     {"issue": {"issue-date": "1933-10-14", "volume": "206", "number": "16"}, 
+        "title": "Courtship of My Cousin Doone",
+        "title-note": "part 2 of 2",
+        "author": {
+         "authorized": "Edmonds, Walter D. (Walter Dumaux), 1903-1998",
+         "lcna": "n79083990"
+        }
+     },
+     {"issue": {"issue-date": "1933-10-21", "volume": "206", "number": "17"}, 
+        "title": "Honor of the County",
+        "author": {
+         "authorized": "Edmonds, Walter D. (Walter Dumaux), 1903-1998",
+         "lcna": "n79083990"
+        }
+     },
+     {"issue": {"issue-date": "1933-10-21", "volume": "206", "number": "17"}, 
+        "title": "The Gravy Game",
+        "authors": [
+         {"name": "Harry Stuhldreher"},
+         {"authorized": "Martin, Pete, 1901-1980",
+          "using": "Thornton Martin",
+          "lcna": "n81055166"
+         }
+        ]
+     },
+     {"issue": {"issue-date": "1933-10-21", "volume": "206", "number": "17"}, 
+      "title": "Murder in the Calais Coach",
+      "title-note": "part 4 of 6",
+      "author": {
+         "authorized": "Christie, Agatha, 1890-1976",
+         "lcna": "n79038407"
+       }
+     },
+     {"issue": {"issue-date": "1933-10-28", "volume": "206", "number": "18"}, 
+      "title": "Little Orvie's Grandma's Error",
+      "author": {
+         "authorized": "Tarkington, Booth, 1869-1946",
+         "lcna": "n79078124"
+       }
+     },
+     {"issue": {"issue-date": "1933-10-28", "volume": "206", "number": "18"}, 
+       "title": "Lady of the Evening",
+       "author": {
+        "authorized": "Bradley, Mary Hastings",
+        "lcna": "no92028910"
+       }
+     },
+     {"issue": {"issue-date": "1933-10-28", "volume": "206", "number": "18"}, 
+      "title": "Murder in the Calais Coach",
+      "title-note": "part 5 of 6",
+      "author": {
+         "authorized": "Christie, Agatha, 1890-1976",
+         "lcna": "n79038407"
+       }
+     },
+     {"issue": {"issue-date": "1933-11-04", "volume": "206", "number": "19"}, 
+      "title": "The Family Bus",
+      "author": {
+       "authorized": "Fitzgerald, F. Scott (Francis Scott), 1896-1940",
+       "lcna": "n79006871"
+      }
+     },
+     {"issue": {"issue-date": "1933-11-04", "volume": "206", "number": "19"}, 
+      "title": "Managing Editor",
+      "author": {
+        "authorized": "Gallico, Paul, 1897-1976",
+        "lcna": "n79114016"
+      }
+     },
+     {"issue": {"issue-date": "1933-11-04", "volume": "206", "number": "19"}, 
+      "title": "Murder in the Calais Coach",
+      "title-note": "part 6 of 6",
+      "author": {
+         "authorized": "Christie, Agatha, 1890-1976",
+         "lcna": "n79038407"
+       }
+     },
+     {"issue": {"issue-date": "1933-11-11", "volume": "206", "number": "20"}, 
+      "title": "The Perfect Pair",
+      "title-note": "part 1 of 6",
+      "note": "Title as given on issue cover.  CCE renewal record gives title as 'The Perfect Pain'.",
+      "author": {
+       "authorized": "Montross, Lois, 1897-",
+       "lcna": "no00011176"
+      }
+     },
+     {"issue": {"issue-date": "1933-11-11", "volume": "206", "number": "20"}, 
+      "title": "Co-operation",
+      "author": {
+       "authorized": "Upson, William Hazlett, 1891-1975",
+       "lcna": "n90676728"
+      }
+     },
+     {"issue": {"issue-date": "1933-11-11", "volume": "206", "number": "20"}, 
+      "title": "One Good Turn",
+      "author": {
+       "authorized": "Detzer, Karl, 1891-1987",
+       "lcna": "no89012849"
+      }
+     },
+     {"issue": {"issue-date": "1933-11-18", "volume": "206", "number": "21"}, 
+      "title": "The Perfect Pair",
+      "title-note": "part 2 of 6",
+      "note": "Title as given on first installment's issue cover.  CCE renewal record gives title as 'The Perfect Pain'.",
+      "author": {
+       "authorized": "Montross, Lois, 1897-",
+       "lcna": "no00011176"
+      }
+     },
+     {"issue": {"issue-date": "1933-11-18", "volume": "206", "number": "21"}, 
+       "title": "A Few Remarks on Exercises",
+       "author": {
+        "authorized": "Roberts, Kenneth Lewis, 1885-1957",
+        "lcna": "n50048902"
+       }
+     },
+     {"issue": {"issue-date": "1933-11-18", "volume": "206", "number": "21"}, 
+      "title": "There's More Time at the Top; or, I Want to See Mr. Murgatroyd",
+      "author": {
+         "authorized": "Nash, Ogden, 1902-1971",
+         "lcna": "n79134950"
+       }
+     },
+     {"issue": {"issue-date": "1933-11-25", "volume": "206", "number": "22"}, 
+       "title": "Emergency Exit",
+       "author": {
+        "authorized": "Bradley, Mary Hastings",
+        "lcna": "no92028910"
+       }
+     },
+     {"issue": {"issue-date": "1933-11-25", "volume": "206", "number": "22"}, 
+      "title": "Little Orvie and Big Birdie",
+      "author": {
+         "authorized": "Tarkington, Booth, 1869-1946",
+         "lcna": "n79078124"
+       }
+     },
+     {"issue": {"issue-date": "1933-11-25", "volume": "206", "number": "22"}, 
+      "title": "The Perfect Pair",
+      "title-note": "part 3 of 6",
+      "note": "Title as given on first installment's issue cover.  CCE renewal record gives title as 'The Perfect Pain'.",
+      "author": {
+       "authorized": "Montross, Lois, 1897-",
+       "lcna": "no00011176"
+      }
+     },
+     {"issue": {"issue-date": "1933-12-02", "volume": "206", "number": "23"}, 
+      "title": "Death Isn't Necessary",
+      "author": {
+        "authorized": "Gallico, Paul, 1897-1976",
+        "lcna": "n79114016"
+      }
+     },
+     {"issue": {"issue-date": "1933-12-02", "volume": "206", "number": "23"}, 
+      "title": "The Perfect Pair",
+      "title-note": "part 4 of 6",
+      "note": "Title as given on first installment's issue cover.  CCE renewal record gives title as 'The Perfect Pain'.",
+      "author": {
+       "authorized": "Montross, Lois, 1897-",
+       "lcna": "no00011176"
+      }
+     },
+     {"issue": {"issue-date": "1933-12-09", "volume": "206", "number": "24"}, 
+      "title": "The Perfect Pair",
+      "title-note": "part 5 of 6",
+      "note": "Title as given on first installment's issue cover.  CCE renewal record gives title as 'The Perfect Pain'.",
+      "author": {
+       "authorized": "Montross, Lois, 1897-",
+       "lcna": "no00011176"
+      }
+     },
+     {"issue": {"issue-date": "1933-12-16", "volume": "206", "number": "25"}, 
+      "title": "The Last Laugh",
+      "author": {
+         "authorized": "Raine, Norman Reilly, 1895-1971",
+         "lcna": "n85342738"
+      }
+     },
+     {"issue": {"issue-date": "1933-12-16", "volume": "206", "number": "25"}, 
+       "title": "Winter Harvest",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1933-12-16", "volume": "206", "number": "25"}, 
+      "title": "The Perfect Pair",
+      "title-note": "part 6 of 6",
+      "note": "Title as given on first installment's issue cover.  CCE renewal record gives title as 'The Perfect Pain'.",
+      "author": {
+       "authorized": "Montross, Lois, 1897-",
+       "lcna": "no00011176"
+      }
+     },
+     {"issue": {"issue-date": "1933-12-30", "volume": "206", "number": "27"}, 
+      "title": "The Great Pennyworth",
+      "author": {
+       "authorized": "Banning, Margaret Culkin, 1891-1982",
+       "lcna": "n86086096"
       }
      },
      {"issue": {"issue-date": "1950-04-08", "volume": "222", "number": "41"},
@@ -2765,12 +3460,12 @@
       }
      }
    ],
-   "comment": "Pick up contributions with 1960 Jan-Jun: WHITE, STEWART EDWARD",
+   "comment": "Pick up contributions with 1961 Jan-Jun",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
    "acknowledgement": 
       "Thanks to Felice Gollotti for copyright research on this title.",
-   "last-updated": "2026-04-26"
+   "last-updated": "2026-05-29"
 }

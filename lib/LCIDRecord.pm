@@ -23,6 +23,7 @@ sub _readjsonfile {
     $str .= $_;
   }
   close $fh;
+  # print "String length is " . length($str) . "\n";
   return $self->{parser}->decode($str);
 }
 
@@ -92,6 +93,9 @@ sub get_rwo_id {
 # The occupations are the string values of the IDs referred to
 #  by the occupations property of the name's real world object
 
+# For the moment, we're only getting LCSH occupations, not demographic terms
+#  occupations
+
 sub get_occupations {
   my ($self, %params) = @_;
   my $rwo = $self->get_rwo_id();
@@ -107,6 +111,20 @@ sub get_occupations {
     my $str = _authoritative_label($refjson, $LCSUBPREFIX, "en");
     if ($str) {
       push @occupations, $str;
+    } elsif ($ref =~ /^_/) {
+      # it's a blank node; go down another label
+      my $blankrefjson = _get_element_with_id($json, $ref);
+      if ($blankrefjson) {
+        my $blankoccrefref = $blankrefjson->{$OCCUPATIONPROPERTY};
+        my @blankoccrefs = _ids_from_array($blankoccrefref);
+        foreach my $blankref (@blankoccrefs) {
+          my $brefjson = _get_element_with_id($json, $blankref);
+          my $bstr = _authoritative_label($brefjson, $LCSUBPREFIX, "en");
+          if ($bstr) {
+            push @occupations, $bstr;
+          }
+        }
+      }
     }
   }
   # print "I found these occupations: ".  join("; ", @occupations) . "\n";

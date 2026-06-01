@@ -1,9 +1,9 @@
 {
    "title": "The Physical Review Supplement",
-   "first-renewed-issue": "none",
-   "first-renewed-issue-source": "cce",
-   "first-renewed-contribution": "none",
-   "first-renewed-contribution-source": "cce",
+   "online": "1",
+   "first-issue": {"issue-date": "1929-07", "volume": "1", "number": "1"},
+   "rights-statement": "NoC-US",
+   "last-issue": {"issue-date": "1929-10", "volume": "1", "number": "2"},
    "succeeded-by": [{"id": "revmodphys", "note": "Reviews of Modern Physics"}],
    "see-also": [{"id": "physicalreview", "note": "Physical Review"}],
    "responsibility": {
@@ -12,5 +12,5 @@
    },
    "acknowledgement": 
       "Thanks to Felice Gollotti for copyright research on this title.",
-   "last-updated": "2023-11-07"
+   "last-updated": "2026-05-28"
 }

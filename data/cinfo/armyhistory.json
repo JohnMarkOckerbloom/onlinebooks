@@ -1,11 +1,12 @@
 {
    "title": "Army History",
    "online": "1",
+   "preceded-by": [{"id": "armyhistorian", "note": "The Army Historian"}],
    "rights-statement": "NoC-US",
    "additional-note": "The Center of Military History, which produces this periodical, is a US government organization. Works by its employees, and by other US military personnel, in the course of their employment, should be in the public domain; however, contributions from other authors and artists might not be.  Check for copyright notices or external attributions on content you might wish to reproduce or reuse.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2026-04-24"
+   "last-updated": "2026-05-20"
 }

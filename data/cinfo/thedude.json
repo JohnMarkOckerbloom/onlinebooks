@@ -1,0 +1,136 @@
+{
+   "title": "The Dude",
+   "online": "1",
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/FMI/link.asp?magid=DUD",
+       "note": "FictionMags (partial)"}
+   ],
+   "first-issue": 
+     {"issue-date": "1956-08", "volume": "1", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "database",
+   "first-renewed-contribution": 
+     {"issue": {"issue-date": "1956-08", "volume": "1", "number": "1"}},
+   "first-renewed-contribution-source": "database",
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1956-08", "volume": "1", "number": "1"},
+      "title": "Bud Perry's First Wife",
+      "author": {
+       "authorized": "Caldwell, Erskine, 1903-1987",
+       "lcna": "n78095661"
+      }
+     },
+     {"issue": {"issue-date": "1956-11", "volume": "1", "number": "2"},
+       "title": "Both Ends of the Candle",
+       "author": {
+         "authorized": "Ellison, Harlan",
+         "lcna": "n50010025"
+       }
+     },
+     {"issue": {"issue-date": "1957-01", "volume": "1", "number": "3"},
+       "title": "The Bohemia of Arthur Archer",
+       "author": {
+         "authorized": "Ellison, Harlan",
+         "lcna": "n50010025"
+       }
+     },
+     {"issue": {"issue-date": "1957-03", "volume": "1", "number": "4"},
+       "title": "God Bless the Ugly Virgin",
+       "author": {
+         "authorized": "Ellison, Harlan",
+         "lcna": "n50010025"
+       }
+     },
+     {"issue": {"issue-date": "1957-07", "volume": "1", "number": "6"},
+       "title": "A Question of Character",
+       "note": "While there was no renewal filed specifically for this contribution, it is reprinted from the book 'The Age of Reason', which has an active renewed 1947 copyright.",
+       "author": {
+         "authorized": "Sartre, Jean-Paul, 1905-1980",
+         "lcna": "n79106134"
+       },
+       "translator": {
+         "authorized": "Sutton, Eric",
+         "lcna": "n84239212"
+       }
+     },
+     {"issue": {"issue-date": "1957-11", "volume": "2", "number": "2"},
+       "title": "The Sleeper Awakened",
+       "note": "While there was no renewal filed specifically for this contribution, it is reprinted from the book 'Earthly Creatures', which has an active renewed 1953 copyright.",
+       "author": {
+         "authorized": "Jackson, Charles, 1903-1968",
+         "lcna": "n86069287"
+       }
+     },
+     {"issue": {"issue-date": "1958-05", "volume": "2", "number": "5"}, 
+        "title": "Knight and the Hag",
+        "author": {
+         "authorized": "Cassill, R. V. (Ronald Verlin), 1919-2002",
+         "lcna": "n80079531"
+        }
+     },
+     {"issue": {"issue-date": "1958-07", "volume": "2", "number": "6"}, 
+        "title": "May He Roast in Peace",
+        "author": {
+         "authorized": "Cassill, R. V. (Ronald Verlin), 1919-2002",
+         "lcna": "n80079531",
+         "using": "Con Everling"
+        }
+     },
+     {"issue": {"issue-date": "1958-09", "volume": "3", "number": "1"}, 
+      "title": "The Ultimate Accessory",
+      "author": {
+        "authorized": "St. Clair, Margaret",
+        "lcna": "n85038071"
+      }
+     },
+     {"issue": {"issue-date": "1959-09", "volume": "4", "number": "1"}, 
+        "title": "The Chandelier",
+        "author": {
+         "authorized": "Cassill, R. V. (Ronald Verlin), 1919-2002",
+         "lcna": "n80079531"
+        }
+     },
+     {"issue": {"issue-date": "1960-11", "volume": "5", "number": "2"}, 
+      "title": "The Prude and the Beauty",
+      "author": {
+        "authorized": "Tenn, William, 1920-2010",
+        "lcna": "n88651363"
+      }
+     },
+     {"issue": {"issue-date": "1961-01", "volume": "5", "number": "3"},
+      "title": "Memo to a Movie Maker",
+        "author": {
+        "authorized": "Bloch, Robert, 1917-1994",
+        "lcna": "n50016557"
+      }
+     },
+     {"issue": {"issue-date": "1961-07", "volume": "5", "number": "6"},
+      "title": "The Retreat",
+      "author": {
+        "authorized": "Barrett, Neal, Jr., 1929-2014",
+        "lcna": "n86066373"
+      }
+     },
+     {"issue": {"issue-date": "1962-09", "volume": "7", "number": "1"},
+      "title": "Malice Toward One",
+      "author": {
+        "authorized": "Goodrich, David L.",
+        "lcna": "nr94021250"
+      }
+     },
+     {"issue": {"issue-date": "1963-03", "volume": "7", "number": "4"},
+      "title": "The Valley of Good News",
+      "author": {
+        "authorized": "Slesar, Henry",
+        "lcna": "n87844215"
+      }
+     }
+   ],
+   "additional-note": "This listing includes all renewals filed that specifically mention this magazine, but we have not systematically checked the copyright status of stories that were reprinted from other publications.  Some early issues of this magazine included such reprints (only some of which are noted here).  Check the status of any such reprints credited on an issue's masthead page, or mentioned in the FictionMags listings.",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2026-05-19"
+}

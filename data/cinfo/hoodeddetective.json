@@ -5,15 +5,17 @@
       {"url": "http://www.philsp.com/homeville/CFI/link.asp?magid=HDE",
        "note": "FictionMags Index"}
    ],
+   "first-issue": {"issue-date": "1941-11", "volume": "3", "number": "1"},
    "first-renewed-issue":  "none",
    "first-renewed-issue-source": "cce",
    "first-renewed-contribution":  "none",
-   "first-renewed-issue-source": "cce",
+   "first-renewed-contribution-source": "cce",
+   "last-issue": {"issue-date": "1942-01", "volume": "3", "number": "2"},
    "succeeded-by":
       [{"id": "crackdetective", "note": "Crack Detective Stories"}],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2026-03-16"
+   "last-updated": "2026-05-09"
 }

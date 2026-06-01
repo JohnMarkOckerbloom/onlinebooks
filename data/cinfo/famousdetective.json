@@ -1,0 +1,98 @@
+{
+   "title": "Famous Detective Stories",
+   "aka": ["Famous Detective"],
+   "online": "1",
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/CFI/link.asp?magid=FAMDT",
+       "note": "FictionMags"}
+   ],
+   "preceded-by":
+      [{"id": "crackdetective", "note": "Crack Detective Stories"}],
+   "first-issue": {"issue-date": "1949-11", "volume": "10", "number": "5"}, 
+   "first-renewed-issue":  "none",
+   "first-renewed-issue-source": "cce+database",
+   "first-renewed-contribution":
+     {"issue": {"issue-date": "1953-05", "volume": "13", "number": "2"}},
+   "first-renewed-contribution-source": "database",
+   "last-issue": {"issue-date": "1956-10", "volume": "16", "number": "3"}, 
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1953-05", "volume": "13", "number": "2"}, 
+      "title": "Two for One",
+      "note": "Issue as stated in FictionMags.  Renewal record instead puts this story in the August 1953 issue.  We have not examined the issues in question.",
+      "author": {
+        "authorized": "Tenn, William, 1920-2010",
+        "lcna": "n88651363"
+      }
+     },
+     {"issue": {"issue-date": "1953-08", "volume": "13", "number": "3"}, 
+      "title": "Two for One",
+      "note": "Issue as stated in renewal record.  FictionMags instead puts this story in the May 1953 issue.  We have not examined the issues in question.",
+      "author": {
+        "authorized": "Tenn, William, 1920-2010",
+        "lcna": "n88651363"
+      }
+     },
+     {"issue": {"issue-date": "1953-11", "volume": "13", "number": "4"},
+      "title": "You Can't Fix Murder",
+      "author": {
+       "authorized": "Deming, Richard, 1915-1983",
+       "lcna": "n79144748"
+      }
+     },
+     {"issue": {"issue-date": "1955-12", "volume": "15", "number": "4"},
+      "title": "Village of the Dead",
+      "author": {
+        "authorized": "Hoch, Edward D., 1930-2008",
+        "lcna": "n78089006"
+      }
+     },
+     {"issue": {"issue-date": "1956-02", "volume": "15", "number": "5"},
+      "title": "The Hoofs of Satan",
+      "author": {
+        "authorized": "Hoch, Edward D., 1930-2008",
+        "lcna": "n78089006"
+      }
+     },
+     {"issue": {"issue-date": "1956-04", "volume": "15", "number": "6"},
+      "title": "The Witch is Dead",
+      "author": {
+        "authorized": "Hoch, Edward D., 1930-2008",
+        "lcna": "n78089006"
+      }
+     },
+     {"issue": {"issue-date": "1956-06", "volume": "16", "number": "1"},
+      "title": "The Diamond",
+      "author": {
+        "authorized": "Porges, Arthur, 1915-2006",
+        "lcna": "no2010083924"
+      }
+     },
+     {"issue": {"issue-date": "1956-06", "volume": "16", "number": "1"},
+      "title": "The Man From Nowhere",
+      "author": {
+        "authorized": "Hoch, Edward D., 1930-2008",
+        "lcna": "n78089006"
+      }
+     },
+     {"issue": {"issue-date": "1956-08", "volume": "16", "number": "2"},
+      "title": "The Vicar of Hell",
+      "author": {
+        "authorized": "Hoch, Edward D., 1930-2008",
+        "lcna": "n78089006"
+      }
+     },
+     {"issue": {"issue-date": "1956-10", "volume": "16", "number": "3"},
+      "title": "The Wolves of Werclaw",
+      "author": {
+        "authorized": "Hoch, Edward D., 1930-2008",
+        "lcna": "n78089006"
+      }
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2026-05-09"
+}

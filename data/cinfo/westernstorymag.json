@@ -13,7 +13,7 @@
    "first-renewed-contribution":
      {"issue": {"issue-date": "1931-01-10", "volume": "101", "number": "2"}},
    "first-renewed-contribution-source": "1958-JanJun",
-   "renewed-issue-completeness": "active/1935",
+   "renewed-issue-completeness": "active/1936",
    "renewed-issues": [
        {"issue-date": "1931-01-10", "volume": "101", "number": "2",
         "cdate": "1931-01-02"},
@@ -336,9 +336,64 @@
        {"issue-date": "1936-11-14", "volume": "152", "number": "1"},
        {"issue-date": "1936-11-21", "volume": "152", "number": "2"},
        {"issue-date": "1936-11-28", "volume": "152", "number": "3"},
-       {"issue-date": "1936-12-05", "volume": "152", "number": "4"}
+       {"issue-date": "1936-12-05", "volume": "152", "number": "4"},
+       {"issue-date": "1936-12-12", "volume": "152", "number": "5"},
+       {"issue-date": "1936-12-19", "volume": "152", "number": "6"},
+       {"issue-date": "1936-12-26", "volume": "153", "number": "1"},
+       {"issue-date": "1937-01-02", "volume": "153", "number": "2",
+        "cdate": "1936-12-24"},
+       {"issue-date": "1937-01-09", "volume": "153", "number": "3",
+        "cdate": "1936-12-31"},
+       {"issue-date": "1937-01-16", "volume": "153", "number": "4",
+        "cdate": "1937-01-08"},
+       {"issue-date": "1937-01-23", "volume": "153", "number": "5"},
+       {"issue-date": "1937-01-30", "volume": "153", "number": "6"},
+       {"issue-date": "1937-02-06", "volume": "154", "number": "1"},
+       {"issue-date": "1937-02-13", "volume": "154", "number": "2"},
+       {"issue-date": "1937-02-20", "volume": "154", "number": "3"},
+       {"issue-date": "1937-02-27", "volume": "154", "number": "4"},
+       {"issue-date": "1937-03-06", "volume": "154", "number": "5"},
+       {"issue-date": "1937-03-13", "volume": "154", "number": "6"},
+       {"issue-date": "1937-03-20", "volume": "155", "number": "1"},
+       {"issue-date": "1937-03-27", "volume": "155", "number": "2"},
+       {"issue-date": "1937-04-03", "volume": "155", "number": "3"},
+       {"issue-date": "1937-04-10", "volume": "155", "number": "4"},
+       {"issue-date": "1937-04-17", "volume": "155", "number": "5"},
+       {"issue-date": "1937-04-24", "volume": "155", "number": "6"},
+       {"issue-date": "1937-05-01", "volume": "156", "number": "1"},
+       {"issue-date": "1937-05-08", "volume": "156", "number": "2"},
+       {"issue-date": "1937-05-15", "volume": "156", "number": "3"},
+       {"issue-date": "1937-05-22", "volume": "156", "number": "4"},
+       {"issue-date": "1937-05-29", "volume": "156", "number": "5"},
+       {"issue-date": "1937-06-05", "volume": "156", "number": "6"},
+       {"issue-date": "1937-06-12", "volume": "157", "number": "1"},
+       {"issue-date": "1937-06-19", "volume": "157", "number": "2"},
+       {"issue-date": "1937-06-26", "volume": "157", "number": "3"},
+       {"issue-date": "1937-07-03", "volume": "157", "number": "4"},
+       {"issue-date": "1937-07-10", "volume": "157", "number": "5"},
+       {"issue-date": "1937-07-17", "volume": "157", "number": "6"},
+       {"issue-date": "1937-07-24", "volume": "158", "number": "1"},
+       {"issue-date": "1937-07-31", "volume": "158", "number": "2"},
+       {"issue-date": "1937-08-07", "volume": "158", "number": "3"},
+       {"issue-date": "1937-08-14", "volume": "158", "number": "4"},
+       {"issue-date": "1937-08-21", "volume": "158", "number": "5"},
+       {"issue-date": "1937-08-28", "volume": "158", "number": "6"},
+       {"issue-date": "1937-09-04", "volume": "159", "number": "1"},
+       {"issue-date": "1937-09-11", "volume": "159", "number": "2"},
+       {"issue-date": "1937-09-18", "volume": "159", "number": "3"},
+       {"issue-date": "1937-09-25", "volume": "159", "number": "4"},
+       {"issue-date": "1937-10-02", "volume": "159", "number": "5"},
+       {"issue-date": "1937-10-09", "volume": "159", "number": "6"},
+       {"issue-date": "1937-10-16", "volume": "160", "number": "1"},
+       {"issue-date": "1937-10-23", "volume": "160", "number": "2"},
+       {"issue-date": "1937-10-30", "volume": "160", "number": "3"},
+       {"issue-date": "1937-11-06", "volume": "160", "number": "4"},
+       {"issue-date": "1937-11-13", "volume": "160", "number": "5"},
+       {"issue-date": "1937-11-20", "volume": "160", "number": "6"},
+       {"issue-date": "1937-11-27", "volume": "161", "number": "1"},
+       {"issue-date": "1937-12-04", "volume": "161", "number": "2"}
    ],
-   "renewed-contribution-completeness": "active/1931",
+   "renewed-contribution-completeness": "active/1932",
    "renewed-contributions": [
      {"issue": {"issue-date": "1931-01-10", "volume": "101", "number": "2"},
       "title": "Chip and the Cactus Man",
@@ -1680,12 +1735,678 @@
        "authorized": "Brand, Max, 1892-1944",
        "lcna": "n79034951"
       }
+     },
+     {"issue": {"issue-date": "1933-01-07", "volume": "118", "number": "4"}, 
+      "title": "Señor Billy",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1933-01-14", "volume": "118", "number": "5"}, 
+      "title": "Montana Rides",
+      "title-note": "part 1 of 4",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Evans, Evan, 1892-1944",
+       "lcna": "n88121480 "
+      }
+     },
+     {"issue": {"issue-date": "1933-01-14", "volume": "118", "number": "5"}, 
+      "title": "The Fighting Farleys",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
+     {"issue": {"issue-date": "1933-01-21", "volume": "118", "number": "6"}, 
+      "title": "Wolfhearted Shep",
+      "note": "Title as given in CCE renewal record. FictionMags gives title as 'Wolf-Hearted Sheep'. We have not examined the issue in question.",
+      "author": {
+       "authorized": "Case, Robert Ormond, 1895-1964",
+       "lcna": "no95027451"
+      }
+     },
+     {"issue": {"issue-date": "1933-01-21", "volume": "118", "number": "6"}, 
+      "title": "Montana Rides",
+      "title-note": "part 2 of 4",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Evans, Evan, 1892-1944",
+       "lcna": "n88121480 "
+      }
+     },
+     {"issue": {"issue-date": "1933-01-28", "volume": "119", "number": "1"}, 
+      "title": "Speedy's Desert Dance",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1933-01-28", "volume": "119", "number": "1"}, 
+      "title": "Montana Rides",
+      "title-note": "part 3 of 4",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Evans, Evan, 1892-1944",
+       "lcna": "n88121480 "
+      }
+     },
+     {"issue": {"issue-date": "1933-02-04", "volume": "119", "number": "2"}, 
+      "title": "The Red Bandanna",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1933-02-04", "volume": "119", "number": "2"}, 
+      "title": "Montana Rides",
+      "title-note": "part 4 of 4",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Evans, Evan, 1892-1944",
+       "lcna": "n88121480 "
+      }
+     },
+     {"issue": {"issue-date": "1933-02-11", "volume": "119", "number": "3"}, 
+      "title": "Maverick Luck",
+      "author": {
+       "authorized": "Case, Robert Ormond, 1895-1964",
+       "lcna": "no95027451"
+      }
+     },
+     {"issue": {"issue-date": "1933-02-25", "volume": "119", "number": "5"}, 
+      "title": "Just Peace Work",
+      "author": {
+       "authorized": "Case, Robert Ormond, 1895-1964",
+       "lcna": "no95027451"
+      }
+     },
+     {"issue": {"issue-date": "1933-03-04", "volume": "119", "number": "6"}, 
+      "title": "The Wolf and the Man",
+      "title-note": "part 1 of 8",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1933-03-11", "volume": "120", "number": "1"}, 
+      "title": "The Stolen Stallion",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1933-03-11", "volume": "120", "number": "1"}, 
+      "title": "The Wolf and the Man",
+      "title-note": "part 2 of 8",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1933-03-18", "volume": "120", "number": "2"}, 
+      "title": "The Girl From Outside",
+      "author": {
+       "authorized": "Case, Robert Ormond, 1895-1964",
+       "lcna": "no95027451"
+      }
+     },
+     {"issue": {"issue-date": "1933-03-18", "volume": "120", "number": "2"}, 
+      "title": "Bullets in the Black",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
+     {"issue": {"issue-date": "1933-03-18", "volume": "120", "number": "2"}, 
+      "title": "The Wolf and the Man",
+      "title-note": "part 3 of 8",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1933-03-25", "volume": "120", "number": "3"}, 
+      "title": "Silvertip",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1933-03-25", "volume": "120", "number": "3"}, 
+      "title": "Outlawed Money",
+      "author": {
+       "authorized": "Case, Robert Ormond, 1895-1964",
+       "lcna": "no95027451"
+      }
+     },
+     {"issue": {"issue-date": "1933-03-25", "volume": "120", "number": "3"}, 
+      "title": "The Wolf and the Man",
+      "title-note": "part 4 of 8",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1933-03-25", "volume": "120", "number": "3"}, 
+      "title": "The Brand of Revenge",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1933-04-01", "volume": "120", "number": "4"}, 
+      "title": "The Burnt Ranch",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
+     {"issue": {"issue-date": "1933-04-01", "volume": "120", "number": "4"}, 
+      "title": "The Wolf and the Man",
+      "title-note": "part 5 of 8",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1933-04-08", "volume": "120", "number": "5"}, 
+      "title": "The Wolf and the Man",
+      "title-note": "part 6 of 8",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1933-04-15", "volume": "120", "number": "6"}, 
+      "title": "The Man From Mustang",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1933-04-15", "volume": "120", "number": "6"}, 
+      "title": "The Wolf and the Man",
+      "title-note": "part 7 of 8",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1933-04-22", "volume": "121", "number": "1"}, 
+      "title": "Gunman's Gold",
+      "title-note": "part 1 of 8",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Frederick, John, 1892-1944",
+       "lcna": "n88121490"
+      }
+     },
+     {"issue": {"issue-date": "1933-04-22", "volume": "121", "number": "1"}, 
+      "title": "The Wolf and the Man",
+      "title-note": "part 8 of 8",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1933-04-29", "volume": "121", "number": "2"}, 
+      "title": "Brothers of the West",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1933-04-29", "volume": "121", "number": "2"}, 
+      "title": "Gunman's Gold",
+      "title-note": "part 2 of 8",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Frederick, John, 1892-1944",
+       "lcna": "n88121490"
+      }
+     },
+     {"issue": {"issue-date": "1933-05-06", "volume": "121", "number": "3"}, 
+      "title": "Gunman's Gold",
+      "title-note": "part 3 of 8",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Frederick, John, 1892-1944",
+       "lcna": "n88121490"
+      }
+     },
+     {"issue": {"issue-date": "1933-05-13", "volume": "121", "number": "4"}, 
+      "title": "Rope Law",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
+     {"issue": {"issue-date": "1933-05-13", "volume": "121", "number": "4"}, 
+      "title": "Gunman's Gold",
+      "title-note": "part 4 of 8",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Frederick, John, 1892-1944",
+       "lcna": "n88121490"
+      }
+     },
+     {"issue": {"issue-date": "1933-05-20", "volume": "121", "number": "5"}, 
+      "title": "Silver's Strike",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1933-05-20", "volume": "121", "number": "5"}, 
+      "title": "Gunman's Gold",
+      "title-note": "part 5 of 8",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Frederick, John, 1892-1944",
+       "lcna": "n88121490"
+      }
+     },
+     {"issue": {"issue-date": "1933-05-27", "volume": "121", "number": "6"}, 
+      "title": "Gunman's Gold",
+      "title-note": "part 6 of 8",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Frederick, John, 1892-1944",
+       "lcna": "n88121490"
+      }
+     },
+     {"issue": {"issue-date": "1933-06-03", "volume": "122", "number": "1"}, 
+      "title": "Gunman's Gold",
+      "title-note": "part 7 of 8",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Frederick, John, 1892-1944",
+       "lcna": "n88121490"
+      }
+     },
+     {"issue": {"issue-date": "1933-06-10", "volume": "122", "number": "2"}, 
+      "title": "Horseshoe Flats' Speery Stranger",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1933-06-10", "volume": "122", "number": "2"}, 
+      "title": "Gunman's Gold",
+      "title-note": "part 8 of 8",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Frederick, John, 1892-1944",
+       "lcna": "n88121490"
+      }
+     },
+     {"issue": {"issue-date": "1933-06-10", "volume": "122", "number": "2"}, 
+      "title": "Kingbird's Pursuit",
+      "title-note": "part 1 of 8",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1933-06-17", "volume": "122", "number": "3"}, 
+      "title": "Cayuse",
+      "author": {
+       "authorized": "Coburn, Walt, 1889-1971",
+       "lcna": "n84030412"
+      }
+     },
+     {"issue": {"issue-date": "1933-06-17", "volume": "122", "number": "3"}, 
+      "title": "Kingbird's Pursuit",
+      "title-note": "part 2 of 8",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1933-06-24", "volume": "122", "number": "4"}, 
+      "title": "Kingbird's Pursuit",
+      "title-note": "part 3 of 8",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1933-07-01", "volume": "122", "number": "5"}, 
+      "title": "The False Rider",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1933-07-01", "volume": "122", "number": "5"}, 
+      "title": "Kingbird's Pursuit",
+      "title-note": "part 4 of 8",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1933-07-08", "volume": "122", "number": "6"}, 
+      "title": "Trail of the Broken Tent",
+      "author": {
+       "authorized": "Case, Robert Ormond, 1895-1964",
+       "lcna": "no95027451"
+      }
+     },
+     {"issue": {"issue-date": "1933-07-08", "volume": "122", "number": "6"}, 
+      "title": "Kingbird's Pursuit",
+      "title-note": "part 5 of 8",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1933-07-15", "volume": "123", "number": "1"}, 
+      "title": "Kingbird's Pursuit",
+      "title-note": "part 6 of 8",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1933-07-22", "volume": "123", "number": "2"}, 
+      "title": "Riding Straight Into Danger",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1933-07-22", "volume": "123", "number": "2"}, 
+      "title": "Kingbird's Pursuit",
+      "title-note": "part 7 of 8",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1933-07-29", "volume": "123", "number": "3"}, 
+      "title": "Kingbird's Pursuit",
+      "title-note": "part 8 of 8",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1933-08-05", "volume": "123", "number": "4"}, 
+      "title": "The Iron Collar",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1933-08-26", "volume": "124", "number": "1"}, 
+      "title": "The Fighting Four",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1933-09-02", "volume": "124", "number": "2"}, 
+      "title": "Frozen Fangs",
+      "author": {
+       "authorized": "Case, Robert Ormond, 1895-1964",
+       "lcna": "no95027451"
+      }
+     },
+     {"issue": {"issue-date": "1933-09-09", "volume": "124", "number": "3"}, 
+      "title": "Jingo",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1933-09-09", "volume": "124", "number": "3"}, 
+      "title": "The Happy Rider",
+      "title-note": "part 1 of 8",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1933-09-16", "volume": "124", "number": "4"}, 
+      "title": "The Happy Rider",
+      "title-note": "part 2 of 8",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1933-09-23", "volume": "124", "number": "5"}, 
+      "title": "Silver's Search",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1933-09-23", "volume": "124", "number": "5"}, 
+      "title": "The Happy Rider",
+      "title-note": "part 3 of 8",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1933-09-30", "volume": "124", "number": "6"}, 
+      "title": "The Happy Rider",
+      "title-note": "part 4 of 8",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1933-10-07", "volume": "125", "number": "1"}, 
+      "title": "The Snow Burner",
+      "author": {
+       "authorized": "Case, Robert Ormond, 1895-1964",
+       "lcna": "no95027451"
+      }
+     },
+     {"issue": {"issue-date": "1933-10-07", "volume": "125", "number": "1"}, 
+      "title": "The Happy Rider",
+      "title-note": "part 5 of 8",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1933-10-14", "volume": "125", "number": "2"}, 
+      "title": "The Happy Rider",
+      "title-note": "part 6 of 8",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1933-10-21", "volume": "125", "number": "3"}, 
+      "title": "The Happy Rider",
+      "title-note": "part 7 of 8",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1933-10-28", "volume": "125", "number": "4"}, 
+      "title": "The Happy Rider",
+      "title-note": "part 8 of 8",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1933-10-28", "volume": "125", "number": "4"}, 
+      "title": "Valley Thieves",
+      "title-note": "part 1 of 5?",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1933-11-04", "volume": "125", "number": "5"}, 
+      "title": "Valley Thieves",
+      "title-note": "part 2 of 5?",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1933-11-11", "volume": "125", "number": "6"}, 
+      "title": "Reata",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1933-11-11", "volume": "125", "number": "6"}, 
+      "title": "Valley Thieves",
+      "title-note": "part 3 of 5?",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1933-11-18", "volume": "126", "number": "1"}, 
+      "title": "Valley Thieves",
+      "title-note": "part 4 of 5?",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1933-11-25", "volume": "126", "number": "2"}, 
+      "title": "Reata's Danger Trail",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1933-12-09", "volume": "126", "number": "4"}, 
+      "title": "Reata's Desert Ride",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1933-12-16", "volume": "126", "number": "5"}, 
+      "title": "Blue Water Bad Men",
+      "title-note": "part 1 of 4",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1933-12-16", "volume": "126", "number": "5"}, 
+      "title": "The Red Pacer",
+      "title-note": "part 1 of 6",
+      "note": "CCE renewal record places this in this magazine, but FictionMags instead places it in the Argosy issue of the same date, and it is featured on the cover of that issue.  Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1933-12-23", "volume": "126", "number": "6"}, 
+      "title": "Reata and the Hidden Gold",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1933-12-23", "volume": "126", "number": "6"}, 
+      "title": "Blue Water Bad Men",
+      "title-note": "part 2 of 4",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1933-12-23", "volume": "126", "number": "6"}, 
+      "title": "The Red Pacer",
+      "title-note": "part 2 of 6",
+      "note": "CCE renewal record places this in this magazine, but FictionMags instead places it in the Argosy issue of the same date.  The first installment was indeed featured on the December 16 cover of Argosy. Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
+     },
+     {"issue": {"issue-date": "1933-12-30", "volume": "127", "number": "1"}, 
+      "title": "Blue Water Bad Men",
+      "title-note": "part 3 of 4",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1933-12-30", "volume": "127", "number": "1"}, 
+      "title": "The Red Pacer",
+      "title-note": "part 3 of 6",
+      "note": "CCE renewal record places this in this magazine, but FictionMags instead places it in the Argosy issue of the same date.  The first installment was indeed featured on the December 16 cover of Argosy. Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Baxter, George Owen, 1892-1944",
+       "lcna": "n88121475"
+      }
      }
    ],
-   "comment": "Pick up contribution renewals with 1960 Jan-Jun",
+   "comment": "Pick up contribution renewals with 1961 Jan-Jun",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2026-01-06"
+   "last-updated": "2026-05-31"
 }
