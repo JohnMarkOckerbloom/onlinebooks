@@ -1,9 +1,14 @@
 {
    "title": "Car Craft",
+   "aka": ["Honk!"],
+   "online": "1",
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "database",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "database",
+   "first-autorenewed-issue":
+     {"issue-date": "1964-02", "volume": "11", "number": "10",
+      "cdate": "1964-01-16"},
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"

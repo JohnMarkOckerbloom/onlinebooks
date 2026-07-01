@@ -1,0 +1,737 @@
+{
+   "title": "Rogue",
+   "aka": ["Rogue for Men"],
+   "title-note": "American men's magazine",
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/FMI/link.asp?magid=ROG",
+       "note": "FictionMags (partial; selected issues only)"}
+   ],
+   "first-issue": {"issue-date": "1955-12", "volume": "1", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-autorenewed-issue":
+     {"issue-date": "1964-03", "volume": "9", "number": "2",
+      "cdate": "1964-01-02"},
+   "first-renewed-issue-source": "database",
+   "first-renewed-contribution":
+     {"issue": {"issue-date": "1956-12", "volume": "1", "number": "7"}},
+   "first-renewed-contribution-source": "database",
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1956-12", "volume": "1", "number": "7"},
+      "title": "Jeanie With the Bedroom Eyes",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1957-02", "volume": "2", "number": "1"}, 
+      "title": "The Love Master",
+      "author": {
+       "authorized": "Beaumont, Charles, 1929-1967",
+       "using": "S. M. Tenneshaw",
+       "lcna": "n84200880"
+      }
+     },
+     {"issue": {"issue-date": "1957-04", "volume": "2", "number": "2"}, 
+      "title": "Mainwaring's Fair Dinkum",
+      "author": {
+       "authorized": "Beaumont, Charles, 1929-1967",
+       "using": "Michael Phillips",
+       "lcna": "n84200880"
+      }
+     },
+     {"issue": {"issue-date": "1957-05", "volume": "2", "number": "3"},
+      "title": "The Music Man",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "using": "Ellis Hart",
+        "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1957-07", "volume": "2", "number": "5"}, 
+      "title": "The Blonde Lieutenant",
+       "author": {
+         "authorized": "Westlake, Donald E.",
+         "lcna": "n80007714"
+      }
+     },
+     {"issue": {"issue-date": "1958-01", "volume": "3", "number": "1"}, 
+      "title": "The Man to Beat",
+      "author": {
+       "authorized": "Beaumont, Charles, 1929-1967",
+       "using": "Michael Phillips",
+       "lcna": "n84200880"
+      }
+     },
+     {"issue": {"issue-date": "1958-02", "volume": "3", "number": "2"},
+      "title": "Talent Scout",
+      "author": {
+       "authorized": "Ritchie, Jack, 1922-1983",
+       "lcna": "n86116593"
+      }
+     },
+     {"issue": {"issue-date": "1958-04", "volume": "3", "number": "3"},
+      "title": "The Last Ruse of Summer",
+      "author": {
+        "authorized": "Bloch, Robert, 1917-1994",
+        "lcna": "n50016557"
+      }
+     },
+     {"issue": {"issue-date": "1958-07", "volume": "3", "number": "5"},
+      "title": "Beauty Has Her Beast",
+      "author": {
+        "authorized": "Bloch, Robert, 1917-1994",
+        "using": "John Sheldon",
+        "lcna": "n50016557"
+      }
+     },
+     {"issue": {"issue-date": "1958-08", "volume": "3", "number": "6"}, 
+      "title": "The New People",
+      "author": {
+       "authorized": "Beaumont, Charles, 1929-1967",
+       "using": "Michael Phillips",
+       "lcna": "n84200880"
+      }
+     },
+     {"issue": {"issue-date": "1958-11", "volume": "3", "number": "8"},
+      "title": "The Last Day",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1958-11", "volume": "3", "number": "8"},
+      "title": "The Vanished American",
+      "author": {
+        "authorized": "Bloch, Robert, 1917-1994",
+        "lcna": "n50016557"
+      }
+     },
+     {"issue": {"issue-date": "1959-05", "volume": "4", "number": "3"},
+      "title": "No Game for Children",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1959-06", "volume": "4", "number": "4"},
+      "title": "Have Coolth",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1959-06", "volume": "4", "number": "4"},
+      "title": "The Icebox Blonde",
+      "note": "Issue as given in FictionMags. The CPRS renewal record instead places this story in the January 1960 issue.  We have not examined the issues in question.",
+      "author": {
+         "authorized": "Scortia, Thomas N., 1926-1986",
+         "lcna": "n79123622"
+      }
+     },
+     {"issue": {"issue-date": "1959-06", "volume": "4", "number": "4"},
+      "title": "The Gloating Place",
+      "author": {
+        "authorized": "Bloch, Robert, 1917-1994",
+        "lcna": "n50016557"
+      }
+     },
+     {"issue": {"issue-date": "1959-07", "volume": "4", "number": "5"},
+      "title": "The Big Kick",
+      "author": {
+        "authorized": "Bloch, Robert, 1917-1994",
+        "lcna": "n50016557"
+      }
+     },
+     {"issue": {"issue-date": "1959-07", "volume": "4", "number": "5"},
+      "title": "The Hangman",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1959-08", "volume": "4", "number": "6"},
+      "title": "The Case for Our College Bohemians",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "using": "Robert Courtney",
+        "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1959-08", "volume": "4", "number": "6"},
+      "title": "Night School",
+      "author": {
+        "authorized": "Bloch, Robert, 1917-1994",
+        "lcna": "n50016557"
+      }
+     },
+     {"issue": {"issue-date": "1959-08", "volume": "4", "number": "6"},
+      "title": "This is Jackie Spinning",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1959-09", "volume": "4", "number": "7"},
+      "title": "May We Also Speak?",
+      "note": "Renewal record notes additional titles 'Now You're in the Box; The Rocks of Gogroth; Payment Returned Unopened; The Truth'.",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1959-09", "volume": "4", "number": "7"},
+      "title": "The Jolly Executioners",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1959-09", "volume": "4", "number": "7"},
+      "title": "Alone",
+      "note": "CPRS renewal record credits only Slesar; FictionMags also credits Perelman.",
+      "authors": [
+        { "authorized": "Slesar, Henry", "lcna": "n87844215"},
+        { "name": "Nancy Perelman"}
+      ]
+     },
+     {"issue": {"issue-date": "1959-11", "volume": "4", "number": "8"},
+      "title": "The Howling Man",
+      "author": {
+       "authorized": "Beaumont, Charles, 1929-1967",
+       "using": "C. B. Lovehill",
+       "lcna": "n84200880"
+      }
+     },
+     {"issue": {"issue-date": "1959-11", "volume": "4", "number": "8"},
+      "title": "There's One on Every Campus",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1959-11", "volume": "4", "number": "8"},
+      "title": "The Cage",
+      "author": {
+       "authorized": "Russell, Ray",
+       "using": "Roger Thorne",
+       "lcna": "n50031749"
+      }
+     },
+     {"issue": {"issue-date": "1959-12", "volume": "4", "number": "9"}, 
+      "title": "Genevieve, My Genevieve",
+      "author": {
+       "authorized": "Beaumont, Charles, 1929-1967",
+       "using": "C. B. Lovehill",
+       "lcna": "n84200880"
+      }
+     },
+     {"issue": {"issue-date": "1959-12", "volume": "4", "number": "9"}, 
+      "title": "Eyes of Dust",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1959-12", "volume": "4", "number": "9"}, 
+      "title": "Deadline",
+      "author": {
+       "authorized": "Matheson, Richard, 1926-2013",
+       "lcna": "n79068485"
+      }
+     },
+     {"issue": {"issue-date": "1960-01", "volume": "5", "number": "1"}, 
+      "title": "Deal From the Bottom",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1960-01", "volume": "5", "number": "1"}, 
+      "title": "The Icebox Blonde",
+      "note": "Issue as given in renewal record. FictionMags instead places this story in the June 1959 issue.  We have not examined the issues in question.",
+      "author": {
+         "authorized": "Scortia, Thomas N., 1926-1986",
+         "lcna": "n79123622"
+      }
+     },
+     {"issue": {"issue-date": "1960-03", "volume": "5", "number": "2"},
+      "title": "The Clown at Midnight",
+      "author": {
+        "authorized": "Bloch, Robert, 1917-1994",
+        "lcna": "n50016557"
+      }
+     },
+     {"issue": {"issue-date": "1960-03", "volume": "5", "number": "2"},
+      "title": "The Case for Evil",
+      "author": {
+        "authorized": "Slesar, Henry",
+        "lcna": "n87844215"
+      }
+     },
+     {"issue": {"issue-date": "1960-03", "volume": "5", "number": "2"},
+      "title": "Memory of a Muted Trumpet",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1960-03", "volume": "5", "number": "2"},
+      "title": "The Face of Our Times",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "using": "Winfield Parks, Jr.",
+        "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1960-03", "volume": "5", "number": "2"},
+      "title": "The Uncrowned King of Bourbon",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "using": "Robert Courtney",
+        "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1960-03", "volume": "5", "number": "2"},
+      "title": "Someone is Hungrier",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "using": "Pat Roeder",
+        "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1960-04", "volume": "5", "number": "3"}, 
+      "title": "Gentlemen, Be Seated",
+      "author": {
+       "authorized": "Beaumont, Charles, 1929-1967",
+       "using": "C. B. Lovehill",
+       "lcna": "n84200880"
+      }
+     },
+     {"issue": {"issue-date": "1960-04", "volume": "5", "number": "3"}, 
+      "title": "Night Fix",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1960-06", "volume": "5", "number": "4"},
+      "title": "The Masterpiece",
+      "author": {
+        "authorized": "Bloch, Robert, 1917-1994",
+        "lcna": "n50016557"
+      }
+     },
+     {"issue": {"issue-date": "1960-06", "volume": "5", "number": "4"},
+      "title": "Coloring Book for Rogues",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1960-08", "volume": "5", "number": "5"}, 
+      "title": "Final Shtick",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1960-08", "volume": "5", "number": "5"}, 
+      "title": "The Handler",
+      "author": {
+        "authorized": "Knight, Damon, 1922-2002",
+        "lcna": "n79108377"
+      }
+     },
+     {"issue": {"issue-date": "1960-12", "volume": "5", "number": "7"}, 
+      "title": "Dead, You Know",
+      "author": {
+       "authorized": "Beaumont, Charles, 1929-1967",
+       "using": "C. B. Lovehill",
+       "lcna": "n84200880"
+      }
+     },
+     {"issue": {"issue-date": "1961-01", "volume": "6", "number": "1"},
+      "title": "Kley's Creatures",
+      "note": "FictionMags says this was uncredited in the issue.",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1961-02", "volume": "6", "number": "2"}, 
+      "title": "Crowdland Revisited",
+      "author": {
+        "authorized": "McLaughlin, Dean, 1931-",
+        "lcna": "no2001037968"
+      }
+     },
+     {"issue": {"issue-date": "1961-02", "volume": "6", "number": "2"}, 
+      "title": "Do-it-Yourself",
+      "authors": [ 
+       { "authorized": "Ellison, Harlan", "lcna": "n50010025"},
+       { "authorized": "Hensley, Joe L., 1926-2007", "lcna": "n79095174"}
+      ]
+     },
+     {"issue": {"issue-date": "1961-03", "volume": "6", "number": "3"},
+      "title": "Daniel White for the Greater Good",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1961-04", "volume": "6", "number": "4"},
+      "title": "The Exploits of Argo",
+      "author": {
+       "authorized": "Russell, Ray",
+       "lcna": "n50031749"
+      }
+     },
+     {"issue": {"issue-date": "1961-04", "volume": "6", "number": "4"},
+      "title": "Footnote to Off-Broadway: The Connection",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1961-05", "volume": "6", "number": "5"},
+      "title": "Riding the Dark Train Out",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1961-06", "volume": "6", "number": "3"},
+      "title": "Lady Bug, Lady Bug",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1961-07", "volume": "6", "number": "7"},
+      "title": "My Summer Vacation",
+      "author": {
+       "authorized": "Deal, Borden, 1922-1985",
+       "lcna": "n50042192"
+      }
+     },
+     {"issue": {"issue-date": "1961-08", "volume": "6", "number": "8"},
+      "title": "Basic Bloch",
+      "title-note": "column",
+      "author": {
+        "authorized": "Bloch, Robert, 1917-1994",
+        "lcna": "n50016557"
+      }
+     },
+     {"issue": {"issue-date": "1961-09", "volume": "6", "number": "9"},
+      "title": "Basic Bloch",
+      "title-note": "column",
+      "author": {
+        "authorized": "Bloch, Robert, 1917-1994",
+        "lcna": "n50016557"
+      }
+     },
+     {"issue": {"issue-date": "1961-10", "volume": "6", "number": "10"},
+      "title": "Basic Bloch",
+      "title-note": "column",
+      "author": {
+        "authorized": "Bloch, Robert, 1917-1994",
+        "lcna": "n50016557"
+      }
+     },
+     {"issue": {"issue-date": "1961-11", "volume": "6", "number": "11"},
+      "title": "Basic Bloch",
+      "title-note": "column",
+      "author": {
+        "authorized": "Bloch, Robert, 1917-1994",
+        "lcna": "n50016557"
+      }
+     },
+     {"issue": {"issue-date": "1961-11", "volume": "6", "number": "11"},
+      "title": "Booked Solid",
+      "author": {
+       "authorized": "Russell, Ray",
+       "using": "Roger Thorne",
+       "lcna": "n50031749"
+      }
+     },
+     {"issue": {"issue-date": "1961-12", "volume": "6", "number": "12"},
+      "title": "Basic Bloch",
+      "title-note": "column",
+      "author": {
+        "authorized": "Bloch, Robert, 1917-1994",
+        "lcna": "n50016557"
+      }
+     },
+     {"issue": {"issue-date": "1961-12", "volume": "6", "number": "12"},
+      "title": "The Girl With the Knoodley Knees",
+      "author": {
+       "authorized": "Russell, Ray",
+       "using": "Roger Thorne",
+       "lcna": "n50031749"
+      }
+     },
+     {"issue": {"issue-date": "1962-01", "volume": "7", "number": "1"},
+      "title": "Basic Bloch",
+      "title-note": "column",
+      "author": {
+        "authorized": "Bloch, Robert, 1917-1994",
+        "lcna": "n50016557"
+      }
+     },
+     {"issue": {"issue-date": "1962-05", "volume": "7", "number": "5"},
+      "title": "Basic Bloch",
+      "title-note": "column",
+      "author": {
+        "authorized": "Bloch, Robert, 1917-1994",
+        "lcna": "n50016557"
+      }
+     },
+     {"issue": {"issue-date": "1962-06", "volume": "7", "number": "6"},
+      "title": "Basic Bloch",
+      "title-note": "column",
+      "author": {
+        "authorized": "Bloch, Robert, 1917-1994",
+        "lcna": "n50016557"
+      }
+     },
+     {"issue": {"issue-date": "1962-06", "volume": "7", "number": "6"},
+      "title": "A Many-Flavored Bird; Mona at Her Windows; The Universe of Robert Blake",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1962-07", "volume": "7", "number": "7"},
+      "title": "Basic Bloch",
+      "title-note": "column",
+      "author": {
+        "authorized": "Bloch, Robert, 1917-1994",
+        "lcna": "n50016557"
+      }
+     },
+     {"issue": {"issue-date": "1962-08", "volume": "7", "number": "8"},
+      "title": "Basic Bloch",
+      "title-note": "column",
+      "author": {
+        "authorized": "Bloch, Robert, 1917-1994",
+        "lcna": "n50016557"
+      }
+     },
+     {"issue": {"issue-date": "1962-08", "volume": "7", "number": "8"},
+      "title": "Good Morning, This is the Future",
+      "author": {
+        "authorized": "Slesar, Henry",
+        "lcna": "n87844215"
+      }
+     },
+     {"issue": {"issue-date": "1962-09", "volume": "7", "number": "9"},
+      "title": "Basic Bloch",
+      "title-note": "column",
+      "author": {
+        "authorized": "Bloch, Robert, 1917-1994",
+        "lcna": "n50016557"
+      }
+     },
+     {"issue": {"issue-date": "1962-09", "volume": "7", "number": "9"},
+      "title": "The Bones Are There",
+      "author": {
+        "authorized": "Kolb, Ken, 1926-2016",
+        "lcna": "n89664285"
+      }
+     },
+     {"issue": {"issue-date": "1962-10", "volume": "7", "number": "10"},
+      "title": "Basic Bloch",
+      "title-note": "column",
+      "author": {
+        "authorized": "Bloch, Robert, 1917-1994",
+        "lcna": "n50016557"
+      }
+     },
+     {"issue": {"issue-date": "1962-10", "volume": "7", "number": "10"},
+      "title": "Three Ex-Soldiers",
+      "author": {
+        "authorized": "McKimmey, James",
+        "lcna": "no2003053758"
+       }
+     },
+     {"issue": {"issue-date": "1962-10", "volume": "7", "number": "10"},
+      "title": "Three Letters From Hollywood",
+      "author": {
+        "authorized": "Slesar, Henry",
+        "lcna": "n87844215"
+      }
+     },
+     {"issue": {"issue-date": "1962-11", "volume": "7", "number": "11"},
+      "title": "Basic Bloch",
+      "title-note": "column",
+      "author": {
+        "authorized": "Bloch, Robert, 1917-1994",
+        "lcna": "n50016557"
+      }
+     },
+     {"issue": {"issue-date": "1962-12", "volume": "7", "number": "12"},
+      "title": "Basic Bloch",
+      "title-note": "column",
+      "author": {
+        "authorized": "Bloch, Robert, 1917-1994",
+        "lcna": "n50016557"
+      }
+     },
+     {"issue": {"issue-date": "1962-12", "volume": "7", "number": "12"},
+      "title": "A Pleasure Shared",
+      "author": {
+        "authorized": "Aldiss, Brian W. (Brian Wilson), 1925-2017",
+        "lcna": "n79060640"
+      }
+     },
+     {"issue": {"issue-date": "1963-02", "volume": "8", "number": "2"},
+      "title": "The H. K. Brock",
+      "author": {
+        "authorized": "Fessier, Michael, 1907-1988",
+        "lcna": "n85378827"
+      }
+     },
+     {"issue": {"issue-date": "1963-02", "volume": "8", "number": "2"},
+      "title": "The Death of Dickie Draper",
+      "author": {
+         "authorized": "Weidman, Jerome, 1913-1998",
+         "lcna": "n50022730"
+       }
+     },
+     {"issue": {"issue-date": "1963-02", "volume": "8", "number": "2"},
+      "title": "Volunteer",
+      "author": {
+        "authorized": "Porges, Arthur, 1915-2006",
+        "lcna": "no2010083924"
+      }
+     },
+     {"issue": {"issue-date": "1963-03", "volume": "8", "number": "3"},
+      "title": "Basic Bloch",
+      "title-note": "column",
+      "author": {
+        "authorized": "Bloch, Robert, 1917-1994",
+        "lcna": "n50016557"
+      }
+     },
+     {"issue": {"issue-date": "1963-03", "volume": "8", "number": "3"},
+      "title": "Our Know-Nothing Newspapers",
+      "author": {
+         "authorized": "Wylie, Philip, 1902-1971",
+         "lcna": "n79145476"
+       }
+     },
+     {"issue": {"issue-date": "1963-03", "volume": "8", "number": "3"},
+      "title": "Don't Take Me for Granted, Dear",
+      "author": {
+        "authorized": "Schorer, Mark, 1908-1977",
+        "lcna": "n50002798"
+      }
+     },
+     {"issue": {"issue-date": "1963-04", "volume": "8", "number": "4"},
+      "title": "Basic Bloch",
+      "title-note": "column",
+      "author": {
+        "authorized": "Bloch, Robert, 1917-1994",
+        "lcna": "n50016557"
+      }
+     },
+     {"issue": {"issue-date": "1963-05", "volume": "8", "number": "5"},
+      "title": "Basic Bloch",
+      "title-note": "column",
+      "author": {
+        "authorized": "Bloch, Robert, 1917-1994",
+        "lcna": "n50016557"
+      }
+     },
+     {"issue": {"issue-date": "1963-05", "volume": "8", "number": "5"},
+      "title": "The Evil Mind",
+      "author": {
+         "authorized": "Wylie, Philip, 1902-1971",
+         "lcna": "n79145476"
+       }
+     },
+     {"issue": {"issue-date": "1963-06", "volume": "8", "number": "6"},
+      "title": "Basic Bloch",
+      "title-note": "column",
+      "author": {
+        "authorized": "Bloch, Robert, 1917-1994",
+        "lcna": "n50016557"
+      }
+     },
+     {"issue": {"issue-date": "1963-06", "volume": "8", "number": "6"},
+      "title": "The Wishgiver",
+      "author": {
+        "authorized": "Slesar, Henry",
+        "lcna": "n87844215"
+      }
+     },
+     {"issue": {"issue-date": "1963-07", "volume": "8", "number": "7"},
+      "title": "Basic Bloch",
+      "title-note": "column",
+      "author": {
+        "authorized": "Bloch, Robert, 1917-1994",
+        "lcna": "n50016557"
+      }
+     },
+     {"issue": {"issue-date": "1963-07", "volume": "8", "number": "7"},
+      "title": "The Pattern Maker",
+      "author": {
+       "authorized": "Deal, Borden, 1922-1985",
+       "lcna": "n50042192"
+      }
+     },
+     {"issue": {"issue-date": "1963-08", "volume": "8", "number": "8"},
+      "title": "Basic Bloch",
+      "title-note": "column",
+      "author": {
+        "authorized": "Bloch, Robert, 1917-1994",
+        "lcna": "n50016557"
+      }
+     },
+     {"issue": {"issue-date": "1963-09", "volume": "8", "number": "9"},
+      "title": "Basic Bloch",
+      "title-note": "column",
+      "author": {
+        "authorized": "Bloch, Robert, 1917-1994",
+        "lcna": "n50016557"
+      }
+     },
+     {"issue": {"issue-date": "1963-10", "volume": "8", "number": "10"},
+      "title": "Basic Bloch",
+      "title-note": "column",
+      "author": {
+        "authorized": "Bloch, Robert, 1917-1994",
+        "lcna": "n50016557"
+      }
+     },
+     {"issue": {"issue-date": "1963-11", "volume": "8", "number": "11"},
+      "title": "Basic Bloch",
+      "title-note": "column",
+      "author": {
+        "authorized": "Bloch, Robert, 1917-1994",
+        "lcna": "n50016557"
+      }
+     },
+     {"issue": {"issue-date": "1963-11", "volume": "8", "number": "11"},
+      "title": "Good Old Ev",
+      "author": {
+       "authorized": "Collier, James Lincoln, 1928-2024",
+       "lcna": "50029196"
+      }
+     },
+     {"issue": {"issue-date": "1963-12", "volume": "8", "number": "12"},
+      "title": "The Substance of Martyrs",
+      "author": {
+        "authorized": "Sambrot, William",
+        "lcna": "no2002107867"
+      }
+     }
+   ],
+   "comment": "Did up to #64 of 96, sorting by date ascending",
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2026-06-15"
+}

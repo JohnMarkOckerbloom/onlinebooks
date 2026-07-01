@@ -7,16 +7,40 @@
    "first-issue": 
        {"issue-date": "1936-10", "volume": "1", "number": "1"},
    "first-renewed-issue": 
-       {"issue-date": "1937-03", "volume": "2", "number": "1"},
+       {"issue-date": "1937-03", "volume": "2", "number": "1",
+        "cdate": "1936-12-29"},
    "first-renewed-issue-source": "1964",
    "first-renewed-contribution": 
        {"issue": {"issue-date": "1950-07", "volume": "39", "number": "2"}},
    "first-renewed-contribution-source": "database",
    "last-issue": 
        {"issue-date": "1958-02", "volume": "69", "number": "2"},
+   "renewed-issue-completeness": "active/1937",
+   "renewed-issues": [
+       {"issue-date": "1937-03", "volume": "2", "number": "1",
+        "cdate": "1936-12-29"},
+       {"issue-date": "1937-04", "volume": "2", "number": "2",
+        "cdate": "1937-01-29"},
+       {"issue-date": "1937-05", "volume": "2", "number": "3"},
+       {"issue-date": "1937-06", "volume": "3", "number": "1"},
+       {"issue-date": "1937-07", "volume": "3", "number": "2"},
+       {"issue-date": "1937-08", "volume": "3", "number": "3"},
+       {"issue-date": "1937-09", "volume": "4", "number": "1"},
+       {"issue-date": "1937-10", "volume": "4", "number": "2"},
+       {"issue-date": "1937-11", "volume": "4", "number": "3"},
+       {"issue-date": "1937-12", "volume": "5", "number": "1"},
+       {"issue-date": "1938-01", "volume": "5", "number": "2"},
+       {"issue-date": "1938-02", "volume": "5", "number": "3"},
+       {"issue-date": "1938-03", "volume": "6", "number": "1",
+        "note": "May be numbered 6."},
+       {"issue-date": "1938-04", "volume": "6", "number": "2"},
+       {"issue-date": "1938-06", "volume": "6", "number": "3"},
+       {"issue-date": "1938-08", "volume": "7", "number": "1"},
+       {"issue-date": "1938-10", "volume": "7", "number": "2"}
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-08-12"
+   "last-updated": "2026-06-01"
 }

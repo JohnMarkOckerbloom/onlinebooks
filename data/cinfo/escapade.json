@@ -1,0 +1,60 @@
+{
+   "title": "Escapade",
+   "online": "1",
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/FMI/link.asp?magid=ESC",
+       "note": "FictionMags (partial)"}
+   ],
+   "first-issue":
+      {"issue-date": "1955-10", "volume": "1", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "database",
+   "first-renewed-contribution":
+      {"issue": {"issue-date": "1955-10", "volume": "1", "number": "1"}}, 
+   "first-renewed-contribution-source": "database",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1955-10", "volume": "1", "number": "1"}, 
+      "title": "The Mice",
+      "author": {
+         "authorized": "Bradbury, Ray, 1920-2012",
+         "lcna": "n79139258"
+      }
+     },
+     {"issue": {"issue-date": "1956-06", "volume": "1", "number": "9"},
+      "title": "The Murderer",
+      "author": {
+       "name": "Richard Harper"
+      }
+     },
+     {"issue": {"issue-date": "1956-09", "volume": "1", "number": "11"},
+      "title": "Masterpiece",
+      "note": "Issue number as stated in magazine table of contents.  The August 1956 issue may have used that issue number as well.",
+      "author": {
+        "authorized": "Porges, Arthur, 1915-2006",
+       "lcna": "no2010083924"
+      }
+     },
+     {"issue": {"issue-date": "1957-05", "volume": "2", "number": "5"},
+      "title": "A Belle for Adonis",
+      "author": {
+       "name": "James Franklin Peirce"
+      }
+     },
+     {"issue": {"issue-date": "1962-04", "volume": "7", "number": "3"},
+      "title": "How I Got Out of the Army",
+      "author": {
+       "authorized": "Collier, James Lincoln, 1928-2024",
+       "lcna": "50029196"
+      }
+     }
+   ],
+   "additional-notes": [
+     "The renewed contributions listing here includes all renewal filings that specifically mention this magazine and a specific contribution to it. Some early issues reprinted work that had originally appeared in other publications.   We have not systematically checked the copyrights of such reprints, but the FictionMags contents listings include details on some of them.",
+     "A 1990 renewal for the 1962 book 'The Whites of Their Eyes' by Rowland B. Wilson mentions that some of the cartoons in it were previously published in Escapade and other magazines.  It is possible that that renewal might cover any such cartoons published in Escapade in 1962."
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2026-06-04"
+}

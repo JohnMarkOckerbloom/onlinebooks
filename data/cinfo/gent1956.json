@@ -1,0 +1,129 @@
+{
+   "title": "Gent",
+   "title-note": "American men's magazine",
+   "online": "1",
+   "contents": [
+      {"url": "http://www.philsp.com/homeville/FMI/link.asp?magid=GNT",
+       "note": "FictionMags (partial; selected issues only)"}
+   ],
+   "first-issue": {"issue-date": "1956-09", "volume": "1", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "database",
+   "first-renewed-contribution":
+     {"issue": {"issue-date": "1956-09", "volume": "1", "number": "1"}},
+   "first-renewed-contribution-source": "database",
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1956-09", "volume": "1", "number": "1"},
+        "title": "The Pride of Miss Stella Sibley",
+        "author": {
+         "authorized": "Caldwell, Erskine, 1903-1987",
+         "lcna": "n78095661"
+        }
+     },
+     {"issue": {"issue-date": "1956-12", "volume": "1", "number": "2"},
+      "title": "The Mating of Moogoo",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1957-02", "volume": "1", "number": "3"},
+      "title": "The Hungry One",
+      "author": {
+        "authorized": "Ellison, Harlan",
+        "lcna": "n50010025"
+      }
+     },
+     {"issue": {"issue-date": "1957-08", "volume": "1", "number": "6"},
+      "title": "Jewelry",
+      "author": {
+        "authorized": "Moravia, Alberto, 1907-1990",
+        "lcna": "n79043907"
+       }
+     },
+     {"issue": {"issue-date": "1958-04", "volume": "2", "number": "4"},
+      "title": "Boffola",
+      "author": {
+        "authorized": "Slesar, Henry",
+        "lcna": "n87844215"
+      }
+     },
+     {"issue": {"issue-date": "1958-06", "volume": "2", "number": "5"}, 
+      "title": "Cushions",
+      "author": {
+        "authorized": "St. Clair, Margaret",
+        "lcna": "n85038071"
+      }
+     },
+     {"issue": {"issue-date": "1959-02", "volume": "3", "number": "3"}, 
+      "title": "The Nembutal Tree",
+      "author": {
+        "authorized": "St. Clair, Margaret",
+        "lcna": "n85038071"
+      }
+     },
+     {"issue": {"issue-date": "1960-02", "volume": "4", "number": "3"},
+      "title": "The Neon Graveyard",
+      "author": {
+         "authorized": "Bloch, Robert, 1917-1994",
+         "lcna": "n50016557"
+      }
+     },
+     {"issue": {"issue-date": "1960-08", "volume": "4", "number": "6"}, 
+      "title": "Turnover",
+      "author": {
+        "authorized": "Tenn, William, 1920-2010",
+        "lcna": "n88651363"
+      }
+     },
+     {"issue": {"issue-date": "1960-10", "volume": "5", "number": "1"}, 
+      "title": "The Lover and the Scholar",
+      "author": {
+       "authorized": "Weales, Gerald, 1925-2013",
+       "using": "Gerald Weeler",
+       "lcna": "n50023757"
+      }
+     },
+     {"issue": {"issue-date": "1960-10", "volume": "5", "number": "1"}, 
+      "title": "Treasure Chest",
+      "author": {
+        "authorized": "St. Clair, Margaret",
+        "lcna": "n85038071"
+      }
+     },
+     {"issue": {"issue-date": "1960-10", "volume": "5", "number": "1"}, 
+      "title": "Southern Discomfort",
+      "author": {
+         "authorized": "Bloch, Robert, 1917-1994",
+         "lcna": "n50016557"
+      }
+     },
+     {"issue": {"issue-date": "1961-02", "volume": "5", "number": "3"}, 
+      "title": "The Fungus in the Shower",
+      "author": {
+        "authorized": "St. Clair, Margaret",
+        "lcna": "n85038071"
+      }
+     },
+     {"issue": {"issue-date": "1961-02", "volume": "5", "number": "3"}, 
+      "title": "Hitchhiker and the Lady",
+      "author": {
+        "authorized": "St. Clair, Margaret",
+        "lcna": "n85038071"
+      }
+     },
+     {"issue": {"issue-date": "1961-08", "volume": "5", "number": "6"}, 
+      "title": "Buy Now, Die Later",
+      "author": {
+        "authorized": "Jennings, Gary",
+        "lcna": "n50028086"
+      }
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2026-06-08"
+}

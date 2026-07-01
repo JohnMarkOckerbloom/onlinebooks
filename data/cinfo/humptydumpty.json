@@ -1,0 +1,1552 @@
+{
+   "title": "Humpty Dumpty",
+   "aka": ["Humpty Dumpty's Magazine for Little Children"],
+   "first-issue": {"issue-date": "1952-10", "volume": "1", "number": "1"},
+   "first-renewed-issue":
+      {"issue-date": "1953-01", "volume": "1", "number": "4"},
+   "first-renewed-issue-source": "database",
+   "first-renewed-contribution":  {"issue": {"issue-date": "1952-11"}},
+   "first-renewed-contribution-source": "database",
+   "first-autorenewed-issue":
+      {"issue-date": "1964-02", "volume": "12", "number": "115",
+       "cdate": "1964-01-08"},
+   "renewed-issue-completeness": "active/autorenewals",
+   "renewed-issues": [
+      {"issue-date": "1953-01", "volume": "1", "number": "4"},
+      {"issue-date": "1953-02", "volume": "1", "number": "5"},
+      {"issue-date": "1953-03", "volume": "1", "number": "6"},
+      {"issue-date": "1953-04", "volume": "1", "number": "7"},
+      {"issue-date": "1953-05", "volume": "1", "number": "8"},
+      {"issue-date": "1953-07", "volume": "1", "number": "9"},
+      {"issue-date": "1953-09", "volume": "1", "number": "10"},
+      {"issue-date": "1953-10", "volume": "1", "number": "11"},
+      {"issue-date": "1953-11", "volume": "1", "number": "12"},
+      {"issue-date": "1953-12", "volume": "1", "number": "13"},
+      {"issue-date": "1954-02", "volume": "2", "number": "15"},
+      {"issue-date": "1954-03", "volume": "2", "number": "16"},
+      {"issue-date": "1954-04", "volume": "2", "number": "17"},
+      {"issue-date": "1954-05", "volume": "2", "number": "18"},
+      {"issue-date": "1954-07", "volume": "2", "number": "19"},
+      {"issue-date": "1954-09", "volume": "2", "number": "20"},
+      {"issue-date": "1954-10", "volume": "2", "number": "21"},
+      {"issue-date": "1954-11", "volume": "2", "number": "22"},
+      {"issue-date": "1954-12", "volume": "2", "number": "23"},
+      {"issue-date": "1955-02", "volume": "3", "number": "25"},
+      {"issue-date": "1955-03", "volume": "3", "number": "26"},
+      {"issue-date": "1955-04", "volume": "3", "number": "27"},
+      {"issue-date": "1955-05", "volume": "3", "number": "28"},
+      {"issue-date": "1955-07", "volume": "3", "number": "29"},
+      {"issue-date": "1955-09", "volume": "3", "number": "30"},
+      {"issue-date": "1955-10", "volume": "3", "number": "31"},
+      {"issue-date": "1955-11", "volume": "3", "number": "32"},
+      {"issue-date": "1955-12", "volume": "3", "number": "33"},
+      {"issue-date": "1956-01", "volume": "4", "number": "34"},
+      {"issue-date": "1956-02", "volume": "4", "number": "35"},
+      {"issue-date": "1956-03", "volume": "4", "number": "36"},
+      {"issue-date": "1956-04", "volume": "4", "number": "37"},
+      {"issue-date": "1956-05", "volume": "4", "number": "38"},
+      {"issue-date": "1956-07", "volume": "4", "number": "39"},
+      {"issue-date": "1956-09", "volume": "4", "number": "40"},
+      {"issue-date": "1956-10", "volume": "4", "number": "41"},
+      {"issue-date": "1956-11", "volume": "4", "number": "42"},
+      {"issue-date": "1956-12", "volume": "4", "number": "43"},
+      {"issue-date": "1957-01", "volume": "5", "number": "44"},
+      {"issue-date": "1957-02", "volume": "5", "number": "45"},
+      {"issue-date": "1957-03", "volume": "5", "number": "46"},
+      {"issue-date": "1957-04", "volume": "5", "number": "47"},
+      {"issue-date": "1957-05", "volume": "5", "number": "48"},
+      {"issue-date": "1957-07", "volume": "5", "number": "49"},
+      {"issue-date": "1957-09", "volume": "5", "number": "50"},
+      {"issue-date": "1957-10", "volume": "6", "number": "51"},
+      {"issue-date": "1957-11", "volume": "5", "number": "52",
+       "note": "Volume number as stated in renewal record. Original 1957 registration stated this issue was in volume 6."},
+      {"issue-date": "1957-12", "volume": "6", "number": "53"},
+      {"issue-date": "1958-01", "volume": "6", "number": "54"},
+      {"issue-date": "1958-03", "volume": "6", "number": "56"},
+      {"issue-date": "1958-04", "volume": "6", "number": "57"},
+      {"issue-date": "1958-05", "volume": "7", "number": "58"},
+      {"issue-date": "1958-07", "volume": "7", "number": "59"},
+      {"issue-date": "1958-09", "volume": "6", "number": "60",
+       "note": "Volume number as stated in renewal record and original 1958 registration. It is not clear why the volume number went back to 6 with this issue."},
+      {"issue-date": "1958-10", "volume": "6", "number": "61"},
+      {"issue-date": "1958-11", "volume": "6", "number": "62"},
+      {"issue-date": "1958-12", "volume": "6", "number": "63"},
+      {"issue-date": "1959-01", "volume": "7", "number": "64"},
+      {"issue-date": "1959-02", "volume": "7", "number": "65"},
+      {"issue-date": "1959-03", "volume": "7", "number": "66"},
+      {"issue-date": "1959-04", "volume": "7", "number": "67"},
+      {"issue-date": "1959-05", "volume": "7", "number": "68"},
+      {"issue-date": "1959-07", "volume": "7", "number": "69"},
+      {"issue-date": "1959-09", "volume": "7", "number": "70"},
+      {"issue-date": "1959-10", "volume": "7", "number": "71"},
+      {"issue-date": "1959-11", "volume": "7", "number": "72"},
+      {"issue-date": "1959-12", "volume": "7", "number": "73"},
+      {"issue-date": "1960-01", "volume": "8", "number": "74",
+       "cdate": "1959-12-07"},
+      {"issue-date": "1960-02", "volume": "8", "number": "75",
+       "cdate": "1959-12-31"},
+      {"issue-date": "1960-03", "volume": "8", "number": "76",
+       "cdate": "1959-02-03"},
+      {"issue-date": "1960-04", "volume": "8", "number": "77"},
+      {"issue-date": "1960-05", "volume": "8", "number": "78"},
+      {"issue-date": "1960-07", "volume": "8", "number": "79"},
+      {"issue-date": "1960-09", "volume": "8", "number": "80"},
+      {"issue-date": "1960-10", "volume": "8", "number": "81",
+       "note": "Renewal record describes this as 'no. 80 [i.e. 81]'."},
+      {"issue-date": "1960-11", "volume": "8", "number": "82"},
+      {"issue-date": "1960-12", "volume": "8", "number": "83"},
+      {"issue-date": "1961-01", "volume": "8", "number": "84",
+       "cdate": "1960-12-01"},
+      {"issue-date": "1961-02", "volume": "8", "number": "85",
+       "cdate": "1960-12-30"},
+      {"issue-date": "1961-03", "volume": "8", "number": "86",
+       "cdate": "1961-01-31"},
+      {"issue-date": "1961-04", "volume": "9", "number": "87"},
+      {"issue-date": "1961-05", "volume": "9", "number": "88"},
+      {"issue-date": "1961-07", "volume": "9", "number": "89"},
+      {"issue-date": "1961-09", "volume": "9", "number": "90"},
+      {"issue-date": "1961-10", "volume": "9", "number": "91"},
+      {"issue-date": "1961-11", "volume": "9", "number": "92"},
+      {"issue-date": "1961-12", "volume": "9", "number": "93"},
+      {"issue-date": "1962-01", "volume": "10", "number": "94",
+       "cdate": "1961-11-30"},
+      {"issue-date": "1962-02", "volume": "10", "number": "95",
+       "cdate": "1962-01-02"},
+      {"issue-date": "1962-03", "volume": "10", "number": "96"},
+      {"issue-date": "1962-04", "volume": "10", "number": "97"},
+      {"issue-date": "1962-05", "volume": "10", "number": "98"},
+      {"issue-date": "1962-07", "volume": "10", "number": "99"},
+      {"issue-date": "1962-09", "volume": "10", "number": "100"},
+      {"issue-date": "1962-10", "volume": "10", "number": "101"},
+      {"issue-date": "1962-11", "volume": "10", "number": "102"},
+      {"issue-date": "1962-12", "volume": "10", "number": "103"},
+      {"issue-date": "1963-01", "volume": "11", "number": "104",
+       "cdate": "1962-12-06"},
+      {"issue-date": "1963-02", "volume": "11", "number": "105",
+       "cdate": "1963-01-08"},
+      {"issue-date": "1963-03", "volume": "11", "number": "106"},
+      {"issue-date": "1963-04", "volume": "11", "number": "107"},
+      {"issue-date": "1963-05", "volume": "11", "number": "108"},
+      {"issue-date": "1963-07", "volume": "11", "number": "109"},
+      {"issue-date": "1963-09", "volume": "11", "number": "110"},
+      {"issue-date": "1963-10", "volume": "11", "number": "111"},
+      {"issue-date": "1963-11", "volume": "11", "number": "112"},
+      {"issue-date": "1963-12", "volume": "11", "number": "113"},
+      {"issue-date": "1964-01", "volume": "11", "number": "114",
+       "cdate": "1963-12-06"}
+   ],
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1952-11"},
+      "title": "The Recent Adventures of Humpty Dumpty, Junior",
+      "title-note": "installment",
+      "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1952-12"},
+      "title": "The Recent Adventures of Humpty Dumpty, Junior",
+      "title-note": "installment",
+      "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1952-12"},
+      "title": "The Thank You Christmas Tree",
+      "note": "Renewal record spells author's first name 'Lillian', but this is likely to be the regular contributor whose name is usually spelled Lilian Moore.",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1953-01"}, 
+      "title": "The Animal Train",
+       "author": {
+         "authorized": "Woolley, Catherine",
+         "lcna": "n87914557"
+       }
+     },
+     {"issue": {"issue-date": "1953-03"}, 
+      "title": "The Owl Who Cured Hiccups",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1953-03"}, 
+      "title": "Mrs. Hen's Vacation",
+       "author": {
+         "authorized": "Woolley, Catherine",
+         "lcna": "n87914557"
+       }
+     },
+     {"issue": {"issue-date": "1953-04"}, 
+      "title": "April Foolishness",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1953-05"}, 
+      "title": "Bear That Overslept",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1953-05"}, 
+      "title": "Johnny Cake for Ronnie",
+       "author": {
+         "authorized": "Woolley, Catherine",
+         "lcna": "n87914557"
+       }
+     },
+     {"issue": {"issue-date": "1953-07"}, 
+      "title": "Mister Goat Gives a Prize",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1953-09"}, 
+      "title": "Junior Gets Hooked",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1953-09"}, 
+      "title": "The Shiny Red Rubber Boots",
+       "author": {
+         "authorized": "Woolley, Catherine",
+         "lcna": "n87914557"
+       }
+     },
+     {"issue": {"issue-date": "1953-10"}, 
+      "title": "Safety First",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1953-11"}, 
+      "title": "A Lot of Applesauce",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1953-12"}, 
+      "title": "Junior's Midnight Ride",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1954-01"}, 
+      "title": "Saved by a Nose",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1954-02"},
+      "title": "The Magic Teapot",
+       "author": {
+          "name": "Mary Calhoun"
+        }
+     },
+     {"issue": {"issue-date": "1954-02"},
+      "title": "Debbie's Visitors",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1954-03"},
+      "title": "The Pet That Benjy Wanted",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1954-04"},
+      "title": "The Same, the Same, But Not the Same",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1954-05"},
+      "title": "Too High, Too Fast, Too Far",
+       "author": {
+          "authorized": "Brown, Gladys Everets",
+          "lcna": "no2006111384"
+        }
+     },
+     {"issue": {"issue-date": "1954-05"},
+      "title": "When Homer Honked",
+       "authors": [
+          {"authorized": "Lewi, Bee", "lcna": "n79078686"},
+          {"authorized": "Latham, Jean Lee", "lcna": "n80033943"}
+       ]
+     },
+     {"issue": {"issue-date": "1954-05"},
+      "title": "Jonathan Why",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1954-07"},
+      "title": "Mitten the Kitten",
+      "note": "Issue date stated as 'Jun/Jul54' in renewal record.",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1954-07"}, 
+      "title": "The Part-Time Dog",
+      "note": "Author name is a pseudonym for Catherine Woolley.",
+       "author": {
+         "authorized": "Thayer, Jane, 1904-2005",
+         "lcna": "n79059810"
+       }
+     },
+     {"issue": {"issue-date": "1954-09"},
+      "title": "Larry and the Wonderful Boat",
+      "note": "Issue date stated as 'Aug/Sep54' in renewal record.",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1954-09"},
+      "title": "The Dog That Lost His Family",
+       "authors": [
+          {"authorized": "Lewi, Bee", "lcna": "n79078686"},
+          {"authorized": "Latham, Jean Lee", "lcna": "n80033943"}
+       ]
+     },
+     {"issue": {"issue-date": "1954-10"},
+      "title": "White Bunny and Brown Bunny",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1954-11"},
+      "title": "The Man Who Never Snoozed",
+       "authors": [
+          {"authorized": "Lewi, Bee", "lcna": "n79078686"},
+          {"authorized": "Latham, Jean Lee", "lcna": "n80033943"}
+       ]
+     },
+     {"issue": {"issue-date": "1954-11"},
+      "title": "A Home for Little Brown Dog",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1954-12"},
+      "title": "The Tree in the Tub",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1955-02"}, 
+      "title": "The Missing Walnuts",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1955-02"},
+      "title": "The Three Coats of Benny Bunny",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1955-03"}, 
+      "title": "Little Lost Mouse",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1955-03"}, 
+      "title": "Little Hoot and the Spectacles",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1955-04"}, 
+      "title": "Shoe Shine",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1955-04"}, 
+      "title": "The Runaway Kite",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1955-05"}, 
+      "title": "Junior and the Baby Sitter",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1955-05"}, 
+      "title": "Little Brown Dog and the Duckling",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1955-07"},
+      "title": "The Lonely Scarecrow",
+      "note": "Issue date stated as 'Jun-Jul55' in renewal record.",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1955-07"}, 
+      "title": "Junior, the Great",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1955-09"},
+      "title": "The Bottle That Went to Sea",
+      "note": "Issue date stated as 'Aug-Sep55' in renewal record.",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1955-09"}, 
+      "title": "Junior Learns to Swim",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1955-10"}, 
+      "title": "Halloween Night",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1955-10"}, 
+      "title": "The Riddle Walk",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1955-10"}, 
+      "title": "Andy and Mister Cunningham",
+      "note": "Author name is a pseudonym for Catherine Woolley.",
+       "author": {
+         "authorized": "Thayer, Jane, 1904-2005",
+         "lcna": "n79059810"
+       }
+     },
+     {"issue": {"issue-date": "1955-11"}, 
+      "title": "Junior Does the Shopping",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1955-11"}, 
+      "title": "Mister Nick Nock Goes Fishing",
+       "author": {
+          "authorized": "Brown, Gladys Everets",
+          "lcna": "no2006111384"
+        }
+     },
+     {"issue": {"issue-date": "1955-11"}, 
+      "title": "The Fox and the Chickens",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1955-12"}, 
+      "title": "Bascom, the Blue-Nosed Bear",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1955-12"}, 
+      "title": "Little Bug and Big Bug",
+       "author": {
+         "authorized": "Potter, Miriam Clark, 1886-1965",
+         "lcna": "no2003121513"
+       }
+     },
+     {"issue": {"issue-date": "1955-12"}, 
+      "title": "The House That Nobody Wanted",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1956-01"}, 
+      "title": "Davy Crickett",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1956-01"}, 
+      "title": "Cubby and the Winter World",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1956-02"},
+      "title": "The Big Test",
+      "title-note": "installment",
+      "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1956-02"},
+      "title": "The Toboggan Ride",
+       "author": {
+          "authorized": "Brown, Gladys Everets",
+          "lcna": "no2006111384"
+        }
+     },
+     {"issue": {"issue-date": "1956-02"},
+      "title": "Gray Kitten and the Tiger",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1956-03"},
+      "title": "The Big Test",
+      "title-note": "installment",
+      "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1956-03"},
+      "title": "The Patchwork Puppy",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1956-04"},
+      "title": "Biff, Boff, and Burp",
+      "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1956-04"},
+      "title": "Sammie and the Something Machine",
+       "author": {
+          "name": "Mary Calhoun"
+        }
+     },
+     {"issue": {"issue-date": "1956-04"},
+      "title": "The Happy-Go-Merry-Go-Round",
+       "author": {
+         "name": "Thomasina Weber"
+       }
+     },
+     {"issue": {"issue-date": "1956-04"},
+      "title": "Scurry, Scamper, and Zoomer: Story; Good News: Poem",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1956-05"},
+      "title": "Junior's Big Joke",
+      "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1956-05"},
+      "title": "Laurie and the Yellow Curtains",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1956-07"},
+      "title": "Hocus Pocus",
+      "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1956-07"},
+      "title": "Little Brown Dog Finds Out",
+      "note": "Issue date stated as 'Jun/Jul56' renewal record.",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1956-09"},
+      "title": "The Lonesome Hermit",
+      "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1956-09"},
+      "title": "The Party That Turned Upside Down",
+      "author": {
+         "authorized": "Preston, Edna Mitchell",
+         "lcna": "n50028244"
+       }
+     },
+     {"issue": {"issue-date": "1956-09"},
+      "title": "Marty and Smarty-Story: Poem",
+      "note": "Issue date stated as 'Aug/Sep56' renewal record.",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1956-10"},
+      "title": "Ping-Pong",
+      "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1956-10"},
+      "title": "Little Brown Dog and the Funny Face",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1956-11"},
+      "title": "The Dancing Horse",
+      "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1956-11"},
+      "title": "Little Mouse and the Storybook: Story; Just Right: Poem",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1956-12"},
+      "title": "The Thankful Moth",
+      "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1956-12"},
+      "title": "The Hide and Seek Presents",
+       "author": {
+         "authorized": "Potter, Miriam Clark, 1886-1965",
+         "lcna": "no2003121513"
+       }
+     },
+     {"issue": {"issue-date": "1956-12"},
+      "title": "The Christmas Birthday: Story; New Snot: Poem",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1957-01"},
+      "title": "Junior's Secret",
+      "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1957-01"},
+      "title": "The Snow Express",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1957-02"}, 
+      "title": "Junior Bakes a Cake",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1957-02"}, 
+      "title": "Little Hitch Mouse",
+       "author": {
+         "authorized": "Potter, Miriam Clark, 1886-1965",
+         "lcna": "no2003121513"
+       }
+     },
+     {"issue": {"issue-date": "1957-02"}, 
+      "title": "The I-Love-You Day",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1957-02"}, 
+      "title": "My Mittens",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1957-03"}, 
+      "title": "Chief Sitting Bull Stands Up",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1957-03"}, 
+      "title": "The Sweet Patootie Doll",
+       "author": {
+          "name": "Mary Calhoun"
+        }
+     },
+     {"issue": {"issue-date": "1957-03"}, 
+      "title": "Tony the Pony",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1957-03"},
+      "title": "The Runaway Shoes",
+      "author": {
+         "authorized": "Preston, Edna Mitchell",
+         "lcna": "n50028244"
+       }
+     },
+     {"issue": {"issue-date": "1957-04"}, 
+      "title": "The Lion Tamer",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1957-04"}, 
+      "title": "Easter Bunny's Accident",
+       "author": {
+         "authorized": "Potter, Miriam Clark, 1886-1965",
+         "lcna": "no2003121513"
+       }
+     },
+     {"issue": {"issue-date": "1957-04"}, 
+      "title": "Big Bear and the Pond",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1957-05"}, 
+      "title": "Junior, the Storekeeper",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1957-05"}, 
+      "title": "Little Gray Mouse and the Train",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1957-07"}, 
+      "title": "The Bareheaded Whale",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1957-07"},
+      "title": "Sandwich for a Sand Witch",
+       "author": {
+          "name": "Mary Calhoun"
+        }
+     },
+     {"issue": {"issue-date": "1957-09"}, 
+      "title": "Junior Builds a TV Set",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1957-09"}, 
+      "title": "How to Find a Friend",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1957-09"}, 
+      "title": "Isn't it Funny?",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1957-10"}, 
+      "title": "Birthday Dinner",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1957-10"}, 
+      "title": "Money is Funny",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1957-11"}, 
+      "title": "The Pig Who Went to Market",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1957-11"}, 
+      "title": "Little Will",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1957-12"}, 
+      "title": "Junior Delivers the Mail",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1957-12"}, 
+      "title": "Christmas Puppy",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1958-01"}, 
+      "title": "Doctor Junior",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1958-01"}, 
+      "title": "Katy and Cleo",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1958-03"}, 
+      "title": "Little Popcorn",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1958-03"}, 
+      "title": "Organ Grinder",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1958-03"}, 
+      "title": "Two Rabbit Friends",
+       "author": {
+         "authorized": "Potter, Miriam Clark, 1886-1965",
+         "lcna": "no2003121513"
+       }
+     },
+     {"issue": {"issue-date": "1958-04"}, 
+      "title": "Lulu Bell",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1958-04"}, 
+      "title": "The Swing",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1958-04"}, 
+      "title": "The Stolen Emerald",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1958-05"}, 
+      "title": "The Brave Little Raccoon",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1958-05"}, 
+      "title": "Joe Mink",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1958-07"}, 
+      "title": "The Queer Birthday Party",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1958-07"}, 
+      "title": "The Showdown",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1958-09"}, 
+      "title": "The Very Best Summer",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1958-09"}, 
+      "title": "House on Fire",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1958-10"}, 
+      "title": "The Space Men",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1958-10"}, 
+      "title": "The Lad and the Dragon",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1958-10"}, 
+      "title": "Stubby Chipmunk Starts to School",
+       "author": {
+         "authorized": "Potter, Miriam Clark, 1886-1965",
+         "lcna": "no2003121513"
+       }
+     },
+     {"issue": {"issue-date": "1958-11"}, 
+      "title": "The Wonderful Day on Dilly Road",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1958-11"}, 
+      "title": "Laugh Bird Laugh",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1958-11"},
+      "title": "Coon With a Broom",
+       "author": {
+          "name": "Mary Calhoun"
+        }
+     },
+     {"issue": {"issue-date": "1958-12"}, 
+      "title": "I Like Blocks",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1958-12"}, 
+      "title": "Substitute Santa",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1959-01"}, 
+      "title": "The Now Really Time",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1959-01"}, 
+      "title": "Happy New Year",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1959-01"}, 
+      "title": "The Three Cowboys",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1959-02"}, 
+      "title": "Dog House",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1959-02"},
+      "title": "The Tasty Pasty Valentine",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1959-02"},
+      "title": "February Birthday",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1959-03"}, 
+      "title": "Easter Hat",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1959-04"}, 
+      "title": "Junior Visits New York",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1959-04"},
+      "title": "The April Fool's Day Champ",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1959-04"},
+      "title": "Spring Showers",
+       "author": {
+         "name": "Thomasina Weber"
+       }
+     },
+     {"issue": {"issue-date": "1959-05"}, 
+      "title": "The Camping Trip",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1959-05"},
+      "title": "No-Go Donkey",
+      "note": "Renewal record notes additional title 'Donkey Story'.",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1959-05"},
+      "title": "Old Man B'ar Goes a-journeying",
+       "author": {
+          "name": "Mary Calhoun"
+        }
+     },
+     {"issue": {"issue-date": "1959-07"}, 
+      "title": "Summer Picnic",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1959-07"},
+      "title": "A Fish Story",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1959-09"}, 
+      "title": "The Red Socks",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1959-09"},
+      "title": "A Pet Called Boss",
+      "note": "Renewal record notes additional title 'A Crow Called Boss'.",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1959-10"}, 
+      "title": "The Wicked Witch",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1959-10"},
+      "title": "Too Manhy Bozos",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1959-10"}, 
+      "title": "The Browns and the Broomstick",
+       "author": {
+         "authorized": "Potter, Miriam Clark, 1886-1965",
+         "lcna": "no2003121513"
+       }
+     },
+     {"issue": {"issue-date": "1959-11"}, 
+      "title": "A Turkey for Thanksgiving",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1959-11"},
+      "title": "Little Violet",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1959-11"},
+      "title": "Lone Elizabeth",
+       "author": {
+          "name": "Mary Calhoun"
+        }
+     },
+     {"issue": {"issue-date": "1959-12"}, 
+      "title": "Punching Bag",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1959-12"},
+      "title": "Christmas in the Toy Shop",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1960-01"}, 
+      "title": "Saved by a Nose",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1960-01"}, 
+      "title": "The Dog Who Thought He Was a Cat",
+      "note": "Author name is a pseudonym for Catherine Woolley.",
+       "author": {
+         "authorized": "Thayer, Jane, 1904-2005",
+         "lcna": "n79059810"
+       }
+     },
+     {"issue": {"issue-date": "1960-02"},
+      "title": "Adventure of the Silver Bird Express",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1960-03"}, 
+      "title": "Cook Out",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1960-03"},
+      "title": "How Suspenders Came to Texas",
+       "author": {
+          "name": "Mary Calhoun"
+        }
+     },
+     {"issue": {"issue-date": "1960-03"},
+      "title": "The Day the Wind Went Whee",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1960-04"}, 
+      "title": "Junior's Easter Suit",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1960-05"}, 
+      "title": "Bluebird House",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1960-05"},
+      "title": "Minx and Jinx",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1960-07"}, 
+      "title": "Junior's Good Deed",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1960-07"},
+      "title": "Cat's Whiskers",
+       "author": {
+          "name": "Mary Calhoun"
+        }
+     },
+     {"issue": {"issue-date": "1960-07"}, 
+      "title": "Pancakes Today",
+       "author": {
+         "authorized": "Thompson, Vivian L., 1911-2005",
+         "lcna": "n50008401"
+       }
+     },
+     {"issue": {"issue-date": "1960-09"}, 
+      "title": "Baby Sitter",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1960-10"}, 
+      "title": "The Bully",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1960-11"}, 
+      "title": "Junior Fixes the TV",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1960-11"},
+      "title": "I Like Fingerpaints",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1960-11"}, 
+      "title": "Time for Bed",
+       "author": {
+         "authorized": "Thompson, Vivian L., 1911-2005",
+         "lcna": "n50008401"
+       }
+     },
+     {"issue": {"issue-date": "1960-12"}, 
+      "title": "Mr. Dumpty Buys a Tree",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1960-12"},
+      "title": "A Pickle for a Nickle",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1961-01"}, 
+      "title": "Alexander Graham Baboon",
+       "author": {
+         "authorized": "Gardner, Martin, 1914-2010",
+         "lcna": "n79054207"
+       }
+     },
+     {"issue": {"issue-date": "1961-01"}, 
+      "title": "Surprise in the Tree",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1961-05"}, 
+      "title": "The Runaway Day",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1961-05"}, 
+      "title": "Emerald Enjoyed the Moonlight",
+      "note": "Author name is a pseudonym for Catherine Woolley. Story is also known as 'The Cat Who Liked the Moonlight'. Both author and illustrator are named as copyright claimants in the renewal record.",
+       "author": {
+         "authorized": "Thayer, Jane, 1904-2005",
+         "lcna": "n79059810"
+       },
+       "illustrator": {
+        "authorized": "Fleishman, Seymour",
+        "lcna": "n79018663"
+       }
+     },
+     {"issue": {"issue-date": "1961-10"},
+      "title": "Thankful Baby Racoon",
+      "note": "Title as spelled in renewal record.",
+       "author": {
+          "authorized": "Berg, Jean Horton",
+          "lcna": "n50007792"
+        }
+     },
+     {"issue": {"issue-date": "1961-11"},
+      "title": "Patrick O'Michael and the Hungry Leprechaun",
+       "author": {
+          "name": "Mary Calhoun"
+        }
+     },
+     {"issue": {"issue-date": "1961-11"},
+      "title": "The Hungry Leprechaun",
+      "note": "This was renewed separately from the title above, though it is possible they are the same work.",
+       "author": {
+          "name": "Mary Calhoun"
+        }
+     },
+     {"issue": {"issue-date": "1961-11"}, 
+      "title": "The Hiding Place",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1961-12"},
+      "title": "The Tell-Tale Tail",
+       "author": {
+          "name": "Mary Calhoun"
+        }
+     },
+     {"issue": {"issue-date": "1962-02"}, 
+      "title": "You Lucky Egg! Poem",
+      "author": {
+         "authorized": "Walker, Barbara K.",
+         "lcna": "n50020074"
+       }
+     },
+     {"issue": {"issue-date": "1962-03"}, 
+      "title": "The Wiggly Tooth",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1962-03"}, 
+      "title": "The Giggles: Poem",
+      "author": {
+         "authorized": "Walker, Barbara K.",
+         "lcna": "n50020074"
+       }
+     },
+     {"issue": {"issue-date": "1962-04"}, 
+      "title": "The Tree",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1962-04"}, 
+      "title": "The Weather Bunions",
+      "author": {
+         "authorized": "Walker, Barbara K.",
+         "using": "Beth Kilreon",
+         "lcna": "n50020074"
+       }
+     },
+     {"issue": {"issue-date": "1962-07"},
+      "title": "Someday Never Comes",
+       "author": {
+          "name": "Mary Calhoun"
+        }
+     },
+     {"issue": {"issue-date": "1962-07"}, 
+      "title": "The Lion's Den: Playlet",
+      "author": {
+         "authorized": "Walker, Barbara K.",
+         "lcna": "n50020074"
+       }
+     },
+     {"issue": {"issue-date": "1962-09"}, 
+      "title": "The Cat That Joined the Club",
+      "note": "Author name is a pseudonym for Catherine Woolley.",
+       "author": {
+         "authorized": "Thayer, Jane, 1904-2005",
+         "lcna": "n79059810"
+       }
+     },
+     {"issue": {"issue-date": "1962-10"}, 
+      "title": "The Bunny in the Honeysuckle Patch",
+      "note": "Author name is a pseudonym for Catherine Woolley.",
+       "author": {
+         "authorized": "Thayer, Jane, 1904-2005",
+         "lcna": "n79059810"
+       }
+     },
+     {"issue": {"issue-date": "1962-10"}, 
+      "title": "Surprise",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1962-10"}, 
+      "title": "Big and Little: Poem",
+      "author": {
+         "authorized": "Walker, Barbara K.",
+         "lcna": "n50020074"
+       }
+     },
+     {"issue": {"issue-date": "1962-10"}, 
+      "title": "Which Piece is Mine? Playlet",
+      "author": {
+         "authorized": "Walker, Barbara K.",
+         "lcna": "n50020074"
+       }
+     },
+     {"issue": {"issue-date": "1962-11"}, 
+      "title": "The Autumn Birds",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1962-11"}, 
+      "title": "Andy and the Runaway Horse",
+      "note": "Author name is a pseudonym for Catherine Woolley.",
+       "author": {
+         "authorized": "Thayer, Jane, 1904-2005",
+         "lcna": "n79059810"
+       }
+     },
+     {"issue": {"issue-date": "1962-11"}, 
+      "title": "The Rabbit and the Wolf: Playlet",
+      "author": {
+         "authorized": "Walker, Barbara K.",
+         "lcna": "n50020074"
+       }
+     },
+     {"issue": {"issue-date": "1962-12"}, 
+      "title": "Growing",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1963-01"}, 
+      "title": "The Peanut Butter Sandwich",
+      "author": {
+         "authorized": "Moore, Lilian",
+         "lcna": "n50005804"
+       }
+     },
+     {"issue": {"issue-date": "1963-04"}, 
+      "title": "Fried Onions and Marshmallows",
+      "author": {
+         "name": "Sally Melcher Jarvis"
+       }
+     },
+     {"issue": {"issue-date": "1963-05"}, 
+      "title": "Free Bacon",
+      "author": {
+         "name": "Sally Melcher Jarvis"
+       }
+     },
+     {"issue": {"issue-date": "1963-09"}, 
+      "title": "Trip-Trap! Trip Trap!",
+      "author": {
+         "name": "Sally Melcher Jarvis"
+       }
+     },
+     {"issue": {"issue-date": "1964-01"}, 
+      "title": "Why the Turtle Does Not Talk",
+      "author": {
+         "name": "Sally Melcher Jarvis"
+       }
+     }
+   ],
+   "comment": "Pick up after #185 (1991-12-24) of 357 on title search for 'Humpty' filtered by RE and sorted by date",
+   "additional-notes": [
+      "This magazine's full title until 1979 was 'Humpty Dumpty's Magazine for Little Children'.",
+      "A 1987 renewal for the book 'Once Upon a Holiday' by Lilian Moore and Gioia Fiammenghi notes that some stories originally appeared in this magazine.  The renewal may cover any applicable stories by these authors published in 1959 that are not explicitly listed above."
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2026-06-30"
+}

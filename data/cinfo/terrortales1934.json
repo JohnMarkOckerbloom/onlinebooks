@@ -14,7 +14,7 @@
    "first-renewed-contribution-source": "cce",
    "last-issue":
      {"issue-date": "1941-03", "volume": "13", "number": "3"},
-   "renewed-issue-completeness": "active/1935",
+   "renewed-issue-completeness": "active/1936",
    "renewed-issues": [
      {"issue-date": "1934-11", "volume": "1", "number": "3"},
      {"issue-date": "1934-12", "volume": "1", "number": "4"},
@@ -44,11 +44,19 @@
      {"issue-date": "1936-06", "volume": "6", "number": "2"},
      {"issue-date": "1936-July-August", "volume": "6", "number": "3"},
      {"issue-date": "1936-September-October", "volume": "6", "number": "4"},
-     {"issue-date": "1936-November-December", "volume": "7", "number": "1"}
+     {"issue-date": "1936-November-December", "volume": "7", "number": "1"},
+     {"issue-date": "1937-January-February", "volume": "7", "number": "2",
+      "cdate": "1936-11-25"},
+     {"issue-date": "1937-March-April", "volume": "7", "number": "3",
+      "cdate": "1937-01-22"},
+     {"issue-date": "1937-May-June", "volume": "7", "number": "4"},
+     {"issue-date": "1937-July-August", "volume": "8", "number": "1"},
+     {"issue-date": "1937-September-October", "volume": "8", "number": "2"},
+     {"issue-date": "1937-November-December", "volume": "8", "number": "3"}
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2025-07-22"
+   "last-updated": "2026-06-01"
 }

@@ -67,7 +67,7 @@ my $bigserialparams = {
    link => $BIGSERIALFORMLINK,
 };
 
-my $gateway = "172.16.34.184";
+my $gatewaynet = "172.16.";
 
 my $pagestarted = 0;
 
@@ -101,7 +101,7 @@ sub wherefrom {
   # We may just be getting our gateway's IP address; if so,
   # see if it's passing in the real requester's IP via an environment variable
   my $for = $ENV{'HTTP_X_FORWARDED_FOR'};
-  if (($from eq $gateway) && $for) {
+  if (($from =~ /^$gatewaynet/) && $for) {
     $from = $for;
   }
   return $from;

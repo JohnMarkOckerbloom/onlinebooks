@@ -11,6 +11,8 @@
    },
    "first-renewed-contribution-source": "1963-JanJun",
    "see-also": [
+      {"id": "vanityfair",
+       "note": "Vanity Fair"},
       {"id": "voguefashion",
        "note": "Vogue Fashion Bi-Monthly"},
       {"id": "voguepatterns",
@@ -18,7 +20,7 @@
       {"id": "voguemidmonth",
        "note": "Vogue's Mid-Month Collection"}
    ],
-   "renewed-issue-completeness": "active/1935",
+   "renewed-issue-completeness": "active/1936",
    "renewed-issues": [
      {"issue-date": "1931-01-15", "volume" : "77", "number": "2"},
      {"issue-date": "1931-02-01", "volume" : "77", "number": "3"},
@@ -163,11 +165,37 @@
      {"issue-date": "1936-10-15", "volume" : "88", "number": "8"},
      {"issue-date": "1936-11-01", "volume" : "88", "number": "9"},
      {"issue-date": "1936-11-15", "volume" : "88", "number": "10"},
-     {"issue-date": "1936-12-01", "volume" : "88", "number": "11"}
+     {"issue-date": "1936-12-01", "volume" : "88", "number": "11"},
+     {"issue-date": "1936-12-15", "volume" : "88", "number": "12"},
+     {"issue-date": "1937-01-01", "volume" : "89", "number": "1",
+      "cdate": "1936-12-31"},
+     {"issue-date": "1937-01-15", "volume" : "89", "number": "2",
+      "cdate": "1937-01-15"},
+     {"issue-date": "1937-02-01", "volume" : "89", "number": "3"},
+     {"issue-date": "1937-02-15", "volume" : "89", "number": "4"},
+     {"issue-date": "1937-03-01", "volume" : "89", "number": "5"},
+     {"issue-date": "1937-03-15", "volume" : "89", "number": "6"},
+     {"issue-date": "1937-04-01", "volume" : "89", "number": "7"},
+     {"issue-date": "1937-04-15", "volume" : "89", "number": "8"},
+     {"issue-date": "1937-05-01", "volume" : "89", "number": "9"},
+     {"issue-date": "1937-05-15", "volume" : "89", "number": "10"},
+     {"issue-date": "1937-06-01", "volume" : "89", "number": "11"},
+     {"issue-date": "1937-06-15", "volume" : "89", "number": "12"},
+     {"issue-date": "1937-07-01", "volume" : "90", "number": "1"},
+     {"issue-date": "1937-07-15", "volume" : "90", "number": "2"},
+     {"issue-date": "1937-08-01", "volume" : "90", "number": "3"},
+     {"issue-date": "1937-08-15", "volume" : "90", "number": "4"},
+     {"issue-date": "1937-09-15", "volume" : "90", "number": "6"},
+     {"issue-date": "1937-10-01", "volume" : "90", "number": "7"},
+     {"issue-date": "1937-10-15", "volume" : "90", "number": "8"},
+     {"issue-date": "1937-11-01", "volume" : "90", "number": "9"},
+     {"issue-date": "1937-11-15", "volume" : "90", "number": "10"},
+     {"issue-date": "1937-12-01", "volume" : "90", "number": "11"}
    ],
+   "additional-note": "Vogue incorporated Vanity Fair in 1936.  Vanity Fair had previously been a separate title, and became separate once again in the 1980s.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2026-01-09"
+   "last-updated": "2026-06-03"
 }

@@ -7,14 +7,18 @@
    "first-renewed-contribution":
      {"issue": {"issue-date": "1931-Spring", "cdate": "1931-03-10"}}, 
    "first-renewed-contribution-source": "1958-JanJun",
-   "renewed-issue-completeness": "active/1935",
+   "renewed-issue-completeness": "active/1936",
    "renewed-issues": [
       {"issue-date": "1934-Autumn", "volume": "24", "number": "1"},
       {"issue-date": "1934-12", "volume": "24", "number": "2"},
       {"issue-date": "1935-Spring", "volume": "24", "number": "3"},
       {"issue-date": "1935-06", "volume": "24", "number": "4"},
       {"issue-date": "1935-09", "volume": "25", "number": "1"},
-      {"issue-date": "1935-12", "volume": "25", "number": "2"}
+      {"issue-date": "1935-12", "volume": "25", "number": "2"},
+      {"issue-date": "1936-03", "volume": "25", "number": "3"},
+      {"issue-date": "1936-06", "volume": "25", "number": "4"},
+      {"issue-date": "1936-09", "volume": "26", "number": "1"},
+      {"issue-date": "1936-12", "volume": "26", "number": "2"}
    ],
    "renewed-contribution-completeness": "active/1950",
    "renewed-contributions": [
@@ -465,5 +469,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2026-01-02"
+   "last-updated": "2026-06-09"
 }

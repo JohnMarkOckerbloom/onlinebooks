@@ -1,5 +1,6 @@
 {
    "title": "Masses and Mainstream",
+   "online": "1",
    "preceded-by": [{"id": "newmasses", 
                      "note": "New Masses"}],
    "first-issue": {"issue-date": "1948-03", "volume": "1", "number": "1"},
@@ -27,9 +28,9 @@
          "lcna": "n79041798"
       }
      },
-     {"issue": {"issue-date": "1956-04"},
+     {"issue": {"issue-date": "1956-05", "volume": "9", "number": "4"},
       "title": "The Story of Lola Gregg",
-      "note": "The 1984 renewal record for this book notes that one chapter appeared in this issue.",
+      "note": "The 1984 renewal record for this book notes that one chapter appeared in the April 1956 issue. The issue it actually appeared in is dated May 1956.",
       "author": {
          "authorized": "Fast, Howard, 1914-2003",
          "lcna": "n79043401"
@@ -40,5 +41,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2026-05-29"
+   "last-updated": "2026-06-01"
 }

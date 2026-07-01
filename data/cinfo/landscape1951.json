@@ -9,11 +9,82 @@
      {"issue":
        {"issue-date": "Winter 1953-1954", "volume": "3", "number": "2"}},
    "first-renewed-contribution-source": "database",
+   "renewed-issue-completeness": "active/autorenewals",
+   "renewed-issues": [
+     {"issue-date": "1951-Spring", "volume": "1", "number": "1"},
+     {"issue-date": "1951-Autumn", "volume": "1", "number": "2"},
+     {"issue-date": "1951-Winter", "volume": "1", "number": "3"},
+     {"issue-date": "1952-Spring", "volume": "2", "number": "1"},
+     {"issue-date": "1952-08", "volume": "2", "number": "2"},
+     {"issue-date": "1953-Spring", "volume": "2", "number": "3"},
+     {"issue-date": "1953-Summer", "volume": "3", "number": "1"},
+     {"issue-date": "Winter 1953-1954", "volume": "3", "number": "2"},
+     {"issue-date": "1954-Spring", "volume": "3", "number": "3"},
+     {"issue-date": "Winter 1954-1955", "volume": "4", "number": "2"},
+     {"issue-date": "1955-Spring", "volume": "4", "number": "3"},
+     {"issue-date": "1955-Summer", "volume": "5", "number": "1"},
+     {"issue-date": "Winter 1955-1956", "volume": "5", "number": "2"},
+     {"issue-date": "1956-Autumn", "volume": "6", "number": "1"},
+     {"issue-date": "Winter 1956-1957", "volume": "6", "number": "2"},
+     {"issue-date": "1957-Spring", "volume": "6", "number": "3"},
+     {"issue-date": "1957-Autumn", "volume": "7", "number": "1"},
+     {"issue-date": "Winter 1957-1958", "volume": "7", "number": "2"},
+     {"issue-date": "1958-Spring", "volume": "7", "number": "3"},
+     {"issue-date": "1958-Autumn", "volume": "8", "number": "1"},
+     {"issue-date": "Winter 1958-1959", "volume": "8", "number": "2",
+      "note": "This renewal is noted as cancelled."},
+     {"issue-date": "1959-Spring", "volume": "8", "number": "3",
+      "note": "This renewal is noted as cancelled, as an attempt to renew a 1959 publication in 1988, too late to be effective."},
+     {"issue-date": "1959-Autumn", "volume": "9", "number": "1",
+      "note": "This renewal is noted as cancelled."},
+     {"issue-date": "Winter 1959-1960", "volume": "9", "number": "2",
+      "note": "This renewal is noted as cancelled."},
+     {"issue-date": "1960-Spring", "volume": "9", "number": "3"},
+     {"issue-date": "1960-Fall", "volume": "10", "number": "1"},
+     {"issue-date": "Winter 1960-1961", "volume": "10", "number": "2"},
+     {"issue-date": "1961-Spring", "volume": "10", "number": "3"},
+     {"issue-date": "1961-Fall", "volume": "11", "number": "1"},
+     {"issue-date": "Winter 1961-1962", "volume": "11", "number": "2"},
+     {"issue-date": "1962-Spring", "volume": "11", "number": "3"},
+     {"issue-date": "1962-Autumn", "volume": "12", "number": "1"},
+     {"issue-date": "Winter 1962-1963", "volume": "12", "number": "2"}
+   ],
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "Winter 1953-1954", "volume": "3", "number": "2"},
+        "title": "Place, Form, and Prayer",
+        "author": {
+         "authorized": "Horgan, Paul, 1903-1995",
+         "lcna": "n79060797"
+        }
+     },
+     {"issue": {"issue-date": "1955-Spring", "volume": "4", "number": "3"},
+        "title": "Desert and Oasis",
+        "author": {
+         "authorized": "Skolle, John",
+         "lcna": "n82130431"
+        }
+     },
+     {"issue": {"issue-date": "Winter 1958-1959", "volume": "8", "number": "2"},
+        "title": "Review of The Church Incarnate by Rudolph Schwartz",
+        "author": {
+         "authorized": "Horgan, Paul, 1903-1995",
+         "lcna": "n79060797"
+        }
+     },
+     {"issue": {"issue-date": "Winter 1960-1961", "volume": "10", "number": "2"},
+       "title": "The Social Function of Open Spaces",
+       "author": {
+        "authorized": "Mumford, Lewis, 1895-1990",
+        "lcna": "n80067179"
+       }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
    "acknowledgement": 
       "Thanks to Pete Sullivan for copyright research on this title.",
-   "last-updated": "2023-12-04"
+   "last-updated": "2026-06-29"
 }

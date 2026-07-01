@@ -1,6 +1,7 @@
 {
    "title": "Midstream",
    "title-note": "American Jewish periodical",
+   "online": "1",
    "first-issue": {"issue-date": "1955-Autumn", "volume": "1", "number": "1"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "database",
@@ -12,9 +13,90 @@
    "first-renewed-contribution-source": "database",
    "see-also": [{"id": "midstream1961", 
                "note": "Mid-Stream (ecumenical Christian periodical, 1961-2002)"}],
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1955-Autumn", "volume": "1", "number": "1"},
+        "title": "The Wife Killer",
+        "author": {
+         "authorized": "Singer, Isaac Bashevis, 1904-1991",
+         "lcna": "n79066617"
+        }
+     },
+     {"issue": {"issue-date": "1957-Summer", "volume": "3", "number": "3"},
+      "title": "Descent From Olympus",
+       "author": {
+         "authorized": "Davidson, Avram",
+         "lcna": "n79022856"
+      }
+     },
+     {"issue": {"issue-date": "1957-Summer", "volume": "3", "number": "3"},
+      "title": "The Crime of Our Century",
+      "author": {
+       "authorized": "Goodman, Paul, 1911-1972",
+       "lcna": "n79045067"
+      }
+     },
+     {"issue": {"issue-date": "1957-Autumn", "volume": "3", "number": "4"},
+      "title": "Epilogue",
+       "author": {
+         "authorized": "Jacobs, Harvey",
+         "lcna": "n80049784"
+      }
+     },
+     {"issue": {"issue-date": "1958-Winter", "volume": "4", "number": "1"},
+      "title": "Wingless Wandervogel",
+      "author": {
+       "authorized": "Goodman, Paul, 1911-1972",
+       "lcna": "n79045067"
+      }
+     },
+     {"issue": {"issue-date": "1959-Winter", "volume": "5", "number": "1"},
+      "title": "Winston Churchill--Sketch for a Portrait",
+      "author": {
+       "authorized": "Lichtheim, George, 1912-1973",
+       "lcna": "n50057273"
+      }
+     },
+     {"issue": {"issue-date": "1959-Winter", "volume": "5", "number": "1"},
+      "title": "A Handful of Ball-Points, a Heartful of Love",
+      "author": {
+       "authorized": "Swados, Harvey",
+       "lcna": "n50011348"
+      }
+     },
+     {"issue": {"issue-date": "1960-Autumn", "volume": "6", "number": "4"},
+      "title": "The Wall: A Play in Two Acts",
+      "author": {
+       "authorized": "Lampell, Millard, 1919-1997",
+       "lcna": "n50079112"
+      }
+     },
+     {"issue": {"issue-date": "1961-Winter", "volume": "7", "number": "1"},
+        "title": "Preliminary Pages for a Work of Revenge",
+        "author": {
+         "authorized": "Moore, Brian, 1921-1999",
+         "lcna": "n79063739"
+        }
+     },
+     {"issue": {"issue-date": "1961-Summer", "volume": "7", "number": "3"},
+        "title": "Big and Little",
+        "author": {
+         "authorized": "Singer, Isaac Bashevis, 1904-1991",
+         "lcna": "n79066617"
+        }
+     },
+     {"issue": {"issue-date": "1963-12", "volume": "9", "number": "4"},
+        "title": "What Does Non-Violence Mean?",
+        "author": {
+         "authorized": "Baraka, Amiri, 1934-2014",
+         "using": "LeRoi Jones",
+         "lcna": "n79108930"
+        }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-04-06"
+   "last-updated": "2026-06-06"
 }
