@@ -20,7 +20,8 @@ my $grworkprefix = "https://www.goodreads.com/book/show/";
 
 my $bookshopprefix   = "https://bookshop.org/search?";
 my $amazonprefix     = "https://www.amazon.com/s?";
-my $bnprefix         = "https://www.barnesandnoble.com/s/";
+# my $bnprefix         = "https://www.barnesandnoble.com/s/";
+my $bnprefix         = "https://www.barnesandnoble.com/search?q=";
 my $bookfinderprefix = "https://www.bookfinder.com/search/?mode=basic&st=sr&ac=qr&lang=any&";
 
 my $countries = {
@@ -349,7 +350,8 @@ sub _amazon_buy_link_html {
 sub _bn_buy_link_html {
   my ($title, $author) = @_;
   my $informalauthor = _informalname($author);
-  my $query = "keywords=$title";
+  # my $query = "keywords=$title";
+  my $query = "$title";
   $query .= " by $informalauthor" if ($informalauthor);
   $query =~ s/\s+/\+/g;
   my $url = "$bnprefix$query";

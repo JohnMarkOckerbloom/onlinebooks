@@ -1,0 +1,85 @@
+{
+   "title": "Electronics Illustrated",
+   "first-issue":
+      {"issue-date": "1958-05", "volume": "1", "number": "1"},
+   "first-renewed-issue":
+      {"issue-date": "1958-05", "volume": "1", "number": "1"},
+   "first-renewed-issue-source": "database",
+   "first-renewed-contribution": 
+     {"issue": {"issue-date": "1958-07", "volume": "1", "number": "2"}},
+   "first-renewed-contribution-source": "database",
+   "first-autorenewed-issue":
+      {"issue-date": "1964-05", "volume": "7", "number": "3",
+       "cdate": "1964-02-21"},
+   "renewed-issue-completeness": "active/autorenewals",
+   "renewed-issues": [
+      {"issue-date": "1958-05", "volume": "1", "number": "1"},
+      {"issue-date": "1958-07", "volume": "1", "number": "2"},
+      {"issue-date": "1958-09", "volume": "1", "number": "3"},
+      {"issue-date": "1958-10", "volume": "1", "number": "4"},
+      {"issue-date": "1958-11", "volume": "1", "number": "5"},
+      {"issue-date": "1958-12", "volume": "1", "number": "6"},
+      {"issue-date": "1959-01", "volume": "2", "number": "1"},
+      {"issue-date": "1959-02", "volume": "2", "number": "2"},
+      {"issue-date": "1959-03", "volume": "2", "number": "3"},
+      {"issue-date": "1959-04", "volume": "2", "number": "4"},
+      {"issue-date": "1959-05", "volume": "2", "number": "5"},
+      {"issue-date": "1959-06", "volume": "2", "number": "6"},
+      {"issue-date": "1959-07", "volume": "2", "number": "7"},
+      {"issue-date": "1959-08", "volume": "2", "number": "8"},
+      {"issue-date": "1959-09", "volume": "2", "number": "9"},
+      {"issue-date": "1959-10", "volume": "2", "number": "10"},
+      {"issue-date": "1959-11", "volume": "2", "number": "11"},
+      {"issue-date": "1959-12", "volume": "2", "number": "12"},
+      {"issue-date": "1960-01", "volume": "3", "number": "1"},
+      {"issue-date": "1960-02", "volume": "3", "number": "2"},
+      {"issue-date": "1960-04", "volume": "3", "number": "4"},
+      {"issue-date": "1960-05", "volume": "3", "number": "5"},
+      {"issue-date": "1960-06", "volume": "3", "number": "6"},
+      {"issue-date": "1960-07", "volume": "3", "number": "7"},
+      {"issue-date": "1960-08", "volume": "3", "number": "8"},
+      {"issue-date": "1960-09", "volume": "3", "number": "9"},
+      {"issue-date": "1960-10", "volume": "3", "number": "10"},
+      {"issue-date": "1960-11", "volume": "3", "number": "11"},
+      {"issue-date": "1960-12", "volume": "3", "number": "12"},
+      {"issue-date": "1961-01", "volume": "4", "number": "1"},
+      {"issue-date": "1961-02", "volume": "4", "number": "2"}
+   ],
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1958-07", "volume": "1", "number": "2"},
+      "title": "How to Build a Safe Rocket",
+      "author": {
+       "authorized": "Parkin, Charles M.",
+       "lcna": "n82147182"
+      }
+     },
+     {"issue": {"issue-date": "1958-09", "volume": "1", "number": "3"},
+      "title": "Mixing a Safe Rocket Fuel",
+      "author": {
+       "authorized": "Parkin, Charles M.",
+       "lcna": "n82147182"
+      }
+     },
+     {"issue": {"issue-date": "1958-10", "volume": "1", "number": "4"},
+      "title": "Testing Your Rocket",
+      "author": {
+       "authorized": "Parkin, Charles M.",
+       "lcna": "n82147182"
+      }
+     },
+     {"issue": {"issue-date": "1958-11", "volume": "1", "number": "5"},
+      "title": "Launching Your Model Missile",
+      "author": {
+       "authorized": "Parkin, Charles M.",
+       "lcna": "n82147182"
+      }
+     }
+   ],
+
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2026-07-13"
+}

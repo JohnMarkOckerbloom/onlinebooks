@@ -1,0 +1,20 @@
+{
+   "title": "Physics",
+   "title-note": "1931-1936",
+   "online": "1",
+   "first-issue":
+     {"issue-date": "1931-07", "volume": "1", "number": "1"},
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce",
+   "last-issue":
+     {"issue-date": "1936-12", "volume": "7", "number": "12"},
+   "succeeded-by":
+     [{"id": "japplphysics", "note": "Journal of Applied Physics"}],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2026-07-28"
+}

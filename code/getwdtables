@@ -277,5 +277,9 @@ if ($ARGV[0] eq "viaf") {
   exit 0;
 }
 
+if ($ARGV[0] eq "articles") {
+  do_article_query($querier);
+  exit 0;
+}
 
 do_default_queries($querier);

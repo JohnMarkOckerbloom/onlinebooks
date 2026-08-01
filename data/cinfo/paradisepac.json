@@ -1,12 +1,56 @@
 {
    "title": "Paradise of the Pacific",
+   "online": "1",
+   "first-issue":
+     {"issue-date": "1888-01", "volume": "1", "number": "1"},
    "first-renewed-issue": "none",
    "first-renewed-issue-source": "cce+database",
    "first-renewed-contribution": {"issue": {"issue-date": "1953-01"}},
    "first-renewed-contribution-source": "database",
+   "last-issue":
+      {"issue-date": "1966-May-June", "volume": "78", "number": "3"},
+   "succeeded-by": [{"id": "honolulu1966", "note": "Honolulu"}],
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1953-01"},
+      "title": "Centipedes and Pearls",
+      "author": {
+       "authorized": "Nemethy, Emery",
+       "lcna": "no2010025904"
+      }
+     },
+     {"issue": {"issue-date": "1953-04"},
+      "title": "Da Chorus From Kona",
+      "author": {
+       "authorized": "Nemethy, Emery",
+       "lcna": "no2010025904"
+      }
+     },
+     {"issue": {"issue-date": "1953-07"},
+      "title": "Da Sad Story 'bout Prince Hamlet",
+      "author": {
+       "authorized": "Nemethy, Emery",
+       "lcna": "no2010025904"
+      }
+     },
+     {"issue": {"issue-date": "1954-05"},
+      "title": "Lokenani",
+      "author": {
+       "authorized": "Nemethy, Emery",
+       "lcna": "no2010025904"
+      }
+     },
+     {"issue": {"issue-date": "1954-Holiday edition"},
+      "title": "Ili Mimioo (Rumpled Skin)",
+      "author": {
+       "authorized": "Nemethy, Emery",
+       "lcna": "no2010025904"
+      }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2021-02-09"
+   "last-updated": "2026-07-30"
 }

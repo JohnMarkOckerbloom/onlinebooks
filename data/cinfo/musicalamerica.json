@@ -1,0 +1,24 @@
+{
+   "title": "Musical America",
+   "online": "1",
+   "first-renewed-issue": "none",
+   "first-renewed-issue-source": "cce+database",
+   "first-renewed-contribution": 
+     {"issue": {"issue-date": "1955-02-15", "volume": "75", "number": "4"}},
+   "first-renewed-contribution-source": "database",
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1955-02-15", "volume": "75", "number": "4"},
+      "title": "Do Modern Composers Face an Insoluble Dilemma?",
+      "note": "While there is no renewal specifically filed for this contribution, it is identified as a chapter in the author's book 'The Agony of Modern Music', which was published in 1955 and renewed in 1983.  That renewal may cover this article publication as well.",
+      "author": {
+        "name": "Henry Pleasants"
+      }
+     }
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2026-07-20"
+}
