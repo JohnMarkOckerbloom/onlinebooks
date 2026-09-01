@@ -3,8 +3,9 @@ use strict;
 
 # helper method to ignore date suffixes on single-part names
 # (see below)
-# date suffixes we recognize consist just of digits and dashes
+# date suffixes we recognize consist just of digits, ?s, and dashes
 # or digits-digits B.C.  
+# or that have "approximately" before any commas
 #
 # More complex date suffixes aren't recongized, so informal names
 # for one-word names with more complex date suffixes may need to be
@@ -12,7 +13,10 @@ use strict;
 
 sub _isdatesuffix {
   my $s = shift;
-  return (($s =~ /^[-\d\s]*$/) || ($s =~ /^\s*\d*-\d*\s+B\.\s*C\.\s*$/));
+  if ($s =~ /^[^,]*approximately/) { 
+    return 1;
+  }
+  return (($s =~ /^[-\d\?\s]*$/) || ($s =~ /^\s*\d*-\d*\s+B\.\s*C\.\s*$/));
 }
 
 # informal gives an informal name suitable for printing

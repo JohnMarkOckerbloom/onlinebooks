@@ -1,0 +1,37 @@
+{
+   "title": "Weird Science Fantasy",
+   "contents": [
+      {"url": "https://www.comics.org/series/1065/",
+       "note": "Grand Comics Database"}
+   ],
+   "preceded-by": [{"id": "weirdscience", "note": "Weird Science"},
+                   {"id": "weirdfantasy", "note": "Weird Fantasy"}],
+   "first-issue": 
+       {"issue-date": "1954-Spring", "volume": "1", "number": "23"},
+   "first-renewed-issue": 
+       {"issue-date": "1954-09", "volume": "1", "number": "25"},
+   "first-renewed-issue-source": "database",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "database",
+   "last-issue": 
+       {"issue-date": "1955-May-June", "volume": "1", "number": "29"},
+   "succeeded-by":
+      [{"id": "incrediblesf", "note": "Incredible Science Fiction"}],
+   "renewed-issue-completeness": "active/end",
+   "renewed-issues": [
+       {"issue-date": "1954-09", "volume": "1", "number": "25"},
+       {"issue-date": "1954-November-December", "volume": "1", "number": "26"},
+       {"issue-date": "1955-January-February", "volume": "1", "number": "27"},
+       {"issue-date": "1955-March-April", "volume": "1", "number": "28"},
+       {"issue-date": "1955-May-June", "volume": "1", "number": "29"}
+   ],
+   "additional-notes": [
+     "Issue 23 includes an adaptation of Ray Bradbury's story 'The Flying Machine' from his book 'The Golden Apples of the Sun'. That book has a renewed 1953 copyright, which may also cover the adaptation in this issue.",
+     "Issue 24 includes an adaptation of Eando Binder's story 'The Teacher From Mars' from the February 1941 issue of Thrilling Wonder Stories. That story has a renewed 1940 copyright, which may also cover the adaptation in this issue."
+  ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2026-08-21"
+}

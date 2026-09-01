@@ -8,9 +8,32 @@
      {"issue": {"issue-date": "1938-05"}},
    "first-renewed-contribution-source": "1965-JulDec",
    "last-issue": {"issue-date": "1957-07", "volume": "34", "number": "4"},
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1938-05"}, 
+      "title": "Art as Experience",
+      "author": {
+       "authorized": "Dewey, John, 1859-1952",
+       "lcna": "n79060532"
+      }
+     },
+     {"issue": {"issue-date": "1938-05"}, 
+      "title": "What is Social Study",
+      "author": {
+       "authorized": "Dewey, John, 1859-1952",
+       "lcna": "n79060532"
+      }
+     },
+     {"issue": {"issue-date": "1941-11"}, 
+      "title": "Campus in the Clouds",
+      "author": {
+       "name": "George Kent"
+      }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-04-06"
+   "last-updated": "2026-08-13"
 }

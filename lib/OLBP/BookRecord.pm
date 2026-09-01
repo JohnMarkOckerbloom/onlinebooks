@@ -149,8 +149,8 @@ sub _authorkey {
   $name = lc($name);
   # Remove quotes, apostrophes and terminal punctuation except for commas
   $name =~ s/["';:.?!]//g;
-  # Change hyphens into spaces
-  $name =~ s/-/ /g;
+  # Change hyphens and slashes into spaces
+  $name =~ s/[\-\/]/ /g;
   $name =~ s/\s+/ /g;
   # Remove leading and trailing spaces
   $name =~ s/^ //;
@@ -533,6 +533,16 @@ sub _tabrow {
 
 my $BLANKROW = "<tr><td>&nbsp;</td><td>&nbsp;</td></tr>\n";
 
+# generates a link to the who program
+# (we need to get rid of encoded slashes before we construct the URL)
+
+sub _wholink {
+  my ($arg) = @_;
+  $arg =~ s/\/ //g;
+  $arg =~ s/\%2[Ff]/ /g;
+  return $OLBP::whourl . "/" . $arg;
+}
+
 sub long_entry {
   my ($self, %params) = @_;
   my $str;
@@ -558,7 +568,8 @@ sub long_entry {
       $prop = lc($role);
     }
     # my $vlink = "lookupname?key=" . OLBP::url_encode($formalname);
-    my $vlink = $OLBP::whourl . "/" . OLBP::url_encode($formalname);
+    # my $vlink = $OLBP::whourl . "/" . OLBP::url_encode($formalname);
+    my $vlink = _wholink(OLBP::url_encode($formalname));
     $str .= $self->_tabrow(alink=>$OLBP::authorspage, vlink=>$vlink,
                            attr=>$role, value=>$formalname, property=>$prop);
   }
@@ -607,7 +618,8 @@ sub long_entry {
       my $sub = $subs[$i];
       my $sublink = OLBP::url_encode($sub);
       if ($self->{subjtype}->[$i] eq "LCNSUB" && !($sub =~ /--/)) {
-        $sublink = $OLBP::whourl . "/" . $sublink;
+        # $sublink = $OLBP::whourl . "/" . $sublink;
+        $sublink = _wholink($sublink);
       } else {
         $sublink = "browse?type=lcsubc&amp;key="
            . $sublink . ($self->curated() ? "" : "&amp;c=x");

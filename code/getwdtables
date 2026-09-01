@@ -237,12 +237,18 @@ sub do_viaf_query {
 
 sub hashify {
   my ($file, $result) = @_;
+  my $debug = 0;
+  if ($debug) {
+    open OUT, "> debug.json";
+    print OUT $result;
+    close OUT;
+  }
   my $data = JSON::decode_json($result);
   my $idhash = make_idhash($data);
   packhashtofile($file, $idhash);
 }
 
-sub do_default_queries {
+sub do_copyright_query {
   my ($querier) = @_;
   my $newpath = "$idxdir$wikiprod.hsh";
   if (!$querier->write_managed_query(
@@ -252,6 +258,11 @@ sub do_default_queries {
     print "Something went wrong with the copyright ID query\n";
     exit 0;
   }
+}
+
+sub do_default_queries {
+  my ($querier) = @_;
+  do_copyright_query($querier);
   do_issn_query($querier);
   do_article_query($querier);
 }
@@ -274,6 +285,16 @@ if ($ARGV[0] eq "lccn") {
 
 if ($ARGV[0] eq "viaf") {
   do_viaf_query($querier);
+  exit 0;
+}
+
+if ($ARGV[0] eq "copyright") {
+  do_copyright_query($querier);
+  exit 0;
+}
+
+if ($ARGV[0] eq "issn") {
+  do_issn_query($querier);
   exit 0;
 }
 

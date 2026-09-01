@@ -62,7 +62,7 @@
      {"issue-date": "1932-04-02", "volume": "89", "number": "14"},
      {"issue-date": "1932-04-09", "volume": "89", "number": "15"}
    ],
-   "renewed-contribution-completeness": "active/1932",
+   "renewed-contribution-completeness": "active/1933",
    "renewed-contributions": [
      {"issue": {"issue-date": "1931-01-24", "volume": "87", "number": "4"},
       "title": "The Polecat's Pal",
@@ -2219,6 +2219,13 @@
       }
      },
      {"issue": {"issue-date": "1933-02-11", "volume": "91", "number": "6"},
+       "title": "Pick the Winner",
+       "author": {
+         "authorized": "Runyon, Damon, 1880-1946",
+         "lcna": "n80049533"
+       }
+     },
+     {"issue": {"issue-date": "1933-02-11", "volume": "91", "number": "6"},
       "title": "The Hardened Convert",
       "author": {
          "authorized": "Marquis, Don, 1878-1937",
@@ -2329,6 +2336,13 @@
          "authorized": "Marquis, Don, 1878-1937",
          "lcna": "n50041532"
        }
+     },
+     {"issue": {"issue-date": "1933-03-25", "volume": "91", "number": "12"},
+      "title": "Last Trip",
+      "author": {
+       "authorized": "Adams, Samuel Hopkins, 1871-1958",
+       "lcna": "n50037535"
+      }
      },
      {"issue": {"issue-date": "1933-03-25", "volume": "91", "number": "12"},
        "title": "Including Everything",
@@ -2484,6 +2498,13 @@
        }
      },
      {"issue": {"issue-date": "1933-05-13", "volume": "91", "number": "19"},
+       "title": "The Old Doll's House",
+       "author": {
+         "authorized": "Runyon, Damon, 1880-1946",
+         "lcna": "n80049533"
+       }
+     },
+     {"issue": {"issue-date": "1933-05-13", "volume": "91", "number": "19"},
        "title": "Slander",
        "title-note": "part 6 of 12",
        "author": {
@@ -2604,6 +2625,13 @@
        }
      },
      {"issue": {"issue-date": "1933-06-10", "volume": "91", "number": "23"},
+       "title": "It Comes Up Mud",
+       "author": {
+         "authorized": "Runyon, Damon, 1880-1946",
+         "lcna": "n80049533"
+       }
+     },
+     {"issue": {"issue-date": "1933-06-10", "volume": "91", "number": "23"},
       "title": "To the Limit",
       "author": {
        "authorized": "Haycox, Ernest, 1899-1950",
@@ -2717,6 +2745,20 @@
        }
      },
      {"issue": {"issue-date": "1933-07-08", "volume": "92", "number": "2"},
+       "title": "The Brakeman's Daughter",
+       "author": {
+         "authorized": "Runyon, Damon, 1880-1946",
+         "lcna": "n80049533"
+       }
+     },
+     {"issue": {"issue-date": "1933-07-08", "volume": "92", "number": "2"},
+      "title": "Lion Man",
+      "author": {
+         "authorized": "Ford, Corey, 1902-1969",
+         "lcna": "n50024813"
+       }
+     },
+     {"issue": {"issue-date": "1933-07-08", "volume": "92", "number": "2"},
       "title": "Starlight Rider",
       "title-note": "part 2 of 10?",
       "author": {
@@ -2784,6 +2826,13 @@
        }
      },
      {"issue": {"issue-date": "1933-07-22", "volume": "92", "number": "4"},
+      "title": "Bodyguard",
+      "author": {
+         "authorized": "Ford, Corey, 1902-1969",
+         "lcna": "n50024813"
+       }
+     },
+     {"issue": {"issue-date": "1933-07-22", "volume": "92", "number": "4"},
       "title": "Starlight Rider",
       "title-note": "part 4 of 10?",
       "author": {
@@ -2821,6 +2870,13 @@
        "authorized": "Haycox, Ernest, 1899-1950",
        "lcna": "n79065126"
       }
+     },
+     {"issue": {"issue-date": "1933-08-05", "volume": "92", "number": "6"},
+       "title": "What, No Butler?",
+       "author": {
+         "authorized": "Runyon, Damon, 1880-1946",
+         "lcna": "n80049533"
+       }
      },
      {"issue": {"issue-date": "1933-08-05", "volume": "92", "number": "6"},
       "title": "Starlight Rider",
@@ -2975,6 +3031,22 @@
          "lcna": "n50041532"
        }
      },
+     {"issue": {"issue-date": "1933-09-23", "volume": "92", "number": "13"},
+       "title": "Conspiracy",
+       "title-note": "part 1 of 12",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1933-09-30", "volume": "92", "number": "14"},
+       "title": "Conspiracy",
+       "title-note": "part 2 of 12",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
      {"issue": {"issue-date": "1933-10-07", "volume": "92", "number": "15"},
       "title": "Moons Must Be Golden",
       "author": {
@@ -2990,11 +3062,35 @@
       }
      },
      {"issue": {"issue-date": "1933-10-07", "volume": "92", "number": "15"},
+       "title": "Conspiracy",
+       "title-note": "part 3 of 12",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1933-10-07", "volume": "92", "number": "15"},
       "title": "He Will Never Know",
       "author": {
          "authorized": "Sherman, Richard, 1905-1962",
          "lcna": "n86105811"
       }
+     },
+     {"issue": {"issue-date": "1933-10-14", "volume": "92", "number": "16"},
+       "title": "Conspiracy",
+       "title-note": "part 4 of 12",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1933-10-21", "volume": "92", "number": "17"},
+       "title": "Conspiracy",
+       "title-note": "part 5 of 12",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
      },
      {"issue": {"issue-date": "1933-10-21", "volume": "92", "number": "17"},
       "title": "Odd Chance",
@@ -3004,10 +3100,32 @@
       }
      },
      {"issue": {"issue-date": "1933-10-28", "volume": "92", "number": "18"},
+       "title": "Broadway Complex",
+       "author": {
+         "authorized": "Runyon, Damon, 1880-1946",
+         "lcna": "n80049533"
+       }
+     },
+     {"issue": {"issue-date": "1933-10-28", "volume": "92", "number": "18"},
       "title": "I've Met You Before",
       "author": {
          "authorized": "Connell, Richard, 1893-1949",
          "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1933-10-28", "volume": "92", "number": "18"},
+       "title": "Conspiracy",
+       "title-note": "part 6 of 12",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1933-10-28", "volume": "92", "number": "18"},
+      "title": "Show Business",
+      "author": {
+         "authorized": "Ford, Corey, 1902-1969",
+         "lcna": "n50024813"
        }
      },
      {"issue": {"issue-date": "1933-11-04", "volume": "92", "number": "19"},
@@ -3017,12 +3135,43 @@
          "lcna": "no2013063407"
       }
      },
+     {"issue": {"issue-date": "1933-11-04", "volume": "92", "number": "19"},
+       "title": "Conspiracy",
+       "title-note": "part 7 of 12",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1933-11-11", "volume": "92", "number": "20"},
+      "title": "Golden Lady",
+      "author": {
+       "authorized": "Hopper, James, 1876-1956",
+       "lcna": "n00068220"
+      }
+     },
+     {"issue": {"issue-date": "1933-11-11", "volume": "92", "number": "20"},
+       "title": "Conspiracy",
+       "title-note": "part 8 of 12",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
      {"issue": {"issue-date": "1933-11-11", "volume": "92", "number": "20"},
       "title": "Second Money Man",
       "author": {
        "authorized": "Haycox, Ernest, 1899-1950",
        "lcna": "n79065126"
       }
+     },
+     {"issue": {"issue-date": "1933-11-18", "volume": "92", "number": "21"},
+       "title": "Conspiracy",
+       "title-note": "part 9 of 12",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
      },
      {"issue": {"issue-date": "1933-11-25", "volume": "92", "number": "22"},
       "title": "Lost Dog",
@@ -3038,11 +3187,42 @@
          "lcna": "no2013063407"
       }
      },
+     {"issue": {"issue-date": "1933-11-25", "volume": "92", "number": "22"},
+       "title": "Conspiracy",
+       "title-note": "part 10 of 12",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
      {"issue": {"issue-date": "1933-12-02", "volume": "92", "number": "23"},
       "title": "The Girl Behind the Gun",
       "author": {
          "authorized": "Cary, Lucian, 1886-1971",
          "lcna": "no90003387"
+       }
+     },
+     {"issue": {"issue-date": "1933-12-02", "volume": "92", "number": "23"},
+       "title": "Conspiracy",
+       "title-note": "part 11 of 12",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1933-12-09", "volume": "92", "number": "24"},
+       "title": "Conspiracy",
+       "title-note": "part 12 of 12",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1933-12-23", "volume": "92", "number": "26"}, 
+       "title": "The Three Wise Guys",
+       "author": {
+         "authorized": "Runyon, Damon, 1880-1946",
+         "lcna": "n80049533"
        }
      },
      {"issue": {"issue-date": "1933-12-23", "volume": "92", "number": "26"}, 
@@ -3051,12 +3231,883 @@
          "authorized": "Nebel, Frederick",
          "lcna": "n80020640"
       }
-     }
+     },
+     {"issue": {"issue-date": "1934-01-06", "volume": "93", "number": "1"}, 
+      "title": "The Perfect Weekend",
+      "author": {
+         "authorized": "Brennan, Frederick Hazlitt, 1901-1962",
+         "lcna": "no89011748"
+      }
+     },
+     {"issue": {"issue-date": "1934-01-06", "volume": "93", "number": "1"}, 
+      "title": "Bright Girl",
+      "author": {
+         "authorized": "Phillips, Teresa Hyde",
+         "lcna": "no2013063407"
+      }
+     },
+     {"issue": {"issue-date": "1934-01-06", "volume": "93", "number": "1"}, 
+      "title": "Familiar Disguise",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1934-01-13", "volume": "93", "number": "2"},
+      "title": "The Second Kiss",
+      "author": {
+         "authorized": "Cary, Lucian, 1886-1971",
+         "lcna": "no90003387"
+       }
+     },
+     {"issue": {"issue-date": "1934-01-13", "volume": "93", "number": "2"},
+      "title": "Two Sharp Knives",
+      "author": {
+       "authorized": "Hammett, Dashiell, 1894-1961",
+       "lcna": "n80016943"
+      }
+     },
+     {"issue": {"issue-date": "1934-01-13", "volume": "93", "number": "2"},
+       "title": "Blue Slip",
+       "author": {
+         "authorized": "Kahler, Hugh MacNair, 1883-1969",
+         "lcna": "no96006587"
+       }
+     },
+     {"issue": {"issue-date": "1934-01-20", "volume": "93", "number": "3"},
+      "title": "On the Road",
+      "author": {
+         "authorized": "Remarque, Erich Maria, 1898-1970",
+         "lcna": "n84223789"
+       }
+     },
+     {"issue": {"issue-date": "1934-01-20", "volume": "93", "number": "3"},
+      "title": "Behind the Headlines",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1934-01-27", "volume": "93", "number": "4"},
+      "title": "The Captain Entertains",
+      "author": {
+       "authorized": "Marmur, Jacland, 1901-1970",
+       "lcna": "no2005089264"
+      }
+     },
+     {"issue": {"issue-date": "1934-02-03", "volume": "93", "number": "5"},
+       "title": "The Lemon Drop Kid",
+       "author": {
+         "authorized": "Runyon, Damon, 1880-1946",
+         "lcna": "n80049533"
+       }
+     },
+     {"issue": {"issue-date": "1934-02-10", "volume": "93", "number": "6"}, 
+      "title": "Nothing From Reno",
+      "author": {
+         "authorized": "Phillips, Teresa Hyde",
+         "lcna": "no2013063407"
+      }
+     },
+     {"issue": {"issue-date": "1934-02-10", "volume": "93", "number": "6"}, 
+      "title": "The Sin Splitter",
+      "author": {
+         "authorized": "Bradford, Roark, 1896-1948",
+         "lcna": "n85273947"
+      }
+     },
+     {"issue": {"issue-date": "1934-02-17", "volume": "93", "number": "6"}, 
+      "title": "Rough Air",
+      "title-note": "part 1 of 10",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1934-02-17", "volume": "93", "number": "6"}, 
+      "title": "His Brother's Keeper",
+      "author": {
+       "authorized": "Hammett, Dashiell, 1894-1961",
+       "lcna": "n80016943"
+      }
+     },
+     {"issue": {"issue-date": "1934-02-17", "volume": "93", "number": "7"},
+      "title": "You Can't Fool the Stars",
+      "author": {
+         "authorized": "Duganne, Phyllis, 1899-1976",
+         "lcna": "n90719514"
+      }
+     },
+     {"issue": {"issue-date": "1934-02-24", "volume": "93", "number": "8"},
+      "title": "Rough Air",
+      "title-note": "part 2 of 10",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1934-02-24", "volume": "93", "number": "8"},
+      "title": "Iron Woman",
+      "author": {
+       "authorized": "Case, Robert Ormond, 1895-1964",
+       "lcna": "no95027451"
+      }
+     },
+     {"issue": {"issue-date": "1934-03-03", "volume": "93", "number": "9"},
+       "title": "Princess O'Hara",
+       "author": {
+         "authorized": "Runyon, Damon, 1880-1946",
+         "lcna": "n80049533"
+       }
+     },
+     {"issue": {"issue-date": "1934-03-03", "volume": "93", "number": "9"},
+      "title": "My Love to Marcia",
+       "author": {
+        "authorized": "Cozzens, James Gould, 1903-1978",
+        "lcna": "n79061394"
+       }
+     },
+     {"issue": {"issue-date": "1934-03-03", "volume": "93", "number": "9"},
+      "title": "Rough Air",
+      "title-note": "part 3 of 10",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1934-03-10", "volume": "93", "number": "10"},
+       "title": "The Case Against Mrs. Ames",
+       "title-note": "part 1 of 12",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1934-03-10", "volume": "93", "number": "10"},
+      "title": "Only an Elephant",
+      "author": {
+         "authorized": "Connell, Richard, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1934-03-10", "volume": "93", "number": "10"},
+      "title": "Rough Air",
+      "title-note": "part 4 of 10",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1934-03-17", "volume": "93", "number": "11"}, 
+      "title": "Miss Pacific Fleet",
+      "author": {
+         "authorized": "Brennan, Frederick Hazlitt, 1901-1962",
+         "lcna": "no89011748"
+      }
+     },
+     {"issue": {"issue-date": "1934-03-17", "volume": "93", "number": "11"}, 
+       "title": "The Case Against Mrs. Ames",
+       "title-note": "part 2 of 12",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1934-03-17", "volume": "93", "number": "11"}, 
+      "title": "Talking Toes",
+      "author": {
+         "authorized": "Phillips, Teresa Hyde",
+         "lcna": "no2013063407"
+      }
+     },
+     {"issue": {"issue-date": "1934-03-17", "volume": "93", "number": "11"}, 
+      "title": "Rough Air",
+      "title-note": "part 5 of 10",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1934-03-24", "volume": "93", "number": "12"}, 
+      "title": "Beyond the Finish",
+      "note": "Author is Frederick Faust writing under a pseudonym.",
+      "author": {
+       "authorized": "Brand, Max, 1892-1944",
+       "lcna": "n79034951"
+      }
+     },
+     {"issue": {"issue-date": "1934-03-24", "volume": "93", "number": "12"}, 
+      "title": "This Little Pig",
+      "author": {
+       "authorized": "Hammett, Dashiell, 1894-1961",
+       "lcna": "n80016943"
+      }
+     },
+     {"issue": {"issue-date": "1934-03-24", "volume": "93", "number": "12"}, 
+      "title": "Unbroken",
+      "author": {
+       "authorized": "Marmur, Jacland, 1901-1970",
+       "lcna": "no2005089264"
+      }
+     },
+     {"issue": {"issue-date": "1934-03-24", "volume": "93", "number": "12"}, 
+      "title": "Rough Air",
+      "title-note": "part 6 of 10",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1934-03-24", "volume": "93", "number": "12"}, 
+       "title": "The Case Against Mrs. Ames",
+       "title-note": "part 3 of 12",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1934-03-24", "volume": "93", "number": "12"}, 
+      "title": "Old Story",
+      "author": {
+       "authorized": "Burnet, Dana, 1888-1962",
+       "lcna": "n88172670"
+      }
+     },
+     {"issue": {"issue-date": "1934-03-31", "volume": "93", "number": "13"}, 
+       "title": "The Case Against Mrs. Ames",
+       "title-note": "part 4 of 12",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1934-03-31", "volume": "93", "number": "13"}, 
+      "title": "Rough Air",
+      "title-note": "part 7 of 10",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1934-04-07", "volume": "93", "number": "14"}, 
+      "title": "The Witch of Willow Chute",
+      "author": {
+         "authorized": "Bradford, Roark, 1896-1948",
+         "lcna": "n85273947"
+      }
+     },
+     {"issue": {"issue-date": "1934-04-07", "volume": "93", "number": "14"}, 
+      "title": "Rough Air",
+      "title-note": "part 8 of 10",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1934-04-07", "volume": "93", "number": "14"}, 
+       "title": "The Case Against Mrs. Ames",
+       "title-note": "part 5 of 12",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1934-04-14", "volume": "93", "number": "15"},
+      "title": "Tomorrow's Bride",
+       "author": {
+         "authorized": "Hurst, Fannie, 1889-1968",
+         "lcna": "n80010314"
+       }
+     },
+     {"issue": {"issue-date": "1934-04-14", "volume": "93", "number": "15"},
+      "title": "Rough Air",
+      "title-note": "part 9 of 10",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1934-04-14", "volume": "93", "number": "15"},
+       "title": "The Case Against Mrs. Ames",
+       "title-note": "part 6 of 12",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1934-04-21", "volume": "93", "number": "16"}, 
+      "title": "The German",
+      "author": {
+         "authorized": "Walpole, Hugh, 1884-1941",
+         "lcna": "n79151207"
+       }
+     },
+     {"issue": {"issue-date": "1934-04-21", "volume": "93", "number": "16"}, 
+      "title": "Not Dictated",
+      "author": {
+       "authorized": "Williams, Ben Ames, 1889-1953",
+       "lcna": "n80006285"
+      }
+     },
+     {"issue": {"issue-date": "1934-04-21", "volume": "93", "number": "16"}, 
+       "title": "The Case Against Mrs. Ames",
+       "title-note": "part 7 of 12",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1934-04-21", "volume": "93", "number": "16"}, 
+       "title": "Lord and Master",
+       "author": {
+         "authorized": "Marquand, John P. (John Phillips), 1893-1960",
+         "lcna": "n79061320"
+       }
+     },
+     {"issue": {"issue-date": "1934-04-21", "volume": "93", "number": "16"}, 
+      "title": "Rough Air",
+      "title-note": "part 10 of 10",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1934-04-28", "volume": "93", "number": "17"}, 
+      "title": "The Trail of Fu Manchu",
+      "title-note": "part 1 of 12",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1934-04-28", "volume": "93", "number": "17"}, 
+       "title": "The Case Against Mrs. Ames",
+       "title-note": "part 8 of 12",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1934-05-05", "volume": "93", "number": "18"}, 
+      "title": "The Trail of Fu Manchu",
+      "title-note": "part 2 of 12",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1934-05-05", "volume": "93", "number": "18"}, 
+       "title": "The Case Against Mrs. Ames",
+       "title-note": "part 9 of 12",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1934-05-12", "volume": "93", "number": "19"}, 
+       "title": "The Case Against Mrs. Ames",
+       "title-note": "part 10 of 12",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1934-05-12", "volume": "93", "number": "19"}, 
+      "title": "The Trail of Fu Manchu",
+      "title-note": "part 3 of 12",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1934-05-19", "volume": "93", "number": "20"}, 
+      "title": "The Lotman's True Love",
+      "author": {
+         "authorized": "Bradford, Roark, 1896-1948",
+         "lcna": "n85273947"
+      }
+     },
+     {"issue": {"issue-date": "1934-05-19", "volume": "93", "number": "20"}, 
+      "title": "The Trail of Fu Manchu",
+      "title-note": "part 4 of 12",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1934-05-19", "volume": "93", "number": "20"}, 
+       "title": "The Case Against Mrs. Ames",
+       "title-note": "part 11 of 12",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1934-05-26", "volume": "93", "number": "21"}, 
+      "title": "Dondra Head",
+      "author": {
+       "authorized": "Marmur, Jacland, 1901-1970",
+       "lcna": "no2005089264"
+      }
+     },
+     {"issue": {"issue-date": "1934-05-26", "volume": "93", "number": "21"}, 
+       "title": "The Case Against Mrs. Ames",
+       "title-note": "part 12 of 12",
+       "author": {
+        "authorized": "Roche, Arthur Somers, 1883-1935",
+        "lcna": "no89021623"
+       }
+     },
+     {"issue": {"issue-date": "1934-05-26", "volume": "93", "number": "21"}, 
+      "title": "Ride the River",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1934-05-26", "volume": "93", "number": "21"}, 
+      "title": "The Trail of Fu Manchu",
+      "title-note": "part 5 of 12",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1934-06-02", "volume": "93", "number": "22"},
+      "title": "You've Got to Get Glamour",
+      "author": {
+         "authorized": "Connell, Richard, 1893-1949",
+         "lcna": "n50028704"
+       }
+     },
+     {"issue": {"issue-date": "1934-06-02", "volume": "93", "number": "22"},
+      "title": "The Trail of Fu Manchu",
+      "title-note": "part 6 of 12",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1934-06-02", "volume": "93", "number": "22"},
+      "title": "As it Was Written",
+      "author": {
+       "authorized": "Kantor, MacKinlay, 1904-1977",
+       "lcna": "n79140979"
+      }
+     },
+     {"issue": {"issue-date": "1934-06-09", "volume": "93", "number": "23"},
+      "title": "The Trail of Fu Manchu",
+      "title-note": "part 7 of 12",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1934-06-16", "volume": "93", "number": "24"}, 
+      "title": "Private Case",
+      "author": {
+         "authorized": "Phillips, Teresa Hyde",
+         "lcna": "no2013063407"
+      }
+     },
+     {"issue": {"issue-date": "1934-06-16", "volume": "93", "number": "24"}, 
+      "title": "The Reckless Dusk",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1934-06-16", "volume": "93", "number": "24"}, 
+      "title": "The Trail of Fu Manchu",
+      "title-note": "part 8 of 12",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1934-06-23", "volume": "93", "number": "25"},
+      "title": "The Pride of Gamma",
+      "author": {
+         "authorized": "Cary, Lucian, 1886-1971",
+         "lcna": "no90003387"
+       }
+     },
+     {"issue": {"issue-date": "1934-06-23", "volume": "93", "number": "25"},
+      "title": "The Trail of Fu Manchu",
+      "title-note": "part 9 of 12",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1934-06-30", "volume": "93", "number": "26"}, 
+      "title": "The Man Who Couldn't Spell",
+      "author": {
+         "authorized": "Nebel, Frederick",
+         "lcna": "n80020640"
+      }
+     },
+     {"issue": {"issue-date": "1934-06-30", "volume": "93", "number": "26"}, 
+      "title": "The Trail of Fu Manchu",
+      "title-note": "part 10 of 12",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1934-07-07", "volume": "94", "number": "1"}, 
+      "title": "The Jailbreaker",
+      "title-note": "part 1 of 5?",
+      "author": {
+         "authorized": "Brennan, Frederick Hazlitt, 1901-1962",
+         "lcna": "no89011748"
+      }
+     },
+     {"issue": {"issue-date": "1934-07-07", "volume": "94", "number": "1"}, 
+        "title": "Don't Send Flowers",
+        "author": {
+          "authorized": "Wylie, Philip, 1902-1971",
+          "lcna": "n79145476"
+        }
+     },
+     {"issue": {"issue-date": "1934-07-07", "volume": "94", "number": "1"}, 
+      "title": "The Trail of Fu Manchu",
+      "title-note": "part 11 of 12",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1934-07-07", "volume": "94", "number": "1"}, 
+      "title": "Fortune's Toy",
+      "author": {
+         "authorized": "Bradford, Roark, 1896-1948",
+         "lcna": "n85273947"
+      }
+     },
+     {"issue": {"issue-date": "1934-07-14", "volume": "94", "number": "2"}, 
+      "title": "The Trail of Fu Manchu",
+      "title-note": "part 12 of 12",
+      "author": {
+         "authorized": "Rohmer, Sax, 1883-1959",
+         "lcna": "n50020802"
+      }
+     },
+     {"issue": {"issue-date": "1934-07-14", "volume": "94", "number": "2"}, 
+      "title": "The Jailbreaker",
+      "title-note": "part 2 of 5?",
+      "author": {
+         "authorized": "Brennan, Frederick Hazlitt, 1901-1962",
+         "lcna": "no89011748"
+      }
+     },
+     {"issue": {"issue-date": "1934-07-21", "volume": "94", "number": "3"}, 
+      "title": "Woman in Love",
+      "title-note": "part 1 of 12",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1934-07-21", "volume": "94", "number": "3"}, 
+      "title": "Emergency Room",
+      "author": {
+         "authorized": "Phillips, Teresa Hyde",
+         "lcna": "no2013063407"
+      }
+     },
+     {"issue": {"issue-date": "1934-07-21", "volume": "94", "number": "3"}, 
+      "title": "The Other Hero",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1934-07-21", "volume": "94", "number": "3"}, 
+      "title": "Dark Landfall",
+      "author": {
+       "authorized": "Marmur, Jacland, 1901-1970",
+       "lcna": "no2005089264"
+      }
+     },
+     {"issue": {"issue-date": "1934-07-21", "volume": "94", "number": "3"}, 
+      "title": "The Jailbreaker",
+      "title-note": "part 3 of 5?",
+      "author": {
+         "authorized": "Brennan, Frederick Hazlitt, 1901-1962",
+         "lcna": "no89011748"
+      }
+     },
+     {"issue": {"issue-date": "1934-07-28", "volume": "94", "number": "4"}, 
+      "title": "In a Glass Darkly",
+      "author": {
+         "authorized": "Christie, Agatha, 1890-1976",
+         "lcna": "n79038407"
+       }
+     },
+     {"issue": {"issue-date": "1934-07-28", "volume": "94", "number": "4"}, 
+      "title": "Woman in Love",
+      "title-note": "part 2 of 12",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1934-07-28", "volume": "94", "number": "4"}, 
+      "title": "The Jailbreaker",
+      "title-note": "part 4 of 5?",
+      "author": {
+         "authorized": "Brennan, Frederick Hazlitt, 1901-1962",
+         "lcna": "no89011748"
+      }
+     },
+     {"issue": {"issue-date": "1934-08-04", "volume": "94", "number": "5"}, 
+      "title": "Woman in Love",
+      "title-note": "part 3 of 12",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1934-08-04", "volume": "94", "number": "5"}, 
+      "title": "Paolo, the Magnificent",
+      "author": {
+       "authorized": "Marmur, Jacland, 1901-1970",
+       "lcna": "no2005089264"
+      }
+     },
+     {"issue": {"issue-date": "1934-08-04", "volume": "94", "number": "5"}, 
+      "title": "The Jailbreaker",
+      "title-note": "part 5 of 5?",
+      "author": {
+         "authorized": "Brennan, Frederick Hazlitt, 1901-1962",
+         "lcna": "no89011748"
+      }
+     },
+     {"issue": {"issue-date": "1934-08-11", "volume": "94", "number": "6"},
+      "title": "At Twenty Paces",
+      "author": {
+         "authorized": "Cary, Lucian, 1886-1971",
+         "lcna": "no90003387"
+       }
+     },
+     {"issue": {"issue-date": "1934-08-11", "volume": "94", "number": "6"},
+      "title": "Woman in Love",
+      "title-note": "part 4 of 12",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1934-08-18", "volume": "94", "number": "7"},
+      "title": "Summer Foliage",
+      "author": {
+         "authorized": "Duganne, Phyllis, 1899-1976",
+         "lcna": "n90719514"
+      }
+     },
+     {"issue": {"issue-date": "1934-08-18", "volume": "94", "number": "7"},
+      "title": "Woman in Love",
+      "title-note": "part 5 of 12",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1934-08-18", "volume": "94", "number": "7"},
+      "title": "A Nice Quiet Place",
+      "author": {
+         "authorized": "Phillips, Teresa Hyde",
+         "lcna": "no2013063407"
+      }
+     },
+     {"issue": {"issue-date": "1934-08-25", "volume": "94", "number": "8"},
+      "title": "Woman in Love",
+      "title-note": "part 6 of 12",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1934-09-01", "volume": "94", "number": "9"}, 
+      "title": "The Headache From the Hills",
+      "author": {
+         "authorized": "Bradford, Roark, 1896-1948",
+         "lcna": "n85273947"
+      }
+     },
+     {"issue": {"issue-date": "1934-09-01", "volume": "94", "number": "9"}, 
+      "title": "Woman in Love",
+      "title-note": "part 7 of 12",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1934-09-08", "volume": "94", "number": "10"}, 
+      "title": "Woman in Love",
+      "title-note": "part 8 of 12",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1934-09-15", "volume": "94", "number": "11"}, 
+      "title": "Woman in Love",
+      "title-note": "part 9 of 12",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1934-09-22", "volume": "94", "number": "12"}, 
+      "title": "Tradition",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1934-09-22", "volume": "94", "number": "12"}, 
+      "title": "The Boll Weevil Gentleman",
+      "author": {
+         "authorized": "Bradford, Roark, 1896-1948",
+         "lcna": "n85273947"
+      }
+     },
+     {"issue": {"issue-date": "1934-09-22", "volume": "94", "number": "12"}, 
+      "title": "Woman in Love",
+      "title-note": "part 10 of 12",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1934-09-29", "volume": "94", "number": "13"}, 
+      "title": "Woman in Love",
+      "title-note": "part 11 of 12",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1934-10-06", "volume": "94", "number": "14"}, 
+      "title": "Woman in Love",
+      "title-note": "part 12 of 12",
+      "author": {
+         "authorized": "Norris, Kathleen Thompson, 1880-1966",
+         "lcna": "n50006075"
+      }
+     },
+     {"issue": {"issue-date": "1934-10-13", "volume": "94", "number": "15"}, 
+      "title": "Armed Escort",
+      "author": {
+       "authorized": "Kantor, MacKinlay, 1904-1977",
+       "lcna": "n79140979"
+      }
+     },
+     {"issue": {"issue-date": "1934-10-13", "volume": "94", "number": "15"}, 
+      "title": "The Simple Heart",
+      "author": {
+       "authorized": "Marmur, Jacland, 1901-1970",
+       "lcna": "no2005089264"
+      }
+     },
+     {"issue": {"issue-date": "1934-11-03", "volume": "94", "number": "18"},
+      "title": "Dinner at Midnight",
+      "author": {
+         "authorized": "Cary, Lucian, 1886-1971",
+         "lcna": "no90003387"
+       }
+     },
+     {"issue": {"issue-date": "1934-11-10", "volume": "94", "number": "19"}, 
+      "title": "The Helpin' Fool",
+      "author": {
+         "authorized": "Bradford, Roark, 1896-1948",
+         "lcna": "n85273947"
+      }
+     },
+     {"issue": {"issue-date": "1934-11-17", "volume": "94", "number": "20"},
+      "title": "Straight Story",
+       "author": {
+        "authorized": "Cozzens, James Gould, 1903-1978",
+        "lcna": "n79061394"
+       }
+     },
+     {"issue": {"issue-date": "1934-11-24", "volume": "94", "number": "21"}, 
+      "title": "Test of the Sea",
+      "author": {
+       "authorized": "Marmur, Jacland, 1901-1970",
+       "lcna": "no2005089264"
+      }
+     },
+     {"issue": {"issue-date": "1934-12-01", "volume": "94", "number": "22"},
+      "title": "The Man With the Smoke-Gray Eyes",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1934-12-01", "volume": "94", "number": "22"},
+       "title": "Hold Everything",
+       "author": {
+         "authorized": "Marquis, Don, 1878-1937",
+         "lcna": "n50041532"
+       }
+     },
+     {"issue": {"issue-date": "1934-12-01", "volume": "94", "number": "22"},
+       "title": "Archy Says",
+       "author": {
+         "authorized": "Marquis, Don, 1878-1937",
+         "lcna": "n50041532"
+       }
+     },
+     {"issue": {"issue-date": "1934-12-08", "volume": "94", "number": "23"}, 
+      "title": "Hero's Son",
+      "author": {
+         "authorized": "Brennan, Frederick Hazlitt, 1901-1962",
+         "lcna": "no89011748"
+      }
+     },
+     {"issue": {"issue-date": "1934-12-08", "volume": "94", "number": "23"}, 
+      "title": "A Ticket to Life",
+       "author": {
+         "authorized": "Hurst, Fannie, 1889-1968",
+         "lcna": "n80010314"
+       }
+     },
+     {"issue": {"issue-date": "1934-12-15", "volume": "94", "number": "24"},
+      "title": "Signed but Not Witnessed",
+      "author": {
+         "authorized": "Duganne, Phyllis, 1899-1976",
+         "lcna": "n90719514"
+      }
+     },
+     {"issue": {"issue-date": "1934-12-22", "volume": "94", "number": "25"},
+      "title": "The Captain's Dinner",
+      "author": {
+       "authorized": "Marmur, Jacland, 1901-1970",
+       "lcna": "no2005089264"
+      }
+     },
+     {"issue": {"issue-date": "1934-12-22", "volume": "94", "number": "25"},
+      "title": "On Texas Street",
+      "author": {
+       "authorized": "Haycox, Ernest, 1899-1950",
+       "lcna": "n79065126"
+      }
+     },
+     {"issue": {"issue-date": "1950-05-06", "volume": "125", "number": "18"},
+      "title": "There Will Come Soft Rains",
+       "author": {
+          "authorized": "Bradbury, Ray, 1920-2012",
+          "lcna": "n79139258"
+       }
+      }
    ],
-   "comment": "Pick up with 1961 Jan-Jun contribution renewals.",
+   "comment": "Pick up with 1962 Jan-Jun contribution renewals.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2026-01-19"
+   "last-updated": "2026-08-08"
 }

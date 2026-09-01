@@ -11,9 +11,39 @@
    "first-renewed-issue-source": "1977-JanJun",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
+   "last-issue":
+       {"issue-date": "1953-November-December", "volume": "1", "number": "22"},
+   "succeeded-by": [{"id": "weirdscifantasy", "note": "Weird Science Fantasy"}],
+   "renewed-issue-completeness": "active/end",
+   "renewed-issues": [
+       {"issue-date": "1950-May-June", "volume": "1", "number": "13"},
+       {"issue-date": "1950-July-August", "volume": "1", "number": "14"},
+       {"issue-date": "1950-September-October", "volume": "1", "number": "15"},
+       {"issue-date": "1950-November-December", "volume": "1", "number": "16"},
+       {"issue-date": "1951-January-February", "volume": "1", "number": "17"},
+       {"issue-date": "1951-March-April", "volume": "1", "number": "6",
+        "note": "Numbering reset to 6 with this issue, retrospectively considering the five earlier issues as numbers 1-5."},
+       {"issue-date": "1951-May-June", "volume": "1", "number": "7"},
+       {"issue-date": "1951-July-August", "volume": "1", "number": "8"},
+       {"issue-date": "1951-September-October", "volume": "1", "number": "9"},
+       {"issue-date": "1951-November-December", "volume": "1", "number": "10"},
+       {"issue-date": "1952-January-February", "volume": "1", "number": "11"},
+       {"issue-date": "1952-March-April", "volume": "1", "number": "12"},
+       {"issue-date": "1952-May-June", "volume": "1", "number": "13",
+        "note": "Not to be confused with the first issue, which uses the same issue number."},
+       {"issue-date": "1952-July-August", "volume": "1", "number": "14"},
+       {"issue-date": "1952-September-October", "volume": "1", "number": "15"},
+       {"issue-date": "1952-November-December", "volume": "1", "number": "16"},
+       {"issue-date": "1953-January-February", "volume": "1", "number": "17"},
+       {"issue-date": "1953-March-April", "volume": "1", "number": "18"},
+       {"issue-date": "1953-May-June", "volume": "1", "number": "19"},
+       {"issue-date": "1953-July-August", "volume": "1", "number": "20"},
+       {"issue-date": "1953-September-October", "volume": "1", "number": "21"},
+       {"issue-date": "1953-November-December", "volume": "1", "number": "22"}
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-07-15"
+   "last-updated": "2026-08-21"
 }

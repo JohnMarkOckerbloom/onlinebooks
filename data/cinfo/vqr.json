@@ -52,7 +52,7 @@
       {"issue-date": "1937-Summer", "volume": "13", "number": "3"},
       {"issue-date": "1937-Autumn", "volume": "13", "number": "4"}
    ],
-   "renewed-contribution-completeness": "active/1932",
+   "renewed-contribution-completeness": "active/1936",
    "renewed-contributions": [
      {"issue": {"issue-date": "1931-07"},
         "title": "Poor Fool, Deluded Toy, Brief Anthropomorph",
@@ -81,11 +81,67 @@
       "author": {
        "name": "Elizabeth Johnston"
       }
+     },
+     {"issue": {"issue-date": "1933-07"},
+      "title": "Madame de Warens",
+      "author": {
+       "authorized": "Ellis, Havelock, 1859-1939",
+       "lcna": "n78087633"
+      }
+     },
+     {"issue": {"issue-date": "1935-01"},
+      "title": "Two Plantation Portraits",
+      "author": {
+       "authorized": "Porter, Katherine Anne, 1890-1980",
+       "lcna": "n79038436"
+      }
+     },
+     {"issue": {"issue-date": "1935-04"},
+        "title": "Old Catawba",
+        "author": {
+         "authorized": "Wolfe, Thomas, 1900-1938",
+         "lcna": "n79054341"
+        }
+     },
+     {"issue": {"issue-date": "1935-04"},
+        "title": "Her Own People",
+        "author": {
+         "authorized": "Warren, Robert Penn, 1905-1989",
+         "lcna": "n78091524"
+        }
+     },
+     {"issue": {"issue-date": "1937-Winter"},
+        "title": "Christmas Gift",
+        "author": {
+         "authorized": "Warren, Robert Penn, 1905-1989",
+         "lcna": "n78091524"
+        }
+     },
+     {"issue": {"issue-date": "1937-Winter"},
+        "title": "The Missing All",
+        "author": {
+         "authorized": "Bishop, John Peale, 1892-1944",
+         "lcna": "n79026870"
+        }
+     },
+     {"issue": {"issue-date": "1937-Summer"}, 
+        "title": "Art and Mr. Santayana",
+        "author": {
+         "authorized": "Ransom, John Crowe, 1888-1974",
+         "lcna": "n50053936"
+        }
+     },
+     {"issue": {"issue-date": "1937-Autumn"}, 
+        "title": "Criticism, Inc.",
+        "author": {
+         "authorized": "Ransom, John Crowe, 1888-1974",
+         "lcna": "n50053936"
+        }
      }
    ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2026-06-03"
+   "last-updated": "2026-08-08"
 }

@@ -8,10 +8,241 @@
    "first-renewed-contribution": 
      {"issue": {"issue-date": "1938-05"}},
    "first-renewed-contribution-source": "1966-JanJun",
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1938-05"},
+      "title": "Bird in the Bush",
+      "author": {
+        "authorized": "Derleth, August, 1909-1971",
+        "lcna": "n50002948"
+      }
+     },
+     {"issue": {"issue-date": "1938-11"},
+      "title": "Lazy Man's Dog",
+      "author": {
+         "authorized": "Williams, Ben Ames, 1889-1953",
+         "lcna": "n80006285"
+       }
+     },
+     {"issue": {"issue-date": "1941-09"},
+      "title": "Dumb Like a Fox",
+      "note": "Renewal record specifies the Texas edition.",
+      "author": {
+        "authorized": "Derleth, August, 1909-1971",
+        "lcna": "n50002948"
+      }
+     },
+     {"issue": {"issue-date": "1941-10"}, 
+      "title": "The Gleaner",
+      "note": "Renewal record specifies the Carolina-Virginia edition.",
+      "author": {
+       "authorized": "Crowell, Grace Noll, 1877-1969",
+       "lcna": "no93022546"
+      }
+     },
+     {"issue": {"issue-date": "1946-12"},
+      "title": "Great Aunt Lou's Christmas Party",
+      "author": {
+        "authorized": "Derleth, August, 1909-1971",
+        "lcna": "n50002948"
+      }
+     },
+     {"issue": {"issue-date": "1947-02"},
+      "title": "A Coffin for Jake",
+      "author": {
+        "authorized": "Derleth, August, 1909-1971",
+        "lcna": "n50002948"
+      }
+     },
+     {"issue": {"issue-date": "1948-02"},
+      "title": "Possum Money Comes Easy",
+      "note": "Both renewal records for this contribution specify the Texas-Oklahoma edition.",
+      "author": {
+       "authorized": "Gipson, Fred, 1908-1973",
+       "lcna": "n80015836"
+      }
+     },
+     {"issue": {"issue-date": "1948-10"},
+      "title": "Banana Snitchers",
+      "note": "One of the two renewal records for this contribution specifies the Texas-Oklahoma edition.",
+      "author": {
+       "authorized": "Gipson, Fred, 1908-1973",
+       "lcna": "n80015836"
+      }
+     },
+     {"issue": {"issue-date": "1949-08"}, 
+      "title": "Song of Solomon",
+      "note": "Renewal record specifies the Kentucky, Tennessee, West Virginia edition.",
+      "author": {
+       "authorized": "Merchant, Jane",
+       "lcna": "n50035957"
+      }
+     },
+     {"issue": {"issue-date": "1950-05"}, 
+      "title": "Mule Barn",
+      "note": "Renewal record specifies the Carolinas-Virginia edition.",
+      "author": {
+       "authorized": "Merchant, Jane",
+       "lcna": "n50035957"
+      }
+     },
+     {"issue": {"issue-date": "1951-05"},
+      "title": "Master of the Pond",
+      "author": {
+        "authorized": "Derleth, August, 1909-1971",
+        "lcna": "n50002948"
+      }
+     },
+     {"issue": {"issue-date": "1953-02"},
+      "title": "Prayer for My Father",
+      "note": "Renewal record specifies the Texas edition, the Carolinas-Virginia edition, the Kentucky-Tennessee-West Virginia edition, the Mississippi-Arkansas-Louisiana edition, and the Georgia-Florida-Alabama edition.",
+      "author": {
+        "authorized": "Stuart, Jesse, 1906-1984",
+        "lcna": "n79018157"
+      }
+     },
+     {"issue": {"issue-date": "1953-05"},
+      "title": "Blue Morning Glories",
+      "note": "Renewal record specifies the Texas edition, the Carolinas edition, the Kentucky-Tennessee edition, the Mississippi-Arkanas-Louisiana edition, and the Georgia-Alabama-Florida edition.",
+      "author": {
+        "authorized": "Stuart, Jesse, 1906-1984",
+        "lcna": "n79018157"
+      }
+     },
+     {"issue": {"issue-date": "1953-06"}, 
+      "title": "Home-Canning Ideas",
+      "note": "Renewal records specify the Georgia-Alabama-Florida edition, the Carolinas-Virginia edition, and the Texas edition.",
+       "author": {
+         "name": "Applegate Advertising Agency"
+       }
+     },
+     {"issue": {"issue-date": "1953"}, 
+      "title": "Home Canning Pointers",
+      "note": "1981 renewal records for copyrights dated June 20, 1953 mentions that they appeared in the Kentucky-Tennessee-West Virginia edition and in the Texas edition of The Progressive Farmer.  It does not specify what issue(s) it appeared in.",
+       "author": {
+         "name": "Applegate Advertising Agency"
+       }
+     },
+     {"issue": {"issue-date": "1954-05"}, 
+      "title": "New Helps in Home Canning",
+       "author": {
+         "name": "Applegate Advertising Agency"
+       }
+     },
+     {"issue": {"issue-date": "1954-06"}, 
+      "title": "New Ideas in Home Canning",
+       "author": {
+         "name": "Applegate Advertising Agency"
+       }
+     },
+     {"issue": {"issue-date": "1954-07"}, 
+      "title": "New Tips on Home Canning",
+       "author": {
+         "name": "Applegate Advertising Agency"
+       }
+     },
+     {"issue": {"issue-date": "1954-11"},
+      "title": "This Farm for Sale",
+      "author": {
+        "authorized": "Stuart, Jesse, 1906-1984",
+        "lcna": "n79018157"
+      }
+     },
+     {"issue": {"issue-date": "1955-04"},
+      "title": "A Farm for Joel",
+      "author": {
+        "authorized": "Derleth, August, 1909-1971",
+        "lcna": "n50002948"
+      }
+     },
+     {"issue": {"issue-date": "1955-08"}, 
+      "title": "The Big 'Why' of Home Canning",
+       "author": {
+         "name": "Applegate Advertising Agency, Inc."
+       }
+     },
+     {"issue": {"issue-date": "1955-09"}, 
+      "title": "Home-Canning Food Notes",
+       "author": {
+         "name": "Applegate Advertising Agency, Inc."
+       }
+     },
+     {"issue": {"issue-date": "1956-03"},
+      "title": "My Father and I",
+      "author": {
+        "authorized": "Stuart, Jesse, 1906-1984",
+        "lcna": "n79018157"
+      }
+     },
+     {"issue": {"issue-date": "1956-03"}, 
+      "title": "Cardinal Question",
+      "author": {
+       "authorized": "Merchant, Jane",
+       "lcna": "n50035957"
+      }
+     },
+     {"issue": {"issue-date": "1956-04"}, 
+      "title": "Who Works With Earth?",
+      "author": {
+       "authorized": "Merchant, Jane",
+       "lcna": "n50035957"
+      }
+     },
+     {"issue": {"issue-date": "1956-05"},
+      "title": "Back Where I Belong",
+      "author": {
+        "authorized": "Stuart, Jesse, 1906-1984",
+        "lcna": "n79018157"
+      }
+     },
+     {"issue": {"issue-date": "1956-05"}, 
+      "title": "Seal Jellies Better Than Ever Before!",
+       "author": {
+         "name": "Applegate Advertising Agency, Inc."
+       }
+     },
+     {"issue": {"issue-date": "1956-06"}, 
+      "title": "Perfect Seal Guaranteed With New Ball Dome Lids",
+       "author": {
+         "name": "Applegate Advertising Agency, Inc."
+       }
+     },
+     {"issue": {"issue-date": "1956-07"}, 
+      "title": "Perfect Sealing Guaranteed With New Ball Dome Lids",
+       "author": {
+         "name": "Applegate Advertising Agency, Inc."
+       }
+     },
+     {"issue": {"issue-date": "1956-08"}, 
+      "title": "Perfect Seal Guaranteed With New Ball Dome Lids",
+       "author": {
+         "name": "Applegate Advertising Agency, Inc."
+       }
+     },
+     {"issue": {"issue-date": "1956-11"}, 
+      "title": "Always With Wonder",
+      "author": {
+       "authorized": "Merchant, Jane",
+       "lcna": "n50035957"
+      }
+     },
+     {"issue": {"issue-date": "1960-05"}, 
+      "title": "Here's 10 [cents] to Show You Why Home Canners Prefer Ball Dome Lids",
+       "author": {
+         "name": "Applegate Advertising Agency, Inc."
+       }
+     },
+     {"issue": {"issue-date": "1963-06"}, 
+      "title": "Of Course You 'Can' Have a Ball",
+       "author": {
+         "name": "Applegate Advertising Agency, Inc."
+       }
+     }
+   ],
    "additional-note": "Active contribution renewals are recorded beginning in the 1965 July-December CCE volume, but the earliest renewed contribution with an active copyright is noted in the 1966 January-June volume.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2022-01-16"
+   "last-updated": "2026-08-13"
 }

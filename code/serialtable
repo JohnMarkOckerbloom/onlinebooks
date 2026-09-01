@@ -29,26 +29,26 @@ my $issnserial = {};
 my $badissnmap = {};
 my $badissnid = {};
 
-my $cambridge_journals = $pkgdir . "cambridge/CUP_Cambridge_Journals__All_journals_2026-02-09.txt";
-#my $cambridge_journals = $pkgdir . "cambridge/CUP_Cambridge_Journals__All_journals_2025-09-04.txt";
+#my $cambridge_journals = $pkgdir . "cambridge/CUP_Cambridge_Journals__All_journals_2026-02-09.txt";
+my $cambridge_journals = $pkgdir . "cambridge/CUP_Cambridge_Journals__All_journals_2026-08-11.txt";
 
 my $hathi_serials = $pkgdir . "hathitrust/wikihathioclcserials.csv";
 my $hathipilot_serials = $pkgdir . "hathitrust/localplusus.tsv";
 my $hathipilot_wdquery = $pkgdir . "hathitrust/wikihathiserial.csv";
 
-my $jstor_merged = $pkgdir . "jstor/JSTOR_ArchiveTitles_2026-02-20.txt";
-# my $jstor_merged = $pkgdir . "jstor/JSTOR_ArchiveTitles_2025-03-03.txt";
-#my $jstor_split = $pkgdir . "jstor/JSTOR_Global_AllArchiveTitles_2025-03-03.txt";
-my $jstor_split = $pkgdir . "jstor/JSTOR_Global_AllArchiveTitles_2026-02-20.txt";
+#my $jstor_merged = $pkgdir . "jstor/JSTOR_ArchiveTitles_2026-02-20.txt";
+my $jstor_merged = $pkgdir . "jstor/JSTOR_ArchiveTitles_2026-08-20.txt";
+my $jstor_split = $pkgdir . "jstor/JSTOR_Global_AllArchiveTitles_2026-08-20.txt";
+#my $jstor_split = $pkgdir . "jstor/JSTOR_Global_AllArchiveTitles_2026-02-20.txt";
 
 
 my $muse_journals = $pkgdir . "muse/muse_journal_metadata_2019.tsv";
 
-my $ovid_complete = $pkgdir . "wolters/Ovid_Global_AllJournals_2026-02-15-Fixed.txt";
+my $ovid_complete = $pkgdir . "wolters/Ovid_Global_AllJournals_2026-08-23-FIXED.txt";
 # my $ovid_complete = $pkgdir . "wolters/Ovid_Global_AllJournals_2025-09-01.txt";
 
-my $oxford_archive = $pkgdir . "oxford/OUP_2026_JournalsArchiveCollection.txt";
-# my $oxford_archive = $pkgdir . "oxford/OUP_2025_JournalsArchiveAllTitles.txt";
+#my $oxford_archive = $pkgdir . "oxford/OUP_2026_JournalsArchiveCollection.txt";
+my $oxford_archive = $pkgdir . "oxford/OxfordUniversityPress_Global_2026JournalsArchiveCollection_2026-07-31.txt";
 
 #my $penn_serials = $pkgdir . "penn/Serials before 1964.csv";
 my $penn_serials = $pkgdir . "penn/Serials (All)  - Problem Columns Removed 052220.csv";
@@ -61,15 +61,15 @@ my $proquest_archive = $pkgdir . "proquest/PeriodicalsArchiveOnline.tsv";
 my $sage_journals = $pkgdir . "sage/Complete Deep Backfile Purchase 2026 List.txt";
 # my $sage_journals = $pkgdir . "sage/deep_backfile_2025_list.txt";
 
-my $scidirect_journals = $pkgdir . "elsevier/ScienceDirectStandard_Global_ScienceDirectAvailableJournals_2026-02-09.txt";
-#my $scidirect_journals = $pkgdir . "elsevier/ScienceDirectStandard_Global_ScienceDirectAvailableJournals_2025-09-04.txt";
+#my $scidirect_journals = $pkgdir . "elsevier/ScienceDirectStandard_Global_ScienceDirectAvailableJournals_2026-02-09.txt";
+my $scidirect_journals = $pkgdir . "elsevier/ScienceDirectStandard_Global_ScienceDirectAvailableJournals_2026-08-12.txt";
 my $sim_journals = $pkgdir . "sim/SIM-MASTER-TITLE-2017.txt";
-# my $springer_journals = $pkgdir . "springer/SpringerNature_Global_CompleteSpringerJournals_2025-08-18.txt";
-my $springer_journals = $pkgdir . "springer/SpringerNature_Global_CompleteSpringerJournals_2026-02-02.txt";
+my $springer_journals = $pkgdir . "springer/SpringerNature_Global_CompleteSpringerJournals_2026-07-06.txt";
+#my $springer_journals = $pkgdir . "springer/SpringerNature_Global_CompleteSpringerJournals_2026-02-02.txt";
 my $taylor_global = $pkgdir . "taylor/TaylorandFrancisOnline_Global_DatabaseOAReadandPublish_2019-09-18.txt";
 #my $taylor_classic = $pkgdir . "taylor/ClassicAggregation.txt";
-#my $taylor_classic = $pkgdir . "taylor/tandf_Global_AllTitles_2025-02-22.txt";
-my $taylor_classic = $pkgdir . "taylor/tandf_Global_AllTitles_2026-02-14.txt";
+my $taylor_classic = $pkgdir . "taylor/tandf_Global_AllTitles_2026-08-24.txt";
+#my $taylor_classic = $pkgdir . "taylor/tandf_Global_AllTitles_2026-02-14.txt";
 my $wikipedia = $pkgdir . "wikipedia/articleperiodicals.csv";
 #my $wiley_all = $pkgdir . "wiley/wiley_alljournals_2025-02-01.TXT";
 my $wiley_all = $pkgdir . "wiley/wiley_alljournals_2026-02-01.TXT";

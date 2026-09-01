@@ -2862,7 +2862,7 @@
       {"issue-date": "1963-12-30", "volume": "123", "number": "42648"},
       {"issue-date": "1963-12-31", "volume": "123", "number": "42649"}
    ],
-   "renewed-contribution-completeness": "active/1932",
+   "renewed-contribution-completeness": "active/1933",
    "renewed-contributions": [
      {"issue": {"issue-date": "1931-03-29"},
       "title": "Martiniquaise",
@@ -3839,6 +3839,13 @@
          "lcna": "no2021082464"
         }
      },
+     {"issue": {"issue-date": "1933-07-03"}, 
+      "title": "The First Minnesota at Gettysburg",
+      "author": {
+       "authorized": "Kantor, MacKinlay, 1904-1977",
+       "lcna": "n79140979"
+      }
+     },
      {"issue": {"issue-date": "1933-07-09"},
         "title": "Bottoms Up",
         "note": "A 1960 renewal for the book 'Bottoms Up' by Clifford Leach (a pen name of Kenneth Clark, but probably not the Kenneth Clark who lived 1903-1983) notes it includes a revision of an article in this issue of the New York Herald Tribune.  We do not know what the article's title was, nor do we know for sure whether the book renewal covers the article.",
@@ -4013,6 +4020,13 @@
          "lcna": "no2021082464"
         }
      },
+     {"issue": {"issue-date": "1933-11-17"}, 
+      "title": "Abraham Lincoln at Gettysburg",
+      "author": {
+       "authorized": "Kantor, MacKinlay, 1904-1977",
+       "lcna": "n79140979"
+      }
+     },
      {"issue": {"issue-date": "1933-11-19"},
         "title": "Amaryllis",
         "author": {
@@ -4076,18 +4090,474 @@
          "lcna": "no2021082464"
         }
      },
+     {"issue": {"issue-date": "1933-12-17"}, 
+      "title": "Apostrophe to Man",
+      "author": {
+       "authorized": "Millay, Edna St. Vincent, 1892-1950",
+       "lcna": "n79062746"
+      }
+     },
      {"issue": {"issue-date": "1933-12-31"},
         "title": "Care of Palms in the House",
         "author": {
          "authorized": "Putz, Alfred",
          "lcna": "no2021082464"
         }
+     },
+     {"issue": {"issue-date": "1934-01-05"},
+        "title": "Cat Into Tiger",
+        "author": {
+         "authorized": "McGinley, Phyllis, 1905-1978",
+         "lcna": "n50007804"
+        }
+     },
+     {"issue": {"issue-date": "1934-01-05"},
+      "title": "Shoot Another Billion",
+      "author": {
+       "authorized": "Pegler, J. Westbrook (James Westbrook), 1894-1969",
+       "lcna": "n86001732"
+      }
+     },
+     {"issue": {"issue-date": "1934-01-07"},
+        "title": "Ferns in the House",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1934-01-14"},
+        "title": "Garden Planning",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1934-01-18"},
+      "title": "Imbeciles, Felons, Foreigners, and Youth",
+      "author": {
+       "authorized": "Pegler, J. Westbrook (James Westbrook), 1894-1969",
+       "lcna": "n86001732"
+      }
+     },
+     {"issue": {"issue-date": "1934-01-19"},
+      "title": "Your Honor is a Bum",
+      "author": {
+       "authorized": "Pegler, J. Westbrook (James Westbrook), 1894-1969",
+       "lcna": "n86001732"
+      }
+     },
+     {"issue": {"issue-date": "1934-01-21"}, 
+        "title": "Your Seed and Plant Order",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1934-01-22"},
+        "title": "Reminiscence",
+        "author": {
+         "name": "Nate Salsbury",
+         "using": "Baron Ireland"
+        }
+     },
+     {"issue": {"issue-date": "1934-01-28"}, 
+        "title": "Testing Seeds for Germination",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1934-01-29"},
+      "title": "And in Reply Would Say",
+      "author": {
+       "authorized": "Pegler, J. Westbrook (James Westbrook), 1894-1969",
+       "lcna": "n86001732"
+      }
+     },
+     {"issue": {"issue-date": "1934-01-30"}, 
+      "title": "Ballad of a Trip to Washington",
+      "author": {
+       "authorized": "Kantor, MacKinlay, 1904-1977",
+       "lcna": "n79140979"
+      }
+     },
+     {"issue": {"issue-date": "1934-02-04"}, 
+        "title": "Starting Sweet Peas Indoors",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1934-02-05"},
+        "title": "To the Experts",
+        "author": {
+         "name": "Nate Salsbury",
+         "using": "Baron Ireland"
+        }
+     },
+     {"issue": {"issue-date": "1934-02-13"},
+      "title": "Here Rover!",
+      "author": {
+       "authorized": "Pegler, J. Westbrook (James Westbrook), 1894-1969",
+       "lcna": "n86001732"
+      }
+     },
+     {"issue": {"issue-date": "1934-02-18"},
+        "title": "Cannas From Seed",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1934-02-20"},
+      "title": "The Curse of Elegance",
+      "author": {
+       "authorized": "Pegler, J. Westbrook (James Westbrook), 1894-1969",
+       "lcna": "n86001732"
+      }
+     },
+     {"issue": {"issue-date": "1934-02-25"}, 
+      "title": "Aubade",
+      "author": {
+       "authorized": "Millay, Edna St. Vincent, 1892-1950",
+       "lcna": "n79062746"
+      }
+     },
+     {"issue": {"issue-date": "1934-02-25"}, 
+      "title": "Epitaph",
+      "author": {
+       "authorized": "Millay, Edna St. Vincent, 1892-1950",
+       "lcna": "n79062746"
+      }
+     },
+     {"issue": {"issue-date": "1934-02-25"}, 
+      "title": "To a Young Poet",
+      "author": {
+       "authorized": "Millay, Edna St. Vincent, 1892-1950",
+       "lcna": "n79062746"
+      }
+     },
+     {"issue": {"issue-date": "1934-02-25"}, 
+        "title": "Sowing Sweet Peas Outdoors",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1934-03-04"}, 
+        "title": "Tuberous-Rooted Begonias",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1934-03-06"},
+      "title": "Baloney Pictures",
+      "author": {
+       "authorized": "Pegler, J. Westbrook (James Westbrook), 1894-1969",
+       "lcna": "n86001732"
+      }
+     },
+     {"issue": {"issue-date": "1934-03-11"},
+        "title": "Hardy Chrysanthemums",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1934-03-12"},
+      "title": "Honeymoon Days",
+      "author": {
+       "authorized": "Pegler, J. Westbrook (James Westbrook), 1894-1969",
+       "lcna": "n86001732"
+      }
+     },
+     {"issue": {"issue-date": "1934-03-25"},
+        "title": "Hardy Asters",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1934-03-27"}, 
+      "title": "Simon Kenton",
+      "author": {
+       "authorized": "Kantor, MacKinlay, 1904-1977",
+       "lcna": "n79140979"
+      }
+     },
+     {"issue": {"issue-date": "1934-03-28"},
+        "title": "Krazy Makes an Address",
+        "author": {
+         "name": "Nate Salsbury",
+         "using": "Baron Ireland"
+        }
+     },
+     {"issue": {"issue-date": "1934-04-01"},
+        "title": "Annuals That Resent Transplanting",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1934-04-03"},
+        "title": "Every Man Has His Price",
+        "author": {
+         "authorized": "McGinley, Phyllis, 1905-1978",
+         "lcna": "n50007804"
+        }
+     },
+     {"issue": {"issue-date": "1934-04-08"},
+        "title": "China Asters",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1934-04-09"}, 
+      "title": "Appomattox",
+      "author": {
+       "authorized": "Kantor, MacKinlay, 1904-1977",
+       "lcna": "n79140979"
+      }
+     },
+     {"issue": {"issue-date": "1934-04-15"},
+        "title": "Giant Petunias",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1934-04-22"}, 
+        "title": "Verbenas",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1934-04-27"},
+      "title": "The Inevitable One on Poker",
+      "author": {
+       "authorized": "Pegler, J. Westbrook (James Westbrook), 1894-1969",
+       "lcna": "n86001732"
+      }
+     },
+     {"issue": {"issue-date": "1934-04-29"}, 
+        "title": "Zinnias",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1934-04-30"},
+      "title": "Away From it All",
+      "author": {
+       "authorized": "Pegler, J. Westbrook (James Westbrook), 1894-1969",
+       "lcna": "n86001732"
+      }
+     },
+     {"issue": {"issue-date": "1934-06-06"}, 
+        "title": "Spring and Summer Care of Sweet Peas",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1934-05-13"}, 
+        "title": "Thinning of Plants",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1934-05-15"},
+        "title": "Of Bed in Spring",
+        "author": {
+         "authorized": "McCord, David Thompson Watson, 1897-1997",
+         "lcna": "n79109946"
+        }
+     },
+     {"issue": {"issue-date": "1934-05-20"}, 
+        "title": "Transplanting Hints",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1934-05-23"},
+        "title": "Tirade on Tea",
+        "author": {
+         "authorized": "McGinley, Phyllis, 1905-1978",
+         "lcna": "n50007804"
+        }
+     },
+     {"issue": {"issue-date": "1934-05-27"},
+        "title": "Care of Delphiniums",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1934-05-29"}, 
+      "title": "The Twenty-Ninth of May",
+      "author": {
+       "authorized": "Kantor, MacKinlay, 1904-1977",
+       "lcna": "n79140979"
+      }
+     },
+     {"issue": {"issue-date": "1934-06-03"},
+        "title": "Rhododendron Care",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1934-06-09"},
+       "title": "Mehitabel Joins the Navy",
+       "author": {
+         "authorized": "Marquis, Don, 1878-1937",
+         "lcna": "n50041532"
+       }
+     },
+     {"issue": {"issue-date": "1934-06-10"}, 
+        "title": "Tender Water Lilies",
+        "author": {
+         "authorized": "Putz, Alfred",
+         "lcna": "no2021082464"
+        }
+     },
+     {"issue": {"issue-date": "1934-06-18"},
+        "title": "Odious People",
+        "author": {
+         "authorized": "McGinley, Phyllis, 1905-1978",
+         "lcna": "n50007804"
+        }
+     },
+     {"issue": {"issue-date": "1934-06-24"},
+       "title": "Archy in Washington",
+       "author": {
+         "authorized": "Marquis, Don, 1878-1937",
+         "lcna": "n50041532"
+       }
+     },
+     {"issue": {"issue-date": "1934-07-08"},
+       "title": "Pencil Prosperity",
+       "author": {
+         "authorized": "Marquis, Don, 1878-1937",
+         "lcna": "n50041532"
+       }
+     },
+     {"issue": {"issue-date": "1934-07-22"},
+       "title": "Archy's Newest Deal",
+       "author": {
+         "authorized": "Marquis, Don, 1878-1937",
+         "lcna": "n50041532"
+       }
+     },
+     {"issue": {"issue-date": "1934-09-09"},
+      "title": "Hundred Grand",
+      "title-note": "part 1 of 8",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1934-09-16"},
+      "title": "Hundred Grand",
+      "title-note": "part 2 of 8",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1934-09-16"},
+      "title": "There's Always Tomorrow",
+      "author": {
+         "authorized": "Parrott, Ursula, 1899-1957",
+         "lcna": "n87852403"
+       }
+     },
+     {"issue": {"issue-date": "1934-09-23"},
+      "title": "Hundred Grand",
+      "title-note": "part 3 of 8",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1934-09-26"}, 
+      "title": "Nebrasky is So Far Away",
+      "author": {
+       "authorized": "Kantor, MacKinlay, 1904-1977",
+       "lcna": "n79140979"
+      }
+     },
+     {"issue": {"issue-date": "1934-09-30"},
+      "title": "Hundred Grand",
+      "title-note": "part 4 of 8",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1934-10-07"},
+      "title": "Hundred Grand",
+      "title-note": "part 5 of 8",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1934-10-14"},
+      "title": "Hundred Grand",
+      "title-note": "part 6 of 8",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1934-10-21"},
+      "title": "Hundred Grand",
+      "title-note": "part 7 of 8",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1934-10-28"},
+      "title": "Hundred Grand",
+      "title-note": "part 8 of 8",
+      "author": {
+         "authorized": "Gardner, Erle Stanley, 1889-1970",
+         "lcna": "n79071101"
+       }
+     },
+     {"issue": {"issue-date": "1934-11-19"},
+      "title": "Jack's Place",
+      "author": {
+       "authorized": "Pegler, J. Westbrook (James Westbrook), 1894-1969",
+       "lcna": "n86001732"
+      }
+     },
+     {"issue": {"issue-date": "1934-11-25"},
+      "title": "Happy Ending",
+      "author": {
+         "authorized": "Waugh, Alec, 1898-1981",
+         "lcna": "n50023750"
+       }
+     },
+     {"issue": {"issue-date": "1934-11-27"},
+      "title": "Sobbin' Sam",
+      "author": {
+       "authorized": "Pegler, J. Westbrook (James Westbrook), 1894-1969",
+       "lcna": "n86001732"
+      }
      }
    ],
-   "comment": "Pick up contribution renewals with 1961 Jan-Jun",
+   "comment": "Pick up contribution renewals with 1962 Jan-Jun",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2026-04-20"
+   "last-updated": "2026-08-09"
 }
