@@ -1,5 +1,9 @@
 {
    "title": "The American Scholar",
+   "contents": [
+      {"url": "https://www.jstor.org/journal/americanscholar",
+      "note": "JSTOR (full text also available for subscription or payment)"}
+   ],
    "first-issue": {"issue-date": "1932-01", "volume": "1", "number": "1"},
    "first-renewed-issue": 
       {"issue-date": "1932-03", "volume": "1", "number": "2"},
@@ -37,9 +41,140 @@
       {"issue-date": "1937-Summer", "volume": "6", "number": "3"},
       {"issue-date": "1937-10", "volume": "6", "number": "4"}
    ],
+   "renewed-contribution-completeness": "active/1944",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1941-Spring", "volume": "10", "number": "2"},
+      "title": "Here They Stand, the Yankees",
+      "author": {
+         "authorized": "Holbrook, Stewart H., 1893-1964",
+         "lcna": "n79068384"
+      }
+     },
+     {"issue": {"issue-date": "1944-Summer"},
+      "title": "The Antagonists",
+      "author": {
+         "authorized": "Rukeyser, Muriel, 1913-1980",
+         "lcna": "n79034264"
+      }
+     },
+     {"issue": {"issue-date": "1945-Spring"},
+      "title": "Under Whatever Sky",
+      "title-note": "installment",
+      "author": {
+         "authorized": "Edman, Irwin, 1896-1954",
+         "lcna": "n50031952"
+      }
+     },
+     {"issue": {"issue-date": "1945-Summer"},
+      "title": "Difficulty as a Style",
+      "author": {
+         "authorized": "Dupee, F. W. (Frederick Wilcox), 1904-1979",
+         "lcna": "n50029750"
+      }
+     },
+     {"issue": {"issue-date": "1945-Summer"},
+      "title": "Under Whatever Sky",
+      "title-note": "installment",
+      "author": {
+         "authorized": "Edman, Irwin, 1896-1954",
+         "lcna": "n50031952"
+      }
+     },
+     {"issue": {"issue-date": "1945-Autumn"},
+      "title": "Murder at Harvard",
+      "author": {
+         "authorized": "Holbrook, Stewart H., 1893-1964",
+         "lcna": "n79068384"
+      }
+     },
+     {"issue": {"issue-date": "1945-Autumn"},
+      "title": "The Scientific Method in Human Affairs",
+      "author": {
+         "authorized": "Rautenstrauch, Walter, 1880-1951",
+         "lcna": "no96064972"
+      }
+     },
+     {"issue": {"issue-date": "1945-Autumn"},
+      "title": "Under Whatever Sky",
+      "title-note": "installment",
+      "author": {
+         "authorized": "Edman, Irwin, 1896-1954",
+         "lcna": "n50031952"
+      }
+     },
+     {"issue": {"issue-date": "Winter 1945-1946"},
+      "title": "Under Whatever Sky",
+      "title-note": "installment",
+      "author": {
+         "authorized": "Edman, Irwin, 1896-1954",
+         "lcna": "n50031952"
+      }
+     },
+     {"issue": {"issue-date": "1946-Spring"},
+      "title": "A Hat in the Ring",
+      "note": "Author name as given in CCE renewal record. The issue credits 'A Hat in the Ring' to John Manifold, who is a different author. We do not know the relationship, if any, between Coomaraswamy and Manifold.",
+      "author": {
+         "authorized": "Coomaraswamy, Ananda K. (Ananda Kentish), 1877-1947",
+         "lcna": "n79066552"
+      }
+     },
+     {"issue": {"issue-date": "1946-Spring"},
+      "title": "Under Whatever Sky",
+      "title-note": "installment",
+      "author": {
+         "authorized": "Edman, Irwin, 1896-1954",
+         "lcna": "n50031952"
+      }
+     },
+     {"issue": {"issue-date": "1946-Summer"},
+      "title": "Under Whatever Sky",
+      "title-note": "installment",
+      "author": {
+         "authorized": "Edman, Irwin, 1896-1954",
+         "lcna": "n50031952"
+      }
+     },
+     {"issue": {"issue-date": "1946-Summer"},
+      "title": "Literature and Anarchy",
+      "author": {
+         "authorized": "Zabel, Morton Dauwen, 1901-1964",
+         "lcna": "n80008799"
+      }
+     },
+     {"issue": {"issue-date": "1946-Autumn"},
+      "title": "Anarchists at Home",
+      "author": {
+         "authorized": "Holbrook, Stewart H., 1893-1964",
+         "lcna": "n79068384"
+      }
+     },
+     {"issue": {"issue-date": "1946-Autumn"},
+      "title": "Science and the Dream of Happiness",
+      "author": {
+         "authorized": "Edman, Irwin, 1896-1954",
+         "lcna": "n50031952"
+      }
+     },
+     {"issue": {"issue-date": "1946-Autumn"},
+      "title": "Under Whatever Sky",
+      "title-note": "installment",
+      "author": {
+         "authorized": "Edman, Irwin, 1896-1954",
+         "lcna": "n50031952"
+      }
+     },
+     {"issue": {"issue-date": "1950-Spring"}, 
+      "title": "The Best of Two Worlds",
+       "author": {
+         "authorized": "Krutch, Joseph Wood, 1893-1970",
+         "lcna": "n80007874"
+       }
+     }
+   ],
+   "comment": "Pick up contribution renewals with 1973 (some are already here)",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2026-03-14"
+   "last-updated": "2026-09-18"
 }

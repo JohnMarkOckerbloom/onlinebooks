@@ -421,7 +421,10 @@ sub _print_author_link {
 
 sub _print_seealso_links {
   my ($self, $node) = @_;
-  my $display = $node->get_name();
+  my $display = $node->lc_equivalent();  # only happens when we devaite from LC
+  if (!$display) {
+    $display = $node->get_name();        # usual case
+  }
   return if (!$display);
   my $wikikey = OLBP::BookRecord::search_key_for_subject($display);
   my $wikiurl = $self->{wikihash}->get_value(key=>$wikikey);

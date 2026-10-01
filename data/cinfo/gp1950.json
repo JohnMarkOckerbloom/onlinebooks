@@ -1,0 +1,30 @@
+{
+   "title": "GP",
+   "title-note": "American medical journal, 1950-1969",
+   "first-issue": 
+     {"issue-date": "1950-04", "volume": "1", "number": "1"},
+   "first-renewed-issue": 
+     {"issue-date": "1950-04", "volume": "1", "number": "1"},
+   "first-renewed-issue-source": "database",
+   "first-renewed-contribution": "none",
+   "first-renewed-contribution-source": "cce+database",
+   "succeeded-by":
+     [{"id": "amerfamilyphys", "note": "American Family Physician"}],
+   "renewed-issue-completeness": "active/autorenewals",
+   "renewed-issues": [
+     {"issue-date": "1950-04", "volume": "1", "number": "1"},
+     {"issue-date": "1950-05", "volume": "1", "number": "2"},
+     {"issue-date": "1950-06", "volume": "1", "number": "3"},
+     {"issue-date": "1950-07", "volume": "2", "number": "1"},
+     {"issue-date": "1950-08", "volume": "2", "number": "2"},
+     {"issue-date": "1950-09", "volume": "2", "number": "3"},
+     {"issue-date": "1950-10", "volume": "2", "number": "4"},
+     {"issue-date": "1950-11", "volume": "2", "number": "5"},
+     {"issue-date": "1950-12", "volume": "2", "number": "6"}
+   ],
+   "responsibility": {
+      "authorized": "Mark Ockerbloom, John, 1966-",
+      "contact": "ockerblo@pobox.upenn.edu"
+   },
+   "last-updated": "2026-09-13"
+}

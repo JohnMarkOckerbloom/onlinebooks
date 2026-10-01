@@ -56,10 +56,7 @@ my $tweaks = new OLBP::SubjectTweaks(file=>$tweakfile);
 my $geo = new OLBP::SubjectGeo(file=>$geofile);
 my $occupations = new OLBP::OccupationFile(file=>$occfile);
 
-my $subjectgraph = new OLBP::SubjectGraph(headingidhash=>"subjectids",
-                                         idinfohash=>"subjectnotes",
-                                         tweaks=>$tweaks, geo=>$geo);
-
+my $subjectgraph;
 
 sub pageheader {
   my ($title, $withrss) = @_;
@@ -943,6 +940,15 @@ sub makeentryfile {
 
 setnewrange(2);
 
+if ($ARGV[0] eq "test") {
+   $subjectgraph = new OLBP::SubjectGraph(headingidhash=>"subjectids-test",
+                                          idinfohash=>"subjectnotes-test",
+                                          tweaks=>$tweaks, geo=>$geo);
+} else {
+  $subjectgraph = new OLBP::SubjectGraph(headingidhash=>"subjectids",
+                                         idinfohash=>"subjectnotes",
+                                         tweaks=>$tweaks, geo=>$geo);
+}
 
 readbooks;
 checkauthorxrefs;
@@ -950,6 +956,7 @@ if ($ARGV[0] eq "validate") {
   # Don't index; just check that 
   exit 0;
 }
+
 if ($ARGV[0] eq "justserials") {
   # we use this when we want to regenerate serials without rebuilding everything
   makeserialhashfile;

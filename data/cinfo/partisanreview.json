@@ -75,7 +75,7 @@
       {"issue-date": "1950-November-December", "volume": "17", "number": "8"}
    ],
    "comment": "Pick up issue renewals in the database",
-   "renewed-contribution-completeness": "active/1940",
+   "renewed-contribution-completeness": "active/1949",
    "renewed-contributions": [
      {"issue": {"issue-date": "1936-02"},
       "title": "Joe",
@@ -269,6 +269,13 @@
          "lcna": "n79054316"
         }
      },
+     {"issue": {"issue-date": "1941-July-August"},
+        "title": "The Man in the Brooks Brothers Shirt",
+        "author": {
+          "authorized": "McCarthy, Mary, 1912-1989",
+          "lcna": "n79060089"
+        }
+     },
      {"issue": {"issue-date": "1941-September-October"},
       "title": "The Facts of Life",
       "author": {
@@ -290,6 +297,13 @@
          "lcna": "n79047629"
         }
      },
+     {"issue": {"issue-date": "1941-November-December"},
+      "title": "Kulturbolschewismus is Here",
+      "author": {
+        "authorized": "Macdonald, Dwight",
+        "lcna": "n50037447"
+      }
+     },
      {"issue": {"issue-date": "1941-September-October"},
         "title": "Seascape",
         "author": {
@@ -304,19 +318,880 @@
          "lcna": "n79076730"
         }
      },
+     {"issue": {"issue-date": "1942-May-June"},
+      "title": "The Mexican General",
+      "author": {
+        "authorized": "Bellow, Saul",
+        "lcna": "n79078646"
+      }
+     },
+     {"issue": {"issue-date": "1942-May-June"},
+      "title": "The Sense of the Past",
+      "author": {
+       "authorized": "Trilling, Lionel, 1905-1975",
+       "lcna": "n79023110"
+      }
+     },
+     {"issue": {"issue-date": "1942-July-August"},
+        "title": "Haircut",
+        "author": {
+         "authorized": "Shapiro, Karl, 1913-2000",
+         "lcna": "n79021704"
+        }
+     },
+     {"issue": {"issue-date": "1942-July-August"},
+        "title": "In All Directions",
+        "author": {
+         "authorized": "Jarrell, Randall, 1914-1965",
+         "lcna": "n79076730"
+        }
+     },
+     {"issue": {"issue-date": "1942-November-December"},
+        "title": "Police Sergeant Malone and the Six Dead Drinkers",
+        "author": {
+         "authorized": "Gregory, Horace, 1898-1982",
+         "lcna": "n50031474"
+        }
+     },
+     {"issue": {"issue-date": "1942-November-December"},
+      "title": "The Eisenstein Tragedy",
+      "author": {
+        "authorized": "Macdonald, Dwight",
+        "lcna": "n50037447"
+      }
+     },
+     {"issue": {"issue-date": "1942-November-December"},
+      "title": "Ellen Terhune",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1943-January-February"}, 
+      "title": "Of This Time, Of That Place",
+      "author": {
+       "authorized": "Trilling, Lionel, 1905-1975",
+       "lcna": "n79023110"
+      }
+     },
+     {"issue": {"issue-date": "1943-January-February"}, 
+        "title": "The Skin of Our Teeth",
+        "author": {
+          "authorized": "McCarthy, Mary, 1912-1989",
+          "lcna": "n79060089"
+        }
+     },
+     {"issue": {"issue-date": "1943-March-April"},
+        "title": "The Russian Soul in Wartime",
+        "author": {
+          "authorized": "McCarthy, Mary, 1912-1989",
+          "lcna": "n79060089"
+        }
+     },
+     {"issue": {"issue-date": "1943-May-June"},
+        "title": "An Abstraction Blooded",
+        "author": {
+         "authorized": "Blackmur, R. P. (Richard P.), 1904-1965",
+         "lcna": "n80013420"
+        }
+     },
+     {"issue": {"issue-date": "1943-May-June"},
+        "title": "Broadway's Spring Offensive",
+        "author": {
+          "authorized": "McCarthy, Mary, 1912-1989",
+          "lcna": "n79060089"
+        }
+     },
+     {"issue": {"issue-date": "1943-July-August"},
+        "title": "The Synagogue",
+        "author": {
+         "authorized": "Shapiro, Karl, 1913-2000",
+         "lcna": "n79021704"
+        }
+     },
+     {"issue": {"issue-date": "1943-September-October"},
+        "title": "Canzone",
+        "author": {
+         "authorized": "Auden, W. H. (Wystan Hugh), 1907-1973",
+         "lcna": "n79054316"
+        }
+     },
+     {"issue": {"issue-date": "1944-Winter"},
+        "title": "Scherzo; The Boyg, Peer Gynt, the One Only One; The Soldier",
+        "author": {
+         "authorized": "Jarrell, Randall, 1914-1965",
+         "lcna": "n79076730"
+        }
+     },
+     {"issue": {"issue-date": "1944-Winter"},
+        "title": "The Intellectual",
+        "author": {
+         "authorized": "Shapiro, Karl, 1913-2000",
+         "lcna": "n79021704"
+        }
+     },
+     {"issue": {"issue-date": "1944-Winter"},
+      "title": "Mr. Joseph E. Davis as a Stylist",
+      "author": {
+         "authorized": "Wilson, Edmund, 1895-1972",
+         "lcna": "n79043459"
+      }
+     },
+     {"issue": {"issue-date": "1944-Winter"},
+        "title": "The Hand That Fed Me",
+        "author": {
+         "authorized": "Rosenfeld, Isaac, 1918-1956",
+         "lcna": "n87938119"
+        }
+     },
+     {"issue": {"issue-date": "1944-Spring"},
+        "title": "Wartime Omnibus: Winter in the Theater",
+        "author": {
+          "authorized": "McCarthy, Mary, 1912-1989",
+          "lcna": "n79060089"
+        }
+     },
+     {"issue": {"issue-date": "1944-Summer"}, 
+      "title": "St. Mallarme the Esoteric",
+      "author": {
+       "authorized": "Gide, André, 1869-1951",
+       "lcna": "n79043630"
+      },
+      "translator": {
+       "authorized": "Cowley, Malcolm, 1898-1989",
+       "lcna": "n79081720"
+      }
+     },
+     {"issue": {"issue-date": "1944-Summer"},
+        "title": "Boston Adventure",
+        "author": {
+         "authorized": "Stafford, Jean, 1915-1979",
+         "lcna": "n50053704"
+        }
+     },
+     {"issue": {"issue-date": "1944-Fall"},
+        "title": "Songs for a Colored Singer",
+        "author": {
+         "authorized": "Bishop, Elizabeth, 1911-1979",
+         "lcna": "n79047629"
+        }
+     },
+     {"issue": {"issue-date": "1944-Fall"},
+        "title": "Mother, Said the Child; Prisoners; The Metamorphoses",
+        "author": {
+         "authorized": "Jarrell, Randall, 1914-1965",
+         "lcna": "n79076730"
+        }
+     },
+     {"issue": {"issue-date": "1944-Fall"},
+        "title": "A Reunion",
+        "author": {
+         "authorized": "Stafford, Jean, 1915-1979",
+         "lcna": "n50053704"
+        }
+     },
+     {"issue": {"issue-date": "1945-Winter"},
+        "title": "Mr. Agee and The New Yorker",
+        "author": {
+         "name": "James Grossman"
+        }
+     },
+     {"issue": {"issue-date": "1945-Winter"},
+      "title": "Poetry in War and Peace and the Death of the Ball Turret Gunner",
+      "author": {
+       "authorized": "Jarrell, Randall, 1914-1965",
+       "lcna": "n79076730"
+      }
+     },
+     {"issue": {"issue-date": "1945-Winter"},
+      "title": "We Must Have Faith",
+      "author": {
+        "authorized": "McCarthy, Mary, 1912-1989",
+        "lcna": "n79060089"
+      }
+     },
+     {"issue": {"issue-date": "1945-Winter"},
+        "title": "The Colony",
+        "author": {
+         "authorized": "Rosenfeld, Isaac, 1918-1956",
+         "lcna": "n87938119"
+        }
+     },
+     {"issue": {"issue-date": "1945-Winter"},
+      "title": "A Note on Art and Neurosis",
+      "author": {
+       "authorized": "Trilling, Lionel, 1905-1975",
+       "lcna": "n79023110"
+      }
+     },
+     {"issue": {"issue-date": "1945-Spring"},
+        "title": "1914",
+        "author": {
+         "authorized": "Jarrell, Randall, 1914-1965",
+         "lcna": "n79076730"
+        }
+     },
+     {"issue": {"issue-date": "1945-Spring"},
+        "title": "The Home Front",
+        "author": {
+         "authorized": "Stafford, Jean, 1915-1979",
+         "lcna": "n50053704"
+        }
+     },
+     {"issue": {"issue-date": "1945-Spring"},
+        "title": "While Reading History",
+        "author": {
+         "authorized": "Marshall, Lenore, 1897-1971",
+         "lcna": "n82004368"
+        }
+     },
+     {"issue": {"issue-date": "1945-Summer"},
+        "title": "The Failure in Belief",
+        "author": {
+         "authorized": "Shapiro, Karl, 1913-2000",
+         "lcna": "n79021704"
+        }
+     },
+     {"issue": {"issue-date": "1945-Summer"},
+      "title": "The Scoutmaster",
+      "author": {
+       "authorized": "Taylor, Peter, 1917-1994",
+       "lcna": "n50008415"
+      }
+     },
+     {"issue": {"issue-date": "1945-Summer"},
+        "title": "The Dead in Melanesia",
+        "author": {
+         "authorized": "Jarrell, Randall, 1914-1965",
+         "lcna": "n79076730"
+        }
+     },
+     {"issue": {"issue-date": "1945-Fall"},
+        "title": "Freud to Paul: The Stages of Auden's Ideology",
+        "author": {
+         "authorized": "Jarrell, Randall, 1914-1965",
+         "lcna": "n79076730"
+        }
+     },
+     {"issue": {"issue-date": "1945-Fall"},
+      "title": "The Other Margaret",
+      "author": {
+       "authorized": "Trilling, Lionel, 1905-1975",
+       "lcna": "n79023110"
+      }
+     },
+     {"issue": {"issue-date": "1945-10"},
+       "title": "The High Sea",
+       "author": {
+        "authorized": "Porter, Katherine Anne, 1890-1980",
+       "lcna": "n79038436"
+      }
+     },
+     {"issue": {"issue-date": "1946-Winter"},
+        "title": "The Lines",
+        "author": {
+         "authorized": "Jarrell, Randall, 1914-1965",
+         "lcna": "n79076730"
+        }
+     },
+     {"issue": {"issue-date": "1946-Summer"},
+      "title": "The Song of the Demented Priest; The Song of the Young Hawaiian. Young Woman's Song",
+      "author": {
+         "authorized": "Berryman, John, 1914-1972",
+         "lcna": "n79142591"
+      }
+     },
+     {"issue": {"issue-date": "1946-Summer"},
+        "title": "The Dead",
+        "author": {
+         "authorized": "Jarrell, Randall, 1914-1965",
+         "lcna": "n79076730"
+        }
+     },
+     {"issue": {"issue-date": "1946-Summer"},
+        "title": "The Conscientious Objector",
+        "author": {
+         "authorized": "Shapiro, Karl, 1913-2000",
+         "lcna": "n79021704"
+        }
+     },
+     {"issue": {"issue-date": "1946-September-October"},
+        "title": "The Poet and His Public",
+        "author": {
+         "authorized": "Jarrell, Randall, 1914-1965",
+         "lcna": "n79076730"
+        }
+     },
+     {"issue": {"issue-date": "1946-November-December"},
+        "title": "Woofed with Dreams",
+        "author": {
+         "authorized": "Warshow, Robert, 1917-1955",
+         "lcna": "n2001025489"
+        }
+     },
+     {"issue": {"issue-date": "1946-November-December"},
+        "title": "Eugene O'Neill-Dry Ice",
+        "author": {
+          "authorized": "McCarthy, Mary, 1912-1989",
+          "lcna": "n79060089"
+        }
+     },
+     {"issue": {"issue-date": "1946-November-December"},
+        "title": "The Interior Castle",
+        "author": {
+         "authorized": "Stafford, Jean, 1915-1979",
+         "lcna": "n50053704"
+        }
+     },
+     {"issue": {"issue-date": "1947-January-February"},
+      "title": "Lowell, Thomas, etc.",
+      "author": {
+         "authorized": "Berryman, John, 1914-1972",
+         "lcna": "n79142591"
+      }
+     },
+     {"issue": {"issue-date": "1947-January-February"},
+        "title": "Argument",
+        "author": {
+         "authorized": "Bishop, Elizabeth, 1911-1979",
+         "lcna": "n79047629"
+        }
+     },
+     {"issue": {"issue-date": "1947-January-February"},
+        "title": "Opera, Opera!",
+        "author": {
+         "authorized": "Gregory, Horace, 1898-1982",
+         "lcna": "n50031474"
+        }
+     },
+     {"issue": {"issue-date": "1947-January-February"},
+        "title": "Melancholy to the End",
+        "author": {
+         "authorized": "Warshow, Robert, 1917-1955",
+         "lcna": "n2001025489"
+        }
+     },
+     {"issue": {"issue-date": "1947-January-February"},
+        "title": "Five Curios",
+        "author": {
+          "authorized": "McCarthy, Mary, 1912-1989",
+          "lcna": "n79060089"
+        }
+     },
+     {"issue": {"issue-date": "1947-March-April"},
+        "title": "The Brigadier",
+        "author": {
+         "authorized": "Rosenfeld, Isaac, 1918-1956",
+         "lcna": "n87938119"
+        }
+     },
+     {"issue": {"issue-date": "1947-March-April"},
+        "title": "George Kelly",
+        "author": {
+          "authorized": "McCarthy, Mary, 1912-1989",
+          "lcna": "n79060089"
+        }
+     },
+     {"issue": {"issue-date": "1947-May-June"},
+        "title": "The Anatomy of Falsehood",
+        "author": {
+         "authorized": "Warshow, Robert, 1917-1955",
+         "lcna": "n2001025489"
+        }
+     },
+     {"issue": {"issue-date": "1947-May-June"},
+        "title": "The Unimportance of Being Oscar",
+        "author": {
+          "authorized": "McCarthy, Mary, 1912-1989",
+          "lcna": "n79060089"
+        }
+     },
+     {"issue": {"issue-date": "1947-May-June"},
+        "title": "Jews at Haifa",
+        "author": {
+         "authorized": "Jarrell, Randall, 1914-1965",
+         "lcna": "n79076730"
+        }
+     },
+     {"issue": {"issue-date": "1947-July-August"},
+        "title": "Monsieur Verdoux",
+        "author": {
+         "authorized": "Warshow, Robert, 1917-1955",
+         "lcna": "n2001025489"
+        }
+     },
+     {"issue": {"issue-date": "1947-July-August"},
+        "title": "What a Piece of Work is Man!",
+        "author": {
+          "authorized": "McCarthy, Mary, 1912-1989",
+          "lcna": "n79060089"
+        }
+     },
+     {"issue": {"issue-date": "1947-September-October"},
+        "title": "The Shape of Fire",
+        "author": {
+         "authorized": "Roethke, Theodore, 1908-1963",
+         "lcna": "n79060436"
+        }
+     },
+     {"issue": {"issue-date": "1948-01"},
+        "title": "Money",
+        "author": {
+         "authorized": "Jarrell, Randall, 1914-1965",
+         "lcna": "n79076730"
+        }
+     },
+     {"issue": {"issue-date": "1948-01"},
+        "title": "Props and Property",
+        "author": {
+          "authorized": "McCarthy, Mary, 1912-1989",
+          "lcna": "n79060089"
+        }
+     },
+     {"issue": {"issue-date": "1948-02"},
+      "title": "Waiting for the End, Boys",
+      "author": {
+         "authorized": "Berryman, John, 1914-1972",
+         "lcna": "n79142591"
+      }
+     },
+     {"issue": {"issue-date": "1948-02"},
+        "title": "The Cicerone",
+        "author": {
+          "authorized": "McCarthy, Mary, 1912-1989",
+          "lcna": "n79060089"
+        }
+     },
+     {"issue": {"issue-date": "1948-02"},
+        "title": "The Gangster as Tragic Hero",
+        "author": {
+         "authorized": "Warshow, Robert, 1917-1955",
+         "lcna": "n2001025489"
+        }
+     },
+     {"issue": {"issue-date": "1948-03"},
+        "title": "Oh, Sweet Mystery of Life",
+        "author": {
+          "authorized": "McCarthy, Mary, 1912-1989",
+          "lcna": "n79060089"
+        }
+     },
+     {"issue": {"issue-date": "1948-03"},
+      "title": "Thousand of Words, All Good Ones",
+      "author": {
+       "authorized": "Mencken, H. L. (Henry Louis), 1880-1956",
+       "lcna": "n80036702"
+      }
+     },
+     {"issue": {"issue-date": "1948-04"},
+        "title": "Modest Proposals",
+        "author": {
+          "authorized": "McCarthy, Mary, 1912-1989",
+          "lcna": "n79060089"
+        }
+     },
+     {"issue": {"issue-date": "1948-04"},
+      "title": "Facts and Science (The Kinsey Report)",
+      "author": {
+       "authorized": "Trilling, Lionel, 1905-1975",
+       "lcna": "n79023110"
+      }
+     },
+     {"issue": {"issue-date": "1948-05"},
+        "title": "From an Italian Journal",
+        "author": {
+         "authorized": "Kazin, Alfred, 1915-1998",
+         "lcna": "n79038435"
+        }
+     },
+     {"issue": {"issue-date": "1948-06"},
+        "title": "Over 2,000 Illustrations and a Complete Concordance",
+        "author": {
+         "authorized": "Bishop, Elizabeth, 1911-1979",
+         "lcna": "n79047629"
+        }
+     },
+     {"issue": {"issue-date": "1948-06"},
+        "title": "Three Parables and a Dissertation",
+        "author": {
+         "authorized": "Rosenfeld, Isaac, 1918-1956",
+         "lcna": "n87938119"
+        }
+     },
+     {"issue": {"issue-date": "1948-07"},
+      "title": "The Origins of Totalitarianism",
+      "author": {
+        "authorized": "Arendt, Hannah, 1906-1975",
+        "lcna": "n50023617"
+      }
+     },
+     {"issue": {"issue-date": "1948-07"},
+        "title": "Paisan",
+        "author": {
+         "authorized": "Warshow, Robert, 1917-1955",
+         "lcna": "n2001025489"
+        }
+     },
+     {"issue": {"issue-date": "1948-07"},
+      "title": "T. S. Eliot: A Selected Critique",
+      "author": {
+         "authorized": "Berryman, John, 1914-1972",
+         "lcna": "n79142591"
+      }
+     },
+     {"issue": {"issue-date": "1948-08"},
+        "title": "The Beggar on the Beach",
+        "author": {
+         "authorized": "Gregory, Horace, 1898-1982",
+         "lcna": "n50031474"
+        }
+     },
+     {"issue": {"issue-date": "1948-08"},
+      "title": "The State of American Writing",
+      "author": {
+         "authorized": "Berryman, John, 1914-1972",
+         "lcna": "n79142591"
+      }
+     },
+     {"issue": {"issue-date": "1948-08"},
+      "title": "The Heart of the Matter",
+      "author": {
+         "authorized": "Hardwick, Elizabeth",
+         "lcna": "n79077178"
+      }
+     },
+     {"issue": {"issue-date": "1948-08"},
+      "title": "The State of American Writing (Symposium)",
+      "author": {
+       "authorized": "Mencken, H. L. (Henry Louis), 1880-1956",
+       "lcna": "n80036702"
+      }
+     },
+     {"issue": {"issue-date": "1948-09"},
+        "title": "The Bleeding Heart",
+        "author": {
+         "authorized": "Stafford, Jean, 1915-1979",
+         "lcna": "n50053704"
+        }
+     },
+     {"issue": {"issue-date": "1948-10"},
+      "title": "Intruder in the Dust",
+      "author": {
+         "authorized": "Hardwick, Elizabeth",
+         "lcna": "n79077178"
+      }
+     },
+     {"issue": {"issue-date": "1948-10"},
+      "title": "The High-Heeled Shoes: A Short Story",
+      "author": {
+         "authorized": "Yamamoto, Hisaye",
+         "lcna": "n88652170"
+      }
+     },
+     {"issue": {"issue-date": "1948-11"},
+        "title": "In George Sand's Garden",
+        "author": {
+         "authorized": "Gregory, Horace, 1898-1982",
+         "lcna": "n50031474"
+        }
+     },
+     {"issue": {"issue-date": "1948-11"},
+        "title": "Life of Literature",
+        "title-note": "part 1",
+        "author": {
+         "authorized": "Spender, Stephen, 1909-1995",
+         "lcna": "n79007025"
+        }
+     },
+     {"issue": {"issue-date": "1948-12"},
+        "title": "Day of Wrath: The Inclosed Image",
+        "author": {
+         "authorized": "Warshow, Robert, 1917-1955",
+         "lcna": "n2001025489"
+        }
+     },
+     {"issue": {"issue-date": "1948-12"},
+        "title": "Life of Literature",
+        "title-note": "part 2",
+        "author": {
+         "authorized": "Spender, Stephen, 1909-1995",
+         "lcna": "n79007025"
+        }
+     },
+     {"issue": {"issue-date": "1948-12"},
+      "title": "Art and Fortune",
+      "author": {
+       "authorized": "Trilling, Lionel, 1905-1975",
+       "lcna": "n79023110"
+      }
+     },
+     {"issue": {"issue-date": "1948-12"},
+      "title": "The Heart of the Afternoon",
+      "author": {
+       "authorized": "Clark, Eleanor, 1913-1996",
+       "lcna": "n50046902"
+      }
+     },
+     {"issue": {"issue-date": "1948-12"},
+      "title": "Fiction Chronicle",
+      "author": {
+         "authorized": "Hardwick, Elizabeth",
+         "lcna": "n79077178"
+      }
+     },
+     {"issue": {"issue-date": "1948-12"},
+      "title": "Pubio y Morena",
+      "author": {
+        "authorized": "Williams, Tennessee, 1911-1983",
+        "lcna": "n79090096"
+      }
+     },
+     {"issue": {"issue-date": "1949-01"},
+        "title": "Reflections on Gandhi",
+        "author": {
+         "authorized": "Orwell, George, 1903-1950",
+         "lcna": "n79058639"
+        }
+     },
+     {"issue": {"issue-date": "1949-01"},
+        "title": "Life of Literature",
+        "title-note": "installment 3",
+        "author": {
+         "authorized": "Spender, Stephen, 1909-1995",
+         "lcna": "n79007025"
+        }
+     },
      {"issue": {"issue-date": "1949-02"},
       "title": "The Heart of the Park",
       "author": {
        "authorized": "O'Connor, Flannery",
        "lcna": "n79119229"
       }
+     },
+     {"issue": {"issue-date": "1949-02"},
+        "title": "A Prince of Shreds and Patches",
+        "author": {
+          "authorized": "McCarthy, Mary, 1912-1989",
+          "lcna": "n79060089"
+        }
+     },
+     {"issue": {"issue-date": "1949-02"},
+        "title": "Life of Literature",
+        "title-note": "installment 5",
+        "author": {
+         "authorized": "Spender, Stephen, 1909-1995",
+         "lcna": "n79007025"
+        }
+     },
+     {"issue": {"issue-date": "1949-02"},
+        "title": "Tw, and Other Titles",
+        "author": {
+         "authorized": "Cummings, E. E. (Edward Estlin), 1894-1962",
+         "lcna": "n79038464"
+        }
+     },
+     {"issue": {"issue-date": "1949-04"},
+      "title": "The Poetry of Ezra Pound",
+      "author": {
+         "authorized": "Berryman, John, 1914-1972",
+         "lcna": "n79142591"
+      }
+     },
+     {"issue": {"issue-date": "1949-05"},
+        "title": "The Island",
+        "author": {
+         "authorized": "Jarrell, Randall, 1914-1965",
+         "lcna": "n79076730"
+        }
+     },
+     {"issue": {"issue-date": "1949-07"},
+      "title": "Bridge Into the Sea",
+      "author": {
+       "authorized": "Ghiselin, Brewster, 1903-2002",
+       "lcna": "n80057026"
+      }
+     },
+     {"issue": {"issue-date": "1949-07"},
+      "title": "Saint Paul, Home of the Saints",
+      "author": {
+       "authorized": "Powers, J. F. (James Farl), 1917-1999",
+       "lcna": "n79063855"
+      }
+     },
+     {"issue": {"issue-date": "1949-09"},
+        "title": "Four Poems",
+        "author": {
+         "authorized": "Bishop, Elizabeth, 1911-1979",
+         "lcna": "n79047629"
+        }
+     },
+     {"issue": {"issue-date": "1949-09"},
+        "title": "Oxford and Germany",
+        "author": {
+         "authorized": "Spender, Stephen, 1909-1995",
+         "lcna": "n79007025"
+        }
+     },
+     {"issue": {"issue-date": "1949-09"},
+        "title": "First Poem",
+        "author": {
+         "authorized": "Nabokov, Vladimir Vladimirovich, 1899-1977",
+         "lcna": "n81015312"
+        }
+     },
+     {"issue": {"issue-date": "1949-09"},
+        "title": "Going to School",
+        "author": {
+         "authorized": "Shapiro, Karl, 1913-2000",
+         "lcna": "n79021704"
+        }
+     },
+     {"issue": {"issue-date": "1949-10"},
+      "title": "The Causes of the Civil War",
+      "author": {
+         "authorized": "Schlesinger, Arthur M., Jr. (Arthur Meier), 1917-2007",
+         "lcna": "n50002711"
+      }
+     },
+     {"issue": {"issue-date": "1949-11"},
+      "title": "Seventeen Syllables: A Short Story",
+      "author": {
+         "authorized": "Yamamoto, Hisaye",
+         "lcna": "n88652170"
+      }
+     },
+     {"issue": {"issue-date": "1949-11"},
+      "title": "Elizabeth Bowen's Fiction: Book Review",
+      "author": {
+         "authorized": "Hardwick, Elizabeth",
+         "lcna": "n79077178"
+      }
+     },
+     {"issue": {"issue-date": "1949-11"},
+      "title": "From the Life of Augie March",
+      "author": {
+        "authorized": "Bellow, Saul",
+        "lcna": "n79078646"
+      }
+     },
+     {"issue": {"issue-date": "1949-11"},
+        "title": "Unfold! Unfold!",
+        "author": {
+         "authorized": "Roethke, Theodore, 1908-1963",
+         "lcna": "n79060436"
+        }
+     },
+     {"issue": {"issue-date": "1949-12"},
+      "title": "The Peeler",
+      "author": {
+       "authorized": "O'Connor, Flannery",
+       "lcna": "n79119229"
+      }
+     },
+     {"issue": {"issue-date": "1949-12"},
+      "title": "To a Friend Gone to Fight for the Kuomingtang",
+      "author": {
+       "authorized": "Nemerov, Howard, 1920-1991",
+       "lcna": "n78084908"
+      }
+     },
+     {"issue": {"issue-date": "1950-01"},
+      "title": "Fiction Chronicle",
+      "author": {
+         "authorized": "Hardwick, Elizabeth",
+         "lcna": "n79077178"
+      }
+     },
+     {"issue": {"issue-date": "1950-01"},
+        "title": "On Melville as Scripture",
+        "author": {
+         "authorized": "Kazin, Alfred, 1915-1998",
+         "lcna": "n79038435"
+        }
+     },
+     {"issue": {"issue-date": "1950-01"},
+        "title": "Fitzgerald in the Twenties",
+        "author": {
+         "authorized": "Mizener, Arthur",
+         "lcna": "n79064702"
+        }
+     },
+     {"issue": {"issue-date": "1950-02"},
+        "title": "Religion and the Intellectuals: Symposium",
+        "author": {
+         "authorized": "Graves, Robert, 1895-1985",
+         "lcna": "n79018421"
+        }
+     },
+     {"issue": {"issue-date": "1950-02"},
+        "title": "Poetry Unlimited",
+        "author": {
+         "authorized": "Jarrell, Randall, 1914-1965",
+         "lcna": "n79076730"
+        }
+     },
+     {"issue": {"issue-date": "1950-04"},
+      "title": "The Friendly Witness: Story",
+      "author": {
+         "authorized": "Hardwick, Elizabeth",
+         "lcna": "n79077178"
+      }
+     },
+     {"issue": {"issue-date": "1950-04"}, 
+      "title": "Men, Women and Sex",
+      "author": {
+       "authorized": "Trilling, Diana",
+       "lcna": "n50011794"
+      }
+     },
+     {"issue": {"issue-date": "1950-May-June"},
+      "title": "Two Prostitutes: Story",
+      "author": {
+         "authorized": "Moravia, Alberto, 1907-1990",
+         "lcna": "n79043907"
+      }
+     },
+     {"issue": {"issue-date": "1950-May-June"},
+      "title": "A Memorandum on the Hiss Case",
+      "author": {
+       "authorized": "Trilling, Diana",
+       "lcna": "n50011794"
+      }
+     },
+     {"issue": {"issue-date": "1950-May-June"},
+      "title": "Religion and the Intellectuals",
+      "author": {
+        "authorized": "Macdonald, Dwight",
+        "lcna": "n50037447"
+      }
+     },
+     {"issue": {"issue-date": "1950-September-October"},
+        "title": "The First Seven Years",
+        "author": {
+         "authorized": "Malamud, Bernard",
+         "lcna": "n79046272"
+        }
+     },
+     {"issue": {"issue-date": "1950-September-October"},
+        "title": "The Profession of Poetry",
+        "author": {
+         "authorized": "Jarrell, Randall, 1914-1965",
+         "lcna": "n79076730"
+        }
+     },
+     {"issue": {"issue-date": "1950-November-December"},
+        "title": "The Unwilling Guest: An Urban Dialogue",
+        "author": {
+         "authorized": "Gregory, Horace, 1898-1982",
+         "lcna": "n50031474"
+        }
      }
    ],
-   "comment": "Pick up contributions with 1969 Jan-Jun",
-   "additional-note": "This publication absorbed The Anvil in 1936.  Some issues that year were titled 'Partian Review and Anvil' or 'Partisan Review-Anvil'.",
+   "comment": "Pick up contributions in the database",
+   "additional-note": "This publication absorbed The Anvil in 1936.  Some issues that year were titled 'Partisan Review and Anvil' or 'Partisan Review-Anvil'.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2023-08-24"
+   "last-updated": "2026-09-18"
 }

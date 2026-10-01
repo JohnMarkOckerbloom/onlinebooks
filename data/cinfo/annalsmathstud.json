@@ -1,14 +1,22 @@
 {
    "title": "Annals of Mathematics Studies",
    "aka": ["Annals of Mathematical Studies"],
-   "first-renewed-issue": {"volume": "2", "cdate": "1940-09-15"},
+   "contents": [
+      {"url": "https://press.princeton.edu/series/annals-of-mathematics-studies",
+      "note": "Publisher site (might not list all older volumes)"},
+      {"url": "https://en.wikipedia.org/wiki/Annals_of_Mathematics_Studies",
+      "note": "Wikipedia (might not list newest volumes)"}
+   ],
+
+   "first-renewed-issue": {"volume": "1", "cdate": "1940-05-25"},
    "first-renewed-issue-source": "1968-JulDec",
    "first-renewed-contribution": "none",
    "first-renewed-contribution-source": "cce+database",
-   "additional-note": "The first active copyright renewal, for volume 2, was filed under Books, not under Periodicals.  Before deciding whether a volume of this monographic series is in the public domain, check for a renewal as a book under its distinctive title.",
+   "see-also": [{"id": "annalsmath", "note": "Annals of Mathematics"}],
+   "additional-note": "The CCE renewal record for the first actively copyright volume does not mention this series.  The renewal record for the second volume does. Most volume renewals were filed under Books, not under Periodicals.  Before deciding whether a volume of this monographic series is in the public domain, check for a renewal as a book under its distinctive title.",
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2020-08-15"
+   "last-updated": "2026-09-03"
 }

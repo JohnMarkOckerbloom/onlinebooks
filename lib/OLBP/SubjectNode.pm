@@ -26,7 +26,7 @@ sub expand {
       my ($attr, $val) = ($1, $2);
       if ($attr =~ /^(SN|UF|BT|RT|NT)$/) {
         push @{$self->{$attr}}, $val;
-      } elsif ($attr =~ /^(AK|XM)$/) {
+      } elsif ($attr =~ /^(AK|XM|LC)$/) {
         $self->{$attr} = $val;
       }
     }
@@ -66,6 +66,13 @@ sub author_key {
 sub first_example {
   my ($self, %params) = @_;
   return $self->{XM};
+}
+
+# returns something if there's a different LCSH equivalent; otherwise undef
+
+sub lc_equivalent {
+  my ($self, %params) = @_;
+  return $self->{LC};
 }
 
 # this returns a list of possible shorter term that have fewer facets, if any

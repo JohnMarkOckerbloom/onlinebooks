@@ -262,8 +262,11 @@ sub do_copyright_query {
 
 sub do_default_queries {
   my ($querier) = @_;
+  print "Doing a copyright query\n";
   do_copyright_query($querier);
+  print "Doing an ISSN query\n";
   do_issn_query($querier);
+  print "Doing an article query\n";
   do_article_query($querier);
 }
 

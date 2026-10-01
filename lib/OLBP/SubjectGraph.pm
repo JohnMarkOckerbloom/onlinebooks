@@ -80,6 +80,8 @@ sub add_edge {
   my $node1 = $params{node1};
   my $node2 = $params{node2};
 
+  return 0 if (!$node1 || !$node2);
+  
   my $tuple = [$node1, $node2, $type, $subtype, $note];
   if ($self->{outbound}->{$node1}) {
     foreach my $tupleref (@{$self->{outbound}->{$node1}}) {
@@ -448,6 +450,10 @@ sub _output_string {
       $str .= "UF $val\n";
     }
   }
+  my $val = $node->lc_equivalent();
+  if ($val) {
+      $str .= "LC $val\n";
+  }
   # do BT and RT
   if ($self->{outbound}->{$node}) {
     my @tuplist = ();
@@ -624,6 +630,9 @@ sub add_person_to_broader_categories {
     $marked = {};
     my @nodes = $self->_broader_nodes($node);
     foreach my $pnode (@nodes) {
+      if (!$pnode) {
+          die "Something's wrong (marked branch) with the notes for $key";
+      }
       $self->add_person_to_broader_categories(heading=>$pnode->get_name(),
                                               orig=>$node, marked=>$marked);
     }
@@ -638,6 +647,9 @@ sub add_person_to_broader_categories {
                          type=>"BT", subtype=>$ASSOCIATED);
       my @nodes = $self->_broader_nodes($node);
       foreach my $pnode (@nodes) {
+        if (!$pnode) {
+          die("Something's wrong (unmarked branch) with the notes for $key (" . $orig->get_name() . "- count " . scalar(@nodes));
+        }
         $self->add_person_to_broader_categories(heading=>$pnode->get_name(),
                                                 orig=>$orig, marked=>$marked);
       }

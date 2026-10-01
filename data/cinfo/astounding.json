@@ -333,7 +333,7 @@
       {"issue-date": "1960-08", "volume": "65", "number": "6"},
       {"issue-date": "1960-09", "volume": "66", "number": "1"}
    ],
-   "renewed-contribution-completeness": "active/1940",
+   "renewed-contribution-completeness": "active/1941",
    "renewed-contributions": [
       {"issue": {"issue-date": "1934-03", "volume": "13", "number": "1"}, 
        "title": "Born of the Sun",
@@ -1113,6 +1113,13 @@
        }
       },
       {"issue": {"issue-date": "1941-07", "volume": "27", "number": "5"}, 
+       "title": "The Seesaw",
+        "author": {
+          "authorized": "Van Vogt, A. E. (Alfred Elton), 1912-2000",
+          "lcna": "n79123985"
+        }
+      },
+      {"issue": {"issue-date": "1941-07", "volume": "27", "number": "5"}, 
        "title": "We Also Walk Dogs",
        "author": {
           "authorized": "Heinlein, Robert A. (Robert Anson), 1907-1988",
@@ -1140,6 +1147,14 @@
           "authorized": "Asimov, Isaac, 1920-1992",
           "lcna": "n80126289"
         }
+      },
+      {"issue": {"issue-date": "1941-09", "volume": "28", "number": "1"}, 
+       "title": "The Sea King's Armored Division",
+       "title-note": "part 1 of 2",
+       "author": {
+         "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+         "lcna": "n80057222"
+       }
       },
       {"issue": {"issue-date": "1941-09", "volume": "28", "number": "1"}, 
        "title": "Elsewhere",
@@ -1173,14 +1188,173 @@
         }
       },
       {"issue": {"issue-date": "1941-10", "volume": "28", "number": "2"}, 
+       "title": "The Sea King's Armored Division",
+       "title-note": "part 2 of 2",
+       "author": {
+         "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+         "lcna": "n80057222"
+       }
+      },
+      {"issue": {"issue-date": "1941-10", "volume": "28", "number": "2"}, 
        "title": "Common Sense",
        "author": {
           "authorized": "Heinlein, Robert A. (Robert Anson), 1907-1988",
           "lcna": "n79067868"
        }
-      }
+      },
+      {"issue": {"issue-date": "1942-01", "volume": "28", "number": "5"}, 
+       "title": "Breakdown",
+        "author": {
+         "authorized": "Williamson, Jack, 1908-2006",
+         "lcna": "n79027136"
+       }
+      },
+      {"issue": {"issue-date": "1942-01", "volume": "28", "number": "5"}, 
+       "title": "The Long-Tailed Huns",
+       "title-note": "part 1 of 2",
+       "author": {
+         "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+         "lcna": "n80057222"
+       }
+      },
+      {"issue": {"issue-date": "1942-02", "volume": "28", "number": "6"}, 
+       "title": "There Shall Be Darkness",
+       "author": {
+        "authorized": "Moore, C. L. (Catherine Lucile), 1911-1987",
+        "lcna": "n50028286"
+       }
+      },
+      {"issue": {"issue-date": "1942-02", "volume": "28", "number": "6"}, 
+       "title": "The Long-Tailed Huns",
+       "title-note": "part 2 of 2",
+       "author": {
+         "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+         "lcna": "n80057222"
+       }
+      },
+      {"issue": {"issue-date": "1942-03", "volume": "29", "number": "1"}, 
+       "title": "Recruiting Station",
+        "author": {
+          "authorized": "Van Vogt, A. E. (Alfred Elton), 1912-2000",
+          "lcna": "n79123985"
+        }
+      },
+      {"issue": {"issue-date": "1942-03", "volume": "29", "number": "1"}, 
+       "title": "Goldfish Bowl",
+       "author": {
+          "authorized": "Heinlein, Robert A. (Robert Anson), 1907-1988",
+          "using": "Anson Macdonald",
+          "lcna": "n79067868"
+       }
+      },
+      {"issue": {"issue-date": "1942-03", "volume": "29", "number": "1"}, 
+       "title": "Runaround",
+        "author": {
+          "authorized": "Asimov, Isaac, 1920-1992",
+          "lcna": "n80126289"
+        }
+      },
+      {"issue": {"issue-date": "1942-04", "volume": "29", "number": "2"}, 
+       "title": "Beyond This Horizon",
+       "title-note": "part 1 of 2",
+       "author": {
+          "authorized": "Heinlein, Robert A. (Robert Anson), 1907-1988",
+          "lcna": "n79067868"
+       }
+      },
+      {"issue": {"issue-date": "1942-04", "volume": "29", "number": "2"}, 
+       "title": "Some Curious Effects of Time Travel",
+       "author": {
+         "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+         "lcna": "n80057222"
+       }
+      },
+      {"issue": {"issue-date": "1942-05", "volume": "29", "number": "3"}, 
+       "title": "Foundation",
+        "author": {
+          "authorized": "Asimov, Isaac, 1920-1992",
+          "lcna": "n80126289"
+        }
+      },
+      {"issue": {"issue-date": "1942-05", "volume": "29", "number": "3"}, 
+       "title": "Beyond This Horizon",
+       "title-note": "part 2 of 2",
+       "author": {
+          "authorized": "Heinlein, Robert A. (Robert Anson), 1907-1988",
+          "lcna": "n79067868"
+       }
+      },
+      {"issue": {"issue-date": "1942-06", "volume": "29", "number": "4"}, 
+       "title": "Bridle and Saddle",
+        "author": {
+          "authorized": "Asimov, Isaac, 1920-1992",
+          "lcna": "n80126289"
+        }
+      },
+      {"issue": {"issue-date": "1942-07", "volume": "29", "number": "5"}, 
+       "title": "The Contraband Cow",
+       "author": {
+         "authorized": "De Camp, L. Sprague (Lyon Sprague), 1907-2000",
+         "lcna": "n80057222"
+       }
+      },
+      {"issue": {"issue-date": "1942-07", "volume": "29", "number": "5"}, 
+       "title": "Collision Orbit",
+        "author": {
+         "authorized": "Williamson, Jack, 1908-2006",
+         "using": "Will Stewart",
+         "lcna": "n79027136"
+       }
+      },
+      {"issue": {"issue-date": "1942-08", "volume": "29", "number": "6"}, 
+       "title": "Waldo",
+       "author": {
+          "authorized": "Heinlein, Robert A. (Robert Anson), 1907-1988",
+          "using": "Anson Macdonald",
+          "lcna": "n79067868"
+       }
+      },
+      {"issue": {"issue-date": "1942-08", "volume": "29", "number": "6"}, 
+       "title": "Deadlock",
+       "note": "Author cited in the renewal record is Henry Kuttner. The pseudonym use is noted in FictionMags.",
+       "author": {
+         "authorized": "Padgett, Lewis",
+         "lcna": "n84026029"
+       }
+     },
+      {"issue": {"issue-date": "1942-08", "volume": "29", "number": "6"}, 
+       "title": "Jackdaw",
+       "author": {
+          "authorized": "Rocklynne, Ross, 1913-1988",
+          "lcna": "n88278070"
+       }
+      },
+     {"issue": {"issue-date": "1942-09", "volume": "30", "number": "1"},
+       "title": "The Twonky",
+       "note": "Author cited in the renewal record is Henry Kuttner, writing under a pseudonym.",
+       "author": {
+         "authorized": "Padgett, Lewis",
+         "lcna": "n84026029"
+       }
+     },
+      {"issue": {"issue-date": "1942-11", "volume": "30", "number": "3"}, 
+       "title": "Minus Sign",
+        "author": {
+         "authorized": "Williamson, Jack, 1908-2006",
+         "using": "Will Stewart",
+         "lcna": "n79027136"
+       }
+      },
+     {"issue": {"issue-date": "1949-02", "volume": "42", "number": "6"},
+       "title": "The Prisoner in the Skull",
+       "note": "Author cited in the renewal record is Henry Kuttner, writing under a pseudonym.",
+       "author": {
+         "authorized": "Padgett, Lewis",
+         "lcna": "n84026029"
+       }
+     }
    ],
-   "comment": "Resume contribution renewal search with 1969 Jan-Jun",
+   "comment": "Resume contribution renewal search with 1970 Jan-Jun",
    "additional-notes": [
       "Contribution renewals are recorded beginning in the 1961 July-December CCE volume, but the earliest renewed contribution is noted in the 1962 January-June volume.",
       "The word 'Analog' starts appearing along 'Astounding' in the cover title in early 1960.  The September 1960 issue is the last with 'Astounding' on the cover."
@@ -1189,5 +1363,5 @@
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2024-06-03"
+   "last-updated": "2026-09-18"
 }
