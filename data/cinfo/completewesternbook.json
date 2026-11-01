@@ -1,6 +1,7 @@
 {
    "title": "Complete Western Book Magazine",
    "aka": ["Western Supernovel Magazine"],
+   "online": "1",
    "contents": [
       {"url": "http://www.philsp.com/homeville/WFI/link.asp?magid=WSTSU",
        "note": "FictionMags Index"}
@@ -15,10 +16,135 @@
       "issue": {"issue-date": "1938-07", "volume": "11", "number": "1"}
    },
    "first-renewed-contribution-source": "1966-JulDec",
-   "additional-note": "A note in the 1970 CCE Periodicals volume says to 'consult copyright office' for full issue renewal information.  The first cataloged renewal, mentioned in the July-December 1977 CCE Periodicals volume, is for the May 1942 issue.",
+   "last-issue":
+       {"issue-date": "1957-06", "volume": "21", "number": "5"},
+   "renewed-issue-completeness": "active/end",
+   "renewed-issues": [
+       {"issue-date": "1942-05", "volume": "14", "number": "3"}, 
+       {"issue-date": "1942-08", "volume": "14", "number": "4"}, 
+       {"issue-date": "1942-10", "volume": "14", "number": "5"}, 
+       {"issue-date": "1942-12", "volume": "14", "number": "6"}, 
+       {"issue-date": "1943-03", "volume": "15", "number": "1"}, 
+       {"issue-date": "1943-05", "volume": "15", "number": "2"}, 
+       {"issue-date": "1943-07", "volume": "15", "number": "3"}, 
+       {"issue-date": "1943-10", "volume": "15", "number": "4"}, 
+       {"issue-date": "1944-01", "volume": "15", "number": "5"}, 
+       {"issue-date": "1944-03", "volume": "15", "number": "6"}, 
+       {"issue-date": "1944-07", "volume": "15", "number": "7"}, 
+       {"issue-date": "1944-10", "volume": "15", "number": "8"}, 
+       {"issue-date": "1945-01", "volume": "15", "number": "9"}, 
+       {"issue-date": "1945-05", "volume": "15", "number": "10"}, 
+       {"issue-date": "1945-11", "volume": "16", "number": "1"}, 
+       {"issue-date": "1946-11", "volume": "16", "number": "3"}, 
+       {"issue-date": "1947-05", "volume": "16", "number": "4"}, 
+       {"issue-date": "1947-08", "volume": "16", "number": "5"}, 
+       {"issue-date": "1947-10", "volume": "16", "number": "6"}, 
+       {"issue-date": "1947-12", "volume": "16", "number": "7"}, 
+       {"issue-date": "1948-03", "volume": "16", "number": "8"}, 
+       {"issue-date": "1948-05", "volume": "16", "number": "9"}, 
+       {"issue-date": "1948-07", "volume": "16", "number": "10"}, 
+       {"issue-date": "1948-11", "volume": "17", "number": "1"}, 
+       {"issue-date": "1949-02", "volume": "17", "number": "2"}, 
+       {"issue-date": "1949-04", "volume": "17", "number": "3"}, 
+       {"issue-date": "1949-06", "volume": "17", "number": "4"}, 
+       {"issue-date": "1949-08", "volume": "17", "number": "5"}, 
+       {"issue-date": "1949-10", "volume": "17", "number": "6",
+        "note": "Issue number as given in renewal record, which notes that this issue was called number 5."}, 
+       {"issue-date": "1949-12", "volume": "17", "number": "7", 
+        "note": "Issue number as given in renewal record, which notes that this issue was called number 6."}, 
+       {"issue-date": "1950-02", "volume": "17", "number": "8", 
+        "note": "Issue number as given in renewal record, which notes that this issue was called number 7."}, 
+       {"issue-date": "1950-04", "volume": "17", "number": "9", 
+        "note": "Issue number as given in renewal record, which notes that this issue was called number 8."}, 
+       {"issue-date": "1950-08", "volume": "17", "number": "10", 
+        "note": "Issue number as given in renewal record, which notes that this issue was called number 9."},
+       {"issue-date": "1951-02", "volume": "18", "number": "2"}, 
+       {"issue-date": "1951-05", "volume": "18", "number": "3"}, 
+       {"issue-date": "1951-08", "volume": "18", "number": "4"}, 
+       {"issue-date": "1951-11", "volume": "18", "number": "5"}, 
+       {"issue-date": "1952-02", "volume": "18", "number": "6"}, 
+       {"issue-date": "1952-05", "volume": "18", "number": "7"}, 
+       {"issue-date": "1952-08", "volume": "18", "number": "8"}, 
+       {"issue-date": "1952-10", "volume": "18", "number": "9"}, 
+       {"issue-date": "1952-12", "volume": "18", "number": "10"}, 
+       {"issue-date": "1953-02", "volume": "18", "number": "11"}, 
+       {"issue-date": "1953-04", "volume": "18", "number": "12"}, 
+       {"issue-date": "1953-07", "volume": "19", "number": "1"}, 
+       {"issue-date": "1953-10", "volume": "19", "number": "2"}, 
+       {"issue-date": "1954-01", "volume": "19", "number": "3"}, 
+       {"issue-date": "1954-03", "volume": "19", "number": "4"}, 
+       {"issue-date": "1954-06", "volume": "19", "number": "5"}, 
+       {"issue-date": "1954-09", "volume": "19", "number": "6"}, 
+       {"issue-date": "1954-12", "volume": "20", "number": "1"}, 
+       {"issue-date": "1955-03", "volume": "20", "number": "2"}, 
+       {"issue-date": "1955-06", "volume": "20", "number": "3"}, 
+       {"issue-date": "1955-09", "volume": "20", "number": "4"}, 
+       {"issue-date": "1956-03", "volume": "20", "number": "6"}, 
+       {"issue-date": "1956-06", "volume": "21", "number": "1"}, 
+       {"issue-date": "1956-09", "volume": "21", "number": "2"}, 
+       {"issue-date": "1956-12", "volume": "21", "number": "3"}, 
+       {"issue-date": "1957-03", "volume": "21", "number": "4"}, 
+       {"issue-date": "1957-06", "volume": "21", "number": "5"} 
+   ],
+   "renewed-contribution-completeness": "active/end",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1938-09", "volume": "11", "number": "1"}, 
+      "title": "Tin-Badge-Law Redemption",
+      "author": {
+       "authorized": "Fox, Norman A., 1911-1960",
+       "lcna": "n88205144"
+      }
+     },
+     {"issue": {"issue-date": "1951-08", "volume": "18", "number": "4"}, 
+      "title": "Bad Man on His Back Trail",
+      "author": {
+       "authorized": "Newton, D. B. (Dwight Bennett), 1916-2013",
+       "lcna": "no92000398"
+      }
+     },
+     {"issue": {"issue-date": "1953-02", "volume": "18", "number": "11"},
+      "title": "The Winning of Poker Alice",
+      "author": {
+        "authorized": "Jakes, John, 1932-2023",
+        "lcna": "n80035843"
+      }
+     },
+     {"issue": {"issue-date": "1953-04", "volume": "18", "number": "12"},
+      "title": "Powder, Patch and Ball... Fire!",
+      "author": {
+        "authorized": "Prescott, John, 1919-1999",
+        "lcna": "o91003248"
+      }
+     },
+     {"issue": {"issue-date": "1953-04", "volume": "19", "number": "1"},
+      "title": "The Hard One They All Hated",
+      "author": {
+        "authorized": "Prescott, John, 1919-1999",
+        "lcna": "no91003248"
+      }
+     },
+     {"issue": {"issue-date": "1957-03", "volume": "21", "number": "4"},
+      "title": "Knife in the Back",
+      "author": {
+        "authorized": "Frazee, Steve, 1909-1992",
+        "lcna": "n83164407"
+      }
+     },
+     {"issue": {"issue-date": "1957-03", "volume": "21", "number": "4"},
+      "title": "Wherever the Outlaw Led",
+      "author": {
+        "name": "Richard Harper"
+      }
+     }
+   ],
+   "additional-notes": [
+     "A note in the 1970 CCE Periodicals volume says to 'consult copyright office' for full issue renewal information.  The first cataloged renewal, mentioned in the July-December 1977 CCE Periodicals volume, is for the May 1942 issue.",
+     "This magazine sometimes reprinted stories originally published elsewhere.  We have not checked the copyright status of those stories.  (The only renewed contributions noted here are ones where the renewal record specifically mentions this magazine.)",
+     "A 1982 renewal for the book 'Renegade River' by Ray Townsend notes that it was originally published in 1953 in this magazine under the title 'Idaho Queen'. A 1982 renewal may be too late to cover that publication, though all 1953 issues we are aware of have renewals of their own."
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2017-12-14"
+   "last-updated": "2026-10-19"
 }

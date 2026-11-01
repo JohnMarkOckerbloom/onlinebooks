@@ -20,6 +20,7 @@ $climit    = $pdlimit + 1;
 %codes = 
 ("au" => "Australia",
  "bg" => "Bulgaria",
+ "br" => "Brazil",
  "ca" => "Canada",
  "de" => "Germany",
  "es" => "Spain",

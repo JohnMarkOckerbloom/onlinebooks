@@ -88,7 +88,7 @@ my @columns =
 sub readtsvfile {
   my ($filename) = @_;
   my @results;
-  open my $fh, "<:encoding(utf8)", $filename or die "filename: $!";
+  open my $fh, "<:encoding(utf8)", $filename or return ();
   my $line = <$fh>;
   chop $line;
   my @fields = split (/\t/, $line);
@@ -133,13 +133,15 @@ sub file_contents {
 sub print_table {
   my ($arg, $dir) = @_;
   #my $path = "$dir/$arg.csv";
+  return 0 if (!$arg);
   my $path = "$dir/$arg.tsv";
   my $name = file_contents("$dir/name") || "Table";
   my $description = file_contents("$dir/description");
   my $status = file_contents("$dir/status") ||
      "Table generation information not available.";
-  open my $fh, "<:encoding(utf8)", $path or return 0;
+  # open my $fh, "<:encoding(utf8)", $path or return 0;
   my @results = readtsvfile($path);
+  return 0 if (!scalar(@results));
   print "<h1>$name</h1>\n";
   if ($description) {
     print "<p>$description</p>\n";

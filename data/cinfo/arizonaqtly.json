@@ -1,15 +1,161 @@
 {
    "title": "Arizona Quarterly",
+   "online": "1",
    "first-issue": {"issue-date": "1945-Spring", "volume": "1", "number": "1"},
    "first-renewed-issue": 
      {"issue-date": "1945-Summer", "volume": "1", "number": "2"},
    "first-renewed-issue-source": "1973",
+   "first-autorenewed-issue": 
+     {"issue-date": "1964-Spring", "volume": "20", "number": "1"},
    "first-renewed-contribution":
      {"issue": {"issue-date": "1945-Spring", "volume": "1", "number": "1"}},
    "first-renewed-contribution-source": "1972-JanJun",
+   "renewed-issue-completeness": "active/autorenewals",
+   "renewed-issues": [
+     {"issue-date": "1945-Summer", "volume": "1", "number": "2"},
+     {"issue-date": "1945-Autumn", "volume": "1", "number": "3"},
+     {"issue-date": "1945-Winter", "volume": "1", "number": "4"},
+     {"issue-date": "1946-Spring", "volume": "2", "number": "1"},
+     {"issue-date": "1946-Summer", "volume": "2", "number": "2"},
+     {"issue-date": "1946-Autumn", "volume": "2", "number": "3"},
+     {"issue-date": "1946-Winter", "volume": "2", "number": "4"},
+     {"issue-date": "1947-Spring", "volume": "3", "number": "1"},
+     {"issue-date": "1947-Summer", "volume": "3", "number": "2"},
+     {"issue-date": "1947-Autumn", "volume": "3", "number": "3"},
+     {"issue-date": "1947-Winter", "volume": "3", "number": "4"},
+     {"issue-date": "1948-Spring", "volume": "4", "number": "1"},
+     {"issue-date": "1948-Summer", "volume": "4", "number": "2"},
+     {"issue-date": "1948-Autumn", "volume": "4", "number": "3"},
+     {"issue-date": "1948-Winter", "volume": "4", "number": "4"},
+     {"issue-date": "1949-Spring", "volume": "5", "number": "1"},
+     {"issue-date": "1949-Summer", "volume": "5", "number": "2"},
+     {"issue-date": "1949-Autumn", "volume": "5", "number": "3"},
+     {"issue-date": "1949-Winter", "volume": "5", "number": "4"},
+     {"issue-date": "1950-Spring", "volume": "6", "number": "1"},
+     {"issue-date": "1950-Summer", "volume": "6", "number": "2"},
+     {"issue-date": "1950-Autumn", "volume": "6", "number": "3"},
+     {"issue-date": "1950-Winter", "volume": "6", "number": "4"},
+     {"issue-date": "1951-Spring", "volume": "7", "number": "1"},
+     {"issue-date": "1951-Summer", "volume": "7", "number": "2"},
+     {"issue-date": "1951-Autumn", "volume": "7", "number": "3"},
+     {"issue-date": "1951-Winter", "volume": "7", "number": "4"},
+     {"issue-date": "1952-Spring", "volume": "8", "number": "1"},
+     {"issue-date": "1952-Summer", "volume": "8", "number": "2"},
+     {"issue-date": "1952-Autumn", "volume": "8", "number": "3"},
+     {"issue-date": "1952-Winter", "volume": "8", "number": "4"},
+     {"issue-date": "1953-Spring", "volume": "9", "number": "1"},
+     {"issue-date": "1953-Summer", "volume": "9", "number": "2"},
+     {"issue-date": "1953-Autumn", "volume": "9", "number": "3"},
+     {"issue-date": "1953-Winter", "volume": "9", "number": "4"},
+     {"issue-date": "1954-Spring", "volume": "10", "number": "1",
+      "note": "Renewal record labels calls this issue volume 13 number 1, but logically it should be in volume 10."},
+     {"issue-date": "1954-Summer", "volume": "10", "number": "2"},
+     {"issue-date": "1954-Autumn", "volume": "10", "number": "3"},
+     {"issue-date": "1954-Winter", "volume": "10", "number": "4"},
+     {"issue-date": "1955-Spring", "volume": "11", "number": "1"},
+     {"issue-date": "1955-Summer", "volume": "11", "number": "2"},
+     {"issue-date": "1955-Autumn", "volume": "11", "number": "3"},
+     {"issue-date": "1955-Winter", "volume": "11", "number": "4"},
+     {"issue-date": "1956-Spring", "volume": "12", "number": "1"},
+     {"issue-date": "1956-Summer", "volume": "12", "number": "2"},
+     {"issue-date": "1956-Autumn", "volume": "12", "number": "3"},
+     {"issue-date": "1956-Winter", "volume": "12", "number": "4"},
+     {"issue-date": "1957-Spring", "volume": "13", "number": "1"},
+     {"issue-date": "1957-Summer", "volume": "13", "number": "2"},
+     {"issue-date": "1957-Autumn", "volume": "13", "number": "3"},
+     {"issue-date": "1957-Winter", "volume": "13", "number": "4"},
+     {"issue-date": "1960-Spring", "volume": "16", "number": "1"},
+     {"issue-date": "1960-Summer", "volume": "16", "number": "2"},
+     {"issue-date": "1960-Autumn", "volume": "16", "number": "3"},
+     {"issue-date": "1960-Winter", "volume": "16", "number": "4"},
+     {"issue-date": "1961-Spring", "volume": "17", "number": "1"},
+     {"issue-date": "1961-Summer", "volume": "17", "number": "2"},
+     {"issue-date": "1961-Autumn", "volume": "17", "number": "3"},
+     {"issue-date": "1961-Winter", "volume": "17", "number": "4"},
+     {"issue-date": "1962-Spring", "volume": "18", "number": "1"},
+     {"issue-date": "1962-Summer", "volume": "18", "number": "2"},
+     {"issue-date": "1962-Autumn", "volume": "18", "number": "3"},
+     {"issue-date": "1962-Winter", "volume": "18", "number": "4"},
+     {"issue-date": "1963-Spring", "volume": "19", "number": "1"},
+     {"issue-date": "1963-Summer", "volume": "19", "number": "2"},
+     {"issue-date": "1963-Autumn", "volume": "19", "number": "3"},
+     {"issue-date": "1963-Winter", "volume": "19", "number": "4"}
+   ],
+   "renewed-contribution-completeness": "active/autorenewals",
+   "renewed-contributions": [
+     {"issue": {"issue-date": "1945-Spring", "volume": "1", "number": "1"},
+        "title": "The Miller. An Indian Market in Mexico",
+        "author": {
+         "authorized": "Jarrell, Randall, 1914-1965",
+         "lcna": "n79076730"
+        }
+     },
+     {"issue": {"issue-date": "1945-Spring", "volume": "1", "number": "1"},
+      "title": "In Unjust, Cyclonic Series",
+      "author": {
+        "authorized": "Taggard, Genevieve, 1894-1948",
+        "lcna": "n80080301"
+      }
+     },
+     {"issue": {"issue-date": "1951-Winter", "volume": "7", "number": "4"},
+      "title": "Interlude for Christmas, a Song of the Osage",
+      "author": {
+        "authorized": "Weathers, Winston",
+        "lcna": "n50020691"
+      }
+     },
+     {"issue": {"issue-date": "1955-Summer", "volume": "11", "number": "2"},
+      "title": "Consider the Lilies",
+      "author": {
+        "name": "Robin White"
+      }
+     },
+     {"issue": {"issue-date": "1955-Winter", "volume": "11", "number": "4"},
+      "title": "There Are So Many People",
+      "author": {
+        "authorized": "Tagliabue, John, 1923-2006",
+        "lcna": "n83122402"
+      }
+     },
+     {"issue": {"issue-date": "1957-Spring", "volume": "13", "number": "1"},
+      "title": "The Greenhouse in the Garden",
+      "author": {
+         "authorized": "Williams, William Carlos, 1883-1963",
+         "lcna": "n79060075"
+      }
+     },
+     {"issue": {"issue-date": "1958-Autumn", "volume": "14", "number": "3"},
+      "title": "County Gather-All Day: Short Story",
+      "author": {
+         "authorized": "Stuart, Jesse, 1906-1984",
+         "lcna": "n79018157"
+      }
+     },
+     {"issue": {"issue-date": "1961-Winter", "volume": "17", "number": "4"},
+      "title": "Las Vegas Charley: A Short Story",
+      "author": {
+         "authorized": "Yamamoto, Hisaye",
+         "lcna": "n88652170"
+      }
+     },
+     {"issue": {"issue-date": "1962-Winter", "volume": "18", "number": "4"},
+      "title": "The Good Finder",
+      "author": {
+         "authorized": "Stuart, Jesse, 1906-1984",
+         "lcna": "n79018157"
+      }
+     },
+     {"issue": {"issue-date": "1963-Winter", "volume": "19", "number": "4"},
+      "title": "Why It's No Go: A Study of William Golding's Lord of the Flies",
+      "author": {
+         "authorized": "Baker, James R.",
+         "lcna": "n90669828"
+      }
+     }
+   ],
    "responsibility": {
       "authorized": "Mark Ockerbloom, John, 1966-",
       "contact": "ockerblo@pobox.upenn.edu"
    },
-   "last-updated": "2018-03-08"
+   "last-updated": "2026-10-02"
 }
